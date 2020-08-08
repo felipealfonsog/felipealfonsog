@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display: flex;">
+ 
+  <img src="https://pbs.twimg.com/media/Ed_2frBXgAAXsFr?format=jpg&name=small" alt="Jake the Dog" width="100" />
+ 
+</div>
