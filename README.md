@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on EventJS...
 - 🤔 I’m looking for help with Theatherflix...
 - 💬 Ask me about ... Js NodeJS Python and Technology in general as well as software engineering as a whole.
-- 📫 How to reach me: ... @felipealfonsog on Twitter
+- 📫 How to reach me: ... <a href="https://twitter.com/felipealfonsog" target="_blank">@felipealfonsog</a> on Twitter
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ... Sucking at something is the first step to becoming sorta good at something - Jake the dog.
 
