@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on using the React wrapper around the vizceral graph. ...
 - 🤔 I’m looking for help with Theatherflix...
 - 💬 Ask me about ... Js NodeJS Python and technology in general as well as software engineering as a whole.
-- 📫 How to reach me: ... <a href="https://twitter.com/felipealfonsog" target="_blank">@felipealfonsog</a> on Twitter
+- 📫 How to reach me: ... <a href="https://twitter.com/felipealfonsog" target="_blank">@felipealfonsog</a> on Twitter or, Mail <a href="mailto:f.alfonso@res-ear.ch">f.alfonso@res-ear.ch</a>.
 - ⚡ Fun fact: ... Sucking at something is the first step to becoming sorta good at something - Jake the dog.
 <!-- - 😄 Pronouns: ... -->
 
