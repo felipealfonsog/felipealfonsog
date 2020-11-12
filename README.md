@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
  
-  <img src="https://media-exp1.licdn.com/dms/image/C4E12AQGrlQUWRmbvpA/article-inline_image-shrink_1000_1488/0?e=1602115200&v=beta&t=GZoA04i8nTWHWMdVCCZ9vGXuAsCDV-qPTDTznsefjrw" alt="Jake the Dog" width="500" />
+  <img src="https://pbs.twimg.com/profile_images/1446356883/adventure-time-with-finn-and-jake-john-dimaggio-2_400x400.jpg" alt="Jake the Dog" width="500" />
  
 </div>
