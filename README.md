@@ -5,10 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Google X - Google-X-TMSF ...
-- 🌱 I’m currently learning Python and always improving with JS ...
-- 👯 I’m looking to collaborate on using the React wrapper around the vizceral graph. ...
-- 💬 Ask me about ... technology in general as well as software engineering as a whole.
+- 💬 Ask me about ... technology in general, research as well as engineering as a whole.
 - 📫 How to reach me: ... <a href="https://twitter.com/felipealfonsog" target="_blank">@felipealfonsog</a> on Twitter.
 - ⚡ Fun fact: ... 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog.
 <!-- - 😄 Pronouns: ... -->
