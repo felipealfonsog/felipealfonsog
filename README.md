@@ -10,8 +10,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog.
 <!-- - 😄 Pronouns: ... -->
 
-<div style="display: flex;">
- 
-  <img src="https://pbs.twimg.com/profile_images/1446356883/adventure-time-with-finn-and-jake-john-dimaggio-2_400x400.jpg" alt="Jake the Dog" width="200" />
- 
-</div>
+
