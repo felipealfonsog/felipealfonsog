@@ -24,9 +24,12 @@ Here are some ideas to get you started:
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![GitHub latest commit](https://badgen.net/github/last-commit/felipealfonsog/Strapdown.js)](https://GitHub.com/felipealfonsog/StrapDown.js/commit/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/felipealfonsog/StrapDown.js.svg)](https://GitHub.com/felipealfonsog/StrapDown.js/pull/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/felipealfonsog/StrapDown.js/commit/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/felipealfonsog/StrapDown.js/pull/)
 [![GitHub followers](https://img.shields.io/github/followers/felipealfonsog.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felipealfonsog?tab=followers)
 
 
 [![Felipe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&theme=white-black)](https://github.com/felipealfonsog/)
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/felipealfonsog/badges)
+
