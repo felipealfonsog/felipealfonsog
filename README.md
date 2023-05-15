@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felipealfonsog?tab=followers)
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&theme=blue-green)](https://github.com/felipealfonsog/github-readme-stats)
+[![Felipe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&theme=white-black)](https://github.com/felipealfonsog/github-readme-stats)
