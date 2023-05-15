@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 
 
 [![Felipe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&theme=white-black)](https://github.com/felipealfonsog/)
-
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/felipealfonsog/badges)
-
