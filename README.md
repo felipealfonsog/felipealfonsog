@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/felipealfonsog/StrapDown.js/commit/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/felipealfonsog/Strapdown.js)](https://GitHub.com/felipealfonsog/StrapDown.js/commit/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/felipealfonsog/StrapDown.js/pull/)
 [![GitHub followers](https://img.shields.io/github/followers/felipealfonsog.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felipealfonsog?tab=followers)
 
