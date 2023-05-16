@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 💬 Ask me about ... Unix/Linux flavours-like systms! I love Linux/Unix-based systems 🐧 and Mac(UNIX/BSD-based - yes!) ! ... science and technology, almost anything in general... no doubt about also: entrepreneurship, managment, teaching, papers & research, as well as computer science engineering as a whole.
+- 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot 🐧 and Mac, which is UNIX/BSD-based and deserves a special mention with the  symbol! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like!.
 - 📫 How to reach me: ... <a href="https://twitter.com/felipealfonsog" target="_blank">@felipealfonsog</a> on Twitter.
 - ⚡ Fun fact, is that actually I believe that in science and technology, and almost anything we would want to master or achieve... This phrase it's true! And check it out who said it! 😄: ... 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog.
 - 💼 Always sharing updates on <a href="https://linkedin.com/in/felipealfonsog" target="_blank">Linkedin</a> and check out my project <a href="https://github.com/NymexData" target="_blank">Nymex</a>, Data Research on Github too ⚡ !
