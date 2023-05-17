@@ -11,17 +11,17 @@ Here are some ideas to get you started:
 - 💼 Always sharing updates on <a href="https://linkedin.com/in/felipealfonsog" target="_blank">Linkedin</a> and check out my project <a href="https://github.com/NymexData" target="_blank">Nymex</a>, Data Research on Github too ⚡ !
 <!-- - 😄 Pronouns: ... -->
 
-![Version 1.0.0](https://img.shields.io/badge/version-v1.0.0-blue)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+![Version 1.0.0](https://img.shields.io/badge/version-v1.0.0-blue)
 
 [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
 [![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
