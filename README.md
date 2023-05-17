@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
-[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
@@ -32,6 +30,7 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
 [![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
 
 
