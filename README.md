@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/felipealfonsog/StrapDown.js/pull/)
 [![GitHub followers](https://img.shields.io/github/followers/felipealfonsog.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felipealfonsog?tab=followers)
 
+If you like my content or find any of my code useful, give it a :star: or support me by buying me a coffee :coffee::grinning:
+
+<a href="https://www.buymeacoffee.com/felipealfonsog" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
@@ -40,11 +44,5 @@ If you have any questions, comments, or concerns, feel free to contact me below.
     <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
-
-
-If you like my content or find any of my code useful, give it a :star: or support me by buying me a coffee :coffee::grinning:
-
-<a href="https://www.buymeacoffee.com/felipealfonsog" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 
 [![Felipe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&theme=white-black)](https://github.com/felipealfonsog/)
