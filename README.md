@@ -33,4 +33,12 @@ Here are some ideas to get you started:
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/felipealfonsog/StrapDown.js/pull/)
 [![GitHub followers](https://img.shields.io/github/followers/felipealfonsog.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felipealfonsog?tab=followers)
 
+If you have any questions, comments, or concerns, feel free to contact me below.
+
+<p align="left">
+  <a href="mailto:felipe.alfonso.glz@gmail.com"> 
+    <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
 [![Felipe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&theme=white-black)](https://github.com/felipealfonsog/)
