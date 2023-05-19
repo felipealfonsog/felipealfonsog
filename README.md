@@ -46,11 +46,3 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 </p>
 
 [![Felipe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&theme=white-black)](https://github.com/felipealfonsog/)
-
-
-[![Felipe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&&theme=white-black&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
