@@ -46,6 +46,6 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 </p>
 
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&theme=transparent)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&theme=transparent) (https://github.com/felipealfonsog/)
 
 [![Felipe's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&theme=white-black&layout=donut&langs_count=10)](https://github.com/felipealfonsog/)
