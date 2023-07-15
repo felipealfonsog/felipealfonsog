@@ -49,7 +49,6 @@ If you need to contact me, share private or critical data, or send a secure encr
 Here is my PGP public key for secure communication:
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 xsDNBGQqmHQBDADCWPBUU9cAZJk882YFAfUzzY4BPDch6NK8D5xILWMcfVNfYdxuwbnGw2T2Za+V
 QHLzfRuoJOLYhE42qypPQBcrwF8A0zCED1j7oD3ERQ9Ebr/gcU0rqmeCuUSGGAo0WwXB8by2pVCs
 ZqD/x94KF0fLnnFsKBovxbXThtE6EWTtPFFBqGp17YHYqQsG0V006hyIKZdNXMMKRIF8LRpHS7fO
@@ -89,8 +88,6 @@ bq97XTNgtn4db87ruJYX2MGbjlKfXJ8Bf/LotkYkaTyTE7bwcGvSfi4uMLnVK5iRn9LVAk4+Hyww
 xkucRo1AAttFwPN5jSMyIagMVZDFULQ4hW99Zth/n7NGoPkRYsetYqicqSvyowpGztjrDpS5OLK4
 xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 =P7j6
-
 -----END PGP PUBLIC KEY BLOCK-----
-
 
 </details>
