@@ -9,10 +9,6 @@ Here are some details about me:
 - ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog holds true! You can check it out for yourself 😄. 🐶
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/Nymex), Data Research on GitHub too ⚡! 😊
 
-If you like my content or find any of my code useful, give it a ⭐️ or support me by buying me a coffee ☕️😄
-
-<a href="https://www.buymeacoffee.com/felipealfonsog" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-
 #### Most Used Languages | Commit and Pull Request Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
@@ -26,6 +22,10 @@ If you like my content or find any of my code useful, give it a ⭐️ or suppor
 [![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=flat-square&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://lbesson.mit-license.org/)
 [![GPL License](https://img.shields.io/badge/License-GPL-blue?style=flat-square)](http://perso.crans.org/besson/LICENSE.html)
+
+If you like my content or find any of my code useful, give it a ⭐️ or support me by buying me a coffee ☕️😄
+
+<a href="https://www.buymeacoffee.com/felipealfonsog" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
 
 #### How to Reach Me
 
