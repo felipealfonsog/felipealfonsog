@@ -18,7 +18,7 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 
 #### Most Used Languages | Commit and Pull Request Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&custom_title=Top%20Languages&theme=graywhite&hide_border=true&bg_color=00000000&card_width=250&hide=HTML&custom_icon_color=FF6F00&custom_rank_color=FFB74D&custom_title_color=FF6F00)](https://github.com/felipealfonsog) | [![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=graywhite)](https://github.com/felipealfonsog)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=donut&langs_count=10&hide_title=true&custom_title=Top%20Languages&theme=graywhite&hide_border=true&bg_color=00000000&card_width=250&hide=HTML&custom_icon_color=FF6F00&custom_rank_color=FFB74D&custom_title_color=FF6F00)](https://github.com/felipealfonsog) | [![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=graywhite)](https://github.com/felipealfonsog)
 
 #### Badges
 
@@ -26,8 +26,7 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 [![macOS](https://img.shields.io/badge/macOS-OS-blue?style=flat-square&logo=apple)](https://svgshare.com/i/ZjP.svg)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes!-blue?style=flat-square&logo=github)](https://github.com/Naereen/badges/)
 [![Vim](https://img.shields.io/badge/Vim-Editor-019733?style=flat-square&logo=vim)](https://www.vim.org/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual%20studio%20code)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/)
+[![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=flat-square&logo=gnu%20emacs)](https://www.gnu.org/software/emacs/)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://lbesson.mit-license.org/)
 [![GPL License](https://img.shields.io/badge/License-GPL-blue?style=flat-square)](http://perso.crans.org/besson/LICENSE.html)
 
