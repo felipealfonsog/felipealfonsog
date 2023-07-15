@@ -18,6 +18,7 @@ Here are some details about me:
 [![Linux](https://img.shields.io/badge/Linux-OS-blue?style=flat-square&logo=linux&logoColor=white)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://img.shields.io/badge/macOS-OS-blue?style=flat-square&logo=apple&logoColor=white)](https://svgshare.com/i/ZjP.svg)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-OS-blue?style=flat-square&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+[![GNU](https://img.shields.io/badge/GNU-Tools-blue?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/)
 [![Vim](https://img.shields.io/badge/Vim-Editor-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=flat-square&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
