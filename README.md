@@ -50,10 +50,6 @@ Here is my PGP public key for secure communication:
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-Version: 1.0.0.1
-Comment: //
-Charset: UTF-8
-
 xsDNBGQqmHQBDADCWPBUU9cAZJk882YFAfUzzY4BPDch6NK8D5xILWMcfVNfYdxuwbnGw2T2Za+V
 QHLzfRuoJOLYhE42qypPQBcrwF8A0zCED1j7oD3ERQ9Ebr/gcU0rqmeCuUSGGAo0WwXB8by2pVCs
 ZqD/x94KF0fLnnFsKBovxbXThtE6EWTtPFFBqGp17YHYqQsG0V006hyIKZdNXMMKRIF8LRpHS7fO
