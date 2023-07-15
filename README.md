@@ -6,7 +6,7 @@ Here are some details about me:
 
 - 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot 🐧 and Mac, which is UNIX/BSD-based and deserves a special mention with the  symbol! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄
 - 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in biology. It's an exciting journey to explore the intersection of data science and life sciences! 🌐🧬
-- 📫 How to reach me: You can connect with me on [![Twitter](https://img.shields.io/badge/Twitter-%40felipealfonsog-blue?style=flat-square&logo=twitter)](https://twitter.com/felipealfonsog) or via [![Gmail](https://img.shields.io/badge/Gmail-felipe.alfonso.glz%40gmail.com-red?style=flat-square&logo=gmail)](mailto:felipe.alfonso.glz@gmail.com). 😊
+- 📫 How to reach me: You can connect with me on [Twitter](https://twitter.com/felipealfonsog). 😊
 - ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog holds true! You can check it out for yourself 😄. 🐶
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/Nymex), Data Research on GitHub too ⚡! 😊
 
@@ -14,7 +14,7 @@ If you like my content or find any of my code useful, give it a ⭐️ or suppor
 
 <a href="https://www.buymeacoffee.com/felipealfonsog" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="27" width="114"></a>
 
-If you have any questions, comments, or concerns, feel free to [contact me via email](mailto:felipe.alfonso.glz@gmail.com) or [Twitter](https://twitter.com/felipealfonsog) below. 😊
+If you have any questions, comments, or concerns, feel free to contact me on [Twitter](https://twitter.com/felipealfonsog). 😊
 
 #### Most Used Languages | Commit and Pull Request Stats
 
