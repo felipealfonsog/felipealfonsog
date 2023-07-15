@@ -18,7 +18,7 @@ If you have any questions, comments, or concerns, feel free to contact me on [Tw
 
 #### Most Used Languages | Commit and Pull Request Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite)](https://github.com/felipealfonsog) | [![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=graywhite)](https://github.com/felipealfonsog)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite)](https://github.com/felipealfonsog) | ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 
 #### Badges
 
