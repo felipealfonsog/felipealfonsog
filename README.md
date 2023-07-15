@@ -23,9 +23,11 @@ Here are some details about me:
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://lbesson.mit-license.org/)
 [![GPL License](https://img.shields.io/badge/License-GPL-blue?style=flat-square)](http://perso.crans.org/besson/LICENSE.html)
 
-If you like my content or find any of my code useful, give it a ⭐️ or support me by buying me a coffee ☕️😄
+If you find my content or any of my code useful, you can support me through various means:
 
-<a href="https://www.buymeacoffee.com/felipealfonsog" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/felipealfonsog)
+[![Support me on PayPal](https://img.shields.io/badge/Support%20me%20on-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.me/felipealfonsog)
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on-GitHub-%23EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/felipealfonsog)
 
 #### How to Reach Me
 
