@@ -22,13 +22,9 @@ If you have any questions, comments, or concerns, feel free to contact me below.
   </a>
 </p>
 
-#### Commit and Pull Request Stats:
+#### Commit and Pull Request Stats     |     Most Used Languages
 
-[![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=graywhite)](https://github.com/felipealfonsog)
-
-#### Most Used Languages:
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&card_width=400&custom_title=Top%20Languages&theme=graywhite&hide_border=true&bg_color=00000000)](https://github.com/felipealfonsog)
+| [![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=graywhite)](https://github.com/felipealfonsog) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&custom_title=Top%20Languages&theme=graywhite&hide_border=true&bg_color=00000000&card_width=250&hide=HTML)](https://github.com/felipealfonsog) |
 
 #### Badges:
 
