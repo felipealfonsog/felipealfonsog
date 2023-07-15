@@ -31,5 +31,5 @@ If you find my content or any of my code useful, you can support me through vari
 
 #### How to Reach Me
 
-You can connect with me on [Twitter](https://twitter.com/felipealfonsog).
+You can connect with me on ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)(https://twitter.com/felipealfonsog).
 
