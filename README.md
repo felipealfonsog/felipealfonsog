@@ -22,7 +22,7 @@ Here are some details about me:
 [![Vim](https://img.shields.io/badge/Vim-Editor-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=flat-square&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-VCS-orange?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-VCS-orange?style=flat-square&logo=git&logoColor=white)](https://github.com/felipealfonsog)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-OS-blue?style=flat-square&logo=arch%20linux&logoColor=white)](https://www.archlinux.org/)
 [![Engineering](https://img.shields.io/badge/Engineering-%F0%9F%92%BC-black?style=flat-square)](https://en.wikipedia.org/wiki/Software_engineering)
 
