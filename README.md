@@ -24,8 +24,8 @@ Here are some details about me:
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-VCS-orange?style=flat-square&logo=git&logoColor=white)](https://github.com/felipealfonsog)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-OS-blue?style=flat-square&logo=arch%20linux&logoColor=white)](https://www.archlinux.org/)
-[![Free Software](https://img.shields.io/badge/Free%20Software-Advocate-blue?style=flat-square&logo=gnu&logoColor=white)](https://www.fsf.org/)
-[![GPG](https://img.shields.io/badge/GPG-Key-blue?style=flat-square&logo=gnu%20privacy%20guard&logoColor=white)](https://gnupg.org/)
+[![Free Software](https://img.shields.io/badge/Free%20Software-%E2%9C%93-green?style=flat-square)](https://www.fsf.org/)
+[![GPG](https://img.shields.io/badge/GPG-%E2%9C%93-orange?style=flat-square&logo=gnuprivacyguard&logoColor=white)](https://gnupg.org/)
 
 If you find my content or any of my code useful, you can support me through various means:
 
