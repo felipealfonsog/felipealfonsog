@@ -9,35 +9,21 @@ Here are some details about me:
 - ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog holds true! You can check it out for yourself 😄. 🐶
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/Nymex), Data Research on GitHub too ⚡! 😊
 
-#### Most Used Languages
+#### Most Used Languages | Commit and Pull Request Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 
-#### Commit and Pull Request Stats
-
-![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
-
-#### OS & Editors
-
-##### OS
+#### Badges
 
 [![Linux](https://img.shields.io/badge/Linux-OS-blue?style=flat-square&logo=linux&logoColor=white)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://img.shields.io/badge/macOS-OS-blue?style=flat-square&logo=apple&logoColor=white)](https://svgshare.com/i/ZjP.svg)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-OS-blue?style=flat-square&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 [![GNU](https://img.shields.io/badge/GNU-Tools-blue?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/)
-
-##### Editors
-
 [![Vim](https://img.shields.io/badge/Vim-Editor-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=flat-square&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-
-#### Licenses
-
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://lbesson.mit-license.org/)
 [![GPL License](https://img.shields.io/badge/License-GPL-blue?style=flat-square)](http://perso.crans.org/besson/LICENSE.html)
-
-#### Support
 
 If you find my content or any of my code useful, you can support me through various means:
 
