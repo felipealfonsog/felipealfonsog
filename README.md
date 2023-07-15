@@ -24,7 +24,7 @@ Here are some details about me:
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-VCS-orange?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-OS-blue?style=flat-square&logo=arch%20linux&logoColor=white)](https://www.archlinux.org/)
-[![Engineering](https://img.shields.io/badge/Engineering-%F0%9F%92%BC-black?style=flat-square)](https://en.wikipedia.org/wiki/Engineering)
+[![Engineering](https://img.shields.io/badge/Engineering-%F0%9F%92%BC-black?style=flat-square)](https://en.wikipedia.org/wiki/Software_engineering)
 
 If you find my content or any of my code useful, you can support me through various means:
 
