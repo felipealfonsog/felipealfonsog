@@ -40,7 +40,7 @@ You can connect with me on [Twitter](https://twitter.com/felipealfonsog) or via 
 
 #### PGP Public Key
 
-If you need to contact me, share private or critical data, or to send a message in a secure encrypted way, please use the following Public Key for encryption using PGP. You can use the tool of the MIT: [pgp.mit.edu](https://pgp.mit.edu/). (Use this email as a recipient: felipe.alfonso.glz@gmail.com):
+If you need to contact me, share private or critical data, or send a secure encrypted message, please use the following Public Key for encryption using PGP. You can utilize the MIT tool [pgp.mit.edu](https://pgp.mit.edu/) for encryption. (Use this email as the recipient: felipe.alfonso.glz@gmail.com)
 
 <details>
 <summary>🔒 PGP Public Key</summary>
