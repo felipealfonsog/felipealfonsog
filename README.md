@@ -28,21 +28,21 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 
 #### Most Used Languages:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&card_width=400&custom_title=Top%20Languages)](https://github.com/felipealfonsog)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&card_width=400&custom_title=Top%20Languages&theme=graywhite&hide_border=true&bg_color=00000000)](https://github.com/felipealfonsog)
 
 #### Badges:
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[![Node.js](https://img.shields.io/badge/--339933?logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![Linux](https://img.shields.io/badge/Linux-OS-blue?logo=linux&style=for-the-badge)](https://svgshare.com/i/Zhy.svg)
+[![macOS](https://img.shields.io/badge/macOS-OS-blue?logo=apple&style=for-the-badge)](https://svgshare.com/i/ZjP.svg)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes!-blue?logo=github&style=for-the-badge)](https://github.com/Naereen/badges/)
+[![Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg?style=for-the-badge)](https://www.javascript.com)
+[![Vim](https://img.shields.io/badge/Vim-Editor-019733?logo=vim&style=for-the-badge)](https://www.vim.org/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visual%20studio%20code&logoColor=ffffff&style=for-the-badge)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=ffffff&style=for-the-badge)](https://nodejs.org/)
+[![Npm](https://img.shields.io/badge/npm-Package%20Manager-red?logo=npm&style=for-the-badge)](https://https://npmjs.com/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://lbesson.mit-license.org/)
+[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg?style=for-the-badge)](http://perso.crans.org/besson/LICENSE.html)
 
