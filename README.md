@@ -22,6 +22,7 @@ Here are some details about me:
 [![Vim](https://img.shields.io/badge/Vim-Editor-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=flat-square&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Free Software](https://img.shields.io/badge/Free%20Software-Advocate-blue?style=flat-square)](https://www.gnu.org/philosophy/free-sw.html)
 
 If you find my content or any of my code useful, you can support me through various means:
 
