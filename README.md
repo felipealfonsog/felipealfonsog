@@ -38,6 +38,10 @@ If you find my content or any of my code useful, you can support me through vari
 
 You can connect with me on [Twitter](https://twitter.com/felipealfonsog) or via email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
 
+#### PGP Public Key
+
+If you need to contact me, share private or critical data, or to send a message in a secure encrypted way, please use the following Public Key for encryption using PGP. You can use the tool of the MIT: [pgp.mit.edu](https://pgp.mit.edu/). (Use this email as a recipient: felipe.alfonso.glz@gmail.com):
+
 <details>
 <summary>🔒 PGP Public Key</summary>
 <br>
