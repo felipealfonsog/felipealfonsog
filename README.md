@@ -15,8 +15,8 @@ Here are some details about me:
 
 #### Badges
 
-[![Linux](https://img.shields.io/badge/Linux-OS-blue?style=flat-square&logo=linux&logoColor=white)](https://svgshare.com/i/Zhy.svg)
-[![macOS](https://img.shields.io/badge/macOS-OS-blue?style=flat-square&logo=apple&logoColor=white)](https://svgshare.com/i/ZjP.svg)
+[![Linux](https://img.shields.io/badge/Linux-OS-blue?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![macOS](https://img.shields.io/badge/macOS-OS-blue?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-OS-blue?style=flat-square&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 [![GNU](https://img.shields.io/badge/GNU-Tools-blue?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/)
 [![Vim](https://img.shields.io/badge/Vim-Editor-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
