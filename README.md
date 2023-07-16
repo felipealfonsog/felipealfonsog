@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a computer science engineer from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), currently pursuing a Master's degree in Big Data and Bi. 😊
+I'm a computer science engineer from <a href="https://en.wikipedia.org/wiki/Santiago" target="_blank">Santiago</a>, <a href="https://en.wikipedia.org/wiki/Chile" target="_blank">Chile</a>, currently pursuing a Master's degree in Big Data and Bi. 😊
 
 Here are some details about me:
 
