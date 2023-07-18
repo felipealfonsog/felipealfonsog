@@ -17,6 +17,7 @@ If you are interested in starting a business, consulting, research, or collabora
 </details>
 
 
+
 In brief, let me provide you with some additional details about myself:
 
 - 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot 🐧 and Mac, which is UNIX/BSD-based and deserves a special mention with the  symbol! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄
