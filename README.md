@@ -1,8 +1,10 @@
 ### Hi there! 👋
 
-I'm a computer science engineer from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile)
+I'm a computer science engineer from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), with a strong interest in data-related fields. Currently, I am pursuing a Master's degree in Big Data & Business Intelligence.
 <details>
-<summary>, with a strong interest in data-related fields. Currently, I am pursuing a Master's degree in Big Data & Business Intelligence. As a researcher,</summary> my focus is on BD-BI/AI-ML/CISA & SaaS. Over the years, I have gained extensive experience in technology, starting back in the mid-80s when connecting to the internet required a phone cable and compiling the Kernel using UNIX and/or GNU/Linux was necessary to visit 'Altavista.com.'
+<summary>Read more about my profile here ...</summary> 
+  <br>
+As a researcher, my focus is on BD-BI/AI-ML/CISA & SaaS. Over the years, I have gained extensive experience in technology, starting back in the mid-80s when connecting to the internet required a phone cable and compiling the Kernel using UNIX and/or GNU/Linux was necessary to visit 'Altavista.com.'
 
 I have had the privilege of living in various countries, including New Delhi, India; Auckland and Christchurch in New Zealand; California, USA; and Cape Town in South Africa. These experiences have not only broadened my horizons but have also provided me with fluency in English, Afrikaans, and my mother tongue, Spanish.
 
