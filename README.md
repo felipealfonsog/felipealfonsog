@@ -51,7 +51,7 @@ If you find my content or any of my code useful, you can support me through vari
 
 #### How to Reach Me
 
-You can connect with me on [Twitter](https://twitter.com/felipealfonsog) or via email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
+My personal website is [www.glzengrg.com](https://www.glzengrg.com/), you can read much more about me there. Also, you can connect with me on [Twitter](https://twitter.com/felipealfonsog) or via email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
 
 #### PGP Public Key
 
