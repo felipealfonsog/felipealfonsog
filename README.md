@@ -13,6 +13,7 @@ With more than 23 years of experience in the field, I am constantly studying and
 Throughout my career, I have held positions as Head of Engineering and Researcher in advanced algorithms, as well as engineering development roles in AI and Machine Learning in significant organizations across the USA, Europe, and South America. Currently, I am the Group - CEO/Founder and Head of Research and Software Engineering at Nymex, Data Research. Our team consists of highly skilled software engineers, developers, and technology experts from different regions of the world, including freelancers and junior professionals. Together, we collaborate on cutting-edge technology to offer consulting and services globally. Our headquarters are based in Santiago, Santiago Metropolitan, Chile.
 
 If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me on Linkedin or Twitter. You can also contact me via my Gmail account: felipe.alfonso.glz[@]gmail.com. If you happen to be in Santiago, I would be delighted to meet over a cup of coffee. Just let me know in advance, as I might be occupied with exciting projects. Thank you!
+<br>
 </details>
 
 
