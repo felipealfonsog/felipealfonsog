@@ -43,6 +43,10 @@ If you are interested in starting a business, consulting, research, or collabora
 [![Free Software](https://img.shields.io/badge/Free%20Software-Advocate-blue?style=flat-square&logo=gnu&logoColor=white)](https://www.fsf.org/)
 [![GPG](https://img.shields.io/badge/GPG-Key-blue?style=flat-square&logo=gnu%20privacy%20guard&logoColor=white)](https://gnupg.org/)
 
+#### Tech. Stack 
+
+<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="55" height="55">
+
 If you find my content or any of my code useful, you can support me through various means:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/felipealfonsog)
