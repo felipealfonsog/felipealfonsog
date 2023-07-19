@@ -45,7 +45,7 @@ If you are interested in starting a business, consulting, research, or collabora
 
 #### Tech. Stack 
 
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="55" height="55">
+<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="44" height="44">
 
 If you find my content or any of my code useful, you can support me through various means:
 
