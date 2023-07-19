@@ -45,7 +45,7 @@ If you are interested in starting a business, consulting, research, or collabora
 
 #### Tech. Stack 
 
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logoColor=white" alt="JavaScript" width="33" height="33">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="33" height="33">
 
 ### Support
 
