@@ -44,6 +44,10 @@ If you are interested in starting a business, consulting, research, or collabora
 [![Debian](https://img.shields.io/badge/Debian-OS-blue?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Free Software](https://img.shields.io/badge/Free%20Software-Advocate-blue?style=flat-square&logo=gnu&logoColor=white)](https://www.fsf.org/)
 [![GPG](https://img.shields.io/badge/GPG-Key-blue?style=flat-square&logo=gnu%20privacy%20guard&logoColor=white)](https://gnupg.org/)
+![Big Data](https://img.shields.io/badge/Big%20Data-%F0%9F%93%8D-blue) 
+![Data Science](https://img.shields.io/badge/Data%20Science-%F0%9F%92%BB-green) 
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blueviolet)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-%F0%9F%92%BC-orange) 
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
