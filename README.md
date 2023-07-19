@@ -45,7 +45,16 @@ If you are interested in starting a business, consulting, research, or collabora
 
 #### Tech. Stack 
 
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="44" height="44">
+JavaScript: <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" width="33" height="33">
+Python: <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" width="33" height="33">
+Node.js: <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" width="33" height="33">
+Express.js: <img src="https://img.shields.io/badge/-Express.js-lightgray?style=flat-square&logo=express&logoColor=white" alt="Express.js" width="33" height="33">
+MongoDB: <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" width="33" height="33">
+MySQL: <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" width="33" height="33">
+Linux: <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white" alt="Linux" width="33" height="33">
+macOS: <img src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white" alt="macOS" width="33" height="33">
+
+#### Support
 
 If you find my content or any of my code useful, you can support me through various means:
 
