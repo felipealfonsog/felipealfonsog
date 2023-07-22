@@ -24,6 +24,8 @@ If you are interested in starting a business, consulting, research, or collabora
 - ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog holds true! You can check it out for yourself 😄. 🐶
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/NymexData), Data Research on GitHub too ⚡! 😊
 
+[![Unix](https://img.shields.io/badge/Unix-222222?style=flat-square&logo=unix&logoColor=white)](https://en.wikipedia.org/wiki/Unix)
+
 [![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=black&color=black&labelColor=white)](https://en.wikipedia.org/wiki/Unix)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=black&color=black&labelColor=white)](https://www.linux.org/)
 
