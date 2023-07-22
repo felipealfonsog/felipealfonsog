@@ -84,7 +84,7 @@ If you are interested in starting a business, consulting, research, or collabora
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ![🇨🇱 Español](https://img.shields.io/badge/🇨🇱%20Español-6B0000?style=flat-square)
-![🇺🇸 English](https://img.shields.io/badge/🇺🇸%20English-FFFFFF?style=flat-square)
+![🇺🇸 English](https://img.shields.io/badge/🇺🇸%20English-CCCCCC?style=flat-square)
 ![🇫🇷 Français](https://img.shields.io/badge/🇫🇷%20Français-0055A4?style=flat-square)
 
 
