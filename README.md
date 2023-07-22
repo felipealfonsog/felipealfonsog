@@ -21,8 +21,7 @@ If you are interested in starting a business, consulting, research, or collabora
 
 - 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄
 
-[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=black&color=black&labelColor=white)](https://en.wikipedia.org/wiki/Linux)  [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=black&color=black&labelColor=white)](https://www.apple.com/macos/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=black&color=black&labelColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=black&color=black&labelColor=white)](https://en.wikipedia.org/wiki/Linux)  [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=black&color=black&labelColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
 
 - 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in biology. It's an exciting journey to explore the intersection of data science and life sciences! 🌐🧬
