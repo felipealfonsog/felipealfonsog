@@ -83,6 +83,10 @@ If you are interested in starting a business, consulting, research, or collabora
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+![Español](https://img.shields.io/badge/Espa%C3%B1ol-FFC300?style=flat-square&logo=spanish&logoColor=black)
+![English](https://img.shields.io/badge/English-217346?style=flat-square&logo=english&logoColor=white)
+![Français](https://img.shields.io/badge/Fran%C3%A7ais-0052CC?style=flat-square&logo=french&logoColor=white)
+
 
 
 #### Support
