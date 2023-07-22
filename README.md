@@ -42,7 +42,7 @@ If you are interested in starting a business, consulting, research, or collabora
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-OS-blue?style=flat-square&logo=arch%20linux&logoColor=white)](https://www.archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-OS-blue?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Free Software](https://img.shields.io/badge/Free%20Software-Advocate-blue?style=flat-square&logo=gnu&logoColor=white)](https://www.fsf.org/)
-[![Software Architecture](https://img.shields.io/badge/Software%20Architecture-555555?style=flat-square&logo=codeigniter&logoColor=blue)](https://en.wikipedia.org/wiki/Software_architecture)
+[![Software Architecture](https://img.shields.io/badge/Software%20Architecture-007ACC?style=flat-square&logo=codeigniter&logoColor=white)](https://en.wikipedia.org/wiki/Software_architecture)
 [![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blue)](https://en.wikipedia.org/wiki/Software_engineering)
 [![Big Data](https://img.shields.io/badge/Big%20Data-%F0%9F%93%8D-blue)](https://en.wikipedia.org/wiki/Big_data)
 [![Data Engineering](https://img.shields.io/badge/Data%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blueviolet)](https://en.wikipedia.org/wiki/Data_engineering)
