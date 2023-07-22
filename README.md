@@ -98,6 +98,13 @@ If you are interested in starting a business, consulting, research, or collabora
 [![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-white?style=flat-square&logoColor=white)](#)
 -->
 
+[![Software Architecture](https://img.shields.io/badge/Software%20Architecture-555555?style=flat-square&logo=codeigniter&logoColor=white&color=555555&labelColor=efefef)](https://en.wikipedia.org/wiki/Software_architecture)
+[![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=flat-square&logo=serverfault&logoColor=white&color=0078D4&labelColor=efefef)](https://en.wikipedia.org/wiki/Information_technology_management)
+
+
+
+
+[![🇨🇱](https://img.shields.io/badge/🇨🇱-Español--0078D4?style=flat-square&logo=serverfault&logoColor=white&color=0078D4&labelColor=efefef)](#)
 [![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-blue?style=flat-square&logoColor=white)](#)
 [![🇺🇸](https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square&logoColor=white)](#)
 [![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-blue?style=flat-square&logoColor=white)](#)
