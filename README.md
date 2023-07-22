@@ -6,7 +6,7 @@ I'm a [computer science](https://en.wikipedia.org/wiki/Computer_science) [engine
   <br>
 As a researcher, my focus is on BD-BI/AI-ML/CISA & SaaS. Over the years, I have gained extensive experience in technology, starting back in the mid-80s when connecting to the internet required a phone cable and compiling the Kernel using UNIX and/or GNU/Linux was necessary to visit 'Altavista.com.'
 
-I have had the privilege of living in various countries, including New Delhi, India; Auckland and Christchurch in New Zealand; California, USA; and Cape Town in South Africa. These experiences have not only broadened my horizons but have also provided me with fluency in English, mother tongue, Spanish among other languages.
+I have had the privilege of living in various countries, including New Delhi, India; Auckland and Christchurch in New Zealand; California, USA; and Cape Town in South Africa. These experiences have not only broadened my horizons but have also provided me with fluency in English, my mother tongue, Spanish among other languages.
 
 With more than 23 years of experience in the field, I am constantly studying and researching to deepen my knowledge. I focus on areas such as data structures, software engineering, databases, algorithms, and data science. Additionally, I have expertise in engineering, research, and consulting.
 
