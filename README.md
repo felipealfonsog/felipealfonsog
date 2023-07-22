@@ -102,7 +102,7 @@ If you are interested in starting a business, consulting, research, or collabora
 [![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=flat-square&logo=serverfault&logoColor=white&color=0078D4&labelColor=efefef)](https://en.wikipedia.org/wiki/Information_technology_management)
 
 
-[![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-blue?style=flat-square&logoColor=white&color=blue&labelColor=grey)](#)
+[![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-blue?style=flat-square&logoColor=white&color=blue&labelColor=white)](#)
 [![🇺🇸](https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square&logoColor=white)](#)
 [![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-blue?style=flat-square&logoColor=white)](#)
 
