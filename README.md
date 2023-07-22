@@ -99,12 +99,12 @@ If you are interested in starting a business, consulting, research, or collabora
 -->
 
 [![Software Architecture](https://img.shields.io/badge/Software%20Architecture-555555?style=flat-square&logo=codeigniter&logoColor=white&color=blue&labelColor=grey)](https://en.wikipedia.org/wiki/Software_architecture)
-[![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=flat-square&logo=serverfault&logoColor=white&color=0078D4&labelColor=efefef)](https://en.wikipedia.org/wiki/Information_technology_management)
+[![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=flat-square&logo=serverfault&logoColor=white&color=blue&labelColor=grey)](https://en.wikipedia.org/wiki/Information_technology_management)
 
 
-[![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-blue?style=flat-square&logoColor=white&color=blue&labelColor=white)](#)
-[![🇺🇸](https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square&logoColor=white)](#)
-[![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-blue?style=flat-square&logoColor=white)](#)
+[![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-blue?style=flat-square&logoColor=white&color=blue&labelColor=w#f8f8f8)](#)
+[![🇺🇸](https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square&logoColor=white&color=blue&labelColor=w#f8f8f8)](#)
+[![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-blue?style=flat-square&logoColor=white&color=blue&labelColor=w#f8f8f8)](#)
 
 
 #### Support
