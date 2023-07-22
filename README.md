@@ -44,7 +44,6 @@ If you are interested in starting a business, consulting, research, or collabora
 [![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blue)](https://en.wikipedia.org/wiki/Software_engineering)
 [![GPG](https://img.shields.io/badge/GPG-Key-blue?style=flat-square&logo=gnu%20privacy%20guard&logoColor=white)](https://gnupg.org/)
 [![Big Data](https://img.shields.io/badge/Big%20Data-%F0%9F%93%8D-blue)](https://en.wikipedia.org/wiki/Big_data)
-[![Data Science](https://img.shields.io/badge/Data%20Science-%F0%9F%92%BB-green)](https://en.wikipedia.org/wiki/Data_science)
 [![Data Engineering](https://img.shields.io/badge/Data%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blueviolet)](https://en.wikipedia.org/wiki/Data_engineering)
 [![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-%F0%9F%92%BC-orange)](https://en.wikipedia.org/wiki/Business_intelligence)
 
