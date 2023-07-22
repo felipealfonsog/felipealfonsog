@@ -78,7 +78,6 @@ If you are interested in starting a business, consulting, research, or collabora
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -90,8 +89,6 @@ If you are interested in starting a business, consulting, research, or collabora
 [![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-red?style=flat-square&logoColor=white)](#)
 [![🇺🇸](https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square&logoColor=white)](#)
 [![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-white?style=flat-square&logoColor=white)](#)
-
-[![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-white?style=flat-square&logoColor=white)](#)
 -->
 
 [![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-blue?style=flat-square&logoColor=white)](#)
