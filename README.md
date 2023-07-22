@@ -24,6 +24,10 @@ If you are interested in starting a business, consulting, research, or collabora
 - ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog holds true! You can check it out for yourself 😄. 🐶
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/NymexData), Data Research on GitHub too ⚡! 😊
 
+[![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=black&color=black&labelColor=white)](https://en.wikipedia.org/wiki/Unix)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=black&color=black&labelColor=white)](https://www.linux.org/)
+
+
 #### Most Used Languages | Commit and Pull Request Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
