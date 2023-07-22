@@ -42,15 +42,12 @@ If you are interested in starting a business, consulting, research, or collabora
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-OS-blue?style=flat-square&logo=arch%20linux&logoColor=white)](https://www.archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-OS-blue?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Free Software](https://img.shields.io/badge/Free%20Software-Advocate-blue?style=flat-square&logo=gnu&logoColor=white)](https://www.fsf.org/)
-[![Computer Science Engineering](https://img.shields.io/badge/Computer%20Science%20Engineering-3964B2?style=flat-square&logo=computer&logoColor=white)](https://en.wikipedia.org/wiki/Informatics_engineering)
-[![Software Architecture](https://img.shields.io/badge/Software%20Architecture-555555?style=flat-square&logo=codeigniter&logoColor=white)](https://en.wikipedia.org/wiki/Software_architecture)
-[![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=flat-square&logo=serverfault&logoColor=white)](https://en.wikipedia.org/wiki/Information_technology_management)
-
+[![Software Architecture](https://img.shields.io/badge/Software%20Architecture-555555?style=flat-square&logo=codeigniter&logoColor=blue)](https://en.wikipedia.org/wiki/Software_architecture)
 [![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blue)](https://en.wikipedia.org/wiki/Software_engineering)
 [![Big Data](https://img.shields.io/badge/Big%20Data-%F0%9F%93%8D-blue)](https://en.wikipedia.org/wiki/Big_data)
 [![Data Engineering](https://img.shields.io/badge/Data%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blueviolet)](https://en.wikipedia.org/wiki/Data_engineering)
 [![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-%F0%9F%92%BC-orange)](https://en.wikipedia.org/wiki/Business_intelligence)
-
+[![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=flat-square&logo=serverfault&logoColor=white)](https://en.wikipedia.org/wiki/Information_technology_management)
 
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
