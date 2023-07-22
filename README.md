@@ -97,9 +97,9 @@ If you are interested in starting a business, consulting, research, or collabora
 [![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-white?style=flat-square&logoColor=white)](#)
 -->
 
-[![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-blue?style=flat-square&logoColor=white&color=blue&labelColor=F4FDFE)](#)
-[![🇺🇸](https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square&logoColor=white&color=blue&labelColor=F4FDFE)](#)
-[![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-blue?style=flat-square&logoColor=white&color=blue&labelColor=F4FDFE)](#)
+[![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-blue?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#)
+[![🇺🇸](https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#)
+[![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-blue?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#)
 
 
 #### Support
