@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), with a strong interest in data-related fields. Currently, I am pursuing a Master's degree in [Big Data](https://en.wikipedia.org/wiki/Big_data) & [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence).
+I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), with a strong interest in data-related fields. Currently, I am pursuing a Master's degree in [Big Data](https://en.wikipedia.org/wiki/Big_data) & [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence).
 <details>
 <summary>Read more about my profile here ...</summary> 
   <br>
