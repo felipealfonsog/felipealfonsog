@@ -17,10 +17,8 @@ Throughout my career, I have held positions as Head of Engineering, Software Eng
 If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me on Linkedin or Twitter. You can also contact me via my Gmail account: felipe.alfonso.glz[@]gmail.com. If you happen to be in Santiago, I would be delighted to meet over a cup of coffee. Just let me know in advance, as I might be occupied with exciting projects. Thank you!
 
   [![Nic Nac Project](https://img.shields.io/badge/Nic%20Nac%20Project-grey?style=flat-square&logo=serverfault&logoColor=white)](https://freeshell.de/) [![Nic Nac Project Personal Shell/Site](https://img.shields.io/badge/Nic%20Nac%20Project%20Personal%20Shell/Site-grey?style=flat-square&logo=serverfault&logoColor=white)](https://freeshell.de/~felipe/)
-<br>
+<br><br>
 </details>
-
-
 
 📝 In brief, let me provide you with some additional details about myself:
 
