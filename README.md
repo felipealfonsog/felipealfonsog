@@ -2,7 +2,7 @@
 
 I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), with a strong interest in data-related fields. Currently, I am pursuing a Master's degree in [Big Data](https://en.wikipedia.org/wiki/Big_data) & [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence).
 <details>
-<summary>Read more about my profile here ...</summary> 
+<summary>📚 Discover more about my profile here...</summary> 
   <br>
 As a researcher, my focus is on BD-BI/AI-ML/CISA & SaaS. My skillset includes proficiency in coding, statistics, math, and calculus, which I apply to create innovative breakthroughs using cutting-edge technologies.
   
