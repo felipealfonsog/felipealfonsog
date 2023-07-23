@@ -180,7 +180,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 </details>
 
-#### Last update / commit del repo where this readme file is:
+#### Last update / commit of the repo where this readme file is:
 
 ![Last Update](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square&label=Last%20Update&color=orange)
 <!-- ![Last Updated](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square) -->
