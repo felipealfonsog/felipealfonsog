@@ -29,7 +29,7 @@ If you are interested in starting a business, consulting, research, or collabora
 
 - 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in biology. It's an exciting journey to explore the intersection of data science and life sciences! 🌐🧬
 - ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog holds true! You can check it out for yourself 😄. 🐶
-- 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/NymexData), Data Research on GitHub too ⚡! 😊
+- 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/NymexData), Data Research on GitHub too. You can also contact me, as always, by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch) ⚡! 😊
 
 
 #### Most Used Languages | Commit and Pull Request Stats
