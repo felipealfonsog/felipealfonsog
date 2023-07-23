@@ -180,9 +180,10 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 </details>
 
+![Last Update](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square&label=Last%20Update)
 
 ![Last Updated](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue)
+<!-- ![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue) -->
 
 <!-- Last Updated: 2023-07-23 -->
