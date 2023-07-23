@@ -31,7 +31,8 @@ If you are interested in starting a business, consulting, research, or collabora
 
 #### Most Used Languages | Commit and Pull Request Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite) [![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=flat-square&logo=freebsd&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/FreeBSD)
+
 
 #### Badges
 
