@@ -20,3 +20,12 @@ jobs:
           git add README.md
           git commit -m "Actualizar badge de última actualización"
           git push
+
+      - name: Trigger workflow
+        run: |
+          echo "Updating badge" > update_badge.txt
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add update_badge.txt
+          git commit -m "Trigger workflow"
+          git push
