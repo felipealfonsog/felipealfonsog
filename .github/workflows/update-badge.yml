@@ -14,9 +14,9 @@ jobs:
 
       - name: Update badge
         run: |
-          echo "ultima actualizacion: $(date)" > badge.txt
+          echo "![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85%20$(date)-blue)" > README.md
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add badge.txt
+          git add README.md
           git commit -m "Actualizar badge de última actualización"
           git push
