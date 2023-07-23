@@ -1,4 +1,4 @@
-name: Update Last Update Badge
+name: Update Badge
 
 on:
   push:
@@ -9,19 +9,14 @@ jobs:
   update-badge:
     runs-on: ubuntu-latest
     steps:
-      - name: Set current date
-        id: set_date
-        run: echo "::set-output name=DATE::$(date +'%Y-%m-%d')"
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Update badge
-        id: update_badge
         run: |
-          sed -i "s|last_updated:.*|last_updated: ${{ steps.set_date.outputs.DATE }}|g" README.md
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update last update badge [skip ci]"
+          echo "ultima actualizacion: $(date)" > badge.txt
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add badge.txt
+          git commit -m "Actualizar badge de última actualización"
           git push
