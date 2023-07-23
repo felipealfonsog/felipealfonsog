@@ -5,7 +5,7 @@ I'm a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science
 <summary>Read more about my profile here ...</summary> 
   <br>
 As a researcher, my focus is on BD-BI/AI-ML/CISA & SaaS. My skillset includes proficiency in coding, statistics, math, and calculus, which I apply to create innovative breakthroughs using cutting-edge technologies.
-I have been immersed in the world of technology since the mid-80s, when connecting to the internet required a phone cable and compiling the Kernel using UNIX and/or GNU/Linux was necessary to visit 'Altavista.com.' I am particularly fond of FreeBSD, Debian & Arch, Although I also feel fond to macOS due its relation with UNIX-BSD.
+I have been immersed in the world of technology since the mid-80s, when connecting to the internet required a phone cable and compiling the Kernel using UNIX and/or GNU/Linux was necessary to visit 'Altavista.com.' I am particularly fond of FreeBSD, Debian & Arch, although I also feel fond to macOS due its relation with UNIX-BSD.
 
 I have had the privilege of living in various countries, including New Delhi, India; Auckland and Christchurch in New Zealand; California, USA; and Cape Town in South Africa. These experiences have not only broadened my horizons but have also provided me with fluency in English, my mother tongue, Spanish among other languages.
 
@@ -15,7 +15,6 @@ Throughout my career, I have held positions as Head of Engineering, Software Eng
 If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me on Linkedin or Twitter. You can also contact me via my Gmail account: felipe.alfonso.glz[@]gmail.com. If you happen to be in Santiago, I would be delighted to meet over a cup of coffee. Just let me know in advance, as I might be occupied with exciting projects. Thank you!
 
   [![Nic Nac Project](https://img.shields.io/badge/Nic%20Nac%20Project-grey?style=flat-square&logo=serverfault&logoColor=white)](https://freeshell.de/) [![Nic Nac Project Personal Shell/Site](https://img.shields.io/badge/Nic%20Nac%20Project%20Personal%20Shell/Site-grey?style=flat-square&logo=serverfault&logoColor=white)](https://freeshell.de/~felipe/)
-  
 <br>
 </details>
 
