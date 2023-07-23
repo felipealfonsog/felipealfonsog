@@ -23,6 +23,7 @@ If you are interested in starting a business, consulting, research, or collabora
 
   [![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/Linux)  [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/MacOS)  [![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=flat-square&logo=freebsd&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/FreeBSD)
 
+[![Niac Nac Project](https://img.shields.io/badge/Niac%20Nac%20Project-000000?style=flat-square&logo=serverfault&logoColor=white)](https://www.freeshell.de/)
 
 
 - 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in biology. It's an exciting journey to explore the intersection of data science and life sciences! 🌐🧬
