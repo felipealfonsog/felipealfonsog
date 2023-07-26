@@ -30,7 +30,7 @@ If you are interested in starting a business, consulting, research, or collabora
 > 📖 [Read the Gospel of Tux Unearthed](https://gist.github.com/felipealfonsog/1727a8393c6112f9a22828df86af3817) :penguin:
 An entertaining story that humorously traces the evolution of Unix and Tux. 🚀 A must-read for tech enthusiasts and open-source lovers!
 🔗 **[English Version](https://gist.github.com/felipealfonsog/1727a8393c6112f9a22828df86af3817)** 🔗
-🔗 **[Versión en español](https://gist.github.com/felipealfonsog/92646e891b39c22f7cd8e35556d8c41c)** 🔗 🔗 **[Version en français](https://gist.github.com/felipealfonsog/34ca19ae018e44fce82b758990965c82)** 🔗
+🔗 **[Versión en Español](https://gist.github.com/felipealfonsog/92646e891b39c22f7cd8e35556d8c41c)** 🔗 🔗 **[Version en Français](https://gist.github.com/felipealfonsog/34ca19ae018e44fce82b758990965c82)** 🔗
 
 Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't forget to leave a ⭐️ if you like it.
 - 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in different areas. It's an exciting journey to explore the intersection of data & engineering! 📊⚙️
