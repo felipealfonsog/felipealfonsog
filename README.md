@@ -46,7 +46,24 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 
+#### Featured Projects :star2:
 
+<details>
+<summary>📚 Discover more featured projects ...</summary>
+<br>
+
+#### [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer)
+"TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+
+#### [WordCraft360](https://github.com/NymexData/WordCraft360)
+WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com, WordCraft360 offers a sleek and visually appealing interface with carefully selected fonts that are easy on the eyes.
+
+#### [PerlMemoPad](https://github.com/NymexData/PerlMemoPad)
+PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
+
+<br>
+</details>
+  
 #### Badges
 
 [![Linux](https://img.shields.io/badge/Linux-OS-blue?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
