@@ -156,7 +156,7 @@ If you need to contact me, share private or critical data, or send a secure encr
 <br>
 
 Here is my PGP public key for secure communication:
-
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xsDNBGQqmHQBDADCWPBUU9cAZJk882YFAfUzzY4BPDch6NK8D5xILWMcfVNfYdxuwbnGw2T2Za+V
@@ -200,7 +200,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 =P7j6
 
 -----END PGP PUBLIC KEY BLOCK-----
-
+</pre>
 
 </details>
 
