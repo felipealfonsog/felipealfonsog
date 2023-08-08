@@ -4,7 +4,7 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 <details>
 <summary>📚 Discover more about my profile here...</summary> 
   <br>
-As a researcher, my focus is on BD-BI/AI-ML/CISA & SaaS. My skillset includes proficiency in coding, statistics, math, and calculus, which I apply to create innovative breakthroughs using cutting-edge technologies.
+As a researcher, my focus is on Softw. Eng./BDA/ML/CISA & SaaS. My skillset includes proficiency in coding, statistics, math, and calculus, which I apply to create innovative breakthroughs using cutting-edge technologies.
   
 I have been immersed in the world of technology since the mid-80s, when connecting to the internet required a phone cable and compiling the Kernel using UNIX and/or GNU/Linux was necessary to visit 'Altavista.com.' I am particularly fond of FreeBSD, Debian & Arch, although I also feel fond to macOS due its relation with UNIX-BSD.
 
