@@ -208,7 +208,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 [![Last Update](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat&logoColor=white&label=Last%20Update&color=orange)](#) [![](https://komarev.com/ghpvc/?username=felipealfonsog&style=flat&logoColor=white&color=orange&label=Profile+Views*)](#) 
 
-> *Countdown initiated: 8/8/2023.
+<sub> > *Countdown initiated: 8/8/2023.</sub>
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- ![Last Updated](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square) -->
