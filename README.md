@@ -78,6 +78,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 [![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-%F0%9F%92%BC-orange)](https://en.wikipedia.org/wiki/Business_intelligence)
 [![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=flat-square&logo=serverfault&logoColor=white&color=blue&labelColor=grey)](https://en.wikipedia.org/wiki/Information_technology_management)
 <!-- [![Big Data](https://img.shields.io/badge/Big%20Data-%F0%9F%93%8D-blue)](https://en.wikipedia.org/wiki/Big_data) -->
+[![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%F0%9F%9B%A0-<color>)](#)
+
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
