@@ -206,7 +206,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 #### Last update / commit of the repo where this readme file is:
 
-[![Last Update](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square&logoColor=white&label=Last%20Update&color=orange)](#) [![](https://komarev.com/ghpvc/?username=felipealfonsog&style=flat-square&logoColor=white&color=orange)](#)
+[![Last Update](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square&logoColor=white&label=Last%20Update&color=orange)](#) [![](https://komarev.com/ghpvc/?username=felipealfonsog&style=plastic&logoColor=white&color=orange)](#)
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- ![Last Updated](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square) -->
