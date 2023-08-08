@@ -206,7 +206,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 #### Last update / commit of the repo where this readme file is:
 
-[![Last Update](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat&logoColor=white&label=Last%20Update&color=orange)](#) [![](https://komarev.com/ghpvc/?username=felipealfonsog&style=flat&logoColor=white&color=orange&label=Profile+Views*)](#) 
+[![Last Update](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat&logoColor=white&labelColor=white&label=Last%20Update&color=orange)](#) [![](https://komarev.com/ghpvc/?username=felipealfonsog&style=flat&logoColor=white&color=orange&label=Profile+Views*)](#) 
 
 <sub>*Countdown initiated: 8/8/2023.</sub>
 
