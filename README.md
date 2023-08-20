@@ -133,11 +133,11 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
-[![Built with LaTeX](https://img.shields.io/badge/Built%20with-LaTeX-008080?logo=latex)](https://www.latex-project.org/)
-
 [![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue)](https://onlineiacc.academia.edu/felipealfonsog)
 [![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange)](https://arxiv.org/search/?searchtype=author&query=Felipe+Alfonso+González)
 <!--[![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange)](https://arxiv.org/a/felipealfonsog)-->
+
+[![Built with LaTeX](https://img.shields.io/badge/Built%20with-LaTeX-008080?logo=latex)](https://www.latex-project.org/)
 
 <!-- 
 ![🇨🇱 Español](https://img.shields.io/badge/🇨🇱%20Español-C0392B?style=flat-square)(#)
@@ -159,6 +159,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 If you find my content or any of my code useful, you can support me through various means:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/felipealfonsog)
+[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?logo=patreon)](https://www.patreon.com/felipealfonsogl)
 [![Support me on PayPal](https://img.shields.io/badge/Support%20me%20on-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.me/felipealfonsog)
 [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on-GitHub-%23EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/felipealfonsog)
 
