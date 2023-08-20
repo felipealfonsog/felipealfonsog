@@ -133,6 +133,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
+[![Built with LaTeX](https://img.shields.io/badge/Built%20with-LaTeX-008080?logo=latex)](https://www.latex-project.org/)
+
 [![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue)](https://onlineiacc.academia.edu/felipealfonsog)
 [![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange)](https://arxiv.org/search/?searchtype=author&query=Felipe+Alfonso+González)
 <!--[![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange)](https://arxiv.org/a/felipealfonsog)-->
