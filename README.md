@@ -58,7 +58,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css)
 ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 
-<sub>*These data are subject to errors by the [Vercel service](https://vercel.com/), which enables me to perform statistics and other functions for GitHub.</sub>
+<sub>*Please note that these data are susceptible to discrepancies arising from the [Vercel service](https://vercel.com/), a platform that facilitates statistical analysis and other functionalities for GitHub.</sub>
 </details>
 
 <details>
