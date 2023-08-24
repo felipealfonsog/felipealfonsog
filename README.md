@@ -70,7 +70,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 - [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
 - [WordCraft360](https://github.com/NymexData/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com, WordCraft360 offers a sleek and visually appealing interface with carefully selected fonts that are easy on the eyes.
 - [PerlMemoPad](https://github.com/NymexData/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
-- [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by Felipe Alfonso González, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses.
+- [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses.
 
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
 <br>
