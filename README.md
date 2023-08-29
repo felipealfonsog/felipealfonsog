@@ -42,9 +42,9 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <details>
   <summary>#Nostr</summary>
   <br>
-```
+'''
 npub1xekfp7j7rnuy5544wz3wfllfsqrrtt37zj4pzyje0m6wnazeq92qt9uztx
-```
+'''
 
 </details>
 
