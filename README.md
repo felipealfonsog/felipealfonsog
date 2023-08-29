@@ -78,7 +78,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 <details open>
 <summary>🏅 Badges</summary>
-
+<br>
+  
 [![Linux](https://img.shields.io/badge/Linux-OS-blue?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
 [![macOS](https://img.shields.io/badge/macOS-OS-blue?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-OS-blue?style=flat-square&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
