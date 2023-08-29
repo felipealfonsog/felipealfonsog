@@ -37,17 +37,6 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 - ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog holds true! You can check it out for yourself 😄. 🐶
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/NymexData), Data Research on GitHub too. You can also contact me, as always, by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch) ⚡! 😊
 
-[![Nostr ID](https://img.shields.io/badge/Nostr%20ID-blue)](#)
-
-<details>
-  <summary>#Nostr</summary>
-  <br>
-<pre>
-npub1xekfp7j7rnuy5544wz3wfllfsqrrtt37zj4pzyje0m6wnazeq92qt9uztx
-</pre>
-
-</details>
-
 > "Creativity is intelligence having fun." - Albert Einstein
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
@@ -182,6 +171,18 @@ If you find my content or any of my code useful, you can support me through vari
 #### How to Reach Me
 
 My personal website is [glzengrg.com](https://glzengrg.com/), you can read much more about me there. Also, you can connect with me on [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
+
+[![Nostr ID](https://img.shields.io/badge/Nostr%20ID-blue)](#)
+
+<details>
+  <summary>#Nostr</summary>
+  <br>
+
+```
+npub1xekfp7j7rnuy5544wz3wfllfsqrrtt37zj4pzyje0m6wnazeq92qt9uztx
+```
+
+</details>
 
 #### PGP Public Key
 
