@@ -21,8 +21,7 @@ Right now, I'm involved with [Nymex](https://github.com/NymexData), a personal p
 
 If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [Twitter](https://twitter.com/felipealfonsog). You can also contact me by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch). If you happen to be in Santiago, I would be delighted to meet over a cup of coffee. Just let me know in advance, as I might be occupied with exciting projects. Thank you!
 
-  [![Nic Nac Project](https://img.shields.io/badge/Nic%20Nac%20Project-grey?style=flat-square&logo=serverfault&logoColor=white)](https://freeshell.de/~felipe/)
-<br><br>
+<br>
 </details>
 
 📝 In brief, let me provide you with some additional details about myself:
