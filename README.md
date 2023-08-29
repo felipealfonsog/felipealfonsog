@@ -174,8 +174,9 @@ My personal website is [glzengrg.com](https://glzengrg.com/), you can read much 
 
 [![Nostr Pub Key](https://img.shields.io/badge/Nostr%20Pub%20Key-%F0%9F%94%97-blue)](#)
 
+<sub>
 <details>
-  <sub><summary>Check My Nostr Public Key Here</summary></sub>
+ <summary>Check My Nostr Public Key Here</summary>
   <br>
 
 ```
@@ -183,6 +184,7 @@ npub1xekfp7j7rnuy5544wz3wfllfsqrrtt37zj4pzyje0m6wnazeq92qt9uztx
 ```
 
 </details>
+</sub>
 
 #### PGP Public Key
 
