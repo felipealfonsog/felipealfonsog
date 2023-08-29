@@ -4,7 +4,9 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 <details>
 <summary>📚 Discover more about my profile here...</summary> 
   <br>
-As a researcher, my focus is on Softw. Eng./BDA/ML/CISA & SaaS. My skillset includes proficiency in coding, statistics, math, and calculus, which I apply to create innovative breakthroughs using cutting-edge technologies.
+I'm a computer science engineer with a passion for research across diverse topics in the field. While I strive to continuously broaden my knowledge horizons, my primary focus lies in specializing in Software Engineering, Data Engineering, Machine Learning, Cybersecurity, and other areas that hold significance in the past, present, and future landscape of computer science. My aim is to grasp both the fundamentals and the cutting-edge aspects of this ever-evolving domain.
+
+My expertise encompasses coding, statistical analysis, and a strong grounding in computer science principles. This skillset serves as a foundation for driving innovation through the adoption of the latest technologies.
   
 I have been immersed in the world of technology since the mid-80s, when connecting to the internet required a phone cable and compiling the Kernel using UNIX and/or GNU/Linux was necessary to visit 'Altavista.com.' I am particularly fond of FreeBSD, Debian & Arch, although I also feel fond to macOS due its relation with UNIX-BSD.
 
