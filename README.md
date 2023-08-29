@@ -21,6 +21,7 @@ Right now, I'm involved with [Nymex](https://github.com/NymexData), a personal p
 
 If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [Twitter](https://twitter.com/felipealfonsog). You can also contact me by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch). If you happen to be in Santiago, I would be delighted to meet over a cup of coffee. Just let me know in advance, as I might be occupied with exciting projects. Thank you!
 
+<br>
 </details>
 
 📝 In brief, let me provide you with some additional details about myself:
@@ -179,7 +180,8 @@ If you find my content or any of my code useful, you can support me through vari
 
 My personal website is [glzengrg.com](https://glzengrg.com/), you can read much more about me there. Also, you can connect with me on [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
 
-[![Nostr Pub Key](https://img.shields.io/badge/Nostr%20Pub%20Key-%F0%9F%94%97-blue)](#)
+[![Nostr Pub Key](https://img.shields.io/badge/Nostr%20Pub%20Key-%F0%9F%94%97-blue)](#) 
+  [![Nic Nac Project](https://img.shields.io/badge/Nic%20Nac%20Project-grey?style=flat-square&logo=serverfault&logoColor=white)](https://freeshell.de/~felipe/)
 
 <details>
  <summary>🔗 Check My Nostr Public Key Here</summary>
