@@ -178,12 +178,13 @@ My personal website is [glzengrg.com](https://glzengrg.com/), you can read much 
 <details>
  <summary>Check My Nostr Public Key Here</summary>
 <br>
-<br>
-
+</sub>
+  
 ```
 npub1xekfp7j7rnuy5544wz3wfllfsqrrtt37zj4pzyje0m6wnazeq92qt9uztx
 ```
 
+<sub>
 </details>
 </sub>
 
