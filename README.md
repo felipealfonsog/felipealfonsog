@@ -19,7 +19,7 @@ During my journey, I've embraced roles spanning from Computer Science and Softwa
 
 Right now, I'm involved with [Nymex](https://github.com/NymexData), A personal project centered on open-source initiatives while also catering to private ventures. Our team is a mix of talented folks from around the world, including experienced pros and those just starting out. Together, we're all about pushing technology boundaries while also providing consulting services that span the globe. We're based in Santiago Metropolitan, Chile, which we proudly call home.
 
-If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [Twitter](https://twitter.com/felipealfonsog). You can also contact me by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch). If you happen to be in Santiago, I would be delighted to meet over a cup of coffee. Just let me know in advance, as I might be occupied with exciting projects. Thank you!
+If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [x (Twitter)](https://twitter.com/felipealfonsog). You can also contact me by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch). If you happen to be in Santiago, I would be delighted to meet over a cup of coffee. Just let me know in advance, as I might be occupied with exciting projects. Thank you!
 
 <br>
 </details>
