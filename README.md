@@ -70,6 +70,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <details>
 <summary>🔍 :file_folder: Dive into More Featured and Diverse Projects :rocket::star2:...</summary>
 <br>
+  
   - [BashGuardian](https://github.com/felipealfonsog/BashGuardian): BashGuardian is a powerful bash script for backups and encryption on Unix-like (Linux & macOS) systems. It provides an easy-to-use and secure way to protect your important files and data.
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience..
   - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents. The project aims to offer a fast and minimalistic PDF reading experience while using minimal system resources.
