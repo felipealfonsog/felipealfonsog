@@ -151,6 +151,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 [![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue)](https://onlineiacc.academia.edu/felipealfonsog)
 [![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Profile-blue)](https://www.researchgate.net/profile/Felipe-Alfonso-Gonzalez-2)
+[![Github's PaperArchive](https://img.shields.io/badge/Github's-PaperArchive-green)](https://github.com/felipealfonsog/PaperArchive)
 [![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange)](https://arxiv.org/search/?searchtype=author&query=Felipe+Alfonso+González)
 <!--[![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange)](https://arxiv.org/a/felipealfonsog)-->
 
