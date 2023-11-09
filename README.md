@@ -149,6 +149,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
+</details>
+
 [![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue)](https://onlineiacc.academia.edu/felipealfonsog)
 [![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Profile-blue)](https://www.researchgate.net/profile/Felipe-Alfonso-Gonzalez-2)
 [![Github's PaperArchive](https://img.shields.io/badge/Github's-PaperArchive-green)](https://github.com/felipealfonsog/PaperArchive)
@@ -166,8 +168,6 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 [![🇺🇸](https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square&logoColor=white)](#)
 [![🇫🇷](https://img.shields.io/badge/🇫🇷-Français-white?style=flat-square&logoColor=white)](#)
 -->
-
-</details>
 
 [![🇨🇱](https://img.shields.io/badge/🇨🇱-Español-blue?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#)
 [![🇺🇸](https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#)
