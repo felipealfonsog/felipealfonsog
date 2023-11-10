@@ -151,6 +151,10 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 </details>
 
+<details open>
+<summary>📚 Research Papers</summary>
+<br>
+
 [![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue)](https://onlineiacc.academia.edu/felipealfonsog)
 [![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Profile-blue)](https://www.researchgate.net/profile/Felipe-Alfonso-Gonzalez-2)
 [![Github's PaperArchive](https://img.shields.io/badge/Github's-PaperArchive-green)](https://github.com/felipealfonsog/PaperArchive)
@@ -158,6 +162,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <!--[![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange)](https://arxiv.org/a/felipealfonsog)-->
 
 [![Built with LaTeX](https://img.shields.io/badge/Built%20with-LaTeX-008080?logo=latex)](https://www.latex-project.org/)
+
+</details>
 
 <!-- 
 ![🇨🇱 Español](https://img.shields.io/badge/🇨🇱%20Español-C0392B?style=flat-square)(#)
