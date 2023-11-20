@@ -195,6 +195,7 @@ If you find my content or any of my code useful, you can support me through vari
 My personal website is [glzengrg.com](https://glzengrg.com/), you can read much more about me there. Also, you can connect with me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
 
 [felipe@jabbers.one]
+
 [![Jabber](https://img.shields.io/badge/Jabber-@felipe-blue?style=flat&logo=xmpp&logoColor=white)](xmpp:felipe@jabbers.one)
 
 [![Nostr Pub Key](https://img.shields.io/badge/Nostr%20Pub%20Key-%F0%9F%94%97-blue)](#) 
