@@ -85,7 +85,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <br>
 </details>
 
-<details open>
+<!-- <details open> -->
+<details>
 <summary>🏅 Badges</summary>
 <br>
   
