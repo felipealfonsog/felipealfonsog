@@ -195,7 +195,7 @@ If you find my content or any of my code useful, you can support me through vari
 
 #### How to Reach Me
 
-My personal website is [glzengrg.com](https://glzengrg.com/), you can read much more about me there. Also, you can connect with me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
+My personal website is [glzengrg.com](https://glzengrg.com/) or [here](https://freeshell.de/~felipe/), you can read much more about me there. Also, you can connect with me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
 
 [![Jabber](https://img.shields.io/badge/Jabber-@felipe-blue?style=flat&logo=xmpp&logoColor=white)](xmpp:felipe@jabbers.one)
 
