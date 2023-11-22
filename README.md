@@ -25,7 +25,6 @@ If you are interested in starting a business, consulting, research, or collabora
 
 <br>
 </details>
-
 <details open>
   <summary>📝 In brief, let me provide you with some additional details about myself:<summary>
 <br>
@@ -47,7 +46,6 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 > "Creativity is intelligence having fun." - Albert Einstein
 <br>
 </details>
-
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
 -->
