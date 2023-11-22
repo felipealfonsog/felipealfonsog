@@ -45,7 +45,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/NymexData), Data Research on GitHub too. You can also contact me, as always, by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch) ⚡! 😊
 
 > "Creativity is intelligence having fun." - Albert Einstein
-<br>
+
 </details>
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
