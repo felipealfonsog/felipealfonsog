@@ -46,7 +46,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 > "Creativity is intelligence having fun." - Albert Einstein
 <br>
-<details>
+</details>
 
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
