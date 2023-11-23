@@ -70,7 +70,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <sub>*Data may exhibit discrepancies or errors due to the [Vercel service](https://vercel.com/), empowering GitHub statistics and functions.</sub>
 </details>
 
-Committers.top rank in Chile
+🏆 Committers.top rank in Chile 🌟
 
 [![committers.top badge](https://user-badge.committers.top/chile/felipealfonsog.svg)](https://user-badge.committers.top/chile/felipealfonsog)
 
