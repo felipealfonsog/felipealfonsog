@@ -77,7 +77,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
   
 [![committers.top badge](https://user-badge.committers.top/chile/felipealfonsog.svg)](https://user-badge.committers.top/chile/felipealfonsog)
 
-<sub>*More information about the top committers in Chile [here](https://user-badge.committers.top/chile/).</sub>
+<sub>*More information about the top committers in Chile [here](https://committers.top/chile).</sub>
 </details>
 
 <details>
