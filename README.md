@@ -4,6 +4,8 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported.</sub>
 
+[![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
+
 <details>
 <summary>📚 Discover more about my profile here...</summary> 
   <br>
