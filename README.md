@@ -4,9 +4,6 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported.</sub>
 
-![Mi Imagen](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/ruta/al/archivo/mi_imagen.svg)
-
-
 <details>
 <summary>📚 Discover more about my profile here...</summary> 
   <br>
