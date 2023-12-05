@@ -214,11 +214,12 @@ My personal website is [glzengrg.com](https://glzengrg.com/) or [here](https://f
 <!--
 [![github](https://img.shields.io/github/followers/felipealfonsog?logo=github&style=plastic)](https://github.com/felipealfonsog?tab=followers)
 -->
-
+<!-- 
 [![Jabber](https://img.shields.io/badge/Jabber-@felipe-blue?style=flat&logo=xmpp&logoColor=white)](xmpp:felipe@jabbers.one)
 
 [![Nostr Pub Key](https://img.shields.io/badge/Nostr%20Pub%20Key-%F0%9F%94%97-blue)](#) 
   [![Nic Nac Project](https://img.shields.io/badge/Nic%20Nac%20Project-grey?style=flat-square&logo=serverfault&logoColor=white)](https://freeshell.de/~felipe/)
+-->
 
 <details>
  <summary>🔗 Check My Nostr Public Key Here</summary>
