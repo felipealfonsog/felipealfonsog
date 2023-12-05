@@ -71,6 +71,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css)
 ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 
+[![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
+
 <sub>*Data may exhibit discrepancies or errors due to the [Vercel service](https://vercel.com/), empowering GitHub statistics and functions.</sub>
 </details>
 
@@ -79,8 +81,6 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
   <br>
   
 [![committers.top badge](https://user-badge.committers.top/chile/felipealfonsog.svg)](https://user-badge.committers.top/chile/felipealfonsog)
-
-[![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
 
 <sub>*More information about the top committers in Chile [here](https://committers.top/chile).</sub>
 </details>
