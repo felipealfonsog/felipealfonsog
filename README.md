@@ -202,10 +202,14 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 [![English](https://img.shields.io/badge/English-EN-blue.svg)](https://en.wikipedia.org/wiki/English_language) 🇺🇸 
 [![Français](https://img.shields.io/badge/Français-FR-blue.svg)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais) 🇫🇷 
 
+[![Español](https://img.shields.io/badge/Español-ES_cl-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇨🇱 
+[![English](https://img.shields.io/badge/English-EN-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇬🇧 
+[![Français](https://img.shields.io/badge/Français-FR-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇫🇷 
+
 -->
 
 [![Español](https://img.shields.io/badge/Español-ES_cl-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇨🇱 
-[![English](https://img.shields.io/badge/English-EN-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇬🇧 
+[![English](https://img.shields.io/badge/English-EN_us-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇺🇸 
 [![Français](https://img.shields.io/badge/Français-FR-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇫🇷 
 
 #### Support
