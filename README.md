@@ -210,7 +210,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 [![Español](https://img.shields.io/badge/Español-ES_cl-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇨🇱 
 [![English](https://img.shields.io/badge/English-EN_us-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇺🇸 
-[![Français](https://img.shields.io/badge/Français-FR-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇫🇷 
+[![Français](https://img.shields.io/badge/Français-FR_fr-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇫🇷 
 
 #### Support
 
