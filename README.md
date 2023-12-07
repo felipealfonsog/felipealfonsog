@@ -204,9 +204,9 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 -->
 
-[![Español](https://img.shields.io/badge/Español-ES-blue.svg)](#) 🇨🇱 
-[![English](https://img.shields.io/badge/English-EN-blue.svg)](#) 🇬🇧 
-[![Français](https://img.shields.io/badge/Français-FR-blue.svg)](#) 🇫🇷 
+[![Español](https://img.shields.io/badge/Español-ES_cl-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇨🇱 
+[![English](https://img.shields.io/badge/English-EN-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇬🇧 
+[![Français](https://img.shields.io/badge/Français-FR-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇫🇷 
 
 #### Support
 
