@@ -75,7 +75,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 <sub>*Data may exhibit discrepancies or errors due to the [Vercel service](https://vercel.com/), empowering GitHub statistics and functions.</sub>
 
-<sub>NOTE: Coding time tracked on this badge started on Dec 4, 2023. Any variations depend on the Wakatime service. [Learn more about Wakatime](https://wakatime.com/).</sub>
+<sub>The coding time tracked on the Wakatime badge started on Dec 4, 2023. Any variations depend on the Wakatime service. [Learn more about Wakatime](https://wakatime.com/).</sub>
 </details>
 
 <details open>
