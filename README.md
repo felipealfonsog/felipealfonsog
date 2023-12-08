@@ -74,6 +74,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 [![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
 
 <sub>*Data may exhibit discrepancies or errors due to the [Vercel service](https://vercel.com/), empowering GitHub statistics and functions.</sub>
+
 <sub>NOTE: Coding time tracked on this badge started on Dec 4, 2023. Any variations depend on the Wakatime service. [Learn more about Wakatime](https://wakatime.com/).</sub>
 </details>
 
