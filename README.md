@@ -62,7 +62,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 -->
 <!-- <details open> -->
 <details>
-<summary>:star2: <strong>Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
+<summary>:star2: <strong>Most Used Languages | Commit and Pull Request Stats | Wakatime</strong>*</summary>
 <br>
 
 <!-- 
