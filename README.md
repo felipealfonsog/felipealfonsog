@@ -96,10 +96,16 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <sub>*More information about the top committers in Chile [here](https://committers.top/chile).</sub>
 </details>
 
-#### My Top Followers
+<details>
+<summary>My top followers* :rocket::star2:...</summary>
+<br>
 
  <!--START_SECTION:top-followers--> 
  <!--END_SECTION:top-followers-->
+
+<sub>*.</sub>
+<br>
+ </details>
  
 <details>
 <summary>🔍 :file_folder: Dive into More Featured and Diverse Projects :rocket::star2:...</summary>
