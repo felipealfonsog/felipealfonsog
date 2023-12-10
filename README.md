@@ -97,7 +97,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 </details>
 
 <details>
-<summary>My top followers* :rocket::star2:...</summary>
+<summary>My top followers :rocket::star2:...</summary>
 <br>
 
  <!--START_SECTION:top-followers--> 
