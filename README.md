@@ -103,8 +103,6 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
  <!--START_SECTION:top-followers--> 
  <!--END_SECTION:top-followers-->
 
-<sub>*.</sub>
-<br>
  </details>
  
 <details>
