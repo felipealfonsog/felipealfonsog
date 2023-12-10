@@ -97,12 +97,14 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 </details>
 
 <details>
-<summary>My top followers :rocket::star2:...</summary>
+<summary>My top followers* :rocket::star2:...</summary>
 <br>
 
  <!--START_SECTION:top-followers--> 
  <!--END_SECTION:top-followers-->
 
+<sub>*This section may contain errors resulting from code execution and in the call to action for data presentation.</sub>
+<br>
  </details>
  
 <details>
