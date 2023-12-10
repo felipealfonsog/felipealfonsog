@@ -10,7 +10,9 @@ on:
     # Runs at 05:00PM UTC = 00:00AM +7
     #- cron: '0 */4 * * *'
     # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    #- cron: "0 */2 * * *"
+    # every 20 mnts.
+    - cron: '0 20 * * *'
 
 jobs:
   update-readme:
