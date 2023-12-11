@@ -134,52 +134,32 @@ Text         1 min           -------------------------   00.25 %
     <li>
       <a href="https://github.com/nelsonic">
         <img src="https://avatars2.githubusercontent.com/u/194400" style="width:30px; height:30px;" alt="nelsonic"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/nelsonic">Nelson</a>
-      </sub>
-      <br>
+      </a> - <sub><a href="https://github.com/nelsonic">Nelson</a></sub>
+
     </li>
     <li>
       <a href="https://github.com/AdiChat">
         <img src="https://avatars2.githubusercontent.com/u/10634210" style="width:30px; height:30px;" alt="AdiChat"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/AdiChat">Aditya Chatterjee</a>
-      </sub>
-      <br>
+      </a> - <sub><a href="https://github.com/AdiChat">Aditya Chatterjee</a></sub>
+
     </li>
     <li>
       <a href="https://github.com/kroitor">
         <img src="https://avatars2.githubusercontent.com/u/1294454" style="width:30px; height:30px;" alt="kroitor"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/kroitor">Igor Kroitor</a>
-      </sub>
-      <br>
+      </a> - <sub><a href="https://github.com/kroitor">Igor Kroitor</a></sub>
+
     </li>
     <li>
       <a href="https://github.com/lporras">
         <img src="https://avatars2.githubusercontent.com/u/232293" style="width:30px; height:30px;" alt="lporras"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
-      </sub>
-      <br>
+      </a> - <sub><a href="https://github.com/lporras">Luis Alfredo Porras Páez</a></sub>
+
     </li>
     <li>
       <a href="https://github.com/devmgod">
         <img src="https://avatars2.githubusercontent.com/u/102416175" style="width:30px; height:30px;" alt="devmgod"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/devmgod">devmgod</a>
-      </sub>
-      <br>
+      </a> - <sub><a href="https://github.com/devmgod">devmgod</a></sub>
+
     </li>
 </ul>
 <!--END_SECTION:top-followers-->
