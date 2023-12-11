@@ -8,11 +8,11 @@ on:
     # runs at 12 AM UTC (5:30 AM IST)
     # - cron: "0 0 * * *"
     # Runs at 05:00PM UTC = 00:00AM +7
-    #- cron: '0 */4 * * *'
+    # - cron: '0 */4 * * *'
     # Runs every 2 hours
-    #- cron: "0 */2 * * *"
-    # every 20 mnts.
-    - cron: '0 20 * * *'
+    - cron: "0 */2 * * *"
+    # every 20:00.
+    # - cron: '0 20 * * *'
 
 jobs:
   update-readme:
