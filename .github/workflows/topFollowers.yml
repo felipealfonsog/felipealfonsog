@@ -5,7 +5,9 @@
   branches:
    - master
   schedule:
-  - cron: '0 20 * * *'
+  # - cron: '0 20 * * *'
+  # Runs every 2 hours
+   - cron: "0 */2 * * *"
   
  jobs:
   top-followers:
@@ -19,7 +21,7 @@
    - name: Install requests
     run: pip install requests
    - name: Update README
-    run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+    run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GH_TOKEN }} README.md
    - name: Commit changes
     run: |
      git config --local user.email "action@github.com"
