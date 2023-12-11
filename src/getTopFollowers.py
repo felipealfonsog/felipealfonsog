@@ -108,12 +108,8 @@ query {{
         html += f'''    <li>
       <a href="https://github.com/{login}">
         <img src="https://avatars2.githubusercontent.com/u/{id}" style="width:30px; height:30px;" alt="{login}"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/{login}">{name}</a>
-      </sub>
-      <br>
+      </a> - <sub><a href="https://github.com/{login}">{name}</a></sub>
+
     </li>
 '''
 
