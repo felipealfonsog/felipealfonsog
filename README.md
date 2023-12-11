@@ -78,7 +78,9 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <details open>
 <summary>:star2: <strong> Wakatime</strong>*</summary>
 <br>
-
+  
+[![Waka Readme](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-readme.yml/badge.svg)](#)
+  
 [![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
 
 <!--
@@ -125,7 +127,7 @@ Text         1 min           -------------------------   00.25 %
 <summary>My top followers* :rocket::star2:...</summary>
 <br>
 
-[![.github/workflows/topFollowers.yml](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/topFollowers.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/topFollowers.yml)
+[![.github/workflows/topFollowers.yml](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/topFollowers.yml/badge.svg)](#)
 
  <!--START_SECTION:top-followers--> 
  <!--END_SECTION:top-followers-->
