@@ -98,7 +98,7 @@ query {{
 
     followers.sort(reverse = True)
 
-    html = "<table border='0'>\n"
+    html = "<table border='0'  style='width:100%;'>\n"
 
     for i in range(min(len(followers), 21)):
         login = followers[i][1]
@@ -108,9 +108,9 @@ query {{
             if i != 0:
                 html += "  </tr>\n"
             html += "  <tr>\n"
-        html += f'''    <td align="center">
+        html += f'''    <td align="center" style="width:14%; max-width: 150px;">
       <a href="https://github.com/{login}">
-        <img src="https://avatars2.githubusercontent.com/u/{id}" width="30px;" alt="{login}"/>
+        <img src="https://avatars2.githubusercontent.com/u/{id}" width="30px;" style="width:30%; max-width: 30px;" alt="{login}"/>
       </a>
       <br />
       <a href="https://github.com/{login}">{name}</a>
@@ -118,6 +118,8 @@ query {{
 '''
 
     html += "  </tr>\n</table>"
+
+
 
     with open(readmePath, "r") as readme:
         content = readme.read()
