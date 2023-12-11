@@ -98,7 +98,7 @@ query {{
 
     followers.sort(reverse = True)
 
-   """
+"""
     html = "<table>\n"
 
     for i in range(min(len(followers), 21)):
@@ -119,6 +119,7 @@ query {{
 '''
 
     html += "  </tr>\n</table>"
+"""
 
    html = "<table style='width:100%;'>\n"
    
@@ -137,10 +138,9 @@ query {{
      <br />
      <a href="https://github.com/{login}">{name}</a>
    </td>
-   '''
+'''
    
    html += "  </tr>\n</table>"
-
 
 
     with open(readmePath, "r") as readme:
