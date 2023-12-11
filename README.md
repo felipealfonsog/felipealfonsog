@@ -130,53 +130,53 @@ Text         1 min           -------------------------   00.25 %
 [![Get Top Followers](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/topFollowers.yml/badge.svg?branch=master)](#)
 
  <!--START_SECTION:top-followers-->
-<table>
+<table border='0'>
   <tr>
     <td align="center">
       <a href="https://github.com/nelsonic">
-        <img src="https://avatars2.githubusercontent.com/u/194400" width="35px;" alt="nelsonic"/>
+        <img src="https://avatars2.githubusercontent.com/u/194400" width="30px;" alt="nelsonic"/>
       </a>
       <br />
       <a href="https://github.com/nelsonic">Nelson</a>
     </td>
     <td align="center">
       <a href="https://github.com/AdiChat">
-        <img src="https://avatars2.githubusercontent.com/u/10634210" width="35px;" alt="AdiChat"/>
+        <img src="https://avatars2.githubusercontent.com/u/10634210" width="30px;" alt="AdiChat"/>
       </a>
       <br />
       <a href="https://github.com/AdiChat">Aditya Chatterjee</a>
     </td>
     <td align="center">
       <a href="https://github.com/kroitor">
-        <img src="https://avatars2.githubusercontent.com/u/1294454" width="35px;" alt="kroitor"/>
+        <img src="https://avatars2.githubusercontent.com/u/1294454" width="30px;" alt="kroitor"/>
       </a>
       <br />
       <a href="https://github.com/kroitor">Igor Kroitor</a>
     </td>
     <td align="center">
       <a href="https://github.com/lporras">
-        <img src="https://avatars2.githubusercontent.com/u/232293" width="35px;" alt="lporras"/>
+        <img src="https://avatars2.githubusercontent.com/u/232293" width="30px;" alt="lporras"/>
       </a>
       <br />
       <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
     </td>
     <td align="center">
       <a href="https://github.com/devmgod">
-        <img src="https://avatars2.githubusercontent.com/u/102416175" width="35px;" alt="devmgod"/>
+        <img src="https://avatars2.githubusercontent.com/u/102416175" width="30px;" alt="devmgod"/>
       </a>
       <br />
       <a href="https://github.com/devmgod">devmgod</a>
     </td>
     <td align="center">
       <a href="https://github.com/cdiaz">
-        <img src="https://avatars2.githubusercontent.com/u/3867689" width="35px;" alt="cdiaz"/>
+        <img src="https://avatars2.githubusercontent.com/u/3867689" width="30px;" alt="cdiaz"/>
       </a>
       <br />
       <a href="https://github.com/cdiaz">Cristiam Diaz</a>
     </td>
     <td align="center">
       <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" width="35px;" alt="Francesco601"/>
+        <img src="https://avatars2.githubusercontent.com/u/130352141" width="30px;" alt="Francesco601"/>
       </a>
       <br />
       <a href="https://github.com/Francesco601">Francesco Franco</a>
@@ -185,49 +185,49 @@ Text         1 min           -------------------------   00.25 %
   <tr>
     <td align="center">
       <a href="https://github.com/Parikshit-Hooda">
-        <img src="https://avatars2.githubusercontent.com/u/25405707" width="35px;" alt="Parikshit-Hooda"/>
+        <img src="https://avatars2.githubusercontent.com/u/25405707" width="30px;" alt="Parikshit-Hooda"/>
       </a>
       <br />
       <a href="https://github.com/Parikshit-Hooda">Parikshit Hooda</a>
     </td>
     <td align="center">
       <a href="https://github.com/camilochs">
-        <img src="https://avatars2.githubusercontent.com/u/1832594" width="35px;" alt="camilochs"/>
+        <img src="https://avatars2.githubusercontent.com/u/1832594" width="30px;" alt="camilochs"/>
       </a>
       <br />
       <a href="https://github.com/camilochs">Camilo Chacón Sartori</a>
     </td>
     <td align="center">
       <a href="https://github.com/achowba">
-        <img src="https://avatars2.githubusercontent.com/u/20032269" width="35px;" alt="achowba"/>
+        <img src="https://avatars2.githubusercontent.com/u/20032269" width="30px;" alt="achowba"/>
       </a>
       <br />
       <a href="https://github.com/achowba">Atauba Prince M.</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tolsee">
-        <img src="https://avatars2.githubusercontent.com/u/16590492" width="35px;" alt="Tolsee"/>
+        <img src="https://avatars2.githubusercontent.com/u/16590492" width="30px;" alt="Tolsee"/>
       </a>
       <br />
       <a href="https://github.com/Tolsee">Tolsee</a>
     </td>
     <td align="center">
       <a href="https://github.com/ridhwandaud">
-        <img src="https://avatars2.githubusercontent.com/u/9943357" width="35px;" alt="ridhwandaud"/>
+        <img src="https://avatars2.githubusercontent.com/u/9943357" width="30px;" alt="ridhwandaud"/>
       </a>
       <br />
       <a href="https://github.com/ridhwandaud">Ridhwan</a>
     </td>
     <td align="center">
       <a href="https://github.com/felix-orduz">
-        <img src="https://avatars2.githubusercontent.com/u/242205" width="35px;" alt="felix-orduz"/>
+        <img src="https://avatars2.githubusercontent.com/u/242205" width="30px;" alt="felix-orduz"/>
       </a>
       <br />
       <a href="https://github.com/felix-orduz">Felix Ernesto Orduz Grimaldo</a>
     </td>
     <td align="center">
       <a href="https://github.com/mahmudremal">
-        <img src="https://avatars2.githubusercontent.com/u/95857130" width="35px;" alt="mahmudremal"/>
+        <img src="https://avatars2.githubusercontent.com/u/95857130" width="30px;" alt="mahmudremal"/>
       </a>
       <br />
       <a href="https://github.com/mahmudremal">Remal Mahmud</a>
@@ -236,49 +236,49 @@ Text         1 min           -------------------------   00.25 %
   <tr>
     <td align="center">
       <a href="https://github.com/gpuente">
-        <img src="https://avatars2.githubusercontent.com/u/20387722" width="35px;" alt="gpuente"/>
+        <img src="https://avatars2.githubusercontent.com/u/20387722" width="30px;" alt="gpuente"/>
       </a>
       <br />
       <a href="https://github.com/gpuente">Guillermo Puente Sandoval</a>
     </td>
     <td align="center">
       <a href="https://github.com/antzshrek">
-        <img src="https://avatars2.githubusercontent.com/u/28227508" width="35px;" alt="antzshrek"/>
+        <img src="https://avatars2.githubusercontent.com/u/28227508" width="30px;" alt="antzshrek"/>
       </a>
       <br />
       <a href="https://github.com/antzshrek">Reuben Antz</a>
     </td>
     <td align="center">
       <a href="https://github.com/singingcodes">
-        <img src="https://avatars2.githubusercontent.com/u/29276113" width="35px;" alt="singingcodes"/>
+        <img src="https://avatars2.githubusercontent.com/u/29276113" width="30px;" alt="singingcodes"/>
       </a>
       <br />
       <a href="https://github.com/singingcodes">Sarah Ayanwale</a>
     </td>
     <td align="center">
       <a href="https://github.com/pipiyo">
-        <img src="https://avatars2.githubusercontent.com/u/15932156" width="35px;" alt="pipiyo"/>
+        <img src="https://avatars2.githubusercontent.com/u/15932156" width="30px;" alt="pipiyo"/>
       </a>
       <br />
       <a href="https://github.com/pipiyo">Felipe</a>
     </td>
     <td align="center">
       <a href="https://github.com/codeinearts">
-        <img src="https://avatars2.githubusercontent.com/u/17154908" width="35px;" alt="codeinearts"/>
+        <img src="https://avatars2.githubusercontent.com/u/17154908" width="30px;" alt="codeinearts"/>
       </a>
       <br />
       <a href="https://github.com/codeinearts">Ian Sebastian</a>
     </td>
     <td align="center">
       <a href="https://github.com/dbwdev">
-        <img src="https://avatars2.githubusercontent.com/u/7495086" width="35px;" alt="dbwdev"/>
+        <img src="https://avatars2.githubusercontent.com/u/7495086" width="30px;" alt="dbwdev"/>
       </a>
       <br />
       <a href="https://github.com/dbwdev">Bruce Wong</a>
     </td>
     <td align="center">
       <a href="https://github.com/PardesiCat">
-        <img src="https://avatars2.githubusercontent.com/u/55957190" width="35px;" alt="PardesiCat"/>
+        <img src="https://avatars2.githubusercontent.com/u/55957190" width="30px;" alt="PardesiCat"/>
       </a>
       <br />
       <a href="https://github.com/PardesiCat">Pardesi_Cat</a>
