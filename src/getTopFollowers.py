@@ -119,7 +119,6 @@ query {{
 '''
 
     html += "  </tr>\n</table>"
-    """
 
    html = "<table style='width:100%;'>\n"
    
