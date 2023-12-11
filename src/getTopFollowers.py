@@ -100,7 +100,7 @@ query {{
 
 
    html = "<table style='width:100%;'>\n"
-   
+      
    for i in range(min(len(followers), 21)):
        login = followers[i][1]
        id = followers[i][2]
@@ -110,12 +110,12 @@ query {{
                html += "  </tr>\n"
            html += "  <tr>\n"
        html += f'''    <td align="center" style="width:14%; max-width: 150px;">
-     <a href="https://github.com/{login}">
-       <img src="https://avatars2.githubusercontent.com/u/{id}" style="width:100%; max-width: 100px;" alt="{login}"/>
-     </a>
-     <br />
-     <a href="https://github.com/{login}">{name}</a>
-   </td>
+         <a href="https://github.com/{login}">
+           <img src="https://avatars2.githubusercontent.com/u/{id}" style="width:100%; max-width: 100px;" alt="{login}"/>
+         </a>
+         <br />
+         <a href="https://github.com/{login}">{name}</a>
+       </td>
 '''
    
    html += "  </tr>\n</table>"
