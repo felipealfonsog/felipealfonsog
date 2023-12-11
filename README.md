@@ -62,7 +62,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 -->
 <!-- <details open> -->
 <details>
-<summary>:star2: <strong>Most Used Languages | Commit and Pull Request Stats | Wakatime</strong>*</summary>
+<summary>:star2: <strong>Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
 <br>
 
 <!-- 
@@ -73,6 +73,16 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 [![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
 
+
+
+<sub>*Data may exhibit discrepancies or errors due to the [Vercel service](https://vercel.com/), empowering GitHub statistics and functions.</sub>
+<br>
+</details>
+
+<details open>
+<summary>:star2: <strong> Wakatime</strong>*</summary>
+<br>
+
 <!--
 ```
 
@@ -80,29 +90,10 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 -->
 
 <!--START_SECTION:waka-->
-
-```rust
-From: 04 December 2023 - To: 10 December 2023
-
-Total Time: 8 hrs 55 mins
-
-C            4 hrs 42 mins   >>>>>>>>>>>>>------------   52.69 %
-Bash         1 hr 20 mins    >>>>---------------------   15.05 %
-Markdown     1 hr 20 mins    >>>>---------------------   14.99 %
-C++          52 mins         >>-----------------------   09.87 %
-PHP          21 mins         >------------------------   03.98 %
-Python       5 mins          -------------------------   01.01 %
-INI          5 mins          -------------------------   00.94 %
-HTML         2 mins          -------------------------   00.50 %
-Vim Script   2 mins          -------------------------   00.50 %
-Text         1 min           -------------------------   00.25 %
-```
-
 <!--END_SECTION:waka-->
 
-<sub>*Data may exhibit discrepancies or errors due to the [Vercel service](https://vercel.com/), empowering GitHub statistics and functions.</sub>
-
 <sub>The coding time tracked on the Wakatime badge started on Dec 4, 2023. Any variations depend on the Wakatime service. [Learn more about Wakatime](https://wakatime.com/).</sub>
+<br>
 </details>
 
 <details open>
