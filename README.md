@@ -133,129 +133,33 @@ Text         1 min           -------------------------   00.25 %
 <ul>
     <li>
       <a href="https://github.com/nelsonic">
-        <img src="https://avatars2.githubusercontent.com/u/194400" style="width:50px; height:50px;" alt="nelsonic"/>
+        <img src="https://avatars2.githubusercontent.com/u/194400" style="width:30px; height:30px;" alt="nelsonic"/>
       </a>
       <a href="https://github.com/nelsonic">Nelson</a>
     </li>
     <li>
       <a href="https://github.com/AdiChat">
-        <img src="https://avatars2.githubusercontent.com/u/10634210" style="width:50px; height:50px;" alt="AdiChat"/>
+        <img src="https://avatars2.githubusercontent.com/u/10634210" style="width:30px; height:30px;" alt="AdiChat"/>
       </a>
       <a href="https://github.com/AdiChat">Aditya Chatterjee</a>
     </li>
     <li>
       <a href="https://github.com/kroitor">
-        <img src="https://avatars2.githubusercontent.com/u/1294454" style="width:50px; height:50px;" alt="kroitor"/>
+        <img src="https://avatars2.githubusercontent.com/u/1294454" style="width:30px; height:30px;" alt="kroitor"/>
       </a>
       <a href="https://github.com/kroitor">Igor Kroitor</a>
     </li>
     <li>
       <a href="https://github.com/lporras">
-        <img src="https://avatars2.githubusercontent.com/u/232293" style="width:50px; height:50px;" alt="lporras"/>
+        <img src="https://avatars2.githubusercontent.com/u/232293" style="width:30px; height:30px;" alt="lporras"/>
       </a>
       <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
     </li>
     <li>
       <a href="https://github.com/devmgod">
-        <img src="https://avatars2.githubusercontent.com/u/102416175" style="width:50px; height:50px;" alt="devmgod"/>
+        <img src="https://avatars2.githubusercontent.com/u/102416175" style="width:30px; height:30px;" alt="devmgod"/>
       </a>
       <a href="https://github.com/devmgod">devmgod</a>
-    </li>
-    <li>
-      <a href="https://github.com/cdiaz">
-        <img src="https://avatars2.githubusercontent.com/u/3867689" style="width:50px; height:50px;" alt="cdiaz"/>
-      </a>
-      <a href="https://github.com/cdiaz">Cristiam Diaz</a>
-    </li>
-    <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:50px; height:50px;" alt="Francesco601"/>
-      </a>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
-    </li>
-    <li>
-      <a href="https://github.com/Parikshit-Hooda">
-        <img src="https://avatars2.githubusercontent.com/u/25405707" style="width:50px; height:50px;" alt="Parikshit-Hooda"/>
-      </a>
-      <a href="https://github.com/Parikshit-Hooda">Parikshit Hooda</a>
-    </li>
-    <li>
-      <a href="https://github.com/camilochs">
-        <img src="https://avatars2.githubusercontent.com/u/1832594" style="width:50px; height:50px;" alt="camilochs"/>
-      </a>
-      <a href="https://github.com/camilochs">Camilo Chacón Sartori</a>
-    </li>
-    <li>
-      <a href="https://github.com/achowba">
-        <img src="https://avatars2.githubusercontent.com/u/20032269" style="width:50px; height:50px;" alt="achowba"/>
-      </a>
-      <a href="https://github.com/achowba">Atauba Prince M.</a>
-    </li>
-    <li>
-      <a href="https://github.com/Tolsee">
-        <img src="https://avatars2.githubusercontent.com/u/16590492" style="width:50px; height:50px;" alt="Tolsee"/>
-      </a>
-      <a href="https://github.com/Tolsee">Tolsee</a>
-    </li>
-    <li>
-      <a href="https://github.com/ridhwandaud">
-        <img src="https://avatars2.githubusercontent.com/u/9943357" style="width:50px; height:50px;" alt="ridhwandaud"/>
-      </a>
-      <a href="https://github.com/ridhwandaud">Ridhwan</a>
-    </li>
-    <li>
-      <a href="https://github.com/felix-orduz">
-        <img src="https://avatars2.githubusercontent.com/u/242205" style="width:50px; height:50px;" alt="felix-orduz"/>
-      </a>
-      <a href="https://github.com/felix-orduz">Felix Ernesto Orduz Grimaldo</a>
-    </li>
-    <li>
-      <a href="https://github.com/mahmudremal">
-        <img src="https://avatars2.githubusercontent.com/u/95857130" style="width:50px; height:50px;" alt="mahmudremal"/>
-      </a>
-      <a href="https://github.com/mahmudremal">Remal Mahmud</a>
-    </li>
-    <li>
-      <a href="https://github.com/gpuente">
-        <img src="https://avatars2.githubusercontent.com/u/20387722" style="width:50px; height:50px;" alt="gpuente"/>
-      </a>
-      <a href="https://github.com/gpuente">Guillermo Puente Sandoval</a>
-    </li>
-    <li>
-      <a href="https://github.com/antzshrek">
-        <img src="https://avatars2.githubusercontent.com/u/28227508" style="width:50px; height:50px;" alt="antzshrek"/>
-      </a>
-      <a href="https://github.com/antzshrek">Reuben Antz</a>
-    </li>
-    <li>
-      <a href="https://github.com/singingcodes">
-        <img src="https://avatars2.githubusercontent.com/u/29276113" style="width:50px; height:50px;" alt="singingcodes"/>
-      </a>
-      <a href="https://github.com/singingcodes">Sarah Ayanwale</a>
-    </li>
-    <li>
-      <a href="https://github.com/pipiyo">
-        <img src="https://avatars2.githubusercontent.com/u/15932156" style="width:50px; height:50px;" alt="pipiyo"/>
-      </a>
-      <a href="https://github.com/pipiyo">Felipe</a>
-    </li>
-    <li>
-      <a href="https://github.com/codeinearts">
-        <img src="https://avatars2.githubusercontent.com/u/17154908" style="width:50px; height:50px;" alt="codeinearts"/>
-      </a>
-      <a href="https://github.com/codeinearts">Ian Sebastian</a>
-    </li>
-    <li>
-      <a href="https://github.com/dbwdev">
-        <img src="https://avatars2.githubusercontent.com/u/7495086" style="width:50px; height:50px;" alt="dbwdev"/>
-      </a>
-      <a href="https://github.com/dbwdev">Bruce Wong</a>
-    </li>
-    <li>
-      <a href="https://github.com/PardesiCat">
-        <img src="https://avatars2.githubusercontent.com/u/55957190" style="width:50px; height:50px;" alt="PardesiCat"/>
-      </a>
-      <a href="https://github.com/PardesiCat">Pardesi_Cat</a>
     </li>
 </ul>
 <!--END_SECTION:top-followers-->
