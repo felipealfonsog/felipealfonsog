@@ -92,20 +92,18 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-Total Time: 8 hrs 55 mins
+Total Time: 9 hrs 29 mins
 
-C            4 hrs 42 mins   >>>>>>>>>>>>>------------   52.69 %
-Bash         1 hr 20 mins    >>>>---------------------   15.05 %
-Markdown     1 hr 20 mins    >>>>---------------------   14.99 %
-C++          52 mins         >>-----------------------   09.87 %
-PHP          21 mins         >------------------------   03.98 %
-Python       5 mins          -------------------------   01.01 %
-INI          5 mins          -------------------------   00.94 %
-HTML         2 mins          -------------------------   00.50 %
-Vim Script   2 mins          -------------------------   00.50 %
-Text         1 min           -------------------------   00.25 %
+C            4 hrs 42 mins   >>>>>>>>>>>>-------------   49.07 %
+Markdown     1 hr 32 mins    >>>>---------------------   16.12 %
+Bash         1 hr 23 mins    >>>>---------------------   14.53 %
+C++          52 mins         >>-----------------------   09.19 %
+PHP          21 mins         >------------------------   03.70 %
+INI          13 mins         >------------------------   02.33 %
+Text         8 mins          -------------------------   01.44 %
+Other        6 mins          -------------------------   01.17 %
 ```
 
 <!--END_SECTION:waka-->
