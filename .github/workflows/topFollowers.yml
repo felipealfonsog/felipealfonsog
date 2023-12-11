@@ -13,9 +13,10 @@
   top-followers:
   runs-on: ubuntu-latest
   steps:
-   - uses: actions/checkout@v2
-   - name: Setup python
-   - uses: actions/setup-python@v2
+   - uses: actions/top-followersmaster@master
+   #- uses: actions/checkout@v2
+   #- name: Setup python
+   #- uses: actions/setup-python@v2
    #- uses: athul/waka-readme@master # do NOT replace with anything else
     with:
      python-version: 3.8
