@@ -139,6 +139,7 @@ Text         1 min           -------------------------   00.25 %
       <sub>
       <a href="https://github.com/nelsonic">Nelson</a>
       </sub>
+      <br>
     </li>
     <li>
       <a href="https://github.com/AdiChat">
@@ -148,6 +149,7 @@ Text         1 min           -------------------------   00.25 %
       <sub>
       <a href="https://github.com/AdiChat">Aditya Chatterjee</a>
       </sub>
+      <br>
     </li>
     <li>
       <a href="https://github.com/kroitor">
@@ -157,6 +159,7 @@ Text         1 min           -------------------------   00.25 %
       <sub>
       <a href="https://github.com/kroitor">Igor Kroitor</a>
       </sub>
+      <br>
     </li>
     <li>
       <a href="https://github.com/lporras">
@@ -166,6 +169,7 @@ Text         1 min           -------------------------   00.25 %
       <sub>
       <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
       </sub>
+      <br>
     </li>
     <li>
       <a href="https://github.com/devmgod">
@@ -175,6 +179,7 @@ Text         1 min           -------------------------   00.25 %
       <sub>
       <a href="https://github.com/devmgod">devmgod</a>
       </sub>
+      <br>
     </li>
 </ul>
 <!--END_SECTION:top-followers-->
