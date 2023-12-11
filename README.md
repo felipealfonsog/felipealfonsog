@@ -127,7 +127,7 @@ Text         1 min           -------------------------   00.25 %
 <summary>My top followers* :rocket::star2:...</summary>
 <br>
 
-[![.github/workflows/topFollowers.yml](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/topFollowers.yml/badge.svg)](#)
+[![Get Top Followers](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/topFollowers.yml/badge.svg?branch=master)](#)
 
  <!--START_SECTION:top-followers-->
 <table>
