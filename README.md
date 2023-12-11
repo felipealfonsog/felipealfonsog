@@ -71,10 +71,6 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css)
 ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 
-[![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
-
-
-
 <sub>*Data may exhibit discrepancies or errors due to the [Vercel service](https://vercel.com/), empowering GitHub statistics and functions.</sub>
 <br>
 </details>
@@ -83,6 +79,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <summary>:star2: <strong> Wakatime</strong>*</summary>
 <br>
 
+[![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
+
 <!--
 ```
 
@@ -90,24 +88,6 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 -->
 
 <!--START_SECTION:waka-->
-
-```rust
-From: 04 December 2023 - To: 10 December 2023
-
-Total Time: 8 hrs 55 mins
-
-C            4 hrs 42 mins   >>>>>>>>>>>>>------------   52.69 %
-Bash         1 hr 20 mins    >>>>---------------------   15.05 %
-Markdown     1 hr 20 mins    >>>>---------------------   14.99 %
-C++          52 mins         >>-----------------------   09.87 %
-PHP          21 mins         >------------------------   03.98 %
-Python       5 mins          -------------------------   01.01 %
-INI          5 mins          -------------------------   00.94 %
-HTML         2 mins          -------------------------   00.50 %
-Vim Script   2 mins          -------------------------   00.50 %
-Text         1 min           -------------------------   00.25 %
-```
-
 <!--END_SECTION:waka-->
 
 <sub>The coding time tracked on the Wakatime badge started on Dec 4, 2023. Any variations depend on the Wakatime service. [Learn more about Wakatime](https://wakatime.com/).</sub>
