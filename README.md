@@ -129,8 +129,163 @@ Text         1 min           -------------------------   00.25 %
 
 [![.github/workflows/topFollowers.yml](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/topFollowers.yml/badge.svg)](#)
 
- <!--START_SECTION:top-followers--> 
- <!--END_SECTION:top-followers-->
+ <!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nelsonic">
+        <img src="https://avatars2.githubusercontent.com/u/194400" width="100px;" alt="nelsonic"/>
+      </a>
+      <br />
+      <a href="https://github.com/nelsonic">Nelson</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AdiChat">
+        <img src="https://avatars2.githubusercontent.com/u/10634210" width="100px;" alt="AdiChat"/>
+      </a>
+      <br />
+      <a href="https://github.com/AdiChat">Aditya Chatterjee</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kroitor">
+        <img src="https://avatars2.githubusercontent.com/u/1294454" width="100px;" alt="kroitor"/>
+      </a>
+      <br />
+      <a href="https://github.com/kroitor">Igor Kroitor</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lporras">
+        <img src="https://avatars2.githubusercontent.com/u/232293" width="100px;" alt="lporras"/>
+      </a>
+      <br />
+      <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/devmgod">
+        <img src="https://avatars2.githubusercontent.com/u/102416175" width="100px;" alt="devmgod"/>
+      </a>
+      <br />
+      <a href="https://github.com/devmgod">devmgod</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cdiaz">
+        <img src="https://avatars2.githubusercontent.com/u/3867689" width="100px;" alt="cdiaz"/>
+      </a>
+      <br />
+      <a href="https://github.com/cdiaz">Cristiam Diaz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" width="100px;" alt="Francesco601"/>
+      </a>
+      <br />
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Parikshit-Hooda">
+        <img src="https://avatars2.githubusercontent.com/u/25405707" width="100px;" alt="Parikshit-Hooda"/>
+      </a>
+      <br />
+      <a href="https://github.com/Parikshit-Hooda">Parikshit Hooda</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/camilochs">
+        <img src="https://avatars2.githubusercontent.com/u/1832594" width="100px;" alt="camilochs"/>
+      </a>
+      <br />
+      <a href="https://github.com/camilochs">Camilo Chacón Sartori</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/achowba">
+        <img src="https://avatars2.githubusercontent.com/u/20032269" width="100px;" alt="achowba"/>
+      </a>
+      <br />
+      <a href="https://github.com/achowba">Atauba Prince M.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tolsee">
+        <img src="https://avatars2.githubusercontent.com/u/16590492" width="100px;" alt="Tolsee"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tolsee">Tolsee</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ridhwandaud">
+        <img src="https://avatars2.githubusercontent.com/u/9943357" width="100px;" alt="ridhwandaud"/>
+      </a>
+      <br />
+      <a href="https://github.com/ridhwandaud">Ridhwan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/felix-orduz">
+        <img src="https://avatars2.githubusercontent.com/u/242205" width="100px;" alt="felix-orduz"/>
+      </a>
+      <br />
+      <a href="https://github.com/felix-orduz">Felix Ernesto Orduz Grimaldo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mahmudremal">
+        <img src="https://avatars2.githubusercontent.com/u/95857130" width="100px;" alt="mahmudremal"/>
+      </a>
+      <br />
+      <a href="https://github.com/mahmudremal">Remal Mahmud</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gpuente">
+        <img src="https://avatars2.githubusercontent.com/u/20387722" width="100px;" alt="gpuente"/>
+      </a>
+      <br />
+      <a href="https://github.com/gpuente">Guillermo Puente Sandoval</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antzshrek">
+        <img src="https://avatars2.githubusercontent.com/u/28227508" width="100px;" alt="antzshrek"/>
+      </a>
+      <br />
+      <a href="https://github.com/antzshrek">Reuben Antz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/singingcodes">
+        <img src="https://avatars2.githubusercontent.com/u/29276113" width="100px;" alt="singingcodes"/>
+      </a>
+      <br />
+      <a href="https://github.com/singingcodes">Sarah Ayanwale</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pipiyo">
+        <img src="https://avatars2.githubusercontent.com/u/15932156" width="100px;" alt="pipiyo"/>
+      </a>
+      <br />
+      <a href="https://github.com/pipiyo">Felipe</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/codeinearts">
+        <img src="https://avatars2.githubusercontent.com/u/17154908" width="100px;" alt="codeinearts"/>
+      </a>
+      <br />
+      <a href="https://github.com/codeinearts">Ian Sebastian</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dbwdev">
+        <img src="https://avatars2.githubusercontent.com/u/7495086" width="100px;" alt="dbwdev"/>
+      </a>
+      <br />
+      <a href="https://github.com/dbwdev">Bruce Wong</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PardesiCat">
+        <img src="https://avatars2.githubusercontent.com/u/55957190" width="100px;" alt="PardesiCat"/>
+      </a>
+      <br />
+      <a href="https://github.com/PardesiCat">Pardesi_Cat</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
 
 <sub>*This section may contain errors resulting from code execution and in the call to action for data presentation.</sub>
 <br>
