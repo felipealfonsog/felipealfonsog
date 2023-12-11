@@ -113,6 +113,7 @@ query {{
       <sub>
       <a href="https://github.com/{login}">{name}</a>
       </sub>
+      <br>
     </li>
 '''
 
