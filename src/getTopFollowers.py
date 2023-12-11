@@ -100,14 +100,14 @@ query {{
 
     html = "<ul>\n"
 
-    for i in range(min(len(followers), 21)):
+    for i in range(min(len(followers), 5)):
         login = followers[i][1]
         id = followers[i][2]
         name = followers[i][3]
 
         html += f'''    <li>
       <a href="https://github.com/{login}">
-        <img src="https://avatars2.githubusercontent.com/u/{id}" style="width:50px; height:50px;" alt="{login}"/>
+        <img src="https://avatars2.githubusercontent.com/u/{id}" style="width:30px; height:30px;" alt="{login}"/>
       </a>
       <a href="https://github.com/{login}">{name}</a>
     </li>
