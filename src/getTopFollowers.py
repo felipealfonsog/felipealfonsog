@@ -99,9 +99,9 @@ query {{
     followers.sort(reverse = True)
 
 
-   html = "<table style='width:100%;'>\n"
+    html = "<table>\n"
       
-   for i in range(min(len(followers), 21)):
+    for i in range(min(len(followers), 21)):
        login = followers[i][1]
        id = followers[i][2]
        name = followers[i][3]
