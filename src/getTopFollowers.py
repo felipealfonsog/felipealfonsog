@@ -98,26 +98,24 @@ query {{
 
     followers.sort(reverse = True)
 
-    html = "<table border='0'  style='width:100%;'>\n"
+    html = "<ul>\n"
 
     for i in range(min(len(followers), 21)):
         login = followers[i][1]
         id = followers[i][2]
         name = followers[i][3]
-        if i % 7 == 0:
-            if i != 0:
-                html += "  </tr>\n"
-            html += "  <tr>\n"
-        html += f'''    <td align="center" style="width:14%; max-width: 150px;">
+
+        html += f'''    <li>
       <a href="https://github.com/{login}">
-        <img src="https://avatars2.githubusercontent.com/u/{id}" width="30px;" style="width:30%; max-width: 30px;" alt="{login}"/>
+        <img src="https://avatars2.githubusercontent.com/u/{id}" style="width:50px; height:50px;" alt="{login}"/>
       </a>
-      <br />
       <a href="https://github.com/{login}">{name}</a>
-    </td>
+    </li>
 '''
 
-    html += "  </tr>\n</table>"
+    html += "</ul>"
+
+
 
 
 
