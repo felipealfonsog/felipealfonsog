@@ -33,7 +33,7 @@ jobs:
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional - default = 10
+          LANG_COUNT: 20 # optional - default = 10
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
