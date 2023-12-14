@@ -30,10 +30,10 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: ░▒▓█ #optional - default : ->  ⢀⣀⣠⣤⣶⣿⣿⣿⣿ ░▒▓█
+          BLOCKS: ░▒▓█ #optional - default : -> or, ⢀⣀⣠⣤⣶⣿⣿⣿⣿ ░▒▓█ ⣀⣄⣤⣦⣶⣷⣿ -# =>
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 25 # optional - default = 10
+          LANG_COUNT: 20 # optional - default = 10
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
