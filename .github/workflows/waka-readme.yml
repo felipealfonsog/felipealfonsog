@@ -29,8 +29,8 @@ jobs:
           REPOSITORY: felipealfonsog/felipealfonsog # optional
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: ░▒▓█ #optional - default : -> or, ⢀⣀⣠⣤⣶⣿⣿⣿⣿ ░▒▓█ ⣀⣄⣤⣦⣶⣷⣿ -# =>
+          SECTION_NAME: waka # optional 
+          BLOCKS: ○●◔◕◐◕◔◐●◔◐◕ #optional - default : -> or, ⢀⣀⣠⣤⣶⣿⣿⣿⣿ ░▒▓█ ⣀⣄⣤⣦⣶⣷⣿ -# =>
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 20 # optional - default = 10
