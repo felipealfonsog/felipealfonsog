@@ -175,12 +175,12 @@ Other           6 mins          ◕○○○○○○○○○○○○○○○
     </li>
     <br>
     <li>
-      <a href="https://github.com/devmgod">
-        <img src="https://avatars2.githubusercontent.com/u/102416175" style="width:30px; height:30px;" alt="devmgod"/>
+      <a href="https://github.com/cdiaz">
+        <img src="https://avatars2.githubusercontent.com/u/3867689" style="width:30px; height:30px;" alt="cdiaz"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/devmgod">devmgod</a>
+      <a href="https://github.com/cdiaz">Cristiam Diaz</a>
       </sub>
     </li>
     <br>
