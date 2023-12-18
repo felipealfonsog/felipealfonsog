@@ -145,16 +145,6 @@ Other           6 mins          ◕○○○○○○○○○○○○○○○
     </li>
     <br>
     <li>
-      <a href="https://github.com/AdiChat">
-        <img src="https://avatars2.githubusercontent.com/u/10634210" style="width:30px; height:30px;" alt="AdiChat"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/AdiChat">Aditya Chatterjee</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/kroitor">
         <img src="https://avatars2.githubusercontent.com/u/1294454" style="width:30px; height:30px;" alt="kroitor"/>
       </a>
@@ -181,6 +171,16 @@ Other           6 mins          ◕○○○○○○○○○○○○○○○
       <br>
       <sub>
       <a href="https://github.com/cdiaz">Cristiam Diaz</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
