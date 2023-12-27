@@ -124,6 +124,8 @@ Other           8 mins          ◕○○○○○○○○○○○○○○○
 [![committers.top badge](https://user-badge.committers.top/chile/felipealfonsog.svg)](https://user-badge.committers.top/chile/felipealfonsog)
 
 <sub>*More information about the top committers in Chile [here](https://committers.top/chile).</sub>
+
+<sub>You can also checkout my codersrank profile [here](https://profile.codersrank.io/user/felipealfonsog) </sub>
 </details>
 
 <details>
