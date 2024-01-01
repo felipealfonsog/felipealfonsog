@@ -92,7 +92,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 31 December 2023
+From: 04 December 2023 - To: 01 January 2024
 
 Total Time: 16 hrs 14 mins
 
