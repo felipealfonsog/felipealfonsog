@@ -4,7 +4,7 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20"/>](https://www.linkedin.com/in/felipealfonsog/) 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="20"/>](https://twitter.com/felipealfonsog) 
-[<img src="https://img.shields.io/badge/Website-%2312100E?style=flat-square&logo=globe&logoColor=white" height="20"/>](https://glzengrg.com)
+[<img src="https://img.shields.io/badge/Website-%2312100E?style=flat-square&logo=link&logoColor=white" height="20"/>](https://glzengrg.com)
 
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported.</sub>
 
