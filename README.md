@@ -5,7 +5,7 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/felipealfonsog/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/felipealfonsog)
 -->
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" height="20"/>](https://www.linkedin.com/in/felipealfonsog/) [<img src="https://img.shields.io/badge/Twitter 'X'-000000?style=flat&logo=x&logoColor=white&labelColor=000000" height="20"/>](https://twitter.com/felipealfonsog)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" height="20"/>](https://www.linkedin.com/in/felipealfonsog/) [<img src="https://img.shields.io/badge/Twitter (X)-000000?style=flat&logo=x&logoColor=white&labelColor=000000" height="20"/>](https://twitter.com/felipealfonsog)
 
 
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported.</sub>
