@@ -40,6 +40,11 @@ If you are interested in starting a business, consulting, research, or collabora
   
   [![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/Linux)  [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/MacOS)  [![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=flat-square&logo=freebsd&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/FreeBSD)
 
+[![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=flat&logo=freebsd&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/FreeBSD)
+
+
 - The Gospel of Tux Unearthed :book:
 > 📖 [Read the Gospel of Tux Unearthed](https://gist.github.com/felipealfonsog/1727a8393c6112f9a22828df86af3817) :penguin:
 An entertaining story that humorously traces the evolution of Unix and Tux. 🚀 A must-read for tech enthusiasts and open-source lovers!
