@@ -332,7 +332,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 -->
 
-[![Español](https://img.shields.io/badge/Español-ES_cl-blue.svg?style=flat&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇨🇱 
+[![Español](https://img.shields.io/badge/Español-ES_cl-blue.svg?style=flat&logoColor=white&color=blue&labelColor=black)](#) 🇨🇱 
 [![English](https://img.shields.io/badge/English-EN_us-blue.svg?style=flat&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇺🇸 
 [![Français](https://img.shields.io/badge/Français-FR_fr-blue.svg?style=flat&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇫🇷 
 
