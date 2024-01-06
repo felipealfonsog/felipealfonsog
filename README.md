@@ -47,10 +47,18 @@ If you are interested in starting a business, consulting, research, or collabora
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=flat&logo=freebsd&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/FreeBSD)
 -->
-
+<!--
 [![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white&color=black&labelColor=black&labelHeight=12)](https://en.wikipedia.org/wiki/Linux) [<img src="https://img.shields.io/badge/Arch-000000?style=flat&logo=arch-linux&logoColor=white&color=black&labelColor=black&labelHeight=18"/>](https://archlinux.org/) [<img src="https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=white&color=black&labelColor=black&labelHeight=18"/>](https://www.debian.org/) 
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white&color=black&labelColor=black&labelHeight=12)](https://en.wikipedia.org/wiki/MacOS)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=flat&logo=freebsd&logoColor=white&color=black&labelColor=black&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
+-->
+  
+[![Linux](https://img.shields.io/badge/Linux-808080?style=flat&logo=linux&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/Linux)
+[<img src="https://img.shields.io/badge/Arch-808080?style=flat&logo=arch-linux&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://archlinux.org/)
+[<img src="https://img.shields.io/badge/Debian-808080?style=flat&logo=debian&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://www.debian.org/)
+[![macOS](https://img.shields.io/badge/macOS-808080?style=flat&logo=apple&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/MacOS)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-808080?style=flat&logo=freebsd&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
+
 
 - The Gospel of Tux Unearthed :book:
 > 📖 [Read the Gospel of Tux Unearthed](https://gist.github.com/felipealfonsog/1727a8393c6112f9a22828df86af3817) :penguin:
