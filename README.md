@@ -48,7 +48,7 @@ If you are interested in starting a business, consulting, research, or collabora
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=flat&logo=freebsd&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/FreeBSD)
 -->
 
-[![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white&color=black&labelColor=black&labelHeight=12)](https://en.wikipedia.org/wiki/Linux)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white&color=black&labelColor=black&labelHeight=12)](https://en.wikipedia.org/wiki/Linux) [<img src="https://img.shields.io/badge/Arch-000000?style=flat&logo=arch-linux&logoColor=white&color=blue&labelColor=1793D1&labelHeight=18"/>](https://archlinux.org/) [<img src="https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=white&color=A81D33&labelColor=D70A53&labelHeight=18"/>](https://www.debian.org/) 
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white&color=black&labelColor=black&labelHeight=12)](https://en.wikipedia.org/wiki/MacOS)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=flat&logo=freebsd&logoColor=white&color=black&labelColor=black&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
 
