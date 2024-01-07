@@ -20,8 +20,6 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 [<img src="https://img.shields.io/badge/Twitter-2B2B2B?style=flat&logo=x&logoColor=white&labelColor=2B2B2B" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/E&ndash;mail-2B2B2B?style=flat&logo=gmail&logoColor=white&labelColor=2B2B2B" height="19"/>](mailto:f.alfonso@res-ear.ch)
 -->
-[![Goodreads](https://img.shields.io/badge/Goodreads-felipealfonsog-372213?style=flat&logo=goodreads&logoColor=white&color=372213)](https://www.goodreads.com/felipealfonsog)
-
 [<img src="https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=white&labelColor=333333" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/Twitter-333333?style=flat&logo=x&logoColor=white&labelColor=333333" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-333333?style=flat&logo=linktree&logoColor=white&labelColor=333333" height="19"/>](https://linktr.ee/felipealfonsog)
@@ -367,6 +365,8 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![English](https://img.shields.io/badge/English-000000?style=flat&logoColor=white&color=blue&labelColor=DBEDF3&labelHeight=18)](#) 🇺🇸 
 [![Français](https://img.shields.io/badge/Français-000000?style=flat&logoColor=white&color=blue&labelColor=DBEDF3&labelHeight=18)](#) 🇫🇷
 -->
+
+[![Goodreads](https://img.shields.io/badge/Goodreads-felipealfonsog-372213?style=flat&logo=goodreads&logoColor=white&color=372213)](https://www.goodreads.com/felipealfonsog)
 
 #### Support
 
