@@ -85,7 +85,7 @@ An entertaining story that humorously traces the evolution of Unix and Tux. 🚀
 Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't forget to leave a ⭐️ if you like it.
 
 <details open >
-<summary>📚 More about me 💼</summary>
+<summary>📰 Read On 💼</summary>
   <br>
 
 - 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in different areas. It's an exciting journey to explore the intersection of data & engineering! 📊⚙️
