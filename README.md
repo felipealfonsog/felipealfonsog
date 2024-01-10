@@ -76,7 +76,7 @@ If you are interested in starting a business, consulting, research, or collabora
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-808080?style=flat&logo=freebsd&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
 </details>
 
-📝 The Gospel of Tux Unearthed :book:
+📄 The Gospel of Tux Unearthed :book:
 > 📖 [Read the Gospel of Tux Unearthed](https://gist.github.com/felipealfonsog/1727a8393c6112f9a22828df86af3817) :penguin:
 An entertaining story that humorously traces the evolution of Unix and Tux. 🚀 A must-read for tech enthusiasts and open-source lovers!
 🔗 **[English Version](https://gist.github.com/felipealfonsog/1727a8393c6112f9a22828df86af3817)** 🔗
