@@ -93,7 +93,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
   <br>
 </details>
 
-> ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - [Jake the dog](https://en.wikipedia.org/wiki/Jake_the_Dog) holds true! You can check it out for yourself 😄. 🐶
+> ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - [Jake the dog](https://en.wikipedia.org/wiki/Jake_the_Dog) :JakeTheDog: holds true! You can check it out for yourself 😄. 🐶
 
 > "Creativity is intelligence having fun." - Albert Einstein
 
