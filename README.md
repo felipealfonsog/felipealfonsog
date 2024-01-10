@@ -74,9 +74,6 @@ If you are interested in starting a business, consulting, research, or collabora
 [<img src="https://img.shields.io/badge/Debian-808080?style=flat&logo=debian&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://www.debian.org/)
 [![macOS](https://img.shields.io/badge/macOS-808080?style=flat&logo=apple&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/MacOS)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-808080?style=flat&logo=freebsd&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
-
-<br>
-
 </details>
 
 - The Gospel of Tux Unearthed :book:
