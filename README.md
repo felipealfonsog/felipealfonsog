@@ -62,19 +62,15 @@ If you are interested in starting a business, consulting, research, or collabora
 <details>
   <summary>📝 In brief, let me provide you with some additional details about myself:</summary>
 
-  - 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems<span id="additional-content" style="display: none;"> like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄 ...</span>
+  - 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems. [Continue reading...](#additional-content)
 
-  <script>
-    if (!document.getElementById('additional-content').closest('details').hasAttribute('open')) {
-      document.getElementById('additional-content').style.display = 'inline';
-    }
-  </script>
+  <div id="additional-content">
+
+  like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄 ...
+
+  </div>
 </details>
 
-
-
-
-</details>
 
 
 <!-- 
