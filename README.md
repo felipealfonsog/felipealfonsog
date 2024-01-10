@@ -57,15 +57,7 @@ If you are interested in starting a business, consulting, research, or collabora
 <br>
 - 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄 
 <br>
-</details>
 
-<details open>
-  <summary>📝 In brief, let me provide you with some additional details about myself:</summary>
-
-- 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based ...<details><summary>(continue reading)</summary>
-
-  ... and deserves a special mention with the  symbol and the badges for Linux & macOS below! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄 ...
-<br>
 <!-- 
 [![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=black&color=grey&labelColor=white)](https://en.wikipedia.org/wiki/MacOS)
@@ -84,7 +76,7 @@ If you are interested in starting a business, consulting, research, or collabora
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-808080?style=flat&logo=freebsd&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
 
 <br>
-</details>
+
 </details>
 
 - The Gospel of Tux Unearthed :book:
