@@ -84,9 +84,12 @@ An entertaining story that humorously traces the evolution of Unix and Tux. 🚀
 
 Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't forget to leave a ⭐️ if you like it.
 
-📚 More about me 💼...
+<details open >
+<summary>📚 More about me 💼</summary>
 - 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in different areas. It's an exciting journey to explore the intersection of data & engineering! 📊⚙️
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/NymexData), Data Research on GitHub too. You can also contact me, as always, by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch) ⚡! 😊
+  <br>
+</details>
 > ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog holds true! You can check it out for yourself 😄. 🐶
 
 > "Creativity is intelligence having fun." - Albert Einstein
