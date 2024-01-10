@@ -86,6 +86,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 <details open >
 <summary>📚 More about me 💼</summary>
+  <br>
 - 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in different areas. It's an exciting journey to explore the intersection of data & engineering! 📊⚙️
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/NymexData), Data Research on GitHub too. You can also contact me, as always, by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch) ⚡! 😊
   <br>
