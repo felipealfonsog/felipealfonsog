@@ -260,7 +260,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <!-- <details open> -->
 <details>
-<summary>🏅 Badges</summary>
+<summary>🏅 Tech Stack Badges </summary>
 <br>
   
 [![Linux](https://img.shields.io/badge/Linux-OS-blue?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
