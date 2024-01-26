@@ -288,6 +288,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Roff](https://img.shields.io/badge/Roff-A81D33?style=flat-square&logo=manjaro&logoColor=white)](https://en.wikipedia.org/wiki/Roff_(software))
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)](https://www.json.org/)
