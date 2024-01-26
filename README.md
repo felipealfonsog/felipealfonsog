@@ -177,7 +177,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 </details>
 
 <details>
-<summary>👥👣 My top followers* :rocket::star2:...</summary>
+<summary>👥🌐 My top followers* :rocket::star2:...</summary>
 <br>
 
 [![Get Top Followers](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/topFollowers.yml/badge.svg?branch=master)](#)
