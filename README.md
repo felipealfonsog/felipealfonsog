@@ -344,7 +344,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,macos,freebsd,gnu,vim,emacs,visualstudio,git,gpg,archlinux,debian,freesoftware,softwarearchitecture,softwareengineering,bigdata,dataengineering,businessintelligence,itmanagement,c,cplusplus,bash,roff,java,html5,css,json,markdown,javascript,php,perl,python,ruby,rust,typescript,mariadb,mongodb,mysql,oracle,postgresql,sqlite,django,nodejs,jquery,angular,react,express,vuejs,nextjs,rubyonrails,aws,azure,docker,heroku,graphql,jupyter,redis,gitlab,github&size=8"/>
+    <img src="https://skillicons.dev/icons?i=linux,vim,emacs,visualstudio,git,gpg,c,cplusplus,bash,roff,java,html5,css,json,markdown,javascript,php,perl,python,ruby,rust,typescript,mariadb,mongodb,mysql,oracle,postgresql,sqlite,django,nodejs,jquery,angular,react,express,vuejs,nextjs,rubyonrails,aws,azure,docker,heroku,graphql,jupyter,redis,gitlab,github&size=8"/>
   </a>
 </p>
 
