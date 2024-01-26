@@ -337,7 +337,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?all&size=32" />
+    <img src="https://skillicons.dev/icons?=all&size=32" />
   </a>
 </p>
 
