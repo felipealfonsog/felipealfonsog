@@ -353,6 +353,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 -->
 
+<!--
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=vim,emacs,vscode,git,c,cpp,bash,rust,express,java,html,css,markdown,react,babel,javascript,jquery,php,perl,jenkins,docker,flask,python,ruby,raspberrypi,typescript,mongodb,mysql,postgresql,sqlite,django,nodejs,jquery,angular,react,haskell,heroku,express,vuejs,nextjs,rails,aws,azure,docker,heroku,graphql,aws,azure,ocaml,pytorch,redis,gitlab,github,latex&size=8"/>
@@ -360,6 +361,8 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 </p>
 
 </details>
+
+-->
 
 </details>
 
