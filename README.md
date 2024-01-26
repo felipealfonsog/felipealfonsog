@@ -323,6 +323,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
+<sub>Tech Stack Icons</sub>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,macos,freebsd,gnu,vim,emacs,visualstudio,git,gpg,archlinux,debian,freesoftware,softwarearchitecture,softwareengineering,bigdata,dataengineering,businessintelligence,itmanagement,c,cplusplus,bash,roff,java,html5,css,json,markdown,javascript,php,perl,python,ruby,rust,typescript,mariadb,mongodb,mysql,oracle,postgresql,sqlite,django,nodejs,jquery,angular,react,express,vuejs,nextjs,rubyonrails,aws,azure,docker,heroku,graphql,jupyter,redis,gitlab,github&size=32" />
+  </a>
+</p>
+
+
 </details>
 
 <details open>
