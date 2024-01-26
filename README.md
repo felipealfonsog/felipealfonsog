@@ -325,13 +325,21 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <sub>Tech Stack Icons</sub>
 
-
+<!--  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,macos,freebsd,gnu,vim,emacs,visualstudio,git,gpg,archlinux,debian,freesoftware,softwarearchitecture,softwareengineering,bigdata,dataengineering,businessintelligence,itmanagement,c,cplusplus,bash,roff,java,html5,css,json,markdown,javascript,php,perl,python,ruby,rust,typescript,mariadb,mongodb,mysql,oracle,postgresql,sqlite,django,nodejs,jquery,angular,react,express,vuejs,nextjs,rubyonrails,aws,azure,docker,heroku,graphql,jupyter,redis,gitlab,github&size=32" />
   </a>
 </p>
 
+-->
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?all&size=32" />
+  </a>
+</p>
 
 </details>
 
