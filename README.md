@@ -366,7 +366,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 </details>
 
 <details open>
-<summary>📚 Research Papers</summary>
+<summary>📚🔍 Research Papers 🗂️</summary>
 <br>
 
 [![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue)](https://onlineiacc.academia.edu/felipealfonsog)
