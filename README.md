@@ -323,7 +323,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
-<sub>Tech Stack Icons</sub>
+> Tech Stack Icons
 
 <!--  
 <p align="center">
