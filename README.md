@@ -27,11 +27,6 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 [<img src="https://img.shields.io/badge/E&ndash;mail-333333?style=flat&logo=gmail&logoColor=white&labelColor=333333" height="19"/>](mailto:f.alfonso@res-ear.ch)
 -->
 
-[<img src="https://img.shields.io/badge/LinkedIn-333333?style=plastic&logo=linkedin&logoColor=white&labelColor=333333&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
-[<img src="https://img.shields.io/badge/Twitter-333333?style=plastic&logo=x&logoColor=white&labelColor=333333&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
-[<img src="https://img.shields.io/badge/Linktree-333333?style=plastic&logo=linktree&logoColor=white&labelColor=333333&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
-[<img src="https://img.shields.io/badge/E&ndash;mail-333333?style=plastic&logo=gmail&logoColor=white&labelColor=333333&logoWidth=20" height="19"/>](mailto:f.alfonso@res-ear.ch)
-
 [<img src="https://img.shields.io/badge/LinkedIn-555555?style=plastic&logo=linkedin&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
