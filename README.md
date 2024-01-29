@@ -75,12 +75,20 @@ If you are interested in starting a business, consulting, research, or collabora
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white&color=black&labelColor=black&labelHeight=12)](https://en.wikipedia.org/wiki/MacOS)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=flat&logo=freebsd&logoColor=white&color=black&labelColor=black&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
 -->
-  
+  <!--
 [![Linux](https://img.shields.io/badge/Linux-808080?style=flat&logo=linux&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/Linux)
 [<img src="https://img.shields.io/badge/Arch-808080?style=flat&logo=arch-linux&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://archlinux.org/)
 [<img src="https://img.shields.io/badge/Debian-808080?style=flat&logo=debian&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://www.debian.org/)
 [![macOS](https://img.shields.io/badge/macOS-808080?style=flat&logo=apple&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/MacOS)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-808080?style=flat&logo=freebsd&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
+-->
+
+[![Linux](https://img.shields.io/badge/Linux-808080?style=plastic&logo=linux&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/Linux)
+[<img src="https://img.shields.io/badge/Arch-808080?style=plastic&logo=arch-linux&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://archlinux.org/)
+[<img src="https://img.shields.io/badge/Debian-808080?style=plastic&logo=debian&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://www.debian.org/)
+[![macOS](https://img.shields.io/badge/macOS-808080?style=plastic&logo=apple&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/MacOS)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-808080?style=plastic&logo=freebsd&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
+
 </details>
 
 📄 The Gospel of Tux Unearthed :book:
