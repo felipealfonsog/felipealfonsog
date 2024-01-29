@@ -311,6 +311,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![GPG](https://img.shields.io/badge/GPG-Key-blue?style=plastic&logo=gnu%20privacy%20guard&logoColor=white)](https://gnupg.org/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-OS-blue?style=plastic&logo=arch%20linux&logoColor=white)](https://www.archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-OS-blue?style=plastic&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Open Source Advocate](https://img.shields.io/badge/Open%20Source%20Advocate-0078D4?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=blue&labelWidth=20)](https://opensource.org/)
 [![Free Software](https://img.shields.io/badge/Free%20Software-Advocate-blue?style=plastic&logo=gnu&logoColor=white)](https://www.fsf.org/)
 [![Software Architecture](https://img.shields.io/badge/Software%20Architecture-555555?style=plastic&logo=codeigniter&logoColor=white&color=blue&labelColor=grey)](https://en.wikipedia.org/wiki/Software_architecture)
 [![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blue?style=plastic)](https://en.wikipedia.org/wiki/Software_engineering)
