@@ -520,6 +520,4 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 <!-- ![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue) -->
 <!-- Last Updated: 2023-07-23 -->
 <br>
-
 [![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org)
-
