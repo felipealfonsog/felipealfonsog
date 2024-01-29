@@ -423,8 +423,10 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![English](https://img.shields.io/badge/English-000000?style=flat&logoColor=white&color=blue&labelColor=DBEDF3&labelHeight=18)](#) 🇺🇸 
 [![Français](https://img.shields.io/badge/Français-000000?style=flat&logoColor=white&color=blue&labelColor=DBEDF3&labelHeight=18)](#) 🇫🇷
 -->
-
+<!--
 [![Goodreads](https://img.shields.io/badge/Goodreads-Bookshelves-372213?style=flat&logo=goodreads&logoColor=white&color=372213)](https://www.goodreads.com/felipealfonsog)
+-->
+[![Goodreads](https://img.shields.io/badge/Goodreads-Bookshelves-372213?style=plastic&logo=goodreads&logoColor=white&color=372213)](https://www.goodreads.com/felipealfonsog)
 
 #### Support
 
