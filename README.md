@@ -519,3 +519,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 <!-- ![Last Updated](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square) -->
 <!-- ![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue) -->
 <!-- Last Updated: 2023-07-23 -->
+<br>
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white&labelColor=282C34&color=11AB00)](https://www.vim.org/)
+
