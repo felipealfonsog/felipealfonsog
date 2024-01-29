@@ -456,7 +456,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![Built with LaTeX](https://img.shields.io/badge/Built%20with-LaTeX-008080?logo=latex)](https://www.latex-project.org/)
 -->
 
-[![Built with LaTeX](https://img.shields.io/badge/Built%20with-LaTeX-008080?style=plastic&logo=latex)](https://www.latex-project.org/)
+[![Built with LaTeX](https://img.shields.io/badge/Built%20with-%E2%82%AC%20LaTeX-008080?style=plastic&logo=latex)](https://www.latex-project.org/)
 
 </details>
 
