@@ -406,11 +406,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![Français](https://img.shields.io/badge/Français-FR-blue.svg?style=flat-square&logoColor=white&color=blue&labelColor=DBEDF3)](#) 🇫🇷 
 
 -->
-
+<!--
 [![Español](https://img.shields.io/badge/Español-ES_cl-blue.svg?style=flat&logoColor=white&color=blue&labelColor=grey)](#) 🇨🇱 
 [![English](https://img.shields.io/badge/English-EN_us-blue.svg?style=flat&logoColor=white&color=blue&labelColor=grey)](#) 🇺🇸 
 [![Français](https://img.shields.io/badge/Français-FR_fr-blue.svg?style=flat&logoColor=white&color=blue&labelColor=grey)](#) 🇫🇷 
 [![Afrikaans](https://img.shields.io/badge/Afrikaans-ZA-blue.svg?style=flat&logoColor=white&color=blue&labelColor=grey)](#) 🇿🇦
+-->
+[![Español](https://img.shields.io/badge/Español-ES_cl-blue.svg?style=plastic&logoColor=white&color=blue&labelColor=grey)](#) 🇨🇱 
+[![English](https://img.shields.io/badge/English-EN_us-blue.svg?style=plastic&logoColor=white&color=blue&labelColor=grey)](#) 🇺🇸 
+[![Français](https://img.shields.io/badge/Français-FR_fr-blue.svg?style=plastic&logoColor=white&color=blue&labelColor=grey)](#) 🇫🇷 
+[![Afrikaans](https://img.shields.io/badge/Afrikaans-ZA-blue.svg?style=plastic&logoColor=white&color=blue&labelColor=grey)](#) 🇿🇦
 
 <!--
 [![Español](https://img.shields.io/badge/Español-000000?style=flat&logoColor=white&color=blue&labelColor=DBEDF3&labelHeight=18)](#) 🇨🇱 
