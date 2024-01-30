@@ -147,7 +147,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 > "Creativity is intelligence having fun." - Albert Einstein
 
-[<img src="https://img.shields.io/badge/Contributor-555555?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#)
+[<img src="https://img.shields.io/badge/Contributor-555555?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=808080&logoWidth=20" height="19"/>](#)
 
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
