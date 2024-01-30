@@ -26,6 +26,7 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 [<img src="https://img.shields.io/badge/Linktree-333333?style=flat&logo=linktree&logoColor=white&labelColor=333333" height="19"/>](https://linktr.ee/felipealfonsog)
 [<img src="https://img.shields.io/badge/E&ndash;mail-333333?style=flat&logo=gmail&logoColor=white&labelColor=333333" height="19"/>](mailto:f.alfonso@res-ear.ch)
 -->
+<!-- Technology Architect -->
 
 [<img src="https://img.shields.io/badge/Hirable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#)
 [<img src="https://img.shields.io/badge/Contributor-555555?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#)
