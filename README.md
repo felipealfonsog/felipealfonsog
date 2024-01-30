@@ -42,6 +42,7 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 -->
 <!--
 
+
     *
   *   *
   
@@ -50,6 +51,20 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
           ⣀⠀⣸⣉⣧⠀⢀
           ⠙⢶⣵⣉⢌⡴⠊
           ⠀⠂⠙⠷⠋⠈⠀
+
+
+
+_______                  /__/
+|.-----.|            ,---[___]*
+||     ||           /    printer
+||_____||    _____ /        ____
+|o_____*|   [o_+_+]--------[=i==]
+|     ________| 850        drive
+|  __|_        interface
+'-/_==_\
+/_____\\  ATARI 800     
+
+
 
 -->
 
