@@ -40,6 +40,18 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 [![Hirable in Academy](https://img.shields.io/badge/Hirable%20in%20Academy-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=12)](#)
 [![Open Source Contributor](https://img.shields.io/badge/Open%20Source%20Contributor-555555?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=555555&logoWidth=12)](#)
 -->
+<!--
+
+    *
+  *   *
+  
+
+          ⠀⠀⠀⣶⠀⠀⠀
+          ⣀⠀⣸⣉⣧⠀⢀
+          ⠙⢶⣵⣉⢌⡴⠊
+          ⠀⠂⠙⠷⠋⠈⠀
+
+-->
 
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported.</sub>
 
