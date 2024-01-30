@@ -32,7 +32,7 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 [<img src="https://img.shields.io/badge/E&ndash;mail-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:f.alfonso@res-ear.ch)
 
-[![Hirable Engineer](https://img.shields.io/badge/Hirable%20Engineer-gray?style=plastic&logo=checkmarx&logoColor=white&labelColor=gray)](#)
+[![Hirable Engineer](https://img.shields.io/badge/Hirable%20Engineer-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19")](#)
 
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported.</sub>
 
