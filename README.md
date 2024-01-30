@@ -29,7 +29,6 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 <!-- Technology Architect -->
 
 [<img src="https://img.shields.io/badge/Hirable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#)
-[<img src="https://img.shields.io/badge/Contributor-555555?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#)
 [<img src="https://img.shields.io/badge/LinkedIn-555555?style=plastic&logo=linkedin&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
@@ -147,6 +146,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 > ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - [Jake the dog](https://en.wikipedia.org/wiki/Jake_the_Dog) (❍ᴥ❍ʋ) holds true! You can check it out for yourself 😄. 🐶
 
 > "Creativity is intelligence having fun." - Albert Einstein
+
+[<img src="https://img.shields.io/badge/Contributor-808080?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=808080&logoWidth=20" height="19"/>](#)
 
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
