@@ -147,7 +147,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 > "Creativity is intelligence having fun." - Albert Einstein
 
-[<img src="https://img.shields.io/badge/OSI%20Member%20Advocate-4CAF50?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://members.opensource.org/user/felipealfonsog/) [<img src="https://img.shields.io/badge/FSF%20Member%20Advocate-6C071A?style=plastic&logo=gnu&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.fsf.org/)
+[<img src="https://img.shields.io/badge/OSI%20Member%20Advocate-4CAF50?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.opensource.org/) [<img src="https://img.shields.io/badge/FSF%20Member%20Advocate-6C071A?style=plastic&logo=gnu&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.fsf.org/)
 
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
