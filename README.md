@@ -149,7 +149,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 [<img src="https://img.shields.io/badge/OSI%20Member%20Advocate-4CAF50?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://members.opensource.org/user/felipealfonsog/) [<img src="https://img.shields.io/badge/FSF%20Member%20Advocate-6C071A?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.fsf.org/)
 
-<img src="https://img.shields.io/badge/Contributor-6C071A?style=plastic&logo=https://www.gnu.org/graphics/fsf-logo-notext-small.png&logoColor=white&labelColor=black&logoWidth=20" height="19"/>
+<img src="https://img.shields.io/badge/Contributor-6C071A?style=plastic&logo=FSF&logoColor=white&labelColor=black&logoWidth=20" height="19"/>
+
 
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
