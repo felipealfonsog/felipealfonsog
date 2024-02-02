@@ -152,6 +152,9 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 [<img src="https://img.shields.io/badge/OSI%20Member%20Advocate-808080?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.opensource.org/) [<img src="https://img.shields.io/badge/FSF%20Member%20Advocate-808080?style=plastic&logo=gnu&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.fsf.org/)
 
+[![Linux](https://img.shields.io/badge/OSI%20Member%20Advocate-808080?style=plastic&logo=opensourceinitiative&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/Linux)
+[<img src="https://img.shields.io/badge/FSF%20Member%20Advocate-808080?style=plastic&logo=gnu&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://archlinux.org/)
+
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
 -->
