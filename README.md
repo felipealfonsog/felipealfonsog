@@ -352,6 +352,28 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![Data Engineering](https://img.shields.io/badge/Data%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blueviolet?style=plastic)](https://en.wikipedia.org/wiki/Data_engineering)
 [![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-%F0%9F%92%BC-orange?style=plastic)](https://en.wikipedia.org/wiki/Business_intelligence)
 [![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=plastic&logo=serverfault&logoColor=white&color=blue&labelColor=grey)](https://en.wikipedia.org/wiki/Information_technology_management)
+
+[![Linux](https://img.shields.io/badge/Linux-OS-blue?style=plastic&logo=linux&logoColor=white&s=19)](https://www.linux.org/)
+[![macOS](https://img.shields.io/badge/macOS-OS-blue?style=plastic&logo=apple&logoColor=white&s=19)](https://www.apple.com/macos)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-OS-blue?style=plastic&logo=freebsd&logoColor=white&s=19)](https://www.freebsd.org/)
+[![GNU](https://img.shields.io/badge/GNU-Tools-blue?style=plastic&logo=gnu&logoColor=white&s=19)](https://www.gnu.org/)
+[![Vim](https://img.shields.io/badge/Vim-Editor-019733?style=plastic&logo=vim&logoColor=white&s=19)](https://www.vim.org/)
+[![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=plastic&logo=gnu%20emacs&logoColor=white&s=19)](https://www.gnu.org/software/emacs/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white&s=19)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-VCS-orange?style=plastic&logo=git&logoColor=white&s=19)](https://github.com/felipealfonsog)
+[![GPG](https://img.shields.io/badge/GPG-Key-blue?style=plastic&logo=gnu%20privacy%20guard&logoColor=white&s=19)](https://gnupg.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-OS-blue?style=plastic&logo=arch%20linux&logoColor=white&s=19)](https://www.archlinux.org/)
+[![Debian](https://img.shields.io/badge/Debian-OS-blue?style=plastic&logo=debian&logoColor=white&s=19)](https://www.debian.org/)
+[![Open Source Advocate](https://img.shields.io/badge/Open%20Source%20Advocate-blue?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=gray&s=19)](https://opensource.org/)
+[![Free Software](https://img.shields.io/badge/Free%20Software-Advocate-blue?style=plastic&logo=gnu&logoColor=white&s=19)](https://www.fsf.org/)
+[![Software Architecture](https://img.shields.io/badge/Software%20Architecture-555555?style=plastic&logo=codeigniter&logoColor=white&color=blue&labelColor=grey&s=19)](https://en.wikipedia.org/wiki/Software_architecture)
+[![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blue?style=plastic&s=19)](https://en.wikipedia.org/wiki/Software_engineering)
+[![Big Data](https://img.shields.io/badge/Big%20Data-%F0%9F%93%88-blue?style=plastic&s=19)](https://en.wikipedia.org/wiki/Big_data)
+[![Data Engineering](https://img.shields.io/badge/Data%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blueviolet?style=plastic&s=19)](https://en.wikipedia.org/wiki/Data_engineering)
+[![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-%F0%9F%92%BC-orange?style=plastic&s=19)](https://en.wikipedia.org/wiki/Business_intelligence)
+[![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=plastic&logo=serverfault&logoColor=white&color=blue&labelColor=grey&s=19)](https://en.wikipedia.org/wiki/Information_technology_management)
+
+
 <!-- [![Big Data](https://img.shields.io/badge/Big%20Data-%F0%9F%93%8D-blue)](https://en.wikipedia.org/wiki/Big_data) -->
 <!--
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
