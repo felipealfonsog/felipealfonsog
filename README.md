@@ -146,8 +146,11 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 > ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - [Jake the dog](https://en.wikipedia.org/wiki/Jake_the_Dog) (❍ᴥ❍ʋ) holds true! You can check it out for yourself 😄. 🐶
 
 > "Creativity is intelligence having fun." - Albert Einstein
-
+<!-- 
 [<img src="https://img.shields.io/badge/OSI%20Member%20Advocate-4CAF50?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.opensource.org/) [<img src="https://img.shields.io/badge/FSF%20Member%20Advocate-6C071A?style=plastic&logo=gnu&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.fsf.org/)
+-->
+
+[<img src="https://img.shields.io/badge/OSI%20Member%20Advocate-808080?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.opensource.org/) [<img src="https://img.shields.io/badge/FSF%20Member%20Advocate-808080?style=plastic&logo=gnu&logoColor=white&labelColor=black&logoWidth=20" height="19"/>](https://www.fsf.org/)
 
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
