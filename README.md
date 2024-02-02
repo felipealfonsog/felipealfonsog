@@ -160,8 +160,8 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 [<img src="https://img.shields.io/badge/FSF%20Member%20Advocate-4CAF50?style=plastic&logo=gnu&logoColor=white&color=grey&labelColor=black&labelHeight=18"/>](https://www.fsf.org/))
 -->
 
-[![OSI](https://img.shields.io/badge/OSI%20Member%20Advocate-4CAF50?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&labelHeight=12)](https://www.opensource.org/)
-[![FSF](https://img.shields.io/badge/FSF%20Member%20Advocate-6C071A?style=plastic&logo=gnu&logoColor=white&labelColor=black&labelHeight=12)](https://www.fsf.org/)
+[![OSI](https://img.shields.io/badge/OSI%20Member%20Advocate-4CAF50?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&labelHeight=19)](https://www.opensource.org/)
+[![FSF](https://img.shields.io/badge/FSF%20Member%20Advocate-6C071A?style=plastic&logo=gnu&logoColor=white&labelColor=black&labelHeight=19)](https://www.fsf.org/)
 
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
