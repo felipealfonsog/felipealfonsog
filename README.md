@@ -165,6 +165,12 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 [![750words Member](https://img.shields.io/badge/750%20Words%20Member-4CAF50?style=plastic&logo=LibreOffice&logoColor=white&labelColor=black&labelHeight=19)](https://www.750words.com/)
 
+<!-- 
+Maintainer Community on GitHub
+-->
+
+[![Maintainer Community on GitHub](https://img.shields.io/badge/Github%20Commumity%20Manteiner%20(c)-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=19)](https://manteiners.github.com/)
+
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
 -->
