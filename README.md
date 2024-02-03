@@ -163,7 +163,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 [![OSI](https://img.shields.io/badge/OSI%20Member%20Advocate-4CAF50?style=plastic&logo=opensourceinitiative&logoColor=white&labelColor=black&labelHeight=19)](https://www.opensource.org/)
 [![FSF](https://img.shields.io/badge/FSF%20Member%20Advocate-6C071A?style=plastic&logo=gnu&logoColor=white&labelColor=black&labelHeight=19)](https://www.fsf.org/)
 
-[![750words Member](https://img.shields.io/badge/Active%20Member-750words.com?style=plastic&logo=book&logoColor=white&labelColor=%23F0F0F0&color=%23222222&labelHeight=19)](https://www.750words.com/)
+[![750words Member](https://img.shields.io/badge/Active%20Member-750words.com?style=plastic&logo=edit&logoColor=white&labelColor=%23F0F0F0&color=%23222222&labelHeight=19)](https://www.750words.com/)
 
 
 
