@@ -168,8 +168,9 @@ Maintainer Community on GitHub
 
 https://maintainers.github.com/
 -->
-
+<!--
 [![Maintainer Community on GitHub](https://img.shields.io/badge/Maintainer%20Community%20on%20GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=19)](https://maintainers.github.com/)
+-->
 
 [![750words Member](https://img.shields.io/badge/750%20Words%20Member-4CAF50?style=plastic&logo=LibreOffice&logoColor=white&labelColor=black&labelHeight=19)](https://www.750words.com/)
 
