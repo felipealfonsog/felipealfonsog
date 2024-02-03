@@ -171,7 +171,7 @@ Maintainer Community on GitHub
 https://maintainers.github.com/
 -->
 
-[![Maintainer Community on GitHub](https://img.shields.io/badge/Maintainer%20Community%20on%20GitHub%20(c)-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=20)](https://maintainers.github.com/)
+[![Maintainer Community on GitHub](https://img.shields.io/badge/Maintainer%20Community%20on%20GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=19)](https://maintainers.github.com/)
 
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
