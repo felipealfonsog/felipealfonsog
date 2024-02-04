@@ -123,6 +123,7 @@ If you are interested in starting a business, consulting, research, or collabora
 [<img src="https://img.shields.io/badge/Arch-808080?style=plastic&logo=arch-linux&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://archlinux.org/)
 [<img src="https://img.shields.io/badge/Debian-808080?style=plastic&logo=debian&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://www.debian.org/)
 [![macOS](https://img.shields.io/badge/macOS-808080?style=plastic&logo=apple&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/MacOS)
+[<img src="https://img.shields.io/badge/Tails%20OS-555555?style=plastic&logo=tails&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://tails.net/)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-808080?style=plastic&logo=freebsd&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
 
 </details>
