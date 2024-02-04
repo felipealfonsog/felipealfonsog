@@ -237,7 +237,7 @@ Other           30 mins         ◕○○○○○○○○○○○○○○○
 
 <!--END_SECTION:waka-->
 
-<sub>The coding time tracked on the Wakatime badge started on Dec 4, 2023. Any variations depend on the Wakatime service. [Learn more about Wakatime](https://wakatime.com/).</sub>
+<sub>*The coding time tracked on the Wakatime badge started on Dec 4, 2023. Any variations depend on the Wakatime service. [Learn more about Wakatime](https://wakatime.com/).</sub>
 <br>
 </details>
 
