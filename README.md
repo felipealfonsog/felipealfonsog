@@ -176,7 +176,6 @@ https://maintainers.github.com/
 <!--
 [![Tor User](https://img.shields.io/badge/Tor%20User-7E4798?style=plastic&logo=torproject&logoColor=white&labelColor=black&labelHeight=19)](https://www.torproject.org/)
 -->
-[![750words Member](https://img.shields.io/badge/750%20Words%20Member-4CAF50?style=plastic&logo=LibreOffice&logoColor=white&labelColor=black&labelHeight=19)](https://www.750words.com/)
 
 <!--
 #### Most Used Languages | Commit and Pull Request Stats
@@ -583,6 +582,8 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![Goodreads](https://img.shields.io/badge/Goodreads-Bookshelves-372213?style=flat&logo=goodreads&logoColor=white&color=372213)](https://www.goodreads.com/felipealfonsog)
 -->
 [![Goodreads](https://img.shields.io/badge/Goodreads-Bookshelves-372213?style=plastic&logo=goodreads&logoColor=white&color=372213)](https://www.goodreads.com/felipealfonsog)
+
+[![750words Member](https://img.shields.io/badge/750%20Words%20Member-4CAF50?style=plastic&logo=LibreOffice&logoColor=white&labelColor=black&labelHeight=19)](https://www.750words.com/)
 
 #### Support
 
