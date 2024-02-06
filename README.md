@@ -217,22 +217,22 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 05 February 2024
+From: 04 December 2023 - To: 06 February 2024
 
-Total Time: 41 hrs 38 mins
+Total Time: 42 hrs 43 mins
 
-HTML            11 hrs 59 mins  ◕◕◕◕◕◕◕●○○○○○○○○○○○○○○○○○   28.46 %
-C               8 hrs 21 mins   ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   19.81 %
-Markdown        3 hrs 53 mins   ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.24 %
-Bash            2 hrs 52 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   06.84 %
-CSS             2 hrs 49 mins   ◕◐○○○○○○○○○○○○○○○○○○○○○○○   06.71 %
-Python          2 hrs 44 mins   ◕◐○○○○○○○○○○○○○○○○○○○○○○○   06.51 %
-Vim Script      2 hrs 19 mins   ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.50 %
-PHP             1 hr 26 mins    ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.40 %
-YAML            1 hr 9 mins     ●○○○○○○○○○○○○○○○○○○○○○○○○   02.77 %
-JavaScript      1 hr 6 mins     ◐○○○○○○○○○○○○○○○○○○○○○○○○   02.64 %
-C++             53 mins         ◔○○○○○○○○○○○○○○○○○○○○○○○○   02.11 %
-Other           30 mins         ◕○○○○○○○○○○○○○○○○○○○○○○○○   01.22 %
+HTML            11 hrs 59 mins  ◕◕◕◕◕◕◐○○○○○○○○○○○○○○○○○○   27.75 %
+C               8 hrs 21 mins   ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   19.32 %
+Markdown        4 hrs 15 mins   ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.84 %
+Python          3 hrs 27 mins   ◕◕○○○○○○○○○○○○○○○○○○○○○○○   08.01 %
+Bash            2 hrs 52 mins   ◕◐○○○○○○○○○○○○○○○○○○○○○○○   06.67 %
+CSS             2 hrs 49 mins   ◕◐○○○○○○○○○○○○○○○○○○○○○○○   06.55 %
+Vim Script      2 hrs 19 mins   ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.37 %
+PHP             1 hr 26 mins    ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.32 %
+YAML            1 hr 9 mins     ◐○○○○○○○○○○○○○○○○○○○○○○○○   02.70 %
+JavaScript      1 hr 6 mins     ◐○○○○○○○○○○○○○○○○○○○○○○○○   02.58 %
+C++             53 mins         ◔○○○○○○○○○○○○○○○○○○○○○○○○   02.05 %
+Other           30 mins         ◕○○○○○○○○○○○○○○○○○○○○○○○○   01.19 %
 ```
 
 <!--END_SECTION:waka-->
