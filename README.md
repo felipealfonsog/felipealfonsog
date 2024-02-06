@@ -171,7 +171,7 @@ Maintainer Community on GitHub
 https://maintainers.github.com/
 -->
 
-[![Maintainer Community on GitHub](https://img.shields.io/badge/Maintainer%20Community%20on%20GitHub%20(c)-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=19)](https://maintainers.github.com/)
+[![Maintainer Community on GitHub](https://img.shields.io/badge/Maintainer%20Community%20on%20GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=19)](https://maintainers.github.com/)
 
 <!--
 [![Tor User](https://img.shields.io/badge/Tor%20User-7E4798?style=plastic&logo=torproject&logoColor=white&labelColor=black&labelHeight=19)](https://www.torproject.org/)
