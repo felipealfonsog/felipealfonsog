@@ -9,7 +9,7 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 [![Translate](https://img.shields.io/badge/Google%20Translate-English%20to%20Spanish-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
 -->
 
-[![Translate](https://img.shields.io/badge/-Usa%20Google%20Traductor!-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
+[![Translate](https://img.shields.io/badge/-Google%20Traductor-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/felipealfonsog/)
