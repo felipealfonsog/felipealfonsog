@@ -81,7 +81,7 @@ _______                  /__/
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported.</sub>
 
 <details>
-<summary>📚 Discover more about me - here...</summary> 
+<summary>📚 Explore further insights about me here...</summary> 
   <br>
 I'm a computer science engineer with a passion for research across diverse topics in the field. While I strive to continuously broaden my knowledge horizons, my primary focus lies in specializing in Software Engineering, Data Engineering, Machine Learning, Cybersecurity, and other areas that hold significance in the past, present, and future landscape of computer science. My aim is to grasp both the fundamentals and the cutting-edge aspects of this ever-evolving domain.
 
