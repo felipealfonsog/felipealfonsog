@@ -11,7 +11,8 @@ on:
   # 20 minutos al dia al azar
   # - cron: '$(shuf -i 0-23 -n 1) $(shuf -i 0-59 -n 1) * * *'
   # 15 mnts al dis en 3 tandas 
-  - cron: '0-4/1,10-15/1,17-22/1 * * * *'
+  - cron: '0 0-4,10-15,17-22 * * *'
+  
   
 
   
