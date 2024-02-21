@@ -342,6 +342,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   - [PerlMemoPad](https://github.com/NymexData/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
   - [C-VipNX](https://github.com/NymexData/C-VipNX): C-VipNX: Shell Vip Utility written in C for *NX Systems Simple: Vip shell to avoid usage of sudo.
   - [Upd8All](https://github.com/NymexData/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
+  - [BookmarkNest](https://github.com/NymexData/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
   - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses.
 
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
