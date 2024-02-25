@@ -133,8 +133,7 @@ If you are interested in starting a business, consulting, research, or collabora
 [<img src="https://img.shields.io/badge/Arch-808080?style=plastic&logo=arch-linux&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://archlinux.org/)
 [<img src="https://img.shields.io/badge/Debian-808080?style=plastic&logo=debian&logoColor=white&color=grey&labelColor=grey&labelHeight=18"/>](https://www.debian.org/)
 [![macOS](https://img.shields.io/badge/macOS-808080?style=plastic&logo=apple&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/MacOS)
-[![Tails](https://img.shields.io/badge/Tails-808080?style=plastic&logo=tails&logoColor=white&color=grey&labelColor=grey&labelHeight=12)]([https://en.wikipedia.org/wiki/MacOS](https://tails.net/))
-[<img src="https://img.shields.io/badge/Tails%20OS-555555?style=plastic&logo=tails&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://tails.net/)
+[![Tails](https://img.shields.io/badge/Tails%20OS-808080?style=plastic&logo=tails&logoColor=white&color=grey&labelColor=grey&labelHeight=12)]([https://en.wikipedia.org/wiki/MacOS](https://tails.net/))
 [![Asahi Linux](https://img.shields.io/badge/Asahi_Linux-A61200?style=plastic&logo=Asahi-Linux&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://asahilinux.org/)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-808080?style=plastic&logo=freebsd&logoColor=white&color=grey&labelColor=grey&labelHeight=12)](https://en.wikipedia.org/wiki/FreeBSD)
 
