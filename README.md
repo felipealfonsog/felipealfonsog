@@ -531,10 +531,10 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
   <a href="https://www.latex-project.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
   <a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://opensource.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="40" height="40"/> </a>
   <a href="https://www.fsf.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fsf/fsf-icon.svg" alt="freesoftware" width="40" height="40"/> </a>
-  <a href="https://www.linuxfoundation.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.linuxfoundation.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   
 </p>
 
