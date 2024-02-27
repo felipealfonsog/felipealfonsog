@@ -529,7 +529,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
   <a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://opensource.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="40" height="40"/> </a>
