@@ -587,6 +587,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://www.linuxfoundation.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   
 </p>
+
 <sub>Powered by [Devicon](https://github.com/devicons/devicon).</sub>
 
 <details open>
