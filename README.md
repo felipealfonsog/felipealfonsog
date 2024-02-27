@@ -584,10 +584,12 @@ Powered by https://github.com/devicons/devicon
   <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://opensource.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="40" height="40"/> </a>
   <a href="https://www.fsf.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fsf/fsf-icon.svg" alt="freesoftware" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
 
-  
+
+
 </p>
 
 <sub>*Powered by [Devicon](https://github.com/devicons/devicon).</sub>
