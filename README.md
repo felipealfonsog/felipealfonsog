@@ -354,7 +354,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <!-- <details open> -->
 <details>
-<summary>📐🔧 Tech Stack Badges 🏅</summary>
+<summary>📐🔧 Tech Stack Badges & Devicon icons* 🏅</summary>
 <br>
 
 <!--
@@ -588,7 +588,7 @@ Powered by https://github.com/devicons/devicon
   
 </p>
 
-<sub>Powered by [Devicon](https://github.com/devicons/devicon).</sub>
+<sub>*Powered by [Devicon](https://github.com/devicons/devicon).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
