@@ -540,7 +540,9 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <p align="left">
 
-
+<!-- 
+Powered by https://github.com/devicons/devicon
+-->
    
  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -585,7 +587,8 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   <a href="https://www.linuxfoundation.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   
 </p>
-
+<br>
+<sub>Powered by [Devicon](https://github.com/devicons/devicon).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
