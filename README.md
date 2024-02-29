@@ -583,6 +583,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://redis.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <a href="https://www.latex-project.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
   <a href="https://about.gitlab.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
@@ -591,7 +592,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+   </a>
 
 
 
