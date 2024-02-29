@@ -589,12 +589,13 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Open_Source_Initiative" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Free_Software_Foundation" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fsf/fsf-icon.svg" alt="freesoftware" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/FreeBSD" target="_blank"> <img src="https://www.vectorlogo.zone/logos/freebsd/freebsd-icon.svg" alt="freebsd" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Debian" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Arch_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
    </a>
-https://www.vectorlogo.zone/util/preview.html?image=/logos/freebsd/freebsd-icon.svg
+
 
 
 </p>
