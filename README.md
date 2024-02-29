@@ -594,7 +594,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Arch_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
    </a>
-
+https://www.vectorlogo.zone/util/preview.html?image=/logos/freebsd/freebsd-icon.svg
 
 
 </p>
