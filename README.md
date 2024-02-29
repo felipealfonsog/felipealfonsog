@@ -546,54 +546,58 @@ Powered by https://github.com/devicons/devicon
    
  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+  <a href="https://graphql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
+   <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.debian.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="debian" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/PHP" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.debian.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
   <a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/emacs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg" alt="emacs" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+  <a href="https://www.heroku.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://redis.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
   <a href="https://www.latex-project.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
-  <a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
+  <a href="https://about.gitlab.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://opensource.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="40" height="40"/> </a>
   <a href="https://www.fsf.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fsf/fsf-icon.svg" alt="freesoftware" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 
 
 
 </p>
 
-<sub>*Powered by [Devicon](https://github.com/devicons/devicon).</sub>
+<sub>*Powered by [Devicon](https://github.com/devicons/devicon) & [vVectorLogoZone](https://www.vectorlogo.zone).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
