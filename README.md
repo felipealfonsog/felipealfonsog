@@ -596,7 +596,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
    </a>
 
-  <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/perl/perl-vertical.svg" alt="Apple" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://www.vectorlogo.zone/logos/perl/perl-vertical.svg" alt="Apple" width="40" height="40"/> </a>
    </a>
 
 
