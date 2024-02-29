@@ -562,18 +562,16 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/MongoDB" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
-   <a href="https://en.wikipedia.org/wiki/React_(software)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/React_(software)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/React_Native" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/PHP" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/Debian" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/GNU_Emacs" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg" alt="emacs" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/Arch_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Oracle_Database" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/SQLite" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> </a>
@@ -592,6 +590,8 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Free_Software_Foundation" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fsf/fsf-icon.svg" alt="freesoftware" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Debian" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Arch_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
    </a>
 
