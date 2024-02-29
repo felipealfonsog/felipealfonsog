@@ -605,7 +605,7 @@ Powered by https://github.com/devicons/devicon
 
 </p>
 
-<sub>*Powered by [Devicon](https://github.com/devicons/devicon) & [vVectorLogoZone](https://www.vectorlogo.zone).</sub>
+<sub>*Powered by [Devicon](https://github.com/devicons/devicon) & [VectorLogoZone](https://www.vectorlogo.zone).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
