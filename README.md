@@ -330,7 +330,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
  </details>
  
 <details>
-<summary>🔍 :file_folder: Dive into More Featured and Diverse Projects :rocket::star2:...</summary>
+<summary>🔍 :file_folder: <strong>Dive into More Featured and Diverse Projects</strong> :rocket::star2:...</summary>
 <br>
   
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
