@@ -571,7 +571,8 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/React_Native" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <!--<a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/></a>-->
+  <!--
+  <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
   <a href="https://en.wikipedia.org/wiki/PHP" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/GNU_Emacs" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg" alt="emacs" width="40" height="40"/></a>
