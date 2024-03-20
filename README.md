@@ -580,6 +580,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Oracle_Database" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/SQLite" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Node.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="denojs" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Node.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/JQuery" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Vue.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
