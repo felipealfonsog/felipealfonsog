@@ -294,6 +294,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
+      <a href="https://github.com/AltintoprakBeyza">
+        <img src="https://avatars2.githubusercontent.com/u/77847774" style="width:30px; height:30px;" alt="AltintoprakBeyza"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/AltintoprakBeyza">Beyza Altıntoprak</a>
+      </sub>
+    </li>
+    <br>
+    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
@@ -310,16 +320,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
-      </sub>
-    </li>
-    <br>
-    <li>
-      <a href="https://github.com/cdiaz">
-        <img src="https://avatars2.githubusercontent.com/u/3867689" style="width:30px; height:30px;" alt="cdiaz"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/cdiaz">Cristiam Diaz</a>
       </sub>
     </li>
     <br>
