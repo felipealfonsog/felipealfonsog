@@ -79,7 +79,7 @@ _______                  /__/
 
 -->
 
-![Playing on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12133266428&count={count})
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&redirect=true)
 
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate).</sub>
 
