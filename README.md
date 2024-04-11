@@ -80,10 +80,12 @@ _______                  /__/
 -->
 
 <details open>
-<summary>![Spotify](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/spotify_1f3a7.png)
- Now playing on Spotify ...</summary> 
+<summary>🎧 Now playing on Spotify ...</summary> 
   <br>
-   
+
+   ![Spotify](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg)
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&redirect=true)
 
 </details>
