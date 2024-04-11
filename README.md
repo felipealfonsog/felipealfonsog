@@ -80,7 +80,8 @@ _______                  /__/
 -->
 
 <details open>
-<summary> [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg"  alt="Spotify" width="16" height="16"/>](#) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" alt="Spotify" width="16" height="16"> 🎧 Now playing on Spotify ...</summary> 
+<summary> [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" alt="Spotify" width="16" height="16"/>](#)
+ <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" alt="Spotify" width="16" height="16"> 🎧 Now playing on Spotify ...</summary> 
   <br>
 
   
