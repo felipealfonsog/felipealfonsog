@@ -241,7 +241,7 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 17 April 2024
+From: 04 December 2023 - To: 18 April 2024
 
 Total Time: 437 hrs 30 mins
 
@@ -249,7 +249,7 @@ Python          87 hrs 51 mins  ◕◕◕◕◐○○○○○○○○○○○
 Bash            64 hrs 33 mins  ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   14.42 %
 Markdown        46 hrs 35 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.41 %
 HTML            41 hrs 5 mins   ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.18 %
-C++             37 hrs 58 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.49 %
+C++             37 hrs 58 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.48 %
 C               26 hrs 39 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.96 %
 INI             22 hrs 45 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.09 %
 JavaScript      20 hrs 1 min    ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.47 %
