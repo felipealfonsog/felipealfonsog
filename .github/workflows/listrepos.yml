@@ -4,37 +4,27 @@ on:
   push:
     paths:
       - .github/workflows/listrepos.yml
-      - src/generate-listrepos.mjs
+      - src/generate_listrepos.py
   schedule:
     - cron: '0 0 * * *'
 
 jobs:
   update-repos:
     runs-on: ubuntu-latest
-    env:
-      NUM_REPOS: 15
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          node-version: '14'
+          python-version: '3.x'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install requests library
+        run: pip install requests
 
       - name: Generate listrepos.md
-        run: node --experimental-modules src/generate-listrepos.mjs $NUM_REPOS
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_LRGH }}
-
-      - name: Debug
-        run: |
-          ls -l
-          pwd
-          git status
+        run: python src/generate_listrepos.py
 
       - name: Commit changes
         run: |
