@@ -279,6 +279,9 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   <summary><strong>🔍 View Recently Worked Repositories</strong></summary>
 
 <br>
+
+[![Update Recent Repos](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml)
+
 List of the most recent proyect I've worked with*: 
   
   <!-- START_SECTION:repos -->
