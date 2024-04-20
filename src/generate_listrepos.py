@@ -51,4 +51,4 @@ def generate_readme_and_listrepos(num_repos):
         print(f"Error generating files: {e}")
 
 # Call the function to update README.md with the list of repositories
-generate_readme_and_listrepos(20)
+generate_readme_and_listrepos(13)
