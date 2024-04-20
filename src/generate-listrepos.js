@@ -1,5 +1,4 @@
-const fs = require('fs');
-const fetch = require('node-fetch');
+import fetch from 'node-fetch';
 
 async function generateListRepos(numRepos) {
     try {
@@ -18,13 +17,12 @@ async function generateListRepos(numRepos) {
             content += `- [${repo.full_name}](${repo.html_url})\n`;
         });
 
-        // Escribe el contenido en el archivo listrepos.md
-        fs.writeFileSync('listrepos.md', content);
-
-        console.log('Archivo listrepos.md generado correctamente.');
+        // Imprime el contenido en la consola
+        console.log(content);
     } catch (error) {
-        console.error('Error al generar el archivo listrepos.md:', error.message);
+        console.error('Error al generar el listrepos.md:', error.message);
     }
 }
 
-generateListRepos(process.argv[2]);
+const NUM_REPOS = process.argv[2];
+generateListRepos(NUM_REPOS);
