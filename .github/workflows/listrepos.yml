@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - .github/workflows/listrepos.yml
-      - src/generate-listrepos.js
+      - src/generate-listrepos.mjs  # Asegúrate de que tenga la extensión .mjs
   schedule:
     - cron: '0 0 * * *'
 
@@ -23,12 +23,10 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: |
-          npm install node-fetch
-          npm install
+        run: npm install node-fetch
 
       - name: Generate listrepos.md
-        run: node src/generate-listrepos.js $NUM_REPOS
+        run: node --experimental-modules src/generate-listrepos.mjs $NUM_REPOS
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_LRGH }}
 
