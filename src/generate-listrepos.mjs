@@ -2,25 +2,25 @@ import fetch from 'node-fetch';
 
 async function generateListRepos(numRepos) {
     try {
-        // Obtiene los repositorios más recientes del usuario felipealfonsog
+        // Get the most recent repositories of the user felipealfonsog
         const response = await fetch(`https://api.github.com/users/felipealfonsog/repos?sort=updated&per_page=${numRepos}`);
 
         if (!response.ok) {
-            throw new Error(`Error al obtener repositorios: ${response.status} - ${response.statusText}`);
+            throw new Error(`Error fetching repositories: ${response.status} - ${response.statusText}`);
         }
 
         const repos = await response.json();
 
-        // Construye el contenido del archivo listrepos.md
-        let content = `## Últimos ${numRepos} Repositorios\n\n`;
+        // Construct the content of the listrepos.md file
+        let content = `## Last ${numRepos} Repositories\n\n`;
         repos.forEach(repo => {
             content += `- [${repo.full_name}](${repo.html_url})\n`;
         });
 
-        // Imprime el contenido en la consola
+        // Print the content to console
         console.log(content);
     } catch (error) {
-        console.error('Error al generar el listrepos.md:', error.message);
+        console.error('Error generating listrepos.md:', error.message);
     }
 }
 
