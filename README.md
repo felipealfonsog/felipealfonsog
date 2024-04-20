@@ -283,8 +283,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   <!-- END_SECTION:repos -->
 </details>
 
-#
-
 <details>
 <summary>📎 My top followers* :rocket::star2:...</summary>
 <br>
