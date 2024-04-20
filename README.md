@@ -275,7 +275,7 @@ Other           10 hrs 2 mins   ◔○○○○○○○○○○○○○○○
 Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/user/felipealfonsog).</sub>
 </details>
 
-<details>
+<details open>
   <summary><strong>🔍 View Recently Worked Repositories</strong></summary>
 
 <br>
