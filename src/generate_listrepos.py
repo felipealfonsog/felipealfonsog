@@ -46,7 +46,7 @@ def generate_readme_and_listrepos(num_repos):
         with open('listrepos.md', 'w') as file:
             file.write(repos_content)
 
-        print("listrepos.md generated successfully!")
+        print("listrepos.md updated successfully!")
     except Exception as e:
         print(f"Error generating files: {e}")
 
