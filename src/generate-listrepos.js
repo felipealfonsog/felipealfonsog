@@ -1,4 +1,4 @@
-import fetch from 'node-fetch/es5';
+const fetch = require('node-fetch');
 
 async function generateListRepos(numRepos) {
     try {
