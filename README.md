@@ -277,10 +277,15 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <details>
   <summary><strong>🔍 View Recently Worked Repositories</strong></summary>
+
+<br>
+- List of the most recent proyect I worked with*: 
   
   <!-- START_SECTION:repos -->
   <!-- Dynamically insert the list of repositories here -->
   <!-- END_SECTION:repos -->
+
+<sub>*List also here [here](./listrepos.md).</sub>
 
 </details>
 
