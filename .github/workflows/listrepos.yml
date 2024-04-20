@@ -4,7 +4,7 @@ on:
   push:
     # Ejecutar el flujo de trabajo cuando se haga un push en el archivo .yml
     paths:
-      - .github/workflows/main.yml
+      - .github/workflows/listrepos.yml
   schedule:
     # Ejecutar cada 24 horas a la medianoche
     - cron: '0 0 * * *'
