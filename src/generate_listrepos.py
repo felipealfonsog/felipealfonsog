@@ -11,7 +11,7 @@ def generate_readme_and_listrepos(num_repos):
         repos = response.json()
 
         # Build the content for the list of repositories
-        repos_content = ""
+        repos_content = f"## Last {num_repos} Repositories\n\n"
         for repo in repos:
             repos_content += f"- [{repo['full_name']}]({repo['html_url']})\n"
 
@@ -46,9 +46,9 @@ def generate_readme_and_listrepos(num_repos):
         with open('listrepos.md', 'w') as file:
             file.write(repos_content)
 
-        print("listrepos.md updated successfully!")
+        print("listrepos.md generated successfully!")
     except Exception as e:
         print(f"Error generating files: {e}")
 
-# Call the function to update README.md and listrepos.md with the list of repositories
+# Call the function to update README.md with the list of repositories
 generate_readme_and_listrepos(20)
