@@ -276,6 +276,15 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 </details>
 
 <details>
+  <summary><strons>🔍 View Recently Worked Repositories</strons></summary>
+  
+  <!-- START_SECTION:repos -->
+  <!-- Dynamically insert the list of repositories here -->
+  <!-- END_SECTION:repos -->
+</details>
+
+
+<details>
 <summary>📎 My top followers* :rocket::star2:...</summary>
 <br>
 

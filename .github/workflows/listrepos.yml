@@ -23,13 +23,13 @@ jobs:
       - name: Install requests library
         run: pip install requests
 
-      - name: Generate listrepos.md
+      - name: Generate README.md with repos
         run: python src/generate_listrepos.py
 
       - name: Commit changes
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@users.noreply.github.com'
-          git add listrepos.md
-          git commit -m "Update listrepos.md"
+          git add README.md
+          git commit -m "Update README.md with recent repos"
           git push
