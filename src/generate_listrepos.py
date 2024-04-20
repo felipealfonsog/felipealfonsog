@@ -11,13 +11,13 @@ def generate_readme_and_listrepos(num_repos):
         repos = response.json()
 
         # Build the content for the list of repositories
-        repos_content = f"## Last {num_repos} Repositories\n\n"
+        
         for repo in repos:
             repos_content += f"- [{repo['full_name']}]({repo['html_url']})\n"
 
         # Read the content of the README.md file
         with open('README.md', 'r') as file:
-            readme_content = file.read()
+            
 
         # Find the start and end markers for the repositories section
         start_marker = '<!-- START_SECTION:repos -->'
