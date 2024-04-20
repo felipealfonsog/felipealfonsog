@@ -1,4 +1,4 @@
-name: Update Recent Repos
+name: Recent Updated Repos
 
 on:
   push:
