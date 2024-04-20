@@ -5,6 +5,8 @@ on:
     paths:
       - .github/workflows/listrepos.yml
       - src/generate_listrepos.py
+      - README.md
+      
   schedule:
     - cron: '0 0 * * *'
 

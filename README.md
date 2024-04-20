@@ -277,11 +277,11 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <details>
   <summary><strong>🔍 View Recently Worked Repositories</strong></summary>
-  <br>
+  
   <!-- START_SECTION:repos -->
   <!-- Dynamically insert the list of repositories here -->
   <!-- END_SECTION:repos -->
-<br>
+
 </details>
 
 <details>
