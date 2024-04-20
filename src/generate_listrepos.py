@@ -10,10 +10,12 @@ def generate_readme_and_listrepos(num_repos):
 
         repos = response.json()
 
+        # Sort the repositories by the last updated date (from most recent to oldest)
+        sorted_repos = sorted(repos, key=lambda x: x['updated_at'], reverse=True)
+
         # Build the content for the list of repositories
-        # repos_content = f"Last {num_repos} Repositories I've worked with recently.\n\n"
-        repos_content = f" \n"
-        for repo in repos:
+        repos_content = " \n"
+        for repo in sorted_repos:
             repos_content += f"- [{repo['full_name']}]({repo['html_url']})\n"
 
         # Read the content of the README.md file
@@ -43,11 +45,17 @@ def generate_readme_and_listrepos(num_repos):
 
         print("README.md updated successfully!")
 
-        # Write the repositories content to the listrepos.md file
+        # Update the content of the listrepos.md file
         with open('listrepos.md', 'w') as file:
             file.write(repos_content)
 
-        print("listrepos.md generated successfully!")
+        print("listrepos.md updated successfully!")
+
+        # Update the content of the LISTINGREPOS.md file
+        with open('LISTINGREPOS.md', 'w') as file:
+            file.write(repos_content)
+
+        print("LISTINGREPOS.md updated successfully!")
     except Exception as e: 
         print(f"Error generating files: {e}")
 
