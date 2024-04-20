@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - .github/workflows/listrepos.yml
+      - src/generate-listrepos.js
   schedule:
     - cron: '0 0 * * *'
 
