@@ -50,5 +50,5 @@ def generate_readme_and_listrepos(num_repos):
     except Exception as e:
         print(f"Error generating files: {e}")
 
-# Call the function to update README.md with the list of repositories
+# Call the function to update README.md and listrepos.md with the list of repositories
 generate_readme_and_listrepos(20)
