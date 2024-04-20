@@ -11,7 +11,7 @@ def generate_readme_and_listrepos(num_repos):
         repos = response.json()
 
         # Build the content for the list of repositories
-        repos_content = f"## Last {num_repos} Repositories\n\n"
+        repos_content = ""
         for repo in repos:
             repos_content += f"- [{repo['full_name']}]({repo['html_url']})\n"
 
