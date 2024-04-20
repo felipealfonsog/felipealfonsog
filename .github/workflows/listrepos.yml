@@ -23,20 +23,23 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install node-fetch
+        run: npm install
 
       - name: Generate listrepos.md
         run: node --experimental-modules src/generate-listrepos.mjs $NUM_REPOS
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_LRGH }}
 
-      - name: Configure Git user
+      - name: Debug
         run: |
-          git config --global user.name 'felipealfonsog'
-          git config --global user.email 'actions@users.noreply.github.com'
+          ls -l
+          pwd
+          git status
 
       - name: Commit changes
         run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@users.noreply.github.com'
           git add listrepos.md
           git commit -m "Update listrepos.md"
           git push
