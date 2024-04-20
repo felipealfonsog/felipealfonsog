@@ -3,9 +3,8 @@ import requests
 def generate_readme_and_listrepos(num_repos):
     try:
         # Make a request to the GitHub API to get the user's most recent repositories
-        # response = requests.get(f"https://api.github.com/users/felipealfonsog/repos?sort=updated&per_page={num_repos}")
-        response = requests.get(f"https://api.github.com/user/repos?sort=updated&per_page={num_repos}", headers=headers)
-        
+        response = requests.get(f"https://api.github.com/users/felipealfonsog/repos?sort=updated&per_page={num_repos}")
+
         if not response.ok:
             raise Exception(f"Error fetching repositories: {response.status_code} - {response.reason}")
 
