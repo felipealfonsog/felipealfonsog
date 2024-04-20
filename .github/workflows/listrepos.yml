@@ -2,11 +2,9 @@ name: Update-Recent-Repos
 
 on:
   push:
-    # Ejecutar el flujo de trabajo cuando se haga un push en el archivo .yml
     paths:
       - .github/workflows/listrepos.yml
   schedule:
-    # Ejecutar cada 24 horas a la medianoche
     - cron: '0 0 * * *'
 
 jobs:
@@ -24,7 +22,7 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install
+        run: npm install  # Instala todas las dependencias, incluyendo node-fetch
 
       - name: Generate listrepos.md
         run: node src/generate-listrepos.js $NUM_REPOS
