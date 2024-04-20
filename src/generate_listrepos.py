@@ -19,14 +19,28 @@ def generate_readme_and_listrepos(num_repos):
         with open('README.md', 'r') as file:
             readme_content = file.read()
 
-        # Replace the repositories section in the README with the dynamic content
-        new_readme_content = readme_content.replace('<!-- START_SECTION:repos -->\n<!-- Here dynamically insert the list of repositories -->\n<!-- END_SECTION:repos -->', repos_content)
+        # Find the start and end markers for the repositories section
+        start_marker = '<!-- START_SECTION:repos -->'
+        end_marker = '<!-- END_SECTION:repos -->'
+
+        # Find the start and end indices of the repositories section
+        start_index = readme_content.find(start_marker)
+        end_index = readme_content.find(end_marker)
+
+        if start_index == -1 or end_index == -1:
+            raise Exception("Markers not found in README.md")
+
+        # Extract the content between the markers
+        existing_content = readme_content[start_index + len(start_marker):end_index]
+
+        # Replace the existing content with the new repositories content
+        new_readme_content = readme_content.replace(existing_content, repos_content)
 
         # Save the new content to the README.md file
         with open('README.md', 'w') as file:
             file.write(new_readme_content)
 
-        print("README.md generated successfully!")
+        print("README.md updated successfully!")
 
         # Write the repositories content to the listrepos.md file
         with open('listrepos.md', 'w') as file:
@@ -36,5 +50,5 @@ def generate_readme_and_listrepos(num_repos):
     except Exception as e:
         print(f"Error generating files: {e}")
 
-# Call the function to generate both README.md and listrepos.md with the list of repositories
+# Call the function to update README.md with the list of repositories
 generate_readme_and_listrepos(20)
