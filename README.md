@@ -289,7 +289,8 @@ List of the most recent public proyects I've worked with*:
   <!-- Dynamically insert the list of repositories here -->
   <!-- END_SECTION:repos -->
 
-<sub>*List also here [here](./LISTINGREPOS.md). Private repos are not included.</sub>
+<!-- List also here [here](./LISTINGREPOS.md).  -->
+<sub>*Private repos are not included.</sub>
 
 </details>
 
