@@ -45,12 +45,6 @@ def generate_readme_and_listrepos(num_repos):
 
         print("README.md updated successfully!")
 
-        # Update the content of the listrepos.md file
-        with open('listrepos.md', 'w') as file:
-            file.write(repos_content)
-
-        print("listrepos.md updated successfully!")
-
         # Update the content of the LISTINGREPOS.md file
         with open('LISTINGREPOS.md', 'w') as file:
             file.write(repos_content)
