@@ -280,7 +280,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <br>
 
-[![Update Recent Repos](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml/badge.svg?style=flat&logo=github&logoWidth=20&logoHeight=20)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml)
+[![Recent Updated Repos](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml)
 
 
 List of the most recent public proyects I've worked with*: 
