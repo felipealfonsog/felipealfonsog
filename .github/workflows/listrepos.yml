@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@users.noreply.github.com'
+          git config --global user.name 'Felipe Alfonso Gonzalez'
+          git config --global user.email 'f.alfonso@res-ear.ch'
           git add README.md LISTINGREPOS.md
           git commit -m "Update README.md and listrepos.md with recent repos"
           git push
