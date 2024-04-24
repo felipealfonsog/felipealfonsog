@@ -280,9 +280,9 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <br>
 
-<!--
+
 [![Recent Updated Repos](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml/badge.svg)](#)
--->
+
 
 List of the most recent public proyects I've worked with*: 
   
