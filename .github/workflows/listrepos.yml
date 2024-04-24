@@ -1,4 +1,4 @@
-name: Recent Updated Repos
+name: Update Recent Repos
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
       - .github/workflows/listrepos.yml
       - src/generate_listrepos.py
       - README.md
+      - LISTINGREPOS.md
 
   schedule:
     - cron: '0 0 * * *'
@@ -28,10 +29,7 @@ jobs:
       - name: Generate README.md with repos
         run: python src/generate_listrepos.py
 
-      - name: Commit changes
+      - name: Check for changes
+        id: git-check
         run: |
-          git config --global user.name 'Felipe Alfonso Gonzalez'
-          git config --global user.email 'f.alfonso@res-ear.ch'
-          git add README.md LISTINGREPOS.md
-          git commit -m "Update README.md and listrepos.md with recent repos"
-          git push -f
+          git diff --quiet || (git add README.md LISTINGREPOS.md && git commit -m "Update README.md and LISTINGREPOS.md with recent repos" && git push)

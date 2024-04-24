@@ -22,36 +22,25 @@ def generate_readme_and_listrepos(num_repos):
         with open('README.md', 'r') as file:
             readme_content = file.read()
 
-        # Find the start and end markers for the repositories section
-        start_marker = '<!-- START_SECTION:repos -->'
-        end_marker = '<!-- END_SECTION:repos -->'
+        # Read the content of the LISTINGREPOS.md file
+        with open('LISTINGREPOS.md', 'r') as file:
+            listrepos_content = file.read()
 
-        # Find the start and end indices of the repositories section
-        start_index = readme_content.find(start_marker)
-        end_index = readme_content.find(end_marker)
+        # Check if there are any changes in the generated content
+        if repos_content != listrepos_content or repos_content not in readme_content:
+            # Replace the content in README.md
+            with open('README.md', 'w') as file:
+                file.write(repos_content)
+            print("README.md updated successfully!")
 
-        if start_index == -1 or end_index == -1:
-            raise Exception("Markers not found in README.md")
-
-        # Extract the content between the markers
-        existing_content = readme_content[start_index + len(start_marker):end_index]
-
-        # Replace the existing content with the new repositories content
-        new_readme_content = readme_content.replace(existing_content, repos_content)
-
-        # Save the new content to the README.md file
-        with open('README.md', 'w') as file:
-            file.write(new_readme_content)
-
-        print("README.md updated successfully!")
-
-        # Update the content of the LISTINGREPOS.md file
-        with open('LISTINGREPOS.md', 'w') as file:
-            file.write(repos_content)
-
-        print("LISTINGREPOS.md updated successfully!")
-    except Exception as e: 
+            # Replace the content in LISTINGREPOS.md
+            with open('LISTINGREPOS.md', 'w') as file:
+                file.write(repos_content)
+            print("LISTINGREPOS.md updated successfully!")
+        else:
+            print("No changes detected, skipping update.")
+    except Exception as e:
         print(f"Error generating files: {e}")
 
-# Call the function to update README.md with the list of repositories
+# Call the function to update README.md and LISTINGREPOS.md with the list of repositories
 generate_readme_and_listrepos(13)
