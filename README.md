@@ -336,16 +336,6 @@ List of the most recent public proyects I've worked with*:
     </li>
     <br>
     <li>
-      <a href="https://github.com/AltintoprakBeyza">
-        <img src="https://avatars2.githubusercontent.com/u/77847774" style="width:30px; height:30px;" alt="AltintoprakBeyza"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/AltintoprakBeyza">Beyza Altıntoprak</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/srcmaxim">
         <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
       </a>
@@ -362,6 +352,16 @@ List of the most recent public proyects I've worked with*:
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/lporras">
+        <img src="https://avatars2.githubusercontent.com/u/232293" style="width:30px; height:30px;" alt="lporras"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
       </sub>
     </li>
     <br>
