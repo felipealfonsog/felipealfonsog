@@ -241,21 +241,21 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 20 April 2024
+From: 04 December 2023 - To: 30 April 2024
 
-Total Time: 437 hrs 30 mins
+Total Time: 451 hrs 10 mins
 
-Python          87 hrs 51 mins  ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   19.63 %
-Bash            64 hrs 33 mins  ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   14.42 %
-Markdown        46 hrs 35 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.41 %
-HTML            41 hrs 5 mins   ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.18 %
-C++             37 hrs 58 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.48 %
-C               26 hrs 39 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.96 %
-INI             22 hrs 45 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.09 %
-JavaScript      20 hrs 1 min    ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.47 %
-YAML            18 hrs 44 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.19 %
-PHP             15 hrs 1 min    ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.36 %
-Other           10 hrs 2 mins   ◔○○○○○○○○○○○○○○○○○○○○○○○○   02.24 %
+Python          91 hrs 23 mins  ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   19.81 %
+Bash            68 hrs 11 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.78 %
+Markdown        49 hrs 26 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.72 %
+HTML            41 hrs 22 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   08.97 %
+C++             37 hrs 58 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.23 %
+C               26 hrs 39 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.78 %
+INI             22 hrs 48 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   04.94 %
+YAML            21 hrs 29 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.66 %
+JavaScript      20 hrs 24 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.42 %
+PHP             15 hrs 1 min    ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.26 %
+Other           10 hrs 13 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   02.22 %
 ```
 
 <!--END_SECTION:waka-->
@@ -280,15 +280,30 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <br>
 
-[![Update Recent Repos](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml)
+<!-- 
+[![Recent Updated Repos](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml/badge.svg)](#)
+-->
 
-List of the most recent proyect I've worked with*: 
+List of the most recent public proyects I've worked with*: 
   
-  <!-- START_SECTION:repos -->
-  <!-- Dynamically insert the list of repositories here -->
-  <!-- END_SECTION:repos -->
+  <!-- START_SECTION:repos --> 
+- [felipealfonsog/felipealfonsog](https://github.com/felipealfonsog/felipealfonsog)
+- [felipealfonsog/TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer)
+- [felipealfonsog/NovaNav](https://github.com/felipealfonsog/NovaNav)
+- [felipealfonsog/GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster)
+- [felipealfonsog/PicoWebPy](https://github.com/felipealfonsog/PicoWebPy)
+- [felipealfonsog/Upd8All](https://github.com/felipealfonsog/Upd8All)
+- [felipealfonsog/TermNotes](https://github.com/felipealfonsog/TermNotes)
+- [felipealfonsog/PaperArchive](https://github.com/felipealfonsog/PaperArchive)
+- [felipealfonsog/VesicleInsight](https://github.com/felipealfonsog/VesicleInsight)
+- [felipealfonsog/BookmarkNest](https://github.com/felipealfonsog/BookmarkNest)
+- [felipealfonsog/FeatherPDF](https://github.com/felipealfonsog/FeatherPDF)
+- [felipealfonsog/SpeedyNet](https://github.com/felipealfonsog/SpeedyNet)
+- [felipealfonsog/BashGuardian](https://github.com/felipealfonsog/BashGuardian)
+<!-- END_SECTION:repos -->
 
-<sub>*List also here [here](./LISTINGREPOS.md).</sub>
+<!-- List also here [here](./LISTINGREPOS.md).  -->
+<sub>*Private repos are not included.</sub>
 
 </details>
 
@@ -321,16 +336,6 @@ List of the most recent proyect I've worked with*:
     </li>
     <br>
     <li>
-      <a href="https://github.com/AltintoprakBeyza">
-        <img src="https://avatars2.githubusercontent.com/u/77847774" style="width:30px; height:30px;" alt="AltintoprakBeyza"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/AltintoprakBeyza">Beyza Altıntoprak</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/srcmaxim">
         <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
       </a>
@@ -347,6 +352,16 @@ List of the most recent proyect I've worked with*:
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/lporras">
+        <img src="https://avatars2.githubusercontent.com/u/232293" style="width:30px; height:30px;" alt="lporras"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
       </sub>
     </li>
     <br>
@@ -616,6 +631,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Project_Jupyter" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Redis" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"> <img src="./images/artificial-intelligence-ai-icon.svg" alt="AI" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/GitLab" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
