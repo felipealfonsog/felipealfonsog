@@ -634,6 +634,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/GitLab" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"> <img src="./images/artificial-intelligence-ai-icon.svg" alt="AI" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Open_Source_Initiative" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Free_Software_Foundation" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fsf/fsf-icon.svg" alt="freesoftware" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix" width="40" height="40"/></a>
