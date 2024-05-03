@@ -356,12 +356,12 @@ List of the most recent public proyects I've worked with*:
     </li>
     <br>
     <li>
-      <a href="https://github.com/lporras">
-        <img src="https://avatars2.githubusercontent.com/u/232293" style="width:30px; height:30px;" alt="lporras"/>
+      <a href="https://github.com/nmrshll">
+        <img src="https://avatars2.githubusercontent.com/u/7091508" style="width:30px; height:30px;" alt="nmrshll"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
+      <a href="https://github.com/nmrshll">Nicolas Marshall</a>
       </sub>
     </li>
     <br>
