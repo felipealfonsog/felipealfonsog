@@ -2,6 +2,8 @@
 
 I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), with a strong interest in data-related fields and [R+D](https://en.wikipedia.org/wiki/Research_and_development) ([I+D](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_y_desarrollo)). Currently, I am pursuing a [Master's degree](https://en.wikipedia.org/wiki/Master%27s_degree) program in [Big Data](https://en.wikipedia.org/wiki/Big_data) & [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence). In my leisure time, I enjoy reading, playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) (BJJ), [Zazen](https://en.wikipedia.org/wiki/Zazen) (*Zazen in Wikipedia Spanish [here](https://es.wikipedia.org/wiki/Zazen)*) which is a form of [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness). I enjoy listening to music -check out my [Spotify profile](https://open.spotify.com/user/12133266428)-, I have a deep love for animals and nature. As a former [Rover Scout Leader](https://en.wikipedia.org/wiki/Rover_Scout) with the *Agrupación Nacional de Boy Scouts de Chile ([Wikipedia](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile) - [Website](https://boyscouts.cl/))* - supported mostly by the [Great Lodge of Chile](https://www.granlogia.cl) -, I wholeheartedly support their mission and values. Additionally, I stand with [PETA](https://www.peta.org/) in advocating for the ethical treatment of animals. As I've previously expressed, I thoroughly enjoy reading -check out my [Goodreads](https://goodreads.com/felipealfonsog) Bookshelves-, I like to talk about entrepreneurship, OpenSource projects -*explore the [GitHub repository](https://github.com/NymexData) of my organization, or visit our official [Company Website](https://nymex-data.com) for comprehensive insights*-, and I always move along towards pursuing academic interests. I'm also a [Freemason](https://en.wikipedia.org/wiki/Freemasonry). If you harbor aspirations in business or entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out to me. Should you find yourself in the vicinity of [Santiago](https://en.wikipedia.org/wiki/Santiago), it would be my pleasure to engage in a thoughtful conversation over a delightful cup of coffee ☕️ 💬 (Alternatively, it might be online!). You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [glzengrg.com](https://glzengrg.com/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just [email-me](mailto:f.alfonso@res-ear.ch).
 
+> A complex system that works is invariably found to have evolved from a simple system that worked. [Gall's Law](http://principles-wiki.net/principles:gall_s_law)
+
 <!--
 [![Translate](https://img.shields.io/badge/Translate-English%20to%20Spanish-blue?style=plastic&logo=google-translate)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
 -->
@@ -194,7 +196,7 @@ Maintainer Community on GitHub
 https://maintainers.github.com/
 -->
 
-[![Maintainer Community on GitHub](https://img.shields.io/badge/Maintainer%20Community-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=19)](https://maintainers.github.com/)
+[![Maintainer Community on GitHub](https://img.shields.io/badge/Maintainer%20Community-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=19)](https://github.com/community)
 
 <!--
 [![Tor User](https://img.shields.io/badge/Tor%20User-7E4798?style=plastic&logo=torproject&logoColor=white&labelColor=black&labelHeight=19)](https://www.torproject.org/)
@@ -241,21 +243,21 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 30 April 2024
+From: 04 December 2023 - To: 29 May 2024
 
-Total Time: 451 hrs 10 mins
+Total Time: 472 hrs 25 mins
 
-Python          91 hrs 23 mins  ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   19.81 %
-Bash            68 hrs 11 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.78 %
-Markdown        49 hrs 26 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.72 %
-HTML            41 hrs 22 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   08.97 %
-C++             37 hrs 58 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.23 %
-C               26 hrs 39 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.78 %
-INI             22 hrs 48 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   04.94 %
-YAML            21 hrs 29 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.66 %
-JavaScript      20 hrs 24 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.42 %
-PHP             15 hrs 1 min    ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.26 %
-Other           10 hrs 13 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   02.22 %
+Python          93 hrs 32 mins  ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   19.37 %
+Bash            72 hrs 1 min    ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.91 %
+Markdown        51 hrs 50 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.73 %
+HTML            42 hrs 9 mins   ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.73 %
+C++             37 hrs 58 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   07.86 %
+C               34 hrs 38 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.17 %
+INI             24 hrs 20 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.04 %
+JavaScript      21 hrs 39 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.49 %
+YAML            21 hrs 29 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.45 %
+PHP             15 hrs 1 min    ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.11 %
+Other           10 hrs 34 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   02.19 %
 ```
 
 <!--END_SECTION:waka-->
@@ -275,37 +277,6 @@ Other           10 hrs 13 mins  ◔○○○○○○○○○○○○○○○
 Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/user/felipealfonsog).</sub>
 </details>
 
-<details>
-  <summary><strong>🔍 View Recently Worked Repositories</strong></summary>
-
-<br>
-
-<!-- 
-[![Recent Updated Repos](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/listrepos.yml/badge.svg)](#)
--->
-
-List of the most recent public proyects I've worked with*: 
-  
-  <!-- START_SECTION:repos --> 
-- [felipealfonsog/felipealfonsog](https://github.com/felipealfonsog/felipealfonsog)
-- [felipealfonsog/TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer)
-- [felipealfonsog/NovaNav](https://github.com/felipealfonsog/NovaNav)
-- [felipealfonsog/GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster)
-- [felipealfonsog/PicoWebPy](https://github.com/felipealfonsog/PicoWebPy)
-- [felipealfonsog/Upd8All](https://github.com/felipealfonsog/Upd8All)
-- [felipealfonsog/TermNotes](https://github.com/felipealfonsog/TermNotes)
-- [felipealfonsog/PaperArchive](https://github.com/felipealfonsog/PaperArchive)
-- [felipealfonsog/VesicleInsight](https://github.com/felipealfonsog/VesicleInsight)
-- [felipealfonsog/BookmarkNest](https://github.com/felipealfonsog/BookmarkNest)
-- [felipealfonsog/FeatherPDF](https://github.com/felipealfonsog/FeatherPDF)
-- [felipealfonsog/SpeedyNet](https://github.com/felipealfonsog/SpeedyNet)
-- [felipealfonsog/BashGuardian](https://github.com/felipealfonsog/BashGuardian)
-<!-- END_SECTION:repos -->
-
-<!-- List also here [here](./LISTINGREPOS.md).  -->
-<sub>*Private repos are not included.</sub>
-
-</details>
 
 <details>
 <summary>📎 My top followers* :rocket::star2:...</summary>
@@ -356,12 +327,12 @@ List of the most recent public proyects I've worked with*:
     </li>
     <br>
     <li>
-      <a href="https://github.com/lporras">
-        <img src="https://avatars2.githubusercontent.com/u/232293" style="width:30px; height:30px;" alt="lporras"/>
+      <a href="https://github.com/nmrshll">
+        <img src="https://avatars2.githubusercontent.com/u/7091508" style="width:30px; height:30px;" alt="nmrshll"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
+      <a href="https://github.com/nmrshll">Nicolas Marshall</a>
       </sub>
     </li>
     <br>
@@ -377,8 +348,11 @@ List of the most recent public proyects I've worked with*:
 <br>
   
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+  - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
+  - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
   - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
   - [C-VipNX](https://github.com/NymexData/C-VipNX): C-VipNX: Shell Vip Utility written in C for *NX Systems Simple: Vip shell to avoid usage of sudo.
+  - [NetScanSSH](https://github.com/NymexData/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
   - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
   - [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
   - [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
