@@ -197,6 +197,7 @@ https://maintainers.github.com/
 -->
 
 [![Maintainer Community on GitHub](https://img.shields.io/badge/Maintainer%20Community-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=19)](https://github.com/community)
+[![Maintainer Month on GitHub](https://img.shields.io/badge/Maintainer%20Community-black?style=plastic&logo=github&logoColor=white&labelColor=black&labelHeight=19)](https://maintainermonth.github.com/)
 
 <!--
 [![Tor User](https://img.shields.io/badge/Tor%20User-7E4798?style=plastic&logo=torproject&logoColor=white&labelColor=black&labelHeight=19)](https://www.torproject.org/)
