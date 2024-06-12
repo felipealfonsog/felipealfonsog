@@ -288,16 +288,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
  <!--START_SECTION:top-followers-->
 <ul>
     <li>
-      <a href="https://github.com/nelsonic">
-        <img src="https://avatars2.githubusercontent.com/u/194400" style="width:30px; height:30px;" alt="nelsonic"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/nelsonic">Nelson</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/kroitor">
         <img src="https://avatars2.githubusercontent.com/u/1294454" style="width:30px; height:30px;" alt="kroitor"/>
       </a>
@@ -334,6 +324,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/nmrshll">Nicolas Marshall</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/lporras">
+        <img src="https://avatars2.githubusercontent.com/u/232293" style="width:30px; height:30px;" alt="lporras"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
       </sub>
     </li>
     <br>
