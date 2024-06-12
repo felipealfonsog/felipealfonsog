@@ -244,21 +244,21 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 29 May 2024
+From: 04 December 2023 - To: 12 June 2024
 
-Total Time: 472 hrs 25 mins
+Total Time: 483 hrs 29 mins
 
-Python          93 hrs 32 mins  ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   19.37 %
-Bash            72 hrs 1 min    ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.91 %
-Markdown        51 hrs 50 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.73 %
-HTML            42 hrs 9 mins   ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.73 %
-C++             37 hrs 58 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   07.86 %
-C               34 hrs 38 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.17 %
-INI             24 hrs 20 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.04 %
-JavaScript      21 hrs 39 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.49 %
-YAML            21 hrs 29 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.45 %
-PHP             15 hrs 1 min    ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.11 %
-Other           10 hrs 34 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   02.19 %
+Python          97 hrs 11 mins  ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   19.52 %
+Bash            72 hrs 36 mins  ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   14.59 %
+Markdown        53 hrs 32 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.75 %
+HTML            42 hrs 55 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.62 %
+C++             37 hrs 58 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.63 %
+C               36 hrs 37 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.36 %
+INI             26 hrs 42 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.37 %
+JavaScript      21 hrs 39 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.35 %
+YAML            21 hrs 29 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.32 %
+PHP             15 hrs 1 min    ●○○○○○○○○○○○○○○○○○○○○○○○○   03.02 %
+Other           14 hrs 22 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○   02.89 %
 ```
 
 <!--END_SECTION:waka-->
@@ -288,32 +288,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
  <!--START_SECTION:top-followers-->
 <ul>
     <li>
-      <a href="https://github.com/nelsonic">
-        <img src="https://avatars2.githubusercontent.com/u/194400" style="width:30px; height:30px;" alt="nelsonic"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/nelsonic">Nelson</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/kroitor">
         <img src="https://avatars2.githubusercontent.com/u/1294454" style="width:30px; height:30px;" alt="kroitor"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/kroitor">Igor Kroitor</a>
-      </sub>
-    </li>
-    <br>
-    <li>
-      <a href="https://github.com/srcmaxim">
-        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/srcmaxim">Maksym Koval</a>
       </sub>
     </li>
     <br>
@@ -328,12 +308,32 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
+      <a href="https://github.com/srcmaxim">
+        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/srcmaxim">Maksym Koval</a>
+      </sub>
+    </li>
+    <br>
+    <li>
       <a href="https://github.com/nmrshll">
         <img src="https://avatars2.githubusercontent.com/u/7091508" style="width:30px; height:30px;" alt="nmrshll"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/nmrshll">Nicolas Marshall</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/lporras">
+        <img src="https://avatars2.githubusercontent.com/u/232293" style="width:30px; height:30px;" alt="lporras"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
       </sub>
     </li>
     <br>
@@ -704,6 +704,7 @@ If you find my content or any of my code useful, you can support me through vari
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/felipealfonsog)
 [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?logo=patreon)](https://www.patreon.com/felipealfonsogl)
 -->
+[![Support me on Coindrop](https://img.shields.io/badge/Support%20me%20on-Coindrop-29abe2?style=plastic&logo=bitcoin&logoColor=white)](https://coindrop.to/felipealfonsog)
 [![Support me on PayPal](https://img.shields.io/badge/Support%20me%20on-PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://www.paypal.me/felipealfonsog)
 [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on-GitHub-%23EA4AAA?style=plastic&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/felipealfonsog)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/felipealfonsog)
