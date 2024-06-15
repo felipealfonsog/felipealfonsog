@@ -343,7 +343,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <br>
  </details>
  
-<details id="detalles">
+<details>
 <summary id="projects">🔍 :file_folder: <strong>Dive into More Featured and Diverse Projects</strong> :rocket::star2:...</summary>
 <br>
   
@@ -369,19 +369,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
 <br>
 </details>
-
-<script>
-    
-    document.querySelectorAll('a[href="#projects"]').forEach(function(link) {
-        link.addEventListener('click', function(event) {
-            // Abre el details correspondiente
-            var details = document.getElementById('detalles');
-            if (!details.open) {
-                details.open = true;
-            }
-        });
-    });
-</script>
 
 <!-- <details open> -->
 <details>
