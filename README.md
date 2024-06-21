@@ -91,7 +91,7 @@ _______                  /__/
 
 </details>
    
-<sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the [Vercel service](https://vercel.com/).</sub>
+<sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the [Vercel service](https://vercel.com/). Data may exhibit discrepancies or errors caused by Vercel's platform.</sub>
 
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
