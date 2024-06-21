@@ -81,7 +81,7 @@ _______                  /__/
 
 -->
 
-<details open>
+<details>
 <summary> <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
   <br>
 
@@ -91,7 +91,7 @@ _______                  /__/
 
 </details>
    
-<sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the [Vercel service](https://vercel.com/).</sub>
+<sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the [Vercel service](https://vercel.com/). Data may exhibit discrepancies or errors caused by Vercel's platform.</sub>
 
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
@@ -244,20 +244,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 16 June 2024
+From: 04 December 2023 - To: 20 June 2024
 
-Total Time: 490 hrs 53 mins
+Total Time: 496 hrs 30 mins
 
-Python          97 hrs 11 mins  ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   19.18 %
-Bash            72 hrs 36 mins  ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   14.33 %
-Markdown        53 hrs 32 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.57 %
-HTML            46 hrs 44 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.23 %
-C++             37 hrs 58 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.49 %
-C               36 hrs 37 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.23 %
-INI             27 hrs 6 mins   ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.35 %
-JavaScript      21 hrs 39 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.28 %
-YAML            21 hrs 29 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.24 %
-Other           15 hrs 49 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.12 %
+Python          97 hrs 11 mins  ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   18.97 %
+Bash            76 hrs 2 mins   ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.84 %
+Markdown        54 hrs 3 mins   ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.55 %
+HTML            46 hrs 44 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.12 %
+C++             38 hrs 27 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.51 %
+C               36 hrs 47 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.18 %
+INI             27 hrs 6 mins   ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.29 %
+JavaScript      21 hrs 39 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.23 %
+YAML            21 hrs 29 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.20 %
+Other           15 hrs 54 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.10 %
 ```
 
 <!--END_SECTION:waka-->
@@ -327,12 +327,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/lporras">
-        <img src="https://avatars2.githubusercontent.com/u/232293" style="width:30px; height:30px;" alt="lporras"/>
+      <a href="https://github.com/Pizzaboi87">
+        <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/lporras">Luis Alfredo Porras Páez</a>
+      <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
       </sub>
     </li>
     <br>
