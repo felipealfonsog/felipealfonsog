@@ -93,7 +93,7 @@ _______                  /__/
 
 </details>
    
-<sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the platform's service provider. Data may contain discrepancies or errors due to the platform's service.</sub>
+<sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the service provider used by the platform. Data may contain discrepancies or errors due to the platform's service.</sub>
 
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
@@ -246,20 +246,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 22 June 2024
+From: 04 December 2023 - To: 23 June 2024
 
-Total Time: 503 hrs 3 mins
+Total Time: 504 hrs 5 mins
 
-Python          97 hrs 16 mins  ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   18.72 %
-Bash            76 hrs 8 mins   ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   14.66 %
-Markdown        54 hrs 3 mins   ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.41 %
-HTML            46 hrs 44 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.00 %
-C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.65 %
-C               37 hrs 14 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.17 %
-INI             27 hrs 7 mins   ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.22 %
-JavaScript      21 hrs 39 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.17 %
-YAML            21 hrs 29 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.14 %
-Other           16 hrs 27 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.17 %
+Python          97 hrs 16 mins  ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   18.69 %
+Bash            76 hrs 8 mins   ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   14.63 %
+Markdown        54 hrs 3 mins   ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.39 %
+HTML            46 hrs 44 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   08.98 %
+C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.63 %
+C               37 hrs 14 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.15 %
+INI             27 hrs 7 mins   ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.21 %
+JavaScript      21 hrs 39 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.16 %
+YAML            21 hrs 29 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.13 %
+Other           16 hrs 27 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.16 %
 ```
 
 <!--END_SECTION:waka-->
