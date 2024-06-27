@@ -46,7 +46,7 @@ I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Compute
 [<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
-[<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=internet-explorer&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://felipealfonsog.github.io/)
+[<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=globe&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://felipealfonsog.github.io/)
 [<img src="https://img.shields.io/badge/E&ndash;mail-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:f.alfonso@res-ear.ch)
 <!--
 [![Hirable Engineer](https://img.shields.io/badge/Hirable%20Engineer-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=12)](#)
