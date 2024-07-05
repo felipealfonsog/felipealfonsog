@@ -29,6 +29,11 @@ jobs:
       - name: Generate README.md with repos
         run: python src/generate_listrepos.py
 
+      - name: Configure Git
+        run: |
+          git config --global user.email "f.alfonso@res-ear.ch"
+          git config --global user.name "Felipe"
+
       - name: Check for changes
         id: git-check
         run: |
