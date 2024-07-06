@@ -714,7 +714,7 @@ If you find my content or any of my code useful, you can support me through vari
 
 #### How to Reach Me
 
-My personal website is [glzengrg.com](https://glzengrg.com/) or [here](https://freeshell.de/~felipe/), you can read much more about me there. For business my company website is [nymex-data.com](https://nymex-data.com/). Also, you can connect with me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
+My personal website is [glzengrg.com](https://glzengrg.com/) or [here](https://freeshell.de/~felipe/), you can read much more about me there. Also, you can connect with me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch).
 <!--
 [![github](https://img.shields.io/github/followers/felipealfonsog?logo=github&style=plastic)](https://github.com/felipealfonsog?tab=followers)
 -->
