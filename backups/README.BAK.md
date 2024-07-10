@@ -168,7 +168,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
   <br>
 
 - 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in different areas. It's an exciting journey to explore the intersection of data & engineering! 📊⚙️
-- 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog) and check out my project [Nymex](https://github.com/NymexVentures), Data Research on GitHub too. You can also contact me, as always, by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch) ⚡! 😊
+- 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog). You can also contact me, as always, by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch) ⚡! 😊
   <br>
 </details>
 
@@ -246,20 +246,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 06 July 2024
+From: 04 December 2023 - To: 10 July 2024
 
-Total Time: 540 hrs 2 mins
+Total Time: 542 hrs 49 mins
 
-Python          97 hrs 18 mins  ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   17.37 %
-Bash            85 hrs          ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.17 %
-Markdown        59 hrs 43 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.66 %
-HTML            53 hrs 44 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.59 %
-C               44 hrs 16 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   07.90 %
-C++             39 hrs 43 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   07.09 %
-INI             27 hrs 7 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.84 %
-JavaScript      21 hrs 39 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.87 %
-YAML            21 hrs 39 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.86 %
-Other           20 hrs 15 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.61 %
+Python          97 hrs 18 mins  ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   17.28 %
+Bash            85 hrs          ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.10 %
+Markdown        59 hrs 43 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.61 %
+HTML            56 hrs 31 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.04 %
+C               44 hrs 16 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   07.86 %
+C++             39 hrs 43 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   07.06 %
+INI             27 hrs 7 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.82 %
+JavaScript      21 hrs 39 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.85 %
+YAML            21 hrs 39 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.85 %
+Other           20 hrs 15 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.60 %
 ```
 
 <!--END_SECTION:waka-->
