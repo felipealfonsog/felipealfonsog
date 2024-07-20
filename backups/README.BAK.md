@@ -246,20 +246,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 10 July 2024
+From: 04 December 2023 - To: 20 July 2024
 
-Total Time: 542 hrs 49 mins
+Total Time: 548 hrs 32 mins
 
-Python          97 hrs 18 mins  ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   17.28 %
-Bash            85 hrs          ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.10 %
-Markdown        59 hrs 43 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.61 %
-HTML            56 hrs 31 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.04 %
-C               44 hrs 16 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   07.86 %
-C++             39 hrs 43 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   07.06 %
-INI             27 hrs 7 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.82 %
-JavaScript      21 hrs 39 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.85 %
-YAML            21 hrs 39 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.85 %
-Other           20 hrs 15 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.60 %
+Python          97 hrs 18 mins  ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.10 %
+Bash            85 hrs 21 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   15.01 %
+Markdown        59 hrs 43 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.50 %
+HTML            56 hrs 33 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.94 %
+C               44 hrs 16 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.78 %
+C++             39 hrs 43 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   06.98 %
+INI             27 hrs 7 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.77 %
+JavaScript      21 hrs 39 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.81 %
+YAML            21 hrs 39 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.81 %
+Other           20 hrs 19 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
 ```
 
 <!--END_SECTION:waka-->
@@ -352,6 +352,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
   - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
   - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
+  - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster: is a graphical application developed in Python with PyQt5 for managing WiFi connections on Arch Linux systems using ConnMan. It allows you to view all saved connections, set networks to connect automatically, enter passwords for new networks, and connect or disconnect from available networks in an intuitive and fast manner.
   - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
   - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
   - [C-VipNX](https://github.com/NymexData/C-VipNX): C-VipNX: Shell Vip Utility written in C for *NX Systems Simple: Vip shell to avoid usage of sudo.
