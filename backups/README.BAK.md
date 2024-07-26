@@ -246,20 +246,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 20 July 2024
+From: 04 December 2023 - To: 25 July 2024
 
-Total Time: 548 hrs 32 mins
+Total Time: 587 hrs 10 mins
 
-Python          97 hrs 18 mins  ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.10 %
-Bash            85 hrs 21 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   15.01 %
-Markdown        59 hrs 43 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.50 %
-HTML            56 hrs 33 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.94 %
-C               44 hrs 16 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.78 %
-C++             39 hrs 43 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   06.98 %
-INI             27 hrs 7 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.77 %
-JavaScript      21 hrs 39 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.81 %
-YAML            21 hrs 39 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.81 %
-Other           20 hrs 19 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
+Python          101 hrs 27 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.66 %
+Bash            95 hrs 52 mins  ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   15.75 %
+Markdown        62 hrs 3 mins   ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.19 %
+HTML            58 hrs 36 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.62 %
+C               52 hrs 48 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.67 %
+C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   06.53 %
+INI             29 hrs 26 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.84 %
+Text            24 hrs 4 mins   ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.95 %
+YAML            21 hrs 44 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
+Other           21 hrs 42 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
 ```
 
 <!--END_SECTION:waka-->
@@ -350,6 +350,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <br>
   
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+  - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): "TerminaLite" A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
   - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
   - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
   - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster: is a graphical application developed in Python with PyQt5 for managing WiFi connections on Arch Linux systems using ConnMan. It allows you to view all saved connections, set networks to connect automatically, enter passwords for new networks, and connect or disconnect from available networks in an intuitive and fast manner.
