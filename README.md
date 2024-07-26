@@ -350,6 +350,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <br>
   
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+  - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): "TerminaLite" A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
   - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
   - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
   - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster: is a graphical application developed in Python with PyQt5 for managing WiFi connections on Arch Linux systems using ConnMan. It allows you to view all saved connections, set networks to connect automatically, enter passwords for new networks, and connect or disconnect from available networks in an intuitive and fast manner.
