@@ -246,19 +246,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 28 July 2024
+From: 04 December 2023 - To: 29 July 2024
 
-Total Time: 597 hrs 35 mins
+Total Time: 604 hrs 47 mins
 
-Python          101 hrs 27 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.36 %
-Bash            99 hrs 19 mins  ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.02 %
-Markdown        62 hrs 32 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.09 %
-HTML            59 hrs 49 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.65 %
-C               57 hrs 42 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.31 %
-C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   06.41 %
-INI             29 hrs 26 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.75 %
-Text            24 hrs 4 mins   ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.88 %
-Other           22 hrs 25 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.62 %
+Python          101 hrs 27 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.18 %
+Bash            99 hrs 19 mins  ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   15.83 %
+HTML            65 hrs 45 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.48 %
+Markdown        62 hrs 32 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.97 %
+C               57 hrs 42 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.20 %
+C++             39 hrs 43 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.33 %
+INI             29 hrs 26 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.69 %
+Text            24 hrs 21 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.88 %
+Other           22 hrs 25 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.58 %
 ```
 
 <!--END_SECTION:waka-->
