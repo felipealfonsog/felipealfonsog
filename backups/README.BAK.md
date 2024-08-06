@@ -246,20 +246,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 25 July 2024
+From: 04 December 2023 - To: 05 August 2024
 
-Total Time: 587 hrs 10 mins
+Total Time: 604 hrs 55 mins
 
-Python          101 hrs 27 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.66 %
-Bash            95 hrs 52 mins  ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   15.75 %
-Markdown        62 hrs 3 mins   ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.19 %
-HTML            58 hrs 36 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.62 %
-C               52 hrs 48 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.67 %
-C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   06.53 %
-INI             29 hrs 26 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.84 %
-Text            24 hrs 4 mins   ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.95 %
-YAML            21 hrs 44 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
-Other           21 hrs 42 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
+Python          101 hrs 27 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.17 %
+Bash            99 hrs 19 mins  ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   15.83 %
+HTML            65 hrs 45 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.48 %
+Markdown        62 hrs 32 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.97 %
+C               57 hrs 42 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.20 %
+C++             39 hrs 43 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.33 %
+INI             29 hrs 26 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.69 %
+Text            24 hrs 21 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.88 %
+Other           22 hrs 25 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.58 %
 ```
 
 <!--END_SECTION:waka-->
@@ -299,6 +298,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
+      <a href="https://github.com/Pizzaboi87">
+        <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
+      </sub>
+    </li>
+    <br>
+    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
@@ -315,16 +324,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/srcmaxim">Maksym Koval</a>
-      </sub>
-    </li>
-    <br>
-    <li>
-      <a href="https://github.com/Pizzaboi87">
-        <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
       </sub>
     </li>
     <br>
@@ -350,6 +349,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <br>
   
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+  - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): "AutoReconnect" is a utility designed to manage WiFi connections using ConnMan on Linux systems. It continuously monitors the network connection status, and if a disconnection is detected, it attempts to reconnect to the previously connected network or, if necessary, to the next available network.
   - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): "TerminaLite" A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
   - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
   - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
