@@ -348,6 +348,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <br>
   
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+  - [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): "OpenVPN-GUI-Connect" Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
   - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): "AutoReconnect" is a utility designed to manage WiFi connections using ConnMan on Linux systems. It continuously monitors the network connection status, and if a disconnection is detected, it attempts to reconnect to the previously connected network or, if necessary, to the next available network.
   - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): "TerminaLite" A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
   - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
