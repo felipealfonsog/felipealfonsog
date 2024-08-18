@@ -246,18 +246,18 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 11 August 2024
+From: 04 December 2023 - To: 17 August 2024
 
-Total Time: 609 hrs 45 mins
+Total Time: 617 hrs 8 mins
 
-Python          104 hrs 52 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.51 %
-Bash            99 hrs 39 mins  ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   15.69 %
-HTML            66 hrs 27 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.47 %
-Markdown        62 hrs 49 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.89 %
-C               57 hrs 42 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.09 %
-C++             39 hrs 43 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.26 %
-INI             29 hrs 26 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.64 %
-Other           25 hrs 18 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.99 %
+Python          108 hrs 6 mins  ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.83 %
+Bash            101 hrs 45 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   15.84 %
+HTML            66 hrs 41 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.38 %
+Markdown        62 hrs 49 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.78 %
+C               57 hrs 42 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   08.98 %
+C++             39 hrs 43 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.18 %
+INI             29 hrs 26 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.58 %
+Other           25 hrs 18 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.94 %
 ```
 
 <!--END_SECTION:waka-->
@@ -297,22 +297,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Pizzaboi87">
-        <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Pizzaboi87">
+        <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
       </sub>
     </li>
     <br>
@@ -349,6 +349,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
   - [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): "OpenVPN-GUI-Connect" Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
+  - [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): "NoIP-Manager" A versatile tool for managing No-IP dynamic DNS updates and client operations.
   - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): "AutoReconnect" is a utility designed to manage WiFi connections using ConnMan on Linux systems. It continuously monitors the network connection status, and if a disconnection is detected, it attempts to reconnect to the previously connected network or, if necessary, to the next available network.
   - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): "TerminaLite" A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
   - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
