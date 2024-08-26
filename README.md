@@ -718,7 +718,7 @@ If you find my content or any of my code useful, you can support me through vari
 
 #### How to Reach Me
 
-My personal website is [glzengrg.com](https://glzengrg.com/) or [here](https://freeshell.de/~felipe/), you can read much more about me there. Also, you can connect with me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [felipe.alfonso.glz@gmail.com](mailto:felipe.alfonso.glz@gmail.com).
+My personal website is [gnlz.cl](https://gnlz.cl/) or [here](https://freeshell.de/~felipe/), you can read much more about me there. Also, you can connect with me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [felipe.alfonso.glz@gmail.com](mailto:felipe.alfonso.glz@gmail.com).
 <!--
 [![github](https://img.shields.io/github/followers/felipealfonsog?logo=github&style=plastic)](https://github.com/felipealfonsog?tab=followers)
 -->
