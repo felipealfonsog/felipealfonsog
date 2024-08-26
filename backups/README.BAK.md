@@ -246,19 +246,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 24 August 2024
+From: 04 December 2023 - To: 26 August 2024
 
-Total Time: 623 hrs 14 mins
+Total Time: 627 hrs 46 mins
 
-Python          108 hrs 18 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.68 %
-Bash            103 hrs 19 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   15.92 %
-HTML            66 hrs 48 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.29 %
-Markdown        64 hrs 6 mins   ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.88 %
-C               57 hrs 45 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.90 %
-C++             39 hrs 43 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.12 %
-INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.54 %
-Text            27 hrs 18 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.21 %
-Other           25 hrs 57 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.00 %
+Python          108 hrs 18 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.57 %
+Bash            105 hrs 35 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.15 %
+HTML            66 hrs 55 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.24 %
+Markdown        64 hrs 39 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.89 %
+C               57 hrs 45 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.83 %
+C++             39 hrs 43 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.08 %
+INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.50 %
+Text            27 hrs 18 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.18 %
+Other           25 hrs 57 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.97 %
 ```
 
 <!--END_SECTION:waka-->
@@ -718,7 +718,7 @@ If you find my content or any of my code useful, you can support me through vari
 
 #### How to Reach Me
 
-My personal website is [glzengrg.com](https://glzengrg.com/) or [here](https://freeshell.de/~felipe/), you can read much more about me there. Also, you can connect with me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [felipe.alfonso.glz@gmail.com](mailto:felipe.alfonso.glz@gmail.com).
+My personal website is [gnlz.cl](https://gnlz.cl/) or [here](https://freeshell.de/~felipe/), you can read much more about me there. Also, you can connect with me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog) or by email at [felipe.alfonso.glz@gmail.com](mailto:felipe.alfonso.glz@gmail.com).
 <!--
 [![github](https://img.shields.io/github/followers/felipealfonsog?logo=github&style=plastic)](https://github.com/felipealfonsog?tab=followers)
 -->
