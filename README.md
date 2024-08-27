@@ -308,22 +308,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/srcmaxim">
-        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/srcmaxim">Maksym Koval</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/srcmaxim">
+        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/srcmaxim">Maksym Koval</a>
       </sub>
     </li>
     <br>
