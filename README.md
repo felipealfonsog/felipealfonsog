@@ -273,7 +273,7 @@ Other           25 hrs 57 mins  ◕○○○○○○○○○○○○○○○
    
 [![committers.top badge](https://user-badge.committers.top/chile_private/felipealfonsog)](https://user-badge.committers.top/chile_private/felipealfonsog)
 
-[![committers.top badge](https://user-badge.committers.top/chile/felipealfonsog.svg)](https://user-badge.committers.top/chile/felipealfonsog)
+[![committers.top badge](https://user-badge.committers.top/chile_private/felipealfonsog.svg)](https://user-badge.committers.top/chile_private/felipealfonsog)
 
 <sub>*More information about the top committers in Chile [here](https://committers.top/chile).
 <br>
