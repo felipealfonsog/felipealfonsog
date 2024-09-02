@@ -270,7 +270,7 @@ Other           25 hrs 57 mins  ◕○○○○○○○○○○○○○○○
 <details open>
 <summary>🏆 Committers.top rank in Chile* 🌟</summary> 
   <br>
-  
+[![committers.top badge (All)](https://user-badge.committers.top/chile_private/felipealfonsog)](https://user-badge.committers.top/chile_private/felipealfonsog)
 [![committers.top badge](https://user-badge.committers.top/chile/felipealfonsog.svg)](https://user-badge.committers.top/chile/felipealfonsog)
 
 <sub>*More information about the top committers in Chile [here](https://committers.top/chile).
