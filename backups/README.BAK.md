@@ -246,13 +246,13 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 26 August 2024
+From: 04 December 2023 - To: 01 September 2024
 
-Total Time: 627 hrs 46 mins
+Total Time: 627 hrs 48 mins
 
 Python          108 hrs 18 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.57 %
 Bash            105 hrs 35 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.15 %
-HTML            66 hrs 55 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.24 %
+HTML            66 hrs 57 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.24 %
 Markdown        64 hrs 39 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.89 %
 C               57 hrs 45 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.83 %
 C++             39 hrs 43 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.08 %
@@ -270,8 +270,16 @@ Other           25 hrs 57 mins  ◕○○○○○○○○○○○○○○○
 <details open>
 <summary>🏆 Committers.top rank in Chile* 🌟</summary> 
   <br>
-  
-[![committers.top badge](https://user-badge.committers.top/chile/felipealfonsog.svg)](https://user-badge.committers.top/chile/felipealfonsog)
+   
+<!--   
+
+[![committers.top badge](https://user-badge.committers.top/chile_private/felipealfonsog)](https://user-badge.committers.top/chile_private/felipealfonsog)
+
+[![committers.top badge](https://user-badge.committers.top/chile_private/felipealfonsog.svg)](https://user-badge.committers.top/chile_private/felipealfonsog)
+
+-->
+
+[![committers.top badge](https://user-badge.committers.top/chile_private/felipealfonsog.svg)](https://user-badge.committers.top/chile_private/felipealfonsog)
 
 <sub>*More information about the top committers in Chile [here](https://committers.top/chile).
 <br>
@@ -308,22 +316,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/srcmaxim">
-        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/srcmaxim">Maksym Koval</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/srcmaxim">
+        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/srcmaxim">Maksym Koval</a>
       </sub>
     </li>
     <br>
