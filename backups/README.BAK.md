@@ -247,7 +247,7 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 24 September 2024
+From: 04 December 2023 - To: 27 September 2024
 
 Total Time: 642 hrs 59 mins
 
@@ -368,7 +368,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
   - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
   - [C-VipNX](https://github.com/NymexData/C-VipNX): C-VipNX: Shell Vip Utility written in C for *NX Systems Simple: Vip shell to avoid usage of sudo.
-  - [NetScanSSH](https://github.com/NymexData/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
   - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
   - [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
   - [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
@@ -379,7 +378,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
   - [WordCraft360](https://github.com/NymexData/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com, WordCraft360 offers a sleek and visually appealing interface with carefully selected fonts that are easy on the eyes.
   - [PerlMemoPad](https://github.com/NymexData/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
   - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
-  - [VesicleInsight](https://github.com/felipealfonsog/VesicleInsight): VesicleInsight: Empowering Early Medical Diagnosis. This is an advanced Python-based software utilizing machine learning to analyze medical imaging data, specifically focusing on vesicle anomalies. Our mission is to deliver a powerful tool for healthcare professionals, enhancing the precision and efficiency of early detection and diagnosis in medical imaging.
   - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses.
 
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
