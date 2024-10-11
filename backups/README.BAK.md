@@ -12,7 +12,8 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 [![Translate](https://img.shields.io/badge/Google%20Translate-English%20to%20Spanish-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
 -->
 
-[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
+[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects)
+
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/felipealfonsog/)
@@ -247,19 +248,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 27 September 2024
+From: 04 December 2023 - To: 11 October 2024
 
-Total Time: 642 hrs 59 mins
+Total Time: 650 hrs 33 mins
 
-Bash            110 hrs 42 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.55 %
-Python          108 hrs 55 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.28 %
-HTML            72 hrs 16 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.80 %
-Markdown        65 hrs 58 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.86 %
-C               58 hrs 44 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.78 %
-C++             39 hrs 43 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.94 %
-INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.40 %
-Text            27 hrs 18 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.08 %
-Other           25 hrs 58 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.88 %
+Bash            113 hrs 50 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.82 %
+Python          109 hrs 41 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.20 %
+HTML            72 hrs 31 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.71 %
+Markdown        69 hrs 23 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.25 %
+C               58 hrs 44 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.68 %
+C++             39 hrs 43 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.87 %
+INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.35 %
+Text            27 hrs 18 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.04 %
+Other           26 hrs 25 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.90 %
 ```
 
 <!--END_SECTION:waka-->
@@ -352,37 +353,8 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <sub>*This section may contain errors resulting from code execution and in the call to action for data presentation.</sub>
 <br>
  </details>
- 
-<details>
-<summary id="projects">🔍 :file_folder: <strong>Dive into More Featured and Diverse Projects</strong> :rocket::star2:...</summary>
-<br>
-  
-  - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
-  - [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): "OpenVPN-GUI-Connect" Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
-  - [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): "NoIP-Manager" A versatile tool for managing No-IP dynamic DNS updates and client operations.
-  - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): "AutoReconnect" is a utility designed to manage WiFi connections using ConnMan on Linux systems. It continuously monitors the network connection status, and if a disconnection is detected, it attempts to reconnect to the previously connected network or, if necessary, to the next available network.
-  - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): "TerminaLite" A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
-  - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
-  - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
-  - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster: is a graphical application developed in Python with PyQt5 for managing WiFi connections on Arch Linux systems using ConnMan. It allows you to view all saved connections, set networks to connect automatically, enter passwords for new networks, and connect or disconnect from available networks in an intuitive and fast manner.
-  - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
-  - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
-  - [C-VipNX](https://github.com/NymexData/C-VipNX): C-VipNX: Shell Vip Utility written in C for *NX Systems Simple: Vip shell to avoid usage of sudo.
-  - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
-  - [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
-  - [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
-  - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): PicoWebPy: Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
-  - [BashGuardian](https://github.com/felipealfonsog/BashGuardian): BashGuardian is a powerful bash script for backups and encryption on Unix-like (Linux & macOS) systems. It provides an easy-to-use and secure way to protect your important files and data.
-  - [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
-  - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents. The project aims to offer a fast and minimalistic PDF reading experience while using minimal system resources.
-  - [WordCraft360](https://github.com/NymexData/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com, WordCraft360 offers a sleek and visually appealing interface with carefully selected fonts that are easy on the eyes.
-  - [PerlMemoPad](https://github.com/NymexData/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
-  - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
-  - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses.
 
-<sub>*Exclusively curated repository storing papers authored by me.</sub>
-<br>
-</details>
+ <!-- Before it was the list of projects here -->
 
 <!-- <details open> -->
 <details>
@@ -802,6 +774,38 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 ```
 
 </details>
+
+<details>
+<summary id="projects">🔍 :file_folder: <strong>Dive into More Featured and Diverse Projects</strong> :rocket::star2:...</summary>
+<br>
+  
+  - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+  - [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): "OpenVPN-GUI-Connect" Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
+  - [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): "NoIP-Manager" A versatile tool for managing No-IP dynamic DNS updates and client operations.
+  - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): "AutoReconnect" is a utility designed to manage WiFi connections using ConnMan on Linux systems. It continuously monitors the network connection status, and if a disconnection is detected, it attempts to reconnect to the previously connected network or, if necessary, to the next available network.
+  - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): "TerminaLite" A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
+  - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
+  - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
+  - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster: is a graphical application developed in Python with PyQt5 for managing WiFi connections on Arch Linux systems using ConnMan. It allows you to view all saved connections, set networks to connect automatically, enter passwords for new networks, and connect or disconnect from available networks in an intuitive and fast manner.
+  - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
+  - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
+  - [C-VipNX](https://github.com/NymexData/C-VipNX): C-VipNX: Shell Vip Utility written in C for *NX Systems Simple: Vip shell to avoid usage of sudo.
+  - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
+  - [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
+  - [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
+  - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): PicoWebPy: Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
+  - [BashGuardian](https://github.com/felipealfonsog/BashGuardian): BashGuardian is a powerful bash script for backups and encryption on Unix-like (Linux & macOS) systems. It provides an easy-to-use and secure way to protect your important files and data.
+  - [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
+  - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents. The project aims to offer a fast and minimalistic PDF reading experience while using minimal system resources.
+  - [WordCraft360](https://github.com/NymexData/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com, WordCraft360 offers a sleek and visually appealing interface with carefully selected fonts that are easy on the eyes.
+  - [PerlMemoPad](https://github.com/NymexData/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
+  - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
+  - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses.
+
+<sub>*Exclusively curated repository storing papers authored by me.</sub>
+<br>
+</details>
+
 
 #### Latest Repository Update/Commit | Profile Views:
 
