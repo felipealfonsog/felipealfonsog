@@ -613,15 +613,14 @@ Powered by https://github.com/devicons/devicon
 <summary>📚🔍 Research Papers 🗂️</summary>
 <br>
 <!--
-[![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue)](https://onlineiacc.academia.edu/felipealfonsog)
-[![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Profile-blue)](https://www.researchgate.net/profile/Felipe-Alfonso-Gonzalez-2)
-[![Github's PaperArchive](https://img.shields.io/badge/Github's-PaperArchive-green)](https://github.com/felipealfonsog/PaperArchive)
-[![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange)](https://arxiv.org/search/?searchtype=author&query=Felipe+Alfonso+González)
+[![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue?style=plastic&logo=academia)](https://onlineiacc.academia.edu/felipealfonsog)
+[![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Profile-blue?style=plastic&logo=researchgate)](https://www.researchgate.net/profile/Felipe-Alfonso-Gonzalez-2)
+[![Github's PaperArchive](https://img.shields.io/badge/Github's-PaperArchive-green?style=plastic&logo=github)](https://github.com/felipealfonsog/PaperArchive)
+[![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange?style=plastic&logo=arxiv)](https://arxiv.org/search/?searchtype=author&query=Felipe+Alfonso+González)
 -->
   
 [![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue?style=plastic&logo=academia)](https://onlineiacc.academia.edu/felipealfonsog)
 [![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Profile-blue?style=plastic&logo=researchgate)](https://www.researchgate.net/profile/Felipe-Alfonso-Gonzalez-2)
-[![Github's PaperArchive](https://img.shields.io/badge/Github's-PaperArchive-green?style=plastic&logo=github)](https://github.com/felipealfonsog/PaperArchive)
 [![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange?style=plastic&logo=arxiv)](https://arxiv.org/search/?searchtype=author&query=Felipe+Alfonso+González)
 
 <!--[![arXiv Profile](https://img.shields.io/badge/arXiv-Profile-orange)](https://arxiv.org/a/felipealfonsog)-->
