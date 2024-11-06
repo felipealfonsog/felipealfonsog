@@ -783,7 +783,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   - [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): "NoIP-Manager" A versatile tool for managing No-IP dynamic DNS updates and client operations.
   - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): "AutoReconnect" is a utility designed to manage WiFi connections using ConnMan on Linux systems. It continuously monitors the network connection status, and if a disconnection is detected, it attempts to reconnect to the previously connected network or, if necessary, to the next available network.
   - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): "TerminaLite" A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
-  - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
   - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
   - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster: is a graphical application developed in Python with PyQt5 for managing WiFi connections on Arch Linux systems using ConnMan. It allows you to view all saved connections, set networks to connect automatically, enter passwords for new networks, and connect or disconnect from available networks in an intuitive and fast manner.
   - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
@@ -802,6 +801,12 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses (***Private repository***).
 
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
+
+<!-- 
+
+  - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
+
+-->
 <br>
 </details>
 

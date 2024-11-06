@@ -248,17 +248,17 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 17 October 2024
+From: 04 December 2023 - To: 05 November 2024
 
-Total Time: 650 hrs 37 mins
+Total Time: 651 hrs 24 mins
 
-Bash            113 hrs 50 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.81 %
-Python          109 hrs 41 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.20 %
-HTML            72 hrs 36 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   10.72 %
-Markdown        69 hrs 23 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.25 %
-C               58 hrs 44 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.68 %
-C++             39 hrs 43 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.87 %
-INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.35 %
+Bash            113 hrs 50 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.80 %
+Python          109 hrs 41 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.18 %
+HTML            73 hrs 22 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.83 %
+Markdown        69 hrs 23 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.24 %
+C               58 hrs 44 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.67 %
+C++             39 hrs 43 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.86 %
+INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.34 %
 Text            27 hrs 19 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.03 %
 Other           26 hrs 25 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.90 %
 ```
@@ -308,22 +308,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
@@ -338,12 +338,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/nmrshll">
-        <img src="https://avatars2.githubusercontent.com/u/7091508" style="width:30px; height:30px;" alt="nmrshll"/>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/nmrshll">Nicolas Marshall</a>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
@@ -783,7 +783,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   - [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): "NoIP-Manager" A versatile tool for managing No-IP dynamic DNS updates and client operations.
   - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): "AutoReconnect" is a utility designed to manage WiFi connections using ConnMan on Linux systems. It continuously monitors the network connection status, and if a disconnection is detected, it attempts to reconnect to the previously connected network or, if necessary, to the next available network.
   - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): "TerminaLite" A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
-  - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
   - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
   - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster: is a graphical application developed in Python with PyQt5 for managing WiFi connections on Arch Linux systems using ConnMan. It allows you to view all saved connections, set networks to connect automatically, enter passwords for new networks, and connect or disconnect from available networks in an intuitive and fast manner.
   - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
@@ -802,6 +801,12 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses (***Private repository***).
 
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
+
+<!-- 
+
+  - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
+
+-->
 <br>
 </details>
 
