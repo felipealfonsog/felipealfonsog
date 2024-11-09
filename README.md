@@ -7,6 +7,8 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 > We must cultivate, all of us, a certain ignorance, a certain blindness, or society will not be tolerable. — [J.M. Coetzee](https://es.wikipedia.org/wiki/J._M._Coetzee), Disgrace
 
+> The time is the matter of which I have been created. — [Nicanor Parra](https://es.wikipedia.org/wiki/Nicanor_Parra)
+
 > A complex system that works is invariably found to have evolved from a simple system that worked. — [Gall's Law](http://principles-wiki.net/principles:gall_s_law)
 
 <!--
