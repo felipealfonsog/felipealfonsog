@@ -5,7 +5,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 > Time flies over us, but leaves its shadow behind. — [Nathaniel Hawthorne](https://es.wikipedia.org/wiki/Nathaniel_Hawthorne)
 
-> When all else fails, philosophize. — [J.M. Coetzee](https://es.wikipedia.org/wiki/J._M._Coetzee), Waiting for the Barbarians
+> We must cultivate, all of us, a certain ignorance, a certain blindness, or society will not be tolerable. — [J.M. Coetzee](https://es.wikipedia.org/wiki/J._M._Coetzee), Disgrace
 
 > A complex system that works is invariably found to have evolved from a simple system that worked. — [Gall's Law](http://principles-wiki.net/principles:gall_s_law)
 
