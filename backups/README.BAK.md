@@ -3,7 +3,9 @@
 I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), 
 Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_architect) and with a strong interest in data-related fields and [R+D](https://en.wikipedia.org/wiki/Research_and_development) ([I+D](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_y_desarrollo)). Along with that I'm also focused on teaching online as a [lecturer](https://en.wikipedia.org/wiki/Lecturer). Currently, I am pursuing a [Master's degree](https://en.wikipedia.org/wiki/Master%27s_degree) program in [Big Data](https://en.wikipedia.org/wiki/Big_data) & [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence). Currently, active in the realm of [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security) - [Cyberintelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) alongside my studies, even though I am always [coding](https://en.wikipedia.org/wiki/Computer_programming) and deepening my understanding of different subjects. I'm a member of the [GitHub community](https://github.com/community) and part of the team of maintainers. In my leisure time, I enjoy reading, playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) (BJJ), [Zazen](https://en.wikipedia.org/wiki/Zazen) (*Zazen in Wikipedia Spanish [here](https://es.wikipedia.org/wiki/Zazen)*) which is a form of [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness). I enjoy listening to music -check out my [Spotify profile](https://open.spotify.com/user/12133266428)-, I have a deep love for animals and nature. As a former [Rover Scout Leader](https://en.wikipedia.org/wiki/Rover_Scout) with the *Agrupación Nacional de Boy Scouts de Chile ([Wikipedia](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile) - [Website](https://boyscouts.cl/))* - supported mostly by the [Great Lodge of Chile](https://www.granlogia.cl) -, I wholeheartedly support their mission and values. Additionally, I stand with [PETA](https://www.peta.org/) in advocating for the ethical treatment of animals. As I've previously expressed, I thoroughly enjoy reading -check out my [Goodreads](https://goodreads.com/felipealfonsog) Bookshelves-, I like to talk about entrepreneurship, OpenSource projects -*check out my [projects](#projects) or explore the GitHub repository of my [open-hub](https://github.com/nymexhub)*-, and I always move along towards pursuing academic interests. I'm also a [Freemason](https://en.wikipedia.org/wiki/Freemasonry). If you harbor aspirations in business or entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out to me. Should you find yourself in the vicinity of [Santiago](https://en.wikipedia.org/wiki/Santiago), it would be my pleasure to engage in a thoughtful conversation over a delightful cup of coffee ☕️ 💬 (Alternatively, it might be online!). You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just [email-me](mailto:felipe.alfonso.glz@gmail.com).
 
-> A complex system that works is invariably found to have evolved from a simple system that worked. [Gall's Law](http://principles-wiki.net/principles:gall_s_law)
+> Time flies over us, but leaves its shadow behind. — [Nathaniel Hawthorne](https://es.wikipedia.org/wiki/Nathaniel_Hawthorne)
+
+> A complex system that works is invariably found to have evolved from a simple system that worked. — [Gall's Law](http://principles-wiki.net/principles:gall_s_law)
 
 <!--
 [![Translate](https://img.shields.io/badge/Translate-English%20to%20Spanish-blue?style=plastic&logo=google-translate)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
@@ -248,15 +250,15 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 05 November 2024
+From: 04 December 2023 - To: 09 November 2024
 
-Total Time: 651 hrs 24 mins
+Total Time: 651 hrs 27 mins
 
-Bash            113 hrs 50 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.80 %
+Bash            113 hrs 50 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.79 %
 Python          109 hrs 41 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.18 %
-HTML            73 hrs 22 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.83 %
+HTML            73 hrs 22 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.82 %
 Markdown        69 hrs 23 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.24 %
-C               58 hrs 44 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.67 %
+C               58 hrs 47 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.67 %
 C++             39 hrs 43 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.86 %
 INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.34 %
 Text            27 hrs 19 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.03 %
