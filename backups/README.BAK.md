@@ -259,19 +259,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 09 November 2024
+From: 04 December 2023 - To: 02 January 2025
 
-Total Time: 651 hrs 27 mins
+Total Time: 669 hrs 37 mins
 
-Bash            113 hrs 50 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.79 %
-Python          109 hrs 41 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.18 %
-HTML            73 hrs 22 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.82 %
-Markdown        69 hrs 23 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   10.24 %
-C               58 hrs 47 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.67 %
-C++             39 hrs 43 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.86 %
-INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.34 %
-Text            27 hrs 19 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.03 %
-Other           26 hrs 25 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.90 %
+Bash            119 hrs 34 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.18 %
+Python          115 hrs 28 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.59 %
+HTML            75 hrs 33 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.86 %
+Markdown        69 hrs 26 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.97 %
+C               62 hrs 54 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.04 %
+C++             39 hrs 43 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.71 %
+INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.23 %
+Text            27 hrs 36 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.97 %
+Other           26 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.80 %
 ```
 
 <!--END_SECTION:waka-->
@@ -339,22 +339,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/srcmaxim">
-        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/srcmaxim">Maksym Koval</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Francesco601">
         <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Tom5521">
+        <img src="https://avatars2.githubusercontent.com/u/88908582" style="width:30px; height:30px;" alt="Tom5521"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Tom5521">Tom</a>
       </sub>
     </li>
     <br>
@@ -839,3 +839,4 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 [![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org)
 
+<sub>[Top Home](https://github.com/felipealfonsog)</sub>
