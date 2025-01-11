@@ -638,19 +638,19 @@ Powered by https://github.com/devicons/devicon
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/openvpn.svg" alt="openvpn" width="40" height="40"/>
 </a> 
 <a href="https://protonvpn.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ProtonVPN_Logo.svg/512px-ProtonVPN_Logo.svg.png" alt="protonvpn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/master/src/scalable/apps/protonvpn.svg" alt="protonvpn" width="40" height="40"/>
 </a> 
 <a href="https://defcon.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Defcon-logo.svg/325px-Defcon-logo.svg.png" alt="defcon" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/64x64/apps/defcon.svg" alt="defcon" width="40" height="40"/>
 </a> 
 <a href="https://www.kali.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834" alt="kali linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/distributor-logo-kali-linux.svg" alt="kali linux" width="40" height="40"/>
 </a> 
 <a href="https://duckduckgo.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/DuckDuckGo_logo.svg/150px-DuckDuckGo_logo.svg.png" alt="duckduckgo" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" alt="duckduckgo" width="40" height="40"/>
 </a> 
 <a href="https://www.cisa.gov/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Seal_of_Cybersecurity_and_Infrastructure_Security_Agency.svg/466px-Seal_of_Cybersecurity_and_Infrastructure_Security_Agency.svg.png" alt="CISA" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/CISA_Logo.png/240px-CISA_Logo.png" alt="CISA" width="40" height="40"/>
 </a>
 
 
