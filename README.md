@@ -623,19 +623,19 @@ Powered by https://github.com/devicons/devicon
 <!-- Cybersecurity / Cyberintelligence icons -->
 
 <a href="https://www.torproject.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/306px-Tor-logo-2011-flat.svg.png" alt="tor" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="tor" width="40" height="40"/>
 </a> 
 <a href="https://blackarch.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/BlackArch_logo.png" alt="blackarch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg" alt="blackarch" width="40" height="40"/>
 </a> 
 <a href="https://www.metasploit.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png" alt="metasploit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/64x64/apps/metasploit.svg" alt="metasploit" width="40" height="40"/>
 </a> 
 <a href="https://www.wireshark.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/100px-Wireshark_icon.svg.png" alt="wireshark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/max-mapper/hexbin/refs/heads/gh-pages/vector/wireshark.svg" alt="wireshark" width="40" height="40"/>
 </a> 
 <a href="https://openvpn.net/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OpenVPN_logo.svg/512px-OpenVPN_logo.svg.png" alt="openvpn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/openvpn.svg" alt="openvpn" width="40" height="40"/>
 </a> 
 <a href="https://protonvpn.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ProtonVPN_Logo.svg/512px-ProtonVPN_Logo.svg.png" alt="protonvpn" width="40" height="40"/>
@@ -657,7 +657,7 @@ Powered by https://github.com/devicons/devicon
 
 </p>
 
-<sub>*Powered by [Devicon](https://github.com/devicons/devicon) & [VectorLogoZone](https://www.vectorlogo.zone).</sub>
+<sub>*Powered by [Devicon](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
