@@ -618,7 +618,7 @@ Powered by https://github.com/devicons/devicon
 
 <br>
 
-| Cybersecurity / Cyberintelligence.
+| Cybersecurity / Cyberintelligence 🔒
 
 <!-- Cybersecurity / Cyberintelligence icons -->
 
