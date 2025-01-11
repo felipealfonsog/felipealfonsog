@@ -629,7 +629,7 @@ Powered by https://github.com/devicons/devicon
 
 <!-- Black Arch -->
 <a href="https://blackarch.org/" target="_blank">
-  <img src="https://blackarch.org/images/blackarch-icon.png" alt="blackarch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/BlackArch_logo.svg" alt="blackarch" width="40" height="40"/>
 </a>
 
 <!-- Kali Linux -->
@@ -666,6 +666,7 @@ Powered by https://github.com/devicons/devicon
 <a href="https://defcon.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DEF_CON_logo.png" alt="defcon" width="40" height="40"/>
 </a>
+
 
 
 </p>
