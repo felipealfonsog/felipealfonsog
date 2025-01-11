@@ -259,18 +259,18 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 02 January 2025
+From: 04 December 2023 - To: 11 January 2025
 
-Total Time: 669 hrs 37 mins
+Total Time: 669 hrs 49 mins
 
-Bash            119 hrs 34 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.18 %
-Python          115 hrs 28 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.59 %
-HTML            75 hrs 33 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.86 %
+Bash            119 hrs 37 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.18 %
+Python          115 hrs 28 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.58 %
+HTML            75 hrs 33 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.85 %
 Markdown        69 hrs 26 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.97 %
-C               62 hrs 54 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.04 %
+C               63 hrs 3 mins   ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.06 %
 C++             39 hrs 43 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.71 %
 INI             29 hrs 26 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.23 %
-Text            27 hrs 36 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.97 %
+Text            27 hrs 36 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.96 %
 Other           26 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.80 %
 ```
 
@@ -349,12 +349,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Tom5521">
-        <img src="https://avatars2.githubusercontent.com/u/88908582" style="width:30px; height:30px;" alt="Tom5521"/>
+      <a href="https://github.com/srcmaxim">
+        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/Tom5521">Tom</a>
+      <a href="https://github.com/srcmaxim">Maksym Koval</a>
       </sub>
     </li>
     <br>
@@ -616,9 +616,28 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/></a>
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
+<br>
+
+| Cybersecurity / Cyberintelligence 🔒
+
+<!-- Cybersecurity / Cyberintelligence icons -->
+
+   <a href="https://www.torproject.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="tor" width="40" height="40"/></a> 
+   <a href="https://blackarch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg" alt="blackarch" width="40" height="40"/></a> 
+   <a href="https://www.metasploit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/64x64/apps/metasploit.svg" alt="metasploit" width="40" height="40"/></a> 
+   <a href="https://www.wireshark.org/" target="_blank"> <img src="https://raw.githubusercontent.com/max-mapper/hexbin/refs/heads/gh-pages/vector/wireshark.svg" alt="wireshark" width="40" height="40"/></a> 
+   <a href="https://openvpn.net/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/openvpn.svg" alt="openvpn" width="40" height="40"/></a> 
+   <a href="https://protonvpn.com/" target="_blank"> <img src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/master/src/scalable/apps/protonvpn.svg" alt="protonvpn" width="40" height="40"/></a> 
+   <a href="https://defcon.org/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/64x64/apps/defcon.svg" alt="defcon" width="40" height="40"/></a> 
+   <a href="https://www.kali.org/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/distributor-logo-kali-linux.svg" alt="kali linux" width="40" height="40"/></a> 
+   <a href="https://duckduckgo.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" alt="duckduckgo" width="40" height="40"/></a> 
+   <a href="https://www.cisa.gov/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/CISA_Logo.png/240px-CISA_Logo.png" alt="CISA" width="40" height="40"/></a>
+
+
+
 </p>
 
-<sub>*Powered by [Devicon](https://github.com/devicons/devicon) & [VectorLogoZone](https://www.vectorlogo.zone).</sub>
+<sub>*Powered by [Devicon](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
