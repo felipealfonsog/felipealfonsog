@@ -616,6 +616,54 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/></a>
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
+<br>
+
+<!-- Tor -->
+<a href="https://www.torproject.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="tor" width="40" height="40"/>
+</a>
+
+<!-- Black Arch -->
+<a href="https://blackarch.org/" target="_blank"> 
+  <img src="https://blackarch.org/images/blackarch-icon.png" alt="blackarch" width="40" height="40"/>
+</a>
+
+<!-- Kali Linux -->
+<a href="https://www.kali.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali linux" width="40" height="40"/>
+</a>
+
+<!-- Metasploit -->
+<a href="https://www.metasploit.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/>
+</a>
+
+<!-- Wireshark -->
+<a href="https://www.wireshark.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
+</a>
+
+<!-- OpenVPN -->
+<a href="https://openvpn.net/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/openvpn/openvpn-icon.svg" alt="openvpn" width="40" height="40"/>
+</a>
+
+<!-- DuckDuckGo -->
+<a href="https://duckduckgo.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" alt="duckduckgo" width="40" height="40"/>
+</a>
+
+<!-- ProtonVPN -->
+<a href="https://protonvpn.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/protonvpn/protonvpn-icon.svg" alt="protonvpn" width="40" height="40"/>
+</a>
+
+<!-- Defcon (Logo no oficial) -->
+<a href="https://defcon.org/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DEF_CON_logo.png" alt="defcon" width="40" height="40"/>
+</a>
+
+
 </p>
 
 <sub>*Powered by [Devicon](https://github.com/devicons/devicon) & [VectorLogoZone](https://www.vectorlogo.zone).</sub>
