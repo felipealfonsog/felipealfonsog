@@ -618,48 +618,52 @@ Powered by https://github.com/devicons/devicon
 
 <br>
 
+<sub>Cybersecurity / Cyberintelligence.</sub>
+
+<!-- Cybersecurity / Cyberintelligence icons -->
+
 <!-- Tor -->
-<a href="https://www.torproject.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="tor" width="40" height="40"/>
+<a href="https://www.torproject.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Tor_logo_2019.svg" alt="tor" width="40" height="40"/>
 </a>
 
 <!-- Black Arch -->
-<a href="https://blackarch.org/" target="_blank"> 
+<a href="https://blackarch.org/" target="_blank">
   <img src="https://blackarch.org/images/blackarch-icon.png" alt="blackarch" width="40" height="40"/>
 </a>
 
 <!-- Kali Linux -->
-<a href="https://www.kali.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali linux" width="40" height="40"/>
+<a href="https://www.kali.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Kali_Linux_Logo_2020.svg" alt="kali linux" width="40" height="40"/>
 </a>
 
 <!-- Metasploit -->
-<a href="https://www.metasploit.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/>
+<a href="https://www.metasploit.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Metasploit_Logo.svg" alt="metasploit" width="40" height="40"/>
 </a>
 
 <!-- Wireshark -->
-<a href="https://www.wireshark.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
+<a href="https://www.wireshark.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Wireshark_Logo_2018.svg" alt="wireshark" width="40" height="40"/>
 </a>
 
 <!-- OpenVPN -->
-<a href="https://openvpn.net/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/openvpn/openvpn-icon.svg" alt="openvpn" width="40" height="40"/>
+<a href="https://openvpn.net/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenVPN_Logo_2016.svg" alt="openvpn" width="40" height="40"/>
 </a>
 
 <!-- DuckDuckGo -->
-<a href="https://duckduckgo.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" alt="duckduckgo" width="40" height="40"/>
+<a href="https://duckduckgo.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/DuckDuckGo_logo_2019.svg" alt="duckduckgo" width="40" height="40"/>
 </a>
 
 <!-- ProtonVPN -->
-<a href="https://protonvpn.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/protonvpn/protonvpn-icon.svg" alt="protonvpn" width="40" height="40"/>
+<a href="https://protonvpn.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/ProtonVPN_logo_2020.svg" alt="protonvpn" width="40" height="40"/>
 </a>
 
-<!-- Defcon (Logo no oficial) -->
-<a href="https://defcon.org/" target="_blank"> 
+<!-- Defcon -->
+<a href="https://defcon.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DEF_CON_logo.png" alt="defcon" width="40" height="40"/>
 </a>
 
