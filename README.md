@@ -618,53 +618,58 @@ Powered by https://github.com/devicons/devicon
 
 <br>
 
-<sub>Cybersecurity / Cyberintelligence.</sub>
+| Cybersecurity / Cyberintelligence.
 
 <!-- Cybersecurity / Cyberintelligence icons -->
 
 <!-- Tor -->
 <a href="https://www.torproject.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Tor_logo_2019.svg" alt="tor" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/306px-Tor-logo-2011-flat.svg.png" alt="tor" width="40" height="40"/>
 </a>
 
 <!-- Black Arch -->
 <a href="https://blackarch.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/BlackArch_logo.svg" alt="blackarch" width="40" height="40"/>
-</a>
-
-<!-- Kali Linux -->
-<a href="https://www.kali.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Kali_Linux_Logo_2020.svg" alt="kali linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/BlackArch_logo.png" alt="blackarch" width="40" height="40"/>
 </a>
 
 <!-- Metasploit -->
 <a href="https://www.metasploit.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Metasploit_Logo.svg" alt="metasploit" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png" alt="metasploit" width="40" height="40"/>
 </a>
 
 <!-- Wireshark -->
 <a href="https://www.wireshark.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Wireshark_Logo_2018.svg" alt="wireshark" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/100px-Wireshark_icon.svg.png" alt="wireshark" width="40" height="40"/>
 </a>
 
 <!-- OpenVPN -->
 <a href="https://openvpn.net/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenVPN_Logo_2016.svg" alt="openvpn" width="40" height="40"/>
-</a>
-
-<!-- DuckDuckGo -->
-<a href="https://duckduckgo.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/DuckDuckGo_logo_2019.svg" alt="duckduckgo" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OpenVPN_logo.svg/512px-OpenVPN_logo.svg.png" alt="openvpn" width="40" height="40"/>
 </a>
 
 <!-- ProtonVPN -->
 <a href="https://protonvpn.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/ProtonVPN_logo_2020.svg" alt="protonvpn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ProtonVPN_Logo.svg/512px-ProtonVPN_Logo.svg.png" alt="protonvpn" width="40" height="40"/>
 </a>
 
 <!-- Defcon -->
 <a href="https://defcon.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DEF_CON_logo.png" alt="defcon" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Defcon-logo.svg/325px-Defcon-logo.svg.png" alt="defcon" width="40" height="40"/>
+</a>
+
+<!-- Kali Linux -->
+<a href="https://www.kali.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834" alt="kali linux" width="40" height="40"/>
+</a>
+
+<!-- DuckDuckGo -->
+<a href="https://duckduckgo.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/DuckDuckGo_logo.svg/150px-DuckDuckGo_logo.svg.png" alt="duckduckgo" width="40" height="40"/>
+</a>
+
+<!-- Cybersecurity & Infrastructure Security Agency -->
+<a href="https://www.cisa.gov/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Seal_of_Cybersecurity_and_Infrastructure_Security_Agency.svg/466px-Seal_of_Cybersecurity_and_Infrastructure_Security_Agency.svg.png" alt="CISA" width="40" height="40"/>
 </a>
 
 
