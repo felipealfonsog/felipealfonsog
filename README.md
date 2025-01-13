@@ -618,7 +618,8 @@ Powered by https://github.com/devicons/devicon
 
 <br>
 
-> Cybersecurity / Cyberintelligence 🔒 <sub>[[Personal PGP Public Key]](#pgp-public-key)</sub>
+> Cybersecurity / Cyberintelligence 🔒
+> <sub>[[Personal PGP Public Key]](#pgp-public-key)</sub>
 
 <!-- Cybersecurity / Cyberintelligence icons -->
 
