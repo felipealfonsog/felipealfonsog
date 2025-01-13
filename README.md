@@ -620,8 +620,6 @@ Powered by https://github.com/devicons/devicon
 
 > Cybersecurity / Cyberintelligence 🔒
 
-> <sub>[[Personal PGP Public Key]](#pgp-public-key)</sub>
-
 <!-- Cybersecurity / Cyberintelligence icons -->
 
    <a href="https://www.torproject.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="tor" width="40" height="40"/></a> 
@@ -653,6 +651,8 @@ Powered by https://github.com/devicons/devicon
 
 
 </p>
+
+<sub>[[Personal PGP Public Key]](#pgp-public-key)</sub>
 
 <sub>*Powered by [Devicon](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
 
