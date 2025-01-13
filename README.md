@@ -631,8 +631,21 @@ Powered by https://github.com/devicons/devicon
    <a href="https://defcon.org/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/64x64/apps/defcon.svg" alt="defcon" width="40" height="40"/></a> 
    <a href="https://www.kali.org/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/distributor-logo-kali-linux.svg" alt="kali linux" width="40" height="40"/></a> 
    <a href="https://duckduckgo.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" alt="duckduckgo" width="40" height="40"/></a> 
-   <a href="https://www.cisa.gov/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/CISA_Logo.png/240px-CISA_Logo.png" alt="CISA" width="40" height="40"/></a>
-
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-patterns/security21.svg" alt="Azure Security" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Major_League_Hacking_logo.svg" alt="Major League Hacking" width="40" height="40"/></a> 
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackaday.svg" alt="Hackaday" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/cr0ybot/ingress-logos/master/badges/hacker.svg" alt="Ingress Hacker" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nmap.svg" alt="Nmap" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Snort.svg" alt="Snort" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/o/osint-1.svg" alt="OSINT" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/burp.svg" alt="Burp Suite" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/m/malwarebytes.svg" alt="Malwarebytes" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://iconape.com/wp-content/files/vy/350284/svg/350284.svg" alt="CCE" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Maltego_Logo.svg" alt="Maltego" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_Shodan.svg" alt="Shodan" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/c/censys.svg" alt="Censys" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/coinranking/cryptocurrency-icons/master/icons/cortex_ctxc.svg" alt="Cortex" width="40" height="40"/></a>
+   <a href="https://www.cisa.gov/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/CISA_Logo.png/240px-CISA_Logo.png" alt="CISA" width="40" height="40"/></a> 
+   
 
 
 </p>
