@@ -1,5 +1,5 @@
 <h6 style="font-family: Courier; font-size: smaller;">
-  <a href="#top-home">Top Home</a>
+  <a href="#top-home">[Top Home]</a>
 </h6>
 
 ### Hi there! 👋
