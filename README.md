@@ -1,4 +1,4 @@
-<a href="#top-home" style="font-size: 7px; font-family: Courier;">[Top Home]</a>
+<a href="#top-home" style="font-size: 5px; font-family: Courier;">[Top Home]</a>
 
 ### Hi there! 👋
 
