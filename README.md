@@ -1,4 +1,4 @@
-<sub>[[Top Home]](#top-home)</sub>
+###### Top Home
 
 ### Hi there! 👋
 
