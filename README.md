@@ -875,4 +875,4 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 [![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org)
 
-<sub>[[Top Home]](https://github.com/felipealfonsog)</sub>
+<sub>[[Top Home]](./)</sub>
