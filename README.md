@@ -1,4 +1,6 @@
-<a href="#top-home" style="font-size: 5px; font-family: Courier;">[Top Home]</a>
+<h6 style="font-family: Courier; font-size: smaller;">
+  <a href="#top-home">Top Home</a>
+</h6>
 
 ### Hi there! 👋
 
