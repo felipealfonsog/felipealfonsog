@@ -640,7 +640,7 @@ Powered by https://github.com/devicons/devicon
    <a href="https://en.wikipedia.org/wiki/Open-source_intelligence" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/o/osint-1.svg" alt="OSINT" width="40" height="40"/></a>
    <a href="https://portswigger.net/burp" target="_blank"><img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/burp.svg" alt="Burp Suite" width="40" height="40"/></a>
    <a href="https://www.malwarebytes.com/" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/m/malwarebytes.svg" alt="Malwarebytes" width="40" height="40"/></a>
-   <a href="https://cceal.org/" target="_blank"><img src="https://iconape.com/wp-content/files/vy/350284/svg/350284.svg" alt="CCE" width="40" height="40"/></a>
+   <a href="https://isfce.com/" target="_blank"><img src="https://iconape.com/wp-content/files/vy/350284/svg/350284.svg" alt="CCE" width="40" height="40"/></a>
    <a href="https://www.maltego.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Maltego_Logo.svg" alt="Maltego" width="40" height="40"/></a>
    <a href="https://www.shodan.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_Shodan.svg" alt="Shodan" width="40" height="40"/></a>
    <a href="https://censys.io/" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/c/censys.svg" alt="Censys" width="40" height="40"/></a>
