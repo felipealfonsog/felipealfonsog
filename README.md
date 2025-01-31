@@ -349,12 +349,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/srcmaxim">
-        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
+      <a href="https://github.com/Tom5521">
+        <img src="https://avatars2.githubusercontent.com/u/88908582" style="width:30px; height:30px;" alt="Tom5521"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/srcmaxim">Maksym Koval</a>
+      <a href="https://github.com/Tom5521">Tom</a>
       </sub>
     </li>
     <br>
