@@ -52,10 +52,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 [<img src="https://img.shields.io/badge/E&ndash;mail-333333?style=flat&logo=gmail&logoColor=white&labelColor=333333" height="19"/>](mailto:f.alfonso@res-ear.ch)
 -->
 <!-- Technology Architect -->
+<!-- [<img src="https://img.shields.io/badge/LinkedIn-555555?style=plastic&logo=linkedin&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) -->
 
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
 [<img src="https://img.shields.io/badge/All%20Gits-555555?style=plastic&logo=github&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog)
-[<img src="https://img.shields.io/badge/LinkedIn-555555?style=plastic&logo=linkedin&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
+[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-555555?logo=linkedin-white&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
@@ -259,19 +260,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 20 January 2025
+From: 04 December 2023 - To: 18 February 2025
 
-Total Time: 672 hrs
+Total Time: 688 hrs 35 mins
 
-Bash            119 hrs 37 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.13 %
-Python          115 hrs 28 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.53 %
-HTML            75 hrs 41 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.84 %
-Markdown        69 hrs 26 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.94 %
-C               63 hrs 49 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.14 %
-C++             39 hrs 43 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.69 %
-INI             29 hrs 33 mins  ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.23 %
-Text            27 hrs 36 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.95 %
-Other           26 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.79 %
+Bash            119 hrs 37 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.73 %
+Python          115 hrs 28 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.15 %
+HTML            91 hrs 58 mins  ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.86 %
+Markdown        69 hrs 26 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.71 %
+C               63 hrs 49 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   08.93 %
+C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.56 %
+INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.13 %
+Text            27 hrs 37 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.86 %
+Other           26 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.70 %
 ```
 
 <!--END_SECTION:waka-->
@@ -319,6 +320,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
+      <a href="https://github.com/technestme">
+        <img src="https://avatars2.githubusercontent.com/u/165474780" style="width:30px; height:30px;" alt="technestme"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/technestme">technest</a>
+      </sub>
+    </li>
+    <br>
+    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
@@ -345,16 +356,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
-      <a href="https://github.com/srcmaxim">
-        <img src="https://avatars2.githubusercontent.com/u/11833383" style="width:30px; height:30px;" alt="srcmaxim"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/srcmaxim">Maksym Koval</a>
       </sub>
     </li>
     <br>
