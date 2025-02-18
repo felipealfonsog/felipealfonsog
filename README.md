@@ -56,7 +56,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
 [<img src="https://img.shields.io/badge/All%20Gits-555555?style=plastic&logo=github&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/LinkedIn-555555?style=plastic&logo=linkedin&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
-[<img src="https://img.shields.io/badge/LinkedIn-555555?style=plastic&logo=simpleicons&logoColor=white&labelColor=555555" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
+[<img src="https://img.shields.io/badge/LinkedIn-555555?style=plastic&logo=materialdesign&logoColor=white&labelColor=555555" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 
 [<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
