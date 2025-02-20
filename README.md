@@ -16,14 +16,13 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 > "A complex system that works is invariably found to have evolved from a simple system that worked." ~ [Gall's Law](http://principles-wiki.net/principles:gall_s_law)
 
 > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade.
+> <details>
+  <summary><strong>Continue reading...</strong></summary>
 
----
+  Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ Felipe Alfonso González L. △
 
-**Continue reading...**
+</details>
 
-Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ Felipe Alfonso González L. △
-
----
 
 
 
