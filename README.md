@@ -17,7 +17,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 <details>
   <summary>
-    <span style="font-style: italic;">> My thoughts about life ...</span>
+    My thoughts about life ...
   </summary>
 
   <blockquote>
