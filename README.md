@@ -17,7 +17,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 <details>
   <summary>
-    📜 More quotes and additional reflections ✨
+    📜 More quotes and additional reflections.
   </summary>
   <br>
 
