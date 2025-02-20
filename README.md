@@ -16,8 +16,8 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 > "A complex system that works is invariably found to have evolved from a simple system that worked." ~ [Gall's Law](http://principles-wiki.net/principles:gall_s_law)
 
 <details>
-  <summary> 
-    <blockquote>My thoughts about life ...</blockquote>
+  <summary>
+    <span style="font-style: italic;">> My thoughts about life ...</span>
   </summary>
 
   <blockquote>
@@ -25,6 +25,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   </blockquote>
 
 </details>
+
 
 
 
