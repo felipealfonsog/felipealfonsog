@@ -19,6 +19,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   <summary>
     📜 More quotes and additional reflections
   </summary>
+  <br>
 
   > Time flies over us, but leaves its shadow behind. ~ [Nathaniel Hawthorne](https://es.wikipedia.org/wiki/Nathaniel_Hawthorne) ✨
 
