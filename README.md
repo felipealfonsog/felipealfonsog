@@ -6,17 +6,30 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 > "The time of humanity is but a sigh in the life of the universe. We are merely spectators of something immense." ~ [José Maza](https://es.wikipedia.org/wiki/Jos%C3%A9_Maza_Sancho)
 
 <!--
-> Time flies over us, but leaves its shadow behind. — [Nathaniel Hawthorne](https://es.wikipedia.org/wiki/Nathaniel_Hawthorne)
+> Time flies over us, but leaves its shadow behind. ~ [Nathaniel Hawthorne](https://es.wikipedia.org/wiki/Nathaniel_Hawthorne)
 
-> We must cultivate, all of us, a certain ignorance, a certain blindness, or society will not be tolerable. — [J.M. Coetzee](https://es.wikipedia.org/wiki/J._M._Coetzee), Disgrace
+> We must cultivate, all of us, a certain ignorance, a certain blindness, or society will not be tolerable. ~ [J.M. Coetzee](https://es.wikipedia.org/wiki/J._M._Coetzee), Disgrace
 
-> The time is the matter of which I have been created. — [Nicanor Parra](https://es.wikipedia.org/wiki/Nicanor_Parra)
+> The time is the matter of which I have been created. ~ [Nicanor Parra](https://es.wikipedia.org/wiki/Nicanor_Parra)
 -->
 
 > "A complex system that works is invariably found to have evolved from a simple system that worked." ~ [Gall's Law](http://principles-wiki.net/principles:gall_s_law)
 
+<details>
+  <summary> 
+    <blockquote>More quotes...</blockquote>
+  </summary>
+
+> Time flies over us, but leaves its shadow behind. ~ [Nathaniel Hawthorne](https://es.wikipedia.org/wiki/Nathaniel_Hawthorne)
+
+> We must cultivate, all of us, a certain ignorance, a certain blindness, or society will not be tolerable. ~ [J.M. Coetzee](https://es.wikipedia.org/wiki/J._M._Coetzee), Disgrace
+
+> The time is the matter of which I have been created. ~ [Nicanor Parra](https://es.wikipedia.org/wiki/Nicanor_Parra)
+
 > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade. Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ Felipe Alfonso González L. △
 
+
+</details>
 
 <!--
 [![Translate](https://img.shields.io/badge/Translate-English%20to%20Spanish-blue?style=plastic&logo=google-translate)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
