@@ -29,7 +29,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade. Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ Felipe Alfonso González L. △ 🌌
 </details>
 
-<br>
+
 <!--
 [![Translate](https://img.shields.io/badge/Translate-English%20to%20Spanish-blue?style=plastic&logo=google-translate)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
 -->
