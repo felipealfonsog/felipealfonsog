@@ -17,7 +17,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 <details>
   <summary> 
-    > My thoughts about life ...
+    <blockquote>My thoughts about life ...</blockquote>
   </summary>
 
   <blockquote>
@@ -25,6 +25,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   </blockquote>
 
 </details>
+
 
 
 <!--
