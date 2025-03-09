@@ -1,4 +1,4 @@
-<sub>[ Refresh ](https://github.com/felipealfonsog?cache-bypass=1)</sub>
+<sub>[[ Refresh ]](https://github.com/felipealfonsog?cache-bypass=1)</sub>
 
 ### Hi there! 👋
 
