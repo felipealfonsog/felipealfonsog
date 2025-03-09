@@ -40,7 +40,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 [![Translate](https://img.shields.io/badge/Google%20Translate-English%20to%20Spanish-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
 -->
 
-[![Refresh Page](https://img.shields.io/badge/-Refresh-181717?style=plastic&logo=refresh&logoColor=white&labelColor=181717)](https://github.com/tu-usuario?cache-bypass=1)
+[![Refresh Page](https://img.shields.io/badge/-Refresh-181717?style=plastic&logo=sync&logoColor=white&labelColor=181717)](https://github.com/tu-usuario?cache-bypass=1)
 [![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects)
 
 
