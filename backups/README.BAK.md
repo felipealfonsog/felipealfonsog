@@ -36,9 +36,15 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 -->
 <!--
 [![Translate](https://img.shields.io/badge/Google%20Translate-English%20to%20Spanish-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
+
+-->
+<!--
+
+<sub>[[ Refresh ]](https://github.com/felipealfonsog?cache-bypass=1)</sub>
+
 -->
 
-[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects)
+[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects)
 
 
 <!--
@@ -275,19 +281,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 20 February 2025
+From: 04 December 2023 - To: 09 March 2025
 
-Total Time: 691 hrs 28 mins
+Total Time: 695 hrs 26 mins
 
-Bash            119 hrs 37 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.66 %
-Python          115 hrs 28 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.08 %
-HTML            94 hrs 51 mins  ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.21 %
-Markdown        69 hrs 26 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.67 %
-C               63 hrs 49 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.89 %
-C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.53 %
-INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.12 %
-Text            27 hrs 37 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.85 %
-Other           26 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.69 %
+Bash            119 hrs 37 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.57 %
+Python          115 hrs 28 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   15.99 %
+HTML            98 hrs 48 mins  ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.69 %
+Markdown        69 hrs 26 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.62 %
+C               63 hrs 49 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.84 %
+C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.50 %
+INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.09 %
+Text            27 hrs 37 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.83 %
+Other           26 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.67 %
 ```
 
 <!--END_SECTION:waka-->
@@ -355,22 +361,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Francesco601">
         <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
