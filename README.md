@@ -1,5 +1,3 @@
-<sub>[[ Refresh ]](https://github.com/felipealfonsog?cache-bypass=1)</sub>
-
 ### Hi there! 👋
 
 I'm Felipe!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), 
@@ -38,6 +36,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 -->
 <!--
 [![Translate](https://img.shields.io/badge/Google%20Translate-English%20to%20Spanish-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
+
+-->
+<!--
+
+<sub>[[ Refresh ]](https://github.com/felipealfonsog?cache-bypass=1)</sub>
+
 -->
 
 [![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects)
