@@ -46,6 +46,8 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 [![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects)
 
+[![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=refresh&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1)
+
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/felipealfonsog/)
