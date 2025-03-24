@@ -11,6 +11,8 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 > We must cultivate, all of us, a certain ignorance, a certain blindness, or society will not be tolerable. ~ [J.M. Coetzee](https://es.wikipedia.org/wiki/J._M._Coetzee), Disgrace
 
 > The time is the matter of which I have been created. ~ [Nicanor Parra](https://es.wikipedia.org/wiki/Nicanor_Parra)
+ △
+ ∴
 -->
 
 > "A complex system that works is invariably found to have evolved from a simple system that worked." ~ [Gall's Law](http://principles-wiki.net/principles:gall_s_law)
@@ -27,7 +29,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
   > The time is the matter of which I have been created. ~ [Nicanor Parra](https://es.wikipedia.org/wiki/Nicanor_Parra) 
 
-  > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade. Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ Felipe Alfonso González L. △
+  > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade. Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ Felipe Alfonso González L. ∴
 </details>
 
 
@@ -282,19 +284,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 10 March 2025
+From: 04 December 2023 - To: 24 March 2025
 
-Total Time: 695 hrs 26 mins
+Total Time: 697 hrs 6 mins
 
-Bash            119 hrs 37 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.57 %
-Python          115 hrs 28 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   15.99 %
-HTML            98 hrs 48 mins  ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.69 %
-Markdown        69 hrs 26 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.62 %
-C               63 hrs 49 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.84 %
-C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.50 %
+Bash            119 hrs 37 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.53 %
+Python          116 hrs 47 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.14 %
+HTML            98 hrs 55 mins  ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.67 %
+Markdown        69 hrs 33 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.61 %
+C               63 hrs 49 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.82 %
+C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.49 %
 INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.09 %
-Text            27 hrs 37 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.83 %
-Other           26 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.67 %
+Text            27 hrs 43 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.83 %
+Other           26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.66 %
 ```
 
 <!--END_SECTION:waka-->
@@ -362,22 +364,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
