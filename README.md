@@ -33,9 +33,9 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 "Truth is lived, not taught." ~ Brother Herman Hesse
 -->
 
-  > "Ideals are like stars; you will not succeed in touching them with your hands. But like the seafaring man on the desert of waters, you choose them as your guides, and following them you will reach your destiny." ~ Carl Schurz
+  > "Ideals are like stars; you will not succeed in touching them with your hands. But like the seafaring man on the desert of waters, you choose them as your guides, and following them you will reach your destiny." ~ [Carl Schurz](https://es.wikipedia.org/wiki/Carl_Schurz) 
   
-  > "Truth is lived, not taught." ~ Brother Herman Hesse
+  > "Truth is lived, not taught." ~ Brother [Herman Hesse](https://es.wikipedia.org/wiki/Hermann_Hesse) 
   
   > "Time flies over us, but leaves its shadow behind." ~ [Nathaniel Hawthorne](https://es.wikipedia.org/wiki/Nathaniel_Hawthorne) 
 
