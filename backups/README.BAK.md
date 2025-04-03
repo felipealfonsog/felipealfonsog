@@ -863,9 +863,10 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 <details>
 <summary id="projects">🔍 :file_folder: <strong>Dive into More Featured and Diverse Projects</strong> :rocket::star2:...</summary>
 <br>
-  https://github.com/felipealfonsog/
+  
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
   - [ShadowScan](https://github.com/felipealfonsog/ShadowScan): ShadowScan is a security tool designed to scan files and system configurations for hidden backdoors, malicious scripts, and reverse shells on Linux and macOS.
+  - [GhostFlagger](https://github.com/felipealfonsog/GhostFlagger): GhostFlagger is a stealthy tool that detects and reports offensive content on X (Twitter) automatically. Running under a VPN, it flags harmful tweets discreetly and enforces platform guidelines without leaving a trace.
   - [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): "OpenVPN-GUI-Connect" Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
   - [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): "NoIP-Manager" A versatile tool for managing No-IP dynamic DNS updates and client operations.
   - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): "AutoReconnect" is a utility designed to manage WiFi connections using ConnMan on Linux systems. It continuously monitors the network connection status, and if a disconnection is detected, it attempts to reconnect to the previously connected network or, if necessary, to the next available network.
