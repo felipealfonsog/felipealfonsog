@@ -134,7 +134,7 @@ _______                  /__/
 
 -->
 
-<details>
+<details open>
 <summary> <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
   <br>
 
