@@ -134,7 +134,7 @@ _______                  /__/
 
 -->
 
-<details>
+<details open>
 <summary> <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
   <br>
 
@@ -143,6 +143,8 @@ _______                  /__/
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&redirect=true)
 -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
+
+<sub>To refresh and view the most recently played track, [refresh here](https://github.com/felipealfonsog?cache-bypass=1).</sub>
 
 </details>
    
@@ -298,19 +300,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 03 April 2025
+From: 04 December 2023 - To: 28 April 2025
 
-Total Time: 697 hrs 29 mins
+Total Time: 708 hrs 5 mins
 
-Bash            119 hrs 37 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.52 %
-Python          116 hrs 47 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.13 %
-HTML            99 hrs 17 mins  ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.72 %
-Markdown        69 hrs 33 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.61 %
-C               63 hrs 49 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.82 %
-C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.49 %
-INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.08 %
-Text            27 hrs 43 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.83 %
-Other           26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.66 %
+Python          122 hrs 42 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.70 %
+Bash            121 hrs 49 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.59 %
+HTML            99 hrs 17 mins  ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.52 %
+Markdown        69 hrs 52 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.51 %
+C               63 hrs 51 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.69 %
+C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.41 %
+INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.02 %
+Text            27 hrs 44 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.78 %
+Other           26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.61 %
 ```
 
 <!--END_SECTION:waka-->
@@ -378,22 +380,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Francesco601">
         <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
