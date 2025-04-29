@@ -144,6 +144,9 @@ _______                  /__/
 -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 
+<br>
+To refresh and view the most recently played track, [**refresh here**](https://github.com/felipealfonsog?cache-bypass=1).
+
 </details>
    
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the service provider used by the platform. Data may contain discrepancies or errors due to the platform's service.</sub>
