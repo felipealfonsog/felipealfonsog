@@ -58,8 +58,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 <sub>[[ Refresh ]](https://github.com/felipealfonsog?cache-bypass=1)</sub>
 
--->
+
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://www.islamic-relief.org.uk/giving/appeals/palestine/)
+-->
 
 [![Stand with Palestine](https://img.shields.io/badge/🇵🇸%20%20Stand%20With%20Palestine-007A3D?style=plastic&logo=liberapay&logoColor=white&labelColor=000000)](https://www.islamic-relief.org.uk/giving/appeals/palestine/)
 
