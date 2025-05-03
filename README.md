@@ -59,7 +59,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <sub>[[ Refresh ]](https://github.com/felipealfonsog?cache-bypass=1)</sub>
 
 -->
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg?style=plastic&logoWidth=5&logoHeight=5)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg?style=plastic)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 [![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects)
 
