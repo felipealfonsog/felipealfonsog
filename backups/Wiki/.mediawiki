@@ -1,15 +1,18 @@
+{{user page|logo=yes|noindex=yes}}
+
+{{Quote
+ | text  = We must elevate ourselves above the dust of the world, and seek that Light which alone can guide us to the Temple of Truth.
+ | author = Albert Pike
+}}
 {{Infobox Wikipedia user
 <!--
-
 [[File:IACCInstitute.jpg|thumb|Instituto IACC Chile]]
-
 [[File:UmayorFrontis.png|thumb|Universidad Mayor Chile]]
 
 [[File:Universidad Mayor - IACC Chile.png|thumb|Universidad Mayor / IACC Chile]]
 [[File:Euclid flowchart 1.png|thumb|Euclid flowchart 1]]
 [[File:180MLI Algorithm.png|thumb|180MLI Algorithm]]
 -->
-
 | name             = Felipe Alfonso González
 | image            = 180MLI Algorithm.png
 | image_size       = 75px
@@ -19,13 +22,15 @@
 | nationality      = Chilean
 | current_time        = {{current time|UTC-3}}
 | university      = [[Instituto_Profesional_IACC|IACC]]
-| ethnicity        = European/Latin American (family origins in Catalonia and Aragon, Spain; with Sephardic Jewish roots)
+| ethnicity        = European / Latin American (family origins in Catalonia and Aragon, Spain – Sephardic Jewish roots)
 | religion         = Secular Atheist / Zen Buddhist
 | occupation       = Computer Science Engineer
 | education        = [[es:Universidad Mayor|Universidad Mayor (Chile)]]<br>[[es:Instituto Profesional IACC|Instituto Profesional IACC]]
 | employer         = Adviser, Researcher and Analyst in Cybersecurity and Cyber Intelligence
 | interests        = Software Engineering, Software Architecture, Cybersecurity, Cyber Intelligence, Academic Research, Deep Understanding of Computer Engineering
+| userboxes        = {{User Arch}} {{User FreeBSD}} {{User Mac}} {{User GitHub}} {{User C}} {{User Python}} {{User Linux}} {{User GNOME}} {{User KDE}} {{User Cybersecurity}} {{Userbox|logo=Masón.png|id=Affiliated|info=[[Freemasonry]] (esoteric/existential symbolism)}}
 | status           = Active
+| interests        = Software Engineering, Software Architecture, Cybersecurity, Cyber Intelligence, Pursuing Academic Studies, Deep Understanding of Computer Engineering in its Entirety
 | location = Santiago, Chile
 | country = Chile
 | email = felipe.gonzalez@gnlz.cl
@@ -47,10 +52,15 @@
 | twitter         = @felipealfonsog
 | userboxes        = 
 {{User Wikipedian For|year=2014|month=9|day=26}}
-{{User Linux}}
+<!-- {{User Linux}} -->
+{{User Archlinux}}
+{{User FreeBSD}}
 {{User Apple}}
 
 }}
 
 == Personal Life ==
 Felipe is Computer Science Engineer, from Santiago, Chile. He's an active member of Freemasonry, following its philosophical teachings and ethical principles.
+
+{{clear}}
+{{TextLicenseFreeUse}}
