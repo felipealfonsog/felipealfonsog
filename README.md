@@ -673,14 +673,14 @@ Powered by https://github.com/devicons/devicon
 <!-- Cybersecurity / Cyberintelligence icons -->
 
    <a href="https://www.torproject.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/torproject-icon.svg" alt="tor" width="40" height="40"/></a> 
-   <a href="https://blackarch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg" alt="blackarch" width="40" height="40"/></a> 
-   <a href="https://www.metasploit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/64x64/apps/metasploit.svg" alt="metasploit" width="40" height="40"/></a> 
-   <a href="https://www.wireshark.org/" target="_blank"> <img src="https://raw.githubusercontent.com/max-mapper/hexbin/refs/heads/gh-pages/vector/wireshark.svg" alt="wireshark" width="40" height="40"/></a> 
-   <a href="https://openvpn.net/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/openvpn.svg" alt="openvpn" width="40" height="40"/></a> 
-   <a href="https://protonvpn.com/" target="_blank"> <img src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/master/src/scalable/apps/protonvpn.svg" alt="protonvpn" width="40" height="40"/></a> 
-   <a href="https://defcon.org/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/64x64/apps/defcon.svg" alt="defcon" width="40" height="40"/></a> 
-   <a href="https://www.kali.org/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/distributor-logo-kali-linux.svg" alt="kali linux" width="40" height="40"/></a> 
-   <a href="https://duckduckgo.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" alt="duckduckgo" width="40" height="40"/></a>
+   <a href="https://blackarch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/archlinux-plain.svg" alt="blackarch" width="40" height="40"/></a> 
+   <a href="https://www.metasploit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/metasploit.svg" alt="metasploit" width="40" height="40"/></a> 
+   <a href="https://www.wireshark.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/wireshark.svg" alt="wireshark" width="40" height="40"/></a> 
+   <a href="https://openvpn.net/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/openvpn.svg" alt="openvpn" width="40" height="40"/></a> 
+   <a href="https://protonvpn.com/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/protonvpn.svg" alt="protonvpn" width="40" height="40"/></a> 
+   <a href="https://defcon.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/defcon.svg" alt="defcon" width="40" height="40"/></a> 
+   <a href="https://www.kali.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/distributor-logo-kali-linux.svg" alt="kali linux" width="40" height="40"/></a> 
+   <a href="https://duckduckgo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/duckduckgo-icon.svg" alt="duckduckgo" width="40" height="40"/></a>
    <a href="https://learn.microsoft.com/en-us/azure/security/" target="_blank"><img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-patterns/security21.svg" alt="Azure Security" width="40" height="40"/></a>
    <a href="https://mlh.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Major_League_Hacking_logo.svg" alt="Major League Hacking" width="40" height="40"/></a>
    <a href="https://hackaday.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackaday.svg" alt="Hackaday" width="40" height="40"/></a>
