@@ -693,7 +693,7 @@ Powered by https://github.com/devicons/devicon
    <a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/350284.svg" alt="CCE" width="40" height="40"/></a>
    <a href="https://www.maltego.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Maltego_Logo.svg" alt="Maltego" width="40" height="40"/></a>
    <a href="https://www.shodan.io/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Logo_of_Shodan.svg" alt="Shodan" width="40" height="40"/></a>
-   <a href="https://censys.io/" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/c/censys.svg" alt="Censys" width="40" height="40"/></a>
+   <a href="https://censys.io/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/censys.svg" alt="Censys" width="40" height="40"/></a>
    <a href="https://www.cortex.io/" target="_blank"><img src="https://raw.githubusercontent.com/coinranking/cryptocurrency-icons/master/icons/cortex_ctxc.svg" alt="Cortex" width="40" height="40"/></a>
    <a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/240px-CISA_Logo.png" alt="CISA" width="40" height="40"/></a>
 
