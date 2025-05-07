@@ -17,24 +17,22 @@
 | image            = 180MLI Algorithm.png
 | image_size       = 75px
 | image_caption    = Algorithm
-|birth name = Felipe Alfonso González
-|birthdate = {{Birth date and age|1979|3|13}}
+| birth name = Felipe Alfonso González
+| birthdate = {{Birth date and age|1979|3|13}}
 | nationality      = Chilean
 | current_time        = {{current time|UTC-3}}
-| university      = [[Instituto_Profesional_IACC|IACC]]
 | ethnicity        = European / Latin American (family origins in Catalonia and Aragon, Spain – Sephardic Jewish roots)
 | religion         = Secular Atheist / Zen Buddhist
 | occupation       = Computer Science Engineer
 | education        = [[es:Universidad Mayor|Universidad Mayor (Chile)]]<br>[[es:Instituto Profesional IACC|Instituto Profesional IACC]]
 | employer         = Adviser, Researcher and Analyst in Cybersecurity and Cyber Intelligence
 | interests        = Software Engineering, Software Architecture, Cybersecurity, Cyber Intelligence, Academic Research, Deep Understanding of Computer Engineering
-| userboxes        = {{User Arch}} {{User FreeBSD}} {{User Mac}} {{User GitHub}} {{User C}} {{User Python}} {{User Linux}} {{User GNOME}} {{User KDE}} {{User Cybersecurity}} {{Userbox|logo=Masón.png|id=Affiliated|info=[[Freemasonry]] (esoteric/existential symbolism)}}
 | status           = Active
 | interests        = Software Engineering, Software Architecture, Cybersecurity, Cyber Intelligence, Pursuing Academic Studies, Deep Understanding of Computer Engineering in its Entirety
 | location = Santiago, Chile
-| country = Chile
+| country = Chile<br />Previously: India, South Africa, New Zealand, California (US), Zürich (Switzerland)
 | email = felipe.gonzalez@gnlz.cl
-| website = www.gnlz.cl
+| website = [http://www.gnlz.cl www.gnlz.cl]
 | email           = 
 | icq             = 
 | aim             = 
@@ -48,14 +46,16 @@
 | facebook        = 
 | google+         =
 | pinterest       =
-| linkedin         = @felipealfonsog
-| twitter         = @felipealfonsog
+| linkedin         = felipealfonsog
+| github         = felipealfonsog
+| twitter         = felipealfonsog
 | userboxes        = 
 {{User Wikipedian For|year=2014|month=9|day=26}}
 <!-- {{User Linux}} -->
-{{User Archlinux}}
+{{User Arch Linux}}
 {{User FreeBSD}}
 {{User Apple}}
+
 
 }}
 
