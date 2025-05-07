@@ -21,7 +21,7 @@
 | birthdate = {{Birth date and age|1979|3|13}}
 | nationality      = Chilean
 | languages = Spanish, English, French, Afrikaans
-| current_time        = {{current time|UTC-3}}
+| current_time        = {{current time|UTC-4}}
 | ethnicity        = European / Latin American (family origins in Catalonia and Aragon, Spain – Sephardic Jewish roots)
 | religion = Secular Atheist, practicing Zen Buddhism as a philosophical and meditative path. I am aligned with Freemasonry, drawn to its ethical values, personal growth, and self-development. I am of Sephardic Jewish descent.
 | occupation       = Computer Science Engineer
