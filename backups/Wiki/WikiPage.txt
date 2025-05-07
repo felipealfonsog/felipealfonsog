@@ -17,6 +17,7 @@
 |birth name = Felipe Alfonso González
 |birthdate = {{Birth date and age|1979|3|13}}
 | nationality      = Chilean
+| current_time        = {{current time|UTC-3}}
 | university      = [[Instituto_Profesional_IACC|IACC]]
 | ethnicity        = European/Latin American (family origins in Catalonia and Aragon, Spain; with Sephardic Jewish roots)
 | religion         = Secular Atheist / Zen Buddhist
@@ -45,6 +46,7 @@
 | linkedin         = @felipealfonsog
 | twitter         = @felipealfonsog
 | userboxes        = 
+{{User Wikipedian For|year=2014|month=9|day=26}}
 {{User Linux}}
 {{User Apple}}
 
