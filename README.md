@@ -672,7 +672,7 @@ Powered by https://github.com/devicons/devicon
 
 <!-- Cybersecurity / Cyberintelligence icons -->
 
-   <a href="https://www.torproject.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="tor" width="40" height="40"/></a> 
+   <a href="https://www.torproject.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/torproject-icon.svg" alt="tor" width="40" height="40"/></a> 
    <a href="https://blackarch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg" alt="blackarch" width="40" height="40"/></a> 
    <a href="https://www.metasploit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/64x64/apps/metasploit.svg" alt="metasploit" width="40" height="40"/></a> 
    <a href="https://www.wireshark.org/" target="_blank"> <img src="https://raw.githubusercontent.com/max-mapper/hexbin/refs/heads/gh-pages/vector/wireshark.svg" alt="wireshark" width="40" height="40"/></a> 
