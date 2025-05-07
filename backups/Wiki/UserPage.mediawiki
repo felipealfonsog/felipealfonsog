@@ -15,9 +15,7 @@
 -->
 | name             = Felipe Alfonso González
 | image            = 180MLI Algorithm.png
-| image_size       = 75px
 | image_caption    = Algorithm
-| birth name = Felipe Alfonso González
 | birthdate = {{Birth date and age|1979|3|13}}
 | nationality      = Chilean
 | languages = Spanish, English, French, Afrikaans
@@ -50,8 +48,12 @@
 == Personal Life ==
 Felipe is Computer Science Engineer, from Santiago, Chile. He's an active member of Freemasonry, following its philosophical teachings and ethical principles.
 
-{{clear}}
-{{TextLicenseFreeUse}}
+
+
+
+
+
+
 
 
 [[es:user:Felipealfonsog]]
