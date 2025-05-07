@@ -20,11 +20,12 @@
 | birth name = Felipe Alfonso González
 | birthdate = {{Birth date and age|1979|3|13}}
 | nationality      = Chilean
+| languages = Spanish, English, French, Afrikaans
 | current_time        = {{current time|UTC-3}}
 | ethnicity        = European / Latin American (family origins in Catalonia and Aragon, Spain – Sephardic Jewish roots)
-| religion         = Secular Atheist / Zen Buddhist
+| religion = Secular Atheist, practicing Zen Buddhism as a philosophical and meditative path. I am aligned with Freemasonry, drawn to its ethical values, personal growth, and self-development. I am of Sephardic Jewish descent.
 | occupation       = Computer Science Engineer
-| education        = [[es:Universidad Mayor|Universidad Mayor (Chile)]]<br>[[es:Instituto Profesional IACC|Instituto Profesional IACC]]
+| education = [[:es:Universidad_Mayor|Universidad Mayor]]<br>[[:es:Instituto_Profesional_IACC|Instituto Profesional IACC]]
 | employer         = Adviser, Researcher and Analyst in Cybersecurity and Cyber Intelligence
 | interests        = Software Engineering, Software Architecture, Cybersecurity, Cyber Intelligence, Academic Research, Deep Understanding of Computer Engineering
 | status           = Active
@@ -64,3 +65,9 @@ Felipe is Computer Science Engineer, from Santiago, Chile. He's an active member
 
 {{clear}}
 {{TextLicenseFreeUse}}
+
+
+[[es:user:Felipealfonsog]]
+[[eo:user:Felipealfonsog]]
+[[Category:Wikipedians in Chile|Felipealfonsog]]
+[[Category:Wikipedians in Santiago|Felipealfonsog]]
