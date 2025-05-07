@@ -1,9 +1,23 @@
 {{Infobox Wikipedia user
+<!--
+
+[[File:IACCInstitute.jpg|thumb|Instituto IACC Chile]]
+
+[[File:UmayorFrontis.png|thumb|Universidad Mayor Chile]]
+
+[[File:Universidad Mayor - IACC Chile.png|thumb|Universidad Mayor / IACC Chile]]
+[[File:Euclid flowchart 1.png|thumb|Euclid flowchart 1]]
+[[File:180MLI Algorithm.png|thumb|180MLI Algorithm]]
+-->
+
 | name             = Felipe Alfonso González
-| image            = FelipePicFormal.png
-| image_caption    = Profile Picture of Felipe Alfonso González
-| birth_date       = 13 March
+| image            = 180MLI Algorithm.png
+| image_size       = 75px
+| image_caption    = Algorithm
+|birth name = Felipe Alfonso González
+|birthdate = {{Birth date and age|1979|3|13}}
 | nationality      = Chilean
+| university      = [[Instituto_Profesional_IACC|IACC]]
 | ethnicity        = European/Latin American (family origins in Catalonia and Aragon, Spain; with Sephardic Jewish roots)
 | religion         = Secular Atheist / Zen Buddhist
 | occupation       = Computer Science Engineer
@@ -11,18 +25,30 @@
 | employer         = Adviser, Researcher and Analyst in Cybersecurity and Cyber Intelligence
 | interests        = Software Engineering, Software Architecture, Cybersecurity, Cyber Intelligence, Academic Research, Deep Understanding of Computer Engineering
 | status           = Active
+| location = Santiago, Chile
+| country = Chile
+| email = felipe.gonzalez@gnlz.cl
+| website = www.gnlz.cl
+| email           = 
+| icq             = 
+| aim             = 
+| gtalk           = 
+| jabber          = 
+| skype           = 
+| msn             = 
+| yahoo           = 
+| mac             = 
+| irc             = 
+| facebook        = 
+| google+         =
+| pinterest       =
+| linkedin         = @felipealfonsog
+| twitter         = @felipealfonsog
 | userboxes        = 
-{{User Apple}}
 {{User Linux}}
-{{User Arch}}
-{{User BlackArch}}
-{{User Python}}
-{{User GTK}}
-{{User GitHub}}
-{{User Privacy}}
-{{User Cybersecurity}}
-{{Userbox Wikipedia:Artic Code Vault Contributor}}
+{{User Apple}}
+
 }}
 
 == Personal Life ==
-Felipe is an active member of Freemasonry, following its philosophical teachings and ethical principles.
+Felipe is Computer Science Engineer, from Santiago, Chile. He's an active member of Freemasonry, following its philosophical teachings and ethical principles.
