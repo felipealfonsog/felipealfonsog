@@ -69,7 +69,8 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 [![Stand with Palestine](https://img.shields.io/badge/Stand%20With%20Palestine-007A3D?style=plastic&logo=liberapay&logoColor=white&labelColor=007A3D)](https://www.islamic-relief.org.uk/giving/appeals/palestine/) 🇵🇸
 
-[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects)
+[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![Felipe's Wikipedia User Page](https://img.shields.io/badge/-Felipe%27s%20Wikipedia%20User%20Page-181717?style=plastic&logo=Wikipedia&logoColor=white&labelColor=181717)](https://en.wikipedia.org/wiki/User:Felipealfonsog)
+
 
 
 
@@ -309,19 +310,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 06 May 2025
+From: 04 December 2023 - To: 10 May 2025
 
-Total Time: 710 hrs 1 min
+Total Time: 714 hrs 8 mins
 
-Python          123 hrs 34 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.78 %
-Bash            121 hrs 49 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.54 %
-HTML            100 hrs 15 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.61 %
-Markdown        69 hrs 56 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.50 %
-C               63 hrs 52 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.67 %
-C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.39 %
-INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.01 %
-Text            27 hrs 44 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.77 %
-Other           26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.60 %
+Bash            125 hrs 16 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   16.92 %
+Python          123 hrs 34 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.69 %
+HTML            100 hrs 15 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.54 %
+Markdown        69 hrs 56 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.44 %
+C               63 hrs 52 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.63 %
+C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.36 %
+INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.99 %
+Text            28 hrs 24 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.84 %
+Other           26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.58 %
 ```
 
 <!--END_SECTION:waka-->
