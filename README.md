@@ -420,7 +420,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <!-- <details open> -->
 <details>
-<summary>📐🔧 Tech Stack Badges & Devicon icons* 🏅</summary>
+<summary>📐🔧 Tech Stack Badges* 🏅</summary>
 <br>
 
 <!--
@@ -604,6 +604,13 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 </details>
 
+
+<!-- <details open> -->
+<details open>
+<summary>📐🔧 Tech Stack icons* 🏅</summary>
+<br>
+
+ 
 <p align="left">
 
 <!-- 
@@ -704,6 +711,8 @@ Powered by https://github.com/devicons/devicon
 </p>
 
 <sub>[[Personal PGP Public Key]](#pgp-public-key)</sub>
+
+</details>
 
 <sub>*Powered by [Devicon](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
 
