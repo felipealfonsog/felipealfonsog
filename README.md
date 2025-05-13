@@ -607,7 +607,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 
 <!-- <details open> -->
 <details open>
-<summary>📐🔧 Tech Stack icons* 🏅</summary>
+<summary>📐🔧 Tech Stack Icons* 🏅</summary>
 <br>
 
  
