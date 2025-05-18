@@ -142,6 +142,7 @@ _______                  /__/
 
 
 
+
 -->
 
 <details open>
@@ -310,19 +311,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 12 May 2025
+From: 04 December 2023 - To: 17 May 2025
 
-Total Time: 714 hrs 8 mins
+Total Time: 715 hrs 35 mins
 
-Bash            125 hrs 16 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   16.92 %
-Python          123 hrs 34 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.69 %
-HTML            100 hrs 15 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.54 %
-Markdown        69 hrs 56 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.44 %
-C               63 hrs 52 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.63 %
-C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.36 %
-INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.99 %
-Text            28 hrs 24 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.84 %
-Other           26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.58 %
+Bash            126 hrs 43 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.08 %
+Python          123 hrs 34 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.65 %
+HTML            100 hrs 15 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.51 %
+Markdown        69 hrs 56 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.43 %
+C               63 hrs 52 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.61 %
+C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.35 %
+INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.98 %
+Text            28 hrs 24 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.83 %
+Other           26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
 ```
 
 <!--END_SECTION:waka-->
@@ -666,11 +667,15 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/github-original.svg" alt="github" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Open_Source_Initiative" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/opensource-icon.svg" alt="opensource" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Free_Software_Foundation" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fsf-icon.svg" alt="freesoftware" width="40" height="40"/></a>
+  <a href="https://en-m-wikipedia-org.translate.goog/wiki/Homebrew_(package_manager)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/homebrew.svg" alt="Apple" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/unix-original.svg" alt="Unix" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/FreeBSD" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/freebsd-icon.svg" alt="freebsd" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Debian" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/debian-original.svg" alt="debian" width="40" height="40"/></a>
+  <a href="https://es.wikipedia.org/wiki/Manjaro_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logo-manjaro.svg" alt="debian" width="40" height="40"/></a>
+  <a href="https://es.wikipedia.org/wiki/Mabox_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logomabox-linux.svg" alt="debian" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Arch_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/archlinux-original.svg" alt="archlinux" width="40" height="40"/></a>
+  <a href="https://es.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/macos.svg" alt="Apple" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
