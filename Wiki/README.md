@@ -3,8 +3,10 @@
 > _“We must elevate ourselves above the dust of the world, and seek that Light which alone can guide us to the Temple of Truth.”_  
 > — **Albert Pike**
 
+<!-- 
 ![Algorithm](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/180MLI_Algorithm.png/800px-180MLI_Algorithm.png)  
 *Algorithm*
+-->
 
 **Name:** Felipe Alfonso González  
 **Birthdate:** March 13, 1979  
