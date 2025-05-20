@@ -43,9 +43,8 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
   > "The time is the matter of which I have been created." ~ [Nicanor Parra](https://es.wikipedia.org/wiki/Nicanor_Parra) 
 
-  > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade. Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ Felipe Alfonso González L. ∴
+  > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade. Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ [Felipe Alfonso González L.](https://en.wikipedia.org/wiki/User:Felipealfonsog)  ∴
 </details>
-
 
 <!--
 [![Translate](https://img.shields.io/badge/Translate-English%20to%20Spanish-blue?style=plastic&logo=google-translate)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog)
@@ -311,19 +310,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 17 May 2025
+From: 04 December 2023 - To: 20 May 2025
 
-Total Time: 715 hrs 35 mins
+Total Time: 716 hrs 40 mins
 
-Bash            126 hrs 43 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.08 %
-Python          123 hrs 34 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.65 %
-HTML            100 hrs 15 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.51 %
-Markdown        69 hrs 56 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.43 %
-C               63 hrs 52 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.61 %
+Bash            126 hrs 43 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.05 %
+Python          123 hrs 34 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.63 %
+HTML            100 hrs 45 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.56 %
+Markdown        69 hrs 57 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.41 %
+C               64 hrs 19 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.66 %
 C++             39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.35 %
-INI             29 hrs 33 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.98 %
-Text            28 hrs 24 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.83 %
-Other           26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
+INI             29 hrs 40 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.99 %
+Text            28 hrs 24 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.82 %
+Other           26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.56 %
 ```
 
 <!--END_SECTION:waka-->
