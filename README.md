@@ -12,6 +12,14 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 [![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![Felipe's Wikipedia User Page](https://img.shields.io/badge/-Felipe%27s%20Wikipedia%20User%20Page-181717?style=plastic&logo=Wikipedia&logoColor=white&labelColor=181717)](https://en.wikipedia.org/wiki/User:Felipealfonsog)
 
+[<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
+[<img src="https://img.shields.io/badge/All%20Gits-555555?style=plastic&logo=github&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog)
+[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-555555?logo=linkedin-white&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
+[<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
+[<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
+[<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
+[<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=google-chrome&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
+[<img src="https://img.shields.io/badge/E&ndash;mail-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 
 
 > "The time of humanity is but a sigh in the life of the universe. We are merely spectators of something immense." ~ [José Maza](https://es.wikipedia.org/wiki/Jos%C3%A9_Maza_Sancho)
@@ -125,14 +133,10 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <!-- Technology Architect -->
 <!-- [<img src="https://img.shields.io/badge/LinkedIn-555555?style=plastic&logo=linkedin&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) -->
 
-[<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
-[<img src="https://img.shields.io/badge/All%20Gits-555555?style=plastic&logo=github&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog)
-[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-555555?logo=linkedin-white&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
-[<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
-[<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
-[<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
-[<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=google-chrome&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
-[<img src="https://img.shields.io/badge/E&ndash;mail-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
+<!-- Old badges OS and Tech stuff used to be here -->
+
+
+
 <!--
 [![Hirable Engineer](https://img.shields.io/badge/Hirable%20Engineer-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=12)](#)
 [![Hirable in R&D](https://img.shields.io/badge/Hirable%20in%20R%26D-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=12)](#)
