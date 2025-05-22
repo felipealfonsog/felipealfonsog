@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.islamic-relief.org.uk/giving/appeals/palestine/" target="_blank">
-    <img src="https://github.com/felipealfonsog/felipealfonsog/blob/0d6fb743a015b6c1e3cdc20d41db04e560de5bf8/images/banner-support-palestine_546x20.png" alt="Support Palestine" width="546" height="20" />
+    <img src="https://github.com/felipealfonsog/felipealfonsog/blob/0d6fb743a015b6c1e3cdc20d41db04e560de5bf8/images/banner-support-palestine_758x36.png" alt="Support Palestine" width="546" height="20" />
   </a>
 </p>
 
