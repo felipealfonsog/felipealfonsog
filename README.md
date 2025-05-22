@@ -69,13 +69,13 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <!--
 [![Support Palestine](./images/banner-support-palestine.png)](https://www.islamic-relief.org.uk/giving/appeals/palestine/)
 -->
-
-<a href="https://www.islamic-relief.org.uk/giving/appeals/palestine/" target="_blank">
  <center>
-  <img src="./images/banner-support-palestine.png" alt="Support Palestine" style="width: 500px; max-width: 1000px; height: 30px; display: block; margin: 0 auto;" />
- </center>
- </a>
+<a href="https://www.islamic-relief.org.uk/giving/appeals/palestine/" target="_blank">
 
+  <img src="./images/banner-support-palestine.png" alt="Support Palestine" style="width: 450px; max-width: 1000px; height: 25px; display: block; margin: 0 auto;" />
+ 
+ </a>
+</center>
 
 [![Stand with Palestine](https://img.shields.io/badge/Stand%20With%20Palestine-007A3D?style=plastic&logo=liberapay&logoColor=white&labelColor=007A3D)](https://www.islamic-relief.org.uk/giving/appeals/palestine/) 🇵🇸
 
