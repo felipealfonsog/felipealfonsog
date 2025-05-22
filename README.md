@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.islamic-relief.org.uk/giving/appeals/palestine/" target="_blank">
-    <img src="./images/banner-support-palestine.png" alt="Support Palestine" width="530" height="20" />
+    <img src="./images/banner-support-palestine.png" alt="Support Palestine" width="530" height="23" />
   </a>
 </p>
 
