@@ -71,7 +71,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 -->
 
 <a href="https://www.islamic-relief.org.uk/giving/appeals/palestine/" target="_blank">
-  <img src="images/images/banner-support-palestine.png" alt="Support Palestine" style="width: 100%; max-width: 1000px; height: 20; display: block; margin: 0 auto;" />
+  <img src="./images/banner-support-palestine.png" alt="Support Palestine" style="width: 100%; max-width: 1000px; height: 20; display: block; margin: 0 auto;" />
 </a>
 
 
