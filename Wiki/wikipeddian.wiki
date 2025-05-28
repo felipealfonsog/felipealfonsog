@@ -19,11 +19,25 @@ Wikipedia Logo Silver.svg
 
 Deus computer engineering.png
 
+https://commons.wikimedia.org/wiki/File:Informatik_thumb.png
+
+Informatik thumb.png
+
+
+A visual summary of fields within computing and computer science. The lambda symbol, though unofficial, commonly represents programming language theory and is increasingly associated with theoretical computer science as a whole.
+
+Graphic overview of areas of computing/computer science. Lamda is an unofficial symbol of the theory of programming languages and increasingly of all theoretical computer science.
+
+A visual summary of computing fields; lambda often symbolizes programming language theory and theoretical computer science.
+
+Lambda symbolizes theory in computing; diagram shows computing fields.
+
+
 -->
 | name             = Felipe Alfonso González
-| image            = Wikipedia Logo Silver.svg
+| image            = Informatik thumb.png
 | image_size       = 85
-| image_caption    = Wikipedian
+| image_caption    = A visual summary of fields within computing and computer science. The lambda symbol, though unofficial, commonly represents programming language theory and is increasingly associated with theoretical computer science as a whole.
 | birthdate = {{Birth date and age|1979|3|13}}
 | nationality      = Chilean
 | languages = Spanish, English, French, Afrikaans
@@ -51,7 +65,7 @@ Deus computer engineering.png
 
 }}
 
-'''Felipe Alfonso González''' is a [[Computer Science]] Engineer from [[Chile]], specialized in [[Systems architecture]] and [[Cybersecurity]], with a strong background in [[cyberintelligence]] and [[software engineering]]. His professional focus lies in research and development within areas such as [[data engineering]], [[machine learning]], [[cybersecurity]], and [[computer science]] theory.
+'''Felipe Alfonso González''' is a [[Computer Science]] [[Engineer]] from [[Chile]], specialized in [[Systems architecture]] and [[Cybersecurity]], with a strong background in [[cyberintelligence]] and [[software engineering]]. His professional focus lies in research and development within areas such as [[data engineering]], [[machine learning]], [[cybersecurity]], and [[computer science]] theory.
 
 González began his engagement with computing technologies in the mid-1980s, during the early days of the [[Internet]], when access often required dial-up connections and the manual compilation of the [[Unix]] or [[GNU/Linux]] [[kernel (operating system)|kernel]]. He has expressed particular interest in [[FreeBSD]], [[Debian]], and [[Arch Linux]], and maintains an appreciation for [[macOS]] due to its BSD origins.
 
