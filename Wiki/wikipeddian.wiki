@@ -38,7 +38,8 @@ Lambda symbolizes theory in computing; diagram shows computing fields.
 | image            = Informatik thumb.png
 | image_size       = 85
 | image_caption    = A visual summary of fields within computing and computer science. The lambda symbol, though unofficial, commonly represents programming language theory and is increasingly associated with theoretical computer science as a whole.
-| birthdate = {{Birth date and age|1979|3|13}}
+<!-- | birthdate = {{Birth date and age|1979|3|x}} -->
+| birthdate = {{Birth year and age|1979|3}}
 | nationality      = Chilean
 | languages = Spanish, English, French, Afrikaans
 | current_time        = {{current time|UTC-4}}
