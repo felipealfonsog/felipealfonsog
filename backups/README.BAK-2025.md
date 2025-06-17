@@ -98,10 +98,14 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 -->
 
+<details open>
+  <summary>🎗️🕊️📚 Supporting Meaningful Causes, Ideas, and Philosophical Thought</summary>
+  <br>
+
 [![Mental Health Awareness](https://img.shields.io/badge/Mental%20Health%20Awareness-00a550?style=plastic&logo=liberapay&logoColor=white&labelColor=00a550)](https://www.who.int/campaigns/world-mental-health-day) 🌱 [![Support Social Democracy](https://img.shields.io/badge/Support%20Social%20Democracy-b40000?style=plastic&logo=liberapay&logoColor=white&labelColor=b40000)](https://en.wikipedia.org/wiki/Social_democracy) 🌹 [![Freemasonry & Free Thought](https://img.shields.io/badge/Freemasonry%20%26%20Free%20Thought-002147?style=plastic&logo=phabricator&logoColor=white&labelColor=002147)](https://en.wikipedia.org/wiki/Freemasonry) 📐 [![Stand with Palestine](https://img.shields.io/badge/Stand%20With%20Palestine-007A3D?style=plastic&logo=liberapay&logoColor=white&labelColor=007A3D)](https://www.islamic-relief.org.uk/giving/appeals/palestine/) 🇵🇸
 
 
-
+</details>
 
 
 
@@ -308,7 +312,7 @@ https://maintainers.github.com/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 -->
 <!-- <details open> -->
-<details>
+<details open>
 <summary>:star2: <strong>Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
 <br>
 
@@ -339,19 +343,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 03 June 2025
+From: 04 December 2023 - To: 16 June 2025
 
-Total Time: 719 hrs 23 mins
+Total Time: 721 hrs 57 mins
 
-Bash                 127 hrs 16 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.06 %
-Python               123 hrs 34 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.57 %
-HTML                 102 hrs 19 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.72 %
-Markdown             70 hrs 21 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.43 %
-C                    64 hrs 19 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.62 %
-C++                  39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.33 %
-INI                  29 hrs 40 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.98 %
-Text                 28 hrs 24 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.81 %
-Other                26 hrs 29 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.55 %
+Bash                 127 hrs 16 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.00 %
+Python               123 hrs 34 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.51 %
+HTML                 103 hrs 17 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.80 %
+Markdown             70 hrs 21 mins  ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.40 %
+C                    64 hrs 19 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.59 %
+C++                  39 hrs 43 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   05.31 %
+INI                  29 hrs 40 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.97 %
+Text                 29 hrs 10 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.90 %
+Other                26 hrs 31 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.54 %
 ```
 
 <!--END_SECTION:waka-->
@@ -409,6 +413,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
@@ -425,16 +439,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
