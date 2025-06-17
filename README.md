@@ -99,7 +99,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 -->
 
 <details open>
-  <summary>🌍 Support for Important Causes</summary>
+  <summary>🎗️🕊️📚 Supporting Meaningful Causes, Ideas, and Philosophical Thought</summary>
   <br>
 
 [![Mental Health Awareness](https://img.shields.io/badge/Mental%20Health%20Awareness-00a550?style=plastic&logo=liberapay&logoColor=white&labelColor=00a550)](https://www.who.int/campaigns/world-mental-health-day) 🌱 [![Support Social Democracy](https://img.shields.io/badge/Support%20Social%20Democracy-b40000?style=plastic&logo=liberapay&logoColor=white&labelColor=b40000)](https://en.wikipedia.org/wiki/Social_democracy) 🌹 [![Freemasonry & Free Thought](https://img.shields.io/badge/Freemasonry%20%26%20Free%20Thought-002147?style=plastic&logo=phabricator&logoColor=white&labelColor=002147)](https://en.wikipedia.org/wiki/Freemasonry) 📐 [![Stand with Palestine](https://img.shields.io/badge/Stand%20With%20Palestine-007A3D?style=plastic&logo=liberapay&logoColor=white&labelColor=007A3D)](https://www.islamic-relief.org.uk/giving/appeals/palestine/) 🇵🇸
