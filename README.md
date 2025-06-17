@@ -98,7 +98,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 -->
 
-<details open>
+<details>
   <summary>🎗️🕊️📚 Supporting Meaningful Causes, Ideas, and Philosophical Thought</summary>
   <br>
 
