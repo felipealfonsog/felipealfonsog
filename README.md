@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Threat actor Banana Squad exploits GitHub repos in new campaign  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/685444dd82d2d53888c6afb4)
 
-_Last updated: 2025-06-20 07:21 UTC_
+_Last updated: 2025-06-20 07:27 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
