@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 11a7688a08d9d389632391d013d6f24e  
-**Pulse**: Threat actor Banana Squad exploits GitHub repos in new campaign  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/685444dd82d2d53888c6afb4)
+**Threat Type**: Ipv4  
+**Indicator**: 43.166.239.78  
+**Pulse**: TxTag Takedown: Busting Phishing Email Schemes  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6855260cd344ef4e9ca8577b)
 
-_Last updated: 2025-06-20 07:27 UTC_
+_Last updated: 2025-06-20 12:03 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
