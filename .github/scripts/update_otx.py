@@ -22,8 +22,6 @@ def update_readme(pulse):
         content = file.read()
 
     new_block = f"""\
-## 🛰️ Latest Threat Intelligence from AlienVault OTX
-
 **Threat Type**: {pulse['type'].title()}  
 **Indicator**: {pulse['indicator']}  
 **Pulse**: {pulse['name']}  
