@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Ipv4  
-**Indicator**: 43.166.239.78  
-**Pulse**: TxTag Takedown: Busting Phishing Email Schemes  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6855260cd344ef4e9ca8577b)
+**Indicator**: 103.41.204.104  
+**Pulse**: Resurgence of the Prometei Botnet  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68555ddf9ba095507fc6b5da)
 
-_Last updated: 2025-06-20 12:03 UTC_
+_Last updated: 2025-06-20 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
