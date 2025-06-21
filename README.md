@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 103.41.204.104  
-**Pulse**: Resurgence of the Prometei Botnet  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68555ddf9ba095507fc6b5da)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-22457  
+**Pulse**: China-Nexus Threat Actor Actively Exploiting Ivanti Endpoint Manager Mobile (CVE-2025-4428) Vulnerability  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/682e5bbc1075b03f94642762)
 
-_Last updated: 2025-06-20 18:02 UTC_
+_Last updated: 2025-06-21 00:07 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
