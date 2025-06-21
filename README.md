@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: China-Nexus Threat Actor Actively Exploiting Ivanti Endpoint Manager Mobile (CVE-2025-4428) Vulnerability  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/682e5bbc1075b03f94642762)
 
-_Last updated: 2025-06-21 00:07 UTC_
+_Last updated: 2025-06-21 06:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
