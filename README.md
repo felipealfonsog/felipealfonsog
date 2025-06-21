@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Cve  
-**Indicator**: CVE-2025-22457  
-**Pulse**: China-Nexus Threat Actor Actively Exploiting Ivanti Endpoint Manager Mobile (CVE-2025-4428) Vulnerability  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/682e5bbc1075b03f94642762)
+**Indicator**: CVE-2025-0944  
+**Pulse**: Exploits Cityworks zero-day vulnerability to deliver malware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/682f383c63fd8a92ece6dfce)
 
-_Last updated: 2025-06-21 12:02 UTC_
+_Last updated: 2025-06-21 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
