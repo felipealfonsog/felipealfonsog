@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Targets Tajikistan: New Macro Word Documents Phishing Tactics  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/682f9d0236a68becaaf72d79)
 
-_Last updated: 2025-06-22 00:07 UTC_
+_Last updated: 2025-06-22 06:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
