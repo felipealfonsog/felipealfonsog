@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Operation Endgame 2.0  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/683046e8073360953a9307d2)
 
-_Last updated: 2025-06-22 12:02 UTC_
+_Last updated: 2025-06-22 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
