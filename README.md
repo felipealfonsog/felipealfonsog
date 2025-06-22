@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-0944  
-**Pulse**: Exploits Cityworks zero-day vulnerability to deliver malware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/682f383c63fd8a92ece6dfce)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 6ac6a0dd78d2e3f58e95fa1a20b3ab22b4b49a1ab816dcfb32fd6864e1969ac3  
+**Pulse**: Targets Tajikistan: New Macro Word Documents Phishing Tactics  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/682f9d0236a68becaaf72d79)
 
-_Last updated: 2025-06-21 18:02 UTC_
+_Last updated: 2025-06-22 00:07 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
