@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0942af7805af433bc395ea765ebdb3dc  
-**Pulse**: Operation Endgame 2.0  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/683046e8073360953a9307d2)
+**Threat Type**: Domain  
+**Indicator**: advanced-ip-scanned.com  
+**Pulse**: Danabot: Analyzing a fallen empire  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/683357a6f329fa7aedccd8a8)
 
-_Last updated: 2025-06-22 18:02 UTC_
+_Last updated: 2025-06-24 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
