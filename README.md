@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Danabot: Analyzing a fallen empire  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/683357a6f329fa7aedccd8a8)
 
-_Last updated: 2025-06-25 12:03 UTC_
+_Last updated: 2025-06-25 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
