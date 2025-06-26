@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: advanced-ip-scanned.com  
-**Pulse**: Danabot: Analyzing a fallen empire  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/683357a6f329fa7aedccd8a8)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 470f0db6a56a879985c62cd71c5a98a4  
+**Pulse**: Katz Stealer Threat Analysis  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6834f67e32272e392524397b)
 
-_Last updated: 2025-06-25 18:02 UTC_
+_Last updated: 2025-06-26 00:07 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
