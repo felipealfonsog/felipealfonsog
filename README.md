@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Custom Arsenal Developed to Target Multiple Industries  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68359559953d95d9c98f6268)
 
-_Last updated: 2025-06-26 12:02 UTC_
+_Last updated: 2025-06-26 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
