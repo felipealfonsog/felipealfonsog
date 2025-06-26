@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Katz Stealer Threat Analysis  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6834f67e32272e392524397b)
 
-_Last updated: 2025-06-26 00:07 UTC_
+_Last updated: 2025-06-26 06:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
