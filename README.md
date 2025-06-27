@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: NSIS Abuse and sRDI Shellcode: Anatomy of the Winos 4.0 Campaign  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/683651cab88138e6609c3788)
 
-_Last updated: 2025-06-27 06:02 UTC_
+_Last updated: 2025-06-27 12:03 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
