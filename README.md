@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 0f68e438134c2781d26f6b2b255beec1  
-**Pulse**: Custom Arsenal Developed to Target Multiple Industries  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68359559953d95d9c98f6268)
+**Indicator**: 7e798be7f24e0d737513ce250ad74429  
+**Pulse**: NSIS Abuse and sRDI Shellcode: Anatomy of the Winos 4.0 Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/683651cab88138e6609c3788)
 
-_Last updated: 2025-06-26 18:02 UTC_
+_Last updated: 2025-06-27 00:07 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
