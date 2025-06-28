@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: http://185.156.72.2/files/5297474040/aNXlZBn.exe  
-**Pulse**: Inside a VenomRAT Malware Campaign  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6837b0361f9ee33ce1b797e7)
+**Threat Type**: Cve  
+**Indicator**: CVE-2023-39780  
+**Pulse**: Thousands of ASUS Routers Hijacked in Stealthy Backdoor Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/683886fb0eae29046fb00608)
 
-_Last updated: 2025-06-28 12:02 UTC_
+_Last updated: 2025-06-28 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
