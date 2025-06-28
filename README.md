@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: dataops-tracxn.com  
-**Pulse**: Fake Bitdefender Site Spreads Trio of Malware Tools  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68374e9588f1f620c60cdfe2)
+**Threat Type**: Url  
+**Indicator**: http://185.156.72.2/files/5297474040/aNXlZBn.exe  
+**Pulse**: Inside a VenomRAT Malware Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6837b0361f9ee33ce1b797e7)
 
-_Last updated: 2025-06-27 18:02 UTC_
+_Last updated: 2025-06-28 00:06 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
