@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2023-39780  
-**Pulse**: Thousands of ASUS Routers Hijacked in Stealthy Backdoor Campaign  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/683886fb0eae29046fb00608)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 1fc59ff559c941f99cf27c18ef066789  
+**Pulse**: Tracking LummaC2 Infrastructure with Cats  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6839003a3028827e1ebbfb1a)
 
-_Last updated: 2025-06-28 18:02 UTC_
+_Last updated: 2025-06-29 00:08 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
