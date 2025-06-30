@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 1fc59ff559c941f99cf27c18ef066789  
-**Pulse**: Tracking LummaC2 Infrastructure with Cats  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6839003a3028827e1ebbfb1a)
+**Indicator**: 0fadeb197ff352da80b7850c91ad3cce  
+**Pulse**: Snake Keylogger in Geopolitical Affairs: Abuse of Trusted Java Utilities in Cybercrime Operations  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6862bbc0715c6120c479147a)
 
-_Last updated: 2025-06-30 12:03 UTC_
+_Last updated: 2025-06-30 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
