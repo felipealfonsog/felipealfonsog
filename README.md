@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Tracking LummaC2 Infrastructure with Cats  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6839003a3028827e1ebbfb1a)
 
-_Last updated: 2025-06-30 00:07 UTC_
+_Last updated: 2025-06-30 06:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
