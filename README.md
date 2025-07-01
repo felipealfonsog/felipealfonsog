@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 0fadeb197ff352da80b7850c91ad3cce  
-**Pulse**: Snake Keylogger in Geopolitical Affairs: Abuse of Trusted Java Utilities in Cybercrime Operations  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6862bbc0715c6120c479147a)
+**Indicator**: 57bf2cbfe63df65772846277e4b2a55f  
+**Pulse**: 10 Things I Hate About Attribution: RomCom vs. TransferLoader  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68639744272b5a4d16c46166)
 
-_Last updated: 2025-07-01 06:02 UTC_
+_Last updated: 2025-07-01 12:03 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
