@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Snake Keylogger in Geopolitical Affairs: Abuse of Trusted Java Utilities in Cybercrime Operations  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6862bbc0715c6120c479147a)
 
-_Last updated: 2025-06-30 18:02 UTC_
+_Last updated: 2025-07-01 00:08 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
