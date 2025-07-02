@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 57bf2cbfe63df65772846277e4b2a55f  
-**Pulse**: 10 Things I Hate About Attribution: RomCom vs. TransferLoader  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68639744272b5a4d16c46166)
+**Threat Type**: Ipv4  
+**Indicator**: 103.149.98.248  
+**Pulse**: Analysis of the threat case of kimsuky group using 'ClickFix' tactic  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6864dc6fbb7b39eefb96ee85)
 
-_Last updated: 2025-07-02 06:02 UTC_
+_Last updated: 2025-07-02 12:03 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
