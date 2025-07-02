@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: 10 Things I Hate About Attribution: RomCom vs. TransferLoader  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68639744272b5a4d16c46166)
 
-_Last updated: 2025-07-01 18:02 UTC_
+_Last updated: 2025-07-02 00:07 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
