@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 103.149.98.248  
-**Pulse**: Analysis of the threat case of kimsuky group using 'ClickFix' tactic  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6864dc6fbb7b39eefb96ee85)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 34b8040d3dad4bd9f34738fbc3363fcda819ac479db8497fb857865cee77ad89  
+**Pulse**: DCRAT Impersonating the Colombian Government  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68654eff7ba38f77505ba8c5)
 
-_Last updated: 2025-07-02 12:03 UTC_
+_Last updated: 2025-07-02 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
