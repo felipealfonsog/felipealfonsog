@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 34b8040d3dad4bd9f34738fbc3363fcda819ac479db8497fb857865cee77ad89  
-**Pulse**: DCRAT Impersonating the Colombian Government  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68654eff7ba38f77505ba8c5)
+**Threat Type**: Ipv4  
+**Indicator**: 193.53.40.18  
+**Pulse**: Apache Under the Lens: Tomcat's Partial PUT and Camel's Header Hijack  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6866650f9a525176d0fa51dc)
 
-_Last updated: 2025-07-03 06:02 UTC_
+_Last updated: 2025-07-03 12:03 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
