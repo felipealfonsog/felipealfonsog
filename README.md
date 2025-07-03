@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Apache Under the Lens: Tomcat's Partial PUT and Camel's Header Hijack  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6866650f9a525176d0fa51dc)
 
-_Last updated: 2025-07-03 12:03 UTC_
+_Last updated: 2025-07-03 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
