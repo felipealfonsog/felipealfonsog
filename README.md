@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 193.53.40.18  
-**Pulse**: Apache Under the Lens: Tomcat's Partial PUT and Camel's Header Hijack  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6866650f9a525176d0fa51dc)
+**Threat Type**: Hostname  
+**Indicator**: 37-221-64-252.cprapid.com  
+**Pulse**: Illuminating Transparent Tribe  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/683f3e227b61a544a68ded67)
 
-_Last updated: 2025-07-03 18:02 UTC_
+_Last updated: 2025-07-04 00:07 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
