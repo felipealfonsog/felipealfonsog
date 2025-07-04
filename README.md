@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Hostname  
-**Indicator**: 37-221-64-252.cprapid.com  
-**Pulse**: Illuminating Transparent Tribe  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/683f3e227b61a544a68ded67)
+**Threat Type**: Ipv4  
+**Indicator**: 137.184.116.179  
+**Pulse**: Gamaredon in 2024: Cranking out spearphishing campaigns against Ukraine with an evolved toolset  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6867ae2d0a53dfda37955c4b)
 
-_Last updated: 2025-07-04 06:02 UTC_
+_Last updated: 2025-07-04 12:03 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
