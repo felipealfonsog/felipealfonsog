@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Gamaredon in 2024: Cranking out spearphishing campaigns against Ukraine with an evolved toolset  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6867ae2d0a53dfda37955c4b)
 
-_Last updated: 2025-07-04 12:03 UTC_
+_Last updated: 2025-07-04 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
