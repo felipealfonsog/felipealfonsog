@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2017-0199  
-**Pulse**: How a Malicious Excel File (CVE-2017-0199) Delivers the FormBook Payload  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68421bec29671c607cbdcba6)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 1ba16655232828e33b7073046d64ecc0  
+**Pulse**: Blitz Malware: A Tale of Game Cheats and Code Repositories  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6842e2db57cf477add2cd72d)
 
-_Last updated: 2025-07-06 06:02 UTC_
+_Last updated: 2025-07-06 12:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
