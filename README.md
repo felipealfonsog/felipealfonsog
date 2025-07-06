@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: How a Malicious Excel File (CVE-2017-0199) Delivers the FormBook Payload  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68421bec29671c607cbdcba6)
 
-_Last updated: 2025-07-06 00:08 UTC_
+_Last updated: 2025-07-06 06:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
