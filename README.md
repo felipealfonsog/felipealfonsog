@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 1ba16655232828e33b7073046d64ecc0  
-**Pulse**: Blitz Malware: A Tale of Game Cheats and Code Repositories  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6842e2db57cf477add2cd72d)
+**Indicator**: 0668293c9f523f26babc09617063493b  
+**Pulse**: Operation DRAGONCLONE: Chinese Telecom Targeted by Malware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6842f45696f96557e5f757b1)
 
-_Last updated: 2025-07-06 12:02 UTC_
+_Last updated: 2025-07-06 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
