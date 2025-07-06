@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 137.184.116.179  
-**Pulse**: Gamaredon in 2024: Cranking out spearphishing campaigns against Ukraine with an evolved toolset  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6867ae2d0a53dfda37955c4b)
+**Threat Type**: Cve  
+**Indicator**: CVE-2017-0199  
+**Pulse**: How a Malicious Excel File (CVE-2017-0199) Delivers the FormBook Payload  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68421bec29671c607cbdcba6)
 
-_Last updated: 2025-07-04 18:02 UTC_
+_Last updated: 2025-07-06 00:08 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
