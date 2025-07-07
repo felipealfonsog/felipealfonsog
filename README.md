@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2024-21111  
-**Pulse**: Applications of Snake Keylogger in Geopolitics: Abuse of Trusted Java Utilities in Cybercriminal Activities  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/686a64122fafa4b925fb6300)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 1fc59ff559c941f99cf27c18ef066789  
+**Pulse**: Tracking LummaC2 Infrastructure with Cats  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6839003a3028827e1ebbfb1a)
 
-_Last updated: 2025-07-07 12:03 UTC_
+_Last updated: 2025-07-07 18:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
