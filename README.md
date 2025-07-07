@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0668293c9f523f26babc09617063493b  
-**Pulse**: Operation DRAGONCLONE: Chinese Telecom Targeted by Malware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6842f45696f96557e5f757b1)
+**Threat Type**: Cve  
+**Indicator**: CVE-2024-21111  
+**Pulse**: Applications of Snake Keylogger in Geopolitics: Abuse of Trusted Java Utilities in Cybercriminal Activities  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/686a64122fafa4b925fb6300)
 
-_Last updated: 2025-07-07 06:02 UTC_
+_Last updated: 2025-07-07 12:03 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
