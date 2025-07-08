@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Batavia spyware steals data from Russian organizations  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/686bd1d61f8e157150620580)
 
-_Last updated: 2025-07-08 00:07 UTC_
+_Last updated: 2025-07-08 06:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
