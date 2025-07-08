@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 1fc59ff559c941f99cf27c18ef066789  
-**Pulse**: Tracking LummaC2 Infrastructure with Cats  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6839003a3028827e1ebbfb1a)
+**Indicator**: 03b728a6f6aab25a65f189857580e0bd  
+**Pulse**: Batavia spyware steals data from Russian organizations  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/686bd1d61f8e157150620580)
 
-_Last updated: 2025-07-07 18:02 UTC_
+_Last updated: 2025-07-08 00:07 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
