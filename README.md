@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Hostname  
-**Indicator**: 1.lusyn.xyz  
-**Pulse**: PumaBot: Novel Botnet Targeting IoT Surveillance Devices  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6840aeed45c664821c11fe38)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 1fc59ff559c941f99cf27c18ef066789  
+**Pulse**: Tracking LummaC2 Infrastructure with Cats  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6839003a3028827e1ebbfb1a)
 
-_Last updated: 2025-07-09 06:02 UTC_
+<sub>_Last updated: 2025-07-09 10:15 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
