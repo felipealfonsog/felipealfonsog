@@ -27,7 +27,7 @@ def update_readme(pulse):
 **Pulse**: {pulse['name']}  
 **Link**: [View on OTX]({pulse['url']})
 
-_Last updated: {datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")}_
+<sub>_Last updated: {datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")}_</sub>
 """
 
     start_tag = "<!-- OTX-START -->"
