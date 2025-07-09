@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: PumaBot: Novel Botnet Targeting IoT Surveillance Devices  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6840aeed45c664821c11fe38)
 
-_Last updated: 2025-07-09 00:07 UTC_
+_Last updated: 2025-07-09 06:02 UTC_
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
