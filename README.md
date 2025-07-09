@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 03b728a6f6aab25a65f189857580e0bd  
-**Pulse**: Spyware Targets Employees via Weaponized Word Documents Delivering Malware Payloads  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/686ddc6c70f3b01f8f7c7edf)
+**Threat Type**: Ipv4  
+**Indicator**: 194.5.82.11  
+**Pulse**: Exploitation of Leaked Machine Keys by Initial Access Broker  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/686e6de3779dc49cad71265b)
 
-<sub>_Last updated: 2025-07-09 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-09 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
