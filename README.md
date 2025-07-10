@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Detecting PureLogs traffic with CapLoader  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6847f86832c3af4f5793bcbe)
 
-<sub>_Last updated: 2025-07-10 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-10 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
