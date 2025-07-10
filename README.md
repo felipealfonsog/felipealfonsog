@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 194.5.82.11  
-**Pulse**: Exploitation of Leaked Machine Keys by Initial Access Broker  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/686e6de3779dc49cad71265b)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 6cc148363200798a12091b97a17181a1  
+**Pulse**: Whispering in the dark  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/684874c7cbe4dbef4d0ff749)
 
-<sub>_Last updated: 2025-07-09 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-10 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
