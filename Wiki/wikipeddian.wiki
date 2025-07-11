@@ -21,7 +21,11 @@ Deus computer engineering.png
 
 https://commons.wikimedia.org/wiki/File:Informatik_thumb.png
 
+Default log informatics 
 Informatik thumb.png
+
+Default prof pic v1
+[[File:FelipePicv1.jpg|thumb|Profile Picture]]
 
 
 A visual summary of fields within computing and computer science. The lambda symbol, though unofficial, commonly represents programming language theory and is increasingly associated with theoretical computer science as a whole.
@@ -35,7 +39,7 @@ Lambda symbolizes theory in computing; diagram shows computing fields.
 
 -->
 | name             = Felipe Alfonso González
-| image            = Informatik thumb.png
+| image            = FelipePicv1.jpg
 | image_size       = 85
 | image_caption    = A visual summary of fields within computing and computer science. The lambda symbol, though unofficial, commonly represents programming language theory and is increasingly associated with theoretical computer science as a whole.
 <!-- | birthdate = {{Birth date and age|1979|3|x}} -->
