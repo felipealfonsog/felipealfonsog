@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha1  
-**Indicator**: 565ebded7e63cdfa5fcbe5734bdb4281a85d6f21  
-**Pulse**: Google and Microsoft Trusted Them. 2.3 Million Users Installed Them. They Were Malware.  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68700689f25260953b97788c)
+**Threat Type**: Url  
+**Indicator**: http://youtubesave.org/rl/g.php  
+**Pulse**: Attackers Inject Code into WordPress Theme to Redirect Visitors  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6870b25f2615d0a0d9852b01)
 
-<sub>_Last updated: 2025-07-11 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-11 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
