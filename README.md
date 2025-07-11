@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Url  
-**Indicator**: http://youtubesave.org/rl/g.php  
-**Pulse**: Attackers Inject Code into WordPress Theme to Redirect Visitors  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6870b25f2615d0a0d9852b01)
+**Indicator**: https://r1deepseek-ai.com/gg/cc/AI_Launcher_1.21.exe  
+**Pulse**: New BrowserVenom malware being distributed via fake DeepSeek phishing website  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68499d3d233e106b9d20d6ff)
 
-<sub>_Last updated: 2025-07-11 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-11 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
