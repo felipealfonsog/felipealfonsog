@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Evolving Tactics of SLOW#TEMPEST: A Deep Dive Into Advanced Malware Techniques  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/687121763daea5984247955d)
 
-<sub>_Last updated: 2025-07-12 00:07 UTC_</sub>
+<sub>_Last updated: 2025-07-12 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
