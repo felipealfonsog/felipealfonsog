@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: https://r1deepseek-ai.com/gg/cc/AI_Launcher_1.21.exe  
-**Pulse**: New BrowserVenom malware being distributed via fake DeepSeek phishing website  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68499d3d233e106b9d20d6ff)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 3583cc881cb077f97422b9729075c9465f0f8f94647b746ee7fa049c4970a978  
+**Pulse**: Evolving Tactics of SLOW#TEMPEST: A Deep Dive Into Advanced Malware Techniques  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687121763daea5984247955d)
 
-<sub>_Last updated: 2025-07-11 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-12 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
