@@ -30,7 +30,6 @@ A visual summary of fields within computing and computer science. The lambda sym
 
 
 Default prof pic v1
-[[File:FelipePicv1.jpg|thumb|Profile Picture]]
 
 Profile Picture
 
@@ -43,9 +42,12 @@ A visual summary of computing fields; lambda often symbolizes programming langua
 Lambda symbolizes theory in computing; diagram shows computing fields.
 
 
+[[File:Perpicfagv2.jpg|thumb|Profile Picture]]
+
+
 -->
 | name             = Felipe Alfonso González
-| image            = FelipePicv1.jpg
+| image            = Perpicfagv2.jpg
 | image_size       = 85
 | image_caption    = Profile Picture
 <!-- | birthdate = {{Birth date and age|1979|3|x}} -->
