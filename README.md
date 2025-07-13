@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 3583cc881cb077f97422b9729075c9465f0f8f94647b746ee7fa049c4970a978  
-**Pulse**: Evolving Tactics of SLOW#TEMPEST: A Deep Dive Into Advanced Malware Techniques  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687121763daea5984247955d)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-43200  
+**Pulse**: Graphite Caught: First Forensic Confirmation of Paragon's iOS Mercenary Spyware Finds Journalists Targeted  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/684b4dfdc754eff94f8e1f53)
 
-<sub>_Last updated: 2025-07-12 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-13 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
