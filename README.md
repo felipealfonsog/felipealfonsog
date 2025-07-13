@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Graphite Caught: First Forensic Confirmation of Paragon's iOS Mercenary Spyware Finds Journalists Targeted  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/684b4dfdc754eff94f8e1f53)
 
-<sub>_Last updated: 2025-07-13 00:08 UTC_</sub>
+<sub>_Last updated: 2025-07-13 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
