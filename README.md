@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-43200  
-**Pulse**: Graphite Caught: First Forensic Confirmation of Paragon's iOS Mercenary Spyware Finds Journalists Targeted  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/684b4dfdc754eff94f8e1f53)
+**Threat Type**: Filehash-Sha1  
+**Indicator**: 9eb2bcdc89976429bc64127056a4a9d5d3a2b57a  
+**Pulse**: What is the Real Relationship between WordPress Hackers and Malicious Adtech?  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/684bda6d032b4c4aeb5ec33c)
 
-<sub>_Last updated: 2025-07-13 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-13 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
