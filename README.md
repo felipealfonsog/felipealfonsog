@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha1  
-**Indicator**: 9eb2bcdc89976429bc64127056a4a9d5d3a2b57a  
-**Pulse**: What is the Real Relationship between WordPress Hackers and Malicious Adtech?  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/684bda6d032b4c4aeb5ec33c)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 7834b9b4574b68ba85eabd79b9770b08  
+**Pulse**: From Trust to Threat: Hijacked Discord Invites Used for Multi-Stage Malware Delivery  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/684c39e8dd56f16d5a6349bc)
 
-<sub>_Last updated: 2025-07-13 12:02 UTC_</sub>
+<sub>_Last updated: 2025-07-13 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
