@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 7834b9b4574b68ba85eabd79b9770b08  
-**Pulse**: From Trust to Threat: Hijacked Discord Invites Used for Multi-Stage Malware Delivery  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/684c39e8dd56f16d5a6349bc)
+**Indicator**: 05d400f4734d2d68af6bb916112f5a19  
+**Pulse**: New FIN7-Linked Infrastructure, PowerNet Loader, and Fake Update Attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/684c90509889eb77ff43d758)
 
-<sub>_Last updated: 2025-07-13 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-14 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
