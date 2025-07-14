@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: New FIN7-Linked Infrastructure, PowerNet Loader, and Fake Update Attacks  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/684c90509889eb77ff43d758)
 
-<sub>_Last updated: 2025-07-14 00:07 UTC_</sub>
+<sub>_Last updated: 2025-07-14 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
