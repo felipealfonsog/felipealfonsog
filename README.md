@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2023-4966  
-**Pulse**: A Hybrid Approach with Data Exfiltration and Encryption  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687229325abbf82b9f462e99)
+**Threat Type**: Hostname  
+**Indicator**: oqmetrix.icercanokt.xyz  
+**Pulse**: Stealthy PHP Malware Uses ZIP Archive to Redirect WordPress Visitors  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68750b271ed247073ded7ab1)
 
-<sub>_Last updated: 2025-07-14 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-14 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
