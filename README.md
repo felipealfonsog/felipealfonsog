@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 05d400f4734d2d68af6bb916112f5a19  
-**Pulse**: New FIN7-Linked Infrastructure, PowerNet Loader, and Fake Update Attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/684c90509889eb77ff43d758)
+**Threat Type**: Cve  
+**Indicator**: CVE-2023-4966  
+**Pulse**: A Hybrid Approach with Data Exfiltration and Encryption  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687229325abbf82b9f462e99)
 
-<sub>_Last updated: 2025-07-14 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-14 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
