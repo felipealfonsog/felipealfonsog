@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Hostname  
-**Indicator**: oqmetrix.icercanokt.xyz  
-**Pulse**: Stealthy PHP Malware Uses ZIP Archive to Redirect WordPress Visitors  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68750b271ed247073ded7ab1)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 279e60e77207444c7ec7421e811048267971b0db42f4b4d3e975c7d0af7f511e  
+**Pulse**: Behind the Clouds: Attackers Targeting Governments in Southeast Asia Implement Novel Covert C2 Communication  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68750ec13f19d97610df9787)
 
-<sub>_Last updated: 2025-07-15 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-15 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
