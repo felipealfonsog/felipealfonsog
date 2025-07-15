@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Stealthy PHP Malware Uses ZIP Archive to Redirect WordPress Visitors  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68750b271ed247073ded7ab1)
 
-<sub>_Last updated: 2025-07-15 00:08 UTC_</sub>
+<sub>_Last updated: 2025-07-15 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
