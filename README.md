@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Behind the Clouds: Attackers Targeting Governments in Southeast Asia Implement Novel Covert C2 Communication  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68750ec13f19d97610df9787)
 
-<sub>_Last updated: 2025-07-15 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-16 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
