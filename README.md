@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Sha256  
-**Indicator**: 279e60e77207444c7ec7421e811048267971b0db42f4b4d3e975c7d0af7f511e  
-**Pulse**: Behind the Clouds: Attackers Targeting Governments in Southeast Asia Implement Novel Covert C2 Communication  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68750ec13f19d97610df9787)
+**Indicator**: bbcf4469a0a849ec3c65bbf2ad188896f8d222b7f4e6e5b1c85747ae3ad95818  
+**Pulse**: Analysis of Secp0 Ransomware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68775e055ee6254a73b4fbc5)
 
-<sub>_Last updated: 2025-07-16 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-16 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
