@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0b6eafed70b9b9f2ad5f8ef3047e0f91  
-**Pulse**: June 2025 Infostealer Trend Report  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6877cee76da84ce9db22b91e)
+**Threat Type**: Domain  
+**Indicator**: chataigpt.top  
+**Pulse**: Infrastructure of Interest: Suspicious Domains  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
 
-<sub>_Last updated: 2025-07-17 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-17 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
