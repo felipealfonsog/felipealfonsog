@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: http://namoet.de/x  
-**Pulse**: Fileless AsyncRAT Distributed Via Clickfix Technique Targeting German Speaking Users  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6850162664e0f589c91291f6)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0b6eafed70b9b9f2ad5f8ef3047e0f91  
+**Pulse**: June 2025 Infostealer Trend Report  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6877cee76da84ce9db22b91e)
 
-<sub>_Last updated: 2025-07-16 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-17 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
