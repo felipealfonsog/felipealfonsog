@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 2d4fdba00b7f7b02408a8ea6c199037e  
-**Pulse**: From ClickFix deception to information stealer deployment  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6852b0afd8614200f6174cd4)
+**Indicator**: 39b1f49ba958abaea54aa219c365270a  
+**Pulse**: Critical Langflow Vulnerability (CVE-2025-3248) Actively Exploited to Deliver Flodrix Botnet  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6852fb64e49e359036e6522e)
 
-<sub>_Last updated: 2025-07-18 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-18 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
