@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Phish and Chips: China-Aligned Espionage Actors Ramp Up Taiwan Semiconductor Industry Targeting  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/687957dc6d81747b3ef02228)
 
-<sub>_Last updated: 2025-07-18 00:07 UTC_</sub>
+<sub>_Last updated: 2025-07-18 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
