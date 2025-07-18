@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 166.88.61.35  
-**Pulse**: Phish and Chips: China-Aligned Espionage Actors Ramp Up Taiwan Semiconductor Industry Targeting  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687957dc6d81747b3ef02228)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 2d4fdba00b7f7b02408a8ea6c199037e  
+**Pulse**: From ClickFix deception to information stealer deployment  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6852b0afd8614200f6174cd4)
 
-<sub>_Last updated: 2025-07-18 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-18 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
