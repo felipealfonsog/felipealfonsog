@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: chataigpt.top  
-**Pulse**: Infrastructure of Interest: Suspicious Domains  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
+**Threat Type**: Ipv4  
+**Indicator**: 166.88.61.35  
+**Pulse**: Phish and Chips: China-Aligned Espionage Actors Ramp Up Taiwan Semiconductor Industry Targeting  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687957dc6d81747b3ef02228)
 
-<sub>_Last updated: 2025-07-17 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-18 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
