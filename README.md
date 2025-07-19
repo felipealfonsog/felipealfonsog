@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 39b1f49ba958abaea54aa219c365270a  
-**Pulse**: Critical Langflow Vulnerability (CVE-2025-3248) Actively Exploited to Deliver Flodrix Botnet  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6852fb64e49e359036e6522e)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 329fda9939930e504f47d30834d769b30ebeaced7d73f3c1aadd0e48320d6b39  
+**Pulse**: What's in an ASP? Creative Phishing Attack on Prominent Academics and Critics of Russia  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68534db49e60b787909cdf94)
 
-<sub>_Last updated: 2025-07-18 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-19 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
