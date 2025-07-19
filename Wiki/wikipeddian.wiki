@@ -89,6 +89,7 @@ González has also lived and worked in multiple countries, including [[India]] (
 In addition to his technical contributions, he has collaborated with several prominent figures in the technology and entrepreneurship scene, including Chilean entrepreneur [[Leo Prieto]].
 
 == Academic background ==
+[[File:Informatik thumb.png|thumb|right|190px|A visual summary of fields within computing and computer science. The lambda symbol, though unofficial, commonly represents programming language theory and is increasingly associated with theoretical computer science as a whole.]]
 
 Felipe Alfonso González has pursued formal education in computer science, cybersecurity, and business intelligence through a variety of institutions across [[Chile]], [[Spain]], and the [[United States]].
 
