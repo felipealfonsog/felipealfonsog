@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: http://txtag-help.xyz/  
-**Pulse**: TxTag Takedown: Busting Phishing Email Schemes  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6855260cd344ef4e9ca8577b)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0fdf5cdd3cc193b3cbf1a8d09c712803  
+**Pulse**: Resurgence of the Prometei Botnet  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68555ddf9ba095507fc6b5da)
 
-<sub>_Last updated: 2025-07-20 12:02 UTC_</sub>
+<sub>_Last updated: 2025-07-20 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
