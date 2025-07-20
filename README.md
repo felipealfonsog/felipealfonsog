@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 329fda9939930e504f47d30834d769b30ebeaced7d73f3c1aadd0e48320d6b39  
-**Pulse**: What's in an ASP? Creative Phishing Attack on Prominent Academics and Critics of Russia  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68534db49e60b787909cdf94)
+**Threat Type**: Url  
+**Indicator**: http://txtag-help.xyz/  
+**Pulse**: TxTag Takedown: Busting Phishing Email Schemes  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6855260cd344ef4e9ca8577b)
 
-<sub>_Last updated: 2025-07-20 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-20 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
