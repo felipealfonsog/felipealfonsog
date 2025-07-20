@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: What's in an ASP? Creative Phishing Attack on Prominent Academics and Critics of Russia  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68534db49e60b787909cdf94)
 
-<sub>_Last updated: 2025-07-19 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-20 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
