@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 3d32539314f681bc250ee749e1dc4538  
-**Pulse**: Discord Invite Hijacking: How Fake Links Are Delivering Infostealers  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6855cf0cbbcbda407dae0a8b)
+**Threat Type**: Ipv4  
+**Indicator**: 107.191.58.76  
+**Pulse**: Toolshell: Large-scale exploitation of new SharePoint RCE vulnerability chain identified  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687e1326defc04da82d0b809)
 
-<sub>_Last updated: 2025-07-21 06:03 UTC_</sub>
+<sub>_Last updated: 2025-07-21 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
