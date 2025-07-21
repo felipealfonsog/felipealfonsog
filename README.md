@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 0fdf5cdd3cc193b3cbf1a8d09c712803  
-**Pulse**: Resurgence of the Prometei Botnet  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68555ddf9ba095507fc6b5da)
+**Indicator**: 3d32539314f681bc250ee749e1dc4538  
+**Pulse**: Discord Invite Hijacking: How Fake Links Are Delivering Infostealers  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6855cf0cbbcbda407dae0a8b)
 
-<sub>_Last updated: 2025-07-20 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-21 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
