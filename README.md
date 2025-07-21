@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 107.191.58.76  
-**Pulse**: Toolshell: Large-scale exploitation of new SharePoint RCE vulnerability chain identified  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687e1326defc04da82d0b809)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 154f4cdcd4b822314293ad566d7255fa  
+**Pulse**: Phishing Campaign Targets Indian Defense Using Credential-Stealing Malware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6856c6ec76846d013ef77cc6)
 
-<sub>_Last updated: 2025-07-21 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-21 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
