@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Discord Invite Hijacking: How Fake Links Are Delivering Infostealers  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6855cf0cbbcbda407dae0a8b)
 
-<sub>_Last updated: 2025-07-21 00:08 UTC_</sub>
+<sub>_Last updated: 2025-07-21 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
