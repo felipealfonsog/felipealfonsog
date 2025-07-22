@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 154f4cdcd4b822314293ad566d7255fa  
-**Pulse**: Phishing Campaign Targets Indian Defense Using Credential-Stealing Malware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6856c6ec76846d013ef77cc6)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-23266  
+**Pulse**: SharePoint Vulnerabilities (CVE-2025-53770 & CVE-2025-53771): Everything You Need to Know  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687ec30ead4d6a2798563303)
 
-<sub>_Last updated: 2025-07-22 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-22 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
