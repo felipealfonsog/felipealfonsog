@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: SharePoint Vulnerabilities (CVE-2025-53770 & CVE-2025-53771): Everything You Need to Know  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/687ec30ead4d6a2798563303)
 
-<sub>_Last updated: 2025-07-22 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-22 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
