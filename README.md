@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Phishing Campaign Targets Indian Defense Using Credential-Stealing Malware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6856c6ec76846d013ef77cc6)
 
-<sub>_Last updated: 2025-07-21 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-22 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
