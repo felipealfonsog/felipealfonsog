@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-23266  
-**Pulse**: SharePoint Vulnerabilities (CVE-2025-53770 & CVE-2025-53771): Everything You Need to Know  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687ec30ead4d6a2798563303)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 43f398bfe3eecd5584ebf3321000c3cd  
+**Pulse**: Malware Analysis Report: UMBRELLA STAND - Malware targeting Fortinet devices  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68593bc9c284f1baf4623782)
 
-<sub>_Last updated: 2025-07-23 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-23 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
