@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: DRAT V2: Updated DRAT Emerges in Arsenal  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68599b9609a7c9c2dd3baefa)
 
-<sub>_Last updated: 2025-07-24 00:07 UTC_</sub>
+<sub>_Last updated: 2025-07-24 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
