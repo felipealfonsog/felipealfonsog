@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: ff13b07eaabf984900e88657f5d193e6  
-**Pulse**: DRAT V2: Updated DRAT Emerges in Arsenal  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68599b9609a7c9c2dd3baefa)
+**Threat Type**: Domain  
+**Indicator**: chataigpt.top  
+**Pulse**: Infrastructure of Interest: Suspicious Domains  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
 
-<sub>_Last updated: 2025-07-24 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-24 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
