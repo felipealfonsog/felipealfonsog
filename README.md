@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: chataigpt.top  
-**Pulse**: Infrastructure of Interest: Suspicious Domains  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 2ed2e0e3d1ccfc20de48fa6bf49e6c89  
+**Pulse**: AI-Generated Malware in Panda Image Hides Persistent Linux Threat  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68828d2d536ef213a5f043b8)
 
-<sub>_Last updated: 2025-07-24 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-25 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
