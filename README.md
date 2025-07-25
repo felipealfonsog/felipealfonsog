@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 2ed2e0e3d1ccfc20de48fa6bf49e6c89  
-**Pulse**: AI-Generated Malware in Panda Image Hides Persistent Linux Threat  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68828d2d536ef213a5f043b8)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-20337  
+**Pulse**: Dropping Elephant APT Group Targets Turkish Defense Industry With New Campaign and Capabilities: LOLBAS, VLC Player, and Encrypted Shellcode  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688170c50514b68970173b49)
 
-<sub>_Last updated: 2025-07-25 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-25 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
