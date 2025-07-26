@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Dropping Elephant APT Group Targets Turkish Defense Industry With New Campaign and Capabilities: LOLBAS, VLC Player, and Encrypted Shellcode  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/688170c50514b68970173b49)
 
-<sub>_Last updated: 2025-07-25 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-26 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
