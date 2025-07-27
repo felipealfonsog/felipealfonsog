@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-20337  
-**Pulse**: Dropping Elephant APT Group Targets Turkish Defense Industry With New Campaign and Capabilities: LOLBAS, VLC Player, and Encrypted Shellcode  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688170c50514b68970173b49)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0cb6e67f23ccebc3727f755be5140497  
+**Pulse**: Dissecting Kimsuky's Attacks on South Korea: In-Depth Analysis of GitHub-Based Malicious Infrastructure  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/685dba0c8ecf100f0c4d3950)
 
-<sub>_Last updated: 2025-07-26 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-27 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
