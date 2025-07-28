@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0cb6e67f23ccebc3727f755be5140497  
-**Pulse**: Dissecting Kimsuky's Attacks on South Korea: In-Depth Analysis of GitHub-Based Malicious Infrastructure  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/685dba0c8ecf100f0c4d3950)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: bbcf4469a0a849ec3c65bbf2ad188896f8d222b7f4e6e5b1c85747ae3ad95818  
+**Pulse**: Analysis of Secp0 Ransomware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68775e055ee6254a73b4fbc5)
 
-<sub>_Last updated: 2025-07-28 06:03 UTC_</sub>
+<sub>_Last updated: 2025-07-28 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
