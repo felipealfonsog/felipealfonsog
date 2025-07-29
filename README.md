@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: bbcf4469a0a849ec3c65bbf2ad188896f8d222b7f4e6e5b1c85747ae3ad95818  
-**Pulse**: Analysis of Secp0 Ransomware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68775e055ee6254a73b4fbc5)
+**Threat Type**: Domain  
+**Indicator**: chataigpt.top  
+**Pulse**: Infrastructure of Interest: Suspicious Domains  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
 
-<sub>_Last updated: 2025-07-29 06:03 UTC_</sub>
+<sub>_Last updated: 2025-07-29 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
