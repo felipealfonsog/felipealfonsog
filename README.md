@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Analysis of Secp0 Ransomware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68775e055ee6254a73b4fbc5)
 
-<sub>_Last updated: 2025-07-28 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-29 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
