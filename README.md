@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: chataigpt.top  
-**Pulse**: Infrastructure of Interest: Suspicious Domains  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 1cc1534b70b8d2b99b69a721c83e586a  
+**Pulse**: Hide Your RDP: Password Spray Leads to RansomHub Deployment  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6862dc349ae605bef0998ced)
 
-<sub>_Last updated: 2025-07-30 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-30 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
