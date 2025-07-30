@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Infrastructure of Interest: Suspicious Domains  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
 
-<sub>_Last updated: 2025-07-29 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-30 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
