@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 1cc1534b70b8d2b99b69a721c83e586a  
-**Pulse**: Hide Your RDP: Password Spray Leads to RansomHub Deployment  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6862dc349ae605bef0998ced)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: c4c533ddfcb014419cbd6293b94038eb5de1854034b6b9c1a1345c4d97cdfabf  
+**Pulse**: XWorm V6: Advanced Evasion and AMSI Bypass Capabilities Revealed  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688a6c15c21f7753aad69da1)
 
-<sub>_Last updated: 2025-07-30 18:02 UTC_</sub>
+<sub>_Last updated: 2025-07-31 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
