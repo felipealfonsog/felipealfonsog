@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: c4c533ddfcb014419cbd6293b94038eb5de1854034b6b9c1a1345c4d97cdfabf  
-**Pulse**: XWorm V6: Advanced Evasion and AMSI Bypass Capabilities Revealed  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688a6c15c21f7753aad69da1)
+**Threat Type**: Ipv4  
+**Indicator**: 146.70.41.178  
+**Pulse**: Auto-Color Backdoor: How a Stealthy Linux Intrusion Was Thwarted  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688b3fc60fa1eee23ab1b945)
 
-<sub>_Last updated: 2025-07-31 06:02 UTC_</sub>
+<sub>_Last updated: 2025-07-31 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
