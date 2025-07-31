@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: XWorm V6: Advanced Evasion and AMSI Bypass Capabilities Revealed  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/688a6c15c21f7753aad69da1)
 
-<sub>_Last updated: 2025-07-31 00:07 UTC_</sub>
+<sub>_Last updated: 2025-07-31 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
