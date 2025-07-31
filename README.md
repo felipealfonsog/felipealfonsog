@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 146.70.41.178  
-**Pulse**: Auto-Color Backdoor: How a Stealthy Linux Intrusion Was Thwarted  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688b3fc60fa1eee23ab1b945)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: d302836c7df9ce8ac68a06b53263e2c685971781a48ce56b3b5a579c5bba10cc  
+**Pulse**: GOLD BLADE remote DLL sideloading attack deploys RedLoader  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688b85368e76ec4d637aee15)
 
-<sub>_Last updated: 2025-07-31 12:03 UTC_</sub>
+<sub>_Last updated: 2025-07-31 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
