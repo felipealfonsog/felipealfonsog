@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: MaaS Appeal: An Infostealer Rises From The Ashes  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/688bcc2443b220b3ccb77c5c)
 
-<sub>_Last updated: 2025-08-01 00:08 UTC_</sub>
+<sub>_Last updated: 2025-08-01 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
