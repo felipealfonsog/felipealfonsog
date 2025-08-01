@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 39f09771d70e96c7b760b3b6a30a015ec5fb6a9dd5bc1e2e609ddf073c2c853d  
-**Pulse**: MaaS Appeal: An Infostealer Rises From The Ashes  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688bcc2443b220b3ccb77c5c)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-49704  
+**Pulse**: Religious symbols weaponized, group uses Microsoft SharePoint RCE vulnerability to deliver 4L4MD4r ransomware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688ca78ff00082bce0dc1d5e)
 
-<sub>_Last updated: 2025-08-01 06:03 UTC_</sub>
+<sub>_Last updated: 2025-08-01 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
