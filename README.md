@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Sha256  
-**Indicator**: d302836c7df9ce8ac68a06b53263e2c685971781a48ce56b3b5a579c5bba10cc  
-**Pulse**: GOLD BLADE remote DLL sideloading attack deploys RedLoader  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688b85368e76ec4d637aee15)
+**Indicator**: 39f09771d70e96c7b760b3b6a30a015ec5fb6a9dd5bc1e2e609ddf073c2c853d  
+**Pulse**: MaaS Appeal: An Infostealer Rises From The Ashes  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688bcc2443b220b3ccb77c5c)
 
-<sub>_Last updated: 2025-07-31 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-01 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
