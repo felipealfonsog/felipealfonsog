@@ -18,10 +18,10 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <!-- OTX-START -->
 **Threat Type**: Cve  
 **Indicator**: CVE-2025-49704  
-**Pulse**: Religious symbols weaponized, group uses Microsoft SharePoint RCE vulnerability to deliver 4L4MD4r ransomware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688ca78ff00082bce0dc1d5e)
+**Pulse**: Active Exploitation of Microsoft SharePoint Vulnerabilities  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687f4c475ad0b16251ce3ff9)
 
-<sub>_Last updated: 2025-08-01 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-01 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
