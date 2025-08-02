@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Active Exploitation of Microsoft SharePoint Vulnerabilities  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/687f4c475ad0b16251ce3ff9)
 
-<sub>_Last updated: 2025-08-01 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-02 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
