@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Cve  
-**Indicator**: CVE-2025-49704  
-**Pulse**: Active Exploitation of Microsoft SharePoint Vulnerabilities  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687f4c475ad0b16251ce3ff9)
+**Indicator**: CVE-2024-0012  
+**Pulse**: Apache Under the Lens: Tomcat's Partial PUT and Camel's Header Hijack  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6866650f9a525176d0fa51dc)
 
-<sub>_Last updated: 2025-08-02 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-02 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
