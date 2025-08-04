@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-31199  
-**Pulse**: Frozen in transit: Secret Blizzard's AiTM campaign against diplomats  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688cdfbc83ce0b286295d859)
+**Threat Type**: Ipv4  
+**Indicator**: 104.238.220.216  
+**Pulse**: Active Exploitation of SonicWall VPNs  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6890cbb5ea3a135d64b186c0)
 
-<sub>_Last updated: 2025-08-04 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-04 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
