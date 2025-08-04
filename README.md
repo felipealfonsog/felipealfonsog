@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: andbien.ru  
-**Pulse**: Gamaredon in 2024: Cranking out spearphishing campaigns against Ukraine with an evolved toolset  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6867ae2d0a53dfda37955c4b)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-31199  
+**Pulse**: Frozen in transit: Secret Blizzard's AiTM campaign against diplomats  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688cdfbc83ce0b286295d859)
 
-<sub>_Last updated: 2025-08-04 06:05 UTC_</sub>
+<sub>_Last updated: 2025-08-04 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
