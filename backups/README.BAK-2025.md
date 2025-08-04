@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 3d32539314f681bc250ee749e1dc4538  
-**Pulse**: Discord Invite Hijacking: How Fake Links Are Delivering Infostealers  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6855cf0cbbcbda407dae0a8b)
+**Threat Type**: Domain  
+**Indicator**: andbien.ru  
+**Pulse**: Gamaredon in 2024: Cranking out spearphishing campaigns against Ukraine with an evolved toolset  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6867ae2d0a53dfda37955c4b)
 
-<sub>_Last updated: 2025-07-21 00:08 UTC_</sub>
+<sub>_Last updated: 2025-08-04 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -359,20 +359,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 20 July 2025
+From: 04 December 2023 - To: 03 August 2025
 
-Total Time: 742 hrs 45 mins
+Total Time: 764 hrs 36 mins
 
-Bash                 132 hrs 31 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.23 %
-Python               123 hrs 34 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.06 %
-HTML                 104 hrs 45 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.62 %
-Markdown             70 hrs 21 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.15 %
-C                    64 hrs 21 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.36 %
-C++                  39 hrs 47 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.17 %
-PHP                  30 hrs 39 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.99 %
-INI                  29 hrs 51 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.88 %
-Text                 29 hrs 10 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.79 %
-Other                26 hrs 33 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.45 %
+Bash                 132 hrs 55 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.80 %
+Python               123 hrs 34 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   15.62 %
+HTML                 106 hrs 41 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.49 %
+Markdown             70 hrs 21 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.89 %
+C                    64 hrs 21 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   08.13 %
+PHP                  41 hrs 24 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.23 %
+C++                  39 hrs 47 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.03 %
+INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.77 %
+Text                 29 hrs 12 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.69 %
+Other                26 hrs 33 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.36 %
 ```
 
 <!--END_SECTION:waka-->
@@ -873,7 +873,7 @@ My personal website is [gnlz.cl](https://gnlz.cl/) or [here](https://freeshell.d
 <br>
 
 ```
-npub1xekfp7j7rnuy5544wz3wfllfsqrrtt37zj4pzyje0m6wnazeq92qt9uztx
+npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2
 ```
 
 </details>
