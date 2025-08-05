@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 393ff5839c4ce9e06079c3e7adf1cc27  
-**Pulse**: Ghost in the Zip | New PXA Stealer and Its Telegram-Powered Ecosystem  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6890dc25c21f8e90f5941c10)
+**Threat Type**: Ipv4  
+**Indicator**: 104.238.220.216  
+**Pulse**: Active Exploitation of SonicWall VPNs  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6890cbb5ea3a135d64b186c0)
 
-<sub>_Last updated: 2025-08-05 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-05 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
