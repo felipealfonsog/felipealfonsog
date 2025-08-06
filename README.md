@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Active Exploitation of SonicWall VPNs  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6890cbb5ea3a135d64b186c0)
 
-<sub>_Last updated: 2025-08-06 00:08 UTC_</sub>
+<sub>_Last updated: 2025-08-06 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
