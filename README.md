@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Cve  
-**Indicator**: CVE-2024-3721  
-**Pulse**: ThrottleStop driver abused to terminate AV processes  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689349c2abe26c934858988e)
+**Indicator**: CVE-2024-38196  
+**Pulse**: Tracking Updates to Raspberry Robin  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894823cef05b4415dd5032a)
 
-<sub>_Last updated: 2025-08-07 06:03 UTC_</sub>
+<sub>_Last updated: 2025-08-07 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
