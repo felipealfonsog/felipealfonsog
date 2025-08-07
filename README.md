@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: ThrottleStop driver abused to terminate AV processes  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/689349c2abe26c934858988e)
 
-<sub>_Last updated: 2025-08-06 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-07 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
