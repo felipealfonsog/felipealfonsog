@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2024-38196  
-**Pulse**: Tracking Updates to Raspberry Robin  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894823cef05b4415dd5032a)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 16a8aaaf2e3125668e6bfb1705a065f9  
+**Pulse**: RoKRAT Shellcode and Steganographic Threats: Analysis and EDR Response Strategies  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68948bfbbc4dd6eff14c08cb)
 
-<sub>_Last updated: 2025-08-07 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-07 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
