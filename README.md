@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 16a8aaaf2e3125668e6bfb1705a065f9  
-**Pulse**: RoKRAT Shellcode and Steganographic Threats: Analysis and EDR Response Strategies  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68948bfbbc4dd6eff14c08cb)
+**Indicator**: 3ca2eaf204611f3314d802c8b794ae2c  
+**Pulse**: New Arsenal: LAMEHUG, the First AI-Powered Malware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68948bfb370ac711edbb5278)
 
-<sub>_Last updated: 2025-08-07 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-08 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
