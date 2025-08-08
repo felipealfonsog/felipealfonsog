@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: medienparadies.com  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 106506ebc7156be116fe5d2a4d662917ddbbfb286007b6ee7a2b01c9536b1ee4  
+**Pulse**: Exploitation of Leaked Machine Keys by Initial Access Broker  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/686e6de3779dc49cad71265b)
 
-<sub>_Last updated: 2025-08-08 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-08 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
