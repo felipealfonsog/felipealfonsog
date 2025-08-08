@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: New Arsenal: LAMEHUG, the First AI-Powered Malware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68948bfb370ac711edbb5278)
 
-<sub>_Last updated: 2025-08-08 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-08 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
