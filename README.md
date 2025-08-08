@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 3ca2eaf204611f3314d802c8b794ae2c  
-**Pulse**: New Arsenal: LAMEHUG, the First AI-Powered Malware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68948bfb370ac711edbb5278)
+**Threat Type**: Domain  
+**Indicator**: medienparadies.com  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-08-08 06:03 UTC_</sub>
+<sub>_Last updated: 2025-08-08 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
