@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 106506ebc7156be116fe5d2a4d662917ddbbfb286007b6ee7a2b01c9536b1ee4  
-**Pulse**: Exploitation of Leaked Machine Keys by Initial Access Broker  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/686e6de3779dc49cad71265b)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 25943b9db380c60d1f1a6ac7faf1507e  
+**Pulse**: Exposed JDWP Exploited in the Wild: What Happens When Debug Ports Are Left Open  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68962f0f91f8829022afff4a)
 
-<sub>_Last updated: 2025-08-08 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-09 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
