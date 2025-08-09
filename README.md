@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 25943b9db380c60d1f1a6ac7faf1507e  
-**Pulse**: Exposed JDWP Exploited in the Wild: What Happens When Debug Ports Are Left Open  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68962f0f91f8829022afff4a)
+**Indicator**: 07fbf46d3a595a6f82e477ed4571294b  
+**Pulse**: Analysis of APT-C-55 (Kimsuky) Organization's HappyDoor Backdoor Attack Based on VMP Strong Shell  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6870094726b379cd976c869b)
 
-<sub>_Last updated: 2025-08-09 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-09 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
