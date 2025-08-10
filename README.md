@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 07fbf46d3a595a6f82e477ed4571294b  
-**Pulse**: Analysis of APT-C-55 (Kimsuky) Organization's HappyDoor Backdoor Attack Based on VMP Strong Shell  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6870094726b379cd976c869b)
+**Indicator**: 1768c9971cea4cc10c7dd45a5f8f022a  
+**Pulse**: Deploying NetSupport RAT via WordPress & ClickFix  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6870355e6a5f2386068698a0)
 
-<sub>_Last updated: 2025-08-09 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-10 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
