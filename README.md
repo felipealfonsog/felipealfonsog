@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 1768c9971cea4cc10c7dd45a5f8f022a  
-**Pulse**: Deploying NetSupport RAT via WordPress & ClickFix  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6870355e6a5f2386068698a0)
+**Threat Type**: Cve  
+**Indicator**: CVE-2024-3721  
+**Pulse**: The Solidity Language open-source package was used in a $500,000 crypto heist  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6870b25f4c4c81689f7f0c75)
 
-<sub>_Last updated: 2025-08-10 00:08 UTC_</sub>
+<sub>_Last updated: 2025-08-10 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
