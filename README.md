@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2023-4966  
-**Pulse**: A Hybrid Approach with Data Exfiltration and Encryption  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687229325abbf82b9f462e99)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0668293c9f523f26babc09617063493b  
+**Pulse**: Operation DRAGONCLONE: Chinese Telecom Targeted by Malware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6842f45696f96557e5f757b1)
 
-<sub>_Last updated: 2025-08-11 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-11 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
