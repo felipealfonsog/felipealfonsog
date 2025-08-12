@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: andbien.ru  
-**Pulse**: Gamaredon in 2024: Cranking out spearphishing campaigns against Ukraine with an evolved toolset  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6867ae2d0a53dfda37955c4b)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0668293c9f523f26babc09617063493b  
+**Pulse**: Operation DRAGONCLONE: Chinese Telecom Targeted by Malware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6842f45696f96557e5f757b1)
 
-<sub>_Last updated: 2025-08-04 00:08 UTC_</sub>
+<sub>_Last updated: 2025-08-12 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -77,7 +77,9 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
   > "We must cultivate, all of us, a certain ignorance, a certain blindness, or society will not be tolerable." ~ [J.M. Coetzee](https://es.wikipedia.org/wiki/J._M._Coetzee), Disgrace 
 
-  > "The time is the matter of which I have been created." ~ [Nicanor Parra](https://es.wikipedia.org/wiki/Nicanor_Parra) 
+  > "The time is the matter of which I have been created." ~ [Nicanor Parra](https://es.wikipedia.org/wiki/Nicanor_Parra)
+  
+  > "You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart even when it leads you off the well worn path; and that will make all the difference." ~ [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) [Stanford commencement speech, June 2005] 
 
   > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade. Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ [Felipe Alfonso González L.](https://en.wikipedia.org/wiki/User:Felipealfonsog)  ∴
 </details>
@@ -359,7 +361,7 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 03 August 2025
+From: 04 December 2023 - To: 11 August 2025
 
 Total Time: 764 hrs 36 mins
 
