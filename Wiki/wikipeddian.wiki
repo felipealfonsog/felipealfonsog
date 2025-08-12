@@ -58,8 +58,8 @@ Lambda symbolizes theory in computing; diagram shows computing fields.
 | ethnicity        = European / Latin American (family origins in Catalonia and Aragon, Spain – Sephardic Jewish roots)
 | religion = Secular Atheist, practicing Zen Buddhism as a philosophical and meditative path. I am aligned with Freemasonry, drawn to its ethical values, personal growth, and self-development. I am of Sephardic Jewish descent.
 | occupation       = Computer Science Engineer
-| education = [[:es:Universidad_Mayor|Universidad Mayor]]<br>[[:es:Instituto_Profesional_IACC|Instituto Profesional IACC]]
-| employer         = Adviser, Researcher and Analyst in Cybersecurity and Cyber Intelligence
+| education = [[:es:Instituto_Profesional_AIEP|Instituto Profesional AIEP]]<br>[[:es:Universidad_Mayor|Universidad Mayor]]<br>[[:es:Instituto_Profesional_IACC|Instituto Profesional IACC]]
+| employer         = Adviser, Researcher. [[Systems architect]] and Analyst in Cybersecurity and Cyber Intelligence
 | status           = active
 | location = Santiago, Chile
 | country = {{CHL}} <br />Previously: India, South Africa, New Zealand, California (US), Zürich (Switzerland)
@@ -80,7 +80,7 @@ Lambda symbolizes theory in computing; diagram shows computing fields.
 
 '''Felipe Alfonso González''' is a [[Computer Science]] [[Engineer]] from [[Chile]], specialized in [[Systems architecture]] and [[Cybersecurity]], with a strong background in [[cyberintelligence]] and [[software engineering]]. His professional focus lies in research and development within areas such as [[data engineering]], [[machine learning]], [[cybersecurity]], and [[computer science]] theory.
 
-González began his engagement with computing technologies in the mid-1980s, during the early days of the [[Internet]], when access often required dial-up connections and the manual compilation of the [[Unix]] or [[GNU/Linux]] [[kernel (operating system)|kernel]]. He has expressed particular interest in [[FreeBSD]], [[Debian]], and [[Arch Linux]], and maintains an appreciation for [[macOS]] due to its BSD origins.
+González began his engagement with computing technologies in the mid-1990s, during the early days of the [[Internet]], when access often required dial-up connections and the manual compilation of the [[Unix]] or [[GNU/Linux]] [[kernel (operating system)|kernel]]. He has expressed particular interest in [[FreeBSD]], [[Debian]], and [[Arch Linux]], and maintains an appreciation for [[macOS]] due to its BSD origins.
 
 Over the course of more than two decades, González has contributed to global technology projects across [[Europe]], the [[United States]], and [[South America]], holding roles ranging from software engineer to Head of Engineering. He has led teams and conducted advanced research in areas including [[advanced algorithms]], [[data science]], [[functional programming]], [[object-oriented programming]], [[stochastic programming]], and [[mathematical optimization]]. His expertise extends to [[statistical analysis]], [[database]] systems, [[refactoring]], and [[software architecture]].
 
