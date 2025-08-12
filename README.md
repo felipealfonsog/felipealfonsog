@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Operation DRAGONCLONE: Chinese Telecom Targeted by Malware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6842f45696f96557e5f757b1)
 
-<sub>_Last updated: 2025-08-12 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-12 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
