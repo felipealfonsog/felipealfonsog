@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 107.191.58.76  
-**Pulse**: ToolShell: An all-you-can-eat buffet for threat actors  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689b1b3eccb7ac11fb95c4d1)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 063770f7e7eb52d83c97aa63c0a6f8a6  
+**Pulse**: A New Threat Actor Targeting Geopolitical Hotbeds  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689b565c2e425682d6ad72ef)
 
-<sub>_Last updated: 2025-08-12 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-12 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
