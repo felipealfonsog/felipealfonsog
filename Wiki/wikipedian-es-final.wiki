@@ -1,0 +1,117 @@
+[[en:User:Felipealfonsog]]
+Puedes visitar mi página de usuario en Wikipedia en inglés aquí: [https://en.wikipedia.org/wiki/User:Felipealfonsog Página de usuario en inglés].
+
+{{Ficha de usuario
+|nombre              = Felipe Alfonso González
+|imagen              = Perpicfagv2.jpg
+|tamaño de imagen    = 90px
+|pie de imagen       = Foto de perfil
+|fecha de nacimiento = {{fecha|3|1979}}
+|nacionalidad        = Chilena
+|idiomas             = Español, Inglés, Francés, Afrikaans
+|fecha de ingreso    = {{usuario desde|2014|9|26}}
+|ocupaciones         = Ingeniero en Ciencias de la Computación
+|estudios            = [[Instituto Profesional AIEP]]<br>[[Universidad Mayor]]<br>[[Instituto Profesional IACC]]
+|empleador           = Asesor, Investigador, Arquitecto de Sistemas y Analista en Ciberseguridad e Inteligencia Cibernética
+|estado              = Activo
+|residencia          = Santiago, Chile
+|país                = Anteriormente: India, Sudáfrica, Nueva Zelanda, California (EE. UU.), Zúrich (Suiza)
+|sitio web           = [https://www.gnlz.cl www.gnlz.cl]
+|linkedin            = felipealfonsog
+|github              = felipealfonsog
+|twitter             = felipealfonsog
+|creencias           = Ateo secular, practicante del budismo zen como camino filosófico y meditativo; alineado con la masonería; de descendencia judía sefardí
+|origen étnico       = Europeo / Latinoamericano (familia originaria de Cataluña y Aragón, España – raíces judías sefardíes)
+}}
+
+'''Felipe Alfonso González''' es un [[Ingeniero en Ciencias de la Computación]] chileno, especializado en [[arquitectura de sistemas]] y [[ciberseguridad]], con sólida experiencia en [[ciberinteligencia]] e [[ingeniería de software]]. Su enfoque profesional está orientado a la investigación y desarrollo en áreas como [[ingeniería de datos]], [[aprendizaje automático]], [[ciberseguridad]] y teoría de la [[ciencia de la computación]].
+
+González inició su vínculo con las tecnologías informáticas a mediados de los años 1990, cuando el acceso a Internet a menudo requería conexiones dial-up y la compilación manual del núcleo de [[Unix]] o [[GNU/Linux]]. Manifestó un interés especial por [[FreeBSD]], [[Debian]] y [[Arch Linux]], y mantiene afinidad por [[macOS]] debido a sus orígenes BSD.
+
+Durante más de dos décadas, ha contribuido a proyectos tecnológicos globales en [[Europa]], los [[Estados Unidos]] y [[Sudamérica]], desempeñando roles que van desde ingeniero de software hasta jefe de ingeniería. Ha liderado equipos e investigado en áreas como [[algoritmos avanzados]], [[ciencia de datos]], [[programación funcional]], [[programación orientada a objetos]], [[programación estocástica]] y [[optimización matemática]]. Su expertise también incluye [[análisis estadístico]], sistemas de [[bases de datos]], refactorización y arquitectura de software.
+
+González ha vivido y trabajado en varios países, incluidos [[India]] (Nueva Delhi), [[Nueva Zelanda]] (Auckland y Christchurch), [[Estados Unidos]] (California) y [[Sudáfrica]] (Ciudad del Cabo). Es fluido en [[español]], [[inglés]] y [[afrikaans]].
+
+Además de su trabajo técnico, ha colaborado con figuras destacadas del ámbito tecnológico y empresarial, incluyendo el emprendedor chileno [[Leo Prieto]].
+
+== Formación académica ==
+[[File:Informatik thumb.png|thumb|right|190px|Resumen visual de campos dentro de la informática y ciencias de la computación. El símbolo lambda representa, aunque no es oficial, la teoría de lenguajes de programación, y cada vez más, la ciencia de la computación teórica.]]
+
+Felipe Alfonso González cursó estudios formales en informática, ciberseguridad e inteligencia empresarial en diversas instituciones en [[Chile]], [[España]] y los [[Estados Unidos]].
+
+Estudió en la '''Universidad Mayor''' (2007–2011) en [[Providencia]], [[Santiago]], donde fue miembro activo del grupo de usuarios de Linux de la universidad.
+
+Se tituló con máxima distinción como Ingeniero en Ciencias de la Computación en el '''Instituto Profesional IACC''', como parte de un programa de continuidad profesional en informática e ingeniería software. Su tesis fue realizada en la sede de Providencia.
+
+Es candidato a máster en '''Big Data e Inteligencia Empresarial''' en la **Escuela de Negocios Europea de Barcelona (ENEB)**, asociada a la [[Universidad Isabel I]] (España), bajo la dirección del profesor Alberto de la Fuente.
+
+Completó el programa **Cybersecurity MicroMasters®** del '''Rochester Institute of Technology (RIT)''' a través de la plataforma [[edX]], en colaboración con [[IBM]], obteniendo un Certificado Profesional en Ciberseguridad, bajo el profesor Jonathan S. Weissman.
+
+También es candidato al '''Diploma Avanzado en Ciberseguridad y Ciberinteligencia''' del '''EC-Council''' (Consejo Internacional de Consultores de Comercio Electrónico), con sede en [[Albuquerque, Nuevo México]], bajo la dirección del profesor Nathan Crosswell.
+
+Participó en el programa XSeries de '''MITx (Massachusetts Institute of Technology)''' en edX. Entre 2019 y 2020 completó cursos como ''Introducción a la Informática y Programación usando Python'' e ''Introducción al Pensamiento Computacional y Ciencia de Datos'', diseñados para desarrollar pensamiento computacional con Python, abordando temas como mecanismos de cómputo, complejidad algorítmica y depuración.
+
+Asimismo, cursó programas archivados del MITx que incluyen:
+* ''Estructuras de Datos y Diseño de Software'' (2019)
+* ''Microeconomía AP'' (2019)
+* ''Fundamentos de Ingeniería de Software'' (2020)
+* ''Desarrollo de aplicaciones web con Node.js'' (2020)
+
+Posee un '''Diploma en Ingeniería Avanzada y Sistemas Complejos''' del '''MIT''' dentro del programa profesional en línea en Arquitectura e Ingeniería de Sistemas.
+
+En 2016 obtuvo la certificación '''CompTIA Linux+''' mediante '''CyberTraining 365''', en seguridad informática, incluyendo módulos sobre el Reglamento General de Protección de Datos (GDPR) y concientización sobre ciberseguridad.
+
+Asimismo, cuenta con un Certificado Profesional en Ciberseguridad de '''IBM''' vía edX, formando parte de un programa extendido MicroMasters.
+
+Realizó cursos adicionales del MicroMasters de '''RITx''', centrados en investigación de ciberpsicografía y Big Data bajo la dirección del profesor Weissman.
+
+== Intereses de estudio e investigación ==
+Sus intereses abarcan diversas áreas de la informática, las matemáticas, la ingeniería y la ciberseguridad, entre ellas:
+
+* Matemáticas e informática: estructuras de datos, álgebra, cálculo, álgebra lineal, ecuaciones diferenciales, métodos numéricos, matemáticas discretas, diseño y análisis de algoritmos, [[aprendizaje automático]], [[inteligencia artificial]], programación funcional, POO, optimización, teoría de decisiones, teoría de juegos, [[criptografía]], bioinformática, procesamiento del lenguaje natural, complejidad computational, [[computación cuántica]] y [[tecnología blockchain]].
+* Programación avanzada e ingeniería de software: refactorización, división de código, testing, gestión de proyectos, arquitectura de sistemas, escritura técnica y debugging.
+* Ciencia de datos y análisis: analítica de Big Data, modelado de datos, análisis estadístico, teoría de probabilidad y algoritmos de optimización.
+* Ciberseguridad: hacking ético, pruebas de penetración, ingeniería social, evaluación de vulnerabilidades, inteligencia de amenazas, respuesta a incidentes, forense digital, análisis de malware, firewalls, detección/previsión de intrusiones, arquitectura segura y seguridad en la nube.
+* Tecnologías emergentes: Internet de las cosas (IoT), sistemas embebidos, computación móvil, realidad aumentada, realidad virtual e interacción humano-computadora.
+* Temas especializados: inteligencia computacional, robótica, gráficos por computadora, procesamiento de imágenes, metodologías de ingeniería de software y sistemas de gestión de bases de datos.
+
+Su interés principal se encuentra en la intersección entre ciberseguridad y ciencia de datos, y su aplicación en problemas reales, como mejorar la seguridad y el rendimiento de sistemas a gran escala, análisis comportamental y detección de amenazas mediante machine learning.
+
+== Artículos publicados y proyectos en curso ==
+Ha publicado y trabaja activamente en diversos trabajos de investigación:
+
+* "Analysis & Modeling of Psychographic Data on the Internet Using Machine learning for Organizations, Private Companies & Governments" — proyecto de tesis en Ingeniería de Ciencias de la Computación en IACC.
+* "Reassessing the Efficacy of Code Challenges: Debunking the Notion of an Engineer as an All-Knowing AI".
+* "Reevaluating Agile software development Methodologies in Software and Data Engineering: A Critical Examination of Efficacy and Counterproductivity" — en curso.
+* "Unveiling the Dark Side of Boot Camps and Paid Courses in IT: The Erosion of Engineering Depth and Trust in the Industry" — en curso.
+* "Empowering Lifelong Learning: How Online education is Shaping and Will Shape the Future of Higher Education Graduates" — en curso.
+* "Enhancing Cyber Intelligence Capabilities: The Crucial Role of Cyber intelligence in Modern Intelligence agencies" — en curso.
+
+== Vida personal ==
+Felipe Alfonso González es ingeniero en computación especializado como arquitecto de sistemas, cursa un máster en Big Data e Inteligencia Empresarial y se dedica activamente a la ciberseguridad y proyectos de código abierto. También es docente en línea y miembro de la comunidad de GitHub como colaborador y mantenedor.
+
+Es masón afiliado a la *Logia Masónica Lumen Interioris Nº 137* en Chile, una tradición familiar con vínculos en la *Gran Logia de Chile*. Entre sus parientes destacan su primo Santiago González L., ex *Ministro de Minería de Chile* y actual *Rector de la Universidad Central de Chile*, su padre Alfonso González Márquez, ex jefe general de la Policía de Investigaciones (PDI), y su tío senador Carlos González Márquez.
+
+Practicante del budismo zen, ofrece conferencias en **InsightTimer**. Amante de la música —toca bajo eléctrico Ibanez GSRM20B miKro, especialmente jazz y blues— y comparte listas en **Spotify**.
+
+Practica Brazilian Jiu-Jitsu (BJJ), realiza zazen y promueve el bienestar animal, apoyando causas como **PETA**. Ha sido líder Rover en los Scouts de Chile con la Gran Logia de Chile, promoviendo liderazgo y servicio juvenil.
+
+Le encanta la lectura, explorando temas desde tecnología hasta filosofía, y comparte sus lecturas en **Goodreads**.
+
+== Véase también ==
+* [[Ciencia de la computación]]
+* [[Ingeniería de sistemas]]
+* [[Ciberseguridad]]
+* [[Aprendizaje automático]]
+* [[Ingeniería de software]]
+
+== Enlaces externos ==
+* [https://www.gnlz.cl/ Sitio web personal]
+* [https://www.linkedin.com/in/felipealfonsog/ Perfil en LinkedIn]
+* [https://github.com/felipealfonsog/ Github]
+* [https://twitter.com/felipealfonsog/ Twitter (X)]
+
+[[es:Usuario:Felipealfonsog]]
+[[eo:Usuario:Felipealfonsog]]
+[[Categoría:Wikipedistas de Chile|Felipealfonsog]]
+[[Categoría:Wikipedistas en Santiago|Felipealfonsog]]
