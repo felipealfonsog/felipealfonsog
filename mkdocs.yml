@@ -1,37 +1,38 @@
-site_name: Felipe's Mini Wikipedia
-site_url: https://felipealfonsog.github.io/felipealfonsog/
-site_description: "A personal mini Wikipedia in English"
-site_author: Felipe
-
-docs_dir: Wiki
-
-nav:
-  - Home: index.md
-  - Article 1: article1.md
-  - Article 2: article2.md
+# mkdocs.yml
+site_name: Felipe Alfonso G. - Wiki
+site_url: https://felipealfonsog.github.io/tu-repositorio/ # <-- ¡Importante! Reemplaza 'tu-repositorio'
+repo_url: https://github.com/felipealfonsog/tu-repositorio/ # <-- ¡Importante! Reemplaza 'tu-repositorio'
+repo_name: felipealfonsog/tu-repositorio
 
 theme:
   name: material
   palette:
+    # Paleta para modo claro
     - scheme: default
-      primary: blue
-      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Paleta para modo oscuro
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
-    - navigation.top
     - navigation.tabs
-    - search.highlight
+    - navigation.top
     - search.suggest
+    - search.highlight
 
-markdown_extensions:
-  - admonition
-  - toc:
-      permalink: true
-  - tables
-  - footnotes
-  - def_list
-  - codehilite
-  - attr_list
-  - md_in_html
+# Directorio donde están los archivos Markdown
+docs_dir: 'Wiki'
 
+# Archivos de estilo personalizados
 extra_css:
   - css/wiki-style.css
+
+# Estructura de navegación
+nav:
+  - 'Inicio': 'index.md'
+  - 'Artículo 1': 'article1.md'
+  - 'Artículo 2': 'article2.md'
+  # ... y así sucesivamente para los demás artículos
