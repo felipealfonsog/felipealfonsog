@@ -1,0 +1,19 @@
+.md-content {
+    font-family: "Georgia", serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.2em;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
