@@ -1,19 +1,93 @@
-.md-content {
-    font-family: "Georgia", serif;
-    line-height: 1.6;
+/* Wiki/css/wiki-style.css */
+
+/* Estilo para el Infobox (la caja de información de la derecha) */
+.infobox {
+    background-color: #f9f9f9;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    float: right;
+    width: 280px;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    font-size: 0.9em;
+    line-height: 1.4;
 }
 
-h1, h2, h3 {
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 0.2em;
-}
-
-table {
-    border-collapse: collapse;
+.infobox table {
     width: 100%;
+    border-collapse: collapse;
 }
 
-table, th, td {
-    border: 1px solid #ddd;
+.infobox .infobox-header {
+    background-color: #e3e3e3;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
     padding: 8px;
+}
+
+.infobox .infobox-image {
+    text-align: center;
+    padding: 10px;
+}
+
+.infobox .infobox-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%; /* Para hacer la imagen de perfil redonda */
+}
+
+.infobox .infobox-caption {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9em;
+    padding: 0 10px 10px 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.infobox .infobox-label {
+    font-weight: bold;
+    padding: 5px 10px;
+    background-color: #f0f0f0;
+    width: 35%; /* Ancho de las etiquetas */
+    vertical-align: top;
+}
+
+.infobox .infobox-data {
+    padding: 5px 10px;
+    vertical-align: top;
+}
+
+.infobox .userboxes {
+    padding: 10px;
+    border-top: 1px solid #ddd;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+}
+
+/* Estilo para imágenes flotantes en el texto principal */
+.img-float-right {
+    float: right;
+    margin: 0 0 1em 1em;
+    border: 1px solid #ddd;
+    padding: 3px;
+    background: #f9f9f9;
+}
+
+.img-float-right img {
+    max-width: 100%;
+    display: block;
+}
+
+.img-float-right figcaption {
+    font-size: 0.85em;
+    text-align: center;
+    padding: 5px;
+}
+
+/* Limpiar flotantes para que el siguiente contenido no se envuelva */
+.clear {
+    clear: both;
 }
