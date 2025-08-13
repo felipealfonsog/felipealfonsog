@@ -1,15 +1,27 @@
 site_name: Felipe Alfonso González Wiki
-site_description: Personal and professional wiki of Felipe Alfonso González
-site_author: Felipe Alfonso González
+site_url: https://felipealfonsog.github.io/Wiki/
+docs_dir: Wiki
+site_dir: site
+
 theme:
   name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.annotate
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+  icon:
+    repo: fontawesome/brands/github
+
 nav:
-  - Home: Wiki/index.md
-  - Articles: Wiki/articles1.md
-markdown_extensions:
-  - admonition
-  - toc:
-      permalink: true
-  - tables
+  - Home: index.md
+  - Articles: articles1.md
+
 extra_css:
-  - css/wiki-style.css
+  - css/custom.css
+
+repo_url: https://github.com/felipealfonsog
+repo_name: GitHub
