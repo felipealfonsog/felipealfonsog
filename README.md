@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: articheck.ch  
-**Pulse**: "Click to Allow" Robot Exposes Online Fraud Empire  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689b8df946fb62b515c0392e)
+**Threat Type**: Ipv4  
+**Indicator**: 181.174.164.117  
+**Pulse**: Malvertising campaign leads to PS1Bot, a multi-stage malware framework  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689bb3c9004eca543a36d5fc)
 
-<sub>_Last updated: 2025-08-13 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-13 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
