@@ -1,10 +1,16 @@
-# Page 1: Academic Papers
+# Research & Study Interests
 
-Felipe has published several papers:
+## Mathematics & Computer Science
+Data structures, algorithms, cryptography, quantum computing, blockchain.
 
-- "Analysis & Modeling of Psychographic Data on the Internet Using Machine Learning"  
-- "Reassessing the Efficacy of Code Challenges"  
-- "Reevaluating Agile Software Development Methodologies"  
+## Software Engineering
+Refactoring, system architecture, agile methodologies, debugging.
 
-!!! note "Tip"
-    You can add more papers or link to external PDF files.
+## Data Science
+Big data analytics, statistical analysis, optimization.
+
+## Cybersecurity
+Ethical hacking, threat intelligence, digital forensics, penetration testing.
+
+## Emerging Technologies
+IoT, AR/VR, embedded systems, HCI.
