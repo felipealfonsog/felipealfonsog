@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 063770f7e7eb52d83c97aa63c0a6f8a6  
-**Pulse**: A New Threat Actor Targeting Geopolitical Hotbeds  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689b565c2e425682d6ad72ef)
+**Threat Type**: Domain  
+**Indicator**: articheck.ch  
+**Pulse**: "Click to Allow" Robot Exposes Online Fraud Empire  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689b8df946fb62b515c0392e)
 
-<sub>_Last updated: 2025-08-12 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-13 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
