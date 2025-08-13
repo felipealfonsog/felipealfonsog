@@ -1,0 +1,37 @@
+site_name: Felipe's Mini Wikipedia
+site_url: https://felipealfonsog.github.io/felipealfonsog/
+site_description: "A personal mini Wikipedia in English"
+site_author: Felipe
+
+docs_dir: Wiki
+
+nav:
+  - Home: index.md
+  - Article 1: article1.md
+  - Article 2: article2.md
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+  features:
+    - navigation.top
+    - navigation.tabs
+    - search.highlight
+    - search.suggest
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
+  - def_list
+  - codehilite
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - css/wiki-style.css
