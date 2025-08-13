@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Ipv4  
-**Indicator**: 181.174.164.117  
-**Pulse**: Malvertising campaign leads to PS1Bot, a multi-stage malware framework  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689bb3c9004eca543a36d5fc)
+**Indicator**: 45.227.254.113  
+**Pulse**: Coordinated Brute Force Campaign Targets Fortinet SSL VPN  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689cc45a7e90faee364f64cf)
 
-<sub>_Last updated: 2025-08-13 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-13 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
