@@ -1,89 +1,142 @@
-# Felipe Alfonso González
+> "We must elevate ourselves above the dust of the world, and seek that Light which alone can guide us to the Temple of Truth."
+>
+> — *Albert Pike*
 
-![Profile Picture](assets/Perpicfagv2.jpg){ width=85 }
+<div class="infobox">
+    <table>
+        <tr>
+            <th colspan="2" class="infobox-header">Felipe Alfonso González</th>
+        </tr>
+        <tr>
+            <td colspan="2" class="infobox-image">
+                <img src="images/Perpicfagv2.jpg" alt="Profile Picture" style="width: 85px; height: 85px;">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" class="infobox-caption">Profile Picture</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Nacimiento</td>
+            <td class="infobox-data">1979 (46 años)</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Nacionalidad</td>
+            <td class="infobox-data">Chilena</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Etnicidad</td>
+            <td class="infobox-data">Europea / Latinoamericana (orígenes familiares en Cataluña y Aragón, España – raíces judías sefardíes)</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Idiomas</td>
+            <td class="infobox-data">Español, Inglés, Francés, Afrikáans</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Religión</td>
+            <td class="infobox-data">Ateo secular, practicante del Budismo Zen como camino filosófico y meditativo. Afín a la Francmasonería por sus valores éticos y desarrollo personal. Descendencia judía sefardí.</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Educación</td>
+            <td class="infobox-data">
+                Instituto Profesional AIEP<br>
+                Universidad Mayor<br>
+                Instituto Profesional IACC
+            </td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Ocupación</td>
+            <td class="infobox-data">Ingeniero en Informática</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Cargo</td>
+            <td class="infobox-data">Asesor, Investigador. Arquitecto de Sistemas y Analista en Ciberseguridad y Ciberinteligencia.</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Ubicación</td>
+            <td class="infobox-data">
+                Santiago, Chile 🇨🇱<br>
+                <small>Anteriormente: India, Sudáfrica, Nueva Zelanda, California (EE.UU.), Zúrich (Suiza)</small>
+            </td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Email</td>
+            <td class="infobox-data"><a href="mailto:felipe.gonzalez@gnlz.cl">felipe.gonzalez@gnlz.cl</a></td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Sitio Web</td>
+            <td class="infobox-data"><a href="https://www.gnlz.cl" target="_blank">www.gnlz.cl</a></td>
+        </tr>
+        <tr>
+            <td class="infobox-label">LinkedIn</td>
+            <td class="infobox-data"><a href="https://www.linkedin.com/in/felipealfonsog" target="_blank">felipealfonsog</a></td>
+        </tr>
+        <tr>
+            <td class="infobox-label">GitHub</td>
+            <td class="infobox-data"><a href="https://github.com/felipealfonsog" target="_blank">felipealfonsog</a></td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Twitter (X)</td>
+            <td class="infobox-data"><a href="https://twitter.com/felipealfonsog" target="_blank">felipealfonsog</a></td>
+        </tr>
+        <tr>
+            <td colspan="2" class="userboxes">
+                <img src="https://via.placeholder.com/200x25/f0f0f0/000000?text=Wikipedista+desde+26-09-2014" alt="Wikipedian since 2014">
+                <img src="https://via.placeholder.com/200x25/1793D1/FFFFFF?text=Arch+Linux+User" alt="Arch Linux User">
+                <img src="https://via.placeholder.com/200x25/AB2B28/FFFFFF?text=FreeBSD+User" alt="FreeBSD User">
+            </td>
+        </tr>
+    </table>
+</div>
 
-> *"We must elevate ourselves above the dust of the world, and seek that Light which alone can guide us to the Temple of Truth."*  
-> — Albert Pike
+**Felipe Alfonso González** es un Ingeniero en [Informática](computer_science.md) de [Chile](chile.md), especializado en [Arquitectura de Sistemas](systems_architecture.md) y [Ciberseguridad](cybersecurity.md), con una sólida formación en [ciberinteligencia](cyberintelligence.md) e [ingeniería de software](software_engineering.md). Su enfoque profesional se centra en la investigación y el desarrollo en áreas como [ingeniería de datos](data_engineering.md), [aprendizaje automático](machine_learning.md), [ciberseguridad](cybersecurity.md) y teoría de la [informática](computer_science.md).
 
----
+## Perfil Académico
 
-## Información Personal
+<figure class="img-float-right" style="width: 190px;">
+  <img src="images/Informatik_thumb.png" alt="Visual summary of computing fields">
+  <figcaption>Un resumen visual de los campos de la computación. El símbolo lambda (λ) representa comúnmente la teoría de lenguajes de programación.</figcaption>
+</figure>
 
-| Campo         | Detalle |
-|---------------|---------|
-| **Nombre** | Felipe Alfonso González |
-| **Nacionalidad** | Chileno |
-| **Idiomas** | Español, Inglés, Francés, Afrikaans |
-| **Nacimiento** | 1979 |
-| **Ubicación Actual** | Santiago, Chile |
-| **Residencias Previas** | India, Sudáfrica, Nueva Zelanda, California (EE. UU.), Zúrich (Suiza) |
-| **Ocupación** | Ingeniero en Ciencias de la Computación |
-| **Especialidad** | Arquitectura de Sistemas, Ciberseguridad, Ciberinteligencia |
-| **Correo** | [felipe.gonzalez@gnlz.cl](mailto:felipe.gonzalez@gnlz.cl) |
-| **Sitio Web** | [www.gnlz.cl](https://www.gnlz.cl) |
-| **LinkedIn** | [felipealfonsog](https://www.linkedin.com/in/felipealfonsog/) |
-| **GitHub** | [felipealfonsog](https://github.com/felipealfonsog) |
-| **Twitter/X** | [@felipealfonsog](https://twitter.com/felipealfonsog) |
+Felipe Alfonso González ha cursado estudios formales en informática, ciberseguridad e inteligencia de negocios en diversas instituciones de **Chile**, **España** y **Estados Unidos**.
 
----
+Estudió en la **Universidad Mayor** (2007–2011), ubicada en Providencia, Santiago, donde fue miembro activo del Grupo de Usuarios de Linux de la universidad.
 
-## Resumen Profesional
+... y así sucesivamente con el resto del contenido.
 
-Soy un ingeniero en Ciencias de la Computación con más de 20 años de experiencia, especializado en **arquitectura de sistemas** y **ciberseguridad**, con un fuerte enfoque en **ciberinteligencia**, **data engineering**, **machine learning** y **teoría de la computación**.  
-He trabajado en proyectos internacionales en Europa, EE. UU. y Sudamérica, liderando equipos y desarrollando soluciones en **algoritmos avanzados**, **programación funcional y orientada a objetos**, **optimización matemática**, **análisis estadístico** y **arquitectura de software**.
+<div class="clear"></div> ```
 
----
+### Paso 4: Automatizar con GitHub Actions
 
-## Formación Académica
+Este archivo le dice a GitHub que construya y despliegue tu sitio cada vez que actualices la rama `main`.
 
-- **Ingeniería en Ciencias de la Computación** – Instituto Profesional IACC, Chile  
-- **Universidad Mayor**, Chile  
-- **Big Data & Business Intelligence (Máster)** – ENEB / Universidad Isabel I, España *(En curso)*  
-- **Cybersecurity MicroMasters® Program** – Rochester Institute of Technology (RITx) / IBM @ edX  
-- **Advanced Diploma in Cybersecurity & Cyberintelligence** – EC-Council *(En curso)*  
-- **XSeries Program in Architecture and Engineering** – Massachusetts Institute of Technology (MITx)  
-- **CompTIA Linux+ Certification** – CyberTraining 365  
-- Cursos adicionales: Data Science, Web App Development, Software Engineering, Computational Thinking, Python Programming.
+Crea el archivo `.github/workflows/deploy-wiki.yml`:
 
----
+```yaml
+# .github/workflows/deploy-wiki.yml
+name: Deploy Wiki to GitHub Pages
 
-## Áreas de Investigación e Interés
+on:
+  push:
+    branches:
+      - main  # o 'master', dependiendo de tu rama principal
 
-- **Matemáticas y Ciencia de la Computación**: Estructuras de datos, álgebra, cálculo, teoría de la complejidad, criptografía, computación cuántica.
-- **Ingeniería de Software**: Refactorización, arquitectura de sistemas, metodologías ágiles, depuración.
-- **Ciencia de Datos**: Big data analytics, modelado de datos, optimización.
-- **Ciberseguridad**: Ethical hacking, threat intelligence, análisis forense digital.
-- **Tecnologías Emergentes**: IoT, realidad aumentada, realidad virtual, HCI.
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
 
----
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
 
-## Publicaciones y Proyectos de Investigación
+      - name: Install dependencies
+        run: |
+          pip install mkdocs
+          pip install mkdocs-material
 
-1. **Analysis & Modeling of Psychographic Data on the Internet Using Machine Learning** – Tesis en Ingeniería en Ciencias de la Computación, IACC.
-2. **Reassessing the Efficacy of Code Challenges: Debunking the Notion of an Engineer as an All-Knowing AI**.
-3. **Reevaluating Agile Software Development Methodologies** – En progreso.
-4. **Unveiling the Dark Side of Boot Camps and Paid Courses in IT** – En progreso.
-5. **Enhancing Cyber Intelligence Capabilities** – En progreso.
-
----
-
-## Vida Personal
-
-- **Filosofía**: Ateo secular, practicante de Budismo Zen.
-- **Masonería**: Miembro de la Logia Masónica Lumen Interioris Nº 137 (Chile).
-- **Música**: Bajista (Ibanez GSRM20B miKro) en jazz y blues.
-- **Deporte**: Jiu-Jitsu Brasileño (BJJ) y meditación Zazen.
-- **Activismo**: Apoyo a PETA y organizaciones de bienestar animal.
-- **Scoutismo**: Ex-líder Rover Scout en la Agrupación Nacional de Boy Scouts de Chile.
-
----
-
-## Enlaces
-
-- 🌐 [Sitio Web](https://www.gnlz.cl)
-- 💼 [LinkedIn](https://www.linkedin.com/in/felipealfonsog/)
-- 💻 [GitHub](https://github.com/felipealfonsog)
-- 🐦 [Twitter/X](https://twitter.com/felipealfonsog)
-- 📚 [Goodreads](https://www.goodreads.com)
-
----
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
