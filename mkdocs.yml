@@ -1,38 +1,15 @@
-# mkdocs.yml
-site_name: Felipe Alfonso G. - Wiki
-site_url: https://felipealfonsog.github.io/tu-repositorio/ # <-- ¡Importante! Reemplaza 'tu-repositorio'
-repo_url: https://github.com/felipealfonsog/tu-repositorio/ # <-- ¡Importante! Reemplaza 'tu-repositorio'
-repo_name: felipealfonsog/tu-repositorio
-
+site_name: Felipe Alfonso González Wiki
+site_description: Personal and professional wiki of Felipe Alfonso González
+site_author: Felipe Alfonso González
 theme:
   name: material
-  palette:
-    # Paleta para modo claro
-    - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Paleta para modo oscuro
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-  features:
-    - navigation.tabs
-    - navigation.top
-    - search.suggest
-    - search.highlight
-
-# Directorio donde están los archivos Markdown
-docs_dir: 'Wiki'
-
-# Archivos de estilo personalizados
+nav:
+  - Home: Wiki/index.md
+  - Articles: Wiki/articles1.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
 extra_css:
   - css/wiki-style.css
-
-# Estructura de navegación
-nav:
-  - 'Inicio': 'index.md'
-  - 'Artículo 1': 'article1.md'
-  - 'Artículo 2': 'article2.md'
-  # ... y así sucesivamente para los demás artículos
