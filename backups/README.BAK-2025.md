@@ -8,7 +8,7 @@
 
 ### Hi there! 👋
 
-I'm [Felipe](https://en.wikipedia.org/wiki/User:Felipealfonsog)!, a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), 
+I'm Felipe, a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), 
 Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_architect) and with a strong interest in data-related fields and [R+D](https://en.wikipedia.org/wiki/Research_and_development) ([I+D](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_y_desarrollo)). Along with that I'm also focused on teaching online as a [lecturer](https://en.wikipedia.org/wiki/Lecturer). Currently, I am pursuing a [Master's degree](https://en.wikipedia.org/wiki/Master%27s_degree) program in [Big Data](https://en.wikipedia.org/wiki/Big_data) & [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence). Currently, active in the realm of [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security) - [Cyberintelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) - [[Personal PGP Public Key]](#pgp-public-key) - alongside my studies, even though I am always [coding](https://en.wikipedia.org/wiki/Computer_programming) and deepening my understanding of different subjects. I'm a member of the [GitHub community](https://github.com/community) and part of the team of maintainers. In my leisure time, I enjoy reading, playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) (BJJ), [Zazen](https://en.wikipedia.org/wiki/Zazen) (*Zazen in Wikipedia Spanish [here](https://es.wikipedia.org/wiki/Zazen)*) which is a form of [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness). I enjoy listening to music -check out my [Spotify profile](https://open.spotify.com/user/12133266428)-, I have a deep love for animals and nature. As a former [Rover Scout Leader](https://en.wikipedia.org/wiki/Rover_Scout) with the *Agrupación Nacional de Boy Scouts de Chile ([Wikipedia](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile) - [Website](https://boyscouts.cl/))* - supported mostly by the [Great Lodge of Chile](https://www.granlogia.cl) -, I wholeheartedly support their mission and values. Additionally, I stand with [PETA](https://www.peta.org/) in advocating for the ethical treatment of animals. As I've previously expressed, I thoroughly enjoy writing and reading -check out my [Goodreads](https://goodreads.com/felipealfonsog) Bookshelves-, I like to talk about entrepreneurship, OpenSource projects, and I always move along towards pursuing academic interests. I'm also a [Freemason](https://en.wikipedia.org/wiki/Freemasonry), member of the Logia Masónica de Chile [Lumen Interioris Nº 137](https://lumeninterioris.online/). I value transparency and authenticity, which is why I believe that sharing my ideals is both meaningful and worthwhile. As a professional, I consider integrity not only a guiding principle but also a reflection of one’s commitment to truth and human dignity. In aligning my values with my work, I strive to act with coherence, purpose, and respect for the broader impact of my actions. If you harbor aspirations in business or entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out to me. Should you find yourself in the vicinity of [Santiago](https://en.wikipedia.org/wiki/Santiago), it would be my pleasure to engage in a thoughtful conversation over a delightful cup of coffee ☕️ 💬 (Alternatively, it might be online!). You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just [email-me](mailto:felipe.alfonso.glz@gmail.com).
 
 <details open>
@@ -16,18 +16,22 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0668293c9f523f26babc09617063493b  
-**Pulse**: Operation DRAGONCLONE: Chinese Telecom Targeted by Malware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6842f45696f96557e5f757b1)
+**Threat Type**: Ipv4  
+**Indicator**: 45.227.254.113  
+**Pulse**: Coordinated Brute Force Campaign Targets Fortinet SSL VPN  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689cc45a7e90faee364f64cf)
 
-<sub>_Last updated: 2025-08-12 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-13 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
 </details>
 
-[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![Visit my Website](https://img.shields.io/badge/-Visit%20my%20Website-4285F4?style=plastic&logo=Google%20Chrome&logoColor=white&labelColor=4285F4)](https://www.gnlz.cl) [![Felipe's Wikipedia User Page](https://img.shields.io/badge/-Felipe%27s%20Wikipedia%20User%20Page-181717?style=plastic&logo=Wikipedia&logoColor=white&labelColor=181717)](https://en.wikipedia.org/wiki/User:Felipealfonsog)
+<!-- 
+[![Felipe's Wikipedia User Page](https://img.shields.io/badge/-Felipe%27s%20Wikipedia%20User%20Page-181717?style=plastic&logo=Wikipedia&logoColor=white&labelColor=181717)](https://en.wikipedia.org/wiki/User:Felipealfonsog)
+-->
+
+[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![Visit my Website](https://img.shields.io/badge/-Visit%20my%20Website-4285F4?style=plastic&logo=Google%20Chrome&logoColor=white&labelColor=4285F4)](https://www.gnlz.cl) 
 
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
 [<img src="https://img.shields.io/badge/All%20Gits-555555?style=plastic&logo=github&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog)
@@ -361,7 +365,7 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 11 August 2025
+From: 04 December 2023 - To: 13 August 2025
 
 Total Time: 764 hrs 36 mins
 
