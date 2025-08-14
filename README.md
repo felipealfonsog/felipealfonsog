@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 45.227.254.113  
-**Pulse**: Coordinated Brute Force Campaign Targets Fortinet SSL VPN  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689cc45a7e90faee364f64cf)
+**Threat Type**: Domain  
+**Indicator**: chataigpt.top  
+**Pulse**: Infrastructure of Interest: Suspicious Domains  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
 
-<sub>_Last updated: 2025-08-14 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-14 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
