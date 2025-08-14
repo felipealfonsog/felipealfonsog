@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: chataigpt.top  
-**Pulse**: Infrastructure of Interest: Suspicious Domains  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
+**Threat Type**: Filehash-Md5  
+**Indicator**: b924b934952ce98c663eedaf3b202a1d  
+**Pulse**: PhantomCard: New NFC-driven Android malware emerging in Brazil  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689dfd7bcdd65dfb01307de4)
 
-<sub>_Last updated: 2025-08-14 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-14 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
