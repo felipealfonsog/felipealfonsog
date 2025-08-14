@@ -32,6 +32,8 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 [![Visit my Website](https://img.shields.io/badge/-Visit%20my%20Website-4285F4?style=plastic&logo=Google%20Chrome&logoColor=white&labelColor=4285F4)](https://www.gnlz.cl) 
 
+[<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=google-chrome&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
+
 
 -->
 
@@ -44,7 +46,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 [<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
-[<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=google-chrome&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
+[<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=firefox&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
 [<img src="https://img.shields.io/badge/E&ndash;mail-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 
 
