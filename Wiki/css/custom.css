@@ -35,3 +35,113 @@
     font-style: normal;
     font-weight: bold;
 }
+/* General body */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background-color: #fff;
+    color: #202122;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-weight: normal;
+    color: #202122;
+}
+
+h1 {
+    font-size: 2em;
+    border-bottom: 1px solid #a2a9b1;
+    padding-bottom: 0.3em;
+}
+
+h2 {
+    font-size: 1.5em;
+    border-bottom: 1px solid #d1d5da;
+    padding-bottom: 0.2em;
+}
+
+/* Links */
+a {
+    color: #0645ad;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Infobox */
+table.infobox {
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    padding: 4px;
+    font-size: 0.9em;
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    width: 22em;
+    border-collapse: collapse;
+}
+
+table.infobox th {
+    background-color: #f0f0f0;
+    text-align: left;
+    font-weight: bold;
+    padding: 4px;
+    border: 1px solid #a2a9b1;
+}
+
+table.infobox td {
+    padding: 4px;
+    border: 1px solid #a2a9b1;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+}
+
+table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    padding: 6px;
+    border: 1px solid #a2a9b1;
+}
+
+table td {
+    padding: 6px;
+    border: 1px solid #a2a9b1;
+}
+
+/* Blockquote */
+blockquote {
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    background-color: #f8f9fa;
+    border-left: 4px solid #a2a9b1;
+}
+
+/* References / footnotes */
+.references {
+    font-size: 0.85em;
+    border-top: 1px solid #a2a9b1;
+    margin-top: 2em;
+    padding-top: 0.5em;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* External links */
+.external {
+    font-size: 0.9em;
+}
