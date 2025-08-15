@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: b924b934952ce98c663eedaf3b202a1d  
-**Pulse**: PhantomCard: New NFC-driven Android malware emerging in Brazil  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689dfd7bcdd65dfb01307de4)
+**Indicator**: 08a92ba1d1d9e5c498dcaf53af7cd071  
+**Pulse**: Rainbow Hyena strikes again: new backdoor and shift in tactics  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6876bc94560fb5bc92a8936f)
 
-<sub>_Last updated: 2025-08-14 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-15 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
