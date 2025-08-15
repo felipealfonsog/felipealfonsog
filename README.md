@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 08a92ba1d1d9e5c498dcaf53af7cd071  
-**Pulse**: Rainbow Hyena strikes again: new backdoor and shift in tactics  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6876bc94560fb5bc92a8936f)
+**Indicator**: 210600be82239d3cc845b993ef7713e2  
+**Pulse**: RondoDox Unveiled: Breaking Down a New Botnet Threat  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6877cefe5b0c5cbde2f82d94)
 
-<sub>_Last updated: 2025-08-15 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-15 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
