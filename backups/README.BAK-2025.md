@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 45.227.254.113  
-**Pulse**: Coordinated Brute Force Campaign Targets Fortinet SSL VPN  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689cc45a7e90faee364f64cf)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 08a92ba1d1d9e5c498dcaf53af7cd071  
+**Pulse**: Rainbow Hyena strikes again: new backdoor and shift in tactics  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6876bc94560fb5bc92a8936f)
 
-<sub>_Last updated: 2025-08-14 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-15 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -36,11 +36,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 -->
 
-[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![Visit my Website](https://img.shields.io/badge/-Visit%20my%20Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl)
+[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-181717?style=plastic&logo=gitlab&logoColor=white&labelColor=181717)](https://gitlab.com/felipealfonsog) [![Visit my Website](https://img.shields.io/badge/-Visit%20my%20Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl)
 
 
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
 [<img src="https://img.shields.io/badge/All%20Gits-555555?style=plastic&logo=github&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog)
+[<img src="https://img.shields.io/badge/GitLab-555555?style=plastic&logo=gitlab&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-555555?logo=linkedin-white&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
@@ -371,20 +372,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 13 August 2025
+From: 04 December 2023 - To: 15 August 2025
 
-Total Time: 764 hrs 36 mins
+Total Time: 773 hrs 6 mins
 
-Bash                 132 hrs 55 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.80 %
-Python               123 hrs 34 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   15.62 %
-HTML                 106 hrs 41 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.49 %
-Markdown             70 hrs 21 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.89 %
-C                    64 hrs 21 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   08.13 %
-PHP                  41 hrs 24 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.23 %
-C++                  39 hrs 47 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.03 %
-INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.77 %
-Text                 29 hrs 12 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.69 %
-Other                26 hrs 33 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.36 %
+Bash                 135 hrs 35 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   16.96 %
+Python               123 hrs 34 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.45 %
+HTML                 106 hrs 41 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.34 %
+Markdown             70 hrs 21 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.80 %
+C                    64 hrs 21 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   08.05 %
+PHP                  47 hrs 13 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   05.91 %
+C++                  39 hrs 47 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   04.98 %
+INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.73 %
+Text                 29 hrs 12 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.65 %
+Other                26 hrs 33 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.32 %
 ```
 
 <!--END_SECTION:waka-->
