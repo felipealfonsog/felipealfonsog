@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Rainbow Hyena strikes again: new backdoor and shift in tactics  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6876bc94560fb5bc92a8936f)
 
-<sub>_Last updated: 2025-08-15 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-15 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
