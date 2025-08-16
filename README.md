@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 210600be82239d3cc845b993ef7713e2  
-**Pulse**: RondoDox Unveiled: Breaking Down a New Botnet Threat  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6877cefe5b0c5cbde2f82d94)
+**Threat Type**: Ipv4  
+**Indicator**: 216.245.184.181  
+**Pulse**: Threat Actor Profile: Interlock Ransomware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689f8d13d92fa7802f9dd44a)
 
-<sub>_Last updated: 2025-08-15 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-16 00:06 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
