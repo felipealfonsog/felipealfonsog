@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 216.245.184.181  
-**Pulse**: Threat Actor Profile: Interlock Ransomware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689f8d13d92fa7802f9dd44a)
+**Threat Type**: Domain  
+**Indicator**: pivqmane.com  
+**Pulse**: MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68790fe97662f2c9f411e128)
 
-<sub>_Last updated: 2025-08-16 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-16 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
