@@ -17,11 +17,11 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 007318ac7ca53d8717482475404ed5a2  
-**Pulse**: Phish and Chips: China-Aligned Espionage Actors Ramp Up Taiwan Semiconductor Industry Targeting  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687957dc6d81747b3ef02228)
+**Indicator**: 6847aa8ea6a8b7eb11d3c139ef0ea898  
+**Pulse**: From a Teams Call to a Ransomware Threat: Matanbuchus 3.0 MaaS Levels Up  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687a0d5dc93942c183eddbf5)
 
-<sub>_Last updated: 2025-08-17 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-17 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
