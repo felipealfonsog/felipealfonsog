@@ -736,7 +736,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Debian" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/debian-original.svg" alt="debian" width="40" height="40"/></a>
   <a href="https://es.wikipedia.org/wiki/Manjaro_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logo-manjaro.svg" alt="debian" width="40" height="40"/></a>
   <a href="https://es.wikipedia.org/wiki/Mabox_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logomabox-linux.svg" alt="debian" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logo-kali.svg" alt="archlinux" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logo-kali.svg" alt="kalilinux" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Arch_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/archlinux-original.svg" alt="archlinux" width="40" height="40"/></a>
   <a href="https://es.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/macos.svg" alt="Apple" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
@@ -750,6 +750,7 @@ Powered by https://github.com/devicons/devicon
 
    <a href="https://www.torproject.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/torproject-icon.svg" alt="tor" width="40" height="40"/></a> 
    <a href="https://blackarch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/archlinux-plain.svg" alt="blackarch" width="40" height="40"/></a> 
+   <a href="https://www.kali.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/kalilinux-cs.svg" alt="kalilinux" width="40" height="40"/></a> 
    <a href="https://www.metasploit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/metasploit.svg" alt="metasploit" width="40" height="40"/></a> 
    <a href="https://www.wireshark.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/wireshark.svg" alt="wireshark" width="40" height="40"/></a> 
    <a href="https://openvpn.net/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/openvpn.svg" alt="openvpn" width="40" height="40"/></a> 
