@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: pivqmane.com  
-**Pulse**: MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68790fe97662f2c9f411e128)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 007318ac7ca53d8717482475404ed5a2  
+**Pulse**: Phish and Chips: China-Aligned Espionage Actors Ramp Up Taiwan Semiconductor Industry Targeting  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687957dc6d81747b3ef02228)
 
-<sub>_Last updated: 2025-08-16 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-17 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
