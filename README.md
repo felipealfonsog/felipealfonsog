@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 6847aa8ea6a8b7eb11d3c139ef0ea898  
-**Pulse**: From a Teams Call to a Ransomware Threat: Matanbuchus 3.0 MaaS Levels Up  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687a0d5dc93942c183eddbf5)
+**Threat Type**: Ipv4  
+**Indicator**: 185.156.73.73  
+**Pulse**: MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68790fe97662f2c9f411e128)
 
-<sub>_Last updated: 2025-08-18 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-18 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
