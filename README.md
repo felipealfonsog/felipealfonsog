@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68790fe97662f2c9f411e128)
 
-<sub>_Last updated: 2025-08-19 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-19 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
