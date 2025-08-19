@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 185.156.73.73  
-**Pulse**: MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68790fe97662f2c9f411e128)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-29824  
+**Pulse**: Dissecting PipeMagic: Inside the architecture of a modular backdoor framework  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a3aebbf92e6f27e1be7207)
 
-<sub>_Last updated: 2025-08-19 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-19 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
