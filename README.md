@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-29824  
-**Pulse**: Dissecting PipeMagic: Inside the architecture of a modular backdoor framework  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a3aebbf92e6f27e1be7207)
+**Threat Type**: Filehash-Md5  
+**Indicator**: a8b6c3b0cd1d36b7a6f94ccf676f6c75  
+**Pulse**: Noodlophile Stealer Evolves: Targeted Copyright Phishing Hits Enterprises with Social Media Footprints  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a4f2609ccc8bd3337dfda6)
 
-<sub>_Last updated: 2025-08-19 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-20 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
