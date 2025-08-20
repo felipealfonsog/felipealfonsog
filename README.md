@@ -21,7 +21,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 **Pulse**: Noodlophile Stealer Evolves: Targeted Copyright Phishing Hits Enterprises with Social Media Footprints  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68a4f2609ccc8bd3337dfda6)
 
-<sub>_Last updated: 2025-08-20 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-20 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
