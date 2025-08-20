@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: a8b6c3b0cd1d36b7a6f94ccf676f6c75  
-**Pulse**: Noodlophile Stealer Evolves: Targeted Copyright Phishing Hits Enterprises with Social Media Footprints  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a4f2609ccc8bd3337dfda6)
+**Threat Type**: Url  
+**Indicator**: https://www.yobox.store/karma/karma.js?karma=bs?nosaj=faster.mo  
+**Pulse**: CryptoJacking is dead: long live CryptoJacking  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a5a893d0e6cf5fee6c45a2)
 
-<sub>_Last updated: 2025-08-20 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-20 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
