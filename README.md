@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: https://www.yobox.store/karma/karma.js?karma=bs?nosaj=faster.mo  
-**Pulse**: CryptoJacking is dead: long live CryptoJacking  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a5a893d0e6cf5fee6c45a2)
+**Threat Type**: Filehash-Md5  
+**Indicator**: cffe3fb6cb3e4b9b453c4147bdcd8c12  
+**Pulse**: Attacks Targeting Linux SSH Servers to Install SVF DDoS Bot  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a5a890aad2db48780163d5)
 
-<sub>_Last updated: 2025-08-20 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-20 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
