@@ -25,12 +25,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0aa883cd659ef9957fded2516b70c341  
-**Pulse**: APT MuddyWater Targets CFOs with Multi-Stage Phishing & NetBird Abuse  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a6cc4ca8c0e77008166455)
+**Threat Type**: Ipv4  
+**Indicator**: 84.32.41.163  
+**Pulse**: Cybercriminals Abuse AI Website Creation App For Phishing  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a66a49869588c8cfb1af6a)
 
-<sub>_Last updated: 2025-08-21 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-21 18:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
