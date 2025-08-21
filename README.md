@@ -15,14 +15,6 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gmail.svg" alt="Gmail" width="40" height="40">
 </a>
 
-<a href="mailto:felipe.gonzalez@gnlz.cl" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/email-std.svg" alt="Email" width="40" height="40">
-</a>
-
-
-
-
-<br>
 <br>
 
 <details open>
