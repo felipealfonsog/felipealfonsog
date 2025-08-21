@@ -18,19 +18,19 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 <br>
 -->
-[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) 
+[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) 
 
 <details open>
 <summary>:star2: 🛰️ <strong>Latest Threat Intelligence from AlienVault OTX</strong> – updated automatically every 5 hours.*</summary>
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-23266  
-**Pulse**: SharePoint Vulnerabilities (CVE-2025-53770 & CVE-2025-53771): Everything You Need to Know  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/687ec30ead4d6a2798563303)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0aa883cd659ef9957fded2516b70c341  
+**Pulse**: APT MuddyWater Targets CFOs with Multi-Stage Phishing & NetBird Abuse  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a6cc4ca8c0e77008166455)
 
-<sub>_Last updated: 2025-08-21 00:05 UTC_</sub>
+<sub>_Last updated: 2025-08-21 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -382,16 +382,16 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 20 August 2025
+From: 04 December 2023 - To: 21 August 2025
 
-Total Time: 776 hrs 58 mins
+Total Time: 777 hrs 6 mins
 
 Bash                 135 hrs 35 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.87 %
 Python               123 hrs 34 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.38 %
 HTML                 106 hrs 41 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.28 %
 Markdown             70 hrs 21 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.76 %
 C                    64 hrs 21 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   08.01 %
-PHP                  51 hrs 5 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.36 %
+PHP                  51 hrs 14 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   06.38 %
 C++                  39 hrs 47 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   04.95 %
 INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.71 %
 Text                 29 hrs 12 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.63 %
