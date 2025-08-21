@@ -11,17 +11,25 @@
 I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez), a graduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago](https://en.wikipedia.org/wiki/Santiago), [Chile](https://en.wikipedia.org/wiki/Chile), 
 Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_architect) and with a strong interest in data-related fields and [R+D](https://en.wikipedia.org/wiki/Research_and_development) ([I+D](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_y_desarrollo)). Along with that I'm also focused on teaching online as a [lecturer](https://en.wikipedia.org/wiki/Lecturer). Currently, I am pursuing a [Master's degree](https://en.wikipedia.org/wiki/Master%27s_degree) program in [Big Data](https://en.wikipedia.org/wiki/Big_data) & [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence). Currently, active in the realm of [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security) - [Cyberintelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) - [[Personal PGP Public Key]](#pgp-public-key) - alongside my studies, even though I am always [coding](https://en.wikipedia.org/wiki/Computer_programming) and deepening my understanding of different subjects. I'm a member of the [GitHub community](https://github.com/community) and part of the team of maintainers. In my leisure time, I enjoy reading, playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) (BJJ), [Zazen](https://en.wikipedia.org/wiki/Zazen) (*Zazen in Wikipedia Spanish [here](https://es.wikipedia.org/wiki/Zazen)*) which is a form of [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness). I enjoy listening to music -check out my [Spotify profile](https://open.spotify.com/user/12133266428)-, I have a deep love for animals and nature. As a former [Rover Scout Leader](https://en.wikipedia.org/wiki/Rover_Scout) with the *Agrupación Nacional de Boy Scouts de Chile ([Wikipedia](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile) - [Website](https://boyscouts.cl/))* - supported mostly by the [Great Lodge of Chile](https://www.granlogia.cl) -, I wholeheartedly support their mission and values. Additionally, I stand with [PETA](https://www.peta.org/) in advocating for the ethical treatment of animals. As I've previously expressed, I thoroughly enjoy writing and reading -check out my [Goodreads](https://goodreads.com/felipealfonsog) Bookshelves-, I like to talk about entrepreneurship, OpenSource projects, and I always move along towards pursuing academic interests. I'm also a [Freemason](https://en.wikipedia.org/wiki/Freemasonry), member of the Masonic Lodge [Lumen Interioris Nº 137](https://cutt.ly/lumeninterioris). I value transparency and authenticity, which is why I believe that sharing my ideals is both meaningful and worthwhile. As a professional, I consider integrity not only a guiding principle but also a reflection of one’s commitment to truth and human dignity. In aligning my values with my work, I strive to act with coherence, purpose, and respect for the broader impact of my actions. If you harbor aspirations in business or entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out to me. Should you find yourself in the vicinity of [Santiago](https://en.wikipedia.org/wiki/Santiago), it would be my pleasure to engage in a thoughtful conversation over a delightful cup of coffee ☕️ 💬 (Alternatively, it might be online!). You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just [email-me](mailto:felipe.alfonso.glz@gmail.com).
 
+<!-- 
+<a href="mailto:felipe.alfonso.glz@gmail.com" style="text-decoration: none; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gmail.svg" alt="Gmail" width="40" height="40">
+</a>
+
+<br>
+-->
+
 <details open>
 <summary>:star2: 🛰️ <strong>Latest Threat Intelligence from AlienVault OTX</strong> – updated automatically every 5 hours.*</summary>
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 185.156.73.73  
-**Pulse**: MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68790fe97662f2c9f411e128)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-23266  
+**Pulse**: SharePoint Vulnerabilities (CVE-2025-53770 & CVE-2025-53771): Everything You Need to Know  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687ec30ead4d6a2798563303)
 
-<sub>_Last updated: 2025-08-19 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-21 00:05 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -373,19 +381,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 18 August 2025
+From: 04 December 2023 - To: 20 August 2025
 
-Total Time: 775 hrs 55 mins
+Total Time: 776 hrs 58 mins
 
-Bash                 135 hrs 35 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.90 %
-Python               123 hrs 34 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.40 %
-HTML                 106 hrs 41 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.30 %
-Markdown             70 hrs 21 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.77 %
-C                    64 hrs 21 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   08.02 %
-PHP                  50 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.24 %
-C++                  39 hrs 47 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   04.96 %
-INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.72 %
-Text                 29 hrs 12 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.64 %
+Bash                 135 hrs 35 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.87 %
+Python               123 hrs 34 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.38 %
+HTML                 106 hrs 41 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.28 %
+Markdown             70 hrs 21 mins  ◕◕◔○○○○○○○○○○○○○○○○○○○○○○   08.76 %
+C                    64 hrs 21 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   08.01 %
+PHP                  51 hrs 5 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   06.36 %
+C++                  39 hrs 47 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   04.95 %
+INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.71 %
+Text                 29 hrs 12 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.63 %
 Other                26 hrs 33 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.31 %
 ```
 
