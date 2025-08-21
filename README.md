@@ -13,10 +13,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 <div style="display: inline-flex; align-items: center; gap: 8px;">
   <a href="mailto:felipe.alfonso.glz@gmail.com" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gmail.svg" alt="Gmail" width="36" height="36">
+    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gmail.svg" 
+         alt="Gmail" width="36" height="36" style="vertical-align: middle;">
     felipe.alfonso.glz@gmail.com
   </a>
 </div>
+
 
 
 <br>
