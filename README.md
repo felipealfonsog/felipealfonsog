@@ -18,6 +18,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 <br>
 -->
+[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) 
 
 <details open>
 <summary>:star2: 🛰️ <strong>Latest Threat Intelligence from AlienVault OTX</strong> – updated automatically every 5 hours.*</summary>
@@ -44,7 +45,7 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 
 -->
 
-[![Translate](https://img.shields.io/badge/-Google%20Translate-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Visit my Website](https://img.shields.io/badge/-Visit%20my%20Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl)
+[![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Visit my Website](https://img.shields.io/badge/-Visit%20my%20Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl)
 
 
 
