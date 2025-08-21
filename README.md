@@ -16,12 +16,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: cffe3fb6cb3e4b9b453c4147bdcd8c12  
-**Pulse**: Attacks Targeting Linux SSH Servers to Install SVF DDoS Bot  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a5a890aad2db48780163d5)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-23266  
+**Pulse**: SharePoint Vulnerabilities (CVE-2025-53770 & CVE-2025-53771): Everything You Need to Know  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687ec30ead4d6a2798563303)
 
-<sub>_Last updated: 2025-08-20 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-21 00:05 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
