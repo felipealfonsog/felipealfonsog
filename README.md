@@ -25,12 +25,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: df11b3105df8d7c70e7b501e210e3cc3  
-**Pulse**: Cherry pie, Douglas firs and the last trip of the summer  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a7899da51a0d6885f33853)
+**Threat Type**: Domain  
+**Indicator**: medienparadies.com  
+**Pulse**: Infrastructure of Interest: Medium Confidence Command And Control  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689455e11e25236fe810364b)
 
-<sub>_Last updated: 2025-08-22 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-22 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
