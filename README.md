@@ -25,12 +25,12 @@ Specialized as a [Systems Architect](https://en.wikipedia.org/wiki/Systems_archi
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 84.32.41.163  
-**Pulse**: Cybercriminals Abuse AI Website Creation App For Phishing  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a66a49869588c8cfb1af6a)
+**Threat Type**: Filehash-Md5  
+**Indicator**: df11b3105df8d7c70e7b501e210e3cc3  
+**Pulse**: Cherry pie, Douglas firs and the last trip of the summer  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a7899da51a0d6885f33853)
 
-<sub>_Last updated: 2025-08-21 18:03 UTC_</sub>
+<sub>_Last updated: 2025-08-22 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
