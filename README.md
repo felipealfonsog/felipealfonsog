@@ -235,7 +235,7 @@ _______                  /__/
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
   <br>
-I'm a computer science engineer with a passion for research across diverse topics in the field. While I strive to continuously broaden my knowledge horizons, my primary focus lies in specializing in Software Engineering, Data Engineering, Machine Learning, Cybersecurity, and other areas that hold significance in the past, present, and future landscape of computer science. My aim is to grasp both the fundamentals and the cutting-edge aspects of this ever-evolving domain.
+I am a Computer Science Engineer (Ingº en Informática) with strong expertise in Systems Architecture, Software Engineering, Cybersecurity, Cyber Intelligence, and Counter-Terrorism-related fields. Master's forthcoming program in Big Data & Business Intelligence. My focus is on R&D (I+D), specializing in Software Engineering, Data Engineering, Machine Learning, Cybersecurity, Cyber Intelligence, Counter-Terrorism, and other areas that are significant in the past, present, and future landscape of computer science, as well as pursuing academic interests. My skill set includes proficiency in coding, statistics, data research and engineering, software engineering, and cybersecurity, which I apply to create innovative breakthroughs using cutting-edge technologies. My aim is to grasp both the fundamentals and the cutting-edge aspects of this ever-evolving domain.
 
 My expertise encompasses coding, statistical analysis, and a strong grounding in computer science principles. This skillset serves as a foundation for driving innovation through the adoption of the latest technologies.
   
