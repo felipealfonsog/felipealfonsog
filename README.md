@@ -25,12 +25,12 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: medienparadies.com  
-**Pulse**: Infrastructure of Interest: Medium Confidence Command And Control  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689455e11e25236fe810364b)
+**Threat Type**: Ipv4  
+**Indicator**: 104.238.220.216  
+**Pulse**: Active Exploitation of SonicWall VPNs  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6890cbb5ea3a135d64b186c0)
 
-<sub>_Last updated: 2025-08-22 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-22 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
