@@ -30,7 +30,7 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 **Pulse**: Defending Against ToolShell: SharePoint's Latest Critical Vulnerability  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/688170c6105566470aa2189d)
 
-<sub>_Last updated: 2025-08-23 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-23 18:01 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
