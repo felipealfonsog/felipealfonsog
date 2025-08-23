@@ -25,12 +25,12 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 104.238.220.216  
-**Pulse**: Active Exploitation of SonicWall VPNs  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6890cbb5ea3a135d64b186c0)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-49704  
+**Pulse**: Active Exploitation of Microsoft SharePoint Vulnerabilities: Threat Brief  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688170c8aa4532178fc3deb2)
 
-<sub>_Last updated: 2025-08-22 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-23 00:06 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
