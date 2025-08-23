@@ -25,12 +25,12 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 08a92ba1d1d9e5c498dcaf53af7cd071  
-**Pulse**: Operation Cargotalon: Targeting Russian Aerospace Defense Using Eaglet Implant  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6881c978dd5260be2347dcb4)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-53770  
+**Pulse**: Defending Against ToolShell: SharePoint's Latest Critical Vulnerability  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688170c6105566470aa2189d)
 
-<sub>_Last updated: 2025-08-23 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-23 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
