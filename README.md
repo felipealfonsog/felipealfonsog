@@ -25,12 +25,12 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-53770  
-**Pulse**: Defending Against ToolShell: SharePoint's Latest Critical Vulnerability  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688170c6105566470aa2189d)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 2ed2e0e3d1ccfc20de48fa6bf49e6c89  
+**Pulse**: AI-Generated Malware in Panda Image Hides Persistent Linux Threat  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68828d2d536ef213a5f043b8)
 
-<sub>_Last updated: 2025-08-23 18:01 UTC_</sub>
+<sub>_Last updated: 2025-08-24 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
