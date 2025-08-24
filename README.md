@@ -26,11 +26,11 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 2ed2e0e3d1ccfc20de48fa6bf49e6c89  
-**Pulse**: AI-Generated Malware in Panda Image Hides Persistent Linux Threat  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68828d2d536ef213a5f043b8)
+**Indicator**: 2db32339fa151276d5a40781bc8d5eaa  
+**Pulse**: Threat Actors Lure Victims Into Downloading .HTA Files Using ClickFix To Spread Epsilon Red Ransomware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68835c6e2b2796aec0bd0a60)
 
-<sub>_Last updated: 2025-08-24 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-24 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
