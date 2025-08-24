@@ -30,7 +30,7 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 **Pulse**: Threat Actors Lure Victims Into Downloading .HTA Files Using ClickFix To Spread Epsilon Red Ransomware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68835c6e2b2796aec0bd0a60)
 
-<sub>_Last updated: 2025-08-24 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-24 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
