@@ -30,7 +30,7 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 **Pulse**: AI-Generated Malware in Panda Image Hides Persistent Linux Threat  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68828d2d536ef213a5f043b8)
 
-<sub>_Last updated: 2025-08-24 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-24 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
