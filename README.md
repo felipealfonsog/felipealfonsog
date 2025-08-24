@@ -45,7 +45,7 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 
 -->
 
-[![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-181717?style=plastic&logo=checkmarx&logoColor=white&labelColor=181717)](https://github.com/felipealfonsog?cache-bypass=1)
+[![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-00CED1?style=plastic&logo=checkmarx&logoColor=white&labelColor=00CED1)](https://github.com/felipealfonsog?cache-bypass=1)
 
 
 
