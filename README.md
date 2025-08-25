@@ -25,12 +25,12 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 2db32339fa151276d5a40781bc8d5eaa  
-**Pulse**: Threat Actors Lure Victims Into Downloading .HTA Files Using ClickFix To Spread Epsilon Red Ransomware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68835c6e2b2796aec0bd0a60)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-49704  
+**Pulse**: Inside The ToolShell Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6883ede4e24f54beae83e56e)
 
-<sub>_Last updated: 2025-08-24 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-25 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
