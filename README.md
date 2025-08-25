@@ -25,12 +25,12 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2021-1844  
-**Pulse**: Tracking DevilsTongue Spyware in Multiple Countries  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689e6041121e99538114dbfa)
+**Threat Type**: Domain  
+**Indicator**: medienparadies.com  
+**Pulse**: Infrastructure of Interest: High Confidence Phishing  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68944dc66ee0a9ca5e2e5356)
 
-<sub>_Last updated: 2025-08-25 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-25 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
