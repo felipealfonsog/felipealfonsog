@@ -26,11 +26,11 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
   
 <!-- OTX-START -->
 **Threat Type**: Cve  
-**Indicator**: CVE-2025-49704  
-**Pulse**: Inside The ToolShell Campaign  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6883ede4e24f54beae83e56e)
+**Indicator**: CVE-2021-1844  
+**Pulse**: Tracking DevilsTongue Spyware in Multiple Countries  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689e6041121e99538114dbfa)
 
-<sub>_Last updated: 2025-08-25 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-25 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
