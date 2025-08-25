@@ -30,7 +30,7 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 **Pulse**: Inside The ToolShell Campaign  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6883ede4e24f54beae83e56e)
 
-<sub>_Last updated: 2025-08-25 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-25 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
