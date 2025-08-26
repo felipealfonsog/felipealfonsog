@@ -25,12 +25,12 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: db63ff8f0660d5895d5c62fa67a1346a  
-**Pulse**: Phishing Campaign Targeting Companies via UpCrypter  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68acfa712f35ab723b2af3db)
+**Threat Type**: Domain  
+**Indicator**: medienparadies.com  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-08-26 12:03 UTC_</sub>
+<sub>_Last updated: 2025-08-26 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
