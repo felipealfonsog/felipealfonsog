@@ -30,7 +30,7 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 **Pulse**: Infrastructure of Interest: Medium Confidence Detection  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-08-26 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-26 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
