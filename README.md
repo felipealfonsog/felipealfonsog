@@ -27,10 +27,10 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 <!-- OTX-START -->
 **Threat Type**: Domain  
 **Indicator**: medienparadies.com  
-**Pulse**: Infrastructure of Interest: High Confidence Phishing  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68944dc66ee0a9ca5e2e5356)
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-08-25 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-26 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
