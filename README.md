@@ -25,12 +25,12 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: d686fcf8e50c5703092b699851f79406  
-**Pulse**: TAG-144's Persistent Grip on South American Organizations  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68add0f60282b650edbd7169)
+**Threat Type**: Domain  
+**Indicator**: medienparadies.com  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-08-27 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-27 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
