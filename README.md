@@ -30,7 +30,7 @@ with strong expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Sy
 **Pulse**: TAG-144's Persistent Grip on South American Organizations  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68add0f60282b650edbd7169)
 
-<sub>_Last updated: 2025-08-27 00:07 UTC_</sub>
+<sub>_Last updated: 2025-08-27 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
