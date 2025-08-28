@@ -38,7 +38,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: UAC-0057 Keeps Pressure on Ukraine and Poland  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68af6276333998b0be9668fc)
 
-<sub>_Last updated: 2025-08-28 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-28 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
