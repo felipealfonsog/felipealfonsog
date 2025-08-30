@@ -38,7 +38,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Qilin Ransomware and the Hidden Dangers of BYOVD  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/688b6bead28aade23c1861a2)
 
-<sub>_Last updated: 2025-08-30 00:06 UTC_</sub>
+<sub>_Last updated: 2025-08-30 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
