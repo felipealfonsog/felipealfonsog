@@ -33,12 +33,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 1854a4427eef0f74d16ad555617775ff  
-**Pulse**: The First AI-Powered Ransomware & How It Works  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b1adfad2b4f175757d71b2)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 011df46e94218cbb2f0b8da13ab3cec397246fdc63436e58b1bf597550a647f6  
+**Pulse**: Qilin Ransomware and the Hidden Dangers of BYOVD  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688b6bead28aade23c1861a2)
 
-<sub>_Last updated: 2025-08-29 18:02 UTC_</sub>
+<sub>_Last updated: 2025-08-30 00:06 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
