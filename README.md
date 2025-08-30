@@ -38,7 +38,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Auto-Color Backdoor: How a Stealthy Linux Intrusion Was Thwarted  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/688b3fc60fa1eee23ab1b945)
 
-<sub>_Last updated: 2025-08-30 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-30 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
