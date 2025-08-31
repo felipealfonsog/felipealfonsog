@@ -33,12 +33,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-31324  
-**Pulse**: Auto-Color Backdoor: How a Stealthy Linux Intrusion Was Thwarted  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688b3fc60fa1eee23ab1b945)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 589cf2077569b95178408f364a1aa721  
+**Pulse**: Indian Infrastructure Targeted with Desktop Lures and Poseidon Backdoor  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688cb39bdc1c258f2b66a6e8)
 
-<sub>_Last updated: 2025-08-31 06:02 UTC_</sub>
+<sub>_Last updated: 2025-08-31 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
