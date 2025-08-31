@@ -33,12 +33,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 589cf2077569b95178408f364a1aa721  
-**Pulse**: Indian Infrastructure Targeted with Desktop Lures and Poseidon Backdoor  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688cb39bdc1c258f2b66a6e8)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-49704  
+**Pulse**: Active Exploitation of Microsoft SharePoint Vulnerabilities  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/687f4c475ad0b16251ce3ff9)
 
-<sub>_Last updated: 2025-08-31 12:02 UTC_</sub>
+<sub>_Last updated: 2025-08-31 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
