@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Active Exploitation of Microsoft SharePoint Vulnerabilities  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/687f4c475ad0b16251ce3ff9)
 
-<sub>_Last updated: 2025-08-31 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-01 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
