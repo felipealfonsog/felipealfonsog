@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2023-20118  
-**Pulse**: A look at PolarEdge Adjacent Infrastructure  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b567c5f9a43f8e25f18f06)
+**Threat Type**: Domain  
+**Indicator**: medienparadies.com  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-09-01 12:03 UTC_</sub>
+<sub>_Last updated: 2025-09-01 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
