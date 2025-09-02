@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 86170725074de3b8edcd7671afa9b69d  
-**Pulse**: FAKE TELEGRAM PREMIUM SITE DISTRIBUTES NEW LUMMA STEALER VARIANT  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688ee51c244879cbcd8b5826)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 02ccc4271362b92a59e6851ac6d5d2c07182064a602906d7166fe2867cc662a5  
+**Pulse**: CTI Analysis: Malicious Email Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b6b1b5ba004947dbc00475)
 
-<sub>_Last updated: 2025-09-02 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-02 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
