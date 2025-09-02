@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: medienparadies.com  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 86170725074de3b8edcd7671afa9b69d  
+**Pulse**: FAKE TELEGRAM PREMIUM SITE DISTRIBUTES NEW LUMMA STEALER VARIANT  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/688ee51c244879cbcd8b5826)
 
-<sub>_Last updated: 2025-09-02 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-02 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
