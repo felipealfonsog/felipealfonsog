@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 02ccc4271362b92a59e6851ac6d5d2c07182064a602906d7166fe2867cc662a5  
-**Pulse**: CTI Analysis: Malicious Email Campaign  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b6b1b5ba004947dbc00475)
+**Threat Type**: Domain  
+**Indicator**: medienparadies.com  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-09-02 12:03 UTC_</sub>
+<sub>_Last updated: 2025-09-02 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
