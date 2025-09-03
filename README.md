@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: medienparadies.com  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 33c9a47debdb07824c6c51e13740bdfe  
+**Pulse**: Three Lazarus RATs coming for your cheese  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b727b93637b3a14f210baa)
 
-<sub>_Last updated: 2025-09-02 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-03 00:06 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
