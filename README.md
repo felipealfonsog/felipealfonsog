@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Three Lazarus RATs coming for your cheese  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68b727b93637b3a14f210baa)
 
-<sub>_Last updated: 2025-09-03 00:06 UTC_</sub>
+<sub>_Last updated: 2025-09-03 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
