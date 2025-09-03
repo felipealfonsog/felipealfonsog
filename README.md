@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-31199  
-**Pulse**: Frozen in transit: Secret Blizzard's AiTM campaign against diplomats  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/688cdfbc83ce0b286295d859)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: d080f553c9b1276317441894ec6861573fa64fb1fae46165a55302e782b1614d  
+**Pulse**: Active Exploitation of SonicWall VPNs  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6890cbb5ea3a135d64b186c0)
 
-<sub>_Last updated: 2025-09-03 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-03 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
