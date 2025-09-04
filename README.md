@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: New malware campaign discovered via ManualFinder  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68b8a1182ec5c19a3c05af6f)
 
-<sub>_Last updated: 2025-09-04 00:06 UTC_</sub>
+<sub>_Last updated: 2025-09-04 06:16 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
