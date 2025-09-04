@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 192b80bab47bce9b96f683409db2fe61  
-**Pulse**: New malware campaign discovered via ManualFinder  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b8a1182ec5c19a3c05af6f)
+**Threat Type**: Filehash-Sha1  
+**Indicator**: 021d0eef8f457eb2a9f9fb2260dd2e391f009a21  
+**Pulse**: Ethereum smart contracts used to push malicious code on npm  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b8e461fef64a908f432843)
 
-<sub>_Last updated: 2025-09-04 06:16 UTC_</sub>
+<sub>_Last updated: 2025-09-04 12:21 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
