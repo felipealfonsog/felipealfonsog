@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha1  
-**Indicator**: 021d0eef8f457eb2a9f9fb2260dd2e391f009a21  
-**Pulse**: Ethereum smart contracts used to push malicious code on npm  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b8e461fef64a908f432843)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: d080f553c9b1276317441894ec6861573fa64fb1fae46165a55302e782b1614d  
+**Pulse**: Active Exploitation of SonicWall VPNs  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6890cbb5ea3a135d64b186c0)
 
-<sub>_Last updated: 2025-09-04 12:21 UTC_</sub>
+<sub>_Last updated: 2025-09-04 18:14 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
