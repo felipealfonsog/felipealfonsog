@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: d080f553c9b1276317441894ec6861573fa64fb1fae46165a55302e782b1614d  
-**Pulse**: Active Exploitation of SonicWall VPNs  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6890cbb5ea3a135d64b186c0)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 192b80bab47bce9b96f683409db2fe61  
+**Pulse**: New malware campaign discovered via ManualFinder  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b8a1182ec5c19a3c05af6f)
 
-<sub>_Last updated: 2025-09-03 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-04 00:06 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
