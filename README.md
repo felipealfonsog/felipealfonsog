@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Ipv4  
-**Indicator**: 104.233.210.229  
-**Pulse**: GhostRedirector poisons Windows servers: Backdoors with a side of Potatoes  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68ba2380ae861d314e902af1)
+**Indicator**: 185.149.146.118  
+**Pulse**: New Botnet Emerges from the Shadows: NightshadeC2  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68babf81ce8dc0a40f7d42f5)
 
-<sub>_Last updated: 2025-09-05 12:20 UTC_</sub>
+<sub>_Last updated: 2025-09-05 18:14 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
