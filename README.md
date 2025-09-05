@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 117305c6c8222162d7246f842c4bb014  
-**Pulse**: ViewState Deserialization Zero-Day Vulnerability in Sitecore Products (CVE-2025-53690)  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b9d2694432c73564226cd5)
+**Threat Type**: Ipv4  
+**Indicator**: 104.233.210.229  
+**Pulse**: GhostRedirector poisons Windows servers: Backdoors with a side of Potatoes  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68ba2380ae861d314e902af1)
 
-<sub>_Last updated: 2025-09-05 06:16 UTC_</sub>
+<sub>_Last updated: 2025-09-05 12:20 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
