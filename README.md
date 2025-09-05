@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: ViewState Deserialization Zero-Day Vulnerability in Sitecore Products (CVE-2025-53690)  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68b9d2694432c73564226cd5)
 
-<sub>_Last updated: 2025-09-05 00:51 UTC_</sub>
+<sub>_Last updated: 2025-09-05 06:16 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
