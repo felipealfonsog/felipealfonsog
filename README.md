@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: d080f553c9b1276317441894ec6861573fa64fb1fae46165a55302e782b1614d  
-**Pulse**: Active Exploitation of SonicWall VPNs  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6890cbb5ea3a135d64b186c0)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 117305c6c8222162d7246f842c4bb014  
+**Pulse**: ViewState Deserialization Zero-Day Vulnerability in Sitecore Products (CVE-2025-53690)  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b9d2694432c73564226cd5)
 
-<sub>_Last updated: 2025-09-04 18:14 UTC_</sub>
+<sub>_Last updated: 2025-09-05 00:51 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
