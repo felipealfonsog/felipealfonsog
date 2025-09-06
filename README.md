@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68948bbcf88498b35a1a958e)
 
-<sub>_Last updated: 2025-09-06 12:18 UTC_</sub>
+<sub>_Last updated: 2025-09-06 18:12 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
