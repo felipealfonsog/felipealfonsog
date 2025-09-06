@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 185.149.146.118  
-**Pulse**: New Botnet Emerges from the Shadows: NightshadeC2  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68babf81ce8dc0a40f7d42f5)
+**Threat Type**: Domain  
+**Indicator**: iptvadvice.com  
+**Pulse**: Massive IPTV Piracy Network Uncovered  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bb1b163878ea0fdbb2cd8a)
 
-<sub>_Last updated: 2025-09-05 18:14 UTC_</sub>
+<sub>_Last updated: 2025-09-06 00:50 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
