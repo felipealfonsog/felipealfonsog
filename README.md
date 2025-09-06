@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: iptvadvice.com  
-**Pulse**: Massive IPTV Piracy Network Uncovered  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bb1b163878ea0fdbb2cd8a)
+**Threat Type**: Filehash-Md5  
+**Indicator**: a746da514c90f26a187a294fda7edc1b  
+**Pulse**: From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68948bbcf88498b35a1a958e)
 
-<sub>_Last updated: 2025-09-06 06:13 UTC_</sub>
+<sub>_Last updated: 2025-09-06 12:18 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
