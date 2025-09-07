@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: a746da514c90f26a187a294fda7edc1b  
-**Pulse**: From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68948bbcf88498b35a1a958e)
+**Indicator**: 92f3a9cd6fdc829b5239fb60acfa619f  
+**Pulse**: New Infection Chain and ConfuserEx-Based Obfuscation for DarkCloud Stealer  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6895174a78ee95e9d1394374)
 
-<sub>_Last updated: 2025-09-06 18:12 UTC_</sub>
+<sub>_Last updated: 2025-09-07 00:56 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
