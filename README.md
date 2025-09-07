@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: New Infection Chain and ConfuserEx-Based Obfuscation for DarkCloud Stealer  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6895174a78ee95e9d1394374)
 
-<sub>_Last updated: 2025-09-07 00:56 UTC_</sub>
+<sub>_Last updated: 2025-09-07 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
