@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 92f3a9cd6fdc829b5239fb60acfa619f  
+**Indicator**: 0694fc582109dc4c5fdc7582da23e89d  
 **Pulse**: New Infection Chain and ConfuserEx-Based Obfuscation for DarkCloud Stealer  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6895174a78ee95e9d1394374)
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6895aeaa72538302a5d75512)
 
-<sub>_Last updated: 2025-09-07 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-07 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
