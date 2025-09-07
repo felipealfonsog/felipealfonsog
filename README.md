@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 0694fc582109dc4c5fdc7582da23e89d  
-**Pulse**: New Infection Chain and ConfuserEx-Based Obfuscation for DarkCloud Stealer  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6895aeaa72538302a5d75512)
+**Indicator**: 25943b9db380c60d1f1a6ac7faf1507e  
+**Pulse**: Exposed JDWP Exploited in the Wild: What Happens When Debug Ports Are Left Open  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68962f0f91f8829022afff4a)
 
-<sub>_Last updated: 2025-09-07 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-07 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
