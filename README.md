@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-53690  
-**Pulse**: Widespread Data Theft Targets Salesforce Instances via Salesloft Drift - Hunting pulse  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bead11991e59fe0c60cd8a)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 04b5e068e6f0079c2c205a42df8a3a84  
+**Pulse**: Windows Targeted with Rust Backdoor and Python Loader  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68beeb2264c6088bd05c00a3)
 
-<sub>_Last updated: 2025-09-08 12:03 UTC_</sub>
+<sub>_Last updated: 2025-09-08 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
