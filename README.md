@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Exposed JDWP Exploited in the Wild: What Happens When Debug Ports Are Left Open  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68962f0f91f8829022afff4a)
 
-<sub>_Last updated: 2025-09-07 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-08 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
