@@ -9,7 +9,7 @@
 ### Hi there! 👋
 
 
-I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez), a [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%A1a_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), with expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Systems_architecture), [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering), [Cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity), [Cyber Intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), and [Cyber Counter-Terrorism](https://en.wikipedia.org/wiki/Cyberterrorism), as well as in [R&D](https://en.wikipedia.org/wiki/Research_and_development) ([I+D](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_y_desarrollo)). I teach online as a [lecturer](https://en.wikipedia.org/wiki/Lecturer) & [Advisor](https://en.wikipedia.org/wiki/Consultant) while pursuing a [Master's degree](https://en.wikipedia.org/wiki/Master%27s_degree) forthcoming in [Big Data](https://en.wikipedia.org/wiki/Big_data) & [Business Intelligence]. Beyond coding and technical work, I constantly explore new ideas, deepen my knowledge across diverse domains, and contribute as a maintainer in the [GitHub community](https://github.com/community). In my leisure, I enjoy reading, playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) (BJJ), [Zazen](https://en.wikipedia.org/wiki/Zazen) (*Mindfulness*), and listening to music ([Spotify](https://open.spotify.com/user/12133266428)) - while cherishing a deep love for animals and nature, supporting [PETA](https://www.peta.org/) in ethical advocacy. As a former [Rover Scout Leader](https://en.wikipedia.org/wiki/Rover_Scout) with the Agrupación Nacional de [Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values. As I've previously expressed, I thoroughly enjoy writing and reading ([Goodreads](https://goodreads.com/felipealfonsog) Bookshelves); I'm always seeking enlightenment and knowledge, - I seek truth in the silence of my steps ⟁ -. I value transparency and authenticity, believing that sharing ideals is meaningful, and I consider integrity a guiding principle reflecting commitment to truth and human dignity. Aligning my values with my work, I strive to act with coherence, purpose, and respect for the broader impact of my actions. If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com).
+I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez), a [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%A1a_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), with expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Systems_architecture), [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering), [Cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity), [Cyber Intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), and [Cyber Counter-Terrorism](https://en.wikipedia.org/wiki/Cyberterrorism), as well as in [R&D](https://en.wikipedia.org/wiki/Research_and_development) ([I+D](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_y_desarrollo)). I teach online as a [lecturer](https://en.wikipedia.org/wiki/Lecturer) & [Advisor](https://en.wikipedia.org/wiki/Consultant) while pursuing a [Master's degree](https://en.wikipedia.org/wiki/Master%27s_degree) forthcoming in [Big Data](https://en.wikipedia.org/wiki/Big_data) & [Business Intelligence]. Beyond coding and technical work, I constantly explore new ideas, deepen my knowledge across diverse domains, and contribute as a maintainer in the [GitHub community](https://github.com/community). In my leisure, I enjoy reading, playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) (BJJ), [Zazen](https://en.wikipedia.org/wiki/Zazen) (*Mindfulness*), and listening to music ([Spotify](https://open.spotify.com/user/12133266428)) - while cherishing a deep love for animals and nature, supporting [PETA](https://www.peta.org/) in ethical advocacy. As a former [Rover Scout Leader](https://en.wikipedia.org/wiki/Rover_Scout) with the Agrupación Nacional de [Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values. As I've previously expressed, I thoroughly enjoy writing and reading ([Goodreads](https://goodreads.com/felipealfonsog) Bookshelves); I'm always seeking enlightenment and knowledge — I seek truth in the silence of my steps; this is why I enjoy studying philosophy, consciousness, and even exploring the knowledge found in [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry) in all its forms. I value transparency and authenticity, believing that sharing ideals is meaningful, and I consider integrity a guiding principle reflecting commitment to truth and human dignity. Aligning my values with my work, I strive to act with coherence, purpose, and respect for the broader impact of my actions. If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com).
 
 
 
@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: a746da514c90f26a187a294fda7edc1b  
-**Pulse**: From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68948bbcf88498b35a1a958e)
+**Indicator**: 25943b9db380c60d1f1a6ac7faf1507e  
+**Pulse**: Exposed JDWP Exploited in the Wild: What Happens When Debug Ports Are Left Open  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68962f0f91f8829022afff4a)
 
-<sub>_Last updated: 2025-09-06 18:12 UTC_</sub>
+<sub>_Last updated: 2025-09-08 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -386,20 +386,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 06 September 2025
+From: 04 December 2023 - To: 08 September 2025
 
-Total Time: 807 hrs 10 mins
+Total Time: 808 hrs 15 mins
 
-Bash                 135 hrs 36 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.27 %
-Python               125 hrs 2 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   15.00 %
-HTML                 108 hrs 13 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.98 %
-PHP                  78 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.36 %
-Markdown             70 hrs 21 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.44 %
-C                    64 hrs 21 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.72 %
+Bash                 135 hrs 36 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.24 %
+Python               125 hrs 2 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.98 %
+HTML                 108 hrs 18 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.97 %
+PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.47 %
+Markdown             70 hrs 21 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.43 %
+C                    64 hrs 21 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.71 %
 C++                  39 hrs 47 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.77 %
 INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.58 %
 Text                 29 hrs 16 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.51 %
-Other                26 hrs 33 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.19 %
+Other                26 hrs 33 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.18 %
 ```
 
 <!--END_SECTION:waka-->
