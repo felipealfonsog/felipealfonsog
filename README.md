@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 25943b9db380c60d1f1a6ac7faf1507e  
-**Pulse**: Exposed JDWP Exploited in the Wild: What Happens When Debug Ports Are Left Open  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68962f0f91f8829022afff4a)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-53690  
+**Pulse**: Widespread Data Theft Targets Salesforce Instances via Salesloft Drift - Hunting pulse  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bead11991e59fe0c60cd8a)
 
-<sub>_Last updated: 2025-09-08 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-08 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
