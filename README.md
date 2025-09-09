@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 04b5e068e6f0079c2c205a42df8a3a84  
-**Pulse**: Windows Targeted with Rust Backdoor and Python Loader  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68beeb2264c6088bd05c00a3)
+**Threat Type**: Ipv4  
+**Indicator**: 45.141.87.55  
+**Pulse**: Blurring the Lines: Intrusion Shows Connection With Three Major Ransomware Gangs  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bf5fbcf445a2c7c0a21ee8)
 
-<sub>_Last updated: 2025-09-09 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-09 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
