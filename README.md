@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Windows Targeted with Rust Backdoor and Python Loader  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68beeb2264c6088bd05c00a3)
 
-<sub>_Last updated: 2025-09-08 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-09 00:06 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
