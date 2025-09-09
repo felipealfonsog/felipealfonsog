@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 45.141.87.55  
-**Pulse**: Blurring the Lines: Intrusion Shows Connection With Three Major Ransomware Gangs  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bf5fbcf445a2c7c0a21ee8)
+**Threat Type**: Domain  
+**Indicator**: medienparadies.com  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-09-09 12:03 UTC_</sub>
+<sub>_Last updated: 2025-09-09 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
