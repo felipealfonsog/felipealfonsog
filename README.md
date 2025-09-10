@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Operation DRAGONCLONE: Chinese Telecom Targeted by Malware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6842f45696f96557e5f757b1)
 
-<sub>_Last updated: 2025-09-10 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-10 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
