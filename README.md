@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0668293c9f523f26babc09617063493b  
-**Pulse**: Operation DRAGONCLONE: Chinese Telecom Targeted by Malware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6842f45696f96557e5f757b1)
+**Threat Type**: Domain  
+**Indicator**: chataigpt.top  
+**Pulse**: Infrastructure of Interest: Suspicious Domains  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
 
-<sub>_Last updated: 2025-09-10 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-10 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
