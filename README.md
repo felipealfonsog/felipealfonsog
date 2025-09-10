@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Domain  
-**Indicator**: chataigpt.top  
-**Pulse**: Infrastructure of Interest: Suspicious Domains  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6878cf24ada448ce32812890)
+**Indicator**: medienparadies.com  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-09-10 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-10 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
