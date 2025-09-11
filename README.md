@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha1  
-**Indicator**: 509ffbb620e36f6a27b15a7e3a418928bb3ad786  
-**Pulse**: Technical Analysis of kkRAT  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c1c8444a5c5767a5310a3d)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-49704  
+**Pulse**: ToolShell: An all-you-can-eat buffet for threat actors  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689b1b3eccb7ac11fb95c4d1)
 
-<sub>_Last updated: 2025-09-11 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-11 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
