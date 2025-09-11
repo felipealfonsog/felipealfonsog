@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-49704  
-**Pulse**: ToolShell: An all-you-can-eat buffet for threat actors  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689b1b3eccb7ac11fb95c4d1)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 1ce36351d7175e9244209ae0d42759d9  
+**Pulse**: Malware Campaign Leverages SVGs, Email Attachments, and CDNs to Drop XWorm and Remcos via BAT Scripts  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c2fb90807873db05fc63c6)
 
-<sub>_Last updated: 2025-09-11 12:03 UTC_</sub>
+<sub>_Last updated: 2025-09-11 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
