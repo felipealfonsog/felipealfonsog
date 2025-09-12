@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 1ce36351d7175e9244209ae0d42759d9  
-**Pulse**: Malware Campaign Leverages SVGs, Email Attachments, and CDNs to Drop XWorm and Remcos via BAT Scripts  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c2fb90807873db05fc63c6)
+**Indicator**: 1331e12e59aa729531fbfd44ae73fa3d  
+**Pulse**: Malvertising campaign leads to PS1Bot, a multi-stage malware framework  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689bb3c9004eca543a36d5fc)
 
-<sub>_Last updated: 2025-09-11 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-12 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
