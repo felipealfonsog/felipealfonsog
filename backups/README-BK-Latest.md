@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 25943b9db380c60d1f1a6ac7faf1507e  
-**Pulse**: Exposed JDWP Exploited in the Wild: What Happens When Debug Ports Are Left Open  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68962f0f91f8829022afff4a)
+**Indicator**: 1331e12e59aa729531fbfd44ae73fa3d  
+**Pulse**: Malvertising campaign leads to PS1Bot, a multi-stage malware framework  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689bb3c9004eca543a36d5fc)
 
-<sub>_Last updated: 2025-09-08 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-12 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -239,23 +239,15 @@ _______                  /__/
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
   <br>
-I am a Computer Science Engineer (Ingº en Informática) with strong expertise in Systems Architecture, Software Engineering, Cybersecurity, Cyber Intelligence, and Counter-Terrorism-related fields. Master's forthcoming program in Big Data & Business Intelligence. My focus is on R&D (I+D), specializing in Software Engineering, Data Engineering, Machine Learning, Cybersecurity, Cyber Intelligence, Counter-Terrorism, and other areas that are significant in the past, present, and future landscape of computer science, as well as pursuing academic interests. My skill set includes proficiency in coding, statistics, data research and engineering, software engineering, and cybersecurity, which I apply to create innovative breakthroughs using cutting-edge technologies. My aim is to grasp both the fundamentals and the cutting-edge aspects of this ever-evolving domain.
+I am a Computer Science Engineer (Ingº en Informática) with deep expertise in Systems Architecture, Software Engineering, Cybersecurity, Cyber Intelligence, and Counter-Terrorism. I am continuously engaged in advanced academic pursuits through postgraduate programs, specialized diplomas, and cutting-edge courses. My focus is on R&D (I+D), specializing in Data Engineering, Machine Learning, and other transformative areas that drive the evolution of computer science. I possess a formidable skill set in coding—primarily in the open-source ecosystem—statistics, data research and engineering, and cybersecurity, which I leverage to develop innovative, high-impact solutions using state-of-the-art technologies.
 
-My expertise encompasses coding, statistical analysis, and a strong grounding in computer science principles. This skillset serves as a foundation for driving innovation through the adoption of the latest technologies.
-  
-I have been immersed in the world of technology since the mid-80s, when connecting to the internet required a phone cable and compiling the Kernel using UNIX and/or GNU/Linux was necessary to visit 'Altavista.com.' I am particularly fond of FreeBSD, Debian & Arch, although I also feel fond to macOS due its relation with UNIX-BSD.
+I have been immersed in technology since the mid-90s, when connecting to the internet required a phone cable and compiling the Kernel on UNIX or GNU/Linux. Passionate about FreeBSD, Debian, and Arch, I collaborated with brilliant engineers of that era, which fueled my drive for innovation and entrepreneurship, and allowed me to share insights with Chilean entrepreneur Leo Prieto.
 
-I have had the privilege of living in various countries, including New Delhi, India; Auckland and Christchurch in New Zealand; California, USA; and Cape Town in South Africa. These experiences have not only broadened my horizons but have also provided me with fluency in English, my mother tongue, Spanish among other languages.
+With decades of experience in technology, I continually advance my expertise in areas such as mathematics (including algebra and calculus), data structures, databases, software engineering, functional and object-oriented programming, advanced algorithms, dynamic and stochastic modeling, non-compensatory decision models, data science, and code refactoring and decomposition. I apply this deep knowledge through engineering, research, and consulting to develop high-impact, innovative solutions.
 
-With more than 23 years of experience in the field, I am constantly studying and researching to deepen my knowledge. I focus on areas such as data structures, algebra, calculus, math., software engineering, practice solving problems, databases, models of consumer and firm behavior, dynamic models, stochastic dynamic programming, functional programming, OOP programming, non-compensatory decision models, advanced algorithms, data science, refactoring & decomposition in coding. I have expertise in engineering, researching, and consulting.
+Throughout my life, I have lived and worked in New Delhi, India; Auckland and Christchurch in New Zealand; California, US; and Cape Town, South Africa. These international experiences have endowed me with fluency in English and Afrikaans, in addition to my native Spanish, and have cultivated a deep adaptability to diverse cultural and professional environments. You are welcome to connect with me in any of these languages.
 
-<!--
-Throughout my career, I have held positions as Head of Engineering, Software Engineer and Researcher in advanced algorithms, as well as engineering development roles in significant organizations across the USA, Europe, and South America - Chile. Currently, I am the Group - CEO/Founder and Head of Research and Software Engineering at [Nymex](https://github.com/NymexData), Data Research SpA. The team consists of highly skilled software engineers, developers, and technology experts from different regions of the world, including freelancers and junior professionals. Together, we collaborate on cutting-edge technology to offer consulting and services globally. Our headquarters are based in Santiago, Santiago Metropolitan, Chile.
--->
-During my journey, I've embraced roles spanning from Computer Science and Software Engineer to leading teams and ultimately becoming Head of Engineering. I've also delved into research across various technological domains. My experiences have spanned the globe, from Europe and the USA to my roots in South America - Chile. As a Computer Science engineer, I've had the fortunate opportunity to lend my expertise to a diverse array of projects.
-
-If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog). You can also contact me by email at [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch). If you happen to be in Santiago, I would be delighted to meet over a cup of coffee. Just let me know in advance, as I might be occupied with exciting projects. Thank you!
-
+If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me via [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog). If you happen to be in Santiago—or online anywhere in the world—we could also meet over a cup of coffee or a virtual chat; just let me know in advance, as I may be engaged in exciting projects. Thank you!
 <br>
 </details>
 
@@ -386,19 +378,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 08 September 2025
+From: 04 December 2023 - To: 12 September 2025
 
-Total Time: 808 hrs 15 mins
+Total Time: 808 hrs 32 mins
 
-Bash                 135 hrs 36 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.24 %
-Python               125 hrs 2 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.98 %
-HTML                 108 hrs 18 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.97 %
-PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.47 %
+Bash                 135 hrs 53 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.27 %
+Python               125 hrs 2 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.97 %
+HTML                 108 hrs 19 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.97 %
+PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.46 %
 Markdown             70 hrs 21 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.43 %
 C                    64 hrs 21 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.71 %
 C++                  39 hrs 47 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.77 %
-INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.58 %
-Text                 29 hrs 16 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.51 %
+INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
+Text                 29 hrs 16 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.50 %
 Other                26 hrs 33 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.18 %
 ```
 
