@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Malvertising campaign leads to PS1Bot, a multi-stage malware framework  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/689bb3c9004eca543a36d5fc)
 
-<sub>_Last updated: 2025-09-12 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-12 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
