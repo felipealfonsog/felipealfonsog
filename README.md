@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 1331e12e59aa729531fbfd44ae73fa3d  
-**Pulse**: Malvertising campaign leads to PS1Bot, a multi-stage malware framework  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689bb3c9004eca543a36d5fc)
+**Threat Type**: Cve  
+**Indicator**: CVE-2017-11882  
+**Pulse**: CVE-2017-11882 Will Never Die  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689c6f069882dc769770ff8e)
 
-<sub>_Last updated: 2025-09-12 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-12 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
