@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 670519058a309a63ff63bbf573f79916  
-**Pulse**: Introducing HybridPetya: Petya/NotPetya copycat with UEFI Secure Boot bypass  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c4759460f86dece26ac18f)
+**Threat Type**: Url  
+**Indicator**: http://180.178.189.7/mycaptcha.html  
+**Pulse**: Malicious JavaScript Injects Fullscreen Iframe On a WordPress Website  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689d9929e2ae3c7ac177ec6a)
 
-<sub>_Last updated: 2025-09-13 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-13 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
