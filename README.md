@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Malicious JavaScript Injects Fullscreen Iframe On a WordPress Website  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/689d9929e2ae3c7ac177ec6a)
 
-<sub>_Last updated: 2025-09-13 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-13 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
