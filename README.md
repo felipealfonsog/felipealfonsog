@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Introducing HybridPetya: Petya/NotPetya copycat with UEFI Secure Boot bypass  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68c4759460f86dece26ac18f)
 
-<sub>_Last updated: 2025-09-13 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-13 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
