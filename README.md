@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2017-11882  
-**Pulse**: CVE-2017-11882 Will Never Die  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689c6f069882dc769770ff8e)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 670519058a309a63ff63bbf573f79916  
+**Pulse**: Introducing HybridPetya: Petya/NotPetya copycat with UEFI Secure Boot bypass  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c4759460f86dece26ac18f)
 
-<sub>_Last updated: 2025-09-12 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-13 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
