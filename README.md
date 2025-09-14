@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: CrossC2 Expanding Cobalt Strike Beacon to Cross-Platform Attacks  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/689f1c5321801f3a8be22b42)
 
-<sub>_Last updated: 2025-09-14 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-14 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
