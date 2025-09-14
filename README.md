@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 175d4adc5fc0b0d8eb4b7d93b6f9694e4a3089e4ed4c59a2828d0667a9992aaa  
-**Pulse**: ERMAC V3.0 Banking Trojan: Full Source Code Leak and Infrastructure Analysis  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689ec5b0e65be6f6469fc2f8)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 2562895965e8f788293790145a69bdd3  
+**Pulse**: CrossC2 Expanding Cobalt Strike Beacon to Cross-Platform Attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689f1c5321801f3a8be22b42)
 
-<sub>_Last updated: 2025-09-14 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-14 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
