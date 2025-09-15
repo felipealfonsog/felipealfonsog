@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Threat Actor Profile: Interlock Ransomware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/689f8d13d92fa7802f9dd44a)
 
-<sub>_Last updated: 2025-09-15 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-15 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
