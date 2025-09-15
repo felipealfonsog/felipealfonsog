@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 7a5af6b8cc4b94cf0af8ae8bd56224f3  
-**Pulse**: Threat Actor Profile: Interlock Ransomware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689f8d13d92fa7802f9dd44a)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-09-15 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-15 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
