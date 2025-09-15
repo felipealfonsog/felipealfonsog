@@ -299,7 +299,7 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 <summary>📰 Read On Further 💼</summary>
   <br>
 
-- 📚 Currently, I'm a student of a Master's program in Big Data and Bi, diving into the fascinating world of data analysis and its applications in different areas. It's an exciting journey to explore the intersection of data & engineering! 📊⚙️
+- 📚 Currently, I’m pursuing forthcoming postgraduate studies, exploring the fascinating world of knowledge and its applications across diverse fields. It’s an exciting journey to deepen expertise and contribute to the intersection of technology, innovation & strategy! ⚙️✨
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog). You can also contact me, as always, by email at [felipe.alfonso.glz@gmail.com](mailto:felipe.alfonso.glz@gmail.com) ⚡! 😊
   <br>
 </details>
