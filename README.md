@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 2562895965e8f788293790145a69bdd3  
-**Pulse**: CrossC2 Expanding Cobalt Strike Beacon to Cross-Platform Attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689f1c5321801f3a8be22b42)
+**Indicator**: 7a5af6b8cc4b94cf0af8ae8bd56224f3  
+**Pulse**: Threat Actor Profile: Interlock Ransomware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689f8d13d92fa7802f9dd44a)
 
-<sub>_Last updated: 2025-09-14 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-15 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
