@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Cve  
+**Indicator**: CVE-2024-7344  
+**Pulse**: Introducing HybridPetya: Petya/NotPetya copycat with UEFI Secure Boot bypass  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c81ed99da4be41ed428184)
 
-<sub>_Last updated: 2025-09-15 12:03 UTC_</sub>
+<sub>_Last updated: 2025-09-15 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
