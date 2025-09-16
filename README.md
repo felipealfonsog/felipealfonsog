@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 15b00779bb5d457e76712ec3dd196c46  
-**Pulse**: Technical Analysis of SmokeLoader Version 2025  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c9199ff5cc9de16f856439)
+**Threat Type**: Ipv4  
+**Indicator**: 183.111.174.34  
+**Pulse**: AI-Driven Deepfake Military ID Fraud Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c7c7b0e5b896aa58747260)
 
-<sub>_Last updated: 2025-09-16 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-16 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
