@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2024-7344  
-**Pulse**: Introducing HybridPetya: Petya/NotPetya copycat with UEFI Secure Boot bypass  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c81ed99da4be41ed428184)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 099a4c52210bfa8a5ba3d793f453b5d5  
+**Pulse**: Digital Frontlines: India Under Multi-Nation Hacktivist Attack  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c85f705a536cbddb028faa)
 
-<sub>_Last updated: 2025-09-15 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-16 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
