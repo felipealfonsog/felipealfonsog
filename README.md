@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 099a4c52210bfa8a5ba3d793f453b5d5  
-**Pulse**: Digital Frontlines: India Under Multi-Nation Hacktivist Attack  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c85f705a536cbddb028faa)
+**Indicator**: 15b00779bb5d457e76712ec3dd196c46  
+**Pulse**: Technical Analysis of SmokeLoader Version 2025  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c9199ff5cc9de16f856439)
 
-<sub>_Last updated: 2025-09-16 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-16 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
