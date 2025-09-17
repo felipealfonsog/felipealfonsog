@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: AI-Driven Deepfake Military ID Fraud Campaign  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68c7c7b0e5b896aa58747260)
 
-<sub>_Last updated: 2025-09-16 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-17 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
