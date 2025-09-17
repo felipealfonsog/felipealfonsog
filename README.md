@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 183.111.174.34  
-**Pulse**: AI-Driven Deepfake Military ID Fraud Campaign  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c7c7b0e5b896aa58747260)
+**Threat Type**: Filehash-Sha1  
+**Indicator**: 003ffad46ad3bca7f00252adee39f8f32345bd43  
+**Pulse**: Self-replicating Shai-hulud worm spreads token stealing malware on npm  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c9d89d1c51a61c77ee8581)
 
-<sub>_Last updated: 2025-09-17 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-17 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
