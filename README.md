@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha1  
-**Indicator**: 003ffad46ad3bca7f00252adee39f8f32345bd43  
-**Pulse**: Self-replicating Shai-hulud worm spreads token stealing malware on npm  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c9d89d1c51a61c77ee8581)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 176c3de6c4a1ac5c34b6d6be54fca774  
+**Pulse**: MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68790fe97662f2c9f411e128)
 
-<sub>_Last updated: 2025-09-17 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-17 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
