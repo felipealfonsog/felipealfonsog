@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: a8b6c3b0cd1d36b7a6f94ccf676f6c75  
-**Pulse**: Noodlophile Stealer Evolves: Targeted Copyright Phishing Hits Enterprises with Social Media Footprints  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a4f2609ccc8bd3337dfda6)
+**Threat Type**: Ipv4  
+**Indicator**: 198.54.116.120  
+**Pulse**: Deepens Its Playbook with New Websites and Targets  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68cb7aa638a3244a9fa2ea60)
 
-<sub>_Last updated: 2025-09-18 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-18 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
