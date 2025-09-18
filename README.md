@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2024-51324  
-**Pulse**: Warlock operation joins busy ransomware landscape  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68caf32f9257e8264fc9c0b3)
+**Threat Type**: Filehash-Md5  
+**Indicator**: a8b6c3b0cd1d36b7a6f94ccf676f6c75  
+**Pulse**: Noodlophile Stealer Evolves: Targeted Copyright Phishing Hits Enterprises with Social Media Footprints  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a4f2609ccc8bd3337dfda6)
 
-<sub>_Last updated: 2025-09-18 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-18 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
