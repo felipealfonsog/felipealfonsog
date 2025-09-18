@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 176c3de6c4a1ac5c34b6d6be54fca774  
-**Pulse**: MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68790fe97662f2c9f411e128)
+**Threat Type**: Cve  
+**Indicator**: CVE-2024-51324  
+**Pulse**: Warlock operation joins busy ransomware landscape  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68caf32f9257e8264fc9c0b3)
 
-<sub>_Last updated: 2025-09-17 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-18 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
