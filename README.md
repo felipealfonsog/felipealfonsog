@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Paper Werewolf targets Russia with WinRAR zero-day vulnerability  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68a5c0b2d0be1fec9ae696fc)
 
-<sub>_Last updated: 2025-09-19 12:03 UTC_</sub>
+<sub>_Last updated: 2025-09-19 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
