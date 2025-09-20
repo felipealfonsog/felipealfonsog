@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 290cd148ed2f4995f099b7370437509b  
-**Pulse**: A Cereal Offender: Analyzing the CORNFLAKE.V3 Backdoor  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a6827e930a07d2130dda50)
+**Indicator**: 047135bc4ac5cc8269cd3a4533ffa846  
+**Pulse**: New Variant of ACRStealer Actively Distributed with Modifications  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a746627dcb5238c0b6cf9b)
 
-<sub>_Last updated: 2025-09-20 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-20 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
