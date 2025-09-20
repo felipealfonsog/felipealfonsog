@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: https://33eq8.oquvzop.es/CFTvqhHpUgs@x/  
-**Pulse**: Cybercriminals Abuse AI Website Creation App For Phishing  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a66a49869588c8cfb1af6a)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 290cd148ed2f4995f099b7370437509b  
+**Pulse**: A Cereal Offender: Analyzing the CORNFLAKE.V3 Backdoor  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a6827e930a07d2130dda50)
 
-<sub>_Last updated: 2025-09-20 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-20 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
