@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-6218  
-**Pulse**: Paper Werewolf targets Russia with WinRAR zero-day vulnerability  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a5c0b2d0be1fec9ae696fc)
+**Threat Type**: Url  
+**Indicator**: https://33eq8.oquvzop.es/CFTvqhHpUgs@x/  
+**Pulse**: Cybercriminals Abuse AI Website Creation App For Phishing  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a66a49869588c8cfb1af6a)
 
-<sub>_Last updated: 2025-09-19 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-20 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
