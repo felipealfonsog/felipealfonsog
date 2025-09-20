@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: A Cereal Offender: Analyzing the CORNFLAKE.V3 Backdoor  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68a6827e930a07d2130dda50)
 
-<sub>_Last updated: 2025-09-20 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-20 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
