@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 566ddd4eb4ca8d4dd67b72ee7f944055  
-**Pulse**: APT36 Malware Campaign Using Desktop Entry Files and Google Drive Payload Delivery  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a78a27909fa2f7e2fab5a6)
+**Threat Type**: Domain  
+**Indicator**: appmacosx.com  
+**Pulse**: Clickfix on macOS: AppleScript Stealer, Terminal Phishing, and C2 Infrastructure  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a8aa737add292d5ee2097f)
 
-<sub>_Last updated: 2025-09-21 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-21 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
