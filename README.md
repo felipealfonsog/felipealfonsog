@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 047135bc4ac5cc8269cd3a4533ffa846  
-**Pulse**: New Variant of ACRStealer Actively Distributed with Modifications  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a746627dcb5238c0b6cf9b)
+**Indicator**: 566ddd4eb4ca8d4dd67b72ee7f944055  
+**Pulse**: APT36 Malware Campaign Using Desktop Entry Files and Google Drive Payload Delivery  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a78a27909fa2f7e2fab5a6)
 
-<sub>_Last updated: 2025-09-20 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-21 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
