@@ -9,7 +9,7 @@
 ### Hi there! 👋
 
 
-I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez), a [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%A1a_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), with expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Systems_architecture), [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering), [Cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity), [Cyber Intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), and [Cyber Counter-Terrorism](https://en.wikipedia.org/wiki/Cyberterrorism), as well as in [R&D](https://en.wikipedia.org/wiki/Research_and_development) ([I+D](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_y_desarrollo)). I teach online as a [lecturer](https://en.wikipedia.org/wiki/Lecturer) & [Advisor](https://en.wikipedia.org/wiki/Consultant) while pursuing forthcoming postgraduate studies with a focus on innovation and technology. Beyond coding and technical work, I constantly explore new ideas, deepen my knowledge across diverse domains, and contribute as a maintainer in the [GitHub community](https://github.com/community). In my leisure, I enjoy reading, playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) (BJJ), [Zazen](https://en.wikipedia.org/wiki/Zazen) (*Mindfulness*), and listening to music ([Spotify](https://open.spotify.com/user/12133266428)) - while cherishing a deep love for animals and nature, supporting [PETA](https://www.peta.org/) in ethical advocacy. As a former [Rover Scout Leader](https://en.wikipedia.org/wiki/Rover_Scout) with the Agrupación Nacional de [Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values. As I've previously expressed, I thoroughly enjoy writing and reading ([Goodreads](https://goodreads.com/felipealfonsog) Bookshelves); I'm always seeking enlightenment and knowledge — I seek truth in the silence of my steps; this is why I enjoy studying philosophy, consciousness, and even exploring the knowledge found in [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry) in all its forms. I value transparency and authenticity, believing that sharing ideals is meaningful, and I consider integrity a guiding principle reflecting commitment to truth and human dignity. Aligning my values with my work, I strive to act with coherence, purpose, and respect for the broader impact of my actions. If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com).
+I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez), a [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%A1a_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), with expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Systems_architecture), [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering), [Cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity), [Cyber Intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), and [Cyber Counter-Terrorism](https://en.wikipedia.org/wiki/Cyberterrorism), as well as in [R&D](https://en.wikipedia.org/wiki/Research_and_development) ([I+D](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_y_desarrollo)). I am constantly involved in innovative endeavors while pursuing forthcoming postgraduate studies in innovation and technology, along with advanced courses and professional certifications. Beyond coding and technical work, I constantly explore new ideas, deepen my knowledge across diverse domains, and contribute as a maintainer in the [GitHub community](https://github.com/community). In my leisure, I enjoy reading, playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) (BJJ), [Zazen](https://en.wikipedia.org/wiki/Zazen) (*Mindfulness*), and listening to music ([Spotify](https://open.spotify.com/user/12133266428)) - while cherishing a deep love for animals and nature, supporting [PETA](https://www.peta.org/) in ethical advocacy. As a former [Rover Scout Leader](https://en.wikipedia.org/wiki/Rover_Scout) with the Agrupación Nacional de [Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values. As I've previously expressed, I thoroughly enjoy writing and reading ([Goodreads](https://goodreads.com/felipealfonsog) Bookshelves); I'm always seeking enlightenment and knowledge — I seek truth in the silence of my steps; this is why I enjoy studying philosophy, consciousness, and even exploring the knowledge found in [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry) in all its forms. I value transparency and authenticity, believing that sharing ideals is meaningful, and I consider integrity a guiding principle reflecting commitment to truth and human dignity. Aligning my values with my work, I strive to act with coherence, purpose, and respect for the broader impact of my actions. If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com).
 
 
 
@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 7a5af6b8cc4b94cf0af8ae8bd56224f3  
-**Pulse**: Threat Actor Profile: Interlock Ransomware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689f8d13d92fa7802f9dd44a)
+**Indicator**: 5f85261cf55ed10e73c9b68128092e70  
+**Pulse**: Android Document Readers and Deception: Tracking the Latest Updates to Anatsa  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a8fd27824526b648f5b4e1)
 
-<sub>_Last updated: 2025-09-15 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-22 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -378,20 +378,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 15 September 2025
+From: 04 December 2023 - To: 22 September 2025
 
-Total Time: 808 hrs 33 mins
+Total Time: 815 hrs 1 min
 
-Bash                 135 hrs 53 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.27 %
-Python               125 hrs 2 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.97 %
-HTML                 108 hrs 19 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.97 %
-PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.46 %
-Markdown             70 hrs 21 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.43 %
-C                    64 hrs 21 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.71 %
-C++                  39 hrs 47 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.77 %
-INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.57 %
-Text                 29 hrs 16 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.50 %
-Other                26 hrs 33 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.18 %
+Bash                 136 hrs 12 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.14 %
+Python               127 hrs 5 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   15.06 %
+HTML                 108 hrs 19 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.84 %
+PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.37 %
+Markdown             70 hrs 54 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.40 %
+C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.80 %
+C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.74 %
+INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.54 %
+Text                 29 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.49 %
+Other                28 hrs 40 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.40 %
 ```
 
 <!--END_SECTION:waka-->
@@ -459,22 +459,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
+      <a href="https://github.com/codemonkey0612">
+        <img src="https://avatars2.githubusercontent.com/u/50035424" style="width:30px; height:30px;" alt="codemonkey0612"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/codemonkey0612">codemonkey</a>
+      </sub>
+    </li>
+    <br>
+    <li>
       <a href="https://github.com/Francesco601">
         <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
