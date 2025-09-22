@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: appmacosx.com  
-**Pulse**: Clickfix on macOS: AppleScript Stealer, Terminal Phishing, and C2 Infrastructure  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a8aa737add292d5ee2097f)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 5f85261cf55ed10e73c9b68128092e70  
+**Pulse**: Android Document Readers and Deception: Tracking the Latest Updates to Anatsa  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a8fd27824526b648f5b4e1)
 
-<sub>_Last updated: 2025-09-21 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-22 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
