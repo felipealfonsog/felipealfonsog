@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Android Document Readers and Deception: Tracking the Latest Updates to Anatsa  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68a8fd27824526b648f5b4e1)
 
-<sub>_Last updated: 2025-09-22 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-22 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
