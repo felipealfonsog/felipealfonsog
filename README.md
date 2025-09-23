@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 10b7139952e3daae8f9d7ee407696ccf  
-**Pulse**: APT36: Targets Indian BOSS Linux Systems with Weaponized AutoStart Files  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a999165ab79f5b181e6068)
+**Indicator**: 0c76c41dfe6989ba042e27755e2b68f7  
+**Pulse**: Nimbus Manticore Deploys New Malware Targeting Europe  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d1c1ecdb0b4acf0cc29af1)
 
-<sub>_Last updated: 2025-09-22 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-23 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
