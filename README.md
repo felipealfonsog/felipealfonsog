@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0c76c41dfe6989ba042e27755e2b68f7  
-**Pulse**: Nimbus Manticore Deploys New Malware Targeting Europe  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d1c1ecdb0b4acf0cc29af1)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-09-23 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-23 12:04 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
