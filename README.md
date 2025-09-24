@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 8b9ad525283aa40a1af0a6b0d3e5b94d  
-**Pulse**: Artificial Intelligence Exposes the Homoglyph Hustle  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d3158e26d55b3b453c8602)
+**Indicator**: 03794685a12ce0dd7b69e70ced8568f9  
+**Pulse**: Kimsuky Attack Disguised as Sex Offender Notification Information  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d3ca2cd673df55f478a246)
 
-<sub>_Last updated: 2025-09-24 06:03 UTC_</sub>
+<sub>_Last updated: 2025-09-24 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
