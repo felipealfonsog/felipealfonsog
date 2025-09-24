@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 8b9ad525283aa40a1af0a6b0d3e5b94d  
+**Pulse**: Artificial Intelligence Exposes the Homoglyph Hustle  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d3158e26d55b3b453c8602)
 
-<sub>_Last updated: 2025-09-23 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-24 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
