@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Artificial Intelligence Exposes the Homoglyph Hustle  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68d3158e26d55b3b453c8602)
 
-<sub>_Last updated: 2025-09-24 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-24 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
