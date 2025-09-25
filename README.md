@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0538e73fc195c3b4441721d4c60d0b96  
-**Pulse**: PRC-Nexus Espionage Campaign Hijacks Web Traffic to Target Diplomats  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68acfa70f85ead1f5b1f64d3)
+**Threat Type**: Domain  
+**Indicator**: culturabva.es  
+**Pulse**: Major August 2025 Cyber Attacks: 7-Stage Tycoon2FA Phishing, New ClickFix Campaign, and Salty2FA  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68addd58d3bae863fdf8d5ae)
 
-<sub>_Last updated: 2025-09-25 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-25 18:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
