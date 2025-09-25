@@ -439,22 +439,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Pizzaboi87">
-        <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/codemonkey0612">
         <img src="https://avatars2.githubusercontent.com/u/50035424" style="width:30px; height:30px;" alt="codemonkey0612"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/codemonkey0612">codemonkey</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Pizzaboi87">
+        <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
       </sub>
     </li>
     <br>
