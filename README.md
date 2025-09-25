@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 421320ccf8972de50f8574a5b1c8d308  
-**Pulse**: How a new PlugX variant abuses DLL search order hijacking  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d31c0c8c90127096487d05)
+**Indicator**: 0538e73fc195c3b4441721d4c60d0b96  
+**Pulse**: PRC-Nexus Espionage Campaign Hijacks Web Traffic to Target Diplomats  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68acfa70f85ead1f5b1f64d3)
 
-<sub>_Last updated: 2025-09-24 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-25 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
