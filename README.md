@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: PRC-Nexus Espionage Campaign Hijacks Web Traffic to Target Diplomats  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68acfa70f85ead1f5b1f64d3)
 
-<sub>_Last updated: 2025-09-25 00:08 UTC_</sub>
+<sub>_Last updated: 2025-09-25 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
