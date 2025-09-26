@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Ipv4  
+**Indicator**: 152.89.170.51  
+**Pulse**: Botnet Loader-as-a-Service Infrastructure Distributing RondoDoX and Mirai Payloads  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d5ce6bb2658315c0cc3890)
 
-<sub>_Last updated: 2025-09-26 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-26 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
