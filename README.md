@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 155bccbd11066ce5bf117537d140b920f9b98eaa0d3b86bdc8a04ac702a7a1ef  
-**Pulse**: ZipLine Phishing Campaign Targets U.S. Manufacturing  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68af58ce8cb7bcf7195c203f)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 1f003437e3d10e07f5ee5f51c61c548f  
+**Pulse**: The Covert Dual-Mode Backdoor Threat  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b02e9d16cefad9b2cd22a9)
 
-<sub>_Last updated: 2025-09-27 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-27 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
