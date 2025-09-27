@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 152.89.170.51  
-**Pulse**: Botnet Loader-as-a-Service Infrastructure Distributing RondoDoX and Mirai Payloads  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d5ce6bb2658315c0cc3890)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 155bccbd11066ce5bf117537d140b920f9b98eaa0d3b86bdc8a04ac702a7a1ef  
+**Pulse**: ZipLine Phishing Campaign Targets U.S. Manufacturing  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68af58ce8cb7bcf7195c203f)
 
-<sub>_Last updated: 2025-09-26 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-27 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
