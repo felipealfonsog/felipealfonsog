@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: culturabva.es  
-**Pulse**: Major August 2025 Cyber Attacks: 7-Stage Tycoon2FA Phishing, New ClickFix Campaign, and Salty2FA  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68addd58d3bae863fdf8d5ae)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 160f60dc3fc9920cfc3847de4de2ef09  
+**Pulse**: Unmasking the new Chaos RaaS group attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b1c325bd3b4a24b371dd29)
 
-<sub>_Last updated: 2025-09-28 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-28 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
