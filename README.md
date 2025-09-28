@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Major August 2025 Cyber Attacks: 7-Stage Tycoon2FA Phishing, New ClickFix Campaign, and Salty2FA  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68addd58d3bae863fdf8d5ae)
 
-<sub>_Last updated: 2025-09-28 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-28 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
