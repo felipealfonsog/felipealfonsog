@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 160f60dc3fc9920cfc3847de4de2ef09  
-**Pulse**: Unmasking the new Chaos RaaS group attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b1c325bd3b4a24b371dd29)
+**Indicator**: 2b2013f31a1e7960109518de61be6bd0  
+**Pulse**: SVG Phishing hits Ukraine with Amatera Stealer, PureMiner  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d6f22df576f8efbd6366e1)
 
-<sub>_Last updated: 2025-09-29 06:02 UTC_</sub>
+<sub>_Last updated: 2025-09-29 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
