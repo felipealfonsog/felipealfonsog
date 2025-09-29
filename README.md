@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: SVG Phishing hits Ukraine with Amatera Stealer, PureMiner  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68d6f22df576f8efbd6366e1)
 
-<sub>_Last updated: 2025-09-29 12:03 UTC_</sub>
+<sub>_Last updated: 2025-09-29 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
