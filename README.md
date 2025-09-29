@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Unmasking the new Chaos RaaS group attacks  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68b1c325bd3b4a24b371dd29)
 
-<sub>_Last updated: 2025-09-29 00:07 UTC_</sub>
+<sub>_Last updated: 2025-09-29 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
