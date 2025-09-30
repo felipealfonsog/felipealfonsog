@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 2b2013f31a1e7960109518de61be6bd0  
-**Pulse**: SVG Phishing hits Ukraine with Amatera Stealer, PureMiner  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d6f22df576f8efbd6366e1)
+**Threat Type**: Domain  
+**Indicator**: berlin101.com  
+**Pulse**: XWorm RAT Delivered via Shellcode: Multi-Stage Attack Analysis  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68da3ed188175c68ce3021fc)
 
-<sub>_Last updated: 2025-09-29 18:02 UTC_</sub>
+<sub>_Last updated: 2025-09-30 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
