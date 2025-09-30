@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Ipv4  
+**Indicator**: 116.125.126.38  
+**Pulse**: DeceptiveDevelopment: From primitive crypto theft to sophisticated AI-based deception  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d56dd09ac2cd6557e9f7f6)
 
-<sub>_Last updated: 2025-09-30 12:02 UTC_</sub>
+<sub>_Last updated: 2025-09-30 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
