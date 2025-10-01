@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Cve  
-**Indicator**: CVE-2023-20118  
-**Pulse**: A look at PolarEdge Adjacent Infrastructure  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b567c5f9a43f8e25f18f06)
+**Indicator**: CVE-2025-53690  
+**Pulse**: Cybercrime Observations from the Frontlines: UNC6040 Proactive Hardening Recommendations  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68dd1afb1b0d42961ea3539c)
 
-<sub>_Last updated: 2025-10-01 12:03 UTC_</sub>
+<sub>_Last updated: 2025-10-01 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
