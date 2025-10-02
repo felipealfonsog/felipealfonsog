@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-53690  
-**Pulse**: Cybercrime Observations from the Frontlines: UNC6040 Proactive Hardening Recommendations  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68dd1afb1b0d42961ea3539c)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 371b517a24fd546dd5a89ed386ec0f5d  
+**Pulse**: Rhadamanthys 0.9.x - walk through the updates  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68dd8edde79b4d282c08dc5f)
 
-<sub>_Last updated: 2025-10-01 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-02 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
