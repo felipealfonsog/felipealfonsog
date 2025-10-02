@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 371b517a24fd546dd5a89ed386ec0f5d  
-**Pulse**: Rhadamanthys 0.9.x - walk through the updates  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68dd8edde79b4d282c08dc5f)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-10-02 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-02 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
