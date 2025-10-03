@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 5.42.221.106  
-**Pulse**: New spyware campaigns target privacy-conscious Android users in the UAE  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68dea4cbafd0a5feb49cf0bb)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 01008691cc1cb4fe2deafd19b02931a8  
+**Pulse**: Dissecting RapperBot Botnet: From Infection to DDoS & More  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b7d8c30d43bf797983c817)
 
-<sub>_Last updated: 2025-10-03 00:06 UTC_</sub>
+<sub>_Last updated: 2025-10-03 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
