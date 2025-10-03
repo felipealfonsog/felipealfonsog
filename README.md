@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 01008691cc1cb4fe2deafd19b02931a8  
-**Pulse**: Dissecting RapperBot Botnet: From Infection to DDoS & More  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b7d8c30d43bf797983c817)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-10-03 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-03 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
