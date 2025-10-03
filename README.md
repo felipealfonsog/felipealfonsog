@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 33c9a47debdb07824c6c51e13740bdfe  
-**Pulse**: Three Lazarus RATs coming for your cheese  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b727b93637b3a14f210baa)
+**Threat Type**: Ipv4  
+**Indicator**: 5.42.221.106  
+**Pulse**: New spyware campaigns target privacy-conscious Android users in the UAE  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68dea4cbafd0a5feb49cf0bb)
 
-<sub>_Last updated: 2025-10-02 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-03 00:06 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
