@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0d451cd700544d333763089c64fb1f0a  
+**Pulse**: Three Lazarus RATs coming for your cheese  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b87b65a4bb4c1c6d37b3a2)
 
-<sub>_Last updated: 2025-10-03 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-03 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
