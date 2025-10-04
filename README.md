@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 021b3d53fe113d014a9700488e31a6fb5e16cb02227de5309f6f93affa4515a6  
-**Pulse**: Operation BarrelFire: Targeting Kazakhstan Oil & Gas  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b95a9f66687cde0c6c8561)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 76c3d2092737d964dfd627f1ced0af80  
+**Pulse**: Contagious Interview | North Korean Threat Actors Reveal Plans and Ops by Abusing Cyber Intel Platforms  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b9d266a57b122998115dc6)
 
-<sub>_Last updated: 2025-10-04 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-04 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
