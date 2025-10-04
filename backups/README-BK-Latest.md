@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 5f85261cf55ed10e73c9b68128092e70  
-**Pulse**: Android Document Readers and Deception: Tracking the Latest Updates to Anatsa  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68a8fd27824526b648f5b4e1)
+**Indicator**: 76c3d2092737d964dfd627f1ced0af80  
+**Pulse**: Contagious Interview | North Korean Threat Actors Reveal Plans and Ops by Abusing Cyber Intel Platforms  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b9d266a57b122998115dc6)
 
-<sub>_Last updated: 2025-09-22 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-04 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -378,20 +378,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 22 September 2025
+From: 04 December 2023 - To: 04 October 2025
 
-Total Time: 815 hrs 1 min
+Total Time: 816 hrs 43 mins
 
-Bash                 136 hrs 12 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   16.14 %
-Python               127 hrs 5 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   15.06 %
-HTML                 108 hrs 19 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.84 %
-PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.37 %
-Markdown             70 hrs 54 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.40 %
-C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.80 %
+Bash                 137 hrs 42 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.29 %
+Python               127 hrs 5 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   15.03 %
+HTML                 108 hrs 25 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.83 %
+PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.35 %
+Markdown             70 hrs 54 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.39 %
+C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.78 %
 C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.74 %
-INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.54 %
+INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.53 %
 Text                 29 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.49 %
-Other                28 hrs 40 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.40 %
+Other                28 hrs 40 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.39 %
 ```
 
 <!--END_SECTION:waka-->
@@ -439,6 +439,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
+      <a href="https://github.com/codemonkey0612">
+        <img src="https://avatars2.githubusercontent.com/u/50035424" style="width:30px; height:30px;" alt="codemonkey0612"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/codemonkey0612">codemonkey</a>
+      </sub>
+    </li>
+    <br>
+    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
@@ -455,16 +465,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
-      </sub>
-    </li>
-    <br>
-    <li>
-      <a href="https://github.com/codemonkey0612">
-        <img src="https://avatars2.githubusercontent.com/u/50035424" style="width:30px; height:30px;" alt="codemonkey0612"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/codemonkey0612">codemonkey</a>
       </sub>
     </li>
     <br>
@@ -1014,6 +1014,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 <!-- ![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue) -->
 <!-- Last Updated: 2023-07-23 -->
 
-[![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org)
+[![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org) [![Copilot Enabled](https://img.shields.io/badge/Copilot-Enabled-%23333F48.svg?style=plastic&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
+
 
 <sub>[[Top Home]](#hi-there-)</sub>
