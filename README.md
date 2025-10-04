@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0d451cd700544d333763089c64fb1f0a  
-**Pulse**: Three Lazarus RATs coming for your cheese  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b87b65a4bb4c1c6d37b3a2)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 021b3d53fe113d014a9700488e31a6fb5e16cb02227de5309f6f93affa4515a6  
+**Pulse**: Operation BarrelFire: Targeting Kazakhstan Oil & Gas  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b95a9f66687cde0c6c8561)
 
-<sub>_Last updated: 2025-10-04 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-04 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
