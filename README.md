@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 03935f58d2d3efb35c1ddaafb6d90b98  
-**Pulse**: New Botnet Emerges from the Shadows: NightshadeC2  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68babf81ce8dc0a40f7d42f5)
+**Indicator**: 0ee3ed9a974ab3e3f93e0f605c7d4423  
+**Pulse**: Operation BarrelFire: Targeting Kazakhstan Oil & Gas  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bb1b128ef4f3460cf220d4)
 
-<sub>_Last updated: 2025-10-05 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-05 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
