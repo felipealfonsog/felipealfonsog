@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0ee3ed9a974ab3e3f93e0f605c7d4423  
-**Pulse**: Operation BarrelFire: Targeting Kazakhstan Oil & Gas  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bb1b128ef4f3460cf220d4)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 3767140145cef85204ddec1285f5dc8544bfcf8ff22318c11073baaa476385fc  
+**Pulse**: SecuritySnack: 18+E-Crime  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e3a2a3b0665d1c9f1fd3be)
 
-<sub>_Last updated: 2025-10-06 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-06 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
