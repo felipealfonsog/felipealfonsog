@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Operation BarrelFire: Targeting Kazakhstan Oil & Gas  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68bb1b128ef4f3460cf220d4)
 
-<sub>_Last updated: 2025-10-05 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-06 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
