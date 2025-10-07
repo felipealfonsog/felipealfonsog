@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 76c3d2092737d964dfd627f1ced0af80  
-**Pulse**: Contagious Interview | North Korean Threat Actors Reveal Plans and Ops by Abusing Cyber Intel Platforms  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b9d266a57b122998115dc6)
+**Indicator**: a11466bee082a37915c25b84f839a728  
+**Pulse**: XWorm V6: Exploring Pivotal Plugins  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e4116d2907e024806e89fc)
 
-<sub>_Last updated: 2025-10-04 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-07 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -49,7 +49,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 
 -->
 
-[![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
+[![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![All Gists](https://img.shields.io/badge/-All%20Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 
 
 
@@ -378,20 +378,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 04 October 2025
+From: 04 December 2023 - To: 07 October 2025
 
-Total Time: 816 hrs 43 mins
+Total Time: 820 hrs 7 mins
 
-Bash                 137 hrs 42 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.29 %
-Python               127 hrs 5 mins  ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   15.03 %
-HTML                 108 hrs 25 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.83 %
-PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.35 %
-Markdown             70 hrs 54 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.39 %
-C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.78 %
-C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.74 %
-INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.53 %
-Text                 29 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.49 %
-Other                28 hrs 40 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.39 %
+Bash                 140 hrs 40 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.57 %
+Python               127 hrs 23 mins ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   15.01 %
+HTML                 108 hrs 25 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.77 %
+PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.31 %
+Markdown             70 hrs 54 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.35 %
+C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.75 %
+C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.72 %
+INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.52 %
+Text                 29 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.47 %
+Other                28 hrs 40 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.38 %
 ```
 
 <!--END_SECTION:waka-->
