@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 12011c44955fd6631113f68a99447515  
-**Pulse**: Blurring the Lines: Intrusion Shows Connection With Three Major Ransomware Gangs  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bf5fbcf445a2c7c0a21ee8)
+**Threat Type**: Ipv4  
+**Indicator**: 45.207.220.12  
+**Pulse**: The Crown Prince, Nezha: A New Tool Favored by China-Nexus Threat Actors  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e7e51909bb02e0f22bfc5a)
 
-<sub>_Last updated: 2025-10-09 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-09 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
