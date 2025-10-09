@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 31.41.244.100  
-**Pulse**: The Evolution of Qilin RaaS  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e69076a95f1726dd5d19eb)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 12011c44955fd6631113f68a99447515  
+**Pulse**: Blurring the Lines: Intrusion Shows Connection With Three Major Ransomware Gangs  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bf5fbcf445a2c7c0a21ee8)
 
-<sub>_Last updated: 2025-10-08 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-09 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
