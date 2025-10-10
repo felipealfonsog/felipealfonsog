@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 45.207.220.12  
-**Pulse**: The Crown Prince, Nezha: A New Tool Favored by China-Nexus Threat Actors  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e7e51909bb02e0f22bfc5a)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-10-09 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-10 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
