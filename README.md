@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 157.66.26.209  
-**Pulse**: From infostealer to full RAT: dissecting the PureRAT attack chain  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e96e29b73e5334019b8810)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 318a1ebc0692d1d012d20d306d6634b196cc387b1f4bc38f97dd437f117c7e20  
+**Pulse**: Updated Toneshell backdoor and novel SnakeDisk USB worm dropped  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c32568c1f6fad2db3a2d3a)
 
-<sub>_Last updated: 2025-10-11 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-12 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
