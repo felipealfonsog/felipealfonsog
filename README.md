@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Inside the 2025 Energy Phishing Wave: Chevron, Conoco, PBF, Phillips 66  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68c37a4f61a4eeb53a76aef0)
 
-<sub>_Last updated: 2025-10-12 06:03 UTC_</sub>
+<sub>_Last updated: 2025-10-12 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
