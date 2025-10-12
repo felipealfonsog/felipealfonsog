@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 6296ae44fae279994f4b127bd08db3e1  
-**Pulse**: Inside the 2025 Energy Phishing Wave: Chevron, Conoco, PBF, Phillips 66  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c37a4f61a4eeb53a76aef0)
+**Indicator**: 86b32049a679b945a803b32e58ba9462  
+**Pulse**: Deconstructing a Cyber Deception: An Analysis of the Clickfix HijackLoader Phishing Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c434b702367baa76c87ab9)
 
-<sub>_Last updated: 2025-10-12 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-12 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
