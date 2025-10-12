@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 318a1ebc0692d1d012d20d306d6634b196cc387b1f4bc38f97dd437f117c7e20  
-**Pulse**: Updated Toneshell backdoor and novel SnakeDisk USB worm dropped  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c32568c1f6fad2db3a2d3a)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 6296ae44fae279994f4b127bd08db3e1  
+**Pulse**: Inside the 2025 Energy Phishing Wave: Chevron, Conoco, PBF, Phillips 66  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c37a4f61a4eeb53a76aef0)
 
-<sub>_Last updated: 2025-10-12 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-12 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
