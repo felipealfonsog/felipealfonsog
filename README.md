@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: New Stealit Campaign Abuses Node.js Single Executable Application  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68e9c610ed593e428bddfceb)
 
-<sub>_Last updated: 2025-10-13 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-13 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
