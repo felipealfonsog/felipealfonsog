@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 2754dbe9c3522ec0d4693af17096aa4b  
-**Pulse**: New Stealit Campaign Abuses Node.js Single Executable Application  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e9c610ed593e428bddfceb)
+**Indicator**: 5fad0c5b6e5a758059c5a4e633424555  
+**Pulse**: Judicial Notification Phish Targets Colombian Users – .SVG Attachment Deploys Info-stealer Malware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68ed4c95892f0090f1b70ec4)
 
-<sub>_Last updated: 2025-10-13 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-14 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
