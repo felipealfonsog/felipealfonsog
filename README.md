@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 09dabe5ab566e50ab4526504345af297  
-**Pulse**: AI-Driven Deepfake Military ID Fraud Campaign  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c7c7b0e5b896aa58747260)
+**Indicator**: 099a4c52210bfa8a5ba3d793f453b5d5  
+**Pulse**: Digital Frontlines: India Under Multi-Nation Hacktivist Attack  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c85f705a536cbddb028faa)
 
-<sub>_Last updated: 2025-10-15 12:03 UTC_</sub>
+<sub>_Last updated: 2025-10-15 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
