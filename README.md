@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Chasing the Silver Fox: Cat & Mouse in Kernel Shadows  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68b059077886827c01bed027)
 
-<sub>_Last updated: 2025-10-16 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-16 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
