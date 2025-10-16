@@ -30,11 +30,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 099a4c52210bfa8a5ba3d793f453b5d5  
-**Pulse**: Digital Frontlines: India Under Multi-Nation Hacktivist Attack  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68c85f705a536cbddb028faa)
+**Indicator**: 2a299f33b84c85c28dcae950d3950034  
+**Pulse**: Chasing the Silver Fox: Cat & Mouse in Kernel Shadows  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68b059077886827c01bed027)
 
-<sub>_Last updated: 2025-10-15 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-16 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
