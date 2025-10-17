@@ -34,7 +34,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68f130fd1a3aa569d5aeccbd)
 
-<sub>_Last updated: 2025-10-17 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-17 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
