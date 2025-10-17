@@ -29,12 +29,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 206.119.175.16  
-**Pulse**: Operation Silk Lure: Scheduled Tasks Weaponized for DLL Side-Loading (drops ValleyRAT)  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f0d9fae13980827834f665)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 01fd153bfb4be440dd46cea7bebe8eb61b1897596523f6f6d1a507a708b17cc7  
+**Pulse**: DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f130fd1a3aa569d5aeccbd)
 
-<sub>_Last updated: 2025-10-16 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-17 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
