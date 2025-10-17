@@ -22,19 +22,21 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 
 <br>
 -->
-[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl)
+[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl) [![Books2Read](https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57)](https://books2read.com/adrianglorentz) [![Insight Timer](https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166)](https://insighttimer.com/namchandersingh/)
+
+ 
 
 <details open>
 <summary>:star2: 🛰️ <strong>Latest Threat Intelligence from AlienVault OTX</strong> – updated automatically every 5 hours.*</summary>
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: a11466bee082a37915c25b84f839a728  
-**Pulse**: XWorm V6: Exploring Pivotal Plugins  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e4116d2907e024806e89fc)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 01fd153bfb4be440dd46cea7bebe8eb61b1897596523f6f6d1a507a708b17cc7  
+**Pulse**: DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f130fd1a3aa569d5aeccbd)
 
-<sub>_Last updated: 2025-10-07 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-17 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -378,20 +380,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 07 October 2025
+From: 04 December 2023 - To: 17 October 2025
 
-Total Time: 820 hrs 7 mins
+Total Time: 826 hrs 43 mins
 
-Bash                 140 hrs 40 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.57 %
-Python               127 hrs 23 mins ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   15.01 %
-HTML                 108 hrs 25 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.77 %
-PHP                  79 hrs 1 min    ◕◕◐○○○○○○○○○○○○○○○○○○○○○○   09.31 %
-Markdown             70 hrs 54 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.35 %
-C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.75 %
-C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.72 %
-INI                  29 hrs 51 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.52 %
-Text                 29 hrs 28 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.47 %
-Other                28 hrs 40 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.38 %
+Bash                 140 hrs 47 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.45 %
+Python               130 hrs 41 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.27 %
+HTML                 108 hrs 25 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.67 %
+PHP                  79 hrs 1 min    ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.23 %
+Markdown             70 hrs 57 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.29 %
+C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.69 %
+C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.68 %
+INI                  29 hrs 53 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.49 %
+Text                 29 hrs 28 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.44 %
+Other                29 hrs 17 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.42 %
 ```
 
 <!--END_SECTION:waka-->
@@ -439,22 +441,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/codemonkey0612">
-        <img src="https://avatars2.githubusercontent.com/u/50035424" style="width:30px; height:30px;" alt="codemonkey0612"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/codemonkey0612">codemonkey</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
@@ -469,12 +471,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
