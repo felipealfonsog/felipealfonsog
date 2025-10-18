@@ -36,7 +36,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Deepens Its Playbook with New Websites and Targets  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68cb7aa638a3244a9fa2ea60)
 
-<sub>_Last updated: 2025-10-18 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-18 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
