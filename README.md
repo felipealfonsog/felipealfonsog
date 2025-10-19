@@ -32,11 +32,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 79aa6b269f7b9b91581696ff600475fd  
-**Pulse**: CountLoader: New Malware Loader Being Served in 3 Different Versions  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68cd1af4dafcfd20ae92b395)
+**Indicator**: 327233d73236ca4d7c18ffd8f9924127  
+**Pulse**: Malicious PyPI Packages Deliver SilentSync RAT  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68cd7f4ac828ce64182a78ea)
 
-<sub>_Last updated: 2025-10-19 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-19 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
