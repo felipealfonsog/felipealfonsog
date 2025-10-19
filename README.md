@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: actu-net.fr  
-**Pulse**: Deepens Its Playbook with New Websites and Targets  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68cb7aa638a3244a9fa2ea60)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 79aa6b269f7b9b91581696ff600475fd  
+**Pulse**: CountLoader: New Malware Loader Being Served in 3 Different Versions  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68cd1af4dafcfd20ae92b395)
 
-<sub>_Last updated: 2025-10-19 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-19 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
