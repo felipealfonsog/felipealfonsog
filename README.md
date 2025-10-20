@@ -36,7 +36,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Malicious PyPI Packages Deliver SilentSync RAT  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68cd7f4ac828ce64182a78ea)
 
-<sub>_Last updated: 2025-10-20 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-20 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
