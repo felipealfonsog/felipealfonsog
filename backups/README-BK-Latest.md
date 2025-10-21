@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 01fd153bfb4be440dd46cea7bebe8eb61b1897596523f6f6d1a507a708b17cc7  
-**Pulse**: DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f130fd1a3aa569d5aeccbd)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-10-17 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-21 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -108,7 +108,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
   > "You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart even when it leads you off the well worn path; and that will make all the difference." ~ [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) [Stanford commencement speech, June 2005] 
 
-  > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade. Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ [Felipe Alfonso González L.](https://en.wikipedia.org/wiki/User:Felipealfonsog)  ∴
+  > "In a cold and ruthless world, all that remains is to thole, persevere and withstand, hold back the tears, and remember that we are nothing more than a whisper in the vastness, an echo that will fade. Nothing of what we possess, nothing of what we believe ourselves to be, will endure… except that which, in the intimacy of ritual and introspection, we forge within ourselves. And not even that. Still, in the deepest darkness, we must learn to rise with an unbreakable will, for only in that acceptance —in that descent to the threshold of the void, where the soul faces its own shadow— can we carve our consciousness into something higher, more worthy… something that transcends." ~ [Felipe Alfonso González L.](https://en.wikipedia.org/wiki/User:Felipealfonsog) 
 </details>
 
 <!--
@@ -380,17 +380,17 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 17 October 2025
+From: 04 December 2023 - To: 21 October 2025
 
-Total Time: 826 hrs 43 mins
+Total Time: 827 hrs 21 mins
 
-Bash                 140 hrs 47 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.45 %
-Python               130 hrs 41 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.27 %
-HTML                 108 hrs 25 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.67 %
-PHP                  79 hrs 1 min    ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.23 %
-Markdown             70 hrs 57 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.29 %
-C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.69 %
-C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.68 %
+Bash                 140 hrs 47 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.44 %
+Python               130 hrs 41 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.26 %
+HTML                 109 hrs 3 mins  ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.73 %
+PHP                  79 hrs 1 min    ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.22 %
+Markdown             70 hrs 57 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.28 %
+C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.68 %
+C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.67 %
 INI                  29 hrs 53 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.49 %
 Text                 29 hrs 28 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.44 %
 Other                29 hrs 17 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.42 %
