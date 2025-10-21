@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 85.239.52.32  
-**Pulse**: To Be (A Robot) or Not to Be: New Malware Attributed to Russia State-Sponsored COLDRIVER  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f756148d1335a1b45d57c2)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0205b1b8c5564acfb55991eeb19bce58  
+**Pulse**: TikTok Videos Promoting Malware Installation  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f7a913d01518d5cfc73c23)
 
-<sub>_Last updated: 2025-10-21 12:03 UTC_</sub>
+<sub>_Last updated: 2025-10-21 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
