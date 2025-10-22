@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0205b1b8c5564acfb55991eeb19bce58  
-**Pulse**: TikTok Videos Promoting Malware Installation  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f7a913d01518d5cfc73c23)
+**Threat Type**: Ipv4  
+**Indicator**: 140.82.52.31  
+**Pulse**: GlassWorm: Self-Propagating VSCode Extension Worm  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f7b9ecf349cd47ba5c8f84)
 
-<sub>_Last updated: 2025-10-21 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-22 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
