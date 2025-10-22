@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Ipv4  
+**Indicator**: 72.49.91.23  
+**Pulse**: Jingle Thief: Inside a Cloud-Based Gift Card Fraud Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f8be44cd939fbe6ca0eca6)
 
-<sub>_Last updated: 2025-10-22 12:03 UTC_</sub>
+<sub>_Last updated: 2025-10-22 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
