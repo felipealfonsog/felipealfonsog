@@ -36,7 +36,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Multi-Stage WebSocket RAT Targets Ukraine in Single-Day Spearphishing Operation  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68f9344f3414613f13b09ef2)
 
-<sub>_Last updated: 2025-10-23 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-23 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
