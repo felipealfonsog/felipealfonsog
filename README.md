@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 77f27ffccd75fc39ea003cbde32c624b  
-**Pulse**: Multi-Stage WebSocket RAT Targets Ukraine in Single-Day Spearphishing Operation  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f9344f3414613f13b09ef2)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-8088  
+**Pulse**: Bitter (APT-Q-37) uses diverse means to deliver new backdoor components  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f9e25d901d09154f09b282)
 
-<sub>_Last updated: 2025-10-23 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-23 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
