@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Hostname  
-**Indicator**: anpost.com-pay.online  
-**Pulse**: The Smishing Deluge: China-Based Campaign Flooding Global Text Messages  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68fb61809f3b37a23c463236)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 627d33dd1cccb8264efe53325b172c56  
+**Pulse**: Targets Government, Defense, and Technology Organizations  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d427f7d0170894d572299f)
 
-<sub>_Last updated: 2025-10-24 12:03 UTC_</sub>
+<sub>_Last updated: 2025-10-24 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
