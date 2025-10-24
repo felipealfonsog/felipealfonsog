@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 104.168.101.23  
-**Pulse**: Mirai Botnet Propagation and Exploitation of CVE-2025-24016  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68fa3038f13a0c5ff5957e83)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 421320ccf8972de50f8574a5b1c8d308  
+**Pulse**: How a new PlugX variant abuses DLL search order hijacking  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d31c0c8c90127096487d05)
 
-<sub>_Last updated: 2025-10-23 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-24 00:06 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
