@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 421320ccf8972de50f8574a5b1c8d308  
-**Pulse**: How a new PlugX variant abuses DLL search order hijacking  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d31c0c8c90127096487d05)
+**Threat Type**: Hostname  
+**Indicator**: anpost.com-pay.online  
+**Pulse**: The Smishing Deluge: China-Based Campaign Flooding Global Text Messages  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68fb61809f3b37a23c463236)
 
-<sub>_Last updated: 2025-10-24 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-24 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
