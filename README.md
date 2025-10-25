@@ -32,11 +32,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 627d33dd1cccb8264efe53325b172c56  
-**Pulse**: Targets Government, Defense, and Technology Organizations  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d427f7d0170894d572299f)
+**Indicator**: 5a83af4c41f059df5cf4801c88e45dd2  
+**Pulse**: SystemBC – Bringing the Noise  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d509863799dc888a979a98)
 
-<sub>_Last updated: 2025-10-25 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-25 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
