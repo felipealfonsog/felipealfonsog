@@ -36,7 +36,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Targets Government, Defense, and Technology Organizations  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68d427f7d0170894d572299f)
 
-<sub>_Last updated: 2025-10-24 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-25 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
