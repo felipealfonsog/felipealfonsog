@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 5a83af4c41f059df5cf4801c88e45dd2  
-**Pulse**: SystemBC – Bringing the Noise  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d509863799dc888a979a98)
+**Threat Type**: Domain  
+**Indicator**: 5zqd.onion  
+**Pulse**: DeceptiveDevelopment: From primitive crypto theft to sophisticated AI-based deception  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d56dd09ac2cd6557e9f7f6)
 
-<sub>_Last updated: 2025-10-25 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-25 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
