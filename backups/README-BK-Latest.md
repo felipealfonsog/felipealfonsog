@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 140.82.52.31  
-**Pulse**: GlassWorm: Self-Propagating VSCode Extension Worm  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f7b9ecf349cd47ba5c8f84)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 5a83af4c41f059df5cf4801c88e45dd2  
+**Pulse**: SystemBC – Bringing the Noise  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d509863799dc888a979a98)
 
-<sub>_Last updated: 2025-10-22 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-25 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -380,13 +380,13 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 22 October 2025
+From: 04 December 2023 - To: 25 October 2025
 
-Total Time: 827 hrs 21 mins
+Total Time: 827 hrs 51 mins
 
-Bash                 140 hrs 47 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.44 %
-Python               130 hrs 41 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.26 %
-HTML                 109 hrs 3 mins  ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.73 %
+Bash                 140 hrs 47 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.43 %
+Python               130 hrs 41 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.25 %
+HTML                 109 hrs 34 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.78 %
 PHP                  79 hrs 1 min    ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.22 %
 Markdown             70 hrs 57 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.28 %
 C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.68 %
@@ -737,7 +737,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/github-original.svg" alt="github" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Open_Source_Initiative" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/opensource-icon.svg" alt="opensource" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Free_Software_Foundation" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fsf-icon.svg" alt="freesoftware" width="40" height="40"/></a>
-  <a href="https://en-m-wikipedia-org.translate.goog/wiki/Homebrew_(package_manager)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/homebrew.svg" alt="Apple" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org./wiki/Homebrew_(package_manager)" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/homebrew.svg" alt="Homebrew" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/unix-original.svg" alt="Unix" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/FreeBSD" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/freebsd-icon.svg" alt="freebsd" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/linux-original.svg" alt="linux" width="40" height="40"/></a>
@@ -750,7 +750,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://es.wikipedia.org/wiki/Mabox_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logomabox-linux.svg" alt="Mabox" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logo-kali.svg" alt="kalilinux" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Arch_Linux" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/archlinux-original.svg" alt="archlinux" width="40" height="40"/></a>
-  <a href="https://es.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/macos.svg" alt="Apple" width="40" height="40"/></a>
+  <a href="https://es.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/macos.svg" alt="macOS" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
