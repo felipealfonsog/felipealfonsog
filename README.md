@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: 5zqd.onion  
-**Pulse**: DeceptiveDevelopment: From primitive crypto theft to sophisticated AI-based deception  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d56dd09ac2cd6557e9f7f6)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 00fc4c4ccf355070733b825d451ae77c  
+**Pulse**: Botnet Loader-as-a-Service Infrastructure Distributing RondoDoX and Mirai Payloads  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d5ce6bb2658315c0cc3890)
 
-<sub>_Last updated: 2025-10-25 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-26 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
