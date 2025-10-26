@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 00fc4c4ccf355070733b825d451ae77c  
-**Pulse**: Botnet Loader-as-a-Service Infrastructure Distributing RondoDoX and Mirai Payloads  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d5ce6bb2658315c0cc3890)
+**Threat Type**: Filehash-Sha1  
+**Indicator**: bd6fa5badad704b9d7b9852d0ce0c2162de7a52f  
+**Pulse**: IOCs for phishing campaign using BitM pages  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d6996d3fa5189b9e5bce76)
 
-<sub>_Last updated: 2025-10-26 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-26 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
