@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha1  
-**Indicator**: bd6fa5badad704b9d7b9852d0ce0c2162de7a52f  
-**Pulse**: IOCs for phishing campaign using BitM pages  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d6996d3fa5189b9e5bce76)
+**Threat Type**: Cve  
+**Indicator**: CVE-2023-46604  
+**Pulse**: Update on Ongoing Akira Ransomware Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d74d70a57d9bf9567fcfcc)
 
-<sub>_Last updated: 2025-10-27 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-27 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
