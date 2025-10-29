@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 53ee40353e17d069b7b7783529edda968ad9ae25a0777f6a644b99551b412083  
-**Pulse**: New Android Malware Mimics Human Behavior to Evade Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69010a6d2cf6e435ac05b202)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 2e4d250ecae8635fa3698eba5772a3b9  
+**Pulse**: Analysis of Trigona Threat Actor's Latest Attack Cases  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6901f17d5de87bf1b10b2e99)
 
-<sub>_Last updated: 2025-10-29 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-29 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
