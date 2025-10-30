@@ -36,7 +36,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: Smoking Gun Uncovered: RPX Relay at PolarEdge's Core Exposed  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69025eeb36a0f5fdf2f85765)
 
-<sub>_Last updated: 2025-10-30 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-30 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
