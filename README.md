@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-53690  
-**Pulse**: Oracle E-Business Suite Zero-Day Exploited in Widespread Extortion Campaign  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e826492c3a91b3abe8c6b9)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: d1f9ace720d863fd174753e89b9e889d2e2f71a287fde66158bb2b5752307474  
+**Pulse**: A Deep Dive Into Warlock Ransomware Deployed Via ToolShell SharePoint Chained Vulnerabilities  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6903a8af20970717cd5d2a0a)
 
-<sub>_Last updated: 2025-10-30 18:02 UTC_</sub>
+<sub>_Last updated: 2025-10-31 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
