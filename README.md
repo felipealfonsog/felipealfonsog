@@ -45,6 +45,13 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=for-the-badge&logo=paypal&logoColor=white&labelColor=003087&color=0070ba)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 
+
+
+
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
+
+
 <!-- 
 <a href="mailto:felipe.alfonso.glz@gmail.com" style="text-decoration: none; margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gmail.svg" alt="Gmail" width="40" height="40">
