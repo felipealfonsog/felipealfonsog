@@ -32,7 +32,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [![Donate](https://img.shields.io/badge/Donate-OpenSource-0070ba?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 
-
+[<img src="https://img.shields.io/badge/Donate-black?style=plastic&logo=paypal&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 
 [![Donate](https://img.shields.io/static/v1?label=Donate&message=OpenSource&color=0070ba&labelColor=003087&style=flat-rounded&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 
@@ -44,7 +44,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 
-[<img src="https://img.shields.io/badge/Donate-black?style=plastic&logo=paypal&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
 
 
 <!-- 
@@ -54,7 +54,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <br>
 -->
-[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl) [![Books2Read](https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57)](https://books2read.com/adrianglorentz) [![Insight Timer](https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166)](https://insighttimer.com/namchandersingh/)
+[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl) [![Books2Read](https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57)](https://books2read.com/adrianglorentz) [![Insight Timer](https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166)](https://insighttimer.com/namchandersingh/) [![Donate](https://img.shields.io/badge/Donate-OpenSource-0070ba?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 
  
 
@@ -82,7 +82,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=google-chrome&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
 
 -->
-
+[<img src="https://img.shields.io/badge/Donate-black?style=plastic&logo=paypal&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![All Gists](https://img.shields.io/badge/-All%20Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 
 
