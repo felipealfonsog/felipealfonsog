@@ -36,7 +36,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: A Deep Dive Into Warlock Ransomware Deployed Via ToolShell SharePoint Chained Vulnerabilities  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6903a8af20970717cd5d2a0a)
 
-<sub>_Last updated: 2025-10-31 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-31 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
