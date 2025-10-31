@@ -11,9 +11,39 @@
 
 I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez), a [Computer Science](https://en.wikipedia.org/wiki/Computer_science) [Engineer](https://en.wikipedia.org/wiki/Engineer) ([Ingº](https://es.wikipedia.org/wiki/Ingeniero) en [Informática](https://es.wikipedia.org/wiki/Ingenier%C3%A1a_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), with expertise in [Systems Architecture](https://en.wikipedia.org/wiki/Systems_architecture), [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering), [Cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity), [Cyber Intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), and [Cyber Counter-Terrorism](https://en.wikipedia.org/wiki/Cyberterrorism), as well as in [R&D](https://en.wikipedia.org/wiki/Research_and_development) ([I+D](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_y_desarrollo)). I am constantly involved in innovative endeavors while pursuing forthcoming postgraduate studies in innovation and technology, along with advanced courses and professional certifications. Beyond coding and technical work, I constantly explore new ideas, deepen my knowledge across diverse domains, and contribute as a maintainer in the [GitHub community](https://github.com/community). In my leisure, I enjoy reading, playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) (BJJ), [Zen](https://en.wikipedia.org/wiki/Zen) (*Mindfulness*), and listening to music ([Spotify](https://open.spotify.com/user/12133266428)) - while cherishing a deep love for animals and nature, supporting [PETA](https://www.peta.org/) in ethical advocacy. As a former [Rover Scout Leader](https://en.wikipedia.org/wiki/Rover_Scout) with the Agrupación Nacional de [Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values. As I've previously expressed, I thoroughly enjoy writing and reading ([Goodreads](https://goodreads.com/felipealfonsog) Bookshelves); I'm always seeking enlightenment and knowledge — I seek truth in the silence of my steps; this is why I enjoy studying philosophy, consciousness, and even exploring the knowledge found in [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry) in all its forms. I value transparency and authenticity, believing that sharing ideals is meaningful, and I consider integrity a guiding principle reflecting commitment to truth and human dignity. Aligning my values with my work, I strive to act with coherence, purpose, and respect for the broader impact of my actions. If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com).  ⟁ ❀ 
 
+<!-- 
+https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
+
+-->
+
+> Support my open-source work — your sponsorship helps me build, share, and sustain meaningful software that empowers others.
 
 
 
+<!--
+
+
+[<img src="https://img.shields.io/badge/Donate-black?style=plastic&logo=paypal&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-black?style=flat-rounded&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-OpenSource-black?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
+
+
+
+
+
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
+
+
+-->
+
+
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=for-the-badge&logo=paypal&logoColor=white&labelColor=003087&color=0070ba)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 
 <!-- 
 <a href="mailto:felipe.alfonso.glz@gmail.com" style="text-decoration: none; margin-right: 10px;">
@@ -22,7 +52,8 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 
 <br>
 -->
-[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl) [![Books2Read](https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57)](https://books2read.com/adrianglorentz) [![Insight Timer](https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166)](https://insighttimer.com/namchandersingh/)
+[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl) [![Books2Read](https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57)](https://books2read.com/adrianglorentz) [![Insight Timer](https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166)](https://insighttimer.com/namchandersingh/) [![PayPal Donation](https://img.shields.io/badge/-PayPal%20Donation-0070ba?style=plastic&logo=paypal&logoColor=white&labelColor=0070ba)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
 
  
 
@@ -36,7 +67,7 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 **Pulse**: A Deep Dive Into Warlock Ransomware Deployed Via ToolShell SharePoint Chained Vulnerabilities  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6903a8af20970717cd5d2a0a)
 
-<sub>_Last updated: 2025-10-31 00:07 UTC_</sub>
+<sub>_Last updated: 2025-10-31 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -50,8 +81,10 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 [<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=google-chrome&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
 
 -->
-
-[![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![All Gists](https://img.shields.io/badge/-All%20Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
+<!-- 
+[<img src="https://img.shields.io/badge/Donate-black?style=plastic&logo=paypal&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+-->
+[![Donate via PayPal](https://img.shields.io/badge/-Donate%20via%20PayPal-003087?style=plastic&logo=paypal&logoColor=white&labelColor=003087)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![All Gists](https://img.shields.io/badge/-All%20Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 
 
 
@@ -380,7 +413,7 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 30 October 2025
+From: 04 December 2023 - To: 31 October 2025
 
 Total Time: 830 hrs 32 mins
 
