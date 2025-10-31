@@ -81,6 +81,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 -->
 [<img src="https://img.shields.io/badge/Donate-black?style=plastic&logo=paypal&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+[![Donate via PayPal](https://img.shields.io/badge/-Donate%20via%20PayPal-003087?style=plastic&logo=paypal&logoColor=white&labelColor=003087)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![All Gists](https://img.shields.io/badge/-All%20Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 
 
