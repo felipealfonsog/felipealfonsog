@@ -21,6 +21,11 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 
 [![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=E9LKKT6ZSBDDU)
 
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=for-the-badge&logo=paypal&logoColor=white&labelColor=003087&color=0070ba)](https://www.paypal.com/donate/?hosted_button_id=E9LKKT6ZSBDDU)
+
+
+
+
 
 [<img src="https://img.shields.io/badge/Donate-black?style=plastic&logo=paypal&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://www.paypal.com/donate/?hosted_button_id=E9LKKT6ZSBDDU)
 
