@@ -72,12 +72,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: d1f9ace720d863fd174753e89b9e889d2e2f71a287fde66158bb2b5752307474  
-**Pulse**: A Deep Dive Into Warlock Ransomware Deployed Via ToolShell SharePoint Chained Vulnerabilities  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6903a8af20970717cd5d2a0a)
+**Threat Type**: Ipv4  
+**Indicator**: 193.233.48.245  
+**Pulse**: New wave of cyberattacks by APT group Cloud Atlas on Russia's government sector  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69048295b869934bfccecceb)
 
-<sub>_Last updated: 2025-10-31 06:02 UTC_</sub>
+<sub>_Last updated: 2025-10-31 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
