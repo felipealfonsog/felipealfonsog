@@ -31,12 +31,12 @@ I'm [Felipe](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfons
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 5a83af4c41f059df5cf4801c88e45dd2  
-**Pulse**: SystemBC – Bringing the Noise  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68d509863799dc888a979a98)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: d1f9ace720d863fd174753e89b9e889d2e2f71a287fde66158bb2b5752307474  
+**Pulse**: A Deep Dive Into Warlock Ransomware Deployed Via ToolShell SharePoint Chained Vulnerabilities  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6903a8af20970717cd5d2a0a)
 
-<sub>_Last updated: 2025-10-25 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-31 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -380,20 +380,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 25 October 2025
+From: 04 December 2023 - To: 30 October 2025
 
-Total Time: 827 hrs 51 mins
+Total Time: 830 hrs 32 mins
 
-Bash                 140 hrs 47 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.43 %
-Python               130 hrs 41 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.25 %
-HTML                 109 hrs 34 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.78 %
-PHP                  79 hrs 1 min    ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.22 %
-Markdown             70 hrs 57 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.28 %
-C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.68 %
-C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.67 %
-INI                  29 hrs 53 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.49 %
-Text                 29 hrs 28 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.44 %
-Other                29 hrs 17 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.42 %
+Bash                 140 hrs 47 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.37 %
+Python               130 hrs 41 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.20 %
+HTML                 109 hrs 34 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.74 %
+PHP                  79 hrs 20 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.23 %
+Markdown             70 hrs 57 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.25 %
+C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.65 %
+C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.66 %
+INI                  29 hrs 53 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.48 %
+Text                 29 hrs 28 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.43 %
+Other                29 hrs 17 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.41 %
 ```
 
 <!--END_SECTION:waka-->
@@ -968,6 +968,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
   - [ShadowScan](https://github.com/felipealfonsog/ShadowScan): ShadowScan is a security tool designed to scan files and system configurations for hidden backdoors, malicious scripts, and reverse shells on Linux and macOS.
+  - [CamViewer](https://github.com/felipealfonsog/camviewer): CamViewer is a simple web-based CCTV dashboard that allows you to stream multiple RTSP camera feeds through a clean HLS interface. It uses FFmpeg for transcoding and a Node.js backend to serve the interface and handle stream startup. It is compatible with Arch Linux and macOS (including Apple Silicon). The frontend is optimized for desktop and Android TV browsers.
   - [GhostFlagger](https://github.com/felipealfonsog/GhostFlagger): GhostFlagger is a stealthy tool that detects and reports offensive content on X (Twitter) automatically. Running under a VPN, it flags harmful tweets discreetly and enforces platform guidelines without leaving a trace.
   - [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): "OpenVPN-GUI-Connect" Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
   - [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): "NoIP-Manager" A versatile tool for managing No-IP dynamic DNS updates and client operations.
