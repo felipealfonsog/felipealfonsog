@@ -72,12 +72,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 193.233.48.245  
-**Pulse**: New wave of cyberattacks by APT group Cloud Atlas on Russia's government sector  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69048295b869934bfccecceb)
+**Threat Type**: Domain  
+**Indicator**: 8320.cn  
+**Pulse**: Infrastructure of Interest: Medium Confidence Command And Control  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689455e11e25236fe810364b)
 
-<sub>_Last updated: 2025-10-31 12:02 UTC_</sub>
+<sub>_Last updated: 2025-10-31 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
