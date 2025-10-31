@@ -16,6 +16,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 -->
 
+> Support my open-source work — your sponsorship helps me build, share, and sustain meaningful software that empowers others.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 
@@ -30,6 +31,16 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 [![Donate](https://img.shields.io/badge/Donate-OpenSource-0070ba?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
+
+
+[![Donate](https://img.shields.io/static/v1?label=Donate&message=OpenSource&color=0070ba&labelColor=003087&style=flat-rounded&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+
+
+
+
+
+
 
 
 
