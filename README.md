@@ -72,12 +72,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: d28b4136a7e6148de5c26a055c711f4f  
-**Pulse**: Threat Actors Leverage SEO Poisoning and Malicious Ads to Distribute Backdoored Microsoft Teams Installers  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68de52ef382d67c8bdc97094)
+**Threat Type**: Filehash-Sha1  
+**Indicator**: de90f6899eec315f4ed05c2aa052d4fe8b71125a  
+**Pulse**: New spyware campaigns target privacy-conscious Android users in the UAE  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68dea4cbafd0a5feb49cf0bb)
 
-<sub>_Last updated: 2025-11-01 12:02 UTC_</sub>
+<sub>_Last updated: 2025-11-01 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
