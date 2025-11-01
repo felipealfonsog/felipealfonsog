@@ -920,7 +920,7 @@ If you find my content or any of my code useful, you can support me through vari
 [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?logo=patreon)](https://www.patreon.com/felipealfonsogl)
 -->
 [![Support me on Coindrop](https://img.shields.io/badge/Support%20me%20on-Coindrop-29abe2?style=plastic&logo=bitcoin&logoColor=white)](https://coindrop.to/felipealfonsog)
-[![Support me on PayPal](https://img.shields.io/badge/Support%20me%20on-PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://www.paypal.me/felipealfonsog)
+[![Support me on PayPal](https://img.shields.io/badge/Support%20me%20on-PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on-GitHub-%23EA4AAA?style=plastic&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/felipealfonsog)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/felipealfonsog)
 [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?logo=patreon&style=plastic)](https://www.patreon.com/felipealfonsogl)
