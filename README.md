@@ -72,12 +72,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: 8320.cn  
-**Pulse**: Infrastructure of Interest: Medium Confidence Command And Control  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689455e11e25236fe810364b)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0f6aaa52b05ab76020900a28afff9fff  
+**Pulse**: Operation SkyCloak: Tor Campaign targets Military of Russia & Belarus  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/690523b41d5a7b96d580ee71)
 
-<sub>_Last updated: 2025-10-31 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-01 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
