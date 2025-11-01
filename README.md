@@ -73,11 +73,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 0f6aaa52b05ab76020900a28afff9fff  
-**Pulse**: Operation SkyCloak: Tor Campaign targets Military of Russia & Belarus  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/690523b41d5a7b96d580ee71)
+**Indicator**: d28b4136a7e6148de5c26a055c711f4f  
+**Pulse**: Threat Actors Leverage SEO Poisoning and Malicious Ads to Distribute Backdoored Microsoft Teams Installers  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68de52ef382d67c8bdc97094)
 
-<sub>_Last updated: 2025-11-01 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-01 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
