@@ -72,12 +72,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: d1f9ace720d863fd174753e89b9e889d2e2f71a287fde66158bb2b5752307474  
-**Pulse**: A Deep Dive Into Warlock Ransomware Deployed Via ToolShell SharePoint Chained Vulnerabilities  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6903a8af20970717cd5d2a0a)
+**Threat Type**: Filehash-Md5  
+**Indicator**: d28b4136a7e6148de5c26a055c711f4f  
+**Pulse**: Threat Actors Leverage SEO Poisoning and Malicious Ads to Distribute Backdoored Microsoft Teams Installers  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68de52ef382d67c8bdc97094)
 
-<sub>_Last updated: 2025-10-31 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-01 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -423,20 +423,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 31 October 2025
+From: 04 December 2023 - To: 01 November 2025
 
-Total Time: 830 hrs 32 mins
+Total Time: 834 hrs 35 mins
 
-Bash                 140 hrs 47 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.37 %
-Python               130 hrs 41 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.20 %
-HTML                 109 hrs 34 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.74 %
-PHP                  79 hrs 20 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.23 %
-Markdown             70 hrs 57 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.25 %
-C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.65 %
-C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.66 %
-INI                  29 hrs 53 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.48 %
-Text                 29 hrs 28 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.43 %
-Other                29 hrs 17 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.41 %
+Bash                 142 hrs 33 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.50 %
+Python               130 hrs 41 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   15.13 %
+HTML                 111 hrs 21 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.89 %
+PHP                  79 hrs 20 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.18 %
+Markdown             70 hrs 57 mins  ◕◕●○○○○○○○○○○○○○○○○○○○○○○   08.21 %
+C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.62 %
+C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.63 %
+INI                  29 hrs 53 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.46 %
+Text                 29 hrs 28 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.41 %
+Other                29 hrs 17 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.39 %
 ```
 
 <!--END_SECTION:waka-->
@@ -920,7 +920,7 @@ If you find my content or any of my code useful, you can support me through vari
 [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?logo=patreon)](https://www.patreon.com/felipealfonsogl)
 -->
 [![Support me on Coindrop](https://img.shields.io/badge/Support%20me%20on-Coindrop-29abe2?style=plastic&logo=bitcoin&logoColor=white)](https://coindrop.to/felipealfonsog)
-[![Support me on PayPal](https://img.shields.io/badge/Support%20me%20on-PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://www.paypal.me/felipealfonsog)
+[![Support me on PayPal](https://img.shields.io/badge/Support%20me%20on-PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
 [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on-GitHub-%23EA4AAA?style=plastic&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/felipealfonsog)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/felipealfonsog)
 [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?logo=patreon&style=plastic)](https://www.patreon.com/felipealfonsogl)
