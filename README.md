@@ -77,7 +77,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: New spyware campaigns target privacy-conscious Android users in the UAE  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68dea4cbafd0a5feb49cf0bb)
 
-<sub>_Last updated: 2025-11-02 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-02 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
