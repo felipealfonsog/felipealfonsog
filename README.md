@@ -77,7 +77,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: Agenda Ransomware Deploys Linux Variant on Windows Systems Through Remote Management Tools and BYOVD Techniques  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68fa32c52d34059b97a7a9f0)
 
-<sub>_Last updated: 2025-11-03 12:02 UTC_</sub>
+<sub>_Last updated: 2025-11-03 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
