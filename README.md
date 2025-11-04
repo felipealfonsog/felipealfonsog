@@ -72,12 +72,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 104.164.55.7  
-**Pulse**: Agenda Ransomware Deploys Linux Variant on Windows Systems Through Remote Management Tools and BYOVD Techniques  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68fa32c52d34059b97a7a9f0)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 5750ad38fc9bf64ee9d4a352684de4c2  
+**Pulse**: Remote access, real cargo: cybercriminals targeting trucking and logistics  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6908bc12c65b2822b687ed79)
 
-<sub>_Last updated: 2025-11-03 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-04 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
