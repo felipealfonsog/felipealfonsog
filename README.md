@@ -72,12 +72,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 5750ad38fc9bf64ee9d4a352684de4c2  
-**Pulse**: Remote access, real cargo: cybercriminals targeting trucking and logistics  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6908bc12c65b2822b687ed79)
+**Threat Type**: Domain  
+**Indicator**: iptvadvice.com  
+**Pulse**: Massive IPTV Piracy Network Uncovered  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bb1b163878ea0fdbb2cd8a)
 
-<sub>_Last updated: 2025-11-04 12:03 UTC_</sub>
+<sub>_Last updated: 2025-11-04 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
