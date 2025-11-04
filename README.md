@@ -77,7 +77,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: Remote access, real cargo: cybercriminals targeting trucking and logistics  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6908bc12c65b2822b687ed79)
 
-<sub>_Last updated: 2025-11-04 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-04 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
