@@ -85,7 +85,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: Massive IPTV Piracy Network Uncovered  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68bb1b163878ea0fdbb2cd8a)
 
-<sub>_Last updated: 2025-11-04 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-05 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
