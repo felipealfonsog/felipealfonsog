@@ -80,12 +80,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 008a8c6d9e40a2a4d3a4f5eaae933458  
-**Pulse**: Interlock ransomware evolving under the radar  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/67ffb7eba715b936a2c4c2a8)
+**Threat Type**: Url  
+**Indicator**: https://espressonisten.de/  
+**Pulse**: Gootloader Returns: What Goodies Did They Bring?  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/690cadc6a4a3c3370cc2e697)
 
-<sub>_Last updated: 2025-11-06 12:03 UTC_</sub>
+<sub>_Last updated: 2025-11-06 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
