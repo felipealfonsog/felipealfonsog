@@ -85,7 +85,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: Crossed wires: a case study of Iranian espionage and attribution  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/690b9fd420eac5194154bcff)
 
-<sub>_Last updated: 2025-11-06 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-06 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
