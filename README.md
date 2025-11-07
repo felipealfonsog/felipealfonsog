@@ -80,12 +80,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 85.208.84.94  
-**Pulse**: Booking.com Phishing Campaign Targeting Hotels and Customers  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/690dba690d5c272baae78d78)
+**Threat Type**: Domain  
+**Indicator**: ji57fr53anp7wb44tbbnp72qcgbhqywy4jmbncawdcrejj5amuvh3zqd.onion  
+**Pulse**: The Evolution of Qilin RaaS  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e69076a95f1726dd5d19eb)
 
-<sub>_Last updated: 2025-11-07 12:02 UTC_</sub>
+<sub>_Last updated: 2025-11-07 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
