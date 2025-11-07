@@ -80,12 +80,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: https://espressonisten.de/  
-**Pulse**: Gootloader Returns: What Goodies Did They Bring?  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/690cadc6a4a3c3370cc2e697)
+**Threat Type**: Domain  
+**Indicator**: antired.host  
+**Pulse**: Malicious Infrastructure Finds Stability with aurologic GmbH  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/690cee4f0a00b80c63983535)
 
-<sub>_Last updated: 2025-11-06 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-07 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
