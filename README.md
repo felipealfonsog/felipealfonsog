@@ -80,12 +80,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: antired.host  
-**Pulse**: Malicious Infrastructure Finds Stability with aurologic GmbH  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/690cee4f0a00b80c63983535)
+**Threat Type**: Ipv4  
+**Indicator**: 85.208.84.94  
+**Pulse**: Booking.com Phishing Campaign Targeting Hotels and Customers  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/690dba690d5c272baae78d78)
 
-<sub>_Last updated: 2025-11-07 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-07 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
