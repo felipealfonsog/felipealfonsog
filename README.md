@@ -80,12 +80,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: ji57fr53anp7wb44tbbnp72qcgbhqywy4jmbncawdcrejj5amuvh3zqd.onion  
-**Pulse**: The Evolution of Qilin RaaS  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e69076a95f1726dd5d19eb)
+**Threat Type**: Hostname  
+**Indicator**: gd.bj2.xyz  
+**Pulse**: The Crown Prince, Nezha: A New Tool Favored by China-Nexus Threat Actors  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e7e51909bb02e0f22bfc5a)
 
-<sub>_Last updated: 2025-11-07 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-08 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
