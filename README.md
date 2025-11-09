@@ -85,7 +85,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: Oracle E-Business Suite Zero-Day Exploited in Widespread Extortion Campaign  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68e826492c3a91b3abe8c6b9)
 
-<sub>_Last updated: 2025-11-09 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-09 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
