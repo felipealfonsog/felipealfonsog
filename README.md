@@ -80,12 +80,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-53690  
-**Pulse**: Oracle E-Business Suite Zero-Day Exploited in Widespread Extortion Campaign  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e826492c3a91b3abe8c6b9)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 06fc70aa08756a752546198ceb9770068a2776c5b898e5ff24af9ed4a823fd9d  
+**Pulse**: A Vietnamese threat actor's shift from PXA Stealer to PureRAT  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e8c2e51d4e583ce113cce3)
 
-<sub>_Last updated: 2025-11-09 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-09 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
