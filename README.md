@@ -80,12 +80,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Hostname  
-**Indicator**: gd.bj2.xyz  
-**Pulse**: The Crown Prince, Nezha: A New Tool Favored by China-Nexus Threat Actors  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e7e51909bb02e0f22bfc5a)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-53690  
+**Pulse**: Oracle E-Business Suite Zero-Day Exploited in Widespread Extortion Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e826492c3a91b3abe8c6b9)
 
-<sub>_Last updated: 2025-11-08 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-09 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
