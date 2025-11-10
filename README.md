@@ -81,11 +81,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 132e25ea2d3d03895eff21604af17f45  
-**Pulse**: The ClickFix Factory: First Exposure of IUAM ClickFix Generator  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e94967bcab143b278f0611)
+**Indicator**: 8697103bed75b09df59d9bb3a86eca32  
+**Pulse**: From infostealer to full RAT: dissecting the PureRAT attack chain  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e96e29b73e5334019b8810)
 
-<sub>_Last updated: 2025-11-09 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-10 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
