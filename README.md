@@ -81,11 +81,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 8697103bed75b09df59d9bb3a86eca32  
-**Pulse**: From infostealer to full RAT: dissecting the PureRAT attack chain  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e96e29b73e5334019b8810)
+**Indicator**: 00ba72f40855e703c318cabb441af736  
+**Pulse**: Fantasy Hub: Another Russian Based RAT as Malware-as-a-Service  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6911cdc11d3b1ec1aa03d9bf)
 
-<sub>_Last updated: 2025-11-10 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-10 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
