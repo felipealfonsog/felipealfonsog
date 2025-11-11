@@ -80,12 +80,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 00ba72f40855e703c318cabb441af736  
-**Pulse**: Fantasy Hub: Another Russian Based RAT as Malware-as-a-Service  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6911cdc11d3b1ec1aa03d9bf)
+**Threat Type**: Cve  
+**Indicator**: CVE-2017-0199  
+**Pulse**: Tracking FileFix, Shadow Vector, and SideWinder  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6912121cec3120ad4ee5928c)
 
-<sub>_Last updated: 2025-11-11 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-11 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
