@@ -85,7 +85,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: Fantasy Hub: Another Russian Based RAT as Malware-as-a-Service  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6911cdc11d3b1ec1aa03d9bf)
 
-<sub>_Last updated: 2025-11-10 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-11 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
