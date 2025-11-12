@@ -90,7 +90,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: Thousands of Fake Hotel Domains Used in Massive Phishing Campaign  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69137fca8f856858d0543ded)
 
-<sub>_Last updated: 2025-11-12 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-12 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
