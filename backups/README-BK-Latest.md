@@ -59,10 +59,15 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <br>
 -->
-[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl) [![Books2Read](https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57)](https://books2read.com/adrianglorentz) [![Insight Timer](https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166)](https://insighttimer.com/namchandersingh/) [![Professional Dossier (CV)](https://img.shields.io/badge/Professional%20Dossier%20(CV)-0A0F1C?style=plastic&logo=readthedocs&logoColor=ffffff&labelColor=0A0F1C)](https://gnlz.cl/cv)
+[![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl) [![Books2Read](https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57)](https://books2read.com/adrianglorentz) [![Insight Timer](https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166)](https://insighttimer.com/namchandersingh/) 
 
 
+<!--
 
+[![Professional Dossier (CV)](https://img.shields.io/badge/Professional%20Dossier%20(CV)-0A0F1C?style=plastic&logo=readthedocs&logoColor=ffffff&labelColor=0A0F1C)](https://gnlz.cl/cv)
+
+
+-->
 
 
 
@@ -81,11 +86,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   
 <!-- OTX-START -->
 **Threat Type**: Domain  
-**Indicator**: iptvadvice.com  
-**Pulse**: Massive IPTV Piracy Network Uncovered  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68bb1b163878ea0fdbb2cd8a)
+**Indicator**: 0lala-hom.rest  
+**Pulse**: Thousands of Fake Hotel Domains Used in Massive Phishing Campaign  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69137fca8f856858d0543ded)
 
-<sub>_Last updated: 2025-11-04 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-12 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -431,20 +436,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 04 November 2025
+From: 04 December 2023 - To: 11 November 2025
 
-Total Time: 846 hrs 50 mins
+Total Time: 857 hrs 46 mins
 
-Bash                 152 hrs 17 mins ◕◕◕◕◐○○○○○○○○○○○○○○○○○○○○   17.37 %
-Python               130 hrs 41 mins ◕◕◕●○○○○○○○○○○○○○○○○○○○○○   14.91 %
-HTML                 111 hrs 26 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.71 %
-PHP                  79 hrs 20 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.05 %
-Markdown             70 hrs 57 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   08.09 %
-C                    65 hrs 48 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.51 %
-C++                  40 hrs 2 mins   ◕◔○○○○○○○○○○○○○○○○○○○○○○○   04.57 %
-INI                  31 hrs 38 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.61 %
-Text                 30 hrs 8 mins   ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.44 %
-Other                29 hrs 58 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.42 %
+Bash                 153 hrs 3 mins  ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.24 %
+Python               130 hrs 41 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   14.72 %
+HTML                 115 hrs 4 mins  ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.96 %
+PHP                  79 hrs 20 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   08.94 %
+Markdown             70 hrs 57 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   07.99 %
+C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.41 %
+C++                  40 hrs 2 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.51 %
+INI                  31 hrs 38 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.56 %
+Text                 30 hrs 8 mins   ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.40 %
+Other                30 hrs 2 mins   ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.38 %
 ```
 
 <!--END_SECTION:waka-->
