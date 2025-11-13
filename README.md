@@ -85,12 +85,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 310c935a189ca01dcee92d9c002f3330  
-**Pulse**: When the monster bytes: tracking TA585 and its arsenal  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68edc60d33bbc8833d677ae6)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-11-13 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-13 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
