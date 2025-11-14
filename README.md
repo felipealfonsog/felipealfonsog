@@ -90,7 +90,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: Unleashing the Kraken ransomware group  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69161dab29c1fb1dc04a0b05)
 
-<sub>_Last updated: 2025-11-14 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-14 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
