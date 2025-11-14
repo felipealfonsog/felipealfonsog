@@ -86,11 +86,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 85484f00d81ac2e7dad712e67a6fcd10  
-**Pulse**: Unleashing the Kraken ransomware group  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69161dab29c1fb1dc04a0b05)
+**Indicator**: 70b5c81e41de5bd34296c9026b548045  
+**Pulse**: Increase in Lumma Stealer Activity Coincides with Use of Adaptive Browser Fingerprinting Tactics  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691695b683ab8cc0fedbd3fe)
 
-<sub>_Last updated: 2025-11-14 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-14 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
