@@ -85,12 +85,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 85484f00d81ac2e7dad712e67a6fcd10  
+**Pulse**: Unleashing the Kraken ransomware group  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69161dab29c1fb1dc04a0b05)
 
-<sub>_Last updated: 2025-11-13 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-14 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
