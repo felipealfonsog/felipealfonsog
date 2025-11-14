@@ -85,12 +85,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 70b5c81e41de5bd34296c9026b548045  
-**Pulse**: Increase in Lumma Stealer Activity Coincides with Use of Adaptive Browser Fingerprinting Tactics  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691695b683ab8cc0fedbd3fe)
+**Threat Type**: Cve  
+**Indicator**: CVE-2024-3721  
+**Pulse**: Maverick: a new banking trojan abusing WhatsApp in a massive scale distribution  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68efd37872530e298a58dba7)
 
-<sub>_Last updated: 2025-11-14 12:03 UTC_</sub>
+<sub>_Last updated: 2025-11-14 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
