@@ -90,7 +90,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: Maverick: a new banking trojan abusing WhatsApp in a massive scale distribution  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68efd37872530e298a58dba7)
 
-<sub>_Last updated: 2025-11-15 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-15 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
