@@ -85,12 +85,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2024-3721  
-**Pulse**: Maverick: a new banking trojan abusing WhatsApp in a massive scale distribution  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68efd37872530e298a58dba7)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 3ca440a3f4800090ee691e037a9ce501  
+**Pulse**: Operation Silk Lure: Scheduled Tasks Weaponized for DLL Side-Loading (drops ValleyRAT)  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f0d9fae13980827834f665)
 
-<sub>_Last updated: 2025-11-15 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-15 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
