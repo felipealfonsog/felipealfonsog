@@ -81,11 +81,8 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
  -->
 
 
-
----
-
 <details>
-<summary>⚫ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
+<summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
 
 <br>
 
@@ -104,7 +101,6 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 
 </details>
 
----
 
 
 
