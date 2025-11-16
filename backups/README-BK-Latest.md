@@ -80,6 +80,34 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
  -->
 
+
+<details>
+<summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
+
+<br>
+
+My work spans the analysis of hostile digital infrastructures, the profiling of adversarial behavior, and the identification of coordinated threat patterns that intersect with national-level cyber operations.
+
+I focus on dissecting advanced intrusion chains, mapping threat actor ecosystems, and evaluating high-risk signals that emerge within hybrid digital-physical environments — including those relevant to counter-terrorism intelligence.
+
+**Operational areas of involvement include:**  
+- Adversary behavioral analysis & TTP correlation  
+- Infrastructure tracking across multi-layered threat surfaces  
+- Early-phase detection of coordinated digital aggression  
+- High-risk intelligence assessment in cross-domain scenarios  
+- Strategic modeling of threat actor capabilities & intent  
+
+Due to the nature of this domain, all operational specifics, methodologies, and classified tooling remain deliberately omitted.
+
+</details>
+
+
+
+
+
+
+
+
 <details open>
 <summary>:star2: 🛰️ <strong>Latest Threat Intelligence from AlienVault OTX</strong> – updated automatically every 5 hours.*</summary>
 <br>
