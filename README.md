@@ -1109,7 +1109,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 #
 
-####### ⚠️ **Classified Identity & Integrity Notice**
+###### ⚠️ **Classified Identity & Integrity Notice**
 <sub>
 > This profile, its content, identity markers, and associated metadata are protected.  
 Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.  
