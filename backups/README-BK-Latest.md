@@ -47,7 +47,8 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 
-[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8)
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Repository Collection](https://img.shields.io/badge/Repository_Collection-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](#projects) [![All Gists](https://img.shields.io/badge/All_Gists-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](https://gist.github.com/felipealfonsog)
+
 
 
 
@@ -89,7 +90,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68f130fe56a14a2de8f391b4)
 
-<sub>_Last updated: 2025-11-16 00:08 UTC_</sub>
+<sub>_Last updated: 2025-11-16 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -436,18 +437,18 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 15 November 2025
+From: 04 December 2023 - To: 16 November 2025
 
-Total Time: 867 hrs 35 mins
+Total Time: 867 hrs 48 mins
 
 Bash                 153 hrs 10 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   17.06 %
 Python               131 hrs 17 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   14.62 %
-HTML                 116 hrs         ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.92 %
-PHP                  81 hrs 13 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.05 %
+HTML                 116 hrs 13 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.94 %
+PHP                  81 hrs 13 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.04 %
 Markdown             70 hrs 57 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   07.90 %
 C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.33 %
 C++                  40 hrs 2 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.46 %
-INI                  31 hrs 38 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.53 %
+INI                  31 hrs 38 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.52 %
 Text                 30 hrs 24 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.39 %
 Other                30 hrs 10 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.36 %
 ```
