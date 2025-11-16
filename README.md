@@ -1122,8 +1122,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 #
 
 > [!WARNING]
-> <small>⚠️ <b>Classified Identity & Integrity Notice</b></small>
+> <sub>⚠️ <b>Classified Identity & Integrity Notice</b></sub>
 >
-> <small>This profile, its content, identity markers, and associated metadata are protected.</small>  
-> <small>Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.</small>  
-> <small><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></small>
+> <sub>This profile, its content, identity markers, and associated metadata are protected.</sub>  
+> <sub>Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.</sub>  
+> <sub><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></sub>
