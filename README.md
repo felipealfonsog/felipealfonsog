@@ -1078,3 +1078,10 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 
 <sub>[[Top Home]](#hi-there-)</sub>
+
+---
+
+#### ⚠️ **Classified Identity & Integrity Notice**
+> This profile, its content, identity markers, and associated metadata are protected.  
+Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.  
+*(Disponible también en español según la Ley 19.628 de Chile.)*
