@@ -50,9 +50,18 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) 
 <!--
 [![Repository Collection](https://img.shields.io/badge/Repository_Collection-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](#projects) [![All Gists](https://img.shields.io/badge/All_Gists-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
--->
+
 
 [![Repository Collection](https://img.shields.io/badge/Repository_Collection-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](#projects) [![All Gists](https://img.shields.io/badge/All_Gists-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/GitLab_Repositories-E24329?style=flat-rounded&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/Refresh_Page-0078D7?style=flat-rounded&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
+-->
+
+[![Repository Collection](https://img.shields.io/badge/Repository_Collection-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=181717)](#projects)
+
+[![All Gists](https://img.shields.io/badge/All_Gists-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=181717)](https://gist.github.com/felipealfonsog)
+
+[![GitLab Repositories](https://img.shields.io/badge/GitLab_Repositories-E24329?style=flat-square&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329)](https://gitlab.com/felipealfonsog)
+
+[![Refresh Page](https://img.shields.io/badge/Refresh_Page-0078D7?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 
 
 <!-- 
