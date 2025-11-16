@@ -89,7 +89,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 **Pulse**: New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68f130fe56a14a2de8f391b4)
 
-<sub>_Last updated: 2025-11-16 00:08 UTC_</sub>
+<sub>_Last updated: 2025-11-16 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
