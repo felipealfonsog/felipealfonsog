@@ -140,11 +140,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 7456f63a46cc318334a70159aa3c4291  
-**Pulse**: New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f130fe56a14a2de8f391b4)
+**Indicator**: 957b34952d92510e95df02e3600b8b21  
+**Pulse**: CAPI Backdoor: .NET Stealer Targeting Russian Auto-Commerce  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f267d7f3f461fba8d4f189)
 
-<sub>_Last updated: 2025-11-16 12:02 UTC_</sub>
+<sub>_Last updated: 2025-11-16 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
