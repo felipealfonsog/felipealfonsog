@@ -82,13 +82,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 
-
 ---
 
-<small>
+<details>
+<summary>⚫ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
 
-### ⚫ Strategic Cyber Intelligence & Counter-Terrorism Operations  
-*High-Sensitivity Domain — Restricted Operational Disclosure*
+<br>
 
 My work spans the analysis of hostile digital infrastructures, the profiling of adversarial behavior, and the identification of coordinated threat patterns that intersect with national-level cyber operations.
 
@@ -103,9 +102,10 @@ I focus on dissecting advanced intrusion chains, mapping threat actor ecosystems
 
 Due to the nature of this domain, all operational specifics, methodologies, and classified tooling remain deliberately omitted.
 
-</small>
+</details>
 
 ---
+
 
 
 
