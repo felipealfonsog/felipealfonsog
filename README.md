@@ -1118,15 +1118,9 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 > This profile, its content, identity markers, and associated metadata are protected.  
 > Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.  
 > *(Disponible también en español según la Ley 19.628 de Chile.)*
--->
+
 #
 
-> [!WARNING]
-> <sub>⚠️ <b>Classified Identity & Integrity Notice</b></sub>
->
-> <sub>This profile, its content, identity markers, and associated metadata are protected.</sub>  
-> <sub>Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.</sub>  
-> <sub><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></sub>
 
 #
 
@@ -1136,4 +1130,13 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 > <span style="font-size:80%">This profile, its content, identity markers, and associated metadata are protected.</span>  
 > <span style="font-size:80%">Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.</span>  
 > <span style="font-size:80%"><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></span>
+
+-->
+
+> [!WARNING]
+> <sub>⚠️ <b>Classified Identity & Integrity Notice</b></sub>
+>
+> <sub>This profile, its content, identity markers, and associated metadata are protected.</sub>  
+> <sub>Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.</sub>  
+> <sub><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></sub>
 
