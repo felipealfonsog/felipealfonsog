@@ -47,7 +47,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 
-[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![All Gists](https://img.shields.io/badge/-All%20Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://gist.github.com/felipealfonsog)
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&logoWidth=25)](#projects) [![All Gists](https://img.shields.io/badge/-All%20Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&logoWidth=25)](https://gist.github.com/felipealfonsog)
 
 
 
