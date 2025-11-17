@@ -260,7 +260,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 
 
 <!-- IDEAL AND CAUSES -->
-<!-- 
+
 <details>
   <summary>🎗️🤝📚 Supporting Meaningful Causes, Ideas, and Philosophical Thought</summary>
   <br>
@@ -269,7 +269,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 
 
 </details>
--->
+
 
 
 
