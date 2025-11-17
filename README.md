@@ -139,12 +139,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 464f61eb09efcb46807cbabf92a9cdbe  
-**Pulse**: Tracking Malware and Attack Expansion: A Hacker Group's Journey across Asia  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f286c7e3ba464045fcfce5)
+**Threat Type**: Url  
+**Indicator**: https://black-fridaydeals.com  
+**Pulse**: How AI Is Fueling a New Wave of Black Friday Scams  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6918053d8bf43ed29f7894cd)
 
-<sub>_Last updated: 2025-11-17 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-17 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
