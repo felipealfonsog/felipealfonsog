@@ -144,7 +144,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Tracking Malware and Attack Expansion: A Hacker Group's Journey across Asia  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68f286c7e3ba464045fcfce5)
 
-<sub>_Last updated: 2025-11-17 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-17 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
