@@ -139,12 +139,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 7456f63a46cc318334a70159aa3c4291  
-**Pulse**: New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f130fe56a14a2de8f391b4)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-11-16 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-17 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -257,6 +257,9 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 [![Mental Health Awareness](https://img.shields.io/badge/Mental%20Health%20Awareness-00a550?style=plastic&logo=liberapay&logoColor=white&labelColor=00a550)](https://www.who.int/campaigns/world-mental-health-day) 🌱 [![Support Social Democracy](https://img.shields.io/badge/Support%20Social%20Democracy-b40000?style=plastic&logo=liberapay&logoColor=white&labelColor=b40000)](https://en.wikipedia.org/wiki/Social_democracy) 🌹 [![Freemasonry & Free Thought](https://img.shields.io/badge/Freemasonry%20%26%20Free%20Thought-002147?style=plastic&logo=phabricator&logoColor=white&labelColor=002147)](https://en.wikipedia.org/wiki/Freemasonry) 📐 [![Stand with Palestine](https://img.shields.io/badge/Stand%20With%20Palestine-007A3D?style=plastic&logo=liberapay&logoColor=white&labelColor=007A3D)](https://www.islamic-relief.org.uk/giving/appeals/palestine/) 🇵🇸
 
 -->
+
+
+<!-- IDEAL AND CAUSES -->
 
 <details>
   <summary>🎗️🤝📚 Supporting Meaningful Causes, Ideas, and Philosophical Thought</summary>
@@ -495,7 +498,7 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 16 November 2025
+From: 04 December 2023 - To: 17 November 2025
 
 Total Time: 867 hrs 48 mins
 
