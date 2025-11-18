@@ -139,12 +139,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Ipv4  
+**Indicator**: 104.194.215.88  
+**Pulse**: Frontline Intelligence: Analysis of UNC1549 TTPs, Custom Tools, and Malware Targeting the Aerospace and Defense Ecosystem  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691bd5c16cda885503b01c6a)
 
-<sub>_Last updated: 2025-11-18 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-18 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
