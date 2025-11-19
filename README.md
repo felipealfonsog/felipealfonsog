@@ -144,7 +144,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: 330 custom email domains, and what this tells us about how attackers build infrastructure for fake account creation  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/691ceae73fedb4c4eb5d0c5a)
 
-<sub>_Last updated: 2025-11-19 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-19 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
