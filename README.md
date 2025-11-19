@@ -176,7 +176,6 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 [<img src="https://img.shields.io/badge/Twitter-555555?style=plastic&logo=x&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://twitter.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
-[<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=firefox&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=firefox&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
 [<img src="https://img.shields.io/badge/E&ndash;mail-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 
