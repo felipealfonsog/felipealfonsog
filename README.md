@@ -139,12 +139,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 8bd8506f6b1a80eea68e877fa81e267c  
+**Pulse**: A view on a recent Salt Typhoon intrusion  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f6536b549a38d68528a530)
 
-<sub>_Last updated: 2025-11-19 12:02 UTC_</sub>
+<sub>_Last updated: 2025-11-19 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
