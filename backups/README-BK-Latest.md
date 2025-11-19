@@ -79,7 +79,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/GitLab_Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog)
 
 
-[<img src="https://img.shields.io/badge/Refresh_Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7&logoWidth=20" height="19"/>](https://github.com/felipealfonsog?cache-bypass=1) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
+[<img src="https://img.shields.io/badge/Refresh_Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7&logoWidth=20" height="19"/>](https://github.com/felipealfonsog?cache-bypass=1) [<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/-Website%20(freeshell.de host)-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-Website%20(felipe.gnlz.cl)-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
@@ -177,7 +177,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 [<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=firefox&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
-[<img src="https://img.shields.io/badge/E&ndash;mail-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
+[<img src="https://img.shields.io/badge/Email-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 
 
 > "The time of humanity is but a sigh in the life of the universe. We are merely spectators of something immense." ~ [José Maza](https://es.wikipedia.org/wiki/Jos%C3%A9_Maza_Sancho)
