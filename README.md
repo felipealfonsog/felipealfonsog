@@ -139,12 +139,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 8bd8506f6b1a80eea68e877fa81e267c  
-**Pulse**: A view on a recent Salt Typhoon intrusion  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f6536b549a38d68528a530)
+**Threat Type**: Domain  
+**Indicator**: wcsset.com  
+**Pulse**: PlushDaemon compromises network devices for adversary-in-the-middle attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691e322b7508a5264ba48186)
 
-<sub>_Last updated: 2025-11-20 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-20 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
