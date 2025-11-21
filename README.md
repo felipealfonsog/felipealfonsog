@@ -139,12 +139,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0223b36e193979cf72ff7dae6d2493c7  
-**Pulse**: October 2025 Infostealer Trend Report  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691f29a1fb65b42a9f9f4e0e)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 032c333eab80d58d60228691971d79b2c4cd6b9013bae53374dd986faa0f3f4c  
+**Pulse**: APT24  Pivot to Multi-Vector Attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691f6f351b8c5d05831416d7)
 
-<sub>_Last updated: 2025-11-21 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-21 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
