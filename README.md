@@ -144,7 +144,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: October 2025 Infostealer Trend Report  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/691f29a1fb65b42a9f9f4e0e)
 
-<sub>_Last updated: 2025-11-21 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-21 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
