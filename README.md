@@ -140,11 +140,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 88c440ebc36aa51b1c598d4ed5c67dac  
-**Pulse**: Privacy and Prizes: Rewards from a Malicious Browser Extension  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68f7af567bb994ba492c5941)
+**Indicator**: 0223b36e193979cf72ff7dae6d2493c7  
+**Pulse**: October 2025 Infostealer Trend Report  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691f29a1fb65b42a9f9f4e0e)
 
-<sub>_Last updated: 2025-11-20 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-21 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
