@@ -144,7 +144,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Analysis of APT-C-26 (Lazarus) Group's Attack Campaign Using Remote IT Disguise to Deploy Monitoring Software  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6920e39c52bbf117c94af4ba)
 
-<sub>_Last updated: 2025-11-22 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-22 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
