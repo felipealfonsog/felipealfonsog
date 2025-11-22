@@ -139,12 +139,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 032c333eab80d58d60228691971d79b2c4cd6b9013bae53374dd986faa0f3f4c  
-**Pulse**: APT24  Pivot to Multi-Vector Attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691f6f351b8c5d05831416d7)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0c54b86bc8ce4017fe2375f77d004020  
+**Pulse**: Analysis of APT-C-26 (Lazarus) Group's Attack Campaign Using Remote IT Disguise to Deploy Monitoring Software  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6920e39c52bbf117c94af4ba)
 
-<sub>_Last updated: 2025-11-21 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-22 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
