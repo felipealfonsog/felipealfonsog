@@ -139,12 +139,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: cromvix.com  
-**Pulse**: Unpacking NetSupport RAT Loaders Delivered via ClickFix  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68fb00e2b2d0361731cc0f7c)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 3fd5aae11b1b05480a5d76119dc6ab2b  
+**Pulse**: Jewelbug: Chinese APT Group Widens Reach to Russia  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68fb43f09453e7a12ad2dab2)
 
-<sub>_Last updated: 2025-11-23 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-23 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
