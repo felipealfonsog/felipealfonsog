@@ -144,7 +144,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Jewelbug: Chinese APT Group Widens Reach to Russia  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68fb43f09453e7a12ad2dab2)
 
-<sub>_Last updated: 2025-11-23 12:02 UTC_</sub>
+<sub>_Last updated: 2025-11-23 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
