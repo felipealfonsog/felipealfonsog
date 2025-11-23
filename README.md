@@ -144,7 +144,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Gotta fly: Lazarus targets the UAV sector  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68fa32c80f24106e04d886f7)
 
-<sub>_Last updated: 2025-11-22 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-23 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
