@@ -990,6 +990,8 @@ Powered by https://github.com/devicons/devicon
 
 [![750words Member](https://img.shields.io/badge/750%20Words%20Member-4CAF50?style=plastic&logo=LibreOffice&logoColor=white&labelColor=black&labelHeight=19)](https://www.750words.com/)
 
+#
+
 #### Support
 
 If you find my content or any of my code useful, you can support me through various means:
