@@ -167,6 +167,8 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 ### BADGES TO DONATE AND LINKS TO REPOS AND REFRESH ####
 [![Donate via PayPal](https://img.shields.io/badge/-Donate%20via%20PayPal-003087?style=plastic&logo=paypal&logoColor=white&labelColor=003087)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Repository Collection](https://img.shields.io/badge/-Repository%20Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](#projects) [![All Gists](https://img.shields.io/badge/-All%20Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 
+https://freeshell.de/~felipe/finDash/public/login.php
+
 -->
 
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
@@ -178,7 +180,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 [<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=firefox&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
 [<img src="https://img.shields.io/badge/Email-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
-
+[<img src="https://img.shields.io/badge/finDash%20(Personal))-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/finDash/public/login.php)
 
 > "The time of humanity is but a sigh in the life of the universe. We are merely spectators of something immense." ~ [José Maza](https://es.wikipedia.org/wiki/Jos%C3%A9_Maza_Sancho)
 
