@@ -139,12 +139,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 3fd5aae11b1b05480a5d76119dc6ab2b  
-**Pulse**: Jewelbug: Chinese APT Group Widens Reach to Russia  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68fb43f09453e7a12ad2dab2)
+**Threat Type**: Cve  
+**Indicator**: CVE-2021-34473  
+**Pulse**: APT35 Internal Leak of Hacking Campaigns Against Lebanon, Kuwait, Turkey, Saudi Arabia, Korea, and Domestic Iranian Targets  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6921bcca5b00a92c1be4ffcc)
 
-<sub>_Last updated: 2025-11-24 06:03 UTC_</sub>
+<sub>_Last updated: 2025-11-24 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
