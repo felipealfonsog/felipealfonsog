@@ -924,8 +924,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <details open>
 <summary>📐🔧 Tech Stack Icons* 🏅</summary>
 
-
- 
 <p align="left">
 
 <!-- 
@@ -1005,8 +1003,9 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
-<br>
 > 🛡️ Cybersecurity / Cyberintelligence 🔒
+<br>
+
 <br>
 
 <details>
