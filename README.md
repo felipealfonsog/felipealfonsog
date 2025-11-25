@@ -1000,7 +1000,7 @@ Powered by https://github.com/devicons/devicon
 
 <br>
 <details>
-  <summary>🛡️ Cybersecurity / Cyberintelligence - Stack Badges* 🔒</summary>
+  <summary>🛡️ Cybersecurity / Cyberintelligence Stack Badges* 🔒</summary>
   <br>
 
 [![Tor](https://img.shields.io/badge/Tor-7E4798?style=plastic&logo=torproject&logoColor=white)](https://www.torproject.org/)
@@ -1034,8 +1034,17 @@ Powered by https://github.com/devicons/devicon
 
 <br>
 
-> 🛡️ Cybersecurity / Cyberintelligence 🔒
+<!--
 
+> 🛡️ Cybersecurity / Cyberintelligence 🔒
+-->
+
+<br>
+<details open>
+  <summary>🛡️ Cybersecurity / Cyberintelligence Stack Icons* 🔒</summary>
+  <br>
+
+  
 <!-- Cybersecurity / Cyberintelligence icons -->
 
    <a href="https://www.torproject.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/torproject-icon.svg" alt="tor" width="40" height="40"/></a> 
@@ -1065,9 +1074,10 @@ Powered by https://github.com/devicons/devicon
    <a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/240px-CISA_Logo.png" alt="CISA" width="40" height="40"/></a>
 
    
+</details>
 
 
-</p>
+<br>
 
 <sub>[[Personal PGP Public Key]](#pgp-public-key)</sub>
 
