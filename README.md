@@ -1032,14 +1032,12 @@ Powered by https://github.com/devicons/devicon
 </details>
 
 
-<br>
-
 <!--
 
 > 🛡️ Cybersecurity / Cyberintelligence 🔒
 -->
 
-<br>
+
 <details open>
   <summary>🛡️ Cybersecurity / Cyberintelligence Stack Icons* 🔒</summary>
   <br>
@@ -1077,7 +1075,7 @@ Powered by https://github.com/devicons/devicon
 </details>
 
 
-<br>
+
 
 <sub>[[Personal PGP Public Key]](#pgp-public-key)</sub>
 
