@@ -81,9 +81,9 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [<img src="https://img.shields.io/badge/Refresh_Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7&logoWidth=20" height="19"/>](https://github.com/felipealfonsog?cache-bypass=1) [<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
-[<img src="https://img.shields.io/badge/-Website%20(freeshell.de host)-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
-[<img src="https://img.shields.io/badge/-Website%20(felipe.gnlz.cl)-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
-[<img src="https://img.shields.io/badge/-Website%20(gnlz.cl)-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.cl)
+[<img src="https://img.shields.io/badge/-freeshell.de host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
+[<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
+[<img src="https://img.shields.io/badge/-gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.cl)
 [<img src="https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57&logoWidth=20" height="19"/>](https://books2read.com/adrianglorentz)
 [<img src="https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166&logoWidth=20" height="19"/>](https://insighttimer.com/namchandersingh/)
 
