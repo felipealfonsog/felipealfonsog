@@ -931,8 +931,15 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <!-- 
 Powered by https://github.com/devicons/devicon
 -->
-   
-   
+
+  <a href="https://en.wikipedia.org/wiki/Roff_(software)" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/markdown-original.svg" alt="roff" width="40" height="40"/></a>
+  <a href="https://www.json.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/json-original.svg" alt="json" width="40" height="40"/></a>
+  <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/></a>
+  <a href="https://mariadb.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/django-plain-wordmark.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rails-original-wordmark.svg" alt="ruby-on-rails" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/bash-plain.svg" alt="shell-script" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Microsoft_Azure" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Bash" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/bash-original.svg" alt="bash" width="40" height="40"/></a>
@@ -1000,6 +1007,7 @@ Powered by https://github.com/devicons/devicon
 
 <br>
 > 🛡️ Cybersecurity / Cyberintelligence 🔒
+<br>
 
 <details>
   <summary>🛡️ Cybersecurity / Cyberintelligence Stack Badges* 🔒</summary>
