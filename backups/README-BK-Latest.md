@@ -923,16 +923,21 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <!-- <details open> -->
 <details open>
 <summary>📐🔧 Tech Stack Icons* 🏅</summary>
-<br>
 
- 
 <p align="left">
 
 <!-- 
 Powered by https://github.com/devicons/devicon
 -->
-   
-   
+
+  <a href="https://en.wikipedia.org/wiki/Roff_(software)" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/markdown-original.svg" alt="roff" width="40" height="40"/></a>
+  <a href="https://www.json.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/json-original.svg" alt="json" width="40" height="40"/></a>
+  <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/></a>
+  <a href="https://mariadb.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/django-plain-wordmark.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rails-original-wordmark.svg" alt="ruby-on-rails" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/bash-plain.svg" alt="shell-script" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Microsoft_Azure" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Bash" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/bash-original.svg" alt="bash" width="40" height="40"/></a>
@@ -998,9 +1003,10 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
-<br>
+> 🛡️ Cybersecurity / Cyberintelligence 🔒
+
 <details>
-  <summary>🛡️ Cybersecurity / Cyberintelligence - Stack Badges* 🔒</summary>
+  <summary>🛡️ Cybersecurity / Cyberintelligence Stack Badges* 🔒</summary>
   <br>
 
 [![Tor](https://img.shields.io/badge/Tor-7E4798?style=plastic&logo=torproject&logoColor=white)](https://www.torproject.org/)
@@ -1032,10 +1038,17 @@ Powered by https://github.com/devicons/devicon
 </details>
 
 
-<br>
+<!--
 
 > 🛡️ Cybersecurity / Cyberintelligence 🔒
+-->
 
+
+<details open>
+  <summary>🛡️ Cybersecurity / Cyberintelligence Stack Icons* 🔒</summary>
+  <br>
+
+  
 <!-- Cybersecurity / Cyberintelligence icons -->
 
    <a href="https://www.torproject.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/torproject-icon.svg" alt="tor" width="40" height="40"/></a> 
@@ -1065,15 +1078,16 @@ Powered by https://github.com/devicons/devicon
    <a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/240px-CISA_Logo.png" alt="CISA" width="40" height="40"/></a>
 
    
+</details>
 
 
-</p>
+
 
 <sub>[[Personal PGP Public Key]](#pgp-public-key)</sub>
 
 </details>
 
-<sub>*Powered by [Devicon](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
+<sub>*Powered by [Devicon](https://devicon.dev/), [Devicon (Github)](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
