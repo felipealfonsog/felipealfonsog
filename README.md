@@ -164,7 +164,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: ClickFix Gets Creative: Malware Buried in Images  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6924c9a94b1c7374cf444b82)
 
-<sub>_Last updated: 2025-11-25 12:03 UTC_</sub>
+<sub>_Last updated: 2025-11-25 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
