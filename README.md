@@ -665,7 +665,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![Data Engineering](https://img.shields.io/badge/Data%20Engineering-%F0%9F%9B%A0%EF%B8%8F-blueviolet?style=plastic)](https://en.wikipedia.org/wiki/Data_engineering)
 [![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-%F0%9F%92%BC-orange?style=plastic)](https://en.wikipedia.org/wiki/Business_intelligence)
 [![IT Management](https://img.shields.io/badge/IT%20Management-0078D4?style=plastic&logo=serverfault&logoColor=white&color=blue&labelColor=grey)](https://en.wikipedia.org/wiki/Information_technology_management)
--->
+
 -->
 
 <!-- [![Big Data](https://img.shields.io/badge/Big%20Data-%F0%9F%93%8D-blue)](https://en.wikipedia.org/wiki/Big_data) -->
