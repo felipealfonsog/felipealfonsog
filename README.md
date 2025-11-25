@@ -613,9 +613,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
  <!-- Before it was the list of projects here -->
 
 <!-- <details open> -->
+
+<!--
 <details>
 <summary>📐🔧 Tech Stack Badges* 🏅</summary>
 <br>
+-->
 
 <!--
 [![Linux](https://img.shields.io/badge/Linux-OS-blue?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
@@ -704,6 +707,13 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![SaaS](https://img.shields.io/badge/SaaS-FF4088?style=flat-square&logo=sass&logoColor=white)](https://en.wikipedia.org/wiki/Software_as_a_service)
 -->
+
+<!--
+
+###############ORIGINALS ############################
+-->
+<!--
+
 [![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -748,16 +758,28 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/)
 [![SaaS](https://img.shields.io/badge/SaaS-FF4088?style=plastic&logo=sass&logoColor=white)](https://en.wikipedia.org/wiki/Software_as_a_service)
+-->
 
-
-
+<!--
 
 <br>
 
 <details>
-  <summary><strong>📐🔧 Tech Stack Icons — Full Ordered List</strong></summary>
-  <br>
+-->
 
+<summary></summary>
+  <summary>📐🔧 Tech Stack Badges* 🏅</summary>
+  <br>
+<!-- NUEVOS BADGES AGREGADOS AL INICIO DEL GRUPO 1 -->
+
+[![Roff](https://img.shields.io/badge/Roff-A81D33?style=plastic&logo=manjaro&logoColor=white)](https://en.wikipedia.org/wiki/Roff_(software))
+[![JSON](https://img.shields.io/badge/JSON-000000?style=plastic&logo=json&logoColor=white)](https://www.json.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)](https://angular.io/)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=plastic&logo=ruby%20on%20rails&logoColor=white)](https://rubyonrails.org/)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonwebservices&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoftazure&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Azure)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash)
@@ -950,7 +972,7 @@ Powered by https://github.com/devicons/devicon
 
 <br>
 <details>
-  <summary><strong>🛡️ Cybersecurity / Cyberintelligence — Ordered Full List (25)</strong></summary>
+  <summary>🛡️ Cybersecurity / Cyberintelligence - Stack Badges* 🔒</summary>
   <br>
 
 [![Tor](https://img.shields.io/badge/Tor-7E4798?style=plastic&logo=torproject&logoColor=white)](https://www.torproject.org/)
@@ -984,7 +1006,7 @@ Powered by https://github.com/devicons/devicon
 
 <br>
 
-> Cybersecurity / Cyberintelligence 🔒
+> 🛡️ Cybersecurity / Cyberintelligence 🔒
 
 <!-- Cybersecurity / Cyberintelligence icons -->
 
