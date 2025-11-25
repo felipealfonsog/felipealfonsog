@@ -755,76 +755,72 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <br>
 
 <details>
-  <summary><strong>📐🔧 Tech Stack — Cloud • DevOps • Languages • Frameworks • Databases • OS • Tools</strong></summary>
+  <summary><strong>📐🔧 Tech Stack Icons — Full Ordered List</strong></summary>
   <br>
 
-<!-- CLOUD / DEVOPS -->
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonwebservices&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoftazure&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Azure)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=plastic&logo=googlecloud&logoColor=white)](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)](https://en.wikipedia.org/wiki/Heroku)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=plastic&logo=raspberrypi&logoColor=white)](https://en.wikipedia.org/wiki/Raspberry_Pi)
-
-<!-- LANGUAGES -->
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
-[![Deno](https://img.shields.io/badge/Deno-000000?style=plastic&logo=deno&logoColor=white)](https://en.wikipedia.org/wiki/Deno_(software))
-[![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
-[![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))
-[![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
-[![Perl](https://img.shields.io/badge/Perl-39457E?style=plastic&logo=perl&logoColor=white)](https://en.wikipedia.org/wiki/Perl)
-
-<!-- WEB / FRONTEND -->
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=plastic&logo=electron&logoColor=white)](https://en.wikipedia.org/wiki/Electron_(software_framework))
+[![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)](https://en.wikipedia.org/wiki/Express.js)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)](https://en.wikipedia.org/wiki/Firebase)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
-[![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)](https://en.wikipedia.org/wiki/React_(software))
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=plastic&logo=react&logoColor=black)](https://en.wikipedia.org/wiki/React_Native)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white)](https://en.wikipedia.org/wiki/Vue.js)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)](https://en.wikipedia.org/wiki/Next.js)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)](https://en.wikipedia.org/wiki/JQuery)
-[![Electron](https://img.shields.io/badge/Electron-47848F?style=plastic&logo=electron&logoColor=white)](https://en.wikipedia.org/wiki/Electron_(software_framework))
-
-<!-- DATABASES -->
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=plastic&logo=googlecloud&logoColor=white)](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
+[![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)](https://en.wikipedia.org/wiki/GraphQL)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/MongoDB)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/PostgreSQL)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQLite)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)](https://en.wikipedia.org/wiki/Redis)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)](https://en.wikipedia.org/wiki/Firebase)
-
-<!-- VERSION CONTROL -->
-[![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/GitHub)
-[![GitLab](https://img.shields.io/badge/GitLab-E24329?style=plastic&logo=gitlab&logoColor=white)](https://en.wikipedia.org/wiki/GitLab)
-
-<!-- OPERATING SYSTEMS -->
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
-[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=archlinux&logoColor=white)](https://en.wikipedia.org/wiki/Arch_Linux)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Debian)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=plastic&logo=freebsd&logoColor=white)](https://en.wikipedia.org/wiki/FreeBSD)
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white)](https://en.wikipedia.org/wiki/Fedora_Linux)
-[![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=plastic&logo=redhat&logoColor=white)](https://en.wikipedia.org/wiki/Red_Hat_Linux)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white)](https://es.wikipedia.org/wiki/MacOS)
-[![Unix](https://img.shields.io/badge/Unix-8C8C8C?style=plastic&logo=unix&logoColor=white)](https://en.wikipedia.org/wiki/Unix)
-
-<!-- EDITORS -->
+[![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=plastic&logo=raspberrypi&logoColor=white)](https://en.wikipedia.org/wiki/Raspberry_Pi)
+[![Perl](https://img.shields.io/badge/Perl-39457E?style=plastic&logo=perl&logoColor=white)](https://en.wikipedia.org/wiki/Perl)
+[![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)](https://en.wikipedia.org/wiki/React_(software))
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=plastic&logo=react&logoColor=black)](https://en.wikipedia.org/wiki/React_Native)
+[![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
 [![Vim](https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white)](https://en.wikipedia.org/wiki/Vim_(text_editor))
 [![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=plastic&logo=gnuemacs&logoColor=white)](https://en.wikipedia.org/wiki/GNU_Emacs)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white)](https://en.wikipedia.org/wiki/LaTeX)
-
-<!-- AI -->
-[![AI](https://img.shields.io/badge/AI-000000?style=plastic&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQLite)
+[![Deno](https://img.shields.io/badge/Deno-000000?style=plastic&logo=deno&logoColor=white)](https://en.wikipedia.org/wiki/Deno_(software))
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)](https://en.wikipedia.org/wiki/JQuery)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white)](https://en.wikipedia.org/wiki/Vue.js)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)](https://en.wikipedia.org/wiki/Next.js)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)](https://en.wikipedia.org/wiki/Heroku)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Project_Jupyter)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)](https://en.wikipedia.org/wiki/Redis)
+[![SaaS](https://img.shields.io/badge/SaaS-FF4088?style=plastic&logo=sass&logoColor=white)](https://en.wikipedia.org/wiki/Software_as_a_service)
+[![AI](https://img.shields.io/badge/AI-000000?style=plastic&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white)](https://en.wikipedia.org/wiki/LaTeX)
+[![GitLab](https://img.shields.io/badge/GitLab-E24329?style=plastic&logo=gitlab&logoColor=white)](https://en.wikipedia.org/wiki/GitLab)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/GitHub)
+[![OpenSource](https://img.shields.io/badge/Open_Source-3DA639?style=plastic&logo=opensourceinitiative&logoColor=white)](https://en.wikipedia.org/wiki/Open_Source_Initiative)
+[![FSF](https://img.shields.io/badge/FSF-000000?style=plastic&logo=freesoftwarefoundation&logoColor=white)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+[![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=plastic&logo=homebrew&logoColor=black)](https://en.wikipedia.org/wiki/Homebrew_(package_manager))
+[![Unix](https://img.shields.io/badge/Unix-8C8C8C?style=plastic&logo=unix&logoColor=white)](https://en.wikipedia.org/wiki/Unix)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=plastic&logo=freebsd&logoColor=white)](https://en.wikipedia.org/wiki/FreeBSD)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+[![Slackware](https://img.shields.io/badge/Slackware-000000?style=plastic&logo=slackware&logoColor=white)](https://en.wikipedia.org/wiki/Slackware)
+[![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=plastic&logo=redhat&logoColor=white)](https://en.wikipedia.org/wiki/Red_Hat_Linux)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white)](https://en.wikipedia.org/wiki/Fedora_Linux)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Debian)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=manjaro&logoColor=white)](https://es.wikipedia.org/wiki/Manjaro_Linux)
+[![Mabox](https://img.shields.io/badge/Mabox-000000?style=plastic&logo=linux&logoColor=white)](https://es.wikipedia.org/wiki/Mabox_Linux)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=plastic&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=archlinux&logoColor=white)](https://en.wikipedia.org/wiki/Arch_Linux)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white)](https://es.wikipedia.org/wiki/MacOS)
+[![Apple](https://img.shields.io/badge/Apple-000000?style=plastic&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Apple_Inc.)
 
 </details>
 
@@ -953,9 +949,8 @@ Powered by https://github.com/devicons/devicon
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
 <br>
-
 <details>
-  <summary><strong>🔒 Cybersecurity — Pentesting • Forensics • Threat Intel • OSINT</strong></summary>
+  <summary><strong>🛡️ Cybersecurity / Cyberintelligence — Ordered Full List (25)</strong></summary>
   <br>
 
 [![Tor](https://img.shields.io/badge/Tor-7E4798?style=plastic&logo=torproject&logoColor=white)](https://www.torproject.org/)
@@ -966,23 +961,26 @@ Powered by https://github.com/devicons/devicon
 [![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=plastic&logo=openvpn&logoColor=white)](https://openvpn.net/)
 [![ProtonVPN](https://img.shields.io/badge/ProtonVPN-6D4AFF?style=plastic&logo=protonvpn&logoColor=white)](https://protonvpn.com/)
 [![DEFCON](https://img.shields.io/badge/DEFCON-000000?style=plastic&logo=hackaday&logoColor=white)](https://defcon.org/)
-[![DDG](https://img.shields.io/badge/DuckDuckGo-DE5833?style=plastic&logo=duckduckgo&logoColor=white)](https://duckduckgo.com/)
-[![MLH](https://img.shields.io/badge/MLH-F05032?style=plastic&logo=mlh&logoColor=white)](https://mlh.io/)
+[![KaliAlt](https://img.shields.io/badge/Kali_Linux_(Alt)-268BEE?style=plastic&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=plastic&logo=duckduckgo&logoColor=white)](https://duckduckgo.com/)
+[![AzureSecurity](https://img.shields.io/badge/Azure_Security-0078D4?style=plastic&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/security/)
+[![MLH](https://img.shields.io/badge/Major_League_Hacking-000000?style=plastic&logo=majorleaguehacking&logoColor=white)](https://mlh.io/)
 [![Hackaday](https://img.shields.io/badge/Hackaday-1A1A1A?style=plastic&logo=hackaday&logoColor=white)](https://hackaday.com/)
-[![Ingress](https://img.shields.io/badge/Ingress-00FFFF?style=plastic&logo=icloud&logoColor=black)](https://www.ingress.com/)
+[![Ingress Hacker](https://img.shields.io/badge/Ingress_Hacker-00FFFF?style=plastic&logo=icloud&logoColor=black)](https://www.ingress.com/)
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=plastic&logo=nmap&logoColor=white)](https://nmap.org/)
 [![Snort](https://img.shields.io/badge/Snort-FC6086?style=plastic&logo=snort&logoColor=white)](https://www.snort.org/)
 [![OSINT](https://img.shields.io/badge/OSINT-000000?style=plastic&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Open-source_intelligence)
-[![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=plastic&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=plastic&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![Malwarebytes](https://img.shields.io/badge/Malwarebytes-0054A6?style=plastic&logo=malwarebytes&logoColor=white)](https://www.malwarebytes.com/)
 [![CCE](https://img.shields.io/badge/CCE-003366?style=plastic&logo=codeforces&logoColor=white)](https://isfce.com/)
 [![Maltego](https://img.shields.io/badge/Maltego-000000?style=plastic&logo=maltego&logoColor=white)](https://www.maltego.com/)
 [![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=plastic&logo=shodan&logoColor=white)](https://www.shodan.io/)
 [![Censys](https://img.shields.io/badge/Censys-FF6F61?style=plastic&logo=censys&logoColor=white)](https://censys.io/)
 [![Cortex](https://img.shields.io/badge/Cortex-FF6600?style=plastic&logo=elastic&logoColor=white)](https://www.cortex.io/)
-[![CISA](https://img.shields.io/badge/CISA-0052CC?style=plastic&logo=atlassian&logoColor=white)](https://www.cisa.gov/)
+[![CISA](https://img.shields.io/badge/CISA-0052CC?style=plastic&logo=cisa&logoColor=white)](https://www.cisa.gov/)
 
 </details>
+
 
 <br>
 
