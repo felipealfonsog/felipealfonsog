@@ -775,7 +775,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <details>
 -->
 
-<summary></summary>
+<details>
   <summary>📐🔧 Tech Stack Badges* 🏅</summary>
   <br>
 <!-- NUEVOS BADGES AGREGADOS AL INICIO DEL GRUPO 1 -->
