@@ -930,7 +930,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 Powered by https://github.com/devicons/devicon
 -->
 
-  <a href="https://en.wikipedia.org/wiki/Roff_(software)" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/markdown-original.svg" alt="roff" width="40" height="40"/></a>
   <a href="https://www.json.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/json-original.svg" alt="json" width="40" height="40"/></a>
   <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/></a>
   <a href="https://mariadb.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a>
