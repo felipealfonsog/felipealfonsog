@@ -999,6 +999,8 @@ Powered by https://github.com/devicons/devicon
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
 <br>
+> 🛡️ Cybersecurity / Cyberintelligence 🔒
+
 <details>
   <summary>🛡️ Cybersecurity / Cyberintelligence Stack Badges* 🔒</summary>
   <br>
@@ -1081,7 +1083,7 @@ Powered by https://github.com/devicons/devicon
 
 </details>
 
-<sub>*Powered by [Devicon](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
+<sub>*Powered by [Devicon](https://devicon.dev/), [Devicon (Github)](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
