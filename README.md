@@ -1004,9 +1004,6 @@ Powered by https://github.com/devicons/devicon
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
 > 🛡️ Cybersecurity / Cyberintelligence 🔒
-<br>
-
-<br>
 
 <details>
   <summary>🛡️ Cybersecurity / Cyberintelligence Stack Badges* 🔒</summary>
