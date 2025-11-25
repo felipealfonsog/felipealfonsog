@@ -1001,7 +1001,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://es.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/macos.svg" alt="macOS" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
-#
+
 > 🛡️ Cybersecurity / Cyberintelligence 🔒
 
 <details>
