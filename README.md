@@ -378,6 +378,25 @@ _)      \.___.,|     .'
 \____   )MMMMMM|   .'
      `-'       `--' hjm
 
+
+              a8888b.
+             d888888b.
+             8P"YP"Y88
+             8|o||o|88
+             8'    .88
+             8`._.' Y8.
+            d/      `8b.
+          .dP   .     Y8b.
+         d8:'   "   `::88b.
+        d8"           `Y88b
+       :8P     '       :888
+        8a.    :      _a88P
+      ._/"Yaa_ :    .| 88P|
+ jgs  \    YP"      `| 8P  `.
+ a:f  /     \._____.d|    .'
+      `--..__)888888P`._.'
+
+      
 -->
 
 <details open>
@@ -458,22 +477,20 @@ Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't f
 
 ```
 
-         _nnnn_                      
-        dGGGGMMb     ,"""""""""""""".
-       @p~qp~~qMb    | Linux Rules! |
-       M|@||@) M|   _;..............'
-       @,----.JM| -'
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMM|   .'
-     `-'       `--' hjm
+                                                                 #####
+                                                                #######
+                   #                                            ##O#O##
+  ######          ###                                           #VVVVV#
+    ##             #                                          ##  VVV  ##
+    ##         ###    ### ####   ###    ###  ##### #####     #          ##
+    ##        #  ##    ###    ##  ##     ##    ##   ##      #            ##
+    ##       #   ##    ##     ##  ##     ##      ###        #            ###
+    ##          ###    ##     ##  ##     ##      ###       QQ#           ##Q
+    ##       # ###     ##     ##  ##     ##     ## ##    QQQQQQ#       #QQQQQQ
+    ##      ## ### #   ##     ##  ###   ###    ##   ##   QQQQQQQ#     #QQQQQQQ
+  ############  ###   ####   ####   #### ### ##### #####   QQQQQ#######QQQQQ
+ 
+unknown
 
 ```
 
