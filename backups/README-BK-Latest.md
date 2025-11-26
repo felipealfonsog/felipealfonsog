@@ -164,7 +164,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Infrastructure of Interest: Medium Confidence Detection  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-11-25 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-26 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -202,7 +202,7 @@ https://freeshell.de/~felipe/finDash/public/login.php
 [<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=firefox&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
 [<img src="https://img.shields.io/badge/Email-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 
-[<img src="https://img.shields.io/badge/finDash%20(Personal))-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/fintec)
+[<img src="https://img.shields.io/badge/finDash%20(Personal)-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/fintec)
 
 #
 
@@ -523,19 +523,19 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 25 November 2025
+From: 04 December 2023 - To: 26 November 2025
 
-Total Time: 885 hrs 17 mins
+Total Time: 885 hrs 26 mins
 
 Bash                 155 hrs 20 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   16.97 %
 Python               131 hrs 17 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   14.34 %
 HTML                 118 hrs 26 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.94 %
-PHP                  91 hrs 14 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.97 %
+PHP                  91 hrs 18 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.97 %
 Markdown             70 hrs 57 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.75 %
 C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.19 %
 C++                  40 hrs 2 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.37 %
 INI                  31 hrs 50 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.48 %
-Text                 30 hrs 45 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.36 %
+Text                 30 hrs 47 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.36 %
 Other                30 hrs 10 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.30 %
 ```
 
