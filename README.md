@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 69.62.86.78  
-**Pulse**: Inside DPRK's Fake Job Platform Targeting U.S. AI Talent  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6926d16a60c2447d2c490745)
+**Threat Type**: Cve  
+**Indicator**: CVE-2023-38831  
+**Pulse**: How NTLM is being abused in 2025 cyberattacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69270a1260d022cc94c9f705)
 
-<sub>_Last updated: 2025-11-26 12:02 UTC_</sub>
+<sub>_Last updated: 2025-11-26 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
