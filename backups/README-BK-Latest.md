@@ -378,6 +378,25 @@ _)      \.___.,|     .'
 \____   )MMMMMM|   .'
      `-'       `--' hjm
 
+
+              a8888b.
+             d888888b.
+             8P"YP"Y88
+             8|o||o|88
+             8'    .88
+             8`._.' Y8.
+            d/      `8b.
+          .dP   .     Y8b.
+         d8:'   "   `::88b.
+        d8"           `Y88b
+       :8P     '       :888
+        8a.    :      _a88P
+      ._/"Yaa_ :    .| 88P|
+ jgs  \    YP"      `| 8P  `.
+ a:f  /     \._____.d|    .'
+      `--..__)888888P`._.'
+
+      
 -->
 
 <details open>
@@ -448,34 +467,32 @@ If you are interested in starting a business, consulting, research, or collabora
 </details>
 
 📄 The Gospel of Tux Unearthed :book:
+
+```
+
+                                                                 #####
+                                                                #######
+                   #                                            ##O#O##
+  ######          ###                                           #VVVVV#
+    ##             #                                          ##  VVV  ##
+    ##         ###    ### ####   ###    ###  ##### #####     #          ##
+    ##        #  ##    ###    ##  ##     ##    ##   ##      #            ##
+    ##       #   ##    ##     ##  ##     ##      ###        #            ###
+    ##          ###    ##     ##  ##     ##      ###       QQ#           ##Q
+    ##       # ###     ##     ##  ##     ##     ## ##    QQQQQQ#       #QQQQQQ
+    ##      ## ### #   ##     ##  ###   ###    ##   ##   QQQQQQQ#     #QQQQQQQ
+  ############  ###   ####   ####   #### ### ##### #####   QQQQQ#######QQQQQ
+ 
+unknown
+
+```
+
 > 📖 [Read the Gospel of Tux Unearthed](https://gist.github.com/felipealfonsog/1727a8393c6112f9a22828df86af3817) :penguin:
 An entertaining story that humorously traces the evolution of Unix and Tux. 🚀 A must-read for tech enthusiasts and open-source lovers!
 🔗 **[English Version](https://gist.github.com/felipealfonsog/1727a8393c6112f9a22828df86af3817)** 🔗
 🔗 **[Versión en Español](https://gist.github.com/felipealfonsog/92646e891b39c22f7cd8e35556d8c41c)** 🔗 🔗 **[Version en Français](https://gist.github.com/felipealfonsog/34ca19ae018e44fce82b758990965c82)** 🔗
 
 Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't forget to leave a ⭐️ if you like it.
-
-
-```
-
-         _nnnn_                      
-        dGGGGMMb     ,"""""""""""""".
-       @p~qp~~qMb    | Linux Rules! |
-       M|@||@) M|   _;..............'
-       @,----.JM| -'
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMM|   .'
-     `-'       `--' hjm
-
-```
 
 #
 
