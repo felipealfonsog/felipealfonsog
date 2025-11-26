@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Ipv4  
+**Indicator**: 69.62.86.78  
+**Pulse**: Inside DPRK's Fake Job Platform Targeting U.S. AI Talent  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6926d16a60c2447d2c490745)
 
-<sub>_Last updated: 2025-11-26 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-26 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
