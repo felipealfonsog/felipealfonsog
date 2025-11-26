@@ -361,7 +361,22 @@ _______                  /__/
 /_____\\  ATARI 800     
 
 
-
+         _nnnn_                      
+        dGGGGMMb     ,"""""""""""""".
+       @p~qp~~qMb    | Linux Rules! |
+       M|@||@) M|   _;..............'
+       @,----.JM| -'
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMM|   .'
+     `-'       `--' hjm
 
 -->
 
@@ -439,6 +454,27 @@ An entertaining story that humorously traces the evolution of Unix and Tux. 🚀
 🔗 **[Versión en Español](https://gist.github.com/felipealfonsog/92646e891b39c22f7cd8e35556d8c41c)** 🔗 🔗 **[Version en Français](https://gist.github.com/felipealfonsog/34ca19ae018e44fce82b758990965c82)** 🔗
 
 Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't forget to leave a ⭐️ if you like it.
+
+<br>
+```
+         _nnnn_                      
+        dGGGGMMb     ,"""""""""""""".
+       @p~qp~~qMb    | Linux Rules! |
+       M|@||@) M|   _;..............'
+       @,----.JM| -'
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMM|   .'
+     `-'       `--' hjm
+```
+<br>
 
 <details open >
 <summary>📰 Read On Further 💼</summary>
