@@ -455,7 +455,6 @@ An entertaining story that humorously traces the evolution of Unix and Tux. 🚀
 
 Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't forget to leave a ⭐️ if you like it.
 
-<br>
 
 ```
 
@@ -477,8 +476,6 @@ _)      \.___.,|     .'
      `-'       `--' hjm
 
 ```
-
-<br>
 
 #
 
