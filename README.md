@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 1f7e01a3355b52cbc92c908a61abf643  
-**Pulse**: Care that you share  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/692750d5234e84e9eecec37c)
+**Threat Type**: Domain  
+**Indicator**: bitcoinmagazine.care  
+**Pulse**: Infrastructure of Interest: Medium Confidence Phishing  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/689453a1603f3d4b93557f2a)
 
-<sub>_Last updated: 2025-11-27 12:02 UTC_</sub>
+<sub>_Last updated: 2025-11-27 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
