@@ -160,11 +160,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Cve  
-**Indicator**: CVE-2023-38831  
-**Pulse**: How NTLM is being abused in 2025 cyberattacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69270a1260d022cc94c9f705)
+**Indicator**: CVE-2025-8088  
+**Pulse**: Earth Entries alive and kicking  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/690032a10721de5f05a42a01)
 
-<sub>_Last updated: 2025-11-27 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-27 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
