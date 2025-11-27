@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Cve  
+**Indicator**: CVE-2023-38831  
+**Pulse**: How NTLM is being abused in 2025 cyberattacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69270a1260d022cc94c9f705)
 
-<sub>_Last updated: 2025-11-26 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-27 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -396,7 +396,25 @@ _)      \.___.,|     .'
  a:f  /     \._____.d|    .'
       `--..__)888888P`._.'
 
-      
+
+
+                                        
+ .. .              . .. .    ....   ..              
+              .                          .@@#@      
+     ..   ....     .                    .==@*@.     
+   =@.     .:*...   .. ..  ......  ..   ..-:-@=     
+   -@     .................. .  .. ..   .:....@%.   
+   -@    .:.*..@%  @: @.. %@. .@..*    +%......#@ . 
+   -@    :.=*..@.  @- @.. %@.  .@-    .@..:....*@   
+   -@    @.*...@.  @-.@.  @@   @.@. .:---@....-=-.. 
+  .#@...@@.*.:.@. .@#.@+.%%@..@. .@..----=..=@----. 
+ ...     .:     ....     ..      ..  ......  ...... 
+..*.     ...     ..      ..      :-.     :.     .-% 
+.  .                                                
+
+
+
+
 -->
 
 <details open>
@@ -470,20 +488,17 @@ If you are interested in starting a business, consulting, research, or collabora
 
 ```
 
-                                                                 #####
-                                                                #######
-                   #                                            ##O#O##
-  ######          ###                                           #VVVVV#
-    ##             #                                          ##  VVV  ##
-    ##         ###    ### ####   ###    ###  ##### #####     #          ##
-    ##        #  ##    ###    ##  ##     ##    ##   ##      #            ##
-    ##       #   ##    ##     ##  ##     ##      ###        #            ###
-    ##          ###    ##     ##  ##     ##      ###       QQ#           ##Q
-    ##       # ###     ##     ##  ##     ##     ## ##    QQQQQQ#       #QQQQQQ
-    ##      ## ### #   ##     ##  ###   ###    ##   ##   QQQQQQQ#     #QQQQQQQ
-  ############  ###   ####   ####   #### ### ##### #####   QQQQQ#######QQQQQ
- 
-unknown
+ ....            ...     ....   ..            
+                                    .@@+=     
+          ...                       .#@#@     
+   @.     .:.       .               .=-:#.    
+   @.    .+.*@.@%#=@% +@:.@@#=@@.  -:..::@%   
+   @.   ..*- @-  @.=%  @:  :@..   .@.....*@.. 
+   @.  .#.*..@.  @.=%. @:. .:@. ..--.....*@-. 
+   @.  *#.+..@.  @ .@..@-. : .@ .----...@---: 
+  .      .    ....   ...     .   ...+. ..+..  
+....    #-     .-     ..     ...    .:     *- 
+.  .
 
 ```
 
