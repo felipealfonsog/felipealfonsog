@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-8088  
-**Pulse**: Earth Entries alive and kicking  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/690032a10721de5f05a42a01)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 1f7e01a3355b52cbc92c908a61abf643  
+**Pulse**: Care that you share  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/692750d5234e84e9eecec37c)
 
-<sub>_Last updated: 2025-11-27 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-27 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
