@@ -160,11 +160,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Domain  
-**Indicator**: bitcoinmagazine.care  
-**Pulse**: Infrastructure of Interest: Medium Confidence Phishing  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/689453a1603f3d4b93557f2a)
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-11-28 06:02 UTC_</sub>
+<sub>_Last updated: 2025-11-28 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
