@@ -1,0 +1,43 @@
+<svg width="240" height="240" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Todo usa currentColor: lo pintas con CSS -->
+  <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Shield exterior -->
+    <path d="M32 4
+             L12 11
+             V30
+             C12 45 22 53.5 32 58
+             C42 53.5 52 45 52 30
+             V11
+             Z"/>
+
+    <!-- Chip (rectángulo central) -->
+    <rect x="22" y="22" width="20" height="18" rx="2" ry="2" fill="currentColor"/>
+
+    <!-- “Cuadro” interno del chip -->
+    <rect x="26" y="25.5" width="12" height="11" rx="1.5" ry="1.5" fill="none" stroke="#000" stroke-width="0.8" opacity="0.35"/>
+
+    <!-- Pines del chip (arriba) -->
+    <line x1="26" y1="22" x2="26" y2="18"/>
+    <line x1="30" y1="22" x2="30" y2="18"/>
+    <line x1="34" y1="22" x2="34" y2="18"/>
+    <line x1="38" y1="22" x2="38" y2="18"/>
+
+    <!-- Pines del chip (abajo) -->
+    <line x1="26" y1="40" x2="26" y2="44"/>
+    <line x1="30" y1="40" x2="30" y2="44"/>
+    <line x1="34" y1="40" x2="34" y2="44"/>
+    <line x1="38" y1="40" x2="38" y2="44"/>
+
+    <!-- Pines laterales (izquierda) -->
+    <line x1="22" y1="25" x2="18" y2="25"/>
+    <line x1="22" y1="29" x2="18" y2="29"/>
+    <line x1="22" y1="33" x2="18" y2="33"/>
+    <line x1="22" y1="37" x2="18" y2="37"/>
+
+    <!-- Pines laterales (derecha) -->
+    <line x1="42" y1="25" x2="46" y2="25"/>
+    <line x1="42" y1="29" x2="46" y2="29"/>
+    <line x1="42" y1="33" x2="46" y2="33"/>
+    <line x1="42" y1="37" x2="46" y2="37"/>
+  </g>
+</svg>
