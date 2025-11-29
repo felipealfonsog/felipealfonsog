@@ -26,7 +26,7 @@ I'm **Felipe**, a [Computer Science Engineer](https://en.wikipedia.org/wiki/Comp
 
 Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
-Integrity, transparency, and coherence guide both my work and my personal path. I believe in purpose-driven action, in aligning values with impact, and in seeking truth “in the silence of my steps.”
+Integrity, transparency, and coherence shape both my work and my personal journey. I act with purpose—where values meet impact—and I seek truth in the silence that moves us forward.
 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
 
@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2023-38831  
-**Pulse**: How NTLM is being abused in 2025 cyberattacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69270a1260d022cc94c9f705)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 00839f128a2daa17623bf578cd7e2a85  
+**Pulse**: Operation Hanoi Thief: Vietnam APT  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6929ac76bedd4839dedec743)
 
-<sub>_Last updated: 2025-11-27 00:07 UTC_</sub>
+<sub>_Last updated: 2025-11-29 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -594,20 +594,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 26 November 2025
+From: 04 December 2023 - To: 29 November 2025
 
-Total Time: 885 hrs 26 mins
+Total Time: 888 hrs 34 mins
 
-Bash                 155 hrs 20 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   16.97 %
-Python               131 hrs 17 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   14.34 %
-HTML                 118 hrs 26 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   12.94 %
-PHP                  91 hrs 18 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.97 %
-Markdown             70 hrs 57 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.75 %
-C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.19 %
-C++                  40 hrs 2 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.37 %
-INI                  31 hrs 50 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.48 %
-Text                 30 hrs 47 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.36 %
-Other                30 hrs 10 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.30 %
+Bash                 155 hrs 20 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   16.91 %
+Python               131 hrs 17 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   14.29 %
+HTML                 120 hrs 16 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.09 %
+PHP                  91 hrs 18 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.94 %
+Markdown             70 hrs 57 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.72 %
+C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.16 %
+C++                  40 hrs 2 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.36 %
+INI                  31 hrs 50 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.46 %
+Text                 30 hrs 47 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.35 %
+Other                30 hrs 10 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.29 %
 ```
 
 <!--END_SECTION:waka-->
