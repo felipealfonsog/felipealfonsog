@@ -164,7 +164,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Operation Hanoi Thief: Vietnam APT  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6929ac76bedd4839dedec743)
 
-<sub>_Last updated: 2025-11-29 18:02 UTC_</sub>
+<sub>_Last updated: 2025-11-30 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
