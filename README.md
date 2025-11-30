@@ -164,7 +164,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: New wave of cyberattacks by APT group Cloud Atlas on Russia's government sector  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69048295b869934bfccecceb)
 
-<sub>_Last updated: 2025-11-30 12:02 UTC_</sub>
+<sub>_Last updated: 2025-11-30 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
