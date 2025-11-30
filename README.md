@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 00839f128a2daa17623bf578cd7e2a85  
-**Pulse**: Operation Hanoi Thief: Vietnam APT  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6929ac76bedd4839dedec743)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-61932  
+**Pulse**: BRONZE BUTLER exploits Japanese asset management software vulnerability  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69041be38572a6da98b3db35)
 
-<sub>_Last updated: 2025-11-30 00:08 UTC_</sub>
+<sub>_Last updated: 2025-11-30 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
