@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0f6aaa52b05ab76020900a28afff9fff  
-**Pulse**: Operation SkyCloak: Tor Campaign targets Military of Russia & Belarus  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/690523b41d5a7b96d580ee71)
+**Threat Type**: Domain  
+**Indicator**: cdnbenin.com  
+**Pulse**: Cloud Abuse at Scale  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6905dfdab3ef8f05a7bdb858)
 
-<sub>_Last updated: 2025-12-01 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-01 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
