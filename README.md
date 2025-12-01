@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Hostname  
-**Indicator**: officeconfirm.technoguides.org  
-**Pulse**: New wave of cyberattacks by APT group Cloud Atlas on Russia's government sector  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69048295b869934bfccecceb)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0f6aaa52b05ab76020900a28afff9fff  
+**Pulse**: Operation SkyCloak: Tor Campaign targets Military of Russia & Belarus  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/690523b41d5a7b96d580ee71)
 
-<sub>_Last updated: 2025-11-30 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-01 00:09 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
