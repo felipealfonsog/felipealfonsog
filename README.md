@@ -164,7 +164,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Cloud Abuse at Scale  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6905dfdab3ef8f05a7bdb858)
 
-<sub>_Last updated: 2025-12-01 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-01 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
