@@ -1,39 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-  <!-- Contorno escudo angular -->
-  <path
-    d="M128 18 36 62v70c0 58 34 112 92 134 58-22 92-76 92-134V62z"
-    fill="none"
-    stroke="black"
-    stroke-width="14"
-    stroke-linejoin="round"
-  />
+  <!-- Escudo más pequeño y centrado -->
+  <g transform="scale(0.83) translate(31 30)">
+    <path
+      d="M128 18 36 62v70c0 58 34 112 92 134 58-22 92-76 92-134V62z"
+      fill="none"
+      stroke="black"
+      stroke-width="14"
+      stroke-linejoin="round"
+    />
 
-  <!-- Círculo central estilo sello -->
-  <circle
-    cx="128"
-    cy="120"
-    r="52"
-    fill="none"
-    stroke="black"
-    stroke-width="10"
-  />
+    <circle
+      cx="128"
+      cy="120"
+      r="52"
+      fill="none"
+      stroke="black"
+      stroke-width="10"
+    />
 
-
-
-  <!-- Estrella arriba del águila -->
-  <polygon
-    points="128,82 136,100 155,100 139,112 145,130 128,120 111,130 117,112 101,100 120,100"
-    fill="black"
-  />
-
-  <!-- Línea de cierre tipo “classified seal” -->
-  <circle
-    cx="128"
-    cy="120"
-    r="70"
-    fill="none"
-    stroke="black"
-    stroke-width="6"
-    stroke-dasharray="8 10"
-  />
+    <polygon
+      points="128,82 136,100 155,100 139,112 145,130 128,120 111,130 117,112 101,100 120,100"
+      fill="black"
+    />
+  </g>
 </svg>
