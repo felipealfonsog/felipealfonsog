@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 6960d27fea1f5b28565cd240977b531cc8a195188fc81fa24c924da4f59a1389  
-**Pulse**: Arkanix Stealer: Newly discovered short term profit malware  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/692df2957f5d170436886325)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-12-02 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-02 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
