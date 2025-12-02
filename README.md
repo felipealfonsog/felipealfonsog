@@ -164,7 +164,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Arkanix Stealer: Newly discovered short term profit malware  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/692df2957f5d170436886325)
 
-<sub>_Last updated: 2025-12-02 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-02 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
