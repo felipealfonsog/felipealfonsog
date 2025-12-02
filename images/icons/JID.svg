@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- Shield -->
+  <path d="M128 16
+           L40 52
+           V124
+           C40 188 84 216 128 240
+           C172 216 216 188 216 124
+           V52
+           Z"
+        fill="none"
+        stroke="black"
+        stroke-width="14"
+        stroke-linejoin="round"/>
+
+  <!-- Side cuts (shorter than original) -->
+  <line x1="56" y1="112" x2="88" y2="112"
+        stroke="black"
+        stroke-width="10"
+        stroke-linecap="round"/>
+  <line x1="200" y1="112" x2="168" y2="112"
+        stroke="black"
+        stroke-width="10"
+        stroke-linecap="round"/>
+
+  <!-- Lock body -->
+  <rect x="88" y="112" width="80" height="76" rx="8" ry="8" fill="black"/>
+
+  <!-- Lock shackle -->
+  <path d="M96 116
+           V92
+           C96 70 110 56 128 56
+           C146 56 160 70 160 92
+           V116"
+        fill="none"
+        stroke="black"
+        stroke-width="12"
+        stroke-linecap="round"/>
+
+  <!-- Inner keyhole circle (small detail) -->
+  <circle cx="128" cy="148" r="6" fill="white"/>
+</svg>
