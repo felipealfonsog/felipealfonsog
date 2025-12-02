@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: cdnbenin.com  
-**Pulse**: Cloud Abuse at Scale  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6905dfdab3ef8f05a7bdb858)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 6960d27fea1f5b28565cd240977b531cc8a195188fc81fa24c924da4f59a1389  
+**Pulse**: Arkanix Stealer: Newly discovered short term profit malware  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/692df2957f5d170436886325)
 
-<sub>_Last updated: 2025-12-01 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-02 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
