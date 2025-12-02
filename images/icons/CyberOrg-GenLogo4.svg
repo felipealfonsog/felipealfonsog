@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-  <!-- Escudo más pequeño y centrado -->
-  <g transform="scale(0.83) translate(31 30)">
+  <!-- Ajuste fino: más centrado -->
+  <g transform="scale(0.83) translate(28 12)">
     <path
       d="M128 18 36 62v70c0 58 34 112 92 134 58-22 92-76 92-134V62z"
       fill="none"
