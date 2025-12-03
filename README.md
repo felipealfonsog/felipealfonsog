@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: omvexe.shop  
-**Pulse**: Salty2FA & Tycoon2FA: Hybrid Phishing Threat  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/692f56875686d63e093cc378)
+**Threat Type**: Ipv4  
+**Indicator**: 160.153.178.199  
+**Pulse**: DNS Uncovers Infrastructure Used in SSO Attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69307a4a316b3f36d7ee486e)
 
-<sub>_Last updated: 2025-12-03 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-03 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
