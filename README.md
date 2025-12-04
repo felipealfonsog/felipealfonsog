@@ -160,11 +160,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Ipv4  
-**Indicator**: 160.153.178.199  
-**Pulse**: DNS Uncovers Infrastructure Used in SSO Attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69307a4a316b3f36d7ee486e)
+**Indicator**: 206.71.149.51  
+**Pulse**: Snakes by the riverbank  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/692efb6b9069e8bb95df4011)
 
-<sub>_Last updated: 2025-12-03 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-04 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
