@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 61b59eb41c0ae7fc94f800812860b22a  
-**Pulse**: Albiriox Exposed: A New RAT Mobile Malware Targeting Global Finance and Crypto Wallets  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69309b3dc9fb51eed9634ec3)
+**Threat Type**: Cve  
+**Indicator**: CVE-2023-45311  
+**Pulse**: Bootstrap script exposes PyPI to domain takeover attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69309b3a191990c389faee14)
 
-<sub>_Last updated: 2025-12-04 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-04 18:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
