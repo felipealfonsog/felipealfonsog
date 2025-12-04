@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 206.71.149.51  
-**Pulse**: Snakes by the riverbank  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/692efb6b9069e8bb95df4011)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 61b59eb41c0ae7fc94f800812860b22a  
+**Pulse**: Albiriox Exposed: A New RAT Mobile Malware Targeting Global Finance and Crypto Wallets  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69309b3dc9fb51eed9634ec3)
 
-<sub>_Last updated: 2025-12-04 06:03 UTC_</sub>
+<sub>_Last updated: 2025-12-04 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
