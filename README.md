@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2023-45311  
-**Pulse**: Bootstrap script exposes PyPI to domain takeover attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69309b3a191990c389faee14)
+**Threat Type**: Url  
+**Indicator**: http://setseta.com/  
+**Pulse**: Magecarts fifth team began using KPOT for stealing activities  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/5d8dcf197ec3aea4d3e338df)
 
-<sub>_Last updated: 2025-12-05 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-05 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
