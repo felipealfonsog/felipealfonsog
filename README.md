@@ -1177,7 +1177,7 @@ Powered by https://github.com/devicons/devicon
 
 </details>
 
-<sub>*Powered by [Devicon](https://devicon.dev/), [Devicon (Github)](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
+<sub>*Powered by [Devicon](https://devicon.dev/), [Devicon (Github)](https://github.com/devicons/devicon), [Streamlinehq](https://www.streamlinehq.com/), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
