@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 00839f128a2daa17623bf578cd7e2a85  
-**Pulse**: Operation Hanoi Thief: Vietnam APT  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6929ac76bedd4839dedec743)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-1338  
+**Pulse**: China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69331d05a7d525a2c1cf508c)
 
-<sub>_Last updated: 2025-11-29 12:02 UTC_</sub>
+<sub>_Last updated: 2025-12-05 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -594,20 +594,20 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 29 November 2025
+From: 04 December 2023 - To: 05 December 2025
 
-Total Time: 888 hrs 34 mins
+Total Time: 891 hrs 36 mins
 
-Bash                 155 hrs 20 mins ◕◕◕◕◕○○○○○○○○○○○○○○○○○○○○   16.91 %
-Python               131 hrs 17 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   14.29 %
-HTML                 120 hrs 16 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.09 %
-PHP                  91 hrs 18 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.94 %
-Markdown             70 hrs 57 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.72 %
-C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.16 %
-C++                  40 hrs 2 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.36 %
-INI                  31 hrs 50 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.46 %
-Text                 30 hrs 47 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.35 %
-Other                30 hrs 10 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.29 %
+Bash                 155 hrs 26 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.86 %
+Python               131 hrs 17 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   14.24 %
+HTML                 120 hrs 16 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.04 %
+PHP                  91 hrs 18 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.90 %
+Markdown             70 hrs 57 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.69 %
+C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.14 %
+C++                  40 hrs 2 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.34 %
+INI                  31 hrs 50 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.45 %
+Text                 30 hrs 55 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.35 %
+Other                30 hrs 30 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.31 %
 ```
 
 <!--END_SECTION:waka-->
@@ -1177,7 +1177,7 @@ Powered by https://github.com/devicons/devicon
 
 </details>
 
-<sub>*Powered by [Devicon](https://devicon.dev/), [Devicon (Github)](https://github.com/devicons/devicon), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
+<sub>*Powered by [Devicon](https://devicon.dev/), [Devicon (Github)](https://github.com/devicons/devicon), [Streamlinehq](https://www.streamlinehq.com/), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
 
 <details open>
 <summary>📚🔍 Research Papers 🗂️</summary>
