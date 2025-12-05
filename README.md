@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: http://setseta.com/  
-**Pulse**: Magecarts fifth team began using KPOT for stealing activities  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/5d8dcf197ec3aea4d3e338df)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-1338  
+**Pulse**: China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69331d05a7d525a2c1cf508c)
 
-<sub>_Last updated: 2025-12-05 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-05 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
