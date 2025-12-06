@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-1338  
-**Pulse**: China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69331d05a7d525a2c1cf508c)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 123e80a34508c4dede7cc70e76931fcc  
+**Pulse**: Another BRICKSTORM: Stealthy Backdoor Enabling Espionage into Tech and Legal Sectors  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e681878d2b2b236757c808)
 
-<sub>_Last updated: 2025-12-05 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-06 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
