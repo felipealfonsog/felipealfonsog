@@ -164,7 +164,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Another BRICKSTORM: Stealthy Backdoor Enabling Espionage into Tech and Legal Sectors  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/68e681878d2b2b236757c808)
 
-<sub>_Last updated: 2025-12-06 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-06 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
