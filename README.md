@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 123e80a34508c4dede7cc70e76931fcc  
-**Pulse**: Another BRICKSTORM: Stealthy Backdoor Enabling Espionage into Tech and Legal Sectors  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68e681878d2b2b236757c808)
+**Threat Type**: Url  
+**Indicator**: https://espressonisten.de/  
+**Pulse**: Gootloader Returns: What Goodies Did They Bring?  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/690cadc6a4a3c3370cc2e697)
 
-<sub>_Last updated: 2025-12-06 12:02 UTC_</sub>
+<sub>_Last updated: 2025-12-06 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
