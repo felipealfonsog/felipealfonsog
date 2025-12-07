@@ -160,11 +160,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Indicator**: sqwqwasresbkng.com  
+**Pulse**: Booking.com Phishing Campaign Targeting Hotels and Customers  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/690dba690d5c272baae78d78)
 
-<sub>_Last updated: 2025-12-07 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-07 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
