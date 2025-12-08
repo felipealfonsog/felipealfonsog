@@ -164,7 +164,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: New Commercial-Grade Android Spyware in Exploit Chain Targeting Samsung Devices  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/690e354ec352a7329cbaf7d4)
 
-<sub>_Last updated: 2025-12-07 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-08 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
