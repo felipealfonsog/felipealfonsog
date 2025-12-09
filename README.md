@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2024-36401  
-**Pulse**: Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated November 3)  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6935407b67495bca10fca81f)
+**Threat Type**: Domain  
+**Indicator**: n34kr3z26f3jzp4ckmwuv5ipqyatumdxhgjgsmucc65jac56khdy5zqd.onion  
+**Pulse**: From primitive crypto theft to sophisticated AI-based deception  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6910193d53d254e867c9e95d)
 
-<sub>_Last updated: 2025-12-09 00:07 UTC_</sub>
+<sub>_Last updated: 2025-12-09 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
