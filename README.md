@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 211311468f3673f005031d5f77d4d716e80cbf3c1f0bb1f148f2200920513261  
-**Pulse**: New Commercial-Grade Android Spyware in Exploit Chain Targeting Samsung Devices  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/690e354ec352a7329cbaf7d4)
+**Threat Type**: Cve  
+**Indicator**: CVE-2024-36401  
+**Pulse**: Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated November 3)  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6935407b67495bca10fca81f)
 
-<sub>_Last updated: 2025-12-08 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-09 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
