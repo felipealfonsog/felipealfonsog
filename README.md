@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: http://zetag.ru/siro.doc  
-**Pulse**: Operation FrostBeacon: Multi-Cluster Cobalt Strike Campaign Targets Russia  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/693709f10b18abd6b3644445)
+**Threat Type**: Cve  
+**Indicator**: CVE-2016-0099  
+**Pulse**: Makop ransomware: GuLoader and privilege escalation in attacks against Indian businesses  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/693857c7124842e89ec8bfed)
 
-<sub>_Last updated: 2025-12-09 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-09 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
