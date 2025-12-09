@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: n34kr3z26f3jzp4ckmwuv5ipqyatumdxhgjgsmucc65jac56khdy5zqd.onion  
-**Pulse**: From primitive crypto theft to sophisticated AI-based deception  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6910193d53d254e867c9e95d)
+**Threat Type**: Url  
+**Indicator**: http://zetag.ru/siro.doc  
+**Pulse**: Operation FrostBeacon: Multi-Cluster Cobalt Strike Campaign Targets Russia  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/693709f10b18abd6b3644445)
 
-<sub>_Last updated: 2025-12-09 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-09 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
