@@ -603,7 +603,13 @@ https://maintainers.github.com/
 -->
 
 
-![Languages](./charts/languages.svg)
+## 📊 Stats
+
+![Stats](./stats.svg)
+
+## 🧪 Languages
+
+![Top Languages](./top-langs.svg)
 
 
 </details>
