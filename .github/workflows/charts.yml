@@ -1,35 +1,33 @@
-name: Generate Language Chart
+name: Generate Charts
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
 
 jobs:
-  build:
+  build-charts:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
-      - name: Install Dependencies
-        run: npm install @octokit/graphql
-
-      - name: Generate Charts
-        run: node generate-charts.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Commit chart
+      - name: Install dependencies
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Action"
+          sudo apt-get install -y nodejs npm
+          npm install -g gh
+
+      - name: Authenticate GitHub CLI
+        run: gh auth login --with-token <<< "${{ secrets.METRICS_TOKEN }}"
+
+      - name: Generate charts
+        run: node .github/scripts/generate-charts.js
+
+      - name: Commit charts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add languages-chart.svg
           git commit -m "Update languages chart" || echo "No changes"
           git push
