@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-1338  
-**Pulse**: China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69331d05a7d525a2c1cf508c)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 370ff523e530887fdaeb537ee3764e9e  
+**Pulse**: Finding Minhook in a sideloading attack – and Sweden too  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68138a216574269c2912f720)
 
-<sub>_Last updated: 2025-12-05 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-10 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -562,8 +562,8 @@ https://maintainers.github.com/
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 -->
-<!-- <details open> -->
-<details open>
+<!-- <details languages and metrics open> -->
+<details>
 <summary>:star2: <strong>Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
 <br>
 
@@ -576,6 +576,35 @@ https://maintainers.github.com/
 <sub>*Data may exhibit discrepancies or errors due to the [Vercel service](https://vercel.com/), empowering GitHub statistics and functions.</sub>
 <br>
 </details>
+
+
+
+<!-- ############################## new metrics ############################ -->
+<details open>
+<summary>:star2: <strong>⚔️ GitHub Metrics Dashboard - Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
+<br>
+
+<!--
+![M](https://metrics.lecoq.io/felipealfonsog?template=terminal&base=0&config_display=transparent&config_timezone=America/Santiago&nocache=777777)
+
+## ⚔️ GitHub Metrics Dashboard
+
+![Metrics](https://metrics.lecoq.io/felipealfonsog?template=classic&config.timezone=America/Santiago)
+
+![Metrics](github-metrics.svg)
+-->
+
+[![Metrics](https://metrics.lecoq.io/felipealfonsog?config_timezone=America/Santiago)](#)
+
+<!-- 
+<br>
+
+![Languages](./languages-chart.svg)
+-->
+
+</details>
+
+
 
 <details open>
 <summary>:star2: <strong> Wakatime</strong>*</summary>
@@ -594,16 +623,16 @@ https://maintainers.github.com/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 05 December 2025
+From: 04 December 2023 - To: 10 December 2025
 
-Total Time: 891 hrs 36 mins
+Total Time: 891 hrs 48 mins
 
-Bash                 155 hrs 26 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.86 %
-Python               131 hrs 17 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   14.24 %
-HTML                 120 hrs 16 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.04 %
+Bash                 155 hrs 26 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.85 %
+Python               131 hrs 17 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   14.23 %
+HTML                 120 hrs 28 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.06 %
 PHP                  91 hrs 18 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.90 %
 Markdown             70 hrs 57 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.69 %
-C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.14 %
+C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.13 %
 C++                  40 hrs 2 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.34 %
 INI                  31 hrs 50 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.45 %
 Text                 30 hrs 55 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.35 %
