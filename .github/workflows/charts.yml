@@ -1,33 +1,31 @@
-name: Generate Charts
+name: Languages chart
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 3 * * *"   # todos los días a las 03:00 UTC
+  workflow_dispatch:       # para lanzarlo a mano desde Actions
+
+permissions:
+  contents: write          # para poder commitear el SVG
 
 jobs:
-  build-charts:
+  build-languages-chart:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get install -y nodejs npm
-          npm install -g gh
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-      - name: Authenticate GitHub CLI
-        run: gh auth login --with-token <<< "${{ secrets.METRICS_TOKEN }}"
+      - name: Generate languages chart SVG
+        run: node generate-charts.js
 
-      - name: Generate charts
-        run: node .github/scripts/generate-charts.js
-
-      - name: Commit charts
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add languages-chart.svg
-          git commit -m "Update languages chart" || echo "No changes"
-          git push
+      - name: Commit SVG if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update languages chart"
+          file_pattern: "languages-chart.svg"
