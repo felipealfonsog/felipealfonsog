@@ -1,103 +1,80 @@
-// generate-charts.js
-// Genera un SVG simple con barras de ejemplo para languages-chart.svg
+import fs from "fs";
+import fetch from "node-fetch";
 
-const fs = require("fs");
+async function getLanguages() {
+  const res = await fetch("https://api.github.com/users/felipealfonsog/repos?per_page=100", {
+    headers: { "User-Agent": "chart-generator" }
+  });
 
-const languages = [
-  { name: "Python", value: 40 },
-  { name: "JavaScript", value: 30 },
-  { name: "TypeScript", value: 15 },
-  { name: "C", value: 10 },
-  { name: "Others", value: 5 },
-];
+  const repos = await res.json();
 
-const width = 600;
-const barHeight = 24;
-const barGap = 12;
-const leftPadding = 120;
-const rightPadding = 40;
-const topPadding = 40;
-const bottomPadding = 40;
+  const totals = {};
 
-const maxValue = Math.max(...languages.map(l => l.value));
-const innerWidth = width - leftPadding - rightPadding;
-const height =
-  topPadding + bottomPadding + languages.length * (barHeight + barGap);
+  for (const repo of repos) {
+    const langRes = await fetch(repo.languages_url, {
+      headers: { "User-Agent": "chart-generator" }
+    });
 
-let svg = `
-<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      font-size: 16px;
-      font-weight: 600;
-      fill: #111;
+    const data = await langRes.json();
+
+    for (const [lang, bytes] of Object.entries(data)) {
+      totals[lang] = (totals[lang] || 0) + bytes;
     }
-    .label {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      font-size: 12px;
-      fill: #111;
-    }
-    .value {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      font-size: 11px;
-      fill: #111;
-    }
-    .bar-bg {
-      fill: #f2f2f2;
-    }
-    .bar {
-      fill: #222;
-    }
-  </style>
+  }
 
-  <text x="${width / 2}" y="${topPadding - 12}" text-anchor="middle" class="title">
-    Language usage (demo)
-  </text>
-`;
+  return totals;
+}
 
-// barras
-languages.forEach((lang, index) => {
-  const y =
-    topPadding + index * (barHeight + barGap);
-  const barWidth = (lang.value / maxValue) * innerWidth;
+function generateSVG(data) {
+  const totalBytes = Object.values(data).reduce((a, b) => a + b, 0);
 
-  svg += `
-  <text x="${leftPadding - 10}" y="${y + barHeight * 0.7}" text-anchor="end" class="label">
-    ${lang.name}
-  </text>
+  let bars = "";
+  let y = 20;
 
-  <rect
-    class="bar-bg"
-    x="${leftPadding}"
-    y="${y}"
-    width="${innerWidth}"
-    height="${barHeight}"
-    rx="4"
-    ry="4"
-  />
+  for (const [lang, bytes] of Object.entries(data)) {
+    const percent = ((bytes / totalBytes) * 100).toFixed(1);
 
-  <rect
-    class="bar"
-    x="${leftPadding}"
-    y="${y}"
-    width="${barWidth}"
-    height="${barHeight}"
-    rx="4"
-    ry="4"
-  />
+    bars += `
+      <div class="bar" style="--value:${percent}%">
+        <span>${lang} — ${percent}%</span>
+      </div>
+    `;
+    y += 25;
+  }
 
-  <text
-    x="${leftPadding + barWidth + 6}"
-    y="${y + barHeight * 0.7}"
-    class="value"
-  >
-    ${lang.value}%
-  </text>
+  return `
+  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="${y + 20}">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          .bar { 
+            height: 20px;
+            margin-bottom: 6px;
+            background: #e0e0e0;
+            position: relative;
+          }
+          .bar::before {
+            content: '';
+            position: absolute;
+            top: 0; left:0;
+            height: 100%;
+            width: var(--value);
+            background: #444;
+          }
+        </style>
+        ${bars}
+      </div>
+    </foreignObject>
+  </svg>
   `;
-});
+}
 
-svg += `</svg>\n`;
+async function main() {
+  const data = await getLanguages();
+  const svg = generateSVG(data);
 
-fs.writeFileSync("languages-chart.svg", svg, "utf8");
-console.log("languages-chart.svg generated");
+  fs.writeFileSync("languages-chart.svg", svg);
+  console.log("languages-chart.svg generated!");
+}
+
+main();
