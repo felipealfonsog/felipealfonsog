@@ -10,43 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Get GitHub languages stats
-        id: langs
-        uses: jasonetco/release-drafter@v5
-        continue-on-error: true
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
 
-      - name: Generate languages SVG
+      - name: Run chart generator
         run: |
-          mkdir -p charts
-          cat > charts/languages.svg << 'EOF'
-          <svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-            <foreignObject width="600" height="300">
-              <div xmlns="http://www.w3.org/1999/xhtml">
-                <style>
-                  @import "https://unpkg.com/charts.css/dist/charts.min.css";
-                  table {
-                    width: 100%;
-                  }
-                </style>
-                <table class="charts-css bar show-labels show-primary-axis">
-                  <tbody>
-                    <tr><td style="--size: 0.50;">Python</td></tr>
-                    <tr><td style="--size: 0.30;">JavaScript</td></tr>
-                    <tr><td style="--size: 0.20;">C</td></tr>
-                  </tbody>
-                </table>
-              </div>
-            </foreignObject>
-          </svg>
-          EOF
+          node scripts/generate-charts.js
 
-      - name: Commit chart
+      - name: Commit and push chart
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add charts/languages.svg
-          git commit -m "Update charts" || echo "No changes"
+          git add languages-chart.svg
+          git commit -m "Update languages chart" || echo "No changes"
           git push
