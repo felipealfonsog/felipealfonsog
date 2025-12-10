@@ -587,6 +587,9 @@ https://maintainers.github.com/
 <!--
 ![M](https://metrics.lecoq.io/felipealfonsog?template=terminal&base=0&config_display=transparent&config_timezone=America/Santiago&nocache=777777)
 
+## ⚔️ GitHub Metrics Dashboard
+
+![Metrics](https://metrics.lecoq.io/felipealfonsog?template=classic&config.timezone=America/Santiago)
 
 ![Metrics](github-metrics.svg)
 -->
