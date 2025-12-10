@@ -596,6 +596,11 @@ https://maintainers.github.com/
 
 [![Metrics](https://metrics.lecoq.io/felipealfonsog?config_timezone=America/Santiago)](#)
 
+<br>
+
+![Languages](./languages-chart.svg)
+
+
 </details>
 
 
