@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2016-0099  
-**Pulse**: Makop ransomware: GuLoader and privilege escalation in attacks against Indian businesses  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/693857c7124842e89ec8bfed)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 09b91626507a62121a4bdb08debb3ed9  
+**Pulse**: State-Sponsored Remote Wipe Tactics Targeting Android Devices  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6911c911b6b2b40bf3ccf268)
 
-<sub>_Last updated: 2025-12-10 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-10 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
