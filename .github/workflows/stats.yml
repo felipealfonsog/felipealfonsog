@@ -23,7 +23,7 @@ jobs:
       - name: Run script
         run: node generate-stats.js
         env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN_GQL }}
 
       - name: Commit changes
         run: |
