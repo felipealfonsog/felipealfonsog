@@ -1,65 +1,45 @@
-import fs from "fs";
-import fetch from "node-fetch";
+const { ChartJSNodeCanvas } = require('chartjs-node-canvas');
+const fs = require('fs');
+const fetch = require('node-fetch');
 
-// Configura tu usuario
-const username = "felipealfonsog";
+const width = 800;
+const height = 600;
 
-async function fetchLanguages() {
-  const res = await fetch(`https://api.github.com/users/${username}/repos`);
-  const repos = await res.json();
+async function getLanguages() {
+    const res = await fetch('https://api.github.com/users/felipealfonsog/repos');
+    const repos = await res.json();
 
-  const totals = {};
+    const languageCount = {};
 
-  for (const repo of repos) {
-    const langRes = await fetch(repo.languages_url);
-    const langs = await langRes.json();
-
-    for (const [lang, bytes] of Object.entries(langs)) {
-      totals[lang] = (totals[lang] || 0) + bytes;
+    for (const repo of repos) {
+        if (repo.language) {
+            languageCount[repo.language] = (languageCount[repo.language] || 0) + 1;
+        }
     }
-  }
-  return totals;
+
+    return languageCount;
 }
 
-function generateSVG(data) {
-  const total = Object.values(data).reduce((a, b) => a + b, 0);
-  const entries = Object.entries(data)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 10);
+async function createChart() {
+    const languages = await getLanguages();
+    const labels = Object.keys(languages);
+    const values = Object.values(languages);
 
-  // Chart.css estilo barras horizontales
-  const rows = entries
-    .map(([lang, bytes]) => {
-      const pct = ((bytes / total) * 100).toFixed(2);
-      return `
-        <tr>
-          <th>${lang}</th>
-          <td style="--size:${pct / 100}">${pct}%</td>
-        </tr>
-      `;
-    })
-    .join("");
+    const chart = new ChartJSNodeCanvas({ width, height });
 
-  return `
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="${entries.length * 30}">
-  <foreignObject width="600" height="${entries.length * 30}">
-    <body xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="stylesheet" href="https://unpkg.com/charts.css/dist/charts.min.css" />
-      <table class="charts-css bar show-labels show-primary-axis show-data-axes">
-        <tbody>
-          ${rows}
-        </tbody>
-      </table>
-    </body>
-  </foreignObject>
-</svg>
-`;
+    const configuration = {
+        type: 'bar',
+        data: {
+            labels,
+            datasets: [{
+                label: 'Most used languages',
+                data: values,
+            }],
+        },
+    };
+
+    const image = await chart.renderToBuffer(configuration);
+    fs.writeFileSync('languages-chart.svg', image);
 }
 
-async function main() {
-  const data = await fetchLanguages();
-  const svg = generateSVG(data);
-  fs.writeFileSync("languages-chart.svg", svg);
-}
-
-main();
+createChart();
