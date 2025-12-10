@@ -602,15 +602,8 @@ https://maintainers.github.com/
 ![Languages](./languages-chart.svg)
 -->
 
-
-## 📊 Stats
-
-![Stats](./stats.svg)
-
-## 🧪 Languages
-
-![Top Languages](./top-langs.svg)
-
+## Languages Chart
+![Languages](./languages-chart.svg)
 
 </details>
 
