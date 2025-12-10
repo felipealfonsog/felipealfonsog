@@ -594,7 +594,7 @@ https://maintainers.github.com/
 ![Metrics](github-metrics.svg)
 -->
 
-![Metrics](https://metrics.lecoq.io/felipealfonsog?template=classic&config_timezone=America/Santiago)
+[![Metrics](https://metrics.lecoq.io/felipealfonsog?config_timezone=America/Santiago)](#)
 
 </details>
 
