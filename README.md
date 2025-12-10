@@ -602,6 +602,10 @@ https://maintainers.github.com/
 ![Languages](./languages-chart.svg)
 -->
 
+
+![Languages](./charts/languages.svg)
+
+
 </details>
 
 
