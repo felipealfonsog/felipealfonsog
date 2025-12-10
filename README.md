@@ -586,10 +586,12 @@ https://maintainers.github.com/
 
 <!--
 ![M](https://metrics.lecoq.io/felipealfonsog?template=terminal&base=0&config_display=transparent&config_timezone=America/Santiago&nocache=777777)
---> 
+
 
 ![Metrics](github-metrics.svg)
+-->
 
+![Metrics](https://metrics.lecoq.io/felipealfonsog?template=classic&config_timezone=America/Santiago)
 
 </details>
 
