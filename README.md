@@ -602,7 +602,10 @@ https://maintainers.github.com/
 ![Languages](./languages-chart.svg)
 -->
 
-![Stats](./stats.svg)
+<!-- AUTO-STATS -->
+![actualización automática](https://img.shields.io/badge/stats-auto--update-success?style=for-the-badge)
+
+{% include_relative README_STATS.md %}
 
 </details>
 
