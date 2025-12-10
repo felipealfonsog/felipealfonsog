@@ -16,7 +16,7 @@ jobs:
           # Perfil de Felipe
           user: felipealfonsog
           template: classic
-          base: header, activity, community, repositories
+          base: activity, community, repositories
 
           # Lenguajes
           plugin_languages: yes
