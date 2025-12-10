@@ -160,11 +160,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 09b91626507a62121a4bdb08debb3ed9  
-**Pulse**: State-Sponsored Remote Wipe Tactics Targeting Android Devices  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6911c911b6b2b40bf3ccf268)
+**Indicator**: 370ff523e530887fdaeb537ee3764e9e  
+**Pulse**: Finding Minhook in a sideloading attack – and Sweden too  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/68138a216574269c2912f720)
 
-<sub>_Last updated: 2025-12-10 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-10 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
