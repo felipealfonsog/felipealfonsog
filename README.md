@@ -618,9 +618,6 @@ _______                  /__/
 ![Languages](./languages-chart.svg)
 -->
 
-<!--STATS-START-->
-<!--STATS-END-->
-
 </details>
 
 
