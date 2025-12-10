@@ -623,8 +623,6 @@ _______                  /__/
 
 </details>
 
-<!--STATS-START-->
-<!--STATS-END-->
 
 <details open>
 <summary>:star2: <strong> Wakatime</strong>*</summary>
