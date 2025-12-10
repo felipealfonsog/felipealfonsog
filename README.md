@@ -584,7 +584,12 @@ https://maintainers.github.com/
 <summary>:star2: <strong>⚔️ GitHub Metrics Dashboard - Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
 <br>
 
+<!--
 ![M](https://metrics.lecoq.io/felipealfonsog?template=terminal&base=0&config_display=transparent&config_timezone=America/Santiago&nocache=777777)
+--> 
+
+![Metrics](./github-metrics.svg)
+
 
 </details>
 
