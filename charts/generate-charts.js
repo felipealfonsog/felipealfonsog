@@ -1,108 +1,68 @@
-const { graphql } = require("@octokit/graphql");
+// generate-charts.js
+// Analiza lenguajes de tus repos y genera un SVG usando Charts.css
+
+const { execSync } = require("child_process");
 const fs = require("fs");
 
-(async () => {
-  const token = process.env.GITHUB_TOKEN;
+// 1. Obtiene datos de GitHub mediante la API CLI
+function getLanguages() {
+  const output = execSync(
+    "gh api /users/felipealfonsog/repos --paginate --jq '.[].language'"
+  )
+    .toString()
+    .trim()
+    .split("\n")
+    .filter(Boolean);
 
-  if (!token) {
-    console.error("Missing GITHUB_TOKEN");
-    process.exit(1);
+  const counts = {};
+  for (const lang of output) {
+    counts[lang] = (counts[lang] || 0) + 1;
   }
+  return counts;
+}
 
-  const client = graphql.defaults({
-    headers: {
-      authorization: `token ${token}`,
-    },
-  });
+const languages = getLanguages();
 
-  // Query GH API for languages used in repos
-  const query = `
-    query UsedLanguages($login: String!) {
-      user(login: $login) {
-        repositories(first: 100, isFork: false, ownerAffiliations: OWNER) {
-          nodes {
-            name
-            languages(first: 10) {
-              edges {
-                size
-                node {
-                  name
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  `;
-
-  const data = await client(query, { login: "felipealfonsog" });
-
-  // Aggregate language sizes
-  const langTotals = {};
-
-  data.user.repositories.nodes.forEach(repo => {
-    repo.languages.edges.forEach(edge => {
-      const name = edge.node.name;
-      const size = edge.size;
-
-      if (!langTotals[name]) langTotals[name] = 0;
-      langTotals[name] += size;
-    });
-  });
-
-  const total = Object.values(langTotals).reduce((a, b) => a + b, 0);
-
-  // Transform to percentage
-  const processed = Object.entries(langTotals)
-    .map(([name, size]) => ({
-      name,
-      percent: ((size / total) * 100).toFixed(2),
-    }))
-    .sort((a, b) => b.percent - a.percent);
-
-  // Build SVG with Charts.css
-  const bars = processed
-    .map(
-      (lang) => `
+// 2. Convierte datos a barras SVG usando Charts.css
+const bars = Object.entries(languages)
+  .map(([lang, count]) => {
+    return `
       <tr>
-        <th>${lang.name}</th>
-        <td style="--size: ${lang.percent / 100}">
-          ${lang.percent}%
+        <th>${lang}</th>
+        <td style="--size:${count / 10}">
+          ${count}
         </td>
-      </tr>`
-    )
-    .join("");
+      </tr>
+    `;
+  })
+  .join("\n");
 
-  const svg = `
-  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="${
-    40 + processed.length * 30
-  }">
-    <foreignObject width="100%" height="100%">
-      <style>
-        table {
-          font-family: monospace;
-          width: 100%;
-        }
-        td {
-          --color: #4caf50;
-        }
-        [role="bar"] {
-          background: var(--color);
-          height: 20px;
-        }
-      </style>
+// 3. Genera el SVG final
+const svg = `
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="${
+  40 + Object.keys(languages).length * 30
+}">
+  <foreignObject width="100%" height="100%">
+    <style>
+      @import "https://cdn.jsdelivr.net/npm/charts.css/dist/charts.min.css";
+      table {
+        font-family: monospace;
+        font-size: 14px;
+        width: 100%;
+      }
+      td {
+        background: #0af;
+      }
+    </style>
 
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <h3>Language Usage (Auto-Generated)</h3>
-        <table>
-          ${bars}
-        </table>
-      </div>
-    </foreignObject>
-  </svg>
-  `;
+    <table class="charts-css bar show-labels">
+      <tbody>
+        ${bars}
+      </tbody>
+    </table>
+  </foreignObject>
+</svg>
+`;
 
-  fs.writeFileSync("languages-chart.svg", svg.trim());
-  console.log("languages-chart.svg generated.");
-})();
+fs.writeFileSync("languages-chart.svg", svg);
+console.log("languages-chart.svg generado correctamente.");
