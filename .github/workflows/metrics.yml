@@ -20,6 +20,7 @@ jobs:
 
           config_theme: terminal
           config_display: transparent
+          filename: github-metrics.svg
   
           # Lenguajes
           plugin_languages: yes
