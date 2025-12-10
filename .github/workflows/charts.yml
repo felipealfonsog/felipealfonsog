@@ -1,35 +1,33 @@
-name: Charts
+name: Generate Charts
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
 
 jobs:
-  build-charts:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 18
 
       - name: Install dependencies
-        run: |
-          npm init -y
-          npm install @octokit/rest chartjs-node-canvas
+        run: npm install node-fetch@2 chartjs-node-canvas@4
 
-      - name: Generate charts
+      - name: Generate Languages Chart
         run: node generate-charts.js
 
-      - name: Commit generated charts
+      - name: Commit chart
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add languages-chart.svg
-          git commit -m "Update charts" || echo "No changes"
+          git commit -m "Update languages chart" || echo "No changes"
           git push
