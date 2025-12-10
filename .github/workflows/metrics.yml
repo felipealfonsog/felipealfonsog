@@ -31,6 +31,6 @@ jobs:
           plugin_repositories_affiliations: owner
           commit: yes
 
-          # Achievements
+          # Achievements estilo militar
           plugin_achievements: yes
           plugin_achievements_display: compact
