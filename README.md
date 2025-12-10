@@ -164,7 +164,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Makop ransomware: GuLoader and privilege escalation in attacks against Indian businesses  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/693857c7124842e89ec8bfed)
 
-<sub>_Last updated: 2025-12-10 00:07 UTC_</sub>
+<sub>_Last updated: 2025-12-10 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
