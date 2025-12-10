@@ -618,11 +618,13 @@ _______                  /__/
 ![Languages](./languages-chart.svg)
 -->
 
-![Languages](./languages.svg)
+<!--STATS-START-->
+<!--STATS-END-->
 
 </details>
 
-
+<!--STATS-START-->
+<!--STATS-END-->
 
 <details open>
 <summary>:star2: <strong> Wakatime</strong>*</summary>
