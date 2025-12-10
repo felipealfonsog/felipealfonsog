@@ -15,9 +15,12 @@ jobs:
 
           # Perfil de Felipe
           user: felipealfonsog
-          template: classic
-          base: activity, community, repositories
+          template: terminal
+          base: ""
 
+          config_theme: terminal
+          config_display: transparent
+  
           # Lenguajes
           plugin_languages: yes
           plugin_languages_sections: most-used
