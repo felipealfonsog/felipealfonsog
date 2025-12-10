@@ -579,7 +579,23 @@ https://maintainers.github.com/
 
 
 
-<!-- ############################## new metrics ############################ -->
+<!-- 
+
+
+
+_______                  /__/
+|.-----.|            ,---[___]*
+||     ||           /    printer
+||_____||    _____ /        ____
+|o_____*|   [o_+_+]--------[=i==]
+|     ________| 850        drive
+|  __|_        interface
+'-/_==_\
+/_____\\  ATARI 800   
+
+
+
+############################## new metrics ############################ -->
 <details open>
 <summary>:star2: <strong>⚔️ GitHub Metrics Dashboard - Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
 <br>
@@ -602,10 +618,7 @@ https://maintainers.github.com/
 ![Languages](./languages-chart.svg)
 -->
 
-<!-- AUTO-STATS -->
-![actualización automática](https://img.shields.io/badge/stats-auto--update-success?style=for-the-badge)
-
-{% include_relative README_STATS.md %}
+![Languages](./languages.svg)
 
 </details>
 
