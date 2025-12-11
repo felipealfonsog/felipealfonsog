@@ -168,7 +168,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Unauthenticated Remote Access via Triofox Vulnerability CVE-2025-12480  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/691260231a04d225ffb91c93)
 
-<sub>_Last updated: 2025-12-11 00:07 UTC_</sub>
+<sub>_Last updated: 2025-12-11 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
