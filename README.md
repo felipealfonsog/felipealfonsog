@@ -159,12 +159,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 370ff523e530887fdaeb537ee3764e9e  
-**Pulse**: Finding Minhook in a sideloading attack – and Sweden too  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68138a216574269c2912f720)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-12480  
+**Pulse**: Unauthenticated Remote Access via Triofox Vulnerability CVE-2025-12480  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691260231a04d225ffb91c93)
 
-<sub>_Last updated: 2025-12-10 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-11 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
