@@ -605,7 +605,7 @@ _______                  /__/
 
 
 ############################## new metrics ############################ -->
-<details open>
+<details>
 <summary>:star2: <strong>⚔️ GitHub Metrics Dashboard</strong>*</summary>
 <br>
 
