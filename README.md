@@ -104,6 +104,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
+
+[<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
+[<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
+[<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
+
+
 <!-- 
 [<img src="https://img.shields.io/badge/-linktr.ee/felipealfonsog-39E09B?style=plastic&logo=linktree&logoColor=white&labelColor=39E09B&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 -->
@@ -195,7 +201,7 @@ https://freeshell.de/~felipe/finDash/public/login.php
 
 -->
 
-
+<!-- 
 
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
 [<img src="https://img.shields.io/badge/All%20Gits-555555?style=plastic&logo=github&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog)
@@ -206,6 +212,168 @@ https://freeshell.de/~felipe/finDash/public/login.php
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 [<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=firefox&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
 [<img src="https://img.shields.io/badge/Email-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
+-->
+
+
+
+[<img src="https://img.shields.io/badge/Hackaday-555555?style=plastic&logo=hackaday&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://hackaday.com/)
+[<img src="https://img.shields.io/badge/DEFCON-555555?style=plastic&logo=defcon&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://defcon.org/)
+[<img src="https://img.shields.io/badge/BlackArch-555555?style=plastic&logo=archlinux&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://blackarch.org/)
+[<img src="https://img.shields.io/badge/Kali_Linux-555555?style=plastic&logo=kalilinux&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.kali.org/)
+[<img src="https://img.shields.io/badge/Linux_Kernel-555555?style=plastic&logo=linux&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://kernel.org/)
+[<img src="https://img.shields.io/badge/FreeBSD-555555?style=plastic&logo=freebsd&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.freebsd.org/)
+[<img src="https://img.shields.io/badge/GCA-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://globalcybersecurity.ch/)
+[<img src="https://img.shields.io/badge/MITRE_ATT%26CK-555555?style=plastic&logo=mitre&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://attack.mitre.org/)
+[<img src="https://img.shields.io/badge/PDI_Cybercrime-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.pdichile.cl/)
+[<img src="https://img.shields.io/badge/INTERPOL-555555?style=plastic&logo=interpol&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.interpol.int/)
+[<img src="https://img.shields.io/badge/ISFCE-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://isfce.com/)
+[<img src="https://img.shields.io/badge/ANCI_Chile-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://anci.gob.cl/)
+[<img src="https://img.shields.io/badge/CISA-555555?style=plastic&logo=cisa&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.cisa.gov/)
+[<img src="https://img.shields.io/badge/JID_IADB-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://jid.org/)
+[<img src="https://img.shields.io/badge/NATO_CCDCOE-555555?style=plastic&logo=nato&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://ccdcoe.org/)
+[<img src="https://img.shields.io/badge/ENISA-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.enisa.europa.eu/)
+
+
+[<img src="https://img.shields.io/badge/Hackaday-555555?style=plastic&logo=hackaday&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://hackaday.com/)
+[<img src="https://img.shields.io/badge/DEFCON-555555?style=plastic&logo=defcon&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://defcon.org/)
+[<img src="https://img.shields.io/badge/BlackArch-555555?style=plastic&logo=archlinux&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://blackarch.org/)
+[<img src="https://img.shields.io/badge/Kali_Linux-555555?style=plastic&logo=kalilinux&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.kali.org/)
+[<img src="https://img.shields.io/badge/Linux_Kernel-555555?style=plastic&logo=linux&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://kernel.org/)
+[<img src="https://img.shields.io/badge/FreeBSD-555555?style=plastic&logo=freebsd&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.freebsd.org/)
+[<img src="https://img.shields.io/badge/GCA-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://globalcybersecurity.ch/)
+[<img src="https://img.shields.io/badge/MITRE_ATT%26CK-555555?style=plastic&logo=mitre&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://attack.mitre.org/)
+[<img src="https://img.shields.io/badge/PDI_Cybercrime-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.pdichile.cl/)
+[<img src="https://img.shields.io/badge/INTERPOL-555555?style=plastic&logo=interpol&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.interpol.int/)
+[<img src="https://img.shields.io/badge/ISFCE-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://isfce.com/)
+[<img src="https://img.shields.io/badge/ANCI_Chile-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://anci.gob.cl/)
+[<img src="https://img.shields.io/badge/CISA-555555?style=plastic&logo=cisa&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.cisa.gov/)
+[<img src="https://img.shields.io/badge/JID_IADB-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://jid.org/)
+[<img src="https://img.shields.io/badge/NATO_CCDCOE-555555?style=plastic&logo=nato&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://ccdcoe.org/)
+[<img src="https://img.shields.io/badge/ENISA-555555?style=plastic&logo=shield&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://www.enisa.europa.eu/)
+
+
+
+<!-- Hackaday -->
+<a href="https://hackaday.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackaday.svg"
+       alt="Hackaday" width="40" height="40"/>
+</a>
+
+<!-- DEFCON -->
+<a href="https://defcon.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/defcon.svg"
+       alt="DEFCON" width="40" height="40"/>
+</a>
+
+<!-- BlackArch -->
+<a href="https://blackarch.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/archlinux.svg"
+       alt="BlackArch" width="40" height="40"/>
+</a>
+
+<!-- Kali Linux -->
+<a href="https://www.kali.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/kalilinux-cs.svg"
+       alt="Kali Linux" width="40" height="40"/>
+</a>
+
+<!-- Linux Kernel -->
+<a href="https://kernel.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linux.svg"
+       alt="Linux Kernel" width="40" height="40"/>
+</a>
+
+<!-- FreeBSD -->
+<a href="https://www.freebsd.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/freebsd.svg"
+       alt="FreeBSD" width="40" height="40"/>
+</a>
+
+<!-- GCA (estaba comentado, pero lo incluyo) -->
+<a href="https://globalcybersecurity.ch/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg"
+       alt="GCA" width="40" height="40"/>
+</a>
+
+<!-- MITRE ATT&CK -->
+<a href="https://attack.mitre.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mitre.svg"
+       alt="MITRE ATT&CK" width="40" height="40"/>
+</a>
+
+<!-- PDI Cybercrime (comentado originalmente) -->
+<a href="https://www.pdichile.cl/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/PDI_CL-mono-rounded.svg"
+       alt="PDI" width="40" height="40"/>
+</a>
+
+<!-- INTERPOL -->
+<a href="https://www.interpol.int/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/INTERPOL-cyber.svg"
+       alt="INTERPOL" width="40" height="40"/>
+</a>
+
+<!-- ISFCE -->
+<a href="https://isfce.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo2.svg"
+       alt="ISFCE" width="40" height="40"/>
+</a>
+
+<!-- ANCI Chile -->
+<a href="https://anci.gob.cl/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ANCI.svg"
+       alt="ANCI Chile" width="40" height="40"/>
+</a>
+
+<!-- CISA -->
+<a href="https://www.cisa.gov/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CISA.svg"
+       alt="CISA" width="40" height="40"/>
+</a>
+
+<!-- JID / IADB -->
+<a href="https://jid.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo4.1.svg"
+       alt="JID IADB" width="40" height="40"/>
+</a>
+
+<!-- NATO CCDCOE -->
+<a href="https://ccdcoe.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/NATO-CCDCOE.svg"
+       alt="NATO CCDCOE" width="40" height="40"/>
+</a>
+
+<!-- ENISA -->
+<a href="https://www.enisa.europa.eu/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ENISA.svg"
+       alt="ENISA" width="40" height="40"/>
+</a>
+
+
+
+
+
+
+<a href="https://hackaday.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackaday.svg" alt="Hackaday" width="40" height="40"/></a> 
+<a href="https://defcon.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/defcon.svg" alt="DEFCON" width="40" height="40"/></a> 
+<a href="https://blackarch.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/archlinux.svg" alt="BlackArch" width="40" height="40"/></a> 
+<a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/kalilinux-cs.svg" alt="Kali Linux" width="40" height="40"/></a> 
+<a href="https://kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linux.svg" alt="Linux Kernel" width="40" height="40"/></a> 
+<a href="https://www.freebsd.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/freebsd.svg" alt="FreeBSD" width="40" height="40"/></a> 
+<a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/></a> 
+<a href="https://attack.mitre.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mitre.svg" alt="MITRE ATT&CK" width="40" height="40"/></a> 
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/PDI_CL-mono-rounded.svg" alt="PDI" width="40" height="40"/></a> 
+<a href="https://www.interpol.int/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/INTERPOL-cyber.svg" alt="INTERPOL" width="40" height="40"/></a> 
+<a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo2.svg" alt="ISFCE" width="40" height="40"/></a> 
+<a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ANCI.svg" alt="ANCI Chile" width="40" height="40"/></a> 
+<a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CISA.svg" alt="CISA" width="40" height="40"/></a> 
+<a href="https://jid.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo4.1.svg" alt="JID IADB" width="40" height="40"/></a> 
+<a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/NATO-CCDCOE.svg" alt="NATO CCDCOE" width="40" height="40"/></a> 
+<a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ENISA.svg" alt="ENISA" width="40" height="40"/></a>
+
+
+
+
 
 <!-- 
 <details>
