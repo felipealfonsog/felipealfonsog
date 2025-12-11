@@ -204,7 +204,13 @@ https://freeshell.de/~felipe/finDash/public/login.php
 [<img src="https://img.shields.io/badge/Website-555555?style=plastic&logo=firefox&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://gnlz.cl)
 [<img src="https://img.shields.io/badge/Email-555555?style=plastic&logo=gmail&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 
+<details>
+<summary>🔗🖇️ Personal Links</summary>
+<br>
+
 [<img src="https://img.shields.io/badge/finDash%20(Personal)-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/fintec)
+
+</details>
 
 #
 
