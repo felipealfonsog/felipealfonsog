@@ -104,6 +104,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
+[<img src="https://img.shields.io/badge/-linktr.ee/felipealfonsog-39E09B?style=plastic&logo=linktree&logoColor=white&labelColor=39E09B&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 <!-- 
 [<img src="https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57&logoWidth=20" height="19"/>](https://books2read.com/adrianglorentz)
 [<img src="https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166&logoWidth=20" height="19"/>](https://insighttimer.com/namchandersingh/)
