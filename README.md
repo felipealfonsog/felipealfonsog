@@ -163,12 +163,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-12480  
-**Pulse**: Unauthenticated Remote Access via Triofox Vulnerability CVE-2025-12480  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691260231a04d225ffb91c93)
+**Threat Type**: Ipv4  
+**Indicator**: 27.124.43.7  
+**Pulse**: Russian Ruse: ValleyRAT Hits China via Fake Microsoft Teams Attack  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6939ac62e469d4f7f250be99)
 
-<sub>_Last updated: 2025-12-11 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-11 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
