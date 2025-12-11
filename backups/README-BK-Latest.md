@@ -103,10 +103,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
-[<img src="https://img.shields.io/badge/-gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.cl)
+[<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
+<!-- 
 [<img src="https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57&logoWidth=20" height="19"/>](https://books2read.com/adrianglorentz)
 [<img src="https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166&logoWidth=20" height="19"/>](https://insighttimer.com/namchandersingh/)
-
+-->
 
 <!--
 
@@ -159,12 +160,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 370ff523e530887fdaeb537ee3764e9e  
-**Pulse**: Finding Minhook in a sideloading attack – and Sweden too  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/68138a216574269c2912f720)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-12480  
+**Pulse**: Unauthenticated Remote Access via Triofox Vulnerability CVE-2025-12480  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691260231a04d225ffb91c93)
 
-<sub>_Last updated: 2025-12-10 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-11 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -579,7 +580,23 @@ https://maintainers.github.com/
 
 
 
-<!-- ############################## new metrics ############################ -->
+<!-- 
+
+
+
+_______                  /__/
+|.-----.|            ,---[___]*
+||     ||           /    printer
+||_____||    _____ /        ____
+|o_____*|   [o_+_+]--------[=i==]
+|     ________| 850        drive
+|  __|_        interface
+'-/_==_\
+/_____\\  ATARI 800   
+
+
+
+############################## new metrics ############################ -->
 <details open>
 <summary>:star2: <strong>⚔️ GitHub Metrics Dashboard - Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
 <br>
@@ -603,7 +620,6 @@ https://maintainers.github.com/
 -->
 
 </details>
-
 
 
 <details open>
