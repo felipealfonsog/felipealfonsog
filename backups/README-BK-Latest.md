@@ -253,10 +253,15 @@ https://freeshell.de/~felipe/finDash/public/login.php
 
 
 
+<!--
+defcon.svg
+Radioactive-Defcon-1.png
+Radioactive-Defcon-2.svg
 
+-->
 
 <a href="https://hackaday.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackaday.svg" alt="Hackaday" width="40" height="40"/></a> 
-<a href="https://defcon.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/defcon.svg" alt="DEFCON" width="40" height="40"/></a> 
+<a href="https://defcon.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Radioactive-Defcon-2.svg" alt="DEFCON" width="40" height="40"/></a> 
 <a href="https://blackarch.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/archlinux.svg" alt="BlackArch" width="40" height="40"/></a> 
 <a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/kalilinux-cs.svg" alt="Kali Linux" width="40" height="40"/></a> 
 <a href="https://kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linux.svg" alt="Linux Kernel" width="40" height="40"/></a> 
