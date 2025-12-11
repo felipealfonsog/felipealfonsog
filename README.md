@@ -598,7 +598,7 @@ _______                  /__/
 
 ############################## new metrics ############################ -->
 <details open>
-<summary>:star2: <strong>⚔️ GitHub Metrics Dashboard - Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
+<summary>:star2: <strong>⚔️ GitHub Metrics Dashboard</strong>*</summary>
 <br>
 
 <!--
