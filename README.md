@@ -187,7 +187,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: It didn’t take long: CVE-2025-55182 is now under active exploitation  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/693ae06402fe5f1d81a2b7c3)
 
-<sub>_Last updated: 2025-12-11 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-12 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
