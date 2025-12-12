@@ -109,6 +109,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 
+<a href="https://github.com/felipealfonsog" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/github-original.svg" alt="GitHub" width="40" height="40"/></a> 
+<a href="https://linkedin.com/in/felipealfonsog/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Linkedin-icon2.svg" alt="LinkedIn" width="40" height="40"/></a> 
+<a href="https://x.com/felipealfonsog/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/X-Logo-SH.svg" alt="X" width="40" height="40"/></a> 
+<a href="https://onlineiacc.academia.edu/felipealfonsog" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Academia-icon.svg" alt="Academia.edu" width="40" height="40"/></a> 
+<a href="https://www.researchgate.net/profile/Felipe-Alfonso-Gonzalez-L" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Researchgate-icon2.svg" alt="ResearchGate" width="40" height="40"/></a> 
+<a href="mailto:felipe.gonzalez@gnlz.cl"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/email-svg-mono.svg" alt="Email" width="40" height="40"/></a>
 
 <!-- 
 [<img src="https://img.shields.io/badge/-linktr.ee/felipealfonsog-39E09B?style=plastic&logo=linktree&logoColor=white&labelColor=39E09B&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
