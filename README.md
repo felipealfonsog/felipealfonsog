@@ -183,11 +183,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 22fd7c48d91fd9fcda9c1c1a2b51c540  
-**Pulse**: Analyzing the Link Between Two Evolving Brazilian Banking Trojans  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691457292075d4131c6db0ed)
+**Indicator**: 2ba8bc980e3a265bbbea25cad2be7540  
+**Pulse**: Operation MoneyMount, ISO Deploying Phantom Stealer  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/693bd610390a13cd797a1df9)
 
-<sub>_Last updated: 2025-12-12 12:02 UTC_</sub>
+<sub>_Last updated: 2025-12-12 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
