@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 31.56.27.76  
-**Pulse**: It didn’t take long: CVE-2025-55182 is now under active exploitation  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/693ae06402fe5f1d81a2b7c3)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 22fd7c48d91fd9fcda9c1c1a2b51c540  
+**Pulse**: Analyzing the Link Between Two Evolving Brazilian Banking Trojans  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691457292075d4131c6db0ed)
 
-<sub>_Last updated: 2025-12-12 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-12 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
