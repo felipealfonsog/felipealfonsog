@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 9d9a25482e7e40e8e27fdb5a1d87a1c12839226c85d00c6605036bd1f4235b21  
-**Pulse**: Contagious Interview Actors Now Utilize JSON Storage Services for Malware Delivery  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69171fd18d6bf2d291a8c53e)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-12-14 12:02 UTC_</sub>
+<sub>_Last updated: 2025-12-14 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
