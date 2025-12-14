@@ -187,7 +187,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Operation MoneyMount, ISO Deploying Phantom Stealer  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/693bd610390a13cd797a1df9)
 
-<sub>_Last updated: 2025-12-14 00:08 UTC_</sub>
+<sub>_Last updated: 2025-12-14 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
