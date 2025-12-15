@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 6e1c52be3b1b38d57430bbcaee7d367a  
+**Pulse**: Digital Doppelgangers: Anatomy of Evolving Impersonation Campaigns Distributing Gh0st RAT  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6918168f887ca57be0147adb)
 
-<sub>_Last updated: 2025-12-15 00:08 UTC_</sub>
+<sub>_Last updated: 2025-12-15 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
