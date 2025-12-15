@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 0f5c3ac4b4f997acd2cd71c451082cd8fbd1cbdb1a6db2bdf470714f2e7ef4bb  
-**Pulse**: Snakes in the Castle: Inside the Walls of Python-Driven CastleLoader Delivery  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/693fcf58dfddb4ef856b099a)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 08a3b1fb2d1abbdbdd60feb8411a12c7  
+**Pulse**: Frogblight banking Trojan targets Android users in Turkey  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69400668a56942944e4dca3b)
 
-<sub>_Last updated: 2025-12-15 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-15 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
