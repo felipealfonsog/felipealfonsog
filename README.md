@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 45.61.136.7  
-**Pulse**: Malicious SSO Logins Observed Following Disclosure of CVE-2025-59718 and CVE-2025-59719  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/694080a4ab8b36bfbdc0748c)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 62ade05e4d0f72b4aeffa5c774b856e5  
+**Pulse**: Investigating the Infrastructure Behind DDoSia's Attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69412b5c6fb2a99780607ae9)
 
-<sub>_Last updated: 2025-12-16 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-16 18:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
