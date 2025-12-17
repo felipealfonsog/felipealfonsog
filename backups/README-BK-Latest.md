@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 03a117c6cb86859623720e75f839260a  
+**Pulse**: Kimsuky Distributing Malicious Mobile App via QR Code  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/694173582a3c2e9751091e7b)
 
-<sub>_Last updated: 2025-12-15 00:08 UTC_</sub>
+<sub>_Last updated: 2025-12-17 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -663,7 +663,7 @@ https://maintainers.github.com/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 -->
 <!-- <details languages and metrics open> -->
-<details open>
+<details>
 <summary>:star2: <strong>Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
 <br>
 
@@ -744,7 +744,7 @@ _______                  /__/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 15 December 2025
+From: 04 December 2023 - To: 17 December 2025
 
 Total Time: 892 hrs 25 mins
 
