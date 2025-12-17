@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 03a117c6cb86859623720e75f839260a  
-**Pulse**: Kimsuky Distributing Malicious Mobile App via QR Code  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/694173582a3c2e9751091e7b)
+**Threat Type**: Ipv4  
+**Indicator**: 181.206.158.190  
+**Pulse**: BlindEagle Targets Colombian Government Agency with Caminho and DCRAT  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69421a1f3d6e9eac9a0ce057)
 
-<sub>_Last updated: 2025-12-17 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-17 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
