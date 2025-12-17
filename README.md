@@ -183,11 +183,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 62ade05e4d0f72b4aeffa5c774b856e5  
-**Pulse**: Investigating the Infrastructure Behind DDoSia's Attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69412b5c6fb2a99780607ae9)
+**Indicator**: 03a117c6cb86859623720e75f839260a  
+**Pulse**: Kimsuky Distributing Malicious Mobile App via QR Code  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/694173582a3c2e9751091e7b)
 
-<sub>_Last updated: 2025-12-16 18:03 UTC_</sub>
+<sub>_Last updated: 2025-12-17 00:06 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
