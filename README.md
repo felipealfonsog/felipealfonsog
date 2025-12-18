@@ -187,7 +187,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Frontline Intelligence: Analysis of UNC1549 TTPs, Custom Tools, and Malware Targeting the Aerospace and Defense Ecosystem  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/691bd5c16cda885503b01c6a)
 
-<sub>_Last updated: 2025-12-18 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-18 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
