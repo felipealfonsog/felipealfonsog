@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 62.60.226.233  
-**Pulse**: GachiLoader: Defeating Node.js Malware with API Tracing  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69431f1ea8a0f2257edd336c)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 10f16991665df69d1ccd5187e027cf3d  
+**Pulse**: Frontline Intelligence: Analysis of UNC1549 TTPs, Custom Tools, and Malware Targeting the Aerospace and Defense Ecosystem  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691bd5c16cda885503b01c6a)
 
-<sub>_Last updated: 2025-12-18 00:06 UTC_</sub>
+<sub>_Last updated: 2025-12-18 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
