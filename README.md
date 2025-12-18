@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 10f16991665df69d1ccd5187e027cf3d  
-**Pulse**: Frontline Intelligence: Analysis of UNC1549 TTPs, Custom Tools, and Malware Targeting the Aerospace and Defense Ecosystem  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691bd5c16cda885503b01c6a)
+**Threat Type**: Url  
+**Indicator**: https://clientlogin.blitzcapital.net/  
+**Pulse**: Access granted: phishing with device code authorization for account takeover  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6944016f98d9890c84fedb47)
 
-<sub>_Last updated: 2025-12-18 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-18 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
