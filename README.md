@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Url  
-**Indicator**: https://clientlogin.blitzcapital.net/  
-**Pulse**: Access granted: phishing with device code authorization for account takeover  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6944016f98d9890c84fedb47)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 049604dd8b89b57741a54b4673ce9b93  
+**Pulse**: EVALUSION Campaign Delivers Amatera Stealer and NetSupport...  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691cf085ce463d915d5c5dc8)
 
-<sub>_Last updated: 2025-12-18 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-19 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
