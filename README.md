@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2023-48022  
-**Pulse**: ShadowRay 2.0: Active Global Campaign Hijacks Ray AI Infrastructure Into Self-Propagating Botnet  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691d46b4135d2acc04876592)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 25e3c200de4868d754a3b4f4f09ec2bf  
+**Pulse**: GPT Trade: Fake Google Play Store drops BTMob Spyware and UASecurity Miner on Android Devices  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691d86562d76790b15750aa0)
 
-<sub>_Last updated: 2025-12-19 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-19 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
