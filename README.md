@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 25e3c200de4868d754a3b4f4f09ec2bf  
-**Pulse**: GPT Trade: Fake Google Play Store drops BTMob Spyware and UASecurity Miner on Android Devices  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691d86562d76790b15750aa0)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-12-19 12:02 UTC_</sub>
+<sub>_Last updated: 2025-12-19 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
