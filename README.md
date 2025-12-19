@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 049604dd8b89b57741a54b4673ce9b93  
-**Pulse**: EVALUSION Campaign Delivers Amatera Stealer and NetSupport...  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691cf085ce463d915d5c5dc8)
+**Threat Type**: Cve  
+**Indicator**: CVE-2023-48022  
+**Pulse**: ShadowRay 2.0: Active Global Campaign Hijacks Ray AI Infrastructure Into Self-Propagating Botnet  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691d46b4135d2acc04876592)
 
-<sub>_Last updated: 2025-12-19 00:08 UTC_</sub>
+<sub>_Last updated: 2025-12-19 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
