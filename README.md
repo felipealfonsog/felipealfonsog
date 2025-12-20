@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: d53fcc01038e20193fbd51b7400075cf7c9c4402b73da7b0db836b000ebd8b1c  
-**Pulse**: Attempts to sniff out governmental affairs in Southeast Asia and Japan  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69457bc9ca97fde0a0f01d2c)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-59287  
+**Pulse**: New Banking Trojan Identified, Distributed Through WhatsApp  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691e7a33a0a2a7b299ae7a59)
 
-<sub>_Last updated: 2025-12-20 00:07 UTC_</sub>
+<sub>_Last updated: 2025-12-20 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
