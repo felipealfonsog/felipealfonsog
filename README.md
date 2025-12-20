@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-59287  
-**Pulse**: New Banking Trojan Identified, Distributed Through WhatsApp  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691e7a33a0a2a7b299ae7a59)
+**Threat Type**: Domain  
+**Indicator**: wcsset.com  
+**Pulse**: PlushDaemon compromises network devices for adversary-in-the-middle attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691e322b7508a5264ba48186)
 
-<sub>_Last updated: 2025-12-20 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-20 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
