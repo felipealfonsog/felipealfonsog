@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: wcsset.com  
-**Pulse**: PlushDaemon compromises network devices for adversary-in-the-middle attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691e322b7508a5264ba48186)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 27e00b5594530e8c5e004098eef2ec50  
+**Pulse**: Analysis of ShadowPad Attack Exploiting WSUS Remote Code Execution Vulnerability (CVE-2025-59287)  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691f27745835a7dea5065d99)
 
-<sub>_Last updated: 2025-12-20 12:02 UTC_</sub>
+<sub>_Last updated: 2025-12-20 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
