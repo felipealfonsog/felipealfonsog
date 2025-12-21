@@ -187,7 +187,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: The Tsundere botnet uses the Ethereum blockchain to infect its targets  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/691f9237f974f85c37e4b201)
 
-<sub>_Last updated: 2025-12-21 12:02 UTC_</sub>
+<sub>_Last updated: 2025-12-21 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
