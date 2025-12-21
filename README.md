@@ -183,11 +183,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 27e00b5594530e8c5e004098eef2ec50  
-**Pulse**: Analysis of ShadowPad Attack Exploiting WSUS Remote Code Execution Vulnerability (CVE-2025-59287)  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691f27745835a7dea5065d99)
+**Indicator**: 235a93c7a4b79135e4d3c220f9313421  
+**Pulse**: The Tsundere botnet uses the Ethereum blockchain to infect its targets  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/691f9237f974f85c37e4b201)
 
-<sub>_Last updated: 2025-12-20 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-21 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
