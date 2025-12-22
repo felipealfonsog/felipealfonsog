@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 235a93c7a4b79135e4d3c220f9313421  
-**Pulse**: The Tsundere botnet uses the Ethereum blockchain to infect its targets  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/691f9237f974f85c37e4b201)
+**Threat Type**: Ipv4  
+**Indicator**: 180.178.56.230  
+**Pulse**: Evasive SideWinder APT Campaign Detected  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6946da89fb6334ddbb8e3f5c)
 
-<sub>_Last updated: 2025-12-22 06:03 UTC_</sub>
+<sub>_Last updated: 2025-12-22 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
