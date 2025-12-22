@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 180.178.56.230  
-**Pulse**: Evasive SideWinder APT Campaign Detected  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6946da89fb6334ddbb8e3f5c)
+**Threat Type**: Cve  
+**Indicator**: CVE-2021-34473  
+**Pulse**: APT35 Internal Leak of Hacking Campaigns Against Lebanon, Kuwait, Turkey, Saudi Arabia, Korea, and Domestic Iranian Targets  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6921bcca5b00a92c1be4ffcc)
 
-<sub>_Last updated: 2025-12-22 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-22 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
