@@ -187,7 +187,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: APT35 Internal Leak of Hacking Campaigns Against Lebanon, Kuwait, Turkey, Saudi Arabia, Korea, and Domestic Iranian Targets  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6921bcca5b00a92c1be4ffcc)
 
-<sub>_Last updated: 2025-12-23 00:07 UTC_</sub>
+<sub>_Last updated: 2025-12-23 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
