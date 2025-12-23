@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-10294  
+**Pulse**: Webrat, disguised as exploits, is spreading via GitHub repositories  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/694ab732eda29a7aec8e476b)
 
-<sub>_Last updated: 2025-12-23 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-23 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
