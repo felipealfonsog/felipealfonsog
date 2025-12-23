@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2021-34473  
-**Pulse**: APT35 Internal Leak of Hacking Campaigns Against Lebanon, Kuwait, Turkey, Saudi Arabia, Korea, and Domestic Iranian Targets  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6921bcca5b00a92c1be4ffcc)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-12-23 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-23 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
