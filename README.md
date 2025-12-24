@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 003ea91e9f52ecfdc3aadb2732e9b54c  
-**Pulse**: Kimsuky's Ongoing Evolution of KimJongRAT and Expanding Threats  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6924489d963d7a76a737f173)
+**Threat Type**: Ipv4  
+**Indicator**: 60.29.226.181  
+**Pulse**: Evasive Panda APT poisons DNS requests to deliver MgBot  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/694bec49b3afb4e6bc975450)
 
-<sub>_Last updated: 2025-12-24 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-24 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
