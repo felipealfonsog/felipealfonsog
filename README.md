@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-10294  
-**Pulse**: Webrat, disguised as exploits, is spreading via GitHub repositories  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/694ab732eda29a7aec8e476b)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 003ea91e9f52ecfdc3aadb2732e9b54c  
+**Pulse**: Kimsuky's Ongoing Evolution of KimJongRAT and Expanding Threats  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6924489d963d7a76a737f173)
 
-<sub>_Last updated: 2025-12-24 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-24 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
