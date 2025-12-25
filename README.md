@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 60.29.226.181  
-**Pulse**: Evasive Panda APT poisons DNS requests to deliver MgBot  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/694bec49b3afb4e6bc975450)
+**Threat Type**: Filehash-Md5  
+**Indicator**: cd8302542f494f4d8fbcb2d21425b316  
+**Pulse**: ClickFix Gets Creative: Malware Buried in Images  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6924c9a94b1c7374cf444b82)
 
-<sub>_Last updated: 2025-12-24 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-25 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
