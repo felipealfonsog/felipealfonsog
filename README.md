@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Cve  
+**Indicator**: CVE-2023-38831  
+**Pulse**: How NTLM is being abused in 2025 cyberattacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69270a1260d022cc94c9f705)
 
-<sub>_Last updated: 2025-12-26 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-26 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
