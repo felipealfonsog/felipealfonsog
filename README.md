@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: cd8302542f494f4d8fbcb2d21425b316  
-**Pulse**: ClickFix Gets Creative: Malware Buried in Images  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6924c9a94b1c7374cf444b82)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-26633  
+**Pulse**: Water APT Multi-Stage Attack Uncovered  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69264d24cbe30afec1cec15f)
 
-<sub>_Last updated: 2025-12-25 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-26 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
