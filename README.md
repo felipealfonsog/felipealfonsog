@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2009-2765  
-**Pulse**: ShadowV2 Casts a Shadow Over IoT Devices  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6927ffd2068d6127f3387514)
+**Threat Type**: Domain  
+**Indicator**: rhussois.su  
+**Pulse**: Analysis of the Lumma infostealer  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69289bec58e97b8756650ea7)
 
-<sub>_Last updated: 2025-12-27 12:02 UTC_</sub>
+<sub>_Last updated: 2025-12-27 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
