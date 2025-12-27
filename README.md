@@ -187,7 +187,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: How NTLM is being abused in 2025 cyberattacks  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69270a1260d022cc94c9f705)
 
-<sub>_Last updated: 2025-12-26 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-27 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
