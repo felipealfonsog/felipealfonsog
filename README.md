@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-2611  
-**Pulse**: The Mystery OAST Host Behind a Regionally Focused Exploit Operation  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69290cd72a059f2c7ea720db)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 078be0065d0277935cdcf7e3e9db4679  
+**Pulse**: New Tomiris tools and techniques: multiple reverse shells, Havoc, AdaptixC2  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69295ddc667844c92d7554d0)
 
-<sub>_Last updated: 2025-12-28 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-28 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
