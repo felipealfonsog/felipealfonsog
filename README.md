@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: rhussois.su  
-**Pulse**: Analysis of the Lumma infostealer  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69289bec58e97b8756650ea7)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-2611  
+**Pulse**: The Mystery OAST Host Behind a Regionally Focused Exploit Operation  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69290cd72a059f2c7ea720db)
 
-<sub>_Last updated: 2025-12-28 00:09 UTC_</sub>
+<sub>_Last updated: 2025-12-28 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
