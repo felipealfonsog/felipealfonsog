@@ -187,7 +187,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: New Tomiris tools and techniques: multiple reverse shells, Havoc, AdaptixC2  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69295ddc667844c92d7554d0)
 
-<sub>_Last updated: 2025-12-29 06:03 UTC_</sub>
+<sub>_Last updated: 2025-12-29 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
