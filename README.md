@@ -183,11 +183,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 078be0065d0277935cdcf7e3e9db4679  
-**Pulse**: New Tomiris tools and techniques: multiple reverse shells, Havoc, AdaptixC2  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69295ddc667844c92d7554d0)
+**Indicator**: 36f121046192b7cac3e4bec491e8f1b5  
+**Pulse**: The HoneyMyte APT now protects malware with a kernel-mode rootkit  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69528092ee9eed9c6d16d25d)
 
-<sub>_Last updated: 2025-12-29 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-29 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
