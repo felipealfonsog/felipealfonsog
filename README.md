@@ -187,7 +187,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: RondoDoX Botnet Weaponizes React2Shell  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6952dc1e4da675337033a2e2)
 
-<sub>_Last updated: 2025-12-30 00:07 UTC_</sub>
+<sub>_Last updated: 2025-12-30 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
