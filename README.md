@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 38.59.219.27  
-**Pulse**: RondoDoX Botnet Weaponizes React2Shell  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6952dc1e4da675337033a2e2)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 43b5de7bba443f9af69b1cc0691d5172  
+**Pulse**: EmEditor Homepage Download Button Served Malware for 4 Days  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6954047d8a63acca030bd5e8)
 
-<sub>_Last updated: 2025-12-30 12:03 UTC_</sub>
+<sub>_Last updated: 2025-12-30 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
