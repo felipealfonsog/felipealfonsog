@@ -182,12 +182,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 36f121046192b7cac3e4bec491e8f1b5  
-**Pulse**: The HoneyMyte APT now protects malware with a kernel-mode rootkit  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69528092ee9eed9c6d16d25d)
+**Threat Type**: Ipv4  
+**Indicator**: 38.59.219.27  
+**Pulse**: RondoDoX Botnet Weaponizes React2Shell  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6952dc1e4da675337033a2e2)
 
-<sub>_Last updated: 2025-12-29 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-30 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
