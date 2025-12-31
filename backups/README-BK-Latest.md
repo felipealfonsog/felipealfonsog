@@ -103,6 +103,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
+[<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
@@ -183,11 +184,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 03a117c6cb86859623720e75f839260a  
-**Pulse**: Kimsuky Distributing Malicious Mobile App via QR Code  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/694173582a3c2e9751091e7b)
+**Indicator**: 43b5de7bba443f9af69b1cc0691d5172  
+**Pulse**: EmEditor Homepage Download Button Served Malware for 4 Days  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6954047d8a63acca030bd5e8)
 
-<sub>_Last updated: 2025-12-17 06:02 UTC_</sub>
+<sub>_Last updated: 2025-12-31 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -744,7 +745,7 @@ _______                  /__/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 17 December 2025
+From: 04 December 2023 - To: 31 December 2025
 
 Total Time: 892 hrs 25 mins
 
