@@ -187,7 +187,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: EmEditor Homepage Download Button Served Malware for 4 Days  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6954047d8a63acca030bd5e8)
 
-<sub>_Last updated: 2025-12-30 18:02 UTC_</sub>
+<sub>_Last updated: 2025-12-31 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
