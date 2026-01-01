@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: acmsquared.com  
-**Pulse**: DNS Uncovers Infrastructure Used in SSO Attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69307a4a316b3f36d7ee486e)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 4103a09887b82ffd56a93bb431805224  
+**Pulse**: Snakes by the riverbank  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/692efb6b9069e8bb95df4011)
 
-<sub>_Last updated: 2026-01-01 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-01 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
