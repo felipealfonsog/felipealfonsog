@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 43b5de7bba443f9af69b1cc0691d5172  
-**Pulse**: EmEditor Homepage Download Button Served Malware for 4 Days  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6954047d8a63acca030bd5e8)
+**Threat Type**: Domain  
+**Indicator**: acmsquared.com  
+**Pulse**: DNS Uncovers Infrastructure Used in SSO Attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69307a4a316b3f36d7ee486e)
 
-<sub>_Last updated: 2026-01-01 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-01 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
