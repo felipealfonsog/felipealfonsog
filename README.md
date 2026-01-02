@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Hostname  
-**Indicator**: luckybear669.kozow.com  
-**Pulse**: DeedRAT: Unpacking a Modern Backdoor's Playbook  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6955aac43e4afc25d1894086)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 273b1b1373cf25e054a61e2cb8a947b8  
+**Pulse**: VVS Discord Stealer Using Pyarmor for Obfuscation and Detection Evasion  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6957cada0b3b5b7d427864c1)
 
-<sub>_Last updated: 2026-01-02 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-02 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
