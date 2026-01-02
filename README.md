@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 4103a09887b82ffd56a93bb431805224  
-**Pulse**: Snakes by the riverbank  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/692efb6b9069e8bb95df4011)
+**Threat Type**: Hostname  
+**Indicator**: luckybear669.kozow.com  
+**Pulse**: DeedRAT: Unpacking a Modern Backdoor's Playbook  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6955aac43e4afc25d1894086)
 
-<sub>_Last updated: 2026-01-02 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-02 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
