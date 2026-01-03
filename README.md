@@ -188,7 +188,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: VVS Discord Stealer Using Pyarmor for Obfuscation and Detection Evasion  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6957cada0b3b5b7d427864c1)
 
-<sub>_Last updated: 2026-01-03 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-03 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
