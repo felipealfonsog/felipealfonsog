@@ -184,11 +184,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 273b1b1373cf25e054a61e2cb8a947b8  
-**Pulse**: VVS Discord Stealer Using Pyarmor for Obfuscation and Detection Evasion  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6957cada0b3b5b7d427864c1)
+**Indicator**: 69905105c88d17248aa705855c89c6c6  
+**Pulse**: Malicious VSCode Extension Launches Multi-Stage Attack Chain with Anivia Loader and OctoRAT  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/693163364670906b4b6d6811)
 
-<sub>_Last updated: 2026-01-03 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-03 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
