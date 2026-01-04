@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 69905105c88d17248aa705855c89c6c6  
-**Pulse**: Malicious VSCode Extension Launches Multi-Stage Attack Chain with Anivia Loader and OctoRAT  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/693163364670906b4b6d6811)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-1338  
+**Pulse**: China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69331d05a7d525a2c1cf508c)
 
-<sub>_Last updated: 2026-01-04 12:02 UTC_</sub>
+<sub>_Last updated: 2026-01-04 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
