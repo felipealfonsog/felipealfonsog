@@ -188,7 +188,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Malicious VSCode Extension Launches Multi-Stage Attack Chain with Anivia Loader and OctoRAT  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/693163364670906b4b6d6811)
 
-<sub>_Last updated: 2026-01-04 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-04 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
