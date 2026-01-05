@@ -188,7 +188,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69331d05a7d525a2c1cf508c)
 
-<sub>_Last updated: 2026-01-05 00:09 UTC_</sub>
+<sub>_Last updated: 2026-01-05 06:04 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
