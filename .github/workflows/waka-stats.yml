@@ -1,9 +1,9 @@
-name: Waka Readme Stats (OS/Editors/LOC)
+name: Waka Stats (OS/Editors/LOC)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7 0-4,10-15,17-22 * * *'
+    - cron: '13 * * * *'
 
 concurrency:
   group: waka-stats
