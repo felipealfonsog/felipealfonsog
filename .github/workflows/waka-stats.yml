@@ -1,4 +1,4 @@
-name: Waka Stats (from WakaTime)
+name: Waka Stats (CLI style)
 
 on:
   workflow_dispatch:
@@ -25,8 +25,9 @@ jobs:
           API_KEY = os.environ["WAKATIME_API_KEY"]
           auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
 
-          BLOCKS = "○●◔◕◐◕◔◐●◔◐◕"
           BAR_LEN = 20
+          FULL = "█"
+          EMPTY = "░"
 
           def get(url):
               req = urllib.request.Request(
@@ -38,61 +39,53 @@ jobs:
 
           def bar(pct):
               filled = int(round(pct / 100 * BAR_LEN))
-              return BLOCKS[-1] * filled + BLOCKS[0] * (BAR_LEN - filled)
+              return FULL * filled + EMPTY * (BAR_LEN - filled)
 
           stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
-          total_seconds = stats["total_seconds"]
+          total = stats["total_seconds"]
 
-          def table_section(title, items, limit=5):
-              if not items:
-                  return ""
-              out = f"### {title}\n\n"
+          def section(title, items, limit=5):
+              out = f"\n{title}\n" + "-" * len(title) + "\n"
               for i in items[:limit]:
-                  pct = (i["total_seconds"] / total_seconds) * 100
+                  pct = (i["total_seconds"] / total) * 100
                   out += (
                       f"{i['name']:<14} "
                       f"{i['text']:<14} "
                       f"{bar(pct)} "
-                      f"{pct:5.2f} %\n"
+                      f"{pct:6.2f} %\n"
                   )
-              return out + "\n"
+              return out
 
-          # ---- META ----
           languages = stats.get("languages", [])
-          mostly_language = languages[0]["name"] if languages else "N/A"
+          mostly = languages[0]["name"] if languages else "N/A"
 
           days = max(stats.get("days", 1), 1)
-          daily_avg_seconds = total_seconds / days
-          daily_avg = str(datetime.timedelta(seconds=int(daily_avg_seconds)))
+          daily_avg = str(datetime.timedelta(seconds=int(total / days)))
 
-          best_day = stats.get("best_day")
-          best_day_str = (
-              f"{best_day['date']} — {best_day['text']}"
-              if best_day else "N/A"
-          )
+          best = stats.get("best_day")
+          best_str = f"{best['date']} — {best['text']}" if best else "N/A"
 
-          timezone = stats.get("timezone", "N/A")
-
-          # ---- CONTENT ----
           content = (
-              "## WakaTime Extended Stats\n\n"
-              f"**Total Time:** {stats['human_readable_total']}\n\n"
-              f"**Mostly coding in:** {mostly_language}\n"
-              f"**Daily average:** {daily_avg}\n"
-              f"**Best day:** {best_day_str}\n"
-              f"**Time zone:** {timezone}\n\n"
-              + table_section("Operating Systems", stats.get("operating_systems", []))
-              + table_section("Editors", stats.get("editors", []))
-              + table_section("Projects", stats.get("projects", []))
-              + table_section("Categories", stats.get("categories", []))
+              "WAKATIME EXTENDED STATS\n"
+              "======================\n\n"
+              f"Total Time       : {stats['human_readable_total']}\n"
+              f"Mostly coding in : {mostly}\n"
+              f"Daily average    : {daily_avg}\n"
+              f"Best day         : {best_str}\n"
+              f"Time zone        : {stats.get('timezone','N/A')}\n"
+              + section("OPERATING SYSTEMS", stats.get("operating_systems", []))
+              + section("EDITORS", stats.get("editors", []))
+              + section("PROJECTS", stats.get("projects", []))
+              + section("CATEGORIES", stats.get("categories", []))
           )
 
           machines = stats.get("machines", [])
           if machines:
-              content += "### Machines\n\n"
+              content += "\nMACHINES\n--------\n"
               for m in machines[:5]:
-                  content += f"- {m['name']} — {m['text']}\n"
-              content += "\n"
+                  content += f"{m['name']:<30} {m['text']}\n"
+
+          content = f"```\n{content}\n```"
 
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
@@ -113,5 +106,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "Update wakastats from WakaTime stats" || exit 0
+          git commit -m "Update WakaTime CLI stats" || exit 0
           git push
