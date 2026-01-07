@@ -113,5 +113,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "Update wakastats from WakaTime" || exit 0
+          git commit -m "Update wakastats from WakaTime stats" || exit 0
           git push
