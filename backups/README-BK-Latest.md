@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 43b5de7bba443f9af69b1cc0691d5172  
-**Pulse**: EmEditor Homepage Download Button Served Malware for 4 Days  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6954047d8a63acca030bd5e8)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2025-12-31 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-07 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -676,6 +676,9 @@ https://maintainers.github.com/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css)
 ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css)](#)
 [![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)](#)
@@ -745,20 +748,20 @@ _______                  /__/
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 31 December 2025
+From: 04 December 2023 - To: 07 January 2026
 
-Total Time: 892 hrs 25 mins
+Total Time: 951 hrs 14 mins
 
-Bash                 155 hrs 33 mins ◕◕◕◕◔○○○○○○○○○○○○○○○○○○○○   16.85 %
-Python               131 hrs 17 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   14.22 %
-HTML                 120 hrs 28 mins ◕◕◕◕○○○○○○○○○○○○○○○○○○○○○   13.05 %
-PHP                  91 hrs 43 mins  ◕◕◕○○○○○○○○○○○○○○○○○○○○○○   09.94 %
-Markdown             70 hrs 57 mins  ◕◐○○○○○○○○○○○○○○○○○○○○○○○   07.69 %
-C                    65 hrs 48 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.13 %
-C++                  40 hrs 2 mins   ◕●○○○○○○○○○○○○○○○○○○○○○○○   04.34 %
-INI                  31 hrs 50 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.45 %
-Text                 31 hrs          ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.36 %
-Other                30 hrs 30 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○   03.31 %
+Bash                 161 hrs 49 mins ◕◕◕◕●○○○○○○○○○○○○○○○○○○○○   16.42 %
+Python               133 hrs 25 mins ◕◕◕◐○○○○○○○○○○○○○○○○○○○○○   13.53 %
+HTML                 125 hrs 20 mins ◕◕◕◔○○○○○○○○○○○○○○○○○○○○○   12.71 %
+PHP                  107 hrs 41 mins ◕◕●○○○○○○○○○○○○○○○○○○○○○○   10.92 %
+Markdown             77 hrs 10 mins  ◕◕○○○○○○○○○○○○○○○○○○○○○○○   07.83 %
+C                    73 hrs 29 mins  ◕◔○○○○○○○○○○○○○○○○○○○○○○○   07.45 %
+C++                  39 hrs 59 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   04.06 %
+Text                 37 hrs 56 mins  ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.85 %
+INI                  35 hrs 42 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.62 %
+Other                34 hrs 36 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.51 %
 ```
 
 <!--END_SECTION:waka-->
