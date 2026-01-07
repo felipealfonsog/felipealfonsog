@@ -1,54 +1,117 @@
-import base64, json, re, urllib.request, os, math
+name: Waka Stats (from WakaTime)
 
-API_KEY = os.environ["WAKATIME_API_KEY"]
-auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0-4,10-15,17-22 * * *'
 
-BLOCKS = "○●◔◕◐◕◔◐●◔◐◕"
-BAR_LEN = 20
+permissions:
+  contents: write
 
-def get(url):
-    req = urllib.request.Request(
-        url,
-        headers={"Authorization": f"Basic {auth}"}
-    )
-    with urllib.request.urlopen(req) as r:
-        return json.load(r)
+jobs:
+  wakastats:
+    runs-on: ubuntu-latest
 
-def bar(pct):
-    filled = int(round(pct / 100 * BAR_LEN))
-    return BLOCKS[-1] * filled + BLOCKS[0] * (BAR_LEN - filled)
+    steps:
+      - uses: actions/checkout@v4
 
-stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
-total_seconds = stats["total_seconds"]
+      - name: Update wakastats from WakaTime
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          python3 << 'EOF'
+          import base64, json, re, urllib.request, os, datetime
 
-def section(title, items):
-    out = f"### {title}\n\n"
-    for i in items:
-        pct = (i["total_seconds"] / total_seconds) * 100
-        out += (
-            f"{i['name']:<12} "
-            f"{i['text']:<15} "
-            f"{bar(pct)} "
-            f"{pct:5.2f} %\n"
-        )
-    return out + "\n"
+          API_KEY = os.environ["WAKATIME_API_KEY"]
+          auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
 
-content = (
-    "## WakaTime Stats\n\n"
-    f"**Total Time:** {stats['human_readable_total']}\n\n"
-    + section("Operating Systems", stats.get("operating_systems", []))
-    + section("Editors", stats.get("editors", []))
-)
+          BLOCKS = "○●◔◕◐◕◔◐●◔◐◕"
+          BAR_LEN = 20
 
-with open("README.md", "r", encoding="utf-8") as f:
-    readme = f.read()
+          def get(url):
+              req = urllib.request.Request(
+                  url,
+                  headers={"Authorization": f"Basic {auth}"}
+              )
+              with urllib.request.urlopen(req) as r:
+                  return json.load(r)
 
-new = re.sub(
-    r"<!--START_SECTION:wakastats-->.*?<!--END_SECTION:wakastats-->",
-    f"<!--START_SECTION:wakastats-->\n{content}\n<!--END_SECTION:wakastats-->",
-    readme,
-    flags=re.S
-)
+          def bar(pct):
+              filled = int(round(pct / 100 * BAR_LEN))
+              return BLOCKS[-1] * filled + BLOCKS[0] * (BAR_LEN - filled)
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new)
+          stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
+          total_seconds = stats["total_seconds"]
+
+          def table_section(title, items, limit=5):
+              if not items:
+                  return ""
+              out = f"### {title}\n\n"
+              for i in items[:limit]:
+                  pct = (i["total_seconds"] / total_seconds) * 100
+                  out += (
+                      f"{i['name']:<14} "
+                      f"{i['text']:<14} "
+                      f"{bar(pct)} "
+                      f"{pct:5.2f} %\n"
+                  )
+              return out + "\n"
+
+          # ---- META ----
+          languages = stats.get("languages", [])
+          mostly_language = languages[0]["name"] if languages else "N/A"
+
+          days = max(stats.get("days", 1), 1)
+          daily_avg_seconds = total_seconds / days
+          daily_avg = str(datetime.timedelta(seconds=int(daily_avg_seconds)))
+
+          best_day = stats.get("best_day")
+          best_day_str = (
+              f"{best_day['date']} — {best_day['text']}"
+              if best_day else "N/A"
+          )
+
+          timezone = stats.get("timezone", "N/A")
+
+          # ---- CONTENT ----
+          content = (
+              "## WakaTime Extended Stats\n\n"
+              f"**Total Time:** {stats['human_readable_total']}\n\n"
+              f"**Mostly coding in:** {mostly_language}\n"
+              f"**Daily average:** {daily_avg}\n"
+              f"**Best day:** {best_day_str}\n"
+              f"**Time zone:** {timezone}\n\n"
+              + table_section("Operating Systems", stats.get("operating_systems", []))
+              + table_section("Editors", stats.get("editors", []))
+              + table_section("Projects", stats.get("projects", []))
+              + table_section("Categories", stats.get("categories", []))
+          )
+
+          machines = stats.get("machines", [])
+          if machines:
+              content += "### Machines\n\n"
+              for m in machines[:5]:
+                  content += f"- {m['name']} — {m['text']}\n"
+              content += "\n"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          new = re.sub(
+              r"<!--START_SECTION:wakastats-->.*?<!--END_SECTION:wakastats-->",
+              f"<!--START_SECTION:wakastats-->\n{content}\n<!--END_SECTION:wakastats-->",
+              readme,
+              flags=re.S
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update wakastats from WakaTime" || exit 0
+          git push
