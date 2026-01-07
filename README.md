@@ -773,8 +773,6 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 07 January 2026
-
 Total Time       : 951 hrs 14 mins
 Mostly coding in : Bash
 Daily average    : 951 hrs 14 mins
