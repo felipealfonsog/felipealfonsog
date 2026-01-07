@@ -25,9 +25,16 @@ jobs:
           API_KEY = os.environ["WAKATIME_API_KEY"]
           auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
 
-          BAR_LEN = 20
-          FULL = "█"
-          EMPTY = "░"
+          # Your style blocks (same vibe as the languages block)
+          BLOCKS = "○●◔◕◐◕◔◐●◔◐◕"
+          EMPTY = "○"
+          FULL = "●"
+          HALF = "◔"
+          BAR_LEN = 26  # similar density to waka languages output
+
+          # Hide noisy labels that make it look bad
+          HIDE_UNKNOWN = True
+          UNKNOWN_NAMES = {"Unknown Project", "Unknown Editor", "Unknown"}
 
           def get(url):
               req = urllib.request.Request(
@@ -37,54 +44,95 @@ jobs:
               with urllib.request.urlopen(req) as r:
                   return json.load(r)
 
+          def clamp(x, lo=0.0, hi=100.0):
+              return max(lo, min(hi, x))
+
           def bar(pct):
-              filled = int(round(pct / 100 * BAR_LEN))
-              return FULL * filled + EMPTY * (BAR_LEN - filled)
+              # create a bar with FULL/HALF/EMPTY, like waka-readme style
+              pct = clamp(pct, 0.0, 100.0)
+              units = (pct / 100.0) * BAR_LEN
+              full = int(units)
+              half = 1 if (units - full) >= 0.5 and full < BAR_LEN else 0
+              empty = BAR_LEN - full - half
+              return (FULL * full) + (HALF * half) + (EMPTY * empty)
+
+          def fmt_hhmm(seconds):
+              seconds = int(seconds)
+              h = seconds // 3600
+              m = (seconds % 3600) // 60
+              if h <= 0 and m <= 0:
+                  return "0 mins"
+              if h <= 0:
+                  return f"{m} mins"
+              return f"{h} hrs {m} mins"
 
           stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
-          total = stats["total_seconds"]
+          total = int(stats.get("total_seconds", 0)) or 1  # avoid div/0
+
+          def cleaned(items):
+              if not items:
+                  return []
+              out = []
+              for i in items:
+                  name = i.get("name", "").strip()
+                  if HIDE_UNKNOWN and (name in UNKNOWN_NAMES or name.startswith("Unknown ")):
+                      continue
+                  out.append(i)
+              return out
 
           def section(title, items, limit=5):
+              items = cleaned(items)
+              if not items:
+                  return ""
               out = f"\n{title}\n" + "-" * len(title) + "\n"
               for i in items[:limit]:
-                  pct = (i["total_seconds"] / total) * 100
+                  pct = (i["total_seconds"] / total) * 100.0
+
+                  # Percent over 100 looks awful; clamp it visually and numerically
+                  pct_show = clamp(pct, 0.0, 100.0)
+
                   out += (
                       f"{i['name']:<14} "
                       f"{i['text']:<14} "
-                      f"{bar(pct)} "
-                      f"{pct:6.2f} %\n"
+                      f"{bar(pct_show)} "
+                      f"{pct_show:6.2f} %\n"
                   )
               return out
 
-          languages = stats.get("languages", [])
+          languages = cleaned(stats.get("languages", []))
           mostly = languages[0]["name"] if languages else "N/A"
 
-          days = max(stats.get("days", 1), 1)
-          daily_avg = str(datetime.timedelta(seconds=int(total / days)))
+          # Daily average (nice format, not "39 days, ...")
+          days = int(stats.get("days", 1)) or 1
+          daily_avg_seconds = int(total / days)
+          daily_avg = fmt_hhmm(daily_avg_seconds)
 
           best = stats.get("best_day")
           best_str = f"{best['date']} — {best['text']}" if best else "N/A"
 
+          timezone = stats.get("timezone", "N/A")
+
           content = (
               "WAKATIME EXTENDED STATS\n"
               "======================\n\n"
-              f"Total Time       : {stats['human_readable_total']}\n"
+              f"Total Time       : {stats.get('human_readable_total', 'N/A')}\n"
               f"Mostly coding in : {mostly}\n"
               f"Daily average    : {daily_avg}\n"
               f"Best day         : {best_str}\n"
-              f"Time zone        : {stats.get('timezone','N/A')}\n"
-              + section("OPERATING SYSTEMS", stats.get("operating_systems", []))
-              + section("EDITORS", stats.get("editors", []))
-              + section("PROJECTS", stats.get("projects", []))
-              + section("CATEGORIES", stats.get("categories", []))
+              f"Time zone        : {timezone}\n"
+              + section("OPERATING SYSTEMS", stats.get("operating_systems", []), limit=5)
+              + section("EDITORS", stats.get("editors", []), limit=8)
+              + section("PROJECTS", stats.get("projects", []), limit=8)
+              + section("CATEGORIES", stats.get("categories", []), limit=6)
           )
 
-          machines = stats.get("machines", [])
+          machines = cleaned(stats.get("machines", []))
           if machines:
               content += "\nMACHINES\n--------\n"
               for m in machines[:5]:
                   content += f"{m['name']:<30} {m['text']}\n"
 
+          # Render as code block so spacing matches the languages widget vibe
           content = f"```\n{content}\n```"
 
           with open("README.md", "r", encoding="utf-8") as f:
