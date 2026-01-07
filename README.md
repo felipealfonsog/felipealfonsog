@@ -835,6 +835,8 @@ SDFCSC                         33 hrs 2 mins
 LAION-SETI-4B                  27 hrs 51 mins
 Felipes-MacBook-Air-Silicon.local 23 hrs 6 mins
 SETICSC                        14 hrs 5 mins
+LAION-5B                       13 hrs 35 mins
+ORGANA                         9 hrs 26 mins
 
 ```
 <!--END_SECTION:wakastats-->
