@@ -773,36 +773,38 @@ WAKATIME EXTENDED STATS
 
 Total Time       : 951 hrs 14 mins
 Mostly coding in : Bash
-Daily average    : 39 days, 15:14:05
+Daily average    : 951 hrs 14 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 
 OPERATING SYSTEMS
 -----------------
-Linux          521 hrs 56 mins ███████████░░░░░░░░░  54.87 %
-Mac            463 hrs 53 mins ██████████░░░░░░░░░░  48.77 %
+Linux          521 hrs 56 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.87 %
+Mac            463 hrs 53 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.77 %
 
 EDITORS
 -------
-VS Code        650 hrs 32 mins ██████████████░░░░░░  68.39 %
-Vim            321 hrs 7 mins ███████░░░░░░░░░░░░░  33.76 %
-TeXstudio      11 hrs 36 mins ░░░░░░░░░░░░░░░░░░░░   1.22 %
-Unknown Editor 1 hr 49 mins   ░░░░░░░░░░░░░░░░░░░░   0.19 %
-Textmate       44 mins        ░░░░░░░░░░░░░░░░░░░░   0.08 %
+VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.39 %
+Vim            321 hrs 7 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.76 %
+TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.22 %
+Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 
 PROJECTS
 --------
-Unknown Project 252 hrs 53 mins █████░░░░░░░░░░░░░░░  26.59 %
-gnlz.cl        135 hrs 32 mins ███░░░░░░░░░░░░░░░░░  14.25 %
-NovaNav        94 hrs 51 mins ██░░░░░░░░░░░░░░░░░░   9.97 %
-OptiCPU        47 hrs 23 mins █░░░░░░░░░░░░░░░░░░░   4.98 %
-GitSyncMaster  38 hrs 10 mins █░░░░░░░░░░░░░░░░░░░   4.01 %
+gnlz.cl        135 hrs 32 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.25 %
+NovaNav        94 hrs 51 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○   9.97 %
+OptiCPU        47 hrs 23 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.98 %
+GitSyncMaster  38 hrs 10 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.01 %
+nymex-data.com 31 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.31 %
+Upd8All        31 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.27 %
+Development    26 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.83 %
+TermPDFViewer  25 hrs 17 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.66 %
 
 CATEGORIES
 ----------
-Coding         985 hrs 14 mins █████████████████████ 103.57 %
-Writing Docs   35 mins        ░░░░░░░░░░░░░░░░░░░░   0.06 %
-Building       0 secs         ░░░░░░░░░░░░░░░░░░░░   0.00 %
+Coding         985 hrs 14 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
+Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 MACHINES
 --------
