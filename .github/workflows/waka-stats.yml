@@ -1,70 +1,54 @@
-name: Waka Stats (from WakaTime)
+import base64, json, re, urllib.request, os, math
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0-4,10-15,17-22 * * *'
+API_KEY = os.environ["WAKATIME_API_KEY"]
+auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
 
-permissions:
-  contents: write
+BLOCKS = "○●◔◕◐◕◔◐●◔◐◕"
+BAR_LEN = 20
 
-jobs:
-  wakastats:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+def get(url):
+    req = urllib.request.Request(
+        url,
+        headers={"Authorization": f"Basic {auth}"}
+    )
+    with urllib.request.urlopen(req) as r:
+        return json.load(r)
 
-      - name: Update wakastats from WakaTime
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          python3 << 'EOF'
-          import base64, json, re, urllib.request, os
+def bar(pct):
+    filled = int(round(pct / 100 * BAR_LEN))
+    return BLOCKS[-1] * filled + BLOCKS[0] * (BAR_LEN - filled)
 
-          API_KEY = os.environ["WAKATIME_API_KEY"]
-          auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
+stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
+total_seconds = stats["total_seconds"]
 
-          def get(url):
-            req = urllib.request.Request(
-              url,
-              headers={"Authorization": f"Basic {auth}"}
-            )
-            with urllib.request.urlopen(req) as r:
-              return json.load(r)
+def section(title, items):
+    out = f"### {title}\n\n"
+    for i in items:
+        pct = (i["total_seconds"] / total_seconds) * 100
+        out += (
+            f"{i['name']:<12} "
+            f"{i['text']:<15} "
+            f"{bar(pct)} "
+            f"{pct:5.2f} %\n"
+        )
+    return out + "\n"
 
-          stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
+content = (
+    "## WakaTime Stats\n\n"
+    f"**Total Time:** {stats['human_readable_total']}\n\n"
+    + section("Operating Systems", stats.get("operating_systems", []))
+    + section("Editors", stats.get("editors", []))
+)
 
-          def section(title, items):
-            out = f"### {title}\n"
-            for i in items[:5]:
-              out += f"- **{i['name']}** — {i['text']}\n"
-            return out + "\n"
+with open("README.md", "r", encoding="utf-8") as f:
+    readme = f.read()
 
-          content = (
-            "## WakaTime Stats\n\n"
-            + f"**Total Time:** {stats.get('human_readable_total', '')}\n\n"
-            + section("Operating Systems", stats.get("operating_systems", []))
-            + section("Editors", stats.get("editors", []))
-          )
+new = re.sub(
+    r"<!--START_SECTION:wakastats-->.*?<!--END_SECTION:wakastats-->",
+    f"<!--START_SECTION:wakastats-->\n{content}\n<!--END_SECTION:wakastats-->",
+    readme,
+    flags=re.S
+)
 
-          with open("README.md", "r", encoding="utf-8") as f:
-            readme = f.read()
-
-          new = re.sub(
-            r"<!--START_SECTION:wakastats-->.*?<!--END_SECTION:wakastats-->",
-            f"<!--START_SECTION:wakastats-->\n{content}\n<!--END_SECTION:wakastats-->",
-            readme,
-            flags=re.S
-          )
-
-          with open("README.md", "w", encoding="utf-8") as f:
-            f.write(new)
-          EOF
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update wakastats from WakaTime" || exit 0
-          git push
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(new)
