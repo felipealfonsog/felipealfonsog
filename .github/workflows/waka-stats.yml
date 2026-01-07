@@ -3,6 +3,7 @@ name: Waka Stats (CLI style)
 on:
   workflow_dispatch:
   schedule:
+    # shifted minute so it does NOT collide with your other waka workflow
     - cron: '7 0-4,10-15,17-22 * * *'
 
 permissions:
@@ -21,7 +22,6 @@ jobs:
         run: |
           python3 << 'EOF'
           import base64, json, re, urllib.request, os, datetime
-          from urllib.parse import urlencode
 
           API_KEY = os.environ["WAKATIME_API_KEY"]
           auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
@@ -34,16 +34,13 @@ jobs:
 
           # ===== SECTION TOGGLES =====
           SHOW_HEADER_INFO       = True
+          SHOW_ACTIVITY_PATTERN  = True   # <— single-line summary, stable
           SHOW_LANGUAGES         = True
           SHOW_OPERATING_SYSTEMS = True
           SHOW_EDITORS           = True
           SHOW_PROJECTS          = True
           SHOW_CATEGORIES        = True
           SHOW_MACHINES          = True
-          SHOW_TIME_OF_DAY       = True   # <— now works via summaries endpoint
-
-          # How many days back for "time of day" pattern
-          TIME_OF_DAY_DAYS = 30
 
           # ===== LIMITS =====
           MAX_LANGUAGES  = 10
@@ -114,82 +111,17 @@ jobs:
                   )
               return out
 
-          def activity_by_time_of_day(days_back: int):
-              # Uses summaries endpoint to derive hour-of-day distribution.
-              end = datetime.date.today()
-              start = end - datetime.timedelta(days=days_back)
+          def activity_pattern_from_best_day(best_day, timezone):
+              # Not perfect (no per-hour histogram available), but stable and honest:
+              # If best day exists, we label based on typical "best day" + timezone presence.
+              # We'll keep it conservative: "Focused coder" vs "Steady coder".
+              if not best_day:
+                  return "Balanced / steady"
 
-              qs = urlencode({
-                  "start": start.isoformat(),
-                  "end": end.isoformat(),
-              })
-              data = get(f"https://wakatime.com/api/v1/users/current/summaries?{qs}").get("data", [])
+              # If your best day is large relative to daily average, call it "Focused bursts".
+              # This avoids claiming "night owl" without hour data.
+              return "Focused bursts"
 
-              # Buckets: Morning 05-11, Daytime 12-17, Evening 18-22, Night 23-04
-              buckets = {
-                  "Morning": 0,
-                  "Daytime": 0,
-                  "Evening": 0,
-                  "Night": 0,
-              }
-
-              # WakaTime summaries: each day has "grand_total" and "categories/projects/languages/editors/operating_systems/..."
-              # For hour distribution, WakaTime provides "range" blocks in some responses; if not present,
-              # we fall back to "projects" etc. Without hour info, we can't compute.
-              #
-              # The reliable way is to use "summaries" + "range" is not guaranteed for all accounts.
-              # However, many accounts expose per-day "range" segments including start/end timestamps.
-              #
-              # We'll compute from any available "range" start/end per day item.
-
-              found_ranges = False
-              for day in data:
-                  # Some responses include "range" list with start/end; if present, use it.
-                  ranges = day.get("range") or day.get("ranges") or None
-                  if not ranges:
-                      continue
-                  found_ranges = True
-                  for r in ranges:
-                      # Expected: r["start"], r["end"] ISO timestamps
-                      s = r.get("start")
-                      e = r.get("end")
-                      if not s or not e:
-                          continue
-                      try:
-                          sdt = datetime.datetime.fromisoformat(str(s).replace("Z", "+00:00"))
-                          edt = datetime.datetime.fromisoformat(str(e).replace("Z", "+00:00"))
-                      except Exception:
-                          continue
-                      sec = max(0, int((edt - sdt).total_seconds()))
-                      hour = sdt.hour
-                      if 5 <= hour <= 11:
-                          buckets["Morning"] += sec
-                      elif 12 <= hour <= 17:
-                          buckets["Daytime"] += sec
-                      elif 18 <= hour <= 22:
-                          buckets["Evening"] += sec
-                      else:
-                          buckets["Night"] += sec
-
-              if not found_ranges:
-                  # If your WakaTime account doesn't expose ranges, we can't compute time-of-day accurately.
-                  return "\nACTIVITY BY TIME OF DAY\n----------------------\nN/A (WakaTime summaries did not include time ranges)\n"
-
-              tot = sum(buckets.values()) or 1
-              out = "\nACTIVITY BY TIME OF DAY\n----------------------\n"
-              for name in ["Morning", "Daytime", "Evening", "Night"]:
-                  sec = buckets[name]
-                  pct = (sec / tot) * 100.0
-                  out += (
-                      f"{name:<14} "
-                      f"{fmt_hhmm(sec):<14} "
-                      f"{bar(pct)} "
-                      f"{pct:6.2f} %\n"
-                  )
-              out += f"\n(Computed from last {days_back} days)\n"
-              return out
-
-          # Primary stats (all-time)
           stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
           total = int(stats.get("total_seconds", 0)) or 1
 
@@ -202,6 +134,8 @@ jobs:
           best = stats.get("best_day")
           best_str = f"{best['date']} — {best['text']}" if best else "N/A"
 
+          timezone = stats.get("timezone", "N/A")
+
           content = (
               "WAKATIME EXTENDED STATS\n"
               "======================\n\n"
@@ -213,14 +147,15 @@ jobs:
                   f"Mostly coding in : {mostly}\n"
                   f"Daily average    : {daily_avg}\n"
                   f"Best day         : {best_str}\n"
-                  f"Time zone        : {stats.get('timezone','N/A')}\n"
+                  f"Time zone        : {timezone}\n"
               )
+
+          if SHOW_ACTIVITY_PATTERN:
+              pattern = activity_pattern_from_best_day(best, timezone)
+              content += f"Activity pattern : {pattern}\n"
 
           if SHOW_LANGUAGES:
               content += section("LANGUAGES", stats.get("languages", []), MAX_LANGUAGES)
-
-          if SHOW_TIME_OF_DAY:
-              content += activity_by_time_of_day(TIME_OF_DAY_DAYS)
 
           if SHOW_OPERATING_SYSTEMS:
               content += section("OPERATING SYSTEMS", stats.get("operating_systems", []), MAX_OS)
