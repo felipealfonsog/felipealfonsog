@@ -1,4 +1,4 @@
-name: Waka Stats (OS/Editors/LOC)
+name: Waka Stats (OS / Editors / LOC)
 
 on:
   workflow_dispatch:
@@ -15,10 +15,11 @@ permissions:
 jobs:
   update-wakastats:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           SECTION_NAME: wakastats
