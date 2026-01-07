@@ -745,6 +745,7 @@ _______                  /__/
 ```
 -->
 
+<!-- 
 <!--START_SECTION:waka-->
 
 ```rust
@@ -765,6 +766,7 @@ Other                34 hrs 36 mins  ◐○○○○○○○○○○○○○�
 ```
 
 <!--END_SECTION:waka-->
+-->
 
 <!--START_SECTION:wakastats-->
 ```
