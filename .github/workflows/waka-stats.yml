@@ -171,7 +171,7 @@ jobs:
           machines = cleaned(stats.get("machines", []))
           if machines:
               content += "\nMACHINES\n--------\n"
-              for m in machines[:5]:
+              for m in machines[:10]:
                   content += f"{m['name']:<30} {m['text']}\n"
 
           content = f"```\n{content}\n```"
