@@ -676,8 +676,10 @@ https://maintainers.github.com/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css)
 ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 -->
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css)](#)
 [![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)](#)
 
