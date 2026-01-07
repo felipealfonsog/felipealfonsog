@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0-4,10-15,17-22 * * *'
+    - cron: "0 3 * * *"
 
 concurrency:
   group: waka-readme
@@ -14,14 +14,13 @@ permissions:
 
 jobs:
   waka_blocks:
-    name: Waka Blocks (athul)
+    name: Waka Blocks (athul -> waka.md)
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
           SECTION_NAME: waka
           BLOCKS: "○●◔◕◐◕◔◐●◔◐◕"
           TIME_RANGE: all_time
@@ -30,12 +29,11 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
-
           COMMIT_MESSAGE: "Updated WakaTime blocks"
-          TARGET_PATH: README.md
+          TARGET_PATH: waka.md
 
   devmetrics:
-    name: DevMetrics (OS / Editors / LOC)
+    name: DevMetrics (README.md)
     runs-on: ubuntu-latest
     needs: waka_blocks
     steps:
@@ -43,14 +41,11 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
           SECTION_NAME: devmetrics
           TIME_RANGE: all_time
           LANG_COUNT: 20
-
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-
           COMMIT_MESSAGE: "Updated DevMetrics"
