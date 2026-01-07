@@ -116,11 +116,11 @@ jobs:
               # If best day exists, we label based on typical "best day" + timezone presence.
               # We'll keep it conservative: "Focused coder" vs "Steady coder".
               if not best_day:
-                  return "Balanced / steady"
+                  return "Sustained operational tempo"
 
               # If your best day is large relative to daily average, call it "Focused bursts".
               # This avoids claiming "night owl" without hour data.
-              return "Focused bursts"
+              return "High-intensity operational focus
 
           stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
           total = int(stats.get("total_seconds", 0)) or 1
