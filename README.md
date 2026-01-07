@@ -746,7 +746,7 @@ _______                  /__/
 -->
 
 <!-- 
-<!--START_SECTION:waka-->
+START_SECTION:waka
 
 ```rust
 From: 04 December 2023 - To: 07 January 2026
@@ -765,7 +765,7 @@ INI                  35 hrs 42 mins  ◐○○○○○○○○○○○○○�
 Other                34 hrs 36 mins  ◐○○○○○○○○○○○○○○○○○○○○○○○○   03.51 %
 ```
 
-<!--END_SECTION:waka-->
+END_SECTION:waka
 -->
 
 <!--START_SECTION:wakastats-->
