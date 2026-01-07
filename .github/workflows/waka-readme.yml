@@ -8,7 +8,7 @@ on:
 
 jobs:
   waka_blocks:
-    name: WakaReadme Blocks
+    name: Waka Blocks (athul)
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -30,8 +30,31 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
 
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          COMMIT_MESSAGE: Updated waka blocks
           TARGET_BRANCH: main
           TARGET_PATH: README.md
           AUTHOR_NAME: Felipe
           AUTHOR_EMAIL: f.alfonso@res-ear.ch
+
+  devmetrics:
+    name: DevMetrics (OS / Editors / LOC)
+    runs-on: ubuntu-latest
+    needs: waka_blocks
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # otra sección (NO "waka") para no pisar la barra
+          SECTION_NAME: devmetrics
+
+          TIME_RANGE: all_time
+          LANG_COUNT: 20
+
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+
+          COMMIT_MESSAGE: Updated devmetrics
