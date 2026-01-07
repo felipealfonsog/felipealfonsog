@@ -1,34 +1,70 @@
-name: Waka Stats (OS / Editors / LOC)
+name: Waka Stats (from WakaTime)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '1 0-4,10-15,17-22 * * *'
-
-concurrency:
-  group: waka-stats
-  cancel-in-progress: true
+    - cron: '0 0-4,10-15,17-22 * * *'
 
 permissions:
   contents: write
 
 jobs:
-  update-wakastats:
+  wakastats:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}          # <-- TU PAT (importante)
+      - uses: actions/checkout@v4
+
+      - name: Update wakastats from WakaTime
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          python3 << 'EOF'
+          import base64, json, re, urllib.request, os
 
-          SECTION_NAME: wakastats
+          API_KEY = os.environ["WAKATIME_API_KEY"]
+          auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
 
-          SHOW_OS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
+          def get(url):
+            req = urllib.request.Request(
+              url,
+              headers={"Authorization": f"Basic {auth}"}
+            )
+            with urllib.request.urlopen(req) as r:
+              return json.load(r)
 
-          SHOW_UPDATED_DATE: "True"
-          COMMIT_MESSAGE: "Updated Waka stats (OS/Editors/LOC)"
-          DEBUG_LOGGING: "True"
+          stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
+
+          def section(title, items):
+            out = f"### {title}\n"
+            for i in items[:5]:
+              out += f"- **{i['name']}** — {i['text']}\n"
+            return out + "\n"
+
+          content = (
+            "## WakaTime Stats\n\n"
+            + f"**Total Time:** {stats.get('human_readable_total', '')}\n\n"
+            + section("Operating Systems", stats.get("operating_systems", []))
+            + section("Editors", stats.get("editors", []))
+          )
+
+          with open("README.md", "r", encoding="utf-8") as f:
+            readme = f.read()
+
+          new = re.sub(
+            r"<!--START_SECTION:wakastats-->.*?<!--END_SECTION:wakastats-->",
+            f"<!--START_SECTION:wakastats-->\n{content}\n<!--END_SECTION:wakastats-->",
+            readme,
+            flags=re.S
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+            f.write(new)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update wakastats from WakaTime" || exit 0
+          git push
