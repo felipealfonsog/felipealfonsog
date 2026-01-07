@@ -3,7 +3,7 @@ name: Waka Stats (CLI style)
 on:
   workflow_dispatch:
   schedule:
-    # shifted minute to avoid colliding with your other waka workflow
+    # shifted minute so it does NOT collide with your other waka workflow
     - cron: '7 0-4,10-15,17-22 * * *'
 
 permissions:
@@ -33,13 +33,14 @@ jobs:
           BAR_LEN = 26
 
           # ===== SECTION TOGGLES =====
-          SHOW_HEADER_INFO        = True   # Total time, mostly, daily avg, best day, tz, from-to
-          SHOW_LANGUAGES          = True
-          SHOW_OPERATING_SYSTEMS  = True
-          SHOW_EDITORS            = True
-          SHOW_PROJECTS           = True
-          SHOW_CATEGORIES         = True
-          SHOW_MACHINES           = True
+          SHOW_HEADER_INFO       = True
+          SHOW_LANGUAGES         = True
+          SHOW_OPERATING_SYSTEMS = True
+          SHOW_EDITORS           = True
+          SHOW_PROJECTS          = True
+          SHOW_CATEGORIES        = True
+          SHOW_MACHINES          = True
+          SHOW_TIME_OF_DAY       = True   # <— THIS ONE
 
           # ===== LIMITS =====
           MAX_LANGUAGES  = 10
@@ -82,23 +83,6 @@ jobs:
                   return f"{m} mins"
               return f"{h} hrs {m} mins"
 
-          def try_parse_date(s):
-              if not s:
-                  return None
-              s = str(s)
-              try:
-                  d = datetime.datetime.fromisoformat(s.replace("Z", "+00:00")).date()
-                  return d
-              except Exception:
-                  pass
-              try:
-                  return datetime.date.fromisoformat(s[:10])
-              except Exception:
-                  return None
-
-          def pretty_date(d):
-              return d.strftime("%d %B %Y")
-
           def cleaned(items):
               if not items:
                   return []
@@ -110,16 +94,15 @@ jobs:
                   out.append(i)
               return out
 
-          def section(title, items, limit=8, denom_seconds=None):
+          def section(title, items, limit=8, denom=None):
               items = cleaned(items)
               if not items:
                   return ""
-              denom = int(denom_seconds if denom_seconds is not None else total) or 1
-
+              base = int(denom if denom is not None else total) or 1
               out = f"\n{title}\n" + "-" * len(title) + "\n"
               for i in items[:limit]:
-                  pct = (i["total_seconds"] / denom) * 100.0
-                  pct_show = clamp(pct, 0.0, 100.0)
+                  pct = (i["total_seconds"] / base) * 100.0
+                  pct_show = clamp(pct)
                   out += (
                       f"{i['name']:<14} "
                       f"{i['text']:<14} "
@@ -128,31 +111,48 @@ jobs:
                   )
               return out
 
+          def time_of_day(stats):
+              hours = stats.get("hours")
+              if not hours:
+                  return ""
+
+              buckets = {
+                  "Morning":   {"range": range(5, 12),  "sec": 0},
+                  "Daytime":   {"range": range(12, 18), "sec": 0},
+                  "Evening":   {"range": range(18, 23), "sec": 0},
+                  "Night":     {"range": list(range(0, 5)) + [23], "sec": 0},
+              }
+
+              for h in hours:
+                  for b in buckets.values():
+                      if h["hour"] in b["range"]:
+                          b["sec"] += h["total_seconds"]
+                          break
+
+              tot = sum(b["sec"] for b in buckets.values()) or 1
+
+              out = "\nACTIVITY BY TIME OF DAY\n----------------------\n"
+              for name, b in buckets.items():
+                  pct = (b["sec"] / tot) * 100.0
+                  out += (
+                      f"{name:<14} "
+                      f"{fmt_hhmm(b['sec']):<14} "
+                      f"{bar(pct)} "
+                      f"{pct:6.2f} %\n"
+                  )
+              return out
+
           stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
           total = int(stats.get("total_seconds", 0)) or 1
-
-          # Date range (best-effort)
-          start_raw = stats.get("start") or stats.get("from") or (stats.get("range") or {}).get("start") or (stats.get("range") or {}).get("from")
-          end_raw   = stats.get("end")   or stats.get("to")   or (stats.get("range") or {}).get("end")   or (stats.get("range") or {}).get("to")
-
-          start_d = try_parse_date(start_raw)
-          end_d   = try_parse_date(end_raw) or datetime.date.today()
-
-          if start_d and end_d:
-              range_line = f"From: {pretty_date(start_d)} - To: {pretty_date(end_d)}"
-          else:
-              range_line = "From: N/A - To: N/A"
 
           languages = cleaned(stats.get("languages", []))
           mostly = languages[0]["name"] if languages else "N/A"
 
           days = int(stats.get("days", 1)) or 1
-          daily_avg = fmt_hhmm(int(total / days))
+          daily_avg = fmt_hhmm(total / days)
 
           best = stats.get("best_day")
           best_str = f"{best['date']} — {best['text']}" if best else "N/A"
-
-          timezone = stats.get("timezone", "N/A")
 
           content = (
               "WAKATIME EXTENDED STATS\n"
@@ -161,29 +161,30 @@ jobs:
 
           if SHOW_HEADER_INFO:
               content += (
-                  f"{range_line}\n\n"
-                  f"Total Time       : {stats.get('human_readable_total', 'N/A')}\n"
+                  f"Total Time       : {stats.get('human_readable_total','N/A')}\n"
                   f"Mostly coding in : {mostly}\n"
                   f"Daily average    : {daily_avg}\n"
                   f"Best day         : {best_str}\n"
-                  f"Time zone        : {timezone}\n"
+                  f"Time zone        : {stats.get('timezone','N/A')}\n"
               )
 
           if SHOW_LANGUAGES:
-              content += section("LANGUAGES", stats.get("languages", []), limit=MAX_LANGUAGES)
+              content += section("LANGUAGES", stats.get("languages", []), MAX_LANGUAGES)
+
+          if SHOW_TIME_OF_DAY:
+              content += time_of_day(stats)
 
           if SHOW_OPERATING_SYSTEMS:
-              content += section("OPERATING SYSTEMS", stats.get("operating_systems", []), limit=MAX_OS)
+              content += section("OPERATING SYSTEMS", stats.get("operating_systems", []), MAX_OS)
 
           if SHOW_EDITORS:
-              content += section("EDITORS", stats.get("editors", []), limit=MAX_EDITORS)
+              content += section("EDITORS", stats.get("editors", []), MAX_EDITORS)
 
           if SHOW_PROJECTS:
-              content += section("PROJECTS", stats.get("projects", []), limit=MAX_PROJECTS)
+              content += section("PROJECTS", stats.get("projects", []), MAX_PROJECTS)
 
           if SHOW_CATEGORIES:
-              # categories sometimes don’t sum perfectly; we still clamp display
-              content += section("CATEGORIES", stats.get("categories", []), limit=MAX_CATEGORIES)
+              content += section("CATEGORIES", stats.get("categories", []), MAX_CATEGORIES)
 
           machines = cleaned(stats.get("machines", []))
           if SHOW_MACHINES and machines:
@@ -191,7 +192,6 @@ jobs:
               for m in machines[:MAX_MACHINES]:
                   content += f"{m['name']:<30} {m['text']}\n"
 
-          # Render as a single code block for stable alignment
           content = f"```\n{content}\n```"
 
           with open("README.md", "r", encoding="utf-8") as f:
