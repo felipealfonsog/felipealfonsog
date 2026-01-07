@@ -23,10 +23,13 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           SECTION_NAME: wakastats
-          TIME_RANGE: all_time
-          LANG_COUNT: 20
 
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
+
+          # opcional, pero útil para ver que corrió
+          SHOW_UPDATED_DATE: "True"
+          COMMIT_MESSAGE: "Updated Waka stats (OS/Editors/LOC)"
+          DEBUG_LOGGING: "True"
