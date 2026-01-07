@@ -767,6 +767,22 @@ Other                34 hrs 36 mins  ◐○○○○○○○○○○○○○�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakastats-->
+## WakaTime Stats
+
+**Total Time:** 951 hrs 14 mins
+
+### Operating Systems
+- **Linux** — 521 hrs 56 mins
+- **Mac** — 463 hrs 53 mins
+
+### Editors
+- **VS Code** — 650 hrs 32 mins
+- **Vim** — 321 hrs 7 mins
+- **TeXstudio** — 11 hrs 36 mins
+- **Unknown Editor** — 1 hr 49 mins
+- **Textmate** — 44 mins
+
+
 <!--END_SECTION:wakastats-->
 
 
