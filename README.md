@@ -766,8 +766,8 @@ Other                34 hrs 36 mins  ◐○○○○○○○○○○○○○�
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:devmetrics-->
-<!--END_SECTION:devmetrics-->
+<!--START_SECTION:wakastats-->
+<!--END_SECTION:wakastats-->
 
 
 
