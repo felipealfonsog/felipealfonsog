@@ -120,7 +120,7 @@ jobs:
 
               # If your best day is large relative to daily average, call it "Focused bursts".
               # This avoids claiming "night owl" without hour data.
-              return "High-intensity operational focus
+              return "High-intensity operational focus"
 
           stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
           total = int(stats.get("total_seconds", 0)) or 1
