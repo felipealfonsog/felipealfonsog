@@ -3,7 +3,7 @@ name: Waka Stats (OS/Editors/LOC)
 on:
   workflow_dispatch:
   schedule:
-    - cron: '13 * * * *'
+    - cron: '1 0-4,10-15,17-22 * * *'
 
 concurrency:
   group: waka-stats
