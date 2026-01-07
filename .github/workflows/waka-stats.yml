@@ -3,7 +3,8 @@ name: Waka Stats (CLI style)
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0-4,10-15,17-22 * * *'
+    # shifted minute to avoid colliding with your other waka workflow
+    - cron: '7 0-4,10-15,17-22 * * *'
 
 permissions:
   contents: write
@@ -25,14 +26,18 @@ jobs:
           API_KEY = os.environ["WAKATIME_API_KEY"]
           auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
 
-          # Your style blocks (same vibe as the languages block)
-          BLOCKS = "○●◔◕◐◕◔◐●◔◐◕"
+          # Your style blocks (similar vibe to the languages widget)
           EMPTY = "○"
-          FULL = "●"
-          HALF = "◔"
-          BAR_LEN = 26  # similar density to waka languages output
+          FULL  = "●"
+          HALF  = "◔"
+          BAR_LEN = 26
 
-          # Hide noisy labels that make it look bad
+          # Optional: show/hide programming languages section
+          SHOW_LANGUAGES = True
+          # If you want to hide it anytime, just comment the line above and uncomment this:
+          # SHOW_LANGUAGES = False
+
+          # Hide noisy labels (optional)
           HIDE_UNKNOWN = True
           UNKNOWN_NAMES = {"Unknown Project", "Unknown Editor", "Unknown"}
 
@@ -48,7 +53,6 @@ jobs:
               return max(lo, min(hi, x))
 
           def bar(pct):
-              # create a bar with FULL/HALF/EMPTY, like waka-readme style
               pct = clamp(pct, 0.0, 100.0)
               units = (pct / 100.0) * BAR_LEN
               full = int(units)
@@ -66,31 +70,60 @@ jobs:
                   return f"{m} mins"
               return f"{h} hrs {m} mins"
 
+          def try_parse_date(s):
+              if not s:
+                  return None
+              # Accept "YYYY-MM-DD" or ISO strings; keep date portion.
+              s = str(s)
+              try:
+                  d = datetime.datetime.fromisoformat(s.replace("Z", "+00:00")).date()
+              except Exception:
+                  try:
+                      d = datetime.date.fromisoformat(s[:10])
+                  except Exception:
+                      return None
+              return d
+
+          def pretty_date(d):
+              return d.strftime("%d %B %Y")
+
           stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
-          total = int(stats.get("total_seconds", 0)) or 1  # avoid div/0
+          total = int(stats.get("total_seconds", 0)) or 1
+
+          # Date range (best-effort from WakaTime response)
+          start_raw = stats.get("start") or stats.get("from") or stats.get("range", {}).get("start") or stats.get("range", {}).get("from")
+          end_raw   = stats.get("end")   or stats.get("to")   or stats.get("range", {}).get("end")   or stats.get("range", {}).get("to")
+
+          start_d = try_parse_date(start_raw)
+          end_d   = try_parse_date(end_raw) or datetime.date.today()
+
+          if start_d and end_d:
+              range_line = f"From: {pretty_date(start_d)} - To: {pretty_date(end_d)}"
+          else:
+              range_line = "From: N/A - To: N/A"
 
           def cleaned(items):
               if not items:
                   return []
               out = []
               for i in items:
-                  name = i.get("name", "").strip()
+                  name = (i.get("name") or "").strip()
                   if HIDE_UNKNOWN and (name in UNKNOWN_NAMES or name.startswith("Unknown ")):
                       continue
                   out.append(i)
               return out
 
-          def section(title, items, limit=5):
+          def section(title, items, limit=8, base_total=None):
               items = cleaned(items)
               if not items:
                   return ""
+              denom = base_total if base_total is not None else total
+              denom = int(denom) or 1
+
               out = f"\n{title}\n" + "-" * len(title) + "\n"
               for i in items[:limit]:
-                  pct = (i["total_seconds"] / total) * 100.0
-
-                  # Percent over 100 looks awful; clamp it visually and numerically
+                  pct = (i["total_seconds"] / denom) * 100.0
                   pct_show = clamp(pct, 0.0, 100.0)
-
                   out += (
                       f"{i['name']:<14} "
                       f"{i['text']:<14} "
@@ -102,7 +135,6 @@ jobs:
           languages = cleaned(stats.get("languages", []))
           mostly = languages[0]["name"] if languages else "N/A"
 
-          # Daily average (nice format, not "39 days, ...")
           days = int(stats.get("days", 1)) or 1
           daily_avg_seconds = int(total / days)
           daily_avg = fmt_hhmm(daily_avg_seconds)
@@ -115,16 +147,26 @@ jobs:
           content = (
               "WAKATIME EXTENDED STATS\n"
               "======================\n\n"
+              f"{range_line}\n\n"
               f"Total Time       : {stats.get('human_readable_total', 'N/A')}\n"
               f"Mostly coding in : {mostly}\n"
               f"Daily average    : {daily_avg}\n"
               f"Best day         : {best_str}\n"
               f"Time zone        : {timezone}\n"
-              + section("OPERATING SYSTEMS", stats.get("operating_systems", []), limit=5)
+          )
+
+          # Optional Languages section (toggle with SHOW_LANGUAGES)
+          if SHOW_LANGUAGES:
+              content += section("LANGUAGES", stats.get("languages", []), limit=10)
+
+          content += (
+              section("OPERATING SYSTEMS", stats.get("operating_systems", []), limit=6)
               + section("EDITORS", stats.get("editors", []), limit=8)
               + section("PROJECTS", stats.get("projects", []), limit=8)
-              + section("CATEGORIES", stats.get("categories", []), limit=6)
           )
+
+          # Categories in WakaTime sometimes don't sum cleanly; use total as denominator but clamp display.
+          content += section("CATEGORIES", stats.get("categories", []), limit=8)
 
           machines = cleaned(stats.get("machines", []))
           if machines:
@@ -132,7 +174,6 @@ jobs:
               for m in machines[:5]:
                   content += f"{m['name']:<30} {m['text']}\n"
 
-          # Render as code block so spacing matches the languages widget vibe
           content = f"```\n{content}\n```"
 
           with open("README.md", "r", encoding="utf-8") as f:
