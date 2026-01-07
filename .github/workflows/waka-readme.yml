@@ -8,19 +8,17 @@ on:
 
 jobs:
   waka_blocks:
-    name: WakaReadme Blocks (athul)
+    name: WakaReadme Blocks
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          ### meta
           API_BASE_URL: https://wakatime.com/api
           REPOSITORY: felipealfonsog/felipealfonsog
 
-          ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: "○●◔◕◐◕◔◐●◔◐◕"
@@ -32,33 +30,8 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
 
-          ### commit
-          COMMIT_MESSAGE: Updated waka blocks
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
           TARGET_PATH: README.md
           AUTHOR_NAME: Felipe
           AUTHOR_EMAIL: f.alfonso@res-ear.ch
-
-  devmetrics:
-    name: DevMetrics (anmol098)
-    runs-on: ubuntu-latest
-    needs: waka_blocks
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          # IMPORTANTE: otra sección distinta para no pisar la de athul
-          SECTION_NAME: devmetrics
-
-          # lo que quieres "como el otro usuario"
-          TIME_RANGE: all_time
-          LANG_COUNT: 20
-          SHOW_OS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-
-          # commit
-          COMMIT_MESSAGE: Updated dev metrics
