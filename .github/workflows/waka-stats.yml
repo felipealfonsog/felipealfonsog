@@ -26,18 +26,30 @@ jobs:
           API_KEY = os.environ["WAKATIME_API_KEY"]
           auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
 
-          # Your style blocks (similar vibe to the languages widget)
+          # ===== LOOK & FEEL =====
           EMPTY = "○"
           FULL  = "●"
           HALF  = "◔"
           BAR_LEN = 26
 
-          # Optional: show/hide programming languages section
-          SHOW_LANGUAGES = True
-          # If you want to hide it anytime, just comment the line above and uncomment this:
-          # SHOW_LANGUAGES = False
+          # ===== SECTION TOGGLES =====
+          SHOW_HEADER_INFO        = True   # Total time, mostly, daily avg, best day, tz, from-to
+          SHOW_LANGUAGES          = True
+          SHOW_OPERATING_SYSTEMS  = True
+          SHOW_EDITORS            = True
+          SHOW_PROJECTS           = True
+          SHOW_CATEGORIES         = True
+          SHOW_MACHINES           = True
 
-          # Hide noisy labels (optional)
+          # ===== LIMITS =====
+          MAX_LANGUAGES  = 10
+          MAX_OS         = 6
+          MAX_EDITORS    = 8
+          MAX_PROJECTS   = 8
+          MAX_CATEGORIES = 8
+          MAX_MACHINES   = 12
+
+          # ===== CLEANUP =====
           HIDE_UNKNOWN = True
           UNKNOWN_NAMES = {"Unknown Project", "Unknown Editor", "Unknown"}
 
@@ -73,34 +85,19 @@ jobs:
           def try_parse_date(s):
               if not s:
                   return None
-              # Accept "YYYY-MM-DD" or ISO strings; keep date portion.
               s = str(s)
               try:
                   d = datetime.datetime.fromisoformat(s.replace("Z", "+00:00")).date()
+                  return d
               except Exception:
-                  try:
-                      d = datetime.date.fromisoformat(s[:10])
-                  except Exception:
-                      return None
-              return d
+                  pass
+              try:
+                  return datetime.date.fromisoformat(s[:10])
+              except Exception:
+                  return None
 
           def pretty_date(d):
               return d.strftime("%d %B %Y")
-
-          stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
-          total = int(stats.get("total_seconds", 0)) or 1
-
-          # Date range (best-effort from WakaTime response)
-          start_raw = stats.get("start") or stats.get("from") or stats.get("range", {}).get("start") or stats.get("range", {}).get("from")
-          end_raw   = stats.get("end")   or stats.get("to")   or stats.get("range", {}).get("end")   or stats.get("range", {}).get("to")
-
-          start_d = try_parse_date(start_raw)
-          end_d   = try_parse_date(end_raw) or datetime.date.today()
-
-          if start_d and end_d:
-              range_line = f"From: {pretty_date(start_d)} - To: {pretty_date(end_d)}"
-          else:
-              range_line = "From: N/A - To: N/A"
 
           def cleaned(items):
               if not items:
@@ -113,12 +110,11 @@ jobs:
                   out.append(i)
               return out
 
-          def section(title, items, limit=8, base_total=None):
+          def section(title, items, limit=8, denom_seconds=None):
               items = cleaned(items)
               if not items:
                   return ""
-              denom = base_total if base_total is not None else total
-              denom = int(denom) or 1
+              denom = int(denom_seconds if denom_seconds is not None else total) or 1
 
               out = f"\n{title}\n" + "-" * len(title) + "\n"
               for i in items[:limit]:
@@ -132,12 +128,26 @@ jobs:
                   )
               return out
 
+          stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
+          total = int(stats.get("total_seconds", 0)) or 1
+
+          # Date range (best-effort)
+          start_raw = stats.get("start") or stats.get("from") or (stats.get("range") or {}).get("start") or (stats.get("range") or {}).get("from")
+          end_raw   = stats.get("end")   or stats.get("to")   or (stats.get("range") or {}).get("end")   or (stats.get("range") or {}).get("to")
+
+          start_d = try_parse_date(start_raw)
+          end_d   = try_parse_date(end_raw) or datetime.date.today()
+
+          if start_d and end_d:
+              range_line = f"From: {pretty_date(start_d)} - To: {pretty_date(end_d)}"
+          else:
+              range_line = "From: N/A - To: N/A"
+
           languages = cleaned(stats.get("languages", []))
           mostly = languages[0]["name"] if languages else "N/A"
 
           days = int(stats.get("days", 1)) or 1
-          daily_avg_seconds = int(total / days)
-          daily_avg = fmt_hhmm(daily_avg_seconds)
+          daily_avg = fmt_hhmm(int(total / days))
 
           best = stats.get("best_day")
           best_str = f"{best['date']} — {best['text']}" if best else "N/A"
@@ -147,33 +157,41 @@ jobs:
           content = (
               "WAKATIME EXTENDED STATS\n"
               "======================\n\n"
-              f"{range_line}\n\n"
-              f"Total Time       : {stats.get('human_readable_total', 'N/A')}\n"
-              f"Mostly coding in : {mostly}\n"
-              f"Daily average    : {daily_avg}\n"
-              f"Best day         : {best_str}\n"
-              f"Time zone        : {timezone}\n"
           )
 
-          # Optional Languages section (toggle with SHOW_LANGUAGES)
+          if SHOW_HEADER_INFO:
+              content += (
+                  f"{range_line}\n\n"
+                  f"Total Time       : {stats.get('human_readable_total', 'N/A')}\n"
+                  f"Mostly coding in : {mostly}\n"
+                  f"Daily average    : {daily_avg}\n"
+                  f"Best day         : {best_str}\n"
+                  f"Time zone        : {timezone}\n"
+              )
+
           if SHOW_LANGUAGES:
-              content += section("LANGUAGES", stats.get("languages", []), limit=10)
+              content += section("LANGUAGES", stats.get("languages", []), limit=MAX_LANGUAGES)
 
-          content += (
-              section("OPERATING SYSTEMS", stats.get("operating_systems", []), limit=6)
-              + section("EDITORS", stats.get("editors", []), limit=8)
-              + section("PROJECTS", stats.get("projects", []), limit=8)
-          )
+          if SHOW_OPERATING_SYSTEMS:
+              content += section("OPERATING SYSTEMS", stats.get("operating_systems", []), limit=MAX_OS)
 
-          # Categories in WakaTime sometimes don't sum cleanly; use total as denominator but clamp display.
-          content += section("CATEGORIES", stats.get("categories", []), limit=8)
+          if SHOW_EDITORS:
+              content += section("EDITORS", stats.get("editors", []), limit=MAX_EDITORS)
+
+          if SHOW_PROJECTS:
+              content += section("PROJECTS", stats.get("projects", []), limit=MAX_PROJECTS)
+
+          if SHOW_CATEGORIES:
+              # categories sometimes don’t sum perfectly; we still clamp display
+              content += section("CATEGORIES", stats.get("categories", []), limit=MAX_CATEGORIES)
 
           machines = cleaned(stats.get("machines", []))
-          if machines:
+          if SHOW_MACHINES and machines:
               content += "\nMACHINES\n--------\n"
-              for m in machines[:10]:
+              for m in machines[:MAX_MACHINES]:
                   content += f"{m['name']:<30} {m['text']}\n"
 
+          # Render as a single code block for stable alignment
           content = f"```\n{content}\n```"
 
           with open("README.md", "r", encoding="utf-8") as f:
