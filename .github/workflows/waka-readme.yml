@@ -58,7 +58,7 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           #SHOW_PROFILE_VIEWS: "False"
           #SHOW_COMMIT: "False"
-          SHOW_EDITORS: "True"
+          SHOW_EDITORS: True
           #SHOW_DAYS_OF_WEEK: "False"
           #SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
