@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 51.195.94.194  
-**Pulse**: Phishing actors exploiting complex routing scenarios and misconfigured spoof protections  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/695e44c8ede0dcfd2022e96f)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 35f81d066028f5e69508956bed79d3ee  
+**Pulse**: CastleLoader Activity Clusters Target Multiple Industries  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6937b6169bd435b2e3a0787e)
 
-<sub>_Last updated: 2026-01-07 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-08 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
