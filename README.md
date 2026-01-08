@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 35f81d066028f5e69508956bed79d3ee  
-**Pulse**: CastleLoader Activity Clusters Target Multiple Industries  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6937b6169bd435b2e3a0787e)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-1610  
+**Pulse**: Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69381affff384c7c0e973a8e)
 
-<sub>_Last updated: 2026-01-08 06:03 UTC_</sub>
+<sub>_Last updated: 2026-01-08 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
