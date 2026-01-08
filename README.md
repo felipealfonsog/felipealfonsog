@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-1610  
-**Pulse**: Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69381affff384c7c0e973a8e)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 4a963519b4950845a8d76668d4d7dd29  
+**Pulse**: Targets high value telecommunications infrastructure in South Asia  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/695fdbbb0807269153b514aa)
 
-<sub>_Last updated: 2026-01-08 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-08 18:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
