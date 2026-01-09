@@ -94,8 +94,8 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <!-- FINAL BADGES BELOW THE DONATION BADGE -->
 
-[<img src="https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=20" height="19"/>](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/Repository_Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#projects)
-[<img src="https://img.shields.io/badge/All_Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog) [<img src="https://img.shields.io/badge/WakaTime_Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime) 
+[<img src="https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=20" height="19"/>](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/WakaTime_Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime) [<img src="https://img.shields.io/badge/Repository_Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#projects)
+[<img src="https://img.shields.io/badge/All_Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog) 
 [<img src="https://img.shields.io/badge/GitLab_Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog)
 
 
