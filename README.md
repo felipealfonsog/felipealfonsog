@@ -773,55 +773,60 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 08 January 2026
+From: 04 December 2023 - To: 09 January 2026
 
-Total Time       : 951 hrs 14 mins
+Total Time       : 951 hrs 39 mins
 Mostly coding in : Bash
-Daily average    : 951 hrs 14 mins
+Daily average    : 951 hrs 39 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
-Last updated     : 09/01/2026 03:41:31 UTC
+Last updated     : 09/01/2026 04:25:42 UTC
 
 LANGUAGES
 ---------
-Bash           161 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
-Python         133 hrs 25 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.03 %
-HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.18 %
+Bash           161 hrs 53 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
+Python         133 hrs 46 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.06 %
+HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
 PHP            107 hrs 41 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.32 %
 Markdown       77 hrs 10 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.11 %
-C              73 hrs 29 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.73 %
+C              73 hrs 29 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.72 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.20 %
 Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.99 %
+Other          36 hrs         ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.78 %
 INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
-Other          34 hrs 36 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.64 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          521 hrs 56 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.87 %
-Mac            463 hrs 53 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.77 %
+Linux          521 hrs 56 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.85 %
+Mac            465 hrs 43 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.94 %
 
 EDITORS
 -------
-VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.39 %
-Vim            321 hrs 7 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.76 %
+VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.36 %
+Vim            321 hrs 11 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.75 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.22 %
+Firefox        1 hr 27 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.15 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+Antigravity    14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
+TextMate       1 min          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
+Dia            0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 PROJECTS
 --------
-gnlz.cl        135 hrs 32 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.25 %
+gnlz.cl        135 hrs 32 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.24 %
 NovaNav        94 hrs 51 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○   9.97 %
 OptiCPU        47 hrs 23 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.98 %
 GitSyncMaster  38 hrs 10 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.01 %
-nymex-data.com 31 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.31 %
-Upd8All        31 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.27 %
+nymex-data.com 31 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.30 %
+Upd8All        31 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.26 %
 Development    26 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.83 %
-TermPDFViewer  25 hrs 17 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.66 %
+TermPDFViewer  26 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.74 %
 
 CATEGORIES
 ----------
-Coding         985 hrs 14 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Coding         985 hrs 36 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       1 hr 27 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.15 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
@@ -835,7 +840,7 @@ LAION-C5-B7                    76 hrs 7 mins
 freeshell.de                   48 hrs 17 mins
 SDFCSC                         33 hrs 2 mins
 LAION-SETI-4B                  27 hrs 51 mins
-Felipes-MacBook-Air-Silicon.local 23 hrs 6 mins
+Felipes-MacBook-Air-Silicon.local 23 hrs 28 mins
 SETICSC                        14 hrs 5 mins
 LAION-5B                       13 hrs 35 mins
 ORGANA                         9 hrs 26 mins
