@@ -46,7 +46,7 @@ jobs:
           # ===== LIMITS =====
           MAX_LANGUAGES  = 10
           MAX_OS         = 6
-          MAX_EDITORS    = 8
+          MAX_EDITORS    = 12
           MAX_PROJECTS   = 8
           MAX_CATEGORIES = 8
           MAX_MACHINES   = 12
