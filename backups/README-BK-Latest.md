@@ -94,8 +94,8 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <!-- FINAL BADGES BELOW THE DONATION BADGE -->
 
-[<img src="https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=20" height="19"/>](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/Repository_Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#projects)
-[<img src="https://img.shields.io/badge/All_Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog)
+[<img src="https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=20" height="19"/>](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/WakaTime_Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime) [<img src="https://img.shields.io/badge/Repository_Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#projects)
+[<img src="https://img.shields.io/badge/All_Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog) 
 [<img src="https://img.shields.io/badge/GitLab_Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog)
 
 
@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 4a963519b4950845a8d76668d4d7dd29  
+**Pulse**: Targets high value telecommunications infrastructure in South Asia  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/695fdbbb0807269153b514aa)
 
-<sub>_Last updated: 2026-01-07 06:07 UTC_</sub>
+<sub>_Last updated: 2026-01-09 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -732,7 +732,7 @@ _______                  /__/
 
 
 <details open>
-<summary>:star2: <strong> Wakatime</strong>*</summary>
+<summary id="wakatime">:star2: <strong> Wakatime</strong>*</summary>
 <br>
   
 [![Waka Readme](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-readme.yml/badge.svg)](#)
@@ -773,13 +773,15 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 07 January 2026
+From: 04 December 2023 - To: 08 January 2026
 
 Total Time       : 951 hrs 14 mins
 Mostly coding in : Bash
 Daily average    : 951 hrs 14 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
+Activity pattern : High-intensity operational focus
+Last updated     : 09/01/2026 03:41:31 UTC
 
 LANGUAGES
 ---------
@@ -835,6 +837,8 @@ SDFCSC                         33 hrs 2 mins
 LAION-SETI-4B                  27 hrs 51 mins
 Felipes-MacBook-Air-Silicon.local 23 hrs 6 mins
 SETICSC                        14 hrs 5 mins
+LAION-5B                       13 hrs 35 mins
+ORGANA                         9 hrs 26 mins
 
 ```
 <!--END_SECTION:wakastats-->
