@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 4a963519b4950845a8d76668d4d7dd29  
-**Pulse**: Targets high value telecommunications infrastructure in South Asia  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/695fdbbb0807269153b514aa)
+**Threat Type**: Ipv4  
+**Indicator**: 154.213.190.46  
+**Pulse**: CNCERT: Risk Warning Regarding the "Black Cat" Gang's Use of Search Engines to Spread Counterfeit Notepad++ Download Remote Control Backdoors  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6960d767ed2466fdb23d97e5)
 
-<sub>_Last updated: 2026-01-09 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-09 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
