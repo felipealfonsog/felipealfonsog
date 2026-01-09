@@ -188,7 +188,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Targets high value telecommunications infrastructure in South Asia  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/695fdbbb0807269153b514aa)
 
-<sub>_Last updated: 2026-01-09 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-09 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
