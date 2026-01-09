@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     # shifted minute to avoid colliding with your other waka workflow
-    - cron: '7 0-4,10-15,17-22 * * *'
+    # - cron: '7 0-4,10-15,17-22 * * *'
+    - cron: '0 0-4,10-15,17-22 * * *'
 
 permissions:
   contents: write
