@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 154.213.190.46  
-**Pulse**: CNCERT: Risk Warning Regarding the "Black Cat" Gang's Use of Search Engines to Spread Counterfeit Notepad++ Download Remote Control Backdoors  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6960d767ed2466fdb23d97e5)
+**Threat Type**: Filehash-Sha1  
+**Indicator**: d73593469375120d2bdb403383777f2737bc2018  
+**Pulse**: Russian Ruse: ValleyRAT Hits China via Fake Microsoft Teams Attack  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6939ac62e469d4f7f250be99)
 
-<sub>_Last updated: 2026-01-09 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-09 18:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
