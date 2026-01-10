@@ -188,7 +188,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Russian Ruse: ValleyRAT Hits China via Fake Microsoft Teams Attack  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6939ac62e469d4f7f250be99)
 
-<sub>_Last updated: 2026-01-10 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-10 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
