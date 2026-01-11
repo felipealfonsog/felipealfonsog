@@ -188,7 +188,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: React2Shell flaw (CVE-2025-55182) exploited for remote code execution  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/693be9ca213493972d3e5f74)
 
-<sub>_Last updated: 2026-01-11 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-11 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
