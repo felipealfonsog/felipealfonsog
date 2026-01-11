@@ -184,11 +184,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Cve  
-**Indicator**: CVE-2025-11371  
-**Pulse**: Active Exploitation of Gladinet CentreStack/Triofox Insecure Cryptography Vulnerability  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/693b0c9eae498906e8b90755)
+**Indicator**: CVE-2025-55182  
+**Pulse**: React2Shell flaw (CVE-2025-55182) exploited for remote code execution  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/693be9ca213493972d3e5f74)
 
-<sub>_Last updated: 2026-01-11 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-11 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
