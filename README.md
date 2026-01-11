@@ -188,7 +188,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Active Exploitation of Gladinet CentreStack/Triofox Insecure Cryptography Vulnerability  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/693b0c9eae498906e8b90755)
 
-<sub>_Last updated: 2026-01-11 00:08 UTC_</sub>
+<sub>_Last updated: 2026-01-11 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
