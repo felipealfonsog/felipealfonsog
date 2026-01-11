@@ -184,11 +184,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Cve  
-**Indicator**: CVE-2025-55182  
-**Pulse**: It didn’t take long: CVE-2025-55182 is now under active exploitation  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/693ae06402fe5f1d81a2b7c3)
+**Indicator**: CVE-2025-11371  
+**Pulse**: Active Exploitation of Gladinet CentreStack/Triofox Insecure Cryptography Vulnerability  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/693b0c9eae498906e8b90755)
 
-<sub>_Last updated: 2026-01-10 18:02 UTC_</sub>
+<sub>_Last updated: 2026-01-11 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
