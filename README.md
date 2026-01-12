@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 103.21.60.3  
-**Pulse**: Yet Another Leak of China's Contractor-Driven Cyber-Espionage Ecosystem  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6962544045baacbf204310a3)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2026-01-12 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-12 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
