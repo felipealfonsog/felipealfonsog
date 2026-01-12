@@ -183,12 +183,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-55182  
-**Pulse**: React2Shell flaw (CVE-2025-55182) exploited for remote code execution  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/693be9ca213493972d3e5f74)
+**Threat Type**: Ipv4  
+**Indicator**: 103.21.60.3  
+**Pulse**: Yet Another Leak of China's Contractor-Driven Cyber-Espionage Ecosystem  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6962544045baacbf204310a3)
 
-<sub>_Last updated: 2026-01-12 06:03 UTC_</sub>
+<sub>_Last updated: 2026-01-12 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
