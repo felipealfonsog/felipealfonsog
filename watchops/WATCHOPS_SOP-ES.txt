@@ -1,0 +1,414 @@
+WATCHOPS / TIMEOPS — HOWTO (DISCIPLINA DE TIEMPO UTC(NIST))
+===========================================================
+
+Autor: Felipe Alfonso González - f.alfonso@res-ear.ch
+Propósito: Mantener disciplina de tiempo (time discipline) de reloj de pulsera
+           sincronizada con UTC(NIST), publicando telemetría/estado en el
+           GitHub Profile README.
+
+Esta guía explica:
+- Qué significa el bloque "TIME DISCIPLINE / SITREP"
+- Cómo medir (calibrar) el offset de tu reloj vs UTC(NIST)
+- Cómo mantener el estado GREEN de forma confiable
+- Buenas prácticas para medición de deriva (drift) y corrección
+
+
+0) DEFINICIONES (LEE ESTO PRIMERO)
+----------------------------------
+
+UTC(NIST)
+  Tiempo de referencia atómica mantenido por el NIST (EE.UU.) y servido por NTP.
+
+Offset (segundos)
+  Diferencia entre tu reloj y UTC(NIST), expresada en segundos.
+
+  DEFINICIÓN DEL OFFSET (IMPORTANTE):
+    offset_s = (hora_del_reloj) - (hora_UTC(NIST))
+
+  Significado:
+    offset positivo (+)  => el reloj está ADELANTADO (va más rápido)
+    offset negativo (-)  => el reloj está ATRASADO (va más lento)
+
+Drift / Deriva (segundos/día)
+  Tasa diaria con la que el reloj gana o pierde tiempo.
+
+Tolerancia
+  Rango de offset aceptable para considerar el reloj "sincronizado".
+  Por defecto: ±5 segundos
+
+
+1) QUÉ VES EN GITHUB (EL BLOQUE SITREP)
+---------------------------------------
+
+Ejemplo:
+
+TIME DISCIPLINE / SITREP
+────────────────────────────────────────────────────────
+REFERENCE: UTC(NIST) via NTP (time.nist.gov)
+UTC(NIST):   2026-01-14 21:46:33Z
+LOCAL:       2026-01-14 18:46:33 -0300 (America/Santiago)
+
+RUNNER vs NIST (ref-midpoint): +0.045233 s
+NETWORK RTT:                0.097788 s
+
+- Watch: Festina
+- Drift (estimated): +0.6000 s/day
+- Offset vs UTC(NIST) (estimated now): +2.30 s
+- Calibration age: 0.15 days | Samples: 5
+
+STATUS: GREEN ✅ TIME DISCIPLINE: NOMINAL
+────────────────────────────────────────────────────────
+Last update: 2026-01-14 21:46:33Z
+
+Qué significa cada parte:
+
+A) REFERENCE
+  La referencia de tiempo: UTC(NIST) consultado por NTP.
+
+B) UTC(NIST)
+  Hora atómica actual en UTC (Zulu).
+
+C) LOCAL
+  El mismo instante en hora local: America/Santiago.
+
+D) RUNNER vs NIST (ref-midpoint)
+  Esto es el reloj de la máquina de GitHub Actions vs NIST.
+  Es información de contexto. NO es tu reloj Festina.
+
+E) NETWORK RTT
+  Latencia de red hacia el servidor NIST (información).
+
+F) Watch: Festina
+  Identidad genérica del reloj (no se expone el modelo).
+
+G) Drift (estimated)
+  Deriva/velocidad del reloj en segundos por día.
+
+H) Offset vs UTC(NIST)
+  Diferencia estimada actual entre tu Festina y UTC(NIST).
+
+I) Calibration age / Samples
+  Age: cuán antigua es la última medición.
+  Samples: cuántas mediciones se usaron.
+
+J) STATUS
+  Estado operacional:
+    GREEN ✅  : dentro de tolerancia
+    YELLOW ⚠️ : degradado
+    RED 🛑    : fuera de tolerancia
+    AMBER 🟠  : calibración vieja/obsoleta (stale)
+    BLUE ℹ️   : sin mediciones / esperando calibración
+
+
+2) POR QUÉ DEBES ESCRIBIR +2.3 O -2.3 (Y POR QUÉ IMPORTA)
+----------------------------------------------------------
+
+GitHub Actions no puede leer tu reloj físico.
+
+Por eso el sistema depende de que TÚ ingreses el offset medido.
+
+Ese offset es lo único que permite que WatchOps sepa:
+
+- Si tu reloj está adelantado o atrasado
+- Cuántos segundos exactamente
+- Cómo cambia ese offset con los días (drift)
+
+Si pones el signo mal (+ en vez de -), el modelo quedará malo.
+
+Por eso debes escribir:
+  -2.0, -1.0, +2.0, +3.0, etc.
+y no solo “2.0” sin signo.
+
+
+3) ENTENDER EL SIGNO: CUÁNDO PONER "-" VS "+"
+---------------------------------------------
+
+Definición de offset nuevamente:
+
+  offset_s = (hora_del_reloj) - (hora_de_referencia)
+
+Entonces:
+
+A) CUÁNDO PONER POSITIVO (+)
+----------------------------
+Escribe un número POSITIVO cuando tu Festina está ADELANTADO respecto a UTC(NIST).
+
+Ejemplo:
+  UTC(NIST):  12:00:00
+  Festina:    12:00:02
+  offset = +2
+
+Escribes:
+  +2.0
+
+Significa:
+  “Mi Festina está 2 segundos adelantado (va rápido).”
+
+Más ejemplos:
+  Festina 1 segundo adelantado   => +1.0
+  Festina 3 segundos adelantado  => +3.0
+  Festina 0.5 s adelantado       => +0.5
+
+
+B) CUÁNDO PONER NEGATIVO (-)
+----------------------------
+Escribe un número NEGATIVO cuando tu Festina está ATRASADO respecto a UTC(NIST).
+
+Ejemplo:
+  UTC(NIST):  12:00:00
+  Festina:    11:59:58
+  offset = -2
+
+Escribes:
+  -2.0
+
+Significa:
+  “Mi Festina está 2 segundos atrasado (va lento).”
+
+Más ejemplos:
+  Festina 1 segundo atrasado  => -1.0
+  Festina 3 segundos atrasado => -3.0
+  Festina 0.4 s atrasado      => -0.4
+
+
+4) POR QUÉ A VECES PONES -1, LUEGO -2, LUEGO -3 (O +1 → +2 → +3)
+-----------------------------------------------------------------
+
+Esto ocurre por la DERIVA (DRIFT) natural del reloj.
+
+Supongamos que tu Festina va lento (pierde tiempo):
+
+Día 1:
+  Festina está 1 segundo atrasado
+  => -1.0
+
+Día 2:
+  Festina ahora está 2 segundos atrasado
+  => -2.0
+
+Día 3:
+  Festina ahora está 3 segundos atrasado
+  => -3.0
+
+Eso muestra que el reloj pierde tiempo consistentemente.
+
+Si el reloj va rápido (gana tiempo):
+
+Día 1:
+  +1.0
+Día 2:
+  +2.0
+Día 3:
+  +3.0
+
+Eso muestra que el reloj gana tiempo.
+
+Esta secuencia es EXACTAMENTE lo que WatchOps necesita para calcular drift.
+
+Ejemplo de drift:
+- Día 1 offset: -1.0
+- Día 3 offset: -3.0
+Cambio = -3.0 - (-1.0) = -2.0 segundos
+Tiempo = 2 días
+Drift = -2.0 / 2 = -1.0 s/día
+
+Significa:
+  “El reloj pierde 1 segundo por día.”
+
+
+5) PATRONES COMUNES (CÓMO INTERPRETARLOS)
+-----------------------------------------
+
+Patrón A: offsets aumentan (+2 → +3 → +4)
+  - reloj adelantado (rápido)
+  - gana tiempo
+  - drift positivo
+
+Patrón B: offsets disminuyen (-1 → -2 → -3)
+  - reloj atrasado (lento)
+  - pierde tiempo
+  - drift negativo
+
+Patrón C: offsets estables (+2.1 → +2.2 → +2.1)
+  - reloj estable
+  - drift cerca de 0
+  - excelente disciplina
+
+Patrón D: cambia de signo (+2 → -1)
+  - normalmente significa que corregiste el reloj (lo ajustaste)
+  - o registraste el signo mal
+  - ideal: anotar "corrected" en notes
+
+
+6) DÓNDE SE ESCRIBEN LOS DATOS (ARCHIVO CSV)
+--------------------------------------------
+
+Archivo:
+  watchops/measurements.csv
+
+Header obligatorio:
+  epoch,watch,offset_s,source,notes
+
+
+7) CÓMO CALIBRAR (MEDIR OFFSET) PASO A PASO
+-------------------------------------------
+
+Herramientas de referencia:
+- Preferida: https://time.gov/
+- Aceptable: https://time.is/
+
+Procedimiento:
+
+PASO 1) Abre el reloj de referencia
+  - time.gov o time.is
+  - asegúrate que muestre los segundos
+
+PASO 2) Espera un “borde limpio” (recomendado)
+  - lo más fácil: el segundo 00 (XX:XX:00)
+
+PASO 3) Observa tu Festina exactamente en ese momento
+
+PASO 4) Decide si está adelantado o atrasado
+  - si tu Festina llega antes al segundo 00 => adelantado => offset positivo (+)
+  - si llega después al segundo 00 => atrasado => offset negativo (-)
+
+PASO 5) Estima la diferencia en segundos
+  - Ejemplo: 2 segundos antes => +2.0
+  - Ejemplo: 1 segundo después => -1.0
+
+PASO 6) Registra la medición en GitHub
+  Edita:
+    watchops/measurements.csv
+  Agrega una línea:
+    NOW,Festina,+2.3,time.gov,manual check
+
+PASO 7) Corre el workflow
+  GitHub -> Actions -> workflow -> Run workflow
+
+
+8) QUÉ ESCRIBIR EN measurements.csv (EXACTO)
+--------------------------------------------
+
+Recomendado (para GitHub):
+- Usa epoch = NOW
+
+Ejemplo:
+
+epoch,watch,offset_s,source,notes
+NOW,Festina,+2.3,time.gov,manual check #1
+NOW,Festina,+2.9,time.gov,manual check #2
+
+
+Explicación de cada campo:
+
+epoch
+  Usa NOW.
+  Motivo: no necesitas terminal ni convertidores.
+
+watch
+  Usa Festina (genérico, sin modelo).
+
+offset_s
+  Offset con signo:
+    + = adelantado
+    - = atrasado
+
+source
+  time.gov (mejor) o time.is (OK)
+
+notes
+  comentario opcional
+
+
+9) POR QUÉ NECESITAS 2+ MEDICIONES
+----------------------------------
+
+Con 1 medición:
+- se puede mostrar "último offset conocido"
+- no hay drift
+
+Con 2+ mediciones:
+- se calcula drift (segundos/día)
+- se puede estimar el offset actual
+
+Mejor práctica:
+- 5+ mediciones => modelo estable
+
+
+10) CÓMO CORREGIR EL RELOJ (DEJARLO "SYNCED")
+---------------------------------------------
+
+Objetivo:
+- llevar offset a 0.0 segundos (o cercano)
+- mantener estado GREEN
+
+Método (reloj cuarzo / Festina):
+
+PASO 1) Saca la corona (posición de ajuste)
+PASO 2) Espera el cambio de minuto en la referencia
+PASO 3) Ajusta tu reloj para el minuto correcto
+PASO 4) Empuja la corona EXACTO cuando la referencia llega a segundo 00
+
+Después de corregir:
+- registra offset cerca de cero
+
+Ejemplo:
+NOW,Festina,+0.0,time.gov,corrected
+
+
+11) CÓMO MANTENER GREEN SIEMPRE (REGLAS OPERACIONALES)
+------------------------------------------------------
+
+Tolerancia por defecto: ±5 segundos
+
+Interpretación:
+- GREEN  si abs(offset) <= 5
+- YELLOW si abs(offset) <= 10
+- RED    si abs(offset) > 10
+
+Regla operacional recomendada:
+- mantener Festina en ±2 segundos siempre
+- si se acerca a ±4, corregir de inmediato
+
+Rutina recomendada:
+- registrar medición cada 2–7 días
+- registrar inmediatamente después de corregir
+
+
+12) EJECUTAR / DISPARAR EL WORKFLOW EN GITHUB
+---------------------------------------------
+
+El workflow corre solo por horario (schedule).
+Para actualizar ahora:
+
+GitHub -> Actions -> workflow -> Run workflow
+
+Resultado esperado:
+- si cambió el bloque => commit automático
+- si no cambió => no hay commit
+
+
+13) TROUBLESHOOTING
+-------------------
+
+STATUS BLUE
+  - no hay mediciones
+  - revisa si existe watchops/measurements.csv y header correcto
+
+STATUS AMBER
+  - calibración vieja
+  - agrega una medición NOW
+
+STATUS RED
+  - offset estimado muy grande
+  - corrige el reloj + registra medición NOW
+
+Drift raro/incorrecto
+  - mediciones muy juntas o signo incorrecto
+  - separa mediciones 12–24h
+  - revisa:
+      + = adelantado
+      - = atrasado
+
+
+FIN DEL DOCUMENTO
