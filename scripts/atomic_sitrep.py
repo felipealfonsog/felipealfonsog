@@ -66,7 +66,7 @@ def load_measurements():
     with MEASUREMENTS.open(newline="", encoding="utf-8") as f:
         r = csv.DictReader(f)
         for row in r:
-            if row.get("watch") == WATCH_NAME:
+            if row.get("watch", "").strip().lower() == WATCH_NAME.strip().lower():
                 try:
                     rows.append((int(row["epoch"]), float(row["offset_s"])))
                 except Exception:
