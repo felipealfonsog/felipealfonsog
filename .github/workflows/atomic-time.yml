@@ -1,0 +1,35 @@
+name: Time Discipline SITREP (UTC/NIST + Festina)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"   # cada 6 horas
+
+permissions:
+  contents: write
+
+jobs:
+  sitrep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update README block
+        run: |
+          bash scripts/update_readme_atomic.sh
+
+      - name: Commit & push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "watchops-bot"
+          git config user.email "watchops-bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): update time discipline sitrep"
+          git push
