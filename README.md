@@ -177,7 +177,7 @@ Last update: 2026-01-14 22:14:20Z
 ```
 <!--END_SECTION:atomic_time-->
 
-<sub>TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
+<sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
 
 
 <details>
