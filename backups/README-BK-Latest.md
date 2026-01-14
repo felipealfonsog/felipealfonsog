@@ -150,6 +150,35 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
  -->
 
+#
+
+#### 🛰️ TIME DISCIPLINE / SITREP*
+
+<!--START_SECTION:atomic_time-->
+```text
+TIME DISCIPLINE / SITREP
+────────────────────────────────────────────────────────
+REFERENCE: UTC(NIST) via NTP (time.nist.gov)
+UTC(NIST):   2026-01-14 22:14:20Z
+LOCAL:       2026-01-14 19:14:20 -0300 (America/Santiago)
+
+RUNNER vs NIST (ref-midpoint): +0.016977 s
+NETWORK RTT:                0.065623 s
+
+- Watch: Festina
+- Drift (estimated): -29.1272 s/day
+- Offset vs UTC(NIST) (estimated now): +2.60 s
+- Calibration age: -0.00 days | Samples: 2
+
+STATUS: GREEN ✅ TIME DISCIPLINE: NOMINAL
+NOTE: Within tolerance.
+────────────────────────────────────────────────────────
+Last update: 2026-01-14 22:14:20Z
+```
+<!--END_SECTION:atomic_time-->
+
+<sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
+
 
 <details>
 <summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
@@ -183,12 +212,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 4a963519b4950845a8d76668d4d7dd29  
-**Pulse**: Targets high value telecommunications infrastructure in South Asia  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/695fdbbb0807269153b514aa)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2026-01-09 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-14 18:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -773,55 +802,61 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 08 January 2026
+From: 04 December 2023 - To: 14 January 2026
 
-Total Time       : 951 hrs 14 mins
+Total Time       : 951 hrs 52 mins
 Mostly coding in : Bash
-Daily average    : 951 hrs 14 mins
+Daily average    : 951 hrs 52 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
-Last updated     : 09/01/2026 03:41:31 UTC
+Last updated     : 14/01/2026 22:08:40 UTC
 
 LANGUAGES
 ---------
-Bash           161 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
-Python         133 hrs 25 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.03 %
-HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.18 %
-PHP            107 hrs 41 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.32 %
+Bash           161 hrs 54 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
+Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.07 %
+HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
+PHP            107 hrs 41 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.31 %
 Markdown       77 hrs 10 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.11 %
-C              73 hrs 29 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.73 %
+C              73 hrs 29 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.72 %
+Other          48 hrs 8 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.06 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.20 %
 Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.99 %
 INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
-Other          34 hrs 36 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.64 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          521 hrs 56 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.87 %
-Mac            463 hrs 53 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.77 %
+Linux          533 hrs        ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.00 %
+Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  49.06 %
 
 EDITORS
 -------
-VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.39 %
-Vim            321 hrs 7 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.76 %
+VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.34 %
+Vim            321 hrs 11 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.74 %
+Firefox        13 hrs 39 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.44 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.22 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+Antigravity    14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
+Dia            6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
+Terminal       3 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
+TextMate       1 min          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 PROJECTS
 --------
-gnlz.cl        135 hrs 32 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.25 %
-NovaNav        94 hrs 51 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○   9.97 %
+gnlz.cl        135 hrs 32 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.24 %
+NovaNav        94 hrs 51 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○   9.96 %
 OptiCPU        47 hrs 23 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.98 %
 GitSyncMaster  38 hrs 10 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.01 %
-nymex-data.com 31 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.31 %
-Upd8All        31 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.27 %
+nymex-data.com 31 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.30 %
+Upd8All        31 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.26 %
 Development    26 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.83 %
-TermPDFViewer  25 hrs 17 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.66 %
+TermPDFViewer  26 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.74 %
 
 CATEGORIES
 ----------
-Coding         985 hrs 14 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Coding         985 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       13 hrs 39 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.44 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
@@ -830,12 +865,12 @@ MACHINES
 Fellipes-MacBook-Air-M2.local  236 hrs 10 mins
 Felipes-MacBook-Air.local      204 hrs 36 mins
 SDFCSCX                        189 hrs 47 mins
-MacAir-Arch-LP1                84 hrs 43 mins
+MacAir-Arch-LP1                84 hrs 44 mins
 LAION-C5-B7                    76 hrs 7 mins
 freeshell.de                   48 hrs 17 mins
 SDFCSC                         33 hrs 2 mins
 LAION-SETI-4B                  27 hrs 51 mins
-Felipes-MacBook-Air-Silicon.local 23 hrs 6 mins
+Felipes-MacBook-Air-Silicon.local 23 hrs 36 mins
 SETICSC                        14 hrs 5 mins
 LAION-5B                       13 hrs 35 mins
 ORGANA                         9 hrs 26 mins
@@ -908,22 +943,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/clsource">
-        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/clsource">Camilo</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
