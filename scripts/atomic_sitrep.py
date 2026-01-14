@@ -68,7 +68,15 @@ def load_measurements():
         for row in r:
             if row.get("watch", "").strip().lower() == WATCH_NAME.strip().lower():
                 try:
-                    rows.append((int(row["epoch"]), float(row["offset_s"])))
+                    epoch_raw = row.get("epoch", "").strip()
+
+                    if epoch_raw.upper() == "NOW":
+                        epoch_val = int(time.time())
+                    else:
+                        epoch_val = int(epoch_raw)
+                    
+                    rows.append((epoch_val, float(row["offset_s"])))
+
                 except Exception:
                     pass
     rows.sort(key=lambda x: x[0])
