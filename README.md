@@ -175,7 +175,8 @@ Last update: 2026-01-14 21:58:03Z
 ```
 <!--END_SECTION:atomic_time-->
 
-<sub>*TimeOps / WatchOps — atomic time drift analytics, using the atomic clock by the NIST of the National Institute of Standards and Technology of the United States of America | NIST (https://timegov.nist.gov/)</sub>
+<sub>TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
+
 
 <details>
 <summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
