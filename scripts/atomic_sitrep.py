@@ -14,7 +14,7 @@ from pathlib import Path
 # -----------------------------
 NTP_DELTA = 2208988800
 
-# Fallback list (NIST NTP endpoints; any one is fine)
+# NIST NTP endpoints (fallback list)
 NIST_HOSTS = [
     "time.nist.gov",
     "time-a-g.nist.gov",
@@ -26,9 +26,16 @@ LOCAL_TZ = ZoneInfo("America/Santiago")
 MEASUREMENTS = Path(os.getenv("WATCHOPS_MEASUREMENTS", "watchops/measurements.csv"))
 
 WATCH_NAME = os.getenv("WATCHOPS_WATCH", "Festina").strip()
-TOL_S = float(os.getenv("WATCHOPS_TOL_S", "5"))               # green <= tol
-STALE_DAYS = float(os.getenv("WATCHOPS_STALE_DAYS", "7"))     # calibration older than this -> AMBER
+TOL_S = float(os.getenv("WATCHOPS_TOL_S", "5"))               # GREEN <= ±TOL_S
+STALE_DAYS = float(os.getenv("WATCHOPS_STALE_DAYS", "7"))     # older than this -> AMBER
 NTP_TIMEOUT = float(os.getenv("WATCHOPS_NTP_TIMEOUT", "2.5"))
+
+# Adjustment detection:
+# - If offset jumps by >= ADJUST_JUMP_S between consecutive measurements, treat as "manual adjustment"
+# - If jump is near ±3600s, treat as DST-like
+ADJUST_JUMP_S = float(os.getenv("WATCHOPS_ADJUST_JUMP_S", "1800"))  # 30 min
+DST_JUMP_S = float(os.getenv("WATCHOPS_DST_JUMP_S", "3600"))
+DST_TOL_S = float(os.getenv("WATCHOPS_DST_TOL_S", "120"))           # ±2 min
 
 
 @dataclass
@@ -37,18 +44,18 @@ class Fit:
     offset_now_s: float
     last_epoch: int
     samples: int
-    used_model: bool  # True if regression model, False if last-known
+    used_model: bool
 
 
 # -----------------------------
-# NTP query (SNTP minimal)
+# NTP query (minimal SNTP)
 # -----------------------------
 def ntp_query(host: str, timeout: float = 2.5):
     """
-    Minimal SNTP query. Returns (unix_time, ref_minus_midpoint, rtt_seconds)
-    - unix_time: seconds since 1970 (UTC)
-    - ref_minus_midpoint: reference_time - local_midpoint_time (seconds)
-    - rtt: round-trip time seconds
+    Returns (unix_time, ref_minus_midpoint, rtt_seconds)
+    - unix_time: seconds since 1970 UTC
+    - ref_minus_midpoint: reference_time - local_midpoint_time
+    - rtt: round-trip latency
     """
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     client.settimeout(timeout)
@@ -64,7 +71,7 @@ def ntp_query(host: str, timeout: float = 2.5):
     if len(data) < 48:
         raise RuntimeError("Invalid NTP reply")
 
-    # Transmit timestamp is bytes 40..47 (seconds since 1900, plus fraction)
+    # Transmit timestamp: bytes 40..47 (seconds since 1900 + fraction)
     sec, frac = struct.unpack("!II", data[40:48])
     ntp_time = sec + frac / 2**32
     unix_time = ntp_time - NTP_DELTA
@@ -114,7 +121,6 @@ def parse_epoch(epoch_raw: str, fallback_epoch: int) -> int:
         pass
 
     # Try ISO parse
-    # If no tz is provided, assume LOCAL_TZ.
     try:
         s2 = s.replace("Z", "+00:00")
         dt = datetime.fromisoformat(s2)
@@ -122,7 +128,6 @@ def parse_epoch(epoch_raw: str, fallback_epoch: int) -> int:
             dt = dt.replace(tzinfo=LOCAL_TZ)
         return int(dt.timestamp())
     except Exception:
-        # As a final fallback, use fallback_epoch
         return fallback_epoch
 
 
@@ -131,7 +136,7 @@ def watch_match(a: str, b: str) -> bool:
 
 
 # -----------------------------
-# Measurements
+# Measurements loader
 # -----------------------------
 def load_measurements(now_epoch: int):
     """
@@ -176,6 +181,42 @@ def load_measurements(now_epoch: int):
 
 
 # -----------------------------
+# Adjustment / DST detection
+# -----------------------------
+def split_on_adjustments(rows):
+    """
+    Detects large jumps in offset between consecutive measurements.
+    If detected, returns only the 'post-adjustment' segment for drift modeling,
+    plus an event string (or None).
+
+    This prevents a DST/manual hour change from poisoning drift estimation.
+    """
+    if len(rows) < 2:
+        return rows, None
+
+    event = None
+    cut_index = None
+
+    for i in range(1, len(rows)):
+        prev_e, prev_o = rows[i - 1]
+        e, o = rows[i]
+        jump = o - prev_o
+
+        if abs(jump) >= ADJUST_JUMP_S:
+            # DST-like (around ±3600 seconds)
+            if abs(abs(jump) - DST_JUMP_S) <= DST_TOL_S:
+                event = f"EVENT: CLOCK ADJUSTMENT DETECTED (DST-like jump {jump:+.0f}s)"
+            else:
+                event = f"EVENT: CLOCK ADJUSTMENT DETECTED (jump {jump:+.0f}s)"
+            cut_index = i  # keep from this measurement onward (latest adjustment wins)
+
+    if cut_index is not None:
+        return rows[cut_index:], event
+
+    return rows, None
+
+
+# -----------------------------
 # Drift model (linear regression)
 # -----------------------------
 def linear_fit(rows, now_epoch: int) -> Fit | None:
@@ -183,7 +224,7 @@ def linear_fit(rows, now_epoch: int) -> Fit | None:
     Fit offset = a + b * t_days via least squares.
     Returns b = drift(s/day), and predicted offset at now.
 
-    If we don't have >=2 points, returns None.
+    Requires >=2 points.
     """
     if len(rows) < 2:
         return None
@@ -213,18 +254,16 @@ def linear_fit(rows, now_epoch: int) -> Fit | None:
 # -----------------------------
 # Status logic
 # -----------------------------
-def status_lines(abs_offset: float, age_days: float, has_data: bool, has_model: bool):
+def status_lines(abs_offset: float, age_days: float, has_data: bool):
     """
-    Returns (status_line, note_line)
+    Stale calibration takes priority over RED to avoid misleading panic states.
     """
     if not has_data:
         return "STATUS: BLUE ℹ️ AWAITING CALIBRATION", "NOTE: Add measurements for Festina offset vs UTC(NIST)."
 
-    # Stale calibration takes priority over red/yellow/green to avoid misleading "RED" on old logs.
     if age_days > STALE_DAYS:
         return "STATUS: AMBER 🟠 CALIBRATION STALE", f"NOTE: Last calibration is {age_days:.1f} days old."
 
-    # Fresh calibration: compute tolerance status
     if abs_offset <= TOL_S:
         return "STATUS: GREEN ✅ TIME DISCIPLINE: NOMINAL", "NOTE: Within tolerance."
     if abs_offset <= (2 * TOL_S):
@@ -232,13 +271,13 @@ def status_lines(abs_offset: float, age_days: float, has_data: bool, has_model: 
     return "STATUS: RED 🛑 TIME DISCIPLINE: OUT OF TOL", "NOTE: Requires correction."
 
 
-# -----------------------------
-# Formatting helpers
-# -----------------------------
 def fmt(ts: float, tz) -> str:
     return datetime.fromtimestamp(ts, tz=tz).strftime("%Y-%m-%d %H:%M:%S")
 
 
+# -----------------------------
+# Main
+# -----------------------------
 def main():
     # 1) Query NIST time
     host, unix_time, ref_minus_mid, rtt = pick_nist_time()
@@ -252,22 +291,27 @@ def main():
     rows = load_measurements(now_epoch)
     has_data = len(rows) >= 1
 
-    # 3) Build model if possible
-    fit = linear_fit(rows, now_epoch)
+    # 3) Detect manual adjustments (DST-like jumps, etc.) and isolate post-adjustment segment
+    rows_for_model, adj_event = split_on_adjustments(rows)
+    event_line = adj_event if adj_event else "EVENT: NONE"
+
+    # 4) Fit model if possible (using post-adjustment segment)
+    fit = linear_fit(rows_for_model, now_epoch)
 
     if fit is None and has_data:
         # last-known mode (no drift model yet)
         last_epoch, last_offset = rows[-1]
         age_days = (now_epoch - last_epoch) / 86400.0
 
-        status, note = status_lines(abs(last_offset), age_days, has_data=True, has_model=False)
+        status, note = status_lines(abs(last_offset), age_days, has_data=True)
 
         festina_line = f"- Watch: {WATCH_NAME}"
         drift_line = "- Drift (estimated): N/A (need ≥2 samples w/ distinct timestamps)"
         offset_line = f"- Offset vs UTC(NIST) (last known): {last_offset:+.2f} s"
-        calib_line = f"- Calibration age: {age_days:.2f} days"
+        calib_line = f"- Calibration age: {age_days:.2f} days | Samples: {len(rows)}"
     elif fit is None and not has_data:
-        status, note = status_lines(0.0, 0.0, has_data=False, has_model=False)
+        status, note = status_lines(0.0, 0.0, has_data=False)
+
         festina_line = f"- Watch: {WATCH_NAME} (no measurements yet)"
         drift_line = "- Drift (estimated): N/A"
         offset_line = "- Offset vs UTC(NIST): N/A"
@@ -277,12 +321,12 @@ def main():
         age_days = (now_epoch - fit.last_epoch) / 86400.0
         abs_off = abs(fit.offset_now_s)
 
-        status, note = status_lines(abs_off, age_days, has_data=True, has_model=True)
+        status, note = status_lines(abs_off, age_days, has_data=True)
 
         festina_line = f"- Watch: {WATCH_NAME}"
         drift_line = f"- Drift (estimated): {fit.drift_s_per_day:+.4f} s/day"
         offset_line = f"- Offset vs UTC(NIST) (estimated now): {fit.offset_now_s:+.2f} s"
-        calib_line = f"- Calibration age: {age_days:.2f} days | Samples: {fit.samples}"
+        calib_line = f"- Calibration age: {age_days:.2f} days | Samples (model): {fit.samples} | Samples (total): {len(rows)}"
 
     block = f"""```text
 TIME DISCIPLINE / SITREP
@@ -298,6 +342,7 @@ NETWORK RTT:                {rtt:.6f} s
 {drift_line}
 {offset_line}
 {calib_line}
+{event_line}
 
 {status}
 {note}
