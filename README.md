@@ -152,21 +152,13 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 #
 
-> [!NOTE]
-> <sub>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status (GREEN/YELLOW/RED).</sub>
-
-<sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
-
-
 <details open>
 <summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • Chile: America/Santiago UTC−3/UTC−4)*</summary>
 
 <sub>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status.</sub>
 
-> [!NOTE]
 > <sub>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status (GREEN/YELLOW/RED).</sub>
-
-<sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
+> <sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
 
 <br>
 
@@ -196,6 +188,11 @@ Last update: 2026-01-15 00:27:16Z
 
 <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
 </details>
+
+> [!NOTE]
+> <sub>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status (GREEN/YELLOW/RED).</sub>
+
+<sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
 
 <details>
 <summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
