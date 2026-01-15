@@ -166,7 +166,8 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 -->
 
 
-> <sub>Atomic time telemetry synced to UTC(NIST). Operational SITREP: publishes reference time + network RTT, models Festina drift (s/day), estimates current offset, detects abrupt clock adjustments (DST/manual), and reports discipline status (GREEN/YELLOW/RED).</sub>
+> <sub>Atomic time telemetry synced to UTC(NIST). Operational SITREP: publishes reference time + network RTT, models Festina drift (s/day), estimates current offset, detects abrupt clock adjustments (DST/manual), and reports discipline status (GREEN/YELLOW/RED).</sub><br>
+> <sub>I measure time like an engineer: precisely, auditable, reproducible. Atomic time references (UTC/NIST) aren’t a detail to me — they’re a standard.</sub>
 
 
 <!--START_SECTION:atomic_time-->
