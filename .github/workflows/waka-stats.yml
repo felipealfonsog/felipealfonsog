@@ -205,8 +205,10 @@ jobs:
               for m in machines[:MAX_MACHINES]:
                   content += f"{m['name']:<30} {m['text']}\n"
 
-          # ✅ LAST UPDATED AL FINAL (antes de cerrar el bloque)
-          content += f"\nLast updated     : {now_utc}\n"
+          # ✅ LAST UPDATED AL FINAL (formato CLI)
+          content += "\n" + ("-" * 22) + "\n"
+          content += f"Last updated     : {now_utc}\n"
+
 
           # Render as a single code block for stable alignment
           content = f"```\n{content}\n```"
