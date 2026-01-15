@@ -265,7 +265,7 @@ def status_lines(abs_offset: float, age_days: float, has_data: bool):
         return "STATUS: AMBER 🟠 CALIBRATION STALE", f"NOTE: Last calibration is {age_days:.1f} days old."
 
     if abs_offset <= TOL_S:
-        return "STATUS: GREEN ✅ TIME DISCIPLINE: NOMINAL", "NOTE: Within tolerance."
+        return "STATUS: GREEN 🟢 TIME DISCIPLINE: NOMINAL", "NOTE: Within tolerance."
     if abs_offset <= (2 * TOL_S):
         return "STATUS: YELLOW ⚠️ TIME DISCIPLINE: DEGRADED", "NOTE: Near tolerance boundary."
     return "STATUS: RED 🛑 TIME DISCIPLINE: OUT OF TOL", "NOTE: Requires correction."
