@@ -163,7 +163,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <sub>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status.</sub>
 
+> [!NOTE]
+> <sub>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status (GREEN/YELLOW/RED).</sub>
 
+<sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
+
+<br>
 
 <!--START_SECTION:atomic_time-->
 ```text
