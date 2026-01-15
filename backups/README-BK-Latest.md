@@ -157,9 +157,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <br>
 
-<!--
-![🛰️ WATCHOPS LIVE TIME](https://freeshell.de/felipe/watchops/live.svg.php?ver=1.0.1)
--->
+
+[![🛰️ WATCHOPS LIVE TIME](https://freeshell.de/felipe/watchops/live.svg.php?ver=1.0.1)](#)
+
+
+
 
 > <sub>Atomic time telemetry synced to UTC(NIST). Operational SITREP: publishes reference time + network RTT, models Festina drift (s/day), estimates current offset, detects abrupt clock adjustments (DST/manual), and reports discipline status (GREEN/YELLOW/RED).</sub>
 
@@ -755,9 +757,12 @@ _______                  /__/
 
 
 ############################## new metrics ############################ -->
+
+<!--
 <details>
 <summary>:star2: <strong>⚔️ GitHub Metrics Dashboard</strong>*</summary>
 <br>
+-->
 
 <!--
 ![M](https://metrics.lecoq.io/felipealfonsog?template=terminal&base=0&config_display=transparent&config_timezone=America/Santiago&nocache=777777)
@@ -769,7 +774,9 @@ _______                  /__/
 ![Metrics](github-metrics.svg)
 -->
 
+<!-- 
 [![Metrics](https://metrics.lecoq.io/felipealfonsog?config_timezone=America/Santiago)](#)
+-->
 
 <!-- 
 <br>
@@ -777,8 +784,9 @@ _______                  /__/
 ![Languages](./languages-chart.svg)
 -->
 
+<!--
 </details>
-
+-->
 
 <details open>
 <summary id="wakatime">:star2: <strong> Wakatime</strong>*</summary>
