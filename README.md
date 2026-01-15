@@ -184,13 +184,14 @@ Last update: 2026-01-15 00:27:16Z
 ```
 <!--END_SECTION:atomic_time-->
 
-<sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
 </details>
 
 > [!NOTE]
-> <sub>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status (GREEN/YELLOW/RED).</sub>
+> <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
 
+<!-- 
 <sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
+-->
 
 <details>
 <summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
