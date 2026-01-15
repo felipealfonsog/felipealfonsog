@@ -155,7 +155,9 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <details open>
 <summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • Chile: America/Santiago UTC−3/UTC−4)*</summary>
 
-
+<!--
+<br>
+-->
 
 [![🛰️ WATCHOPS LIVE TIME](https://freeshell.de/felipe/watchops/live.svg.php?ver=1.0.1)](#)
 
