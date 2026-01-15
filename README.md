@@ -256,11 +256,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Cve  
-**Indicator**: CVE-2025-55182  
-**Pulse**: Malicious SSO Logins Observed Following Disclosure of CVE-2025-59718 and CVE-2025-59719  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/694080a4ab8b36bfbdc0748c)
+**Indicator**: CVE-2025-64446  
+**Pulse**: Sicarii Ransomware: Truth vs Myth  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6968d3729715b1994ae12885)
 
-<sub>_Last updated: 2026-01-15 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-15 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
