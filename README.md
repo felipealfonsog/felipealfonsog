@@ -157,7 +157,9 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <br>
 
+<!--
 ![🛰️ WATCHOPS LIVE TIME](https://freeshell.de/felipe/watchops/live.svg.php?ver=1.0.1)
+-->
 
 > <sub>Atomic time telemetry synced to UTC(NIST). Operational SITREP: publishes reference time + network RTT, models Festina drift (s/day), estimates current offset, detects abrupt clock adjustments (DST/manual), and reports discipline status (GREEN/YELLOW/RED).</sub>
 
@@ -190,6 +192,7 @@ Last update: 2026-01-15 04:21:29Z
 
 > [!NOTE]
 > <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
+> <sub>Authoritative time reference (UTC): <a href="https://time.is/">time.is</a></sub>
 
 <!-- 
 <sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
