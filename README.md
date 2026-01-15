@@ -758,10 +758,11 @@ _______                  /__/
 
 ############################## new metrics ############################ -->
 
-
+<!--
 <details>
 <summary>:star2: <strong>⚔️ GitHub Metrics Dashboard</strong>*</summary>
 <br>
+-->
 
 <!--
 ![M](https://metrics.lecoq.io/felipealfonsog?template=terminal&base=0&config_display=transparent&config_timezone=America/Santiago&nocache=777777)
@@ -773,7 +774,9 @@ _______                  /__/
 ![Metrics](github-metrics.svg)
 -->
 
+<!-- 
 [![Metrics](https://metrics.lecoq.io/felipealfonsog?config_timezone=America/Santiago)](#)
+-->
 
 <!-- 
 <br>
@@ -781,8 +784,9 @@ _______                  /__/
 ![Languages](./languages-chart.svg)
 -->
 
+<!--
 </details>
-
+-->
 
 <details open>
 <summary id="wakatime">:star2: <strong> Wakatime</strong>*</summary>
