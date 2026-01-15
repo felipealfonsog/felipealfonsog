@@ -152,7 +152,10 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 #
 
-#### 🛰️ TIME DISCIPLINE / SITREP*
+<details>
+<summary>🛰️ TIME DISCIPLINE / SITREP*</summary>
+
+<br>
 
 <!--START_SECTION:atomic_time-->
 ```text
@@ -179,7 +182,7 @@ Last update: 2026-01-15 00:27:16Z
 <!--END_SECTION:atomic_time-->
 
 <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
-
+</details>
 
 <details>
 <summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
