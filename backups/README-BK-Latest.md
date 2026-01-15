@@ -157,6 +157,10 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <br>
 
+<!--
+![🛰️ WATCHOPS LIVE TIME](https://freeshell.de/felipe/watchops/live.svg.php?ver=1.0.1)
+-->
+
 > <sub>Atomic time telemetry synced to UTC(NIST). Operational SITREP: publishes reference time + network RTT, models Festina drift (s/day), estimates current offset, detects abrupt clock adjustments (DST/manual), and reports discipline status (GREEN/YELLOW/RED).</sub>
 
 
@@ -165,29 +169,30 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 TIME DISCIPLINE / SITREP
 ────────────────────────────────────────────────────────
 REFERENCE: UTC(NIST) via NTP (time.nist.gov)
-UTC(NIST):   2026-01-15 00:27:16Z
-LOCAL:       2026-01-14 21:27:16 -0300 (America/Santiago)
+UTC(NIST):   2026-01-15 04:21:29Z
+LOCAL:       2026-01-15 01:21:29 -0300 (America/Santiago)
 
-RUNNER vs NIST (ref-midpoint): +0.011816 s
-NETWORK RTT:                0.044036 s
+RUNNER vs NIST (ref-midpoint): +0.023872 s
+NETWORK RTT:                0.103455 s
 
 - Watch: Festina
-- Drift (estimated): N/A (need ≥2 samples w/ distinct timestamps)
-- Offset vs UTC(NIST) (last known): +2.90 s
-- Calibration age: -0.00 days | Samples: 2
+- Drift (estimated): +29.1273 s/day
+- Offset vs UTC(NIST) (estimated now): +2.60 s
+- Calibration age: -0.00 days | Samples (model): 2 | Samples (total): 2
 EVENT: NONE
 
 STATUS: GREEN ✅ TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
-Last update: 2026-01-15 00:27:16Z
+Last update: 2026-01-15 04:21:29Z
 ```
 <!--END_SECTION:atomic_time-->
 
 </details>
 
 > [!NOTE]
-> <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
+> <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a>.</sub><br>
+> <sub>Authoritative time reference (UTC): <a href="https://time.is/">time.is</a>.</sub>
 
 <!-- 
 <sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
@@ -817,39 +822,38 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 14 January 2026
+From: 04 December 2023 - To: 15 January 2026
 
-Total Time       : 951 hrs 52 mins
+Total Time       : 952 hrs 32 mins
 Mostly coding in : Bash
-Daily average    : 951 hrs 52 mins
+Daily average    : 952 hrs 32 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
-Last updated     : 15/01/2026 02:46:43 UTC
 
 LANGUAGES
 ---------
-Bash           161 hrs 54 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
-Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.07 %
-HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
+Bash           162 hrs 18 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.04 %
+Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.06 %
+HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
 PHP            107 hrs 41 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.31 %
-Markdown       77 hrs 10 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.11 %
+Markdown       77 hrs 11 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.10 %
 C              73 hrs 29 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.72 %
-Other          48 hrs 8 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.06 %
+Other          57 hrs 34 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.04 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.20 %
-Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.99 %
+Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.98 %
 INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          533 hrs        ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.00 %
-Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  49.06 %
+Linux          543 hrs 7 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.02 %
+Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  49.03 %
 
 EDITORS
 -------
-VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.34 %
-Vim            321 hrs 11 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.74 %
-Firefox        13 hrs 39 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.44 %
+VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.29 %
+Vim            321 hrs 12 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.72 %
+Firefox        23 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.49 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.22 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Antigravity    14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
@@ -860,9 +864,12 @@ TextMate       1 min          ○○○○○○○○○○○○○○○○�
 CATEGORIES
 ----------
 Coding         985 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       13 hrs 39 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.44 %
+Browsing       23 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.49 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
+
+----------------------
+Last updated     : 15/01/2026 05:06:34 UTC
 
 ```
 <!--END_SECTION:wakastats-->
