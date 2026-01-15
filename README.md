@@ -255,12 +255,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-64446  
-**Pulse**: Sicarii Ransomware: Truth vs Myth  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6968d3729715b1994ae12885)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 1e0f94e8ec83c1879ccd25fec59098f1  
+**Pulse**: CastleLoader Malware Analysis: Full Execution Breakdown  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6969099d2879e4c697a45427)
 
-<sub>_Last updated: 2026-01-15 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-15 18:05 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
