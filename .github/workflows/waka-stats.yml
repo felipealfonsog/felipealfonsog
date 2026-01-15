@@ -1,236 +1,204 @@
-name: Waka Stats (CLI style)
+python3 << 'EOF'
+import base64, json, re, urllib.request, os, datetime
 
-on:
-  workflow_dispatch:
-  schedule:
-    # shifted minute to avoid colliding with your other waka workflow
-    # - cron: '7 0-4,10-15,17-22 * * *'
-    - cron: '0 0-4,10-15,17-22 * * *'
+API_KEY = os.environ["WAKATIME_API_KEY"]
+auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
 
-permissions:
-  contents: write
+# ===== LOOK & FEEL =====
+EMPTY = "○"
+FULL  = "●"
+HALF  = "◔"
+BAR_LEN = 26
 
-jobs:
-  wakastats:
-    runs-on: ubuntu-latest
+# ===== SECTION TOGGLES =====
+SHOW_HEADER_INFO        = True   # Total time, mostly, daily avg, best day, tz, from-to
+SHOW_ACTIVITY_PATTERN   = True
+SHOW_LANGUAGES          = True
+SHOW_OPERATING_SYSTEMS  = True
+SHOW_EDITORS            = True
+SHOW_PROJECTS           = False
+SHOW_CATEGORIES         = True
+SHOW_MACHINES           = False
 
-    steps:
-      - uses: actions/checkout@v4
+# ===== LIMITS =====
+MAX_LANGUAGES  = 10
+MAX_OS         = 6
+MAX_EDITORS    = 12
+MAX_PROJECTS   = 8
+MAX_CATEGORIES = 8
+MAX_MACHINES   = 12
 
-      - name: Update wakastats from WakaTime
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          python3 << 'EOF'
-          import base64, json, re, urllib.request, os, datetime
+# ===== CLEANUP =====
+HIDE_UNKNOWN = True
+UNKNOWN_NAMES = {"Unknown Project", "Unknown Editor", "Unknown"}
 
-          API_KEY = os.environ["WAKATIME_API_KEY"]
-          auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
+def get(url):
+    req = urllib.request.Request(
+        url,
+        headers={"Authorization": f"Basic {auth}"}
+    )
+    with urllib.request.urlopen(req) as r:
+        return json.load(r)
 
-          # ===== LOOK & FEEL =====
-          EMPTY = "○"
-          FULL  = "●"
-          HALF  = "◔"
-          BAR_LEN = 26
+def clamp(x, lo=0.0, hi=100.0):
+    return max(lo, min(hi, x))
 
-          # ===== SECTION TOGGLES =====
-          SHOW_HEADER_INFO        = True   # Total time, mostly, daily avg, best day, tz, from-to
-          SHOW_ACTIVITY_PATTERN   = True
-          SHOW_LANGUAGES          = True
-          SHOW_OPERATING_SYSTEMS  = True
-          SHOW_EDITORS            = True
-          SHOW_PROJECTS           = False
-          SHOW_CATEGORIES         = True
-          SHOW_MACHINES           = False
+def bar(pct):
+    pct = clamp(pct, 0.0, 100.0)
+    units = (pct / 100.0) * BAR_LEN
+    full = int(units)
+    half = 1 if (units - full) >= 0.5 and full < BAR_LEN else 0
+    empty = BAR_LEN - full - half
+    return (FULL * full) + (HALF * half) + (EMPTY * empty)
 
-          # ===== LIMITS =====
-          MAX_LANGUAGES  = 10
-          MAX_OS         = 6
-          MAX_EDITORS    = 12
-          MAX_PROJECTS   = 8
-          MAX_CATEGORIES = 8
-          MAX_MACHINES   = 12
+def fmt_hhmm(seconds):
+    seconds = int(seconds)
+    h = seconds // 3600
+    m = (seconds % 3600) // 60
+    if h <= 0 and m <= 0:
+        return "0 mins"
+    if h <= 0:
+        return f"{m} mins"
+    return f"{h} hrs {m} mins"
 
-          # ===== CLEANUP =====
-          HIDE_UNKNOWN = True
-          UNKNOWN_NAMES = {"Unknown Project", "Unknown Editor", "Unknown"}
+def try_parse_date(s):
+    if not s:
+        return None
+    s = str(s)
+    try:
+        d = datetime.datetime.fromisoformat(s.replace("Z", "+00:00")).date()
+        return d
+    except Exception:
+        pass
+    try:
+        return datetime.date.fromisoformat(s[:10])
+    except Exception:
+        return None
 
-          def get(url):
-              req = urllib.request.Request(
-                  url,
-                  headers={"Authorization": f"Basic {auth}"}
-              )
-              with urllib.request.urlopen(req) as r:
-                  return json.load(r)
+def pretty_date(d):
+    return d.strftime("%d %B %Y")
 
-          def clamp(x, lo=0.0, hi=100.0):
-              return max(lo, min(hi, x))
+def cleaned(items):
+    if not items:
+        return []
+    out = []
+    for i in items:
+        name = (i.get("name") or "").strip()
+        if HIDE_UNKNOWN and (name in UNKNOWN_NAMES or name.startswith("Unknown ")):
+            continue
+        out.append(i)
+    return out
 
-          def bar(pct):
-              pct = clamp(pct, 0.0, 100.0)
-              units = (pct / 100.0) * BAR_LEN
-              full = int(units)
-              half = 1 if (units - full) >= 0.5 and full < BAR_LEN else 0
-              empty = BAR_LEN - full - half
-              return (FULL * full) + (HALF * half) + (EMPTY * empty)
+def section(title, items, limit=8, denom_seconds=None):
+    items = cleaned(items)
+    if not items:
+        return ""
+    denom = int(denom_seconds if denom_seconds is not None else total) or 1
 
-          def fmt_hhmm(seconds):
-              seconds = int(seconds)
-              h = seconds // 3600
-              m = (seconds % 3600) // 60
-              if h <= 0 and m <= 0:
-                  return "0 mins"
-              if h <= 0:
-                  return f"{m} mins"
-              return f"{h} hrs {m} mins"
+    out = f"\n{title}\n" + "-" * len(title) + "\n"
+    for i in items[:limit]:
+        pct = (i["total_seconds"] / denom) * 100.0
+        pct_show = clamp(pct, 0.0, 100.0)
+        out += (
+            f"{i['name']:<14} "
+            f"{i['text']:<14} "
+            f"{bar(pct_show)} "
+            f"{pct_show:6.2f} %\n"
+        )
+    return out
 
-          def try_parse_date(s):
-              if not s:
-                  return None
-              s = str(s)
-              try:
-                  d = datetime.datetime.fromisoformat(s.replace("Z", "+00:00")).date()
-                  return d
-              except Exception:
-                  pass
-              try:
-                  return datetime.date.fromisoformat(s[:10])
-              except Exception:
-                  return None
+def activity_pattern_from_best_day(best_day):
+    if not best_day:
+        return "Sustained operational tempo"
+    return "High-intensity operational focus"
 
-          def pretty_date(d):
-              return d.strftime("%d %B %Y")
+stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
+total = int(stats.get("total_seconds", 0)) or 1
 
-          def cleaned(items):
-              if not items:
-                  return []
-              out = []
-              for i in items:
-                  name = (i.get("name") or "").strip()
-                  if HIDE_UNKNOWN and (name in UNKNOWN_NAMES or name.startswith("Unknown ")):
-                      continue
-                  out.append(i)
-              return out
+# Date range (best-effort)
+start_raw = stats.get("start") or stats.get("from") or (stats.get("range") or {}).get("start") or (stats.get("range") or {}).get("from")
+end_raw   = stats.get("end")   or stats.get("to")   or (stats.get("range") or {}).get("end")   or (stats.get("range") or {}).get("to")
 
-          def section(title, items, limit=8, denom_seconds=None):
-              items = cleaned(items)
-              if not items:
-                  return ""
-              denom = int(denom_seconds if denom_seconds is not None else total) or 1
+start_d = try_parse_date(start_raw)
+end_d   = try_parse_date(end_raw) or datetime.date.today()
 
-              out = f"\n{title}\n" + "-" * len(title) + "\n"
-              for i in items[:limit]:
-                  pct = (i["total_seconds"] / denom) * 100.0
-                  pct_show = clamp(pct, 0.0, 100.0)
-                  out += (
-                      f"{i['name']:<14} "
-                      f"{i['text']:<14} "
-                      f"{bar(pct_show)} "
-                      f"{pct_show:6.2f} %\n"
-                  )
-              return out
+if start_d and end_d:
+    range_line = f"From: {pretty_date(start_d)} - To: {pretty_date(end_d)}"
+else:
+    range_line = "From: N/A - To: N/A"
 
-          def activity_pattern_from_best_day(best_day):
-              if not best_day:
-                  return "Sustained operational tempo"
-              return "High-intensity operational focus"
+languages = cleaned(stats.get("languages", []))
+mostly = languages[0]["name"] if languages else "N/A"
 
-          stats = get("https://wakatime.com/api/v1/users/current/stats/all_time")["data"]
-          total = int(stats.get("total_seconds", 0)) or 1
+days = int(stats.get("days", 1)) or 1
+daily_avg = fmt_hhmm(int(total / days))
 
-          # Date range (best-effort)
-          start_raw = stats.get("start") or stats.get("from") or (stats.get("range") or {}).get("start") or (stats.get("range") or {}).get("from")
-          end_raw   = stats.get("end")   or stats.get("to")   or (stats.get("range") or {}).get("end")   or (stats.get("range") or {}).get("to")
+best = stats.get("best_day")
+best_str = f"{best['date']} — {best['text']}" if best else "N/A"
 
-          start_d = try_parse_date(start_raw)
-          end_d   = try_parse_date(end_raw) or datetime.date.today()
+timezone = stats.get("timezone", "N/A")
 
-          if start_d and end_d:
-              range_line = f"From: {pretty_date(start_d)} - To: {pretty_date(end_d)}"
-          else:
-              range_line = "From: N/A - To: N/A"
+now_utc = datetime.datetime.utcnow().strftime("%d/%m/%Y %H:%M:%S UTC")
 
-          languages = cleaned(stats.get("languages", []))
-          mostly = languages[0]["name"] if languages else "N/A"
+content = (
+    "WAKATIME EXTENDED STATS\n"
+    "======================\n\n"
+)
 
-          days = int(stats.get("days", 1)) or 1
-          daily_avg = fmt_hhmm(int(total / days))
+# HEADER (sin last updated)
+if SHOW_HEADER_INFO:
+    content += (
+        f"{range_line}\n\n"
+        f"Total Time       : {stats.get('human_readable_total', 'N/A')}\n"
+        f"Mostly coding in : {mostly}\n"
+        f"Daily average    : {daily_avg}\n"
+        f"Best day         : {best_str}\n"
+        f"Time zone        : {timezone}\n"
+    )
 
-          best = stats.get("best_day")
-          best_str = f"{best['date']} — {best['text']}" if best else "N/A"
+if SHOW_ACTIVITY_PATTERN:
+    pattern = activity_pattern_from_best_day(best)
+    content += f"Activity pattern : {pattern}\n"
 
-          timezone = stats.get("timezone", "N/A")
+# SECCIONES
+if SHOW_LANGUAGES:
+    content += section("LANGUAGES", stats.get("languages", []), limit=MAX_LANGUAGES)
 
-          now_utc = datetime.datetime.utcnow().strftime("%d/%m/%Y %H:%M:%S UTC")
+if SHOW_OPERATING_SYSTEMS:
+    content += section("OPERATING SYSTEMS", stats.get("operating_systems", []), limit=MAX_OS)
 
-          content = (
-              "WAKATIME EXTENDED STATS\n"
-              "======================\n\n"
-          )
+if SHOW_EDITORS:
+    content += section("EDITORS", stats.get("editors", []), limit=MAX_EDITORS)
 
-          # HEADER (sin last updated)
-          if SHOW_HEADER_INFO:
-              content += (
-                  f"{range_line}\n\n"
-                  f"Total Time       : {stats.get('human_readable_total', 'N/A')}\n"
-                  f"Mostly coding in : {mostly}\n"
-                  f"Daily average    : {daily_avg}\n"
-                  f"Best day         : {best_str}\n"
-                  f"Time zone        : {timezone}\n"
-              )
+if SHOW_PROJECTS:
+    content += section("PROJECTS", stats.get("projects", []), limit=MAX_PROJECTS)
 
-          if SHOW_ACTIVITY_PATTERN:
-              pattern = activity_pattern_from_best_day(best)
-              content += f"Activity pattern : {pattern}\n"
+if SHOW_CATEGORIES:
+    content += section("CATEGORIES", stats.get("categories", []), limit=MAX_CATEGORIES)
 
-          # SECCIONES
-          if SHOW_LANGUAGES:
-              content += section("LANGUAGES", stats.get("languages", []), limit=MAX_LANGUAGES)
+machines = cleaned(stats.get("machines", []))
+if SHOW_MACHINES and machines:
+    content += "\nMACHINES\n--------\n"
+    for m in machines[:MAX_MACHINES]:
+        content += f"{m['name']:<30} {m['text']}\n"
 
-          if SHOW_OPERATING_SYSTEMS:
-              content += section("OPERATING SYSTEMS", stats.get("operating_systems", []), limit=MAX_OS)
+# ✅ LAST UPDATED AL FINAL (formato CLI)
+content += "\n" + ("-" * 22) + "\n"
+content += f"Last updated     : {now_utc}\n"
 
-          if SHOW_EDITORS:
-              content += section("EDITORS", stats.get("editors", []), limit=MAX_EDITORS)
+# Render as a single code block for stable alignment
+content = f"```\n{content}\n```"
 
-          if SHOW_PROJECTS:
-              content += section("PROJECTS", stats.get("projects", []), limit=MAX_PROJECTS)
+with open("README.md", "r", encoding="utf-8") as f:
+    readme = f.read()
 
-          if SHOW_CATEGORIES:
-              content += section("CATEGORIES", stats.get("categories", []), limit=MAX_CATEGORIES)
+new = re.sub(
+    r"<!--START_SECTION:wakastats-->.*?<!--END_SECTION:wakastats-->",
+    f"<!--START_SECTION:wakastats-->\n{content}\n<!--END_SECTION:wakastats-->",
+    readme,
+    flags=re.S
+)
 
-          machines = cleaned(stats.get("machines", []))
-          if SHOW_MACHINES and machines:
-              content += "\nMACHINES\n--------\n"
-              for m in machines[:MAX_MACHINES]:
-                  content += f"{m['name']:<30} {m['text']}\n"
-
-          # ✅ LAST UPDATED AL FINAL (formato CLI)
-          content += "\n" + ("-" * 22) + "\n"
-          content += f"Last updated     : {now_utc}\n"
-
-
-          # Render as a single code block for stable alignment
-          content = f"```\n{content}\n```"
-
-          with open("README.md", "r", encoding="utf-8") as f:
-              readme = f.read()
-
-          new = re.sub(
-              r"<!--START_SECTION:wakastats-->.*?<!--END_SECTION:wakastats-->",
-              f"<!--START_SECTION:wakastats-->\n{content}\n<!--END_SECTION:wakastats-->",
-              readme,
-              flags=re.S
-          )
-
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write(new)
-          EOF
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update WakaTime CLI stats" || exit 0
-          git push
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(new)
+EOF
