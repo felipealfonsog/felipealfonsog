@@ -737,9 +737,12 @@ https://maintainers.github.com/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css) ![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)
 -->
 <!-- <details languages and metrics open> -->
+
+<!-- 
 <details>
 <summary>:star2: <strong>Most Used Languages | Commit and Pull Request Stats</strong>*</summary>
 <br>
+-->
 
 <!-- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite) 
@@ -753,13 +756,16 @@ https://maintainers.github.com/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+
+<!-- ############################################### LINKX FINALES #################### -->
+<!-- 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealfonsog&layout=compact&langs_count=10&hide_title=true&theme=graywhite&exclude_langs=html,css)](#)
 [![Commit and Pull Request Stats](https://github-readme-stats.vercel.app/api?username=felipealfonsog&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite)](#)
 
 <sub>*Data may exhibit discrepancies or errors due to the [Vercel service](https://vercel.com/), empowering GitHub statistics and functions.</sub>
 <br>
 </details>
-
+-->
 
 
 <!-- 
