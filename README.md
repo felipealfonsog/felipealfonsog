@@ -797,7 +797,7 @@ _______                  /__/
   
 <!-- <summary id="wakatime">:star2: <strong> Wakatime Stats</strong>*</summary> -->
 
-<summary id="wakatime">🛰️ <strong>WakaTime Operational Stats — Live Activity & Coding Telemetry</strong>*</summary>
+<summary id="wakatime">🛰️ <strong>WakaTime Operational Stats</strong> — Live Activity & Coding Telemetry*</summary>
 
 <br>
   
