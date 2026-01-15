@@ -156,7 +156,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <details open>
 <summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • Chile: America/Santiago UTC−3/UTC−4)*</summary>
 
-<sub>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status (GREEN/YELLOW/RED).</sub>
+>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status (GREEN/YELLOW/RED).
 
 
 
