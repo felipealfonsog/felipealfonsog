@@ -117,7 +117,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [<img src="https://img.shields.io/badge/Refresh_Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7&logoWidth=20" height="19"/>](https://github.com/felipealfonsog?cache-bypass=1) [<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
-[<img src="https://custom-icon-badges.demolab.com/badge/X-000000?logo=x&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://x.com/felipealfonsog)
+[<img src="https://custom-icon-badges.demolab.com/badge/X_(Twitter)-000000?logo=x&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://x.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
