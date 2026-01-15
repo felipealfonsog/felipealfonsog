@@ -192,22 +192,22 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 TIME DISCIPLINE / SITREP
 ────────────────────────────────────────────────────────
 REFERENCE: UTC(NIST) via NTP (time.nist.gov)
-UTC(NIST):   2026-01-15 12:12:28Z
-LOCAL:       2026-01-15 09:12:28 -0300 (America/Santiago)
+UTC(NIST):   2026-01-15 18:13:25Z
+LOCAL:       2026-01-15 15:13:25 -0300 (America/Santiago)
 
-RUNNER vs NIST (ref-midpoint): +0.001882 s
-NETWORK RTT:                0.053439 s
+RUNNER vs NIST (ref-midpoint): +0.016737 s
+NETWORK RTT:                0.085670 s
 
 - Watch: Festina
-- Drift (estimated): +29.1273 s/day
-- Offset vs UTC(NIST) (estimated now): +2.60 s
-- Calibration age: -0.00 days | Samples (model): 2 | Samples (total): 2
+- Drift (estimated): N/A (need ≥2 samples w/ distinct timestamps)
+- Offset vs UTC(NIST) (last known): +2.90 s
+- Calibration age: -0.00 days | Samples: 2
 EVENT: NONE
 
 STATUS: GREEN 🟢 TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
-Last update: 2026-01-15 12:12:28Z
+Last update: 2026-01-15 18:13:25Z
 ```
 <!--END_SECTION:atomic_time-->
 
