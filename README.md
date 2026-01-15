@@ -150,9 +150,10 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
  -->
 
+#
 
 <details open>
-<summary>🛰️ TIME DISCIPLINE / SITREP*</summary>
+<summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> – updated automatically every 6 hours.*</summary>
 
 <br>
 
