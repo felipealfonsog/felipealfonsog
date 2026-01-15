@@ -39,9 +39,9 @@ jobs:
           SHOW_LANGUAGES          = True
           SHOW_OPERATING_SYSTEMS  = True
           SHOW_EDITORS            = True
-          SHOW_PROJECTS           = True
+          SHOW_PROJECTS           = False
           SHOW_CATEGORIES         = True
-          SHOW_MACHINES           = True
+          SHOW_MACHINES           = False
 
           # ===== LIMITS =====
           MAX_LANGUAGES  = 10
