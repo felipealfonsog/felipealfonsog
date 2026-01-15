@@ -157,8 +157,8 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <br>
 
-> <sub>Atomic time telemetry synced to UTC(NIST). Tracks Festina offset/drift, detects clock adjustments (DST), and reports discipline status (GREEN/YELLOW/RED).</sub>
-> <sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
+> <sub>Atomic time telemetry synced to UTC(NIST). Operational SITREP: publishes reference time + network RTT, models Festina drift (s/day), estimates current offset, detects abrupt clock adjustments (DST/manual), and reports discipline status (GREEN/YELLOW/RED).</sub>
+
 
 <!--START_SECTION:atomic_time-->
 ```text
