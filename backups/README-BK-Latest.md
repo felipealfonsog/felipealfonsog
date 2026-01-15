@@ -155,8 +155,9 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <details open>
 <summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • Chile: America/Santiago UTC−3/UTC−4)*</summary>
 
+<!--
 <br>
-
+-->
 
 [![🛰️ WATCHOPS LIVE TIME](https://freeshell.de/felipe/watchops/live.svg.php?ver=1.0.1)](#)
 
@@ -171,11 +172,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 TIME DISCIPLINE / SITREP
 ────────────────────────────────────────────────────────
 REFERENCE: UTC(NIST) via NTP (time.nist.gov)
-UTC(NIST):   2026-01-15 04:21:29Z
-LOCAL:       2026-01-15 01:21:29 -0300 (America/Santiago)
+UTC(NIST):   2026-01-15 06:10:59Z
+LOCAL:       2026-01-15 03:10:59 -0300 (America/Santiago)
 
-RUNNER vs NIST (ref-midpoint): +0.023872 s
-NETWORK RTT:                0.103455 s
+RUNNER vs NIST (ref-midpoint): +0.009921 s
+NETWORK RTT:                0.070967 s
 
 - Watch: Festina
 - Drift (estimated): +29.1273 s/day
@@ -186,7 +187,7 @@ EVENT: NONE
 STATUS: GREEN ✅ TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
-Last update: 2026-01-15 04:21:29Z
+Last update: 2026-01-15 06:10:59Z
 ```
 <!--END_SECTION:atomic_time-->
 
@@ -239,7 +240,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Malicious SSO Logins Observed Following Disclosure of CVE-2025-59718 and CVE-2025-59719  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/694080a4ab8b36bfbdc0748c)
 
-<sub>_Last updated: 2026-01-15 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-15 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
