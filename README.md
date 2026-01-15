@@ -239,7 +239,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Malicious SSO Logins Observed Following Disclosure of CVE-2025-59718 and CVE-2025-59719  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/694080a4ab8b36bfbdc0748c)
 
-<sub>_Last updated: 2026-01-15 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-15 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
