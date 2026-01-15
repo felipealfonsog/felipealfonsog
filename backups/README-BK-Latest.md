@@ -152,33 +152,39 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 #
 
-#### 🛰️ TIME DISCIPLINE / SITREP*
+
+<details open>
+<summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • Chile: America/Santiago UTC−3/UTC−4)*</summary>
+
+
+<br>
 
 <!--START_SECTION:atomic_time-->
 ```text
 TIME DISCIPLINE / SITREP
 ────────────────────────────────────────────────────────
 REFERENCE: UTC(NIST) via NTP (time.nist.gov)
-UTC(NIST):   2026-01-14 22:14:20Z
-LOCAL:       2026-01-14 19:14:20 -0300 (America/Santiago)
+UTC(NIST):   2026-01-15 00:27:16Z
+LOCAL:       2026-01-14 21:27:16 -0300 (America/Santiago)
 
-RUNNER vs NIST (ref-midpoint): +0.016977 s
-NETWORK RTT:                0.065623 s
+RUNNER vs NIST (ref-midpoint): +0.011816 s
+NETWORK RTT:                0.044036 s
 
 - Watch: Festina
-- Drift (estimated): -29.1272 s/day
-- Offset vs UTC(NIST) (estimated now): +2.60 s
+- Drift (estimated): N/A (need ≥2 samples w/ distinct timestamps)
+- Offset vs UTC(NIST) (last known): +2.90 s
 - Calibration age: -0.00 days | Samples: 2
+EVENT: NONE
 
 STATUS: GREEN ✅ TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
-Last update: 2026-01-14 22:14:20Z
+Last update: 2026-01-15 00:27:16Z
 ```
 <!--END_SECTION:atomic_time-->
 
 <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://time.gov/">time.gov</a></sub>
-
+</details>
 
 <details>
 <summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
@@ -212,12 +218,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-55182  
+**Pulse**: Malicious SSO Logins Observed Following Disclosure of CVE-2025-59718 and CVE-2025-59719  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/694080a4ab8b36bfbdc0748c)
 
-<sub>_Last updated: 2026-01-14 18:03 UTC_</sub>
+<sub>_Last updated: 2026-01-15 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -810,7 +816,7 @@ Daily average    : 951 hrs 52 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
-Last updated     : 14/01/2026 22:08:40 UTC
+Last updated     : 15/01/2026 02:46:43 UTC
 
 LANGUAGES
 ---------
@@ -842,38 +848,12 @@ Dia            6 mins         ○○○○○○○○○○○○○○○○�
 Terminal       3 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 TextMate       1 min          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
-PROJECTS
---------
-gnlz.cl        135 hrs 32 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.24 %
-NovaNav        94 hrs 51 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○   9.96 %
-OptiCPU        47 hrs 23 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.98 %
-GitSyncMaster  38 hrs 10 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.01 %
-nymex-data.com 31 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.30 %
-Upd8All        31 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.26 %
-Development    26 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.83 %
-TermPDFViewer  26 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.74 %
-
 CATEGORIES
 ----------
 Coding         985 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Browsing       13 hrs 39 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.44 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
-
-MACHINES
---------
-Fellipes-MacBook-Air-M2.local  236 hrs 10 mins
-Felipes-MacBook-Air.local      204 hrs 36 mins
-SDFCSCX                        189 hrs 47 mins
-MacAir-Arch-LP1                84 hrs 44 mins
-LAION-C5-B7                    76 hrs 7 mins
-freeshell.de                   48 hrs 17 mins
-SDFCSC                         33 hrs 2 mins
-LAION-SETI-4B                  27 hrs 51 mins
-Felipes-MacBook-Air-Silicon.local 23 hrs 36 mins
-SETICSC                        14 hrs 5 mins
-LAION-5B                       13 hrs 35 mins
-ORGANA                         9 hrs 26 mins
 
 ```
 <!--END_SECTION:wakastats-->
