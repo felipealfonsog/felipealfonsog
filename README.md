@@ -157,9 +157,9 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <br>
 
-
+<!--
 ![🛰️ WATCHOPS LIVE TIME](https://freeshell.de/felipe/watchops/live.svg.php?ver=1.0.1)
-
+-->
 
 > <sub>Atomic time telemetry synced to UTC(NIST). Operational SITREP: publishes reference time + network RTT, models Festina drift (s/day), estimates current offset, detects abrupt clock adjustments (DST/manual), and reports discipline status (GREEN/YELLOW/RED).</sub>
 
