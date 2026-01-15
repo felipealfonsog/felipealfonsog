@@ -794,7 +794,11 @@ _______                  /__/
 -->
 
 <details open>
-<summary id="wakatime">:star2: <strong> Wakatime</strong>*</summary>
+  
+<!-- <summary id="wakatime">:star2: <strong> Wakatime Stats</strong>*</summary> -->
+
+<summary id="wakatime">:star2: <strong>WakaTime Stats</strong> <sub>— activity tracking</sub></summary>
+
 <br>
   
 [![Waka Readme](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-readme.yml/badge.svg)](#)
