@@ -259,12 +259,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Hostname  
-**Indicator**: startmenuexperiencehost.ydns.eu  
-**Pulse**: BlindEagle Targets Colombian Government Agency with Caminho and DCRAT  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69421a1f3d6e9eac9a0ce057)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2026-01-16 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-16 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
