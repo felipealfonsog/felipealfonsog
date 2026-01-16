@@ -117,7 +117,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [<img src="https://img.shields.io/badge/Refresh_Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7&logoWidth=20" height="19"/>](https://github.com/felipealfonsog?cache-bypass=1) [<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
-[<img src="https://custom-icon-badges.demolab.com/badge/X_(Twitter)-000000?logo=x&logoColor=white&labelColor=000000&logoWidth=20" height="19"/>](https://x.com/felipealfonsog)
+[<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white&labelColor=000000&color=000000&logoSize=20" height="19"/>](https://x.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
@@ -192,22 +192,22 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 TIME DISCIPLINE / SITREP
 ────────────────────────────────────────────────────────
 REFERENCE: UTC(NIST) via NTP (time.nist.gov)
-UTC(NIST):   2026-01-15 07:42:33Z
-LOCAL:       2026-01-15 04:42:33 -0300 (America/Santiago)
+UTC(NIST):   2026-01-16 06:11:15Z
+LOCAL:       2026-01-16 03:11:15 -0300 (America/Santiago)
 
-RUNNER vs NIST (ref-midpoint): +0.005230 s
-NETWORK RTT:                0.040169 s
+RUNNER vs NIST (ref-midpoint): +0.016103 s
+NETWORK RTT:                0.086033 s
 
 - Watch: Festina
-- Drift (estimated): N/A (need ≥2 samples w/ distinct timestamps)
-- Offset vs UTC(NIST) (last known): +2.90 s
-- Calibration age: -0.00 days | Samples: 2
+- Drift (estimated): +14.5637 s/day
+- Offset vs UTC(NIST) (estimated now): +2.60 s
+- Calibration age: -0.00 days | Samples (model): 2 | Samples (total): 2
 EVENT: NONE
 
 STATUS: GREEN 🟢 TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
-Last update: 2026-01-15 07:42:33Z
+Last update: 2026-01-16 06:11:15Z
 ```
 <!--END_SECTION:atomic_time-->
 
@@ -255,12 +255,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Cve  
-**Indicator**: CVE-2025-55182  
-**Pulse**: Malicious SSO Logins Observed Following Disclosure of CVE-2025-59718 and CVE-2025-59719  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/694080a4ab8b36bfbdc0748c)
+**Threat Type**: Hostname  
+**Indicator**: startmenuexperiencehost.ydns.eu  
+**Pulse**: BlindEagle Targets Colombian Government Agency with Caminho and DCRAT  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69421a1f3d6e9eac9a0ce057)
 
-<sub>_Last updated: 2026-01-15 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-16 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -863,38 +863,38 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 15 January 2026
+From: 04 December 2023 - To: 16 January 2026
 
-Total Time       : 952 hrs 32 mins
+Total Time       : 954 hrs 38 mins
 Mostly coding in : Bash
-Daily average    : 952 hrs 32 mins
+Daily average    : 954 hrs 38 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           162 hrs 18 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.04 %
-Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.06 %
-HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
-PHP            107 hrs 41 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.31 %
-Markdown       77 hrs 11 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.10 %
-C              73 hrs 29 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.72 %
-Other          57 hrs 34 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.04 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.20 %
-Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.98 %
-INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
+Bash           162 hrs 20 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
+Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.03 %
+HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.13 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.39 %
+Markdown       77 hrs 33 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
+C              73 hrs 29 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.70 %
+Other          67 hrs 2 mins  ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.02 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.19 %
+Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.97 %
+INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.74 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          543 hrs 7 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.02 %
-Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  49.03 %
+Linux          554 hrs 40 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.10 %
+Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.92 %
 
 EDITORS
 -------
-VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.29 %
-Vim            321 hrs 12 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.72 %
-Firefox        23 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.49 %
+VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.14 %
+Vim            321 hrs 21 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.66 %
+Firefox        35 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.68 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.22 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Antigravity    14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
@@ -904,13 +904,13 @@ TextMate       1 min          ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         985 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       23 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.49 %
+Coding         985 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       35 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.68 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 15/01/2026 10:10:14 UTC
+Last updated     : 16/01/2026 04:23:54 UTC
 
 ```
 <!--END_SECTION:wakastats-->
