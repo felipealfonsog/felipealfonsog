@@ -973,16 +973,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/leonoffou">
-        <img src="https://avatars2.githubusercontent.com/u/234296670" style="width:30px; height:30px;" alt="leonoffou"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/leonoffou">Leonid Kuznetsov</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
@@ -1009,6 +999,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
