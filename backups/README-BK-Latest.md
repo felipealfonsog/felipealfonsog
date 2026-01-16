@@ -32,7 +32,7 @@ From [Perl](https://www.perl.org/) nights to early web stacks ([Flash](https://e
 [Linux](https://en.wikipedia.org/wiki/Linux) remains my lab, my server backbone, and my home.
 -->
 
-I still keep my 90s-era [Perl](https://www.perl.org/) book (~1200 pages) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
+I still keep my 90s-era [Perl](https://www.perl.org/) book — [The “Camel Book”](https://www.amazon.com/Programming-Perl-3rd-Larry-Wall/dp/0596000278?utm_source=chatgpt.com) (~1200 pages) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
 
 Some of my earliest engineering memories are [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) nights, [SSH](https://en.wikipedia.org/wiki/Secure_Shell) sessions, and multi-user [Linux](https://en.wikipedia.org/wiki/Linux) systems — learning by building, breaking, and fixing.
 
@@ -919,7 +919,7 @@ Writing Docs   35 mins        ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 16/01/2026 08:10:23 UTC
+Last updated     : 16/01/2026 08:23:22 UTC
 
 ```
 <!--END_SECTION:wakastats-->
