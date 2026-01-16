@@ -32,7 +32,7 @@ From [Perl](https://www.perl.org/) nights to early web stacks ([Flash](https://e
 [Linux](https://en.wikipedia.org/wiki/Linux) remains my lab, my server backbone, and my home.
 -->
 
-I still keep my 90s-era [Perl](https://www.perl.org/) book — [The “Camel Book”](https://www.amazon.com/Programming-Perl-3rd-Larry-Wall/dp/0596000278?utm_source=chatgpt.com) (~1,000+ pages) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
+I still keep my 90s-era [Perl](https://www.perl.org/) book — [The “Camel Book”](https://www.amazon.com/Programming-Perl-3rd-Larry-Wall/dp/0596000278) (~1,000+ pages) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
 
 Back in the early 2000s, I once served as the sysadmin for a small newspaper: the owner handed me cash, I bought the server in San Miguel, took a taxi to downtown Santiago, and walked through Calle Moneda in [Santiago](https://en.wikipedia.org/wiki/Santiago) carrying that machine in my arms to a data center for installation. The network team allowed me to run [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux) on it — and I maintained the whole thing myself via [SSH](https://en.wikipedia.org/wiki/Secure_Shell): [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server), ops, uptime, and survival. Before [Facebook](https://en.wikipedia.org/wiki/Facebook) existed, I built the newspaper platform too — including threaded discussions in the publications, mixing [CGI](https://en.wikipedia.org/wiki/Common_Gateway_Interface) with [PHP](https://en.wikipedia.org/wiki/PHP) and other early-web craftsmanship. In those early 2000s days, I come from the old school: moving files with [SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol) between machines, running [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) in pure terminal (no GUI) — just `psql`, logs, and uptime.
 
@@ -973,6 +973,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
+      <a href="https://github.com/leonoffou">
+        <img src="https://avatars2.githubusercontent.com/u/234296670" style="width:30px; height:30px;" alt="leonoffou"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/leonoffou">Leonid Kuznetsov</a>
+      </sub>
+    </li>
+    <br>
+    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
@@ -999,16 +1009,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
-      </sub>
-    </li>
-    <br>
-    <li>
-      <a href="https://github.com/clsource">
-        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
