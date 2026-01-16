@@ -255,12 +255,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 1e0f94e8ec83c1879ccd25fec59098f1  
-**Pulse**: CastleLoader Malware Analysis: Full Execution Breakdown  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6969099d2879e4c697a45427)
+**Threat Type**: Hostname  
+**Indicator**: startmenuexperiencehost.ydns.eu  
+**Pulse**: BlindEagle Targets Colombian Government Agency with Caminho and DCRAT  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69421a1f3d6e9eac9a0ce057)
 
-<sub>_Last updated: 2026-01-16 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-16 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
