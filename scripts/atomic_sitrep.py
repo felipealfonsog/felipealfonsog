@@ -347,7 +347,7 @@ NETWORK RTT:                {rtt:.6f} s
 {status}
 {note}
 ────────────────────────────────────────────────────────
-Last update: {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")}Z
+Last update: {datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")} (UTC)
 ```"""
     print(block)
 
