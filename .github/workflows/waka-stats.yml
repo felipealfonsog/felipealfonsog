@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # shifted minute to avoid colliding with your other waka workflow
+    # - cron: '7 0-4,10-15,17-22 * * *'
     - cron: '0 0-4,10-15,17-22 * * *'
 
 permissions:
@@ -41,6 +42,7 @@ jobs:
           SHOW_PROJECTS           = False
           SHOW_CATEGORIES         = True
           SHOW_MACHINES           = False
+          SHOW_LAST_UPDATED       = True   # ✅ NEW TOGGLE
 
           # ===== LIMITS =====
           MAX_LANGUAGES  = 10
@@ -146,14 +148,12 @@ jobs:
 
           if start_d and end_d:
               range_line = f"From: {pretty_date(start_d)} - To: {pretty_date(end_d)}"
-              # ✅ Correct daily average: use real date span (inclusive)
               span_days = (end_d - start_d).days + 1
               if span_days < 1:
                   span_days = 1
               daily_avg = fmt_hhmm(total / span_days)
           else:
               range_line = "From: N/A - To: N/A"
-              # fallback (keep it honest)
               daily_avg = "N/A"
 
           languages = cleaned(stats.get("languages", []))
@@ -171,7 +171,7 @@ jobs:
               "======================\n\n"
           )
 
-          # HEADER (sin last updated)
+          # HEADER
           if SHOW_HEADER_INFO:
               content += (
                   f"{range_line}\n\n"
@@ -186,7 +186,7 @@ jobs:
               pattern = activity_pattern_from_best_day(best)
               content += f"Activity pattern : {pattern}\n"
 
-          # SECCIONES
+          # SECTIONS
           if SHOW_LANGUAGES:
               content += section("LANGUAGES", stats.get("languages", []), limit=MAX_LANGUAGES)
 
@@ -208,11 +208,12 @@ jobs:
               for m in machines[:MAX_MACHINES]:
                   content += f"{m['name']:<30} {m['text']}\n"
 
-          # ✅ LAST UPDATED AL FINAL (formato CLI)
-          content += "\n" + ("-" * 22) + "\n"
-          content += f"Last updated     : {now_utc}\n"
+          # ✅ LAST UPDATED (optional)
+          if SHOW_LAST_UPDATED:
+              content += "\n" + ("-" * 22) + "\n"
+              content += f"Last updated     : {now_utc}\n"
 
-          # Render as a single code block for stable alignment
+          # Render as code block
           content = f"```\n{content}\n```"
 
           with open("README.md", "r", encoding="utf-8") as f:
