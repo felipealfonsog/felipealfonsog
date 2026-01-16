@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     # shifted minute to avoid colliding with your other waka workflow
-    # - cron: '7 0-4,10-15,17-22 * * *'
     - cron: '0 0-4,10-15,17-22 * * *'
 
 permissions:
@@ -33,16 +32,27 @@ jobs:
           HALF  = "◔"
           BAR_LEN = 26
 
+          # ============================================================
+          # HEADER TOGGLES (TRUE/FALSE PER LINE)
+          # ============================================================
+          SHOW_HEADER_BLOCK     = True   # master switch for header block
+
+          SHOW_RANGE_LINE       = True
+          SHOW_TOTAL_TIME       = True
+          SHOW_MOSTLY_CODING    = True
+          SHOW_DAILY_AVERAGE    = True
+          SHOW_BEST_DAY         = True
+          SHOW_TIME_ZONE        = True
+          SHOW_ACTIVITY_PATTERN = True
+
           # ===== SECTION TOGGLES =====
-          SHOW_HEADER_INFO        = True   # Total time, mostly, daily avg, best day, tz, from-to
-          SHOW_ACTIVITY_PATTERN   = True
           SHOW_LANGUAGES          = True
           SHOW_OPERATING_SYSTEMS  = True
           SHOW_EDITORS            = True
           SHOW_PROJECTS           = False
           SHOW_CATEGORIES         = True
           SHOW_MACHINES           = False
-          SHOW_LAST_UPDATED       = True   # ✅ NEW TOGGLE
+          SHOW_LAST_UPDATED       = True
 
           # ===== LIMITS =====
           MAX_LANGUAGES  = 10
@@ -171,22 +181,35 @@ jobs:
               "======================\n\n"
           )
 
-          # HEADER
-          if SHOW_HEADER_INFO:
-              content += (
-                  f"{range_line}\n\n"
-                  f"Total Time       : {stats.get('human_readable_total', 'N/A')}\n"
-                  f"Mostly coding in : {mostly}\n"
-                  f"Daily average    : {daily_avg}\n"
-                  f"Best day         : {best_str}\n"
-                  f"Time zone        : {timezone}\n"
-              )
+          # ============================================================
+          # HEADER BLOCK (controlled per-line)
+          # ============================================================
+          if SHOW_HEADER_BLOCK:
+              if SHOW_RANGE_LINE:
+                  content += f"{range_line}\n\n"
 
-          if SHOW_ACTIVITY_PATTERN:
-              pattern = activity_pattern_from_best_day(best)
-              content += f"Activity pattern : {pattern}\n"
+              if SHOW_TOTAL_TIME:
+                  content += f"Total Time       : {stats.get('human_readable_total', 'N/A')}\n"
 
+              if SHOW_MOSTLY_CODING:
+                  content += f"Mostly coding in : {mostly}\n"
+
+              if SHOW_DAILY_AVERAGE:
+                  content += f"Daily average    : {daily_avg}\n"
+
+              if SHOW_BEST_DAY:
+                  content += f"Best day         : {best_str}\n"
+
+              if SHOW_TIME_ZONE:
+                  content += f"Time zone        : {timezone}\n"
+
+              if SHOW_ACTIVITY_PATTERN:
+                  pattern = activity_pattern_from_best_day(best)
+                  content += f"Activity pattern : {pattern}\n"
+
+          # ============================================================
           # SECTIONS
+          # ============================================================
           if SHOW_LANGUAGES:
               content += section("LANGUAGES", stats.get("languages", []), limit=MAX_LANGUAGES)
 
@@ -208,12 +231,12 @@ jobs:
               for m in machines[:MAX_MACHINES]:
                   content += f"{m['name']:<30} {m['text']}\n"
 
-          # ✅ LAST UPDATED (optional)
+          # LAST UPDATED
           if SHOW_LAST_UPDATED:
               content += "\n" + ("-" * 22) + "\n"
               content += f"Last updated     : {now_utc}\n"
 
-          # Render as code block
+          # Render as a single code block for stable alignment
           content = f"```\n{content}\n```"
 
           with open("README.md", "r", encoding="utf-8") as f:
