@@ -38,7 +38,11 @@ Back in the early 2000s, I once served as the sysadmin for a small newspaper: th
 
 In those early 2000s days, I come from the old school: moving files with [SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol) between machines, running [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) in pure terminal (no GUI) — just `psql`, logs, and uptime.
 
-I still remember nights in [Santiago](https://en.wikipedia.org/wiki/Santiago) working inside the [Palacio de La Moneda](https://en.wikipedia.org/wiki/Palacio_de_La_Moneda), learning Postgres from my mentor, [Dario Riquelme Zornow](https://www.linkedin.com/in/dario-riquelme-zornow/), in a server hall until 5 AM — walls of terminals, live data, [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) everywhere, [Fluxbox](https://en.wikipedia.org/wiki/Fluxbox) on the desktop. That was my training ground. I’m still grateful for that mentorship.
+In those 90s and early 2000s days, I come from the old school: moving files with [SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol) between machines, running [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) in pure terminal (no GUI) — just `psql`, logs, and uptime.
+
+In those 90s and early 2000s days, I come from the old school: moving files with [SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol) between machines, running [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) in pure terminal (no GUI) — just `psql`, logs, and uptime.
+
+I still remember nights in [Santiago](https://en.wikipedia.org/wiki/Santiago) working inside the [Palacio de La Moneda](https://en.wikipedia.org/wiki/Palacio_de_La_Moneda), learning Postgres from my mentor, [Dario Riquelme Zornow](https://www.linkedin.com/in/dario-riquelme-zornow/), in a server hall until 5 AM — walls of terminals, live data, [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) everywhere, [Fluxbox](https://en.wikipedia.org/wiki/Fluxbox) on the desktop. That was my training ground. In that same era, [Smith Saavedra](https://www.linkedin.com/in/smith-saavedra/) and [Mauricio Alberto Robles Marambio](https://www.linkedin.com/in/mrobles/) were also incredible mentors. I’m still grateful for that mentorship.
 
 Some of my earliest engineering memories are [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) nights, [SSH](https://en.wikipedia.org/wiki/Secure_Shell) sessions, and multi-user [Linux](https://en.wikipedia.org/wiki/Linux) systems — learning by building, breaking, and fixing.
 
