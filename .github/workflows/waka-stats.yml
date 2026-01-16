@@ -28,9 +28,9 @@ jobs:
           auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
 
           # ===== LOOK & FEEL =====
-          EMPTY = "?"
-          FULL  = "?"
-          HALF  = "?"
+          EMPTY = "○"
+          FULL  = "●"
+          HALF  = "◔"
           BAR_LEN = 26
 
           # ============================================================
@@ -171,7 +171,7 @@ jobs:
           mostly = languages[0]["name"] if languages else "N/A"
 
           best = stats.get("best_day")
-          best_str = f"{best['date']} -- {best['text']}" if best else "N/A"
+          best_str = f"{best['date']} — {best['text']}" if best else "N/A"
 
           timezone = stats.get("timezone", "N/A")
 
