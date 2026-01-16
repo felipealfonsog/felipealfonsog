@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     # shifted minute to avoid colliding with your other waka workflow
-    # - cron: '7 0-4,10-15,17-22 * * *'
     - cron: '0 0-4,10-15,17-22 * * *'
 
 permissions:
@@ -147,14 +146,18 @@ jobs:
 
           if start_d and end_d:
               range_line = f"From: {pretty_date(start_d)} - To: {pretty_date(end_d)}"
+              # ✅ Correct daily average: use real date span (inclusive)
+              span_days = (end_d - start_d).days + 1
+              if span_days < 1:
+                  span_days = 1
+              daily_avg = fmt_hhmm(total / span_days)
           else:
               range_line = "From: N/A - To: N/A"
+              # fallback (keep it honest)
+              daily_avg = "N/A"
 
           languages = cleaned(stats.get("languages", []))
           mostly = languages[0]["name"] if languages else "N/A"
-
-          days = int(stats.get("days", 1)) or 1
-          daily_avg = fmt_hhmm(int(total / days))
 
           best = stats.get("best_day")
           best_str = f"{best['date']} — {best['text']}" if best else "N/A"
