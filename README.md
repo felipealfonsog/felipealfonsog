@@ -826,16 +826,16 @@ _______                  /__/
 <br>
   
 [![Waka Readme](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-readme.yml/badge.svg)](#)
-  
-[![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
 
-<!-- 
-https://wakatime.com/@felipealfonsog
+  <!--
+[![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
 -->
 
 [![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@felipealfonsog)
 
-[![wakatime](https://wakatime.com/badge/user/felipealfonsog.svg)](https://wakatime.com/@felipealfonsog)
+<!-- 
+https://wakatime.com/@felipealfonsog
+-->
 
 
 <!--
