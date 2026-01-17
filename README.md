@@ -259,12 +259,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: ded68a8f5d0765740d469c08bd66270097f3474eab92ee1e65ddcdd6d15fca6e  
+**Pulse**: GachiLoader: Defeating Node.js Malware with API Tracing  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69431f1ea8a0f2257edd336c)
 
-<sub>_Last updated: 2026-01-16 18:02 UTC_</sub>
+<sub>_Last updated: 2026-01-17 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
