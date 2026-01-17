@@ -251,7 +251,7 @@ Last update: 2026-01-17T06:09:30Z (UTC)
 #
 
 <details open>
-  <summary id="voyager"><strong>🛰️ Voyager Telemetry (CLI feed)</strong> — NASA/JPL</summary>
+  <summary id="voyager"><strong>🛰️ Voyager Telemetry (CLI feed)</strong> — NASA/JPL*</summary>
 <br>
 
 > <sub>I built this CLI-style Voyager feed to keep a tiny piece of NASA/JPL Mission Control in my GitHub profile. It pulls live DSN snapshot data (when available) and JPL Horizons navigation vectors (distance, AU, light-time). I love science — especially when it becomes engineering, telemetry, and real-world signals.</sub>
@@ -299,6 +299,9 @@ Report generated (UTC)   : 2026-01-17 11:00:04Z
 ```
 
 <!-- VOYAGER:END -->
+
+<sub>* Data sources: <a href="https://eyes.jpl.nasa.gov/dsn/" target="_blank">NASA/JPL DSN Now</a> (Deep Space Network) + 
+<a href="https://ssd.jpl.nasa.gov/horizons/" target="_blank">JPL Horizons</a> (navigation vectors). Rendered as a CLI-style report via GitHub Actions.</sub>
 
 </details>
 
