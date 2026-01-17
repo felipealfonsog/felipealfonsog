@@ -260,8 +260,8 @@ Last update: 2026-01-17T06:09:30Z (UTC)
 ```text
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
-DSN endpoint (source)    : https://eyes.nasa.gov/apps/dsn-now/dsn.xml
-DSN snapshot (UTC)       : 2023-04-05 20:14:08Z
+DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
+DSN snapshot (UTC)       : 2026-01-17 10:38:33Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 DSN lock (now)           : FALSE
@@ -270,8 +270,10 @@ Downlink                 : -
 Uplink                   : -
 Signal (power/freq)      : -
 ------------------------------------------------------------
-NAV (Horizons)           : ERROR
-Details                  : could not convert string to float: 'A.E. 2026-Jan-17 10:33:00.0000'
+Earth distance           : 25.44e9 km | 170.031 AU
+Relative speed           : 26.840 km/s
+One-way light time       : 23:34:06
+Round-trip latency       : 47:08:13
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 DSN lock (now)           : FALSE
@@ -280,13 +282,13 @@ Downlink                 : -
 Uplink                   : -
 Signal (power/freq)      : -
 ------------------------------------------------------------
-NAV (Horizons)           : ERROR
-Details                  : Horizons: could not locate $$SOE/$$EOE block
-
-No ephemeris for target "NEOS (spacecraft)" prior to A.D. 2027-SEP-13 12:00:00.0000 TDB
+Earth distance           : 21.34e9 km | 142.625 AU
+Relative speed           : 33.512 km/s
+One-way light time       : 19:46:10
+Round-trip latency       : 39:32:21
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
-Last refresh (UTC)       : 2026-01-17 10:33:21Z
+Last refresh (UTC)       : 2026-01-17 10:38:37Z
 ```
 
 <!-- VOYAGER:END -->
