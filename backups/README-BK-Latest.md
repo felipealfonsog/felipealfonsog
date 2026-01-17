@@ -311,7 +311,9 @@ Report generated (UTC)   : 2026-01-17 11:00:04Z
 
 <sub>*Data sources: <a href="https://eyes.jpl.nasa.gov/dsn/" target="_blank">NASA/JPL DSN Now</a> (Deep Space Network) &amp;
 <a href="https://ssd.jpl.nasa.gov/horizons/" target="_blank">JPL Horizons</a> (navigation vectors). Rendered as a CLI-style report via GitHub Actions.<br>
-Note: Values are derived from public NASA/JPL feeds (DSN + Horizons).</sub>
+Note: Values are derived from public NASA/JPL feeds (DSN + Horizons).<br>
+Note: <code>-</code> indicates <em>N/A</em> (no active DSN pass / no live link telemetry available at snapshot time).</sub>
+
 
 
 </details>
