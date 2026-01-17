@@ -256,13 +256,34 @@ Last update: 2026-01-17T06:09:30Z (UTC)
 <br/>
 
 <!-- VOYAGER:START -->
-
 ```text
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
-Status        : INIT
-Last refresh  : -
-
-
+------------------------------------------------------------
+DSN snapshot (UTC)      : 2023-04-05 20:14:08Z
+------------------------------------------------------------
+Target                  : VOYAGER 1
+DSN lock (now)          : FALSE
+DSN dish                : -
+Downlink                : -
+Uplink                  : -
+Signal (power/freq)     : -
+------------------------------------------------------------
+NAV (Horizons)          : ERROR
+Details                 : Horizons: no vector line found
+------------------------------------------------------------
+Target                  : VOYAGER 2
+DSN lock (now)          : FALSE
+DSN dish                : -
+Downlink                : -
+Uplink                  : -
+Signal (power/freq)     : -
+------------------------------------------------------------
+NAV (Horizons)          : ERROR
+Details                 : Horizons: could not locate $$SOE/$$EOE block
+------------------------------------------------------------
+Interstellar data (ref) : >65,000,000,000 bits returned (historical NASA milestone)
+Last refresh (UTC)      : 2026-01-17 10:27:39Z
+```
 <!-- VOYAGER:END -->
 
 </details>
