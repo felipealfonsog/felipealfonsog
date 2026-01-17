@@ -3,7 +3,6 @@ name: Voyager Telemetry (CLI style)
 on:
   workflow_dispatch:
   schedule:
-    # - cron: "*/30 * * * *"
     - cron: "17 */6 * * *"
 
 permissions:
@@ -24,19 +23,22 @@ jobs:
           from datetime import datetime, timedelta, timezone
 
           # -----------------------------
-          # DSN (fallback endpoints)
+          # DSN NOW (use the endpoint that is actually live)
           # -----------------------------
           DSN_XML_CANDIDATES = [
-            "https://eyes.nasa.gov/apps/dsn-now/dsn.xml",
+            "https://eyes.jpl.nasa.gov/dsn/data/dsn.xml",
             "https://eyes.nasa.gov/dsn/data/dsn.xml",
-            "https://ssd.jpl.nasa.gov/dsn/data/dsn.xml",
+            "https://eyes.nasa.gov/apps/dsn-now/dsn.xml",
           ]
 
+          # Horizons API (official)
           HORIZONS_API = "https://ssd.jpl.nasa.gov/api/horizons.api"
 
+          # Correct Voyager spacecraft IDs for Horizons usage
+          # Voyager 1: -31, Voyager 2: -32
           VOYAGERS = [
-            ("VOYAGER 1", "-32"),
-            ("VOYAGER 2", "-33"),
+            ("VOYAGER 1", "-31"),
+            ("VOYAGER 2", "-32"),
           ]
 
           C_KM_S = 299792.458
@@ -55,6 +57,9 @@ jobs:
             with urllib.request.urlopen(req, timeout=timeout) as r:
               return r.read()
 
+          # -----------------------------
+          # DSN
+          # -----------------------------
           def fetch_dsn_xml():
             last_err = None
             for url in DSN_XML_CANDIDATES:
@@ -107,6 +112,17 @@ jobs:
 
             return ts_utc, links
 
+          def best_dsn_link(entries):
+            if not entries:
+              return None
+            for e in entries:
+              if (e["down"].get("active") == "true") or (e["up"].get("active") == "true"):
+                return e
+            return entries[0]
+
+          # -----------------------------
+          # HORIZONS (robust CSV vectors)
+          # -----------------------------
           def horizons_vectors(spkid: str):
             now = datetime.now(timezone.utc).replace(second=0, microsecond=0)
             stop = now + timedelta(minutes=2)
@@ -115,49 +131,59 @@ jobs:
               "format": "json",
               "COMMAND": f"'{spkid}'",
               "MAKE_EPHEM": "YES",
-              "EPHEM_TYPE": "VECTORS",
-              "CENTER": "'500@399'",
+              "TABLE_TYPE": "VECTORS",
+              "CENTER": "'500@399'",         # Earth geocenter
               "START_TIME": f"'{now.strftime('%Y-%m-%d %H:%M')}'",
               "STOP_TIME": f"'{stop.strftime('%Y-%m-%d %H:%M')}'",
               "STEP_SIZE": "'1 m'",
               "OUT_UNITS": "KM-S",
               "CSV_FORMAT": "YES",
-              "VEC_TABLE": "2",
+              "VEC_TABLE": "3",              # includes LT, range, range-rate in many cases
+              "VEC_LABELS": "NO",
               "OBJ_DATA": "NO",
             }
 
             url = HORIZONS_API + "?" + urllib.parse.urlencode(params, safe="'@,:")
             data = json.loads(http_get(url).decode("utf-8", "replace"))
-
-            if "result" not in data:
-              raise RuntimeError("Horizons: missing result in response")
-
-            txt = data["result"]
+            txt = data.get("result", "")
 
             m = re.search(r"\$\$SOE\s*(.*?)\s*\$\$EOE", txt, flags=re.S)
             if not m:
-              snippet = "\n".join(txt.splitlines()[:50])
+              snippet = "\n".join(txt.splitlines()[:60])
               raise RuntimeError("Horizons: could not locate $$SOE/$$EOE block\n" + snippet)
 
+            # find first CSV line with enough fields
             lines = [ln.strip() for ln in m.group(1).splitlines() if ln.strip()]
-            if not lines:
-              raise RuntimeError("Horizons: empty SOE block")
-
             row = None
             for ln in lines:
               parts = [p.strip() for p in ln.split(",")]
-              if len(parts) >= 7 and re.search(r"[0-9]", parts[1]):
-                row = parts
-                break
-
+              if len(parts) < 9:
+                continue
+              row = parts
+              break
             if not row:
-              raise RuntimeError("Horizons: no parseable CSV vector row found")
+              raise RuntimeError("Horizons: no parseable CSV row found")
 
-            def f(x: str) -> float:
-              return float(x.replace("D","E"))
+            # Row pattern (typical):
+            # [0]=JDTDB, [1]=Calendar Date, then numeric columns start at [2]
+            # We robustly pick the first 6 consecutive float-convertible fields as X,Y,Z,VX,VY,VZ.
+            floats = []
+            for p in row:
+              try:
+                floats.append(float(p.replace("D","E")))
+              except Exception:
+                floats.append(None)
 
-            x, y, z = f(row[1]), f(row[2]), f(row[3])
-            vx, vy, vz = f(row[4]), f(row[5]), f(row[6])
+            start = None
+            for i in range(len(floats) - 5):
+              chunk = floats[i:i+6]
+              if all(v is not None for v in chunk):
+                start = i
+                break
+            if start is None:
+              raise RuntimeError(f"Horizons: could not locate 6 consecutive numeric fields in row: {row[:10]}")
+
+            x, y, z, vx, vy, vz = floats[start:start+6]
 
             dist_km = math.sqrt(x*x + y*y + z*z)
             speed_kms = math.sqrt(vx*vx + vy*vy + vz*vz)
@@ -186,25 +212,20 @@ jobs:
             if n >= 1e6: return f"{n/1e6:.2f}e6 km"
             return f"{n:.0f} km"
 
-          def best_dsn_link(entries):
-            if not entries:
-              return None
-            for e in entries:
-              if (e["down"].get("active") == "true") or (e["up"].get("active") == "true"):
-                return e
-            return entries[0]
-
+          # -----------------------------
+          # Build output + patch README
+          # -----------------------------
           now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
 
           dsn_url, dsn_xml = fetch_dsn_xml()
           dsn_ts, dsn_links = parse_dsn(dsn_xml)
           dsn_ts_s = dsn_ts.strftime("%Y-%m-%d %H:%M:%SZ") if dsn_ts else "UNKNOWN"
 
-          lines = []
-          lines.append("VOYAGER TELEMETRY — CLI FEED (NASA/JPL)")
-          lines.append("------------------------------------------------------------")
-          lines.append(f"DSN endpoint (source)    : {dsn_url}")
-          lines.append(f"DSN snapshot (UTC)       : {dsn_ts_s}")
+          out = []
+          out.append("VOYAGER TELEMETRY — CLI FEED (NASA/JPL)")
+          out.append("------------------------------------------------------------")
+          out.append(f"DSN endpoint (source)    : {dsn_url}")
+          out.append(f"DSN snapshot (UTC)       : {dsn_ts_s}")
 
           for name, spkid in VOYAGERS:
             nav = None
@@ -217,9 +238,9 @@ jobs:
             link = best_dsn_link(dsn_links.get(name, []))
             lock_now = "TRUE" if (link and ((link["down"].get("active")=="true") or (link["up"].get("active")=="true"))) else "FALSE"
 
-            lines.append("------------------------------------------------------------")
-            lines.append(f"Target                   : {name}")
-            lines.append(f"DSN lock (now)           : {lock_now}")
+            out.append("------------------------------------------------------------")
+            out.append(f"Target                   : {name}")
+            out.append(f"DSN lock (now)           : {lock_now}")
 
             if link:
               down = link["down"]
@@ -229,32 +250,32 @@ jobs:
               band = down.get("band") or "-"
               pwr = down.get("power") or "-"
               frq = down.get("frequency") or "-"
-              lines.append(f"DSN dish                 : {dish}")
-              lines.append(f"Downlink                 : {dr} bps | band={band} | active={down.get('active','false')}")
-              lines.append(f"Uplink                   : active={up.get('active','false')} | type={up.get('signalType','-')}")
-              lines.append(f"Signal (power/freq)      : {pwr} dB | {frq}")
+              out.append(f"DSN dish                 : {dish}")
+              out.append(f"Downlink                 : {dr} bps | band={band} | active={down.get('active','false')}")
+              out.append(f"Uplink                   : active={up.get('active','false')} | type={up.get('signalType','-')}")
+              out.append(f"Signal (power/freq)      : {pwr} dB | {frq}")
             else:
-              lines.append("DSN dish                 : -")
-              lines.append("Downlink                 : -")
-              lines.append("Uplink                   : -")
-              lines.append("Signal (power/freq)      : -")
+              out.append("DSN dish                 : -")
+              out.append("Downlink                 : -")
+              out.append("Uplink                   : -")
+              out.append("Signal (power/freq)      : -")
 
             if nav:
-              lines.append("------------------------------------------------------------")
-              lines.append(f"Earth distance           : {fmt_km(nav['dist_km'])} | {nav['dist_au']:.3f} AU")
-              lines.append(f"Relative speed           : {nav['speed_kms']:.3f} km/s")
-              lines.append(f"One-way light time       : {fmt_s_to_hms(nav['one_way_s'])}")
-              lines.append(f"Round-trip latency       : {fmt_s_to_hms(nav['rt_s'])}")
+              out.append("------------------------------------------------------------")
+              out.append(f"Earth distance           : {fmt_km(nav['dist_km'])} | {nav['dist_au']:.3f} AU")
+              out.append(f"Relative speed           : {nav['speed_kms']:.3f} km/s")
+              out.append(f"One-way light time       : {fmt_s_to_hms(nav['one_way_s'])}")
+              out.append(f"Round-trip latency       : {fmt_s_to_hms(nav['rt_s'])}")
             else:
-              lines.append("------------------------------------------------------------")
-              lines.append("NAV (Horizons)           : ERROR")
-              lines.append(f"Details                  : {nav_err or 'unknown'}")
+              out.append("------------------------------------------------------------")
+              out.append("NAV (Horizons)           : ERROR")
+              out.append(f"Details                  : {nav_err}")
 
-          lines.append("------------------------------------------------------------")
-          lines.append("Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)")
-          lines.append(f"Last refresh (UTC)       : {now_utc}")
+          out.append("------------------------------------------------------------")
+          out.append("Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)")
+          out.append(f"Last refresh (UTC)       : {now_utc}")
 
-          block = "```text\n" + "\n".join(lines).rstrip() + "\n```\n"
+          block = "```text\n" + "\n".join(out).rstrip() + "\n```\n"
 
           readme_path = "README.md"
           with open(readme_path, "r", encoding="utf-8") as f:
@@ -274,13 +295,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add README.md
-
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
-
           git commit -m "chore: update Voyager telemetry block"
           git push
