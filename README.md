@@ -256,34 +256,39 @@ Last update: 2026-01-17T06:09:30Z (UTC)
 <br/>
 
 <!-- VOYAGER:START -->
+
 ```text
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
-DSN snapshot (UTC)      : 2023-04-05 20:14:08Z
+DSN endpoint (source)    : https://eyes.nasa.gov/apps/dsn-now/dsn.xml
+DSN snapshot (UTC)       : 2023-04-05 20:14:08Z
 ------------------------------------------------------------
-Target                  : VOYAGER 1
-DSN lock (now)          : FALSE
-DSN dish                : -
-Downlink                : -
-Uplink                  : -
-Signal (power/freq)     : -
+Target                   : VOYAGER 1
+DSN lock (now)           : FALSE
+DSN dish                 : -
+Downlink                 : -
+Uplink                   : -
+Signal (power/freq)      : -
 ------------------------------------------------------------
-NAV (Horizons)          : ERROR
-Details                 : Horizons: no vector line found
+NAV (Horizons)           : ERROR
+Details                  : could not convert string to float: 'A.E. 2026-Jan-17 10:33:00.0000'
 ------------------------------------------------------------
-Target                  : VOYAGER 2
-DSN lock (now)          : FALSE
-DSN dish                : -
-Downlink                : -
-Uplink                  : -
-Signal (power/freq)     : -
+Target                   : VOYAGER 2
+DSN lock (now)           : FALSE
+DSN dish                 : -
+Downlink                 : -
+Uplink                   : -
+Signal (power/freq)      : -
 ------------------------------------------------------------
-NAV (Horizons)          : ERROR
-Details                 : Horizons: could not locate $$SOE/$$EOE block
+NAV (Horizons)           : ERROR
+Details                  : Horizons: could not locate $$SOE/$$EOE block
+
+No ephemeris for target "NEOS (spacecraft)" prior to A.D. 2027-SEP-13 12:00:00.0000 TDB
 ------------------------------------------------------------
-Interstellar data (ref) : >65,000,000,000 bits returned (historical NASA milestone)
-Last refresh (UTC)      : 2026-01-17 10:27:39Z
+Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
+Last refresh (UTC)       : 2026-01-17 10:33:21Z
 ```
+
 <!-- VOYAGER:END -->
 
 </details>
