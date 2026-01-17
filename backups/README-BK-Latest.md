@@ -31,8 +31,8 @@ Deep experience across the [UNIX](https://en.wikipedia.org/wiki/Unix) lineage: [
 From [Perl](https://www.perl.org/) nights to early web stacks ([Flash](https://en.wikipedia.org/wiki/Adobe_Flash), [ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion)), my mindset was built before [AI](https://en.wikipedia.org/wiki/Artificial_intelligence), before shortcuts.  
 [Linux](https://en.wikipedia.org/wiki/Linux) remains my lab, my server backbone, and my home.
 -->
-
-I still keep my 90s-era [Perl](https://www.perl.org/) book — [The “Camel Book”](https://www.amazon.com/Programming-Perl-3rd-Larry-Wall/dp/0596000278) (~1,000+ pages) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
+<!--
+I still keep my 90s-era [Perl](https://www.perl.org/) book — [The “Camel Book”](https://en.wikipedia.org/wiki/Programming_Perl) (~1,000+ pages) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
 
 Back in the early 2000s, I once served as the sysadmin for a small newspaper: the owner handed me cash, I bought the server in San Miguel, took a taxi to downtown Santiago, and walked through Calle Moneda in [Santiago](https://en.wikipedia.org/wiki/Santiago) carrying that machine in my arms to a data center for installation. The network team allowed me to run [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux) on it — and I maintained the whole thing myself via [SSH](https://en.wikipedia.org/wiki/Secure_Shell): [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server), ops, uptime, and survival. Before [Facebook](https://en.wikipedia.org/wiki/Facebook) existed, I built the newspaper platform too — including threaded discussions in the publications, mixing [CGI](https://en.wikipedia.org/wiki/Common_Gateway_Interface) with [PHP](https://en.wikipedia.org/wiki/PHP) and other early-web craftsmanship. In those early 2000s days, I come from the old school: moving files with [SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol) between machines, running [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) in pure terminal (no GUI) — just `psql`, logs, and uptime.
 
@@ -43,6 +43,21 @@ Some of my earliest engineering memories are [IRC](https://en.wikipedia.org/wiki
 Forged through [Linux](https://en.wikipedia.org/wiki/Linux) the hard way: compiling [kernels](https://en.wikipedia.org/wiki/Linux_kernel), hacking [connectivity](https://en.wikipedia.org/wiki/Dial-up_Internet), and learning through friction — not convenience.  
 Rooted in the [UNIX](https://en.wikipedia.org/wiki/Unix) lineage: heavy [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) years, and early [macOS](https://en.wikipedia.org/wiki/MacOS) back when it still carried the spirit of [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP).  
 From [Perl](https://www.perl.org/) nights with a book on my lap to early web stacks ([Flash](https://en.wikipedia.org/wiki/Adobe_Flash), [ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion)), my engineering mindset was forged before [AI](https://en.wikipedia.org/wiki/Artificial_intelligence), before shortcuts. [Linux](https://en.wikipedia.org/wiki/Linux) remains my lab, my server backbone, and my home.
+-->
+
+<!-- ################# history behind my life in engineering ###################### -->
+
+I still keep my 90s-era [Perl](https://www.perl.org/) book — [The “Camel Book”](https://en.wikipedia.org/wiki/Programming_Perl) (~1,000+ pages) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
+
+Some of my earliest engineering memories are [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) nights, [SSH](https://en.wikipedia.org/wiki/Secure_Shell) sessions, and multi-user [Linux](https://en.wikipedia.org/wiki/Linux) systems — learning by building, breaking, and fixing. Forged through [Linux](https://en.wikipedia.org/wiki/Linux) the hard way: compiling [kernels](https://en.wikipedia.org/wiki/Linux_kernel), hacking [connectivity](https://en.wikipedia.org/wiki/Dial-up_Internet), and learning through friction — not convenience.
+
+Back in the early 2000s, I once served as the sysadmin for a small newspaper: the owner handed me cash, I bought the server in San Miguel, took a taxi to downtown Santiago, and walked through Calle Moneda in [Santiago](https://en.wikipedia.org/wiki/Santiago) carrying that machine in my arms to a data center for installation. The network team allowed me to run [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux) on it — and I maintained the whole thing myself via [SSH](https://en.wikipedia.org/wiki/Secure_Shell): [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server), ops, uptime, and survival. Before [Facebook](https://en.wikipedia.org/wiki/Facebook) existed, I built the newspaper platform too — including threaded discussions in the publications, mixing [CGI](https://en.wikipedia.org/wiki/Common_Gateway_Interface) with [PHP](https://en.wikipedia.org/wiki/PHP) and other early-web craftsmanship. In those early 2000s days, I come from the old school: moving files with [SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol) between machines, running [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) in pure terminal (no GUI) — just `psql`, logs, and uptime.
+
+I still remember nights in [Santiago](https://en.wikipedia.org/wiki/Santiago) working inside the [Palacio de La Moneda](https://es.wikipedia.org/wiki/Palacio_de_la_Moneda), learning Postgres from my mentor, [Dario Riquelme Zornow](https://www.linkedin.com/in/dario-riquelme-zornow/), in a server hall until 5 AM — walls of terminals, live data, [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) everywhere, [Fluxbox](https://en.wikipedia.org/wiki/Fluxbox) on the desktop. That was my training ground. In that same era, [Smith Saavedra](https://www.linkedin.com/in/smith-saavedra/) and [Mauricio Alberto Robles](https://www.linkedin.com/in/mrobles/) were also incredible mentors. I’m still grateful for that mentorship. That era, those mentors — that’s where my engineering was forged.
+
+Rooted in the [UNIX](https://en.wikipedia.org/wiki/Unix) lineage: heavy [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) years, and early [macOS](https://en.wikipedia.org/wiki/MacOS) back when it still carried the spirit of [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP). From [Perl](https://www.perl.org/) nights with a book on my lap to early web stacks ([Flash](https://en.wikipedia.org/wiki/Adobe_Flash), [ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion)), my engineering mindset was forged before [AI](https://en.wikipedia.org/wiki/Artificial_intelligence), before shortcuts. [Linux](https://en.wikipedia.org/wiki/Linux) remains my lab, my server backbone, and my home.
+
+<!-- ################# history behind my life in engineering ###################### -->
 
 Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
@@ -196,11 +211,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 TIME DISCIPLINE / SITREP
 ────────────────────────────────────────────────────────
 REFERENCE: UTC(NIST) via NTP (time.nist.gov)
-UTC(NIST):   2026-01-16 07:31:03Z
-LOCAL:       2026-01-16 04:31:03 -0300 (America/Santiago)
+UTC(NIST):   2026-01-17 00:28:02Z
+LOCAL:       2026-01-16 21:28:02 -0300 (America/Santiago)
 
-RUNNER vs NIST (ref-midpoint): +0.002190 s
-NETWORK RTT:                0.034223 s
+RUNNER vs NIST (ref-midpoint): +0.016167 s
+NETWORK RTT:                0.061466 s
 
 - Watch: Festina
 - Drift (estimated): -29.1271 s/day
@@ -211,7 +226,7 @@ EVENT: NONE
 STATUS: GREEN 🟢 TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
-Last update: 2026-01-16T07:31:03Z (UTC)
+Last update: 2026-01-17T00:28:02Z (UTC)
 ```
 <!--END_SECTION:atomic_time-->
 
@@ -259,12 +274,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Hostname  
-**Indicator**: startmenuexperiencehost.ydns.eu  
-**Pulse**: BlindEagle Targets Colombian Government Agency with Caminho and DCRAT  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69421a1f3d6e9eac9a0ce057)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: ded68a8f5d0765740d469c08bd66270097f3474eab92ee1e65ddcdd6d15fca6e  
+**Pulse**: GachiLoader: Defeating Node.js Malware with API Tracing  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69431f1ea8a0f2257edd336c)
 
-<sub>_Last updated: 2026-01-16 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-17 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -923,7 +938,7 @@ Writing Docs   35 mins        ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 16/01/2026 10:10:16 UTC
+Last updated     : 17/01/2026 00:37:31 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -973,16 +988,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/leonoffou">
-        <img src="https://avatars2.githubusercontent.com/u/234296670" style="width:30px; height:30px;" alt="leonoffou"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/leonoffou">Leonid Kuznetsov</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Pizzaboi87">
         <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
       </a>
@@ -1009,6 +1014,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
