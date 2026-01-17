@@ -256,10 +256,14 @@ Last update: 2026-01-17T06:09:30Z (UTC)
 
 <!--
 > <sub>I built this CLI-style Voyager feed to keep a tiny piece of NASA/JPL Mission Control in my GitHub profile. It pulls live DSN snapshot data (when available) and JPL Horizons navigation vectors (distance, AU, light-time). I love science — especially when it becomes engineering, telemetry, and real-world signals.</sub>
--->
-> 
+
+
 > <sub>I built this CLI-style Voyager feed to keep a tiny piece of NASA/JPL Mission Control in my GitHub profile. It pulls live DSN snapshot data (when available) and JPL Horizons navigation vectors (distance, AU, light-time). I love science — especially when it becomes engineering, telemetry, and real-world signals.  
 A reminder that we are star-stuff — and that the universe can be understood, measured, and admired. <em>(Carl Sagan)</em></sub>
+-->
+
+> <sub>I built this CLI-style Voyager feed to keep a tiny piece of NASA/JPL Mission Control in my GitHub profile. It pulls live DSN snapshot data (when available) and JPL Horizons navigation vectors (distance, AU, light-time). I love science — especially when it becomes engineering, telemetry, and real-world signals.  
+A reminder that we are star-stuff — and that the universe can be understood, measured, and admired. — *[Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)*</sub>
 
 
 <!-- VOYAGER:START -->
