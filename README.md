@@ -132,7 +132,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=20" height="19"/>](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/WakaTime_Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime) [<img src="https://img.shields.io/badge/Repository_Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#projects)
 [<img src="https://img.shields.io/badge/All_Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog) 
 [<img src="https://img.shields.io/badge/GitLab_Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog)
-
+[<img src="https://img.shields.io/badge/License_%2F_Compliance-SECURED?style=plastic&logo=readthedocs&logoColor=white&labelColor=111111&color=111111&logoWidth=20" height="19"/>](#classified-identity--integrity-notice)
 
 [<img src="https://img.shields.io/badge/Refresh_Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7&logoWidth=20" height="19"/>](https://github.com/felipealfonsog?cache-bypass=1) [<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
@@ -1764,6 +1764,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 > <span style="font-size:80%"><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></span>
 
 -->
+
+<a id="classified-identity--integrity-notice"></a>
 
 > [!WARNING]
 > <sub>⚠️ <b>Classified Identity & Integrity Notice</b></sub>
