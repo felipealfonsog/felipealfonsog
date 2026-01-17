@@ -287,7 +287,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: GachiLoader: Defeating Node.js Malware with API Tracing  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69431f1ea8a0f2257edd336c)
 
-<sub>_Last updated: 2026-01-17 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-17 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
