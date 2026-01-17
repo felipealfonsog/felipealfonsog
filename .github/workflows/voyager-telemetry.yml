@@ -263,7 +263,6 @@ jobs:
               out.append(f"Details                  : {nav_err}")
 
           out.append("------------------------------------------------------------")
-          out.append("------------------------------------------------------------")
           out.append("Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)")
           
           out.append("------------------------------------------------------------")
