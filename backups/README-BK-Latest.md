@@ -219,14 +219,14 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 TIME DISCIPLINE / SITREP
 ────────────────────────────────────────────────────────
 REFERENCE: UTC(NIST) via NTP (time.nist.gov)
-UTC(NIST):   2026-01-17 00:28:02Z
-LOCAL:       2026-01-16 21:28:02 -0300 (America/Santiago)
+UTC(NIST):   2026-01-17 06:09:30Z
+LOCAL:       2026-01-17 03:09:30 -0300 (America/Santiago)
 
-RUNNER vs NIST (ref-midpoint): +0.016167 s
-NETWORK RTT:                0.061466 s
+RUNNER vs NIST (ref-midpoint): +0.000097 s
+NETWORK RTT:                0.031963 s
 
 - Watch: Festina
-- Drift (estimated): -29.1271 s/day
+- Drift (estimated): +29.1273 s/day
 - Offset vs UTC(NIST) (estimated now): +2.60 s
 - Calibration age: -0.00 days | Samples (model): 2 | Samples (total): 2
 EVENT: NONE
@@ -234,7 +234,7 @@ EVENT: NONE
 STATUS: GREEN 🟢 TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
-Last update: 2026-01-17T00:28:02Z (UTC)
+Last update: 2026-01-17T06:09:30Z (UTC)
 ```
 <!--END_SECTION:atomic_time-->
 
@@ -247,6 +247,64 @@ Last update: 2026-01-17T00:28:02Z (UTC)
 <!-- 
 <sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
 -->
+
+#
+
+<details open>
+  <summary id="voyager"><strong>🛰️ Voyager Telemetry (CLI feed)</strong> — NASA/JPL*</summary>
+<br>
+
+> <sub>I built this CLI-style Voyager feed to keep a tiny piece of NASA/JPL Mission Control in my GitHub profile. It pulls live DSN snapshot data (when available) and JPL Horizons navigation vectors (distance, AU, light-time). I love science — especially when it becomes engineering, telemetry, and real-world signals.</sub>
+
+
+<!-- VOYAGER:START -->
+
+```text
+VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
+------------------------------------------------------------
+DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
+DSN snapshot (UTC)       : 2026-01-17 11:00:00Z
+------------------------------------------------------------
+Target                   : VOYAGER 1
+SITREP                   : AMBER
+DSN lock (now)           : FALSE
+DSN note                 : No active DSN pass at snapshot time
+DSN dish                 : -
+Downlink                 : -
+Uplink                   : -
+Signal (power/freq)      : -
+------------------------------------------------------------
+Earth distance           : 25.44e9 km | 170.031 AU
+Relative speed           : 26.837 km/s
+One-way light time       : 23:34:06
+Round-trip latency       : 47:08:13
+------------------------------------------------------------
+Target                   : VOYAGER 2
+SITREP                   : AMBER
+DSN lock (now)           : FALSE
+DSN note                 : No active DSN pass at snapshot time
+DSN dish                 : -
+Downlink                 : -
+Uplink                   : -
+Signal (power/freq)      : -
+------------------------------------------------------------
+Earth distance           : 21.34e9 km | 142.625 AU
+Relative speed           : 33.509 km/s
+One-way light time       : 19:46:10
+Round-trip latency       : 39:32:21
+------------------------------------------------------------
+Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
+------------------------------------------------------------
+Report generated (UTC)   : 2026-01-17 11:00:04Z
+```
+
+<!-- VOYAGER:END -->
+
+<sub>* Data sources: <a href="https://eyes.jpl.nasa.gov/dsn/" target="_blank">NASA/JPL DSN Now</a> (Deep Space Network) + 
+<a href="https://ssd.jpl.nasa.gov/horizons/" target="_blank">JPL Horizons</a> (navigation vectors). Rendered as a CLI-style report via GitHub Actions.</sub>
+
+</details>
+
 
 #
 
@@ -287,7 +345,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: GachiLoader: Defeating Node.js Malware with API Tracing  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69431f1ea8a0f2257edd336c)
 
-<sub>_Last updated: 2026-01-17 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-17 06:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -899,9 +957,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 16 January 2026
+From: 04 December 2023 - To: 17 January 2026
 
-Total Time       : 954 hrs 38 mins
+Total Time       : 955 hrs 49 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 13 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -910,28 +968,28 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           162 hrs 20 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
-Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.03 %
-HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.13 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.39 %
-Markdown       77 hrs 33 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
-C              73 hrs 29 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.70 %
-Other          67 hrs 2 mins  ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.02 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.19 %
+Bash           163 hrs 11 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.07 %
+Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.02 %
+HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.11 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.38 %
+Markdown       77 hrs 34 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
+C              73 hrs 29 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.69 %
+Other          71 hrs 16 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.46 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.18 %
 Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.97 %
 INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.74 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          554 hrs 40 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.10 %
-Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.92 %
+Linux          560 hrs 5 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.60 %
+Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.86 %
 
 EDITORS
 -------
-VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.14 %
-Vim            321 hrs 21 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.66 %
-Firefox        35 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.68 %
-TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.22 %
+VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.06 %
+Vim            321 hrs 21 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.62 %
+Firefox        40 hrs 34 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.25 %
+TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.21 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Antigravity    14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 Dia            6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
@@ -941,12 +999,12 @@ TextMate       1 min          ○○○○○○○○○○○○○○○○�
 CATEGORIES
 ----------
 Coding         985 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       35 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.68 %
+Browsing       40 hrs 34 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.25 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 17/01/2026 02:42:28 UTC
+Last updated     : 17/01/2026 10:09:07 UTC
 
 ```
 <!--END_SECTION:wakastats-->
