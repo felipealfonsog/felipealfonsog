@@ -300,8 +300,10 @@ Report generated (UTC)   : 2026-01-17 11:00:04Z
 
 <!-- VOYAGER:END -->
 
-<sub>* Data sources: <a href="https://eyes.jpl.nasa.gov/dsn/" target="_blank">NASA/JPL DSN Now</a> (Deep Space Network) + 
-<a href="https://ssd.jpl.nasa.gov/horizons/" target="_blank">JPL Horizons</a> (navigation vectors). Rendered as a CLI-style report via GitHub Actions.</sub>
+<sub>*Data sources: <a href="https://eyes.jpl.nasa.gov/dsn/" target="_blank">NASA/JPL DSN Now</a> (Deep Space Network) &amp;
+<a href="https://ssd.jpl.nasa.gov/horizons/" target="_blank">JPL Horizons</a> (navigation vectors). Rendered as a CLI-style report via GitHub Actions.<br>
+Note: Values are derived from public NASA/JPL feeds (DSN + Horizons).</sub>
+
 
 </details>
 
