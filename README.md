@@ -251,6 +251,20 @@ Last update: 2026-01-17T06:09:30Z (UTC)
 #
 
 <details>
+  <summary id="voyager"><strong>🛰️ Voyager Telemetry (CLI feed)</strong> <sub><em>NASA/JPL</em></sub></summary>
+  <br/>
+
+<!-- VOYAGER:START -->
+```text
+VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
+Status        : INIT
+Last refresh  : -
+<!-- VOYAGER:END -->
+</details>
+
+#
+
+<details>
 <summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
 
 <br>
