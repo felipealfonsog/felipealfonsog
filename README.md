@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: ded68a8f5d0765740d469c08bd66270097f3474eab92ee1e65ddcdd6d15fca6e  
-**Pulse**: GachiLoader: Defeating Node.js Malware with API Tracing  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69431f1ea8a0f2257edd336c)
+**Threat Type**: Cve  
+**Indicator**: CVE-2025-55182  
+**Pulse**: Inside DPRK Operations: New Infrastructure Uncovered Across Global Campaigns  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6943cc1225854b7356ec39d2)
 
-<sub>_Last updated: 2026-01-17 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-17 12:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
