@@ -3,7 +3,7 @@ name: Voyager Telemetry (CLI style)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "23 */3 * * *"
 
 permissions:
   contents: write
@@ -22,20 +22,14 @@ jobs:
           import xml.etree.ElementTree as ET
           from datetime import datetime, timedelta, timezone
 
-          # -----------------------------
-          # DSN NOW (use the endpoint that is actually live)
-          # -----------------------------
           DSN_XML_CANDIDATES = [
             "https://eyes.jpl.nasa.gov/dsn/data/dsn.xml",
             "https://eyes.nasa.gov/dsn/data/dsn.xml",
             "https://eyes.nasa.gov/apps/dsn-now/dsn.xml",
           ]
 
-          # Horizons API (official)
           HORIZONS_API = "https://ssd.jpl.nasa.gov/api/horizons.api"
 
-          # Correct Voyager spacecraft IDs for Horizons usage
-          # Voyager 1: -31, Voyager 2: -32
           VOYAGERS = [
             ("VOYAGER 1", "-31"),
             ("VOYAGER 2", "-32"),
@@ -57,9 +51,6 @@ jobs:
             with urllib.request.urlopen(req, timeout=timeout) as r:
               return r.read()
 
-          # -----------------------------
-          # DSN
-          # -----------------------------
           def fetch_dsn_xml():
             last_err = None
             for url in DSN_XML_CANDIDATES:
@@ -120,9 +111,6 @@ jobs:
                 return e
             return entries[0]
 
-          # -----------------------------
-          # HORIZONS (robust CSV vectors)
-          # -----------------------------
           def horizons_vectors(spkid: str):
             now = datetime.now(timezone.utc).replace(second=0, microsecond=0)
             stop = now + timedelta(minutes=2)
@@ -132,13 +120,13 @@ jobs:
               "COMMAND": f"'{spkid}'",
               "MAKE_EPHEM": "YES",
               "TABLE_TYPE": "VECTORS",
-              "CENTER": "'500@399'",         # Earth geocenter
+              "CENTER": "'500@399'",
               "START_TIME": f"'{now.strftime('%Y-%m-%d %H:%M')}'",
               "STOP_TIME": f"'{stop.strftime('%Y-%m-%d %H:%M')}'",
               "STEP_SIZE": "'1 m'",
               "OUT_UNITS": "KM-S",
               "CSV_FORMAT": "YES",
-              "VEC_TABLE": "3",              # includes LT, range, range-rate in many cases
+              "VEC_TABLE": "3",
               "VEC_LABELS": "NO",
               "OBJ_DATA": "NO",
             }
@@ -152,21 +140,16 @@ jobs:
               snippet = "\n".join(txt.splitlines()[:60])
               raise RuntimeError("Horizons: could not locate $$SOE/$$EOE block\n" + snippet)
 
-            # find first CSV line with enough fields
             lines = [ln.strip() for ln in m.group(1).splitlines() if ln.strip()]
             row = None
             for ln in lines:
               parts = [p.strip() for p in ln.split(",")]
-              if len(parts) < 9:
-                continue
-              row = parts
-              break
+              if len(parts) >= 9:
+                row = parts
+                break
             if not row:
               raise RuntimeError("Horizons: no parseable CSV row found")
 
-            # Row pattern (typical):
-            # [0]=JDTDB, [1]=Calendar Date, then numeric columns start at [2]
-            # We robustly pick the first 6 consecutive float-convertible fields as X,Y,Z,VX,VY,VZ.
             floats = []
             for p in row:
               try:
@@ -181,7 +164,7 @@ jobs:
                 start = i
                 break
             if start is None:
-              raise RuntimeError(f"Horizons: could not locate 6 consecutive numeric fields in row: {row[:10]}")
+              raise RuntimeError("Horizons: could not locate X,Y,Z,VX,VY,VZ numeric fields")
 
             x, y, z, vx, vy, vz = floats[start:start+6]
 
@@ -212,9 +195,6 @@ jobs:
             if n >= 1e6: return f"{n/1e6:.2f}e6 km"
             return f"{n:.0f} km"
 
-          # -----------------------------
-          # Build output + patch README
-          # -----------------------------
           now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
 
           dsn_url, dsn_xml = fetch_dsn_xml()
@@ -238,9 +218,20 @@ jobs:
             link = best_dsn_link(dsn_links.get(name, []))
             lock_now = "TRUE" if (link and ((link["down"].get("active")=="true") or (link["up"].get("active")=="true"))) else "FALSE"
 
+            if nav is None:
+              sitrep = "RED"
+            elif lock_now == "TRUE":
+              sitrep = "GREEN"
+            else:
+              sitrep = "AMBER"
+
             out.append("------------------------------------------------------------")
             out.append(f"Target                   : {name}")
+            out.append(f"SITREP                   : {sitrep}")
             out.append(f"DSN lock (now)           : {lock_now}")
+
+            if lock_now == "FALSE":
+              out.append("DSN note                 : No active DSN pass at snapshot time")
 
             if link:
               down = link["down"]
