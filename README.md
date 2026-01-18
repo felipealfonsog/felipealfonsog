@@ -358,7 +358,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Access granted: phishing with device code authorization for account takeover  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6944016f98d9890c84fedb47)
 
-<sub>_Last updated: 2026-01-17 18:02 UTC_</sub>
+<sub>_Last updated: 2026-01-18 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
