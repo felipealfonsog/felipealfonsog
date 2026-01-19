@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 8.149.128.10  
-**Pulse**: VoidLink threat analysis: C2-compiled kernel rootkits discovered  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/696dfaea399e526c7c237b35)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 537abad75fc343690119851610d9b54b  
+**Pulse**: Evasive SideWinder APT Campaign Detected  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6946da89fb6334ddbb8e3f5c)
 
-<sub>_Last updated: 2026-01-19 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-19 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
