@@ -358,7 +358,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Attempts to sniff out governmental affairs in Southeast Asia and Japan  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/69457bc9ca97fde0a0f01d2c)
 
-<sub>_Last updated: 2026-01-18 18:02 UTC_</sub>
+<sub>_Last updated: 2026-01-19 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
