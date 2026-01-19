@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: d53fcc01038e20193fbd51b7400075cf7c9c4402b73da7b0db836b000ebd8b1c  
-**Pulse**: Attempts to sniff out governmental affairs in Southeast Asia and Japan  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69457bc9ca97fde0a0f01d2c)
+**Threat Type**: Ipv4  
+**Indicator**: 8.149.128.10  
+**Pulse**: VoidLink threat analysis: C2-compiled kernel rootkits discovered  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/696dfaea399e526c7c237b35)
 
-<sub>_Last updated: 2026-01-19 06:04 UTC_</sub>
+<sub>_Last updated: 2026-01-19 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
