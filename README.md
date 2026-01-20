@@ -272,7 +272,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-20 03:53:49Z
+DSN snapshot (UTC)       : 2026-01-20 06:36:39Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -284,7 +284,7 @@ Uplink                   : -
 Signal (power/freq)      : -
 ------------------------------------------------------------
 Earth distance           : 25.44e9 km | 170.032 AU
-Relative speed           : 26.234 km/s
+Relative speed           : 26.209 km/s
 One-way light time       : 23:34:07
 Round-trip latency       : 47:08:14
 ------------------------------------------------------------
@@ -297,14 +297,14 @@ Downlink                 : -
 Uplink                   : -
 Signal (power/freq)      : -
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.643 AU
-Relative speed           : 33.062 km/s
+Earth distance           : 21.34e9 km | 142.644 AU
+Relative speed           : 33.043 km/s
 One-way light time       : 19:46:20
-Round-trip latency       : 39:32:39
+Round-trip latency       : 39:32:40
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-20 03:53:53Z
+Report generated (UTC)   : 2026-01-20 06:36:42Z
 ```
 
 <!-- VOYAGER:END -->
