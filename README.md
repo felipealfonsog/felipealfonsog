@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 5838c834482fb54f8a642d92e4ece7bbde03e161c2d02c4e70edbe05c8190955  
-**Pulse**: Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/696f420d629a255b3d84814e)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2026-01-20 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-20 18:04 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
