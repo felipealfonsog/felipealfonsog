@@ -358,7 +358,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Evasive SideWinder APT Campaign Detected  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6946da89fb6334ddbb8e3f5c)
 
-<sub>_Last updated: 2026-01-20 00:07 UTC_</sub>
+<sub>_Last updated: 2026-01-20 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
