@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 537abad75fc343690119851610d9b54b  
-**Pulse**: Evasive SideWinder APT Campaign Detected  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6946da89fb6334ddbb8e3f5c)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 5838c834482fb54f8a642d92e4ece7bbde03e161c2d02c4e70edbe05c8190955  
+**Pulse**: Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/696f420d629a255b3d84814e)
 
-<sub>_Last updated: 2026-01-20 06:03 UTC_</sub>
+<sub>_Last updated: 2026-01-20 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
