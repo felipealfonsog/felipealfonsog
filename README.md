@@ -354,11 +354,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Md5  
-**Indicator**: 3812cdc4225182326b1425c9f3c2d50b  
-**Pulse**: The BlueNoroff cryptocurrency hunt is still on  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/61e039354995bacf49e507ad)
+**Indicator**: 4001854be1ae8e12b6dda124679a4077  
+**Pulse**: Indian Income Tax-Themed Phishing Campaign Targets Local Businesses  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/69497ab3f381b44007add888)
 
-<sub>_Last updated: 2026-01-21 12:04 UTC_</sub>
+<sub>_Last updated: 2026-01-21 18:11 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
