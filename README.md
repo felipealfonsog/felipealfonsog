@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 4001854be1ae8e12b6dda124679a4077  
-**Pulse**: Indian Income Tax-Themed Phishing Campaign Targets Local Businesses  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69497ab3f381b44007add888)
+**Threat Type**: Filehash-Sha256  
+**Indicator**: 1b26f73fa88f8c3b17adf6db12ec674481db1f92eb04806815b8fbd6086f07ef  
+**Pulse**: Threat Actors Expand Abuse of Microsoft Visual Studio Code  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6970c8be406455823a3d9652)
 
-<sub>_Last updated: 2026-01-21 18:11 UTC_</sub>
+<sub>_Last updated: 2026-01-22 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
