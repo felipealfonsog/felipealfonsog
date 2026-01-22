@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: 272de450450606d3c71a2d97c0fcccf862dfa6c76bca3e68fe2930d9decb33d2  
-**Pulse**: Trial, Error, and Typos: Why Some Malware Attacks Aren't as 'Sophisticated' as You Think  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6949f7964b3560d9a1252452)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 0e0c8767bb2d4fefc2d617df11ce1b89  
+**Pulse**: Analysis of HEURRemoteAdmin.GoToResolve.gen  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/697171cb4c50d225906a984b)
 
-<sub>_Last updated: 2026-01-22 06:03 UTC_</sub>
+<sub>_Last updated: 2026-01-22 12:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
