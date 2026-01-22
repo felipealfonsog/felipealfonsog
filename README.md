@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 0e0c8767bb2d4fefc2d617df11ce1b89  
-**Pulse**: Analysis of HEURRemoteAdmin.GoToResolve.gen  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/697171cb4c50d225906a984b)
+**Threat Type**: Domain  
+**Indicator**: albgby.org  
+**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
 
-<sub>_Last updated: 2026-01-22 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-22 18:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
