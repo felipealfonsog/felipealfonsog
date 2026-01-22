@@ -354,11 +354,11 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
   
 <!-- OTX-START -->
 **Threat Type**: Filehash-Sha256  
-**Indicator**: 1b26f73fa88f8c3b17adf6db12ec674481db1f92eb04806815b8fbd6086f07ef  
-**Pulse**: Threat Actors Expand Abuse of Microsoft Visual Studio Code  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6970c8be406455823a3d9652)
+**Indicator**: 272de450450606d3c71a2d97c0fcccf862dfa6c76bca3e68fe2930d9decb33d2  
+**Pulse**: Trial, Error, and Typos: Why Some Malware Attacks Aren't as 'Sophisticated' as You Think  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6949f7964b3560d9a1252452)
 
-<sub>_Last updated: 2026-01-22 00:08 UTC_</sub>
+<sub>_Last updated: 2026-01-22 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
