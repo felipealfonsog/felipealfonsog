@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Domain  
-**Indicator**: albgby.org  
-**Pulse**: Infrastructure of Interest: Medium Confidence Detection  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/6894583edc4b67d5c7c5cb34)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 02ec920f0e4d4e2df98bb523f5a90d4c  
+**Pulse**: December 2025 Security Issues in Korean & Global Financial Sector  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/697222dd78fee9a83bbaf37d)
 
-<sub>_Last updated: 2026-01-22 18:03 UTC_</sub>
+<sub>_Last updated: 2026-01-23 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
