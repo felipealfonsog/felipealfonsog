@@ -358,7 +358,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: December 2025 Security Issues in Korean & Global Financial Sector  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/697222dd78fee9a83bbaf37d)
 
-<sub>_Last updated: 2026-01-23 00:08 UTC_</sub>
+<sub>_Last updated: 2026-01-23 06:03 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
