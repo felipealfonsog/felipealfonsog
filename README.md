@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Ipv4  
-**Indicator**: 45.125.66.90  
-**Pulse**: Analyzing React2Shell Threat Actors  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/696b8bd46b346ef957af57ad)
+**Threat Type**: Filehash-Md5  
+**Indicator**: 02ec920f0e4d4e2df98bb523f5a90d4c  
+**Pulse**: December 2025 Security Issues in Korean & Global Financial Sector  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/697222dd78fee9a83bbaf37d)
 
-<sub>_Last updated: 2026-01-23 12:03 UTC_</sub>
+<sub>_Last updated: 2026-01-23 18:02 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
