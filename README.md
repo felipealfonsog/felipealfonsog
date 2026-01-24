@@ -353,12 +353,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Md5  
-**Indicator**: 02ec920f0e4d4e2df98bb523f5a90d4c  
-**Pulse**: December 2025 Security Issues in Korean & Global Financial Sector  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/697222dd78fee9a83bbaf37d)
+**Threat Type**: Filehash-Sha1  
+**Indicator**: 4ec3c90846af6b79ee1a5188eefa3fd21f6d4cf6  
+**Pulse**: Sandworm behind cyberattack on Poland's power grid in late 2025  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6973fa6df457081a422f550e)
 
-<sub>_Last updated: 2026-01-23 18:02 UTC_</sub>
+<sub>_Last updated: 2026-01-24 00:07 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
