@@ -358,7 +358,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 **Pulse**: Sandworm behind cyberattack on Poland's power grid in late 2025  
 **Link**: [View on OTX](https://otx.alienvault.com/pulse/6973fa6df457081a422f550e)
 
-<sub>_Last updated: 2026-01-24 18:02 UTC_</sub>
+<sub>_Last updated: 2026-01-25 00:09 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
