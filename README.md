@@ -831,24 +831,24 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Status                    : PLAYING
-Playback state            : ONLINE (active session)
-SITREP                    : GREEN
+Status                    : IDLE
+Playback state            : OFFLINE (no active session)
+SITREP                    : AMBER
 ------------------------------------------------------------
-Now playing               : Nirvana — Where Did You Sleep Last Night - Live
-Last played               : Nirvana — All Apologies - Live
-Last played (UTC)         : 2026-01-26 11:42:50Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Nirvana — Come As You Are - Live
+Last played (UTC)         : 2026-01-26 11:55:42Z
+Last activity type        : NO_CONTENT_204
 ------------------------------------------------------------
-Δ track (since last)      : Nirvana — Lake Of Fire - Live → Nirvana — All Apologies - Live
-Δ last played (since last): 2026-01-26 11:38:27Z → 2026-01-26 11:42:50Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Nirvana — All Apologies - Live → Nirvana — Come As You Are - Live
+Δ last played (since last): 2026-01-26 11:42:50Z → 2026-01-26 11:55:42Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:04:28
-Telemetry age             : 00:04:28
-Δ time (since last report): 00:07:35
+Time since last play      : 00:23:04
+Telemetry age             : 00:23:04
+Δ time (since last report): 00:31:28
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE
                            NOW_PLAYING
@@ -859,19 +859,19 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 43
+Tracks played (last 24h)  : 46
 Dominant artist           : Nirvana
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-19 11:47:18Z → 2026-01-26 11:47:18Z
-Total tracks played       : 44
+Week window (UTC)         : 2026-01-19 12:18:45Z → 2026-01-26 12:18:45Z
+Total tracks played       : 47
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-26 11:47:18Z
+Report generated (UTC)    : 2026-01-26 12:18:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
