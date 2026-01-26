@@ -3,7 +3,7 @@ name: Spotify Card Cache (fail-safe)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */3 * * *"  # cada 3 horas (ajústalo si quieres)
+    - cron: "17 */3 * * *"
 
 permissions:
   contents: write
@@ -23,16 +23,15 @@ jobs:
 
           mkdir -p images
           cp README.md README.md.before || true
-          cp images/spotify_now.png images/spotify_now.png.before 2>/dev/null || true
+          cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
 
           if ! python3 .github/scripts/update_spotify_card.py; then
             echo "Spotify card update failed; preserving last known card."
             mv -f README.md.before README.md 2>/dev/null || true
-            mv -f images/spotify_now.png.before images/spotify_now.png 2>/dev/null || true
+            mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
             exit 0
           fi
 
-          # Only commit if something changed
           if git diff --quiet; then
             echo "No changes."
             exit 0
@@ -40,6 +39,6 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md images/spotify_now.png
+          git add README.md images/spotify_now.svg
           git commit -m "chore: update cached Spotify card" || exit 0
           git push
