@@ -840,13 +840,13 @@ Last played               : Nirvana — Come As You Are - Live
 Last played (UTC)         : 2026-01-26 11:55:42Z
 Last activity type        : NO_CONTENT_204
 ------------------------------------------------------------
-Δ track (since last)      : Nirvana — All Apologies - Live → Nirvana — Come As You Are - Live
-Δ last played (since last): 2026-01-26 11:42:50Z → 2026-01-26 11:55:42Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:23:04
-Telemetry age             : 00:23:04
-Δ time (since last report): 00:31:28
+Time since last play      : 00:26:27
+Telemetry age             : 00:26:27
+Δ time (since last report): 00:03:24
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -866,12 +866,12 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-19 12:18:45Z → 2026-01-26 12:18:45Z
+Week window (UTC)         : 2026-01-19 12:22:08Z → 2026-01-26 12:22:08Z
 Total tracks played       : 47
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-26 12:18:45Z
+Report generated (UTC)    : 2026-01-26 12:22:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
