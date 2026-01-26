@@ -259,16 +259,16 @@ def status_lines(abs_offset: float, age_days: float, has_data: bool):
     Stale calibration takes priority over RED to avoid misleading panic states.
     """
     if not has_data:
-        return "STATUS: BLUE ℹ️ AWAITING CALIBRATION", "NOTE: Add measurements for Festina offset vs UTC(NIST)."
+        return "STATUS: BLUE - AWAITING CALIBRATION", "NOTE: Add measurements for Festina offset vs UTC(NIST)."
 
     if age_days > STALE_DAYS:
-        return "STATUS: AMBER 🟠 CALIBRATION STALE", f"NOTE: Last calibration is {age_days:.1f} days old."
+        return "STATUS: AMBER - CALIBRATION STALE", f"NOTE: Last calibration is {age_days:.1f} days old."
 
     if abs_offset <= TOL_S:
-        return "STATUS: GREEN 🟢 TIME DISCIPLINE: NOMINAL", "NOTE: Within tolerance."
+        return "STATUS: GREEN - TIME DISCIPLINE: NOMINAL", "NOTE: Within tolerance."
     if abs_offset <= (2 * TOL_S):
-        return "STATUS: YELLOW ⚠️ TIME DISCIPLINE: DEGRADED", "NOTE: Near tolerance boundary."
-    return "STATUS: RED 🛑 TIME DISCIPLINE: OUT OF TOL", "NOTE: Requires correction."
+        return "STATUS: YELLOW - TIME DISCIPLINE: DEGRADED", "NOTE: Near tolerance boundary."
+    return "STATUS: RED - TIME DISCIPLINE: OUT OF TOL", "NOTE: Requires correction."
 
 
 def fmt(ts: float, tz) -> str:
