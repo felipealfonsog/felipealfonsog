@@ -3,9 +3,9 @@ import base64
 import json
 import os
 import sys
+import time
 import urllib.parse
 import urllib.request
-import urllib.error
 from datetime import datetime, timezone
 
 CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID", "").strip()
@@ -16,26 +16,16 @@ OUT = "images/spotify_now.svg"
 
 AUTH_URL = "https://accounts.spotify.com/api/token"
 RECENT_URL = "https://api.spotify.com/v1/me/player/recently-played?limit=1"
-CURRENT_URL = "https://api.spotify.com/v1/me/player/currently-playing"
 
-
-def http_raw(url: str, headers=None, data: bytes | None = None, timeout: int = 25):
+def http_json(url: str, headers=None, data: bytes | None = None, timeout: int = 25):
     headers = headers or {}
     req = urllib.request.Request(url, headers=headers, data=data)
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        body = r.read()
-        return r.getcode(), dict(r.headers), body
-
-
-def http_json(url: str, headers=None, data: bytes | None = None, timeout: int = 25):
-    code, hdrs, body = http_raw(url, headers=headers, data=data, timeout=timeout)
-    txt = body.decode("utf-8", "replace").strip()
-    return code, hdrs, (json.loads(txt) if txt else None)
-
+        return r.getcode(), r.headers, json.loads(r.read().decode("utf-8", "replace"))
 
 def get_access_token() -> str:
     if not (CLIENT_ID and CLIENT_SECRET and REFRESH_TOKEN):
-        raise RuntimeError("Missing Spotify secrets: SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / SPOTIFY_REFRESH_TOKEN")
+        raise RuntimeError("Missing Spotify secrets (CLIENT_ID/CLIENT_SECRET/REFRESH_TOKEN).")
 
     auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
     body = urllib.parse.urlencode({
@@ -50,147 +40,100 @@ def get_access_token() -> str:
             "Content-Type": "application/x-www-form-urlencoded",
         },
         data=body,
-        timeout=25,
     )
 
-    if code >= 400 or not payload:
-        raise RuntimeError(f"Token endpoint error (code={code}): {payload}")
+    if code >= 400:
+        raise RuntimeError(f"Token endpoint error: {payload}")
 
     token = payload.get("access_token")
     if not token:
-        raise RuntimeError(f"No access_token in token response: {payload}")
-
+        raise RuntimeError(f"No access_token in response: {payload}")
     return token
 
-
-def pick_cover(track: dict) -> str:
-    album = track.get("album") or {}
-    imgs = album.get("images") or []
-    if len(imgs) > 1 and imgs[1].get("url"):
-        return imgs[1]["url"]
-    if imgs and imgs[0].get("url"):
-        return imgs[0]["url"]
-    return ""
-
-
-def get_current_or_last(access_token: str):
-    # 1) Try live currently-playing (may be 204)
-    req = urllib.request.Request(CURRENT_URL, headers={"Authorization": f"Bearer {access_token}"})
-    try:
-        with urllib.request.urlopen(req, timeout=15) as r:
-            if r.status == 204:
-                data = None
-            else:
-                raw = r.read().decode("utf-8", "replace").strip()
-                data = json.loads(raw) if raw else None
-    except urllib.error.HTTPError as e:
-        if e.code == 204:
-            data = None
-        else:
-            raise
-    except Exception:
-        data = None
-
-    if data and (data.get("item") is not None):
-        track = data["item"]
-        artists = track.get("artists") or []
-        artist = ", ".join([a.get("name","") for a in artists if a.get("name")]) or "Unknown artist"
-        title = track.get("name") or "Unknown track"
-        cover = pick_cover(track)
-        return {
-            "artist": artist,
-            "title": title,
-            "cover": cover,
-            "mode": "LIVE",
-            "played_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ"),
-        }
-
-    # 2) Fallback to recently-played
+def get_latest_track(access_token: str):
     code, _, payload = http_json(
         RECENT_URL,
         headers={"Authorization": f"Bearer {access_token}"},
-        timeout=20,
     )
 
-    if code >= 400 or not payload:
-        raise RuntimeError(f"Spotify API error (recently-played) code={code}: {payload}")
+    if code >= 400:
+        raise RuntimeError(f"Spotify API error: {payload}")
 
     items = payload.get("items") or []
     if not items:
-        raise RuntimeError("Spotify returned empty recently-played items.")
+        return None
 
     it = items[0]
     track = it.get("track") or {}
     artists = track.get("artists") or []
     artist = ", ".join([a.get("name","") for a in artists if a.get("name")]) or "Unknown artist"
     title = track.get("name") or "Unknown track"
-    cover = pick_cover(track)
+
+    album = track.get("album") or {}
+    imgs = album.get("images") or []
+    cover = imgs[1]["url"] if len(imgs) > 1 else (imgs[0]["url"] if imgs else "")
+
     played_at = it.get("played_at") or ""
+    track_url = (track.get("external_urls") or {}).get("spotify") or ""
 
     return {
         "artist": artist,
         "title": title,
         "cover": cover,
-        "mode": "LAST",
         "played_at": played_at,
+        "track_url": track_url,
     }
 
-
 def esc(s: str) -> str:
-    return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
+    return (s or "").replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
 
-
-def svg_white_card(artist: str, title: str, cover_url: str, mode: str, played_at: str):
-    # White, similar proportions to your old embed screenshot
-    w, h = 900, 205
-    cover = 80
-    x0, y0 = 38, 55
-    x_text = x0 + cover + 22
+def svg_card(artist: str, title: str, cover_url: str, played_at: str):
+    # Matches your aesthetic: dark, clean, cover-left, text-right.
+    w, h = 900, 190
+    pad = 18
+    cover = 150
+    y_cover = (h - cover) // 2
+    x_text = pad + cover + 18
 
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
-    mode_label = "LIVE" if mode == "LIVE" else "LAST"
-    played_line = played_at or "N/A"
-
-    cover_block = (
-        f'<image href="{esc(cover_url)}" x="{x0}" y="{y0}" width="{cover}" height="{cover}" />'
-        if cover_url else
-        f'<rect x="{x0}" y="{y0}" width="{cover}" height="{cover}" fill="#f2f2f2" stroke="#e6e6e6" />'
-    )
+    played = played_at or "N/A"
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">
-  <rect width="{w}" height="{h}" fill="#ffffff"/>
-  {cover_block}
+  <defs>
+    <style>
+      .bg {{ fill: #000; }}
+      .label {{ fill: #a9a9a9; font: 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }}
+      .artist {{ fill: #f5f5f5; font: 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; font-weight: 700; }}
+      .track {{ fill: #f5f5f5; font: 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }}
+      .meta {{ fill: #a9a9a9; font: 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }}
+    </style>
+    <clipPath id="clip">
+      <rect x="{pad}" y="{y_cover}" width="{cover}" height="{cover}" rx="10" ry="10"/>
+    </clipPath>
+  </defs>
 
-  <text x="{x_text}" y="{y0+28}" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif"
-        font-size="28" font-weight="700" fill="#111111">{esc(artist)}</text>
+  <rect class="bg" x="0" y="0" width="{w}" height="{h}" rx="14" ry="14"/>
 
-  <text x="{x_text}" y="{y0+58}" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif"
-        font-size="20" fill="#111111">{esc(title)} - {mode_label}</text>
+  {"<image href=\\"" + esc(cover_url) + "\\" x=\\"" + str(pad) + "\\" y=\\"" + str(y_cover) + "\\" width=\\"" + str(cover) + "\\" height=\\"" + str(cover) + "\\" clip-path=\\"url(#clip)\\"/>" if cover_url else f"<rect x='{pad}' y='{y_cover}' width='{cover}' height='{cover}' rx='10' ry='10' fill='#111'/>"}
 
-  <text x="{x_text}" y="{y0+92}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace"
-        font-size="14" fill="#555555">Rendered (UTC): {esc(updated)}</text>
+  <text class="label" x="{x_text}" y="{pad+20}">CURRENTLY OR PREVIOUSLY ON SPOTIFY</text>
+  <text class="artist" x="{x_text}" y="{pad+70}">{esc(artist)}</text>
+  <text class="track"  x="{x_text}" y="{pad+108}">{esc(title)}</text>
 
-  <text x="{x_text}" y="{y0+112}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace"
-        font-size="14" fill="#555555">Last activity (UTC): {esc(played_line)}</text>
+  <text class="meta" x="{x_text}" y="{h-24}">Last played (UTC): {esc(played)}  |  Rendered (UTC): {esc(updated)}</text>
 </svg>'''
-
 
 def main():
     token = get_access_token()
-    info = get_current_or_last(token)
+    latest = get_latest_track(token)
+    if not latest:
+        raise RuntimeError("No recently played track returned by Spotify (items empty).")
 
-    svg = svg_white_card(
-        info["artist"],
-        info["title"],
-        info["cover"],
-        info["mode"],
-        info["played_at"],
-    )
+    svg = svg_card(latest["artist"], latest["title"], latest["cover"], latest["played_at"])
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         f.write(svg)
-
 
 if __name__ == "__main__":
     try:
