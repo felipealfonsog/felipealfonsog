@@ -12,11 +12,13 @@ jobs:
   spotify:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -29,7 +31,6 @@ jobs:
           set -euo pipefail
           mkdir -p images
 
-          # Preserve last known good outputs
           cp -f README.md README.md.before 2>/dev/null || true
           cp -f images/spotify_telemetry_state.json images/spotify_telemetry_state.json.before 2>/dev/null || true
 
