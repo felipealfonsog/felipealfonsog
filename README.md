@@ -245,7 +245,7 @@ NETWORK RTT:                0.076460 s
 - Calibration age: -0.00 days | Samples (model): 2 | Samples (total): 2
 EVENT: NONE
 
-STATUS: GREEN 🟢 TIME DISCIPLINE: NOMINAL
+STATUS: GREEN - TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
 Last update: 2026-01-26T00:32:03Z (UTC)
