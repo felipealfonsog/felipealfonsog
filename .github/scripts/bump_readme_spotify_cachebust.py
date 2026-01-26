@@ -1,23 +1,20 @@
 #!/usr/bin/env python3
 import re
 import time
-from pathlib import Path
 
-README = Path("README.md")
+README = "README.md"
 
-if not README.exists():
-    raise SystemExit("README.md not found")
+with open(README, "r", encoding="utf-8") as f:
+    md = f.read()
 
-md = README.read_text(encoding="utf-8")
-
-# Busca spotify_now.svg?v=123 y lo reemplaza por un número nuevo
-v = str(int(time.time()))
+# expects a reference like: images/spotify_now.svg?v=123
 pattern = re.compile(r"(images/spotify_now\.svg\?v=)(\d+)")
 if not pattern.search(md):
-    # Si no existe, no rompas nada; solo sal.
-    raise SystemExit("No spotify_now.svg?v=... reference found in README (nothing to bump).")
+    # If not found, do nothing (keeps your README intact).
+    raise SystemExit(0)
 
-md2 = pattern.sub(r"\g<1>" + v, md)
+md2 = pattern.sub(rf"\g<1>{int(time.time())}", md)
 
-README.write_text(md2, encoding="utf-8")
-print(f"OK: bumped spotify cache-bust v={v}")
+if md2 != md:
+    with open(README, "w", encoding="utf-8") as f:
+        f.write(md2)
