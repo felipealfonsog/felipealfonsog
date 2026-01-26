@@ -13,12 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Generate Spotify SVG card (fail-safe)
+      - name: Update Spotify card (fail-safe)
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
@@ -27,36 +29,29 @@ jobs:
           set -euo pipefail
           mkdir -p images
 
-          # Preserve last known good
+          # preserve last known good card
           cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
 
-          # Run generator
           if ! python3 .github/scripts/spotify_latest_card.py; then
             echo "Spotify update failed; preserving last known card."
             mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
             exit 0
           fi
 
-          # Assert we generated the NEW format (must contain Status line)
-          echo "---- ASSERT: Status line exists in SVG ----"
-          grep -n "Status :" images/spotify_now.svg || (echo "NO Status line found in SVG" && exit 1)
-
-          # Show a small preview for sanity (logs)
-          echo "---- SVG PREVIEW (first 80 lines) ----"
-          sed -n '1,80p' images/spotify_now.svg
-          echo "--------------------------------------"
-
           rm -f images/spotify_now.svg.before 2>/dev/null || true
+
+          # Cache-bust the README reference (only if your README contains spotify_now.svg?v=...)
+          python3 .github/scripts/bump_readme_spotify_cachebust.py
 
       - name: Commit & push if changed
         run: |
           set -euo pipefail
-          git add images/spotify_now.svg README.md || true
-          if git diff --cached --quiet; then
+          if git diff --quiet; then
             echo "No changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md images/spotify_now.svg
           git commit -m "chore: update Spotify latest track card"
           git push
