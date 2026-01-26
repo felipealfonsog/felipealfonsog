@@ -20,6 +20,11 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Debug python version
+        run: |
+          python3 --version
+          which python3
+
       - name: Update Spotify card (fail-safe)
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
@@ -27,11 +32,15 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           set -euo pipefail
-          mkdir -p images
+          mkdir -p images .github/scripts
+
+          # Ensure file exists so fail-safe always has something
+          test -f images/spotify_now.svg || echo '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="205"><rect width="900" height="205" fill="#ffffff"/></svg>' > images/spotify_now.svg
 
           # preserve last known good card
           cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
 
+          # run generator (must write images/spotify_now.svg)
           if ! python3 .github/scripts/spotify_latest_card.py; then
             echo "Spotify update failed; preserving last known card."
             mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
@@ -40,8 +49,8 @@ jobs:
 
           rm -f images/spotify_now.svg.before 2>/dev/null || true
 
-          # Cache-bust the README reference (only if your README contains spotify_now.svg?v=...)
-          python3 .github/scripts/bump_readme_spotify_cachebust.py
+          # Cache-bust README reference (only if README contains spotify_now.svg?v=...)
+          python3 .github/scripts/bump_readme_spotify_cachebust.py || true
 
       - name: Commit & push if changed
         run: |
