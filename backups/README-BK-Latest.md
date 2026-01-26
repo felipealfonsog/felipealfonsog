@@ -47,7 +47,7 @@ From [Perl](https://www.perl.org/) nights with a book on my lap to early web sta
 
 <!-- ################# history behind my life in engineering ###################### -->
 
-I still keep my late-90s/early-2000s-era [Perl](https://en.wikipedia.org/wiki/Perl) book — [The “Camel Book”](https://en.wikipedia.org/wiki/Programming_Perl) (~1,000+ pages [my well-worn copy](https://github.com/felipealfonsog/felipealfonsog/blob/master/images/thecamelbook.jpg)) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
+I still keep my late-90s/early-2000s-era [Perl](https://en.wikipedia.org/wiki/Perl) book — [The “Camel Book”](https://en.wikipedia.org/wiki/Programming_Perl) (~1,000+ pages [my well-worn copy](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/thecamelbook.jpg)) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
 
 Some of my earliest engineering memories are [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) nights, [SSH](https://en.wikipedia.org/wiki/Secure_Shell) sessions, and multi-user [Linux](https://en.wikipedia.org/wiki/Linux) systems — learning by building, breaking, and fixing. Forged through [Linux](https://en.wikipedia.org/wiki/Linux) the hard way: compiling [kernels](https://en.wikipedia.org/wiki/Linux_kernel), hacking [connectivity](https://en.wikipedia.org/wiki/Dial-up_Internet), and learning through friction — not convenience.
 
@@ -204,6 +204,20 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 -->
 
 <br>
+<!--
+
+
+▗▖ ▗▖ ▗▄▖▗▄▄▄▖▗▄▄▖▗▖ ▗▖ ▗▄▖ ▗▄▄▖  ▗▄▄▖    ▗▖   ▗▄▄▄▖▗▖  ▗▖▗▄▄▄▖
+▐▌ ▐▌▐▌ ▐▌ █ ▐▌   ▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌▐▌       ▐▌     █  ▐▌  ▐▌▐▌   
+▐▌ ▐▌▐▛▀▜▌ █ ▐▌   ▐▛▀▜▌▐▌ ▐▌▐▛▀▘  ▝▀▚▖    ▐▌     █  ▐▌  ▐▌▐▛▀▀▘
+▐▙█▟▌▐▌ ▐▌ █ ▝▚▄▄▖▐▌ ▐▌▝▚▄▞▘▐▌   ▗▄▄▞▘    ▐▙▄▄▖▗▄█▄▖ ▝▚▞▘ ▐▙▄▄▖
+                                                               
+                                                               
+                                                               
+
+
+-->
+
 
 <!--
 [![🛰️ WATCHOPS LIVE TIME](https://freeshell.de/felipe/watchops/live.svg.php?ver=1.0.1)](#)
@@ -231,7 +245,7 @@ NETWORK RTT:                0.076460 s
 - Calibration age: -0.00 days | Samples (model): 2 | Samples (total): 2
 EVENT: NONE
 
-STATUS: GREEN 🟢 TIME DISCIPLINE: NOMINAL
+STATUS: GREEN - TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
 Last update: 2026-01-26T00:32:03Z (UTC)
@@ -249,7 +263,20 @@ Last update: 2026-01-26T00:32:03Z (UTC)
 -->
 
 #
+<!--
 
+
+▗▖  ▗▖ ▗▄▖▗▖  ▗▖▗▄▖  ▗▄▄▖▗▄▄▄▖▗▄▄▖     ▗▄▄▄▖▗▄▄▄▖▗▖   ▗▄▄▄▖▗▖  ▗▖▗▄▄▄▖▗▄▄▄▖▗▄▄▖▗▖  ▗▖
+▐▌  ▐▌▐▌ ▐▌▝▚▞▘▐▌ ▐▌▐▌   ▐▌   ▐▌ ▐▌      █  ▐▌   ▐▌   ▐▌   ▐▛▚▞▜▌▐▌     █  ▐▌ ▐▌▝▚▞▘ 
+▐▌  ▐▌▐▌ ▐▌ ▐▌ ▐▛▀▜▌▐▌▝▜▌▐▛▀▀▘▐▛▀▚▖      █  ▐▛▀▀▘▐▌   ▐▛▀▀▘▐▌  ▐▌▐▛▀▀▘  █  ▐▛▀▚▖ ▐▌  
+ ▝▚▞▘ ▝▚▄▞▘ ▐▌ ▐▌ ▐▌▝▚▄▞▘▐▙▄▄▖▐▌ ▐▌      █  ▐▙▄▄▖▐▙▄▄▖▐▙▄▄▖▐▌  ▐▌▐▙▄▄▖  █  ▐▌ ▐▌ ▐▌  
+                                                                                     
+                                                                                     
+                                                                                                                                    
+                                                               
+
+
+-->
 <details open>
   <summary id="voyager"><strong>🛰️ Voyager Telemetry (CLI feed)</strong> — NASA/JPL*</summary>
 <br>
@@ -272,7 +299,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-26 02:50:03Z
+DSN snapshot (UTC)       : 2026-01-26 09:36:13Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -283,14 +310,14 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.44e9 km | 170.030 AU
-Heliocentric distance    : 169.500 AU
-Relative speed           : 24.929 km/s
+Earth distance           : 25.44e9 km | 170.029 AU
+Heliocentric distance    : 169.503 AU
+Relative speed           : 24.869 km/s
 ------------------------------------------------------------
-One-way light time       : 23:34:06
+One-way light time       : 23:34:05
 Round-trip latency       : 47:08:11
 ------------------------------------------------------------
-Δ distance (since last)  : -1,381 km
+Δ distance (since last)  : -18,439 km
 Mission age              : 48 years, 155 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -302,19 +329,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.679 AU
-Heliocentric distance    : 141.932 AU
-Relative speed           : 32.053 km/s
+Earth distance           : 21.34e9 km | 142.680 AU
+Heliocentric distance    : 141.934 AU
+Relative speed           : 32.005 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:37
-Round-trip latency       : 39:33:15
+One-way light time       : 19:46:38
+Round-trip latency       : 39:33:16
 ------------------------------------------------------------
-Δ distance (since last)  : +7,576 km
+Δ distance (since last)  : +96,446 km
 Mission age              : 48 years, 171 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-26 02:50:08Z
+Report generated (UTC)   : 2026-01-26 09:36:18Z
 ```
 
 <!-- VOYAGER:END -->
@@ -700,21 +727,216 @@ _)      \.___.,|     .'
 
 -->
 
+
+
+                                   
+<!--
+
+
+ ▗▄▄▖▗▄▄▖  ▗▄▖▗▄▄▄▖▗▄▄▄▖▗▄▄▄▖▗▖  ▗▖
+▐▌   ▐▌ ▐▌▐▌ ▐▌ █    █  ▐▌    ▝▚▞▘ 
+ ▝▀▚▖▐▛▀▘ ▐▌ ▐▌ █    █  ▐▛▀▀▘  ▐▌  
+▗▄▄▞▘▐▌   ▝▚▄▞▘ █  ▗▄█▄▖▐▌     ▐▌                                                                                                                             
+                                                               
+
+
+-->
+
+
+<!--
+
 <details open>
 <summary> <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
   <br>
 
-  
+  -->
 <!-- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&redirect=true)
 -->
+
+<!-- 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 
 <sub>To view the latest track, click [refresh here](https://github.com/felipealfonsog?cache-bypass=1) to reload the profile with cache bypass (Although it's best to reload the profile by right-clicking on the page and selecting "Reload" or "Refresh").</sub>
 
 </details>
-   
+   -->
+
+
+
+
+                                   
+<!--
+
+
+ ▗▄▄▖▗▄▄▖  ▗▄▖▗▄▄▄▖▗▄▄▄▖▗▄▄▄▖▗▖  ▗▖     ▗▄▄▖▗▄▄▄▖▗▖   ▗▄▄▄▖    ▗▖ ▗▖ ▗▄▖  ▗▄▄▖▗▄▄▄▖▗▄▄▄▖▗▄▄▄ 
+▐▌   ▐▌ ▐▌▐▌ ▐▌ █    █  ▐▌    ▝▚▞▘     ▐▌   ▐▌   ▐▌   ▐▌       ▐▌ ▐▌▐▌ ▐▌▐▌     █  ▐▌   ▐▌  █
+ ▝▀▚▖▐▛▀▘ ▐▌ ▐▌ █    █  ▐▛▀▀▘  ▐▌       ▝▀▚▖▐▛▀▀▘▐▌   ▐▛▀▀▘    ▐▛▀▜▌▐▌ ▐▌ ▝▀▚▖  █  ▐▛▀▀▘▐▌  █
+▗▄▄▞▘▐▌   ▝▚▄▞▘ █  ▗▄█▄▖▐▌     ▐▌      ▗▄▄▞▘▐▙▄▄▖▐▙▄▄▖▐▌       ▐▌ ▐▌▝▚▄▞▘▗▄▄▞▘  █  ▐▙▄▄▖▐▙▄▄▀
+                                                                                             
+                                                                                             
+                                                                                             
+
+-->
+
+<!--
+------- con actions v.1 ----
+-->
+
+<details open>
+<summary>
+<a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a>
+🎧 Currently or previously on Spotify ...
+</summary>
+<br>
+
+
+
+<!-- LIVE CARD (updates automatically) -->
+
+[![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
+
+
+<!-- FALLBACK (last known good state, static) -->
+<!--
+[![spotify-cached](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg)](https://open.spotify.com/user/12133266428)
+
+<sub>
+If the live Spotify card is temporarily unavailable, the last known track is shown above.
+</sub>
+-->
+
+
+<!-- SPOTIFYCLI:START 
+```text
+SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
+------------------------------------------------------------
+Status                   : INIT
+SITREP                   : AMBER
+------------------------------------------------------------
+Now playing              : -
+Last played              : -
+------------------------------------------------------------
+Report generated (UTC)   : -
+```
+SPOTIFYCLI:END -->
+
+
+<!-- SPOTIFY_TEL:START -->
+```text
+SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
+------------------------------------------------------------
+Telemetry source          : Spotify Developer Platform — Playback Telemetry ©
+Acquisition mode          : OAuth2 / automated workflow
+Snapshot type             : Last-known playback state
+Observation window        : 00:30:00
+------------------------------------------------------------
+Status                    : PLAYING
+Playback state            : ONLINE (active session)
+SITREP                    : GREEN
+------------------------------------------------------------
+Now playing               : Nirvana — Where Did You Sleep Last Night - Live
+Last played               : Nirvana — All Apologies - Live
+Last played (UTC)         : 2026-01-26 11:42:50Z
+Last activity type        : PLAYBACK_ACTIVE
+------------------------------------------------------------
+Δ track (since last)      : Nirvana — Lake Of Fire - Live → Nirvana — All Apologies - Live
+Δ last played (since last): 2026-01-26 11:38:27Z → 2026-01-26 11:42:50Z
+Δ status (since last)     : NO CHANGE
+------------------------------------------------------------
+Time since last play      : 00:04:28
+Telemetry age             : 00:04:28
+Δ time (since last report): 00:07:35
+------------------------------------------------------------
+API response class        : 200 OK
+API condition             : NORMAL
+Authorization scope       : PLAYBACK_STATE
+                           NOW_PLAYING
+                           RECENT_ACTIVITY
+------------------------------------------------------------
+Data integrity            : OK
+Confidence level          : HIGH
+------------------------------------------------------------
+DAILY SPOTIFY SITREP
+------------------------------------------------------------
+Tracks played (last 24h)  : 43
+Dominant artist           : Nirvana
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
+------------------------------------------------------------
+WEEKLY CADENCE SUMMARY
+------------------------------------------------------------
+Week window (UTC)         : 2026-01-19 11:47:18Z → 2026-01-26 11:47:18Z
+Total tracks played       : 44
+Dominant artist           : Nirvana
+Cadence classification    : HIGH
+------------------------------------------------------------
+Report generated (UTC)    : 2026-01-26 11:47:18Z
+```
+<!-- SPOTIFY_TEL:END -->
+
+
+<!--
+
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the service provider used by the platform. Data may contain discrepancies or errors due to the platform's service.</sub>
+
+<sub>
+For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to the automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+What is reflected as playing on Spotify in this repository is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
+Data may contain discrepancies or inaccuracies due to limitations or transient issues in Spotify’s platform and services.
+</sub>
+
+
+<sub>
+For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to the automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+What is reflected as playing on Spotify in this repository is telemetry data obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
+Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform and related services.
+</sub>
+
+
+-->
+   
+<sub>
+For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
+Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.
+</sub>
+
+</details>
+
+
+
+
+<!--
+------- con actions v.2 - no working ----
+-->
+<!--
+<details open>
+<summary> <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
+  <br>
+  -->
+<!--
+[![spotify-card](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg?v=1769420805)](https://open.spotify.com/user/12133266428)
+-->
+
+<!--
+-- SPOTIFY:START --
+[![spotify-now](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg?v=574d4a1eda)](https://open.spotify.com/user/12133266428)
+
+-- SPOTIFY:END --
+
+
+<sub>To view the latest track, click [refresh here](https://github.com/felipealfonsog?cache-bypass=1) to reload the profile with cache bypass (Although it's best to reload the profile by right-clicking on the page and selecting "Reload" or "Refresh").</sub>
+
+</details>
+-->
+
+
+
+
 
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
@@ -927,6 +1149,19 @@ _______                  /__/
 </details>
 -->
 
+<!--
+
+▗▖ ▗▖ ▗▄▖ ▗▖ ▗▖ ▗▄▖▗▄▄▄▖▗▄▄▄▖▗▖  ▗▖▗▄▄▄▖
+▐▌ ▐▌▐▌ ▐▌▐▌▗▞▘▐▌ ▐▌ █    █  ▐▛▚▞▜▌▐▌   
+▐▌ ▐▌▐▛▀▜▌▐▛▚▖ ▐▛▀▜▌ █    █  ▐▌  ▐▌▐▛▀▀▘
+▐▙█▟▌▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌ █  ▗▄█▄▖▐▌  ▐▌▐▙▄▄▖
+                                        
+                                        
+                                        
+
+-->
+
+
 <details open>
   
 <!-- <summary id="wakatime">:star2: <strong> Wakatime Stats</strong>*</summary> -->
@@ -978,13 +1213,13 @@ END_SECTION:waka
 -->
 
 <!--START_SECTION:wakastats-->
-```
+```text
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 25 January 2026
+From: 04 December 2023 - To: 26 January 2026
 
-Total Time       : 956 hrs 41 mins
+Total Time       : 957 hrs 44 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 13 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -993,43 +1228,44 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           163 hrs 22 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.08 %
-Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.00 %
-HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.10 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.37 %
-Markdown       77 hrs 44 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.13 %
-Other          76 hrs 42 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.02 %
-C              73 hrs 29 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.68 %
+Bash           163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.06 %
+Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.99 %
+HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.09 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.35 %
+Other          80 hrs 30 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.41 %
+Markdown       77 hrs 44 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
+C              73 hrs 29 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.67 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.18 %
-Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.97 %
+Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.96 %
 INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          566 hrs 24 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.20 %
-Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.81 %
+Linux          570 hrs 43 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.59 %
+Mac            467 hrs 31 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.82 %
 
 EDITORS
 -------
-VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.00 %
-Vim            321 hrs 26 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.60 %
-Firefox        46 hrs 48 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.89 %
+VS Code        650 hrs 33 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  67.93 %
+Vim            321 hrs 27 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.56 %
+Firefox        51 hrs 36 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.39 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.21 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Antigravity    14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 Dia            6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 Terminal       3 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 TextMate       1 min          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
+Chrome         0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 CATEGORIES
 ----------
-Coding         986 hrs        ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       46 hrs 48 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.89 %
+Coding         986 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       51 hrs 36 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.39 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 26/01/2026 02:58:18 UTC
+Last updated     : 26/01/2026 11:10:09 UTC
 
 ```
 <!--END_SECTION:wakastats-->
