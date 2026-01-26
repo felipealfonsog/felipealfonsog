@@ -836,17 +836,17 @@ Playback state            : ONLINE (active session)
 SITREP                    : GREEN
 ------------------------------------------------------------
 Now playing               : (LIVE) — See track in card/UI
-Last played               : Nirvana — On A Plain - Live
-Last played (UTC)         : 2026-01-26 11:24:19Z
+Last played               : Nirvana — Lake Of Fire - Live
+Last played (UTC)         : 2026-01-26 11:38:27Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Nirvana — Polly - Live → Nirvana — On A Plain - Live
-Δ last played (since last): 2026-01-26 11:20:34Z → 2026-01-26 11:24:19Z
+Δ track (since last)      : Nirvana — On A Plain - Live → Nirvana — Lake Of Fire - Live
+Δ last played (since last): 2026-01-26 11:24:19Z → 2026-01-26 11:38:27Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:30
-Telemetry age             : 00:03:30
-Δ time (since last report): 00:04:29
+Time since last play      : 00:01:17
+Telemetry age             : 00:01:17
+Δ time (since last report): 00:11:56
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -857,19 +857,19 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 38
+Tracks played (last 24h)  : 42
 Dominant artist           : Nirvana
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-19 11:27:48Z → 2026-01-26 11:27:48Z
-Total tracks played       : 39
+Week window (UTC)         : 2026-01-19 11:39:43Z → 2026-01-26 11:39:43Z
+Total tracks played       : 43
 Dominant artist           : Nirvana
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-26 11:27:48Z
+Report generated (UTC)    : 2026-01-26 11:39:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
