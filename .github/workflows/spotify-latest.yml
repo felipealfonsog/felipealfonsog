@@ -1,4 +1,4 @@
-name: Spotify Telemetry (CLI style)
+name: Spotify Telemetry (CLI feed)
 
 on:
   workflow_dispatch:
@@ -27,21 +27,20 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           set -euo pipefail
+          mkdir -p images
 
-          # fail-safe backups
-          cp README.md README.md.before 2>/dev/null || true
-          mkdir -p data
-          cp data/spotify_telemetry_state.json data/spotify_telemetry_state.json.before 2>/dev/null || true
+          # Preserve last known good outputs
+          cp -f README.md README.md.before 2>/dev/null || true
+          cp -f images/spotify_telemetry_state.json images/spotify_telemetry_state.json.before 2>/dev/null || true
 
           if ! python3 .github/scripts/spotify_telemetry_cli.py; then
-            echo "Spotify telemetry update failed; restoring last known good README/state."
+            echo "Spotify telemetry update failed; preserving last known report."
             mv -f README.md.before README.md 2>/dev/null || true
-            mv -f data/spotify_telemetry_state.json.before data/spotify_telemetry_state.json 2>/dev/null || true
+            mv -f images/spotify_telemetry_state.json.before images/spotify_telemetry_state.json 2>/dev/null || true
             exit 0
           fi
 
-          rm -f README.md.before 2>/dev/null || true
-          rm -f data/spotify_telemetry_state.json.before 2>/dev/null || true
+          rm -f README.md.before images/spotify_telemetry_state.json.before 2>/dev/null || true
 
       - name: Commit & push if changed
         run: |
@@ -52,6 +51,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md data/spotify_telemetry_state.json
-          git commit -m "chore: update Spotify telemetry CLI block"
+          git add README.md images/spotify_telemetry_state.json
+          git commit -m "chore: update Spotify telemetry feed"
           git push
