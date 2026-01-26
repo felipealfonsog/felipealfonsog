@@ -52,32 +52,45 @@ def get_access_token() -> str:
     return token
 
 def get_playback_status(access_token: str) -> str:
+    """
+    Robust status:
+      - 204 => IDLE
+      - 200 + is_playing true => PLAYING
+      - 200 + is_playing false => IDLE
+      - 401/403/anything weird => UNKNOWN
+    """
     req = urllib.request.Request(
         CURRENT_URL,
         headers={"Authorization": f"Bearer {access_token}"},
     )
     try:
         with urllib.request.urlopen(req, timeout=15) as r:
-            # 200 => a track is currently playing (or at least an active playback context)
-            if r.status == 200:
-                return "PLAYING (live)"
-            # sometimes Spotify returns 204 for no content, but urllib treats 204 as success with no body;
-            # still, status check:
             if r.status == 204:
                 return "IDLE (last activity)"
+
+            if r.status == 200:
+                raw = r.read().decode("utf-8", "replace").strip()
+                if not raw:
+                    return "IDLE (last activity)"
+                try:
+                    data = json.loads(raw)
+                except Exception:
+                    return "UNKNOWN"
+
+                if data.get("is_playing") is True:
+                    return "PLAYING (live)"
+                return "IDLE (last activity)"
+
+            return "UNKNOWN"
+
     except urllib.error.HTTPError as e:
-        # 204 usually comes through as HTTPError in some stacks, keep it safe:
         if e.code == 204:
             return "IDLE (last activity)"
-        # 403 can happen if scopes are insufficient
-        if e.code == 403:
+        if e.code in (401, 403):
             return "UNKNOWN"
-        # 401 token issue etc.
-        if e.code == 401:
-            return "UNKNOWN"
+        return "UNKNOWN"
     except Exception:
         return "UNKNOWN"
-    return "UNKNOWN"
 
 def get_latest_track(access_token: str):
     code, _, payload = http_json(
@@ -103,21 +116,18 @@ def get_latest_track(access_token: str):
     cover = imgs[1]["url"] if len(imgs) > 1 else (imgs[0]["url"] if imgs else "")
 
     played_at = it.get("played_at") or ""
-    track_url = (track.get("external_urls") or {}).get("spotify") or ""
 
     return {
         "artist": artist,
         "title": title,
         "cover": cover,
         "played_at": played_at,
-        "track_url": track_url,
     }
 
 def esc(s: str) -> str:
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
 
 def svg_card(artist: str, title: str, cover_url: str, played_at: str, status: str):
-    # Dark, clean card similar to your screenshot: cover left, text right.
     w, h = 900, 205
     pad = 18
     cover = 150
@@ -127,13 +137,18 @@ def svg_card(artist: str, title: str, cover_url: str, played_at: str, status: st
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
     played = played_at or "N/A"
 
-    # Layout:
-    # y positions tuned to avoid crowding while keeping the look compact.
     y_label  = pad + 20
     y_artist = pad + 70
     y_track  = pad + 108
     y_status = pad + 136
     y_meta   = h - 24
+
+    cover_block = (
+        "<image href=\"{href}\" x=\"{x}\" y=\"{y}\" width=\"{w}\" height=\"{h}\" clip-path=\"url(#clip)\"/>"
+        .format(href=esc(cover_url), x=pad, y=y_cover, w=cover, h=cover)
+        if cover_url else
+        f"<rect x='{pad}' y='{y_cover}' width='{cover}' height='{cover}' rx='10' ry='10' fill='#111'/>"
+    )
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">
   <defs>
@@ -150,8 +165,7 @@ def svg_card(artist: str, title: str, cover_url: str, played_at: str, status: st
   </defs>
 
   <rect class="bg" x="0" y="0" width="{w}" height="{h}" rx="14" ry="14"/>
-
-  {"<image href=\\"" + esc(cover_url) + "\\" x=\\"" + str(pad) + "\\" y=\\"" + str(y_cover) + "\\" width=\\"" + str(cover) + "\\" height=\\"" + str(cover) + "\\" clip-path=\\"url(#clip)\\"/>" if cover_url else f"<rect x='{pad}' y='{y_cover}' width='{cover}' height='{cover}' rx='10' ry='10' fill='#111'/>"}
+  {cover_block}
 
   <text class="label" x="{x_text}" y="{y_label}">CURRENTLY OR PREVIOUSLY ON SPOTIFY</text>
   <text class="artist" x="{x_text}" y="{y_artist}">{esc(artist)}</text>
@@ -163,10 +177,9 @@ def svg_card(artist: str, title: str, cover_url: str, played_at: str, status: st
 
 def main():
     token = get_access_token()
-
     status = get_playback_status(token)
-    latest = get_latest_track(token)
 
+    latest = get_latest_track(token)
     if not latest:
         raise RuntimeError("No recently played track returned by Spotify (items empty).")
 
