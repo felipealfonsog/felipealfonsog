@@ -4,18 +4,13 @@ from pathlib import Path
 from datetime import datetime, timezone
 
 README = Path("README.md")
-
 if not README.exists():
     raise SystemExit("README.md not found")
 
 md = README.read_text(encoding="utf-8")
 
-# Busca spotify_now.svg con o sin ?v=
-pattern = re.compile(
-    r"(spotify_now\.svg)(\?v=\d+)?"
-)
-
-# Nuevo valor de cache-bust: timestamp UTC
+# Only bump the first occurrence to avoid collateral edits.
+pattern = re.compile(r"(spotify_now\.svg)(\?v=\d+)?")
 new_v = int(datetime.now(timezone.utc).timestamp())
 
 def repl(m):
@@ -23,7 +18,6 @@ def repl(m):
 
 new_md, n = pattern.subn(repl, md, count=1)
 
-# Si no encontró nada, no hace nada (importante)
 if n == 0:
     print("No spotify_now.svg reference found in README (nothing to bump).")
 else:
