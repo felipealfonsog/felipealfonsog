@@ -818,12 +818,17 @@ Now playing              : -
 Last played              : -
 ------------------------------------------------------------
 Report generated (UTC)   : -
-
 ```
-
 <!-- SPOTIFYCLI:END -->
 
 
+<!-- SPOTIFY_TEL:START -->
+```text
+SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
+Status                    : INIT
+Report generated (UTC)    : -
+```
+<!-- SPOTIFY_TEL:END -->
 
 
 <!--
