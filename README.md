@@ -704,13 +704,12 @@ _)      \.___.,|     .'
 <summary> <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
   <br>
 
-  
-<!-- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12133266428&redirect=true)
--->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
-
+<!-- SPOTIFY:START -->
+[![spotify-now](images/spotify_now.png)](https://open.spotify.com/user/12133266428)
 <sub>To view the latest track, click [refresh here](https://github.com/felipealfonsog?cache-bypass=1) to reload the profile with cache bypass (Although it's best to reload the profile by right-clicking on the page and selecting "Reload" or "Refresh").</sub>
+<!-- SPOTIFY:END -->
+
+</details>
 
 </details>
    
