@@ -1,27 +1,20 @@
 #!/usr/bin/env python3
 import re
-from pathlib import Path
+import time
 
-README = Path("README.md")
+README = "README.md"
 
-def main():
-    if not README.exists():
-        return
+with open(README, "r", encoding="utf-8") as f:
+    md = f.read()
 
-    md = README.read_text(encoding="utf-8")
+# expects a reference like: images/spotify_now.svg?v=123
+pattern = re.compile(r"(images/spotify_now\.svg\?v=)(\d+)")
+if not pattern.search(md):
+    # If not found, do nothing (keeps your README intact).
+    raise SystemExit(0)
 
-    # looks for spotify_now.svg?v=NUMBER
-    pat = re.compile(r"(spotify_now\.svg\?v=)(\d+)")
-    m = pat.search(md)
-    if not m:
-        return
+md2 = pattern.sub(rf"\g<1>{int(time.time())}", md)
 
-    cur = int(m.group(2))
-    nxt = cur + 1
-    md2 = pat.sub(rf"\g<1>{nxt}", md, count=1)
-
-    if md2 != md:
-        README.write_text(md2, encoding="utf-8")
-
-if __name__ == "__main__":
-    main()
+if md2 != md:
+    with open(README, "w", encoding="utf-8") as f:
+        f.write(md2)
