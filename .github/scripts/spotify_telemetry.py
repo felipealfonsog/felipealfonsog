@@ -1,83 +1,106 @@
 #!/usr/bin/env python3
-import argparse
+# .github/scripts/spotify_telemetry.py
+
 import base64
 import json
+import math
 import os
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 import urllib.error
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone, timedelta
 
-AUTH_URL    = "https://accounts.spotify.com/api/token"
-RECENT_URL  = "https://api.spotify.com/v1/me/player/recently-played"
-CURRENT_URL = "https://api.spotify.com/v1/me/player/currently-playing"
+# =============================================================================
+# TOGGLES (set True/False)
+# =============================================================================
 
-CACHE_DIR  = ".cache"
-OUT_TXT    = os.path.join(CACHE_DIR, "spotify_telemetry.txt")
-STATE_JSON = os.path.join(CACHE_DIR, "spotify_state.json")
-README     = "README.md"
+# Master switches
+SHOW_HEADER_META          = True
+SHOW_STATUS_BLOCK         = True
+SHOW_TRACK_BLOCK          = True
+SHOW_DELTAS_BLOCK         = True
+SHOW_TIME_BLOCK           = True
+SHOW_API_BLOCK            = True
+SHOW_INTEGRITY_BLOCK      = True
+SHOW_DAILY_SITREP         = True
+SHOW_WEEKLY_SUMMARY       = True
 
-MARK_START = "<!-- SPOTIFY_TEL:START -->"
-MARK_END   = "<!-- SPOTIFY_TEL:END -->"
+# Sub-toggles / formatting
+SCOPE_MODE = "WRAP"   # "WRAP" | "COMPACT" | "OFF"
+WRAP_WIDTH = 34       # scope wrapping width for WRAP mode
+
+# Behavior toggles
+FAIL_SAFE_DO_NOT_BREAK_README = True   # if Spotify fails, keep old README block
+WRITE_STATE_FILE              = True   # store last report for deltas
+OBS_WINDOW_SECONDS            = 30 * 60 # "Observation window" label
+
+# =============================================================================
+# Config / files
+# =============================================================================
+
+CLIENT_ID     = os.environ.get("SPOTIFY_CLIENT_ID", "").strip()
+CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET", "").strip()
+REFRESH_TOKEN = os.environ.get("SPOTIFY_REFRESH_TOKEN", "").strip()
+
+AUTH_URL      = "https://accounts.spotify.com/api/token"
+CURRENT_URL   = "https://api.spotify.com/v1/me/player/currently-playing"
+RECENT_URL    = "https://api.spotify.com/v1/me/player/recently-played?limit=50"
+
+README_PATH   = "README.md"
+MARKER_START  = "<!-- SPOTIFY_TEL:START -->"
+MARKER_END    = "<!-- SPOTIFY_TEL:END -->"
+
+STATE_DIR     = ".github/state"
+STATE_FILE    = os.path.join(STATE_DIR, "spotify_last_report.json")
+
+# =============================================================================
+# Helpers
+# =============================================================================
 
 def utc_now() -> datetime:
     return datetime.now(timezone.utc)
 
-def fmt_utc(dt: datetime | None) -> str:
-    if not dt:
+def utc_iso(dt: datetime) -> str:
+    return dt.strftime("%Y-%m-%d %H:%M:%SZ")
+
+def esc_txt(s: str) -> str:
+    return (s or "").replace("\r", "").replace("\n", " ").strip()
+
+def clamp(n, lo, hi):
+    return max(lo, min(hi, n))
+
+def fmt_hms(seconds: float) -> str:
+    if seconds is None or seconds < 0:
         return "N/A"
-    return dt.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
-
-def parse_iso_utc(s: str | None) -> datetime | None:
-    if not s:
-        return None
-    try:
-        return datetime.fromisoformat(str(s).replace("Z", "+00:00"))
-    except Exception:
-        return None
-
-def fmt_hms(seconds: int) -> str:
-    if seconds < 0:
-        seconds = 0
-    h = seconds // 3600
-    m = (seconds % 3600) // 60
-    s = seconds % 60
+    sec = int(round(seconds))
+    h = sec // 3600
+    m = (sec % 3600) // 60
+    s = sec % 60
     return f"{h:02d}:{m:02d}:{s:02d}"
-
-def env_bool(name: str, default: bool = True) -> bool:
-    v = (os.environ.get(name, "") or "").strip().lower()
-    if not v:
-        return default
-    return v in ("true", "1", "yes", "y", "on")
-
-def env_int(name: str, default: int) -> int:
-    v = (os.environ.get(name, "") or "").strip()
-    if not v:
-        return default
-    try:
-        return int(v)
-    except Exception:
-        return default
 
 def http_json(url: str, headers=None, data: bytes | None = None, timeout: int = 25):
     headers = headers or {}
     req = urllib.request.Request(url, headers=headers, data=data)
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        raw = r.read().decode("utf-8", "replace")
-        if not raw.strip():
-            return r.getcode(), dict(r.headers), None
-        return r.getcode(), dict(r.headers), json.loads(raw)
+        body = r.read().decode("utf-8", "replace")
+        if not body.strip():
+            return r.status, dict(r.headers), None
+        return r.status, dict(r.headers), json.loads(body)
 
-def token_refresh(client_id: str, client_secret: str, refresh_token: str) -> tuple[str, str]:
-    auth = base64.b64encode(f"{client_id}:{client_secret}".encode()).decode()
+def spotify_access_token():
+    if not (CLIENT_ID and CLIENT_SECRET and REFRESH_TOKEN):
+        raise RuntimeError("Missing Spotify secrets: SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / SPOTIFY_REFRESH_TOKEN")
+
+    auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
     body = urllib.parse.urlencode({
         "grant_type": "refresh_token",
-        "refresh_token": refresh_token,
+        "refresh_token": REFRESH_TOKEN,
     }).encode("utf-8")
 
-    code, _, payload = http_json(
+    code, headers, payload = http_json(
         AUTH_URL,
         headers={
             "Authorization": f"Basic {auth}",
@@ -87,441 +110,435 @@ def token_refresh(client_id: str, client_secret: str, refresh_token: str) -> tup
         timeout=25
     )
 
-    if code >= 400 or not isinstance(payload, dict):
-        raise RuntimeError(f"Token refresh failed (HTTP {code}).")
+    if code >= 400 or not payload:
+        raise RuntimeError(f"Spotify token refresh failed (HTTP {code}): {payload}")
 
-    access = payload.get("access_token")
-    scope  = payload.get("scope", "")
-    if not access:
-        raise RuntimeError("Token refresh failed: no access_token.")
-    return access, scope
+    token = payload.get("access_token")
+    scope = payload.get("scope") or ""
+    if not token:
+        raise RuntimeError(f"No access_token in token response: {payload}")
 
-def fetch_current(access_token: str) -> tuple[int, str, dict | None]:
-    """
-    Returns: (http_status, api_class, payload)
-      - 200: payload JSON with item/device/progress_ms/is_playing...
-      - 204: no active playback
-    """
-    req = urllib.request.Request(
-        CURRENT_URL,
-        headers={"Authorization": f"Bearer {access_token}"},
-    )
+    return token, scope
+
+def fetch_currently_playing(token: str):
+    req = urllib.request.Request(CURRENT_URL, headers={"Authorization": f"Bearer {token}"})
     try:
         with urllib.request.urlopen(req, timeout=15) as r:
-            status = int(r.status)
-            if status == 204:
-                return 204, "204 NO CONTENT", None
+            if r.status == 204:
+                return {"http": 204, "data": None}
             raw = r.read().decode("utf-8", "replace").strip()
             if not raw:
-                return status, f"{status}", None
-            try:
-                return status, "200 OK", json.loads(raw)
-            except Exception:
-                return status, f"{status} PARSE_ERROR", None
+                return {"http": r.status, "data": None}
+            return {"http": r.status, "data": json.loads(raw)}
     except urllib.error.HTTPError as e:
-        return int(e.code), f"{e.code}", None
-    except Exception:
-        return 0, "NETWORK/UNKNOWN", None
+        if e.code == 204:
+            return {"http": 204, "data": None}
+        try:
+            raw = e.read().decode("utf-8", "replace")
+        except Exception:
+            raw = ""
+        return {"http": e.code, "data": raw or None}
+    except Exception as e:
+        return {"http": -1, "data": str(e)}
 
-def fetch_recent(access_token: str, limit: int) -> list[dict]:
-    url = RECENT_URL + "?" + urllib.parse.urlencode({"limit": str(limit)})
-    code, _, payload = http_json(url, headers={"Authorization": f"Bearer {access_token}"}, timeout=25)
-    if code >= 400 or not isinstance(payload, dict):
-        raise RuntimeError(f"Spotify API error (recently-played) HTTP {code}.")
-    return payload.get("items") or []
+def fetch_recently_played(token: str, limit: int = 50):
+    url = "https://api.spotify.com/v1/me/player/recently-played?limit=" + str(limit)
+    code, headers, payload = http_json(url, headers={"Authorization": f"Bearer {token}"}, timeout=20)
+    return code, payload
 
-def extract_track_line(track_obj: dict | None) -> tuple[str, str]:
-    t = track_obj or {}
-    artists = t.get("artists") or []
+def parse_track_item(track_obj: dict):
+    if not track_obj:
+        return None
+    artists = track_obj.get("artists") or []
     artist = ", ".join([a.get("name","") for a in artists if a.get("name")]) or "Unknown artist"
-    title = t.get("name") or "Unknown track"
-    return artist, title
+    title = track_obj.get("name") or "Unknown track"
+    uri = track_obj.get("uri") or ""
+    ext = (track_obj.get("external_urls") or {}).get("spotify") or ""
+    album = track_obj.get("album") or {}
+    album_name = album.get("name") or ""
+    return {
+        "artist": artist,
+        "title": title,
+        "album": album_name,
+        "uri": uri,
+        "url": ext,
+    }
 
-def short_fp(s: str) -> str:
-    import hashlib
-    return hashlib.sha256(s.encode("utf-8", "replace")).hexdigest()[:10]
-
-def load_state() -> dict:
+def load_state():
     try:
-        with open(STATE_JSON, "r", encoding="utf-8") as f:
-            return json.load(f) or {}
+        with open(STATE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
     except Exception:
         return {}
 
-def save_state(st: dict):
-    os.makedirs(CACHE_DIR, exist_ok=True)
-    with open(STATE_JSON, "w", encoding="utf-8") as f:
-        json.dump(st, f, ensure_ascii=False, indent=2)
+def save_state(obj: dict):
+    os.makedirs(STATE_DIR, exist_ok=True)
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
 
-def sitrep_from(status: str, api_condition: str, integrity: str) -> str:
-    if integrity != "OK":
+def fmt_scope_lines(scope_str: str):
+    s = (scope_str or "").strip()
+    if not s:
+        return ["N/A"]
+
+    if SCOPE_MODE == "OFF":
+        return []
+
+    if SCOPE_MODE == "COMPACT":
+        m = {
+            "user-read-playback-state": "PLAYBACK_STATE",
+            "user-read-currently-playing": "NOW_PLAYING",
+            "user-read-recently-played": "RECENT",
+        }
+        parts = [m.get(x, x) for x in s.split()]
+        return [", ".join(parts)]
+
+    # WRAP
+    parts = s.split()
+    lines, cur = [], ""
+    for p in parts:
+        if not cur:
+            cur = p
+        elif len(cur) + 1 + len(p) <= WRAP_WIDTH:
+            cur += " " + p
+        else:
+            lines.append(cur)
+            cur = p
+    if cur:
+        lines.append(cur)
+    return lines
+
+def classify_sitrep(status: str, playback_state: str, api_ok: bool):
+    # status: PLAYING | IDLE | UNKNOWN
+    # playback_state: ONLINE/OFFLINE/UNKNOWN
+    if not api_ok:
         return "RED"
-    if api_condition != "NORMAL":
-        return "AMBER" if status in ("PLAYING","IDLE") else "RED"
-    return "GREEN" if status == "PLAYING" else "AMBER" if status == "IDLE" else "RED"
+    if status == "PLAYING" and playback_state.startswith("ONLINE"):
+        return "GREEN"
+    if status in ("IDLE", "UNKNOWN"):
+        return "AMBER"
+    return "AMBER"
 
-def api_condition_from(api_class: str, token_ok: bool) -> str:
-    if not token_ok:
-        return "DEGRADED"
-    if api_class.startswith("200") or api_class.startswith("204"):
-        return "NORMAL"
-    if api_class in ("NETWORK/UNKNOWN","UNKNOWN","0"):
-        return "DEGRADED"
-    return "DEGRADED"
-
-def confidence_level(api_condition: str, integrity: str) -> str:
-    if integrity != "OK":
-        return "LOW"
-    if api_condition != "NORMAL":
-        return "MEDIUM"
-    return "HIGH"
-
-def cadence_label(n: int) -> str:
-    if n >= 25:
-        return "HIGH"
-    if n >= 8:
-        return "MODERATE"
-    return "LOW"
-
-def apply_to_readme(report: str):
-    with open(README, "r", encoding="utf-8") as f:
+def rewrite_readme_block(new_block: str):
+    with open(README_PATH, "r", encoding="utf-8") as f:
         md = f.read()
 
-    pat = re.compile(rf"{re.escape(MARK_START)}.*?{re.escape(MARK_END)}", re.S)
-    if not pat.search(md):
-        raise SystemExit(f"Markers not found: {MARK_START} ... {MARK_END}")
+    pattern = re.compile(re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END), re.S)
+    if not pattern.search(md):
+        raise RuntimeError(f"Markers not found in README: {MARKER_START} ... {MARKER_END}")
 
-    block = (
-        f"{MARK_START}\n"
-        "```text\n"
-        f"{report}"
-        "```\n"
-        f"{MARK_END}"
-    )
-    md2 = pat.sub(block, md)
-    with open(README, "w", encoding="utf-8") as f:
+    replacement = f"{MARKER_START}\n```text\n{new_block.rstrip()}\n```\n{MARKER_END}"
+    md2 = pattern.sub(replacement, md)
+
+    with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(md2)
 
-def build_report(access: str, scope: str, apply_only: bool = False) -> str:
+# =============================================================================
+# Main telemetry build
+# =============================================================================
+
+def build_report():
     now = utc_now()
-    tz_label = (os.environ.get("SPOTIFY_TZ_LABEL", "UTC") or "UTC").strip() or "UTC"
+    now_s = utc_iso(now)
 
-    # ===== section toggles =====
-    show_header   = env_bool("SPOTIFY_SHOW_HEADER", True)
-    show_core     = env_bool("SPOTIFY_SHOW_CORE_STATUS", True)
-    show_now_det  = env_bool("SPOTIFY_SHOW_NOW_PLAYING_DETAILS", True)
-    show_last     = env_bool("SPOTIFY_SHOW_LAST_PLAYED", True)
-    show_deltas   = env_bool("SPOTIFY_SHOW_DELTAS", True)
-    show_timing   = env_bool("SPOTIFY_SHOW_TIMING", True)
-    show_api      = env_bool("SPOTIFY_SHOW_API_HEALTH", True)
-    show_integr   = env_bool("SPOTIFY_SHOW_INTEGRITY", True)
-    show_daily    = env_bool("SPOTIFY_SHOW_DAILY_SITREP", True)
-    show_weekly   = env_bool("SPOTIFY_SHOW_WEEKLY_SUMMARY", True)
+    # state for deltas
+    prev = load_state() if WRITE_STATE_FILE else {}
+    prev_track = prev.get("last_track", "")
+    prev_last_played = prev.get("last_played_utc", "")
+    prev_status = prev.get("status", "")
+    prev_report_ts = prev.get("report_generated_utc", "")
 
-    # ===== subfield toggles =====
-    show_device   = env_bool("SPOTIFY_SHOW_DEVICE", True)
-    show_volume   = env_bool("SPOTIFY_SHOW_VOLUME", False)
-    show_sr       = env_bool("SPOTIFY_SHOW_SHUFFLE_REPEAT", True)
-    show_progress = env_bool("SPOTIFY_SHOW_PROGRESS", True)
-    show_ids      = env_bool("SPOTIFY_SHOW_IDS", False)
+    # acquire token
+    token, scope = spotify_access_token()
 
-    max_recent  = env_int("SPOTIFY_MAX_RECENT", 50)
-    daily_h     = env_int("SPOTIFY_DAILY_WINDOW_H", 24)
-    weekly_days = env_int("SPOTIFY_WEEKLY_DAYS", 7)
-
-    if apply_only:
-        try:
-            with open(OUT_TXT, "r", encoding="utf-8") as f:
-                return f.read()
-        except Exception:
-            return (
-                "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n"
-                "------------------------------------------------------------\n"
-                "Status                    : UNKNOWN\n"
-                f"Report generated ({tz_label})   : {fmt_utc(now)}\n"
-            )
-
-    state = load_state()
-    prev = state.get("prev") or {}
-
-    # ===== current playback =====
-    token_ok = True
-    http_status, api_class, cur = fetch_current(access)
-    api_condition = api_condition_from(api_class, token_ok)
+    # current playback
+    cur = fetch_currently_playing(token)
+    api_http = cur.get("http", -1)
+    api_ok = (api_http in (200, 204))
 
     status = "UNKNOWN"
     playback_state = "UNKNOWN"
+    now_playing_str = "-"
+    last_activity_type = "UNKNOWN"
 
-    now_playing = "-"
-    now_artist = ""
-    now_title  = ""
-    now_album  = ""
-    now_device = ""
-    now_shuffle = None
-    now_repeat = None
-    now_progress_ms = None
-    now_duration_ms = None
-    now_uri = ""
-    now_id = ""
+    now_track = None
+    now_track_name = "-"
 
-    if http_status == 204:
+    if api_http == 200 and isinstance(cur.get("data"), dict):
+        d = cur["data"]
+        is_playing = d.get("is_playing")
+        status = "PLAYING" if is_playing else "IDLE"
+        playback_state = "ONLINE (active session)" if is_playing else "OFFLINE (no active session)"
+        last_activity_type = "PLAYBACK_ACTIVE" if is_playing else "PLAYBACK_INACTIVE"
+
+        item = d.get("item") or {}
+        now_track = parse_track_item(item)
+        if now_track:
+            now_track_name = f"{now_track['artist']} — {now_track['title']}"
+        now_playing_str = "(LIVE) — See track in card/UI" if is_playing else "-"
+    elif api_http == 204:
         status = "IDLE"
         playback_state = "OFFLINE (no active session)"
-    elif http_status == 200 and isinstance(cur, dict):
-        is_playing = cur.get("is_playing")
-        status = "PLAYING" if is_playing is True else "IDLE"
-        playback_state = "ONLINE (active session)" if is_playing is True else "OFFLINE (no active session)"
-
-        item = cur.get("item") or {}
-        now_artist, now_title = extract_track_line(item)
-        now_album = (item.get("album") or {}).get("name") or ""
-        now_progress_ms = cur.get("progress_ms")
-        now_duration_ms = item.get("duration_ms")
-        dev = cur.get("device") or {}
-        now_device = dev.get("name") or ""
-        now_shuffle = cur.get("shuffle_state")
-        now_repeat = cur.get("repeat_state")
-        now_uri = item.get("uri") or ""
-        now_id = item.get("id") or ""
-
-        if status == "PLAYING":
-            now_playing = f"{now_artist} — {now_title}"
-        else:
-            now_playing = "-"
+        last_activity_type = "NO_CONTENT_204"
+        now_playing_str = "-"
     else:
         status = "UNKNOWN"
         playback_state = "UNKNOWN"
+        last_activity_type = "API_ERROR"
 
-    # ===== recently played (history) =====
-    items = fetch_recent(access, max_recent)
-    if not items:
-        raise RuntimeError("Spotify returned empty recently-played feed (items=0).")
+    # recently played (for last known track)
+    recent_code, recent_payload = fetch_recently_played(token, limit=50)
+    recent_ok = (recent_code == 200 and isinstance(recent_payload, dict))
 
-    first = items[0]
-    last_track = first.get("track") or {}
-    last_artist, last_title = extract_track_line(last_track)
-    last_played_dt = parse_iso_utc(first.get("played_at"))
-    last_played_s = fmt_utc(last_played_dt)
-    last_track_line = f"{last_artist} — {last_title}"
+    last_track_name = "-"
+    last_played_utc = ""
+    last_track_obj = None
 
-    # ===== integrity =====
-    integrity = "OK" if (last_artist and last_title and last_played_dt) else "PARTIAL"
-    sitrep = sitrep_from(status, api_condition, integrity)
-    confidence = confidence_level(api_condition, integrity)
+    if recent_ok:
+        items = recent_payload.get("items") or []
+        if items:
+            it0 = items[0]
+            played_at = it0.get("played_at") or ""
+            tr = it0.get("track") or {}
+            last_track_obj = parse_track_item(tr)
+            if last_track_obj:
+                last_track_name = f"{last_track_obj['artist']} — {last_track_obj['title']}"
+            last_played_utc = played_at.replace(".000Z", "Z") if played_at else ""
+            if last_played_utc and last_played_utc.endswith("Z"):
+                # normalize to "YYYY-MM-DD HH:MM:SSZ"
+                try:
+                    dtp = datetime.fromisoformat(last_played_utc.replace("Z", "+00:00"))
+                    last_played_utc = utc_iso(dtp)
+                except Exception:
+                    pass
 
-    # ===== deltas =====
-    prev_status = prev.get("status")
-    prev_last = prev.get("last_played_utc")
-    prev_now = prev.get("now_playing_fp")
-    prev_gen = parse_iso_utc(prev.get("report_generated_utc"))
+    # time since last play
+    time_since_last_play = "N/A"
+    telemetry_age = "N/A"
+    if last_played_utc:
+        try:
+            last_dt = datetime.fromisoformat(last_played_utc.replace("Z", "+00:00"))
+            delta = (now - last_dt).total_seconds()
+            time_since_last_play = fmt_hms(delta)
+            telemetry_age = fmt_hms(delta)
+        except Exception:
+            pass
 
-    now_fp = short_fp(now_playing) if now_playing != "-" else "NA"
-    last_fp = short_fp(last_track_line)
+    # deltas since last report
+    def delta_str(prev_val, new_val, first_label="N/A (first report)"):
+        if not prev_val:
+            return first_label
+        if prev_val == new_val:
+            return "NO CHANGE"
+        return f"{prev_val} → {new_val}"
 
-    if not prev:
-        d_track = "N/A (first report)"
-        d_last  = "N/A (first report)"
-        d_stat  = "N/A (first report)"
-        d_time  = "N/A (first report)"
-    else:
-        d_track = "UNCHANGED" if prev_now == now_fp else "CHANGED"
-        d_last  = "UNCHANGED" if prev_last == last_played_s else "UPDATED"
-        d_stat  = "UNCHANGED" if prev_status == status else f"{prev_status} → {status}"
-        d_time  = fmt_hms(int((now - prev_gen).total_seconds())) if prev_gen else "UNKNOWN"
+    d_track = delta_str(prev_track, last_track_name)
+    d_last  = delta_str(prev_last_played, last_played_utc)
+    d_stat  = delta_str(prev_status, status)
 
-    # ===== timing semantics (correct) =====
-    # If PLAYING: show track position + remaining
-    # If IDLE: show time since last played
-    time_since_last_play = None
-    if last_played_dt:
-        time_since_last_play = int((now - last_played_dt).total_seconds())
-    time_since_last_play = max(0, time_since_last_play or 0)
+    d_time = "N/A (first report)"
+    if prev_report_ts:
+        try:
+            pdt = datetime.fromisoformat(prev_report_ts.replace("Z", "+00:00"))
+            d_time = fmt_hms((now - pdt).total_seconds())
+        except Exception:
+            d_time = "N/A"
 
-    pos_s = rem_s = None
-    if status == "PLAYING" and isinstance(now_progress_ms, int) and isinstance(now_duration_ms, int) and now_duration_ms > 0:
-        pos_s = now_progress_ms // 1000
-        rem_s = max(0, (now_duration_ms - now_progress_ms) // 1000)
+    # Daily SITREP (last 24h)
+    daily_tracks = None
+    dominant_artist_24h = None
+    daily_pattern = None
+    daily_status = None
 
-    # ===== daily/weekly counts from items timestamps =====
-    daily_cut  = now - timedelta(hours=daily_h)
-    weekly_cut = now - timedelta(days=weekly_days)
+    if SHOW_DAILY_SITREP and recent_ok:
+        cutoff = now - timedelta(hours=24)
+        cnt = 0
+        artist_counts = {}
+        for it in (recent_payload.get("items") or []):
+            pa = it.get("played_at") or ""
+            try:
+                dtp = datetime.fromisoformat(pa.replace("Z", "+00:00"))
+            except Exception:
+                continue
+            if dtp < cutoff:
+                continue
+            cnt += 1
+            tr = it.get("track") or {}
+            a0 = ((tr.get("artists") or [{}])[0]).get("name") or ""
+            if a0:
+                artist_counts[a0] = artist_counts.get(a0, 0) + 1
 
-    count_24h = 0
-    count_7d = 0
-    artist_counts_24h = {}
-    artist_counts_7d = {}
+        daily_tracks = cnt
+        if artist_counts:
+            dominant_artist_24h = max(artist_counts.items(), key=lambda x: x[1])[0]
 
-    def inc(d, k):
-        d[k] = d.get(k, 0) + 1
+        if cnt >= 25:
+            daily_status = "HIGH"
+            daily_pattern = "Sustained operational tempo"
+        elif cnt >= 10:
+            daily_status = "MEDIUM"
+            daily_pattern = "Regular cadence"
+        elif cnt >= 1:
+            daily_status = "LOW"
+            daily_pattern = "Light activity"
+        else:
+            daily_status = "NONE"
+            daily_pattern = "No activity"
 
-    for it in items:
-        dt = parse_iso_utc(it.get("played_at"))
-        if not dt:
-            continue
-        t = it.get("track") or {}
-        a, _ = extract_track_line(t)
-        if dt >= daily_cut:
-            count_24h += 1
-            inc(artist_counts_24h, a)
-        if dt >= weekly_cut:
-            count_7d += 1
-            inc(artist_counts_7d, a)
+    # Weekly summary (best-effort from recent endpoint limited history)
+    week_window_start = now - timedelta(days=7)
+    weekly_total = None
+    dominant_artist_week = None
+    cadence = None
 
-    dom_24 = max(artist_counts_24h, key=artist_counts_24h.get) if artist_counts_24h else "N/A"
-    dom_7d = max(artist_counts_7d, key=artist_counts_7d.get) if artist_counts_7d else "N/A"
+    if SHOW_WEEKLY_SUMMARY and recent_ok:
+        cnt = 0
+        artist_counts = {}
+        for it in (recent_payload.get("items") or []):
+            pa = it.get("played_at") or ""
+            try:
+                dtp = datetime.fromisoformat(pa.replace("Z", "+00:00"))
+            except Exception:
+                continue
+            if dtp < week_window_start:
+                continue
+            cnt += 1
+            tr = it.get("track") or {}
+            a0 = ((tr.get("artists") or [{}])[0]).get("name") or ""
+            if a0:
+                artist_counts[a0] = artist_counts.get(a0, 0) + 1
 
-    daily_activity = cadence_label(count_24h)
-    weekly_cadence = cadence_label(count_7d)
+        weekly_total = cnt
+        if artist_counts:
+            dominant_artist_week = max(artist_counts.items(), key=lambda x: x[1])[0]
 
-    # ===== render =====
+        if cnt >= 80:
+            cadence = "VERY HIGH"
+        elif cnt >= 40:
+            cadence = "HIGH"
+        elif cnt >= 15:
+            cadence = "MEDIUM"
+        elif cnt >= 1:
+            cadence = "LOW"
+        else:
+            cadence = "NONE"
+
+    # Compute SITREP
+    sitrep = classify_sitrep(status, playback_state, api_ok and recent_ok)
+
+    # Build output
     out = []
     out.append("SPOTIFY TELEMETRY — CLI FEED (Spotify ©)")
     out.append("------------------------------------------------------------")
 
-    if show_header:
-        out.append("Telemetry source          : Spotify Web API")
-        out.append("Acquisition mode          : OAuth2 / automated workflow")
-        out.append("Snapshot type             : Current playback + recent history")
-        out.append(f"History window (max)      : {max_recent} events")
+    if SHOW_HEADER_META:
+        out.append(f"Telemetry source          : Spotify Web API")
+        out.append(f"Acquisition mode          : OAuth2 / automated workflow")
+        out.append(f"Snapshot type             : Last-known playback state")
+        out.append(f"Observation window        : {fmt_hms(OBS_WINDOW_SECONDS)}")
         out.append("------------------------------------------------------------")
 
-    if show_core:
+    if SHOW_STATUS_BLOCK:
         out.append(f"Status                    : {status}")
         out.append(f"Playback state            : {playback_state}")
         out.append(f"SITREP                    : {sitrep}")
         out.append("------------------------------------------------------------")
 
-    # NOW PLAYING (pure data)
-    if show_now_det:
-        out.append(f"Now playing               : {now_playing}")
-        if status == "PLAYING":
-            if now_album:
-                out.append(f"Album                     : {now_album}")
-            if show_device and now_device:
-                out.append(f"Device                    : {now_device}")
-            if show_sr:
-                if now_shuffle is not None:
-                    out.append(f"Shuffle                   : {'ON' if now_shuffle else 'OFF'}")
-                if now_repeat:
-                    out.append(f"Repeat                    : {str(now_repeat).upper()}")
-            if show_progress and pos_s is not None and rem_s is not None:
-                out.append(f"Track position            : {fmt_hms(pos_s)}")
-                out.append(f"Time remaining            : {fmt_hms(rem_s)}")
-            if show_volume:
-                dev = cur.get("device") if isinstance(cur, dict) else {}
-                vol = (dev or {}).get("volume_percent")
-                if isinstance(vol, int):
-                    out.append(f"Volume                    : {vol}%")
-            if show_ids:
-                if now_id:
-                    out.append(f"Track ID                  : {now_id}")
-                if now_uri:
-                    out.append(f"Track URI                 : {now_uri}")
+    if SHOW_TRACK_BLOCK:
+        out.append(f"Now playing               : {now_playing_str}")
+        out.append(f"Last played               : {last_track_name}")
+        out.append(f"Last played (UTC)         : {last_played_utc or 'N/A'}")
+        out.append(f"Last activity type        : {last_activity_type}")
         out.append("------------------------------------------------------------")
 
-    if show_last:
-        out.append(f"Last played               : {last_track_line}")
-        out.append(f"Last played ({tz_label})         : {last_played_s}")
-        out.append("------------------------------------------------------------")
-
-    if show_deltas:
-        out.append(f"Δ now playing (since last): {d_track}")
+    if SHOW_DELTAS_BLOCK:
+        out.append(f"Δ track (since last)      : {d_track}")
         out.append(f"Δ last played (since last): {d_last}")
         out.append(f"Δ status (since last)     : {d_stat}")
         out.append("------------------------------------------------------------")
 
-    if show_timing:
-        if status == "PLAYING" and pos_s is not None and rem_s is not None:
-            out.append(f"Time since last play      : N/A (live session)")
-        else:
-            out.append(f"Time since last play      : {fmt_hms(time_since_last_play)}")
+    if SHOW_TIME_BLOCK:
+        out.append(f"Time since last play      : {time_since_last_play}")
+        out.append(f"Telemetry age             : {telemetry_age}")
         out.append(f"Δ time (since last report): {d_time}")
         out.append("------------------------------------------------------------")
 
-    if show_api:
+    if SHOW_API_BLOCK:
+        # API response class
+        if api_http == 200:
+            api_class = "200 OK"
+        elif api_http == 204:
+            api_class = "204 NO CONTENT"
+        elif api_http == -1:
+            api_class = "NETWORK/EXCEPTION"
+        else:
+            api_class = f"{api_http} ERROR"
+
         out.append(f"API response class        : {api_class}")
-        out.append(f"API condition             : {api_condition}")
-        def scope_compact(scope_str: str) -> str:
-            s = (scope_str or "").split()
-            if not s:
-                return "N/A"
-            m = {
-                "user-read-playback-state": "PLAYBACK_STATE",
-                "user-read-currently-playing": "NOW_PLAYING",
-                "user-read-recently-played": "RECENT",
-            }
-            mapped = [m.get(x, x) for x in s]
-            return ", ".join(mapped)
-        
-        out.append(f"Auth scope                : {scope_compact(scope)}")
+        out.append(f"API condition             : {'NORMAL' if (api_ok and recent_ok) else 'DEGRADED'}")
+
+        scope_lines = fmt_scope_lines(scope)
+        if SCOPE_MODE != "OFF" and scope_lines:
+            out.append(f"Auth scope                : {scope_lines[0]}")
+            for ln in scope_lines[1:]:
+                out.append(f"                           {ln}")
+
         out.append("------------------------------------------------------------")
 
-    if show_integr:
+    if SHOW_INTEGRITY_BLOCK:
+        integrity = "OK" if (api_ok and recent_ok and last_track_name != "-") else "DEGRADED"
+        confidence = "HIGH" if integrity == "OK" else "MEDIUM"
         out.append(f"Data integrity            : {integrity}")
         out.append(f"Confidence level          : {confidence}")
         out.append("------------------------------------------------------------")
 
-    if show_daily:
+    if SHOW_DAILY_SITREP:
         out.append("DAILY SPOTIFY SITREP")
         out.append("------------------------------------------------------------")
-        out.append(f"Tracks played (last {daily_h}h)   : {count_24h}")
-        out.append(f"Dominant artist           : {dom_24}")
-        out.append(f"Daily activity status     : {daily_activity}")
+        out.append(f"Tracks played (last 24h)  : {daily_tracks if daily_tracks is not None else 'N/A'}")
+        out.append(f"Dominant artist           : {dominant_artist_24h or 'N/A'}")
+        out.append(f"Listening pattern         : {daily_pattern or 'N/A'}")
+        out.append(f"Daily activity status     : {daily_status or 'N/A'}")
         out.append("------------------------------------------------------------")
 
-    if show_weekly:
+    if SHOW_WEEKLY_SUMMARY:
         out.append("WEEKLY CADENCE SUMMARY")
         out.append("------------------------------------------------------------")
-        out.append(f"Week window ({tz_label})         : {fmt_utc(weekly_cut)} → {fmt_utc(now)}")
-        out.append(f"Total tracks played       : {count_7d}")
-        out.append(f"Dominant artist           : {dom_7d}")
-        out.append(f"Cadence classification    : {weekly_cadence}")
+        out.append(f"Week window (UTC)         : {utc_iso(week_window_start)} → {now_s}")
+        out.append(f"Total tracks played       : {weekly_total if weekly_total is not None else 'N/A'}")
+        out.append(f"Dominant artist           : {dominant_artist_week or 'N/A'}")
+        out.append(f"Cadence classification    : {cadence or 'N/A'}")
         out.append("------------------------------------------------------------")
 
-    out.append(f"Report generated ({tz_label})    : {fmt_utc(now)}")
+    out.append(f"Report generated (UTC)    : {now_s}")
 
-    report = "\n".join(out).rstrip() + "\n"
+    # state update
+    if WRITE_STATE_FILE:
+        save_state({
+            "report_generated_utc": now_s,
+            "status": status,
+            "last_track": last_track_name,
+            "last_played_utc": last_played_utc,
+            "sitrep": sitrep,
+        })
 
-    # Save state for deltas
-    state["prev"] = {
-        "status": status,
-        "last_played_utc": last_played_s,
-        "now_playing_fp": now_fp,
-        "report_generated_utc": fmt_utc(now),
-        "last_track_fp": last_fp,
-    }
-    save_state(state)
-
-    os.makedirs(CACHE_DIR, exist_ok=True)
-    with open(OUT_TXT, "w", encoding="utf-8") as f:
-        f.write(report)
-
-    return report
+    return "\n".join(out)
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--apply-only", action="store_true")
-    args = ap.parse_args()
-
-    if args.apply_only:
-        report = build_report(access="", scope="", apply_only=True)
-        apply_to_readme(report)
-        return
-
-    client_id = (os.environ.get("SPOTIFY_CLIENT_ID") or "").strip()
-    client_secret = (os.environ.get("SPOTIFY_CLIENT_SECRET") or "").strip()
-    refresh_token = (os.environ.get("SPOTIFY_REFRESH_TOKEN") or "").strip()
-
-    if not (client_id and client_secret and refresh_token):
-        raise SystemExit("Missing Spotify secrets: SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / SPOTIFY_REFRESH_TOKEN")
-
-    access, scope = token_refresh(client_id, client_secret, refresh_token)
-    report = build_report(access=access, scope=scope, apply_only=False)
-    apply_to_readme(report)
+    report = build_report()
+    rewrite_readme_block(report)
 
 if __name__ == "__main__":
     try:
         main()
     except Exception as e:
-        print(str(e), file=sys.stderr)
+        # Fail-safe: do not break README if desired
+        msg = f"{type(e).__name__}: {e}"
+        print(msg, file=sys.stderr)
+
+        if FAIL_SAFE_DO_NOT_BREAK_README:
+            # Keep README as-is; just exit 0 so workflow doesn't fail
+            print("FAIL-SAFE: preserving existing README telemetry block.", file=sys.stderr)
+            sys.exit(0)
+
         sys.exit(1)
