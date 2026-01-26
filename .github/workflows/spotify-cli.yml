@@ -1,0 +1,58 @@
+name: Spotify Telemetry (CLI style)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  spotify_cli:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update Spotify CLI block (fail-safe)
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p data .github/scripts
+
+          # Preserve last known good README + state
+          cp -f README.md README.md.before
+          cp -f data/spotify_last.json data/spotify_last.json.before 2>/dev/null || true
+
+          if ! python3 .github/scripts/spotify_cli_report.py; then
+            echo "Spotify CLI update failed; preserving last known report."
+            mv -f README.md.before README.md
+            mv -f data/spotify_last.json.before data/spotify_last.json 2>/dev/null || true
+            exit 0
+          fi
+
+          rm -f README.md.before
+          rm -f data/spotify_last.json.before 2>/dev/null || true
+
+      - name: Commit & push if changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md data/spotify_last.json
+          git commit -m "chore: update Spotify CLI telemetry"
+          git push
