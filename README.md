@@ -816,6 +816,13 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 
 [![spotify-card](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg?v=1)](https://open.spotify.com/user/12133266428)
 
+#
+
+<!-- SPOTIFY:START -->
+[![spotify-card](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg?v=1)](https://open.spotify.com/user/12133266428)
+<!-- SPOTIFY:END -->
+
+
 <sub>To view the latest track, click [refresh here](https://github.com/felipealfonsog?cache-bypass=1) to reload the profile with cache bypass (Although it's best to reload the profile by right-clicking on the page and selecting "Reload" or "Refresh").</sub>
 
 </details>
