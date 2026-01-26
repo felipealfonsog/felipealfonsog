@@ -2,33 +2,80 @@ name: Update OTX Threat Feed
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # cada 6 horas
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-threat-feed:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Run update script
+      - name: Run update script (fail-safe)
+        shell: bash
         env:
           OTX_API_KEY: ${{ secrets.OTX_API_KEY }}
-        run: python .github/scripts/update_otx.py
-
-      - name: Commit and push changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          set -euo pipefail
+
+          # If the secret is missing, preserve last known report and exit cleanly
+          if [[ -z "${OTX_API_KEY:-}" ]]; then
+            echo "OTX_API_KEY is not set; preserving last known report."
+            exit 0
+          fi
+
+          # Snapshot README
+          cp README.md README.md.before
+
+          # Run script; on failure, restore README and exit cleanly
+          if ! python .github/scripts/update_otx.py; then
+            echo "OTX update failed; preserving last known report."
+            mv README.md.before README.md
+            exit 0
+          fi
+
+          # Optional marker guard: ensure your markers still exist after update
+          # Replace these with your real markers.
+          if ! grep -q "<!-- OTX:START -->" README.md || ! grep -q "<!-- OTX:END -->" README.md; then
+            echo "OTX markers missing after update; preserving last known report."
+            mv README.md.before README.md
+            exit 0
+          fi
+
+          # If nothing changed, restore snapshot to avoid dirty repo
+          if git diff --quiet README.md; then
+            echo "No OTX changes."
+            mv README.md.before README.md
+          else
+            rm -f README.md.before
+          fi
+
+      - name: Commit and push changes (only if changed)
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔄 Update OTX Threat Feed"
+          git commit -m "chore: update OTX threat feed"
           git push
