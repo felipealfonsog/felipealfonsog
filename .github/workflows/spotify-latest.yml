@@ -29,22 +29,6 @@ jobs:
           set -euo pipefail
           mkdir -p images
 
-          # BOOTSTRAP: if spotify_now.svg doesn't exist yet, create a stable placeholder (white)
-          if [ ! -f images/spotify_now.svg ]; then
-            cat > images/spotify_now.svg << 'SVG'
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120">
-  <rect x="0" y="0" width="720" height="120" fill="#ffffff"/>
-  <rect x="14" y="14" width="72" height="72" fill="#f2f2f2" stroke="#e5e5e5"/>
-  <text x="102" y="52" style="font:700 18px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial,sans-serif;fill:#111">
-    Spotify
-  </text>
-  <text x="102" y="76" style="font:400 14px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial,sans-serif;fill:#111">
-    Waiting for next update…
-  </text>
-</svg>
-SVG
-          fi
-
           # preserve last known good card
           cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
 
