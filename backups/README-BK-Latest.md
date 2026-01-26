@@ -47,7 +47,7 @@ From [Perl](https://www.perl.org/) nights with a book on my lap to early web sta
 
 <!-- ################# history behind my life in engineering ###################### -->
 
-I still keep my late-90s/early-2000s-era [Perl](https://en.wikipedia.org/wiki/Perl) book — [The “Camel Book”](https://en.wikipedia.org/wiki/Programming_Perl) (~1,000+ pages) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
+I still keep my late-90s/early-2000s-era [Perl](https://en.wikipedia.org/wiki/Perl) book — [The “Camel Book”](https://en.wikipedia.org/wiki/Programming_Perl) (~1,000+ pages [my well-worn copy](https://github.com/felipealfonsog/felipealfonsog/blob/master/images/thecamelbook.jpg)) — a reminder of long nights with coffee, dim light, and room-heating computers with painfully bad [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screens, when computers were heavy [tower cases](https://en.wikipedia.org/wiki/Computer_case) — not millimeters-thin devices. That was my era: experimenting with [Ethernet](https://en.wikipedia.org/wiki/Ethernet) network cables in my bedroom, running multiple rigs, giving old hardware a second life with [Mandrake Linux](https://en.wikipedia.org/wiki/Mandrake_Linux). Later, I carried that obsession into engineering school.
 
 Some of my earliest engineering memories are [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) nights, [SSH](https://en.wikipedia.org/wiki/Secure_Shell) sessions, and multi-user [Linux](https://en.wikipedia.org/wiki/Linux) systems — learning by building, breaking, and fixing. Forged through [Linux](https://en.wikipedia.org/wiki/Linux) the hard way: compiling [kernels](https://en.wikipedia.org/wiki/Linux_kernel), hacking [connectivity](https://en.wikipedia.org/wiki/Dial-up_Internet), and learning through friction — not convenience.
 
@@ -272,49 +272,49 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-26 02:35:56Z
+DSN snapshot (UTC)       : 2026-01-26 02:50:03Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
 DSN lock (now)           : FALSE
 DSN note                 : No active DSN pass at snapshot time
-DSN dish                 : -
-Downlink                 : -
-Uplink                   : -
-Signal (power/freq)      : -
+DSN dish                 : N/A
+Downlink                 : INACTIVE
+Uplink                   : INACTIVE
+Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.44e9 km | 170.030 AU
 Heliocentric distance    : 169.500 AU
-Relative speed           : 24.931 km/s
+Relative speed           : 24.929 km/s
 ------------------------------------------------------------
 One-way light time       : 23:34:06
 Round-trip latency       : 47:08:11
 ------------------------------------------------------------
-Δ distance (since last)  : N/A (first report)
+Δ distance (since last)  : -1,381 km
 Mission age              : 48 years, 155 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
 DSN lock (now)           : FALSE
 DSN note                 : No active DSN pass at snapshot time
-DSN dish                 : -
-Downlink                 : -
-Uplink                   : -
-Signal (power/freq)      : -
+DSN dish                 : N/A
+Downlink                 : INACTIVE
+Uplink                   : INACTIVE
+Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.678 AU
+Earth distance           : 21.34e9 km | 142.679 AU
 Heliocentric distance    : 141.932 AU
-Relative speed           : 32.055 km/s
+Relative speed           : 32.053 km/s
 ------------------------------------------------------------
 One-way light time       : 19:46:37
-Round-trip latency       : 39:33:14
+Round-trip latency       : 39:33:15
 ------------------------------------------------------------
-Δ distance (since last)  : N/A (first report)
+Δ distance (since last)  : +7,576 km
 Mission age              : 48 years, 171 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-26 02:36:00Z
+Report generated (UTC)   : 2026-01-26 02:50:08Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1029,7 +1029,7 @@ Writing Docs   35 mins        ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 26/01/2026 01:40:01 UTC
+Last updated     : 26/01/2026 02:58:18 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1517,7 +1517,6 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
-> 🛡️ Cybersecurity / Cyberintelligence 🔒
 
 <details>
   <summary>🛡️ Cybersecurity / Cyberintelligence Stack Badges* 🔒</summary>
