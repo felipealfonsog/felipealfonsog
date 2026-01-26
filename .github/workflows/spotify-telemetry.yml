@@ -3,7 +3,7 @@ name: Spotify Telemetry (CLI feed)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 */3 * * *"   # cada 3 horas (ajusta si quieres)
+    - cron: "23 */3 * * *"
 
 permissions:
   contents: write
@@ -26,28 +26,48 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
 
-          # ====== SECTION TOGGLES (1=ON, 0=OFF) ======
-          SPOTIFY_SHOW_HEADER: "1"
-          SPOTIFY_SHOW_CORE_STATUS: "1"
-          SPOTIFY_SHOW_DELTAS: "1"
-          SPOTIFY_SHOW_TIMING: "1"
-          SPOTIFY_SHOW_API_HEALTH: "1"
-          SPOTIFY_SHOW_INTEGRITY: "1"
-          SPOTIFY_SHOW_DAILY_SITREP: "1"
-          SPOTIFY_SHOW_WEEKLY_SUMMARY: "1"
+          # ============================================================
+          # TOGGLES — REPORT SECTIONS (TRUE/FALSE)
+          # ============================================================
+          # Core blocks
+          SPOTIFY_SHOW_HEADER: "TRUE"
+          SPOTIFY_SHOW_CORE_STATUS: "TRUE"
+          SPOTIFY_SHOW_NOW_PLAYING_DETAILS: "TRUE"
+          SPOTIFY_SHOW_LAST_PLAYED: "TRUE"
 
-          # ====== BEHAVIOR ======
-          SPOTIFY_OBS_WINDOW_MIN: "30"     # ventana de observación para telemetría “edad”
-          SPOTIFY_DAILY_WINDOW_H: "24"     # resumen “hoy” (rolling 24h)
-          SPOTIFY_WEEKLY_DAYS: "7"         # resumen semanal (rolling 7d)
-          SPOTIFY_MAX_RECENT: "50"         # cuántos eventos trae recently-played
-          SPOTIFY_TZ_LABEL: "UTC"          # etiqueta
+          # Deltas (“since last report”)
+          SPOTIFY_SHOW_DELTAS: "TRUE"
+          SPOTIFY_SHOW_TIMING: "TRUE"
+
+          # Health / integrity
+          SPOTIFY_SHOW_API_HEALTH: "TRUE"
+          SPOTIFY_SHOW_INTEGRITY: "TRUE"
+
+          # Aggregations
+          SPOTIFY_SHOW_DAILY_SITREP: "TRUE"
+          SPOTIFY_SHOW_WEEKLY_SUMMARY: "TRUE"
+
+          # ============================================================
+          # TOGGLES — SUBFIELDS (TRUE/FALSE)
+          # ============================================================
+          SPOTIFY_SHOW_DEVICE: "TRUE"
+          SPOTIFY_SHOW_VOLUME: "FALSE"
+          SPOTIFY_SHOW_SHUFFLE_REPEAT: "TRUE"
+          SPOTIFY_SHOW_PROGRESS: "TRUE"
+          SPOTIFY_SHOW_IDS: "FALSE"   # track id / uri etc.
+
+          # ============================================================
+          # BEHAVIOR
+          # ============================================================
+          SPOTIFY_MAX_RECENT: "50"         # recently-played limit (max 50)
+          SPOTIFY_DAILY_WINDOW_H: "24"     # rolling window
+          SPOTIFY_WEEKLY_DAYS: "7"         # rolling window
+          SPOTIFY_TZ_LABEL: "UTC"
 
         run: |
           set -euo pipefail
           mkdir -p .cache
 
-          # Preserve last known good README block snapshot (fail-safe)
           cp .cache/spotify_telemetry.txt .cache/spotify_telemetry.before 2>/dev/null || true
           cp .cache/spotify_state.json .cache/spotify_state.before 2>/dev/null || true
 
@@ -56,7 +76,6 @@ jobs:
             mv -f .cache/spotify_telemetry.before .cache/spotify_telemetry.txt 2>/dev/null || true
             mv -f .cache/spotify_state.before .cache/spotify_state.json 2>/dev/null || true
 
-            # Re-apply last good block (if exists) so README stays stable
             if [ -f .cache/spotify_telemetry.txt ]; then
               python3 .github/scripts/spotify_telemetry.py --apply-only || true
             fi
