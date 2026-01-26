@@ -5,41 +5,87 @@ on:
     branches:
       - master
   schedule:
-  # - cron: '0 20 * * *'
-  # Runs every 2 hours
-  # - cron: "0 */2 * * *"
-  # 20 minutos al dia al azar
-  # - cron: '$(shuf -i 0-23 -n 1) $(shuf -i 0-59 -n 1) * * *'
-  # 15 mnts al dis en 3 tandas 
-  - cron: '0 0-4,10-15,17-22 * * *'
-  
-  
-
-  
+    - cron: '0 0-4,10-15,17-22 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   top-followers:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Setup python
         uses: actions/setup-python@v5
         with:
-          python-version: 3.8
+          python-version: "3.11"
+
       - name: Install requests
-        run: pip install requests
-      - name: Update README
-        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GH_TOKEN }} README.md
-      - name: Commit changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update top followers"
-      - name: Pull changes
-        run: git pull -r
-      - name: Push changes
-        uses: ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update README (fail-safe)
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          # If secret missing, preserve last known report and exit cleanly
+          if [[ -z "${GH_TOKEN:-}" ]]; then
+            echo "GH_TOKEN is not set; preserving last known report."
+            exit 0
+          fi
+
+          # Snapshot README
+          cp README.md README.md.before
+
+          # Run script; on failure, restore README and exit cleanly
+          if ! python src/getTopFollowers.py "${{ github.repository_owner }}" "${GH_TOKEN}" README.md; then
+            echo "Top followers update failed; preserving last known report."
+            mv README.md.before README.md
+            exit 0
+          fi
+
+          # Optional marker guard (highly recommended):
+          # Replace with your actual markers if your script uses them.
+          # Example:
+          # if ! grep -q "<!-- FOLLOWERS:START -->" README.md || ! grep -q "<!-- FOLLOWERS:END -->" README.md; then
+          #   echo "Markers missing after update; preserving last known report."
+          #   mv README.md.before README.md
+          #   exit 0
+          # fi
+
+          # If no changes, restore snapshot to avoid dirty repo
+          if git diff --quiet README.md; then
+            echo "No changes."
+            mv README.md.before README.md
+          else
+            rm -f README.md.before
+          fi
+
+      - name: Commit & push (only if changed)
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update top followers"
+
+          # Push using token
+          git push
