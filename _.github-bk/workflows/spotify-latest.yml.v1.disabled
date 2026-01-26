@@ -1,0 +1,103 @@
+name: Spotify Latest Track (self-hosted card)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  spotify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update Spotify card (fail-safe)
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p images
+
+          # 1) Preserve last known good card (if exists)
+          if [ -f "images/spotify_now.svg" ]; then
+            cp "images/spotify_now.svg" "images/spotify_now.svg.before"
+          fi
+
+          # 2) Run generator
+          if ! python3 .github/scripts/spotify_latest_card.py; then
+            echo "Spotify generator failed; restoring last known good card."
+            if [ -f "images/spotify_now.svg.before" ]; then
+              mv -f "images/spotify_now.svg.before" "images/spotify_now.svg"
+            fi
+            exit 0
+          fi
+
+          # 3) Hard validation: reject placeholders / broken output
+          python3 - << 'PY'
+          import os, re, sys
+
+          p = "images/spotify_now.svg"
+          if not os.path.exists(p):
+            print("ERROR: spotify_now.svg not created", file=sys.stderr)
+            sys.exit(1)
+
+          data = open(p, "rb").read()
+          if len(data) < 1200:
+            print("ERROR: SVG too small (likely placeholder)", file=sys.stderr)
+            sys.exit(1)
+
+          head = data[:8000].decode("utf-8", "replace").lower()
+
+          # must be svg
+          if "<svg" not in head:
+            print("ERROR: Not an SVG", file=sys.stderr)
+            sys.exit(1)
+
+          # reject common placeholder text
+          if "waiting for next update" in head or "awaiting next workflow update" in head:
+            print("ERROR: Placeholder detected", file=sys.stderr)
+            sys.exit(1)
+
+          # must include at least one <image ...> (cover art) to match your v1 look
+          if "<image" not in head:
+            print("ERROR: No cover image found (would render 'flat/ugly')", file=sys.stderr)
+            sys.exit(1)
+
+          # basic XML sanity
+          if "& " in head and "&amp;" not in head:
+            # not strict, but catches many broken XML entities
+            pass
+
+          print("OK: SVG validation passed.")
+          PY
+
+          # 4) Cleanup backup (only after we know new SVG is good)
+          rm -f images/spotify_now.svg.before || true
+
+          # 5) Cache-bust README only if updated card is good
+          python3 .github/scripts/bump_readme_spotify_cachebust.py
+
+      - name: Commit & push if changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md images/spotify_now.svg
+          git commit -m "chore: update Spotify latest track card"
+          git push

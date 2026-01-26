@@ -1,0 +1,301 @@
+name: Waka Stats (CLI style)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0-4,10-15,17-22 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  wakastats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update wakastats from WakaTime (fail-safe)
+        shell: bash
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          set -euo pipefail
+
+          # If secret missing, preserve last known report and exit cleanly
+          if [[ -z "${WAKATIME_API_KEY:-}" ]]; then
+            echo "WAKATIME_API_KEY is not set; preserving last known report."
+            exit 0
+          fi
+
+          # Snapshot README
+          cp README.md README.md.before
+
+          # Run Python; if anything fails, restore README and exit cleanly
+          if ! python3 - << 'EOF'
+          import base64, json, re, urllib.request, os, datetime
+
+          API_KEY = os.environ.get("WAKATIME_API_KEY", "").strip()
+          if not API_KEY:
+              raise SystemExit("Missing WAKATIME_API_KEY")
+
+          auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
+
+          # ===== LOOK & FEEL =====
+          EMPTY = "○"
+          FULL  = "●"
+          HALF  = "◔"
+          BAR_LEN = 26
+
+          # ============================================================
+          # HEADER TOGGLES (TRUE/FALSE PER LINE)
+          # ============================================================
+          SHOW_HEADER_BLOCK     = True
+
+          SHOW_RANGE_LINE       = True
+          SHOW_TOTAL_TIME       = True
+          SHOW_MOSTLY_CODING    = True
+          SHOW_DAILY_AVERAGE    = True
+          SHOW_BEST_DAY         = True
+          SHOW_TIME_ZONE        = True
+          SHOW_ACTIVITY_PATTERN = True
+
+          # ===== SECTION TOGGLES =====
+          SHOW_LANGUAGES          = True
+          SHOW_OPERATING_SYSTEMS  = True
+          SHOW_EDITORS            = True
+          SHOW_PROJECTS           = False
+          SHOW_CATEGORIES         = True
+          SHOW_MACHINES           = False
+          SHOW_LAST_UPDATED       = True
+
+          # ===== LIMITS =====
+          MAX_LANGUAGES  = 10
+          MAX_OS         = 6
+          MAX_EDITORS    = 12
+          MAX_PROJECTS   = 8
+          MAX_CATEGORIES = 8
+          MAX_MACHINES   = 12
+
+          # ===== CLEANUP =====
+          HIDE_UNKNOWN = True
+          UNKNOWN_NAMES = {"Unknown Project", "Unknown Editor", "Unknown"}
+
+          def get(url):
+              req = urllib.request.Request(
+                  url,
+                  headers={"Authorization": f"Basic {auth}", "Accept": "application/json"}
+              )
+              with urllib.request.urlopen(req, timeout=25) as r:
+                  return json.load(r)
+
+          def clamp(x, lo=0.0, hi=100.0):
+              return max(lo, min(hi, x))
+
+          def bar(pct):
+              pct = clamp(pct, 0.0, 100.0)
+              units = (pct / 100.0) * BAR_LEN
+              full = int(units)
+              half = 1 if (units - full) >= 0.5 and full < BAR_LEN else 0
+              empty = BAR_LEN - full - half
+              return (FULL * full) + (HALF * half) + (EMPTY * empty)
+
+          def fmt_hhmm(seconds):
+              seconds = int(seconds)
+              h = seconds // 3600
+              m = (seconds % 3600) // 60
+              if h <= 0 and m <= 0:
+                  return "0 mins"
+              if h <= 0:
+                  return f"{m} mins"
+              return f"{h} hrs {m} mins"
+
+          def try_parse_date(s):
+              if not s:
+                  return None
+              s = str(s)
+              try:
+                  d = datetime.datetime.fromisoformat(s.replace("Z", "+00:00")).date()
+                  return d
+              except Exception:
+                  pass
+              try:
+                  return datetime.date.fromisoformat(s[:10])
+              except Exception:
+                  return None
+
+          def pretty_date(d):
+              return d.strftime("%d %B %Y")
+
+          def cleaned(items):
+              if not items:
+                  return []
+              out = []
+              for i in items:
+                  name = (i.get("name") or "").strip()
+                  if HIDE_UNKNOWN and (name in UNKNOWN_NAMES or name.startswith("Unknown ")):
+                      continue
+                  out.append(i)
+              return out
+
+          def section(title, items, limit=8, denom_seconds=None, total_seconds=1):
+              items = cleaned(items)
+              if not items:
+                  return ""
+              denom = int(denom_seconds if denom_seconds is not None else total_seconds) or 1
+
+              out = f"\n{title}\n" + "-" * len(title) + "\n"
+              for i in items[:limit]:
+                  pct = (i.get("total_seconds", 0) / denom) * 100.0
+                  pct_show = clamp(pct, 0.0, 100.0)
+                  out += (
+                      f"{i.get('name','N/A'):<14} "
+                      f"{i.get('text','N/A'):<14} "
+                      f"{bar(pct_show)} "
+                      f"{pct_show:6.2f} %\n"
+                  )
+              return out
+
+          def activity_pattern_from_best_day(best_day):
+              if not best_day:
+                  return "Sustained operational tempo"
+              return "High-intensity operational focus"
+
+          # --- Fetch stats (fail if structure missing) ---
+          payload = get("https://wakatime.com/api/v1/users/current/stats/all_time")
+          data = (payload or {}).get("data")
+          if not isinstance(data, dict):
+              raise RuntimeError("WakaTime: missing 'data' field")
+
+          total = int(data.get("total_seconds", 0)) or 0
+          # Minimal health check: if total_seconds is 0 and there are no sections, treat as invalid
+          langs = data.get("languages") or []
+          if total <= 0 and not langs:
+              raise RuntimeError("WakaTime: empty stats payload (total_seconds=0, no languages)")
+
+          # Date range (best-effort)
+          start_raw = data.get("start") or data.get("from") or (data.get("range") or {}).get("start") or (data.get("range") or {}).get("from")
+          end_raw   = data.get("end")   or data.get("to")   or (data.get("range") or {}).get("end")   or (data.get("range") or {}).get("to")
+
+          start_d = try_parse_date(start_raw)
+          end_d   = try_parse_date(end_raw) or datetime.date.today()
+
+          if start_d and end_d:
+              range_line = f"From: {pretty_date(start_d)} - To: {pretty_date(end_d)}"
+              span_days = (end_d - start_d).days + 1
+              if span_days < 1:
+                  span_days = 1
+              daily_avg = fmt_hhmm(total / span_days)
+          else:
+              range_line = "From: N/A - To: N/A"
+              daily_avg = "N/A"
+
+          languages = cleaned(data.get("languages", []))
+          mostly = languages[0]["name"] if languages else "N/A"
+
+          best = data.get("best_day")
+          best_str = f"{best.get('date','?')} — {best.get('text','?')}" if best else "N/A"
+
+          timezone = data.get("timezone", "N/A")
+          now_utc = datetime.datetime.utcnow().strftime("%d/%m/%Y %H:%M:%S UTC")
+
+          content = (
+              "WAKATIME EXTENDED STATS\n"
+              "======================\n\n"
+          )
+
+          if SHOW_HEADER_BLOCK:
+              if SHOW_RANGE_LINE:
+                  content += f"{range_line}\n\n"
+              if SHOW_TOTAL_TIME:
+                  content += f"Total Time       : {data.get('human_readable_total', 'N/A')}\n"
+              if SHOW_MOSTLY_CODING:
+                  content += f"Mostly coding in : {mostly}\n"
+              if SHOW_DAILY_AVERAGE:
+                  content += f"Daily average    : {daily_avg}\n"
+              if SHOW_BEST_DAY:
+                  content += f"Best day         : {best_str}\n"
+              if SHOW_TIME_ZONE:
+                  content += f"Time zone        : {timezone}\n"
+              if SHOW_ACTIVITY_PATTERN:
+                  pattern = activity_pattern_from_best_day(best)
+                  content += f"Activity pattern : {pattern}\n"
+
+          if SHOW_LANGUAGES:
+              content += section("LANGUAGES", data.get("languages", []), limit=MAX_LANGUAGES, total_seconds=max(total,1))
+
+          if SHOW_OPERATING_SYSTEMS:
+              content += section("OPERATING SYSTEMS", data.get("operating_systems", []), limit=MAX_OS, total_seconds=max(total,1))
+
+          if SHOW_EDITORS:
+              content += section("EDITORS", data.get("editors", []), limit=MAX_EDITORS, total_seconds=max(total,1))
+
+          if SHOW_PROJECTS:
+              content += section("PROJECTS", data.get("projects", []), limit=MAX_PROJECTS, total_seconds=max(total,1))
+
+          if SHOW_CATEGORIES:
+              content += section("CATEGORIES", data.get("categories", []), limit=MAX_CATEGORIES, total_seconds=max(total,1))
+
+          machines = cleaned(data.get("machines", []))
+          if SHOW_MACHINES and machines:
+              content += "\nMACHINES\n--------\n"
+              for m in machines[:MAX_MACHINES]:
+                  content += f"{m.get('name','N/A'):<30} {m.get('text','N/A')}\n"
+
+          if SHOW_LAST_UPDATED:
+              content += "\n" + ("-" * 22) + "\n"
+              content += f"Last updated     : {now_utc}\n"
+
+          content = f"```text\n{content}\n```"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          # Guard: markers must exist, otherwise do not modify README
+          if not re.search(r"<!--START_SECTION:wakastats-->", readme) or not re.search(r"<!--END_SECTION:wakastats-->", readme):
+              raise RuntimeError("Markers not found: <!--START_SECTION:wakastats--> ... <!--END_SECTION:wakastats-->")
+
+          new = re.sub(
+              r"<!--START_SECTION:wakastats-->.*?<!--END_SECTION:wakastats-->",
+              f"<!--START_SECTION:wakastats-->\n{content}\n<!--END_SECTION:wakastats-->",
+              readme,
+              flags=re.S
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new)
+          EOF
+          then
+            echo "WakaTime update failed; preserving last known report."
+            mv README.md.before README.md
+            exit 0
+          fi
+
+          # If script ran but markers disappeared (belt & suspenders), revert
+          if ! grep -q "<!--START_SECTION:wakastats-->" README.md || ! grep -q "<!--END_SECTION:wakastats-->" README.md; then
+            echo "Markers missing after update; preserving last known report."
+            mv README.md.before README.md
+            exit 0
+          fi
+
+          # If nothing changed, restore snapshot (no dirty repo)
+          if git diff --quiet README.md; then
+            echo "No changes."
+            mv README.md.before README.md
+          else
+            rm -f README.md.before
+          fi
+
+      - name: Commit changes (only if changed)
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update WakaTime CLI stats"
+          git push

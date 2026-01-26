@@ -1,0 +1,64 @@
+name: Time Discipline SITREP (UTC/NIST)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sitrep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update README block (fail-safe)
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Snapshot README before attempting any update
+          cp README.md README.md.before
+
+          # Try update; if it errors, restore README and exit cleanly (preserve last known report)
+          if ! bash scripts/update_readme_atomic.sh; then
+            echo "SITREP update failed; preserving last known report."
+            mv README.md.before README.md
+            exit 0
+          fi
+
+          # If script ran but produced a broken/empty block (optional guard):
+          # If README markers are missing after update, revert.
+          if ! grep -q "<!-- WATCHOPS:START -->" README.md || ! grep -q "<!-- WATCHOPS:END -->" README.md; then
+            echo "Markers missing after update; preserving last known report."
+            mv README.md.before README.md
+            exit 0
+          fi
+
+          # If README changed, keep it; otherwise restore snapshot to avoid dirty state
+          if git diff --quiet README.md; then
+            echo "No SITREP changes."
+            mv README.md.before README.md
+          else
+            rm -f README.md.before
+          fi
+
+      - name: Commit & push if changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "watchops-bot"
+          git config user.email "watchops-bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): update time discipline sitrep"
+          git push

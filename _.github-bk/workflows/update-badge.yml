@@ -1,0 +1,31 @@
+name: Update Badge
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update badge
+        run: |
+          echo "![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85%20$(date)-blue)" > README.md
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Actualizar badge de última actualización"
+          git push
+
+      - name: Trigger workflow
+        run: |
+          echo "Updating badge" > update_badge.txt
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add update_badge.txt
+          git commit -m "Trigger workflow"
+          git push

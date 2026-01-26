@@ -1,0 +1,63 @@
+name: Spotify Auth Check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Verify Spotify token refresh works
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          python3 - << 'PY'
+          import os, base64, urllib.parse, urllib.request, json, sys
+
+          cid = os.getenv("SPOTIFY_CLIENT_ID","").strip()
+          csec = os.getenv("SPOTIFY_CLIENT_SECRET","").strip()
+          rt = os.getenv("SPOTIFY_REFRESH_TOKEN","").strip()
+
+          if not (cid and csec and rt):
+            print("FAIL: Missing one or more secrets (ID/SECRET/REFRESH_TOKEN).")
+            sys.exit(2)
+
+          auth = base64.b64encode(f"{cid}:{csec}".encode()).decode()
+          body = urllib.parse.urlencode({
+            "grant_type": "refresh_token",
+            "refresh_token": rt,
+          }).encode()
+
+          req = urllib.request.Request(
+            "https://accounts.spotify.com/api/token",
+            data=body,
+            headers={
+              "Authorization": f"Basic {auth}",
+              "Content-Type": "application/x-www-form-urlencoded",
+            }
+          )
+
+          try:
+            with urllib.request.urlopen(req, timeout=25) as r:
+              payload = json.loads(r.read().decode("utf-8","replace"))
+              token = payload.get("access_token")
+              if token:
+                print("OK: Token refresh succeeded. access_token received.")
+                print("Token scope:", payload.get("scope","(not provided)"))
+                sys.exit(0)
+              print("FAIL: No access_token in response:", payload)
+              sys.exit(3)
+          except urllib.error.HTTPError as e:
+            raw = e.read().decode("utf-8","replace")
+            print("FAIL: HTTPError", e.code, raw)
+            sys.exit(4)
+          except Exception as e:
+            print("FAIL:", str(e))
+            sys.exit(5)
+          PY

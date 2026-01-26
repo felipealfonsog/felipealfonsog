@@ -1,0 +1,43 @@
+name: Language Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Query GitHub API for language stats
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -H "Authorization: bearer $TOKEN" \
+            -X POST \
+            -d '{ "query": "query { viewer { repositories(first: 100, ownerAffiliations: OWNER, isFork: false) { nodes { name languages(first: 10, orderBy: {field: SIZE, direction: DESC}) { edges { size node { name } } } } } } }" }' \
+            https://api.github.com/graphql \
+            > languages.json
+
+      - name: Generate SVG
+        run: |
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" style="font-family: monospace; font-size: 14px;">' > languages.svg
+          echo '<text x="10" y="20">Language Usage</text>' >> languages.svg
+          y=50
+          while read -r lang; do
+            echo "<text x=\"10\" y=\"$y\">$lang</text>" >> languages.svg
+            y=$((y+20))
+          done < <(jq -r '.data.viewer.repositories.nodes[].languages.edges[] | "\(.node.name): \(.size) bytes"' languages.json)
+          echo '</svg>' >> languages.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add languages.svg languages.json
+          git commit -m "Update language stats" || echo "No changes"
+          git push

@@ -1,0 +1,374 @@
+name: Voyager Telemetry (CLI style)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Voyager telemetry block
+        run: |
+          python3 - << 'PY'
+          import json, math, re, urllib.parse, urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timedelta, timezone
+
+          DSN_XML_CANDIDATES = [
+            "https://eyes.jpl.nasa.gov/dsn/data/dsn.xml",
+            "https://eyes.nasa.gov/dsn/data/dsn.xml",
+            "https://eyes.nasa.gov/apps/dsn-now/dsn.xml",
+          ]
+
+          HORIZONS_API = "https://ssd.jpl.nasa.gov/api/horizons.api"
+
+          VOYAGERS = [
+            ("VOYAGER 1", "-31"),
+            ("VOYAGER 2", "-32"),
+          ]
+
+          C_KM_S = 299792.458
+          AU_KM = 149597870.7
+
+          STATE_PATH = ".voyager_state.json"
+
+          def http_get(url: str, timeout: int = 25) -> bytes:
+            req = urllib.request.Request(
+              url,
+              headers={
+                "User-Agent": "github-actions-voyager-readme-bot",
+                "Accept": "*/*",
+                "Cache-Control": "no-cache",
+                "Pragma": "no-cache",
+              },
+            )
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+              return r.read()
+
+          def load_state():
+            try:
+              with open(STATE_PATH, "r", encoding="utf-8") as f:
+                return json.load(f)
+            except Exception:
+              return {}
+
+          def save_state(state):
+            with open(STATE_PATH, "w", encoding="utf-8") as f:
+              json.dump(state, f, ensure_ascii=False, indent=2, sort_keys=True)
+
+          def fmt_delta_km(delta_km: float) -> str:
+            sign = "+" if delta_km >= 0 else "-"
+            d = abs(delta_km)
+            if d >= 1e9:  return f"{sign}{d/1e9:.3f}e9 km"
+            if d >= 1e6:  return f"{sign}{d/1e6:.3f}e6 km"
+            return f"{sign}{d:,.0f} km"
+
+          def fetch_dsn_xml():
+            last_err = None
+            for url in DSN_XML_CANDIDATES:
+              try:
+                data = http_get(url, timeout=20)
+                if b"<dish" in data and b"<target" in data:
+                  return url, data
+              except Exception as e:
+                last_err = e
+                continue
+            raise RuntimeError(f"DSN XML fetch failed: {last_err}")
+
+          def parse_dsn(xml_bytes: bytes):
+            root = ET.fromstring(xml_bytes)
+
+            ts_utc = None
+            ts = root.findtext(".//timestamp")
+            if ts and ts.strip().isdigit():
+              ts_utc = datetime.fromtimestamp(int(ts.strip())/1000, tz=timezone.utc)
+
+            links = { "VOYAGER 1": [], "VOYAGER 2": [] }
+
+            for dish in root.findall(".//dish"):
+              dish_name = dish.get("name") or "?"
+              for tgt in dish.findall(".//target"):
+                tname = (tgt.get("name") or "").strip().upper()
+                if tname not in links:
+                  continue
+
+                down = tgt.find(".//downSignal")
+                up   = tgt.find(".//upSignal")
+
+                def sig(node):
+                  if node is None:
+                    return {}
+                  return {
+                    "active": (node.get("active") or "false").lower(),
+                    "dataRate": node.get("dataRate") or "",
+                    "band": node.get("band") or "",
+                    "signalType": node.get("signalType") or "",
+                    "power": node.get("power") or "",
+                    "frequency": node.get("frequency") or "",
+                  }
+
+                links[tname].append({
+                  "dish": dish_name,
+                  "down": sig(down),
+                  "up": sig(up),
+                })
+
+            return ts_utc, links
+
+          def best_dsn_link(entries):
+            if not entries:
+              return None
+            for e in entries:
+              if (e["down"].get("active") == "true") or (e["up"].get("active") == "true"):
+                return e
+            return entries[0]
+
+          def horizons_nav(spkid: str):
+            now = datetime.now(timezone.utc).replace(second=0, microsecond=0)
+            stop = now + timedelta(minutes=2)
+
+            def query(center: str):
+              params = {
+                "format": "json",
+                "COMMAND": f"'{spkid}'",
+                "MAKE_EPHEM": "YES",
+                "TABLE_TYPE": "VECTORS",
+                "CENTER": f"'{center}'",
+                "START_TIME": f"'{now.strftime('%Y-%m-%d %H:%M')}'",
+                "STOP_TIME": f"'{stop.strftime('%Y-%m-%d %H:%M')}'",
+                "STEP_SIZE": "'1 m'",
+                "OUT_UNITS": "KM-S",
+                "CSV_FORMAT": "YES",
+                "VEC_TABLE": "3",
+                "VEC_LABELS": "NO",
+                "OBJ_DATA": "NO",
+              }
+
+              url = HORIZONS_API + "?" + urllib.parse.urlencode(params, safe="'@,:")
+              data = json.loads(http_get(url).decode("utf-8", "replace"))
+              txt = data.get("result", "")
+
+              m = re.search(r"\$\$SOE\s*(.*?)\s*\$\$EOE", txt, flags=re.S)
+              if not m:
+                snippet = "\n".join(txt.splitlines()[:60])
+                raise RuntimeError("Horizons: could not locate $$SOE/$$EOE block\n" + snippet)
+
+              lines = [ln.strip() for ln in m.group(1).splitlines() if ln.strip()]
+              row = None
+              for ln in lines:
+                parts = [p.strip() for p in ln.split(",")]
+                if len(parts) >= 9:
+                  row = parts
+                  break
+              if not row:
+                raise RuntimeError("Horizons: no parseable CSV row found")
+
+              floats = []
+              for p in row:
+                try:
+                  floats.append(float(p.replace("D","E")))
+                except Exception:
+                  floats.append(None)
+
+              start = None
+              for i in range(len(floats) - 5):
+                chunk = floats[i:i+6]
+                if all(v is not None for v in chunk):
+                  start = i
+                  break
+              if start is None:
+                raise RuntimeError("Horizons: could not locate X,Y,Z,VX,VY,VZ numeric fields")
+
+              x, y, z, vx, vy, vz = floats[start:start+6]
+              return x, y, z, vx, vy, vz
+
+            x, y, z, vx, vy, vz = query("500@399")
+            earth_dist_km = math.sqrt(x*x + y*y + z*z)
+            earth_speed_kms = math.sqrt(vx*vx + vy*vy + vz*vz)
+            earth_dist_au = earth_dist_km / AU_KM
+            one_way_s = earth_dist_km / C_KM_S
+            rt_s = one_way_s * 2
+
+            sx, sy, sz, svx, svy, svz = query("500@10")
+            sun_dist_km = math.sqrt(sx*sx + sy*sy + sz*sz)
+            sun_dist_au = sun_dist_km / AU_KM
+
+            return {
+              "earth_dist_km": earth_dist_km,
+              "earth_dist_au": earth_dist_au,
+              "earth_speed_kms": earth_speed_kms,
+              "one_way_s": one_way_s,
+              "rt_s": rt_s,
+              "sun_dist_au": sun_dist_au,
+            }
+
+          def fmt_s_to_hms(sec: float) -> str:
+            sec = int(round(sec))
+            h = sec // 3600
+            m = (sec % 3600) // 60
+            s = sec % 60
+            return f"{h:02d}:{m:02d}:{s:02d}"
+
+          def fmt_km(n: float) -> str:
+            if n >= 1e9: return f"{n/1e9:.2f}e9 km"
+            if n >= 1e6: return f"{n/1e6:.2f}e6 km"
+            return f"{n:.0f} km"
+
+          now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
+
+          # --- FAIL-SAFE STATE ---
+          report_ok = True
+          errors = []
+
+          # --- DSN FETCH (non-fatal; we can still run on Horizons alone) ---
+          dsn_url = "UNAVAILABLE"
+          dsn_ts_s = "UNAVAILABLE"
+          dsn_links = { "VOYAGER 1": [], "VOYAGER 2": [] }
+
+          try:
+            dsn_url, dsn_xml = fetch_dsn_xml()
+            dsn_ts, dsn_links = parse_dsn(dsn_xml)
+            dsn_ts_s = dsn_ts.strftime("%Y-%m-%d %H:%M:%SZ") if dsn_ts else "UNKNOWN"
+          except Exception as e:
+            errors.append(f"DSN error: {e}")
+            # keep report_ok True for now; Horizons may still provide valid report
+
+          state = load_state()
+          state.setdefault("earth_dist_km", {})
+          state.setdefault("updated_utc", None)
+
+          out = []
+          out.append("VOYAGER TELEMETRY — CLI FEED (NASA/JPL)")
+          out.append("------------------------------------------------------------")
+          out.append(f"DSN endpoint (source)    : {dsn_url}")
+          out.append(f"DSN snapshot (UTC)       : {dsn_ts_s}")
+
+          valid_nav_count = 0
+
+          for name, spkid in VOYAGERS:
+            nav = None
+            nav_err = None
+            try:
+              nav = horizons_nav(spkid)
+              valid_nav_count += 1
+            except Exception as e:
+              nav_err = str(e)
+              errors.append(f"Horizons error ({name}): {e}")
+
+            link = best_dsn_link(dsn_links.get(name, []))
+            lock_now = "TRUE" if (link and ((link["down"].get("active")=="true") or (link["up"].get("active")=="true"))) else "FALSE"
+
+            if nav is None:
+              sitrep = "RED"
+            elif lock_now == "TRUE":
+              sitrep = "GREEN"
+            else:
+              sitrep = "AMBER"
+
+            out.append("------------------------------------------------------------")
+            out.append(f"Target                   : {name}")
+            out.append(f"SITREP                   : {sitrep}")
+            out.append(f"DSN lock (now)           : {lock_now}")
+
+            if lock_now == "FALSE":
+              out.append("DSN note                 : No active DSN pass at snapshot time")
+
+            if link:
+              down = link["down"]
+              up = link["up"]
+              dish = link["dish"]
+              dr = down.get("dataRate") or "-"
+              band = down.get("band") or "-"
+              pwr = down.get("power") or "-"
+              frq = down.get("frequency") or "-"
+              out.append(f"DSN dish                 : {dish}")
+              out.append(f"Downlink                 : {dr} bps | band={band} | active={down.get('active','false')}")
+              out.append(f"Uplink                   : active={up.get('active','false')} | type={up.get('signalType','-')}")
+              out.append(f"Signal (power/freq)      : {pwr} dB | {frq}")
+            else:
+              out.append("DSN dish                 : N/A")
+              out.append("Downlink                 : INACTIVE")
+              out.append("Uplink                   : INACTIVE")
+              out.append("Signal (power/freq)      : N/A")
+
+            if nav:
+              prev = state["earth_dist_km"].get(name)
+              state["earth_dist_km"][name] = nav["earth_dist_km"]
+              delta_line = fmt_delta_km(nav["earth_dist_km"] - float(prev)) if isinstance(prev, (int, float)) else None
+
+              launch = datetime(1977, 9, 5, tzinfo=timezone.utc) if name == "VOYAGER 1" else datetime(1977, 8, 20, tzinfo=timezone.utc)
+              age_days = (datetime.now(timezone.utc) - launch).days
+              age_years = age_days // 365
+              age_rem = age_days % 365
+
+              out.append("------------------------------------------------------------")
+              out.append(f"Earth distance           : {fmt_km(nav['earth_dist_km'])} | {nav['earth_dist_au']:.3f} AU")
+              out.append(f"Heliocentric distance    : {nav['sun_dist_au']:.3f} AU")
+              out.append(f"Relative speed           : {nav['earth_speed_kms']:.3f} km/s")
+
+              out.append("------------------------------------------------------------")
+              out.append(f"One-way light time       : {fmt_s_to_hms(nav['one_way_s'])}")
+              out.append(f"Round-trip latency       : {fmt_s_to_hms(nav['rt_s'])}")
+
+              out.append("------------------------------------------------------------")
+              out.append(f"Δ distance (since last)  : {delta_line if delta_line else 'N/A (first report)'}")
+              out.append(f"Mission age              : {age_years} years, {age_rem} days")
+            else:
+              out.append("------------------------------------------------------------")
+              out.append("NAV (Horizons)           : ERROR")
+              out.append(f"Details                  : {nav_err}")
+
+          # --- FAIL-SAFE DECISION: if BOTH Horizons queries failed, do not touch README ---
+          if valid_nav_count == 0:
+            report_ok = False
+            errors.append("No valid navigation data from Horizons (both targets failed)")
+
+          if not report_ok:
+            print("Voyager telemetry update skipped (preserving last known report).")
+            for e in errors:
+              print(" -", e)
+            raise SystemExit(0)
+
+          out.append("------------------------------------------------------------")
+          out.append("Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)")
+          out.append("------------------------------------------------------------")
+          out.append(f"Report generated (UTC)   : {now_utc}")
+
+          state["updated_utc"] = now_utc
+          save_state(state)
+
+          block = "```text\n" + "\n".join(out).rstrip() + "\n```\n"
+
+          readme_path = "README.md"
+          with open(readme_path, "r", encoding="utf-8") as f:
+            md = f.read()
+
+          pattern = re.compile(r"<!-- VOYAGER:START -->.*?<!-- VOYAGER:END -->", re.S)
+          if not pattern.search(md):
+            raise SystemExit("Markers not found: <!-- VOYAGER:START --> ... <!-- VOYAGER:END -->")
+
+          md2 = pattern.sub("<!-- VOYAGER:START -->\n\n" + block + "\n<!-- VOYAGER:END -->", md)
+
+          with open(readme_path, "w", encoding="utf-8") as f:
+            f.write(md2)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md .voyager_state.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "chore: update Voyager telemetry block"
+          git push
