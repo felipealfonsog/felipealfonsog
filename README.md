@@ -325,7 +325,7 @@ Note: Values are derived from public NASA/JPL feeds (DSN + Horizons).<br>
 Note: <code>-</code> indicates <em>N/A</em> (no active DSN pass / no live link telemetry available at snapshot time).</sub>
 
 <sub>
-Personal note: I was born in the same era Voyager 2 began its journey — a reminder that some missions, like some lives, are meant to last.
+Personal note: I was born shortly after Voyager 2 began its journey — a reminder that some missions, like some lives, are meant to last.
 </sub>
 
 </details>
