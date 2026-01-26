@@ -1,3 +1,8 @@
+---
+
+## 2) Script — `.github/scripts/spotify_cli_report.py`
+
+```python
 #!/usr/bin/env python3
 import base64
 import json
