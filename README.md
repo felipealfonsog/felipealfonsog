@@ -828,6 +828,35 @@ Report generated (UTC)   : 2026-01-26 10:03:25Z
 <!-- SPOTIFYCLI:END -->
 
 
+<!--
+
+<sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the service provider used by the platform. Data may contain discrepancies or errors due to the platform's service.</sub>
+
+<sub>
+For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to the automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+What is reflected as playing on Spotify in this repository is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
+Data may contain discrepancies or inaccuracies due to limitations or transient issues in Spotify’s platform and services.
+</sub>
+
+
+<sub>
+For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to the automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+What is reflected as playing on Spotify in this repository is telemetry data obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
+Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform and related services.
+</sub>
+
+
+-->
+   
+<sub>
+For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
+Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.
+</sub>
+
 </details>
 
 
@@ -859,34 +888,6 @@ Report generated (UTC)   : 2026-01-26 10:03:25Z
 
 
 
-<!--
-
-<sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the service provider used by the platform. Data may contain discrepancies or errors due to the platform's service.</sub>
-
-<sub>
-For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
-The “Google Translate” badge redirects to the automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
-What is reflected as playing on Spotify in this repository is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
-Data may contain discrepancies or inaccuracies due to limitations or transient issues in Spotify’s platform and services.
-</sub>
-
-
-<sub>
-For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
-The “Google Translate” badge redirects to the automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
-What is reflected as playing on Spotify in this repository is telemetry data obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
-Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform and related services.
-</sub>
-
-
--->
-   
-<sub>
-For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
-The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
-What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
-Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.
-</sub>
 
 
 <details>
