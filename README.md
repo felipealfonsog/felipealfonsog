@@ -814,7 +814,7 @@ SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
 ------------------------------------------------------------
 Status                    : INIT
 Report generated (UTC)    : -
-
+```
 <!-- SPOTIFY_TELEMETRY:END -->
 
 
