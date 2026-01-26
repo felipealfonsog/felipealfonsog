@@ -795,11 +795,13 @@ _)      \.___.,|     .'
 [![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 
 <!-- FALLBACK (last known good state, static) -->
+<!--
 [![spotify-cached](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg)](https://open.spotify.com/user/12133266428)
 
 <sub>
 If the live Spotify card is temporarily unavailable, the last known track is shown above.
 </sub>
+-->
 
 </details>
 -->
@@ -807,7 +809,7 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 <!--
 ------- con actions v.2 - no working ----
 -->
-<!-- 
+
 <details open>
 <summary> <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
   <br>
@@ -817,7 +819,7 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 <sub>To view the latest track, click [refresh here](https://github.com/felipealfonsog?cache-bypass=1) to reload the profile with cache bypass (Although it's best to reload the profile by right-clicking on the page and selecting "Reload" or "Refresh").</sub>
 
 </details>
--->
+
 
 
 
