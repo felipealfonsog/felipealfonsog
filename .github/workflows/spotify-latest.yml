@@ -27,21 +27,7 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           set -euo pipefail
-          mkdir -p images .github/scripts
-
-          # If the card doesn't exist yet, create a clean placeholder (white style)
-          if [ ! -f images/spotify_now.svg ]; then
-            cat > images/spotify_now.svg << 'SVG'
-          <svg xmlns="http://www.w3.org/2000/svg" width="900" height="205" viewBox="0 0 900 205">
-            <rect width="900" height="205" fill="#ffffff"/>
-            <text x="22" y="52"
-                  font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
-                  font-size="14" fill="#111111">
-              Spotify card: awaiting next workflow update...
-            </text>
-          </svg>
-SVG
-          fi
+          mkdir -p images
 
           # preserve last known good card
           cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
@@ -54,7 +40,7 @@ SVG
 
           rm -f images/spotify_now.svg.before 2>/dev/null || true
 
-          # Cache-bust the README reference (only if README contains spotify_now.svg?v=...)
+          # Cache-bust the README reference (only if your README contains spotify_now.svg?v=...)
           python3 .github/scripts/bump_readme_spotify_cachebust.py
 
       - name: Commit & push if changed
