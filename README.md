@@ -817,7 +817,7 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 <summary> <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
   <br>
 <!--
-[![spotify-card](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg?v=1769420681)](https://open.spotify.com/user/12133266428)
+[![spotify-card](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg?v=1769420805)](https://open.spotify.com/user/12133266428)
 -->
 
 
