@@ -3,10 +3,9 @@ import base64
 import json
 import os
 import sys
-import time
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+import urllib.error
 
 CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID", "").strip()
 CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET", "").strip()
@@ -25,7 +24,7 @@ def http_json(url: str, headers=None, data: bytes | None = None, timeout: int = 
 
 def get_access_token() -> str:
     if not (CLIENT_ID and CLIENT_SECRET and REFRESH_TOKEN):
-        raise RuntimeError("Missing Spotify secrets (CLIENT_ID/CLIENT_SECRET/REFRESH_TOKEN).")
+        raise RuntimeError("Missing Spotify secrets (SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / SPOTIFY_REFRESH_TOKEN).")
 
     auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
     body = urllib.parse.urlencode({
@@ -57,7 +56,7 @@ def get_latest_track(access_token: str):
     )
 
     if code >= 400:
-        raise RuntimeError(f"Spotify API error: {payload}")
+        raise RuntimeError(f"Spotify API error (recently-played): {payload}")
 
     items = payload.get("items") or []
     if not items:
@@ -66,61 +65,47 @@ def get_latest_track(access_token: str):
     it = items[0]
     track = it.get("track") or {}
     artists = track.get("artists") or []
-    artist = ", ".join([a.get("name","") for a in artists if a.get("name")]) or "Unknown artist"
+    artist = ", ".join([a.get("name", "") for a in artists if a.get("name")]) or "Unknown artist"
     title = track.get("name") or "Unknown track"
 
     album = track.get("album") or {}
     imgs = album.get("images") or []
     cover = imgs[1]["url"] if len(imgs) > 1 else (imgs[0]["url"] if imgs else "")
 
-    played_at = it.get("played_at") or ""
-    track_url = (track.get("external_urls") or {}).get("spotify") or ""
-
-    return {
-        "artist": artist,
-        "title": title,
-        "cover": cover,
-        "played_at": played_at,
-        "track_url": track_url,
-    }
+    return {"artist": artist, "title": title, "cover": cover}
 
 def esc(s: str) -> str:
-    return (s or "").replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
+    return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
 
-def svg_card(artist: str, title: str, cover_url: str, played_at: str):
-    # Matches your aesthetic: dark, clean, cover-left, text-right.
-    w, h = 900, 190
-    pad = 18
-    cover = 150
-    y_cover = (h - cover) // 2
-    x_text = pad + cover + 18
+def svg_original_white(artist: str, title: str, cover_url: str):
+    # Tuned to look like the original "white" embed screenshot
+    w, h = 720, 120
+    pad_x = 14
+    cover = 72
+    x_art = pad_x
+    y_art = 14
+    x_text = x_art + cover + 16
 
-    updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
-    played = played_at or "N/A"
+    y_artist = 48
+    y_track  = 74
+
+    cover_block = (
+        f'<image href="{esc(cover_url)}" x="{x_art}" y="{y_art}" width="{cover}" height="{cover}" />'
+        if cover_url else
+        f'<rect x="{x_art}" y="{y_art}" width="{cover}" height="{cover}" fill="#f2f2f2" stroke="#e5e5e5" />'
+    )
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">
   <defs>
     <style>
-      .bg {{ fill: #000; }}
-      .label {{ fill: #a9a9a9; font: 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }}
-      .artist {{ fill: #f5f5f5; font: 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; font-weight: 700; }}
-      .track {{ fill: #f5f5f5; font: 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }}
-      .meta {{ fill: #a9a9a9; font: 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }}
+      .artist {{ fill: #111111; font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }}
+      .track  {{ fill: #111111; font: 400 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }}
     </style>
-    <clipPath id="clip">
-      <rect x="{pad}" y="{y_cover}" width="{cover}" height="{cover}" rx="10" ry="10"/>
-    </clipPath>
   </defs>
 
-  <rect class="bg" x="0" y="0" width="{w}" height="{h}" rx="14" ry="14"/>
-
-  {"<image href=\\"" + esc(cover_url) + "\\" x=\\"" + str(pad) + "\\" y=\\"" + str(y_cover) + "\\" width=\\"" + str(cover) + "\\" height=\\"" + str(cover) + "\\" clip-path=\\"url(#clip)\\"/>" if cover_url else f"<rect x='{pad}' y='{y_cover}' width='{cover}' height='{cover}' rx='10' ry='10' fill='#111'/>"}
-
-  <text class="label" x="{x_text}" y="{pad+20}">CURRENTLY OR PREVIOUSLY ON SPOTIFY</text>
-  <text class="artist" x="{x_text}" y="{pad+70}">{esc(artist)}</text>
-  <text class="track"  x="{x_text}" y="{pad+108}">{esc(title)}</text>
-
-  <text class="meta" x="{x_text}" y="{h-24}">Last played (UTC): {esc(played)}  |  Rendered (UTC): {esc(updated)}</text>
+  {cover_block}
+  <text class="artist" x="{x_text}" y="{y_artist}">{esc(artist)}</text>
+  <text class="track"  x="{x_text}" y="{y_track}">{esc(title)}</text>
 </svg>'''
 
 def main():
@@ -129,8 +114,7 @@ def main():
     if not latest:
         raise RuntimeError("No recently played track returned by Spotify (items empty).")
 
-    svg = svg_card(latest["artist"], latest["title"], latest["cover"], latest["played_at"])
-
+    svg = svg_original_white(latest["artist"], latest["title"], latest["cover"])
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         f.write(svg)
