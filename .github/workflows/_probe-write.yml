@@ -1,0 +1,34 @@
+name: PROBE — can write & push files
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write a known SVG
+        run: |
+          set -euo pipefail
+          mkdir -p images
+          cat > images/probe.svg <<'SVG'
+          <svg xmlns="http://www.w3.org/2000/svg" width="700" height="80">
+            <rect width="700" height="80" fill="#ffffff"/>
+            <text x="18" y="52" font-family="ui-monospace, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+                  font-size="18" fill="#111111">PROBE OK — GitHub Actions can write & push (UTC)</text>
+          </svg>
+          SVG
+
+      - name: Commit & push
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images/probe.svg
+          git commit -m "probe: write svg" || exit 0
+          git push
