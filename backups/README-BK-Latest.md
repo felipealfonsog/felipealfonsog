@@ -219,14 +219,14 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 TIME DISCIPLINE / SITREP
 ────────────────────────────────────────────────────────
 REFERENCE: UTC(NIST) via NTP (time.nist.gov)
-UTC(NIST):   2026-01-17 06:09:30Z
-LOCAL:       2026-01-17 03:09:30 -0300 (America/Santiago)
+UTC(NIST):   2026-01-26 00:32:03Z
+LOCAL:       2026-01-25 21:32:03 -0300 (America/Santiago)
 
-RUNNER vs NIST (ref-midpoint): +0.000097 s
-NETWORK RTT:                0.031963 s
+RUNNER vs NIST (ref-midpoint): +0.003177 s
+NETWORK RTT:                0.076460 s
 
 - Watch: Festina
-- Drift (estimated): +29.1273 s/day
+- Drift (estimated): +14.5637 s/day
 - Offset vs UTC(NIST) (estimated now): +2.60 s
 - Calibration age: -0.00 days | Samples (model): 2 | Samples (total): 2
 EVENT: NONE
@@ -234,7 +234,7 @@ EVENT: NONE
 STATUS: GREEN 🟢 TIME DISCIPLINE: NOMINAL
 NOTE: Within tolerance.
 ────────────────────────────────────────────────────────
-Last update: 2026-01-17T06:09:30Z (UTC)
+Last update: 2026-01-26T00:32:03Z (UTC)
 ```
 <!--END_SECTION:atomic_time-->
 
@@ -272,7 +272,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-17 11:00:00Z
+DSN snapshot (UTC)       : 2026-01-26 02:35:56Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -283,10 +283,15 @@ Downlink                 : -
 Uplink                   : -
 Signal (power/freq)      : -
 ------------------------------------------------------------
-Earth distance           : 25.44e9 km | 170.031 AU
-Relative speed           : 26.837 km/s
+Earth distance           : 25.44e9 km | 170.030 AU
+Heliocentric distance    : 169.500 AU
+Relative speed           : 24.931 km/s
+------------------------------------------------------------
 One-way light time       : 23:34:06
-Round-trip latency       : 47:08:13
+Round-trip latency       : 47:08:11
+------------------------------------------------------------
+Δ distance (since last)  : N/A (first report)
+Mission age              : 48 years, 155 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -297,14 +302,19 @@ Downlink                 : -
 Uplink                   : -
 Signal (power/freq)      : -
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.625 AU
-Relative speed           : 33.509 km/s
-One-way light time       : 19:46:10
-Round-trip latency       : 39:32:21
+Earth distance           : 21.34e9 km | 142.678 AU
+Heliocentric distance    : 141.932 AU
+Relative speed           : 32.055 km/s
+------------------------------------------------------------
+One-way light time       : 19:46:37
+Round-trip latency       : 39:33:14
+------------------------------------------------------------
+Δ distance (since last)  : N/A (first report)
+Mission age              : 48 years, 171 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-17 11:00:04Z
+Report generated (UTC)   : 2026-01-26 02:36:00Z
 ```
 
 <!-- VOYAGER:END -->
@@ -314,7 +324,9 @@ Report generated (UTC)   : 2026-01-17 11:00:04Z
 Note: Values are derived from public NASA/JPL feeds (DSN + Horizons).<br>
 Note: <code>-</code> indicates <em>N/A</em> (no active DSN pass / no live link telemetry available at snapshot time).</sub>
 
-
+<sub>
+Personal note: I was born shortly after Voyager 2 began its journey — a reminder that some missions, like some lives, are meant to last.
+</sub>
 
 </details>
 
@@ -353,12 +365,12 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <br>
   
 <!-- OTX-START -->
-**Threat Type**: Filehash-Sha256  
-**Indicator**: ded68a8f5d0765740d469c08bd66270097f3474eab92ee1e65ddcdd6d15fca6e  
-**Pulse**: GachiLoader: Defeating Node.js Malware with API Tracing  
-**Link**: [View on OTX](https://otx.alienvault.com/pulse/69431f1ea8a0f2257edd336c)
+**Threat Type**: Filehash-Sha1  
+**Indicator**: 4ec3c90846af6b79ee1a5188eefa3fd21f6d4cf6  
+**Pulse**: Sandworm behind cyberattack on Poland's power grid in late 2025  
+**Link**: [View on OTX](https://otx.alienvault.com/pulse/6973fa6df457081a422f550e)
 
-<sub>_Last updated: 2026-01-17 06:02 UTC_</sub>
+<sub>_Last updated: 2026-01-26 00:08 UTC_</sub>
 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
@@ -970,9 +982,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 17 January 2026
+From: 04 December 2023 - To: 25 January 2026
 
-Total Time       : 955 hrs 49 mins
+Total Time       : 956 hrs 41 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 13 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -981,27 +993,27 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           163 hrs 11 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.07 %
-Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.02 %
-HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.11 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.38 %
-Markdown       77 hrs 34 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
-C              73 hrs 29 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.69 %
-Other          71 hrs 16 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.46 %
+Bash           163 hrs 22 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.08 %
+Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.00 %
+HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.10 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.37 %
+Markdown       77 hrs 44 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.13 %
+Other          76 hrs 42 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.02 %
+C              73 hrs 29 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.68 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.18 %
 Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.97 %
-INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.74 %
+INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          560 hrs 5 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.60 %
-Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.86 %
+Linux          566 hrs 24 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.20 %
+Mac            467 hrs        ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.81 %
 
 EDITORS
 -------
-VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.06 %
-Vim            321 hrs 21 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.62 %
-Firefox        40 hrs 34 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.25 %
+VS Code        650 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.00 %
+Vim            321 hrs 26 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.60 %
+Firefox        46 hrs 48 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.89 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.21 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Antigravity    14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
@@ -1011,13 +1023,13 @@ TextMate       1 min          ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         985 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       40 hrs 34 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.25 %
+Coding         986 hrs        ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       46 hrs 48 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.89 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 17/01/2026 11:07:47 UTC
+Last updated     : 26/01/2026 01:40:01 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1087,22 +1099,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/clsource">
         <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
