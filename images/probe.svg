@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="80">
+  <rect width="700" height="80" fill="#ffffff"/>
+  <text x="18" y="52" font-family="ui-monospace, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+        font-size="18" fill="#111111">PROBE OK — GitHub Actions can write & push (UTC)</text>
+</svg>
