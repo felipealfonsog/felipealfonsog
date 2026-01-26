@@ -441,7 +441,28 @@ def build_report(access: str, scope: str, apply_only: bool = False) -> str:
     if show_api:
         out.append(f"API response class        : {api_class}")
         out.append(f"API condition             : {api_condition}")
-        out.append(f"Auth scope                : {scope or 'N/A'}")
+                def fmt_scope(scope_str: str, width: int = 27) -> list[str]:
+            s = (scope_str or "").strip()
+            if not s:
+                return ["N/A"]
+            parts = s.split()
+            lines, cur = [], ""
+            for p in parts:
+                if not cur:
+                    cur = p
+                elif len(cur) + 1 + len(p) <= width:
+                    cur += " " + p
+                else:
+                    lines.append(cur)
+                    cur = p
+            if cur:
+                lines.append(cur)
+            return lines
+        
+        scope_lines = fmt_scope(scope or "", width=27)
+        out.append(f"Auth scope                : {scope_lines[0]}")
+        for ln in scope_lines[1:]:
+            out.append(f"                           {ln}")
         out.append("------------------------------------------------------------")
 
     if show_integr:
