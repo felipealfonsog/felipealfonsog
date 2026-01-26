@@ -812,7 +812,13 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 <!-- SPOTIFYCLI:START -->
 ```text
 SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
+------------------------------------------------------------
 Status                   : INIT
+SITREP                   : AMBER
+------------------------------------------------------------
+Now playing              : -
+Last played              : -
+------------------------------------------------------------
 Report generated (UTC)   : -
 
 <!-- SPOTIFYCLI:END -->
