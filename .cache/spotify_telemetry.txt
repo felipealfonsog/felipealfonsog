@@ -1,0 +1,46 @@
+SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
+------------------------------------------------------------
+Telemetry source          : Spotify Web API
+Acquisition mode          : OAuth2 / automated workflow
+Snapshot type             : Last-known playback state
+Observation window        : 00:30:00
+------------------------------------------------------------
+Status                    : PLAYING
+Playback state            : ONLINE (active session)
+SITREP                    : GREEN
+------------------------------------------------------------
+Now playing               : (LIVE) — See track in card/UI
+Last played               : Nirvana — About A Girl - Live
+Last played (UTC)        : 2026-01-26 10:57:32Z
+Last activity type        : PLAYBACK_ACTIVE
+------------------------------------------------------------
+Δ track (since last)      : N/A (first report)
+Δ last played (since last): N/A (first report)
+Δ status (since last)     : N/A (first report)
+------------------------------------------------------------
+Time since last play      : 00:03:53
+Telemetry age             : 00:03:53
+Δ time (since last report): N/A (first report)
+------------------------------------------------------------
+API response class        : 200 OK
+API condition             : NORMAL
+Auth scope                : user-read-playback-state user-read-currently-playing user-read-recently-played
+------------------------------------------------------------
+Data integrity            : OK
+Confidence level          : HIGH
+------------------------------------------------------------
+DAILY SPOTIFY SITREP
+------------------------------------------------------------
+Tracks played (last 24h)   : 31
+Dominant artist           : Nirvana
+Listening pattern         : LIVE
+Daily activity status     : HIGH
+------------------------------------------------------------
+WEEKLY CADENCE SUMMARY
+------------------------------------------------------------
+Week window (UTC)         : 2026-01-19 11:01:25Z → 2026-01-26 11:01:25Z
+Total tracks played       : 32
+Dominant artist           : Nirvana
+Cadence classification    : HIGH
+------------------------------------------------------------
+Report generated (UTC)   : 2026-01-26 11:01:25Z
