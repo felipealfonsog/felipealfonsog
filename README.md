@@ -828,49 +828,50 @@ SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
 ------------------------------------------------------------
 Telemetry source          : Spotify Web API
 Acquisition mode          : OAuth2 / automated workflow
-Snapshot type             : Current playback + recent history
-History window (max)      : 50 events
+Snapshot type             : Last-known playback state
+Observation window        : 00:30:00
 ------------------------------------------------------------
 Status                    : PLAYING
 Playback state            : ONLINE (active session)
 SITREP                    : GREEN
 ------------------------------------------------------------
-Now playing               : Nirvana — Polly - Live
-Album                     : MTV Unplugged In New York
-Track position            : 00:02:01
-Time remaining            : 00:01:14
+Now playing               : (LIVE) — See track in card/UI
+Last played               : Nirvana — Polly - Live
+Last played (UTC)         : 2026-01-26 11:20:34Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Last played               : Nirvana — Dumb - Live
-Last played (UTC)         : 2026-01-26 11:17:18Z
+Δ track (since last)      : N/A (first report)
+Δ last played (since last): N/A (first report)
+Δ status (since last)     : N/A (first report)
 ------------------------------------------------------------
-Δ now playing (since last): CHANGED
-Δ last played (since last): UPDATED
-Δ status (since last)     : UNCHANGED
-------------------------------------------------------------
-Time since last play      : N/A (live session)
-Δ time (since last report): 00:08:09
+Time since last play      : 00:02:46
+Telemetry age             : 00:02:46
+Δ time (since last report): N/A (first report)
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
-Auth scope                : PLAYBACK_STATE, NOW_PLAYING, RECENT
+Auth scope                : user-read-playback-state
+                           user-read-currently-playing
+                           user-read-recently-played
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)   : 36
+Tracks played (last 24h)  : 37
 Dominant artist           : Nirvana
+Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-19 11:19:17Z → 2026-01-26 11:19:17Z
-Total tracks played       : 37
+Week window (UTC)         : 2026-01-19 11:23:20Z → 2026-01-26 11:23:20Z
+Total tracks played       : 38
 Dominant artist           : Nirvana
-Cadence classification    : HIGH
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-26 11:19:17Z
+Report generated (UTC)    : 2026-01-26 11:23:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
