@@ -272,7 +272,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-26 03:15:25Z
+DSN snapshot (UTC)       : 2026-01-26 04:02:46Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -284,13 +284,13 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.44e9 km | 170.029 AU
-Heliocentric distance    : 169.500 AU
-Relative speed           : 24.926 km/s
+Heliocentric distance    : 169.501 AU
+Relative speed           : 24.919 km/s
 ------------------------------------------------------------
 One-way light time       : 23:34:06
 Round-trip latency       : 47:08:11
 ------------------------------------------------------------
-Δ distance (since last)  : -2,472 km
+Δ distance (since last)  : -4,668 km
 Mission age              : 48 years, 155 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -304,17 +304,17 @@ Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.34e9 km | 142.679 AU
 Heliocentric distance    : 141.932 AU
-Relative speed           : 32.050 km/s
+Relative speed           : 32.044 km/s
 ------------------------------------------------------------
 One-way light time       : 19:46:37
 Round-trip latency       : 39:33:15
 ------------------------------------------------------------
-Δ distance (since last)  : +13,521 km
+Δ distance (since last)  : +25,391 km
 Mission age              : 48 years, 171 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-26 03:15:31Z
+Report generated (UTC)   : 2026-01-26 04:02:48Z
 ```
 
 <!-- VOYAGER:END -->
