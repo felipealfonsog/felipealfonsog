@@ -1,10 +1,3 @@
-**Importante:** el script busca **exactamente** `<!-- SPOTIFY_TELEMETRY:START -->` y `<!-- SPOTIFY_TELEMETRY:END -->`.
-
----
-
-## 2) Script: `.github/scripts/spotify_telemetry_cli.py`
-
-```python
 #!/usr/bin/env python3
 import base64
 import json
