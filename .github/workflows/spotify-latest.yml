@@ -11,7 +11,6 @@ permissions:
 jobs:
   spotify:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
         with:
@@ -20,25 +19,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Ensure placeholder exists (first run / missing SVG)
-        run: |
-          set -euo pipefail
-          mkdir -p images
-          if [ ! -f images/spotify_now.svg ]; then
-            cat > images/spotify_now.svg <<'SVG'
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="205" viewBox="0 0 900 205">
-  <rect width="900" height="205" fill="#ffffff"/>
-  <rect x="22" y="22" width="110" height="110" fill="#eeeeee" stroke="#dddddd"/>
-  <text x="160" y="70" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
-        font-size="34" font-weight="700" fill="#111111">Spotify</text>
-  <text x="160" y="108" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
-        font-size="22" fill="#444444">Waiting for next update…</text>
-  <text x="22" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
-        font-size="14" fill="#666666">Rendered (UTC): placeholder</text>
-</svg>
-SVG
-          fi
 
       - name: Update Spotify card (fail-safe)
         env:
@@ -49,38 +29,29 @@ SVG
           set -euo pipefail
           mkdir -p images
 
-          # preserve last known good card (if any)
-          cp -f images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
+          # preserve last known good card
+          cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
 
-          echo "Running card generator..."
           if ! python3 .github/scripts/spotify_latest_card.py; then
-            echo "Spotify update failed; preserving last known good card."
-            if [ -f images/spotify_now.svg.before ]; then
-              mv -f images/spotify_now.svg.before images/spotify_now.svg
-            fi
+            echo "Spotify update failed; preserving last known card."
+            mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
             exit 0
           fi
 
           rm -f images/spotify_now.svg.before 2>/dev/null || true
 
-          echo "Bumping README cache-bust (if present)..."
-          python3 .github/scripts/bump_readme_spotify_cachebust.py || true
+          # Cache-bust the README reference (only if your README contains spotify_now.svg?v=...)
+          python3 .github/scripts/bump_readme_spotify_cachebust.py
 
       - name: Commit & push if changed
         run: |
           set -euo pipefail
-
           if git diff --quiet; then
             echo "No changes."
             exit 0
           fi
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add README.md images/spotify_now.svg
           git commit -m "chore: update Spotify latest track card"
-
-          # avoid occasional push race
-          git pull --rebase
           git push
