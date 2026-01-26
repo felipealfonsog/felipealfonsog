@@ -1,0 +1,45 @@
+name: Spotify (cached + cache-busted)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  spotify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update Spotify card (fail-safe)
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p images
+          cp README.md README.md.before
+          cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
+
+          if ! python3 .github/scripts/update_spotify_cached_card.py; then
+            echo "Spotify update failed; preserving last known report."
+            mv -f README.md.before README.md
+            mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
+            exit 0
+          fi
+
+          # Only commit if there is an actual diff
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md images/spotify_now.svg
+          git commit -m "chore: update Spotify card (cache-busted)"
+          git push
