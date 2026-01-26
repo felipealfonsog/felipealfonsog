@@ -809,12 +809,14 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 
 
 <!-- SPOTIFY_TELEMETRY:START -->
-<pre>SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
+```text
+SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
 ------------------------------------------------------------
 Status                    : INIT
 Report generated (UTC)    : -
-</pre>
+
 <!-- SPOTIFY_TELEMETRY:END -->
+
 
 
 <!--
