@@ -432,7 +432,7 @@ def build_report():
     out.append("------------------------------------------------------------")
 
     if SHOW_HEADER_META:
-        out.append(f"Telemetry source          : Spotify Web API")
+        out.append(f"Telemetry source          : Spotify Playback Telemetry (Developer API) ©")
         out.append(f"Acquisition mode          : OAuth2 / automated workflow")
         out.append(f"Snapshot type             : Last-known playback state")
         out.append(f"Observation window        : {fmt_hms(OBS_WINDOW_SECONDS)}")
@@ -479,9 +479,17 @@ def build_report():
 
         scope_lines = fmt_scope_lines(scope)
         if SCOPE_MODE != "OFF" and scope_lines:
-            out.append(f"Auth scope                : {scope_lines[0]}")
-            for ln in scope_lines[1:]:
-                out.append(f"                           {ln}")
+            scope_map = {
+                "user-read-playback-state": "PLAYBACK_STATE",
+                "user-read-currently-playing": "NOW_PLAYING",
+                "user-read-recently-played": "RECENT_ACTIVITY",
+            }
+            
+            if scope:
+                caps = []
+                for s in scope.split():
+                    caps.append(scope_map.get(s, s.upper()))
+                out.append(f"Authorization scope       : {' | '.join(caps)}")
 
         out.append("------------------------------------------------------------")
 
