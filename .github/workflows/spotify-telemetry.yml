@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  spotify_telemetry:
+  telemetry:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -20,69 +20,14 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate Spotify telemetry block (fail-safe)
+      - name: Update Spotify telemetry block (fail-safe)
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-
-          # ============================================================
-          # TOGGLES — REPORT SECTIONS (TRUE/FALSE)
-          # ============================================================
-          # Core blocks
-          SPOTIFY_SHOW_HEADER: "TRUE"
-          SPOTIFY_SHOW_CORE_STATUS: "TRUE"
-          SPOTIFY_SHOW_NOW_PLAYING_DETAILS: "TRUE"
-          SPOTIFY_SHOW_LAST_PLAYED: "TRUE"
-
-          # Deltas (“since last report”)
-          SPOTIFY_SHOW_DELTAS: "TRUE"
-          SPOTIFY_SHOW_TIMING: "TRUE"
-
-          # Health / integrity
-          SPOTIFY_SHOW_API_HEALTH: "TRUE"
-          SPOTIFY_SHOW_INTEGRITY: "TRUE"
-
-          # Aggregations
-          SPOTIFY_SHOW_DAILY_SITREP: "TRUE"
-          SPOTIFY_SHOW_WEEKLY_SUMMARY: "TRUE"
-
-          # ============================================================
-          # TOGGLES — SUBFIELDS (TRUE/FALSE)
-          # ============================================================
-          SPOTIFY_SHOW_DEVICE: "TRUE"
-          SPOTIFY_SHOW_VOLUME: "FALSE"
-          SPOTIFY_SHOW_SHUFFLE_REPEAT: "TRUE"
-          SPOTIFY_SHOW_PROGRESS: "TRUE"
-          SPOTIFY_SHOW_IDS: "FALSE"   # track id / uri etc.
-
-          # ============================================================
-          # BEHAVIOR
-          # ============================================================
-          SPOTIFY_MAX_RECENT: "50"         # recently-played limit (max 50)
-          SPOTIFY_DAILY_WINDOW_H: "24"     # rolling window
-          SPOTIFY_WEEKLY_DAYS: "7"         # rolling window
-          SPOTIFY_TZ_LABEL: "UTC"
-
         run: |
           set -euo pipefail
-          mkdir -p .cache
-
-          cp .cache/spotify_telemetry.txt .cache/spotify_telemetry.before 2>/dev/null || true
-          cp .cache/spotify_state.json .cache/spotify_state.before 2>/dev/null || true
-
-          if ! python3 .github/scripts/spotify_telemetry.py; then
-            echo "Spotify telemetry update failed; restoring last known good snapshot."
-            mv -f .cache/spotify_telemetry.before .cache/spotify_telemetry.txt 2>/dev/null || true
-            mv -f .cache/spotify_state.before .cache/spotify_state.json 2>/dev/null || true
-
-            if [ -f .cache/spotify_telemetry.txt ]; then
-              python3 .github/scripts/spotify_telemetry.py --apply-only || true
-            fi
-            exit 0
-          fi
-
-          rm -f .cache/spotify_telemetry.before .cache/spotify_state.before 2>/dev/null || true
+          python3 .github/scripts/spotify_telemetry.py
 
       - name: Commit & push if changed
         run: |
@@ -93,6 +38,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md .cache/spotify_telemetry.txt .cache/spotify_state.json
-          git commit -m "chore: update Spotify telemetry CLI feed"
+          git add README.md .github/state/spotify_last_report.json
+          git commit -m "chore: update Spotify telemetry (CLI feed)"
           git push
