@@ -190,7 +190,6 @@ jobs:
               x, y, z, vx, vy, vz = floats[start:start+6]
               return x, y, z, vx, vy, vz
 
-            # Earth-centered vectors
             x, y, z, vx, vy, vz = query("500@399")
             earth_dist_km = math.sqrt(x*x + y*y + z*z)
             earth_speed_kms = math.sqrt(vx*vx + vy*vy + vz*vz)
@@ -198,7 +197,6 @@ jobs:
             one_way_s = earth_dist_km / C_KM_S
             rt_s = one_way_s * 2
 
-            # Sun-centered (heliocentric distance)
             sx, sy, sz, svx, svy, svz = query("500@10")
             sun_dist_km = math.sqrt(sx*sx + sy*sy + sz*sz)
             sun_dist_au = sun_dist_km / AU_KM
@@ -226,9 +224,22 @@ jobs:
 
           now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
 
-          dsn_url, dsn_xml = fetch_dsn_xml()
-          dsn_ts, dsn_links = parse_dsn(dsn_xml)
-          dsn_ts_s = dsn_ts.strftime("%Y-%m-%d %H:%M:%SZ") if dsn_ts else "UNKNOWN"
+          # --- FAIL-SAFE STATE ---
+          report_ok = True
+          errors = []
+
+          # --- DSN FETCH (non-fatal; we can still run on Horizons alone) ---
+          dsn_url = "UNAVAILABLE"
+          dsn_ts_s = "UNAVAILABLE"
+          dsn_links = { "VOYAGER 1": [], "VOYAGER 2": [] }
+
+          try:
+            dsn_url, dsn_xml = fetch_dsn_xml()
+            dsn_ts, dsn_links = parse_dsn(dsn_xml)
+            dsn_ts_s = dsn_ts.strftime("%Y-%m-%d %H:%M:%SZ") if dsn_ts else "UNKNOWN"
+          except Exception as e:
+            errors.append(f"DSN error: {e}")
+            # keep report_ok True for now; Horizons may still provide valid report
 
           state = load_state()
           state.setdefault("earth_dist_km", {})
@@ -240,13 +251,17 @@ jobs:
           out.append(f"DSN endpoint (source)    : {dsn_url}")
           out.append(f"DSN snapshot (UTC)       : {dsn_ts_s}")
 
+          valid_nav_count = 0
+
           for name, spkid in VOYAGERS:
             nav = None
             nav_err = None
             try:
               nav = horizons_nav(spkid)
+              valid_nav_count += 1
             except Exception as e:
               nav_err = str(e)
+              errors.append(f"Horizons error ({name}): {e}")
 
             link = best_dsn_link(dsn_links.get(name, []))
             lock_now = "TRUE" if (link and ((link["down"].get("active")=="true") or (link["up"].get("active")=="true"))) else "FALSE"
@@ -279,7 +294,6 @@ jobs:
               out.append(f"Uplink                   : active={up.get('active','false')} | type={up.get('signalType','-')}")
               out.append(f"Signal (power/freq)      : {pwr} dB | {frq}")
             else:
-              # Option A: explicit operational states (no misleading placeholders)
               out.append("DSN dish                 : N/A")
               out.append("Downlink                 : INACTIVE")
               out.append("Uplink                   : INACTIVE")
@@ -311,6 +325,17 @@ jobs:
               out.append("------------------------------------------------------------")
               out.append("NAV (Horizons)           : ERROR")
               out.append(f"Details                  : {nav_err}")
+
+          # --- FAIL-SAFE DECISION: if BOTH Horizons queries failed, do not touch README ---
+          if valid_nav_count == 0:
+            report_ok = False
+            errors.append("No valid navigation data from Horizons (both targets failed)")
+
+          if not report_ok:
+            print("Voyager telemetry update skipped (preserving last known report).")
+            for e in errors:
+              print(" -", e)
+            raise SystemExit(0)
 
           out.append("------------------------------------------------------------")
           out.append("Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)")
