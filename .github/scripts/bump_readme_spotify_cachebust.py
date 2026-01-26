@@ -1,20 +1,37 @@
 #!/usr/bin/env python3
+import hashlib
 import re
-import time
 
 README = "README.md"
+SVG = "images/spotify_now.svg"
 
-with open(README, "r", encoding="utf-8") as f:
-    md = f.read()
+def main():
+    with open(SVG, "rb") as f:
+        data = f.read()
 
-# expects a reference like: images/spotify_now.svg?v=123
-pattern = re.compile(r"(images/spotify_now\.svg\?v=)(\d+)")
-if not pattern.search(md):
-    # If not found, do nothing (keeps your README intact).
-    raise SystemExit(0)
+    h = hashlib.sha256(data).hexdigest()[:10]
 
-md2 = pattern.sub(rf"\g<1>{int(time.time())}", md)
+    with open(README, "r", encoding="utf-8") as f:
+        md = f.read()
 
-if md2 != md:
+    pat = re.compile(r"<!-- SPOTIFY:START -->.*?<!-- SPOTIFY:END -->", re.S)
+    m = pat.search(md)
+    if not m:
+        raise SystemExit("Markers not found: <!-- SPOTIFY:START --> ... <!-- SPOTIFY:END -->")
+
+    block = m.group(0)
+
+    # Replace any spotify_now.svg?v=... inside the block
+    block2 = re.sub(r"(images/spotify_now\.svg\?v=)[A-Za-z0-9._-]+", r"\g<1>" + h, block)
+
+    # If the URL had no ?v=, add it
+    if "images/spotify_now.svg?v=" not in block2:
+        block2 = block2.replace("images/spotify_now.svg", f"images/spotify_now.svg?v={h}")
+
+    md2 = md[:m.start()] + block2 + md[m.end():]
+
     with open(README, "w", encoding="utf-8") as f:
         f.write(md2)
+
+if __name__ == "__main__":
+    main()
