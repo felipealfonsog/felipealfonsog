@@ -1,0 +1,79 @@
+name: Spotify Telemetry (CLI feed)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */3 * * *"   # cada 3 horas (ajusta si quieres)
+
+permissions:
+  contents: write
+
+jobs:
+  spotify_telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate Spotify telemetry block (fail-safe)
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+
+          # ====== SECTION TOGGLES (1=ON, 0=OFF) ======
+          SPOTIFY_SHOW_HEADER: "1"
+          SPOTIFY_SHOW_CORE_STATUS: "1"
+          SPOTIFY_SHOW_DELTAS: "1"
+          SPOTIFY_SHOW_TIMING: "1"
+          SPOTIFY_SHOW_API_HEALTH: "1"
+          SPOTIFY_SHOW_INTEGRITY: "1"
+          SPOTIFY_SHOW_DAILY_SITREP: "1"
+          SPOTIFY_SHOW_WEEKLY_SUMMARY: "1"
+
+          # ====== BEHAVIOR ======
+          SPOTIFY_OBS_WINDOW_MIN: "30"     # ventana de observación para telemetría “edad”
+          SPOTIFY_DAILY_WINDOW_H: "24"     # resumen “hoy” (rolling 24h)
+          SPOTIFY_WEEKLY_DAYS: "7"         # resumen semanal (rolling 7d)
+          SPOTIFY_MAX_RECENT: "50"         # cuántos eventos trae recently-played
+          SPOTIFY_TZ_LABEL: "UTC"          # etiqueta
+
+        run: |
+          set -euo pipefail
+          mkdir -p .cache
+
+          # Preserve last known good README block snapshot (fail-safe)
+          cp .cache/spotify_telemetry.txt .cache/spotify_telemetry.before 2>/dev/null || true
+          cp .cache/spotify_state.json .cache/spotify_state.before 2>/dev/null || true
+
+          if ! python3 .github/scripts/spotify_telemetry.py; then
+            echo "Spotify telemetry update failed; restoring last known good snapshot."
+            mv -f .cache/spotify_telemetry.before .cache/spotify_telemetry.txt 2>/dev/null || true
+            mv -f .cache/spotify_state.before .cache/spotify_state.json 2>/dev/null || true
+
+            # Re-apply last good block (if exists) so README stays stable
+            if [ -f .cache/spotify_telemetry.txt ]; then
+              python3 .github/scripts/spotify_telemetry.py --apply-only || true
+            fi
+            exit 0
+          fi
+
+          rm -f .cache/spotify_telemetry.before .cache/spotify_state.before 2>/dev/null || true
+
+      - name: Commit & push if changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md .cache/spotify_telemetry.txt .cache/spotify_state.json
+          git commit -m "chore: update Spotify telemetry CLI feed"
+          git push
