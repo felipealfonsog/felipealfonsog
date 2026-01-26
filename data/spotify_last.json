@@ -1,7 +1,7 @@
 {
-  "status": "IDLE",
-  "sitrep": "AMBER",
+  "status": "PLAYING",
+  "sitrep": "GREEN",
   "last_track_id": "2Owe4lokvRDAkoKxpSi0XW",
   "last_played_at": "2026-01-26T09:37:23.293Z",
-  "generated_utc": "2026-01-26 10:03:25Z"
+  "generated_utc": "2026-01-26 10:17:15Z"
 }

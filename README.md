@@ -812,18 +812,20 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 ```text
 SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
 ------------------------------------------------------------
-Status                   : IDLE
-SITREP                   : AMBER
+Status                   : PLAYING
+SITREP                   : GREEN
 ------------------------------------------------------------
-Now playing              : -
+Now playing              : Nirvana — Pennyroyal Tea - Live
+Device                   : Felipe’s MacBook Air Silicon
+Progress                 : 24s / 220s
 Last played              : Weichafe — Tierra Oscura Del Sol
 Last played (UTC)        : 2026-01-26 09:37:23Z
 ------------------------------------------------------------
-Δ track (since last)      : N/A (first report)
-Δ last played (since last): N/A (first report)
-Δ status (since last)     : N/A (first report)
+Δ track (since last)      : SAME
+Δ last played (since last): +0s
+Δ status (since last)     : IDLE -> PLAYING
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-26 10:03:25Z
+Report generated (UTC)   : 2026-01-26 10:17:15Z
 ```
 <!-- SPOTIFYCLI:END -->
 
