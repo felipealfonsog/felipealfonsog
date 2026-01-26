@@ -782,7 +782,7 @@ _)      \.___.,|     .'
 <!--
 ------- con actions v.1 ----
 -->
-<!--
+
 <details open>
 <summary>
 <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a>
@@ -790,12 +790,12 @@ _)      \.___.,|     .'
 </summary>
 <br>
 
--->
+
 
 <!-- LIVE CARD (updates automatically) -->
-<!--
+
 [![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
--->
+
 
 <!-- FALLBACK (last known good state, static) -->
 <!--
@@ -805,32 +805,43 @@ _)      \.___.,|     .'
 If the live Spotify card is temporarily unavailable, the last known track is shown above.
 </sub>
 -->
-<!--
+
 </details>
--->
+<br>
+
+<!-- SPOTIFYCLI:START -->
+```text
+SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
+Status                   : INIT
+Report generated (UTC)   : -
+
+<!-- SPOTIFYCLI:END -->
+
+<br>
 
 <!--
 ------- con actions v.2 - no working ----
 -->
-
+<!--
 <details open>
 <summary> <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
   <br>
+  -->
 <!--
 [![spotify-card](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg?v=1769420805)](https://open.spotify.com/user/12133266428)
 -->
 
-
-<!-- SPOTIFY:START -->
+<!--
+-- SPOTIFY:START --
 [![spotify-now](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg?v=574d4a1eda)](https://open.spotify.com/user/12133266428)
 
-<!-- SPOTIFY:END -->
+-- SPOTIFY:END --
 
 
 <sub>To view the latest track, click [refresh here](https://github.com/felipealfonsog?cache-bypass=1) to reload the profile with cache bypass (Although it's best to reload the profile by right-clicking on the page and selecting "Reload" or "Refresh").</sub>
 
 </details>
-
+-->
 
 
 
@@ -843,9 +854,11 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 <sub>
 For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to the automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
-What is reflected as playing on Spotify in this repository is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
-Data may contain discrepancies or inaccuracies due to limitations or transient issues in Spotify’s platform and services.
+What is reflected as playing on Spotify in this repository in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the service provider used by the platform. and the data of the CLI version is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
+Data may contain discrepancies or inaccuracies due to limitations or transient issues in Spotify’s platform and other services.
 </sub>
+
+<br>
 
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
