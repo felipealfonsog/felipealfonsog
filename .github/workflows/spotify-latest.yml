@@ -11,6 +11,7 @@ permissions:
 jobs:
   spotify:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -27,20 +28,21 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           set -euo pipefail
-          mkdir -p images
+          mkdir -p images .github/scripts
 
-          # preserve last known good card
-          cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
+          # Preserve last known good card (if exists)
+          cp -f images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
 
+          # Try to generate a new card
           if ! python3 .github/scripts/spotify_latest_card.py; then
-            echo "Spotify update failed; preserving last known card."
+            echo "Spotify update failed; keeping last known good card."
             mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
             exit 0
           fi
 
           rm -f images/spotify_now.svg.before 2>/dev/null || true
 
-          # Cache-bust the README reference (only if your README contains spotify_now.svg?v=...)
+          # Cache-bust README reference (only within SPOTIFY markers)
           python3 .github/scripts/bump_readme_spotify_cachebust.py
 
       - name: Commit & push if changed
