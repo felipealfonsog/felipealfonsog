@@ -698,7 +698,13 @@ _)      \.___.,|     .'
 
 
 
--->
+
+
+###### SPOTIFY ######
+
+
+
+
 
 <details open>
 <summary> <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
@@ -712,7 +718,19 @@ _)      \.___.,|     .'
 
 </details>
 
+-->
+
+
+<details open>
+<summary> <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...</summary> 
+  <br>
+
+[![spotify-card](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify_now.svg?v=1)](https://open.spotify.com/user/12133266428)
+
+<sub>To view the latest track, click [refresh here](https://github.com/felipealfonsog?cache-bypass=1) to reload the profile with cache bypass (Although it's best to reload the profile by right-clicking on the page and selecting "Reload" or "Refresh").</sub>
+
 </details>
+
    
 <sub>Open Github links in a new tab for a smooth experience; right-click and choose "Open Link in New Tab" as markdown links with a blank target aren't supported. When utilizing the 'Google Translate' badge, it will direct to the translation option of this page from English to Spanish using [Google Translate](https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate). What's reflected as playing on Spotify in the repository is thanks to the [Spotify Now Playing Card project](https://github.com/kittinan/spotify-github-profile) and the service provider used by the platform. Data may contain discrepancies or errors due to the platform's service.</sub>
 
