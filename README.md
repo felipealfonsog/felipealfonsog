@@ -807,7 +807,6 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 -->
 
 
-
 <!-- SPOTIFYCLI:START -->
 ```text
 SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
@@ -820,7 +819,8 @@ Last played              : -
 ------------------------------------------------------------
 Report generated (UTC)   : -
 ```
-<!-- SPOTIFY_TELEMETRY:END -->
+<!-- SPOTIFYCLI:END -->
+
 
 
 
