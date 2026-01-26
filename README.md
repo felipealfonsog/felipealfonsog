@@ -813,14 +813,19 @@ If the live Spotify card is temporarily unavailable, the last known track is sho
 ```text
 SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
 ------------------------------------------------------------
-Status                   : INIT
+Status                   : IDLE
 SITREP                   : AMBER
 ------------------------------------------------------------
 Now playing              : -
-Last played              : -
+Last played              : Weichafe — Tierra Oscura Del Sol
+Last played (UTC)        : 2026-01-26 09:37:23Z
 ------------------------------------------------------------
-Report generated (UTC)   : -
-
+Δ track (since last)      : N/A (first report)
+Δ last played (since last): N/A (first report)
+Δ status (since last)     : N/A (first report)
+------------------------------------------------------------
+Report generated (UTC)   : 2026-01-26 10:03:25Z
+```
 <!-- SPOTIFYCLI:END -->
 
 <br>
