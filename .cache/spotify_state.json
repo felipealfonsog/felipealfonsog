@@ -1,8 +1,9 @@
 {
   "prev": {
     "status": "PLAYING",
-    "last_played_utc": "2026-01-26 10:57:32Z",
-    "track_fp": "c9ace029",
-    "report_generated_utc": "2026-01-26 11:01:25Z"
+    "last_played_utc": "2026-01-26 11:10:44Z",
+    "now_playing_fp": "8bb3ef1a86",
+    "report_generated_utc": "2026-01-26 11:11:08Z",
+    "last_track_fp": "215838f641"
   }
 }

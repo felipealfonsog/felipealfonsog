@@ -2,25 +2,27 @@ SPOTIFY TELEMETRY — CLI FEED (Spotify ©)
 ------------------------------------------------------------
 Telemetry source          : Spotify Web API
 Acquisition mode          : OAuth2 / automated workflow
-Snapshot type             : Last-known playback state
-Observation window        : 00:30:00
+Snapshot type             : Current playback + recent history
+History window (max)      : 50 events
 ------------------------------------------------------------
 Status                    : PLAYING
 Playback state            : ONLINE (active session)
 SITREP                    : GREEN
 ------------------------------------------------------------
-Now playing               : (LIVE) — See track in card/UI
-Last played               : Nirvana — About A Girl - Live
-Last played (UTC)        : 2026-01-26 10:57:32Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : Nirvana — Pennyroyal Tea - Live
+Album                     : MTV Unplugged In New York
+Track position            : 00:00:25
+Time remaining            : 00:03:14
 ------------------------------------------------------------
-Δ track (since last)      : N/A (first report)
-Δ last played (since last): N/A (first report)
-Δ status (since last)     : N/A (first report)
+Last played               : Nirvana — The Man Who Sold The World - Live
+Last played (UTC)         : 2026-01-26 11:10:44Z
 ------------------------------------------------------------
-Time since last play      : 00:03:53
-Telemetry age             : 00:03:53
-Δ time (since last report): N/A (first report)
+Δ now playing (since last): CHANGED
+Δ last played (since last): UPDATED
+Δ status (since last)     : UNCHANGED
+------------------------------------------------------------
+Time since last play      : N/A (live session)
+Δ time (since last report): 00:09:43
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -31,16 +33,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)   : 31
+Tracks played (last 24h)   : 34
 Dominant artist           : Nirvana
-Listening pattern         : LIVE
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-19 11:01:25Z → 2026-01-26 11:01:25Z
-Total tracks played       : 32
+Week window (UTC)         : 2026-01-19 11:11:08Z → 2026-01-26 11:11:08Z
+Total tracks played       : 35
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-26 11:01:25Z
+Report generated (UTC)    : 2026-01-26 11:11:08Z
