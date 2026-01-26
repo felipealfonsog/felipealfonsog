@@ -3,8 +3,6 @@ import base64
 import json
 import os
 import sys
-import time
-import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 
@@ -14,130 +12,117 @@ REFRESH_TOKEN = os.environ.get("SPOTIFY_REFRESH_TOKEN", "").strip()
 
 OUT = "images/spotify_now.svg"
 
-AUTH_URL = "https://accounts.spotify.com/api/token"
-RECENT_URL = "https://api.spotify.com/v1/me/player/recently-played?limit=1"
-
-def http_json(url: str, headers=None, data: bytes | None = None, timeout: int = 25):
+def req_json(url, headers=None, data=None, timeout=25):
     headers = headers or {}
     req = urllib.request.Request(url, headers=headers, data=data)
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.getcode(), r.headers, json.loads(r.read().decode("utf-8", "replace"))
+        return json.loads(r.read().decode("utf-8", "replace"))
 
-def get_access_token() -> str:
+def get_access_token():
     if not (CLIENT_ID and CLIENT_SECRET and REFRESH_TOKEN):
-        raise RuntimeError("Missing Spotify secrets (CLIENT_ID/CLIENT_SECRET/REFRESH_TOKEN).")
+        raise SystemExit("Missing Spotify secrets (CLIENT_ID/CLIENT_SECRET/REFRESH_TOKEN).")
 
     auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
-    body = urllib.parse.urlencode({
-        "grant_type": "refresh_token",
-        "refresh_token": REFRESH_TOKEN,
-    }).encode("utf-8")
+    body = "grant_type=refresh_token&refresh_token=" + urllib.parse.quote(REFRESH_TOKEN)
+    data = body.encode("utf-8")
 
-    code, _, payload = http_json(
-        AUTH_URL,
+    token = req_json(
+        "https://accounts.spotify.com/api/token",
         headers={
             "Authorization": f"Basic {auth}",
             "Content-Type": "application/x-www-form-urlencoded",
         },
-        data=body,
+        data=data,
     )
-
-    if code >= 400:
-        raise RuntimeError(f"Token endpoint error: {payload}")
-
-    token = payload.get("access_token")
-    if not token:
-        raise RuntimeError(f"No access_token in response: {payload}")
-    return token
+    return token["access_token"]
 
 def get_latest_track(access_token: str):
-    code, _, payload = http_json(
-        RECENT_URL,
+    data = req_json(
+        "https://api.spotify.com/v1/me/player/recently-played?limit=1",
         headers={"Authorization": f"Bearer {access_token}"},
     )
-
-    if code >= 400:
-        raise RuntimeError(f"Spotify API error: {payload}")
-
-    items = payload.get("items") or []
+    items = data.get("items") or []
     if not items:
         return None
 
     it = items[0]
     track = it.get("track") or {}
-    artists = track.get("artists") or []
-    artist = ", ".join([a.get("name","") for a in artists if a.get("name")]) or "Unknown artist"
-    title = track.get("name") or "Unknown track"
-
+    artist = ", ".join([a.get("name","") for a in (track.get("artists") or []) if a.get("name")]) or "Unknown"
+    name = track.get("name") or "Unknown"
+    url = (track.get("external_urls") or {}).get("spotify") or ""
     album = track.get("album") or {}
-    imgs = album.get("images") or []
-    cover = imgs[1]["url"] if len(imgs) > 1 else (imgs[0]["url"] if imgs else "")
+    images = album.get("images") or []
+    cover = images[1]["url"] if len(images) > 1 else (images[0]["url"] if images else "")
 
     played_at = it.get("played_at") or ""
-    track_url = (track.get("external_urls") or {}).get("spotify") or ""
-
     return {
         "artist": artist,
-        "title": title,
+        "track": name,
         "cover": cover,
+        "spotify_url": url,
         "played_at": played_at,
-        "track_url": track_url,
     }
 
 def esc(s: str) -> str:
     return (s or "").replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
 
-def svg_card(artist: str, title: str, cover_url: str, played_at: str):
-    # Matches your aesthetic: dark, clean, cover-left, text-right.
-    w, h = 900, 190
+def svg_card(artist, track, cover_url, played_at_utc):
+    # Card layout similar to screenshot: cover left, text right, dark bg
+    # Note: external image references in SVG are allowed by GitHub for many cases; if it fails, we can embed the cover (heavier).
+    w, h = 720, 160
     pad = 18
-    cover = 150
-    y_cover = (h - cover) // 2
+    cover = 124
     x_text = pad + cover + 18
 
+    title = "Currently or previously on Spotify"
+    line1 = artist
+    line2 = track
+
+    stamp = played_at_utc or "N/A"
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
-    played = played_at or "N/A"
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">
   <defs>
     <style>
       .bg {{ fill: #000; }}
-      .label {{ fill: #a9a9a9; font: 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }}
-      .artist {{ fill: #f5f5f5; font: 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; font-weight: 700; }}
-      .track {{ fill: #f5f5f5; font: 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }}
-      .meta {{ fill: #a9a9a9; font: 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }}
+      .muted {{ fill: #a9a9a9; font: 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }}
+      .h1 {{ fill: #eaeaea; font: 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }}
+      .a {{ fill: #f5f5f5; font: 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; font-weight: 700; }}
+      .t {{ fill: #f5f5f5; font: 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }}
     </style>
-    <clipPath id="clip">
-      <rect x="{pad}" y="{y_cover}" width="{cover}" height="{cover}" rx="10" ry="10"/>
+    <clipPath id="r">
+      <rect x="{pad}" y="{(h-cover)//2}" width="{cover}" height="{cover}" rx="8" ry="8"/>
     </clipPath>
   </defs>
 
-  <rect class="bg" x="0" y="0" width="{w}" height="{h}" rx="14" ry="14"/>
+  <rect class="bg" x="0" y="0" width="{w}" height="{h}" rx="12" ry="12"/>
 
-  {"<image href=\\"" + esc(cover_url) + "\\" x=\\"" + str(pad) + "\\" y=\\"" + str(y_cover) + "\\" width=\\"" + str(cover) + "\\" height=\\"" + str(cover) + "\\" clip-path=\\"url(#clip)\\"/>" if cover_url else f"<rect x='{pad}' y='{y_cover}' width='{cover}' height='{cover}' rx='10' ry='10' fill='#111'/>"}
+  {"<image href=\\"" + esc(cover_url) + "\\" x=\\"" + str(pad) + "\\" y=\\"" + str((h-cover)//2) + "\\" width=\\"" + str(cover) + "\\" height=\\"" + str(cover) + "\\" clip-path=\\"url(#r)\\"/>" if cover_url else f"<rect x='{pad}' y='{(h-cover)//2}' width='{cover}' height='{cover}' rx='8' ry='8' fill='#111'/>"}
 
-  <text class="label" x="{x_text}" y="{pad+20}">CURRENTLY OR PREVIOUSLY ON SPOTIFY</text>
-  <text class="artist" x="{x_text}" y="{pad+70}">{esc(artist)}</text>
-  <text class="track"  x="{x_text}" y="{pad+108}">{esc(title)}</text>
+  <text class="h1" x="{x_text}" y="{pad+18}">{esc(title)}</text>
+  <text class="a"  x="{x_text}" y="{pad+62}">{esc(line1)}</text>
+  <text class="t"  x="{x_text}" y="{pad+96}">{esc(line2)}</text>
 
-  <text class="meta" x="{x_text}" y="{h-24}">Last played (UTC): {esc(played)}  |  Rendered (UTC): {esc(updated)}</text>
+  <text class="muted" x="{x_text}" y="{h-22}">Last played (UTC): {esc(stamp)}  |  Rendered: {esc(updated)}</text>
 </svg>'''
 
 def main():
-    token = get_access_token()
-    latest = get_latest_track(token)
+    access = get_access_token()
+    latest = get_latest_track(access)
     if not latest:
-        raise RuntimeError("No recently played track returned by Spotify (items empty).")
+        raise SystemExit("No recently played track returned.")
 
-    svg = svg_card(latest["artist"], latest["title"], latest["cover"], latest["played_at"])
+    svg = svg_card(
+        latest["artist"],
+        latest["track"],
+        latest["cover"],
+        latest["played_at"],
+    )
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         f.write(svg)
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        print(str(e), file=sys.stderr)
-        sys.exit(1)
+    import urllib.parse
+    main()
