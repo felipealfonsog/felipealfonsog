@@ -11,15 +11,12 @@ permissions:
 jobs:
   spotify:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -32,9 +29,7 @@ jobs:
           set -euo pipefail
           mkdir -p images
 
-          # ------------------------------------------------------------------
-          # 1) Bootstrap: ensure spotify_now.svg EXISTS (never leave repo empty)
-          # ------------------------------------------------------------------
+          # BOOTSTRAP: if spotify_now.svg doesn't exist yet, create a stable placeholder (white)
           if [ ! -f images/spotify_now.svg ]; then
             cat > images/spotify_now.svg << 'SVG'
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120">
@@ -50,26 +45,19 @@ jobs:
 SVG
           fi
 
-          # ------------------------------------------------------------------
-          # 2) Preserve last known good card
-          # ------------------------------------------------------------------
+          # preserve last known good card
           cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
 
-          # ------------------------------------------------------------------
-          # 3) Run generator; on failure, restore previous card
-          # ------------------------------------------------------------------
           if ! python3 .github/scripts/spotify_latest_card.py; then
-            echo "Spotify update failed; restoring last known card."
+            echo "Spotify update failed; preserving last known card."
             mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
             exit 0
           fi
 
           rm -f images/spotify_now.svg.before 2>/dev/null || true
 
-          # ------------------------------------------------------------------
-          # 4) Cache-bust README reference (only if ?v= is present)
-          # ------------------------------------------------------------------
-          python3 .github/scripts/bump_readme_spotify_cachebust.py || true
+          # Cache-bust the README reference (only if your README contains spotify_now.svg?v=...)
+          python3 .github/scripts/bump_readme_spotify_cachebust.py
 
       - name: Commit & push if changed
         run: |
