@@ -16,29 +16,84 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Update cached Spotify card (fail-safe)
+      - name: Fetch cached Spotify card (debug + fail-safe)
         shell: bash
         run: |
           set -euo pipefail
 
           mkdir -p images
-          cp README.md README.md.before || true
+
+          echo "== Pre-state =="
+          ls -lah images || true
+          if [[ -f images/spotify_now.svg ]]; then
+            echo "Existing spotify_now.svg:"
+            wc -c images/spotify_now.svg || true
+            sha256sum images/spotify_now.svg || true
+            # Try to print a hint of the title/track if present
+            grep -Eo "<title>.*</title>" images/spotify_now.svg | head -n 1 || true
+          else
+            echo "No existing images/spotify_now.svg"
+          fi
+
+          # Snapshot for fail-safe rollback
           cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
 
-          if ! python3 .github/scripts/update_spotify_card.py; then
-            echo "Spotify card update failed; preserving last known card."
-            mv -f README.md.before README.md 2>/dev/null || true
+          # Fetch directly with curl (more predictable than urllib in Actions)
+          URL="https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true&_=$(date +%s)"
+
+          echo "Fetching: $URL"
+          TMP="images/spotify_now.svg.tmp"
+
+          # -f: fail on HTTP errors; -L: follow redirects; --no-progress-meter: clean logs
+          if ! curl -fL --no-progress-meter -H "Cache-Control: no-cache" -H "Pragma: no-cache" \
+            -o "$TMP" "$URL"; then
+            echo "Fetch failed; preserving last known card."
+            rm -f "$TMP" || true
             mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
             exit 0
           fi
 
+          echo "== Post-fetch validation =="
+          wc -c "$TMP"
+          head -n 3 "$TMP" || true
+
+          # Hard validation: must look like SVG and be non-trivial size
+          if ! head -n 20 "$TMP" | grep -qi "<svg"; then
+            echo "Not an SVG payload; preserving last known card."
+            rm -f "$TMP" || true
+            mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
+            exit 0
+          fi
+
+          SIZE=$(wc -c < "$TMP")
+          if [[ "$SIZE" -lt 3000 ]]; then
+            echo "SVG too small ($SIZE bytes) — likely placeholder/error; preserving last known card."
+            rm -f "$TMP" || true
+            mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
+            exit 0
+          fi
+
+          # Promote
+          mv -f "$TMP" images/spotify_now.svg
+          rm -f images/spotify_now.svg.before 2>/dev/null || true
+
+          echo "== Final state =="
+          wc -c images/spotify_now.svg
+          sha256sum images/spotify_now.svg
+          grep -Eo "<title>.*</title>" images/spotify_now.svg | head -n 1 || true
+
+      - name: Commit & push (only if changed)
+        shell: bash
+        run: |
+          set -euo pipefail
+
           if git diff --quiet; then
-            echo "No changes."
+            echo "No changes to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md images/spotify_now.svg
-          git commit -m "chore: update cached Spotify card" || exit 0
+          git add images/spotify_now.svg
+          git commit -m "chore: update cached Spotify card"
           git push
