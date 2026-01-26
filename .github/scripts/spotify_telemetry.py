@@ -3,11 +3,9 @@
 
 import base64
 import json
-import math
 import os
 import re
 import sys
-import time
 import urllib.parse
 import urllib.request
 import urllib.error
@@ -65,9 +63,6 @@ def utc_now() -> datetime:
 
 def utc_iso(dt: datetime) -> str:
     return dt.strftime("%Y-%m-%d %H:%M:%SZ")
-
-def esc_txt(s: str) -> str:
-    return (s or "").replace("\r", "").replace("\n", " ").strip()
 
 def clamp(n, lo, hi):
     return max(lo, min(hi, n))
@@ -184,33 +179,22 @@ def fmt_scope_lines(scope_str: str):
     if SCOPE_MODE == "OFF":
         return []
 
-    if SCOPE_MODE == "COMPACT":
-        m = {
-            "user-read-playback-state": "PLAYBACK_STATE",
-            "user-read-currently-playing": "NOW_PLAYING",
-            "user-read-recently-played": "RECENT",
-        }
-        parts = [m.get(x, x) for x in s.split()]
-        return [", ".join(parts)]
+    scope_map = {
+        "user-read-playback-state": "PLAYBACK_STATE",
+        "user-read-currently-playing": "NOW_PLAYING",
+        "user-read-recently-played": "RECENT_ACTIVITY",
+    }
 
-    # WRAP
-    parts = s.split()
-    lines, cur = [], ""
-    for p in parts:
-        if not cur:
-            cur = p
-        elif len(cur) + 1 + len(p) <= WRAP_WIDTH:
-            cur += " " + p
-        else:
-            lines.append(cur)
-            cur = p
-    if cur:
-        lines.append(cur)
-    return lines
+    tokens = [scope_map.get(x, x.upper()) for x in s.split()]
+
+    if SCOPE_MODE == "COMPACT":
+        return [" | ".join(tokens)]
+
+    # WRAP (one token per line; clean + aligned)
+    # NOTE: This is intentionally NOT word-wrapped mid-token; it's a telemetry list.
+    return tokens
 
 def classify_sitrep(status: str, playback_state: str, api_ok: bool):
-    # status: PLAYING | IDLE | UNKNOWN
-    # playback_state: ONLINE/OFFLINE/UNKNOWN
     if not api_ok:
         return "RED"
     if status == "PLAYING" and playback_state.startswith("ONLINE"):
@@ -258,11 +242,10 @@ def build_report():
 
     status = "UNKNOWN"
     playback_state = "UNKNOWN"
-    now_playing_str = "-"
     last_activity_type = "UNKNOWN"
 
-    now_track = None
-    now_track_name = "-"
+    now_track_obj = None
+    now_track_name = "N/A"  # telemetry-only default
 
     if api_http == 200 and isinstance(cur.get("data"), dict):
         d = cur["data"]
@@ -272,19 +255,22 @@ def build_report():
         last_activity_type = "PLAYBACK_ACTIVE" if is_playing else "PLAYBACK_INACTIVE"
 
         item = d.get("item") or {}
-        now_track = parse_track_item(item)
-        if now_track:
-            now_track_name = f"{now_track['artist']} — {now_track['title']}"
-        now_playing_str = "(LIVE) — See track in card/UI" if is_playing else "-"
+        now_track_obj = parse_track_item(item)
+        if is_playing and now_track_obj:
+            now_track_name = f"{now_track_obj['artist']} — {now_track_obj['title']}"
+        else:
+            now_track_name = "N/A"
+
     elif api_http == 204:
         status = "IDLE"
         playback_state = "OFFLINE (no active session)"
         last_activity_type = "NO_CONTENT_204"
-        now_playing_str = "-"
+        now_track_name = "N/A"
     else:
         status = "UNKNOWN"
         playback_state = "UNKNOWN"
         last_activity_type = "API_ERROR"
+        now_track_name = "N/A"
 
     # recently played (for last known track)
     recent_code, recent_payload = fetch_recently_played(token, limit=50)
@@ -305,7 +291,6 @@ def build_report():
                 last_track_name = f"{last_track_obj['artist']} — {last_track_obj['title']}"
             last_played_utc = played_at.replace(".000Z", "Z") if played_at else ""
             if last_played_utc and last_played_utc.endswith("Z"):
-                # normalize to "YYYY-MM-DD HH:MM:SSZ"
                 try:
                     dtp = datetime.fromisoformat(last_played_utc.replace("Z", "+00:00"))
                     last_played_utc = utc_iso(dtp)
@@ -385,7 +370,7 @@ def build_report():
             daily_status = "NONE"
             daily_pattern = "No activity"
 
-    # Weekly summary (best-effort from recent endpoint limited history)
+    # Weekly summary
     week_window_start = now - timedelta(days=7)
     weekly_total = None
     dominant_artist_week = None
@@ -432,9 +417,9 @@ def build_report():
     out.append("------------------------------------------------------------")
 
     if SHOW_HEADER_META:
-        out.append(f"Telemetry source          : Spotify Playback Telemetry (Developer API) ©")
-        out.append(f"Acquisition mode          : OAuth2 / automated workflow")
-        out.append(f"Snapshot type             : Last-known playback state")
+        out.append("Telemetry source          : Spotify Developer Platform — Playback Telemetry ©")
+        out.append("Acquisition mode          : OAuth2 / automated workflow")
+        out.append("Snapshot type             : Last-known playback state")
         out.append(f"Observation window        : {fmt_hms(OBS_WINDOW_SECONDS)}")
         out.append("------------------------------------------------------------")
 
@@ -445,7 +430,8 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_TRACK_BLOCK:
-        out.append(f"Now playing               : {now_playing_str}")
+        # TELEMETRY-ONLY: no UI commentary
+        out.append(f"Now playing               : {now_track_name}")
         out.append(f"Last played               : {last_track_name}")
         out.append(f"Last played (UTC)         : {last_played_utc or 'N/A'}")
         out.append(f"Last activity type        : {last_activity_type}")
@@ -464,7 +450,6 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_API_BLOCK:
-        # API response class
         if api_http == 200:
             api_class = "200 OK"
         elif api_http == 204:
@@ -477,19 +462,16 @@ def build_report():
         out.append(f"API response class        : {api_class}")
         out.append(f"API condition             : {'NORMAL' if (api_ok and recent_ok) else 'DEGRADED'}")
 
+        # Authorization scope (formatted, aligned, not ugly)
         scope_lines = fmt_scope_lines(scope)
         if SCOPE_MODE != "OFF" and scope_lines:
-            scope_map = {
-                "user-read-playback-state": "PLAYBACK_STATE",
-                "user-read-currently-playing": "NOW_PLAYING",
-                "user-read-recently-played": "RECENT_ACTIVITY",
-            }
-            
-            if scope:
-                caps = []
-                for s in scope.split():
-                    caps.append(scope_map.get(s, s.upper()))
-                out.append(f"Authorization scope       : {' | '.join(caps)}")
+            if SCOPE_MODE == "COMPACT":
+                out.append(f"Authorization scope       : {scope_lines[0]}")
+            else:
+                # WRAP mode: one token per line, aligned
+                out.append(f"Authorization scope       : {scope_lines[0]}")
+                for ln in scope_lines[1:]:
+                    out.append(f"                           {ln}")
 
         out.append("------------------------------------------------------------")
 
@@ -540,12 +522,10 @@ if __name__ == "__main__":
     try:
         main()
     except Exception as e:
-        # Fail-safe: do not break README if desired
         msg = f"{type(e).__name__}: {e}"
         print(msg, file=sys.stderr)
 
         if FAIL_SAFE_DO_NOT_BREAK_README:
-            # Keep README as-is; just exit 0 so workflow doesn't fail
             print("FAIL-SAFE: preserving existing README telemetry block.", file=sys.stderr)
             sys.exit(0)
 
