@@ -20,51 +20,42 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Update Spotify card (fail-safe, white template)
+      - name: Ensure placeholder exists
+        run: |
+          set -euo pipefail
+          mkdir -p images
+          if [ ! -f images/spotify_now.svg ]; then
+            cat > images/spotify_now.svg << 'SVG'
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="205" viewBox="0 0 900 205">
+  <rect width="900" height="205" fill="#ffffff"/>
+  <rect x="38" y="48" width="110" height="110" fill="#f2f2f2" stroke="#e6e6e6"/>
+  <text x="180" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif" font-size="36" font-weight="700" fill="#111111">Spotify</text>
+  <text x="180" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif" font-size="22" fill="#333333">Waiting for next update...</text>
+  <text x="38" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace" font-size="14" fill="#6b6b6b">Rendered (UTC): placeholder</text>
+</svg>
+SVG
+          fi
+
+      - name: Update Spotify card (fail-safe)
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           set -euo pipefail
-          mkdir -p images .github/scripts
 
-          # 1) Ensure file exists so we always have something to preserve
-          if [ ! -f images/spotify_now.svg ]; then
-            cat > images/spotify_now.svg << 'SVG'
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="205" viewBox="0 0 900 205">
-  <rect width="900" height="205" fill="#ffffff"/>
-  <rect x="18" y="27" width="150" height="150" fill="#f2f2f2" stroke="#e5e5e5"/>
-  <text x="200" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif"
-        font-size="28" fill="#111" font-weight="700">Spotify</text>
-  <text x="200" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif"
-        font-size="18" fill="#444">Card not generated yet.</text>
-  <text x="22" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace"
-        font-size="12" fill="#666">Rendered (UTC): placeholder</text>
-</svg>
-SVG
-          fi
-
-          # 2) Preserve last known good
+          # preserve last known good card
           cp images/spotify_now.svg images/spotify_now.svg.before 2>/dev/null || true
 
-          # 3) Run generator
           if ! python3 .github/scripts/spotify_latest_card.py; then
-            echo "Spotify generator failed; keeping last known good card."
-            mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
-            exit 0
-          fi
-
-          # 4) Guardrail: never publish an ugly placeholder
-          if grep -qiE "Waiting for next update|placeholder|Card not generated yet" images/spotify_now.svg; then
-            echo "Generator produced placeholder-ish output; keeping last known good card."
+            echo "Spotify update failed; preserving last known card."
             mv -f images/spotify_now.svg.before images/spotify_now.svg 2>/dev/null || true
             exit 0
           fi
 
           rm -f images/spotify_now.svg.before 2>/dev/null || true
 
-          # 5) Cache-bust README (only after good SVG)
+          # bump cache-bust so GitHub refreshes the raw image
           python3 .github/scripts/bump_readme_spotify_cachebust.py
 
       - name: Commit & push if changed
@@ -74,8 +65,12 @@ SVG
             echo "No changes."
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add README.md images/spotify_now.svg
           git commit -m "chore: update Spotify latest track card"
+
+          git pull --rebase
           git push
