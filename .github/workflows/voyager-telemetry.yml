@@ -38,6 +38,8 @@ jobs:
           C_KM_S = 299792.458
           AU_KM = 149597870.7
 
+          STATE_PATH = ".voyager_state.json"
+
           def http_get(url: str, timeout: int = 25) -> bytes:
             req = urllib.request.Request(
               url,
@@ -50,6 +52,24 @@ jobs:
             )
             with urllib.request.urlopen(req, timeout=timeout) as r:
               return r.read()
+
+          def load_state():
+            try:
+              with open(STATE_PATH, "r", encoding="utf-8") as f:
+                return json.load(f)
+            except Exception:
+              return {}
+
+          def save_state(state):
+            with open(STATE_PATH, "w", encoding="utf-8") as f:
+              json.dump(state, f, ensure_ascii=False, indent=2, sort_keys=True)
+
+          def fmt_delta_km(delta_km: float) -> str:
+            sign = "+" if delta_km >= 0 else "-"
+            d = abs(delta_km)
+            if d >= 1e9:  return f"{sign}{d/1e9:.3f}e9 km"
+            if d >= 1e6:  return f"{sign}{d/1e6:.3f}e6 km"
+            return f"{sign}{d:,.0f} km"
 
           def fetch_dsn_xml():
             last_err = None
@@ -111,76 +131,84 @@ jobs:
                 return e
             return entries[0]
 
-          def horizons_vectors(spkid: str):
+          def horizons_nav(spkid: str):
             now = datetime.now(timezone.utc).replace(second=0, microsecond=0)
             stop = now + timedelta(minutes=2)
 
-            params = {
-              "format": "json",
-              "COMMAND": f"'{spkid}'",
-              "MAKE_EPHEM": "YES",
-              "TABLE_TYPE": "VECTORS",
-              "CENTER": "'500@399'",
-              "START_TIME": f"'{now.strftime('%Y-%m-%d %H:%M')}'",
-              "STOP_TIME": f"'{stop.strftime('%Y-%m-%d %H:%M')}'",
-              "STEP_SIZE": "'1 m'",
-              "OUT_UNITS": "KM-S",
-              "CSV_FORMAT": "YES",
-              "VEC_TABLE": "3",
-              "VEC_LABELS": "NO",
-              "OBJ_DATA": "NO",
-            }
+            def query(center: str):
+              params = {
+                "format": "json",
+                "COMMAND": f"'{spkid}'",
+                "MAKE_EPHEM": "YES",
+                "TABLE_TYPE": "VECTORS",
+                "CENTER": f"'{center}'",
+                "START_TIME": f"'{now.strftime('%Y-%m-%d %H:%M')}'",
+                "STOP_TIME": f"'{stop.strftime('%Y-%m-%d %H:%M')}'",
+                "STEP_SIZE": "'1 m'",
+                "OUT_UNITS": "KM-S",
+                "CSV_FORMAT": "YES",
+                "VEC_TABLE": "3",
+                "VEC_LABELS": "NO",
+                "OBJ_DATA": "NO",
+              }
 
-            url = HORIZONS_API + "?" + urllib.parse.urlencode(params, safe="'@,:")
-            data = json.loads(http_get(url).decode("utf-8", "replace"))
-            txt = data.get("result", "")
+              url = HORIZONS_API + "?" + urllib.parse.urlencode(params, safe="'@,:")
+              data = json.loads(http_get(url).decode("utf-8", "replace"))
+              txt = data.get("result", "")
 
-            m = re.search(r"\$\$SOE\s*(.*?)\s*\$\$EOE", txt, flags=re.S)
-            if not m:
-              snippet = "\n".join(txt.splitlines()[:60])
-              raise RuntimeError("Horizons: could not locate $$SOE/$$EOE block\n" + snippet)
+              m = re.search(r"\$\$SOE\s*(.*?)\s*\$\$EOE", txt, flags=re.S)
+              if not m:
+                snippet = "\n".join(txt.splitlines()[:60])
+                raise RuntimeError("Horizons: could not locate $$SOE/$$EOE block\n" + snippet)
 
-            lines = [ln.strip() for ln in m.group(1).splitlines() if ln.strip()]
-            row = None
-            for ln in lines:
-              parts = [p.strip() for p in ln.split(",")]
-              if len(parts) >= 9:
-                row = parts
-                break
-            if not row:
-              raise RuntimeError("Horizons: no parseable CSV row found")
+              lines = [ln.strip() for ln in m.group(1).splitlines() if ln.strip()]
+              row = None
+              for ln in lines:
+                parts = [p.strip() for p in ln.split(",")]
+                if len(parts) >= 9:
+                  row = parts
+                  break
+              if not row:
+                raise RuntimeError("Horizons: no parseable CSV row found")
 
-            floats = []
-            for p in row:
-              try:
-                floats.append(float(p.replace("D","E")))
-              except Exception:
-                floats.append(None)
+              floats = []
+              for p in row:
+                try:
+                  floats.append(float(p.replace("D","E")))
+                except Exception:
+                  floats.append(None)
 
-            start = None
-            for i in range(len(floats) - 5):
-              chunk = floats[i:i+6]
-              if all(v is not None for v in chunk):
-                start = i
-                break
-            if start is None:
-              raise RuntimeError("Horizons: could not locate X,Y,Z,VX,VY,VZ numeric fields")
+              start = None
+              for i in range(len(floats) - 5):
+                chunk = floats[i:i+6]
+                if all(v is not None for v in chunk):
+                  start = i
+                  break
+              if start is None:
+                raise RuntimeError("Horizons: could not locate X,Y,Z,VX,VY,VZ numeric fields")
 
-            x, y, z, vx, vy, vz = floats[start:start+6]
+              x, y, z, vx, vy, vz = floats[start:start+6]
+              return x, y, z, vx, vy, vz
 
-            dist_km = math.sqrt(x*x + y*y + z*z)
-            speed_kms = math.sqrt(vx*vx + vy*vy + vz*vz)
+            x, y, z, vx, vy, vz = query("500@399")
+            earth_dist_km = math.sqrt(x*x + y*y + z*z)
+            earth_speed_kms = math.sqrt(vx*vx + vy*vy + vz*vz)
 
-            dist_au = dist_km / AU_KM
-            one_way_s = dist_km / C_KM_S
+            earth_dist_au = earth_dist_km / AU_KM
+            one_way_s = earth_dist_km / C_KM_S
             rt_s = one_way_s * 2
 
+            sx, sy, sz, svx, svy, svz = query("500@10")
+            sun_dist_km = math.sqrt(sx*sx + sy*sy + sz*sz)
+            sun_dist_au = sun_dist_km / AU_KM
+
             return {
-              "dist_km": dist_km,
-              "dist_au": dist_au,
-              "speed_kms": speed_kms,
+              "earth_dist_km": earth_dist_km,
+              "earth_dist_au": earth_dist_au,
+              "earth_speed_kms": earth_speed_kms,
               "one_way_s": one_way_s,
               "rt_s": rt_s,
+              "sun_dist_au": sun_dist_au,
             }
 
           def fmt_s_to_hms(sec: float) -> str:
@@ -201,6 +229,10 @@ jobs:
           dsn_ts, dsn_links = parse_dsn(dsn_xml)
           dsn_ts_s = dsn_ts.strftime("%Y-%m-%d %H:%M:%SZ") if dsn_ts else "UNKNOWN"
 
+          state = load_state()
+          state.setdefault("earth_dist_km", {})
+          state.setdefault("updated_utc", None)
+
           out = []
           out.append("VOYAGER TELEMETRY — CLI FEED (NASA/JPL)")
           out.append("------------------------------------------------------------")
@@ -211,7 +243,7 @@ jobs:
             nav = None
             nav_err = None
             try:
-              nav = horizons_vectors(spkid)
+              nav = horizons_nav(spkid)
             except Exception as e:
               nav_err = str(e)
 
@@ -252,11 +284,34 @@ jobs:
               out.append("Signal (power/freq)      : -")
 
             if nav:
+              prev = state["earth_dist_km"].get(name)
+              state["earth_dist_km"][name] = nav["earth_dist_km"]
+
+              if isinstance(prev, (int, float)):
+                delta_line = fmt_delta_km(nav["earth_dist_km"] - float(prev))
+              else:
+                delta_line = None
+
+              launch = datetime(1977, 9, 5, tzinfo=timezone.utc) if name == "VOYAGER 1" else datetime(1977, 8, 20, tzinfo=timezone.utc)
+              age_days = (datetime.now(timezone.utc) - launch).days
+              age_years = age_days // 365
+              age_rem = age_days % 365
+
               out.append("------------------------------------------------------------")
-              out.append(f"Earth distance           : {fmt_km(nav['dist_km'])} | {nav['dist_au']:.3f} AU")
-              out.append(f"Relative speed           : {nav['speed_kms']:.3f} km/s")
+              out.append(f"Earth distance           : {fmt_km(nav['earth_dist_km'])} | {nav['earth_dist_au']:.3f} AU")
+              out.append(f"Heliocentric distance    : {nav['sun_dist_au']:.3f} AU")
+              out.append(f"Relative speed           : {nav['earth_speed_kms']:.3f} km/s")
+
+              out.append("------------------------------------------------------------")
               out.append(f"One-way light time       : {fmt_s_to_hms(nav['one_way_s'])}")
               out.append(f"Round-trip latency       : {fmt_s_to_hms(nav['rt_s'])}")
+
+              out.append("------------------------------------------------------------")
+              if delta_line:
+                out.append(f"Δ distance (since last)  : {delta_line}")
+              else:
+                out.append("Δ distance (since last)  : N/A (first report)")
+              out.append(f"Mission age              : {age_years} years, {age_rem} days")
             else:
               out.append("------------------------------------------------------------")
               out.append("NAV (Horizons)           : ERROR")
@@ -264,10 +319,12 @@ jobs:
 
           out.append("------------------------------------------------------------")
           out.append("Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)")
-          
+
           out.append("------------------------------------------------------------")
           out.append(f"Report generated (UTC)   : {now_utc}")
 
+          state["updated_utc"] = now_utc
+          save_state(state)
 
           block = "```text\n" + "\n".join(out).rstrip() + "\n```\n"
 
@@ -289,7 +346,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md .voyager_state.json
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
