@@ -818,7 +818,7 @@ Now playing              : -
 Last played              : -
 ------------------------------------------------------------
 Report generated (UTC)   : -
-```
+
 <!-- SPOTIFYCLI:END -->
 
 
