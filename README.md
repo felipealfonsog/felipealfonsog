@@ -844,9 +844,9 @@ Last activity type        : NO_CONTENT_204
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:26:27
-Telemetry age             : 00:26:27
-Δ time (since last report): 00:03:24
+Time since last play      : 06:42:15
+Telemetry age             : 06:42:15
+Δ time (since last report): 06:15:49
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -866,12 +866,12 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-19 12:22:08Z → 2026-01-26 12:22:08Z
+Week window (UTC)         : 2026-01-19 18:37:57Z → 2026-01-26 18:37:57Z
 Total tracks played       : 47
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-26 12:22:08Z
+Report generated (UTC)    : 2026-01-26 18:37:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
