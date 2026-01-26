@@ -835,42 +835,42 @@ Status                    : PLAYING
 Playback state            : ONLINE (active session)
 SITREP                    : GREEN
 ------------------------------------------------------------
-Now playing               : Nirvana — Pennyroyal Tea - Live
+Now playing               : Nirvana — Polly - Live
 Album                     : MTV Unplugged In New York
-Track position            : 00:00:25
-Time remaining            : 00:03:14
+Track position            : 00:02:01
+Time remaining            : 00:01:14
 ------------------------------------------------------------
-Last played               : Nirvana — The Man Who Sold The World - Live
-Last played (UTC)         : 2026-01-26 11:10:44Z
+Last played               : Nirvana — Dumb - Live
+Last played (UTC)         : 2026-01-26 11:17:18Z
 ------------------------------------------------------------
 Δ now playing (since last): CHANGED
 Δ last played (since last): UPDATED
 Δ status (since last)     : UNCHANGED
 ------------------------------------------------------------
 Time since last play      : N/A (live session)
-Δ time (since last report): 00:09:43
+Δ time (since last report): 00:08:09
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
-Auth scope                : user-read-playback-state user-read-currently-playing user-read-recently-played
+Auth scope                : PLAYBACK_STATE, NOW_PLAYING, RECENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)   : 34
+Tracks played (last 24h)   : 36
 Dominant artist           : Nirvana
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-19 11:11:08Z → 2026-01-26 11:11:08Z
-Total tracks played       : 35
+Week window (UTC)         : 2026-01-19 11:19:17Z → 2026-01-26 11:19:17Z
+Total tracks played       : 37
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-26 11:11:08Z
+Report generated (UTC)    : 2026-01-26 11:19:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
