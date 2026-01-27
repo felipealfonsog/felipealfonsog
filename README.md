@@ -905,11 +905,10 @@ What is shown as playing on Spotify in this repository is powered by two sources
 Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.
 </sub>
 
-<sub>
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](
-https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-latest.yml
-)
-</sub>
+<br>
+
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-latest.yml)
+
 </details>
 
 
