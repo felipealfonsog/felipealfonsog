@@ -835,18 +835,18 @@ Status                    : PLAYING
 Playback state            : ONLINE (active session)
 SITREP                    : GREEN
 ------------------------------------------------------------
-Now playing               : Jaden Berry — The Meadows
-Last played               : Annie Berenson — Railroads
-Last played (UTC)         : 2026-01-27 01:21:43Z
+Now playing               : Billy Hicks Quartet — Morii
+Last played               : Jasmine Patterson — The Molly Pitchers
+Last played (UTC)         : 2026-01-27 01:27:53Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : The Groove Trio — On Delancey → Annie Berenson — Railroads
-Δ last played (since last): 2026-01-27 01:11:52Z → 2026-01-27 01:21:43Z
+Δ track (since last)      : Annie Berenson — Railroads → Jasmine Patterson — The Molly Pitchers
+Δ last played (since last): 2026-01-27 01:21:43Z → 2026-01-27 01:27:53Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:02
-Telemetry age             : 00:01:02
-Δ time (since last report): 00:09:42
+Time since last play      : 00:03:04
+Telemetry age             : 00:03:04
+Δ time (since last report): 00:08:12
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -864,7 +864,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 01:22:45Z → 2026-01-27 01:22:45Z
+Week window (UTC)         : 2026-01-20 01:30:56Z → 2026-01-27 01:30:56Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -874,8 +874,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 08:00
-Heatmap (24h)             : ▂▁   ▂▂▆█            ▁▃▃
-Heatmap (7d)              : ▂▁   ▂▂▆█            ▁▃▃
+Heatmap (24h)             : ▂▁   ▂▂▆█            ▁▄▂
+Heatmap (7d)              : ▂▁   ▂▂▆█            ▁▄▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -884,7 +884,13 @@ Sessions (24h)            : 7
 Sessions (7d)             : 7
 Avg inter-play gap (7d)   : 00:27:41
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 01:22:45Z
+GENRE INTEL (inferred)
+------------------------------------------------------------
+Top genres (24h)          : grunge(31) | rock(31) | jazz(8) | latin rock(8) | alternative metal(3) | alternative rock(3)
+Top genres (7d)           : grunge(31) | rock(31) | jazz(8) | latin rock(8) | alternative metal(3) | alternative rock(3)
+Artist lookups (this run) : 11 (cached)
+------------------------------------------------------------
+Report generated (UTC)    : 2026-01-27 01:30:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

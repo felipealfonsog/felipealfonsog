@@ -1,7 +1,46 @@
 {
-  "report_generated_utc": "2026-01-27 01:22:45Z",
+  "report_generated_utc": "2026-01-27 01:30:56Z",
   "status": "PLAYING",
-  "last_track": "Annie Berenson — Railroads",
-  "last_played_utc": "2026-01-27 01:21:43Z",
-  "sitrep": "GREEN"
+  "last_track": "Jasmine Patterson — The Molly Pitchers",
+  "last_played_utc": "2026-01-27 01:27:53Z",
+  "sitrep": "GREEN",
+  "artist_genre_cache": {
+    "2MvVPVskst6WSd1JWA5311": [
+      "jazz"
+    ],
+    "1PjLk33ZP5fgTFpbgN5kJL": [
+      "jazz"
+    ],
+    "1R3a9JWK2lSTjSr2Dw9Qay": [
+      "jazz"
+    ],
+    "7LMuoHwZv9P0PPSO1DWaLZ": [
+      "jazz"
+    ],
+    "5RktRZOHbkKduKINbyTHNC": [
+      "jazz"
+    ],
+    "4vmN5DgVFk2GDBHDu1ZJeb": [
+      "jazz"
+    ],
+    "4v25mHy55qBXJ4WZg3O7UV": [
+      "jazz"
+    ],
+    "2RfscHz3ooemLWvQslMeqm": [
+      "jazz"
+    ],
+    "6olE6TJLqED3rqDCT0FyPh": [
+      "grunge",
+      "rock"
+    ],
+    "1V9tvIpFfMl1cFJjxJKAre": [
+      "latin rock"
+    ],
+    "3YcBF2ttyueytpXtEzn1Za": [
+      "nu metal",
+      "funk rock",
+      "alternative metal",
+      "alternative rock"
+    ]
+  }
 }
