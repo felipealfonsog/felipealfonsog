@@ -852,13 +852,13 @@ Last played               : Weichafe — Z
 Last played (UTC)         : 2026-01-27 07:31:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Graywave — Dark Spell → Weichafe — Z
-Δ last played (since last): 2026-01-27 03:49:14Z → 2026-01-27 07:31:37Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:05:46
-Telemetry age             : 02:05:46
-Δ time (since last report): 02:59:43
+Time since last play      : 05:07:18
+Telemetry age             : 05:07:18
+Δ time (since last report): 03:01:32
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -870,14 +870,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
-Dominant artist           : Nirvana
+Tracks played (last 24h)  : 32
+Dominant artist           : Weichafe
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 09:37:23Z → 2026-01-27 09:37:23Z
+Week window (UTC)         : 2026-01-20 12:38:54Z → 2026-01-27 12:38:54Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -887,23 +887,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :     ▁  ▁▇             █▅
+Heatmap (24h)             :     ▁                 █▅
 Heatmap (7d)              :     ▁  ▁▇             █▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 4
 Sessions (7d)             : 5
 Avg inter-play gap (7d)   : 00:25:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(25) | grunge(19) | rock(19) | latin rock(3) | bossa nova(1) | shoegaze(1)
+Top genres (24h)          : jazz(25) | latin rock(3) | bossa nova(1) | grunge(1) | rock(1) | shoegaze(1)
 Top genres (7d)           : jazz(25) | grunge(19) | rock(19) | latin rock(3) | bossa nova(1) | shoegaze(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 09:37:23Z
+Report generated (UTC)    : 2026-01-27 12:38:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
