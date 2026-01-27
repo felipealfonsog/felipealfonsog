@@ -831,31 +831,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Status                    : PLAYING
 Playback state            : ONLINE (active session)
+Status                    : PLAYING
 SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Volume                    : N/A
+Device type               : Computer
+Volume                    : 97%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Marcio Philomena — Oak Street
-Last played               : Irvin Smith Group — Moody Promenade
-Last played (UTC)         : 2026-01-27 02:12:32Z
+Now playing               : Tore Lundblad — A Lucky Break
+Last played               : Southside Trio — Blue Eyes Crying In The Rain
+Last played (UTC)         : 2026-01-27 02:27:29Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Jasmine Patterson — The Molly Pitchers → Irvin Smith Group — Moody Promenade
-Δ last played (since last): 2026-01-27 01:27:53Z → 2026-01-27 02:12:32Z
+Δ track (since last)      : Irvin Smith Group — Moody Promenade → Southside Trio — Blue Eyes Crying In The Rain
+Δ last played (since last): 2026-01-27 02:12:32Z → 2026-01-27 02:27:29Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:17
-Telemetry age             : 00:03:17
-Δ time (since last report): 00:44:53
+Time since last play      : 00:02:35
+Telemetry age             : 00:02:35
+Δ time (since last report): 00:14:15
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -869,7 +872,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 02:15:49Z → 2026-01-27 02:15:49Z
+Week window (UTC)         : 2026-01-20 02:30:03Z → 2026-01-27 02:30:03Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -879,23 +882,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :        ▅▇             █▂
-Heatmap (7d)              :        ▅▇             █▂
+Heatmap (24h)             :        ▄▇             █▄
+Heatmap (7d)              :        ▄▇             █▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:20:19
+Sessions (24h)            : 2
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 00:19:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(27) | rock(27) | jazz(20) | latin rock(2)
-Top genres (7d)           : grunge(27) | rock(27) | jazz(20) | latin rock(2)
-Artist lookups (this run) : 12 (cached)
+Top genres (24h)          : grunge(24) | rock(24) | jazz(23) | bossa nova(1) | latin rock(1)
+Top genres (7d)           : grunge(24) | rock(24) | jazz(23) | bossa nova(1) | latin rock(1)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 02:15:49Z
+Report generated (UTC)    : 2026-01-27 02:30:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
