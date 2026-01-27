@@ -844,22 +844,22 @@ PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 97%
+Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Andy Goodman — Nimble
+Now playing               : Graywave — Dark Spell
 Last played               : The Levon Trio — Once Knowing
 Last played (UTC)         : 2026-01-27 02:33:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Southside Trio — Blue Eyes Crying In The Rain → The Levon Trio — Once Knowing
-Δ last played (since last): 2026-01-27 02:27:29Z → 2026-01-27 02:33:46Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:32
-Telemetry age             : 00:02:32
-Δ time (since last report): 00:06:15
+Time since last play      : 00:54:03
+Telemetry age             : 00:54:03
+Δ time (since last report): 00:51:31
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -878,7 +878,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 02:36:18Z → 2026-01-27 02:36:18Z
+Week window (UTC)         : 2026-01-20 03:27:48Z → 2026-01-27 03:27:48Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -902,9 +902,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
 Top genres (7d)           : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 02:36:18Z
+Report generated (UTC)    : 2026-01-27 03:27:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
