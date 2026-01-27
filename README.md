@@ -906,7 +906,9 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 </sub>
 
 <sub>
-[▶️ Run Spotify Telemetry Update](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-latest.yml)
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](
+https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-latest.yml
+)
 </sub>
 </details>
 
