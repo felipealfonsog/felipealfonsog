@@ -19,7 +19,7 @@ from zoneinfo import ZoneInfo
 # ---- Master blocks (README output sections) ----
 SHOW_HEADER_META          = True
 SHOW_STATUS_BLOCK         = True
-SHOW_DEVICE_BLOCK         = True     # NEW: device type/name/volume (real from Spotify)
+SHOW_DEVICE_BLOCK         = True
 SHOW_TRACK_BLOCK          = True
 SHOW_DELTAS_BLOCK         = True
 SHOW_TIME_BLOCK           = True
@@ -28,29 +28,32 @@ SHOW_INTEGRITY_BLOCK      = True
 SHOW_DAILY_SITREP         = True
 SHOW_WEEKLY_SUMMARY       = True
 
-# ---- Extra telemetry (derived from recently-played) ----
-SHOW_GENRE_INTEL          = True     # inferred via artist profiles (extra API calls, cached)
-SHOW_HOURLY_HEATMAP       = True     # listening hours histogram (local time)
-SHOW_SESSION_ESTIMATES    = True     # inferred sessions from gaps between plays
+# ---- Device privacy / details ----
+SHOW_DEVICE_NAME          = False   # <-- your requested toggle (type stays ON)
 
-# ---- Device sub-toggles ----
-SHOW_DEVICE_NAME          = False    # toggle requested: show/hide Spotify device.name
-SHOW_DEVICE_VOLUME_BAR    = True     # show ▁▂▃▄▅▆▇█ + percent
+# ---- Extra telemetry (derived from recently-played) ----
+SHOW_GENRE_INTEL          = True    # inferred via artist profiles (needs extra API calls, cached)
+SHOW_HOURLY_HEATMAP       = True    # listening hours histogram (local time)
+SHOW_SESSION_ESTIMATES    = True    # inferred sessions from gaps between plays
 
 # ---- Formatting sub-toggles ----
 SCOPE_MODE                = "COMPACT"   # "WRAP" | "COMPACT" | "OFF"
-WRAP_WIDTH                = 34
-LOCAL_TIMEZONE            = "America/Santiago"
+WRAP_WIDTH                = 34          # for WRAP mode (if used)
+LOCAL_TIMEZONE            = "America/Santiago"  # hour histogram display (telemetry only)
 
 # ---- Behavior toggles ----
-FAIL_SAFE_DO_NOT_BREAK_README = True
-WRITE_STATE_FILE              = True
-OBS_WINDOW_SECONDS            = 30 * 60
+FAIL_SAFE_DO_NOT_BREAK_README = True   # if Spotify fails, keep README as-is and exit 0
+WRITE_STATE_FILE              = True   # store last report for deltas
+OBS_WINDOW_SECONDS            = 30 * 60 # observation window label (telemetry narrative)
 
 # ---- Heuristics / safety caps ----
-SESSION_GAP_MINUTES       = 25
-MAX_RECENT_ITEMS          = 50
-MAX_ARTIST_LOOKUPS        = 80
+SESSION_GAP_MINUTES       = 25     # gap threshold => new "session" (inferred)
+MAX_RECENT_ITEMS          = 50     # keep 50 (Spotify limit with your call)
+MAX_ARTIST_LOOKUPS        = 80     # safety cap per run (cache reduces this a lot)
+
+# ---- Volume formatting ----
+SHOW_VOLUME_BAR           = True
+VOLUME_BAR_WIDTH          = 12     # how many blocks to draw (visual density)
 
 # =============================================================================
 # Config / files
@@ -62,14 +65,15 @@ REFRESH_TOKEN = os.environ.get("SPOTIFY_REFRESH_TOKEN", "").strip()
 
 AUTH_URL      = "https://accounts.spotify.com/api/token"
 CURRENT_URL   = "https://api.spotify.com/v1/me/player/currently-playing"
+PLAYER_URL    = "https://api.spotify.com/v1/me/player"
 RECENT_URL    = "https://api.spotify.com/v1/me/player/recently-played?limit=50"
 
 README_PATH   = "README.md"
 MARKER_START  = "<!-- SPOTIFY_TEL:START -->"
 MARKER_END    = "<!-- SPOTIFY_TEL:END -->"
 
-STATE_DIR        = ".github/state"
-STATE_FILE       = os.path.join(STATE_DIR, "spotify_last_report.json")
+STATE_DIR     = ".github/state"
+STATE_FILE    = os.path.join(STATE_DIR, "spotify_last_report.json")
 ARTIST_CACHE_KEY = "artist_genre_cache"
 
 # =============================================================================
@@ -147,10 +151,10 @@ def spotify_access_token():
 
     return token, scope
 
-def fetch_currently_playing(token: str):
-    req = urllib.request.Request(CURRENT_URL, headers={"Authorization": f"Bearer {token}"})
+def fetch_json_endpoint(url: str, token: str, timeout: int = 15):
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}"})
     try:
-        with urllib.request.urlopen(req, timeout=15) as r:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
             if r.status == 204:
                 return {"http": 204, "data": None}
             raw = r.read().decode("utf-8", "replace").strip()
@@ -167,6 +171,13 @@ def fetch_currently_playing(token: str):
         return {"http": e.code, "data": raw or None}
     except Exception as e:
         return {"http": -1, "data": str(e)}
+
+def fetch_currently_playing(token: str):
+    return fetch_json_endpoint(CURRENT_URL, token, timeout=15)
+
+def fetch_player_state(token: str):
+    # This is the key fix: device + volume live here.
+    return fetch_json_endpoint(PLAYER_URL, token, timeout=15)
 
 def fetch_recently_played(token: str, limit: int = 50):
     url = "https://api.spotify.com/v1/me/player/recently-played?limit=" + str(limit)
@@ -245,7 +256,7 @@ def fmt_scope_lines(scope_str: str):
     if SCOPE_MODE == "COMPACT":
         return [" | ".join(tokens)]
 
-    # WRAP
+    # WRAP: clean telemetry wrap
     lines = []
     cur = ""
     for t in tokens:
@@ -327,13 +338,24 @@ def infer_sessions(dts):
     avg_gap = (sum(gaps)/len(gaps)) if gaps else None
     return sessions, avg_gap
 
-def volume_bar(percent: int | None):
-    if percent is None or percent < 0:
-        return "N/A"
+def volume_bar(percent: int | None) -> str:
+    if percent is None:
+        return "-"
     p = clamp(int(percent), 0, 100)
+    # map to spark blocks; denser than heatmap
     chars = " ▁▂▃▄▅▆▇█"
-    idx = int(round((p / 100) * (len(chars)-1)))
-    return chars[clamp(idx, 0, len(chars)-1)]
+    filled_steps = int(round((p / 100) * VOLUME_BAR_WIDTH))
+    if filled_steps <= 0:
+        return chars[1] * VOLUME_BAR_WIDTH
+    # build by ramping levels (visual “signal” look)
+    out = []
+    for i in range(VOLUME_BAR_WIDTH):
+        if i < filled_steps:
+            level = int(round(((i + 1) / VOLUME_BAR_WIDTH) * (len(chars)-1)))
+            out.append(chars[clamp(level, 1, len(chars)-1)])
+        else:
+            out.append(" ")
+    return "".join(out).rstrip() or "-"
 
 # =============================================================================
 # Main telemetry build
@@ -355,7 +377,31 @@ def build_report():
     # acquire token
     token, scope = spotify_access_token()
 
-    # current playback
+    # 1) PLAYER STATE (device + volume + active session truth)
+    player = fetch_player_state(token)
+    player_http = player.get("http", -1)
+    player_data = player.get("data") if isinstance(player.get("data"), dict) else None
+
+    # This is the authoritative "session exists" check
+    has_active_session = (player_http == 200 and player_data is not None and isinstance(player_data.get("device"), dict))
+
+    device_type = "N/A"
+    device_name = "N/A"
+    volume_percent = None
+
+    volume_telemetry = "NO ACTIVE SESSION"
+    if has_active_session:
+        dev = player_data.get("device") or {}
+        device_type = dev.get("type") or "N/A"
+        device_name = dev.get("name") or "N/A"
+        volume_percent = dev.get("volume_percent", None)
+
+        if volume_percent is None:
+            volume_telemetry = "NOT EXPOSED BY DEVICE"
+        else:
+            volume_telemetry = "OK"
+
+    # 2) CURRENTLY PLAYING (track truth)
     cur = fetch_currently_playing(token)
     api_http = cur.get("http", -1)
     api_ok_current = (api_http in (200, 204))
@@ -365,56 +411,30 @@ def build_report():
     last_activity_type = "UNKNOWN"
     now_track_name = "N/A"
 
-    # Device telemetry (real)
-    dev_type = "N/A"
-    dev_name = "N/A"
-    dev_volume = None
-    dev_private = None
-    dev_restricted = None
-
-    if api_http == 200 and isinstance(cur.get("data"), dict):
-        d = cur["data"]
-        is_playing = d.get("is_playing")
+    if has_active_session:
+        # if player exists, we can trust playback_state from it
+        is_playing = bool(player_data.get("is_playing"))
         status = "PLAYING" if is_playing else "IDLE"
         playback_state = "ONLINE (active session)" if is_playing else "OFFLINE (no active session)"
         last_activity_type = "PLAYBACK_ACTIVE" if is_playing else "PLAYBACK_INACTIVE"
+    else:
+        # no session
+        status = "IDLE"
+        playback_state = "OFFLINE (no active session)"
+        last_activity_type = "NO_ACTIVE_SESSION"
 
+    # Now playing track name
+    if api_http == 200 and isinstance(cur.get("data"), dict):
+        d = cur["data"]
+        is_playing = bool(d.get("is_playing"))
         item = d.get("item") or {}
         now_track_obj = parse_track_item(item)
         if is_playing and now_track_obj:
             now_track_name = f"{now_track_obj['artist']} — {now_track_obj['title']}"
-
-        # Device block
-        device = d.get("device") or {}
-        dev_type = (device.get("type") or "N/A").strip() or "N/A"
-        dev_name = (device.get("name") or "N/A").strip() or "N/A"
-        dev_volume = device.get("volume_percent")
-        if isinstance(dev_volume, str):
-            try:
-                dev_volume = int(dev_volume)
-            except Exception:
-                dev_volume = None
-        if isinstance(dev_volume, (int, float)):
-            dev_volume = clamp(int(dev_volume), 0, 100)
         else:
-            dev_volume = None
+            now_track_name = "N/A"
 
-        dev_private = device.get("is_private_session")
-        dev_restricted = device.get("is_restricted")
-
-    elif api_http == 204:
-        status = "IDLE"
-        playback_state = "OFFLINE (no active session)"
-        last_activity_type = "NO_CONTENT_204"
-        now_track_name = "N/A"
-        # Device fields are not available on 204 (no active playback object)
-    else:
-        status = "UNKNOWN"
-        playback_state = "UNKNOWN"
-        last_activity_type = "API_ERROR"
-        now_track_name = "N/A"
-
-    # recently played (for last known track + derived telemetry)
+    # recently played
     recent_code, recent_payload = fetch_recently_played(token, limit=MAX_RECENT_ITEMS)
     recent_ok = (recent_code == 200 and isinstance(recent_payload, dict))
 
@@ -445,7 +465,7 @@ def build_report():
             time_since_last_play = fmt_hms(delta)
             telemetry_age = fmt_hms(delta)
 
-    # deltas since last report
+    # deltas
     def delta_str(prev_val, new_val, first_label="N/A (first report)"):
         if not prev_val:
             return first_label
@@ -463,7 +483,7 @@ def build_report():
         if pdt:
             d_time = fmt_hms((now - pdt).total_seconds())
 
-    # Derived telemetry from recent payload
+    # Derived telemetry
     tz = local_tz()
     cutoff_24h = now - timedelta(hours=24)
     cutoff_7d  = now - timedelta(days=7)
@@ -490,7 +510,6 @@ def build_report():
 
     if recent_ok:
         items = recent_payload.get("items") or []
-
         cnt24 = 0
         cnt7  = 0
         artist_counts_24h = {}
@@ -577,11 +596,11 @@ def build_report():
         sessions_7d, avg_gap = infer_sessions(played_times_7d)
         avg_session_gap_7d = fmt_hms(avg_gap) if avg_gap is not None else "N/A"
 
-    # API status aggregation
-    api_ok = api_ok_current and recent_ok
+    # API OK = player ok + current ok + recent ok
+    api_ok = (player_http in (200, 204)) and api_ok_current and recent_ok
     sitrep = classify_sitrep(status, playback_state, api_ok)
 
-    # API response class string
+    # API response class (focus on CURRENT endpoint, since that’s what most people expect)
     if api_http == 200:
         api_class = "200 OK"
     elif api_http == 204:
@@ -591,9 +610,23 @@ def build_report():
     else:
         api_class = f"{api_http} ERROR"
 
-    # Integrity
     integrity = "OK" if (api_ok and last_track_name != "-") else "DEGRADED"
     confidence = "HIGH" if integrity == "OK" else "MEDIUM"
+
+    # Volume output
+    if not has_active_session or status != "PLAYING":
+        vol_str = "N/A"
+        vol_bar = "-"
+        vol_tel = "NO ACTIVE SESSION"
+    else:
+        if volume_percent is None:
+            vol_str = "N/A"
+            vol_bar = "-"
+            vol_tel = "NOT EXPOSED BY DEVICE"
+        else:
+            vol_str = f"{int(volume_percent)}%"
+            vol_bar = volume_bar(int(volume_percent)) if SHOW_VOLUME_BAR else "-"
+            vol_tel = "OK"
 
     # Build output
     out = []
@@ -608,26 +641,23 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_STATUS_BLOCK:
-        out.append(f"Status                    : {status}")
+        # Your requested exact OFFLINE/IDLE when no session:
         out.append(f"Playback state            : {playback_state}")
+        out.append(f"Status                    : {status}")
         out.append(f"SITREP                    : {sitrep}")
         out.append("------------------------------------------------------------")
 
     if SHOW_DEVICE_BLOCK:
         out.append("PLAYBACK DEVICE (Spotify)")
         out.append("------------------------------------------------------------")
-        out.append(f"Device type               : {dev_type}")
+        out.append(f"Device type               : {device_type or 'N/A'}")
         if SHOW_DEVICE_NAME:
-            out.append(f"Device name               : {dev_name}")
-        if SHOW_DEVICE_VOLUME_BAR:
-            if dev_volume is None:
-                out.append(f"Volume                    : N/A")
-            else:
-                out.append(f"Volume                    : {dev_volume:3d}%  {volume_bar(dev_volume)}")
-        if dev_private is not None:
-            out.append(f"Private session           : {str(bool(dev_private)).upper()}")
-        if dev_restricted is not None:
-            out.append(f"Restricted device         : {str(bool(dev_restricted)).upper()}")
+            out.append(f"Device name               : {device_name or 'N/A'}")
+
+        out.append(f"Volume                    : {vol_str}")
+        out.append(f"Volume telemetry          : {vol_tel}")
+        if SHOW_VOLUME_BAR and vol_bar and vol_bar != "-":
+            out.append(f"Volume bar                : {vol_bar}")
         out.append("------------------------------------------------------------")
 
     if SHOW_TRACK_BLOCK:
@@ -661,6 +691,16 @@ def build_report():
                 out.append(f"Authorization scope       : {scope_lines[0]}")
                 for ln in scope_lines[1:]:
                     out.append(f"                           {ln}")
+
+        # Helpful to debug why volume/device may be N/A
+        if player_http == 200:
+            out.append(f"Player endpoint           : 200 OK")
+        elif player_http == 204:
+            out.append(f"Player endpoint           : 204 NO CONTENT")
+        elif player_http == -1:
+            out.append(f"Player endpoint           : NETWORK/EXCEPTION")
+        else:
+            out.append(f"Player endpoint           : {player_http} ERROR")
 
         out.append("------------------------------------------------------------")
 
@@ -718,7 +758,6 @@ def build_report():
 
     out.append(f"Report generated (UTC)    : {now_s}")
 
-    # state update (preserve caches)
     if WRITE_STATE_FILE:
         mutable_state.update({
             "report_generated_utc": now_s,
