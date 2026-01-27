@@ -831,24 +831,24 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Status                    : IDLE
-Playback state            : OFFLINE (no active session)
-SITREP                    : AMBER
+Status                    : PLAYING
+Playback state            : ONLINE (active session)
+SITREP                    : GREEN
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Nirvana — Come As You Are - Live
-Last played (UTC)         : 2026-01-26 11:55:42Z
-Last activity type        : NO_CONTENT_204
+Now playing               : Reuben Plays — Low In The Sky
+Last played               : The Groove Trio — On Delancey
+Last played (UTC)         : 2026-01-27 01:11:52Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Nirvana — Come As You Are - Live → The Groove Trio — On Delancey
+Δ last played (since last): 2026-01-26 11:55:42Z → 2026-01-27 01:11:52Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 12:51:19
-Telemetry age             : 12:51:19
-Δ time (since last report): 03:12:28
+Time since last play      : 00:01:11
+Telemetry age             : 00:01:11
+Δ time (since last report): 00:26:02
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE
                            NOW_PLAYING
@@ -859,19 +859,19 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 46
+Tracks played (last 24h)  : 50
 Dominant artist           : Nirvana
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 00:47:01Z → 2026-01-27 00:47:01Z
-Total tracks played       : 47
+Week window (UTC)         : 2026-01-20 01:13:03Z → 2026-01-27 01:13:03Z
+Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 00:47:01Z
+Report generated (UTC)    : 2026-01-27 01:13:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
