@@ -27,10 +27,12 @@ SHOW_INTEGRITY_BLOCK      = True
 SHOW_DAILY_SITREP         = True
 SHOW_WEEKLY_SUMMARY       = True
 
-# ---- Extra telemetry (derived from recently-played) ----
-SHOW_GENRE_INTEL          = True   # inferred via artist profiles (needs extra API calls, cached)
-SHOW_HOURLY_HEATMAP       = True    # listening hours histogram (local time)
-SHOW_SESSION_ESTIMATES    = True    # inferred sessions from gaps between plays
+# ---- Extra telemetry (derived / enriched) ----
+SHOW_PLAYBACK_METRICS     = True   # device, volume, shuffle/repeat, progress meter (from currently-playing)
+SHOW_AUDIO_FEATURES        = True   # tempo/energy/valence/danceability (from audio-features endpoint; cached)
+SHOW_GENRE_INTEL           = True   # inferred via artist profiles (needs extra API calls, cached)
+SHOW_HOURLY_HEATMAP        = True   # listening hours histogram (local time)
+SHOW_SESSION_ESTIMATES     = True   # inferred sessions from gaps between plays
 
 # ---- Formatting sub-toggles ----
 SCOPE_MODE                = "COMPACT"   # "WRAP" | "COMPACT" | "OFF"
@@ -39,13 +41,14 @@ LOCAL_TIMEZONE            = "America/Santiago"  # hour histogram display (teleme
 
 # ---- Behavior toggles ----
 FAIL_SAFE_DO_NOT_BREAK_README = True   # if Spotify fails, keep README as-is and exit 0
-WRITE_STATE_FILE              = True   # store last report for deltas
+WRITE_STATE_FILE              = True   # store last report for deltas + caches
 OBS_WINDOW_SECONDS            = 30 * 60 # observation window label (telemetry narrative)
 
 # ---- Heuristics / safety caps ----
 SESSION_GAP_MINUTES       = 25     # gap threshold => new "session" (inferred)
-MAX_RECENT_ITEMS          = 50     # keep 50 (Spotify limit with your call)
-MAX_ARTIST_LOOKUPS        = 80     # safety cap per run (cache reduces this a lot)
+MAX_RECENT_ITEMS          = 50     # 50 is max for your call
+MAX_ARTIST_LOOKUPS        = 120    # raised a bit; cache keeps it sane
+MAX_AUDIO_FEATURE_LOOKUPS = 40     # cap per run (cache reduces this)
 
 # =============================================================================
 # Config / files
@@ -65,7 +68,9 @@ MARKER_END    = "<!-- SPOTIFY_TEL:END -->"
 
 STATE_DIR     = ".github/state"
 STATE_FILE    = os.path.join(STATE_DIR, "spotify_last_report.json")
-ARTIST_CACHE_KEY = "artist_genre_cache"
+
+ARTIST_CACHE_KEY        = "artist_genre_cache"
+AUDIO_FEATURES_CACHE_KEY = "audio_features_cache"
 
 # =============================================================================
 # Helpers
@@ -178,12 +183,16 @@ def parse_track_item(track_obj: dict):
     ext = (track_obj.get("external_urls") or {}).get("spotify") or ""
     album = track_obj.get("album") or {}
     album_name = album.get("name") or ""
+    track_id = track_obj.get("id") or ""
+    duration_ms = track_obj.get("duration_ms")
     return {
         "artist": artist,
         "title": title,
         "album": album_name,
         "uri": uri,
         "url": ext,
+        "track_id": track_id,
+        "duration_ms": duration_ms if isinstance(duration_ms, int) else None,
         "artist_ids": [a.get("id") for a in artists if a.get("id")],
     }
 
@@ -240,7 +249,6 @@ def fmt_scope_lines(scope_str: str):
     if SCOPE_MODE == "COMPACT":
         return [" | ".join(tokens)]
 
-    # WRAP: one token per line (clean telemetry list)
     lines = []
     cur = ""
     for t in tokens:
@@ -254,6 +262,37 @@ def fmt_scope_lines(scope_str: str):
     if cur:
         lines.append(cur)
     return lines
+
+# ---- “Pretty meters” (real values rendered nicely) ----
+
+def spark_level(pct: int | None) -> str:
+    if pct is None:
+        return "N/A"
+    pct = clamp(int(pct), 0, 100)
+    chars = " ▁▂▃▄▅▆▇█"
+    idx = int(round((pct / 100) * (len(chars) - 1)))
+    return chars[clamp(idx, 0, len(chars) - 1)]
+
+def bar_meter(pct: int | None, width: int = 14) -> str:
+    if pct is None:
+        return "N/A"
+    pct = clamp(int(pct), 0, 100)
+    filled = int(round((pct / 100) * width))
+    filled = clamp(filled, 0, width)
+    return "█" * filled + "░" * (width - filled)
+
+def progress_meter(progress_ms: int | None, duration_ms: int | None, width: int = 18):
+    if not progress_ms or not duration_ms or duration_ms <= 0:
+        return "N/A", "N/A", "N/A"
+    pct = int(round((progress_ms / duration_ms) * 100))
+    pct = clamp(pct, 0, 100)
+    return (
+        f"{fmt_hms(progress_ms / 1000)} / {fmt_hms(duration_ms / 1000)}",
+        f"{pct:3d}%",
+        bar_meter(pct, width)
+    )
+
+# ---- Genre inference helpers ----
 
 def fetch_artist(token: str, artist_id: str):
     url = f"https://api.spotify.com/v1/artists/{artist_id}"
@@ -278,12 +317,26 @@ def get_artist_genres(token: str, artist_id: str, state: dict, lookups_counter: 
     state[ARTIST_CACHE_KEY] = cache
     return genres
 
+def normalize_genre(g: str) -> str:
+    g = (g or "").strip()
+    if not g:
+        return ""
+    g = " ".join(g.split())
+    return g.lower()
+
+def title_genre(g: str) -> str:
+    if not g:
+        return g
+    # Keep "k-pop", "hip hop", etc readable
+    parts = g.split(" ")
+    return " ".join([p.upper() if p in ("idm", "edm") else p.capitalize() for p in parts])
+
 def topk(lst, k=6):
     if not lst:
         return []
     counts = {}
     for x in lst:
-        x = (x or "").strip().lower()
+        x = normalize_genre(x)
         if not x:
             continue
         counts[x] = counts.get(x, 0) + 1
@@ -322,6 +375,46 @@ def infer_sessions(dts):
     avg_gap = (sum(gaps)/len(gaps)) if gaps else None
     return sessions, avg_gap
 
+# ---- Audio Features (real) ----
+
+def fetch_audio_features(token: str, track_id: str):
+    url = f"https://api.spotify.com/v1/audio-features/{track_id}"
+    code, _, payload = http_json(url, headers={"Authorization": f"Bearer {token}"}, timeout=20)
+    return code, payload
+
+def get_audio_features(token: str, track_id: str, state: dict, lookups_counter: dict):
+    if not track_id:
+        return None
+
+    cache = state.get(AUDIO_FEATURES_CACHE_KEY) or {}
+    if track_id in cache:
+        return cache.get(track_id)
+
+    lookups_counter["n"] += 1
+    if lookups_counter["n"] > MAX_AUDIO_FEATURE_LOOKUPS:
+        return None
+
+    code, payload = fetch_audio_features(token, track_id)
+    if code != 200 or not isinstance(payload, dict):
+        return None
+
+    cache[track_id] = payload
+    state[AUDIO_FEATURES_CACHE_KEY] = cache
+    return payload
+
+def fmt_float01(x):
+    if x is None or not isinstance(x, (int, float)):
+        return "N/A"
+    x = clamp(float(x), 0.0, 1.0)
+    pct = int(round(x * 100))
+    return f"{pct:3d}% {bar_meter(pct, 12)}"
+
+def fmt_bpm(x):
+    if x is None or not isinstance(x, (int, float)):
+        return "N/A"
+    bpm = int(round(float(x)))
+    return f"{bpm} BPM"
+
 # =============================================================================
 # Main telemetry build
 # =============================================================================
@@ -332,7 +425,7 @@ def build_report():
 
     # state for deltas + caches
     prev = load_state() if WRITE_STATE_FILE else {}
-    mutable_state = dict(prev)  # we will preserve caches + update report fields
+    mutable_state = dict(prev)  # preserve caches + update report fields
 
     prev_track = prev.get("last_track", "")
     prev_last_played = prev.get("last_played_utc", "")
@@ -352,6 +445,18 @@ def build_report():
     last_activity_type = "UNKNOWN"
     now_track_name = "N/A"  # telemetry-only
 
+    # Playback metrics (real, if available)
+    device_name = "N/A"
+    device_type = "N/A"
+    device_volume = None  # int 0-100
+    is_private_session = None
+    shuffle_state = None
+    repeat_state = None
+    progress_ms = None
+    duration_ms = None
+
+    now_track_obj = None
+
     if api_http == 200 and isinstance(cur.get("data"), dict):
         d = cur["data"]
         is_playing = d.get("is_playing")
@@ -361,10 +466,25 @@ def build_report():
 
         item = d.get("item") or {}
         now_track_obj = parse_track_item(item)
+
         if is_playing and now_track_obj:
             now_track_name = f"{now_track_obj['artist']} — {now_track_obj['title']}"
         else:
             now_track_name = "N/A"
+
+        dev = d.get("device") or {}
+        device_name = dev.get("name") or "N/A"
+        device_type = dev.get("type") or "N/A"
+        dv = dev.get("volume_percent")
+        device_volume = int(dv) if isinstance(dv, int) else None
+
+        is_private_session = d.get("is_private_session")
+        shuffle_state = d.get("shuffle_state")
+        repeat_state = d.get("repeat_state")
+
+        pm = d.get("progress_ms")
+        progress_ms = int(pm) if isinstance(pm, int) else None
+        duration_ms = now_track_obj.get("duration_ms") if now_track_obj else None
 
     elif api_http == 204:
         status = "IDLE"
@@ -434,6 +554,8 @@ def build_report():
     genre_24h = []
     genre_7d  = []
     artist_lookup_counter = {"n": 0}
+    genre_artist_ids_seen_24h = set()
+    genre_artist_ids_seen_7d  = set()
 
     hour_hist_24h = [0] * 24
     hour_hist_7d  = [0] * 24
@@ -454,7 +576,6 @@ def build_report():
     if recent_ok:
         items = recent_payload.get("items") or []
 
-        # For daily / weekly counts (best-effort)
         cnt24 = 0
         cnt7  = 0
         artist_counts_24h = {}
@@ -488,18 +609,23 @@ def build_report():
             if dtp >= cutoff_7d and a0:
                 artist_counts_7d[a0] = artist_counts_7d.get(a0, 0) + 1
 
-            # Genre inference (optional)
             if SHOW_GENRE_INTEL:
                 parsed = parse_track_item(tr)
                 if parsed:
                     for aid in parsed.get("artist_ids") or []:
+                        if dtp >= cutoff_24h:
+                            genre_artist_ids_seen_24h.add(aid)
+                        if dtp >= cutoff_7d:
+                            genre_artist_ids_seen_7d.add(aid)
+
                         g = get_artist_genres(token, aid, mutable_state, artist_lookup_counter)
+                        if not g:
+                            continue
                         if dtp >= cutoff_24h:
                             genre_24h.extend(g)
                         if dtp >= cutoff_7d:
                             genre_7d.extend(g)
 
-        # Daily SITREP (24h)
         if SHOW_DAILY_SITREP:
             daily_tracks = cnt24
             if artist_counts_24h:
@@ -518,7 +644,6 @@ def build_report():
                 daily_status = "NONE"
                 daily_pattern = "No activity"
 
-        # Weekly summary (best-effort from last 50)
         if SHOW_WEEKLY_SUMMARY:
             weekly_total = cnt7
             if artist_counts_7d:
@@ -562,6 +687,31 @@ def build_report():
     integrity = "OK" if (api_ok and last_track_name != "-") else "DEGRADED"
     confidence = "HIGH" if integrity == "OK" else "MEDIUM"
 
+    # Playback metrics formatting
+    vol_line = "N/A"
+    if device_volume is not None:
+        vol_line = f"{device_volume:3d}% {bar_meter(device_volume, 14)} {spark_level(device_volume)}"
+
+    priv_line = "N/A"
+    if isinstance(is_private_session, bool):
+        priv_line = "YES" if is_private_session else "NO"
+
+    shuffle_line = "N/A"
+    if isinstance(shuffle_state, bool):
+        shuffle_line = "ON" if shuffle_state else "OFF"
+
+    repeat_line = "N/A"
+    if isinstance(repeat_state, str) and repeat_state:
+        repeat_line = repeat_state.upper()
+
+    prog_clock, prog_pct, prog_bar = progress_meter(progress_ms, duration_ms, 18)
+
+    # Audio features (real) — only if we have a track_id to query
+    af_counter = {"n": 0}
+    af = None
+    if SHOW_AUDIO_FEATURES and now_track_obj and now_track_obj.get("track_id"):
+        af = get_audio_features(token, now_track_obj["track_id"], mutable_state, af_counter)
+
     # Build output
     out = []
     out.append("SPOTIFY TELEMETRY — CLI FEED (Spotify ©)")
@@ -585,6 +735,38 @@ def build_report():
         out.append(f"Last played               : {last_track_name}")
         out.append(f"Last played (UTC)         : {last_played_utc or 'N/A'}")
         out.append(f"Last activity type        : {last_activity_type}")
+        out.append("------------------------------------------------------------")
+
+    if SHOW_PLAYBACK_METRICS:
+        out.append("PLAYBACK METRICS (live session telemetry)")
+        out.append("------------------------------------------------------------")
+        out.append(f"Device                    : {device_name} ({device_type})")
+        out.append(f"Volume                    : {vol_line}")
+        out.append(f"Shuffle                   : {shuffle_line}")
+        out.append(f"Repeat                    : {repeat_line}")
+        out.append(f"Private session           : {priv_line}")
+        out.append(f"Track progress            : {prog_clock}")
+        out.append(f"Track progress pct        : {prog_pct}")
+        out.append(f"Track progress meter      : {prog_bar}")
+        out.append("------------------------------------------------------------")
+
+    if SHOW_AUDIO_FEATURES:
+        out.append("AUDIO FEATURES (Spotify analysis)")
+        out.append("------------------------------------------------------------")
+        if isinstance(af, dict):
+            out.append(f"Tempo                     : {fmt_bpm(af.get('tempo'))}")
+            out.append(f"Energy                    : {fmt_float01(af.get('energy'))}")
+            out.append(f"Danceability              : {fmt_float01(af.get('danceability'))}")
+            out.append(f"Valence                   : {fmt_float01(af.get('valence'))}")
+            out.append(f"Acousticness              : {fmt_float01(af.get('acousticness'))}")
+            out.append(f"Instrumentalness          : {fmt_float01(af.get('instrumentalness'))}")
+            out.append(f"Liveness                  : {fmt_float01(af.get('liveness'))}")
+            out.append(f"Speechiness               : {fmt_float01(af.get('speechiness'))}")
+            out.append(f"Audio feature lookups     : {af_counter['n']} (cached)")
+        else:
+            reason = "No active track_id (not currently playing)" if status != "PLAYING" else "Audio-features unavailable"
+            out.append(f"Status                    : N/A ({reason})")
+            out.append(f"Audio feature lookups     : {af_counter['n']} (cached)")
         out.append("------------------------------------------------------------")
 
     if SHOW_DELTAS_BLOCK:
@@ -660,9 +842,19 @@ def build_report():
         out.append("GENRE INTEL (inferred)")
         out.append("------------------------------------------------------------")
         t24 = topk(genre_24h, 6)
-        t7  = topk(genre_7d,  6)
-        out.append("Top genres (24h)          : " + (" | ".join([f"{g}({c})" for g, c in t24]) if t24 else "N/A"))
-        out.append("Top genres (7d)           : " + (" | ".join([f"{g}({c})" for g, c in t7])  if t7 else "N/A"))
+        t7  = topk(genre_7d, 6)
+
+        def fmt_top(top):
+            if not top:
+                return "N/A"
+            return " | ".join([f"{title_genre(g)}({c})" for g, c in top])
+
+        out.append(f"Top genres (24h)          : {fmt_top(t24)}")
+        out.append(f"Top genres (7d)           : {fmt_top(t7)}")
+
+        # Why empty? (useful debugging without being “GUI”)
+        out.append(f"Genre samples (24h)       : {len(genre_24h)} from {len(genre_artist_ids_seen_24h)} artists")
+        out.append(f"Genre samples (7d)        : {len(genre_7d)} from {len(genre_artist_ids_seen_7d)} artists")
         out.append(f"Artist lookups (this run) : {artist_lookup_counter['n']} (cached)")
         out.append("------------------------------------------------------------")
 
