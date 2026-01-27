@@ -1207,8 +1207,12 @@ _______                  /__/
 <summary id="wakatime">🛰️ <strong>WakaTime Operational Stats</strong> — Live Activity & Coding Telemetry*</summary>
 
 <br>
-  
+
+  <!--
 [![Waka Readme](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-readme.yml/badge.svg)](#)
+-->
+
+[![Waka Stats (CLI style)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-stats.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-stats.yml)
 
   <!--
 [![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
