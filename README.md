@@ -838,22 +838,23 @@ SITREP                    : GREEN
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
 Volume                    : 97%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Tore Lundblad — A Lucky Break
-Last played               : Southside Trio — Blue Eyes Crying In The Rain
-Last played (UTC)         : 2026-01-27 02:27:29Z
+Now playing               : Andy Goodman — Nimble
+Last played               : The Levon Trio — Once Knowing
+Last played (UTC)         : 2026-01-27 02:33:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Irvin Smith Group — Moody Promenade → Southside Trio — Blue Eyes Crying In The Rain
-Δ last played (since last): 2026-01-27 02:12:32Z → 2026-01-27 02:27:29Z
+Δ track (since last)      : Southside Trio — Blue Eyes Crying In The Rain → The Levon Trio — Once Knowing
+Δ last played (since last): 2026-01-27 02:27:29Z → 2026-01-27 02:33:46Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:35
-Telemetry age             : 00:02:35
-Δ time (since last report): 00:14:15
+Time since last play      : 00:02:32
+Telemetry age             : 00:02:32
+Δ time (since last report): 00:06:15
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -872,7 +873,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 02:30:03Z → 2026-01-27 02:30:03Z
+Week window (UTC)         : 2026-01-20 02:36:18Z → 2026-01-27 02:36:18Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -882,23 +883,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :        ▄▇             █▄
-Heatmap (7d)              :        ▄▇             █▄
+Heatmap (24h)             :        ▃▇             █▅
+Heatmap (7d)              :        ▃▇             █▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:19:32
+Avg inter-play gap (7d)   : 00:19:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(24) | rock(24) | jazz(23) | bossa nova(1) | latin rock(1)
-Top genres (7d)           : grunge(24) | rock(24) | jazz(23) | bossa nova(1) | latin rock(1)
-Artist lookups (this run) : 4 (cached)
+Top genres (24h)          : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
+Top genres (7d)           : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 02:30:03Z
+Report generated (UTC)    : 2026-01-27 02:36:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

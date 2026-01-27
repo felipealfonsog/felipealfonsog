@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-27 02:30:03Z",
+  "report_generated_utc": "2026-01-27 02:36:18Z",
   "status": "PLAYING",
-  "last_track": "Southside Trio — Blue Eyes Crying In The Rain",
-  "last_played_utc": "2026-01-27 02:27:29Z",
+  "last_track": "The Levon Trio — Once Knowing",
+  "last_played_utc": "2026-01-27 02:33:46Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -87,6 +87,12 @@
     ],
     "51GnoV2CNj0pAcxWvCcQM2": [
       "bossa nova"
+    ],
+    "08hb6f203kyAPrQkV3LlFZ": [
+      "jazz"
+    ],
+    "4zNremLzDLV4qylYjP0nR2": [
+      "jazz"
     ]
   }
 }
