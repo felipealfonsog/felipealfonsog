@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-27 03:50:45Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-01-27 03:56:22Z",
+  "status": "IDLE",
   "last_track": "Graywave — Dark Spell",
   "last_played_utc": "2026-01-27 03:49:14Z",
-  "sitrep": "GREEN",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
