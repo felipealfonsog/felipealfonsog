@@ -904,7 +904,7 @@ The “Google Translate” badge redirects to an automatic translation of this p
 What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
 Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.
 
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-latest.yml)
+
 
 </sub>
 
@@ -912,7 +912,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 </details>
 
-
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml)
 
 
 <!--
