@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-27 03:27:48Z",
+  "report_generated_utc": "2026-01-27 03:50:45Z",
   "status": "PLAYING",
-  "last_track": "The Levon Trio — Once Knowing",
-  "last_played_utc": "2026-01-27 02:33:46Z",
+  "last_track": "Graywave — Dark Spell",
+  "last_played_utc": "2026-01-27 03:49:14Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -93,6 +93,9 @@
     ],
     "4zNremLzDLV4qylYjP0nR2": [
       "jazz"
+    ],
+    "4jN7TcBXppAcw0mc7yn9xR": [
+      "shoegaze"
     ]
   }
 }

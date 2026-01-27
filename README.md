@@ -842,24 +842,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
+Device type               : Smartphone
+Device name               : iPhone
 Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Graywave — Dark Spell
-Last played               : The Levon Trio — Once Knowing
-Last played (UTC)         : 2026-01-27 02:33:46Z
+Now playing               : Weichafe — Z
+Last played               : Graywave — Dark Spell
+Last played (UTC)         : 2026-01-27 03:49:14Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : The Levon Trio — Once Knowing → Graywave — Dark Spell
+Δ last played (since last): 2026-01-27 02:33:46Z → 2026-01-27 03:49:14Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:54:03
-Telemetry age             : 00:54:03
-Δ time (since last report): 00:51:31
+Time since last play      : 00:01:31
+Telemetry age             : 00:01:31
+Δ time (since last report): 00:22:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -878,7 +878,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 03:27:48Z → 2026-01-27 03:27:48Z
+Week window (UTC)         : 2026-01-20 03:50:45Z → 2026-01-27 03:50:45Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -888,23 +888,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :        ▃▇             █▅
-Heatmap (7d)              :        ▃▇             █▅
+Heatmap (24h)             :        ▂▇             █▅
+Heatmap (7d)              :        ▂▇             █▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:19:30
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:20:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
-Top genres (7d)           : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(25) | grunge(21) | rock(21) | bossa nova(1) | latin rock(1) | shoegaze(1)
+Top genres (7d)           : jazz(25) | grunge(21) | rock(21) | bossa nova(1) | latin rock(1) | shoegaze(1)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 03:27:48Z
+Report generated (UTC)    : 2026-01-27 03:50:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
