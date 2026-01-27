@@ -854,11 +854,11 @@ Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:07:08
-Telemetry age             : 00:07:08
-Δ time (since last report): 00:05:37
+Time since last play      : 02:48:27
+Telemetry age             : 02:48:27
+Δ time (since last report): 02:41:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -877,7 +877,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 03:56:22Z → 2026-01-27 03:56:22Z
+Week window (UTC)         : 2026-01-20 06:37:40Z → 2026-01-27 06:37:40Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -903,7 +903,7 @@ Top genres (24h)          : jazz(25) | grunge(21) | rock(21) | bossa nova(1) | l
 Top genres (7d)           : jazz(25) | grunge(21) | rock(21) | bossa nova(1) | latin rock(1) | shoegaze(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 03:56:22Z
+Report generated (UTC)    : 2026-01-27 06:37:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
