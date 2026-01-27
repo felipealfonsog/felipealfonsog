@@ -258,6 +258,8 @@ Last update: 2026-01-26T00:32:03Z (UTC)
 > <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://www.nist.gov/">nist.gov</a> - <a href="https://time.gov/">time.gov</a>.</sub><br>
 > <sub>Authoritative time reference (UTC): <a href="https://time.is/">time.is</a>.</sub>
 
+[![Time Discipline SITREP (UTC/NIST)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/atomic-time.yml/badge.svg)](#)
+
 <!-- 
 <sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
 -->
@@ -299,7 +301,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-26 09:36:13Z
+DSN snapshot (UTC)       : 2026-01-27 00:46:32Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -311,14 +313,14 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.44e9 km | 170.029 AU
-Heliocentric distance    : 169.503 AU
-Relative speed           : 24.869 km/s
+Heliocentric distance    : 169.509 AU
+Relative speed           : 24.734 km/s
 ------------------------------------------------------------
 One-way light time       : 23:34:05
-Round-trip latency       : 47:08:11
+Round-trip latency       : 47:08:10
 ------------------------------------------------------------
-Δ distance (since last)  : -18,439 km
-Mission age              : 48 years, 155 days
+Δ distance (since last)  : -21,792 km
+Mission age              : 48 years, 156 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -329,19 +331,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.680 AU
-Heliocentric distance    : 141.934 AU
-Relative speed           : 32.005 km/s
+Earth distance           : 21.35e9 km | 142.683 AU
+Heliocentric distance    : 141.940 AU
+Relative speed           : 31.897 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:38
-Round-trip latency       : 39:33:16
+One-way light time       : 19:46:40
+Round-trip latency       : 39:33:19
 ------------------------------------------------------------
-Δ distance (since last)  : +96,446 km
-Mission age              : 48 years, 171 days
+Δ distance (since last)  : +100,537 km
+Mission age              : 48 years, 172 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-26 09:36:18Z
+Report generated (UTC)   : 2026-01-27 00:46:34Z
 ```
 
 <!-- VOYAGER:END -->
@@ -357,6 +359,7 @@ Personal note: I was born shortly after Voyager 2 began its journey — a remind
 
 </details>
 
+[![Voyager Telemetry (CLI style)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/voyager-telemetry.yml/badge.svg)](#)
 
 #
 
@@ -402,6 +405,8 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <!-- OTX-END -->
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
 </details>
+
+[![Update OTX Threat Feed](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update_otx.yml/badge.svg)](#)
 
 <!-- 
 [![Felipe's Wikipedia User Page](https://img.shields.io/badge/-Felipe%27s%20Wikipedia%20User%20Page-181717?style=plastic&logo=Wikipedia&logoColor=white&labelColor=181717)](https://en.wikipedia.org/wiki/User:Felipealfonsog)
@@ -831,47 +836,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Status                    : PLAYING
 Playback state            : ONLINE (active session)
+Status                    : PLAYING
 SITREP                    : GREEN
 ------------------------------------------------------------
-Now playing               : Nirvana — Where Did You Sleep Last Night - Live
-Last played               : Nirvana — All Apologies - Live
-Last played (UTC)         : 2026-01-26 11:42:50Z
+PLAYBACK DEVICE (Spotify)
+------------------------------------------------------------
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 97%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+------------------------------------------------------------
+Now playing               : Andy Goodman — Nimble
+Last played               : The Levon Trio — Once Knowing
+Last played (UTC)         : 2026-01-27 02:33:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Nirvana — Lake Of Fire - Live → Nirvana — All Apologies - Live
-Δ last played (since last): 2026-01-26 11:38:27Z → 2026-01-26 11:42:50Z
+Δ track (since last)      : Southside Trio — Blue Eyes Crying In The Rain → The Levon Trio — Once Knowing
+Δ last played (since last): 2026-01-27 02:27:29Z → 2026-01-27 02:33:46Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:28
-Telemetry age             : 00:04:28
-Δ time (since last report): 00:07:35
+Time since last play      : 00:02:32
+Telemetry age             : 00:02:32
+Δ time (since last report): 00:06:15
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
-Authorization scope       : PLAYBACK_STATE
-                           NOW_PLAYING
-                           RECENT_ACTIVITY
+Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 43
+Tracks played (last 24h)  : 50
 Dominant artist           : Nirvana
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-19 11:47:18Z → 2026-01-26 11:47:18Z
-Total tracks played       : 44
+Week window (UTC)         : 2026-01-20 02:36:18Z → 2026-01-27 02:36:18Z
+Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-26 11:47:18Z
+LISTENING HOURS (local time)
+------------------------------------------------------------
+Local timezone            : America/Santiago
+Peak hour (24h)           : 22:00
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :        ▃▇             █▅
+Heatmap (7d)              :        ▃▇             █▅
+------------------------------------------------------------
+SESSION ESTIMATES (inferred)
+------------------------------------------------------------
+Session gap threshold     : 25 minutes
+Sessions (24h)            : 2
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 00:19:30
+------------------------------------------------------------
+GENRE INTEL (inferred)
+------------------------------------------------------------
+Top genres (24h)          : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
+Top genres (7d)           : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
+Artist lookups (this run) : 2 (cached)
+------------------------------------------------------------
+Report generated (UTC)    : 2026-01-27 02:36:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -903,11 +936,16 @@ For the best experience, open GitHub links in a new tab (right-click and select 
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
 What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
 Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.
+
+
+
 </sub>
+
+
 
 </details>
 
-
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#)
 
 
 <!--
@@ -1169,8 +1207,12 @@ _______                  /__/
 <summary id="wakatime">🛰️ <strong>WakaTime Operational Stats</strong> — Live Activity & Coding Telemetry*</summary>
 
 <br>
-  
+
+  <!--
 [![Waka Readme](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-readme.yml/badge.svg)](#)
+-->
+
+[![Waka Stats (CLI style)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-stats.yml/badge.svg)](#)
 
   <!--
 [![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
@@ -1265,7 +1307,7 @@ Writing Docs   35 mins        ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 26/01/2026 11:10:09 UTC
+Last updated     : 27/01/2026 02:53:34 UTC
 
 ```
 <!--END_SECTION:wakastats-->
