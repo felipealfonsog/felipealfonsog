@@ -29,7 +29,7 @@ SHOW_DAILY_SITREP         = True
 SHOW_WEEKLY_SUMMARY       = True
 
 # ---- Device privacy / details ----
-SHOW_DEVICE_NAME          = False   # <-- your requested toggle (type stays ON)
+SHOW_DEVICE_NAME          = True   # <-- your requested toggle (type stays ON)
 
 # ---- Extra telemetry (derived from recently-played) ----
 SHOW_GENRE_INTEL          = True    # inferred via artist profiles (needs extra API calls, cached)
