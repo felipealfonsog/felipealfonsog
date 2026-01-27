@@ -852,13 +852,13 @@ Last played               : Proxima Flare — An Insufferable Dilemma
 Last played (UTC)         : 2026-01-27 15:33:08Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Proxima Flare — Fearless We Stand → Proxima Flare — An Insufferable Dilemma
-Δ last played (since last): 2026-01-27 15:06:59Z → 2026-01-27 15:33:08Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:40
-Telemetry age             : 00:03:40
-Δ time (since last report): 00:29:10
+Time since last play      : 03:04:52
+Telemetry age             : 03:04:52
+Δ time (since last report): 03:01:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -877,7 +877,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 15:36:48Z → 2026-01-27 15:36:48Z
+Week window (UTC)         : 2026-01-20 18:38:00Z → 2026-01-27 18:38:00Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -903,7 +903,7 @@ Top genres (24h)          : jazz(25) | latin rock(3) | progressive metal(3) | bo
 Top genres (7d)           : jazz(25) | grunge(16) | rock(16) | latin rock(3) | progressive metal(3) | bossa nova(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 15:36:48Z
+Report generated (UTC)    : 2026-01-27 18:38:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
