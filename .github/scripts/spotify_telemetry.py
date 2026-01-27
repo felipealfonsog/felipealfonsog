@@ -10,12 +10,13 @@ import urllib.parse
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone, timedelta
+from zoneinfo import ZoneInfo
 
 # =============================================================================
-# TOGGLES (set True/False)
+# TOGGLES (set True/False) — keep these at top, clear and surgical
 # =============================================================================
 
-# Master switches
+# ---- Master blocks (README output sections) ----
 SHOW_HEADER_META          = True
 SHOW_STATUS_BLOCK         = True
 SHOW_TRACK_BLOCK          = True
@@ -26,14 +27,25 @@ SHOW_INTEGRITY_BLOCK      = True
 SHOW_DAILY_SITREP         = True
 SHOW_WEEKLY_SUMMARY       = True
 
-# Sub-toggles / formatting
-SCOPE_MODE = "WRAP"   # "WRAP" | "COMPACT" | "OFF"
-WRAP_WIDTH = 34       # scope wrapping width for WRAP mode
+# ---- Extra telemetry (derived from recently-played) ----
+SHOW_GENRE_INTEL          = False   # inferred via artist profiles (needs extra API calls, cached)
+SHOW_HOURLY_HEATMAP       = True    # listening hours histogram (local time)
+SHOW_SESSION_ESTIMATES    = True    # inferred sessions from gaps between plays
 
-# Behavior toggles
-FAIL_SAFE_DO_NOT_BREAK_README = True   # if Spotify fails, keep old README block
+# ---- Formatting sub-toggles ----
+SCOPE_MODE                = "COMPACT"   # "WRAP" | "COMPACT" | "OFF"
+WRAP_WIDTH                = 34          # for WRAP mode (if used)
+LOCAL_TIMEZONE            = "America/Santiago"  # hour histogram display (telemetry only)
+
+# ---- Behavior toggles ----
+FAIL_SAFE_DO_NOT_BREAK_README = True   # if Spotify fails, keep README as-is and exit 0
 WRITE_STATE_FILE              = True   # store last report for deltas
-OBS_WINDOW_SECONDS            = 30 * 60 # "Observation window" label
+OBS_WINDOW_SECONDS            = 30 * 60 # observation window label (telemetry narrative)
+
+# ---- Heuristics / safety caps ----
+SESSION_GAP_MINUTES       = 25     # gap threshold => new "session" (inferred)
+MAX_RECENT_ITEMS          = 50     # keep 50 (Spotify limit with your call)
+MAX_ARTIST_LOOKUPS        = 80     # safety cap per run (cache reduces this a lot)
 
 # =============================================================================
 # Config / files
@@ -53,6 +65,7 @@ MARKER_END    = "<!-- SPOTIFY_TEL:END -->"
 
 STATE_DIR     = ".github/state"
 STATE_FILE    = os.path.join(STATE_DIR, "spotify_last_report.json")
+ARTIST_CACHE_KEY = "artist_genre_cache"
 
 # =============================================================================
 # Helpers
@@ -63,6 +76,14 @@ def utc_now() -> datetime:
 
 def utc_iso(dt: datetime) -> str:
     return dt.strftime("%Y-%m-%d %H:%M:%SZ")
+
+def parse_iso_z(s: str):
+    if not s:
+        return None
+    try:
+        return datetime.fromisoformat(s.replace("Z", "+00:00"))
+    except Exception:
+        return None
 
 def clamp(n, lo, hi):
     return max(lo, min(hi, n))
@@ -75,6 +96,12 @@ def fmt_hms(seconds: float) -> str:
     m = (sec % 3600) // 60
     s = sec % 60
     return f"{h:02d}:{m:02d}:{s:02d}"
+
+def local_tz():
+    try:
+        return ZoneInfo(LOCAL_TIMEZONE)
+    except Exception:
+        return timezone.utc
 
 def http_json(url: str, headers=None, data: bytes | None = None, timeout: int = 25):
     headers = headers or {}
@@ -95,7 +122,7 @@ def spotify_access_token():
         "refresh_token": REFRESH_TOKEN,
     }).encode("utf-8")
 
-    code, headers, payload = http_json(
+    code, _, payload = http_json(
         AUTH_URL,
         headers={
             "Authorization": f"Basic {auth}",
@@ -138,7 +165,7 @@ def fetch_currently_playing(token: str):
 
 def fetch_recently_played(token: str, limit: int = 50):
     url = "https://api.spotify.com/v1/me/player/recently-played?limit=" + str(limit)
-    code, headers, payload = http_json(url, headers={"Authorization": f"Bearer {token}"}, timeout=20)
+    code, _, payload = http_json(url, headers={"Authorization": f"Bearer {token}"}, timeout=20)
     return code, payload
 
 def parse_track_item(track_obj: dict):
@@ -157,6 +184,7 @@ def parse_track_item(track_obj: dict):
         "album": album_name,
         "uri": uri,
         "url": ext,
+        "artist_ids": [a.get("id") for a in artists if a.get("id")],
     }
 
 def load_state():
@@ -170,38 +198,6 @@ def save_state(obj: dict):
     os.makedirs(STATE_DIR, exist_ok=True)
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
-
-def fmt_scope_lines(scope_str: str):
-    s = (scope_str or "").strip()
-    if not s:
-        return ["N/A"]
-
-    if SCOPE_MODE == "OFF":
-        return []
-
-    scope_map = {
-        "user-read-playback-state": "PLAYBACK_STATE",
-        "user-read-currently-playing": "NOW_PLAYING",
-        "user-read-recently-played": "RECENT_ACTIVITY",
-    }
-
-    tokens = [scope_map.get(x, x.upper()) for x in s.split()]
-
-    if SCOPE_MODE == "COMPACT":
-        return [" | ".join(tokens)]
-
-    # WRAP (one token per line; clean + aligned)
-    # NOTE: This is intentionally NOT word-wrapped mid-token; it's a telemetry list.
-    return tokens
-
-def classify_sitrep(status: str, playback_state: str, api_ok: bool):
-    if not api_ok:
-        return "RED"
-    if status == "PLAYING" and playback_state.startswith("ONLINE"):
-        return "GREEN"
-    if status in ("IDLE", "UNKNOWN"):
-        return "AMBER"
-    return "AMBER"
 
 def rewrite_readme_block(new_block: str):
     with open(README_PATH, "r", encoding="utf-8") as f:
@@ -217,6 +213,115 @@ def rewrite_readme_block(new_block: str):
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(md2)
 
+def classify_sitrep(status: str, playback_state: str, api_ok: bool):
+    if not api_ok:
+        return "RED"
+    if status == "PLAYING" and playback_state.startswith("ONLINE"):
+        return "GREEN"
+    if status in ("IDLE", "UNKNOWN"):
+        return "AMBER"
+    return "AMBER"
+
+def fmt_scope_lines(scope_str: str):
+    s = (scope_str or "").strip()
+    if not s or SCOPE_MODE == "OFF":
+        return []
+
+    scope_map = {
+        "user-read-playback-state": "PLAYBACK_STATE",
+        "user-read-currently-playing": "NOW_PLAYING",
+        "user-read-recently-played": "RECENT_ACTIVITY",
+        "user-top-read": "TOP_READ",
+        "playlist-read-private": "PLAYLIST_PRIVATE",
+        "playlist-read-collaborative": "PLAYLIST_COLLAB",
+    }
+    tokens = [scope_map.get(x, x.upper()) for x in s.split()]
+
+    if SCOPE_MODE == "COMPACT":
+        return [" | ".join(tokens)]
+
+    # WRAP: one token per line (clean telemetry list)
+    lines = []
+    cur = ""
+    for t in tokens:
+        if not cur:
+            cur = t
+        elif len(cur) + 3 + len(t) <= WRAP_WIDTH:
+            cur += " | " + t
+        else:
+            lines.append(cur)
+            cur = t
+    if cur:
+        lines.append(cur)
+    return lines
+
+def fetch_artist(token: str, artist_id: str):
+    url = f"https://api.spotify.com/v1/artists/{artist_id}"
+    code, _, payload = http_json(url, headers={"Authorization": f"Bearer {token}"}, timeout=20)
+    return code, payload
+
+def get_artist_genres(token: str, artist_id: str, state: dict, lookups_counter: dict):
+    cache = state.get(ARTIST_CACHE_KEY) or {}
+    if artist_id in cache:
+        return cache.get(artist_id) or []
+
+    lookups_counter["n"] += 1
+    if lookups_counter["n"] > MAX_ARTIST_LOOKUPS:
+        return []
+
+    code, payload = fetch_artist(token, artist_id)
+    if code != 200 or not isinstance(payload, dict):
+        return []
+
+    genres = payload.get("genres") or []
+    cache[artist_id] = genres
+    state[ARTIST_CACHE_KEY] = cache
+    return genres
+
+def topk(lst, k=6):
+    if not lst:
+        return []
+    counts = {}
+    for x in lst:
+        x = (x or "").strip().lower()
+        if not x:
+            continue
+        counts[x] = counts.get(x, 0) + 1
+    ranked = sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))
+    return ranked[:k]
+
+def peak_hour(hist):
+    if not hist or max(hist) == 0:
+        return "N/A"
+    h = max(range(24), key=lambda i: hist[i])
+    return f"{h:02d}:00"
+
+def heatmap_line(hist):
+    if not hist or max(hist) == 0:
+        return "N/A"
+    m = max(hist)
+    chars = " ▁▂▃▄▅▆▇█"
+    out = []
+    for v in hist:
+        idx = int(round((v / m) * (len(chars)-1)))
+        out.append(chars[clamp(idx, 0, len(chars)-1)])
+    return "".join(out)
+
+def infer_sessions(dts):
+    if not dts:
+        return 0, None
+    dts = sorted(dts)
+    gap_s = SESSION_GAP_MINUTES * 60
+    sessions = 1
+    gaps = []
+    for i in range(1, len(dts)):
+        delta = (dts[i] - dts[i-1]).total_seconds()
+        gaps.append(delta)
+        if delta > gap_s:
+            sessions += 1
+    avg_gap = (sum(gaps)/len(gaps)) if gaps else None
+    return sessions, avg_gap
+
 # =============================================================================
 # Main telemetry build
 # =============================================================================
@@ -225,8 +330,10 @@ def build_report():
     now = utc_now()
     now_s = utc_iso(now)
 
-    # state for deltas
+    # state for deltas + caches
     prev = load_state() if WRITE_STATE_FILE else {}
+    mutable_state = dict(prev)  # we will preserve caches + update report fields
+
     prev_track = prev.get("last_track", "")
     prev_last_played = prev.get("last_played_utc", "")
     prev_status = prev.get("status", "")
@@ -238,14 +345,12 @@ def build_report():
     # current playback
     cur = fetch_currently_playing(token)
     api_http = cur.get("http", -1)
-    api_ok = (api_http in (200, 204))
+    api_ok_current = (api_http in (200, 204))
 
     status = "UNKNOWN"
     playback_state = "UNKNOWN"
     last_activity_type = "UNKNOWN"
-
-    now_track_obj = None
-    now_track_name = "N/A"  # telemetry-only default
+    now_track_name = "N/A"  # telemetry-only
 
     if api_http == 200 and isinstance(cur.get("data"), dict):
         d = cur["data"]
@@ -272,14 +377,12 @@ def build_report():
         last_activity_type = "API_ERROR"
         now_track_name = "N/A"
 
-    # recently played (for last known track)
-    recent_code, recent_payload = fetch_recently_played(token, limit=50)
+    # recently played (for last known track + derived telemetry)
+    recent_code, recent_payload = fetch_recently_played(token, limit=MAX_RECENT_ITEMS)
     recent_ok = (recent_code == 200 and isinstance(recent_payload, dict))
 
     last_track_name = "-"
     last_played_utc = ""
-    last_track_obj = None
-
     if recent_ok:
         items = recent_payload.get("items") or []
         if items:
@@ -291,23 +394,19 @@ def build_report():
                 last_track_name = f"{last_track_obj['artist']} — {last_track_obj['title']}"
             last_played_utc = played_at.replace(".000Z", "Z") if played_at else ""
             if last_played_utc and last_played_utc.endswith("Z"):
-                try:
-                    dtp = datetime.fromisoformat(last_played_utc.replace("Z", "+00:00"))
+                dtp = parse_iso_z(last_played_utc)
+                if dtp:
                     last_played_utc = utc_iso(dtp)
-                except Exception:
-                    pass
 
     # time since last play
     time_since_last_play = "N/A"
     telemetry_age = "N/A"
     if last_played_utc:
-        try:
-            last_dt = datetime.fromisoformat(last_played_utc.replace("Z", "+00:00"))
+        last_dt = parse_iso_z(last_played_utc)
+        if last_dt:
             delta = (now - last_dt).total_seconds()
             time_since_last_play = fmt_hms(delta)
             telemetry_age = fmt_hms(delta)
-        except Exception:
-            pass
 
     # deltas since last report
     def delta_str(prev_val, new_val, first_label="N/A (first report)"):
@@ -323,93 +422,145 @@ def build_report():
 
     d_time = "N/A (first report)"
     if prev_report_ts:
-        try:
-            pdt = datetime.fromisoformat(prev_report_ts.replace("Z", "+00:00"))
+        pdt = parse_iso_z(prev_report_ts)
+        if pdt:
             d_time = fmt_hms((now - pdt).total_seconds())
-        except Exception:
-            d_time = "N/A"
 
-    # Daily SITREP (last 24h)
+    # Derived telemetry from recent payload
+    tz = local_tz()
+    cutoff_24h = now - timedelta(hours=24)
+    cutoff_7d  = now - timedelta(days=7)
+
+    genre_24h = []
+    genre_7d  = []
+    artist_lookup_counter = {"n": 0}
+
+    hour_hist_24h = [0] * 24
+    hour_hist_7d  = [0] * 24
+
+    played_times_24h = []
+    played_times_7d  = []
+
     daily_tracks = None
     dominant_artist_24h = None
     daily_pattern = None
     daily_status = None
 
-    if SHOW_DAILY_SITREP and recent_ok:
-        cutoff = now - timedelta(hours=24)
-        cnt = 0
-        artist_counts = {}
-        for it in (recent_payload.get("items") or []):
-            pa = it.get("played_at") or ""
-            try:
-                dtp = datetime.fromisoformat(pa.replace("Z", "+00:00"))
-            except Exception:
-                continue
-            if dtp < cutoff:
-                continue
-            cnt += 1
-            tr = it.get("track") or {}
-            a0 = ((tr.get("artists") or [{}])[0]).get("name") or ""
-            if a0:
-                artist_counts[a0] = artist_counts.get(a0, 0) + 1
-
-        daily_tracks = cnt
-        if artist_counts:
-            dominant_artist_24h = max(artist_counts.items(), key=lambda x: x[1])[0]
-
-        if cnt >= 25:
-            daily_status = "HIGH"
-            daily_pattern = "Sustained operational tempo"
-        elif cnt >= 10:
-            daily_status = "MEDIUM"
-            daily_pattern = "Regular cadence"
-        elif cnt >= 1:
-            daily_status = "LOW"
-            daily_pattern = "Light activity"
-        else:
-            daily_status = "NONE"
-            daily_pattern = "No activity"
-
-    # Weekly summary
-    week_window_start = now - timedelta(days=7)
     weekly_total = None
     dominant_artist_week = None
     cadence = None
+    week_window_start = now - timedelta(days=7)
 
-    if SHOW_WEEKLY_SUMMARY and recent_ok:
-        cnt = 0
-        artist_counts = {}
-        for it in (recent_payload.get("items") or []):
+    if recent_ok:
+        items = recent_payload.get("items") or []
+
+        # For daily / weekly counts (best-effort)
+        cnt24 = 0
+        cnt7  = 0
+        artist_counts_24h = {}
+        artist_counts_7d  = {}
+
+        for it in items:
             pa = it.get("played_at") or ""
-            try:
-                dtp = datetime.fromisoformat(pa.replace("Z", "+00:00"))
-            except Exception:
+            dtp = parse_iso_z(pa)
+            if not dtp:
                 continue
-            if dtp < week_window_start:
-                continue
-            cnt += 1
+
+            local_hour = dtp.astimezone(tz).hour
+
+            if dtp >= cutoff_7d:
+                hour_hist_7d[local_hour] += 1
+                played_times_7d.append(dtp)
+                cnt7 += 1
+
+            if dtp >= cutoff_24h:
+                hour_hist_24h[local_hour] += 1
+                played_times_24h.append(dtp)
+                cnt24 += 1
+
             tr = it.get("track") or {}
-            a0 = ((tr.get("artists") or [{}])[0]).get("name") or ""
-            if a0:
-                artist_counts[a0] = artist_counts.get(a0, 0) + 1
+            artists = tr.get("artists") or []
+            a0 = (artists[0].get("name") if artists else "") or ""
 
-        weekly_total = cnt
-        if artist_counts:
-            dominant_artist_week = max(artist_counts.items(), key=lambda x: x[1])[0]
+            if dtp >= cutoff_24h and a0:
+                artist_counts_24h[a0] = artist_counts_24h.get(a0, 0) + 1
 
-        if cnt >= 80:
-            cadence = "VERY HIGH"
-        elif cnt >= 40:
-            cadence = "HIGH"
-        elif cnt >= 15:
-            cadence = "MEDIUM"
-        elif cnt >= 1:
-            cadence = "LOW"
-        else:
-            cadence = "NONE"
+            if dtp >= cutoff_7d and a0:
+                artist_counts_7d[a0] = artist_counts_7d.get(a0, 0) + 1
 
-    # Compute SITREP
-    sitrep = classify_sitrep(status, playback_state, api_ok and recent_ok)
+            # Genre inference (optional)
+            if SHOW_GENRE_INTEL:
+                parsed = parse_track_item(tr)
+                if parsed:
+                    for aid in parsed.get("artist_ids") or []:
+                        g = get_artist_genres(token, aid, mutable_state, artist_lookup_counter)
+                        if dtp >= cutoff_24h:
+                            genre_24h.extend(g)
+                        if dtp >= cutoff_7d:
+                            genre_7d.extend(g)
+
+        # Daily SITREP (24h)
+        if SHOW_DAILY_SITREP:
+            daily_tracks = cnt24
+            if artist_counts_24h:
+                dominant_artist_24h = max(artist_counts_24h.items(), key=lambda x: x[1])[0]
+
+            if cnt24 >= 25:
+                daily_status = "HIGH"
+                daily_pattern = "Sustained operational tempo"
+            elif cnt24 >= 10:
+                daily_status = "MEDIUM"
+                daily_pattern = "Regular cadence"
+            elif cnt24 >= 1:
+                daily_status = "LOW"
+                daily_pattern = "Light activity"
+            else:
+                daily_status = "NONE"
+                daily_pattern = "No activity"
+
+        # Weekly summary (best-effort from last 50)
+        if SHOW_WEEKLY_SUMMARY:
+            weekly_total = cnt7
+            if artist_counts_7d:
+                dominant_artist_week = max(artist_counts_7d.items(), key=lambda x: x[1])[0]
+
+            if cnt7 >= 80:
+                cadence = "VERY HIGH"
+            elif cnt7 >= 40:
+                cadence = "HIGH"
+            elif cnt7 >= 15:
+                cadence = "MEDIUM"
+            elif cnt7 >= 1:
+                cadence = "LOW"
+            else:
+                cadence = "NONE"
+
+    # sessions
+    sessions_24h = 0
+    sessions_7d  = 0
+    avg_session_gap_7d = "N/A"
+    if SHOW_SESSION_ESTIMATES:
+        sessions_24h, _ = infer_sessions(played_times_24h)
+        sessions_7d, avg_gap = infer_sessions(played_times_7d)
+        avg_session_gap_7d = fmt_hms(avg_gap) if avg_gap is not None else "N/A"
+
+    # API status aggregation
+    api_ok = api_ok_current and recent_ok
+    sitrep = classify_sitrep(status, playback_state, api_ok)
+
+    # API response class string
+    if api_http == 200:
+        api_class = "200 OK"
+    elif api_http == 204:
+        api_class = "204 NO CONTENT"
+    elif api_http == -1:
+        api_class = "NETWORK/EXCEPTION"
+    else:
+        api_class = f"{api_http} ERROR"
+
+    # Integrity
+    integrity = "OK" if (api_ok and last_track_name != "-") else "DEGRADED"
+    confidence = "HIGH" if integrity == "OK" else "MEDIUM"
 
     # Build output
     out = []
@@ -430,7 +581,6 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_TRACK_BLOCK:
-        # TELEMETRY-ONLY: no UI commentary
         out.append(f"Now playing               : {now_track_name}")
         out.append(f"Last played               : {last_track_name}")
         out.append(f"Last played (UTC)         : {last_played_utc or 'N/A'}")
@@ -450,25 +600,14 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_API_BLOCK:
-        if api_http == 200:
-            api_class = "200 OK"
-        elif api_http == 204:
-            api_class = "204 NO CONTENT"
-        elif api_http == -1:
-            api_class = "NETWORK/EXCEPTION"
-        else:
-            api_class = f"{api_http} ERROR"
-
         out.append(f"API response class        : {api_class}")
-        out.append(f"API condition             : {'NORMAL' if (api_ok and recent_ok) else 'DEGRADED'}")
+        out.append(f"API condition             : {'NORMAL' if api_ok else 'DEGRADED'}")
 
-        # Authorization scope (formatted, aligned, not ugly)
         scope_lines = fmt_scope_lines(scope)
-        if SCOPE_MODE != "OFF" and scope_lines:
+        if scope_lines:
             if SCOPE_MODE == "COMPACT":
                 out.append(f"Authorization scope       : {scope_lines[0]}")
             else:
-                # WRAP mode: one token per line, aligned
                 out.append(f"Authorization scope       : {scope_lines[0]}")
                 for ln in scope_lines[1:]:
                     out.append(f"                           {ln}")
@@ -476,8 +615,6 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_INTEGRITY_BLOCK:
-        integrity = "OK" if (api_ok and recent_ok and last_track_name != "-") else "DEGRADED"
-        confidence = "HIGH" if integrity == "OK" else "MEDIUM"
         out.append(f"Data integrity            : {integrity}")
         out.append(f"Confidence level          : {confidence}")
         out.append("------------------------------------------------------------")
@@ -500,17 +637,47 @@ def build_report():
         out.append(f"Cadence classification    : {cadence or 'N/A'}")
         out.append("------------------------------------------------------------")
 
+    if SHOW_HOURLY_HEATMAP:
+        out.append("LISTENING HOURS (local time)")
+        out.append("------------------------------------------------------------")
+        out.append(f"Local timezone            : {LOCAL_TIMEZONE}")
+        out.append(f"Peak hour (24h)           : {peak_hour(hour_hist_24h)}")
+        out.append(f"Peak hour (7d)            : {peak_hour(hour_hist_7d)}")
+        out.append(f"Heatmap (24h)             : {heatmap_line(hour_hist_24h)}")
+        out.append(f"Heatmap (7d)              : {heatmap_line(hour_hist_7d)}")
+        out.append("------------------------------------------------------------")
+
+    if SHOW_SESSION_ESTIMATES:
+        out.append("SESSION ESTIMATES (inferred)")
+        out.append("------------------------------------------------------------")
+        out.append(f"Session gap threshold     : {SESSION_GAP_MINUTES} minutes")
+        out.append(f"Sessions (24h)            : {sessions_24h if sessions_24h else 'N/A'}")
+        out.append(f"Sessions (7d)             : {sessions_7d if sessions_7d else 'N/A'}")
+        out.append(f"Avg inter-play gap (7d)   : {avg_session_gap_7d}")
+        out.append("------------------------------------------------------------")
+
+    if SHOW_GENRE_INTEL:
+        out.append("GENRE INTEL (inferred)")
+        out.append("------------------------------------------------------------")
+        t24 = topk(genre_24h, 6)
+        t7  = topk(genre_7d,  6)
+        out.append("Top genres (24h)          : " + (" | ".join([f"{g}({c})" for g, c in t24]) if t24 else "N/A"))
+        out.append("Top genres (7d)           : " + (" | ".join([f"{g}({c})" for g, c in t7])  if t7 else "N/A"))
+        out.append(f"Artist lookups (this run) : {artist_lookup_counter['n']} (cached)")
+        out.append("------------------------------------------------------------")
+
     out.append(f"Report generated (UTC)    : {now_s}")
 
-    # state update
+    # state update (preserve caches)
     if WRITE_STATE_FILE:
-        save_state({
+        mutable_state.update({
             "report_generated_utc": now_s,
             "status": status,
             "last_track": last_track_name,
             "last_played_utc": last_played_utc,
             "sitrep": sitrep,
         })
+        save_state(mutable_state)
 
     return "\n".join(out)
 
