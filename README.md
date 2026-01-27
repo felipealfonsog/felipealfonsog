@@ -258,6 +258,8 @@ Last update: 2026-01-26T00:32:03Z (UTC)
 > <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://www.nist.gov/">nist.gov</a> - <a href="https://time.gov/">time.gov</a>.</sub><br>
 > <sub>Authoritative time reference (UTC): <a href="https://time.is/">time.is</a>.</sub>
 
+[![Time Discipline SITREP (UTC/NIST)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/atomic-time.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/atomic-time.yml)
+
 <!-- 
 <sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
 -->
