@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-27 15:07:38Z",
-  "status": "PLAYING",
-  "last_track": "Proxima Flare — Fearless We Stand",
-  "last_played_utc": "2026-01-27 15:06:59Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-01-27 15:36:48Z",
+  "status": "IDLE",
+  "last_track": "Proxima Flare — An Insufferable Dilemma",
+  "last_played_utc": "2026-01-27 15:33:08Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
