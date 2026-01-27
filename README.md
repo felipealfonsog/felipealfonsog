@@ -258,7 +258,7 @@ Last update: 2026-01-26T00:32:03Z (UTC)
 > <sub>*TimeOps / WatchOps — Atomic time drift analytics synchronized against UTC(NIST) (National Institute of Standards and Technology, USA). Reference: <a href="https://www.nist.gov/">nist.gov</a> - <a href="https://time.gov/">time.gov</a>.</sub><br>
 > <sub>Authoritative time reference (UTC): <a href="https://time.is/">time.is</a>.</sub>
 
-[![Time Discipline SITREP (UTC/NIST)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/atomic-time.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/atomic-time.yml)
+[![Time Discipline SITREP (UTC/NIST)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/atomic-time.yml/badge.svg)](#)
 
 <!-- 
 <sub>UTC(NIST) via NTP (time.nist.gov). Measurements logged manually in <code>watchops/measurements.csv</code>.</sub>
@@ -359,7 +359,7 @@ Personal note: I was born shortly after Voyager 2 began its journey — a remind
 
 </details>
 
-[![Voyager Telemetry (CLI style)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/voyager-telemetry.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/voyager-telemetry.yml)
+[![Voyager Telemetry (CLI style)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/voyager-telemetry.yml/badge.svg)](#)
 
 #
 
@@ -406,7 +406,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
 </details>
 
-[![Update OTX Threat Feed](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update_otx.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update_otx.yml)
+[![Update OTX Threat Feed](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update_otx.yml/badge.svg)](#)
 
 <!-- 
 [![Felipe's Wikipedia User Page](https://img.shields.io/badge/-Felipe%27s%20Wikipedia%20User%20Page-181717?style=plastic&logo=Wikipedia&logoColor=white&labelColor=181717)](https://en.wikipedia.org/wiki/User:Felipealfonsog)
@@ -945,7 +945,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 </details>
 
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml)
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#)
 
 
 <!--
@@ -1212,7 +1212,7 @@ _______                  /__/
 [![Waka Readme](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-readme.yml/badge.svg)](#)
 -->
 
-[![Waka Stats (CLI style)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-stats.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-stats.yml)
+[![Waka Stats (CLI style)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/waka-stats.yml/badge.svg)](#)
 
   <!--
 [![wakatime](https://wakatime.com/badge/user/018c33c4-c736-45ae-960b-4518218077f2.svg)](https://wakatime.com/@018c33c4-c736-45ae-960b-4518218077f2)
