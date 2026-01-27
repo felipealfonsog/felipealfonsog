@@ -406,6 +406,8 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 <sub>*Data gathered  from AlienVault OTX Cyber Threat Intelligence.</sub>
 </details>
 
+[![Update OTX Threat Feed](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update_otx.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update_otx.yml)
+
 <!-- 
 [![Felipe's Wikipedia User Page](https://img.shields.io/badge/-Felipe%27s%20Wikipedia%20User%20Page-181717?style=plastic&logo=Wikipedia&logoColor=white&labelColor=181717)](https://en.wikipedia.org/wiki/User:Felipealfonsog)
 
