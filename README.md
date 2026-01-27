@@ -835,18 +835,23 @@ Status                    : PLAYING
 Playback state            : ONLINE (active session)
 SITREP                    : GREEN
 ------------------------------------------------------------
-Now playing               : Billy Hicks Quartet — Morii
-Last played               : Jasmine Patterson — The Molly Pitchers
-Last played (UTC)         : 2026-01-27 01:27:53Z
+PLAYBACK DEVICE (Spotify)
+------------------------------------------------------------
+Device type               : N/A
+Volume                    : N/A
+------------------------------------------------------------
+Now playing               : Marcio Philomena — Oak Street
+Last played               : Irvin Smith Group — Moody Promenade
+Last played (UTC)         : 2026-01-27 02:12:32Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Annie Berenson — Railroads → Jasmine Patterson — The Molly Pitchers
-Δ last played (since last): 2026-01-27 01:21:43Z → 2026-01-27 01:27:53Z
+Δ track (since last)      : Jasmine Patterson — The Molly Pitchers → Irvin Smith Group — Moody Promenade
+Δ last played (since last): 2026-01-27 01:27:53Z → 2026-01-27 02:12:32Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:04
-Telemetry age             : 00:03:04
-Δ time (since last report): 00:08:12
+Time since last play      : 00:03:17
+Telemetry age             : 00:03:17
+Δ time (since last report): 00:44:53
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -864,7 +869,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 01:30:56Z → 2026-01-27 01:30:56Z
+Week window (UTC)         : 2026-01-20 02:15:49Z → 2026-01-27 02:15:49Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -872,25 +877,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
-Peak hour (7d)            : 08:00
-Heatmap (24h)             : ▂▁   ▂▂▆█            ▁▄▂
-Heatmap (7d)              : ▂▁   ▂▂▆█            ▁▄▂
+Peak hour (24h)           : 22:00
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :        ▅▇             █▂
+Heatmap (7d)              :        ▅▇             █▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 7
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 00:27:41
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:20:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(31) | rock(31) | jazz(8) | latin rock(8) | alternative metal(3) | alternative rock(3)
-Top genres (7d)           : grunge(31) | rock(31) | jazz(8) | latin rock(8) | alternative metal(3) | alternative rock(3)
-Artist lookups (this run) : 11 (cached)
+Top genres (24h)          : grunge(27) | rock(27) | jazz(20) | latin rock(2)
+Top genres (7d)           : grunge(27) | rock(27) | jazz(20) | latin rock(2)
+Artist lookups (this run) : 12 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 01:30:56Z
+Report generated (UTC)    : 2026-01-27 02:15:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
