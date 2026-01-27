@@ -835,24 +835,22 @@ Status                    : PLAYING
 Playback state            : ONLINE (active session)
 SITREP                    : GREEN
 ------------------------------------------------------------
-Now playing               : Reuben Plays — Low In The Sky
-Last played               : The Groove Trio — On Delancey
-Last played (UTC)         : 2026-01-27 01:11:52Z
+Now playing               : Jaden Berry — The Meadows
+Last played               : Annie Berenson — Railroads
+Last played (UTC)         : 2026-01-27 01:21:43Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Nirvana — Come As You Are - Live → The Groove Trio — On Delancey
-Δ last played (since last): 2026-01-26 11:55:42Z → 2026-01-27 01:11:52Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : The Groove Trio — On Delancey → Annie Berenson — Railroads
+Δ last played (since last): 2026-01-27 01:11:52Z → 2026-01-27 01:21:43Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:11
-Telemetry age             : 00:01:11
-Δ time (since last report): 00:26:02
+Time since last play      : 00:01:02
+Telemetry age             : 00:01:02
+Δ time (since last report): 00:09:42
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
-Authorization scope       : PLAYBACK_STATE
-                           NOW_PLAYING
-                           RECENT_ACTIVITY
+Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -866,12 +864,27 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 01:13:03Z → 2026-01-27 01:13:03Z
+Week window (UTC)         : 2026-01-20 01:22:45Z → 2026-01-27 01:22:45Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 01:13:03Z
+LISTENING HOURS (local time)
+------------------------------------------------------------
+Local timezone            : America/Santiago
+Peak hour (24h)           : 08:00
+Peak hour (7d)            : 08:00
+Heatmap (24h)             : ▂▁   ▂▂▆█            ▁▃▃
+Heatmap (7d)              : ▂▁   ▂▂▆█            ▁▃▃
+------------------------------------------------------------
+SESSION ESTIMATES (inferred)
+------------------------------------------------------------
+Session gap threshold     : 25 minutes
+Sessions (24h)            : 7
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 00:27:41
+------------------------------------------------------------
+Report generated (UTC)    : 2026-01-27 01:22:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
