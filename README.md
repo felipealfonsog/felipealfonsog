@@ -858,13 +858,13 @@ Last played               : Red In Summer — In Apathy
 Last played (UTC)         : 2026-01-28 08:31:58Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : The Phantom Eye — Circuit Rider → Red In Summer — In Apathy
-Δ last played (since last): 2026-01-28 08:29:30Z → 2026-01-28 08:31:58Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:02
-Telemetry age             : 00:00:02
-Δ time (since last report): 00:01:21
+Time since last play      : 00:01:03
+Telemetry age             : 00:01:03
+Δ time (since last report): 00:01:02
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 08:31:59Z → 2026-01-28 08:31:59Z
+Week window (UTC)         : 2026-01-21 08:33:00Z → 2026-01-28 08:33:00Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : progressive metal(9) | metalcore(6) | progressive ro
 Top genres (7d)           : progressive metal(9) | jazz(8) | metalcore(6) | progressive rock(4) | latin rock(3) | grunge(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 08:31:59Z
+Report generated (UTC)    : 2026-01-28 08:33:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
