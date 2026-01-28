@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-28 08:33:00Z",
+  "report_generated_utc": "2026-01-28 08:40:57Z",
   "status": "PLAYING",
-  "last_track": "Red In Summer — In Apathy",
-  "last_played_utc": "2026-01-28 08:31:58Z",
+  "last_track": "Dirty Sound Magnet — Dead Inside",
+  "last_played_utc": "2026-01-28 08:40:30Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -137,6 +137,12 @@
     "3tHRRcfndZ65xaKjpazGtA": [
       "space rock",
       "stoner metal"
-    ]
+    ],
+    "4xRdcudb8V909KuVer6gko": [
+      "psychedelic rock",
+      "stoner rock",
+      "space rock"
+    ],
+    "7uCjD9El3RQM1Y8xA94O8f": []
   }
 }

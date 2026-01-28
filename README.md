@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Lireau — Stone Eyes
-Last played               : Red In Summer — In Apathy
-Last played (UTC)         : 2026-01-28 08:31:58Z
+Now playing               : Maha Sohona — Visions
+Last played               : Dirty Sound Magnet — Dead Inside
+Last played (UTC)         : 2026-01-28 08:40:30Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Red In Summer — In Apathy → Dirty Sound Magnet — Dead Inside
+Δ last played (since last): 2026-01-28 08:31:58Z → 2026-01-28 08:40:30Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:03
-Telemetry age             : 00:01:03
-Δ time (since last report): 00:01:02
+Time since last play      : 00:00:27
+Telemetry age             : 00:00:27
+Δ time (since last report): 00:07:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 36
+Tracks played (last 24h)  : 38
 Dominant artist           : Red In Summer
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 08:33:00Z → 2026-01-28 08:33:00Z
+Week window (UTC)         : 2026-01-21 08:40:57Z → 2026-01-28 08:40:57Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 02:00
-Heatmap (24h)             :  ▁█▄▅▃      ▂           
-Heatmap (7d)              : ▁▁█▄▇▃      ▂          ▇
+Heatmap (24h)             :  ▁█▄▅▅      ▂           
+Heatmap (7d)              : ▁▁█▄▇▅      ▂          ▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:37:22
+Avg inter-play gap (7d)   : 00:37:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(9) | metalcore(6) | progressive rock(4) | grunge(2) | post-grunge(2) | space rock(2)
-Top genres (7d)           : progressive metal(9) | jazz(8) | metalcore(6) | progressive rock(4) | latin rock(3) | grunge(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : progressive metal(9) | metalcore(6) | progressive rock(4) | space rock(3) | grunge(2) | post-grunge(2)
+Top genres (7d)           : progressive metal(9) | jazz(7) | metalcore(6) | progressive rock(4) | latin rock(3) | space rock(3)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 08:33:00Z
+Report generated (UTC)    : 2026-01-28 08:40:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
