@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Citizen Audrey — Enigma of my State
-Last played               : Dos-Ovni — Big Rock
-Last played (UTC)         : 2026-01-28 13:25:54Z
+Now playing               : Morphide — Of Healing Part 5 - Acceptance (Follow Me)
+Last played               : Citizen Audrey — Enigma of my State
+Last played (UTC)         : 2026-01-28 13:29:08Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : BLACKSHAPE — ITIIITIATIIHYLIHYL → Dos-Ovni — Big Rock
-Δ last played (since last): 2026-01-28 13:13:17Z → 2026-01-28 13:25:54Z
+Δ track (since last)      : Dos-Ovni — Big Rock → Citizen Audrey — Enigma of my State
+Δ last played (since last): 2026-01-28 13:25:54Z → 2026-01-28 13:29:08Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:51
-Telemetry age             : 00:01:51
-Δ time (since last report): 00:03:32
+Time since last play      : 00:04:59
+Telemetry age             : 00:04:59
+Δ time (since last report): 00:06:23
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 13:27:44Z → 2026-01-28 13:27:44Z
+Week window (UTC)         : 2026-01-21 13:34:07Z → 2026-01-28 13:34:07Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :       ▆█▇█▂             
-Heatmap (7d)              :       ▆█▇█▂             
+Heatmap (24h)             :       ▅█▇█▂             
+Heatmap (7d)              :       ▅█▇█▂             
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:04:58
+Avg inter-play gap (7d)   : 00:04:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(8) | progressive rock(8) | metalcore(6) | post-grunge(6) | space rock(6) | stoner rock(5)
-Top genres (7d)           : progressive metal(8) | progressive rock(8) | metalcore(6) | post-grunge(6) | space rock(6) | stoner rock(5)
+Top genres (24h)          : progressive metal(8) | progressive rock(8) | metalcore(6) | post-grunge(6) | space rock(5) | djent(4)
+Top genres (7d)           : progressive metal(8) | progressive rock(8) | metalcore(6) | post-grunge(6) | space rock(5) | djent(4)
 Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 13:27:44Z
+Report generated (UTC)    : 2026-01-28 13:34:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
