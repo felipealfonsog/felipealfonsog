@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-28 11:36:51Z",
+  "report_generated_utc": "2026-01-28 11:41:15Z",
   "status": "PLAYING",
-  "last_track": "ASAVA — Confidence",
-  "last_played_utc": "2026-01-28 11:35:33Z",
+  "last_track": "Ions — Callousness",
+  "last_played_utc": "2026-01-28 11:37:52Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -214,6 +214,11 @@
       "progressive metal",
       "progressive rock",
       "djent"
+    ],
+    "6NrThvqZoulRBvlQL1z2VT": [
+      "progressive metal",
+      "djent",
+      "progressive rock"
     ]
   }
 }
