@@ -38,25 +38,17 @@ concurrency:
   cancel-in-progress: false
 
 env:
+  # ------------------------------------------------------------
+  # FAST POLL TOGGLES
+  # ------------------------------------------------------------
   ENABLE_FAST_POLL: "true"        # true/false
   FAST_POLL_MODE: "PLAYING_ONLY"  # PLAYING_ONLY | ANY_SESSION
 
   # ------------------------------------------------------------
-  # Estado observado (diagnóstico + para detectar cambios)
+  # Spotify observer/latch state files (persistidos en repo)
   # ------------------------------------------------------------
   STATE_FILE: ".github/state/spotify_playback_state.json"
-
-  # ------------------------------------------------------------
-  # Latch state (persistente en repo)
-  # armed=true  => listo para disparar una vez
-  # armed=false => ya disparó (no repite) hasta que se rearme
-  # ------------------------------------------------------------
   LATCH_FILE: ".github/state/spotify_fastpoll_latch.json"
-
-  # ------------------------------------------------------------
-  # Anti-stuck: si latch queda “false” demasiado tiempo,
-  # se rearma automáticamente después de X minutos.
-  # ------------------------------------------------------------
   LATCH_COOLDOWN_MINUTES: "20"
 
   # ------------------------------------------------------------
@@ -66,6 +58,17 @@ env:
   CRON_OBSERVER: "*/2 * * * *"
   CRON_FAST: "* * * * *"
 
+  # ------------------------------------------------------------
+  # STORM DETECTOR (muchos workflow-runs seguidos)
+  # ------------------------------------------------------------
+  ENABLE_STORM_EMAIL: "false"     # true/false  -> manda email si hay storm
+  ENABLE_STORM_REPORT: "true"     # true/false  -> escribe Job Summary si hay storm
+  STORM_WINDOW_MINUTES: "15"      # mirar hacia atrás X minutos
+  STORM_THRESHOLD: "10"           # alerta si hay >= X runs en esa ventana
+
+  # Email destino (puedes cambiarlo aquí si quieres)
+  STORM_EMAIL_TO: "felipe.alfonso.glz@gmail.com"
+
 jobs:
   telemetry:
     runs-on: ubuntu-latest
@@ -73,30 +76,29 @@ jobs:
       # ------------------------------------------------------------
       # Checkout
       # ------------------------------------------------------------
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       # ------------------------------------------------------------
       # Python runtime
       # ------------------------------------------------------------
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       # ------------------------------------------------------------
-      # DEBUG: imprime el contexto para saber si el cron entró
+      # Ensure state dir exists
       # ------------------------------------------------------------
-      #- name: Debug context (event/schedule)
-      #  run: |
-      #    set -euo pipefail
-      #    echo "event_name=${{ github.event_name }}"
-      #    echo "schedule=${{ github.event.schedule || '' }}"
-      #    echo "ref=${{ github.ref }}"
-      #    echo "sha=${{ github.sha }}"
+      - name: Ensure state directory
+        run: |
+          set -euo pipefail
+          mkdir -p .github/state
 
       # ------------------------------------------------------------
-      # DEBUG: imprime el contexto para saber si el cron entró
+      # DEBUG: contexto del evento
       # ------------------------------------------------------------
       - name: Debug context (event/schedule)
         run: |
@@ -105,22 +107,17 @@ jobs:
           echo "schedule=${{ github.event.schedule || '' }}"
           echo "ref=${{ github.ref }}"
           echo "sha=${{ github.sha }}"
-      
+
+      # ------------------------------------------------------------
+      # DEBUG: presencia de debug file (no falla)
+      # ------------------------------------------------------------
       - name: Debug spotify file presence
         if: always()
         run: |
           set -euo pipefail
+          ls -la .github || true
           ls -la .github/state || true
           test -f .github/state/spotify_debug.json && echo "spotify_debug.json present ✅" || echo "spotify_debug.json missing ⚠️"
-      
-      - name: Upload Spotify debug
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: spotify-debug
-          path: .github/state/spotify_debug.json
-          if-no-files-found: ignore
-          
 
       # ------------------------------------------------------------
       # Resolve run-mode (baseline | observer | fast | manual)
@@ -156,7 +153,7 @@ jobs:
           echo "Resolved MODE=${MODE} (event=${EVENT}, schedule=${SCHEDULE})"
 
       # ------------------------------------------------------------
-      # Master toggle: afecta observer+fast (baseline/manual siempre corren)
+      # Fast-poll master toggle
       # ------------------------------------------------------------
       - name: Fast-poll master toggle (no-op gate)
         id: gate
@@ -173,8 +170,7 @@ jobs:
           echo "Fast-poll enabled=${EN}"
 
       # ------------------------------------------------------------
-      # Spotify precheck (solo para observer/fast)
-      # - Produce: playing=true/false, why=...
+      # Spotify precheck (solo observer/fast)
       # ------------------------------------------------------------
       - name: Spotify precheck (compute playing flag)
         id: sp
@@ -275,12 +271,7 @@ jobs:
           echo "Spotify playing=${PLAYING} why=${WHY}"
 
       # ------------------------------------------------------------
-      # OBSERVER:
-      # - Escribe STATE_FILE
-      # - Rearma latch al estar IDLE
-      # - Anti-stuck cooldown
-      # - Detecta cambio de estado (PLAYING <-> IDLE)
-      # - Expone: state_changed=true/false
+      # OBSERVER
       # ------------------------------------------------------------
       - name: Observer (state + latch re-arm + cooldown + change detect)
         id: obs
@@ -310,7 +301,6 @@ jobs:
           now_s = now.strftime("%Y-%m-%d %H:%M:%SZ")
           new_state = "PLAYING" if playing else "IDLE"
 
-          # Read previous state (for change detection)
           prev_state = None
           try:
             with open(state_path, "r", encoding="utf-8") as f:
@@ -322,12 +312,10 @@ jobs:
 
           state_changed = (prev_state is not None and prev_state != new_state)
 
-          # Write state file (diagnostic)
           state_obj = {"state": new_state, "why": why, "updated_utc": now_s}
           with open(state_path, "w", encoding="utf-8") as f:
             f.write(json.dumps(state_obj, ensure_ascii=False, indent=2) + "\n")
 
-          # Load latch
           latch = {"armed": True, "updated_utc": now_s, "last_trigger_utc": None}
           try:
             with open(latch_path, "r", encoding="utf-8") as f:
@@ -348,7 +336,6 @@ jobs:
             except Exception:
               return None
 
-          # Anti-stuck cooldown: if disarmed too long => re-arm
           if not armed:
             lt = parse_ts(last_trigger)
             if lt is not None:
@@ -360,7 +347,6 @@ jobs:
               latch["armed"] = True
               latch["cooldown_rearm_utc"] = now_s
 
-          # Re-arm when IDLE
           if not playing:
             latch["armed"] = True
             latch["rearm_utc"] = now_s
@@ -385,6 +371,9 @@ jobs:
 
       - name: Commit observer files (only if changed)
         if: steps.gate.outputs.enabled == 'true' && steps.mode.outputs.mode == 'observer'
+        env:
+          STATE_FILE: ${{ env.STATE_FILE }}
+          LATCH_FILE: ${{ env.LATCH_FILE }}
         run: |
           set -euo pipefail
           if git diff --quiet; then
@@ -398,9 +387,7 @@ jobs:
           git push
 
       # ------------------------------------------------------------
-      # FAST TRIGGER (latch):
-      # - Si playing=true y latch.armed=true => DISPARA y latch.armed=false
-      # - Output: run=true/false
+      # FAST TRIGGER (latch)
       # ------------------------------------------------------------
       - name: Fast trigger (latch)
         id: latch
@@ -455,6 +442,8 @@ jobs:
 
       - name: Commit latch update (only if it triggered)
         if: steps.gate.outputs.enabled == 'true' && steps.mode.outputs.mode == 'fast' && steps.latch.outputs.run == 'true'
+        env:
+          LATCH_FILE: ${{ env.LATCH_FILE }}
         run: |
           set -euo pipefail
           if git diff --quiet; then
@@ -468,12 +457,7 @@ jobs:
           git push
 
       # ------------------------------------------------------------
-      # DECISIÓN: ¿Cuándo ejecutamos spotify_telemetry.py?
-      #
-      # - baseline => siempre
-      # - manual   => siempre
-      # - fast     => solo si latch disparó (run=true)
-      # - observer => solo si detectó cambio de estado (state_changed=true)
+      # Decide whether to update README
       # ------------------------------------------------------------
       - name: Decide whether to update README
         id: decide
@@ -504,7 +488,7 @@ jobs:
           echo "Decision: do_update=${DO} why=${WHY} (mode=${MODE}, enabled=${ENABLED}, fast_run=${FAST_RUN}, state_changed=${STATE_CHANGED})"
 
       # ------------------------------------------------------------
-      # Update README (solo cuando la decisión lo permite)
+      # Update README
       # ------------------------------------------------------------
       - name: Update Spotify telemetry block (fail-safe)
         if: steps.decide.outputs.do_update == 'true'
@@ -529,3 +513,147 @@ jobs:
           git add README.md .github/state/spotify_last_report.json
           git commit -m "chore: update Spotify telemetry (CLI feed)"
           git push
+
+      # ------------------------------------------------------------
+      # Upload debug artifact (si existe)
+      # ------------------------------------------------------------
+      - name: Upload Spotify debug
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: spotify-debug
+          path: .github/state/spotify_debug.json
+          if-no-files-found: ignore
+
+      # ============================================================
+      # STORM DETECTOR: cuenta runs recientes del MISMO workflow
+      # - outputs: alert=true/false, count=N, report_md=...
+      # ============================================================
+      - name: Storm detector (count recent workflow runs)
+        id: storm
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
+          WORKFLOW_FILE: "spotify-telemetry.yml"
+          WINDOW_MIN: ${{ env.STORM_WINDOW_MINUTES }}
+          THRESHOLD: ${{ env.STORM_THRESHOLD }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import os, json
+          from datetime import datetime, timezone, timedelta
+          import urllib.request
+
+          token = os.environ["GH_TOKEN"]
+          owner = os.environ["OWNER"]
+          repo = os.environ["REPO"]
+          wf = os.environ["WORKFLOW_FILE"]
+          window_min = int(os.environ.get("WINDOW_MIN","15"))
+          threshold = int(os.environ.get("THRESHOLD","10"))
+
+          since = datetime.now(timezone.utc) - timedelta(minutes=window_min)
+
+          url = f"https://api.github.com/repos/{owner}/{repo}/actions/workflows/{wf}/runs?per_page=100"
+          req = urllib.request.Request(
+            url,
+            headers={
+              "Authorization": f"Bearer {token}",
+              "Accept": "application/vnd.github+json",
+              "X-GitHub-Api-Version": "2022-11-28",
+              "User-Agent": "storm-detector",
+            },
+          )
+
+          with urllib.request.urlopen(req, timeout=20) as r:
+            data = json.loads(r.read().decode("utf-8","replace"))
+
+          runs = data.get("workflow_runs", []) if isinstance(data, dict) else []
+
+          def parse_ts(s: str):
+            return datetime.fromisoformat(s.replace("Z","+00:00"))
+
+          recent = []
+          for run in runs:
+            try:
+              created = parse_ts(run.get("created_at",""))
+              if created >= since:
+                recent.append(run)
+            except Exception:
+              continue
+
+          count = len(recent)
+          alert = count >= threshold
+
+          # markdown report (para email y/o summary)
+          lines = []
+          lines.append(f"## 🚨 Workflow Storm Detector")
+          lines.append("")
+          lines.append(f"- **Repo:** `{owner}/{repo}`")
+          lines.append(f"- **Workflow:** `{wf}`")
+          lines.append(f"- **Window:** last **{window_min}** minutes")
+          lines.append(f"- **Threshold:** **{threshold}**")
+          lines.append(f"- **Count:** **{count}**")
+          lines.append(f"- **Alert:** **{'YES' if alert else 'NO'}**")
+          lines.append("")
+          lines.append("### Recent runs (newest first)")
+          lines.append("")
+          show = recent[:20]
+          if not show:
+            lines.append("_No runs found in the window._")
+          else:
+            for run in show:
+              lines.append(f"- #{run.get('run_number')} | {run.get('status')} | {run.get('conclusion')} | {run.get('html_url')}")
+
+          report_md = "\n".join(lines)
+
+          out = os.environ["GITHUB_OUTPUT"]
+          with open(out, "a", encoding="utf-8") as f:
+            f.write(f"alert={'true' if alert else 'false'}\n")
+            f.write(f"count={count}\n")
+            f.write("report_md<<__REPORT__\n")
+            f.write(report_md + "\n")
+            f.write("__REPORT__\n")
+          PY
+
+      # ------------------------------------------------------------
+      # STORM REPORT (Job Summary) - solo si pasa umbral + toggle
+      # ------------------------------------------------------------
+      - name: Emergency report (Job Summary)
+        if: steps.storm.outputs.alert == 'true' && (env.ENABLE_STORM_REPORT == 'true' || env.ENABLE_STORM_REPORT == 'TRUE')
+        run: |
+          set -euo pipefail
+          {
+            echo "${{ steps.storm.outputs.report_md }}"
+            echo ""
+            echo "> Triggered by storm condition: count=${{ steps.storm.outputs.count }} in window=${{ env.STORM_WINDOW_MINUTES }}m threshold=${{ env.STORM_THRESHOLD }}"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # ------------------------------------------------------------
+      # STORM EMAIL - solo si pasa umbral + toggle
+      # ------------------------------------------------------------
+      - name: Emergency email (SMTP)
+        if: steps.storm.outputs.alert == 'true' && (env.ENABLE_STORM_EMAIL == 'true' || env.ENABLE_STORM_EMAIL == 'TRUE')
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_HOST }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "🚨 GitHub Actions Storm: ${{ github.repository }} (spotify-telemetry)"
+          to: ${{ env.STORM_EMAIL_TO }}
+          from: ${{ secrets.SMTP_FROM }}
+          secure: true
+          body: |
+            Storm condition detected.
+
+            Repo: ${{ github.repository }}
+            Workflow: spotify-telemetry.yml
+            Window (minutes): ${{ env.STORM_WINDOW_MINUTES }}
+            Threshold: ${{ env.STORM_THRESHOLD }}
+            Count: ${{ steps.storm.outputs.count }}
+
+            Report:
+            ${{ steps.storm.outputs.report_md }}
