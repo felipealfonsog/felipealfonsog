@@ -858,13 +858,13 @@ Last played               : Grenata Rose — Half Life
 Last played (UTC)         : 2026-01-28 11:48:30Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Wheel — Fugue → Grenata Rose — Half Life
-Δ last played (since last): 2026-01-28 11:43:35Z → 2026-01-28 11:48:30Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:14
-Telemetry age             : 00:00:14
-Δ time (since last report): 00:03:13
+Time since last play      : 00:03:27
+Telemetry age             : 00:03:27
+Δ time (since last report): 00:03:14
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 11:48:43Z → 2026-01-28 11:48:43Z
+Week window (UTC)         : 2026-01-21 11:51:57Z → 2026-01-28 11:51:57Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : space rock(9) | metalcore(8) | progressive metal(7) 
 Top genres (7d)           : space rock(9) | metalcore(8) | progressive metal(7) | progressive rock(7) | stoner metal(7) | post-grunge(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 11:48:43Z
+Report generated (UTC)    : 2026-01-28 11:51:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
