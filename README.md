@@ -841,29 +841,30 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (idle session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Dos-Ovni — Big Rock
 Last played               : BLACKSHAPE — ITIIITIATIIHYLIHYL
 Last played (UTC)         : 2026-01-28 13:13:17Z
-Last activity type        : PLAYBACK_INACTIVE
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Parhelion — Banded Eyes → BLACKSHAPE — ITIIITIATIIHYLIHYL
-Δ last played (since last): 2026-01-28 13:06:43Z → 2026-01-28 13:13:17Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:09:12
-Telemetry age             : 00:09:12
-Δ time (since last report): 00:11:06
+Time since last play      : 00:10:57
+Telemetry age             : 00:10:57
+Δ time (since last report): 00:01:46
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -882,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 13:22:28Z → 2026-01-28 13:22:28Z
+Week window (UTC)         : 2026-01-21 13:24:13Z → 2026-01-28 13:24:13Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -906,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | progressive rock(9) | metalcore(6) | post-grunge(6) | space rock(6) | stoner rock(5)
 Top genres (7d)           : progressive metal(9) | progressive rock(9) | metalcore(6) | post-grunge(6) | space rock(6) | stoner rock(5)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 13:22:28Z
+Report generated (UTC)    : 2026-01-28 13:24:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
