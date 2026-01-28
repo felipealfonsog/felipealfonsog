@@ -858,13 +858,13 @@ Last played               : Silver Throne — Unconventional
 Last played (UTC)         : 2026-01-28 11:22:11Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Animal IZZI — Face the Truth → Silver Throne — Unconventional
-Δ last played (since last): 2026-01-28 11:02:20Z → 2026-01-28 11:22:11Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:04
-Telemetry age             : 00:00:04
-Δ time (since last report): 00:04:35
+Time since last play      : 00:03:33
+Telemetry age             : 00:03:33
+Δ time (since last report): 00:03:30
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 11:22:14Z → 2026-01-28 11:22:14Z
+Week window (UTC)         : 2026-01-21 11:25:43Z → 2026-01-28 11:25:43Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : metalcore(9) | space rock(9) | stoner metal(7) | stoner rock(6) | progressive metal(5) | progressive rock(5)
 Top genres (7d)           : metalcore(9) | space rock(9) | stoner metal(7) | stoner rock(6) | progressive metal(5) | progressive rock(5)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 11:22:14Z
+Report generated (UTC)    : 2026-01-28 11:25:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
