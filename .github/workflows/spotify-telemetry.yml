@@ -87,6 +87,17 @@ jobs:
       # ------------------------------------------------------------
       # DEBUG: imprime el contexto para saber si el cron entró
       # ------------------------------------------------------------
+      #- name: Debug context (event/schedule)
+      #  run: |
+      #    set -euo pipefail
+      #    echo "event_name=${{ github.event_name }}"
+      #    echo "schedule=${{ github.event.schedule || '' }}"
+      #    echo "ref=${{ github.ref }}"
+      #    echo "sha=${{ github.sha }}"
+
+      # ------------------------------------------------------------
+      # DEBUG: imprime el contexto para saber si el cron entró
+      # ------------------------------------------------------------
       - name: Debug context (event/schedule)
         run: |
           set -euo pipefail
@@ -94,6 +105,22 @@ jobs:
           echo "schedule=${{ github.event.schedule || '' }}"
           echo "ref=${{ github.ref }}"
           echo "sha=${{ github.sha }}"
+      
+      - name: Debug spotify file presence
+        if: always()
+        run: |
+          set -euo pipefail
+          ls -la .github/state || true
+          test -f .github/state/spotify_debug.json && echo "spotify_debug.json present ✅" || echo "spotify_debug.json missing ⚠️"
+      
+      - name: Upload Spotify debug
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: spotify-debug
+          path: .github/state/spotify_debug.json
+          if-no-files-found: ignore
+          
 
       # ------------------------------------------------------------
       # Resolve run-mode (baseline | observer | fast | manual)
