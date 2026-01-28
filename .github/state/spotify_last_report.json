@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-28 10:02:45Z",
-  "status": "IDLE",
-  "last_track": "Marble — smile at strangers",
-  "last_played_utc": "2026-01-28 09:59:02Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-01-28 11:17:40Z",
+  "status": "PLAYING",
+  "last_track": "Animal IZZI — Face the Truth",
+  "last_played_utc": "2026-01-28 11:02:20Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -178,6 +178,31 @@
     "0yacjrFvJqylCSuaEsOPct": [
       "sludge metal",
       "stoner metal"
-    ]
+    ],
+    "5arHpA9wRZ30zAMowP0DZM": [
+      "post-grunge"
+    ],
+    "3b20140Z72jsTR17KF3gr0": [
+      "shoegaze"
+    ],
+    "5rkinygmPZhjy01QTp8ClO": [
+      "progressive metal",
+      "progressive rock",
+      "space rock"
+    ],
+    "4EeOMEii7KuoUrVVG3PIhV": [
+      "progressive metal",
+      "progressive rock",
+      "industrial rock"
+    ],
+    "58HjcrZgkKUaldPPK7BuDX": [
+      "stoner rock",
+      "space rock",
+      "stoner metal",
+      "psychedelic rock",
+      "sludge metal"
+    ],
+    "4DRfQMDNaWz3Edl6qEUPjb": [],
+    "2SpwKpFCOpBPjAZOFSzIq4": []
   }
 }
