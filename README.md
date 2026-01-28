@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : I Hate Elephants Sitting on Children — Temptation
-Last played               : Red In Summer — Consume
-Last played (UTC)         : 2026-01-28 07:00:18Z
+Now playing               : Atomic Fruit — Sketches Of The Moon
+Last played               : I Hate Elephants Sitting on Children — Temptation
+Last played (UTC)         : 2026-01-28 07:06:48Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pinhdar — Humans → Red In Summer — Consume
-Δ last played (since last): 2026-01-28 06:36:37Z → 2026-01-28 07:00:18Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Red In Summer — Consume → I Hate Elephants Sitting on Children — Temptation
+Δ last played (since last): 2026-01-28 07:00:18Z → 2026-01-28 07:06:48Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:01
-Telemetry age             : 00:04:01
-Δ time (since last report): 00:10:47
+Time since last play      : 00:04:30
+Telemetry age             : 00:04:30
+Δ time (since last report): 00:07:00
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 07:04:18Z → 2026-01-28 07:04:18Z
+Week window (UTC)         : 2026-01-21 07:11:17Z → 2026-01-28 07:11:17Z
 Total tracks played       : 50
 Dominant artist           : Proxima Flare
 Cadence classification    : HIGH
@@ -894,22 +894,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 02:00
 Heatmap (24h)             :  ▁█▄▂       ▂           
-Heatmap (7d)              : ▁▁█▄▂       ▂         █▇
+Heatmap (7d)              : ▁▁█▄▃       ▂         ▇▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : 3
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:36:18
+Avg inter-play gap (7d)   : 00:36:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(9) | metalcore(4) | progressive rock(4) | grunge(2) | latin rock(2) | post-grunge(2)
-Top genres (7d)           : jazz(20) | progressive metal(9) | metalcore(4) | progressive rock(4) | latin rock(3) | grunge(2)
+Top genres (24h)          : progressive metal(9) | metalcore(4) | progressive rock(4) | grunge(2) | post-grunge(2) | garage rock(1)
+Top genres (7d)           : jazz(19) | progressive metal(9) | metalcore(4) | progressive rock(4) | latin rock(3) | grunge(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 07:04:18Z
+Report generated (UTC)    : 2026-01-28 07:11:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
