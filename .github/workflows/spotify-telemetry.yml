@@ -2,152 +2,280 @@ name: Spotify Telemetry (CLI feed)
 
 on:
   workflow_dispatch:
-    inputs:
-      enable_precheck:
-        description: "true = run pre-check (skip job if not listening); false = behave like original (no pre-check)"
-        required: false
-        default: "false"
-      precheck_mode:
-        description: "PLAYING_ONLY (is_playing=true) | ANY_SESSION (player session exists)"
-        required: false
-        default: "PLAYING_ONLY"
   schedule:
+    # ------------------------------------------------------------
+    # NORMAL CRON (baseline)
+    # - Siempre corre cada 3h, pase lo que pase
+    # ------------------------------------------------------------
     - cron: "23 */3 * * *"
+
+    # ------------------------------------------------------------
+    # FAST POLL (cada 1 minuto)
+    # - SOLO sirve para disparar una vez cuando detecta playback
+    # - Con latch: NO repite mientras siga la misma sesión
+    # ------------------------------------------------------------
+    - cron: "* * * * *"
 
 permissions:
   contents: write
 
 env:
   # ------------------------------------------------------------
-  # DEFAULT behavior for scheduled runs (cron):
-  # false => original behavior (no pre-check)
-  # true  => run pre-check first
+  # Toggle maestro del FAST POLL
+  #
+  # true  => habilita detección rápida (1 min) + latch
+  # false => el cron 1 min se vuelve no-op
+  #          (el cron 3h sigue funcionando normal)
   # ------------------------------------------------------------
-  ENABLE_PRECHECK: "true"
-  PRECHECK_MODE: "PLAYING_ONLY"
+  ENABLE_FAST_POLL: "true"        # true/false
+  FAST_POLL_MODE: "PLAYING_ONLY"  # PLAYING_ONLY | ANY_SESSION
+  LATCH_FILE: ".github/state/spotify_fastpoll_latch.json"
 
 jobs:
   telemetry:
     runs-on: ubuntu-latest
     steps:
+      # ------------------------------------------------------------
+      # Checkout
+      # ------------------------------------------------------------
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      # ------------------------------------------------------------
+      # Python runtime
+      # ------------------------------------------------------------
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # Resolve final toggle value:
-      # - For schedule: uses env ENABLE_PRECHECK/PRECHECK_MODE
-      # - For workflow_dispatch: inputs override env
-      - name: Resolve pre-check toggle
-        id: cfg
-        run: |
-          set -euo pipefail
-
-          ENABLE="${ENABLE_PRECHECK}"
-          MODE="${PRECHECK_MODE}"
-
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            if [ -n "${{ inputs.enable_precheck }}" ]; then
-              ENABLE="${{ inputs.enable_precheck }}"
-            fi
-            if [ -n "${{ inputs.precheck_mode }}" ]; then
-              MODE="${{ inputs.precheck_mode }}"
-            fi
-          fi
-
-          ENABLE="$(echo "${ENABLE}" | tr '[:upper:]' '[:lower:]')"
-          MODE="$(echo "${MODE}" | tr '[:lower:]' '[:upper:]')"
-
-          if [ "${ENABLE}" != "true" ] && [ "${ENABLE}" != "false" ]; then
-            ENABLE="false"
-          fi
-
-          if [ "${MODE}" != "PLAYING_ONLY" ] && [ "${MODE}" != "ANY_SESSION" ]; then
-            MODE="PLAYING_ONLY"
-          fi
-
-          echo "enable=${ENABLE}" >> "$GITHUB_OUTPUT"
-          echo "mode=${MODE}" >> "$GITHUB_OUTPUT"
-
-      # Only runs if toggle is true
-      - name: Pre-check Spotify playback (guard)
+      # ------------------------------------------------------------
+      # Guard + Latch
+      #
+      # Behavior:
+      # - For NORMAL (3h) schedule and workflow_dispatch:
+      #     Always allow (original behavior).
+      #
+      # - For FAST POLL (1m):
+      #     If ENABLE_FAST_POLL != true => skip immediately.
+      #
+      #     Else:
+      #       1) Detect playback via Spotify
+      #       2) Latch logic:
+      #           - If NOT playing/session => set armed=true (re-arm), skip.
+      #           - If playing/session:
+      #                - If armed=true => allow run and set armed=false (latch).
+      #                - If armed=false => skip (already fired for this session).
+      #
+      # State persisted in repo file: .github/state/spotify_fastpoll_latch.json
+      # ------------------------------------------------------------
+      - name: Guard (fast poll + latch)
         id: guard
-        if: steps.cfg.outputs.enable == 'true'
         env:
-          MODE: ${{ steps.cfg.outputs.mode }}
+          ENABLE_FAST_POLL: ${{ env.ENABLE_FAST_POLL }}
+          FAST_POLL_MODE: ${{ env.FAST_POLL_MODE }}
+          LATCH_FILE: ${{ env.LATCH_FILE }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           set -euo pipefail
-          python3 - <<'PY' | tee -a "$GITHUB_OUTPUT"
-          import os, base64, json, urllib.parse, urllib.request, urllib.error
 
-          cid = os.environ.get("SPOTIFY_CLIENT_ID","").strip()
-          csec = os.environ.get("SPOTIFY_CLIENT_SECRET","").strip()
-          rt = os.environ.get("SPOTIFY_REFRESH_TOKEN","").strip()
-          mode = (os.environ.get("MODE","PLAYING_ONLY") or "PLAYING_ONLY").upper()
+          EVENT="${{ github.event_name }}"
+          SCHEDULE="${{ github.event.schedule || '' }}"
 
-          def refresh_token():
-            auth = base64.b64encode(f"{cid}:{csec}".encode()).decode()
-            data = urllib.parse.urlencode({"grant_type":"refresh_token","refresh_token":rt}).encode("utf-8")
-            req = urllib.request.Request(
-              "https://accounts.spotify.com/api/token",
-              data=data,
-              headers={"Authorization": f"Basic {auth}", "Content-Type":"application/x-www-form-urlencoded"},
-              method="POST",
-            )
-            with urllib.request.urlopen(req, timeout=20) as r:
-              payload = json.loads(r.read().decode("utf-8","replace"))
-              return payload.get("access_token")
+          # Defaults: allow (keeps original behavior for normal cron + manual runs)
+          SHOULD_RUN="true"
+          REASON="normal_or_manual"
+          CHANGED_LATCH="false"
 
-          def get_player(tok):
-            req = urllib.request.Request(
-              "https://api.spotify.com/v1/me/player",
-              headers={"Authorization": f"Bearer {tok}"},
-            )
-            try:
-              with urllib.request.urlopen(req, timeout=20) as r:
-                raw = r.read().decode("utf-8","replace").strip()
-                data = json.loads(raw) if raw else None
-                return r.status, data
-            except urllib.error.HTTPError as e:
-              if e.code == 204:
-                return 204, None
-              try:
-                raw = e.read().decode("utf-8","replace")
-              except Exception:
-                raw = ""
-              return e.code, raw
+          FAST_CRON="* * * * *"
 
-          should_run = True  # default if something goes weird? better to NOT skip silently
-          # But if we can safely decide, we do:
-          if cid and csec and rt:
-            tok = refresh_token()
-            if tok:
-              code, data = get_player(tok)
-              if code == 200 and isinstance(data, dict):
-                if mode == "ANY_SESSION":
-                  should_run = True
-                else:
-                  should_run = bool(data.get("is_playing"))
-              else:
-                # If Spotify says "no player" (204), then don't run when guard is enabled
-                if code == 204:
-                  should_run = False
+          # Apply latch guard ONLY for the fast poll schedule
+          if [ "${EVENT}" = "schedule" ] && [ "${SCHEDULE}" = "${FAST_CRON}" ]; then
+            EN="$(echo "${ENABLE_FAST_POLL}" | tr '[:upper:]' '[:lower:]')"
+            if [ "${EN}" != "true" ]; then
+              SHOULD_RUN="false"
+              REASON="fast_poll_disabled"
+            else
+              # Ensure state dir exists
+              mkdir -p "$(dirname "${LATCH_FILE}")"
 
-          print("run_job=" + ("true" if should_run else "false"))
-          PY
+              # Read latch state (armed=true by default)
+              ARMED="true"
+              if [ -f "${LATCH_FILE}" ]; then
+                # file format: {"armed": true, "updated_utc":"..."}
+                ARMED="$(python3 - <<'PY' "${LATCH_FILE}"
+import json, sys
+p = sys.argv[1]
+try:
+  obj = json.load(open(p,"r",encoding="utf-8"))
+  armed = obj.get("armed", True)
+  print("true" if armed else "false")
+except Exception:
+  print("true")
+PY
+                )"
+              fi
+              ARMED="$(echo "${ARMED}" | tr '[:upper:]' '[:lower:]')"
+              if [ "${ARMED}" != "true" ] && [ "${ARMED}" != "false" ]; then
+                ARMED="true"
+              fi
 
-      # This step runs when:
-      # - precheck toggle is false (original behavior)
-      # OR
-      # - precheck toggle is true AND guard says run_job=true
+              # --- Spotify precheck (same logic you had, but returning PLAYING flag) ---
+              python3 - <<'PY' > /tmp/spotify_check.txt
+import os, base64, json, urllib.parse, urllib.request, urllib.error
+
+cid = os.environ.get("SPOTIFY_CLIENT_ID","").strip()
+csec = os.environ.get("SPOTIFY_CLIENT_SECRET","").strip()
+rt = os.environ.get("SPOTIFY_REFRESH_TOKEN","").strip()
+mode = (os.environ.get("FAST_POLL_MODE","PLAYING_ONLY") or "PLAYING_ONLY").upper()
+
+def refresh_token():
+  auth = base64.b64encode(f"{cid}:{csec}".encode()).decode()
+  data = urllib.parse.urlencode({"grant_type":"refresh_token","refresh_token":rt}).encode("utf-8")
+  req = urllib.request.Request(
+    "https://accounts.spotify.com/api/token",
+    data=data,
+    headers={"Authorization": f"Basic {auth}", "Content-Type":"application/x-www-form-urlencoded"},
+    method="POST",
+  )
+  with urllib.request.urlopen(req, timeout=20) as r:
+    payload = json.loads(r.read().decode("utf-8","replace"))
+    return payload.get("access_token")
+
+def get_json(url, tok):
+  req = urllib.request.Request(url, headers={"Authorization": f"Bearer {tok}"})
+  try:
+    with urllib.request.urlopen(req, timeout=20) as r:
+      raw = r.read().decode("utf-8","replace").strip()
+      data = json.loads(raw) if raw else None
+      return r.status, data
+  except urllib.error.HTTPError as e:
+    if e.code == 204:
+      return 204, None
+    try:
+      raw = e.read().decode("utf-8","replace").strip()
+      data = json.loads(raw) if raw else raw
+    except Exception:
+      data = None
+    return e.code, data
+  except Exception:
+    return -1, None
+
+playing = False
+reason = "unknown"
+
+if cid and csec and rt:
+  tok = refresh_token()
+  if tok:
+    code, data = get_json("https://api.spotify.com/v1/me/player", tok)
+
+    if code == 200 and isinstance(data, dict):
+      if mode == "ANY_SESSION":
+        dev = data.get("device")
+        playing = isinstance(dev, dict) and bool(dev)
+        reason = "player_any_session"
+      else:
+        playing = bool(data.get("is_playing"))
+        reason = "player_is_playing"
+    elif code == 204:
+      # fallback: currently-playing
+      c2, d2 = get_json("https://api.spotify.com/v1/me/player/currently-playing", tok)
+      if c2 == 200 and isinstance(d2, dict):
+        playing = bool(d2.get("is_playing"))
+        reason = "currently_playing_fallback"
+      else:
+        playing = False
+        reason = "no_active_player"
+    else:
+      playing = False
+      reason = f"player_http_{code}"
+else:
+  playing = False
+  reason = "missing_secrets"
+
+print(("true" if playing else "false") + " " + reason)
+PY
+
+              PLAYING="$(awk '{print $1}' /tmp/spotify_check.txt | tail -n1 | tr '[:upper:]' '[:lower:]')"
+              WHY="$(awk '{print $2}' /tmp/spotify_check.txt | tail -n1)"
+              rm -f /tmp/spotify_check.txt
+
+              # --- Latch algorithm ---
+              if [ "${PLAYING}" != "true" ]; then
+                # Not playing => re-arm latch for next time, but do NOT run job
+                SHOULD_RUN="false"
+                REASON="not_playing_${WHY}"
+
+                if [ "${ARMED}" != "true" ]; then
+                  # latch was disarmed, re-arm it now
+                  python3 - <<'PY' "${LATCH_FILE}"
+import json, sys
+from datetime import datetime, timezone
+p = sys.argv[1]
+obj = {"armed": True, "updated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")}
+open(p,"w",encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2) + "\n")
+PY
+                  CHANGED_LATCH="true"
+                fi
+              else
+                # Playing/session exists
+                if [ "${ARMED}" = "true" ]; then
+                  # First detection in this session => allow run, then disarm latch
+                  SHOULD_RUN="true"
+                  REASON="triggered_${WHY}"
+
+                  python3 - <<'PY' "${LATCH_FILE}"
+import json, sys
+from datetime import datetime, timezone
+p = sys.argv[1]
+obj = {"armed": False, "updated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")}
+open(p,"w",encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2) + "\n")
+PY
+                  CHANGED_LATCH="true"
+                else
+                  # Already triggered during this session => skip
+                  SHOULD_RUN="false"
+                  REASON="already_triggered_${WHY}"
+                fi
+              fi
+            fi
+          fi
+
+          echo "should_run=${SHOULD_RUN}" >> "$GITHUB_OUTPUT"
+          echo "reason=${REASON}" >> "$GITHUB_OUTPUT"
+          echo "changed_latch=${CHANGED_LATCH}" >> "$GITHUB_OUTPUT"
+          echo "event=${EVENT}" >> "$GITHUB_OUTPUT"
+          echo "schedule=${SCHEDULE}" >> "$GITHUB_OUTPUT"
+          echo "Decision: should_run=${SHOULD_RUN} reason=${REASON} changed_latch=${CHANGED_LATCH} (event=${EVENT}, schedule=${SCHEDULE})"
+
+      # ------------------------------------------------------------
+      # If latch file changed, commit it immediately.
+      # - This is what makes the “only once per session” durable.
+      # - It happens only when:
+      #   (a) first trigger => armed true -> false
+      #   (b) re-arm => false -> true (when playback stops)
+      # ------------------------------------------------------------
+      - name: Commit latch state (if changed)
+        if: steps.guard.outputs.changed_latch == 'true'
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No latch changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/state/spotify_fastpoll_latch.json
+          git commit -m "chore: fast-poll latch update"
+          git push
+
+      # ------------------------------------------------------------
+      # Update telemetry (only when allowed)
+      # ------------------------------------------------------------
       - name: Update Spotify telemetry block (fail-safe)
-        if: steps.cfg.outputs.enable != 'true' || steps.guard.outputs.run_job == 'true'
+        if: steps.guard.outputs.should_run == 'true'
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
@@ -156,8 +284,11 @@ jobs:
           set -euo pipefail
           python3 .github/scripts/spotify_telemetry.py
 
+      # ------------------------------------------------------------
+      # Commit & push if changed (only when allowed)
+      # ------------------------------------------------------------
       - name: Commit & push if changed
-        if: steps.cfg.outputs.enable != 'true' || steps.guard.outputs.run_job == 'true'
+        if: steps.guard.outputs.should_run == 'true'
         run: |
           set -euo pipefail
           if git diff --quiet; then
