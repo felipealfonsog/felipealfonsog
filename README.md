@@ -858,13 +858,13 @@ Last played               : Dirty Sound Magnet — Dead Inside
 Last played (UTC)         : 2026-01-28 08:40:30Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Red In Summer — In Apathy → Dirty Sound Magnet — Dead Inside
-Δ last played (since last): 2026-01-28 08:31:58Z → 2026-01-28 08:40:30Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:27
-Telemetry age             : 00:00:27
-Δ time (since last report): 00:07:57
+Time since last play      : 00:08:25
+Telemetry age             : 00:08:25
+Δ time (since last report): 00:07:58
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 08:40:57Z → 2026-01-28 08:40:57Z
+Week window (UTC)         : 2026-01-21 08:48:54Z → 2026-01-28 08:48:54Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | metalcore(6) | progressive rock(4) | space rock(3) | grunge(2) | post-grunge(2)
 Top genres (7d)           : progressive metal(9) | jazz(7) | metalcore(6) | progressive rock(4) | latin rock(3) | space rock(3)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 08:40:57Z
+Report generated (UTC)    : 2026-01-28 08:48:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
