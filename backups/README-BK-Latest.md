@@ -306,7 +306,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-28 09:36:22Z
+DSN snapshot (UTC)       : 2026-01-28 14:41:26Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -318,13 +318,13 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.44e9 km | 170.027 AU
-Heliocentric distance    : 169.522 AU
-Relative speed           : 24.444 km/s
+Heliocentric distance    : 169.524 AU
+Relative speed           : 24.400 km/s
 ------------------------------------------------------------
 One-way light time       : 23:34:04
 Round-trip latency       : 47:08:08
 ------------------------------------------------------------
-Δ distance (since last)  : -24,355 km
+Δ distance (since last)  : -7,249 km
 Mission age              : 48 years, 157 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -336,19 +336,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.690 AU
-Heliocentric distance    : 141.952 AU
-Relative speed           : 31.662 km/s
+Earth distance           : 21.35e9 km | 142.691 AU
+Heliocentric distance    : 141.953 AU
+Relative speed           : 31.626 km/s
 ------------------------------------------------------------
 One-way light time       : 19:46:43
-Round-trip latency       : 39:33:26
+Round-trip latency       : 39:33:27
 ------------------------------------------------------------
-Δ distance (since last)  : +87,939 km
+Δ distance (since last)  : +25,092 km
 Mission age              : 48 years, 173 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-28 09:36:24Z
+Report generated (UTC)   : 2026-01-28 14:41:33Z
 ```
 
 <!-- VOYAGER:END -->
@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Red In Summer — Save Me
-Last played               : heaven // alone — exonerate
-Last played (UTC)         : 2026-01-28 12:35:54Z
+Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
+Last played               : Jess Lai Mieritz, Alex Rudinger — Fall Away
+Last played (UTC)         : 2026-01-28 14:26:00Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:01:43
-Telemetry age             : 00:01:43
-Δ time (since last report): 00:01:24
+Time since last play      : 00:14:35
+Telemetry age             : 00:14:35
+Δ time (since last report): 00:01:09
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,39 +877,39 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 50
-Dominant artist           : Red In Summer
+Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 12:37:37Z → 2026-01-28 12:37:37Z
+Week window (UTC)         : 2026-01-21 14:40:34Z → 2026-01-28 14:40:34Z
 Total tracks played       : 50
-Dominant artist           : Red In Summer
+Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
-Peak hour (7d)            : 07:00
-Heatmap (24h)             :      ▃▇█▇▅              
-Heatmap (7d)              :      ▃▇█▇▅              
+Peak hour (24h)           : 09:00
+Peak hour (7d)            : 09:00
+Heatmap (24h)             :        ▆▇█▆▃            
+Heatmap (7d)              :        ▆▇█▆▃            
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:05:02
+Avg inter-play gap (7d)   : 00:05:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(9) | progressive rock(9) | space rock(9) | stoner rock(7) | metalcore(6) | post-grunge(6)
-Top genres (7d)           : progressive metal(9) | progressive rock(9) | space rock(9) | stoner rock(7) | metalcore(6) | post-grunge(6)
+Top genres (24h)          : progressive metal(8) | progressive rock(7) | metalcore(6) | post-grunge(5) | space rock(5) | djent(4)
+Top genres (7d)           : progressive metal(8) | progressive rock(7) | metalcore(6) | post-grunge(5) | space rock(5) | djent(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 12:37:37Z
+Report generated (UTC)    : 2026-01-28 14:40:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1312,7 +1312,7 @@ Writing Docs   35 mins        ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/01/2026 12:17:53 UTC
+Last updated     : 28/01/2026 14:16:04 UTC
 
 ```
 <!--END_SECTION:wakastats-->
