@@ -140,80 +140,80 @@ PY
               # Spotify precheck -> "true reason" | "false reason"
               # -----------------------------
               cat > /tmp/spotify_check.py <<'PY'
-import os, base64, json, urllib.parse, urllib.request, urllib.error
-
-cid = os.environ.get("SPOTIFY_CLIENT_ID","").strip()
-csec = os.environ.get("SPOTIFY_CLIENT_SECRET","").strip()
-rt = os.environ.get("SPOTIFY_REFRESH_TOKEN","").strip()
-mode = (os.environ.get("FAST_POLL_MODE","PLAYING_ONLY") or "PLAYING_ONLY").upper()
-
-def refresh_token():
-  auth = base64.b64encode(f"{cid}:{csec}".encode()).decode()
-  data = urllib.parse.urlencode({"grant_type":"refresh_token","refresh_token":rt}).encode("utf-8")
-  req = urllib.request.Request(
-    "https://accounts.spotify.com/api/token",
-    data=data,
-    headers={"Authorization": f"Basic {auth}", "Content-Type":"application/x-www-form-urlencoded"},
-    method="POST",
-  )
-  with urllib.request.urlopen(req, timeout=20) as r:
-    payload = json.loads(r.read().decode("utf-8","replace"))
-    return payload.get("access_token")
-
-def get_json(url, tok):
-  req = urllib.request.Request(url, headers={"Authorization": f"Bearer {tok}"})
-  try:
-    with urllib.request.urlopen(req, timeout=20) as r:
-      raw = r.read().decode("utf-8","replace").strip()
-      data = json.loads(raw) if raw else None
-      return r.status, data
-  except urllib.error.HTTPError as e:
-    if e.code == 204:
-      return 204, None
-    try:
-      raw = e.read().decode("utf-8","replace").strip()
-      data = json.loads(raw) if raw else raw
-    except Exception:
-      data = None
-    return e.code, data
-  except Exception:
-    return -1, None
-
-playing = False
-reason = "unknown"
-
-if cid and csec and rt:
-  tok = refresh_token()
-  if tok:
-    code, data = get_json("https://api.spotify.com/v1/me/player", tok)
-    if code == 200 and isinstance(data, dict):
-      if mode == "ANY_SESSION":
-        dev = data.get("device")
-        playing = isinstance(dev, dict) and bool(dev)
-        reason = "player_any_session"
-      else:
-        playing = bool(data.get("is_playing"))
-        reason = "player_is_playing"
-    elif code == 204:
-      c2, d2 = get_json("https://api.spotify.com/v1/me/player/currently-playing", tok)
-      if c2 == 200 and isinstance(d2, dict):
-        playing = bool(d2.get("is_playing"))
-        reason = "currently_playing_fallback"
-      else:
-        playing = False
-        reason = "no_active_player"
-    else:
-      playing = False
-      reason = f"player_http_{code}"
-  else:
-    playing = False
-    reason = "token_failed"
-else:
-  playing = False
-  reason = "missing_secrets"
-
-print(("true" if playing else "false") + " " + reason)
-PY
+              import os, base64, json, urllib.parse, urllib.request, urllib.error
+              
+              cid = os.environ.get("SPOTIFY_CLIENT_ID","").strip()
+              csec = os.environ.get("SPOTIFY_CLIENT_SECRET","").strip()
+              rt = os.environ.get("SPOTIFY_REFRESH_TOKEN","").strip()
+              mode = (os.environ.get("FAST_POLL_MODE","PLAYING_ONLY") or "PLAYING_ONLY").upper()
+              
+              def refresh_token():
+                auth = base64.b64encode(f"{cid}:{csec}".encode()).decode()
+                data = urllib.parse.urlencode({"grant_type":"refresh_token","refresh_token":rt}).encode("utf-8")
+                req = urllib.request.Request(
+                  "https://accounts.spotify.com/api/token",
+                  data=data,
+                  headers={"Authorization": f"Basic {auth}", "Content-Type":"application/x-www-form-urlencoded"},
+                  method="POST",
+                )
+                with urllib.request.urlopen(req, timeout=20) as r:
+                  payload = json.loads(r.read().decode("utf-8","replace"))
+                  return payload.get("access_token")
+              
+              def get_json(url, tok):
+                req = urllib.request.Request(url, headers={"Authorization": f"Bearer {tok}"})
+                try:
+                  with urllib.request.urlopen(req, timeout=20) as r:
+                    raw = r.read().decode("utf-8","replace").strip()
+                    data = json.loads(raw) if raw else None
+                    return r.status, data
+                except urllib.error.HTTPError as e:
+                  if e.code == 204:
+                    return 204, None
+                  try:
+                    raw = e.read().decode("utf-8","replace").strip()
+                    data = json.loads(raw) if raw else raw
+                  except Exception:
+                    data = None
+                  return e.code, data
+                except Exception:
+                  return -1, None
+              
+              playing = False
+              reason = "unknown"
+              
+              if cid and csec and rt:
+                tok = refresh_token()
+                if tok:
+                  code, data = get_json("https://api.spotify.com/v1/me/player", tok)
+                  if code == 200 and isinstance(data, dict):
+                    if mode == "ANY_SESSION":
+                      dev = data.get("device")
+                      playing = isinstance(dev, dict) and bool(dev)
+                      reason = "player_any_session"
+                    else:
+                      playing = bool(data.get("is_playing"))
+                      reason = "player_is_playing"
+                  elif code == 204:
+                    c2, d2 = get_json("https://api.spotify.com/v1/me/player/currently-playing", tok)
+                    if c2 == 200 and isinstance(d2, dict):
+                      playing = bool(d2.get("is_playing"))
+                      reason = "currently_playing_fallback"
+                    else:
+                      playing = False
+                      reason = "no_active_player"
+                  else:
+                    playing = False
+                    reason = f"player_http_{code}"
+                else:
+                  playing = False
+                  reason = "token_failed"
+              else:
+                playing = False
+                reason = "missing_secrets"
+              
+              print(("true" if playing else "false") + " " + reason)
+              PY
 
               read -r PLAYING WHY < <(python3 /tmp/spotify_check.py)
               PLAYING="$(echo "${PLAYING}" | tr '[:upper:]' '[:lower:]')"
@@ -227,12 +227,12 @@ PY
 
                 if [ "${ARMED}" != "true" ]; then
                   cat > /tmp/write_latch_arm.py <<'PY'
-import json, sys
-from datetime import datetime, timezone
-p = sys.argv[1]
-obj = {"armed": True, "updated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")}
-open(p, "w", encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2) + "\n")
-PY
+              import json, sys
+              from datetime import datetime, timezone
+              p = sys.argv[1]
+              obj = {"armed": True, "updated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")}
+              open(p, "w", encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2) + "\n")
+              PY
                   python3 /tmp/write_latch_arm.py "${LATCH_FILE}"
                   CHANGED_LATCH="true"
                 fi
@@ -242,12 +242,12 @@ PY
                   REASON="triggered_${WHY}"
 
                   cat > /tmp/write_latch_disarm.py <<'PY'
-import json, sys
-from datetime import datetime, timezone
-p = sys.argv[1]
-obj = {"armed": False, "updated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")}
-open(p, "w", encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2) + "\n")
-PY
+                import json, sys
+                from datetime import datetime, timezone
+                p = sys.argv[1]
+                obj = {"armed": False, "updated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")}
+                open(p, "w", encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2) + "\n")
+                PY
                   python3 /tmp/write_latch_disarm.py "${LATCH_FILE}"
                   CHANGED_LATCH="true"
                 else
@@ -269,46 +269,46 @@ PY
       # ------------------------------------------------------------
       # Commit latch state (si cambió)
       # ------------------------------------------------------------
-      - name: Commit latch state (if changed)
-        if: steps.guard.outputs.changed_latch == 'true'
-        run: |
-          set -euo pipefail
-          if git diff --quiet; then
-            echo "No latch changes."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .github/state/spotify_fastpoll_latch.json
-          git commit -m "chore: fast-poll latch update"
-          git push
-
-      # ------------------------------------------------------------
-      # Update telemetry (solo si guard dijo "true")
-      # ------------------------------------------------------------
-      - name: Update Spotify telemetry block (fail-safe)
-        if: steps.guard.outputs.should_run == 'true'
-        env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-        run: |
-          set -euo pipefail
-          python3 .github/scripts/spotify_telemetry.py
-
-      # ------------------------------------------------------------
-      # Commit & push telemetry (solo si guard dijo "true")
-      # ------------------------------------------------------------
-      - name: Commit & push if changed
-        if: steps.guard.outputs.should_run == 'true'
-        run: |
-          set -euo pipefail
-          if git diff --quiet; then
-            echo "No changes."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md .github/state/spotify_last_report.json
-          git commit -m "chore: update Spotify telemetry (CLI feed)"
-          git push
+          - name: Commit latch state (if changed)
+            if: steps.guard.outputs.changed_latch == 'true'
+            run: |
+              set -euo pipefail
+              if git diff --quiet; then
+                echo "No latch changes."
+                exit 0
+              fi
+              git config user.name "github-actions[bot]"
+              git config user.email "github-actions[bot]@users.noreply.github.com"
+              git add .github/state/spotify_fastpoll_latch.json
+              git commit -m "chore: fast-poll latch update"
+              git push
+    
+          # ------------------------------------------------------------
+          # Update telemetry (solo si guard dijo "true")
+          # ------------------------------------------------------------
+          - name: Update Spotify telemetry block (fail-safe)
+            if: steps.guard.outputs.should_run == 'true'
+            env:
+              SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+              SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+              SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+            run: |
+              set -euo pipefail
+              python3 .github/scripts/spotify_telemetry.py
+    
+          # ------------------------------------------------------------
+          # Commit & push telemetry (solo si guard dijo "true")
+          # ------------------------------------------------------------
+          - name: Commit & push if changed
+            if: steps.guard.outputs.should_run == 'true'
+            run: |
+              set -euo pipefail
+              if git diff --quiet; then
+                echo "No changes."
+                exit 0
+              fi
+              git config user.name "github-actions[bot]"
+              git config user.email "github-actions[bot]@users.noreply.github.com"
+              git add README.md .github/state/spotify_last_report.json
+              git commit -m "chore: update Spotify telemetry (CLI feed)"
+              git push
