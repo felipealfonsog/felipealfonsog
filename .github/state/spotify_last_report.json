@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-28 19:31:33Z",
+  "report_generated_utc": "2026-01-28 19:57:39Z",
   "status": "PLAYING",
-  "last_track": "Silver Throne — Where Your Feet Have Been",
-  "last_played_utc": "2026-01-28 19:29:36Z",
+  "last_track": "PRAUN — Vanishing Point",
+  "last_played_utc": "2026-01-28 19:35:49Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -247,6 +247,9 @@
     "7hXW1IT2hugSTjgIsLSx1c": [
       "progressive metal"
     ],
-    "31qAwyo9zIW6EdVjuavAH9": []
+    "31qAwyo9zIW6EdVjuavAH9": [],
+    "165xm8aLeHmfgAw5wWwcRw": [
+      "alternative metal"
+    ]
   }
 }

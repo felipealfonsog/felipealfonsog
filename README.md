@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : PRAUN — Vanishing Point
-Last played               : Silver Throne — Where Your Feet Have Been
-Last played (UTC)         : 2026-01-28 19:29:36Z
+Now playing               : Stone Sea — Mystify
+Last played               : PRAUN — Vanishing Point
+Last played (UTC)         : 2026-01-28 19:35:49Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Our Chronicle — This Way → Silver Throne — Where Your Feet Have Been
-Δ last played (since last): 2026-01-28 19:23:33Z → 2026-01-28 19:29:36Z
+Δ track (since last)      : Silver Throne — Where Your Feet Have Been → PRAUN — Vanishing Point
+Δ last played (since last): 2026-01-28 19:29:36Z → 2026-01-28 19:35:49Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:57
-Telemetry age             : 00:01:57
-Δ time (since last report): 00:07:16
+Time since last play      : 00:21:51
+Telemetry age             : 00:21:51
+Δ time (since last report): 00:26:07
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 19:31:33Z → 2026-01-28 19:31:33Z
+Week window (UTC)         : 2026-01-21 19:57:39Z → 2026-01-28 19:57:39Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -901,15 +901,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:10:21
+Avg inter-play gap (7d)   : 00:10:09
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(7) | progressive rock(6) | djent(5) | metalcore(5) | post-grunge(3) | space rock(3)
-Top genres (7d)           : progressive metal(7) | progressive rock(6) | djent(5) | metalcore(5) | post-grunge(3) | space rock(3)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : progressive metal(7) | progressive rock(6) | djent(5) | metalcore(5) | space rock(3) | stoner rock(3)
+Top genres (7d)           : progressive metal(7) | progressive rock(6) | djent(5) | metalcore(5) | space rock(3) | stoner rock(3)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 19:31:33Z
+Report generated (UTC)    : 2026-01-28 19:57:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
