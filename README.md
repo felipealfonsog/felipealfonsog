@@ -856,9 +856,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:58:19
-Telemetry age             : 05:58:19
-Δ time (since last report): 02:53:27
+Time since last play      : 12:21:40
+Telemetry age             : 12:21:40
+Δ time (since last report): 06:23:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -870,14 +870,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 35
+Tracks played (last 24h)  : 5
 Dominant artist           : Proxima Flare
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 21:31:27Z → 2026-01-27 21:31:27Z
+Week window (UTC)         : 2026-01-21 03:54:48Z → 2026-01-28 03:54:48Z
 Total tracks played       : 50
 Dominant artist           : Nirvana
 Cadence classification    : HIGH
@@ -885,25 +885,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : 12:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :     ▁       ▁         █▅
+Heatmap (24h)             :     ▅       █           
 Heatmap (7d)              :     ▁   ▇   ▁         █▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 3
 Sessions (7d)             : 6
 Avg inter-play gap (7d)   : 00:34:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(25) | latin rock(3) | progressive metal(3) | bossa nova(1) | grunge(1) | rock(1)
+Top genres (24h)          : progressive metal(3) | latin rock(2)
 Top genres (7d)           : jazz(25) | grunge(16) | rock(16) | latin rock(3) | progressive metal(3) | bossa nova(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 21:31:27Z
+Report generated (UTC)    : 2026-01-28 03:54:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
