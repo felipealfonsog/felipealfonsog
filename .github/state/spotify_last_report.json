@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-28 04:46:14Z",
-  "status": "IDLE",
-  "last_track": "Proxima Flare — An Insufferable Dilemma",
-  "last_played_utc": "2026-01-27 15:33:08Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-01-28 05:43:22Z",
+  "status": "PLAYING",
+  "last_track": "floodlit — Ama",
+  "last_played_utc": "2026-01-28 05:42:59Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -99,6 +99,25 @@
     ],
     "315Th53dV868sSv3jYt8UO": [
       "progressive metal"
-    ]
+    ],
+    "30gmLXY17vQ2muy2MQubWn": [],
+    "28Ps4MXmGKNVn1NVlSwvs8": [
+      "post-grunge",
+      "grunge"
+    ],
+    "2il2sBjwdjQzy5vQdNO8j4": [
+      "progressive metal",
+      "progressive rock"
+    ],
+    "3vS55FlehYb41hwlCx3D3b": [
+      "metalcore"
+    ],
+    "4dQ9qqKO52Uk4E8IBDeGU5": [],
+    "7ldF71EX4P9odISH5LQdAt": [],
+    "6J0fSOjMF8fnWGC9eNu4lD": [
+      "progressive rock",
+      "progressive metal"
+    ],
+    "1LsefiT2Up3mCWD00LN8ck": []
   }
 }
