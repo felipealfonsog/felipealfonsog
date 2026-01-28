@@ -858,13 +858,13 @@ Last played               : heaven // alone — exonerate
 Last played (UTC)         : 2026-01-28 12:35:54Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : I Hate Elephants Sitting on Children — Fear Is Just a Concept → heaven // alone — exonerate
-Δ last played (since last): 2026-01-28 12:30:28Z → 2026-01-28 12:35:54Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:03
-Telemetry age             : 00:00:03
-Δ time (since last report): 00:00:21
+Time since last play      : 00:00:20
+Telemetry age             : 00:00:20
+Δ time (since last report): 00:00:17
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 12:35:57Z → 2026-01-28 12:35:57Z
+Week window (UTC)         : 2026-01-21 12:36:13Z → 2026-01-28 12:36:13Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | progressive rock(9) | space rock(9) | stoner rock(7) | metalcore(6) | post-grunge(6)
 Top genres (7d)           : progressive metal(9) | progressive rock(9) | space rock(9) | stoner rock(7) | metalcore(6) | post-grunge(6)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 12:35:57Z
+Report generated (UTC)    : 2026-01-28 12:36:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
