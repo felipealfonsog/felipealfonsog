@@ -1,0 +1,60 @@
+name: Spotify Telemetry (baseline)
+
+on:
+  workflow_dispatch:
+  schedule:
+    # ------------------------------------------------------------
+    # BASELINE (como antes)
+    # - Corre cada 3h, pase lo que pase
+    # ------------------------------------------------------------
+    - cron: "23 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  # ------------------------------------------------------------
+  # Baseline no se pelea con los otros workflows
+  # ------------------------------------------------------------
+  group: spotify-telemetry-baseline
+  cancel-in-progress: false
+
+jobs:
+  telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Debug context
+        run: |
+          echo "event=${{ github.event_name }}"
+          echo "ref=${{ github.ref }}"
+          echo "sha=${{ github.sha }}"
+
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update Spotify telemetry block (baseline)
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          set -euo pipefail
+          python3 .github/scripts/spotify_telemetry.py
+
+      - name: Commit & push if changed (baseline)
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "Baseline: no changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/state/spotify_last_report.json
+          git commit -m "chore: update Spotify telemetry (baseline)"
+          git push
