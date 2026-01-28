@@ -4,15 +4,15 @@ on:
   workflow_dispatch:
   schedule:
     # ------------------------------------------------------------
-    # NORMAL CRON (baseline / “como antes”)
-    # - Siempre corre cada 3h, pase lo que pase
+    # NORMAL CRON (baseline, “como antes”)
+    # - Se ejecuta siempre cada 3h, pase lo que pase
     # ------------------------------------------------------------
     - cron: "23 */3 * * *"
 
     # ------------------------------------------------------------
     # FAST POLL (cada 1 minuto)
-    # - Solo dispara 1 vez cuando detecta playback
-    # - Con latch: NO repite mientras siga la misma sesión
+    # - Solo intenta disparar cuando detecta playback
+    # - Con latch + cooldown: dispara 1 vez y luego se calla
     # ------------------------------------------------------------
     - cron: "* * * * *"
 
@@ -22,22 +22,28 @@ permissions:
 env:
   # ------------------------------------------------------------
   # Toggle maestro del fast poll
-  # true  => habilita cron 1m + guard + latch
-  # false => cron 1m se vuelve no-op, cron 3h sigue normal
+  # true  => habilita fast poll + guard
+  # false => fast poll se vuelve no-op, pero el cron 3h sigue normal
   # ------------------------------------------------------------
   ENABLE_FAST_POLL: "true"        # true/false
 
   # ------------------------------------------------------------
-  # Modo fast poll
-  # PLAYING_ONLY => requiere is_playing=true
-  # ANY_SESSION  => requiere sesión activa (device existe)
+  # Modo de decisión del fast poll
+  # PLAYING_ONLY => requiere playback real (is_playing=true)
+  # ANY_SESSION  => basta con sesión/dispositivo activo
   # ------------------------------------------------------------
   FAST_POLL_MODE: "PLAYING_ONLY"  # PLAYING_ONLY | ANY_SESSION
 
   # ------------------------------------------------------------
-  # Latch state file (persistido en el repo)
+  # Latch state en el repo (persistente)
   # ------------------------------------------------------------
   LATCH_FILE: ".github/state/spotify_fastpoll_latch.json"
+
+  # ------------------------------------------------------------
+  # Anti-stuck: si el latch queda “false” para siempre,
+  # se rearma automáticamente después de X minutos.
+  # ------------------------------------------------------------
+  LATCH_COOLDOWN_MINUTES: "20"
 
 jobs:
   telemetry:
@@ -58,28 +64,55 @@ jobs:
           python-version: "3.11"
 
       # ------------------------------------------------------------
-      # Guard + Latch (decide si este run debe ejecutar o no)
-      # - Normal (3h): siempre allow
-      # - Fast (1m): allow solo si detecta playback y latch armado
+      # Decide si este run debe proceder o no
+      #
+      # - Cron 3h: SIEMPRE corre (comportamiento original)
+      # - Cron 1m: corre solo si guard dice should_run=true
       # ------------------------------------------------------------
-      - name: Guard (fast poll + latch)
+      - name: Guard decision (fast poll + latch)
         id: guard
         env:
-          EVENT_NAME: ${{ github.event_name }}
-          SCHEDULE_CRON: ${{ github.event.schedule }}
           ENABLE_FAST_POLL: ${{ env.ENABLE_FAST_POLL }}
           FAST_POLL_MODE: ${{ env.FAST_POLL_MODE }}
           LATCH_FILE: ${{ env.LATCH_FILE }}
+          LATCH_COOLDOWN_MINUTES: ${{ env.LATCH_COOLDOWN_MINUTES }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           set -euo pipefail
-          python3 .github/scripts/spotify_fastpoll_guard.py
+
+          EVENT="${{ github.event_name }}"
+          SCHEDULE="${{ github.event.schedule || '' }}"
+
+          # Default: allow (cron 3h + manual)
+          SHOULD_RUN="true"
+          REASON="normal_or_manual"
+          CHANGED="false"
+
+          FAST_CRON="* * * * *"
+
+          # Solo aplicar guard en fast poll schedule
+          if [ "${EVENT}" = "schedule" ] && [ "${SCHEDULE}" = "${FAST_CRON}" ]; then
+            python3 .github/scripts/spotify_fastpoll_guard.py > /tmp/guard.txt
+            cat /tmp/guard.txt
+
+            SHOULD_RUN="$(grep -E '^should_run=' /tmp/guard.txt | tail -n1 | cut -d= -f2)"
+            REASON="$(grep -E '^reason=' /tmp/guard.txt | tail -n1 | cut -d= -f2)"
+            CHANGED="$(grep -E '^changed_latch=' /tmp/guard.txt | tail -n1 | cut -d= -f2)"
+            rm -f /tmp/guard.txt
+          fi
+
+          echo "should_run=${SHOULD_RUN}" >> "$GITHUB_OUTPUT"
+          echo "reason=${REASON}" >> "$GITHUB_OUTPUT"
+          echo "changed_latch=${CHANGED}" >> "$GITHUB_OUTPUT"
+          echo "event=${EVENT}" >> "$GITHUB_OUTPUT"
+          echo "schedule=${SCHEDULE}" >> "$GITHUB_OUTPUT"
+
+          echo "Decision: should_run=${SHOULD_RUN} reason=${REASON} changed_latch=${CHANGED} (event=${EVENT}, schedule=${SCHEDULE})"
 
       # ------------------------------------------------------------
-      # Commit latch (solo si cambió)
-      # - Hace durable el “solo una vez por sesión”
+      # Commit latch si cambió (persistencia del “solo una vez”)
       # ------------------------------------------------------------
       - name: Commit latch state (if changed)
         if: steps.guard.outputs.changed_latch == 'true'
@@ -96,7 +129,7 @@ jobs:
           git push
 
       # ------------------------------------------------------------
-      # Update telemetry (solo si guard dijo true)
+      # Actualiza telemetría solo si corresponde
       # ------------------------------------------------------------
       - name: Update Spotify telemetry block (fail-safe)
         if: steps.guard.outputs.should_run == 'true'
@@ -109,7 +142,7 @@ jobs:
           python3 .github/scripts/spotify_telemetry.py
 
       # ------------------------------------------------------------
-      # Commit & push (solo si guard dijo true)
+      # Commit README/state si hubo cambios
       # ------------------------------------------------------------
       - name: Commit & push if changed
         if: steps.guard.outputs.should_run == 'true'
