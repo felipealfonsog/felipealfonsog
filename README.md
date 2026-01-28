@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Our Chronicle — This Way
-Last played               : Morphide — Of Healing Part 5 - Acceptance (Follow Me)
-Last played (UTC)         : 2026-01-28 13:42:12Z
+Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
+Last played               : Our Chronicle — This Way
+Last played (UTC)         : 2026-01-28 13:47:18Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Citizen Audrey — Enigma of my State → Morphide — Of Healing Part 5 - Acceptance (Follow Me)
-Δ last played (since last): 2026-01-28 13:29:08Z → 2026-01-28 13:42:12Z
+Δ track (since last)      : Morphide — Of Healing Part 5 - Acceptance (Follow Me) → Our Chronicle — This Way
+Δ last played (since last): 2026-01-28 13:42:12Z → 2026-01-28 13:47:18Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:13
-Telemetry age             : 00:02:13
-Δ time (since last report): 00:08:37
+Time since last play      : 00:03:18
+Telemetry age             : 00:03:18
+Δ time (since last report): 00:06:12
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 13:44:24Z → 2026-01-28 13:44:24Z
+Week window (UTC)         : 2026-01-21 13:50:36Z → 2026-01-28 13:50:36Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,8 +893,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :       ▃█▇█▄             
-Heatmap (7d)              :       ▃█▇█▄             
+Heatmap (24h)             :       ▂█▇█▅             
+Heatmap (7d)              :       ▂█▇█▅             
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -909,7 +909,7 @@ Top genres (24h)          : progressive metal(8) | progressive rock(8) | metalco
 Top genres (7d)           : progressive metal(8) | progressive rock(8) | metalcore(7) | space rock(6) | post-grunge(5) | stoner rock(5)
 Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 13:44:24Z
+Report generated (UTC)    : 2026-01-28 13:50:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
