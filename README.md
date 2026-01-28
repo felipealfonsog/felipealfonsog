@@ -841,48 +841,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Pinhdar — Humans
-Last played (UTC)         : 2026-01-28 06:36:37Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : I Hate Elephants Sitting on Children — Temptation
+Last played               : Red In Summer — Consume
+Last played (UTC)         : 2026-01-28 07:00:18Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : Pinhdar — Humans → Red In Summer — Consume
+Δ last played (since last): 2026-01-28 06:36:37Z → 2026-01-28 07:00:18Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:16:55
-Telemetry age             : 00:16:55
-Δ time (since last report): 00:15:00
+Time since last play      : 00:04:01
+Telemetry age             : 00:04:01
+Δ time (since last report): 00:10:47
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
+Tracks played (last 24h)  : 26
 Dominant artist           : Proxima Flare
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 06:53:32Z → 2026-01-28 06:53:32Z
+Week window (UTC)         : 2026-01-21 07:04:18Z → 2026-01-28 07:04:18Z
 Total tracks played       : 50
 Dominant artist           : Proxima Flare
 Cadence classification    : HIGH
@@ -891,24 +892,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
-Peak hour (7d)            : 22:00
-Heatmap (24h)             :  ▁█▄▁       ▂           
-Heatmap (7d)              : ▁▁▇▄▁       ▂         █▇
+Peak hour (7d)            : 02:00
+Heatmap (24h)             :  ▁█▄▂       ▂           
+Heatmap (7d)              : ▁▁█▄▂       ▂         █▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:35:53
+Avg inter-play gap (7d)   : 00:36:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(9) | progressive rock(4) | metalcore(3) | grunge(2) | latin rock(2) | post-grunge(2)
-Top genres (7d)           : jazz(21) | progressive metal(9) | progressive rock(4) | latin rock(3) | metalcore(3) | grunge(2)
+Top genres (24h)          : progressive metal(9) | metalcore(4) | progressive rock(4) | grunge(2) | latin rock(2) | post-grunge(2)
+Top genres (7d)           : jazz(20) | progressive metal(9) | metalcore(4) | progressive rock(4) | latin rock(3) | grunge(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 06:53:32Z
+Report generated (UTC)    : 2026-01-28 07:04:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
