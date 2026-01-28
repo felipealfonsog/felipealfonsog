@@ -858,13 +858,13 @@ Last played               : Jess Lai Mieritz, Alex Rudinger — Fall Away
 Last played (UTC)         : 2026-01-28 13:50:45Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Our Chronicle — This Way → Jess Lai Mieritz, Alex Rudinger — Fall Away
-Δ last played (since last): 2026-01-28 13:47:18Z → 2026-01-28 13:50:45Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:53
-Telemetry age             : 00:04:53
-Δ time (since last report): 00:05:02
+Time since last play      : 00:06:25
+Telemetry age             : 00:06:25
+Δ time (since last report): 00:01:32
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 13:55:38Z → 2026-01-28 13:55:38Z
+Week window (UTC)         : 2026-01-21 13:57:09Z → 2026-01-28 13:57:09Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(8) | progressive rock(8) | metalcore(7) | post-grunge(5) | space rock(5) | djent(4)
 Top genres (7d)           : progressive metal(8) | progressive rock(8) | metalcore(7) | post-grunge(5) | space rock(5) | djent(4)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 13:55:38Z
+Report generated (UTC)    : 2026-01-28 13:57:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
