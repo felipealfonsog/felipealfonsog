@@ -841,34 +841,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
 Last played               : Jess Lai Mieritz, Alex Rudinger — Fall Away
 Last played (UTC)         : 2026-01-28 14:26:00Z
-Last activity type        : NO_ACTIVE_SESSION
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-01-28 14:20:32Z → 2026-01-28 14:26:00Z
-Δ status (since last)     : PLAYING → IDLE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:13:26
-Telemetry age             : 00:13:26
-Δ time (since last report): 00:18:39
+Time since last play      : 00:14:35
+Telemetry age             : 00:14:35
+Δ time (since last report): 00:01:09
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -882,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 14:39:26Z → 2026-01-28 14:39:26Z
+Week window (UTC)         : 2026-01-21 14:40:34Z → 2026-01-28 14:40:34Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -908,7 +909,7 @@ Top genres (24h)          : progressive metal(8) | progressive rock(7) | metalco
 Top genres (7d)           : progressive metal(8) | progressive rock(7) | metalcore(6) | post-grunge(5) | space rock(5) | djent(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 14:39:26Z
+Report generated (UTC)    : 2026-01-28 14:40:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
