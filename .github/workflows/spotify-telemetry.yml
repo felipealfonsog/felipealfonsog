@@ -4,117 +4,91 @@ on:
   workflow_dispatch:
   schedule:
     # ------------------------------------------------------------
-    # NORMAL CRON (baseline)
-    # - Siempre corre cada 3h, pase lo que pase
+    # BASELINE (cada 3h)
     # ------------------------------------------------------------
     - cron: "23 */3 * * *"
+    #- cron: "0 * * * *"
 
     # ------------------------------------------------------------
-    # OBSERVER (cada 2 minutos)
-    # - Observa estado (PLAYING/IDLE)
-    # - Rearma latch al quedar IDLE
-    # - Consume latch UNA sola vez al entrar en PLAYING
-    # - Si latch se consume => gatilla update del README 1 vez
+    # POLL (chequeo) - AJUSTA AQUÍ
+    # - Este run SIEMPRE ocurre (porque es cron)
+    # - Pero SOLO hace update si estás escuchando
+    # - LATCH evita que dispare repetido por sesión
     # ------------------------------------------------------------
-    - cron: "*/2 * * * *"
+    #	•	*/15 → 96 runs/día
+	  # •	*/30 → 48 runs/día
+    # 15 */3 * * * Cada 3 horas
+    # */15 * * * * Cada 15 min
+    # 0 * * * * Cada 1 hora
+
+	  # •	0 * * * * → 24 # runs/día ✅ recomendado si quieres paz
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
   issues: write
 
-# ------------------------------------------------------------
-# IMPORTANTE:
-# - No cancelamos runs en progreso.
-# - El anti-spam lo hace el latch + NO tener cron 1-min.
-# ------------------------------------------------------------
 concurrency:
   group: spotify-telemetry
   cancel-in-progress: false
 
 env:
   # ------------------------------------------------------------
-  # ENABLES
+  # POLL TOGGLE
   # ------------------------------------------------------------
-  ENABLE_OBSERVER: "true"         # true/false
-  ENABLE_STORM_REPORT: "true"     # true/false
-  ENABLE_STORM_ISSUE: "true"      # true/false
+  ENABLE_POLL: "true"              # true/false
+  POLL_MODE: "PLAYING_ONLY"        # PLAYING_ONLY | ANY_SESSION
 
   # ------------------------------------------------------------
-  # Spotify mode
+  # LATCH (persistido en repo)
+  # - armed=true  => puede disparar si detecta PLAYING
+  # - armed=false => ya disparó en esta sesión; no dispara de nuevo
+  # - se rearma cuando queda IDLE
   # ------------------------------------------------------------
-  FAST_POLL_MODE: "PLAYING_ONLY"  # PLAYING_ONLY | ANY_SESSION
+  LATCH_FILE: ".github/state/spotify_latch.json"
 
   # ------------------------------------------------------------
-  # State / latch files (persistidos en repo)
-  # ------------------------------------------------------------
-  STATE_FILE: ".github/state/spotify_playback_state.json"
-  LATCH_FILE: ".github/state/spotify_fastpoll_latch.json"
-  LATCH_COOLDOWN_MINUTES: "20"
-
-  # ------------------------------------------------------------
-  # Strings exactos para identificar schedules
+  # Identify schedule strings
   # ------------------------------------------------------------
   CRON_BASELINE: "23 */3 * * *"
-  CRON_OBSERVER: "*/2 * * * *"
+  CRON_POLL: "*/15 * * * *"
 
   # ------------------------------------------------------------
   # STORM DETECTOR (muchos workflow-runs seguidos)
   # ------------------------------------------------------------
+  ENABLE_STORM_REPORT: "true"      # true/false -> Job Summary
+  ENABLE_STORM_ISSUE: "true"       # true/false -> Issue (mensaje interno GitHub)
   STORM_WINDOW_MINUTES: "15"
   STORM_THRESHOLD: "10"
-  WORKFLOW_FILE: "spotify-telemetry.yml"
+  STORM_ISSUE_LABEL: "actions-storm"
+  STORM_ISSUE_DEDUP_MINUTES: "60"  # no crear otro issue igual dentro de 60m
 
 jobs:
   telemetry:
     runs-on: ubuntu-latest
-
     steps:
-      # ------------------------------------------------------------
-      # Checkout
-      # ------------------------------------------------------------
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # ------------------------------------------------------------
-      # Python runtime
-      # ------------------------------------------------------------
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # ------------------------------------------------------------
-      # Ensure state dir exists
-      # ------------------------------------------------------------
       - name: Ensure state directory
         run: |
           set -euo pipefail
           mkdir -p .github/state
 
-      # ------------------------------------------------------------
-      # Debug context
-      # ------------------------------------------------------------
-      - name: Debug context (event/schedule)
-        run: |
-          set -euo pipefail
-          echo "event_name=${{ github.event_name }}"
-          echo "schedule=${{ github.event.schedule || '' }}"
-          echo "ref=${{ github.ref }}"
-          echo "sha=${{ github.sha }}"
-
-      # ------------------------------------------------------------
-      # Resolve run-mode (baseline | observer | manual)
-      # ------------------------------------------------------------
       - name: Resolve run mode
         id: mode
         env:
           CRON_BASELINE: ${{ env.CRON_BASELINE }}
-          CRON_OBSERVER: ${{ env.CRON_OBSERVER }}
+          CRON_POLL: ${{ env.CRON_POLL }}
         run: |
           set -euo pipefail
-
           EVENT="${{ github.event_name }}"
           SCHEDULE="${{ github.event.schedule || '' }}"
 
@@ -122,30 +96,42 @@ jobs:
           if [ "${EVENT}" = "schedule" ]; then
             if [ "${SCHEDULE}" = "${CRON_BASELINE}" ]; then
               MODE="baseline"
-            elif [ "${SCHEDULE}" = "${CRON_OBSERVER}" ]; then
-              MODE="observer"
+            elif [ "${SCHEDULE}" = "${CRON_POLL}" ]; then
+              MODE="poll"
             else
               MODE="unknown_schedule"
             fi
           fi
 
           echo "mode=${MODE}" >> "$GITHUB_OUTPUT"
-          echo "event=${EVENT}" >> "$GITHUB_OUTPUT"
           echo "schedule=${SCHEDULE}" >> "$GITHUB_OUTPUT"
-          echo "Resolved MODE=${MODE} (event=${EVENT}, schedule=${SCHEDULE})"
+          echo "Resolved MODE=${MODE} (schedule=${SCHEDULE})"
+
+      - name: Poll master toggle (gate)
+        id: gate
+        env:
+          ENABLE_POLL: ${{ env.ENABLE_POLL }}
+        run: |
+          set -euo pipefail
+          EN="$(echo "${ENABLE_POLL}" | tr '[:upper:]' '[:lower:]')"
+          if [ "${EN}" = "true" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+          fi
+          echo "Poll enabled=${EN}"
 
       # ------------------------------------------------------------
-      # Spotify precheck (solo observer)
-      # - Produce: playing=true/false, why=...
+      # Spotify precheck (solo si MODE=poll y poll enabled)
       # ------------------------------------------------------------
-      - name: Spotify precheck (compute playing flag)
+      - name: Spotify precheck (playing?)
         id: sp
-        if: env.ENABLE_OBSERVER == 'true' && steps.mode.outputs.mode == 'observer'
+        if: steps.mode.outputs.mode == 'poll' && steps.gate.outputs.enabled == 'true'
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          FAST_POLL_MODE: ${{ env.FAST_POLL_MODE }}
+          POLL_MODE: ${{ env.POLL_MODE }}
         run: |
           set -euo pipefail
 
@@ -155,7 +141,7 @@ jobs:
           cid = os.environ.get("SPOTIFY_CLIENT_ID","").strip()
           csec = os.environ.get("SPOTIFY_CLIENT_SECRET","").strip()
           rt = os.environ.get("SPOTIFY_REFRESH_TOKEN","").strip()
-          mode = (os.environ.get("FAST_POLL_MODE","PLAYING_ONLY") or "PLAYING_ONLY").upper()
+          mode = (os.environ.get("POLL_MODE","PLAYING_ONLY") or "PLAYING_ONLY").upper()
 
           def refresh_token():
             auth = base64.b64encode(f"{cid}:{csec}".encode()).decode()
@@ -237,146 +223,97 @@ jobs:
           echo "Spotify playing=${PLAYING} why=${WHY}"
 
       # ------------------------------------------------------------
-      # OBSERVER: state + latch
-      # - SOLO escribe/commitea si hay cambio real (no timestamps sueltos)
-      # - latch:
-      #   * IDLE => armado=true
-      #   * PLAYING y armado=true => consume (armado=false) y habilita update 1 vez
+      # LATCH DECISION (integrado en POLL)
+      # - Si playing=true && armed=true => trigger=true y desarma latch
+      # - Si playing=false => rearma latch (para próxima sesión)
       # ------------------------------------------------------------
-      - name: Observer (state + latch + change detect)
-        id: obs
-        if: env.ENABLE_OBSERVER == 'true' && steps.mode.outputs.mode == 'observer'
+      - name: Latch decision (poll)
+        id: latch
+        if: steps.mode.outputs.mode == 'poll' && steps.gate.outputs.enabled == 'true'
         env:
-          STATE_FILE: ${{ env.STATE_FILE }}
           LATCH_FILE: ${{ env.LATCH_FILE }}
-          LATCH_COOLDOWN_MINUTES: ${{ env.LATCH_COOLDOWN_MINUTES }}
           PLAYING: ${{ steps.sp.outputs.playing }}
-          WHY: ${{ steps.sp.outputs.why }}
         run: |
           set -euo pipefail
-          mkdir -p "$(dirname "${STATE_FILE}")"
           mkdir -p "$(dirname "${LATCH_FILE}")"
 
-          python3 - <<'PY' > /tmp/observer_out.txt
+          python3 - <<'PY' > /tmp/latch_out.txt
           import json, os
           from datetime import datetime, timezone
 
-          state_path = os.environ["STATE_FILE"]
-          latch_path = os.environ["LATCH_FILE"]
-          cooldown_min = int((os.environ.get("LATCH_COOLDOWN_MINUTES","20") or "20").strip())
+          path = os.environ["LATCH_FILE"]
           playing = (os.environ.get("PLAYING","false").lower() == "true")
-          why = os.environ.get("WHY","unknown")
+          now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
 
-          now = datetime.now(timezone.utc)
-          now_s = now.strftime("%Y-%m-%d %H:%M:%SZ")
-          new_state = "PLAYING" if playing else "IDLE"
-
-          # ---- read previous state (for change detection)
-          prev_state = None
+          latch = {"armed": True, "updated_utc": now, "last_trigger_utc": None}
           try:
-            with open(state_path, "r", encoding="utf-8") as f:
-              old = json.load(f)
-              if isinstance(old, dict):
-                prev_state = old.get("state")
-          except Exception:
-            pass
-
-          state_changed = (prev_state is None) or (prev_state != new_state)
-
-          # ---- read latch
-          latch = {"armed": True, "last_trigger_utc": None}
-          try:
-            with open(latch_path, "r", encoding="utf-8") as f:
+            with open(path, "r", encoding="utf-8") as f:
               cur = json.load(f)
               if isinstance(cur, dict):
                 latch.update(cur)
           except Exception:
             pass
 
-          def parse_ts(s):
-            if not s:
-              return None
-            try:
-              return datetime.fromisoformat(s.replace("Z","+00:00"))
-            except Exception:
-              return None
+          armed = bool(latch.get("armed", True))
+          trigger = False
+          reason = "none"
 
-          # Anti-stuck: rearma si quedó desarmado demasiado rato
-          if not bool(latch.get("armed", True)):
-            lt = parse_ts(latch.get("last_trigger_utc"))
-            if lt is not None:
-              age_sec = (now - lt).total_seconds()
-              if age_sec >= cooldown_min * 60:
-                latch["armed"] = True
-                latch["cooldown_rearm_utc"] = now_s
-            else:
-              latch["armed"] = True
-              latch["cooldown_rearm_utc"] = now_s
-
-          # Regla principal: IDLE rearma
-          if not playing:
-            latch["armed"] = True
-            latch["rearm_utc"] = now_s
-
-          # Consumir latch SOLO una vez al entrar en PLAYING
-          latch_triggered = False
-          if playing and bool(latch.get("armed", True)):
+          if playing and armed:
+            trigger = True
+            reason = "playing_and_armed"
             latch["armed"] = False
-            latch["last_trigger_utc"] = now_s
-            latch_triggered = True
+            latch["last_trigger_utc"] = now
+          elif playing and not armed:
+            trigger = False
+            reason = "playing_but_latched"
+          else:
+            # not playing => rearm for next session
+            latch["armed"] = True
+            trigger = False
+            reason = "not_playing_rearm"
 
-          # ---- write files ONLY if they would differ
-          state_obj = {"state": new_state, "why": why, "updated_utc": now_s}
-          with open(state_path, "w", encoding="utf-8") as f:
-            f.write(json.dumps(state_obj, ensure_ascii=False, indent=2) + "\n")
+          latch["updated_utc"] = now
 
-          latch["updated_utc"] = now_s
-          with open(latch_path, "w", encoding="utf-8") as f:
+          with open(path, "w", encoding="utf-8") as f:
             f.write(json.dumps(latch, ensure_ascii=False, indent=2) + "\n")
 
-          print(f"state_changed={'true' if state_changed else 'false'}")
-          print(f"latch_triggered={'true' if latch_triggered else 'false'}")
-          print(f"new_state={new_state}")
-          print(f"prev_state={prev_state}")
+          print(("true" if trigger else "false") + " " + reason)
           PY
 
-          STATE_CHANGED="$(grep -E '^state_changed=' /tmp/observer_out.txt | cut -d= -f2 | tail -n1)"
-          LATCH_TRIG="$(grep -E '^latch_triggered=' /tmp/observer_out.txt | cut -d= -f2 | tail -n1)"
-          rm -f /tmp/observer_out.txt
+          TRIGGER="$(awk '{print $1}' /tmp/latch_out.txt | tail -n1)"
+          REASON="$(awk '{print $2}' /tmp/latch_out.txt | tail -n1)"
+          rm -f /tmp/latch_out.txt
 
-          echo "state_changed=${STATE_CHANGED}" >> "$GITHUB_OUTPUT"
-          echo "latch_triggered=${LATCH_TRIG}" >> "$GITHUB_OUTPUT"
-          echo "Observer: state_changed=${STATE_CHANGED} latch_triggered=${LATCH_TRIG}"
+          echo "trigger=${TRIGGER}" >> "$GITHUB_OUTPUT"
+          echo "reason=${REASON}" >> "$GITHUB_OUTPUT"
+          echo "Latch: trigger=${TRIGGER} reason=${REASON}"
 
-      - name: Commit observer state/latch (only if changed)
-        if: env.ENABLE_OBSERVER == 'true' && steps.mode.outputs.mode == 'observer'
+      - name: Commit latch file (only if changed)
+        if: steps.mode.outputs.mode == 'poll' && steps.gate.outputs.enabled == 'true'
         env:
-          STATE_FILE: ${{ env.STATE_FILE }}
           LATCH_FILE: ${{ env.LATCH_FILE }}
         run: |
           set -euo pipefail
           if git diff --quiet; then
-            echo "Observer: no state/latch changes."
+            echo "Latch: no changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "${STATE_FILE}" "${LATCH_FILE}"
-          git commit -m "chore: update spotify observer state"
+          git add "${LATCH_FILE}"
+          git commit -m "chore: update spotify latch"
           git push
 
       # ------------------------------------------------------------
-      # Decide update:
-      # - baseline/manual => siempre
-      # - observer => SOLO si latch_triggered=true (o sea, solo 1 vez por sesión)
+      # Decide update
+      # - baseline => siempre update
+      # - poll => solo si latch.trigger=true
       # ------------------------------------------------------------
       - name: Decide whether to update README
         id: decide
         run: |
           set -euo pipefail
-
           MODE="${{ steps.mode.outputs.mode }}"
-          LATCH_TRIG="${{ steps.obs.outputs.latch_triggered || 'false' }}"
 
           DO="false"
           WHY="none"
@@ -384,18 +321,15 @@ jobs:
           if [ "${MODE}" = "baseline" ] || [ "${MODE}" = "manual" ]; then
             DO="true"
             WHY="baseline_or_manual"
-          elif [ "${MODE}" = "observer" ] && [ "${LATCH_TRIG}" = "true" ]; then
+          elif [ "${MODE}" = "poll" ] && [ "${{ steps.gate.outputs.enabled }}" = "true" ] && [ "${{ steps.latch.outputs.trigger || 'false' }}" = "true" ]; then
             DO="true"
-            WHY="observer_latch_trigger"
+            WHY="poll_triggered_by_latch"
           fi
 
           echo "do_update=${DO}" >> "$GITHUB_OUTPUT"
           echo "why=${WHY}" >> "$GITHUB_OUTPUT"
-          echo "Decision: do_update=${DO} why=${WHY} (mode=${MODE}, latch_triggered=${LATCH_TRIG})"
+          echo "Decision: do_update=${DO} why=${WHY} (mode=${MODE})"
 
-      # ------------------------------------------------------------
-      # Update README
-      # ------------------------------------------------------------
       - name: Update Spotify telemetry block (fail-safe)
         if: steps.decide.outputs.do_update == 'true'
         env:
@@ -420,9 +354,6 @@ jobs:
           git commit -m "chore: update Spotify telemetry (CLI feed)"
           git push
 
-      # ------------------------------------------------------------
-      # Upload debug artifact (si existe)
-      # ------------------------------------------------------------
       - name: Upload Spotify debug
         if: always()
         uses: actions/upload-artifact@v4
@@ -433,9 +364,6 @@ jobs:
 
       # ============================================================
       # STORM DETECTOR
-      # - cuenta runs recientes de ESTE workflow
-      # - report_md -> summary
-      # - issue alert (toggle) con dedupe por ventana
       # ============================================================
       - name: Storm detector (count recent workflow runs)
         id: storm
@@ -443,25 +371,21 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           REPO_FULL: ${{ github.repository }}
-          WORKFLOW_FILE: ${{ env.WORKFLOW_FILE }}
+          WORKFLOW_FILE: "spotify-telemetry.yml"
           WINDOW_MIN: ${{ env.STORM_WINDOW_MINUTES }}
           THRESHOLD: ${{ env.STORM_THRESHOLD }}
         run: |
           set -euo pipefail
-
           python3 - <<'PY'
           import os, json
           from datetime import datetime, timezone, timedelta
           import urllib.request
 
           token = os.environ["GH_TOKEN"]
-          repo_full = os.environ["REPO_FULL"]
-          owner, repo = repo_full.split("/", 1)
-
+          owner, repo = os.environ["REPO_FULL"].split("/", 1)
           wf = os.environ["WORKFLOW_FILE"]
           window_min = int(os.environ.get("WINDOW_MIN","15"))
           threshold = int(os.environ.get("THRESHOLD","10"))
-
           since = datetime.now(timezone.utc) - timedelta(minutes=window_min)
 
           url = f"https://api.github.com/repos/{owner}/{repo}/actions/workflows/{wf}/runs?per_page=100"
@@ -474,7 +398,6 @@ jobs:
               "User-Agent": "storm-detector",
             },
           )
-
           with urllib.request.urlopen(req, timeout=20) as r:
             data = json.loads(r.read().decode("utf-8","replace"))
 
@@ -507,12 +430,8 @@ jobs:
           lines.append("")
           lines.append("### Recent runs (newest first)")
           lines.append("")
-          show = recent[:20]
-          if not show:
-            lines.append("_No runs found in the window._")
-          else:
-            for run in show:
-              lines.append(f"- #{run.get('run_number')} | {run.get('status')} | {run.get('conclusion')} | {run.get('html_url')}")
+          for run in recent[:20]:
+            lines.append(f"- #{run.get('run_number')} | {run.get('status')} | {run.get('conclusion')} | {run.get('html_url')}")
 
           report_md = "\n".join(lines)
 
@@ -536,86 +455,54 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
 
       # ------------------------------------------------------------
-      # Internal GitHub alert via Issue (toggle + dedupe)
-      # - Crea issue SOLO si no existe ya uno para la misma ventana
+      # "Mensaje interno" vía GitHub Issue (toggle + dedupe)
       # ------------------------------------------------------------
-      - name: Emergency alert (GitHub Issue) [toggle + dedupe]
+      - name: Storm alert via Issue (deduped)
         if: steps.storm.outputs.alert == 'true' && (env.ENABLE_STORM_ISSUE == 'true' || env.ENABLE_STORM_ISSUE == 'TRUE')
+        uses: actions/github-script@v7
         env:
-          GH_TOKEN: ${{ github.token }}
-          REPO_FULL: ${{ github.repository }}
-          WINDOW_MIN: ${{ env.STORM_WINDOW_MINUTES }}
-          THRESHOLD: ${{ env.STORM_THRESHOLD }}
-          COUNT: ${{ steps.storm.outputs.count }}
-          REPORT_MD: ${{ steps.storm.outputs.report_md }}
-        run: |
-          set -euo pipefail
+          LABEL: ${{ env.STORM_ISSUE_LABEL }}
+          DEDUP_MIN: ${{ env.STORM_ISSUE_DEDUP_MINUTES }}
+        with:
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const label = process.env.LABEL;
+            const dedupMin = parseInt(process.env.DEDUP_MIN || "60", 10);
 
-          python3 - <<'PY'
-          import os, json, urllib.request, urllib.parse
-          from datetime import datetime, timezone
+            const title = `🚨 Actions Storm: ${owner}/${repo} (spotify-telemetry)`;
+            const body = `${{ steps.storm.outputs.report_md }}\n\n> Run: ${context.runId}\n> Created: ${new Date().toISOString()}`;
 
-          token = os.environ["GH_TOKEN"]
-          repo_full = os.environ["REPO_FULL"]
-          owner, repo = repo_full.split("/", 1)
-
-          window_min = os.environ.get("WINDOW_MIN","15")
-          threshold = os.environ.get("THRESHOLD","10")
-          count = os.environ.get("COUNT","0")
-
-          now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%MZ")
-          title = f"🚨 Actions storm detected ({count}+ runs / {window_min}m) [{now}]"
-
-          # Dedup key: same window/threshold/count bucket in title search
-          dedupe_q = f'repo:{owner}/{repo} is:issue is:open "Actions storm detected" "{window_min}m" "{threshold}"'
-          search_url = "https://api.github.com/search/issues?" + urllib.parse.urlencode({"q": dedupe_q})
-
-          def req(url, method="GET", data=None):
-            headers = {
-              "Authorization": f"Bearer {token}",
-              "Accept": "application/vnd.github+json",
-              "X-GitHub-Api-Version": "2022-11-28",
-              "User-Agent": "storm-issue",
+            // Ensure label exists (best-effort)
+            try {
+              await github.rest.issues.getLabel({ owner, repo, name: label });
+            } catch (e) {
+              try { await github.rest.issues.createLabel({ owner, repo, name: label, color: "d73a4a", description: "GitHub Actions storm alerts" }); } catch (_) {}
             }
-            if data is not None:
-              headers["Content-Type"] = "application/json"
-              data = json.dumps(data).encode("utf-8")
-            r = urllib.request.Request(url, headers=headers, method=method, data=data)
-            with urllib.request.urlopen(r, timeout=20) as resp:
-              return resp.status, json.loads(resp.read().decode("utf-8","replace"))
 
-          # If there's already an open issue, skip creating a new one
-          _, search = req(search_url, "GET")
-          items = search.get("items", []) if isinstance(search, dict) else []
-          if items:
-            print("Issue dedupe: existing open issue found -> skip create")
-            return
+            // Find recent issues with same label + title
+            const q = `repo:${owner}/${repo} is:issue is:open label:"${label}" in:title "${title}"`;
+            const res = await github.rest.search.issuesAndPullRequests({ q, per_page: 10 });
+            const items = res.data.items || [];
 
-          body = []
-          body.append("### 🚨 GitHub Actions Storm Detector")
-          body.append("")
-          body.append(f"- Repo: `{owner}/{repo}`")
-          body.append(f"- Window: **{window_min} minutes**")
-          body.append(f"- Threshold: **{threshold}**")
-          body.append(f"- Count: **{count}**")
-          body.append("")
-          body.append("### Report")
-          body.append("")
-          body.append(os.environ.get("REPORT_MD","(no report)"))
+            const now = Date.now();
+            const recent = items.find(it => {
+              const created = new Date(it.created_at).getTime();
+              return (now - created) <= dedupMin * 60 * 1000;
+            });
 
-          create_url = f"https://api.github.com/repos/{owner}/{repo}/issues"
-          payload = {
-            "title": title,
-            "body": "\n".join(body),
-            "labels": ["automation", "alert", "storm"],
-          }
-          status, created = req(create_url, "POST", payload)
-          print(f"Issue created: status={status} url={created.get('html_url')}")
-          PY
+            if (recent) {
+              core.info(`Storm issue already exists recently (#${recent.number}). Skipping.`);
+              return;
+            }
 
-      # ------------------------------------------------------------
-      # (Opcional) Log final en consola, útil para auditoría rápida
-      # ------------------------------------------------------------
+            await github.rest.issues.create({
+              owner, repo,
+              title,
+              body,
+              labels: [label]
+            });
+
       - name: Storm detector result (log)
         if: always()
         run: |
