@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-28 13:11:23Z",
-  "status": "PLAYING",
-  "last_track": "Parhelion — Banded Eyes",
-  "last_played_utc": "2026-01-28 13:06:43Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-01-28 13:22:28Z",
+  "status": "IDLE",
+  "last_track": "BLACKSHAPE — ITIIITIATIIHYLIHYL",
+  "last_played_utc": "2026-01-28 13:13:17Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -230,6 +230,9 @@
       "shoegaze"
     ],
     "00gOHpiyGX2hk8A0CokPHA": [],
-    "2X5hnnUWzn3V6rgniBPVxo": []
+    "2X5hnnUWzn3V6rgniBPVxo": [],
+    "5ioOCIkpBfV9Z8Zm5DP4vH": [
+      "post-rock"
+    ]
   }
 }

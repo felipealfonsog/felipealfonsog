@@ -841,30 +841,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : ONLINE (idle session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : BLACKSHAPE — ITIIITIATIIHYLIHYL
-Last played               : Parhelion — Banded Eyes
-Last played (UTC)         : 2026-01-28 13:06:43Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : BLACKSHAPE — ITIIITIATIIHYLIHYL
+Last played (UTC)         : 2026-01-28 13:13:17Z
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Parhelion — Banded Eyes → BLACKSHAPE — ITIIITIATIIHYLIHYL
+Δ last played (since last): 2026-01-28 13:06:43Z → 2026-01-28 13:13:17Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:04:41
-Telemetry age             : 00:04:41
-Δ time (since last report): 00:01:51
+Time since last play      : 00:09:12
+Telemetry age             : 00:09:12
+Δ time (since last report): 00:11:06
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +882,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 13:11:23Z → 2026-01-28 13:11:23Z
+Week window (UTC)         : 2026-01-21 13:22:28Z → 2026-01-28 13:22:28Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,23 +892,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :       ▇█▇█▁             
-Heatmap (7d)              :       ▇█▇█▁             
+Heatmap (24h)             :       ▆█▇█▁             
+Heatmap (7d)              :       ▆█▇█▁             
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:04:53
+Avg inter-play gap (7d)   : 00:04:51
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(9) | progressive rock(9) | metalcore(7) | post-grunge(6) | space rock(6) | stoner rock(5)
-Top genres (7d)           : progressive metal(9) | progressive rock(9) | metalcore(7) | post-grunge(6) | space rock(6) | stoner rock(5)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : progressive metal(9) | progressive rock(9) | metalcore(6) | post-grunge(6) | space rock(6) | stoner rock(5)
+Top genres (7d)           : progressive metal(9) | progressive rock(9) | metalcore(6) | post-grunge(6) | space rock(6) | stoner rock(5)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 13:11:23Z
+Report generated (UTC)    : 2026-01-28 13:22:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
