@@ -2,11 +2,29 @@ name: Spotify Telemetry (CLI feed)
 
 on:
   workflow_dispatch:
+    inputs:
+      enable_precheck:
+        description: "true = run pre-check (skip job if not listening); false = behave like original (no pre-check)"
+        required: false
+        default: "false"
+      precheck_mode:
+        description: "PLAYING_ONLY (is_playing=true) | ANY_SESSION (player session exists)"
+        required: false
+        default: "PLAYING_ONLY"
   schedule:
     - cron: "23 */3 * * *"
 
 permissions:
   contents: write
+
+env:
+  # ------------------------------------------------------------
+  # DEFAULT behavior for scheduled runs (cron):
+  # false => original behavior (no pre-check)
+  # true  => run pre-check first
+  # ------------------------------------------------------------
+  ENABLE_PRECHECK: "false"
+  PRECHECK_MODE: "PLAYING_ONLY"
 
 jobs:
   telemetry:
@@ -20,7 +38,116 @@ jobs:
         with:
           python-version: "3.11"
 
+      # Resolve final toggle value:
+      # - For schedule: uses env ENABLE_PRECHECK/PRECHECK_MODE
+      # - For workflow_dispatch: inputs override env
+      - name: Resolve pre-check toggle
+        id: cfg
+        run: |
+          set -euo pipefail
+
+          ENABLE="${ENABLE_PRECHECK}"
+          MODE="${PRECHECK_MODE}"
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            if [ -n "${{ inputs.enable_precheck }}" ]; then
+              ENABLE="${{ inputs.enable_precheck }}"
+            fi
+            if [ -n "${{ inputs.precheck_mode }}" ]; then
+              MODE="${{ inputs.precheck_mode }}"
+            fi
+          fi
+
+          ENABLE="$(echo "${ENABLE}" | tr '[:upper:]' '[:lower:]')"
+          MODE="$(echo "${MODE}" | tr '[:lower:]' '[:upper:]')"
+
+          if [ "${ENABLE}" != "true" ] && [ "${ENABLE}" != "false" ]; then
+            ENABLE="false"
+          fi
+
+          if [ "${MODE}" != "PLAYING_ONLY" ] && [ "${MODE}" != "ANY_SESSION" ]; then
+            MODE="PLAYING_ONLY"
+          fi
+
+          echo "enable=${ENABLE}" >> "$GITHUB_OUTPUT"
+          echo "mode=${MODE}" >> "$GITHUB_OUTPUT"
+
+      # Only runs if toggle is true
+      - name: Pre-check Spotify playback (guard)
+        id: guard
+        if: steps.cfg.outputs.enable == 'true'
+        env:
+          MODE: ${{ steps.cfg.outputs.mode }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          set -euo pipefail
+          python3 - <<'PY' | tee -a "$GITHUB_OUTPUT"
+          import os, base64, json, urllib.parse, urllib.request, urllib.error
+
+          cid = os.environ.get("SPOTIFY_CLIENT_ID","").strip()
+          csec = os.environ.get("SPOTIFY_CLIENT_SECRET","").strip()
+          rt = os.environ.get("SPOTIFY_REFRESH_TOKEN","").strip()
+          mode = (os.environ.get("MODE","PLAYING_ONLY") or "PLAYING_ONLY").upper()
+
+          def refresh_token():
+            auth = base64.b64encode(f"{cid}:{csec}".encode()).decode()
+            data = urllib.parse.urlencode({"grant_type":"refresh_token","refresh_token":rt}).encode("utf-8")
+            req = urllib.request.Request(
+              "https://accounts.spotify.com/api/token",
+              data=data,
+              headers={"Authorization": f"Basic {auth}", "Content-Type":"application/x-www-form-urlencoded"},
+              method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=20) as r:
+              payload = json.loads(r.read().decode("utf-8","replace"))
+              return payload.get("access_token")
+
+          def get_player(tok):
+            req = urllib.request.Request(
+              "https://api.spotify.com/v1/me/player",
+              headers={"Authorization": f"Bearer {tok}"},
+            )
+            try:
+              with urllib.request.urlopen(req, timeout=20) as r:
+                raw = r.read().decode("utf-8","replace").strip()
+                data = json.loads(raw) if raw else None
+                return r.status, data
+            except urllib.error.HTTPError as e:
+              if e.code == 204:
+                return 204, None
+              try:
+                raw = e.read().decode("utf-8","replace")
+              except Exception:
+                raw = ""
+              return e.code, raw
+
+          should_run = True  # default if something goes weird? better to NOT skip silently
+          # But if we can safely decide, we do:
+          if cid and csec and rt:
+            tok = refresh_token()
+            if tok:
+              code, data = get_player(tok)
+              if code == 200 and isinstance(data, dict):
+                if mode == "ANY_SESSION":
+                  should_run = True
+                else:
+                  should_run = bool(data.get("is_playing"))
+              else:
+                # If Spotify says "no player" (204), then don't run when guard is enabled
+                if code == 204:
+                  should_run = False
+
+          print("run_job=" + ("true" if should_run else "false"))
+          PY
+
+      # This step runs when:
+      # - precheck toggle is false (original behavior)
+      # OR
+      # - precheck toggle is true AND guard says run_job=true
       - name: Update Spotify telemetry block (fail-safe)
+        if: steps.cfg.outputs.enable != 'true' || steps.guard.outputs.run_job == 'true'
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
@@ -30,6 +157,7 @@ jobs:
           python3 .github/scripts/spotify_telemetry.py
 
       - name: Commit & push if changed
+        if: steps.cfg.outputs.enable != 'true' || steps.guard.outputs.run_job == 'true'
         run: |
           set -euo pipefail
           if git diff --quiet; then
