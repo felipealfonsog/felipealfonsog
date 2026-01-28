@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-28 12:23:30Z",
+  "report_generated_utc": "2026-01-28 12:34:40Z",
   "status": "PLAYING",
-  "last_track": "The Band Royale — Houdini",
-  "last_played_utc": "2026-01-28 12:20:11Z",
+  "last_track": "I Hate Elephants Sitting on Children — Fear Is Just a Concept",
+  "last_played_utc": "2026-01-28 12:30:28Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -224,6 +224,7 @@
       "stoner rock",
       "space rock"
     ],
-    "6kZT85q6DjfMiwOvsxtdbi": []
+    "6kZT85q6DjfMiwOvsxtdbi": [],
+    "61mgUeLTwkSrJc8v5ZOyTG": []
   }
 }

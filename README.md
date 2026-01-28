@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Jericco — Always
-Last played               : The Band Royale — Houdini
-Last played (UTC)         : 2026-01-28 12:20:11Z
+Now playing               : heaven // alone — exonerate
+Last played               : I Hate Elephants Sitting on Children — Fear Is Just a Concept
+Last played (UTC)         : 2026-01-28 12:30:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Milk Krayt — At Firing Range → The Band Royale — Houdini
-Δ last played (since last): 2026-01-28 12:17:25Z → 2026-01-28 12:20:11Z
+Δ track (since last)      : The Band Royale — Houdini → I Hate Elephants Sitting on Children — Fear Is Just a Concept
+Δ last played (since last): 2026-01-28 12:20:11Z → 2026-01-28 12:30:28Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:19
-Telemetry age             : 00:03:19
-Δ time (since last report): 00:04:08
+Time since last play      : 00:04:12
+Telemetry age             : 00:04:12
+Δ time (since last report): 00:11:10
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 12:23:30Z → 2026-01-28 12:23:30Z
+Week window (UTC)         : 2026-01-21 12:34:40Z → 2026-01-28 12:34:40Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :     ▁▅▇█▇▂              
-Heatmap (7d)              :     ▁▅▇█▇▂              
+Heatmap (24h)             :      ▄▇█▇▄              
+Heatmap (7d)              :      ▄▇█▇▄              
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:05:44
+Avg inter-play gap (7d)   : 00:05:00
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : space rock(10) | progressive metal(8) | progressive rock(8) | stoner metal(7) | stoner rock(7) | metalcore(6)
-Top genres (7d)           : space rock(10) | progressive metal(8) | progressive rock(8) | stoner metal(7) | stoner rock(7) | metalcore(6)
+Top genres (24h)          : space rock(10) | progressive metal(9) | progressive rock(9) | stoner metal(7) | stoner rock(7) | metalcore(6)
+Top genres (7d)           : space rock(10) | progressive metal(9) | progressive rock(9) | stoner metal(7) | stoner rock(7) | metalcore(6)
 Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 12:23:30Z
+Report generated (UTC)    : 2026-01-28 12:34:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
