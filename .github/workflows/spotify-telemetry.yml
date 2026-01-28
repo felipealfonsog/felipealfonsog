@@ -23,7 +23,7 @@ env:
   # false => original behavior (no pre-check)
   # true  => run pre-check first
   # ------------------------------------------------------------
-  ENABLE_PRECHECK: "false"
+  ENABLE_PRECHECK: "true"
   PRECHECK_MODE: "PLAYING_ONLY"
 
 jobs:
