@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Parhelion — Banded Eyes
-Last played               : ASAVA — Canyon
-Last played (UTC)         : 2026-01-28 12:57:33Z
+Now playing               : BLACKSHAPE — ITIIITIATIIHYLIHYL
+Last played               : Parhelion — Banded Eyes
+Last played (UTC)         : 2026-01-28 13:06:43Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : ASAVA — Canyon → Parhelion — Banded Eyes
+Δ last played (since last): 2026-01-28 12:57:33Z → 2026-01-28 13:06:43Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:18
-Telemetry age             : 00:04:18
-Δ time (since last report): 00:03:06
+Time since last play      : 00:02:51
+Telemetry age             : 00:02:51
+Δ time (since last report): 00:07:44
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 13:01:50Z → 2026-01-28 13:01:50Z
+Week window (UTC)         : 2026-01-21 13:09:33Z → 2026-01-28 13:09:33Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :       ▇█▇█              
-Heatmap (7d)              :       ▇█▇█              
+Heatmap (24h)             :       ▇█▇█▁             
+Heatmap (7d)              :       ▇█▇█▁             
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:04:45
+Avg inter-play gap (7d)   : 00:04:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | progressive rock(9) | metalcore(7) | post-grunge(6) | space rock(6) | stoner rock(5)
 Top genres (7d)           : progressive metal(9) | progressive rock(9) | metalcore(7) | post-grunge(6) | space rock(6) | stoner rock(5)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 13:01:50Z
+Report generated (UTC)    : 2026-01-28 13:09:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
