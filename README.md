@@ -858,13 +858,13 @@ Last played               : Milk Krayt — At Firing Range
 Last played (UTC)         : 2026-01-28 12:17:25Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silver Throne — Where Your Feet Have Been → Milk Krayt — At Firing Range
-Δ last played (since last): 2026-01-28 12:05:23Z → 2026-01-28 12:17:25Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:07
-Telemetry age             : 00:01:07
-Δ time (since last report): 00:06:42
+Time since last play      : 00:01:58
+Telemetry age             : 00:01:58
+Δ time (since last report): 00:00:51
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 12:18:32Z → 2026-01-28 12:18:32Z
+Week window (UTC)         : 2026-01-21 12:19:22Z → 2026-01-28 12:19:22Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : space rock(10) | progressive metal(8) | progressive rock(8) | stoner metal(7) | stoner rock(7) | metalcore(6)
 Top genres (7d)           : space rock(10) | progressive metal(8) | progressive rock(8) | stoner metal(7) | stoner rock(7) | metalcore(6)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 12:18:32Z
+Report generated (UTC)    : 2026-01-28 12:19:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
