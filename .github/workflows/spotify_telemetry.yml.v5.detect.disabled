@@ -1,0 +1,342 @@
+name: Spotify Telemetry (CLI feed)
+
+on:
+  workflow_dispatch:
+  schedule:
+    # ------------------------------------------------------------
+    # NORMAL CRON (baseline)
+    # - Siempre corre cada 3h, pase lo que pase
+    # - Este es tu comportamiento original, INTACTO
+    # ------------------------------------------------------------
+    - cron: "23 */3 * * *"
+
+    # ------------------------------------------------------------
+    # OBSERVER (cada 2 minutos)
+    # - Observa el estado (PLAYING / IDLE)
+    # - Si detecta CAMBIO a IDLE => dispara UNA vez update del README
+    # - Si no hay cambio => NOOP
+    # ------------------------------------------------------------
+    - cron: "*/2 * * * *"
+
+    # ------------------------------------------------------------
+    # FAST TRIGGER (cada 1 minuto)
+    # - Observa el estado (PLAYING / IDLE)
+    # - Si detecta CAMBIO a PLAYING => dispara UNA vez update del README
+    # - Si no hay cambio => NOOP
+    # ------------------------------------------------------------
+    - cron: "* * * * *"
+
+permissions:
+  contents: write
+concurrency:
+  group: spotify-telemetry
+  cancel-in-progress: true
+
+env:
+  ENABLE_FAST_POLL: "true"        # true/false
+  FAST_POLL_MODE: "PLAYING_ONLY"  # PLAYING_ONLY | ANY_SESSION
+
+  # ------------------------------------------------------------
+  # Estado observado (persistente, repo)
+  # - Guarda el último estado detectado (PLAYING/IDLE)
+  # - Sirve para gatillar updates SOLO cuando hay cambio de estado
+  # ------------------------------------------------------------
+  STATE_FILE: ".github/state/spotify_playback_state.json"
+
+  CRON_BASELINE: "23 */3 * * *"
+  CRON_OBSERVER: "*/2 * * * *"
+  CRON_FAST: "* * * * *"
+
+jobs:
+  telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      # ------------------------------------------------------------
+      # Checkout
+      # ------------------------------------------------------------
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ------------------------------------------------------------
+      # Python runtime
+      # ------------------------------------------------------------
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ------------------------------------------------------------
+      # Resolve run-mode (baseline | observer | fast | manual)
+      # ------------------------------------------------------------
+      - name: Resolve run mode
+        id: mode
+        run: |
+          set -euo pipefail
+
+          EVENT="${{ github.event_name }}"
+          SCHEDULE="${{ github.event.schedule || '' }}"
+
+          MODE="manual"
+          if [ "${EVENT}" = "schedule" ]; then
+            if [ "${SCHEDULE}" = "${CRON_BASELINE}" ]; then
+              MODE="baseline"
+            elif [ "${SCHEDULE}" = "${CRON_OBSERVER}" ]; then
+              MODE="observer"
+            elif [ "${SCHEDULE}" = "${CRON_FAST}" ]; then
+              MODE="fast"
+            else
+              MODE="unknown_schedule"
+            fi
+          fi
+
+          echo "mode=${MODE}" >> "$GITHUB_OUTPUT"
+          echo "event=${EVENT}" >> "$GITHUB_OUTPUT"
+          echo "schedule=${SCHEDULE}" >> "$GITHUB_OUTPUT"
+          echo "Resolved MODE=${MODE} (event=${EVENT}, schedule=${SCHEDULE})"
+
+      # ------------------------------------------------------------
+      # Master toggle: afecta solo observer+fast (baseline/manual siempre corren)
+      # ------------------------------------------------------------
+      - name: Fast-poll master toggle (no-op gate)
+        id: gate
+        run: |
+          set -euo pipefail
+          EN="$(echo "${ENABLE_FAST_POLL}" | tr '[:upper:]' '[:lower:]')"
+          if [ "${EN}" = "true" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # ------------------------------------------------------------
+      # Spotify precheck (solo para observer/fast)
+      # - Devuelve playing=true/false y why=...
+      # ------------------------------------------------------------
+      - name: Spotify precheck (compute playing flag)
+        id: sp
+        if: steps.gate.outputs.enabled == 'true' && (steps.mode.outputs.mode == 'observer' || steps.mode.outputs.mode == 'fast')
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          FAST_POLL_MODE: ${{ env.FAST_POLL_MODE }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY' > /tmp/spotify_check.txt
+          import os, base64, json, urllib.parse, urllib.request, urllib.error
+
+          cid = os.environ.get("SPOTIFY_CLIENT_ID","").strip()
+          csec = os.environ.get("SPOTIFY_CLIENT_SECRET","").strip()
+          rt = os.environ.get("SPOTIFY_REFRESH_TOKEN","").strip()
+          mode = (os.environ.get("FAST_POLL_MODE","PLAYING_ONLY") or "PLAYING_ONLY").upper()
+
+          def refresh_token():
+            auth = base64.b64encode(f"{cid}:{csec}".encode()).decode()
+            data = urllib.parse.urlencode({"grant_type":"refresh_token","refresh_token":rt}).encode("utf-8")
+            req = urllib.request.Request(
+              "https://accounts.spotify.com/api/token",
+              data=data,
+              headers={"Authorization": f"Basic {auth}", "Content-Type":"application/x-www-form-urlencoded"},
+              method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=20) as r:
+              payload = json.loads(r.read().decode("utf-8","replace"))
+              return payload.get("access_token")
+
+          def get_json(url, tok):
+            req = urllib.request.Request(url, headers={"Authorization": f"Bearer {tok}"})
+            try:
+              with urllib.request.urlopen(req, timeout=20) as r:
+                raw = r.read().decode("utf-8","replace").strip()
+                data = json.loads(raw) if raw else None
+                return r.status, data
+            except urllib.error.HTTPError as e:
+              if e.code == 204:
+                return 204, None
+              try:
+                raw = e.read().decode("utf-8","replace").strip()
+                data = json.loads(raw) if raw else raw
+              except Exception:
+                data = None
+              return e.code, data
+            except Exception:
+              return -1, None
+
+          playing = False
+          why = "unknown"
+
+          if cid and csec and rt:
+            tok = refresh_token()
+            if tok:
+              if mode == "PLAYING_ONLY":
+                # ------------------------------------------------
+                # PLAYING_ONLY: usa /currently-playing como verdad primaria
+                # ------------------------------------------------
+                c1, d1 = get_json("https://api.spotify.com/v1/me/player/currently-playing", tok)
+                if c1 == 200 and isinstance(d1, dict):
+                  playing = bool(d1.get("is_playing"))
+                  why = "currently_playing_primary"
+                elif c1 == 204:
+                  playing = False
+                  why = "currently_playing_204"
+                else:
+                  playing = False
+                  why = f"currently_playing_http_{c1}"
+              else:
+                # ------------------------------------------------
+                # ANY_SESSION: usa /me/player (sesión existe si hay device)
+                # ------------------------------------------------
+                c2, d2 = get_json("https://api.spotify.com/v1/me/player", tok)
+                if c2 == 200 and isinstance(d2, dict):
+                  dev = d2.get("device")
+                  playing = isinstance(dev, dict) and bool(dev)
+                  why = "player_any_session"
+                elif c2 == 204:
+                  playing = False
+                  why = "player_204"
+                else:
+                  playing = False
+                  why = f"player_http_{c2}"
+            else:
+              playing = False
+              why = "token_refresh_failed"
+          else:
+            playing = False
+            why = "missing_secrets"
+
+          print(("true" if playing else "false") + " " + why)
+          PY
+
+          PLAYING="$(awk '{print $1}' /tmp/spotify_check.txt | tail -n1 | tr '[:upper:]' '[:lower:]')"
+          WHY="$(awk '{print $2}' /tmp/spotify_check.txt | tail -n1)"
+          rm -f /tmp/spotify_check.txt
+
+          echo "playing=${PLAYING}" >> "$GITHUB_OUTPUT"
+          echo "why=${WHY}" >> "$GITHUB_OUTPUT"
+          echo "Spotify playing=${PLAYING} why=${WHY}"
+      # ------------------------------------------------------------
+      # Decide if we should run telemetry on observer/fast:
+      # - We run ONLY when state CHANGES compared to STATE_FILE.
+      # - observer triggers on change to IDLE
+      # - fast triggers on change to PLAYING
+      # ------------------------------------------------------------
+      - name: State-change gate (observer/fast)
+        id: sc
+        if: steps.gate.outputs.enabled == 'true' && (steps.mode.outputs.mode == 'observer' || steps.mode.outputs.mode == 'fast')
+        env:
+          STATE_FILE: ${{ env.STATE_FILE }}
+          MODE: ${{ steps.mode.outputs.mode }}
+          PLAYING: ${{ steps.sp.outputs.playing }}
+          WHY: ${{ steps.sp.outputs.why }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$(dirname "${STATE_FILE}")"
+
+          python3 - <<'PY' > /tmp/state_gate.txt
+          import json, os
+          from datetime import datetime, timezone
+
+          state_path = os.environ["STATE_FILE"]
+          mode = os.environ.get("MODE","")
+          playing = (os.environ.get("PLAYING","false").lower() == "true")
+          why = os.environ.get("WHY","unknown")
+
+          now_s = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
+          new_state = "PLAYING" if playing else "IDLE"
+
+          prev_state = None
+          try:
+            with open(state_path, "r", encoding="utf-8") as f:
+              obj = json.load(f)
+              prev_state = (obj.get("state") if isinstance(obj, dict) else None)
+          except Exception:
+            prev_state = None
+
+          changed = (prev_state != new_state)
+
+          # Determine trigger condition by mode
+          run = False
+          reason = "no_change"
+
+          if changed:
+            if mode == "fast" and new_state == "PLAYING":
+              run = True
+              reason = f"change_to_PLAYING_{why}"
+            elif mode == "observer" and new_state == "IDLE":
+              run = True
+              reason = f"change_to_IDLE_{why}"
+            else:
+              run = False
+              reason = f"change_ignored_{prev_state}_to_{new_state}"
+
+          # Always update STATE_FILE for accurate next comparison
+          out = {"state": new_state, "why": why, "updated_utc": now_s}
+          with open(state_path, "w", encoding="utf-8") as f:
+            f.write(json.dumps(out, ensure_ascii=False, indent=2) + "\n")
+
+          print(("true" if run else "false") + " " + reason)
+          PY
+
+          RUN="$(awk '{print $1}' /tmp/state_gate.txt | tail -n1)"
+          WHY="$(awk '{print $2}' /tmp/state_gate.txt | tail -n1)"
+          rm -f /tmp/state_gate.txt
+
+          echo "run=${RUN}" >> "$GITHUB_OUTPUT"
+          echo "reason=${WHY}" >> "$GITHUB_OUTPUT"
+          echo "State gate: run=${RUN} reason=${WHY}"
+
+      # ------------------------------------------------------------
+      # Commit STATE_FILE whenever observer/fast ran (so state change persistence is durable)
+      # ------------------------------------------------------------
+      - name: Commit state file (observer/fast, only if changed)
+        if: steps.gate.outputs.enabled == 'true' && (steps.mode.outputs.mode == 'observer' || steps.mode.outputs.mode == 'fast')
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "State: no changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "${STATE_FILE}"
+          git commit -m "chore: update spotify playback state"
+          git push
+
+      # ------------------------------------------------------------
+      # UPDATE TELEMETRY:
+      # - baseline => SIEMPRE
+      # - manual   => SIEMPRE
+      # - observer/fast => SOLO si state gate dijo run=true
+      # ------------------------------------------------------------
+      - name: Update Spotify telemetry block (fail-safe)
+        if: |
+          steps.mode.outputs.mode == 'baseline' ||
+          steps.mode.outputs.mode == 'manual' ||
+          ((steps.mode.outputs.mode == 'observer' || steps.mode.outputs.mode == 'fast') &&
+           steps.gate.outputs.enabled == 'true' && steps.sc.outputs.run == 'true')
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          set -euo pipefail
+          python3 .github/scripts/spotify_telemetry.py
+
+      - name: Commit & push telemetry if changed
+        if: |
+          steps.mode.outputs.mode == 'baseline' ||
+          steps.mode.outputs.mode == 'manual' ||
+          ((steps.mode.outputs.mode == 'observer' || steps.mode.outputs.mode == 'fast') &&
+           steps.gate.outputs.enabled == 'true' && steps.sc.outputs.run == 'true')
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No telemetry changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/state/spotify_last_report.json
+          git commit -m "chore: update Spotify telemetry (CLI feed)"
+          git push
