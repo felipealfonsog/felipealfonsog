@@ -836,30 +836,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : floodlit — Ama
-Last played               : Kolm — Ex Nihilo
-Last played (UTC)         : 2026-01-28 05:51:34Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Dark Sun — Dig Down
+Last played (UTC)         : 2026-01-28 05:54:57Z
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : floodlit — Ama → Kolm — Ex Nihilo
-Δ last played (since last): 2026-01-28 05:42:59Z → 2026-01-28 05:51:34Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Kolm — Ex Nihilo → Dark Sun — Dig Down
+Δ last played (since last): 2026-01-28 05:51:34Z → 2026-01-28 05:54:57Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:03:18
-Telemetry age             : 00:03:18
-Δ time (since last report): 00:10:26
+Time since last play      : 00:04:06
+Telemetry age             : 00:04:06
+Δ time (since last report): 00:04:12
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -871,14 +870,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
+Tracks played (last 24h)  : 18
 Dominant artist           : Proxima Flare
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 05:54:51Z → 2026-01-28 05:54:51Z
+Week window (UTC)         : 2026-01-21 05:59:02Z → 2026-01-28 05:59:02Z
 Total tracks played       : 50
 Dominant artist           : Proxima Flare
 Cadence classification    : HIGH
@@ -888,7 +887,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :  ▂█ ▂       ▂           
+Heatmap (24h)             :  ▁█ ▁       ▂           
 Heatmap (7d)              :  ▁▅ ▁   ▁   ▁         █▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -900,11 +899,11 @@ Avg inter-play gap (7d)   : 00:51:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(8) | progressive rock(3) | latin rock(2) | metalcore(2) | grunge(1) | post-grunge(1)
-Top genres (7d)           : jazz(25) | progressive metal(8) | grunge(5) | rock(4) | latin rock(3) | progressive rock(3)
+Top genres (24h)          : progressive metal(8) | progressive rock(3) | grunge(2) | latin rock(2) | metalcore(2) | post-grunge(2)
+Top genres (7d)           : jazz(25) | progressive metal(8) | grunge(5) | latin rock(3) | progressive rock(3) | rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 05:54:51Z
+Report generated (UTC)    : 2026-01-28 05:59:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
