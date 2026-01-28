@@ -949,7 +949,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 </details>
 
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify_telemetry.yml/badge.svg)](#)
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)] [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#)
 
 
 <!--
