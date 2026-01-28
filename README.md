@@ -836,29 +836,30 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : floodlit — Ama
-Last played (UTC)         : 2026-01-28 05:42:59Z
-Last activity type        : PLAYBACK_INACTIVE
+Now playing               : floodlit — Ama
+Last played               : Kolm — Ex Nihilo
+Last played (UTC)         : 2026-01-28 05:51:34Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : floodlit — Ama → Kolm — Ex Nihilo
+Δ last played (since last): 2026-01-28 05:42:59Z → 2026-01-28 05:51:34Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:01:27
-Telemetry age             : 00:01:27
-Δ time (since last report): 00:01:04
+Time since last play      : 00:03:18
+Telemetry age             : 00:03:18
+Δ time (since last report): 00:10:26
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -870,14 +871,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
+Tracks played (last 24h)  : 17
 Dominant artist           : Proxima Flare
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 05:44:26Z → 2026-01-28 05:44:26Z
+Week window (UTC)         : 2026-01-21 05:54:51Z → 2026-01-28 05:54:51Z
 Total tracks played       : 50
 Dominant artist           : Proxima Flare
 Cadence classification    : HIGH
@@ -887,23 +888,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :  ▂█ ▂       ▃           
-Heatmap (7d)              :  ▁▄ ▁   ▂   ▁         █▅
+Heatmap (24h)             :  ▂█ ▂       ▂           
+Heatmap (7d)              :  ▁▅ ▁   ▁   ▁         █▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 00:51:26
+Avg inter-play gap (7d)   : 00:51:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(7) | latin rock(2) | metalcore(2) | progressive rock(2) | grunge(1) | post-grunge(1)
-Top genres (7d)           : jazz(25) | progressive metal(7) | grunge(6) | rock(5) | latin rock(3) | metalcore(2)
+Top genres (24h)          : progressive metal(8) | progressive rock(3) | latin rock(2) | metalcore(2) | grunge(1) | post-grunge(1)
+Top genres (7d)           : jazz(25) | progressive metal(8) | grunge(5) | rock(4) | latin rock(3) | progressive rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 05:44:26Z
+Report generated (UTC)    : 2026-01-28 05:54:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
