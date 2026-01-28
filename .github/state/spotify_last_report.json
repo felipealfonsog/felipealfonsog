@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-28 07:16:39Z",
-  "status": "IDLE",
-  "last_track": "I Hate Elephants Sitting on Children — Temptation",
-  "last_played_utc": "2026-01-28 07:06:48Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-01-28 07:29:59Z",
+  "status": "PLAYING",
+  "last_track": "Red In Summer — Artificial Love",
+  "last_played_utc": "2026-01-28 07:29:01Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -129,6 +129,8 @@
     "0c2BiwHVoqkMGrkKPqbRcG": [
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "4GjDSR8X4PWmaUXIP0pVnf": [],
+    "0AWeVlo9qXjhPmLflKqikp": []
   }
 }
