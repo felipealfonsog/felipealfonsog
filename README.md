@@ -857,13 +857,13 @@ Last played               : Jericco — Always
 Last played (UTC)         : 2026-01-28 20:04:16Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : PRAUN — Vanishing Point → Jericco — Always
-Δ last played (since last): 2026-01-28 19:35:49Z → 2026-01-28 20:04:16Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:28:58
-Telemetry age             : 01:28:58
-Δ time (since last report): 01:31:09
+Time since last play      : 01:29:43
+Telemetry age             : 01:29:43
+Δ time (since last report): 00:00:46
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -882,7 +882,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 21:33:13Z → 2026-01-28 21:33:13Z
+Week window (UTC)         : 2026-01-21 21:33:58Z → 2026-01-28 21:33:58Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -908,7 +908,7 @@ Top genres (24h)          : progressive metal(8) | progressive rock(7) | djent(5
 Top genres (7d)           : progressive metal(8) | progressive rock(7) | djent(5) | metalcore(5) | grunge(2) | post-grunge(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 21:33:13Z
+Report generated (UTC)    : 2026-01-28 21:33:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
