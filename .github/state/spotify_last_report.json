@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-28 11:25:43Z",
+  "report_generated_utc": "2026-01-28 11:36:29Z",
   "status": "PLAYING",
-  "last_track": "Silver Throne — Unconventional",
-  "last_played_utc": "2026-01-28 11:22:11Z",
+  "last_track": "ASAVA — Confidence",
+  "last_played_utc": "2026-01-28 11:35:33Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -204,6 +204,16 @@
     ],
     "4DRfQMDNaWz3Edl6qEUPjb": [],
     "2SpwKpFCOpBPjAZOFSzIq4": [],
-    "2ELNNrlpVbK0zFGoaeWgV0": []
+    "2ELNNrlpVbK0zFGoaeWgV0": [],
+    "6CQw6qt1rxEUH5aNQnCzta": [],
+    "7oa0Gil7KNv4FPRp1W81KF": [
+      "post-grunge",
+      "grunge"
+    ],
+    "4msm1QtpV7zMReePhbEQ6H": [
+      "progressive metal",
+      "progressive rock",
+      "djent"
+    ]
   }
 }

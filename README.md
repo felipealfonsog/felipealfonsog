@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Wheel — Fugue
-Last played               : Silver Throne — Unconventional
-Last played (UTC)         : 2026-01-28 11:22:11Z
+Now playing               : Ions — Callousness
+Last played               : ASAVA — Confidence
+Last played (UTC)         : 2026-01-28 11:35:33Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Silver Throne — Unconventional → ASAVA — Confidence
+Δ last played (since last): 2026-01-28 11:22:11Z → 2026-01-28 11:35:33Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:33
-Telemetry age             : 00:03:33
-Δ time (since last report): 00:03:30
+Time since last play      : 00:00:57
+Telemetry age             : 00:00:57
+Δ time (since last report): 00:10:47
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 11:25:43Z → 2026-01-28 11:25:43Z
+Week window (UTC)         : 2026-01-21 11:36:29Z → 2026-01-28 11:36:29Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :    ▄▅▅▇█▂               
-Heatmap (7d)              :    ▄▅▅▇█▂               
+Heatmap (24h)             :    ▂▅▅▇█▄               
+Heatmap (7d)              :    ▂▅▅▇█▄               
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:06:28
+Avg inter-play gap (7d)   : 00:06:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : metalcore(9) | space rock(9) | stoner metal(7) | stoner rock(6) | progressive metal(5) | progressive rock(5)
-Top genres (7d)           : metalcore(9) | space rock(9) | stoner metal(7) | stoner rock(6) | progressive metal(5) | progressive rock(5)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : space rock(9) | metalcore(8) | stoner metal(7) | progressive metal(6) | progressive rock(6) | stoner rock(6)
+Top genres (7d)           : space rock(9) | metalcore(8) | stoner metal(7) | progressive metal(6) | progressive rock(6) | stoner rock(6)
+Artist lookups (this run) : 3 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 11:25:43Z
+Report generated (UTC)    : 2026-01-28 11:36:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
