@@ -854,17 +854,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : PRAUN — Vanishing Point
-Last played               : Ions — Callousness
-Last played (UTC)         : 2026-01-28 11:54:58Z
+Last played               : Silver Throne — Where Your Feet Have Been
+Last played (UTC)         : 2026-01-28 11:59:34Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Ions — Callousness → Silver Throne — Where Your Feet Have Been
+Δ last played (since last): 2026-01-28 11:54:58Z → 2026-01-28 11:59:34Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:31
-Telemetry age             : 00:04:31
-Δ time (since last report): 00:00:53
+Time since last play      : 00:01:21
+Telemetry age             : 00:01:21
+Δ time (since last report): 00:01:27
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 11:59:28Z → 2026-01-28 11:59:28Z
+Week window (UTC)         : 2026-01-21 12:00:55Z → 2026-01-28 12:00:55Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,8 +893,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :     ▄▅▇█▇               
-Heatmap (7d)              :     ▄▅▇█▇               
+Heatmap (24h)             :     ▃▅▇█▇               
+Heatmap (7d)              :     ▃▅▇█▇               
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -909,7 +909,7 @@ Top genres (24h)          : space rock(9) | progressive metal(8) | progressive r
 Top genres (7d)           : space rock(9) | progressive metal(8) | progressive rock(8) | metalcore(7) | stoner metal(7) | post-grunge(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 11:59:28Z
+Report generated (UTC)    : 2026-01-28 12:00:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
