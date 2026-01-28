@@ -858,13 +858,13 @@ Last played               : Citizen Audrey — Enigma of my State
 Last played (UTC)         : 2026-01-28 13:29:08Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Dos-Ovni — Big Rock → Citizen Audrey — Enigma of my State
-Δ last played (since last): 2026-01-28 13:25:54Z → 2026-01-28 13:29:08Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:59
-Telemetry age             : 00:04:59
-Δ time (since last report): 00:06:23
+Time since last play      : 00:06:40
+Telemetry age             : 00:06:40
+Δ time (since last report): 00:01:41
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 13:34:07Z → 2026-01-28 13:34:07Z
+Week window (UTC)         : 2026-01-21 13:35:48Z → 2026-01-28 13:35:48Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(8) | progressive rock(8) | metalcore(6) | post-grunge(6) | space rock(5) | djent(4)
 Top genres (7d)           : progressive metal(8) | progressive rock(8) | metalcore(6) | post-grunge(6) | space rock(5) | djent(4)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 13:34:07Z
+Report generated (UTC)    : 2026-01-28 13:35:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
