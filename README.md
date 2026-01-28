@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Red In Summer — In Apathy
-Last played               : The Phantom Eye — Circuit Rider
-Last played (UTC)         : 2026-01-28 08:29:30Z
+Now playing               : Lireau — Stone Eyes
+Last played               : Red In Summer — In Apathy
+Last played (UTC)         : 2026-01-28 08:31:58Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Like Thieves — Picture Perfect → The Phantom Eye — Circuit Rider
-Δ last played (since last): 2026-01-28 08:07:21Z → 2026-01-28 08:29:30Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : The Phantom Eye — Circuit Rider → Red In Summer — In Apathy
+Δ last played (since last): 2026-01-28 08:29:30Z → 2026-01-28 08:31:58Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:10
-Telemetry age             : 00:01:10
-Δ time (since last report): 00:05:33
+Time since last play      : 00:00:02
+Telemetry age             : 00:00:02
+Δ time (since last report): 00:01:21
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,16 +876,16 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 35
-Dominant artist           : I Hate Elephants Sitting on Children
+Tracks played (last 24h)  : 36
+Dominant artist           : Red In Summer
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 08:30:39Z → 2026-01-28 08:30:39Z
+Week window (UTC)         : 2026-01-21 08:31:59Z → 2026-01-28 08:31:59Z
 Total tracks played       : 50
-Dominant artist           : I Hate Elephants Sitting on Children
+Dominant artist           : Red In Summer
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -894,22 +894,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 02:00
 Heatmap (24h)             :  ▁█▄▅▃      ▂           
-Heatmap (7d)              : ▁▁█▄▇▃      ▂         ▁▇
+Heatmap (7d)              : ▁▁█▄▇▃      ▂          ▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:37:24
+Avg inter-play gap (7d)   : 00:37:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(9) | metalcore(5) | progressive rock(4) | grunge(2) | post-grunge(2) | space rock(2)
-Top genres (7d)           : jazz(9) | progressive metal(9) | metalcore(5) | progressive rock(4) | latin rock(3) | grunge(2)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : progressive metal(9) | metalcore(6) | progressive rock(4) | grunge(2) | post-grunge(2) | space rock(2)
+Top genres (7d)           : progressive metal(9) | jazz(8) | metalcore(6) | progressive rock(4) | latin rock(3) | grunge(2)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 08:30:39Z
+Report generated (UTC)    : 2026-01-28 08:31:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
