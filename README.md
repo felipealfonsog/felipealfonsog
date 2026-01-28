@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Transmission Lost — Break
+Now playing               : heaven // alone — exonerate
 Last played               : Red In Summer — Save Me
 Last played (UTC)         : 2026-01-28 12:38:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : heaven // alone — exonerate → Red In Summer — Save Me
-Δ last played (since last): 2026-01-28 12:35:54Z → 2026-01-28 12:38:28Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:04
-Telemetry age             : 00:02:04
-Δ time (since last report): 00:02:55
+Time since last play      : 00:03:09
+Telemetry age             : 00:03:09
+Δ time (since last report): 00:01:05
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 12:40:32Z → 2026-01-28 12:40:32Z
+Week window (UTC)         : 2026-01-21 12:41:37Z → 2026-01-28 12:41:37Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : progressive metal(9) | progressive rock(9) | space r
 Top genres (7d)           : progressive metal(9) | progressive rock(9) | space rock(8) | metalcore(7) | stoner rock(7) | post-grunge(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 12:40:32Z
+Report generated (UTC)    : 2026-01-28 12:41:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
