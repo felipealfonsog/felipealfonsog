@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : ASAVA — Confidence
-Last played               : Ions — Callousness
-Last played (UTC)         : 2026-01-28 19:13:36Z
+Now playing               : Red In Summer — Bleeding For You
+Last played               : Our Chronicle — This Way
+Last played (UTC)         : 2026-01-28 19:23:33Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : I Hate Elephants Sitting on Children — Fear Is Just a Concept → Ions — Callousness
-Δ last played (since last): 2026-01-28 19:06:20Z → 2026-01-28 19:13:36Z
+Δ track (since last)      : Ions — Callousness → Our Chronicle — This Way
+Δ last played (since last): 2026-01-28 19:13:36Z → 2026-01-28 19:23:33Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:36
-Telemetry age             : 00:00:36
-Δ time (since last report): 00:04:51
+Time since last play      : 00:00:45
+Telemetry age             : 00:00:45
+Δ time (since last report): 00:10:06
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 19:14:12Z → 2026-01-28 19:14:12Z
+Week window (UTC)         : 2026-01-21 19:24:17Z → 2026-01-28 19:24:17Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :        ▂▇█▆▃   ▂▂       
-Heatmap (7d)              :        ▂▇█▆▃   ▂▂       
+Heatmap (24h)             :        ▁▇█▆▃   ▂▃       
+Heatmap (7d)              :        ▁▇█▆▃   ▂▃       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:10:14
+Avg inter-play gap (7d)   : 00:10:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(8) | progressive rock(7) | djent(5) | metalcore(4) | space rock(4) | post-grunge(3)
-Top genres (7d)           : progressive metal(8) | progressive rock(7) | djent(5) | metalcore(4) | space rock(4) | post-grunge(3)
+Top genres (24h)          : progressive metal(7) | progressive rock(6) | djent(5) | metalcore(5) | post-grunge(3) | shoegaze(3)
+Top genres (7d)           : progressive metal(7) | progressive rock(6) | djent(5) | metalcore(5) | post-grunge(3) | shoegaze(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 19:14:12Z
+Report generated (UTC)    : 2026-01-28 19:24:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
