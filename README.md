@@ -858,13 +858,13 @@ Last played               : Parhelion — Banded Eyes
 Last played (UTC)         : 2026-01-28 13:06:43Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : ASAVA — Canyon → Parhelion — Banded Eyes
-Δ last played (since last): 2026-01-28 12:57:33Z → 2026-01-28 13:06:43Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:51
-Telemetry age             : 00:02:51
-Δ time (since last report): 00:07:44
+Time since last play      : 00:04:41
+Telemetry age             : 00:04:41
+Δ time (since last report): 00:01:51
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 13:09:33Z → 2026-01-28 13:09:33Z
+Week window (UTC)         : 2026-01-21 13:11:23Z → 2026-01-28 13:11:23Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | progressive rock(9) | metalcore(7) | post-grunge(6) | space rock(6) | stoner rock(5)
 Top genres (7d)           : progressive metal(9) | progressive rock(9) | metalcore(7) | post-grunge(6) | space rock(6) | stoner rock(5)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 13:09:33Z
+Report generated (UTC)    : 2026-01-28 13:11:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
