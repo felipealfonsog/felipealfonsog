@@ -858,13 +858,13 @@ Last played               : Pinhdar — Humans
 Last played (UTC)         : 2026-01-28 06:36:37Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : I Hate Elephants Sitting on Children — Come Join Me → Pinhdar — Humans
-Δ last played (since last): 2026-01-28 06:11:02Z → 2026-01-28 06:36:37Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:57
-Telemetry age             : 00:00:57
-Δ time (since last report): 00:15:27
+Time since last play      : 00:01:56
+Telemetry age             : 00:01:56
+Δ time (since last report): 00:01:00
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 06:37:33Z → 2026-01-28 06:37:33Z
+Week window (UTC)         : 2026-01-21 06:38:32Z → 2026-01-28 06:38:32Z
 Total tracks played       : 50
 Dominant artist           : Proxima Flare
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | progressive rock(4) | metalcore(3) | grunge(2) | latin rock(2) | post-grunge(2)
 Top genres (7d)           : jazz(21) | progressive metal(9) | progressive rock(4) | latin rock(3) | metalcore(3) | grunge(2)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 06:37:33Z
+Report generated (UTC)    : 2026-01-28 06:38:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
