@@ -3,7 +3,6 @@ import base64
 import json
 import os
 import sys
-import time
 import urllib.parse
 import urllib.request
 import urllib.error
@@ -61,8 +60,8 @@ def refresh_access_token(cid, csec, rt):
 def detect_playing(token):
     """
     Robust playback detection:
-    1) /currently-playing (best for "is it playing NOW?")
-    2) fallback /me/player
+    1) /currently-playing (best signal for NOW)
+    2) fallback /me/player if 204
     """
     h = {"Authorization": f"Bearer {token}"}
 
@@ -70,7 +69,6 @@ def detect_playing(token):
     if c_code == 200 and isinstance(c_data, dict):
         return bool(c_data.get("is_playing")), "currently_playing"
     if c_code == 204:
-        # fallback
         p_code, p_data = http_json(PLAYER_URL, headers=h, timeout=20)
         if p_code == 200 and isinstance(p_data, dict):
             return bool(p_data.get("is_playing")), "player_fallback"
@@ -81,14 +79,13 @@ def detect_playing(token):
 
 def load_latch(path):
     # default: armed=true
-    obj = {"armed": True, "updated_utc": None, "last_trigger_epoch": 0}
+    obj = {"armed": True, "updated_utc": None}
     try:
         with open(path, "r", encoding="utf-8") as f:
             x = json.load(f)
         if isinstance(x, dict):
             obj["armed"] = bool(x.get("armed", True))
             obj["updated_utc"] = x.get("updated_utc", None)
-            obj["last_trigger_epoch"] = int(x.get("last_trigger_epoch", 0) or 0)
     except Exception:
         pass
     return obj
@@ -102,10 +99,7 @@ def main():
     enable = (os.getenv("ENABLE_FAST_POLL", "false") or "false").strip().lower()
     mode = (os.getenv("FAST_POLL_MODE", "PLAYING_ONLY") or "PLAYING_ONLY").strip().upper()
     latch_file = (os.getenv("LATCH_FILE") or ".github/state/spotify_fastpoll_latch.json").strip()
-    cooldown_min = int((os.getenv("LATCH_COOLDOWN_MINUTES", "20") or "20").strip())
 
-    # Output contract for GitHub Actions: print should_run=...
-    # Always be deterministic.
     if enable != "true":
         print("should_run=false")
         print("reason=fast_poll_disabled")
@@ -130,9 +124,7 @@ def main():
 
     playing, source = detect_playing(tok)
 
-    # ANY_SESSION mode: treat "player exists" as "playing" is not correct.
-    # You asked for ANY_SESSION earlier, but "currently-playing" is about playing.
-    # We'll interpret ANY_SESSION as: if /me/player says device exists (and not 204).
+    # Optional: ANY_SESSION means "device exists" (session) even if not currently playing
     if mode == "ANY_SESSION" and not playing:
         p_code, p_data = http_json(PLAYER_URL, headers={"Authorization": f"Bearer {tok}"}, timeout=20)
         if p_code == 200 and isinstance(p_data, dict) and isinstance(p_data.get("device"), dict) and bool(p_data.get("device")):
@@ -141,47 +133,39 @@ def main():
 
     latch = load_latch(latch_file)
     armed = bool(latch.get("armed", True))
-    last_trigger_epoch = int(latch.get("last_trigger_epoch", 0) or 0)
-    now_epoch = int(time.time())
-
-    # Cooldown re-arm (anti “stuck false forever”)
-    cooldown_s = cooldown_min * 60
-    if (not armed) and last_trigger_epoch > 0 and (now_epoch - last_trigger_epoch) >= cooldown_s:
-        armed = True
-
     changed = False
-    should_run = False
-    reason = "unknown"
 
+    # ------------------------------------------------------------
+    # STRICT latch rules:
+    # - If NOT playing => re-arm (armed=true), but NEVER run job
+    # - If playing:
+    #     - if armed=true => run once, then disarm (armed=false)
+    #     - if armed=false => do not run (already triggered)
+    # ------------------------------------------------------------
     if not playing:
-        # Not playing => re-arm
+        # Ensure armed=true for next time playback starts
         if not armed:
             armed = True
             changed = True
-        latch_out = {"armed": True, "updated_utc": utc_now_s(), "last_trigger_epoch": last_trigger_epoch}
-        save_latch(latch_file, latch_out)
+        save_latch(latch_file, {"armed": True, "updated_utc": utc_now_s()})
         print("should_run=false")
         print(f"reason=not_playing_{source}")
         print(f"changed_latch={'true' if changed else 'false'}")
         return 0
 
-    # Playing:
+    # playing == True
     if armed:
-        # First trigger => run and disarm
-        should_run = True
-        reason = f"triggered_{source}"
-        latch_out = {"armed": False, "updated_utc": utc_now_s(), "last_trigger_epoch": now_epoch}
-        save_latch(latch_file, latch_out)
-        changed = True
-    else:
-        should_run = False
-        reason = f"already_triggered_{source}"
-        latch_out = {"armed": False, "updated_utc": utc_now_s(), "last_trigger_epoch": last_trigger_epoch}
-        save_latch(latch_file, latch_out)
+        save_latch(latch_file, {"armed": False, "updated_utc": utc_now_s()})
+        print("should_run=true")
+        print(f"reason=triggered_{source}")
+        print("changed_latch=true")
+        return 0
 
-    print(f"should_run={'true' if should_run else 'false'}")
-    print(f"reason={reason}")
-    print(f"changed_latch={'true' if changed else 'false'}")
+    # already disarmed
+    save_latch(latch_file, {"armed": False, "updated_utc": utc_now_s()})
+    print("should_run=false")
+    print(f"reason=already_triggered_{source}")
+    print("changed_latch=false")
     return 0
 
 if __name__ == "__main__":
