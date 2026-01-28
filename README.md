@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Red In Summer — Save Me
-Last played               : heaven // alone — exonerate
-Last played (UTC)         : 2026-01-28 12:35:54Z
+Now playing               : Transmission Lost — Break
+Last played               : Red In Summer — Save Me
+Last played (UTC)         : 2026-01-28 12:38:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : heaven // alone — exonerate → Red In Summer — Save Me
+Δ last played (since last): 2026-01-28 12:35:54Z → 2026-01-28 12:38:28Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:43
-Telemetry age             : 00:01:43
-Δ time (since last report): 00:01:24
+Time since last play      : 00:02:04
+Telemetry age             : 00:02:04
+Δ time (since last report): 00:02:55
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 12:37:37Z → 2026-01-28 12:37:37Z
+Week window (UTC)         : 2026-01-21 12:40:32Z → 2026-01-28 12:40:32Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,8 +893,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :      ▃▇█▇▅              
-Heatmap (7d)              :      ▃▇█▇▅              
+Heatmap (24h)             :      ▂▇█▇▆              
+Heatmap (7d)              :      ▂▇█▇▆              
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -905,11 +905,11 @@ Avg inter-play gap (7d)   : 00:05:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(9) | progressive rock(9) | space rock(9) | stoner rock(7) | metalcore(6) | post-grunge(6)
-Top genres (7d)           : progressive metal(9) | progressive rock(9) | space rock(9) | stoner rock(7) | metalcore(6) | post-grunge(6)
+Top genres (24h)          : progressive metal(9) | progressive rock(9) | space rock(8) | metalcore(7) | stoner rock(7) | post-grunge(6)
+Top genres (7d)           : progressive metal(9) | progressive rock(9) | space rock(8) | metalcore(7) | stoner rock(7) | post-grunge(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 12:37:37Z
+Report generated (UTC)    : 2026-01-28 12:40:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
