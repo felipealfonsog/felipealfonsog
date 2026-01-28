@@ -137,10 +137,15 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <!-- FINAL BADGES BELOW THE DONATION BADGE -->
 
-[<img src="https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=20" height="19"/>](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/WakaTime_Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime) [<img src="https://img.shields.io/badge/Repository_Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#projects)
+[<img src="https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=20" height="19"/>](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/Repository_Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#projects)
 [<img src="https://img.shields.io/badge/All_Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog) 
 [<img src="https://img.shields.io/badge/GitLab_Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/License_%2F_Compliance-SECURED?style=plastic&logo=readthedocs&logoColor=white&labelColor=111111&color=111111&logoWidth=20" height="19"/>](#classified-identity--integrity-notice)
+
+[<img src="https://img.shields.io/badge/WakaTime_Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime)
+[<img src="https://img.shields.io/badge/Spotify_Stats-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=1DB954&color=1DB954&logoWidth=20" height="19"/>](#spotify)
+[<img src="https://img.shields.io/badge/Voyager_Telemetry_NASA%2FJPL-0B3D91?style=plastic&logo=nasa&logoColor=white&labelColor=0B3D91&color=0B3D91&logoWidth=20" height="19"/>](#voyager-telemetry)
+
 
 [<img src="https://img.shields.io/badge/Refresh_Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7&logoWidth=20" height="19"/>](https://github.com/felipealfonsog?cache-bypass=1) [<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
@@ -280,7 +285,7 @@ Last update: 2026-01-26T00:32:03Z (UTC)
 
 -->
 <details open>
-  <summary id="voyager"><strong>🛰️ Voyager Telemetry (CLI feed)</strong> — NASA/JPL*</summary>
+  <summary id="voyager-telemetry"><strong>🛰️ Voyager Telemetry (CLI feed)</strong> — NASA/JPL*</summary>
 <br>
 
 <!--
@@ -301,7 +306,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-27 00:46:32Z
+DSN snapshot (UTC)       : 2026-01-28 09:36:22Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -312,15 +317,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.44e9 km | 170.029 AU
-Heliocentric distance    : 169.509 AU
-Relative speed           : 24.734 km/s
+Earth distance           : 25.44e9 km | 170.027 AU
+Heliocentric distance    : 169.522 AU
+Relative speed           : 24.444 km/s
 ------------------------------------------------------------
-One-way light time       : 23:34:05
-Round-trip latency       : 47:08:10
+One-way light time       : 23:34:04
+Round-trip latency       : 47:08:08
 ------------------------------------------------------------
-Δ distance (since last)  : -21,792 km
-Mission age              : 48 years, 156 days
+Δ distance (since last)  : -24,355 km
+Mission age              : 48 years, 157 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -331,19 +336,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.683 AU
-Heliocentric distance    : 141.940 AU
-Relative speed           : 31.897 km/s
+Earth distance           : 21.35e9 km | 142.690 AU
+Heliocentric distance    : 141.952 AU
+Relative speed           : 31.662 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:40
-Round-trip latency       : 39:33:19
+One-way light time       : 19:46:43
+Round-trip latency       : 39:33:26
 ------------------------------------------------------------
-Δ distance (since last)  : +100,537 km
-Mission age              : 48 years, 172 days
+Δ distance (since last)  : +87,939 km
+Mission age              : 48 years, 173 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-27 00:46:34Z
+Report generated (UTC)   : 2026-01-28 09:36:24Z
 ```
 
 <!-- VOYAGER:END -->
@@ -789,7 +794,7 @@ _)      \.___.,|     .'
 -->
 
 <details open>
-<summary>
+<summary id="spotify">
 <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a>
 🎧 Currently or previously on Spotify ...
 </summary>
@@ -836,35 +841,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 97%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Andy Goodman — Nimble
-Last played               : The Levon Trio — Once Knowing
-Last played (UTC)         : 2026-01-27 02:33:46Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Marble — smile at strangers
+Last played (UTC)         : 2026-01-28 09:59:02Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Southside Trio — Blue Eyes Crying In The Rain → The Levon Trio — Once Knowing
-Δ last played (since last): 2026-01-27 02:27:29Z → 2026-01-27 02:33:46Z
+Δ track (since last)      : Maha Sohona — Visions → Marble — smile at strangers
+Δ last played (since last): 2026-01-28 08:49:58Z → 2026-01-28 09:59:02Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:32
-Telemetry age             : 00:02:32
-Δ time (since last report): 00:06:15
+Time since last play      : 00:03:43
+Telemetry age             : 00:03:43
+Δ time (since last report): 00:58:45
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -872,39 +876,39 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 50
-Dominant artist           : Nirvana
+Dominant artist           : Red In Summer
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-20 02:36:18Z → 2026-01-27 02:36:18Z
+Week window (UTC)         : 2026-01-21 10:02:45Z → 2026-01-28 10:02:45Z
 Total tracks played       : 50
-Dominant artist           : Nirvana
+Dominant artist           : Red In Summer
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
-Peak hour (7d)            : 22:00
-Heatmap (24h)             :        ▃▇             █▅
-Heatmap (7d)              :        ▃▇             █▅
+Peak hour (24h)           : 02:00
+Peak hour (7d)            : 02:00
+Heatmap (24h)             :  ▁█▄▅▅█     ▁           
+Heatmap (7d)              :  ▁█▄▅▅█     ▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:19:30
+Avg inter-play gap (7d)   : 00:23:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
-Top genres (7d)           : jazz(25) | grunge(22) | rock(22) | bossa nova(1) | latin rock(1)
-Artist lookups (this run) : 2 (cached)
+Top genres (24h)          : progressive metal(10) | metalcore(8) | progressive rock(6) | space rock(6) | stoner metal(5) | stoner rock(4)
+Top genres (7d)           : progressive metal(10) | metalcore(8) | progressive rock(6) | space rock(6) | stoner metal(5) | stoner rock(4)
+Artist lookups (this run) : 8 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-27 02:36:18Z
+Report generated (UTC)    : 2026-01-28 10:02:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1259,9 +1263,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 26 January 2026
+From: 04 December 2023 - To: 28 January 2026
 
-Total Time       : 957 hrs 44 mins
+Total Time       : 965 hrs 14 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 13 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1270,44 +1274,44 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.06 %
-Python         133 hrs 58 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.99 %
-HTML           125 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.09 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.35 %
-Other          80 hrs 30 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.41 %
-Markdown       77 hrs 44 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
-C              73 hrs 29 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.67 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.18 %
-Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.96 %
-INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
+Bash           163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.93 %
+Python         136 hrs 10 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.11 %
+HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.99 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.27 %
+Other          86 hrs 11 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.93 %
+Markdown       77 hrs 44 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.05 %
+C              73 hrs 29 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.61 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.14 %
+Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.93 %
+INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.70 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          570 hrs 43 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.59 %
-Mac            467 hrs 31 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.82 %
+Linux          570 hrs 43 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.13 %
+Mac            480 hrs 41 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  49.80 %
 
 EDITORS
 -------
-VS Code        650 hrs 33 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  67.93 %
-Vim            321 hrs 27 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.56 %
-Firefox        51 hrs 36 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.39 %
-TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.21 %
+VS Code        650 hrs 33 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  67.40 %
+Vim            321 hrs 33 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.31 %
+Firefox        62 hrs 46 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.50 %
+TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.20 %
+Terminal       1 hr 18 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.14 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+TextMate       40 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
 Antigravity    14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 Dia            6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
-Terminal       3 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
-TextMate       1 min          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Chrome         0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 CATEGORIES
 ----------
-Coding         986 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       51 hrs 36 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.39 %
+Coding         988 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       62 hrs 47 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.50 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 27/01/2026 02:53:34 UTC
+Last updated     : 28/01/2026 10:13:06 UTC
 
 ```
 <!--END_SECTION:wakastats-->
