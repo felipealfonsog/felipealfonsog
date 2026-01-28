@@ -836,30 +836,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Red In Summer — Light the Pyre
+Now playing               : N/A
 Last played               : floodlit — Ama
 Last played (UTC)         : 2026-01-28 05:42:59Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Proxima Flare — An Insufferable Dilemma → floodlit — Ama
-Δ last played (since last): 2026-01-27 15:33:08Z → 2026-01-28 05:42:59Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:23
-Telemetry age             : 00:00:23
-Δ time (since last report): 00:57:08
+Time since last play      : 00:01:27
+Telemetry age             : 00:01:27
+Δ time (since last report): 00:01:04
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -878,7 +877,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 05:43:22Z → 2026-01-28 05:43:22Z
+Week window (UTC)         : 2026-01-21 05:44:26Z → 2026-01-28 05:44:26Z
 Total tracks played       : 50
 Dominant artist           : Proxima Flare
 Cadence classification    : HIGH
@@ -902,9 +901,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(7) | latin rock(2) | metalcore(2) | progressive rock(2) | grunge(1) | post-grunge(1)
 Top genres (7d)           : jazz(25) | progressive metal(7) | grunge(6) | rock(5) | latin rock(3) | metalcore(2)
-Artist lookups (this run) : 8 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 05:43:22Z
+Report generated (UTC)    : 2026-01-28 05:44:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
