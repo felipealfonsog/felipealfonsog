@@ -6,22 +6,23 @@ on:
     # ------------------------------------------------------------
     # NORMAL CRON (baseline)
     # - Siempre corre cada 3h, pase lo que pase
+    # - Este es tu comportamiento original, INTACTO
     # ------------------------------------------------------------
     - cron: "23 */3 * * *"
 
     # ------------------------------------------------------------
     # OBSERVER (cada 2 minutos)
-    # - NO actualiza README
-    # - Solo observa estado (PLAYING/IDLE)
-    # - Rearma latch al quedar IDLE
-    # - Anti-stuck cooldown si latch queda false demasiado tiempo
+    # - Observa el estado (PLAYING / IDLE)
+    # - Si detecta CAMBIO a IDLE => dispara UNA vez update del README
+    # - Si no hay cambio => NOOP
     # ------------------------------------------------------------
     - cron: "*/2 * * * *"
 
     # ------------------------------------------------------------
     # FAST TRIGGER (cada 1 minuto)
-    # - Dispara UNA vez cuando detecta playback y latch está armado
-    # - Luego deja latch desarmado para evitar spam
+    # - Observa el estado (PLAYING / IDLE)
+    # - Si detecta CAMBIO a PLAYING => dispara UNA vez update del README
+    # - Si no hay cambio => NOOP
     # ------------------------------------------------------------
     - cron: "* * * * *"
 
@@ -33,20 +34,11 @@ env:
   FAST_POLL_MODE: "PLAYING_ONLY"  # PLAYING_ONLY | ANY_SESSION
 
   # ------------------------------------------------------------
-  # Estado observado (solo para diagnóstico / contexto)
+  # Estado observado (persistente, repo)
+  # - Guarda el último estado detectado (PLAYING/IDLE)
+  # - Sirve para gatillar updates SOLO cuando hay cambio de estado
   # ------------------------------------------------------------
   STATE_FILE: ".github/state/spotify_playback_state.json"
-
-  # ------------------------------------------------------------
-  # Latch state en el repo (persistente)
-  # ------------------------------------------------------------
-  LATCH_FILE: ".github/state/spotify_fastpoll_latch.json"
-
-  # ------------------------------------------------------------
-  # Anti-stuck: si el latch queda “false” para siempre,
-  # se rearma automáticamente después de X minutos.
-  # ------------------------------------------------------------
-  LATCH_COOLDOWN_MINUTES: "20"
 
   CRON_BASELINE: "23 */3 * * *"
   CRON_OBSERVER: "*/2 * * * *"
@@ -213,192 +205,105 @@ jobs:
           echo "Spotify playing=${PLAYING} why=${WHY}"
 
       # ------------------------------------------------------------
-      # OBSERVER:
-      # - Actualiza STATE_FILE (diagnóstico)
-      # - Rearma latch cuando estás IDLE
-      # - Cooldown anti-stuck: si latch está false por mucho tiempo => rearm
+      # Decide if we should run telemetry on observer/fast:
+      # - We run ONLY when state CHANGES compared to STATE_FILE.
+      # - observer triggers on change to IDLE
+      # - fast triggers on change to PLAYING
       # ------------------------------------------------------------
-      - name: Observer (state + latch re-arm + cooldown)
-        if: steps.gate.outputs.enabled == 'true' && steps.mode.outputs.mode == 'observer'
+      - name: State-change gate (observer/fast)
+        id: sc
+        if: steps.gate.outputs.enabled == 'true' && (steps.mode.outputs.mode == 'observer' || steps.mode.outputs.mode == 'fast')
         env:
           STATE_FILE: ${{ env.STATE_FILE }}
-          LATCH_FILE: ${{ env.LATCH_FILE }}
-          LATCH_COOLDOWN_MINUTES: ${{ env.LATCH_COOLDOWN_MINUTES }}
+          MODE: ${{ steps.mode.outputs.mode }}
           PLAYING: ${{ steps.sp.outputs.playing }}
           WHY: ${{ steps.sp.outputs.why }}
         run: |
           set -euo pipefail
           mkdir -p "$(dirname "${STATE_FILE}")"
-          mkdir -p "$(dirname "${LATCH_FILE}")"
 
-          python3 - <<'PY'
+          python3 - <<'PY' > /tmp/state_gate.txt
           import json, os
           from datetime import datetime, timezone
 
           state_path = os.environ["STATE_FILE"]
-          latch_path = os.environ["LATCH_FILE"]
-          cooldown_min = int((os.environ.get("LATCH_COOLDOWN_MINUTES","20") or "20").strip())
+          mode = os.environ.get("MODE","")
           playing = (os.environ.get("PLAYING","false").lower() == "true")
           why = os.environ.get("WHY","unknown")
 
-          now = datetime.now(timezone.utc)
-          now_s = now.strftime("%Y-%m-%d %H:%M:%SZ")
-
-          # --- Write state file (diagnostic only) ---
-          state_obj = {
-            "state": "PLAYING" if playing else "IDLE",
-            "why": why,
-            "updated_utc": now_s,
-          }
-          with open(state_path, "w", encoding="utf-8") as f:
-            f.write(json.dumps(state_obj, ensure_ascii=False, indent=2) + "\n")
-
-          # --- Load latch file ---
-          latch = {"armed": True, "updated_utc": now_s, "last_trigger_utc": None}
-          try:
-            with open(latch_path, "r", encoding="utf-8") as f:
-              cur = json.load(f)
-              if isinstance(cur, dict):
-                latch.update(cur)
-          except Exception:
-            pass
-
-          armed = bool(latch.get("armed", True))
-          last_trigger = latch.get("last_trigger_utc")
-
-          def parse_ts(s):
-            if not s:
-              return None
-            try:
-              return datetime.fromisoformat(s.replace("Z","+00:00"))
-            except Exception:
-              return None
-
-          # --- Cooldown anti-stuck ---
-          # If latch is disarmed and we haven't triggered for too long, re-arm.
-          if not armed:
-            lt = parse_ts(last_trigger)
-            if lt is not None:
-              age_sec = (now - lt).total_seconds()
-              if age_sec >= cooldown_min * 60:
-                armed = True
-                latch["armed"] = True
-                latch["cooldown_rearm_utc"] = now_s
-            else:
-              # If disarmed but no last_trigger_utc, re-arm defensively.
-              armed = True
-              latch["armed"] = True
-              latch["cooldown_rearm_utc"] = now_s
-
-          # --- Re-arm when IDLE ---
-          if not playing:
-            latch["armed"] = True
-            latch["rearm_utc"] = now_s
-
-          latch["updated_utc"] = now_s
-
-          with open(latch_path, "w", encoding="utf-8") as f:
-            f.write(json.dumps(latch, ensure_ascii=False, indent=2) + "\n")
-
-          print(f"observer: playing={playing} -> state={state_obj['state']} | latch.armed={latch['armed']}")
-          PY
-
-      - name: Commit observer files (only if changed)
-        if: steps.gate.outputs.enabled == 'true' && steps.mode.outputs.mode == 'observer'
-        run: |
-          set -euo pipefail
-          if git diff --quiet; then
-            echo "Observer: no changes."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "${STATE_FILE}" "${LATCH_FILE}"
-          git commit -m "chore: update spotify observer state"
-          git push
-
-      # ------------------------------------------------------------
-      # FAST TRIGGER:
-      # - Si playing=true y latch.armed=true => DISPARA y latch.armed=false
-      # - Si latch ya está false => NO dispara (anti-spam)
-      # ------------------------------------------------------------
-      - name: Fast trigger (latch)
-        id: latch
-        if: steps.gate.outputs.enabled == 'true' && steps.mode.outputs.mode == 'fast'
-        env:
-          LATCH_FILE: ${{ env.LATCH_FILE }}
-          PLAYING: ${{ steps.sp.outputs.playing }}
-        run: |
-          set -euo pipefail
-          mkdir -p "$(dirname "${LATCH_FILE}")"
-
-          python3 - <<'PY' > /tmp/latch_decision.txt
-          import json, os
-          from datetime import datetime, timezone
-
-          latch_path = os.environ["LATCH_FILE"]
-          playing = (os.environ.get("PLAYING","false").lower() == "true")
           now_s = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
+          new_state = "PLAYING" if playing else "IDLE"
 
-          latch = {"armed": True, "updated_utc": now_s, "last_trigger_utc": None}
+          prev_state = None
           try:
-            with open(latch_path, "r", encoding="utf-8") as f:
-              cur = json.load(f)
-              if isinstance(cur, dict):
-                latch.update(cur)
+            with open(state_path, "r", encoding="utf-8") as f:
+              obj = json.load(f)
+              prev_state = (obj.get("state") if isinstance(obj, dict) else None)
           except Exception:
-            pass
+            prev_state = None
 
-          armed = bool(latch.get("armed", True))
+          changed = (prev_state != new_state)
 
-          if playing and armed:
-            latch["armed"] = False
-            latch["last_trigger_utc"] = now_s
-            latch["updated_utc"] = now_s
-            with open(latch_path, "w", encoding="utf-8") as f:
-              f.write(json.dumps(latch, ensure_ascii=False, indent=2) + "\n")
-            print("true triggered")
-          else:
-            if not playing:
-              print("false not_playing")
+          # Determine trigger condition by mode
+          run = False
+          reason = "no_change"
+
+          if changed:
+            if mode == "fast" and new_state == "PLAYING":
+              run = True
+              reason = f"change_to_PLAYING_{why}"
+            elif mode == "observer" and new_state == "IDLE":
+              run = True
+              reason = f"change_to_IDLE_{why}"
             else:
-              print("false already_latched")
+              run = False
+              reason = f"change_ignored_{prev_state}_to_{new_state}"
+
+          # Always update STATE_FILE for accurate next comparison
+          out = {"state": new_state, "why": why, "updated_utc": now_s}
+          with open(state_path, "w", encoding="utf-8") as f:
+            f.write(json.dumps(out, ensure_ascii=False, indent=2) + "\n")
+
+          print(("true" if run else "false") + " " + reason)
           PY
 
-          RUN="$(awk '{print $1}' /tmp/latch_decision.txt | tail -n1)"
-          WHY="$(awk '{print $2}' /tmp/latch_decision.txt | tail -n1)"
-          rm -f /tmp/latch_decision.txt
+          RUN="$(awk '{print $1}' /tmp/state_gate.txt | tail -n1)"
+          WHY="$(awk '{print $2}' /tmp/state_gate.txt | tail -n1)"
+          rm -f /tmp/state_gate.txt
 
           echo "run=${RUN}" >> "$GITHUB_OUTPUT"
           echo "reason=${WHY}" >> "$GITHUB_OUTPUT"
-          echo "Fast: run=${RUN} reason=${WHY}"
+          echo "State gate: run=${RUN} reason=${WHY}"
 
-      - name: Commit latch update (only if it triggered)
-        if: steps.gate.outputs.enabled == 'true' && steps.mode.outputs.mode == 'fast' && steps.latch.outputs.run == 'true'
+      # ------------------------------------------------------------
+      # Commit STATE_FILE whenever observer/fast ran (so state change persistence is durable)
+      # ------------------------------------------------------------
+      - name: Commit state file (observer/fast, only if changed)
+        if: steps.gate.outputs.enabled == 'true' && (steps.mode.outputs.mode == 'observer' || steps.mode.outputs.mode == 'fast')
         run: |
           set -euo pipefail
           if git diff --quiet; then
-            echo "Fast: no latch changes (unexpected)."
+            echo "State: no changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "${LATCH_FILE}"
-          git commit -m "chore: latch spotify fast trigger"
+          git add "${STATE_FILE}"
+          git commit -m "chore: update spotify playback state"
           git push
 
       # ------------------------------------------------------------
       # UPDATE TELEMETRY:
       # - baseline => SIEMPRE
       # - manual   => SIEMPRE
-      # - fast     => SOLO si latch disparó run=true
-      # - observer => NUNCA
+      # - observer/fast => SOLO si state gate dijo run=true
       # ------------------------------------------------------------
       - name: Update Spotify telemetry block (fail-safe)
         if: |
           steps.mode.outputs.mode == 'baseline' ||
           steps.mode.outputs.mode == 'manual' ||
-          (steps.mode.outputs.mode == 'fast' && steps.gate.outputs.enabled == 'true' && steps.latch.outputs.run == 'true')
+          ((steps.mode.outputs.mode == 'observer' || steps.mode.outputs.mode == 'fast') &&
+           steps.gate.outputs.enabled == 'true' && steps.sc.outputs.run == 'true')
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
@@ -411,7 +316,8 @@ jobs:
         if: |
           steps.mode.outputs.mode == 'baseline' ||
           steps.mode.outputs.mode == 'manual' ||
-          (steps.mode.outputs.mode == 'fast' && steps.gate.outputs.enabled == 'true' && steps.latch.outputs.run == 'true')
+          ((steps.mode.outputs.mode == 'observer' || steps.mode.outputs.mode == 'fast') &&
+           steps.gate.outputs.enabled == 'true' && steps.sc.outputs.run == 'true')
         run: |
           set -euo pipefail
           if git diff --quiet; then
