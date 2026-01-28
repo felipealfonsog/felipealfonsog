@@ -16,12 +16,11 @@ on:
     # - LATCH evita que dispare repetido por sesión
     # ------------------------------------------------------------
     #	•	*/15 → 96 runs/día
-	  # •	*/30 → 48 runs/día
+	# •	*/30 → 48 runs/día
     # 15 */3 * * * Cada 3 horas
     # */15 * * * * Cada 15 min
     # 0 * * * * Cada 1 hora
-
-	  # •	0 * * * * → 24 # runs/día ✅ recomendado si quieres paz
+    # •	0 * * * * → 24 # runs/día ✅ recomendado si quieres paz
     - cron: "0 * * * *"
 
 permissions:
