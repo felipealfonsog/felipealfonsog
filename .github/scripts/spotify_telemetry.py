@@ -176,7 +176,7 @@ def fetch_currently_playing(token: str):
     return fetch_json_endpoint(CURRENT_URL, token, timeout=15)
 
 def fetch_player_state(token: str):
-    # This is the key fix: device + volume live here.
+    # device + volume live here
     return fetch_json_endpoint(PLAYER_URL, token, timeout=15)
 
 def fetch_recently_played(token: str, limit: int = 50):
@@ -256,7 +256,6 @@ def fmt_scope_lines(scope_str: str):
     if SCOPE_MODE == "COMPACT":
         return [" | ".join(tokens)]
 
-    # WRAP: clean telemetry wrap
     lines = []
     cur = ""
     for t in tokens:
@@ -342,12 +341,10 @@ def volume_bar(percent: int | None) -> str:
     if percent is None:
         return "-"
     p = clamp(int(percent), 0, 100)
-    # map to spark blocks; denser than heatmap
     chars = " ▁▂▃▄▅▆▇█"
     filled_steps = int(round((p / 100) * VOLUME_BAR_WIDTH))
     if filled_steps <= 0:
         return chars[1] * VOLUME_BAR_WIDTH
-    # build by ramping levels (visual “signal” look)
     out = []
     for i in range(VOLUME_BAR_WIDTH):
         if i < filled_steps:
@@ -382,58 +379,75 @@ def build_report():
     player_http = player.get("http", -1)
     player_data = player.get("data") if isinstance(player.get("data"), dict) else None
 
-    # This is the authoritative "session exists" check
-    has_active_session = (player_http == 200 and player_data is not None and isinstance(player_data.get("device"), dict))
-
-    device_type = "N/A"
-    device_name = "N/A"
-    volume_percent = None
-
-    volume_telemetry = "NO ACTIVE SESSION"
-
-    if has_active_session and is_playing:
-        dev = player_data.get("device") or {}
-        device_type = dev.get("type") or "N/A"
-        device_name = dev.get("name") or "N/A"
-        volume_percent = dev.get("volume_percent", None)
-
-        if volume_percent is None:
-            volume_telemetry = "NOT EXPOSED BY DEVICE"
-        else:
-            volume_telemetry = "OK"
-
-    elif has_active_session and not is_playing:
-        volume_telemetry = "IDLE (session present, no playback)"
-    
     # 2) CURRENTLY PLAYING (track truth)
     cur = fetch_currently_playing(token)
     api_http = cur.get("http", -1)
     api_ok_current = (api_http in (200, 204))
 
+    cur_data = cur.get("data") if isinstance(cur.get("data"), dict) else None
+    cur_is_playing = bool(cur_data.get("is_playing")) if isinstance(cur_data, dict) else False
+
+    # Authoritative session check: /me/player + device
+    has_active_session = (
+        player_http == 200
+        and isinstance(player_data, dict)
+        and isinstance(player_data.get("device"), dict)
+    )
+
+    # defaults
+    device_type = "N/A"
+    device_name = "N/A"
+    volume_percent = None
+
     status = "UNKNOWN"
     playback_state = "UNKNOWN"
     last_activity_type = "UNKNOWN"
     now_track_name = "N/A"
+    is_playing = False
+    volume_telemetry = "NO ACTIVE SESSION"
 
+    # Decide playback truth
     if has_active_session:
-        # if player exists, we can trust playback_state from it
-        is_playing = bool(player_data.get("is_playing"))
+        # prefer /currently-playing truth if available (200)
+        is_playing = cur_is_playing if api_http == 200 else bool((player_data or {}).get("is_playing"))
         status = "PLAYING" if is_playing else "IDLE"
-        playback_state = "ONLINE (active session)" if is_playing else "OFFLINE (no active session)"
+        playback_state = "ONLINE (active session)" if is_playing else "ONLINE (idle session)"
         last_activity_type = "PLAYBACK_ACTIVE" if is_playing else "PLAYBACK_INACTIVE"
     else:
-        # no session
-        status = "IDLE"
-        playback_state = "OFFLINE (no active session)"
-        last_activity_type = "NO_ACTIVE_SESSION"
+        # if currently-playing says playing but /me/player has no device -> playing, no device info
+        if api_http == 200 and cur_is_playing:
+            is_playing = True
+            status = "PLAYING"
+            playback_state = "ONLINE (active session)"
+            last_activity_type = "PLAYBACK_ACTIVE"
+        else:
+            is_playing = False
+            status = "IDLE"
+            playback_state = "OFFLINE (no active session)"
+            last_activity_type = "NO_ACTIVE_SESSION"
 
-    # Now playing track name
-    if api_http == 200 and isinstance(cur.get("data"), dict):
-        d = cur["data"]
-        is_playing = bool(d.get("is_playing"))
-        item = d.get("item") or {}
+    # Fill device/volume only when /me/player actually provided device
+    if player_http == 200 and isinstance(player_data, dict) and isinstance(player_data.get("device"), dict):
+        dev = player_data.get("device") or {}
+        device_type = dev.get("type") or "N/A"
+        device_name = dev.get("name") or "N/A"
+        volume_percent = dev.get("volume_percent", None)
+
+        if is_playing:
+            volume_telemetry = "OK" if volume_percent is not None else "NOT EXPOSED BY DEVICE"
+        else:
+            volume_telemetry = "IDLE (session present, no playback)"
+    else:
+        if is_playing:
+            volume_telemetry = "PLAYING (device not available this run)"
+        else:
+            volume_telemetry = "NO ACTIVE SESSION"
+
+    # Now playing track name (DO NOT overwrite is_playing here)
+    if api_http == 200 and isinstance(cur_data, dict):
+        item = cur_data.get("item") or {}
         now_track_obj = parse_track_item(item)
-        if is_playing and now_track_obj:
+        if cur_is_playing and now_track_obj:
             now_track_name = f"{now_track_obj['artist']} — {now_track_obj['title']}"
         else:
             now_track_name = "N/A"
@@ -604,7 +618,7 @@ def build_report():
     api_ok = (player_http in (200, 204)) and api_ok_current and recent_ok
     sitrep = classify_sitrep(status, playback_state, api_ok)
 
-    # API response class (focus on CURRENT endpoint, since that’s what most people expect)
+    # API response class (focus on CURRENT endpoint)
     if api_http == 200:
         api_class = "200 OK"
     elif api_http == 204:
@@ -645,7 +659,6 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_STATUS_BLOCK:
-        # Your requested exact OFFLINE/IDLE when no session:
         out.append(f"Playback state            : {playback_state}")
         out.append(f"Status                    : {status}")
         out.append(f"SITREP                    : {sitrep}")
@@ -696,7 +709,6 @@ def build_report():
                 for ln in scope_lines[1:]:
                     out.append(f"                           {ln}")
 
-        # Helpful to debug why volume/device may be N/A
         if player_http == 200:
             out.append(f"Player endpoint           : 200 OK")
         elif player_http == 204:
@@ -790,4 +802,3 @@ if __name__ == "__main__":
             sys.exit(0)
 
         sys.exit(1)
-
