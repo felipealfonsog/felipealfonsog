@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silver Throne — Where Your Feet Have Been
+Now playing               : PRAUN — Vanishing Point
 Last played               : Ions — Callousness
 Last played (UTC)         : 2026-01-28 11:54:58Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : ASAVA — Confidence → Ions — Callousness
-Δ last played (since last): 2026-01-28 11:52:28Z → 2026-01-28 11:54:58Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:38
-Telemetry age             : 00:03:38
-Δ time (since last report): 00:05:21
+Time since last play      : 00:04:31
+Telemetry age             : 00:04:31
+Δ time (since last report): 00:00:53
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 11:58:36Z → 2026-01-28 11:58:36Z
+Week window (UTC)         : 2026-01-21 11:59:28Z → 2026-01-28 11:59:28Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : space rock(9) | progressive metal(8) | progressive r
 Top genres (7d)           : space rock(9) | progressive metal(8) | progressive rock(8) | metalcore(7) | stoner metal(7) | post-grunge(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 11:58:36Z
+Report generated (UTC)    : 2026-01-28 11:59:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
