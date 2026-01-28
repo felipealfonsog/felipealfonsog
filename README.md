@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
-Last played               : Jess Lai Mieritz, Alex Rudinger — Fall Away
-Last played (UTC)         : 2026-01-28 18:54:48Z
+Now playing               : Silver Throne — Where Your Feet Have Been
+Last played               : I Hate Elephants Sitting on Children — Fear Is Just a Concept
+Last played (UTC)         : 2026-01-28 19:06:20Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Jess Lai Mieritz, Alex Rudinger — Fall Away → I Hate Elephants Sitting on Children — Fear Is Just a Concept
+Δ last played (since last): 2026-01-28 18:54:48Z → 2026-01-28 19:06:20Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:47
-Telemetry age             : 00:01:47
-Δ time (since last report): 00:01:40
+Time since last play      : 00:03:01
+Telemetry age             : 00:03:01
+Δ time (since last report): 00:12:46
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 18:56:35Z → 2026-01-28 18:56:35Z
+Week window (UTC)         : 2026-01-21 19:09:21Z → 2026-01-28 19:09:21Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :        ▄▇█▆▃   ▂        
-Heatmap (7d)              :        ▄▇█▆▃   ▂        
+Heatmap (24h)             :        ▃▇█▆▃   ▂▁       
+Heatmap (7d)              :        ▃▇█▆▃   ▂▁       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:10:15
+Avg inter-play gap (7d)   : 00:10:17
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(8) | progressive rock(7) | metalcore(5) | space rock(5) | djent(4) | post-grunge(4)
-Top genres (7d)           : progressive metal(8) | progressive rock(7) | metalcore(5) | space rock(5) | djent(4) | post-grunge(4)
+Top genres (24h)          : progressive metal(8) | progressive rock(7) | space rock(5) | djent(4) | metalcore(4) | stoner rock(4)
+Top genres (7d)           : progressive metal(8) | progressive rock(7) | space rock(5) | djent(4) | metalcore(4) | stoner rock(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 18:56:35Z
+Report generated (UTC)    : 2026-01-28 19:09:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
