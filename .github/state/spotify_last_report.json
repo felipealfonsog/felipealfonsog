@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-28 12:41:37Z",
+  "report_generated_utc": "2026-01-28 12:58:45Z",
   "status": "PLAYING",
-  "last_track": "Red In Summer — Save Me",
-  "last_played_utc": "2026-01-28 12:38:28Z",
+  "last_track": "ASAVA — Canyon",
+  "last_played_utc": "2026-01-28 12:57:33Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -228,6 +228,7 @@
     "61mgUeLTwkSrJc8v5ZOyTG": [],
     "5aPmVMXo8U49rOsPZYdXxp": [
       "shoegaze"
-    ]
+    ],
+    "00gOHpiyGX2hk8A0CokPHA": []
   }
 }
