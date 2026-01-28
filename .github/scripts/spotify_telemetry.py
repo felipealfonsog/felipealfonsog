@@ -29,31 +29,35 @@ SHOW_DAILY_SITREP         = True
 SHOW_WEEKLY_SUMMARY       = True
 
 # ---- Device privacy / details ----
-SHOW_DEVICE_NAME          = True   # <-- your requested toggle (type stays ON)
+SHOW_DEVICE_NAME          = True   # device type stays ON
 
 # ---- Extra telemetry (derived from recently-played) ----
-SHOW_GENRE_INTEL          = True    # inferred via artist profiles (needs extra API calls, cached)
-SHOW_HOURLY_HEATMAP       = True    # listening hours histogram (local time)
-SHOW_SESSION_ESTIMATES    = True    # inferred sessions from gaps between plays
+SHOW_GENRE_INTEL          = True
+SHOW_HOURLY_HEATMAP       = True
+SHOW_SESSION_ESTIMATES    = True
 
 # ---- Formatting sub-toggles ----
 SCOPE_MODE                = "COMPACT"   # "WRAP" | "COMPACT" | "OFF"
-WRAP_WIDTH                = 34          # for WRAP mode (if used)
-LOCAL_TIMEZONE            = "America/Santiago"  # hour histogram display (telemetry only)
+WRAP_WIDTH                = 34
+LOCAL_TIMEZONE            = "America/Santiago"
 
 # ---- Behavior toggles ----
-FAIL_SAFE_DO_NOT_BREAK_README = True   # if Spotify fails, keep README as-is and exit 0
-WRITE_STATE_FILE              = True   # store last report for deltas
-OBS_WINDOW_SECONDS            = 30 * 60 # observation window label (telemetry narrative)
+FAIL_SAFE_DO_NOT_BREAK_README = True
+WRITE_STATE_FILE              = True
+OBS_WINDOW_SECONDS            = 30 * 60
+
+# ---- Debug (GitHub Actions only) ----
+DEBUG_ACTIONS        = True
+DEBUG_DUMP_PAYLOADS  = False   # keep False (privacy)
 
 # ---- Heuristics / safety caps ----
-SESSION_GAP_MINUTES       = 25     # gap threshold => new "session" (inferred)
-MAX_RECENT_ITEMS          = 50     # keep 50 (Spotify limit with your call)
-MAX_ARTIST_LOOKUPS        = 80     # safety cap per run (cache reduces this a lot)
+SESSION_GAP_MINUTES       = 25
+MAX_RECENT_ITEMS          = 50
+MAX_ARTIST_LOOKUPS        = 80
 
 # ---- Volume formatting ----
 SHOW_VOLUME_BAR           = True
-VOLUME_BAR_WIDTH          = 12     # how many blocks to draw (visual density)
+VOLUME_BAR_WIDTH          = 12
 
 # =============================================================================
 # Config / files
@@ -74,6 +78,8 @@ MARKER_END    = "<!-- SPOTIFY_TEL:END -->"
 
 STATE_DIR     = ".github/state"
 STATE_FILE    = os.path.join(STATE_DIR, "spotify_last_report.json")
+DEBUG_FILE    = os.path.join(STATE_DIR, "spotify_debug.json")
+
 ARTIST_CACHE_KEY = "artist_genre_cache"
 
 # =============================================================================
@@ -120,6 +126,12 @@ def http_json(url: str, headers=None, data: bytes | None = None, timeout: int = 
         if not body.strip():
             return r.status, dict(r.headers), None
         return r.status, dict(r.headers), json.loads(body)
+
+def dlog(msg: str):
+    if not DEBUG_ACTIONS:
+        return
+    if os.environ.get("GITHUB_ACTIONS", "").lower() == "true":
+        print(f"[SPOTIFY_DEBUG] {msg}", file=sys.stderr)
 
 def spotify_access_token():
     if not (CLIENT_ID and CLIENT_SECRET and REFRESH_TOKEN):
@@ -176,7 +188,6 @@ def fetch_currently_playing(token: str):
     return fetch_json_endpoint(CURRENT_URL, token, timeout=15)
 
 def fetch_player_state(token: str):
-    # device + volume live here
     return fetch_json_endpoint(PLAYER_URL, token, timeout=15)
 
 def fetch_recently_played(token: str, limit: int = 50):
@@ -362,7 +373,6 @@ def build_report():
     now = utc_now()
     now_s = utc_iso(now)
 
-    # state for deltas + caches
     prev = load_state() if WRITE_STATE_FILE else {}
     mutable_state = dict(prev)
 
@@ -371,7 +381,6 @@ def build_report():
     prev_status = prev.get("status", "")
     prev_report_ts = prev.get("report_generated_utc", "")
 
-    # acquire token
     token, scope = spotify_access_token()
 
     # 1) PLAYER STATE (device + volume + active session truth)
@@ -408,13 +417,11 @@ def build_report():
 
     # Decide playback truth
     if has_active_session:
-        # prefer /currently-playing truth if available (200)
         is_playing = cur_is_playing if api_http == 200 else bool((player_data or {}).get("is_playing"))
         status = "PLAYING" if is_playing else "IDLE"
         playback_state = "ONLINE (active session)" if is_playing else "ONLINE (idle session)"
         last_activity_type = "PLAYBACK_ACTIVE" if is_playing else "PLAYBACK_INACTIVE"
     else:
-        # if currently-playing says playing but /me/player has no device -> playing, no device info
         if api_http == 200 and cur_is_playing:
             is_playing = True
             status = "PLAYING"
@@ -438,10 +445,7 @@ def build_report():
         else:
             volume_telemetry = "IDLE (session present, no playback)"
     else:
-        if is_playing:
-            volume_telemetry = "PLAYING (device not available this run)"
-        else:
-            volume_telemetry = "NO ACTIVE SESSION"
+        volume_telemetry = "PLAYING (device not available this run)" if is_playing else "NO ACTIVE SESSION"
 
     # Now playing track name (DO NOT overwrite is_playing here)
     if api_http == 200 and isinstance(cur_data, dict):
@@ -451,6 +455,42 @@ def build_report():
             now_track_name = f"{now_track_obj['artist']} — {now_track_obj['title']}"
         else:
             now_track_name = "N/A"
+
+    # ------------------------------------------------------------
+    # Debug snapshot (GitHub Actions only)
+    # ------------------------------------------------------------
+    dlog(
+        f"session={has_active_session} "
+        f"is_playing={is_playing} "
+        f"status={status} "
+        f"playback_state={playback_state} "
+        f"player_http={player_http} "
+        f"api_http={api_http}"
+    )
+
+    if DEBUG_ACTIONS and os.environ.get("GITHUB_ACTIONS", "").lower() == "true":
+        os.makedirs(STATE_DIR, exist_ok=True)
+
+        debug_obj = {
+            "ts_utc": now_s,
+            "player_http": player_http,
+            "current_http": api_http,
+            "has_active_session": has_active_session,
+            "is_playing": is_playing,
+            "status": status,
+            "playback_state": playback_state,
+            "last_activity_type": last_activity_type,
+            "device_type": device_type,
+            "device_name": device_name if SHOW_DEVICE_NAME else None,
+            "volume_percent": volume_percent,
+        }
+
+        if DEBUG_DUMP_PAYLOADS:
+            debug_obj["player_payload_keys"] = sorted(list((player_data or {}).keys())) if isinstance(player_data, dict) else None
+            debug_obj["current_payload_keys"] = sorted(list((cur_data or {}).keys())) if isinstance(cur_data, dict) else None
+
+        with open(DEBUG_FILE, "w", encoding="utf-8") as f:
+            json.dump(debug_obj, f, ensure_ascii=False, indent=2)
 
     # recently played
     recent_code, recent_payload = fetch_recently_played(token, limit=MAX_RECENT_ITEMS)
@@ -483,7 +523,6 @@ def build_report():
             time_since_last_play = fmt_hms(delta)
             telemetry_age = fmt_hms(delta)
 
-    # deltas
     def delta_str(prev_val, new_val, first_label="N/A (first report)"):
         if not prev_val:
             return first_label
@@ -605,7 +644,6 @@ def build_report():
             else:
                 cadence = "NONE"
 
-    # sessions
     sessions_24h = 0
     sessions_7d  = 0
     avg_session_gap_7d = "N/A"
@@ -614,11 +652,9 @@ def build_report():
         sessions_7d, avg_gap = infer_sessions(played_times_7d)
         avg_session_gap_7d = fmt_hms(avg_gap) if avg_gap is not None else "N/A"
 
-    # API OK = player ok + current ok + recent ok
     api_ok = (player_http in (200, 204)) and api_ok_current and recent_ok
     sitrep = classify_sitrep(status, playback_state, api_ok)
 
-    # API response class (focus on CURRENT endpoint)
     if api_http == 200:
         api_class = "200 OK"
     elif api_http == 204:
@@ -631,7 +667,6 @@ def build_report():
     integrity = "OK" if (api_ok and last_track_name != "-") else "DEGRADED"
     confidence = "HIGH" if integrity == "OK" else "MEDIUM"
 
-    # Volume output
     if not has_active_session or status != "PLAYING":
         vol_str = "N/A"
         vol_bar = "-"
@@ -646,7 +681,6 @@ def build_report():
             vol_bar = volume_bar(int(volume_percent)) if SHOW_VOLUME_BAR else "-"
             vol_tel = "OK"
 
-    # Build output
     out = []
     out.append("SPOTIFY TELEMETRY — CLI FEED (Spotify ©)")
     out.append("------------------------------------------------------------")
@@ -710,11 +744,11 @@ def build_report():
                     out.append(f"                           {ln}")
 
         if player_http == 200:
-            out.append(f"Player endpoint           : 200 OK")
+            out.append("Player endpoint           : 200 OK")
         elif player_http == 204:
-            out.append(f"Player endpoint           : 204 NO CONTENT")
+            out.append("Player endpoint           : 204 NO CONTENT")
         elif player_http == -1:
-            out.append(f"Player endpoint           : NETWORK/EXCEPTION")
+            out.append("Player endpoint           : NETWORK/EXCEPTION")
         else:
             out.append(f"Player endpoint           : {player_http} ERROR")
 
