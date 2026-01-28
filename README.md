@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Stone Sea — Mystify
-Last played               : Silver Throne — Where Your Feet Have Been
-Last played (UTC)         : 2026-01-28 12:05:23Z
+Now playing               : The Band Royale — Houdini
+Last played               : Milk Krayt — At Firing Range
+Last played (UTC)         : 2026-01-28 12:17:25Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-01-28 11:59:34Z → 2026-01-28 12:05:23Z
+Δ track (since last)      : Silver Throne — Where Your Feet Have Been → Milk Krayt — At Firing Range
+Δ last played (since last): 2026-01-28 12:05:23Z → 2026-01-28 12:17:25Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:06:28
-Telemetry age             : 00:06:28
-Δ time (since last report): 00:10:56
+Time since last play      : 00:01:07
+Telemetry age             : 00:01:07
+Δ time (since last report): 00:06:42
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 12:11:50Z → 2026-01-28 12:11:50Z
+Week window (UTC)         : 2026-01-21 12:18:32Z → 2026-01-28 12:18:32Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :     ▂▅▇█▇▁              
-Heatmap (7d)              :     ▂▅▇█▇▁              
+Heatmap (24h)             :     ▁▅▇█▇▂              
+Heatmap (7d)              :     ▁▅▇█▇▂              
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:05:38
+Avg inter-play gap (7d)   : 00:05:46
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : space rock(9) | progressive metal(8) | progressive rock(8) | metalcore(7) | stoner metal(7) | post-grunge(6)
-Top genres (7d)           : space rock(9) | progressive metal(8) | progressive rock(8) | metalcore(7) | stoner metal(7) | post-grunge(6)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : space rock(10) | progressive metal(8) | progressive rock(8) | stoner metal(7) | stoner rock(7) | metalcore(6)
+Top genres (7d)           : space rock(10) | progressive metal(8) | progressive rock(8) | stoner metal(7) | stoner rock(7) | metalcore(6)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 12:11:50Z
+Report generated (UTC)    : 2026-01-28 12:18:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
