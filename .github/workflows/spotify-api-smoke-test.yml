@@ -1,0 +1,168 @@
+name: Spotify API Smoke Test (with artifact)
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to test"
+        required: true
+        default: "full"
+        type: choice
+        options:
+          - full
+          - player_only
+          - currently_playing_only
+          - devices_only
+          - recently_played_only
+
+permissions:
+  contents: read
+
+env:
+  MODE: ${{ inputs.mode }}
+  OUTFILE: spotify_api_smoke_test.txt
+
+jobs:
+  smoke_test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Spotify API smoke test (write to file)
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import os, sys, json, base64, urllib.parse, urllib.request, urllib.error
+          from datetime import datetime, timezone
+
+          OUT = os.environ.get("OUTFILE", "spotify_api_smoke_test.txt")
+
+          def log(s=""):
+            with open(OUT, "a", encoding="utf-8") as f:
+              f.write(s + "\n")
+
+          CID = (os.environ.get("SPOTIFY_CLIENT_ID") or "").strip()
+          CSEC = (os.environ.get("SPOTIFY_CLIENT_SECRET") or "").strip()
+          RT = (os.environ.get("SPOTIFY_REFRESH_TOKEN") or "").strip()
+          MODE = (os.environ.get("MODE") or "full").strip()
+
+          AUTH_URL = "https://accounts.spotify.com/api/token"
+          API = "https://api.spotify.com/v1"
+
+          log("SPOTIFY API SMOKE TEST")
+          log("=" * 60)
+          log(f"Generated (UTC): {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%SZ')}")
+          log(f"Mode: {MODE}")
+          log("")
+
+          if not (CID and CSEC and RT):
+            log("ERROR: Missing secrets.")
+            sys.exit(1)
+
+          def http(url, method="GET", headers=None, data=None, timeout=25):
+            headers = headers or {}
+            req = urllib.request.Request(url, headers=headers, data=data, method=method)
+            try:
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                raw = r.read().decode("utf-8", "replace")
+                return r.status, dict(r.headers), raw
+            except urllib.error.HTTPError as e:
+              raw = ""
+              try:
+                raw = e.read().decode("utf-8", "replace")
+              except Exception:
+                pass
+              return e.code, dict(getattr(e, "headers", {}) or {}), raw
+            except Exception as e:
+              return -1, {}, str(e)
+
+          def show(name, code, headers, raw):
+            log(f"=== {name} ===")
+            log(f"HTTP {code}")
+            for k in ["Content-Type", "Retry-After", "X-RateLimit-Remaining"]:
+              if k in headers:
+                log(f"{k}: {headers[k]}")
+            if code == 204:
+              log("Body: <NO CONTENT>")
+            else:
+              s = (raw or "").strip()
+              if s:
+                try:
+                  obj = json.loads(s)
+                  log("Body (JSON, truncated):")
+                  log(json.dumps(obj, ensure_ascii=False, indent=2)[:4000])
+                except Exception:
+                  log("Body (raw, truncated):")
+                  log(s[:2000])
+              else:
+                log("Body: <EMPTY>")
+            log("")
+
+          # Token refresh
+          auth = base64.b64encode(f"{CID}:{CSEC}".encode()).decode()
+          body = urllib.parse.urlencode({
+            "grant_type": "refresh_token",
+            "refresh_token": RT,
+          }).encode("utf-8")
+
+          code, headers, raw = http(
+            AUTH_URL,
+            method="POST",
+            headers={
+              "Authorization": f"Basic {auth}",
+              "Content-Type": "application/x-www-form-urlencoded",
+            },
+            data=body,
+          )
+
+          log("=== TOKEN REFRESH ===")
+          log(f"HTTP {code}")
+          if code != 200:
+            log(raw)
+            sys.exit(1)
+
+          payload = json.loads(raw)
+          token = payload.get("access_token")
+          if not token:
+            log("ERROR: No access_token in response")
+            sys.exit(1)
+
+          log("Token refresh OK")
+          log("")
+
+          authz = {"Authorization": f"Bearer {token}"}
+
+          # /me always
+          show("GET /me", *http(f"{API}/me", headers=authz))
+
+          tests = []
+          if MODE == "player_only":
+            tests = [("GET /me/player", f"{API}/me/player")]
+          elif MODE == "currently_playing_only":
+            tests = [("GET /me/player/currently-playing", f"{API}/me/player/currently-playing")]
+          elif MODE == "devices_only":
+            tests = [("GET /me/player/devices", f"{API}/me/player/devices")]
+          elif MODE == "recently_played_only":
+            tests = [("GET /me/player/recently-played?limit=1", f"{API}/me/player/recently-played?limit=1")]
+          else:
+            tests = [
+              ("GET /me/player", f"{API}/me/player"),
+              ("GET /me/player/currently-playing", f"{API}/me/player/currently-playing"),
+              ("GET /me/player/devices", f"{API}/me/player/devices"),
+              ("GET /me/player/recently-played?limit=1", f"{API}/me/player/recently-played?limit=1"),
+            ]
+
+          for name, url in tests:
+            show(name, *http(url, headers=authz))
+
+          log("END OF REPORT")
+          PY
+
+      - name: Upload smoke test artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: spotify-api-smoke-test
+          path: spotify_api_smoke_test.txt
