@@ -11,10 +11,8 @@ from pathlib import Path
 FAST_CRON = "* * * * *"
 
 def out(key: str, val: str) -> None:
-    # GitHub Actions outputs
     p = os.environ.get("GITHUB_OUTPUT", "")
     if not p:
-        # fallback (shouldn't happen on Actions)
         print(f"{key}={val}")
         return
     with open(p, "a", encoding="utf-8") as f:
@@ -74,7 +72,6 @@ def spotify_get(url: str, token: str):
         return -1, None
 
 def load_latch(path: Path) -> bool:
-    # armed=true by default
     try:
         obj = json.loads(path.read_text(encoding="utf-8"))
         return bool(obj.get("armed", True))
@@ -119,7 +116,6 @@ def main():
 
     armed = load_latch(latch_file)
 
-    # No secrets? => can't decide => don't spam.
     if not (cid and csec and rt):
         out("should_run", "false")
         out("reason", "missing_secrets")
@@ -133,40 +129,58 @@ def main():
         out("changed_latch", "false")
         return
 
-    # Primary: /me/player
-    code, data = spotify_get("https://api.spotify.com/v1/me/player", token)
-
+    # ------------------------------------------------------------
+    # ✅ FIX CLAVE:
+    # - PLAYING_ONLY -> endpoint primario: /currently-playing
+    # - ANY_SESSION  -> endpoint primario: /me/player
+    # ------------------------------------------------------------
     playing = False
     why = "unknown"
 
-    if code == 200 and isinstance(data, dict):
-        if mode == "ANY_SESSION":
-            dev = data.get("device")
-            playing = isinstance(dev, dict) and bool(dev)
-            why = "player_any_session"
-        else:
-            playing = bool(data.get("is_playing"))
-            why = "player_is_playing"
-    elif code == 204:
-        # Fallback: /currently-playing (sometimes returns 200 when /player is 204)
-        c2, d2 = spotify_get("https://api.spotify.com/v1/me/player/currently-playing", token)
-        if c2 == 200 and isinstance(d2, dict):
-            playing = bool(d2.get("is_playing"))
-            why = "currently_playing_fallback"
+    if mode == "PLAYING_ONLY":
+        c, d = spotify_get("https://api.spotify.com/v1/me/player/currently-playing", token)
+        if c == 200 and isinstance(d, dict):
+            playing = bool(d.get("is_playing"))
+            why = "currently_playing_is_playing"
+        elif c == 204:
+            playing = False
+            why = "currently_playing_204"
         else:
             playing = False
-            why = "no_active_player"
-    else:
-        playing = False
-        why = f"player_http_{code}"
+            why = f"currently_playing_http_{c}"
+
+        # Fallback secundario: /me/player (por si el otro se pone raro)
+        if not playing:
+            c2, d2 = spotify_get("https://api.spotify.com/v1/me/player", token)
+            if c2 == 200 and isinstance(d2, dict):
+                if bool(d2.get("is_playing")):
+                    playing = True
+                    why = "player_is_playing_fallback"
+            elif c2 == 204 and why == "unknown":
+                why = "player_204_fallback"
+
+    else:  # ANY_SESSION
+        c, d = spotify_get("https://api.spotify.com/v1/me/player", token)
+        if c == 200 and isinstance(d, dict):
+            dev = d.get("device")
+            playing = isinstance(dev, dict) and bool(dev)
+            why = "player_any_session_device"
+        elif c == 204:
+            playing = False
+            why = "player_204"
+        else:
+            playing = False
+            why = f"player_http_{c}"
 
     changed = False
 
-    # Latch algorithm:
-    # - If NOT playing => re-arm latch (armed=true), skip.
-    # - If playing:
-    #     - If armed=true => trigger once and disarm (armed=false).
-    #     - If armed=false => skip.
+    # ------------------------------------------------------------
+    # Latch algorithm (edge-trigger)
+    # - Not playing => re-arm (armed=true), no run
+    # - Playing:
+    #     armed=true  => run once + disarm (armed=false)
+    #     armed=false => skip
+    # ------------------------------------------------------------
     if not playing:
         if not armed:
             save_latch(latch_file, True)
@@ -176,7 +190,6 @@ def main():
         out("changed_latch", "true" if changed else "false")
         return
 
-    # playing == True
     if armed:
         save_latch(latch_file, False)
         changed = True
