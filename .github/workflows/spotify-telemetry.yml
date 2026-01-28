@@ -31,7 +31,7 @@ env:
   # ------------------------------------------------------------
   # Modo de decisión (qué significa “hay actividad”)
   # PLAYING_ONLY => requiere is_playing=true
-  # ANY_SESSION  => basta con que exista device/session (ojo: puede quedar “online” en pausa)
+  # ANY_SESSION  => basta con que exista device/session
   # ------------------------------------------------------------
   FAST_POLL_MODE: "PLAYING_ONLY"  # PLAYING_ONLY | ANY_SESSION
 
@@ -42,9 +42,8 @@ env:
   FASTPOLL_STATE_FILE: ".github/state/spotify_fastpoll_state.json"
 
   # ------------------------------------------------------------
-  # Anti-stuck: si por alguna razón el estado queda pegado,
-  # forzamos un “re-check” ejecutable cada X minutos.
-  # (Útil si Spotify se porta raro o hay un run que no pudo commitear)
+  # Anti-stuck: si el estado queda pegado, permitimos un refresh
+  # ejecutable cada X minutos (solo para el cron 1m)
   # ------------------------------------------------------------
   FASTPOLL_COOLDOWN_MINUTES: "20"
 
@@ -96,7 +95,7 @@ jobs:
 
           SHOULD_RUN="true"
           REASON="normal_or_manual"
-          CHANGED_STATE="false"
+          WROTE_STATE="false"
 
           # --------------------------------------------------------
           # Cron 1m: aplica lógica fast-poll
@@ -109,34 +108,23 @@ jobs:
             else
               mkdir -p "$(dirname "${STATE_FILE}")"
 
-              # ----------------------------------------------------
-              # Lee último estado observado (default: not playing)
-              # state file: {"playing": false, "updated_utc":"..."}
-              # ----------------------------------------------------
+              # Estado previo (default: false)
               LAST_PLAYING="false"
               LAST_TS=""
 
               if [ -f "${STATE_FILE}" ]; then
-                LAST_PLAYING="$(python3 - <<'PY' "${STATE_FILE}"
-import json, sys
-p=sys.argv[1]
+                LAST_PLAYING="$(python3 -c 'import json,sys; p=sys.argv[1]; 
 try:
-  o=json.load(open(p,"r",encoding="utf-8"))
-  print("true" if bool(o.get("playing", False)) else "false")
+  o=json.load(open(p,"r",encoding="utf-8")); 
+  print("true" if bool(o.get("playing",False)) else "false")
 except Exception:
-  print("false")
-PY
-                )"
-                LAST_TS="$(python3 - <<'PY' "${STATE_FILE}"
-import json, sys
-p=sys.argv[1]
+  print("false")' "${STATE_FILE}")"
+                LAST_TS="$(python3 -c 'import json,sys; p=sys.argv[1];
 try:
-  o=json.load(open(p,"r",encoding="utf-8"))
+  o=json.load(open(p,"r",encoding="utf-8"));
   print((o.get("updated_utc") or "").strip())
 except Exception:
-  print("")
-PY
-                )"
+  print("")' "${STATE_FILE}")"
               fi
 
               LAST_PLAYING="$(echo "${LAST_PLAYING}" | tr '[:upper:]' '[:lower:]')"
@@ -145,11 +133,13 @@ PY
               fi
 
               # ----------------------------------------------------
-              # Consulta Spotify (devuelve CURRENT_PLAYING true/false)
+              # Consulta Spotify (CURRENT_PLAYING true/false)
+              # - Fuente primaria: /me/player
+              # - Fallback si 204: /currently-playing
               # ----------------------------------------------------
-              python3 - <<'PY' > /tmp/spotify_state.txt
-import os, base64, json, urllib.parse, urllib.request, urllib.error
-from datetime import datetime, timezone
+              read -r CURRENT_PLAYING WHY NOWUTC <<EOF
+$(python3 -c 'import os,base64,json,urllib.parse,urllib.request,urllib.error
+from datetime import datetime,timezone
 
 cid=os.environ.get("SPOTIFY_CLIENT_ID","").strip()
 csec=os.environ.get("SPOTIFY_CLIENT_SECRET","").strip()
@@ -159,34 +149,30 @@ mode=(os.environ.get("FAST_POLL_MODE","PLAYING_ONLY") or "PLAYING_ONLY").upper()
 def refresh_token():
   auth=base64.b64encode(f"{cid}:{csec}".encode()).decode()
   data=urllib.parse.urlencode({"grant_type":"refresh_token","refresh_token":rt}).encode("utf-8")
-  req=urllib.request.Request(
-    "https://accounts.spotify.com/api/token",
-    data=data,
-    headers={"Authorization": f"Basic {auth}", "Content-Type":"application/x-www-form-urlencoded"},
-    method="POST",
-  )
+  req=urllib.request.Request("https://accounts.spotify.com/api/token", data=data,
+    headers={"Authorization": f"Basic {auth}", "Content-Type":"application/x-www-form-urlencoded"}, method="POST")
   with urllib.request.urlopen(req, timeout=20) as r:
     payload=json.loads(r.read().decode("utf-8","replace"))
     return payload.get("access_token")
 
-def get_json(url, tok):
+def get_json(url,tok):
   req=urllib.request.Request(url, headers={"Authorization": f"Bearer {tok}"})
   try:
     with urllib.request.urlopen(req, timeout=20) as r:
       raw=r.read().decode("utf-8","replace").strip()
       data=json.loads(raw) if raw else None
-      return r.status, data
+      return r.status,data
   except urllib.error.HTTPError as e:
-    if e.code == 204:
-      return 204, None
+    if e.code==204:
+      return 204,None
     try:
       raw=e.read().decode("utf-8","replace").strip()
       data=json.loads(raw) if raw else raw
     except Exception:
       data=None
-    return e.code, data
+    return e.code,data
   except Exception:
-    return -1, None
+    return -1,None
 
 playing=False
 reason="unknown"
@@ -194,72 +180,63 @@ reason="unknown"
 if cid and csec and rt:
   tok=refresh_token()
   if tok:
-    code, data = get_json("https://api.spotify.com/v1/me/player", tok)
-    if code == 200 and isinstance(data, dict):
-      if mode == "ANY_SESSION":
-        dev = data.get("device")
-        playing = isinstance(dev, dict) and bool(dev)
-        reason = "player_any_session"
+    code,data=get_json("https://api.spotify.com/v1/me/player", tok)
+    if code==200 and isinstance(data,dict):
+      if mode=="ANY_SESSION":
+        dev=data.get("device")
+        playing=isinstance(dev,dict) and bool(dev)
+        reason="player_any_session"
       else:
-        playing = bool(data.get("is_playing"))
-        reason = "player_is_playing"
-    elif code == 204:
-      # fallback: currently-playing
-      c2, d2 = get_json("https://api.spotify.com/v1/me/player/currently-playing", tok)
-      if c2 == 200 and isinstance(d2, dict):
-        playing = bool(d2.get("is_playing"))
-        reason = "currently_playing_fallback"
+        playing=bool(data.get("is_playing"))
+        reason="player_is_playing"
+    elif code==204:
+      c2,d2=get_json("https://api.spotify.com/v1/me/player/currently-playing", tok)
+      if c2==200 and isinstance(d2,dict):
+        playing=bool(d2.get("is_playing"))
+        reason="currently_playing_fallback"
       else:
-        playing = False
-        reason = "no_active_player"
+        playing=False
+        reason="no_active_player"
     else:
-      playing = False
-      reason = f"player_http_{code}"
+      playing=False
+      reason=f"player_http_{code}"
 else:
   playing=False
   reason="missing_secrets"
 
-print(("true" if playing else "false") + " " + reason + " " + datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ"))
-PY
+now=datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
+print(("true" if playing else "false"), reason, now)' )
+EOF
 
-              CURRENT_PLAYING="$(awk '{print $1}' /tmp/spotify_state.txt | tail -n1 | tr '[:upper:]' '[:lower:]')"
-              WHY="$(awk '{print $2}' /tmp/spotify_state.txt | tail -n1)"
-              NOWUTC="$(awk '{print $3" "$4}' /tmp/spotify_state.txt | tail -n1)"
-              rm -f /tmp/spotify_state.txt
-
+              CURRENT_PLAYING="$(echo "${CURRENT_PLAYING}" | tr '[:upper:]' '[:lower:]')"
               if [ "${CURRENT_PLAYING}" != "true" ] && [ "${CURRENT_PLAYING}" != "false" ]; then
                 CURRENT_PLAYING="false"
               fi
 
               # ----------------------------------------------------
-              # Cooldown anti-stuck:
-              # si LAST_TS existe y han pasado >= COOLDOWN_MIN, permitimos un update
+              # Cooldown anti-stuck
               # ----------------------------------------------------
               COOLDOWN_ALLOW="false"
               if [ -n "${LAST_TS}" ]; then
-                python3 - <<'PY' > /tmp/cool.txt
-import os
-from datetime import datetime, timezone
-
+                COOLDOWN_ALLOW="$(python3 -c 'import os
+from datetime import datetime,timezone
 last=os.environ.get("LAST_TS","").strip()
 cool=int(os.environ.get("COOLDOWN_MIN","20"))
 try:
-  dt=datetime.strptime(last, "%Y-%m-%d %H:%M:%SZ").replace(tzinfo=timezone.utc)
+  dt=datetime.strptime(last,"%Y-%m-%d %H:%M:%SZ").replace(tzinfo=timezone.utc)
   now=datetime.now(timezone.utc)
   mins=(now-dt).total_seconds()/60.0
-  print("true" if mins >= cool else "false")
+  print("true" if mins>=cool else "false")
 except Exception:
-  print("false")
-PY
-                COOLDOWN_ALLOW="$(cat /tmp/cool.txt | tail -n1 | tr '[:upper:]' '[:lower:]')"
-                rm -f /tmp/cool.txt
+  print("false")')"
+                COOLDOWN_ALLOW="$(echo "${COOLDOWN_ALLOW}" | tr '[:upper:]' '[:lower:]')"
               fi
 
               # ----------------------------------------------------
               # Decisión:
-              # - Si cambió el estado (start/stop) => run
-              # - Si no cambió => skip
-              # - Si cooldown_ALLOW=true => run (anti-stuck)
+              # - Cambio de estado => run
+              # - Cooldown => run
+              # - Si no => skip
               # ----------------------------------------------------
               if [ "${CURRENT_PLAYING}" != "${LAST_PLAYING}" ]; then
                 SHOULD_RUN="true"
@@ -273,33 +250,31 @@ PY
               fi
 
               # ----------------------------------------------------
-              # Persistimos el “último estado observado” SIEMPRE,
-              # para que el sistema sea determinista.
-              # (Esto no spamea commits: solo se commitea si cambió el archivo)
+              # Persistimos estado observado (determinista)
               # ----------------------------------------------------
-              python3 - <<'PY' "${STATE_FILE}" "${CURRENT_PLAYING}" "${NOWUTC}"
-import json, sys
-p=sys.argv[1]; playing=sys.argv[2].lower()=="true"; ts=sys.argv[3]
+              python3 -c 'import json,sys
+p=sys.argv[1]; playing=(sys.argv[2].lower()=="true"); ts=sys.argv[3]
 obj={"playing": playing, "updated_utc": ts}
-open(p,"w",encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2) + "\n")
-PY
-              CHANGED_STATE="true"
+open(p,"w",encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2) + "\n")' \
+                "${STATE_FILE}" "${CURRENT_PLAYING}" "${NOWUTC}"
+
+              WROTE_STATE="true"
             fi
           fi
 
           echo "should_run=${SHOULD_RUN}" >> "$GITHUB_OUTPUT"
           echo "reason=${REASON}" >> "$GITHUB_OUTPUT"
-          echo "changed_state=${CHANGED_STATE}" >> "$GITHUB_OUTPUT"
+          echo "wrote_state=${WROTE_STATE}" >> "$GITHUB_OUTPUT"
           echo "event=${EVENT}" >> "$GITHUB_OUTPUT"
           echo "schedule=${SCHEDULE}" >> "$GITHUB_OUTPUT"
           echo "Decision: should_run=${SHOULD_RUN} reason=${REASON} (event=${EVENT}, schedule=${SCHEDULE})"
 
       # ------------------------------------------------------------
-      # Commit state file (solo si cambió)
-      # - Esto NO debería spamear: si el contenido no cambia, git diff queda quiet.
+      # Commit state file (solo si el fast poll lo escribió)
+      # - NO spamea: solo commitea si git detecta diff real.
       # ------------------------------------------------------------
       - name: Commit fast-poll state (if changed)
-        if: steps.guard.outputs.changed_state == 'true'
+        if: steps.guard.outputs.wrote_state == 'true'
         run: |
           set -euo pipefail
           if git diff --quiet; then
