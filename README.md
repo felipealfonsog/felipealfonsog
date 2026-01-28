@@ -841,49 +841,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : The Phantom Eye — Circuit Rider
-Last played               : I Hate Elephants Sitting on Children — These Walls
-Last played (UTC)         : 2026-01-28 08:03:54Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Like Thieves — Picture Perfect
+Last played (UTC)         : 2026-01-28 08:07:21Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-01-28 07:39:14Z → 2026-01-28 08:03:54Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : I Hate Elephants Sitting on Children — These Walls → Like Thieves — Picture Perfect
+Δ last played (since last): 2026-01-28 08:03:54Z → 2026-01-28 08:07:21Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:03:24
-Telemetry age             : 00:03:24
-Δ time (since last report): 00:06:59
+Time since last play      : 00:17:47
+Telemetry age             : 00:17:47
+Δ time (since last report): 00:17:50
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 32
+Tracks played (last 24h)  : 33
 Dominant artist           : I Hate Elephants Sitting on Children
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 08:07:18Z → 2026-01-28 08:07:18Z
+Week window (UTC)         : 2026-01-21 08:25:07Z → 2026-01-28 08:25:07Z
 Total tracks played       : 50
 Dominant artist           : I Hate Elephants Sitting on Children
 Cadence classification    : HIGH
@@ -894,22 +893,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 02:00
 Heatmap (24h)             :  ▁█▄▅▁      ▂           
-Heatmap (7d)              : ▁▁█▄▇▁      ▂         ▃▇
+Heatmap (7d)              : ▁▁█▄▇▁      ▂         ▂▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:37:04
+Avg inter-play gap (7d)   : 00:37:05
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | metalcore(5) | progressive rock(4) | grunge(2) | post-grunge(2) | garage rock(1)
-Top genres (7d)           : jazz(12) | progressive metal(9) | metalcore(5) | progressive rock(4) | latin rock(3) | grunge(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (7d)           : jazz(11) | progressive metal(9) | metalcore(5) | progressive rock(4) | latin rock(3) | grunge(2)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 08:07:18Z
+Report generated (UTC)    : 2026-01-28 08:25:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

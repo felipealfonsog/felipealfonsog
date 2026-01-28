@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-28 08:07:18Z",
-  "status": "PLAYING",
-  "last_track": "I Hate Elephants Sitting on Children — These Walls",
-  "last_played_utc": "2026-01-28 08:03:54Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-01-28 08:25:07Z",
+  "status": "IDLE",
+  "last_track": "Like Thieves — Picture Perfect",
+  "last_played_utc": "2026-01-28 08:07:21Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -132,6 +132,7 @@
     ],
     "4GjDSR8X4PWmaUXIP0pVnf": [],
     "0AWeVlo9qXjhPmLflKqikp": [],
-    "3cNtvAs3DPIj46Z5BOU4fD": []
+    "3cNtvAs3DPIj46Z5BOU4fD": [],
+    "7oVJJLGKobRGYm59sp7TVD": []
   }
 }
