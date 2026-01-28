@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Jericco — Sun
-Last played               : I Hate Elephants Sitting on Children — Come Join Me
-Last played (UTC)         : 2026-01-28 06:11:02Z
+Now playing               : Red In Summer — Consume
+Last played               : Pinhdar — Humans
+Last played (UTC)         : 2026-01-28 06:36:37Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : floodlit — Ama → I Hate Elephants Sitting on Children — Come Join Me
-Δ last played (since last): 2026-01-28 06:05:18Z → 2026-01-28 06:11:02Z
+Δ track (since last)      : I Hate Elephants Sitting on Children — Come Join Me → Pinhdar — Humans
+Δ last played (since last): 2026-01-28 06:11:02Z → 2026-01-28 06:36:37Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:11:05
-Telemetry age             : 00:11:05
-Δ time (since last report): 00:14:42
+Time since last play      : 00:00:57
+Telemetry age             : 00:00:57
+Δ time (since last report): 00:15:27
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
+Tracks played (last 24h)  : 25
 Dominant artist           : Proxima Flare
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 06:22:07Z → 2026-01-28 06:22:07Z
+Week window (UTC)         : 2026-01-21 06:37:33Z → 2026-01-28 06:37:33Z
 Total tracks played       : 50
 Dominant artist           : Proxima Flare
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :  ▁█▂▁       ▂           
-Heatmap (7d)              :  ▁▆▂▁       ▂         █▆
+Heatmap (24h)             :  ▁█▄▁       ▂           
+Heatmap (7d)              : ▁▁▇▄▁       ▂         █▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:35:34
+Avg inter-play gap (7d)   : 00:35:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(8) | metalcore(3) | progressive rock(3) | grunge(2) | latin rock(2) | post-grunge(2)
-Top genres (7d)           : jazz(24) | progressive metal(8) | latin rock(3) | metalcore(3) | progressive rock(3) | grunge(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : progressive metal(9) | progressive rock(4) | metalcore(3) | grunge(2) | latin rock(2) | post-grunge(2)
+Top genres (7d)           : jazz(21) | progressive metal(9) | progressive rock(4) | latin rock(3) | metalcore(3) | grunge(2)
+Artist lookups (this run) : 3 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 06:22:07Z
+Report generated (UTC)    : 2026-01-28 06:37:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
