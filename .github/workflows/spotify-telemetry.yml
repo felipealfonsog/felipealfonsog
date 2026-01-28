@@ -3,8 +3,8 @@ name: Spotify Telemetry (CLI feed)
 on:
   workflow_dispatch:
     # ------------------------------------------------------------
-    # Manual run: siempre corre (igual que el cron normal).
-    # Útil para debug / forzar un update.
+    # Manual run:
+    # - Siempre corre (útil para debug / forzar update)
     # ------------------------------------------------------------
   schedule:
     # ------------------------------------------------------------
@@ -16,12 +16,21 @@ on:
     # ------------------------------------------------------------
     # FAST POLL (cada 1 minuto)
     # - Solo sirve para disparar UNA vez cuando detecta playback
-    # - Con latch: NO repite mientras siga la “misma sesión”
+    # - Con latch: NO repite mientras siga la misma sesión
     # ------------------------------------------------------------
     - cron: "* * * * *"
 
 permissions:
   contents: write
+
+# ------------------------------------------------------------
+# Anti-carreras (muy importante con cron cada 1 minuto):
+# - Evita que dos runs se pisen y choquen al hacer push.
+# - El grupo incluye schedule para aislar fast poll vs normal.
+# ------------------------------------------------------------
+concurrency:
+  group: spotify-telemetry-${{ github.ref }}-${{ github.event_name }}-${{ github.event.schedule || 'manual' }}
+  cancel-in-progress: true
 
 env:
   # ------------------------------------------------------------
@@ -58,18 +67,15 @@ jobs:
 
       # ------------------------------------------------------------
       # IMPORTANT: salir de "detached HEAD"
-      #
-      # GitHub Actions suele dejar el repo en detached HEAD.
-      # Para poder hacer pull/rebase/push sin errores:
-      # - creamos una branch local (GITHUB_REF_NAME)
-      # - seteamos upstream a origin/<branch>
+      # + definir branch real para que pull/push sea estable
       # ------------------------------------------------------------
       - name: Prepare git branch (avoid detached HEAD)
+        id: gitprep
         run: |
           set -euo pipefail
           BRANCH="${GITHUB_REF_NAME}"
+          echo "branch=${BRANCH}" >> "$GITHUB_OUTPUT"
           git checkout -B "${BRANCH}"
-          git branch --set-upstream-to="origin/${BRANCH}" "${BRANCH}" || true
 
       # ------------------------------------------------------------
       # Python runtime
@@ -79,21 +85,18 @@ jobs:
           python-version: "3.11"
 
       # ------------------------------------------------------------
-      # GUARD + LATCH
+      # GUARD + LATCH (fast poll)
       #
-      # Behavior:
-      # - Para cron 3h y workflow_dispatch:
-      #     => siempre permitir (comportamiento original).
-      #
-      # - Para cron 1m:
-      #     => si ENABLE_FAST_POLL != true => no-op
-      #     => si ENABLE_FAST_POLL == true:
-      #          1) detecta playback (Spotify)
-      #          2) latch:
-      #             - NO playback => rearma (armed=true) y NO corre
-      #             - Playback:
-      #                 * armed=true  => corre UNA vez y desarma (armed=false)
-      #                 * armed=false => NO corre (ya disparó)
+      # - Cron 3h y manual => ALWAYS allow (como antes)
+      # - Cron 1m:
+      #     * si ENABLE_FAST_POLL != true => no-op
+      #     * si ENABLE_FAST_POLL == true:
+      #         - detecta playback
+      #         - latch:
+      #             NO playing => rearma (armed=true), NO corre
+      #             playing:
+      #                 armed=true  => corre una vez, desarma (armed=false)
+      #                 armed=false => NO corre (ya disparó)
       # ------------------------------------------------------------
       - name: Guard (fast poll + latch)
         id: guard
@@ -108,19 +111,15 @@ jobs:
           set -euo pipefail
 
           EVENT="${{ github.event_name }}"
-          SCHEDULE="${{ github.event.schedule }}"
+          SCHEDULE="${{ github.event.schedule || '' }}"
+          FAST_CRON="* * * * *"
 
-          # --------------------------------------------------------
-          # Default: permitir (así el cron 3h queda intacto).
-          # --------------------------------------------------------
           SHOULD_RUN="true"
           REASON="normal_or_manual"
           CHANGED_LATCH="false"
 
-          FAST_CRON="* * * * *"
-
           # --------------------------------------------------------
-          # Aplicar guard SOLO al schedule del fast poll (1m)
+          # Solo aplicamos guard al cron 1 minuto
           # --------------------------------------------------------
           if [ "${EVENT}" = "schedule" ] && [ "${SCHEDULE}" = "${FAST_CRON}" ]; then
             EN="$(echo "${ENABLE_FAST_POLL}" | tr '[:upper:]' '[:lower:]')"
@@ -131,9 +130,9 @@ jobs:
             else
               mkdir -p "$(dirname "${LATCH_FILE}")"
 
-              # ----------------------------------------------
-              # Leer latch (armed=true por defecto)
-              # ----------------------------------------------
+              # --------------------------
+              # Leer latch (armed=true default)
+              # --------------------------
               ARMED="true"
               if [ -f "${LATCH_FILE}" ]; then
                 ARMED="$(python3 - <<'PY' "${LATCH_FILE}"
@@ -141,8 +140,7 @@ import json, sys
 p = sys.argv[1]
 try:
   obj = json.load(open(p,"r",encoding="utf-8"))
-  armed = obj.get("armed", True)
-  print("true" if armed else "false")
+  print("true" if obj.get("armed", True) else "false")
 except Exception:
   print("true")
 PY
@@ -154,12 +152,9 @@ PY
                 ARMED="true"
               fi
 
-              # ----------------------------------------------
-              # Spotify precheck:
-              # - /me/player primario
-              # - fallback /currently-playing si /me/player=204
-              # output: "true reason" o "false reason"
-              # ----------------------------------------------
+              # --------------------------
+              # Spotify precheck (determinístico)
+              # --------------------------
               python3 - <<'PY' > /tmp/spotify_check.txt
 import os, base64, json, urllib.parse, urllib.request, urllib.error
 
@@ -239,17 +234,14 @@ PY
               WHY="$(awk '{print $2}' /tmp/spotify_check.txt | tail -n1)"
               rm -f /tmp/spotify_check.txt
 
-              # ----------------------------------------------
-              # LATCH algorithm (anti-spam):
-              # - si NO playing => rearma (armed=true) y NO corre
-              # - si playing:
-              #     armed=true  => corre una vez y desarma (armed=false)
-              #     armed=false => NO corre (ya disparó)
-              # ----------------------------------------------
+              # --------------------------
+              # Latch algorithm anti-loop
+              # --------------------------
               if [ "${PLAYING}" != "true" ]; then
                 SHOULD_RUN="false"
                 REASON="not_playing_${WHY}"
 
+                # rearma si estaba desarmado
                 if [ "${ARMED}" != "true" ]; then
                   python3 - <<'PY' "${LATCH_FILE}"
 import json, sys
@@ -265,6 +257,7 @@ PY
                   SHOULD_RUN="true"
                   REASON="triggered_${WHY}"
 
+                  # desarma para no repetir mientras siga playback
                   python3 - <<'PY' "${LATCH_FILE}"
 import json, sys
 from datetime import datetime, timezone
@@ -290,8 +283,7 @@ PY
 
       # ------------------------------------------------------------
       # Commit latch state (si cambió)
-      # - Config git identity
-      # - Rebase para evitar carreras entre runs
+      # FIX: pull/push explícitos (sin depender de upstream)
       # ------------------------------------------------------------
       - name: Commit latch state (if changed)
         if: steps.guard.outputs.changed_latch == 'true'
@@ -303,14 +295,17 @@ PY
             exit 0
           fi
 
+          BRANCH="${{ steps.gitprep.outputs.branch }}"
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git pull --rebase
+          git pull --rebase origin "${BRANCH}"
 
           git add .github/state/spotify_fastpoll_latch.json
           git commit -m "chore: fast-poll latch update"
-          git push
+
+          git push origin "HEAD:${BRANCH}"
 
       # ------------------------------------------------------------
       # Update telemetry (solo si guard dijo "true")
@@ -326,7 +321,8 @@ PY
           python3 .github/scripts/spotify_telemetry.py
 
       # ------------------------------------------------------------
-      # Commit & push README + state (solo si guard dijo "true")
+      # Commit & push (solo si guard dijo "true")
+      # FIX: pull/push explícitos (sin depender de upstream)
       # ------------------------------------------------------------
       - name: Commit & push if changed
         if: steps.guard.outputs.should_run == 'true'
@@ -338,11 +334,14 @@ PY
             exit 0
           fi
 
+          BRANCH="${{ steps.gitprep.outputs.branch }}"
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git pull --rebase
+          git pull --rebase origin "${BRANCH}"
 
           git add README.md .github/state/spotify_last_report.json
           git commit -m "chore: update Spotify telemetry (CLI feed)"
-          git push
+
+          git push origin "HEAD:${BRANCH}"
