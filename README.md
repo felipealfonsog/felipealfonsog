@@ -853,7 +853,7 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : I Hate Elephants Sitting on Children — Fear Is Just a Concept
+Now playing               : Jericco — Always
 Last played               : PRAUN — Vanishing Point
 Last played (UTC)         : 2026-01-28 19:35:49Z
 Last activity type        : PLAYBACK_ACTIVE
@@ -862,9 +862,9 @@ Last activity type        : PLAYBACK_ACTIVE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:24:01
-Telemetry age             : 00:24:01
-Δ time (since last report): 00:02:11
+Time since last play      : 00:26:16
+Telemetry age             : 00:26:16
+Δ time (since last report): 00:02:16
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 19:59:49Z → 2026-01-28 19:59:49Z
+Week window (UTC)         : 2026-01-21 20:02:05Z → 2026-01-28 20:02:05Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : progressive metal(7) | progressive rock(6) | djent(5
 Top genres (7d)           : progressive metal(7) | progressive rock(6) | djent(5) | metalcore(5) | space rock(3) | stoner rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 19:59:49Z
+Report generated (UTC)    : 2026-01-28 20:02:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
