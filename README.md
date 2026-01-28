@@ -853,17 +853,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Maha Sohona — Visions
-Last played (UTC)         : 2026-01-28 08:49:58Z
+Last played               : Marble — smile at strangers
+Last played (UTC)         : 2026-01-28 09:59:02Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : Maha Sohona — Visions → Marble — smile at strangers
+Δ last played (since last): 2026-01-28 08:49:58Z → 2026-01-28 09:59:02Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:14:02
-Telemetry age             : 00:14:02
-Δ time (since last report): 00:12:27
+Time since last play      : 00:03:43
+Telemetry age             : 00:03:43
+Δ time (since last report): 00:58:45
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -875,14 +875,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 39
+Tracks played (last 24h)  : 50
 Dominant artist           : Red In Summer
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 09:04:00Z → 2026-01-28 09:04:00Z
+Week window (UTC)         : 2026-01-21 10:02:45Z → 2026-01-28 10:02:45Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -892,23 +892,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 02:00
-Heatmap (24h)             :  ▁█▄▅▅      ▂           
-Heatmap (7d)              : ▁▁█▄▇▅      ▂          ▅
+Heatmap (24h)             :  ▁█▄▅▅█     ▁           
+Heatmap (7d)              :  ▁█▄▅▅█     ▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:37:34
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 00:23:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(9) | metalcore(6) | progressive rock(4) | space rock(4) | stoner metal(3) | grunge(2)
-Top genres (7d)           : progressive metal(9) | jazz(7) | metalcore(6) | progressive rock(4) | space rock(4) | stoner metal(3)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : progressive metal(10) | metalcore(8) | progressive rock(6) | space rock(6) | stoner metal(5) | stoner rock(4)
+Top genres (7d)           : progressive metal(10) | metalcore(8) | progressive rock(6) | space rock(6) | stoner metal(5) | stoner rock(4)
+Artist lookups (this run) : 8 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 09:04:00Z
+Report generated (UTC)    : 2026-01-28 10:02:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

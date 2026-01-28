@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-28 09:04:00Z",
+  "report_generated_utc": "2026-01-28 10:02:45Z",
   "status": "IDLE",
-  "last_track": "Maha Sohona — Visions",
-  "last_played_utc": "2026-01-28 08:49:58Z",
+  "last_track": "Marble — smile at strangers",
+  "last_played_utc": "2026-01-28 09:59:02Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -151,6 +151,33 @@
       "psychedelic rock",
       "sludge metal",
       "doom metal"
+    ],
+    "1dFOyNJR6px6zWvJVA8DIa": [
+      "progressive metal",
+      "progressive rock",
+      "drone metal"
+    ],
+    "43VZcpziN2RTPNRbrdMgAT": [],
+    "4UBpP2sze65wUMCyUGLe80": [
+      "stoner rock",
+      "space rock"
+    ],
+    "7wog7Uyk4FsbXcilG0FzUA": [],
+    "6cO7GKXtnHxzX3prlNraDR": [],
+    "7yYuEhmPsIxsYHTDou8lRg": [
+      "post-grunge"
+    ],
+    "06D0YfeNZgBA7XWQ79Y42R": [
+      "stoner rock",
+      "space rock",
+      "stoner metal",
+      "sludge metal",
+      "psychedelic rock",
+      "doom metal"
+    ],
+    "0yacjrFvJqylCSuaEsOPct": [
+      "sludge metal",
+      "stoner metal"
     ]
   }
 }
