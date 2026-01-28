@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : I Hate Elephants Sitting on Children — These Walls
-Last played               : Red In Summer — Artificial Love
-Last played (UTC)         : 2026-01-28 07:29:01Z
+Now playing               : Netherlands — Deathless (2024 Supermix)
+Last played               : Speed of Light — Pain on a Chain
+Last played (UTC)         : 2026-01-28 07:34:53Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : I Hate Elephants Sitting on Children — Temptation → Red In Summer — Artificial Love
-Δ last played (since last): 2026-01-28 07:06:48Z → 2026-01-28 07:29:01Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Red In Summer — Artificial Love → Speed of Light — Pain on a Chain
+Δ last played (since last): 2026-01-28 07:29:01Z → 2026-01-28 07:34:53Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:59
-Telemetry age             : 00:00:59
-Δ time (since last report): 00:13:21
+Time since last play      : 00:00:30
+Telemetry age             : 00:00:30
+Δ time (since last report): 00:05:24
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 29
+Tracks played (last 24h)  : 30
 Dominant artist           : Red In Summer
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 07:29:59Z → 2026-01-28 07:29:59Z
+Week window (UTC)         : 2026-01-21 07:35:22Z → 2026-01-28 07:35:22Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 02:00
-Heatmap (24h)             :  ▁█▄▄       ▂           
-Heatmap (7d)              : ▁▁█▄▅       ▂         ▅▇
+Heatmap (24h)             :  ▁█▄▅       ▂           
+Heatmap (7d)              : ▁▁█▄▆       ▂         ▄▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 6
 Avg inter-play gap (7d)   : 00:36:37
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | metalcore(5) | progressive rock(4) | grunge(2) | post-grunge(2) | garage rock(1)
-Top genres (7d)           : jazz(16) | progressive metal(9) | metalcore(5) | progressive rock(4) | latin rock(3) | grunge(2)
-Artist lookups (this run) : 2 (cached)
+Top genres (7d)           : jazz(14) | progressive metal(9) | metalcore(5) | progressive rock(4) | latin rock(3) | grunge(2)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 07:29:59Z
+Report generated (UTC)    : 2026-01-28 07:35:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
