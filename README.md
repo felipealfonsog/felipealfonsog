@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Fallen Letters, reflection — Diminished
-Last played               : Jess Lai Mieritz, Alex Rudinger — Fall Away
-Last played (UTC)         : 2026-01-28 13:59:29Z
+Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
+Last played               : Fallen Letters, reflection — Diminished
+Last played (UTC)         : 2026-01-28 14:04:18Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-01-28 13:50:45Z → 2026-01-28 13:59:29Z
+Δ track (since last)      : Jess Lai Mieritz, Alex Rudinger — Fall Away → Fallen Letters, reflection — Diminished
+Δ last played (since last): 2026-01-28 13:59:29Z → 2026-01-28 14:04:18Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:16
-Telemetry age             : 00:02:16
-Δ time (since last report): 00:04:36
+Time since last play      : 00:01:04
+Telemetry age             : 00:01:04
+Δ time (since last report): 00:03:38
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 14:01:44Z → 2026-01-28 14:01:44Z
+Week window (UTC)         : 2026-01-21 14:05:21Z → 2026-01-28 14:05:21Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :       ▁█▇█▆             
-Heatmap (7d)              :       ▁█▇█▆             
+Heatmap (24h)             :       ▁█▇█▆▁            
+Heatmap (7d)              :       ▁█▇█▆▁            
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:04:59
+Avg inter-play gap (7d)   : 00:05:00
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(8) | progressive rock(8) | metalcore(7) | post-grunge(5) | space rock(5) | djent(4)
-Top genres (7d)           : progressive metal(8) | progressive rock(8) | metalcore(7) | post-grunge(5) | space rock(5) | djent(4)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : progressive metal(8) | metalcore(7) | progressive rock(7) | post-grunge(5) | space rock(5) | djent(4)
+Top genres (7d)           : progressive metal(8) | metalcore(7) | progressive rock(7) | post-grunge(5) | space rock(5) | djent(4)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 14:01:44Z
+Report generated (UTC)    : 2026-01-28 14:05:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

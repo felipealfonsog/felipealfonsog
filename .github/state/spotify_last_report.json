@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-28 14:01:44Z",
+  "report_generated_utc": "2026-01-28 14:05:21Z",
   "status": "PLAYING",
-  "last_track": "Jess Lai Mieritz, Alex Rudinger — Fall Away",
-  "last_played_utc": "2026-01-28 13:59:29Z",
+  "last_track": "Fallen Letters, reflection — Diminished",
+  "last_played_utc": "2026-01-28 14:04:18Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -243,6 +243,10 @@
       "metalcore"
     ],
     "0WntOHafZUdpxI70EQbdGZ": [],
-    "2WYRpt6JRt60c73VtbHvla": []
+    "2WYRpt6JRt60c73VtbHvla": [],
+    "7hXW1IT2hugSTjgIsLSx1c": [
+      "progressive metal"
+    ],
+    "31qAwyo9zIW6EdVjuavAH9": []
   }
 }
