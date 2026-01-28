@@ -841,35 +841,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Marble — greet death
+Now playing               : N/A
 Last played               : Maha Sohona — Visions
 Last played (UTC)         : 2026-01-28 08:49:58Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Dirty Sound Magnet — Dead Inside → Maha Sohona — Visions
-Δ last played (since last): 2026-01-28 08:40:30Z → 2026-01-28 08:49:58Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:01:35
-Telemetry age             : 00:01:35
-Δ time (since last report): 00:02:39
+Time since last play      : 00:14:02
+Telemetry age             : 00:14:02
+Δ time (since last report): 00:12:27
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -883,7 +882,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 08:51:33Z → 2026-01-28 08:51:33Z
+Week window (UTC)         : 2026-01-21 09:04:00Z → 2026-01-28 09:04:00Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +906,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | metalcore(6) | progressive rock(4) | space rock(4) | stoner metal(3) | grunge(2)
 Top genres (7d)           : progressive metal(9) | jazz(7) | metalcore(6) | progressive rock(4) | space rock(4) | stoner metal(3)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 08:51:33Z
+Report generated (UTC)    : 2026-01-28 09:04:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

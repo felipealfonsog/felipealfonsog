@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-28 08:51:33Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-01-28 09:04:00Z",
+  "status": "IDLE",
   "last_track": "Maha Sohona — Visions",
   "last_played_utc": "2026-01-28 08:49:58Z",
-  "sitrep": "GREEN",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
