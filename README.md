@@ -858,13 +858,13 @@ Last played               : ASAVA — Canyon
 Last played (UTC)         : 2026-01-28 12:57:33Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Red In Summer — Save Me → ASAVA — Canyon
-Δ last played (since last): 2026-01-28 12:38:28Z → 2026-01-28 12:57:33Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:13
-Telemetry age             : 00:01:13
-Δ time (since last report): 00:17:09
+Time since last play      : 00:04:18
+Telemetry age             : 00:04:18
+Δ time (since last report): 00:03:06
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 12:58:45Z → 2026-01-28 12:58:45Z
+Week window (UTC)         : 2026-01-21 13:01:50Z → 2026-01-28 13:01:50Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | progressive rock(9) | metalcore(7) | post-grunge(6) | space rock(6) | stoner rock(5)
 Top genres (7d)           : progressive metal(9) | progressive rock(9) | metalcore(7) | post-grunge(6) | space rock(6) | stoner rock(5)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 12:58:45Z
+Report generated (UTC)    : 2026-01-28 13:01:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
