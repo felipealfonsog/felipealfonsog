@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Netherlands — Deathless (2024 Supermix)
+Now playing               : I Hate Elephants Sitting on Children — These Walls
 Last played               : Speed of Light — Pain on a Chain
 Last played (UTC)         : 2026-01-28 07:34:53Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Red In Summer — Artificial Love → Speed of Light — Pain on a Chain
-Δ last played (since last): 2026-01-28 07:29:01Z → 2026-01-28 07:34:53Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:30
-Telemetry age             : 00:00:30
-Δ time (since last report): 00:05:24
+Time since last play      : 00:03:17
+Telemetry age             : 00:03:17
+Δ time (since last report): 00:02:48
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 07:35:22Z → 2026-01-28 07:35:22Z
+Week window (UTC)         : 2026-01-21 07:38:10Z → 2026-01-28 07:38:10Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(9) | metalcore(5) | progressive rock(4) | grunge(2) | post-grunge(2) | garage rock(1)
 Top genres (7d)           : jazz(14) | progressive metal(9) | metalcore(5) | progressive rock(4) | latin rock(3) | grunge(2)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 07:35:22Z
+Report generated (UTC)    : 2026-01-28 07:38:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
