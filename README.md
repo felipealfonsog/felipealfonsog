@@ -858,13 +858,13 @@ Last played               : ASAVA — Confidence
 Last played (UTC)         : 2026-01-28 11:35:33Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silver Throne — Unconventional → ASAVA — Confidence
-Δ last played (since last): 2026-01-28 11:22:11Z → 2026-01-28 11:35:33Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:57
-Telemetry age             : 00:00:57
-Δ time (since last report): 00:10:47
+Time since last play      : 00:01:18
+Telemetry age             : 00:01:18
+Δ time (since last report): 00:00:22
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 11:36:29Z → 2026-01-28 11:36:29Z
+Week window (UTC)         : 2026-01-21 11:36:51Z → 2026-01-28 11:36:51Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : space rock(9) | metalcore(8) | stoner metal(7) | progressive metal(6) | progressive rock(6) | stoner rock(6)
 Top genres (7d)           : space rock(9) | metalcore(8) | stoner metal(7) | progressive metal(6) | progressive rock(6) | stoner rock(6)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 11:36:29Z
+Report generated (UTC)    : 2026-01-28 11:36:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
