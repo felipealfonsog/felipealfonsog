@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Stone Sea — Mystify
+Now playing               : I Hate Elephants Sitting on Children — Fear Is Just a Concept
 Last played               : PRAUN — Vanishing Point
 Last played (UTC)         : 2026-01-28 19:35:49Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silver Throne — Where Your Feet Have Been → PRAUN — Vanishing Point
-Δ last played (since last): 2026-01-28 19:29:36Z → 2026-01-28 19:35:49Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:21:51
-Telemetry age             : 00:21:51
-Δ time (since last report): 00:26:07
+Time since last play      : 00:24:01
+Telemetry age             : 00:24:01
+Δ time (since last report): 00:02:11
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 19:57:39Z → 2026-01-28 19:57:39Z
+Week window (UTC)         : 2026-01-21 19:59:49Z → 2026-01-28 19:59:49Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(7) | progressive rock(6) | djent(5) | metalcore(5) | space rock(3) | stoner rock(3)
 Top genres (7d)           : progressive metal(7) | progressive rock(6) | djent(5) | metalcore(5) | space rock(3) | stoner rock(3)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 19:57:39Z
+Report generated (UTC)    : 2026-01-28 19:59:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
