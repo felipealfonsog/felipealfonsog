@@ -28,6 +28,9 @@ on:
 
 permissions:
   contents: write
+concurrency:
+  group: spotify-telemetry
+  cancel-in-progress: true
 
 env:
   ENABLE_FAST_POLL: "true"        # true/false
@@ -166,26 +169,35 @@ jobs:
           if cid and csec and rt:
             tok = refresh_token()
             if tok:
-              code, data = get_json("https://api.spotify.com/v1/me/player", tok)
-              if code == 200 and isinstance(data, dict):
-                if mode == "ANY_SESSION":
-                  dev = data.get("device")
-                  playing = isinstance(dev, dict) and bool(dev)
-                  why = "player_any_session"
-                else:
-                  playing = bool(data.get("is_playing"))
-                  why = "player_is_playing"
-              elif code == 204:
-                c2, d2 = get_json("https://api.spotify.com/v1/me/player/currently-playing", tok)
-                if c2 == 200 and isinstance(d2, dict):
-                  playing = bool(d2.get("is_playing"))
-                  why = "currently_playing_fallback"
+              if mode == "PLAYING_ONLY":
+                # ------------------------------------------------
+                # PLAYING_ONLY: usa /currently-playing como verdad primaria
+                # ------------------------------------------------
+                c1, d1 = get_json("https://api.spotify.com/v1/me/player/currently-playing", tok)
+                if c1 == 200 and isinstance(d1, dict):
+                  playing = bool(d1.get("is_playing"))
+                  why = "currently_playing_primary"
+                elif c1 == 204:
+                  playing = False
+                  why = "currently_playing_204"
                 else:
                   playing = False
-                  why = "no_active_player"
+                  why = f"currently_playing_http_{c1}"
               else:
-                playing = False
-                why = f"player_http_{code}"
+                # ------------------------------------------------
+                # ANY_SESSION: usa /me/player (sesión existe si hay device)
+                # ------------------------------------------------
+                c2, d2 = get_json("https://api.spotify.com/v1/me/player", tok)
+                if c2 == 200 and isinstance(d2, dict):
+                  dev = d2.get("device")
+                  playing = isinstance(dev, dict) and bool(dev)
+                  why = "player_any_session"
+                elif c2 == 204:
+                  playing = False
+                  why = "player_204"
+                else:
+                  playing = False
+                  why = f"player_http_{c2}"
             else:
               playing = False
               why = "token_refresh_failed"
@@ -203,7 +215,6 @@ jobs:
           echo "playing=${PLAYING}" >> "$GITHUB_OUTPUT"
           echo "why=${WHY}" >> "$GITHUB_OUTPUT"
           echo "Spotify playing=${PLAYING} why=${WHY}"
-
       # ------------------------------------------------------------
       # Decide if we should run telemetry on observer/fast:
       # - We run ONLY when state CHANGES compared to STATE_FILE.
