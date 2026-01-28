@@ -841,34 +841,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Marble — smile at strangers
-Last played (UTC)         : 2026-01-28 09:59:02Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Red In Summer — Save Me
+Last played               : heaven // alone — exonerate
+Last played (UTC)         : 2026-01-28 12:35:54Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Maha Sohona — Visions → Marble — smile at strangers
-Δ last played (since last): 2026-01-28 08:49:58Z → 2026-01-28 09:59:02Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:43
-Telemetry age             : 00:03:43
-Δ time (since last report): 00:58:45
+Time since last play      : 00:00:20
+Telemetry age             : 00:00:20
+Δ time (since last report): 00:00:17
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -882,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 10:02:45Z → 2026-01-28 10:02:45Z
+Week window (UTC)         : 2026-01-21 12:36:13Z → 2026-01-28 12:36:13Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -890,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 02:00
-Peak hour (7d)            : 02:00
-Heatmap (24h)             :  ▁█▄▅▅█     ▁           
-Heatmap (7d)              :  ▁█▄▅▅█     ▁           
+Peak hour (24h)           : 07:00
+Peak hour (7d)            : 07:00
+Heatmap (24h)             :      ▃▇█▇▅              
+Heatmap (7d)              :      ▃▇█▇▅              
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:23:01
+Sessions (24h)            : 1
+Sessions (7d)             : 1
+Avg inter-play gap (7d)   : 00:05:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(10) | metalcore(8) | progressive rock(6) | space rock(6) | stoner metal(5) | stoner rock(4)
-Top genres (7d)           : progressive metal(10) | metalcore(8) | progressive rock(6) | space rock(6) | stoner metal(5) | stoner rock(4)
-Artist lookups (this run) : 8 (cached)
+Top genres (24h)          : progressive metal(9) | progressive rock(9) | space rock(9) | stoner rock(7) | metalcore(6) | post-grunge(6)
+Top genres (7d)           : progressive metal(9) | progressive rock(9) | space rock(9) | stoner rock(7) | metalcore(6) | post-grunge(6)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 10:02:45Z
+Report generated (UTC)    : 2026-01-28 12:36:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -949,7 +950,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 </details>
 
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#)
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Profile](https://img.shields.io/badge/Spotify-Profile-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=1DB954)](https://open.spotify.com/user/12133266428)
 
 
 <!--
@@ -1311,7 +1312,7 @@ Writing Docs   35 mins        ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/01/2026 10:13:06 UTC
+Last updated     : 28/01/2026 12:17:53 UTC
 
 ```
 <!--END_SECTION:wakastats-->
