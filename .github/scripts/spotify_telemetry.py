@@ -390,7 +390,8 @@ def build_report():
     volume_percent = None
 
     volume_telemetry = "NO ACTIVE SESSION"
-    if has_active_session:
+
+    if has_active_session and is_playing:
         dev = player_data.get("device") or {}
         device_type = dev.get("type") or "N/A"
         device_name = dev.get("name") or "N/A"
@@ -401,6 +402,9 @@ def build_report():
         else:
             volume_telemetry = "OK"
 
+    elif has_active_session and not is_playing:
+        volume_telemetry = "IDLE (session present, no playback)"
+    
     # 2) CURRENTLY PLAYING (track truth)
     cur = fetch_currently_playing(token)
     api_http = cur.get("http", -1)
@@ -786,3 +790,4 @@ if __name__ == "__main__":
             sys.exit(0)
 
         sys.exit(1)
+
