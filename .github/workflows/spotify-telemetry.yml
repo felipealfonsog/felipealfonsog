@@ -10,7 +10,6 @@ on:
     # ------------------------------------------------------------
     # NORMAL CRON (baseline, “como antes”)
     # - Siempre corre cada 3h, pase lo que pase
-    # - No depende del fast poll ni del latch
     # ------------------------------------------------------------
     - cron: "23 */3 * * *"
 
@@ -18,7 +17,6 @@ on:
     # FAST POLL (cada 1 minuto)
     # - Solo sirve para disparar UNA vez cuando detecta playback
     # - Con latch: NO repite mientras siga la “misma sesión”
-    # - Si no hay playback => no-op (sale rápido)
     # ------------------------------------------------------------
     - cron: "* * * * *"
 
@@ -28,7 +26,6 @@ permissions:
 env:
   # ------------------------------------------------------------
   # Toggle maestro del FAST POLL
-  #
   # true  => cron 1 min hace precheck + latch
   # false => cron 1 min se vuelve no-op (pero cron 3h sigue normal)
   # ------------------------------------------------------------
@@ -36,16 +33,15 @@ env:
 
   # ------------------------------------------------------------
   # Modo de decisión del fast poll
-  #
-  # PLAYING_ONLY => requiere is_playing=true (solo cuando suena música)
-  # ANY_SESSION  => basta sesión activa (device existe), aunque esté pausado
+  # PLAYING_ONLY => requiere is_playing=true
+  # ANY_SESSION  => basta sesión activa (device existe)
   # ------------------------------------------------------------
   FAST_POLL_MODE: "PLAYING_ONLY"  # PLAYING_ONLY | ANY_SESSION
 
   # ------------------------------------------------------------
   # Archivo latch persistente (vive en el repo)
-  # - armed=true  => “listo para disparar” cuando detecte playback
-  # - armed=false => “ya disparó”, no repetir hasta que se rearme
+  # armed=true  => listo para disparar
+  # armed=false => ya disparó; no repetir hasta rearmar
   # ------------------------------------------------------------
   LATCH_FILE: ".github/state/spotify_fastpoll_latch.json"
 
@@ -61,6 +57,21 @@ jobs:
           fetch-depth: 0
 
       # ------------------------------------------------------------
+      # IMPORTANT: salir de "detached HEAD"
+      #
+      # GitHub Actions suele dejar el repo en detached HEAD.
+      # Para poder hacer pull/rebase/push sin errores:
+      # - creamos una branch local (GITHUB_REF_NAME)
+      # - seteamos upstream a origin/<branch>
+      # ------------------------------------------------------------
+      - name: Prepare git branch (avoid detached HEAD)
+        run: |
+          set -euo pipefail
+          BRANCH="${GITHUB_REF_NAME}"
+          git checkout -B "${BRANCH}"
+          git branch --set-upstream-to="origin/${BRANCH}" "${BRANCH}" || true
+
+      # ------------------------------------------------------------
       # Python runtime
       # ------------------------------------------------------------
       - uses: actions/setup-python@v5
@@ -70,22 +81,19 @@ jobs:
       # ------------------------------------------------------------
       # GUARD + LATCH
       #
-      # Objetivo:
+      # Behavior:
       # - Para cron 3h y workflow_dispatch:
-      #     => siempre permitir (comportamiento original)
+      #     => siempre permitir (comportamiento original).
       #
       # - Para cron 1m:
-      #     => si ENABLE_FAST_POLL != true => skip inmediato
+      #     => si ENABLE_FAST_POLL != true => no-op
       #     => si ENABLE_FAST_POLL == true:
-      #          1) consultar Spotify (playback real)
-      #          2) aplicar latch:
-      #             - si NO playback: rearmar latch (armed=true) y NO correr
-      #             - si playback:
-      #                 * si armed=true => correr UNA vez + desarmar (armed=false)
-      #                 * si armed=false => NO correr (ya disparó)
-      #
-      # Persistencia:
-      # - el latch se guarda en .github/state/spotify_fastpoll_latch.json
+      #          1) detecta playback (Spotify)
+      #          2) latch:
+      #             - NO playback => rearma (armed=true) y NO corre
+      #             - Playback:
+      #                 * armed=true  => corre UNA vez y desarma (armed=false)
+      #                 * armed=false => NO corre (ya disparó)
       # ------------------------------------------------------------
       - name: Guard (fast poll + latch)
         id: guard
@@ -100,11 +108,10 @@ jobs:
           set -euo pipefail
 
           EVENT="${{ github.event_name }}"
-          SCHEDULE="${{ github.event.schedule || '' }}"
+          SCHEDULE="${{ github.event.schedule }}"
 
           # --------------------------------------------------------
-          # Defaults:
-          # - Permitimos por defecto para NO romper el cron normal (3h)
+          # Default: permitir (así el cron 3h queda intacto).
           # --------------------------------------------------------
           SHOULD_RUN="true"
           REASON="normal_or_manual"
@@ -113,26 +120,20 @@ jobs:
           FAST_CRON="* * * * *"
 
           # --------------------------------------------------------
-          # Aplicar guard SOLO si:
-          # - event = schedule
-          # - y el cron específico es el fast poll (1m)
+          # Aplicar guard SOLO al schedule del fast poll (1m)
           # --------------------------------------------------------
           if [ "${EVENT}" = "schedule" ] && [ "${SCHEDULE}" = "${FAST_CRON}" ]; then
             EN="$(echo "${ENABLE_FAST_POLL}" | tr '[:upper:]' '[:lower:]')"
 
-            # Fast poll desactivado => no-op
             if [ "${EN}" != "true" ]; then
               SHOULD_RUN="false"
               REASON="fast_poll_disabled"
             else
-              # --------------------------------------------------
-              # Asegurar directorio de estado
-              # --------------------------------------------------
               mkdir -p "$(dirname "${LATCH_FILE}")"
 
-              # --------------------------------------------------
+              # ----------------------------------------------
               # Leer latch (armed=true por defecto)
-              # --------------------------------------------------
+              # ----------------------------------------------
               ARMED="true"
               if [ -f "${LATCH_FILE}" ]; then
                 ARMED="$(python3 - <<'PY' "${LATCH_FILE}"
@@ -153,14 +154,12 @@ PY
                 ARMED="true"
               fi
 
-              # --------------------------------------------------
+              # ----------------------------------------------
               # Spotify precheck:
-              # - refresh token
-              # - /me/player (primario)
-              # - fallback /currently-playing si /me/player = 204
-              #
-              # Salida: "true reason" o "false reason"
-              # --------------------------------------------------
+              # - /me/player primario
+              # - fallback /currently-playing si /me/player=204
+              # output: "true reason" o "false reason"
+              # ----------------------------------------------
               python3 - <<'PY' > /tmp/spotify_check.txt
 import os, base64, json, urllib.parse, urllib.request, urllib.error
 
@@ -219,7 +218,6 @@ if cid and csec and rt:
         reason = "player_is_playing"
 
     elif code == 204:
-      # fallback: currently-playing (a veces sirve cuando player=204)
       c2, d2 = get_json("https://api.spotify.com/v1/me/player/currently-playing", tok)
       if c2 == 200 and isinstance(d2, dict):
         playing = bool(d2.get("is_playing"))
@@ -241,22 +239,17 @@ PY
               WHY="$(awk '{print $2}' /tmp/spotify_check.txt | tail -n1)"
               rm -f /tmp/spotify_check.txt
 
-              # --------------------------------------------------
-              # LATCH algorithm (la clave para NO repetir)
-              #
-              # 1) Si NO hay playback:
-              #    - NO correr
-              #    - rearma latch (armed=true) para el futuro
-              #
-              # 2) Si HAY playback:
-              #    - si armed=true => correr UNA vez y desarmar (armed=false)
-              #    - si armed=false => NO correr (ya disparó)
-              # --------------------------------------------------
+              # ----------------------------------------------
+              # LATCH algorithm (anti-spam):
+              # - si NO playing => rearma (armed=true) y NO corre
+              # - si playing:
+              #     armed=true  => corre una vez y desarma (armed=false)
+              #     armed=false => NO corre (ya disparó)
+              # ----------------------------------------------
               if [ "${PLAYING}" != "true" ]; then
                 SHOULD_RUN="false"
                 REASON="not_playing_${WHY}"
 
-                # rearma solo si estaba desarmado
                 if [ "${ARMED}" != "true" ]; then
                   python3 - <<'PY' "${LATCH_FILE}"
 import json, sys
@@ -267,14 +260,11 @@ open(p,"w",encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2)
 PY
                   CHANGED_LATCH="true"
                 fi
-
               else
-                # Playback activo
                 if [ "${ARMED}" = "true" ]; then
                   SHOULD_RUN="true"
                   REASON="triggered_${WHY}"
 
-                  # desarma latch para no repetir mientras siga playback
                   python3 - <<'PY' "${LATCH_FILE}"
 import json, sys
 from datetime import datetime, timezone
@@ -291,9 +281,6 @@ PY
             fi
           fi
 
-          # --------------------------------------------------------
-          # Export decision para pasos siguientes
-          # --------------------------------------------------------
           echo "should_run=${SHOULD_RUN}" >> "$GITHUB_OUTPUT"
           echo "reason=${REASON}" >> "$GITHUB_OUTPUT"
           echo "changed_latch=${CHANGED_LATCH}" >> "$GITHUB_OUTPUT"
@@ -303,14 +290,8 @@ PY
 
       # ------------------------------------------------------------
       # Commit latch state (si cambió)
-      #
-      # Esto hace durable el “solo una vez por sesión”
-      # - Si se disparó: armed true -> false
-      # - Si se rearma al parar música: false -> true
-      #
-      # Nota operativa:
-      # - Configuramos git user (si no, commit falla)
-      # - Pull --rebase para evitar conflictos cuando cron=1m
+      # - Config git identity
+      # - Rebase para evitar carreras entre runs
       # ------------------------------------------------------------
       - name: Commit latch state (if changed)
         if: steps.guard.outputs.changed_latch == 'true'
@@ -346,8 +327,6 @@ PY
 
       # ------------------------------------------------------------
       # Commit & push README + state (solo si guard dijo "true")
-      # - No commitea si no hay cambios
-      # - Pull --rebase para evitar fallos por carrera con fast poll
       # ------------------------------------------------------------
       - name: Commit & push if changed
         if: steps.guard.outputs.should_run == 'true'
