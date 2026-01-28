@@ -858,13 +858,13 @@ Last played               : I Hate Elephants Sitting on Children — Fear Is Jus
 Last played (UTC)         : 2026-01-28 12:30:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : The Band Royale — Houdini → I Hate Elephants Sitting on Children — Fear Is Just a Concept
-Δ last played (since last): 2026-01-28 12:20:11Z → 2026-01-28 12:30:28Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:12
-Telemetry age             : 00:04:12
-Δ time (since last report): 00:11:10
+Time since last play      : 00:04:52
+Telemetry age             : 00:04:52
+Δ time (since last report): 00:00:40
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 12:34:40Z → 2026-01-28 12:34:40Z
+Week window (UTC)         : 2026-01-21 12:35:20Z → 2026-01-28 12:35:20Z
 Total tracks played       : 50
 Dominant artist           : Red In Summer
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : space rock(10) | progressive metal(9) | progressive rock(9) | stoner metal(7) | stoner rock(7) | metalcore(6)
 Top genres (7d)           : space rock(10) | progressive metal(9) | progressive rock(9) | stoner metal(7) | stoner rock(7) | metalcore(6)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 12:34:40Z
+Report generated (UTC)    : 2026-01-28 12:35:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
