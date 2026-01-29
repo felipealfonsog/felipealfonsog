@@ -853,17 +853,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Jericco — Always
-Last played (UTC)         : 2026-01-28 20:04:16Z
+Last played               : Weichafe — Z
+Last played (UTC)         : 2026-01-29 03:27:05Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Jericco — Always → Weichafe — Z
+Δ last played (since last): 2026-01-28 20:04:16Z → 2026-01-29 03:27:05Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:45:49
-Telemetry age             : 04:45:49
-Δ time (since last report): 03:15:48
+Time since last play      : 00:37:20
+Telemetry age             : 00:37:20
+Δ time (since last report): 03:14:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -882,7 +882,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 00:50:05Z → 2026-01-29 00:50:05Z
+Week window (UTC)         : 2026-01-22 04:04:24Z → 2026-01-29 04:04:24Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -892,23 +892,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :         ▆█▆▃   ▂▄▁      
-Heatmap (7d)              :         ▆█▆▃   ▂▄▁      
+Heatmap (24h)             : ▁       ▄█▆▃   ▂▄▁    ▁ 
+Heatmap (7d)              : ▁       ▄█▆▃   ▂▄▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:10:39
+Sessions (24h)            : 5
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:19:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(8) | progressive rock(7) | djent(5) | metalcore(5) | grunge(2) | post-grunge(2)
-Top genres (7d)           : progressive metal(8) | progressive rock(7) | djent(5) | metalcore(5) | grunge(2) | post-grunge(2)
+Top genres (24h)          : progressive metal(7) | progressive rock(6) | metalcore(5) | djent(4) | shoegaze(3) | space rock(2)
+Top genres (7d)           : progressive metal(7) | progressive rock(6) | metalcore(5) | djent(4) | shoegaze(3) | space rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 00:50:05Z
+Report generated (UTC)    : 2026-01-29 04:04:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
