@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-29 18:36:24Z",
-  "status": "IDLE",
-  "last_track": "Wayside — Parallax Error",
-  "last_played_utc": "2026-01-29 16:23:49Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-01-29 19:06:15Z",
+  "status": "PLAYING",
+  "last_track": "geographics — 6 underground",
+  "last_played_utc": "2026-01-29 19:01:45Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -275,6 +275,7 @@
     "3DXXd9XpwDjZASkeAZkUFm": [],
     "2xAMuwc0kfFedUVWO9fOQl": [
       "shoegaze"
-    ]
+    ],
+    "2QMOEU6pGuMSQg2aqZv3C9": []
   }
 }

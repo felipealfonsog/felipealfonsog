@@ -842,48 +842,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Wayside — Parallax Error
-Last played (UTC)         : 2026-01-29 16:23:49Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Weichafe — Z
+Last played               : geographics — 6 underground
+Last played (UTC)         : 2026-01-29 19:01:45Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Wayside — Parallax Error → geographics — 6 underground
+Δ last played (since last): 2026-01-29 16:23:49Z → 2026-01-29 19:01:45Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 02:12:35
-Telemetry age             : 02:12:35
-Δ time (since last report): 00:00:15
+Time since last play      : 00:04:31
+Telemetry age             : 00:04:31
+Δ time (since last report): 00:29:52
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 33
-Dominant artist           : Jess Lai Mieritz
+Tracks played (last 24h)  : 30
+Dominant artist           : Wayside
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 18:36:24Z → 2026-01-29 18:36:24Z
+Week window (UTC)         : 2026-01-22 19:06:15Z → 2026-01-29 19:06:15Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -891,25 +892,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
+Peak hour (24h)           : 16:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             : ▁         █▅▁▇ ▅█▁    ▂ 
-Heatmap (7d)              :          ▁█▄ ▃ ▂▃     ▁ 
+Heatmap (24h)             : ▁         ▇▄▁▆  █▁    ▂ 
+Heatmap (7d)              :           █▄ ▃ ▂▄     ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 6
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 00:33:43
+Sessions (24h)            : 7
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 00:36:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(17) | latin rock(2) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
 Top genres (7d)           : shoegaze(17) | metalcore(3) | progressive metal(3) | latin rock(2) | progressive rock(2) | alternative metal(1)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 18:36:24Z
+Report generated (UTC)    : 2026-01-29 19:06:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
