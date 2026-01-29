@@ -364,7 +364,9 @@ Personal note: I was born shortly after Voyager 2 began its journey — a remind
 
 </details>
 
+<!-- 
 [![Voyager Telemetry (CLI style)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/voyager-telemetry.yml/badge.svg)](#)
+-->
 
 #
 
@@ -853,18 +855,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : never easy — cold
-Last played               : Druidess — Brahmastra
-Last played (UTC)         : 2026-01-29 16:16:55Z
+Now playing               : Wayside — Parallax Error
+Last played               : never easy — cold
+Last played (UTC)         : 2026-01-29 16:20:29Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Sundazer — Cry Wolf (Unplugged) → Druidess — Brahmastra
-Δ last played (since last): 2026-01-29 16:01:54Z → 2026-01-29 16:16:55Z
+Δ track (since last)      : Druidess — Brahmastra → never easy — cold
+Δ last played (since last): 2026-01-29 16:16:55Z → 2026-01-29 16:20:29Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:49
-Telemetry age             : 00:02:49
-Δ time (since last report): 00:15:02
+Time since last play      : 00:03:13
+Telemetry age             : 00:03:13
+Δ time (since last report): 00:03:59
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,14 +878,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 31
+Tracks played (last 24h)  : 32
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 16:19:43Z → 2026-01-29 16:19:43Z
+Week window (UTC)         : 2026-01-22 16:23:41Z → 2026-01-29 16:23:41Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -893,23 +895,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             : ▁         █▅▁▅ ▅█▁    ▂ 
-Heatmap (7d)              :          ▂█▄ ▂ ▂▃     ▁ 
+Heatmap (24h)             : ▁         █▅▁▆ ▅█▁    ▂ 
+Heatmap (7d)              :          ▁█▄ ▂ ▂▃     ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 6
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 00:33:42
+Avg inter-play gap (7d)   : 00:33:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(15) | latin rock(2) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
+Top genres (24h)          : shoegaze(16) | latin rock(2) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
 Top genres (7d)           : shoegaze(16) | metalcore(4) | progressive metal(3) | latin rock(2) | progressive rock(2) | alternative metal(1)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 16:19:43Z
+Report generated (UTC)    : 2026-01-29 16:23:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
