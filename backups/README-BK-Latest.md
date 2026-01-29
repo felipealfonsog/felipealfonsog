@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Weichafe — Z
-Last played               : Weichafe — Z
-Last played (UTC)         : 2026-01-29 03:27:05Z
+Now playing               : postdrome — So Inviting
+Last played               : Sundazer — Cry Wolf (Unplugged)
+Last played (UTC)         : 2026-01-29 16:01:54Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Wayside — Safe Forever → Sundazer — Cry Wolf (Unplugged)
+Δ last played (since last): 2026-01-29 14:14:27Z → 2026-01-29 16:01:54Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:03:23
-Telemetry age             : 10:03:23
-Δ time (since last report): 00:01:10
+Time since last play      : 00:02:48
+Telemetry age             : 00:02:48
+Δ time (since last report): 00:06:45
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 26
+Tracks played (last 24h)  : 28
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 13:30:28Z → 2026-01-29 13:30:28Z
+Week window (UTC)         : 2026-01-22 16:04:42Z → 2026-01-29 16:04:42Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -891,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 16:00
-Peak hour (7d)            : 09:00
-Heatmap (24h)             : ▁         ▇▆   ▅█▁    ▂ 
-Heatmap (7d)              : ▁       ▄█▆▃   ▂▄▁    ▁ 
+Peak hour (24h)           : 10:00
+Peak hour (7d)            : 10:00
+Heatmap (24h)             : ▁         █▅▁▁ ▅█▁    ▂ 
+Heatmap (7d)              :          ▃█▄   ▂▃     ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:19:25
+Sessions (24h)            : 6
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 00:33:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1) | djent(1) | latin rock(1)
-Top genres (7d)           : progressive metal(7) | progressive rock(6) | metalcore(5) | djent(4) | shoegaze(3) | space rock(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : shoegaze(12) | latin rock(2) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
+Top genres (7d)           : shoegaze(14) | metalcore(5) | progressive metal(3) | latin rock(2) | progressive rock(2) | alternative metal(1)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 13:30:28Z
+Report generated (UTC)    : 2026-01-29 16:04:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1312,7 +1312,7 @@ Writing Docs   35 mins        ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 29/01/2026 13:31:35 UTC
+Last updated     : 29/01/2026 15:17:05 UTC
 
 ```
 <!--END_SECTION:wakastats-->
