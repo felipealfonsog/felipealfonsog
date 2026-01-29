@@ -859,13 +859,13 @@ Last played               : Weichafe — Z
 Last played (UTC)         : 2026-01-29 19:06:19Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : geographics — 6 underground → Weichafe — Z
-Δ last played (since last): 2026-01-29 19:01:45Z → 2026-01-29 19:06:19Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:32
-Telemetry age             : 00:04:32
-Δ time (since last report): 00:04:36
+Time since last play      : 00:14:23
+Telemetry age             : 00:14:23
+Δ time (since last report): 00:09:52
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 29
+Tracks played (last 24h)  : 27
 Dominant artist           : Weichafe
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 19:10:50Z → 2026-01-29 19:10:50Z
+Week window (UTC)         : 2026-01-22 19:20:41Z → 2026-01-29 19:20:41Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -894,7 +894,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             : ▁         █▅▁▇  █▁    ▂ 
+Heatmap (24h)             : ▁         █▅▁▇  ▆▁    ▂ 
 Heatmap (7d)              :           █▄ ▃ ▂▄     ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -906,11 +906,11 @@ Avg inter-play gap (7d)   : 00:36:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(17) | latin rock(3) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
+Top genres (24h)          : shoegaze(17) | latin rock(3) | alternative metal(1) | metalcore(1) | progressive metal(1) | progressive rock(1)
 Top genres (7d)           : shoegaze(17) | latin rock(3) | metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 19:10:50Z
+Report generated (UTC)    : 2026-01-29 19:20:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
