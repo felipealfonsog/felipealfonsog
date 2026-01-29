@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Sundazer, Adam Black — Edgerunner
+Now playing               : Sundazer — Cry Wolf (Unplugged)
 Last played               : Wayside — Safe Forever
 Last played (UTC)         : 2026-01-29 14:14:27Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:42:49
-Telemetry age             : 01:42:49
-Δ time (since last report): 00:20:37
+Time since last play      : 01:43:30
+Telemetry age             : 01:43:30
+Δ time (since last report): 00:00:42
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 15:57:15Z → 2026-01-29 15:57:15Z
+Week window (UTC)         : 2026-01-22 15:57:57Z → 2026-01-29 15:57:57Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : shoegaze(10) | latin rock(2) | progressive metal(2) 
 Top genres (7d)           : shoegaze(12) | metalcore(5) | progressive metal(4) | progressive rock(3) | latin rock(2) | alternative metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 15:57:15Z
+Report generated (UTC)    : 2026-01-29 15:57:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
