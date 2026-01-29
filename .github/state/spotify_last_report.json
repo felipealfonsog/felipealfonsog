@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-01-29 16:04:42Z",
+  "report_generated_utc": "2026-01-29 16:19:43Z",
   "status": "PLAYING",
-  "last_track": "Sundazer — Cry Wolf (Unplugged)",
-  "last_played_utc": "2026-01-29 16:01:54Z",
+  "last_track": "Druidess — Brahmastra",
+  "last_played_utc": "2026-01-29 16:16:55Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -272,6 +272,9 @@
     "0As6xQo66nhBhaXqOftXiJ": [
       "shoegaze"
     ],
-    "3DXXd9XpwDjZASkeAZkUFm": []
+    "3DXXd9XpwDjZASkeAZkUFm": [],
+    "2xAMuwc0kfFedUVWO9fOQl": [
+      "shoegaze"
+    ]
   }
 }
