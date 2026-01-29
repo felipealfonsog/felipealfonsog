@@ -842,35 +842,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Druidess — Brahmastra
-Last played               : Slow Degrade — Who Will Fix Me Now?
-Last played (UTC)         : 2026-01-29 19:34:02Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Wayside — Parallax Error
+Last played (UTC)         : 2026-01-29 20:01:43Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Weichafe — Tres Puntas → Slow Degrade — Who Will Fix Me Now?
-Δ last played (since last): 2026-01-29 19:25:28Z → 2026-01-29 19:34:02Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Slow Degrade — Who Will Fix Me Now? → Wayside — Parallax Error
+Δ last played (since last): 2026-01-29 19:34:02Z → 2026-01-29 20:01:43Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:03:14
-Telemetry age             : 00:03:14
-Δ time (since last report): 00:08:40
+Time since last play      : 01:31:05
+Telemetry age             : 01:31:05
+Δ time (since last report): 01:55:33
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -884,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 19:37:15Z → 2026-01-29 19:37:15Z
+Week window (UTC)         : 2026-01-22 21:32:48Z → 2026-01-29 21:32:48Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -893,24 +892,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
-Peak hour (7d)            : 10:00
+Peak hour (7d)            : 16:00
 Heatmap (24h)             : ▁         █▅▁▇  ▇▁    ▂ 
-Heatmap (7d)              : ▁         █▆▁▄ ▂█▁    ▁ 
+Heatmap (7d)              : ▁         ▇▆▁▄ ▂█▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 6
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 00:36:39
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 00:37:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(18) | latin rock(5) | progressive metal(1) | progressive rock(1)
-Top genres (7d)           : shoegaze(18) | latin rock(5) | metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1)
+Top genres (24h)          : shoegaze(19) | latin rock(5)
+Top genres (7d)           : shoegaze(19) | latin rock(5) | metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 19:37:15Z
+Report generated (UTC)    : 2026-01-29 21:32:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
