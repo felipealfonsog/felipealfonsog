@@ -364,7 +364,9 @@ Personal note: I was born shortly after Voyager 2 began its journey — a remind
 
 </details>
 
+<!-- 
 [![Voyager Telemetry (CLI style)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/voyager-telemetry.yml/badge.svg)](#)
+-->
 
 #
 
