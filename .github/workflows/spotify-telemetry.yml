@@ -34,7 +34,7 @@ env:
   # ------------------------------------------------------------
   # POLL TOGGLE
   # ------------------------------------------------------------
-  ENABLE_POLL: "true"              # true/false
+  ENABLE_POLL: "false"              # true/false
   POLL_MODE: "PLAYING_ONLY"        # PLAYING_ONLY | ANY_SESSION
 
   # ------------------------------------------------------------
