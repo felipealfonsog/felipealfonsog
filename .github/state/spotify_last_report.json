@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-29 14:08:26Z",
-  "status": "PLAYING",
-  "last_track": "never easy — cold",
-  "last_played_utc": "2026-01-29 14:05:49Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-01-29 15:34:09Z",
+  "status": "IDLE",
+  "last_track": "Wayside — Safe Forever",
+  "last_played_utc": "2026-01-29 14:14:27Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -264,6 +264,9 @@
       "shoegaze"
     ],
     "3Qr5Z948M0BpkrKDFTRwv1": [
+      "shoegaze"
+    ],
+    "30dxyV2Ax6tiLYdaIFmm2x": [
       "shoegaze"
     ]
   }
