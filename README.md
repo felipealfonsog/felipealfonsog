@@ -858,13 +858,13 @@ Last played               : Wayside — Parallax Error
 Last played (UTC)         : 2026-01-29 20:01:43Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Slow Degrade — Who Will Fix Me Now? → Wayside — Parallax Error
-Δ last played (since last): 2026-01-29 19:34:02Z → 2026-01-29 20:01:43Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:31:05
-Telemetry age             : 01:31:05
-Δ time (since last report): 01:55:33
+Time since last play      : 01:32:00
+Telemetry age             : 01:32:00
+Δ time (since last report): 00:00:55
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 21:32:48Z → 2026-01-29 21:32:48Z
+Week window (UTC)         : 2026-01-22 21:33:42Z → 2026-01-29 21:33:42Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : shoegaze(19) | latin rock(5)
 Top genres (7d)           : shoegaze(19) | latin rock(5) | metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 21:32:48Z
+Report generated (UTC)    : 2026-01-29 21:33:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
