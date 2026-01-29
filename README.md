@@ -858,13 +858,13 @@ Last played               : Wayside — Parallax Error
 Last played (UTC)         : 2026-01-29 16:23:49Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : never easy — cold → Wayside — Parallax Error
-Δ last played (since last): 2026-01-29 16:20:29Z → 2026-01-29 16:23:49Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:11:02
-Telemetry age             : 02:11:02
-Δ time (since last report): 02:11:10
+Time since last play      : 02:12:20
+Telemetry age             : 02:12:20
+Δ time (since last report): 00:01:18
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 18:34:51Z → 2026-01-29 18:34:51Z
+Week window (UTC)         : 2026-01-22 18:36:09Z → 2026-01-29 18:36:09Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : shoegaze(17) | latin rock(2) | progressive metal(2) 
 Top genres (7d)           : shoegaze(17) | metalcore(3) | progressive metal(3) | latin rock(2) | progressive rock(2) | alternative metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 18:34:51Z
+Report generated (UTC)    : 2026-01-29 18:36:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
