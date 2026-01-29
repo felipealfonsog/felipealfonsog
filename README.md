@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Sundazer — Cry Wolf (Unplugged)
-Last played               : Wayside — Safe Forever
-Last played (UTC)         : 2026-01-29 14:14:27Z
+Now playing               : postdrome — So Inviting
+Last played               : Sundazer — Cry Wolf (Unplugged)
+Last played (UTC)         : 2026-01-29 16:01:54Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Wayside — Safe Forever → Sundazer — Cry Wolf (Unplugged)
+Δ last played (since last): 2026-01-29 14:14:27Z → 2026-01-29 16:01:54Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:43:30
-Telemetry age             : 01:43:30
-Δ time (since last report): 00:00:42
+Time since last play      : 00:02:48
+Telemetry age             : 00:02:48
+Δ time (since last report): 00:06:45
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 26
+Tracks played (last 24h)  : 28
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 15:57:57Z → 2026-01-29 15:57:57Z
+Week window (UTC)         : 2026-01-22 16:04:42Z → 2026-01-29 16:04:42Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             : ▁         █▅   ▅█▁    ▂ 
-Heatmap (7d)              :          ▄█▄   ▂▃     ▁ 
+Heatmap (24h)             : ▁         █▅▁▁ ▅█▁    ▂ 
+Heatmap (7d)              :          ▃█▄   ▂▃     ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:31:39
+Sessions (24h)            : 6
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 00:33:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(10) | latin rock(2) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
-Top genres (7d)           : shoegaze(12) | metalcore(5) | progressive metal(4) | progressive rock(3) | latin rock(2) | alternative metal(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : shoegaze(12) | latin rock(2) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
+Top genres (7d)           : shoegaze(14) | metalcore(5) | progressive metal(3) | latin rock(2) | progressive rock(2) | alternative metal(1)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 15:57:57Z
+Report generated (UTC)    : 2026-01-29 16:04:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
