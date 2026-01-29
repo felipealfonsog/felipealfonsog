@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Amira Elfeky — Tonight (demo)
-Last played               : cloudyfield — in your head
-Last played (UTC)         : 2026-01-29 13:41:23Z
+Now playing               : Amira Elfeky — Everything I Do Is For You
+Last played               : Amira Elfeky — Tonight (demo)
+Last played (UTC)         : 2026-01-29 13:43:57Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Weichafe — Z → cloudyfield — in your head
-Δ last played (since last): 2026-01-29 03:27:05Z → 2026-01-29 13:41:23Z
+Δ track (since last)      : cloudyfield — in your head → Amira Elfeky — Tonight (demo)
+Δ last played (since last): 2026-01-29 13:41:23Z → 2026-01-29 13:43:57Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:22
-Telemetry age             : 00:01:22
-Δ time (since last report): 00:12:17
+Time since last play      : 00:01:59
+Telemetry age             : 00:01:59
+Δ time (since last report): 00:03:12
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
+Tracks played (last 24h)  : 27
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 13:42:44Z → 2026-01-29 13:42:44Z
+Week window (UTC)         : 2026-01-22 13:45:56Z → 2026-01-29 13:45:56Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -891,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 16:00
-Peak hour (7d)            : 09:00
-Heatmap (24h)             : ▁         ▆▆   ▅█▁    ▂ 
-Heatmap (7d)              : ▁       ▃█▇▃   ▂▄▁    ▁ 
+Peak hour (24h)           : 10:00
+Peak hour (7d)            : 10:00
+Heatmap (24h)             : ▁         █▆   ▅█▁    ▂ 
+Heatmap (7d)              : ▁       ▂▇█▃   ▂▄▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 6
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:31:48
+Avg inter-play gap (7d)   : 00:31:40
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(3) | latin rock(2) | metalcore(2) | progressive rock(2) | shoegaze(2) | alternative metal(1)
-Top genres (7d)           : progressive metal(6) | metalcore(5) | progressive rock(5) | shoegaze(4) | djent(3) | latin rock(2)
+Top genres (24h)          : progressive metal(3) | shoegaze(3) | latin rock(2) | metalcore(2) | progressive rock(2) | alternative metal(1)
+Top genres (7d)           : metalcore(5) | progressive metal(5) | shoegaze(5) | progressive rock(4) | djent(2) | latin rock(2)
 Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 13:42:44Z
+Report generated (UTC)    : 2026-01-29 13:45:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
