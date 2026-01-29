@@ -857,13 +857,13 @@ Last played               : Weichafe — Z
 Last played (UTC)         : 2026-01-29 03:27:05Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Jericco — Always → Weichafe — Z
-Δ last played (since last): 2026-01-28 20:04:16Z → 2026-01-29 03:27:05Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:37:20
-Telemetry age             : 00:37:20
-Δ time (since last report): 03:14:20
+Time since last play      : 00:38:41
+Telemetry age             : 00:38:41
+Δ time (since last report): 00:01:22
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -882,7 +882,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 04:04:24Z → 2026-01-29 04:04:24Z
+Week window (UTC)         : 2026-01-22 04:05:45Z → 2026-01-29 04:05:45Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -908,7 +908,7 @@ Top genres (24h)          : progressive metal(7) | progressive rock(6) | metalco
 Top genres (7d)           : progressive metal(7) | progressive rock(6) | metalcore(5) | djent(4) | shoegaze(3) | space rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 04:04:24Z
+Report generated (UTC)    : 2026-01-29 04:05:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
