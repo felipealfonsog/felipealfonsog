@@ -142,8 +142,8 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/GitLab_Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/License_%2F_Compliance-SECURED?style=plastic&logo=readthedocs&logoColor=white&labelColor=111111&color=111111&logoWidth=20" height="19"/>](#classified-identity--integrity-notice)
 
-[<img src="https://img.shields.io/badge/WakaTime__Telemetry/Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime)
-[<img src="https://img.shields.io/badge/Spotify__Telemetry/Stats-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=1DB954&color=1DB954&logoWidth=20" height="19"/>](#spotify)
+[<img src="https://img.shields.io/badge/WakaTime_Telemetry/Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime)
+[<img src="https://img.shields.io/badge/Spotify_Telemetry/Stats-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=1DB954&color=1DB954&logoWidth=20" height="19"/>](#spotify)
 [<img src="https://img.shields.io/badge/Voyager_Telemetry_NASA%2FJPL-0B3D91?style=plastic&logo=nasa&logoColor=white&labelColor=0B3D91&color=0B3D91&logoWidth=20" height="19"/>](#voyager-telemetry)
 
 
