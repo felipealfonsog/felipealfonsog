@@ -306,7 +306,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-28 14:41:26Z
+DSN snapshot (UTC)       : 2026-01-29 12:38:27Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -317,15 +317,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.44e9 km | 170.027 AU
-Heliocentric distance    : 169.524 AU
-Relative speed           : 24.400 km/s
+Earth distance           : 25.44e9 km | 170.025 AU
+Heliocentric distance    : 169.533 AU
+Relative speed           : 24.210 km/s
 ------------------------------------------------------------
-One-way light time       : 23:34:04
-Round-trip latency       : 47:08:08
+One-way light time       : 23:34:03
+Round-trip latency       : 47:08:07
 ------------------------------------------------------------
-Δ distance (since last)  : -7,249 km
-Mission age              : 48 years, 157 days
+Δ distance (since last)  : -54,788 km
+Mission age              : 48 years, 158 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -336,19 +336,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.691 AU
-Heliocentric distance    : 141.953 AU
-Relative speed           : 31.626 km/s
+Earth distance           : 21.35e9 km | 142.695 AU
+Heliocentric distance    : 141.961 AU
+Relative speed           : 31.470 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:43
-Round-trip latency       : 39:33:27
+One-way light time       : 19:46:45
+Round-trip latency       : 39:33:31
 ------------------------------------------------------------
-Δ distance (since last)  : +25,092 km
-Mission age              : 48 years, 173 days
+Δ distance (since last)  : +166,921 km
+Mission age              : 48 years, 174 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-28 14:41:33Z
+Report generated (UTC)   : 2026-01-29 12:38:29Z
 ```
 
 <!-- VOYAGER:END -->
@@ -853,18 +853,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
-Last played               : Jess Lai Mieritz, Alex Rudinger — Fall Away
-Last played (UTC)         : 2026-01-28 14:26:00Z
+Now playing               : Weichafe — Z
+Last played               : Weichafe — Z
+Last played (UTC)         : 2026-01-29 03:27:05Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:14:35
-Telemetry age             : 00:14:35
-Δ time (since last report): 00:01:09
+Time since last play      : 10:03:23
+Telemetry age             : 10:03:23
+Δ time (since last report): 00:01:10
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
+Tracks played (last 24h)  : 26
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-21 14:40:34Z → 2026-01-28 14:40:34Z
+Week window (UTC)         : 2026-01-22 13:30:28Z → 2026-01-29 13:30:28Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -891,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 09:00
+Peak hour (24h)           : 16:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :        ▆▇█▆▃            
-Heatmap (7d)              :        ▆▇█▆▃            
+Heatmap (24h)             : ▁         ▇▆   ▅█▁    ▂ 
+Heatmap (7d)              : ▁       ▄█▆▃   ▂▄▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:05:04
+Sessions (24h)            : 5
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:19:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(8) | progressive rock(7) | metalcore(6) | post-grunge(5) | space rock(5) | djent(4)
-Top genres (7d)           : progressive metal(8) | progressive rock(7) | metalcore(6) | post-grunge(5) | space rock(5) | djent(4)
+Top genres (24h)          : metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1) | djent(1) | latin rock(1)
+Top genres (7d)           : progressive metal(7) | progressive rock(6) | metalcore(5) | djent(4) | shoegaze(3) | space rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-28 14:40:34Z
+Report generated (UTC)    : 2026-01-29 13:30:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1264,55 +1264,55 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 28 January 2026
+From: 04 December 2023 - To: 29 January 2026
 
-Total Time       : 965 hrs 14 mins
+Total Time       : 972 hrs 38 mins
 Mostly coding in : Bash
-Daily average    : 1 hrs 13 mins
+Daily average    : 1 hrs 14 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.93 %
-Python         136 hrs 10 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.11 %
-HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.99 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.27 %
-Other          86 hrs 11 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.93 %
-Markdown       77 hrs 44 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.05 %
-C              73 hrs 29 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.61 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.14 %
-Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.93 %
-INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.70 %
+Bash           163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.80 %
+Python         136 hrs 57 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.08 %
+HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.89 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.18 %
+Other          89 hrs 19 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   9.18 %
+Markdown       77 hrs 47 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.00 %
+C              73 hrs 39 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.57 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.11 %
+Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.90 %
+INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.67 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          570 hrs 43 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.13 %
-Mac            480 hrs 41 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  49.80 %
+Linux          570 hrs 43 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.68 %
+Mac            491 hrs 14 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  50.51 %
 
 EDITORS
 -------
-VS Code        650 hrs 33 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  67.40 %
-Vim            321 hrs 33 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.31 %
-Firefox        62 hrs 46 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.50 %
-TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.20 %
-Terminal       1 hr 18 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.14 %
+VS Code        650 hrs 33 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.88 %
+Vim            322 hrs 11 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.13 %
+Firefox        72 hrs 9 mins  ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.42 %
+TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
+Terminal       1 hr 21 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.14 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+Antigravity    43 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
 TextMate       40 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-Antigravity    14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 Dia            6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 Chrome         0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 CATEGORIES
 ----------
-Coding         988 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       62 hrs 47 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.50 %
+Coding         989 hrs 12 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       72 hrs 9 mins  ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.42 %
 Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/01/2026 14:16:04 UTC
+Last updated     : 29/01/2026 12:20:46 UTC
 
 ```
 <!--END_SECTION:wakastats-->
