@@ -861,9 +861,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:08:29
-Telemetry age             : 09:08:29
-Δ time (since last report): 02:57:53
+Time since last play      : 09:09:38
+Telemetry age             : 09:09:38
+Δ time (since last report): 00:01:10
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -875,14 +875,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 36
+Tracks played (last 24h)  : 35
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 12:35:33Z → 2026-01-29 12:35:33Z
+Week window (UTC)         : 2026-01-22 12:36:42Z → 2026-01-29 12:36:42Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -892,7 +892,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             : ▁        ▅█▄   ▃▆▁    ▂ 
+Heatmap (24h)             : ▁        ▄█▄   ▃▆▁    ▂ 
 Heatmap (7d)              : ▁       ▄█▆▃   ▂▄▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -904,11 +904,11 @@ Avg inter-play gap (7d)   : 00:19:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : metalcore(5) | progressive metal(3) | shoegaze(3) | progressive rock(2) | alternative metal(1) | djent(1)
+Top genres (24h)          : metalcore(5) | progressive metal(3) | progressive rock(2) | shoegaze(2) | alternative metal(1) | djent(1)
 Top genres (7d)           : progressive metal(7) | progressive rock(6) | metalcore(5) | djent(4) | shoegaze(3) | space rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 12:35:33Z
+Report generated (UTC)    : 2026-01-29 12:36:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
