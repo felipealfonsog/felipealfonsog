@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Weichafe — Z
-Last played               : Weichafe — Z
-Last played (UTC)         : 2026-01-29 19:06:19Z
+Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
+Last played               : Weichafe — Tres Puntas
+Last played (UTC)         : 2026-01-29 19:25:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Weichafe — Z → Weichafe — Tres Puntas
+Δ last played (since last): 2026-01-29 19:06:19Z → 2026-01-29 19:25:28Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:15:50
-Telemetry age             : 00:15:50
-Δ time (since last report): 00:01:28
+Time since last play      : 00:03:09
+Telemetry age             : 00:03:09
+Δ time (since last report): 00:06:28
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 27
+Tracks played (last 24h)  : 28
 Dominant artist           : Weichafe
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 19:22:09Z → 2026-01-29 19:22:09Z
+Week window (UTC)         : 2026-01-22 19:28:36Z → 2026-01-29 19:28:36Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -894,8 +894,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             : ▁         █▅▁▇  ▆▁    ▂ 
-Heatmap (7d)              :           █▄ ▃ ▂▄     ▁ 
+Heatmap (24h)             : ▁         █▅▁▇  ▇▁    ▂ 
+Heatmap (7d)              : ▁         █▅▁▃ ▂▆▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -906,11 +906,11 @@ Avg inter-play gap (7d)   : 00:36:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(17) | latin rock(3) | alternative metal(1) | metalcore(1) | progressive metal(1) | progressive rock(1)
-Top genres (7d)           : shoegaze(17) | latin rock(3) | metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1)
+Top genres (24h)          : shoegaze(17) | latin rock(5) | alternative metal(1) | progressive metal(1) | progressive rock(1)
+Top genres (7d)           : shoegaze(17) | latin rock(5) | metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 19:22:09Z
+Report generated (UTC)    : 2026-01-29 19:28:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
