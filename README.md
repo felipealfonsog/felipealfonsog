@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 16:36:19
-Telemetry age             : 16:36:19
-Δ time (since last report): 00:01:19
+Time since last play      : 19:32:13
+Telemetry age             : 19:32:13
+Δ time (since last report): 02:55:55
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
-Dominant artist           : Wayside
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 14
+Dominant artist           : Weichafe
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-23 12:38:01Z → 2026-01-30 12:38:01Z
+Week window (UTC)         : 2026-01-23 15:33:56Z → 2026-01-30 15:33:56Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -891,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
+Peak hour (24h)           : 13:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :           █▅▁▇  ▇▁      
+Heatmap (24h)             :             ▁█  █▁      
 Heatmap (7d)              : ▁         ▇▆▁▄ ▂█▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : 3
 Sessions (7d)             : 9
 Avg inter-play gap (7d)   : 00:37:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(18) | latin rock(4)
+Top genres (24h)          : shoegaze(9) | latin rock(3)
 Top genres (7d)           : shoegaze(19) | latin rock(5) | metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-30 12:38:01Z
+Report generated (UTC)    : 2026-01-30 15:33:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
