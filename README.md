@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:32:46
-Telemetry age             : 22:32:46
-Δ time (since last report): 02:59:03
+Time since last play      : 22:33:51
+Telemetry age             : 22:33:51
+Δ time (since last report): 00:01:05
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-23 18:34:29Z → 2026-01-30 18:34:29Z
+Week window (UTC)         : 2026-01-23 18:35:33Z → 2026-01-30 18:35:33Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : latin rock(3) | shoegaze(2)
 Top genres (7d)           : shoegaze(19) | latin rock(5) | metalcore(3) | progressive metal(3) | progressive rock(2) | alternative metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-30 18:34:29Z
+Report generated (UTC)    : 2026-01-30 18:35:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
