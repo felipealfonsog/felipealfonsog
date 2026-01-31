@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
+Now playing               : Weichafe — Z
 Last played               : Jess Lai Mieritz, Alex Rudinger — Fall Away
-Last played (UTC)         : 2026-01-31 12:29:48Z
+Last played (UTC)         : 2026-01-31 12:33:52Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Wayside — Parallax Error → Jess Lai Mieritz, Alex Rudinger — Fall Away
-Δ last played (since last): 2026-01-29 20:01:43Z → 2026-01-31 12:29:48Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): 2026-01-31 12:29:48Z → 2026-01-31 12:33:52Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:46
-Telemetry age             : 00:03:46
-Δ time (since last report): 02:59:29
+Time since last play      : 00:00:37
+Telemetry age             : 00:00:37
+Δ time (since last report): 00:00:56
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 2
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-24 12:33:33Z → 2026-01-31 12:33:33Z
+Week window (UTC)         : 2026-01-24 12:34:28Z → 2026-01-31 12:34:28Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -895,14 +895,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 16:00
 Heatmap (24h)             :          █              
-Heatmap (7d)              : ▁        ▁▇▆▁▄ ▂█▁    ▁ 
+Heatmap (7d)              : ▁        ▁▆▆▁▄ ▂█▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 01:26:41
+Avg inter-play gap (7d)   : 01:26:40
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -910,7 +910,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : shoegaze(19) | latin rock(5) | progressive metal(3) | metalcore(2) | progressive rock(2) | alternative metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-31 12:33:33Z
+Report generated (UTC)    : 2026-01-31 12:34:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
