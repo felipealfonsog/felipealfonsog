@@ -858,13 +858,13 @@ Last played               : msliterate — fame
 Last played (UTC)         : 2026-01-31 14:09:09Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : cloudyfield — crawl → msliterate — fame
-Δ last played (since last): 2026-01-31 13:58:42Z → 2026-01-31 14:09:09Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:22:55
-Telemetry age             : 01:22:55
-Δ time (since last report): 01:30:39
+Time since last play      : 01:23:40
+Telemetry age             : 01:23:40
+Δ time (since last report): 00:00:45
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-24 15:32:04Z → 2026-01-31 15:32:04Z
+Week window (UTC)         : 2026-01-24 15:32:48Z → 2026-01-31 15:32:48Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(5)
 Top genres (7d)           : shoegaze(24) | latin rock(5) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-31 15:32:04Z
+Report generated (UTC)    : 2026-01-31 15:32:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
