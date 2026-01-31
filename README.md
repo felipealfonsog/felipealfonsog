@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Amira Elfeky — Tonight (demo)
-Last played               : Wayside — Parallax Error
-Last played (UTC)         : 2026-01-31 13:36:46Z
+Now playing               : Amira Elfeky — A Dozen Roses
+Last played               : cloudyfield — crawl
+Last played (UTC)         : 2026-01-31 13:58:42Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Wayside — Parallax Error → cloudyfield — crawl
+Δ last played (since last): 2026-01-31 13:36:46Z → 2026-01-31 13:58:42Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:12:39
-Telemetry age             : 00:12:39
-Δ time (since last report): 00:01:26
+Time since last play      : 00:02:44
+Telemetry age             : 00:02:44
+Δ time (since last report): 00:12:01
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
+Tracks played (last 24h)  : 8
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-24 13:49:25Z → 2026-01-31 13:49:25Z
+Week window (UTC)         : 2026-01-24 14:01:25Z → 2026-01-31 14:01:25Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -893,24 +893,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
-Peak hour (7d)            : 16:00
-Heatmap (24h)             :          ▄█             
-Heatmap (7d)              : ▁        ▁▇▅▁▄ ▂█▁    ▁ 
+Peak hour (7d)            : 10:00
+Heatmap (24h)             :          ▃█             
+Heatmap (7d)              : ▁        ▁█▄▁▄ ▂█▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 01:27:30
+Avg inter-play gap (7d)   : 01:27:43
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(3)
-Top genres (7d)           : shoegaze(22) | latin rock(5) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
+Top genres (24h)          : shoegaze(5)
+Top genres (7d)           : shoegaze(24) | latin rock(5) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-31 13:49:25Z
+Report generated (UTC)    : 2026-01-31 14:01:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
