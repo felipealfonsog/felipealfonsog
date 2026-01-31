@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Weichafe — Z
+Now playing               : Slow Degrade — Who Will Fix Me Now?
 Last played               : Jess Lai Mieritz, Alex Rudinger — Fall Away
-Last played (UTC)         : 2026-01-31 12:33:52Z
+Last played (UTC)         : 2026-01-31 13:22:11Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ last played (since last): 2026-01-31 12:33:52Z → 2026-01-31 13:22:11Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:09:52
-Telemetry age             : 00:09:52
-Δ time (since last report): 00:06:16
+Time since last play      : 00:03:00
+Telemetry age             : 00:03:00
+Δ time (since last report): 00:41:28
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 3
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-24 12:43:43Z → 2026-01-31 12:43:43Z
+Week window (UTC)         : 2026-01-24 13:25:11Z → 2026-01-31 13:25:11Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :          █              
+Heatmap (24h)             :          █▄             
 Heatmap (7d)              : ▁        ▁▆▆▁▄ ▂█▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 01:26:40
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 01:27:35
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(19) | latin rock(5) | progressive metal(3) | metalcore(2) | progressive rock(2) | alternative metal(1)
+Top genres (7d)           : shoegaze(19) | latin rock(5) | progressive metal(3) | progressive rock(2) | alternative metal(1) | djent(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-31 12:43:43Z
+Report generated (UTC)    : 2026-01-31 13:25:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
