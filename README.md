@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Druidess — Brahmastra
-Last played               : Slow Degrade — Who Will Fix Me Now?
-Last played (UTC)         : 2026-01-31 13:25:51Z
+Now playing               : Amira Elfeky — Tonight (demo)
+Last played               : Wayside — Parallax Error
+Last played (UTC)         : 2026-01-31 13:36:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Jess Lai Mieritz, Alex Rudinger — Fall Away → Slow Degrade — Who Will Fix Me Now?
-Δ last played (since last): 2026-01-31 13:22:11Z → 2026-01-31 13:25:51Z
+Δ track (since last)      : Slow Degrade — Who Will Fix Me Now? → Wayside — Parallax Error
+Δ last played (since last): 2026-01-31 13:25:51Z → 2026-01-31 13:36:46Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:44
-Telemetry age             : 00:04:44
-Δ time (since last report): 00:05:12
+Time since last play      : 00:09:59
+Telemetry age             : 00:09:59
+Δ time (since last report): 00:16:10
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
+Tracks played (last 24h)  : 6
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-24 13:30:35Z → 2026-01-31 13:30:35Z
+Week window (UTC)         : 2026-01-24 13:46:44Z → 2026-01-31 13:46:44Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -892,25 +892,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 09:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :          ██             
-Heatmap (7d)              : ▁        ▁▆▆▁▄ ▂█▁    ▁ 
+Heatmap (24h)             :          ▄█             
+Heatmap (7d)              : ▁        ▁▇▅▁▄ ▂█▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 01:27:29
+Avg inter-play gap (7d)   : 01:27:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(1)
-Top genres (7d)           : shoegaze(20) | latin rock(5) | progressive metal(3) | progressive rock(2) | alternative metal(1) | djent(1)
+Top genres (24h)          : shoegaze(3)
+Top genres (7d)           : shoegaze(22) | latin rock(5) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-31 13:30:35Z
+Report generated (UTC)    : 2026-01-31 13:46:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
