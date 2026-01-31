@@ -842,49 +842,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Amira Elfeky — A Dozen Roses
-Last played               : cloudyfield — crawl
-Last played (UTC)         : 2026-01-31 13:58:42Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : msliterate — fame
+Last played (UTC)         : 2026-01-31 14:09:09Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Wayside — Parallax Error → cloudyfield — crawl
-Δ last played (since last): 2026-01-31 13:36:46Z → 2026-01-31 13:58:42Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : cloudyfield — crawl → msliterate — fame
+Δ last played (since last): 2026-01-31 13:58:42Z → 2026-01-31 14:09:09Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:44
-Telemetry age             : 00:02:44
-Δ time (since last report): 00:12:01
+Time since last play      : 01:22:55
+Telemetry age             : 01:22:55
+Δ time (since last report): 01:30:39
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
+Tracks played (last 24h)  : 9
 Dominant artist           : Jess Lai Mieritz
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-24 14:01:25Z → 2026-01-31 14:01:25Z
+Week window (UTC)         : 2026-01-24 15:32:04Z → 2026-01-31 15:32:04Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -894,7 +893,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :          ▃█             
+Heatmap (24h)             :          ▃█▁            
 Heatmap (7d)              : ▁        ▁█▄▁▄ ▂█▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -902,15 +901,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 01:27:43
+Avg inter-play gap (7d)   : 01:27:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(5)
 Top genres (7d)           : shoegaze(24) | latin rock(5) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-31 14:01:25Z
+Report generated (UTC)    : 2026-01-31 15:32:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

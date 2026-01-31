@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-01-31 14:01:25Z",
-  "status": "PLAYING",
-  "last_track": "cloudyfield — crawl",
-  "last_played_utc": "2026-01-31 13:58:42Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-01-31 15:32:04Z",
+  "status": "IDLE",
+  "last_track": "msliterate — fame",
+  "last_played_utc": "2026-01-31 14:09:09Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -276,6 +276,7 @@
     "2xAMuwc0kfFedUVWO9fOQl": [
       "shoegaze"
     ],
-    "2QMOEU6pGuMSQg2aqZv3C9": []
+    "2QMOEU6pGuMSQg2aqZv3C9": [],
+    "3992qm16HTlVo3TXmegC4h": []
   }
 }
