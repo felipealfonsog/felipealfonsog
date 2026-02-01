@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 19:26:39
-Telemetry age             : 19:26:39
-Δ time (since last report): 00:01:17
+Time since last play      : 22:25:43
+Telemetry age             : 22:25:43
+Δ time (since last report): 02:59:05
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
-Dominant artist           : Jess Lai Mieritz
+Tracks played (last 24h)  : 7
+Dominant artist           : msliterate
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-25 09:35:47Z → 2026-02-01 09:35:47Z
+Week window (UTC)         : 2026-01-25 12:34:51Z → 2026-02-01 12:34:51Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -893,13 +893,13 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :          ▃█▁            
+Heatmap (24h)             :           █▁            
 Heatmap (7d)              : ▁        ▁█▄▁▄ ▂█▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 01:27:49
 ------------------------------------------------------------
@@ -909,7 +909,7 @@ Top genres (24h)          : shoegaze(5)
 Top genres (7d)           : shoegaze(24) | latin rock(5) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-01 09:35:47Z
+Report generated (UTC)    : 2026-02-01 12:34:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
