@@ -854,17 +854,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : msliterate — fame
-Last played (UTC)         : 2026-01-31 14:09:09Z
+Last played               : Amira Elfeky — Coming Down
+Last played (UTC)         : 2026-02-01 16:41:40Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : msliterate — fame → Amira Elfeky — Coming Down
+Δ last played (since last): 2026-01-31 14:09:09Z → 2026-02-01 16:41:40Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 25:24:23
-Telemetry age             : 25:24:23
-Δ time (since last report): 00:01:21
+Time since last play      : 01:51:56
+Telemetry age             : 01:51:56
+Δ time (since last report): 03:00:04
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Amira Elfeky
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-25 15:33:32Z → 2026-02-01 15:33:32Z
+Week window (UTC)         : 2026-01-25 18:33:36Z → 2026-02-01 18:33:36Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -891,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 13:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁        ▁█▄▁▄ ▂█▁    ▁ 
+Heatmap (24h)             :              █          
+Heatmap (7d)              : ▁        ▁█▃▁▄ ▂█▁    ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
+Sessions (24h)            : 1
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 01:27:49
+Avg inter-play gap (7d)   : 01:55:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(24) | latin rock(5) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
+Top genres (24h)          : shoegaze(1)
+Top genres (7d)           : shoegaze(25) | latin rock(5) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-01 15:33:32Z
+Report generated (UTC)    : 2026-02-01 18:33:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
