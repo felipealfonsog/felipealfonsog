@@ -858,13 +858,13 @@ Last played               : Amira Elfeky — Coming Down
 Last played (UTC)         : 2026-02-01 16:41:40Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : msliterate — fame → Amira Elfeky — Coming Down
-Δ last played (since last): 2026-01-31 14:09:09Z → 2026-02-01 16:41:40Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:51:56
-Telemetry age             : 01:51:56
-Δ time (since last report): 03:00:04
+Time since last play      : 01:53:13
+Telemetry age             : 01:53:13
+Δ time (since last report): 00:01:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-25 18:33:36Z → 2026-02-01 18:33:36Z
+Week window (UTC)         : 2026-01-25 18:34:53Z → 2026-02-01 18:34:53Z
 Total tracks played       : 50
 Dominant artist           : Jess Lai Mieritz
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : shoegaze(1)
 Top genres (7d)           : shoegaze(25) | latin rock(5) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-01 18:33:36Z
+Report generated (UTC)    : 2026-02-01 18:34:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
