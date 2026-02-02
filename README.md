@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:15:16
-Telemetry age             : 13:15:16
-Δ time (since last report): 00:01:10
+Time since last play      : 16:13:02
+Telemetry age             : 16:13:02
+Δ time (since last report): 02:57:47
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 11
+Tracks played (last 24h)  : 10
 Dominant artist           : Alice In Chains
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-26 15:36:59Z → 2026-02-02 15:36:59Z
+Week window (UTC)         : 2026-01-26 18:34:46Z → 2026-02-02 18:34:46Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :              ▁        █▅
+Heatmap (24h)             :                       █▅
 Heatmap (7d)              : ▁        ▁█▃▁▄  ▄▁    ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 12
 Avg inter-play gap (7d)   : 02:05:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(7) | grunge(6) | shoegaze(3) | alternative metal(2) | nu metal(2) | alternative rock(1)
+Top genres (24h)          : post-grunge(7) | grunge(6) | alternative metal(2) | nu metal(2) | shoegaze(2) | alternative rock(1)
 Top genres (7d)           : shoegaze(27) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(3) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-02 15:36:59Z
+Report generated (UTC)    : 2026-02-02 18:34:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
