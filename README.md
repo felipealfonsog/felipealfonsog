@@ -858,13 +858,13 @@ Last played               : Sundazer, Adam Black — Edgerunner
 Last played (UTC)         : 2026-02-02 02:21:44Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Staind — Rainy Day Parade → Sundazer, Adam Black — Edgerunner
-Δ last played (since last): 2026-02-02 02:16:32Z → 2026-02-02 02:21:44Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:47:45
-Telemetry age             : 01:47:45
-Δ time (since last report): 01:50:17
+Time since last play      : 01:47:59
+Telemetry age             : 01:47:59
+Δ time (since last report): 00:00:15
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-26 04:09:28Z → 2026-02-02 04:09:28Z
+Week window (UTC)         : 2026-01-26 04:09:43Z → 2026-02-02 04:09:43Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : post-grunge(7) | grunge(6) | shoegaze(3) | alternati
 Top genres (7d)           : shoegaze(27) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(3) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-02 04:09:28Z
+Report generated (UTC)    : 2026-02-02 04:09:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
