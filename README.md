@@ -842,49 +842,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Sundazer, Adam Black — Edgerunner
-Last played               : Staind — Rainy Day Parade
-Last played (UTC)         : 2026-02-02 02:16:32Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Sundazer, Adam Black — Edgerunner
+Last played (UTC)         : 2026-02-02 02:21:44Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Incubus — Love Hurts → Staind — Rainy Day Parade
-Δ last played (since last): 2026-02-02 01:37:20Z → 2026-02-02 02:16:32Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Staind — Rainy Day Parade → Sundazer, Adam Black — Edgerunner
+Δ last played (since last): 2026-02-02 02:16:32Z → 2026-02-02 02:21:44Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:41
-Telemetry age             : 00:02:41
-Δ time (since last report): 00:41:41
+Time since last play      : 01:47:45
+Telemetry age             : 01:47:45
+Δ time (since last report): 01:50:17
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
+Tracks played (last 24h)  : 11
 Dominant artist           : Alice In Chains
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-26 02:19:12Z → 2026-02-02 02:19:12Z
+Week window (UTC)         : 2026-01-26 04:09:28Z → 2026-02-02 04:09:28Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -894,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :              ▁        █▄
-Heatmap (7d)              : ▁        ▁█▃▁▄  ▅▁    ▅▂
+Heatmap (24h)             :              ▁        █▅
+Heatmap (7d)              : ▁        ▁█▃▁▄  ▄▁    ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:05:51
+Avg inter-play gap (7d)   : 02:05:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(7) | grunge(6) | alternative metal(2) | nu metal(2) | shoegaze(2) | alternative rock(1)
-Top genres (7d)           : shoegaze(26) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(3) | nu metal(2)
-Artist lookups (this run) : 2 (cached)
+Top genres (24h)          : post-grunge(7) | grunge(6) | shoegaze(3) | alternative metal(2) | nu metal(2) | alternative rock(1)
+Top genres (7d)           : shoegaze(27) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(3) | nu metal(2)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-02 02:19:12Z
+Report generated (UTC)    : 2026-02-02 04:09:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

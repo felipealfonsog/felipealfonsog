@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-02 02:19:12Z",
-  "status": "PLAYING",
-  "last_track": "Staind — Rainy Day Parade",
-  "last_played_utc": "2026-02-02 02:16:32Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-02-02 04:09:28Z",
+  "status": "IDLE",
+  "last_track": "Sundazer, Adam Black — Edgerunner",
+  "last_played_utc": "2026-02-02 02:21:44Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
