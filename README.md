@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:21:02
-Telemetry age             : 04:21:02
-Δ time (since last report): 02:32:52
+Time since last play      : 04:21:30
+Telemetry age             : 04:21:30
+Δ time (since last report): 00:00:29
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-26 06:42:45Z → 2026-02-02 06:42:45Z
+Week window (UTC)         : 2026-01-26 06:43:13Z → 2026-02-02 06:43:13Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : post-grunge(7) | grunge(6) | shoegaze(3) | alternati
 Top genres (7d)           : shoegaze(27) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(3) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-02 06:42:45Z
+Report generated (UTC)    : 2026-02-02 06:43:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
