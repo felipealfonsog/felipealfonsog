@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Incubus — Love Hurts
-Last played               : Incubus — Love Hurts
-Last played (UTC)         : 2026-02-02 01:37:20Z
+Now playing               : Sundazer, Adam Black — Edgerunner
+Last played               : Staind — Rainy Day Parade
+Last played (UTC)         : 2026-02-02 02:16:32Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Amira Elfeky — Coming Down → Incubus — Love Hurts
-Δ last played (since last): 2026-02-01 16:41:40Z → 2026-02-02 01:37:20Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Incubus — Love Hurts → Staind — Rainy Day Parade
+Δ last played (since last): 2026-02-02 01:37:20Z → 2026-02-02 02:16:32Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:13
-Telemetry age             : 00:00:13
-Δ time (since last report): 00:44:06
+Time since last play      : 00:02:41
+Telemetry age             : 00:02:41
+Δ time (since last report): 00:41:41
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,16 +877,16 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
-Dominant artist           : Incubus
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 10
+Dominant artist           : Alice In Chains
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-26 01:37:32Z → 2026-02-02 01:37:32Z
+Week window (UTC)         : 2026-01-26 02:19:12Z → 2026-02-02 02:19:12Z
 Total tracks played       : 50
-Dominant artist           : Jess Lai Mieritz
+Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :              ▄        █ 
-Heatmap (7d)              : ▁        ▁█▃▁▄ ▁█▁    ▂ 
+Heatmap (24h)             :              ▁        █▄
+Heatmap (7d)              : ▁        ▁█▃▁▄  ▅▁    ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:05:46
+Avg inter-play gap (7d)   : 02:05:51
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(2) | alternative metal(1) | alternative rock(1) | funk rock(1) | nu metal(1)
-Top genres (7d)           : shoegaze(26) | latin rock(5) | alternative metal(2) | progressive metal(2) | progressive rock(2) | alternative rock(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(7) | grunge(6) | alternative metal(2) | nu metal(2) | shoegaze(2) | alternative rock(1)
+Top genres (7d)           : shoegaze(26) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(3) | nu metal(2)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-02 01:37:32Z
+Report generated (UTC)    : 2026-02-02 02:19:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
