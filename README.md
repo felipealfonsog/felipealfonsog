@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Weichafe — Z
-Last played               : Citizen Audrey — Enigma of my State
-Last played (UTC)         : 2026-02-03 21:58:11Z
+Now playing               : Roxferry — Black Light Angel
+Last played               : Weichafe — Z
+Last played (UTC)         : 2026-02-03 22:19:05Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Citizen Audrey — Enigma of my State → Weichafe — Z
+Δ last played (since last): 2026-02-03 21:58:11Z → 2026-02-03 22:19:05Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:16:03
-Telemetry age             : 00:16:03
-Δ time (since last report): 00:06:08
+Time since last play      : 00:02:48
+Telemetry age             : 00:02:48
+Δ time (since last report): 00:07:40
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
-Dominant artist           : Citizen Audrey
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 10
+Dominant artist           : Weichafe
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 22:14:13Z → 2026-02-03 22:14:13Z
+Week window (UTC)         : 2026-01-27 22:21:53Z → 2026-02-03 22:21:53Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :          ▁        █     
-Heatmap (7d)              :          ▃█▄▁▆  ▅▁▇   ▅▄
+Heatmap (24h)             :          ▁        █▁    
+Heatmap (7d)              :          ▃█▅▁▇  ▆▁█▁  ▆▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:36:58
+Avg inter-play gap (7d)   : 02:37:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : metalcore(2) | shoegaze(2) | space rock(1) | stoner rock(1)
-Top genres (7d)           : shoegaze(26) | post-grunge(7) | grunge(6) | latin rock(3) | alternative metal(2) | metalcore(2)
+Top genres (24h)          : metalcore(2) | shoegaze(2) | latin rock(1) | space rock(1) | stoner rock(1)
+Top genres (7d)           : shoegaze(25) | post-grunge(7) | grunge(6) | latin rock(4) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 22:14:13Z
+Report generated (UTC)    : 2026-02-03 22:21:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
