@@ -31,19 +31,24 @@ jobs:
           GITHUB_USERNAME: felipealfonsog
           README_PATH: README.md
 
-          MAX_LATEST: "8"
-          MAX_RECENT: "10"
-          MAX_POPULAR: "10"
-          MAX_CURATED: "20"
+          # --- Section sizes (balanced) ---
+          MAX_LATEST: "6"
+          MAX_RECENT: "8"
+          MAX_POPULAR: "8"
+          MAX_CURATED: "40"
 
+          # --- Behavior toggles ---
           USE_PROJECT_PRIORITY: "false"
           DETAILS_OPEN: "true"
 
+          # --- Exclusions (JSON-based) ---
           EXCLUSIONS_ENABLED: "true"
           EXCLUSIONS_FILE: "config/exclusions.json"
 
+          # --- Safety ---
           FAIL_SOFT: "true"
 
+          # --- GitHub API ---
           PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
         run: |
           python scripts/update_projects.py
