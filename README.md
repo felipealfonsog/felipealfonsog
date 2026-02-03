@@ -859,13 +859,13 @@ Last played               : Morphide — Of Healing Part 5 - Acceptance (Follow 
 Last played (UTC)         : 2026-02-03 21:50:26Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : ASAVA — Canyon → Morphide — Of Healing Part 5 - Acceptance (Follow Me)
-Δ last played (since last): 2026-02-03 21:35:14Z → 2026-02-03 21:50:26Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:22
-Telemetry age             : 00:03:22
-Δ time (since last report): 00:14:33
+Time since last play      : 00:03:52
+Telemetry age             : 00:03:52
+Δ time (since last report): 00:00:30
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 21:53:48Z → 2026-02-03 21:53:48Z
+Week window (UTC)         : 2026-01-27 21:54:17Z → 2026-02-03 21:54:17Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : metalcore(2) | shoegaze(2)
 Top genres (7d)           : shoegaze(27) | post-grunge(7) | grunge(6) | latin rock(3) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 21:53:48Z
+Report generated (UTC)    : 2026-02-03 21:54:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
