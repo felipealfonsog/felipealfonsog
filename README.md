@@ -859,13 +859,13 @@ Last played               : Citizen Audrey — Enigma of my State
 Last played (UTC)         : 2026-02-03 21:58:11Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Stone Sea — Seeing Red → Citizen Audrey — Enigma of my State
-Δ last played (since last): 2026-02-03 21:55:00Z → 2026-02-03 21:58:11Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:09:09
-Telemetry age             : 00:09:09
-Δ time (since last report): 00:10:55
+Time since last play      : 00:09:56
+Telemetry age             : 00:09:56
+Δ time (since last report): 00:00:48
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 22:07:19Z → 2026-02-03 22:07:19Z
+Week window (UTC)         : 2026-01-27 22:08:06Z → 2026-02-03 22:08:06Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : metalcore(2) | shoegaze(2) | space rock(1) | stoner 
 Top genres (7d)           : shoegaze(26) | post-grunge(7) | grunge(6) | latin rock(3) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 22:07:19Z
+Report generated (UTC)    : 2026-02-03 22:08:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
