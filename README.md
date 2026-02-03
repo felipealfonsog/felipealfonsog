@@ -859,13 +859,13 @@ Last played               : Transmission Lost — Break
 Last played (UTC)         : 2026-02-03 21:28:34Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Doom Mutual — Copycat Machine → Transmission Lost — Break
-Δ last played (since last): 2026-02-03 12:57:47Z → 2026-02-03 21:28:34Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:12
-Telemetry age             : 00:05:12
-Δ time (since last report): 00:13:57
+Time since last play      : 00:06:19
+Telemetry age             : 00:06:19
+Δ time (since last report): 00:01:08
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 21:33:45Z → 2026-02-03 21:33:45Z
+Week window (UTC)         : 2026-01-27 21:34:53Z → 2026-02-03 21:34:53Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : shoegaze(2)
 Top genres (7d)           : shoegaze(28) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(2) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 21:33:45Z
+Report generated (UTC)    : 2026-02-03 21:34:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
