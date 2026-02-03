@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
+# Prevent concurrent runs (cron + manual) from racing
+concurrency:
+  group: update-project-portfolio
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -15,6 +20,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # important for rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -53,10 +60,14 @@ jobs:
         run: |
           python scripts/update_projects.py
 
-      - name: Commit changes (if any)
+      - name: Commit changes (safe rebase)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Sync with remote to avoid non-fast-forward errors
+          git fetch origin
+          git rebase origin/master || git rebase --abort
 
           if git diff --quiet; then
             echo "No changes detected. Skipping commit."
@@ -65,4 +76,4 @@ jobs:
 
           git add README.md config/exclusions.json
           git commit -m "chore: auto-update project portfolio"
-          git push
+          git push origin master
