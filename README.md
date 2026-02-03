@@ -2086,6 +2086,13 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
   - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses (***Private repository***).
 
+#
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
+#
+
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
 
 <!-- 
