@@ -2207,11 +2207,16 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [FeedHive](https://github.com/openvelora/FeedHive): It's very simple, it's a loader news or feednews, with the chance to make comments and put a finger up in a post.
   🧬 JavaScript · HTML · EJS
 
-<br>
+
 </details>
 <!-- PROJECTS:END -->
 
-<sub>*Exclusively curated repository storing papers authored by me.</sub>
+<sub>
+<strong>Note</strong> — This project portfolio is automatically curated through a custom Python-based classification system, orchestrated via GitHub Actions. 
+Repositories are continuously evaluated and organized based on real pinned selections, creation timelines, recent activity, popularity metrics, and curated relevance — ensuring the portfolio reflects both long-term focus and ongoing development beyond manually pinned projects.
+<br>
+All projects are distributed under their respective licenses as defined per repository (see LICENSE / NOTICE). Where applicable, reuse and redistribution require explicit attribution, including my name and my GitHub profile reference.
+</sub>
 
 [![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) 
 
