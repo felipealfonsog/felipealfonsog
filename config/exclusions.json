@@ -13,8 +13,9 @@
   "exclude_contains": [
     "udemy",
     "course",
-    "example",
-    "test"
+    "example"
   ],
-  "exclude_regex": []
+  "exclude_regex": [
+    "(^|[-_])test($|[-_])"
+  ]
 }
