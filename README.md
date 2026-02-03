@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Wayside — Peace & Quiet
-Last played               : Doom Mutual — Copycat Machine
-Last played (UTC)         : 2026-02-03 12:57:47Z
+Now playing               : ASAVA — Canyon
+Last played               : Transmission Lost — Break
+Last played (UTC)         : 2026-02-03 21:28:34Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Doom Mutual — Copycat Machine → Transmission Lost — Break
+Δ last played (since last): 2026-02-03 12:57:47Z → 2026-02-03 21:28:34Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 08:22:02
-Telemetry age             : 08:22:02
-Δ time (since last report): 02:42:08
+Time since last play      : 00:05:12
+Telemetry age             : 00:05:12
+Δ time (since last report): 00:13:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,40 +877,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Doom Mutual
+Tracks played (last 24h)  : 3
+Dominant artist           : Transmission Lost
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 21:19:49Z → 2026-02-03 21:19:49Z
+Week window (UTC)         : 2026-01-27 21:33:45Z → 2026-02-03 21:33:45Z
 Total tracks played       : 50
-Dominant artist           : Alice In Chains
+Dominant artist           : Wayside
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 09:00
+Peak hour (24h)           : 18:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :          █              
-Heatmap (7d)              : ▁        ▂█▃▁▄  ▄▁    ▅▂
+Heatmap (24h)             :          ▄        █     
+Heatmap (7d)              : ▁        ▂█▃▁▄  ▄▁▁   ▄▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : 2
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:47:37
+Avg inter-play gap (7d)   : 02:51:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(1)
+Top genres (24h)          : shoegaze(2)
 Top genres (7d)           : shoegaze(28) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(2) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 21:19:49Z
+Report generated (UTC)    : 2026-02-03 21:33:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
