@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-02-03 23:54:29Z",
+  "report_generated_utc": "2026-02-03 23:58:17Z",
   "status": "PLAYING",
-  "last_track": "DEADSIREN, msliterate — HAUNTED",
-  "last_played_utc": "2026-02-03 23:50:47Z",
+  "last_track": "Grimzlee — Damn, This Hurts",
+  "last_played_utc": "2026-02-03 23:57:19Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -302,6 +302,12 @@
       "latin indie",
       "latin alternative"
     ],
-    "6tZQIzF77kkI25EJxmO8K6": []
+    "6tZQIzF77kkI25EJxmO8K6": [],
+    "2cjwLVLbN1d5WaMZg5Em2g": [
+      "shoegaze"
+    ],
+    "4cQiVRDyg34QUEs9uFW6Sj": [
+      "shoegaze"
+    ]
   }
 }
