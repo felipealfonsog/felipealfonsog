@@ -2105,47 +2105,51 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 #
 
 <!-- PROJECTS:START -->
-<details>
+<details open>
 <summary id="projects">🔍 📁 <strong>Dive into More Featured and Diverse Projects</strong> 🚀✨</summary>
 <br>
 
 ### ⭐ Featured (Pinned)
 - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
   🧬 Python · Shell · C
+- [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
+  🧬 Python · Shell
 - [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
   🧬 C++ · Python · Makefile
 - [TermNotes](https://github.com/felipealfonsog/TermNotes): Term Notes is a simple command-line utility for creating and managing notes directly from your terminal.
   🧬 C · Shell · Ruby
-- [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
-  🧬 Python · Shell
+- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
+  🧬 JavaScript · CSS · Shell
+- [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
+  🧬 C · Shell · Nix
+
+### 🆕 Latest OSS Projects
+- [intelforge](https://github.com/felipealfonsog/intelforge): Defensive CTI pipeline built in Perl. IntelForge is a Perl-first, CLI-driven defensive cyber threat intelligence (CTI) pipeline that ingests public sources, extracts and normalizes indicators, applies lightweight rules and scoring, and produces auditable artifacts (JSONL + reports).
+  🧬 Makefile · Perl · Shell
+- [camviewer](https://github.com/felipealfonsog/camviewer): CamViewer is a simple web-based CCTV dashboard that allows you to stream multiple RTSP camera feeds through a clean HLS interface.
+  🧬 Shell · JavaScript · HTML
+- [ShadowScan](https://github.com/felipealfonsog/ShadowScan): ShadowScan is a security tool designed to scan files and system configurations for hidden backdoors, malicious scripts, and reverse shells on Linux and macOS.
+  🧬 Python
+- [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): A versatile tool for managing No-IP dynamic DNS updates and client operations.
+  🧬 Shell · Python · C
 - [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
   🧬 Python · Shell
-- [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
+- [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): An automated tool for reconnecting to WiFi networks using ConnMan. It ensures continuous internet connectivity by reconnecting to the last connected network or the next available one.
   🧬 Python · Shell
+- [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
+  🧬 Shell · C · Makefile
+- [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
+  🧬 Shell · Python · C
 
 ### 🕒 Recently Active Projects
 - [felipealfonsog](https://github.com/felipealfonsog/felipealfonsog): Journey through the cryptic corridors of code. Unravel the secrets encoded in the shadows. Welcome to the realm where algorithms whisper in binary tongues. Dare to explore, for within lies the essence of innovation.
   🧬 Python · JavaScript · Nix
 - [vizceral-netflix-implant](https://github.com/felipealfonsog/vizceral-netflix-implant): No description provided.
   🧬 JavaScript · CSS · HTML
-- [intelforge](https://github.com/felipealfonsog/intelforge): Defensive CTI pipeline built in Perl. IntelForge is a Perl-first, CLI-driven defensive cyber threat intelligence (CTI) pipeline that ingests public sources, extracts and normalizes indicators, applies lightweight rules and scoring, and produces auditable artifacts (JSONL + reports).
-  🧬 Makefile · Perl · Shell
-- [ShadowScan](https://github.com/felipealfonsog/ShadowScan): ShadowScan is a security tool designed to scan files and system configurations for hidden backdoors, malicious scripts, and reverse shells on Linux and macOS.
-  🧬 Python
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML
-- [camviewer](https://github.com/felipealfonsog/camviewer): CamViewer is a simple web-based CCTV dashboard that allows you to stream multiple RTSP camera feeds through a clean HLS interface.
-  🧬 Shell · JavaScript · HTML
-- [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
-  🧬 C · Shell · Nix
-- [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
-  🧬 Shell · Python · C
-- [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): An automated tool for reconnecting to WiFi networks using ConnMan. It ensures continuous internet connectivity by reconnecting to the last connected network or the next available one.
+- [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
   🧬 Python · Shell
-- [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
-  🧬 Shell · C · Makefile
-
-### 🧠 Curated Project Collection
 - [BashGuardian](https://github.com/felipealfonsog/BashGuardian): Bash script for backups/encrypted on Unix-like (Linux & macOS) systems.
   🧬 Shell · C
 - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
@@ -2154,18 +2158,36 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python
 - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
   🧬 JavaScript · HTML
-- [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): A versatile tool for managing No-IP dynamic DNS updates and client operations.
-  🧬 Shell · Python · C
 - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
   🧬 Python · Shell · Nix
+- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
+  🧬 JavaScript · CSS · Shell
+
+### 📈 Popular Projects (Stars + Forks)
+- [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
+  🧬 Hack · PHP · JavaScript
+- [C-VipNX](https://github.com/openvelora/C-VipNX): Shell Vip Utility written in C for *NX Systems. Simple: Vip shell to avoid usage of sudo
+  🧬 C · Shell
+- [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
+  🧬 COBOL
+- [Voicentia](https://github.com/openvelora/Voicentia): Nuclear and elemental way to develop AI through the web, by recognizing your speech.
+  🧬 JavaScript · CSS · HTML
+- [EventSphere](https://github.com/openvelora/EventSphere): Standard Web application for managing social events of all kind.
+  🧬 JavaScript · Pug · CSS
+- [.github](https://github.com/openvelora/.github): Nymex Data Research: Advancing Research & Development (R&D) and Engineering through state-of-the-art modeling and cutting-edge technologies.
+- [Restockify](https://github.com/openvelora/Restockify): Restockify+ is a feature-rich ReST API for NodeJS and MongoDB. Simplify inventory management and streamline stock tracking with ease.
+  🧬 JavaScript · CSS · HTML
+- [PerlMemoPad](https://github.com/openvelora/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
+  🧬 Perl · CSS
 - [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
   🧬 C · C++
 - [rtl-88x2bu](https://github.com/felipealfonsog/rtl-88x2bu): This repository contains the Linux driver for the Realtek RTL88x2BU WiFi USB chipset.
   🧬 C · Makefile · Roff
+
+### 🧠 Curated Project Collection
+- [.github](https://github.com/nicnacproject/.github): Offering free shell services since 2002, this non-profit project is devoted to promoting internet freedom and empowering users globally.
 - [felipealfonsog.github.io](https://github.com/felipealfonsog/felipealfonsog.github.io): Nestled within the code's embrace lies the gateway to @felipealfonsog's GitHub main page hosting.
   🧬 HTML
-- [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
-  🧬 COBOL
 - [MatrixCodeGrid](https://github.com/felipealfonsog/MatrixCodeGrid): Matrix Effect in your shell: "MatrixCodeGrid" recreates the falling lines from the movie "The Matrix" in your Linux or macOS shell.
   🧬 C · Shell
 - [TermLock](https://github.com/felipealfonsog/TermLock): The project is a Bash script for managing system actions on Arch Linux, offering options for suspension, screen locking using various methods, and system shutdown. Users can choose their preferred action through a simple command-line interface.
@@ -2174,27 +2196,31 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 PHP
 - [RescuePaw](https://github.com/felipealfonsog/RescuePaw): Application is designed to help animal rescuer find the nearest qualified help for the injured animal.
   🧬 JavaScript · CSS · HTML
+- [FeedHive](https://github.com/openvelora/FeedHive): It's very simple, it's a loader news or feednews, with the chance to make comments and put a finger up in a post.
+  🧬 JavaScript · HTML · EJS
+- [vizceral-netflix-implant](https://github.com/openvelora/vizceral-netflix-implant): No description provided.
+  🧬 JavaScript · CSS · HTML
 
 ### 🔒 Selected Private Projects
-- **CoolTrixJS**: CoolTrixJS is a simple and addictive open-source JavaScript mini-project that introduces a points-based game, inspired by the classic Tetris.
+- [CoolTrixJS](https://github.com/felipealfonsog/CoolTrixJS): CoolTrixJS is a simple and addictive open-source JavaScript mini-project that introduces a points-based game, inspired by the classic Tetris.
   🧬 JavaScript · CSS · HTML
-- **OrbitVista**: OrbitVista: Your cosmic guide to real-time insights on the Voyager probes. Explore the far reaches of our solar system as OrbitVista provides dynamic updates and key data points from the iconic Voyager spacecraft, offering a captivating journey through space exploration.
+- [OrbitVista](https://github.com/felipealfonsog/OrbitVista): OrbitVista: Your cosmic guide to real-time insights on the Voyager probes. Explore the far reaches of our solar system as OrbitVista provides dynamic updates and key data points from the iconic Voyager spacecraft, offering a captivating journey through space exploration.
   🧬 JavaScript
-- **GitifyBadge**: GitifyBadge: A custom badge displaying GitHub profile details, powered by JavaScript. Showcase your professional presence on the leading platform for developers.
+- [GitifyBadge](https://github.com/felipealfonsog/GitifyBadge): GitifyBadge: A custom badge displaying GitHub profile details, powered by JavaScript. Showcase your professional presence on the leading platform for developers.
   🧬 JavaScript · CSS · HTML
-- **Trash-Trunk**: Trash-Trunk: dispose of digital debris
+- [Trash-Trunk](https://github.com/felipealfonsog/Trash-Trunk): Trash-Trunk: dispose of digital debris
   🧬 Python · Dockerfile
-- **TwiPyBot**: A Twitter bot written in Python using Tweepy and hosted on a server. It will like and/or retweet tweets that contain single or multiple keywords and hashtags.
+- [TwiPyBot](https://github.com/felipealfonsog/TwiPyBot): A Twitter bot written in Python using Tweepy and hosted on a server. It will like and/or retweet tweets that contain single or multiple keywords and hashtags.
   🧬 Python
-- **javascript-essentials**: javascript-essentials course test files
+- [javascript-essentials](https://github.com/felipealfonsog/javascript-essentials): javascript-essentials course test files
   🧬 JavaScript
-- **HTML5CSS3**: Testing files - courses Udemy
+- [HTML5CSS3](https://github.com/felipealfonsog/HTML5CSS3): Testing files - courses Udemy
   🧬 HTML · CSS
-- **fp-js.es6**: Functional Programming / ES6 exercises
+- [fp-js.es6](https://github.com/felipealfonsog/fp-js.es6): Functional Programming / ES6 exercises
   🧬 JavaScript
-- **Trash-Trunk**: Trash-Trunk: dispose of digital debris
+- [Trash-Trunk](https://github.com/openvelora/Trash-Trunk): Trash-Trunk: dispose of digital debris
   🧬 Python
-- **maintainers**: The Maintainer Community is a private space for maintainers to connect with peers, preview GitHub features, and help us support the open source community.
+- [maintainers](https://github.com/community/maintainers): The Maintainer Community is a private space for maintainers to connect with peers, preview GitHub features, and help us support the open source community.
 
 <br>
 </details>
