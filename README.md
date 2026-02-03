@@ -2207,13 +2207,16 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [FeedHive](https://github.com/openvelora/FeedHive): It's very simple, it's a loader news or feednews, with the chance to make comments and put a finger up in a post.
   🧬 JavaScript · HTML · EJS
 
-<br>
 </details>
 <!-- PROJECTS:END -->
 
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
 
-[![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) [![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
+[![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) 
+
+<!--
+[![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
+-->
 
 #
 
