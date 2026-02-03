@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : msliterate — hypoxia
-Last played               : Tatiana Hazel — Floodgate
-Last played (UTC)         : 2026-02-03 23:39:24Z
+Now playing               : never easy — drown
+Last played               : msliterate — hypoxia
+Last played (UTC)         : 2026-02-03 23:45:05Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Tatiana Hazel — Floodgate → msliterate — hypoxia
+Δ last played (since last): 2026-02-03 23:39:24Z → 2026-02-03 23:45:05Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:43
-Telemetry age             : 00:02:43
-Δ time (since last report): 00:02:24
+Time since last play      : 00:01:26
+Telemetry age             : 00:01:26
+Δ time (since last report): 00:04:25
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 32
+Tracks played (last 24h)  : 33
 Dominant artist           : Amira Elfeky
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 23:42:06Z → 2026-02-03 23:42:06Z
+Week window (UTC)         : 2026-01-27 23:46:31Z → 2026-02-03 23:46:31Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -895,14 +895,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
 Heatmap (24h)             :          ▁        ▅▆█   
-Heatmap (7d)              :          ▁▄▁ ▁    ▅▆█ ▄▂
+Heatmap (7d)              :          ▁▃▁ ▁    ▅▆█ ▃▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:40:46
+Avg inter-play gap (7d)   : 01:40:48
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -910,7 +910,7 @@ Top genres (24h)          : shoegaze(17) | latin alternative(2) | latin indie(2)
 Top genres (7d)           : shoegaze(25) | post-grunge(7) | grunge(6) | alternative metal(2) | latin alternative(2) | latin indie(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 23:42:06Z
+Report generated (UTC)    : 2026-02-03 23:46:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
