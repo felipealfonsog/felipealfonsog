@@ -2213,7 +2213,9 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
 
-[![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) ![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) [![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
+[![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) [![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
+
+#
 
 
 <!-- 
