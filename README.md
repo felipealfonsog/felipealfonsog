@@ -858,13 +858,13 @@ Last played               : Doom Mutual — Copycat Machine
 Last played (UTC)         : 2026-02-03 12:57:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Sundazer, Adam Black — Edgerunner → Doom Mutual — Copycat Machine
-Δ last played (since last): 2026-02-02 02:21:44Z → 2026-02-03 12:57:47Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:38:31
-Telemetry age             : 02:38:31
-Δ time (since last report): 02:59:16
+Time since last play      : 02:39:51
+Telemetry age             : 02:39:51
+Δ time (since last report): 00:01:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 15:36:18Z → 2026-02-03 15:36:18Z
+Week window (UTC)         : 2026-01-27 15:37:37Z → 2026-02-03 15:37:37Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(1)
 Top genres (7d)           : shoegaze(28) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(2) | nu metal(2)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 15:36:18Z
+Report generated (UTC)    : 2026-02-03 15:37:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
