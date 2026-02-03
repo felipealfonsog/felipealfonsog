@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Roxferry — Black Light Angel
+Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
 Last played               : Weichafe — Z
 Last played (UTC)         : 2026-02-03 22:19:05Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Citizen Audrey — Enigma of my State → Weichafe — Z
-Δ last played (since last): 2026-02-03 21:58:11Z → 2026-02-03 22:19:05Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:48
-Telemetry age             : 00:02:48
-Δ time (since last report): 00:07:40
+Time since last play      : 00:04:59
+Telemetry age             : 00:04:59
+Δ time (since last report): 00:02:11
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 22:21:53Z → 2026-02-03 22:21:53Z
+Week window (UTC)         : 2026-01-27 22:24:04Z → 2026-02-03 22:24:04Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : metalcore(2) | shoegaze(2) | latin rock(1) | space r
 Top genres (7d)           : shoegaze(25) | post-grunge(7) | grunge(6) | latin rock(4) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 22:21:53Z
+Report generated (UTC)    : 2026-02-03 22:24:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
