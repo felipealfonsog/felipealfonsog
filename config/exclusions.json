@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "exclude_exact": [
+    "felipealfonsog"
+  ],
+  "exclude_prefixes": [
+    ".github"
+  ],
+  "exclude_contains": [
+    "udemy",
+    "course",
+    "example",
+    "test"
+  ],
+  "exclude_regex": []
+}
