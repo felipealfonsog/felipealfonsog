@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Dos-Ovni — Big Rock
-Last played               : ASAVA — Canyon
-Last played (UTC)         : 2026-02-03 21:35:14Z
+Now playing               : Amira Elfeky — Coming Down
+Last played               : msliterate — fame
+Last played (UTC)         : 2026-02-03 23:10:41Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : cloudyfield — crawl → msliterate — fame
+Δ last played (since last): 2026-02-03 23:04:37Z → 2026-02-03 23:10:41Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:01
-Telemetry age             : 00:04:01
-Δ time (since last report): 00:00:52
+Time since last play      : 00:00:32
+Telemetry age             : 00:00:32
+Δ time (since last report): 00:05:05
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,40 +877,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : ASAVA
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 23
+Dominant artist           : Amira Elfeky
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 21:39:15Z → 2026-02-03 21:39:15Z
+Week window (UTC)         : 2026-01-27 23:11:13Z → 2026-02-03 23:11:13Z
 Total tracks played       : 50
-Dominant artist           : Wayside
+Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
-Peak hour (7d)            : 10:00
-Heatmap (24h)             :          ▃        █     
-Heatmap (7d)              : ▁        ▂█▃▁▄  ▄▁▂   ▄▂
+Peak hour (24h)           : 19:00
+Peak hour (7d)            : 19:00
+Heatmap (24h)             :          ▁        ▆█▃   
+Heatmap (7d)              :          ▂▅▁ ▁  ▅▁▆█▃ ▅▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:49:09
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 02:32:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(2)
-Top genres (7d)           : shoegaze(28) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(2) | nu metal(2)
+Top genres (24h)          : shoegaze(12) | metalcore(2) | latin rock(1) | space rock(1) | stoner rock(1)
+Top genres (7d)           : shoegaze(22) | post-grunge(7) | grunge(6) | latin rock(4) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 21:39:15Z
+Report generated (UTC)    : 2026-02-03 23:11:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1314,7 +1314,7 @@ Writing Docs   56 mins        ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 03/02/2026 21:16:39 UTC
+Last updated     : 03/02/2026 22:13:57 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2056,6 +2056,9 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 </details>
 
+#
+
+<!-- 
 <details>
 <summary id="projects">🔍 :file_folder: <strong>Dive into More Featured and Diverse Projects</strong> :rocket::star2:...</summary>
 <br>
@@ -2086,22 +2089,139 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
   - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses (***Private repository***).
 
-#
+<sub>*Exclusively curated repository storing papers authored by me.</sub>
+
+
+<br>
+</details>
+-->
+<!-- 
+
+  - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
+
+-->
+
+<!-- 
+
+ ___                     ___                                         .-.            ___                                                                          ___                  
+(   )  .-.              (   )                                       /    \    .-.  (   )                                                                        (   )                 
+ | |  ( __)     .--.     | |_          .-..    ___ .-.      .--.    | .`. ;  ( __)  | |    .--.        .-..    ___ .-.      .--.        .-.    .--.     .--.     | |_         .--.    
+ | |  (''")   /  _  \   (   __)       /    \  (   )   \    /    \   | |(___) (''")  | |   /    \      /    \  (   )   \    /    \      ( __)  /    \   /    \   (   __)     /  _  \   
+ | |   | |   . .' `. ;   | |         ' .-,  ;  | ' .-. ;  |  .-. ;  | |_      | |   | |  |  .-. ;    ' .-,  ;  | ' .-. ;  |  .-. ;     (''") |  .-. ; |  .-. ;   | |       . .' `. ;  
+ | |   | |   | '   | |   | | ___     | |  . |  |  / (___) | |  | | (   __)    | |   | |  |  | | |    | |  . |  |  / (___) | |  | |      | |  |  | | | |  |(___)  | | ___   | '   | |  
+ | |   | |   _\_`.(___)  | |(   )    | |  | |  | |        | |  | |  | |       | |   | |  |  |/  |    | |  | |  | |        | |  | |      | |  |  |/  | |  |       | |(   )  _\_`.(___) 
+ | |   | |  (   ). '.    | | | |     | |  | |  | |        | |  | |  | |       | |   | |  |  ' _.'    | |  | |  | |        | |  | |      | |  |  ' _.' |  | ___   | | | |  (   ). '.   
+ | |   | |   | |  `\ |   | ' | |     | |  ' |  | |        | '  | |  | |       | |   | |  |  .'.-.    | |  ' |  | |        | '  | |      | |  |  .'.-. |  '(   )  | ' | |   | |  `\ |  
+ | |   | |   ; '._,' '   ' `-' ;     | `-'  '  | |        '  `-' /  | |       | |   | |  '  `-' /    | `-'  '  | |        '  `-' /  ___ | |  '  `-' / '  `-' |   ' `-' ;   ; '._,' '  
+(___) (___)   '.___.'     `.__.      | \__.'  (___)        `.__.'  (___)     (___) (___)  `.__.'     | \__.'  (___)        `.__.'  (   )' |   `.__.'   `.__,'     `.__.     '.___.'   
+                                     | |                                                             | |                            ; `-' '                                           
+                                    (___)                                                           (___)                            .__.'                                            
+
+
+
+-->
+
 
 <!-- PROJECTS:START -->
+<details open>
+<summary id="projects">🔍 📁 <strong>Dive into More Featured and Diverse Projects</strong> 🚀✨</summary>
+<br>
+
+### ⭐ Featured (Pinned)
+- [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+  🧬 Python · Shell · C
+- [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
+  🧬 Python · Shell
+- [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
+  🧬 C++ · Python · Makefile
+- [TermNotes](https://github.com/felipealfonsog/TermNotes): Term Notes is a simple command-line utility for creating and managing notes directly from your terminal.
+  🧬 C · Shell · Ruby
+- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
+  🧬 JavaScript · CSS · Shell
+- [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
+  🧬 C · Shell · Nix
+
+### 🆕 Latest OSS Projects
+- [intelforge](https://github.com/felipealfonsog/intelforge): Defensive CTI pipeline built in Perl. IntelForge is a Perl-first, CLI-driven defensive cyber threat intelligence (CTI) pipeline that ingests public sources, extracts and normalizes indicators, applies lightweight rules and scoring, and produces auditable artifacts (JSONL + reports).
+  🧬 Makefile · Perl · Shell
+- [camviewer](https://github.com/felipealfonsog/camviewer): CamViewer is a simple web-based CCTV dashboard that allows you to stream multiple RTSP camera feeds through a clean HLS interface.
+  🧬 Shell · JavaScript · HTML
+- [ShadowScan](https://github.com/felipealfonsog/ShadowScan): ShadowScan is a security tool designed to scan files and system configurations for hidden backdoors, malicious scripts, and reverse shells on Linux and macOS.
+  🧬 Python
+- [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): A versatile tool for managing No-IP dynamic DNS updates and client operations.
+  🧬 Shell · Python · C
+- [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
+  🧬 Python · Shell
+- [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): An automated tool for reconnecting to WiFi networks using ConnMan. It ensures continuous internet connectivity by reconnecting to the last connected network or the next available one.
+  🧬 Python · Shell
+- [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
+  🧬 Shell · C · Makefile
+- [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
+  🧬 Shell · Python · C
+
+### 🕒 Recently Active Projects
+- [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
+  🧬 Python · HTML
+- [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
+  🧬 Python · Shell
+- [BashGuardian](https://github.com/felipealfonsog/BashGuardian): Bash script for backups/encrypted on Unix-like (Linux & macOS) systems.
+  🧬 Shell · C
+- [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
+  🧬 Shell · Python
+- [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
+  🧬 Python
+- [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
+  🧬 JavaScript · HTML
+- [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
+  🧬 Python · Shell · Nix
+- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
+  🧬 JavaScript · CSS · Shell
+- [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
+  🧬 Hack · PHP · JavaScript
+- [Restockify](https://github.com/openvelora/Restockify): Restockify+ is a feature-rich ReST API for NodeJS and MongoDB. Simplify inventory management and streamline stock tracking with ease.
+  🧬 JavaScript · CSS · HTML
+
+### 📈 Popular Projects (Stars + Forks)
+- [C-VipNX](https://github.com/openvelora/C-VipNX): Shell Vip Utility written in C for *NX Systems. Simple: Vip shell to avoid usage of sudo
+  🧬 C · Shell
+- [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
+  🧬 COBOL
+- [EventSphere](https://github.com/openvelora/EventSphere): Standard Web application for managing social events of all kind.
+  🧬 JavaScript · Pug · CSS
+- [PerlMemoPad](https://github.com/openvelora/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
+  🧬 Perl · CSS
+- [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
+  🧬 C · C++
+- [rtl-88x2bu](https://github.com/felipealfonsog/rtl-88x2bu): This repository contains the Linux driver for the Realtek RTL88x2BU WiFi USB chipset.
+  🧬 C · Makefile · Roff
+- [MatrixCodeGrid](https://github.com/felipealfonsog/MatrixCodeGrid): Matrix Effect in your shell: "MatrixCodeGrid" recreates the falling lines from the movie "The Matrix" in your Linux or macOS shell.
+  🧬 C · Shell
+- [TermLock](https://github.com/felipealfonsog/TermLock): The project is a Bash script for managing system actions on Arch Linux, offering options for suspension, screen locking using various methods, and system shutdown. Users can choose their preferred action through a simple command-line interface.
+  🧬 Shell
+- [HoraFinderCL](https://github.com/felipealfonsog/HoraFinderCL): Próxima hora en Registro Civil (CL) Busca la próxima hora disponible en oficinas del Registro Civil para renovar el carnet de identidad para chilenos, dentro de la Región Metropolitana.
+  🧬 PHP
+- [RescuePaw](https://github.com/felipealfonsog/RescuePaw): Application is designed to help animal rescuer find the nearest qualified help for the injured animal.
+  🧬 JavaScript · CSS · HTML
+
+### 🧠 Curated Project Collection
+- [FeedHive](https://github.com/openvelora/FeedHive): It's very simple, it's a loader news or feednews, with the chance to make comments and put a finger up in a post.
+  🧬 JavaScript · HTML · EJS
+
+<br>
+</details>
 <!-- PROJECTS:END -->
 
-#
-
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
+
+[![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) ![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) [![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
+
 
 <!-- 
 
   - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
 
 -->
-<br>
-</details>
+
 
 
 #### Latest Repository Update/Commit | Profile Views:
