@@ -1,12 +1,10 @@
 {
   "enabled": true,
   "exclude_exact": [
-    "felipealfonsog".
-    "vizceral-netflix-implant".
-    "Voicentia".
-    "felipealfonsog.github.io".
-    "felipealfonsog"
-    
+    "felipealfonsog",
+    "vizceral-netflix-implant",
+    "Voicentia",
+    "felipealfonsog.github.io"
   ],
   "exclude_prefixes": [
     ".github",
