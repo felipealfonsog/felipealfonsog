@@ -2056,6 +2056,9 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 </details>
 
+#
+
+<!-- 
 <details>
 <summary id="projects">🔍 :file_folder: <strong>Dive into More Featured and Diverse Projects</strong> :rocket::star2:...</summary>
 <br>
@@ -2086,10 +2089,23 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
   - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses (***Private repository***).
 
+<sub>*Exclusively curated repository storing papers authored by me.</sub>
+
+
+<br>
+</details>
+-->
+<!-- 
+
+  - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
+
+-->
+
+
 #
 
 <!-- PROJECTS:START -->
-<details>
+<details open>
 <summary id="projects">🔍 📁 <strong>Dive into More Featured and Diverse Projects</strong> 🚀✨</summary>
 <br>
 
@@ -2203,7 +2219,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 -->
 <br>
-</details>
+
 
 
 #### Latest Repository Update/Commit | Profile Views:
