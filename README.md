@@ -2089,6 +2089,24 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 #
 
 <!-- PROJECTS:START -->
+<details>
+<summary id="projects">🔍 :file_folder: <strong>Dive into More Featured and Diverse Projects</strong> :rocket::star2:...</summary>
+<br>
+
+
+### ⭐ Featured (Pinned)
+  - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+  - [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
+  - [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
+  - [TermNotes](https://github.com/felipealfonsog/TermNotes): Term Notes is a simple command-line utility for creating and managing notes directly from your terminal.
+  - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
+  - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
+
+### 📦 More Projects (topic: project)
+  - (No repositories found with this topic yet.)
+
+<br>
+</details>
 <!-- PROJECTS:END -->
 
 #
