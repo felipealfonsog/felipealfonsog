@@ -3,190 +3,193 @@ import os
 import re
 import requests
 
+# ---------------- CONFIG ----------------
+
 USERNAME = os.getenv("GITHUB_USERNAME", "felipealfonsog")
 README_PATH = os.getenv("README_PATH", "README.md")
 
-TOPIC = os.getenv("FILTER_TOPIC", "project").strip()
-MAX_TOPIC_REPOS = int(os.getenv("MAX_TOPIC_REPOS", "60"))
-INCLUDE_ARCHIVED = os.getenv("INCLUDE_ARCHIVED", "false").lower() == "true"
-INCLUDE_FORKS = os.getenv("INCLUDE_FORKS", "false").lower() == "true"
+MAX_RECENT = int(os.getenv("MAX_RECENT", "10"))
+MAX_CURATED = int(os.getenv("MAX_CURATED", "25"))
+MAX_PRIVATE = int(os.getenv("MAX_PRIVATE", "4"))
 
-TOKEN = os.getenv("GITHUB_TOKEN", "")
+USE_PROJECT_PRIORITY = os.getenv("USE_PROJECT_PRIORITY", "false").lower() == "true"
+
+TOKEN = os.getenv("GITHUB_TOKEN")
 if not TOKEN:
-    raise SystemExit("Missing GITHUB_TOKEN (Actions provides secrets.GITHUB_TOKEN by default).")
+    raise SystemExit("GITHUB_TOKEN is required")
 
+API = "https://api.github.com"
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
     "Accept": "application/vnd.github+json",
 }
 
-GRAPHQL_URL = "https://api.github.com/graphql"
+# ---------------- HELPERS ----------------
 
-DETAILS_SUMMARY = (
-    '<details>\n'
-    '<summary id="projects">🔍 :file_folder: <strong>Dive into More Featured and Diverse Projects</strong> :rocket::star2:...</summary>\n'
-    "<br>\n\n"
-)
+def get_languages(repo):
+    r = requests.get(repo["languages_url"], headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    langs = r.json()
+    if not langs:
+        return ""
+    top = sorted(langs.items(), key=lambda x: x[1], reverse=True)[:3]
+    return " · ".join(lang for lang, _ in top)
 
-DETAILS_FOOTER = "\n<br>\n</details>"
 
-def gql(query: str, variables: dict):
-    r = requests.post(
-        GRAPHQL_URL,
-        headers={**HEADERS, "Accept": "application/vnd.github+json"},
-        json={"query": query, "variables": variables},
+def md_public(repo):
+    desc = (repo.get("description") or "No description provided.").replace("\n", " ").strip()
+    line = f"- [{repo['name']}]({repo['html_url']}): {desc}"
+    langs = get_languages(repo)
+    if langs:
+        line += f"\n  🧬 {langs}"
+    return line
+
+
+def md_private(repo):
+    desc = (repo.get("description") or "Private project.").replace("\n", " ").strip()
+    line = f"- **{repo['name']}**: {desc}"
+    langs = get_languages(repo)
+    if langs:
+        line += f"\n  🧬 {langs}"
+    return line
+
+
+def priority_score(repo):
+    """
+    Heuristic score for 'project importance'
+    Used only when USE_PROJECT_PRIORITY = true
+    """
+    score = 0
+    if repo.get("description"):
+        score += 3
+    if repo.get("languages_url"):
+        score += 2
+    if repo.get("updated_at"):
+        score += 1
+    return score
+
+
+# ---------------- DATA ----------------
+
+def fetch_all_repos():
+    repos = []
+    page = 1
+    while True:
+        r = requests.get(
+            f"{API}/user/repos",
+            headers=HEADERS,
+            params={"per_page": 100, "page": page},
+            timeout=30,
+        )
+        r.raise_for_status()
+        batch = r.json()
+        if not batch:
+            break
+        repos.extend(batch)
+        page += 1
+    return repos
+
+
+def fetch_pinned():
+    r = requests.get(
+        f"{API}/users/{USERNAME}/repos",
+        headers=HEADERS,
+        params={"per_page": 100, "sort": "pushed"},
         timeout=30,
     )
     r.raise_for_status()
-    data = r.json()
-    if "errors" in data:
-        raise RuntimeError(f"GraphQL errors: {data['errors']}")
-    return data["data"]
+    # GitHub REST does not expose pinned directly;
+    # pinned repos will already be in profile highlights,
+    # so we infer pinned manually by stars + activity
+    repos = [x for x in r.json() if not x["private"] and not x["fork"] and not x["archived"]]
+    repos.sort(key=lambda x: (x["stargazers_count"], x["updated_at"]), reverse=True)
+    return repos[:6]
 
-def fetch_pinned():
-    query = """
-    query($login: String!) {
-      user(login: $login) {
-        pinnedItems(first: 6, types: [REPOSITORY]) {
-          nodes {
-            ... on Repository {
-              name
-              url
-              description
-              isPrivate
-              isFork
-              isArchived
-              updatedAt
-            }
-          }
-        }
-      }
-    }
-    """
-    data = gql(query, {"login": USERNAME})
-    nodes = data["user"]["pinnedItems"]["nodes"] or []
-    repos = []
-    for n in nodes:
-        if not n:
-            continue
-        if n.get("isPrivate"):
-            continue
-        if not INCLUDE_FORKS and n.get("isFork"):
-            continue
-        if not INCLUDE_ARCHIVED and n.get("isArchived"):
-            continue
-        repos.append(n)
-    return repos
 
-def fetch_topic_projects(exclude_names: set):
-    query = """
-    query($q: String!, $first: Int!, $after: String) {
-      search(query: $q, type: REPOSITORY, first: $first, after: $after) {
-        pageInfo { hasNextPage endCursor }
-        nodes {
-          ... on Repository {
-            name
-            url
-            description
-            isPrivate
-            isFork
-            isArchived
-            updatedAt
-            owner { login }
-          }
-        }
-      }
-    }
-    """
+# ---------------- BUILD BLOCK ----------------
 
-    # Orden: GitHub search suele priorizar relevancia; nosotros ordenamos por updatedAt en Python.
-    q = f"user:{USERNAME} topic:{TOPIC} is:public"
-    if not INCLUDE_FORKS:
-        q += " fork:false"
-    if not INCLUDE_ARCHIVED:
-        q += " archived:false"
+def build_block(pinned, recent, curated, private):
+    out = []
+    out.append("<details>")
+    out.append(
+        '<summary id="projects">🔍 📁 <strong>Dive into More Featured and Diverse Projects</strong> 🚀✨</summary>\n<br>\n'
+    )
 
-    repos = []
-    after = None
-    page_size = 50
+    out.append("### ⭐ Featured (Pinned)")
+    for r in pinned:
+        out.append(md_public(r))
+    out.append("")
 
-    while len(repos) < MAX_TOPIC_REPOS:
-        data = gql(query, {"q": q, "first": page_size, "after": after})
-        search = data["search"]
-        nodes = search["nodes"] or []
-        for n in nodes:
-            if not n:
-                continue
-            if n.get("isPrivate"):
-                continue
-            if n.get("owner", {}).get("login") != USERNAME:
-                continue
-            name = n.get("name")
-            if name in exclude_names:
-                continue
-            repos.append(n)
-            if len(repos) >= MAX_TOPIC_REPOS:
-                break
+    out.append("### 🕒 Recently Active Projects")
+    for r in recent:
+        out.append(md_public(r))
+    out.append("")
 
-        if not search["pageInfo"]["hasNextPage"]:
-            break
-        after = search["pageInfo"]["endCursor"]
+    out.append("### 🧠 Curated Project Collection")
+    for r in curated:
+        out.append(md_public(r))
+    out.append("")
 
-    repos.sort(key=lambda x: x.get("updatedAt") or "", reverse=True)
-    return repos
+    if private:
+        out.append("### 🔒 Selected Private Projects")
+        for r in private:
+            out.append(md_private(r))
+        out.append("")
 
-def md_line(name, url, desc):
-    desc = (desc or "").strip().replace("\n", " ").replace("\r", " ")
-    if not desc:
-        desc = "No description provided yet."
-    return f"  - [{name}]({url}): {desc}"
+    out.append("<br>\n</details>")
+    return "\n".join(out)
 
-def build_block(pinned, projects):
-    lines = []
-    lines.append(DETAILS_SUMMARY)
 
-    if pinned:
-        lines.append("### ⭐ Featured (Pinned)")
-        for r in pinned:
-            lines.append(md_line(r["name"], r["url"], r.get("description")))
-        lines.append("")
-
-    lines.append(f"### 📦 More Projects (topic: {TOPIC})")
-    if projects:
-        for r in projects:
-            lines.append(md_line(r["name"], r["url"], r.get("description")))
-    else:
-        lines.append("  - (No repositories found with this topic yet.)")
-
-    lines.append(DETAILS_FOOTER)
-    return "\n".join(lines)
-
-def replace_in_readme(text, new_block):
-    pattern = r"<!-- PROJECTS:START -->(.*?)<!-- PROJECTS:END -->"
-    if not re.search(pattern, text, flags=re.DOTALL):
-        raise RuntimeError("Markers not found. Add <!-- PROJECTS:START --> and <!-- PROJECTS:END --> to README.md")
-    replacement = f"<!-- PROJECTS:START -->\n{new_block}\n<!-- PROJECTS:END -->"
-    return re.sub(pattern, replacement, text, flags=re.DOTALL)
+# ---------------- MAIN ----------------
 
 def main():
+    all_repos = fetch_all_repos()
+
+    public = [
+        r for r in all_repos
+        if not r["private"] and not r["fork"] and not r["archived"]
+    ]
+
+    private = [
+        r for r in all_repos
+        if r["private"] and not r["fork"] and not r["archived"] and r.get("description")
+    ]
+
+    if USE_PROJECT_PRIORITY:
+        public.sort(key=priority_score, reverse=True)
+        private.sort(key=priority_score, reverse=True)
+    else:
+        public.sort(key=lambda x: x["updated_at"], reverse=True)
+        private.sort(key=lambda x: x["updated_at"], reverse=True)
+
     pinned = fetch_pinned()
     pinned_names = {r["name"] for r in pinned}
 
-    projects = fetch_topic_projects(exclude_names=pinned_names)
+    public_rest = [r for r in public if r["name"] not in pinned_names]
 
-    new_block = build_block(pinned, projects)
+    recent = public_rest[:MAX_RECENT]
+    curated = public_rest[MAX_RECENT:MAX_RECENT + MAX_CURATED]
+    private = private[:MAX_PRIVATE]
+
+    block = build_block(pinned, recent, curated, private)
 
     with open(README_PATH, "r", encoding="utf-8") as f:
-        readme = f.read()
+        content = f.read()
 
-    updated = replace_in_readme(readme, new_block)
+    updated = re.sub(
+        r"<!-- PROJECTS:START -->(.*?)<!-- PROJECTS:END -->",
+        f"<!-- PROJECTS:START -->\n{block}\n<!-- PROJECTS:END -->",
+        content,
+        flags=re.S,
+    )
 
-    if updated != readme:
+    if updated != content:
         with open(README_PATH, "w", encoding="utf-8") as f:
             f.write(updated)
         print("README updated.")
     else:
         print("No changes.")
+
 
 if __name__ == "__main__":
     main()
