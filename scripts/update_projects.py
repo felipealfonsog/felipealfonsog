@@ -2,6 +2,7 @@
 import os
 import re
 import json
+import time
 import requests
 
 USERNAME = os.getenv("GITHUB_USERNAME", "felipealfonsog")
@@ -18,6 +19,9 @@ DETAILS_OPEN = os.getenv("DETAILS_OPEN", "true").lower() == "true"
 EXCLUSIONS_ENABLED = os.getenv("EXCLUSIONS_ENABLED", "true").lower() == "true"
 EXCLUSIONS_FILE = os.getenv("EXCLUSIONS_FILE", "config/exclusions.json")
 
+# Fail-soft behavior: if GitHub API/network errors happen, exit 0 and keep last known good README
+FAIL_SOFT = os.getenv("FAIL_SOFT", "true").lower() == "true"
+
 PORTFOLIO_TOKEN = os.getenv("PORTFOLIO_TOKEN", "").strip()
 if not PORTFOLIO_TOKEN:
     raise SystemExit("PORTFOLIO_TOKEN is required (GraphQL pinnedItems + API).")
@@ -30,11 +34,36 @@ HEADERS_AUTH = {
     "Authorization": f"Bearer {PORTFOLIO_TOKEN}",
 }
 
+# ----------------- HTTP helpers (retries) -----------------
+
+def http_get(url, params=None, timeout=30, retries=3, backoff=1.2):
+    last_exc = None
+    for i in range(retries):
+        try:
+            r = requests.get(url, headers=HEADERS_AUTH, params=params or {}, timeout=timeout)
+            return r
+        except requests.exceptions.RequestException as e:
+            last_exc = e
+            time.sleep(backoff ** i)
+    raise last_exc  # type: ignore
+
+def http_post(url, payload, timeout=30, retries=3, backoff=1.2):
+    last_exc = None
+    for i in range(retries):
+        try:
+            r = requests.post(url, headers=HEADERS_AUTH, json=payload, timeout=timeout)
+            return r
+        except requests.exceptions.RequestException as e:
+            last_exc = e
+            time.sleep(backoff ** i)
+    raise last_exc  # type: ignore
+
+# ----------------- exclusions -----------------
+
 def load_exclusions():
     if not EXCLUSIONS_ENABLED:
         return {"enabled": False}
 
-    # File provides a base config; env var is the real toggle
     try:
         with open(EXCLUSIONS_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -70,28 +99,20 @@ def is_excluded(repo_name: str, rules: dict) -> bool:
             if re.search(rx, repo_name):
                 return True
         except re.error:
-            # ignore bad regex
             pass
 
     return False
 
+# ----------------- GitHub API -----------------
+
 def gql(query, variables):
-    r = requests.post(
-        GRAPHQL,
-        headers=HEADERS_AUTH,
-        json={"query": query, "variables": variables},
-        timeout=30,
-    )
+    payload = {"query": query, "variables": variables}
+    r = http_post(GRAPHQL, payload, timeout=30, retries=3)
     r.raise_for_status()
     data = r.json()
     if "errors" in data:
         raise RuntimeError(data["errors"])
     return data["data"]
-
-def safe_get(url, params=None, timeout=30):
-    r = requests.get(url, headers=HEADERS_AUTH, params=params or {}, timeout=timeout)
-    r.raise_for_status()
-    return r
 
 def dedupe_repos(repos):
     seen = set()
@@ -108,7 +129,7 @@ def get_languages(repo):
     url = repo.get("languages_url")
     if not url:
         return ""
-    r = requests.get(url, headers=HEADERS_AUTH, timeout=20)
+    r = http_get(url, timeout=20, retries=3)
     if r.status_code != 200:
         return ""
     langs = r.json() or {}
@@ -166,7 +187,7 @@ def fetch_pinned_exact():
             continue
         if n["isFork"] or n["isArchived"]:
             continue
-        # Only public pinned repos should be shown in a public README
+        # Never show private pinned repos in a public README
         if n["isPrivate"]:
             continue
 
@@ -186,15 +207,17 @@ def fetch_pinned_exact():
     return pinned
 
 def fetch_all_public_repos_auth():
-    # We use /user/repos with auth because it includes accurate metadata,
-    # but we will filter to public-only output.
+    # Auth endpoint provides consistent metadata; we still output PUBLIC only.
     repos = []
     page = 1
     while True:
-        r = safe_get(
+        r = http_get(
             f"{API}/user/repos",
             params={"per_page": 100, "page": page, "sort": "updated", "direction": "desc"},
+            timeout=30,
+            retries=3,
         )
+        r.raise_for_status()
         batch = r.json()
         if not batch:
             break
@@ -202,8 +225,11 @@ def fetch_all_public_repos_auth():
         if len(batch) < 100:
             break
         page += 1
+
     repos = dedupe_repos(repos)
     return [r for r in repos if not r.get("private")]
+
+# ----------------- block builder -----------------
 
 def build_block(pinned, latest, recent, popular, curated):
     out = []
@@ -240,6 +266,28 @@ def build_block(pinned, latest, recent, popular, curated):
     out.append("</details>")
     return "\n".join(out)
 
+def validate_block(block: str):
+    # Guard against accidental empty/invalid output overwriting README
+    required_markers = [
+        "<details",
+        "<summary id=\"projects\">",
+        "### ⭐ Featured (Pinned)",
+        "### 🆕 Latest OSS Projects",
+        "### 🕒 Recently Active Projects",
+        "### 📈 Popular Projects (Stars + Forks)",
+        "### 🧠 Curated Project Collection",
+        "</details>",
+    ]
+    for m in required_markers:
+        if m not in block:
+            raise RuntimeError(f"Generated block failed validation (missing: {m}).")
+
+    # Very small blocks are suspicious
+    if len(block) < 500:
+        raise RuntimeError("Generated block looks too small; refusing to overwrite README.")
+
+# ----------------- main -----------------
+
 def main():
     rules = load_exclusions()
 
@@ -251,7 +299,7 @@ def main():
         if not r.get("fork") and not r.get("archived")
     ]
 
-    # Apply exclusions
+    # Apply JSON exclusions
     public = [r for r in public if not is_excluded(r.get("name", ""), rules)]
 
     # Exclude pinned from other sections
@@ -289,6 +337,7 @@ def main():
     curated = curated_pool[:MAX_CURATED]
 
     block = build_block(pinned, latest, recent, popular, curated)
+    validate_block(block)
 
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
@@ -312,4 +361,11 @@ def main():
         print("No changes.")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except (requests.exceptions.HTTPError, requests.exceptions.RequestException) as e:
+        if FAIL_SOFT:
+            # Preserve last known good README by skipping update, and do not fail the workflow
+            print(f"Transient GitHub API/network error. Skipping update to preserve last known good state: {e}")
+            raise SystemExit(0)
+        raise
