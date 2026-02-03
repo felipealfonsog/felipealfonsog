@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
-Last played               : Weichafe — Z
-Last played (UTC)         : 2026-02-03 22:19:05Z
+Now playing               : Druidess — Brahmastra
+Last played               : Slow Degrade — Who Will Fix Me Now?
+Last played (UTC)         : 2026-02-03 22:30:11Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Weichafe — Z → Slow Degrade — Who Will Fix Me Now?
+Δ last played (since last): 2026-02-03 22:19:05Z → 2026-02-03 22:30:11Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:59
-Telemetry age             : 00:04:59
-Δ time (since last report): 00:02:11
+Time since last play      : 00:02:39
+Telemetry age             : 00:02:39
+Δ time (since last report): 00:08:46
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
-Dominant artist           : Weichafe
+Tracks played (last 24h)  : 12
+Dominant artist           : Slow Degrade
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 22:24:04Z → 2026-02-03 22:24:04Z
+Week window (UTC)         : 2026-01-27 22:32:49Z → 2026-02-03 22:32:49Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -893,24 +893,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
-Peak hour (7d)            : 10:00
-Heatmap (24h)             :          ▁        █▁    
-Heatmap (7d)              :          ▃█▅▁▇  ▆▁█▁  ▆▄
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :          ▁        █▃    
+Heatmap (7d)              :          ▃▆▅▁▇  ▆▁█▃  ▆▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:37:20
+Avg inter-play gap (7d)   : 02:37:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : metalcore(2) | shoegaze(2) | latin rock(1) | space rock(1) | stoner rock(1)
-Top genres (7d)           : shoegaze(25) | post-grunge(7) | grunge(6) | latin rock(4) | alternative metal(2) | metalcore(2)
+Top genres (24h)          : shoegaze(3) | metalcore(2) | latin rock(1) | space rock(1) | stoner rock(1)
+Top genres (7d)           : shoegaze(24) | post-grunge(7) | grunge(6) | latin rock(4) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 22:24:04Z
+Report generated (UTC)    : 2026-02-03 22:32:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
