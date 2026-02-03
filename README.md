@@ -859,13 +859,13 @@ Last played               : Tatiana Hazel — Floodgate
 Last played (UTC)         : 2026-02-03 23:39:24Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Graywave — Blur Into One → Tatiana Hazel — Floodgate
-Δ last played (since last): 2026-02-03 23:30:14Z → 2026-02-03 23:39:24Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:19
-Telemetry age             : 00:00:19
-Δ time (since last report): 00:08:17
+Time since last play      : 00:02:43
+Telemetry age             : 00:02:43
+Δ time (since last report): 00:02:24
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 23:39:43Z → 2026-02-03 23:39:43Z
+Week window (UTC)         : 2026-01-27 23:42:06Z → 2026-02-03 23:42:06Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -908,9 +908,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(17) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
 Top genres (7d)           : shoegaze(25) | post-grunge(7) | grunge(6) | alternative metal(2) | latin alternative(2) | latin indie(2)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 23:39:43Z
+Report generated (UTC)    : 2026-02-03 23:42:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
