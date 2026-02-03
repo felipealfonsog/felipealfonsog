@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-02-03 23:22:12Z",
+  "report_generated_utc": "2026-02-03 23:26:34Z",
   "status": "PLAYING",
-  "last_track": "deer death — fly away",
-  "last_played_utc": "2026-02-03 23:20:03Z",
+  "last_track": "Ally Nicholas — Fall Into",
+  "last_played_utc": "2026-02-03 23:26:28Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -295,6 +295,8 @@
     ],
     "27nXPtM8ein7WkzysU641i": [
       "shoegaze"
-    ]
+    ],
+    "3F2at4eIx4GXByVo0hGJaX": [],
+    "6yBtoVjaVbLRaxnxlepboB": []
   }
 }
