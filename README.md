@@ -2101,8 +2101,20 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 -->
 
+ ___                     ___                                         .-.            ___                                                                          ___                  
+(   )  .-.              (   )                                       /    \    .-.  (   )                                                                        (   )                 
+ | |  ( __)     .--.     | |_          .-..    ___ .-.      .--.    | .`. ;  ( __)  | |    .--.        .-..    ___ .-.      .--.        .-.    .--.     .--.     | |_         .--.    
+ | |  (''")   /  _  \   (   __)       /    \  (   )   \    /    \   | |(___) (''")  | |   /    \      /    \  (   )   \    /    \      ( __)  /    \   /    \   (   __)     /  _  \   
+ | |   | |   . .' `. ;   | |         ' .-,  ;  | ' .-. ;  |  .-. ;  | |_      | |   | |  |  .-. ;    ' .-,  ;  | ' .-. ;  |  .-. ;     (''") |  .-. ; |  .-. ;   | |       . .' `. ;  
+ | |   | |   | '   | |   | | ___     | |  . |  |  / (___) | |  | | (   __)    | |   | |  |  | | |    | |  . |  |  / (___) | |  | |      | |  |  | | | |  |(___)  | | ___   | '   | |  
+ | |   | |   _\_`.(___)  | |(   )    | |  | |  | |        | |  | |  | |       | |   | |  |  |/  |    | |  | |  | |        | |  | |      | |  |  |/  | |  |       | |(   )  _\_`.(___) 
+ | |   | |  (   ). '.    | | | |     | |  | |  | |        | |  | |  | |       | |   | |  |  ' _.'    | |  | |  | |        | |  | |      | |  |  ' _.' |  | ___   | | | |  (   ). '.   
+ | |   | |   | |  `\ |   | ' | |     | |  ' |  | |        | '  | |  | |       | |   | |  |  .'.-.    | |  ' |  | |        | '  | |      | |  |  .'.-. |  '(   )  | ' | |   | |  `\ |  
+ | |   | |   ; '._,' '   ' `-' ;     | `-'  '  | |        '  `-' /  | |       | |   | |  '  `-' /    | `-'  '  | |        '  `-' /  ___ | |  '  `-' / '  `-' |   ' `-' ;   ; '._,' '  
+(___) (___)   '.___.'     `.__.      | \__.'  (___)        `.__.'  (___)     (___) (___)  `.__.'     | \__.'  (___)        `.__.'  (   )' |   `.__.'   `.__,'     `.__.     '.___.'   
+                                     | |                                                             | |                            ; `-' '                                           
+                                    (___)                                                           (___)                            .__.'                                            
 
-#
 
 <!-- PROJECTS:START -->
 <details open>
@@ -2193,16 +2205,16 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 </details>
 <!-- PROJECTS:END -->
 
-#
-
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
+
+[![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) ![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) [![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
+
 
 <!-- 
 
   - [ProFileX](https://github.com/felipealfonsog/ProFileX): ProFileX is a Linux file management tool with a Qt-based GUI. It allows users to list, create, and delete files easily, providing an intuitive interface for efficient file operations.
 
 -->
-<br>
 
 
 
