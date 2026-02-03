@@ -1,0 +1,50 @@
+name: Update Projects Section
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update README projects block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: felipealfonsog
+          README_PATH: README.md
+          FILTER_TOPIC: project
+          MAX_TOPIC_REPOS: "80"
+          INCLUDE_FORKS: "false"
+          INCLUDE_ARCHIVED: "false"
+        run: |
+          python scripts/update_projects.py
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add README.md
+          git commit -m "chore: auto-update projects list"
+          git push
