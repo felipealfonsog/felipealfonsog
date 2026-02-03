@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-02-03 12:37:02Z",
+  "report_generated_utc": "2026-02-03 15:36:18Z",
   "status": "IDLE",
-  "last_track": "Sundazer, Adam Black — Edgerunner",
-  "last_played_utc": "2026-02-02 02:21:44Z",
+  "last_track": "Doom Mutual — Copycat Machine",
+  "last_played_utc": "2026-02-03 12:57:47Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -286,6 +286,9 @@
     "64tNsm6TnZe2zpcMVMOoHL": [
       "grunge",
       "post-grunge"
+    ],
+    "0H4CAIX0p57Mmu3UyvcNe3": [
+      "shoegaze"
     ]
   }
 }

@@ -854,17 +854,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Sundazer, Adam Black — Edgerunner
-Last played (UTC)         : 2026-02-02 02:21:44Z
+Last played               : Doom Mutual — Copycat Machine
+Last played (UTC)         : 2026-02-03 12:57:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Sundazer, Adam Black — Edgerunner → Doom Mutual — Copycat Machine
+Δ last played (since last): 2026-02-02 02:21:44Z → 2026-02-03 12:57:47Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 34:15:19
-Telemetry age             : 34:15:19
-Δ time (since last report): 00:00:28
+Time since last play      : 02:38:31
+Telemetry age             : 02:38:31
+Δ time (since last report): 02:59:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Doom Mutual
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 12:37:02Z → 2026-02-03 12:37:02Z
+Week window (UTC)         : 2026-01-27 15:36:18Z → 2026-02-03 15:36:18Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -891,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁        ▁█▃▁▄  ▄▁    ▅▂
+Heatmap (24h)             :          █              
+Heatmap (7d)              : ▁        ▂█▃▁▄  ▄▁    ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
+Sessions (24h)            : 1
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:05:50
+Avg inter-play gap (7d)   : 02:47:37
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(27) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(3) | nu metal(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : shoegaze(1)
+Top genres (7d)           : shoegaze(28) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(2) | nu metal(2)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 12:37:02Z
+Report generated (UTC)    : 2026-02-03 15:36:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
