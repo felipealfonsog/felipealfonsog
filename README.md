@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : deer death, yuronono, Grimzlee — Bones
+Now playing               : Grimzlee — Damn, This Hurts
 Last played               : DEADSIREN, msliterate — HAUNTED
 Last played (UTC)         : 2026-02-03 23:50:47Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : msliterate — hypoxia → DEADSIREN, msliterate — HAUNTED
-Δ last played (since last): 2026-02-03 23:45:05Z → 2026-02-03 23:50:47Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:20
-Telemetry age             : 00:03:20
-Δ time (since last report): 00:07:36
+Time since last play      : 00:03:43
+Telemetry age             : 00:03:43
+Δ time (since last report): 00:00:23
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 23:54:07Z → 2026-02-03 23:54:07Z
+Week window (UTC)         : 2026-01-27 23:54:29Z → 2026-02-03 23:54:29Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -908,9 +908,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(18) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
 Top genres (7d)           : shoegaze(24) | post-grunge(7) | grunge(6) | alternative metal(2) | latin alternative(2) | latin indie(2)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 23:54:07Z
+Report generated (UTC)    : 2026-02-03 23:54:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
