@@ -2213,6 +2213,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 <sub><strong>Note</strong> — This project portfolio is automatically curated through a custom Python-based classification system, orchestrated via GitHub Actions. 
 Repositories are continuously evaluated and organized based on real pinned selections, creation timelines, recent activity, popularity metrics, and curated relevance — ensuring the portfolio reflects both long-term focus and ongoing development beyond manually pinned projects.
+<br>
 All projects are distributed under their respective licenses as defined per repository (see LICENSE / NOTICE). Where applicable, reuse and redistribution require explicit attribution, including my name and my GitHub profile reference.</sub>
 
 <br>
