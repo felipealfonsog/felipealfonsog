@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Dos-Ovni — Big Rock
-Last played               : ASAVA — Canyon
-Last played (UTC)         : 2026-02-03 21:35:14Z
+Now playing               : Stone Sea — Seeing Red
+Last played               : Morphide — Of Healing Part 5 - Acceptance (Follow Me)
+Last played (UTC)         : 2026-02-03 21:50:26Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : ASAVA — Canyon → Morphide — Of Healing Part 5 - Acceptance (Follow Me)
+Δ last played (since last): 2026-02-03 21:35:14Z → 2026-02-03 21:50:26Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:01
-Telemetry age             : 00:04:01
-Δ time (since last report): 00:00:52
+Time since last play      : 00:03:22
+Telemetry age             : 00:03:22
+Δ time (since last report): 00:14:33
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : ASAVA
+Tracks played (last 24h)  : 7
+Dominant artist           : Morphide
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 21:39:15Z → 2026-02-03 21:39:15Z
+Week window (UTC)         : 2026-01-27 21:53:48Z → 2026-02-03 21:53:48Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :          ▃        █     
-Heatmap (7d)              : ▁        ▂█▃▁▄  ▄▁▂   ▄▂
+Heatmap (24h)             :          ▁        █     
+Heatmap (7d)              :          ▂█▄▁▅  ▄▁▄   ▄▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:49:09
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:36:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(2)
-Top genres (7d)           : shoegaze(28) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(2) | nu metal(2)
+Top genres (24h)          : metalcore(2) | shoegaze(2)
+Top genres (7d)           : shoegaze(27) | post-grunge(7) | grunge(6) | latin rock(3) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 21:39:15Z
+Report generated (UTC)    : 2026-02-03 21:53:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
