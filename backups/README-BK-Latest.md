@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Amira Elfeky — Tonight - Symphony
-Last played               : Graywave — Blur Into One
-Last played (UTC)         : 2026-02-03 23:30:14Z
+Now playing               : msliterate — hypoxia
+Last played               : Tatiana Hazel — Floodgate
+Last played (UTC)         : 2026-02-03 23:39:24Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Ally Nicholas — Fall Into → Graywave — Blur Into One
-Δ last played (since last): 2026-02-03 23:26:28Z → 2026-02-03 23:30:14Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:13
-Telemetry age             : 00:01:13
-Δ time (since last report): 00:04:53
+Time since last play      : 00:02:43
+Telemetry age             : 00:02:43
+Δ time (since last report): 00:02:24
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 29
+Tracks played (last 24h)  : 32
 Dominant artist           : Amira Elfeky
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 23:31:26Z → 2026-02-03 23:31:26Z
+Week window (UTC)         : 2026-01-27 23:42:06Z → 2026-02-03 23:42:06Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -892,25 +892,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 19:00
-Peak hour (7d)            : 19:00
-Heatmap (24h)             :          ▁        ▆██   
-Heatmap (7d)              :          ▂▅▁ ▁   ▁▆██ ▅▃
+Peak hour (24h)           : 20:00
+Peak hour (7d)            : 20:00
+Heatmap (24h)             :          ▁        ▅▆█   
+Heatmap (7d)              :          ▁▄▁ ▁    ▅▆█ ▄▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:31:12
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 01:40:46
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(16) | metalcore(2) | latin rock(1) | space rock(1) | stoner rock(1)
-Top genres (7d)           : shoegaze(25) | post-grunge(7) | grunge(6) | alternative metal(2) | metalcore(2) | nu metal(2)
+Top genres (24h)          : shoegaze(17) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
+Top genres (7d)           : shoegaze(25) | post-grunge(7) | grunge(6) | alternative metal(2) | latin alternative(2) | latin indie(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 23:31:26Z
+Report generated (UTC)    : 2026-02-03 23:42:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1804,6 +1804,7 @@ Powered by https://github.com/devicons/devicon
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
+</details>
 
 <details>
   <summary>🛡️ Cybersecurity / Cyberintelligence Stack Badges* 🔒</summary>
@@ -1885,7 +1886,7 @@ Powered by https://github.com/devicons/devicon
 
 <sub>[[Personal PGP Public Key]](#pgp-public-key)</sub>
 
-</details>
+
 
 <sub>*Powered by [Devicon](https://devicon.dev/), [Devicon (Github)](https://github.com/devicons/devicon), [Streamlinehq](https://www.streamlinehq.com/), [VectorLogoZone](https://www.vectorlogo.zone) & [Logosear.ch](https://logosear.ch/).</sub>
 
