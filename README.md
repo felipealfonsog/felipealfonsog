@@ -2105,7 +2105,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 #
 
 <!-- PROJECTS:START -->
-<details open>
+<details>
 <summary id="projects">🔍 📁 <strong>Dive into More Featured and Diverse Projects</strong> 🚀✨</summary>
 <br>
 
@@ -2126,6 +2126,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 ### 🕒 Recently Active Projects
 - [felipealfonsog](https://github.com/felipealfonsog/felipealfonsog): Journey through the cryptic corridors of code. Unravel the secrets encoded in the shadows. Welcome to the realm where algorithms whisper in binary tongues. Dare to explore, for within lies the essence of innovation.
   🧬 Python · JavaScript · Nix
+- [vizceral-netflix-implant](https://github.com/felipealfonsog/vizceral-netflix-implant): No description provided.
+  🧬 JavaScript · CSS · HTML
 - [intelforge](https://github.com/felipealfonsog/intelforge): Defensive CTI pipeline built in Perl. IntelForge is a Perl-first, CLI-driven defensive cyber threat intelligence (CTI) pipeline that ingests public sources, extracts and normalizes indicators, applies lightweight rules and scoring, and produces auditable artifacts (JSONL + reports).
   🧬 Makefile · Perl · Shell
 - [ShadowScan](https://github.com/felipealfonsog/ShadowScan): ShadowScan is a security tool designed to scan files and system configurations for hidden backdoors, malicious scripts, and reverse shells on Linux and macOS.
@@ -2142,10 +2144,10 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell
 - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
   🧬 Shell · C · Makefile
-- [BashGuardian](https://github.com/felipealfonsog/BashGuardian): Bash script for backups/encrypted on Unix-like (Linux & macOS) systems.
-  🧬 Shell · C
 
 ### 🧠 Curated Project Collection
+- [BashGuardian](https://github.com/felipealfonsog/BashGuardian): Bash script for backups/encrypted on Unix-like (Linux & macOS) systems.
+  🧬 Shell · C
 - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
   🧬 Shell · Python
 - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
@@ -2164,46 +2166,35 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 HTML
 - [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
   🧬 COBOL
-- [GitifyBadge](https://github.com/felipealfonsog/GitifyBadge): GitifyBadge: A custom badge displaying GitHub profile details, powered by JavaScript. Showcase your professional presence on the leading platform for developers.
-  🧬 JavaScript · CSS · HTML
-- [react-basics](https://github.com/felipealfonsog/react-basics): No description provided.
-  🧬 JavaScript · HTML
 - [MatrixCodeGrid](https://github.com/felipealfonsog/MatrixCodeGrid): Matrix Effect in your shell: "MatrixCodeGrid" recreates the falling lines from the movie "The Matrix" in your Linux or macOS shell.
   🧬 C · Shell
 - [TermLock](https://github.com/felipealfonsog/TermLock): The project is a Bash script for managing system actions on Arch Linux, offering options for suspension, screen locking using various methods, and system shutdown. Users can choose their preferred action through a simple command-line interface.
   🧬 Shell
-- [OrbitVista](https://github.com/felipealfonsog/OrbitVista): OrbitVista: Your cosmic guide to real-time insights on the Voyager probes. Explore the far reaches of our solar system as OrbitVista provides dynamic updates and key data points from the iconic Voyager spacecraft, offering a captivating journey through space exploration.
-  🧬 JavaScript
 - [HoraFinderCL](https://github.com/felipealfonsog/HoraFinderCL): Próxima hora en Registro Civil (CL) Busca la próxima hora disponible en oficinas del Registro Civil para renovar el carnet de identidad para chilenos, dentro de la Región Metropolitana.
   🧬 PHP
-- [CoolTrixJS](https://github.com/felipealfonsog/CoolTrixJS): CoolTrixJS is a simple and addictive open-source JavaScript mini-project that introduces a points-based game, inspired by the classic Tetris.
-  🧬 JavaScript · CSS · HTML
-- [TwiPyBot](https://github.com/felipealfonsog/TwiPyBot): A Twitter bot written in Python using Tweepy and hosted on a server. It will like and/or retweet tweets that contain single or multiple keywords and hashtags.
-  🧬 Python
-- [FreeSwapBash](https://github.com/felipealfonsog/FreeSwapBash): No description provided.
-  🧬 Shell
 - [RescuePaw](https://github.com/felipealfonsog/RescuePaw): Application is designed to help animal rescuer find the nearest qualified help for the injured animal.
   🧬 JavaScript · CSS · HTML
-- [vizceral-netflix-implant](https://github.com/felipealfonsog/vizceral-netflix-implant): No description provided.
-  🧬 JavaScript · CSS · HTML
-- [fp-js.es6](https://github.com/felipealfonsog/fp-js.es6): Functional Programming / ES6 exercises
-  🧬 JavaScript
-- [Angular4](https://github.com/felipealfonsog/Angular4): No description provided.
-- [yarn-example](https://github.com/felipealfonsog/yarn-example): No description provided.
-  🧬 JavaScript
-- [HTML5CSS3](https://github.com/felipealfonsog/HTML5CSS3): Testing files - courses Udemy
-  🧬 HTML · CSS
-- [javascript-essentials](https://github.com/felipealfonsog/javascript-essentials): javascript-essentials course test files
-  🧬 JavaScript
 
 ### 🔒 Selected Private Projects
+- **CoolTrixJS**: CoolTrixJS is a simple and addictive open-source JavaScript mini-project that introduces a points-based game, inspired by the classic Tetris.
+  🧬 JavaScript · CSS · HTML
+- **OrbitVista**: OrbitVista: Your cosmic guide to real-time insights on the Voyager probes. Explore the far reaches of our solar system as OrbitVista provides dynamic updates and key data points from the iconic Voyager spacecraft, offering a captivating journey through space exploration.
+  🧬 JavaScript
+- **GitifyBadge**: GitifyBadge: A custom badge displaying GitHub profile details, powered by JavaScript. Showcase your professional presence on the leading platform for developers.
+  🧬 JavaScript · CSS · HTML
 - **Trash-Trunk**: Trash-Trunk: dispose of digital debris
   🧬 Python · Dockerfile
+- **TwiPyBot**: A Twitter bot written in Python using Tweepy and hosted on a server. It will like and/or retweet tweets that contain single or multiple keywords and hashtags.
+  🧬 Python
+- **javascript-essentials**: javascript-essentials course test files
+  🧬 JavaScript
+- **HTML5CSS3**: Testing files - courses Udemy
+  🧬 HTML · CSS
+- **fp-js.es6**: Functional Programming / ES6 exercises
+  🧬 JavaScript
 - **Trash-Trunk**: Trash-Trunk: dispose of digital debris
   🧬 Python
 - **maintainers**: The Maintainer Community is a private space for maintainers to connect with peers, preview GitHub features, and help us support the open source community.
-- **gnlz.cl**: This repository serves as a restricted backup for the personal website.
-  🧬 HTML · PHP · CSS
 
 <br>
 </details>
