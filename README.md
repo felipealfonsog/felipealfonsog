@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Amira Elfeky — Everything I Do Is For You
-Last played               : Amira Elfeky — Tonight (demo)
-Last played (UTC)         : 2026-02-03 22:58:48Z
+Now playing               : Amira Elfeky — A Dozen Roses
+Last played               : cloudyfield — crawl
+Last played (UTC)         : 2026-02-03 23:04:37Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Doom Mutual — Copycat Machine → Amira Elfeky — Tonight (demo)
-Δ last played (since last): 2026-02-03 22:55:37Z → 2026-02-03 22:58:48Z
+Δ track (since last)      : Amira Elfeky — Tonight (demo) → cloudyfield — crawl
+Δ last played (since last): 2026-02-03 22:58:48Z → 2026-02-03 23:04:37Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:08
-Telemetry age             : 00:00:08
-Δ time (since last report): 00:03:09
+Time since last play      : 00:01:32
+Telemetry age             : 00:01:32
+Δ time (since last report): 00:07:13
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
+Tracks played (last 24h)  : 21
 Dominant artist           : Wayside
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 22:58:56Z → 2026-02-03 22:58:56Z
+Week window (UTC)         : 2026-01-27 23:06:08Z → 2026-02-03 23:06:08Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :          ▁        ▆█    
-Heatmap (7d)              :          ▂▅▁ ▄  ▅▁▆█  ▅▃
+Heatmap (24h)             :          ▁        ▆█▂   
+Heatmap (7d)              :          ▂▅▁ ▂  ▅▁▆█▂ ▅▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:35:18
+Avg inter-play gap (7d)   : 02:35:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(9) | metalcore(2) | latin rock(1) | space rock(1) | stoner rock(1)
+Top genres (24h)          : shoegaze(11) | metalcore(2) | latin rock(1) | space rock(1) | stoner rock(1)
 Top genres (7d)           : shoegaze(23) | post-grunge(7) | grunge(6) | latin rock(4) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 22:58:56Z
+Report generated (UTC)    : 2026-02-03 23:06:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
