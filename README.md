@@ -2142,8 +2142,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Shell · Python · C
 
 ### 🕒 Recently Active Projects
-- [vizceral-netflix-implant](https://github.com/felipealfonsog/vizceral-netflix-implant): No description provided.
-  🧬 JavaScript · CSS · HTML
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
@@ -2162,36 +2160,32 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 JavaScript · CSS · Shell
 - [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
   🧬 Hack · PHP · JavaScript
+- [Restockify](https://github.com/openvelora/Restockify): Restockify+ is a feature-rich ReST API for NodeJS and MongoDB. Simplify inventory management and streamline stock tracking with ease.
+  🧬 JavaScript · CSS · HTML
 
 ### 📈 Popular Projects (Stars + Forks)
 - [C-VipNX](https://github.com/openvelora/C-VipNX): Shell Vip Utility written in C for *NX Systems. Simple: Vip shell to avoid usage of sudo
   🧬 C · Shell
 - [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
   🧬 COBOL
-- [Voicentia](https://github.com/openvelora/Voicentia): Nuclear and elemental way to develop AI through the web, by recognizing your speech.
-  🧬 JavaScript · CSS · HTML
 - [EventSphere](https://github.com/openvelora/EventSphere): Standard Web application for managing social events of all kind.
   🧬 JavaScript · Pug · CSS
-- [Restockify](https://github.com/openvelora/Restockify): Restockify+ is a feature-rich ReST API for NodeJS and MongoDB. Simplify inventory management and streamline stock tracking with ease.
-  🧬 JavaScript · CSS · HTML
 - [PerlMemoPad](https://github.com/openvelora/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
   🧬 Perl · CSS
 - [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
   🧬 C · C++
 - [rtl-88x2bu](https://github.com/felipealfonsog/rtl-88x2bu): This repository contains the Linux driver for the Realtek RTL88x2BU WiFi USB chipset.
   🧬 C · Makefile · Roff
-- [felipealfonsog.github.io](https://github.com/felipealfonsog/felipealfonsog.github.io): Nestled within the code's embrace lies the gateway to @felipealfonsog's GitHub main page hosting.
-  🧬 HTML
 - [MatrixCodeGrid](https://github.com/felipealfonsog/MatrixCodeGrid): Matrix Effect in your shell: "MatrixCodeGrid" recreates the falling lines from the movie "The Matrix" in your Linux or macOS shell.
   🧬 C · Shell
-
-### 🧠 Curated Project Collection
 - [TermLock](https://github.com/felipealfonsog/TermLock): The project is a Bash script for managing system actions on Arch Linux, offering options for suspension, screen locking using various methods, and system shutdown. Users can choose their preferred action through a simple command-line interface.
   🧬 Shell
 - [HoraFinderCL](https://github.com/felipealfonsog/HoraFinderCL): Próxima hora en Registro Civil (CL) Busca la próxima hora disponible en oficinas del Registro Civil para renovar el carnet de identidad para chilenos, dentro de la Región Metropolitana.
   🧬 PHP
 - [RescuePaw](https://github.com/felipealfonsog/RescuePaw): Application is designed to help animal rescuer find the nearest qualified help for the injured animal.
   🧬 JavaScript · CSS · HTML
+
+### 🧠 Curated Project Collection
 - [FeedHive](https://github.com/openvelora/FeedHive): It's very simple, it's a loader news or feednews, with the chance to make comments and put a finger up in a post.
   🧬 JavaScript · HTML · EJS
 
