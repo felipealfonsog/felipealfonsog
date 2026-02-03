@@ -305,7 +305,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-03 09:37:43Z
+DSN snapshot (UTC)       : 2026-02-03 12:38:23Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -317,13 +317,13 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.43e9 km | 170.016 AU
-Heliocentric distance    : 169.581 AU
-Relative speed           : 23.234 km/s
+Heliocentric distance    : 169.582 AU
+Relative speed           : 23.210 km/s
 ------------------------------------------------------------
 One-way light time       : 23:33:59
 Round-trip latency       : 47:07:58
 ------------------------------------------------------------
-Δ distance (since last)  : -40,324 km
+Δ distance (since last)  : -41,089 km
 Mission age              : 48 years, 163 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -336,18 +336,18 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.35e9 km | 142.714 AU
-Heliocentric distance    : 142.004 AU
-Relative speed           : 30.643 km/s
+Heliocentric distance    : 142.005 AU
+Relative speed           : 30.622 km/s
 ------------------------------------------------------------
 One-way light time       : 19:46:55
 Round-trip latency       : 39:33:50
 ------------------------------------------------------------
-Δ distance (since last)  : +62,746 km
+Δ distance (since last)  : +62,938 km
 Mission age              : 48 years, 179 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-03 09:37:45Z
+Report generated (UTC)   : 2026-02-03 12:38:26Z
 ```
 
 <!-- VOYAGER:END -->
