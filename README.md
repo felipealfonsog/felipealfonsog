@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Stone Sea — Seeing Red
-Last played               : Morphide — Of Healing Part 5 - Acceptance (Follow Me)
-Last played (UTC)         : 2026-02-03 21:50:26Z
+Now playing               : Citizen Audrey — Enigma of my State
+Last played               : Stone Sea — Seeing Red
+Last played (UTC)         : 2026-02-03 21:55:00Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Morphide — Of Healing Part 5 - Acceptance (Follow Me) → Stone Sea — Seeing Red
+Δ last played (since last): 2026-02-03 21:50:26Z → 2026-02-03 21:55:00Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:52
-Telemetry age             : 00:03:52
-Δ time (since last report): 00:00:30
+Time since last play      : 00:01:26
+Telemetry age             : 00:01:26
+Δ time (since last report): 00:02:09
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 7
-Dominant artist           : Morphide
+Tracks played (last 24h)  : 8
+Dominant artist           : Stone Sea
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 21:54:17Z → 2026-02-03 21:54:17Z
+Week window (UTC)         : 2026-01-27 21:56:25Z → 2026-02-03 21:56:25Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -895,22 +895,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 10:00
 Heatmap (24h)             :          ▁        █     
-Heatmap (7d)              :          ▂█▄▁▅  ▄▁▄   ▄▃
+Heatmap (7d)              :          ▂█▄▁▆  ▅▁▆   ▅▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:36:53
+Avg inter-play gap (7d)   : 02:36:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : metalcore(2) | shoegaze(2)
+Top genres (24h)          : metalcore(2) | shoegaze(2) | space rock(1) | stoner rock(1)
 Top genres (7d)           : shoegaze(27) | post-grunge(7) | grunge(6) | latin rock(3) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 21:54:17Z
+Report generated (UTC)    : 2026-02-03 21:56:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
