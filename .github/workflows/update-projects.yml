@@ -3,7 +3,7 @@ name: Update Project Portfolio
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
@@ -11,10 +11,13 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -23,26 +26,28 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Generate README portfolio
+      - name: Generate README project portfolio
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: felipealfonsog
           README_PATH: README.md
           MAX_RECENT: "10"
           MAX_CURATED: "25"
           MAX_PRIVATE: "4"
-          USE_PROJECT_PRIORITY: "false"   # <-- flip to true whenever you want
+          USE_PROJECT_PRIORITY: "false"
+          PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}   # optional PAT for private repos
         run: |
           python scripts/update_projects.py
 
-      - name: Commit changes
+      - name: Commit changes (if any)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           if git diff --quiet; then
-            echo "No changes."
+            echo "No changes detected. Skipping commit."
             exit 0
           fi
+
           git add README.md
           git commit -m "chore: auto-update project portfolio"
           git push
