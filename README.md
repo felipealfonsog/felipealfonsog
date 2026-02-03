@@ -2142,8 +2142,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Shell · Python · C
 
 ### 🕒 Recently Active Projects
-- [felipealfonsog](https://github.com/felipealfonsog/felipealfonsog): Journey through the cryptic corridors of code. Unravel the secrets encoded in the shadows. Welcome to the realm where algorithms whisper in binary tongues. Dare to explore, for within lies the essence of innovation.
-  🧬 Python · JavaScript · Nix
 - [vizceral-netflix-implant](https://github.com/felipealfonsog/vizceral-netflix-implant): No description provided.
   🧬 JavaScript · CSS · HTML
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
@@ -2162,10 +2160,10 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell · Nix
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
   🧬 JavaScript · CSS · Shell
-
-### 📈 Popular Projects (Stars + Forks)
 - [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
   🧬 Hack · PHP · JavaScript
+
+### 📈 Popular Projects (Stars + Forks)
 - [C-VipNX](https://github.com/openvelora/C-VipNX): Shell Vip Utility written in C for *NX Systems. Simple: Vip shell to avoid usage of sudo
   🧬 C · Shell
 - [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
@@ -2174,7 +2172,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 JavaScript · CSS · HTML
 - [EventSphere](https://github.com/openvelora/EventSphere): Standard Web application for managing social events of all kind.
   🧬 JavaScript · Pug · CSS
-- [.github](https://github.com/openvelora/.github): Nymex Data Research: Advancing Research & Development (R&D) and Engineering through state-of-the-art modeling and cutting-edge technologies.
 - [Restockify](https://github.com/openvelora/Restockify): Restockify+ is a feature-rich ReST API for NodeJS and MongoDB. Simplify inventory management and streamline stock tracking with ease.
   🧬 JavaScript · CSS · HTML
 - [PerlMemoPad](https://github.com/openvelora/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
@@ -2183,13 +2180,12 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 C · C++
 - [rtl-88x2bu](https://github.com/felipealfonsog/rtl-88x2bu): This repository contains the Linux driver for the Realtek RTL88x2BU WiFi USB chipset.
   🧬 C · Makefile · Roff
-
-### 🧠 Curated Project Collection
-- [.github](https://github.com/nicnacproject/.github): Offering free shell services since 2002, this non-profit project is devoted to promoting internet freedom and empowering users globally.
 - [felipealfonsog.github.io](https://github.com/felipealfonsog/felipealfonsog.github.io): Nestled within the code's embrace lies the gateway to @felipealfonsog's GitHub main page hosting.
   🧬 HTML
 - [MatrixCodeGrid](https://github.com/felipealfonsog/MatrixCodeGrid): Matrix Effect in your shell: "MatrixCodeGrid" recreates the falling lines from the movie "The Matrix" in your Linux or macOS shell.
   🧬 C · Shell
+
+### 🧠 Curated Project Collection
 - [TermLock](https://github.com/felipealfonsog/TermLock): The project is a Bash script for managing system actions on Arch Linux, offering options for suspension, screen locking using various methods, and system shutdown. Users can choose their preferred action through a simple command-line interface.
   🧬 Shell
 - [HoraFinderCL](https://github.com/felipealfonsog/HoraFinderCL): Próxima hora en Registro Civil (CL) Busca la próxima hora disponible en oficinas del Registro Civil para renovar el carnet de identidad para chilenos, dentro de la Región Metropolitana.
@@ -2198,29 +2194,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 JavaScript · CSS · HTML
 - [FeedHive](https://github.com/openvelora/FeedHive): It's very simple, it's a loader news or feednews, with the chance to make comments and put a finger up in a post.
   🧬 JavaScript · HTML · EJS
-- [vizceral-netflix-implant](https://github.com/openvelora/vizceral-netflix-implant): No description provided.
-  🧬 JavaScript · CSS · HTML
-
-### 🔒 Selected Private Projects
-- [CoolTrixJS](https://github.com/felipealfonsog/CoolTrixJS): CoolTrixJS is a simple and addictive open-source JavaScript mini-project that introduces a points-based game, inspired by the classic Tetris.
-  🧬 JavaScript · CSS · HTML
-- [OrbitVista](https://github.com/felipealfonsog/OrbitVista): OrbitVista: Your cosmic guide to real-time insights on the Voyager probes. Explore the far reaches of our solar system as OrbitVista provides dynamic updates and key data points from the iconic Voyager spacecraft, offering a captivating journey through space exploration.
-  🧬 JavaScript
-- [GitifyBadge](https://github.com/felipealfonsog/GitifyBadge): GitifyBadge: A custom badge displaying GitHub profile details, powered by JavaScript. Showcase your professional presence on the leading platform for developers.
-  🧬 JavaScript · CSS · HTML
-- [Trash-Trunk](https://github.com/felipealfonsog/Trash-Trunk): Trash-Trunk: dispose of digital debris
-  🧬 Python · Dockerfile
-- [TwiPyBot](https://github.com/felipealfonsog/TwiPyBot): A Twitter bot written in Python using Tweepy and hosted on a server. It will like and/or retweet tweets that contain single or multiple keywords and hashtags.
-  🧬 Python
-- [javascript-essentials](https://github.com/felipealfonsog/javascript-essentials): javascript-essentials course test files
-  🧬 JavaScript
-- [HTML5CSS3](https://github.com/felipealfonsog/HTML5CSS3): Testing files - courses Udemy
-  🧬 HTML · CSS
-- [fp-js.es6](https://github.com/felipealfonsog/fp-js.es6): Functional Programming / ES6 exercises
-  🧬 JavaScript
-- [Trash-Trunk](https://github.com/openvelora/Trash-Trunk): Trash-Trunk: dispose of digital debris
-  🧬 Python
-- [maintainers](https://github.com/community/maintainers): The Maintainer Community is a private space for maintainers to connect with peers, preview GitHub features, and help us support the open source community.
 
 <br>
 </details>
