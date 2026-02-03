@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : CHIG — JOY
-Last played               : Amira Elfeky — Coming Down
-Last played (UTC)         : 2026-02-03 23:13:18Z
+Now playing               : Alexis Munroe — Static
+Last played               : deer death — fly away
+Last played (UTC)         : 2026-02-03 23:20:03Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : msliterate — fame → Amira Elfeky — Coming Down
-Δ last played (since last): 2026-02-03 23:10:41Z → 2026-02-03 23:13:18Z
+Δ track (since last)      : Amira Elfeky — Coming Down → deer death — fly away
+Δ last played (since last): 2026-02-03 23:13:18Z → 2026-02-03 23:20:03Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:17
-Telemetry age             : 00:01:17
-Δ time (since last report): 00:03:22
+Time since last play      : 00:02:10
+Telemetry age             : 00:02:10
+Δ time (since last report): 00:07:39
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 24
+Tracks played (last 24h)  : 26
 Dominant artist           : Amira Elfeky
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 23:14:34Z → 2026-02-03 23:14:34Z
+Week window (UTC)         : 2026-01-27 23:22:12Z → 2026-02-03 23:22:12Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :          ▁        ▆█▄   
-Heatmap (7d)              :          ▂▅▁ ▁  ▄▁▆█▄ ▅▃
+Heatmap (24h)             :          ▁        ▆█▆   
+Heatmap (7d)              :          ▂▅▁ ▁  ▂▁▆█▆ ▅▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:31:59
+Avg inter-play gap (7d)   : 02:31:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(13) | metalcore(2) | latin rock(1) | space rock(1) | stoner rock(1)
-Top genres (7d)           : shoegaze(23) | post-grunge(7) | grunge(6) | latin rock(4) | alternative metal(2) | metalcore(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : shoegaze(15) | metalcore(2) | latin rock(1) | space rock(1) | stoner rock(1)
+Top genres (7d)           : shoegaze(25) | post-grunge(7) | grunge(6) | alternative metal(2) | latin rock(2) | metalcore(2)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 23:14:34Z
+Report generated (UTC)    : 2026-02-03 23:22:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
