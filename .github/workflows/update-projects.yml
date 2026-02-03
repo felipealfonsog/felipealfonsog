@@ -37,6 +37,7 @@ jobs:
           MAX_PRIVATE: "10"
 
           USE_PROJECT_PRIORITY: "false"
+          DETAILS_OPEN: "true"   # flip to "false" whenever you want
 
           PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
         run: |
