@@ -863,9 +863,9 @@ Last activity type        : PLAYBACK_ACTIVE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:42
-Telemetry age             : 00:01:42
-Δ time (since last report): 00:01:41
+Time since last play      : 00:03:10
+Telemetry age             : 00:03:10
+Δ time (since last report): 00:01:28
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 21:36:56Z → 2026-02-03 21:36:56Z
+Week window (UTC)         : 2026-01-27 21:38:23Z → 2026-02-03 21:38:23Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : shoegaze(2)
 Top genres (7d)           : shoegaze(28) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(2) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 21:36:56Z
+Report generated (UTC)    : 2026-02-03 21:38:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
