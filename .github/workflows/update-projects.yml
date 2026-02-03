@@ -11,6 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,7 +26,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Generate README portfolio (public only)
+      - name: Generate README portfolio (public, hardened)
         env:
           GITHUB_USERNAME: felipealfonsog
           README_PATH: README.md
@@ -38,8 +39,10 @@ jobs:
           USE_PROJECT_PRIORITY: "false"
           DETAILS_OPEN: "true"
 
-          EXCLUSIONS_ENABLED: "true"          # active by default
+          EXCLUSIONS_ENABLED: "true"
           EXCLUSIONS_FILE: "config/exclusions.json"
+
+          FAIL_SOFT: "true"
 
           PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
         run: |
