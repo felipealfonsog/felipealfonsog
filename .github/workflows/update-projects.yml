@@ -11,7 +11,6 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -26,15 +25,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Generate README project portfolio
+      - name: Generate README portfolio
         env:
           GITHUB_USERNAME: felipealfonsog
           README_PATH: README.md
+
+          MAX_LATEST: "8"
           MAX_RECENT: "10"
-          MAX_CURATED: "25"
-          MAX_PRIVATE: "4"
+          MAX_POPULAR: "10"
+          MAX_CURATED: "20"
+          MAX_PRIVATE: "10"
+
           USE_PROJECT_PRIORITY: "false"
-          PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}   # optional PAT for private repos
+
+          PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
         run: |
           python scripts/update_projects.py
 
