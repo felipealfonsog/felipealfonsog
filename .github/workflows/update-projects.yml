@@ -25,7 +25,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Generate README portfolio
+      - name: Generate README portfolio (public only)
         env:
           GITHUB_USERNAME: felipealfonsog
           README_PATH: README.md
@@ -34,10 +34,12 @@ jobs:
           MAX_RECENT: "10"
           MAX_POPULAR: "10"
           MAX_CURATED: "20"
-          MAX_PRIVATE: "10"
 
           USE_PROJECT_PRIORITY: "false"
-          DETAILS_OPEN: "true"   # flip to "false" whenever you want
+          DETAILS_OPEN: "true"
+
+          EXCLUSIONS_ENABLED: "true"          # active by default
+          EXCLUSIONS_FILE: "config/exclusions.json"
 
           PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
         run: |
@@ -53,6 +55,6 @@ jobs:
             exit 0
           fi
 
-          git add README.md
+          git add README.md config/exclusions.json
           git commit -m "chore: auto-update project portfolio"
           git push
