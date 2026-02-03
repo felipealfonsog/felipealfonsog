@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Doom Mutual — Copycat Machine
-Last played               : postdrome — So Inviting
-Last played (UTC)         : 2026-02-03 22:51:31Z
+Now playing               : Amira Elfeky — Tonight (demo)
+Last played               : Doom Mutual — Copycat Machine
+Last played (UTC)         : 2026-02-03 22:55:37Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : geographics — 6 underground → postdrome — So Inviting
-Δ last played (since last): 2026-02-03 22:40:22Z → 2026-02-03 22:51:31Z
+Δ track (since last)      : postdrome — So Inviting → Doom Mutual — Copycat Machine
+Δ last played (since last): 2026-02-03 22:51:31Z → 2026-02-03 22:55:37Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:17
-Telemetry age             : 00:00:17
-Δ time (since last report): 00:08:11
+Time since last play      : 00:00:10
+Telemetry age             : 00:00:10
+Δ time (since last report): 00:03:59
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
+Tracks played (last 24h)  : 18
 Dominant artist           : Wayside
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 22:51:48Z → 2026-02-03 22:51:48Z
+Week window (UTC)         : 2026-01-27 22:55:47Z → 2026-02-03 22:55:47Z
 Total tracks played       : 50
 Dominant artist           : Wayside
 Cadence classification    : HIGH
@@ -892,10 +892,10 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
-Peak hour (7d)            : 18:00
-Heatmap (24h)             :          ▁        ██    
-Heatmap (7d)              :          ▃▆▁ ▇  ▆▁██  ▆▄
+Peak hour (24h)           : 19:00
+Peak hour (7d)            : 19:00
+Heatmap (24h)             :          ▁        ▇█    
+Heatmap (7d)              :          ▃▅▁ ▅  ▅▁▇█  ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -906,11 +906,11 @@ Avg inter-play gap (7d)   : 02:35:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(7) | metalcore(2) | latin rock(1) | space rock(1) | stoner rock(1)
+Top genres (24h)          : shoegaze(8) | metalcore(2) | latin rock(1) | space rock(1) | stoner rock(1)
 Top genres (7d)           : shoegaze(23) | post-grunge(7) | grunge(6) | latin rock(4) | alternative metal(2) | metalcore(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 22:51:48Z
+Report generated (UTC)    : 2026-02-03 22:55:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
