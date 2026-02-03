@@ -9,7 +9,8 @@
     
   ],
   "exclude_prefixes": [
-    ".github"
+    ".github",
+    "vizceral-netflix-implant"
   ],
   "exclude_contains": [
     "udemy",
