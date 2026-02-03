@@ -305,7 +305,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-01-29 12:38:27Z
+DSN snapshot (UTC)       : 2026-02-03 21:36:22Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -316,15 +316,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.44e9 km | 170.025 AU
-Heliocentric distance    : 169.533 AU
-Relative speed           : 24.210 km/s
+Earth distance           : 25.43e9 km | 170.015 AU
+Heliocentric distance    : 169.586 AU
+Relative speed           : 23.139 km/s
 ------------------------------------------------------------
-One-way light time       : 23:34:03
-Round-trip latency       : 47:08:07
+One-way light time       : 23:33:58
+Round-trip latency       : 47:07:57
 ------------------------------------------------------------
-Δ distance (since last)  : -54,788 km
-Mission age              : 48 years, 158 days
+Δ distance (since last)  : -41,099 km
+Mission age              : 48 years, 163 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -335,19 +335,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.695 AU
-Heliocentric distance    : 141.961 AU
-Relative speed           : 31.470 km/s
+Earth distance           : 21.35e9 km | 142.716 AU
+Heliocentric distance    : 142.008 AU
+Relative speed           : 30.559 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:45
-Round-trip latency       : 39:33:31
+One-way light time       : 19:46:56
+Round-trip latency       : 39:33:52
 ------------------------------------------------------------
-Δ distance (since last)  : +166,921 km
-Mission age              : 48 years, 174 days
+Δ distance (since last)  : +60,054 km
+Mission age              : 48 years, 179 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-01-29 12:38:29Z
+Report generated (UTC)   : 2026-02-03 21:36:27Z
 ```
 
 <!-- VOYAGER:END -->
@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Wayside — Parallax Error
-Last played               : never easy — cold
-Last played (UTC)         : 2026-01-29 16:20:29Z
+Now playing               : Dos-Ovni — Big Rock
+Last played               : ASAVA — Canyon
+Last played (UTC)         : 2026-02-03 21:35:14Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Druidess — Brahmastra → never easy — cold
-Δ last played (since last): 2026-01-29 16:16:55Z → 2026-01-29 16:20:29Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:13
-Telemetry age             : 00:03:13
-Δ time (since last report): 00:03:59
+Time since last play      : 00:04:01
+Telemetry age             : 00:04:01
+Δ time (since last report): 00:00:52
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,40 +877,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 32
-Dominant artist           : Jess Lai Mieritz
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 4
+Dominant artist           : ASAVA
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-22 16:23:41Z → 2026-01-29 16:23:41Z
+Week window (UTC)         : 2026-01-27 21:39:15Z → 2026-02-03 21:39:15Z
 Total tracks played       : 50
-Dominant artist           : Jess Lai Mieritz
+Dominant artist           : Wayside
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
+Peak hour (24h)           : 18:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             : ▁         █▅▁▆ ▅█▁    ▂ 
-Heatmap (7d)              :          ▁█▄ ▂ ▂▃     ▁ 
+Heatmap (24h)             :          ▃        █     
+Heatmap (7d)              : ▁        ▂█▃▁▄  ▄▁▂   ▄▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 6
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 00:33:44
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:49:09
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(16) | latin rock(2) | progressive metal(2) | progressive rock(2) | alternative metal(1) | djent(1)
-Top genres (7d)           : shoegaze(16) | metalcore(4) | progressive metal(3) | latin rock(2) | progressive rock(2) | alternative metal(1)
+Top genres (24h)          : shoegaze(2)
+Top genres (7d)           : shoegaze(28) | post-grunge(7) | grunge(6) | latin rock(5) | alternative metal(2) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-01-29 16:23:41Z
+Report generated (UTC)    : 2026-02-03 21:39:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1265,9 +1265,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 29 January 2026
+From: 04 December 2023 - To: 03 February 2026
 
-Total Time       : 972 hrs 38 mins
+Total Time       : 978 hrs 17 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 14 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1276,44 +1276,45 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.80 %
-Python         136 hrs 57 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.08 %
-HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.89 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.18 %
-Other          89 hrs 19 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   9.18 %
-Markdown       77 hrs 47 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.00 %
-C              73 hrs 39 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.57 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.11 %
-Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.90 %
-INI            35 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.67 %
+Bash           164 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.83 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.19 %
+HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.81 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.12 %
+Other          104 hrs 58 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.73 %
+Markdown       78 hrs 9 mins  ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.99 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.53 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.09 %
+Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.88 %
+YAML           36 hrs 54 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          570 hrs 43 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.68 %
-Mac            491 hrs 14 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  50.51 %
+Linux          584 hrs 2 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  59.70 %
+Mac            499 hrs 13 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.03 %
 
 EDITORS
 -------
-VS Code        650 hrs 33 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.88 %
-Vim            322 hrs 11 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.13 %
-Firefox        72 hrs 9 mins  ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.42 %
+VS Code        650 hrs 33 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.50 %
+Vim            325 hrs 15 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.25 %
+Firefox        89 hrs 57 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   9.20 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
-Terminal       1 hr 21 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.14 %
+Terminal       1 hr 22 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.14 %
+Antigravity    44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-Antigravity    43 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
 TextMate       40 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
+Notes          20 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
 Dia            6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
-Chrome         0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
+Chrome         2 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 CATEGORIES
 ----------
-Coding         989 hrs 12 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       72 hrs 9 mins  ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.42 %
-Writing Docs   35 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.06 %
+Coding         992 hrs 19 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       89 hrs 59 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   9.20 %
+Writing Docs   56 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 29/01/2026 15:17:05 UTC
+Last updated     : 03/02/2026 21:16:39 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2060,6 +2061,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 <br>
   
   - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
+  - [intelforge](https://github.com/felipealfonsog/intelforge): Defensive CTI pipeline built in Perl. IntelForge is a Perl-first, CLI-driven defensive cyber threat intelligence (CTI) pipeline that ingests public sources, extracts and normalizes indicators, applies lightweight rules and scoring, and produces auditable artifacts (JSONL + reports).
   - [ShadowScan](https://github.com/felipealfonsog/ShadowScan): ShadowScan is a security tool designed to scan files and system configurations for hidden backdoors, malicious scripts, and reverse shells on Linux and macOS.
   - [CamViewer](https://github.com/felipealfonsog/camviewer): CamViewer is a simple web-based CCTV dashboard that allows you to stream multiple RTSP camera feeds through a clean HLS interface. It uses FFmpeg for transcoding and a Node.js backend to serve the interface and handle stream startup. It is compatible with Arch Linux and macOS (including Apple Silicon). The frontend is optimized for desktop and Android TV browsers.
   - [GhostFlagger](https://github.com/felipealfonsog/GhostFlagger): GhostFlagger is a stealthy tool that detects and reports offensive content on X (Twitter) automatically. Running under a VPN, it flags harmful tweets discreetly and enforces platform guidelines without leaving a trace.
@@ -2083,6 +2085,13 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   - [PerlMemoPad](https://github.com/NymexData/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
   - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
   - [Paper Archive*](https://github.com/felipealfonsog/PaperArchive): PaperArchive is a curated collection of research papers authored by me, spanning the realms of engineering, computer science, and social sciences. Explore my contributions to diverse fields of study, from cutting-edge technology to insightful social analyses (***Private repository***).
+
+#
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
+#
 
 <sub>*Exclusively curated repository storing papers authored by me.</sub>
 
