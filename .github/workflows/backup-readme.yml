@@ -1,0 +1,125 @@
+name: Backup README (CCTV Ring)
+
+on:
+  # ─────────────────────────────────────────────
+  # Scheduled execution
+  # Runs every 6 hours (UTC)
+  # Always uses DEFAULT_DAYS = 1
+  # ─────────────────────────────────────────────
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # ─────────────────────────────────────────────
+  # Manual execution (Run workflow)
+  # Allows overriding how many days the ring keeps
+  # ─────────────────────────────────────────────
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "CCTV retention window in days (default: 1)"
+        required: false
+        default: "1"
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    # ─────────────────────────────────────────────
+    # Static configuration
+    # PERIOD_HOURS = snapshot frequency
+    # DEFAULT_DAYS = used by scheduled runs
+    # ─────────────────────────────────────────────
+    env:
+      PERIOD_HOURS: "6"     # Snapshot every 6 hours
+      DEFAULT_DAYS: "1"     # Default CCTV window (1 day)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Backup README into CCTV ring
+        run: |
+          set -euo pipefail
+
+          # ─────────────────────────────────────
+          # Prepare workspace
+          # ─────────────────────────────────────
+          mkdir -p backups
+
+          # ─────────────────────────────────────
+          # Determine execution context
+          # - schedule  → use DEFAULT_DAYS
+          # - manual    → use input 'days'
+          # ─────────────────────────────────────
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            DAYS="${{ inputs.days }}"
+          else
+            DAYS="${DEFAULT_DAYS}"
+          fi
+
+          # ─────────────────────────────────────
+          # Validate DAYS (1–30)
+          # ─────────────────────────────────────
+          case "$DAYS" in
+            ''|*[!0-9]*) echo "ERROR: days must be an integer"; exit 1 ;;
+          esac
+
+          if [ "$DAYS" -lt 1 ] || [ "$DAYS" -gt 30 ]; then
+            echo "ERROR: days out of range (1..30)"
+            exit 1
+          fi
+
+          # ─────────────────────────────────────
+          # Time math (CCTV logic)
+          # PERIOD_HOURS anchors the ring to real UTC time
+          # ─────────────────────────────────────
+          PERIOD_SECONDS=$(( PERIOD_HOURS * 3600 ))
+          SLOTS_PER_DAY=$(( 24 / PERIOD_HOURS ))
+          TOTAL_SLOTS=$(( SLOTS_PER_DAY * DAYS ))
+
+          BUCKET=$(( $(date -u +%s) / PERIOD_SECONDS ))
+          SLOT=$(( BUCKET % TOTAL_SLOTS ))
+
+          # ─────────────────────────────────────
+          # Filename format
+          # backups/backup-ring{N}d_slotX-YYYY-MM-DD_HHMMZ.md
+          # ─────────────────────────────────────
+          TS="$(date -u +'%Y-%m-%d_%H%MZ')"
+          PREFIX="backup-ring${DAYS}d_slot${SLOT}"
+
+          # CCTV overwrite:
+          # Remove previous file for this slot in this ring
+          rm -f "backups/${PREFIX}-"*.md
+
+          OUT="backups/${PREFIX}-${TS}.md"
+
+          # ─────────────────────────────────────
+          # Write snapshot
+          # ─────────────────────────────────────
+          {
+            echo "<!--"
+            echo " snapshot_utc : ${TS}"
+            echo " ring_days    : ${DAYS}"
+            echo " slot         : ${SLOT}/${TOTAL_SLOTS}"
+            echo " period_hours : ${PERIOD_HOURS}"
+            echo "-->"
+            echo
+            cat README.md
+          } > "$OUT"
+
+          # ─────────────────────────────────────
+          # Git commit (additions + deletions)
+          # ─────────────────────────────────────
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git status --porcelain | grep -q .; then
+            git add -A backups
+            git commit -m "chore(backup): README CCTV ring=${DAYS}d slot=${SLOT} utc=${TS}"
+            git push
+          else
+            echo "No changes detected; nothing to commit."
+          fi
