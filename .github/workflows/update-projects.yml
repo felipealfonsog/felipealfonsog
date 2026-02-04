@@ -5,7 +5,6 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
-# Prevent concurrent runs (cron + manual) from racing
 concurrency:
   group: update-project-portfolio
   cancel-in-progress: true
@@ -21,7 +20,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # important for rebase
+          fetch-depth: 0   # required for rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,41 +32,42 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Generate README portfolio (public, hardened)
+      - name: Generate README portfolio
         env:
           GITHUB_USERNAME: felipealfonsog
           README_PATH: README.md
 
-          # --- Section sizes (balanced) ---
           MAX_LATEST: "6"
           MAX_RECENT: "8"
           MAX_POPULAR: "8"
           MAX_CURATED: "40"
 
-          # --- Behavior toggles ---
           USE_PROJECT_PRIORITY: "false"
           DETAILS_OPEN: "true"
 
-          # --- Exclusions (JSON-based) ---
           EXCLUSIONS_ENABLED: "true"
           EXCLUSIONS_FILE: "config/exclusions.json"
 
-          # --- Safety ---
           FAIL_SOFT: "true"
 
-          # --- GitHub API ---
           PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
         run: |
           python scripts/update_projects.py
 
-      - name: Commit changes (safe rebase)
+      - name: Commit changes (CI-safe)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Sync with remote to avoid non-fast-forward errors
+          # Stash generated files (if any)
+          git stash push -u -m "ci-generated" || true
+
+          # Sync with remote safely
           git fetch origin
           git rebase origin/master || git rebase --abort
+
+          # Restore generated files
+          git stash pop || true
 
           if git diff --quiet; then
             echo "No changes detected. Skipping commit."
