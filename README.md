@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : DECAINE — ANGELS FALL
-Last played               : Grimzlee — Damn, This Hurts
-Last played (UTC)         : 2026-02-03 23:57:19Z
+Now playing               : World Divided — Entwined
+Last played               : deer death — glue
+Last played (UTC)         : 2026-02-04 00:15:44Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : DEADSIREN, msliterate — HAUNTED → Grimzlee — Damn, This Hurts
-Δ last played (since last): 2026-02-03 23:50:47Z → 2026-02-03 23:57:19Z
+Δ track (since last)      : Grimzlee — Damn, This Hurts → deer death — glue
+Δ last played (since last): 2026-02-03 23:57:19Z → 2026-02-04 00:15:44Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:59
-Telemetry age             : 00:00:59
-Δ time (since last report): 00:03:49
+Time since last play      : 00:00:24
+Telemetry age             : 00:00:24
+Δ time (since last report): 00:17:51
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 37
+Tracks played (last 24h)  : 43
 Dominant artist           : Amira Elfeky
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 23:58:17Z → 2026-02-03 23:58:17Z
+Week window (UTC)         : 2026-01-28 00:16:08Z → 2026-02-04 00:16:08Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                   ▄▄█   
-Heatmap (7d)              :                   ▄▄█ ▃▂
+Heatmap (24h)             :                   ▄▄█▃  
+Heatmap (7d)              :                   ▄▄█▃▁▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:40:23
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:56:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(22) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
-Top genres (7d)           : shoegaze(26) | post-grunge(7) | grunge(6) | alternative metal(2) | latin alternative(2) | latin indie(2)
-Artist lookups (this run) : 2 (cached)
+Top genres (24h)          : shoegaze(24) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
+Top genres (7d)           : shoegaze(25) | post-grunge(6) | grunge(5) | latin alternative(2) | latin indie(2) | metalcore(2)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 23:58:17Z
+Report generated (UTC)    : 2026-02-04 00:16:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
