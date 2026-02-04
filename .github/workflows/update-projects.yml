@@ -1,14 +1,30 @@
 name: Update Project Portfolio
 
 on:
+  # ───────────────────────────────────────────────────────────────
+  # Manual trigger (button in GitHub Actions UI)
+  # ───────────────────────────────────────────────────────────────
   workflow_dispatch:
+
+  # ───────────────────────────────────────────────────────────────
+  # Scheduled trigger (UTC): every 6 hours at minute 00
+  # 00:00, 06:00, 12:00, 18:00 (UTC)
+  # ───────────────────────────────────────────────────────────────
   schedule:
     - cron: "0 */6 * * *"
 
+# ───────────────────────────────────────────────────────────────
+# Concurrency control
+# Prevent cron/manual runs from racing and causing push conflicts
+# ───────────────────────────────────────────────────────────────
 concurrency:
   group: update-project-portfolio
   cancel-in-progress: true
 
+# ───────────────────────────────────────────────────────────────
+# Permissions
+# We need write access to commit README updates back to the repo
+# ───────────────────────────────────────────────────────────────
 permissions:
   contents: write
 
@@ -17,63 +33,108 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ───────────────────────────────────────────────────────────
+      # [1] Checkout (full history)
+      # fetch-depth: 0 is required for rebase operations
+      # ───────────────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # required for rebase
+          fetch-depth: 0
 
+      # ───────────────────────────────────────────────────────────
+      # [2] Python runtime
+      # Pin a stable Python version for reproducibility
+      # ───────────────────────────────────────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # ───────────────────────────────────────────────────────────
+      # [3] Dependencies
+      # requests is used by the curation script to call GitHub APIs
+      # ───────────────────────────────────────────────────────────
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
+      # ───────────────────────────────────────────────────────────
+      # [4] Generate README portfolio (public-only)
+      # - Uses GraphQL pinnedItems (real pinned repos)
+      # - Builds sections: Pinned / Latest / Recent / Popular / Curated
+      # - Applies exclusions (JSON rules) when enabled
+      # - Fail-soft protects last known good README on API/network errors
+      # ───────────────────────────────────────────────────────────
       - name: Generate README portfolio
         env:
+          # ── Identity / target file
           GITHUB_USERNAME: felipealfonsog
           README_PATH: README.md
 
+          # ── Section sizing (balanced)
           MAX_LATEST: "6"
           MAX_RECENT: "8"
           MAX_POPULAR: "8"
           MAX_CURATED: "40"
 
-          USE_PROJECT_PRIORITY: "false"
-          DETAILS_OPEN: "true"
+          # ── Behavioral toggles
+          USE_PROJECT_PRIORITY: "false"   # true => scoring-based curation
+          DETAILS_OPEN: "true"            # true => <details open> | false => collapsed
 
-          EXCLUSIONS_ENABLED: "true"
+          # ── Exclusions (editable JSON)
+          EXCLUSIONS_ENABLED: "true"      # master switch for exclusions
           EXCLUSIONS_FILE: "config/exclusions.json"
 
-          FAIL_SOFT: "true"
+          # ── Safety net
+          FAIL_SOFT: "true"               # true => skip update on transient API/network errors
 
+          # ── GitHub API access (PAT in repo secrets)
           PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
         run: |
           python scripts/update_projects.py
 
+      # ───────────────────────────────────────────────────────────
+      # [5] Commit & push safely (CI-proof)
+      #
+      # Why this complexity?
+      # - Our script modifies files (README + exclusions JSON).
+      # - Meanwhile, remote master may have advanced (manual edits / other jobs).
+      # - If we rebase with dirty working tree => Git errors out.
+      #
+      # Strategy:
+      #   stash -> fetch -> rebase -> stash pop -> commit -> push
+      #
+      # This avoids:
+      # - "cannot rebase: You have unstaged changes"
+      # - "rejected (fetch first)" / non-fast-forward
+      # ───────────────────────────────────────────────────────────
       - name: Commit changes (CI-safe)
         run: |
+          set -e
+
+          # ── Bot identity (standard GitHub Actions bot)
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Stash generated files (if any)
+          # ── Stash generated files (even untracked), if any
           git stash push -u -m "ci-generated" || true
 
-          # Sync with remote safely
+          # ── Sync with remote master
           git fetch origin
-          git rebase origin/master || git rebase --abort
+          git rebase origin/master || { git rebase --abort || true; echo "Rebase failed."; exit 1; }
 
-          # Restore generated files
-          git stash pop || true
+          # ── Restore generated changes; fail loudly if conflicts occur
+          git stash pop || { echo "Stash pop failed (conflict). Aborting."; exit 1; }
 
+          # ── Nothing changed => do nothing (avoid empty commits)
           if git diff --quiet; then
             echo "No changes detected. Skipping commit."
             exit 0
           fi
 
+          # ── Stage, commit, push
           git add README.md config/exclusions.json
           git commit -m "chore: auto-update project portfolio"
           git push origin master
