@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : cloudyfield — is that love?
-Last played               : The Abstratica — Tomorrow
-Last played (UTC)         : 2026-02-04 00:29:22Z
+Now playing               : bbdalena — Synchronicities
+Last played               : Shyeye — Knot
+Last played (UTC)         : 2026-02-04 00:42:36Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : deer death — glue → The Abstratica — Tomorrow
-Δ last played (since last): 2026-02-04 00:15:44Z → 2026-02-04 00:29:22Z
+Δ track (since last)      : The Abstratica — Tomorrow → Shyeye — Knot
+Δ last played (since last): 2026-02-04 00:29:22Z → 2026-02-04 00:42:36Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:31
-Telemetry age             : 00:00:31
-Δ time (since last report): 00:13:45
+Time since last play      : 00:02:53
+Telemetry age             : 00:02:53
+Δ time (since last report): 00:15:36
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 47
+Tracks played (last 24h)  : 50
 Dominant artist           : Amira Elfeky
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-28 00:29:53Z → 2026-02-04 00:29:53Z
+Week window (UTC)         : 2026-01-28 00:45:28Z → 2026-02-04 00:45:28Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                   ▄▄█▄  
-Heatmap (7d)              :                   ▄▄█▄ ▁
+Heatmap (24h)             :                   ▄▄█▆  
+Heatmap (7d)              :                   ▄▄█▆  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:56:41
+Sessions (24h)            : 1
+Sessions (7d)             : 1
+Avg inter-play gap (7d)   : 00:04:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(26) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
-Top genres (7d)           : shoegaze(27) | metalcore(3) | latin alternative(2) | latin indie(2) | post-grunge(2) | alternative metal(1)
-Artist lookups (this run) : 2 (cached)
+Top genres (24h)          : shoegaze(28) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
+Top genres (7d)           : shoegaze(28) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
+Artist lookups (this run) : 3 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-04 00:29:53Z
+Report generated (UTC)    : 2026-02-04 00:45:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

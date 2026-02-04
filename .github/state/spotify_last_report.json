@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-02-04 00:29:53Z",
+  "report_generated_utc": "2026-02-04 00:45:28Z",
   "status": "PLAYING",
-  "last_track": "The Abstratica — Tomorrow",
-  "last_played_utc": "2026-02-04 00:29:22Z",
+  "last_track": "Shyeye — Knot",
+  "last_played_utc": "2026-02-04 00:42:36Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -320,6 +320,13 @@
     ],
     "5yjLh3Ue9pXmTfUH6WVlgd": [
       "metalcore"
+    ],
+    "2kk54T90g7cdFeMjjeABHJ": [],
+    "5J0ehnVK9YOBGWOwE022ar": [
+      "shoegaze"
+    ],
+    "76YHUJWHU2wgGBZjIg3itT": [
+      "shoegaze"
     ]
   }
 }
