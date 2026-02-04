@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-04 00:45:28Z",
-  "status": "PLAYING",
-  "last_track": "Shyeye — Knot",
-  "last_played_utc": "2026-02-04 00:42:36Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-02-04 04:04:58Z",
+  "status": "IDLE",
+  "last_track": "bbdalena — Synchronicities",
+  "last_played_utc": "2026-02-04 00:46:34Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -326,6 +326,9 @@
       "shoegaze"
     ],
     "76YHUJWHU2wgGBZjIg3itT": [
+      "shoegaze"
+    ],
+    "1Bz7JYqdlG394tjNShtqAV": [
       "shoegaze"
     ]
   }
