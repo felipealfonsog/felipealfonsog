@@ -2251,7 +2251,8 @@ All projects are distributed under their respective licenses as defined per repo
 <!-- ![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue) -->
 <!-- Last Updated: 2023-07-23 -->
 
-[![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org) [![Copilot Enabled](https://img.shields.io/badge/Copilot-Enabled-%23333F48.svg?style=plastic&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
+[![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org) [![Copilot Enabled](https://img.shields.io/badge/Copilot-Enabled-%23333F48.svg?style=plastic&logo=github-copilot&logoColor=white)](https://github.com/features/copilot) [![GitHub Actions Enabled](https://img.shields.io/badge/GitHub%20Actions-Enabled-%23333F48.svg?style=plastic&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
 
 
 <sub>[[Top Home]](#hi-there-)</sub>
