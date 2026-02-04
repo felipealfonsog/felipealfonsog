@@ -854,17 +854,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : bbdalena — Synchronicities
-Last played (UTC)         : 2026-02-04 00:46:34Z
+Last played               : postdrome — So Inviting
+Last played (UTC)         : 2026-02-04 15:05:22Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : bbdalena — Synchronicities → postdrome — So Inviting
+Δ last played (since last): 2026-02-04 00:46:34Z → 2026-02-04 15:05:22Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 11:51:52
-Telemetry age             : 11:51:52
-Δ time (since last report): 00:01:23
+Time since last play      : 00:30:00
+Telemetry age             : 00:30:00
+Δ time (since last report): 02:56:57
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-28 12:38:25Z → 2026-02-04 12:38:25Z
+Week window (UTC)         : 2026-01-28 15:35:22Z → 2026-02-04 15:35:22Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -899,17 +899,17 @@ Heatmap (7d)              :                   ▃▄█▇
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:04:02
+Sessions (24h)            : 2
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 00:21:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(28) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
-Top genres (7d)           : shoegaze(28) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
+Top genres (24h)          : shoegaze(29) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
+Top genres (7d)           : shoegaze(29) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-04 12:38:25Z
+Report generated (UTC)    : 2026-02-04 15:35:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
