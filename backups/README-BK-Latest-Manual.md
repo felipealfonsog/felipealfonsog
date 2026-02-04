@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : msliterate — hypoxia
-Last played               : Tatiana Hazel — Floodgate
-Last played (UTC)         : 2026-02-03 23:39:24Z
+Now playing               : cloudyfield — is that love?
+Last played               : The Abstratica — Tomorrow
+Last played (UTC)         : 2026-02-04 00:29:22Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : deer death — glue → The Abstratica — Tomorrow
+Δ last played (since last): 2026-02-04 00:15:44Z → 2026-02-04 00:29:22Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:43
-Telemetry age             : 00:02:43
-Δ time (since last report): 00:02:24
+Time since last play      : 00:00:31
+Telemetry age             : 00:00:31
+Δ time (since last report): 00:13:45
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 32
+Tracks played (last 24h)  : 47
 Dominant artist           : Amira Elfeky
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-27 23:42:06Z → 2026-02-03 23:42:06Z
+Week window (UTC)         : 2026-01-28 00:29:53Z → 2026-02-04 00:29:53Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :          ▁        ▅▆█   
-Heatmap (7d)              :          ▁▄▁ ▁    ▅▆█ ▄▂
+Heatmap (24h)             :                   ▄▄█▄  
+Heatmap (7d)              :                   ▄▄█▄ ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:40:46
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:56:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(17) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
-Top genres (7d)           : shoegaze(25) | post-grunge(7) | grunge(6) | alternative metal(2) | latin alternative(2) | latin indie(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : shoegaze(26) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
+Top genres (7d)           : shoegaze(27) | metalcore(3) | latin alternative(2) | latin indie(2) | post-grunge(2) | alternative metal(1)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-03 23:42:06Z
+Report generated (UTC)    : 2026-02-04 00:29:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2208,7 +2208,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [FeedHive](https://github.com/openvelora/FeedHive): It's very simple, it's a loader news or feednews, with the chance to make comments and put a finger up in a post.
   🧬 JavaScript · HTML · EJS
 
-
+<br>
 </details>
 <!-- PROJECTS:END -->
 
@@ -2251,7 +2251,8 @@ All projects are distributed under their respective licenses as defined per repo
 <!-- ![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue) -->
 <!-- Last Updated: 2023-07-23 -->
 
-[![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org) [![Copilot Enabled](https://img.shields.io/badge/Copilot-Enabled-%23333F48.svg?style=plastic&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
+[![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org) [![Copilot Enabled](https://img.shields.io/badge/Copilot-Enabled-%23333F48.svg?style=plastic&logo=github-copilot&logoColor=white)](https://github.com/features/copilot) [![GitHub Actions Enabled](https://img.shields.io/badge/GitHub%20Actions-Enabled-%23333F48.svg?style=plastic&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
 
 
 <sub>[[Top Home]](#hi-there-)</sub>
