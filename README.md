@@ -2208,7 +2208,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [FeedHive](https://github.com/openvelora/FeedHive): It's very simple, it's a loader news or feednews, with the chance to make comments and put a finger up in a post.
   🧬 JavaScript · HTML · EJS
 
-
+<br>
 </details>
 <!-- PROJECTS:END -->
 
