@@ -2,7 +2,7 @@ name: Update Project Portfolio
 
 on:
   # ───────────────────────────────────────────────────────────────
-  # Manual trigger (button in GitHub Actions UI)
+  # Manual trigger (GitHub UI button)
   # ───────────────────────────────────────────────────────────────
   workflow_dispatch:
 
@@ -23,7 +23,7 @@ concurrency:
 
 # ───────────────────────────────────────────────────────────────
 # Permissions
-# We need write access to commit README updates back to the repo
+# Needed to commit & push README updates back to the repository
 # ───────────────────────────────────────────────────────────────
 permissions:
   contents: write
@@ -34,7 +34,7 @@ jobs:
 
     steps:
       # ───────────────────────────────────────────────────────────
-      # [1] Checkout (full history)
+      # [1] Checkout repository (full history)
       # fetch-depth: 0 is required for rebase operations
       # ───────────────────────────────────────────────────────────
       - name: Checkout repository
@@ -44,7 +44,7 @@ jobs:
 
       # ───────────────────────────────────────────────────────────
       # [2] Python runtime
-      # Pin a stable Python version for reproducibility
+      # Pin a stable version for reproducibility
       # ───────────────────────────────────────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -62,10 +62,10 @@ jobs:
 
       # ───────────────────────────────────────────────────────────
       # [4] Generate README portfolio (public-only)
-      # - Uses GraphQL pinnedItems (real pinned repos)
+      # - Pulls REAL pinned repos via GraphQL pinnedItems
       # - Builds sections: Pinned / Latest / Recent / Popular / Curated
-      # - Applies exclusions (JSON rules) when enabled
-      # - Fail-soft protects last known good README on API/network errors
+      # - Applies exclusions via JSON rules (when enabled)
+      # - FAIL_SOFT keeps last-known-good README on transient API errors
       # ───────────────────────────────────────────────────────────
       - name: Generate README portfolio
         env:
@@ -80,7 +80,7 @@ jobs:
           MAX_CURATED: "40"
 
           # ── Behavioral toggles
-          USE_PROJECT_PRIORITY: "false"   # true => scoring-based curation
+          USE_PROJECT_PRIORITY: "false"   # true => scoring-based curated ranking
           DETAILS_OPEN: "true"            # true => <details open> | false => collapsed
 
           # ── Exclusions (editable JSON)
@@ -88,9 +88,9 @@ jobs:
           EXCLUSIONS_FILE: "config/exclusions.json"
 
           # ── Safety net
-          FAIL_SOFT: "true"               # true => skip update on transient API/network errors
+          FAIL_SOFT: "true"               # true => skip update on API/network errors
 
-          # ── GitHub API access (PAT in repo secrets)
+          # ── GitHub API access (PAT stored in repo secrets)
           PORTFOLIO_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
         run: |
           python scripts/update_projects.py
@@ -98,37 +98,48 @@ jobs:
       # ───────────────────────────────────────────────────────────
       # [5] Commit & push safely (CI-proof)
       #
-      # Why this complexity?
-      # - Our script modifies files (README + exclusions JSON).
-      # - Meanwhile, remote master may have advanced (manual edits / other jobs).
-      # - If we rebase with dirty working tree => Git errors out.
+      # Problem we solved:
+      # - If remote master advances while the workflow runs => push rejected (non-fast-forward)
+      # - If we rebase while the working tree is dirty => Git refuses to rebase
+      # - If we "stash pop" without an actual stash => stash pop fails
       #
       # Strategy:
-      #   stash -> fetch -> rebase -> stash pop -> commit -> push
-      #
-      # This avoids:
-      # - "cannot rebase: You have unstaged changes"
-      # - "rejected (fetch first)" / non-fast-forward
+      #   detect changes -> stash (only if needed)
+      #   fetch + rebase onto origin/master
+      #   stash pop (only if stash exists)
+      #   commit & push (only if diff exists)
       # ───────────────────────────────────────────────────────────
       - name: Commit changes (CI-safe)
         run: |
           set -e
 
-          # ── Bot identity (standard GitHub Actions bot)
+          # ── Bot identity
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # ── Stash generated files (even untracked), if any
-          git stash push -u -m "ci-generated" || true
+          # ── Detect if the script produced any local modifications
+          # Note: git diff --quiet returns 0 when there are NO changes
+          if git diff --quiet && git diff --cached --quiet; then
+            HAS_CHANGES=false
+          else
+            HAS_CHANGES=true
+          fi
 
-          # ── Sync with remote master
+          # ── Stash only when changes exist (avoid "No stash entries found")
+          if [ "$HAS_CHANGES" = true ]; then
+            git stash push -u -m "ci-generated"
+          fi
+
+          # ── Sync with remote master (avoids non-fast-forward push errors)
           git fetch origin
           git rebase origin/master || { git rebase --abort || true; echo "Rebase failed."; exit 1; }
 
-          # ── Restore generated changes; fail loudly if conflicts occur
-          git stash pop || { echo "Stash pop failed (conflict). Aborting."; exit 1; }
+          # ── Restore stash only if it exists
+          if git stash list | grep -q "ci-generated"; then
+            git stash pop
+          fi
 
-          # ── Nothing changed => do nothing (avoid empty commits)
+          # ── If nothing changed after all => exit clean (no empty commits)
           if git diff --quiet; then
             echo "No changes detected. Skipping commit."
             exit 0
