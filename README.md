@@ -858,13 +858,13 @@ Last played               : Slow Degrade — Who Will Fix Me Now?
 Last played (UTC)         : 2026-02-05 13:13:41Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : postdrome — So Inviting → Slow Degrade — Who Will Fix Me Now?
-Δ last played (since last): 2026-02-04 15:05:22Z → 2026-02-05 13:13:41Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:21:19
-Telemetry age             : 02:21:19
-Δ time (since last report): 02:56:23
+Time since last play      : 02:22:17
+Telemetry age             : 02:22:17
+Δ time (since last report): 00:00:58
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-29 15:35:00Z → 2026-02-05 15:35:00Z
+Week window (UTC)         : 2026-01-29 15:35:58Z → 2026-02-05 15:35:58Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : shoegaze(1)
 Top genres (7d)           : shoegaze(30) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-05 15:35:00Z
+Report generated (UTC)    : 2026-02-05 15:35:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
