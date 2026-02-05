@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:29:51
-Telemetry age             : 06:29:51
-Δ time (since last report): 00:00:44
+Time since last play      : 09:47:34
+Telemetry age             : 09:47:34
+Δ time (since last report): 03:17:43
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
-Dominant artist           : Amira Elfeky
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 1
+Dominant artist           : postdrome
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-28 21:35:13Z → 2026-02-04 21:35:13Z
+Week window (UTC)         : 2026-01-29 00:52:55Z → 2026-02-05 00:52:55Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -891,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 12:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                   ▃▄█▇  
+Heatmap (24h)             :             █           
 Heatmap (7d)              :                   ▃▄█▇  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 2
 Avg inter-play gap (7d)   : 00:21:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(29) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
+Top genres (24h)          : shoegaze(1)
 Top genres (7d)           : shoegaze(29) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-04 21:35:13Z
+Report generated (UTC)    : 2026-02-05 00:52:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
