@@ -854,17 +854,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : postdrome — So Inviting
-Last played (UTC)         : 2026-02-04 15:05:22Z
+Last played               : Slow Degrade — Who Will Fix Me Now?
+Last played (UTC)         : 2026-02-05 13:13:41Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : postdrome — So Inviting → Slow Degrade — Who Will Fix Me Now?
+Δ last played (since last): 2026-02-04 15:05:22Z → 2026-02-05 13:13:41Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 21:33:15
-Telemetry age             : 21:33:15
-Δ time (since last report): 00:01:23
+Time since last play      : 02:21:19
+Telemetry age             : 02:21:19
+Δ time (since last report): 02:56:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : postdrome
+Tracks played (last 24h)  : 2
+Dominant artist           : Slow Degrade
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-29 12:38:37Z → 2026-02-05 12:38:37Z
+Week window (UTC)         : 2026-01-29 15:35:00Z → 2026-02-05 15:35:00Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -891,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :             █           
-Heatmap (7d)              :                   ▃▄█▇  
+Heatmap (24h)             :           █             
+Heatmap (7d)              :           ▁       ▂▄█▇  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:21:26
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:48:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(1)
-Top genres (7d)           : shoegaze(29) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
+Top genres (7d)           : shoegaze(30) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-05 12:38:37Z
+Report generated (UTC)    : 2026-02-05 15:35:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
