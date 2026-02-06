@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-05_0021Z
+ snapshot_utc : 2026-02-06_0019Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-04 21:36:14Z
+DSN snapshot (UTC)       : 2026-02-05 21:35:38Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 170.013 AU
-Heliocentric distance    : 169.596 AU
-Relative speed           : 22.949 km/s
+Earth distance           : 25.43e9 km | 170.011 AU
+Heliocentric distance    : 169.605 AU
+Relative speed           : 22.762 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:57
-Round-trip latency       : 47:07:55
+One-way light time       : 23:33:56
+Round-trip latency       : 47:07:52
 ------------------------------------------------------------
-Δ distance (since last)  : -43,747 km
-Mission age              : 48 years, 164 days
+Δ distance (since last)  : -45,840 km
+Mission age              : 48 years, 165 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -342,19 +342,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.719 AU
-Heliocentric distance    : 142.017 AU
-Relative speed           : 30.391 km/s
+Earth distance           : 21.35e9 km | 142.722 AU
+Heliocentric distance    : 142.025 AU
+Relative speed           : 30.224 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:57
-Round-trip latency       : 39:33:55
+One-way light time       : 19:46:59
+Round-trip latency       : 39:33:58
 ------------------------------------------------------------
-Δ distance (since last)  : +56,410 km
-Mission age              : 48 years, 180 days
+Δ distance (since last)  : +52,160 km
+Mission age              : 48 years, 181 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-04 21:36:18Z
+Report generated (UTC)   : 2026-02-05 21:35:42Z
 ```
 
 <!-- VOYAGER:END -->
@@ -861,17 +861,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : postdrome — So Inviting
-Last played (UTC)         : 2026-02-04 15:05:22Z
+Last played               : Slow Degrade — Who Will Fix Me Now?
+Last played (UTC)         : 2026-02-05 13:13:41Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:29:51
-Telemetry age             : 06:29:51
-Δ time (since last report): 00:00:44
+Time since last play      : 08:20:45
+Telemetry age             : 08:20:45
+Δ time (since last report): 00:00:24
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,14 +883,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
-Dominant artist           : Amira Elfeky
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 2
+Dominant artist           : Slow Degrade
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-28 21:35:13Z → 2026-02-04 21:35:13Z
+Week window (UTC)         : 2026-01-29 21:34:26Z → 2026-02-05 21:34:26Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -898,25 +898,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                   ▃▄█▇  
-Heatmap (7d)              :                   ▃▄█▇  
+Heatmap (24h)             :           █             
+Heatmap (7d)              :           ▁       ▂▄█▇  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:21:26
+Sessions (24h)            : 1
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:48:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(29) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
-Top genres (7d)           : shoegaze(29) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
+Top genres (24h)          : shoegaze(1)
+Top genres (7d)           : shoegaze(30) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-04 21:35:13Z
+Report generated (UTC)    : 2026-02-05 21:34:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,7 +1271,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 04 February 2026
+From: 04 December 2023 - To: 05 February 2026
 
 Total Time       : 981 hrs 9 mins
 Mostly coding in : Bash
@@ -1320,7 +1320,7 @@ Writing Docs   1 hr 33 mins   ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 04/02/2026 22:11:14 UTC
+Last updated     : 05/02/2026 22:12:07 UTC
 
 ```
 <!--END_SECTION:wakastats-->
