@@ -859,13 +859,13 @@ Last played               : Druidess — Brahmastra
 Last played (UTC)         : 2026-02-06 14:50:37Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Slow Degrade — Who Will Fix Me Now? → Druidess — Brahmastra
-Δ last played (since last): 2026-02-05 13:13:41Z → 2026-02-06 14:50:37Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:43
-Telemetry age             : 00:02:43
-Δ time (since last report): 02:16:17
+Time since last play      : 00:04:30
+Telemetry age             : 00:04:30
+Δ time (since last report): 00:01:48
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-30 14:53:19Z → 2026-02-06 14:53:19Z
+Week window (UTC)         : 2026-01-30 14:55:06Z → 2026-02-06 14:55:06Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : shoegaze(1)
 Top genres (7d)           : shoegaze(31) | latin alternative(2) | latin indie(2) | latin rock(1) | metalcore(1) | space rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-06 14:53:19Z
+Report generated (UTC)    : 2026-02-06 14:55:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
