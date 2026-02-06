@@ -859,13 +859,13 @@ Last played               : Weichafe — Z
 Last played (UTC)         : 2026-02-06 15:58:45Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Druidess — Brahmastra → Weichafe — Z
-Δ last played (since last): 2026-02-06 14:50:37Z → 2026-02-06 15:58:45Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:19
-Telemetry age             : 00:00:19
-Δ time (since last report): 00:00:21
+Time since last play      : 00:03:27
+Telemetry age             : 00:03:27
+Δ time (since last report): 00:03:08
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-30 15:59:04Z → 2026-02-06 15:59:04Z
+Week window (UTC)         : 2026-01-30 16:02:12Z → 2026-02-06 16:02:12Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : latin rock(1) | shoegaze(1)
 Top genres (7d)           : shoegaze(31) | latin alternative(2) | latin indie(2) | latin rock(2) | metalcore(1) | space rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-06 15:59:04Z
+Report generated (UTC)    : 2026-02-06 16:02:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
