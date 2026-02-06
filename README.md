@@ -856,16 +856,16 @@ Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : Weichafe — Z
 Last played               : Weichafe — Z
-Last played (UTC)         : 2026-02-06 16:23:03Z
+Last played (UTC)         : 2026-02-06 21:07:22Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ last played (since last): 2026-02-06 16:23:03Z → 2026-02-06 21:07:22Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:06:11
-Telemetry age             : 03:06:11
-Δ time (since last report): 00:00:14
+Time since last play      : 00:03:24
+Telemetry age             : 00:03:24
+Δ time (since last report): 01:41:33
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 5
 Dominant artist           : Weichafe
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-30 19:29:13Z → 2026-02-06 19:29:13Z
+Week window (UTC)         : 2026-01-30 21:10:45Z → 2026-02-06 21:10:45Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 11:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :            ███          
+Heatmap (24h)             :            ███  █ █     
 Heatmap (7d)              :           ▁ ▁      ▄█▇  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:21:19
+Sessions (24h)            : 4
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 01:26:33
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : latin rock(2) | shoegaze(1)
-Top genres (7d)           : shoegaze(31) | latin rock(3) | latin alternative(2) | latin indie(2) | metalcore(1)
+Top genres (24h)          : latin rock(4) | shoegaze(1)
+Top genres (7d)           : shoegaze(31) | latin rock(4) | latin alternative(2) | latin indie(2) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-06 19:29:13Z
+Report generated (UTC)    : 2026-02-06 21:10:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
