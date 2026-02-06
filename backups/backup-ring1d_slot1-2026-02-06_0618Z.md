@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-05_0620Z
+ snapshot_utc : 2026-02-06_0618Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-05 00:53:13Z
+DSN snapshot (UTC)       : 2026-02-06 04:08:05Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 170.013 AU
-Heliocentric distance    : 169.597 AU
-Relative speed           : 22.923 km/s
+Earth distance           : 25.43e9 km | 170.010 AU
+Heliocentric distance    : 169.608 AU
+Relative speed           : 22.712 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:57
-Round-trip latency       : 47:07:54
+One-way light time       : 23:33:56
+Round-trip latency       : 47:07:51
 ------------------------------------------------------------
-Δ distance (since last)  : -48,760 km
-Mission age              : 48 years, 165 days
+Δ distance (since last)  : -51,961 km
+Mission age              : 48 years, 166 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -342,19 +342,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.719 AU
-Heliocentric distance    : 142.018 AU
-Relative speed           : 30.368 km/s
+Earth distance           : 21.35e9 km | 142.722 AU
+Heliocentric distance    : 142.028 AU
+Relative speed           : 30.178 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:58
-Round-trip latency       : 39:33:55
+One-way light time       : 19:46:59
+Round-trip latency       : 39:33:58
 ------------------------------------------------------------
-Δ distance (since last)  : +61,859 km
-Mission age              : 48 years, 181 days
+Δ distance (since last)  : +57,185 km
+Mission age              : 48 years, 182 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-05 00:53:22Z
+Report generated (UTC)   : 2026-02-06 04:08:07Z
 ```
 
 <!-- VOYAGER:END -->
@@ -861,17 +861,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : postdrome — So Inviting
-Last played (UTC)         : 2026-02-04 15:05:22Z
+Last played               : Slow Degrade — Who Will Fix Me Now?
+Last played (UTC)         : 2026-02-05 13:13:41Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:02:38
-Telemetry age             : 13:02:38
-Δ time (since last report): 00:01:14
+Time since last play      : 14:53:04
+Telemetry age             : 14:53:04
+Δ time (since last report): 00:00:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,14 +883,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : postdrome
+Tracks played (last 24h)  : 2
+Dominant artist           : Slow Degrade
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-29 04:08:00Z → 2026-02-05 04:08:00Z
+Week window (UTC)         : 2026-01-30 04:06:45Z → 2026-02-06 04:06:45Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -898,25 +898,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :             █           
-Heatmap (7d)              :                   ▃▄█▇  
+Heatmap (24h)             :           █             
+Heatmap (7d)              :           ▁       ▂▄█▇  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:21:26
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:48:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(1)
-Top genres (7d)           : shoegaze(29) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
+Top genres (7d)           : shoegaze(30) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-05 04:08:00Z
+Report generated (UTC)    : 2026-02-06 04:06:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,11 +1271,11 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 05 February 2026
+From: 04 December 2023 - To: 06 February 2026
 
-Total Time       : 981 hrs 9 mins
+Total Time       : 981 hrs 18 mins
 Mostly coding in : Bash
-Daily average    : 1 hrs 14 mins
+Daily average    : 1 hrs 13 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
@@ -1284,43 +1284,45 @@ LANGUAGES
 ---------
 Bash           164 hrs 46 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.79 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.15 %
-HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.78 %
+HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.77 %
+Other          109 hrs 20 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.14 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.08 %
-Other          107 hrs 11 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.93 %
-Markdown       80 hrs 6 mins  ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.16 %
+Markdown       80 hrs 15 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.18 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.51 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.08 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.07 %
 Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.87 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          584 hrs 2 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.53 %
-Mac            504 hrs 18 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.40 %
+Linux          584 hrs 2 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.52 %
+Mac            506 hrs 36 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.63 %
 
 EDITORS
 -------
-VS Code        651 hrs 12 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.37 %
+VS Code        651 hrs 12 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.36 %
 Vim            325 hrs 16 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.15 %
-Firefox        93 hrs 40 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   9.55 %
+Firefox        95 hrs 7 mins  ●●◔○○○○○○○○○○○○○○○○○○○○○○○   9.69 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
-Terminal       1 hr 59 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
-Antigravity    44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-TextMate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+Terminal       2 hrs 41 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.27 %
+TextMate       47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Notes          20 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
-Dia            6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
+Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
 Chrome         2 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
+Zoom           0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 CATEGORIES
 ----------
-Coding         993 hrs 3 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       93 hrs 43 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   9.55 %
+Coding         993 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       95 hrs 9 mins  ●●◔○○○○○○○○○○○○○○○○○○○○○○○   9.70 %
 Writing Docs   1 hr 33 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.16 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
+Meeting        0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 05/02/2026 04:41:07 UTC
+Last updated     : 06/02/2026 04:40:45 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1392,22 +1394,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/clsource">
         <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
