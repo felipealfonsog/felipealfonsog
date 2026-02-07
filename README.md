@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 24:25:27
-Telemetry age             : 24:25:27
-Δ time (since last report): 02:56:13
+Time since last play      : 24:26:02
+Telemetry age             : 24:26:02
+Δ time (since last report): 00:00:35
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-31 21:32:49Z → 2026-02-07 21:32:49Z
+Week window (UTC)         : 2026-01-31 21:33:24Z → 2026-02-07 21:33:24Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : shoegaze(31) | latin rock(4) | latin alternative(2) | latin indie(2) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-07 21:32:49Z
+Report generated (UTC)    : 2026-02-07 21:33:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
