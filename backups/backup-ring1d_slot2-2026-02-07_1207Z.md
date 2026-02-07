@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-06_1211Z
+ snapshot_utc : 2026-02-07_1207Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-06 09:37:54Z
+DSN snapshot (UTC)       : 2026-02-07 09:35:42Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 170.009 AU
-Heliocentric distance    : 169.610 AU
-Relative speed           : 22.670 km/s
+Earth distance           : 25.43e9 km | 170.007 AU
+Heliocentric distance    : 169.620 AU
+Relative speed           : 22.488 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:55
-Round-trip latency       : 47:07:51
+One-way light time       : 23:33:54
+Round-trip latency       : 47:07:48
 ------------------------------------------------------------
-Δ distance (since last)  : -47,517 km
-Mission age              : 48 years, 166 days
+Δ distance (since last)  : -91,281 km
+Mission age              : 48 years, 167 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -342,19 +342,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.723 AU
-Heliocentric distance    : 142.030 AU
-Relative speed           : 30.140 km/s
+Earth distance           : 21.35e9 km | 142.726 AU
+Heliocentric distance    : 142.038 AU
+Relative speed           : 29.973 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:59
-Round-trip latency       : 39:33:59
+One-way light time       : 19:47:01
+Round-trip latency       : 39:34:02
 ------------------------------------------------------------
-Δ distance (since last)  : +51,051 km
-Mission age              : 48 years, 182 days
+Δ distance (since last)  : +86,202 km
+Mission age              : 48 years, 183 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-06 09:37:59Z
+Report generated (UTC)   : 2026-02-07 09:35:45Z
 ```
 
 <!-- VOYAGER:END -->
@@ -861,17 +861,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Slow Degrade — Who Will Fix Me Now?
-Last played (UTC)         : 2026-02-05 13:13:41Z
+Last played               : Weichafe — Z
+Last played (UTC)         : 2026-02-06 21:07:22Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:24:05
-Telemetry age             : 20:24:05
-Δ time (since last report): 00:01:21
+Time since last play      : 12:27:08
+Telemetry age             : 12:27:08
+Δ time (since last report): 00:00:10
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,14 +883,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : Slow Degrade
+Tracks played (last 24h)  : 5
+Dominant artist           : Weichafe
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-30 09:37:46Z → 2026-02-06 09:37:46Z
+Week window (UTC)         : 2026-01-31 09:34:29Z → 2026-02-07 09:34:29Z
 Total tracks played       : 50
 Dominant artist           : Amira Elfeky
 Cadence classification    : HIGH
@@ -898,25 +898,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
+Peak hour (24h)           : 11:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :           █             
-Heatmap (7d)              :           ▁       ▂▄█▇  
+Heatmap (24h)             :            ███  █ █     
+Heatmap (7d)              :           ▁ ▁      ▄█▇  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:48:18
+Sessions (24h)            : 4
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 01:26:33
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(1)
-Top genres (7d)           : shoegaze(30) | latin alternative(2) | latin indie(2) | metalcore(2) | latin rock(1) | space rock(1)
+Top genres (24h)          : latin rock(4) | shoegaze(1)
+Top genres (7d)           : shoegaze(31) | latin rock(4) | latin alternative(2) | latin indie(2) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-06 09:37:46Z
+Report generated (UTC)    : 2026-02-07 09:34:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,7 +1271,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 06 February 2026
+From: 04 December 2023 - To: 07 February 2026
 
 Total Time       : 981 hrs 18 mins
 Mostly coding in : Bash
@@ -1322,7 +1322,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Meeting        0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 06/02/2026 11:18:20 UTC
+Last updated     : 07/02/2026 11:09:36 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1384,22 +1384,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/clsource">
         <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
