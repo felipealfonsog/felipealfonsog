@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Jess Lai Mieritz, Alex Rudinger — Fall Away
-Last played               : Roxferry — Black Light Angel
-Last played (UTC)         : 2026-02-09 17:29:11Z
+Now playing               : Druidess — Brahmastra
+Last played               : Slow Degrade — Who Will Fix Me Now?
+Last played (UTC)         : 2026-02-09 17:36:59Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : dye — flyonthewall → Roxferry — Black Light Angel
-Δ last played (since last): 2026-02-09 03:15:36Z → 2026-02-09 17:29:11Z
+Δ track (since last)      : Roxferry — Black Light Angel → Slow Degrade — Who Will Fix Me Now?
+Δ last played (since last): 2026-02-09 17:29:11Z → 2026-02-09 17:36:59Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:22
-Telemetry age             : 00:03:22
-Δ time (since last report): 00:12:02
+Time since last play      : 00:02:22
+Telemetry age             : 00:02:22
+Δ time (since last report): 00:06:48
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
+Tracks played (last 24h)  : 8
 Dominant artist           : Weichafe
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-02 17:32:33Z → 2026-02-09 17:32:33Z
+Week window (UTC)         : 2026-02-02 17:39:21Z → 2026-02-09 17:39:21Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -892,25 +892,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 00:00
+Peak hour (24h)           : 14:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             : █             █       █ 
-Heatmap (7d)              : ▁         ▁ ▁ ▁    ▁█▇▁ 
+Heatmap (24h)             : ▄             █       ▄ 
+Heatmap (7d)              : ▁         ▁ ▁ ▂     █▇▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:49:45
+Avg inter-play gap (7d)   : 02:49:46
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : latin rock(4) | shoegaze(1)
-Top genres (7d)           : shoegaze(28) | latin rock(8) | latin alternative(2) | latin indie(2) | metalcore(1)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : latin rock(4) | shoegaze(2)
+Top genres (7d)           : shoegaze(27) | latin rock(8) | latin alternative(2) | latin indie(2) | metalcore(1)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-09 17:32:33Z
+Report generated (UTC)    : 2026-02-09 17:39:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
