@@ -842,34 +842,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Weichafe — Z
 Last played               : Amira Elfeky — Everything I Do Is For You
 Last played (UTC)         : 2026-02-09 18:11:41Z
-Last activity type        : NO_ACTIVE_SESSION
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Doom Mutual — Copycat Machine → Amira Elfeky — Everything I Do Is For You
-Δ last played (since last): 2026-02-09 18:05:54Z → 2026-02-09 18:11:41Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:26:17
-Telemetry age             : 00:26:17
-Δ time (since last report): 00:32:00
+Time since last play      : 03:10:31
+Telemetry age             : 03:10:31
+Δ time (since last report): 02:44:15
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -883,7 +884,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-02 18:37:57Z → 2026-02-09 18:37:57Z
+Week window (UTC)         : 2026-02-02 21:22:11Z → 2026-02-09 21:22:11Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -909,7 +910,7 @@ Top genres (24h)          : shoegaze(10) | latin rock(4)
 Top genres (7d)           : shoegaze(28) | latin rock(8) | latin alternative(2) | latin indie(2) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-09 18:37:57Z
+Report generated (UTC)    : 2026-02-09 21:22:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
