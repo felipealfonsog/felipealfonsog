@@ -859,13 +859,13 @@ Last played               : Slow Degrade — Who Will Fix Me Now?
 Last played (UTC)         : 2026-02-09 17:36:59Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Roxferry — Black Light Angel → Slow Degrade — Who Will Fix Me Now?
-Δ last played (since last): 2026-02-09 17:29:11Z → 2026-02-09 17:36:59Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:22
-Telemetry age             : 00:02:22
-Δ time (since last report): 00:06:48
+Time since last play      : 00:06:06
+Telemetry age             : 00:06:06
+Δ time (since last report): 00:03:44
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-02 17:39:21Z → 2026-02-09 17:39:21Z
+Week window (UTC)         : 2026-02-02 17:43:05Z → 2026-02-09 17:43:05Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : latin rock(4) | shoegaze(2)
 Top genres (7d)           : shoegaze(27) | latin rock(8) | latin alternative(2) | latin indie(2) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-09 17:39:21Z
+Report generated (UTC)    : 2026-02-09 17:43:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
