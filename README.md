@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Wayside — Parallax Error
-Last played               : Druidess — Brahmastra
-Last played (UTC)         : 2026-02-09 21:38:21Z
+Now playing               : geographics — 6 underground
+Last played               : Wayside — Parallax Error
+Last played (UTC)         : 2026-02-09 21:41:41Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Slow Degrade — Who Will Fix Me Now? → Druidess — Brahmastra
-Δ last played (since last): 2026-02-09 21:30:55Z → 2026-02-09 21:38:21Z
+Δ track (since last)      : Druidess — Brahmastra → Wayside — Parallax Error
+Δ last played (since last): 2026-02-09 21:38:21Z → 2026-02-09 21:41:41Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:08
-Telemetry age             : 00:01:08
-Δ time (since last report): 00:03:22
+Time since last play      : 00:01:21
+Telemetry age             : 00:01:21
+Δ time (since last report): 00:03:34
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 20
+Tracks played (last 24h)  : 21
 Dominant artist           : Weichafe
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-02 21:39:28Z → 2026-02-09 21:39:28Z
+Week window (UTC)         : 2026-02-02 21:43:02Z → 2026-02-09 21:43:02Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             : ▂             █▄  ▃   ▂ 
-Heatmap (7d)              : ▁         ▁▁▁▁▅▂▁ ▂ ▄█▁ 
+Heatmap (24h)             : ▂             █▄  ▄   ▂ 
+Heatmap (7d)              : ▁         ▁▁▁▁▅▂▁ ▃ ▃█▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:53:54
+Avg inter-play gap (7d)   : 02:53:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(12) | latin rock(4)
-Top genres (7d)           : shoegaze(28) | latin rock(8) | latin alternative(2) | latin indie(2) | metalcore(1)
+Top genres (24h)          : shoegaze(13) | latin rock(4)
+Top genres (7d)           : shoegaze(29) | latin rock(8) | latin alternative(1) | latin indie(1) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-09 21:39:28Z
+Report generated (UTC)    : 2026-02-09 21:43:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
