@@ -859,13 +859,13 @@ Last played               : Slow Degrade — Who Will Fix Me Now?
 Last played (UTC)         : 2026-02-09 21:30:55Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Amira Elfeky — Everything I Do Is For You → Slow Degrade — Who Will Fix Me Now?
-Δ last played (since last): 2026-02-09 18:11:41Z → 2026-02-09 21:30:55Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:00
-Telemetry age             : 00:04:00
-Δ time (since last report): 00:08:53
+Time since last play      : 00:05:01
+Telemetry age             : 00:05:01
+Δ time (since last report): 00:01:01
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-02 21:34:55Z → 2026-02-09 21:34:55Z
+Week window (UTC)         : 2026-02-02 21:35:55Z → 2026-02-09 21:35:55Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : shoegaze(11) | latin rock(4)
 Top genres (7d)           : shoegaze(28) | latin rock(8) | latin alternative(2) | latin indie(2) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-09 21:34:55Z
+Report generated (UTC)    : 2026-02-09 21:35:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
