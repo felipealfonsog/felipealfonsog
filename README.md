@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Sundazer, Adam Black — Edgerunner
-Last played               : Wayside — Safe Forever
-Last played (UTC)         : 2026-02-09 17:54:51Z
+Now playing               : Doom Mutual — Copycat Machine
+Last played               : postdrome — So Inviting
+Last played (UTC)         : 2026-02-09 18:01:47Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Slow Degrade — Who Will Fix Me Now? → Wayside — Safe Forever
-Δ last played (since last): 2026-02-09 17:36:59Z → 2026-02-09 17:54:51Z
+Δ track (since last)      : Wayside — Safe Forever → postdrome — So Inviting
+Δ last played (since last): 2026-02-09 17:54:51Z → 2026-02-09 18:01:47Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:37
-Telemetry age             : 00:01:37
-Δ time (since last report): 00:13:23
+Time since last play      : 00:02:01
+Telemetry age             : 00:02:01
+Δ time (since last report): 00:07:20
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
+Tracks played (last 24h)  : 14
 Dominant artist           : Weichafe
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-02 17:56:28Z → 2026-02-09 17:56:28Z
+Week window (UTC)         : 2026-02-02 18:03:48Z → 2026-02-09 18:03:48Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -893,24 +893,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
-Peak hour (7d)            : 20:00
-Heatmap (24h)             : ▂             █       ▂ 
-Heatmap (7d)              : ▁         ▁▁▁▁▄ ▁ ▁ ██▁ 
+Peak hour (7d)            : 21:00
+Heatmap (24h)             : ▂             █▁      ▂ 
+Heatmap (7d)              : ▁         ▁▁▁▁▅▁▁ ▁ ▇█▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:49:53
+Avg inter-play gap (7d)   : 02:49:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(5) | latin rock(4)
-Top genres (7d)           : shoegaze(26) | latin rock(8) | latin alternative(2) | latin indie(2) | metalcore(1)
+Top genres (24h)          : shoegaze(7) | latin rock(4)
+Top genres (7d)           : shoegaze(27) | latin rock(8) | latin alternative(2) | latin indie(2) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-09 17:56:28Z
+Report generated (UTC)    : 2026-02-09 18:03:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
