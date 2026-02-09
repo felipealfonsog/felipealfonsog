@@ -859,13 +859,13 @@ Last played               : Wayside — Parallax Error
 Last played (UTC)         : 2026-02-09 21:41:41Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Druidess — Brahmastra → Wayside — Parallax Error
-Δ last played (since last): 2026-02-09 21:38:21Z → 2026-02-09 21:41:41Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:21
-Telemetry age             : 00:01:21
-Δ time (since last report): 00:03:34
+Time since last play      : 00:02:45
+Telemetry age             : 00:02:45
+Δ time (since last report): 00:01:24
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-02 21:43:02Z → 2026-02-09 21:43:02Z
+Week window (UTC)         : 2026-02-02 21:44:25Z → 2026-02-09 21:44:25Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : shoegaze(13) | latin rock(4)
 Top genres (7d)           : shoegaze(29) | latin rock(8) | latin alternative(1) | latin indie(1) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-09 21:43:02Z
+Report generated (UTC)    : 2026-02-09 21:44:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
