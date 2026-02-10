@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 23:51:48
-Telemetry age             : 23:51:48
-Δ time (since last report): 00:01:06
+Time since last play      : 23:52:06
+Telemetry age             : 23:52:06
+Δ time (since last report): 00:00:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-03 21:36:20Z → 2026-02-10 21:36:20Z
+Week window (UTC)         : 2026-02-03 21:36:39Z → 2026-02-10 21:36:39Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : shoegaze(2)
 Top genres (7d)           : shoegaze(29) | latin rock(8) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-10 21:36:20Z
+Report generated (UTC)    : 2026-02-10 21:36:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
