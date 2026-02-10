@@ -858,13 +858,13 @@ Last played               : geographics — 6 underground
 Last played (UTC)         : 2026-02-09 21:44:33Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Wayside — Parallax Error → geographics — 6 underground
-Δ last played (since last): 2026-02-09 21:41:41Z → 2026-02-09 21:44:33Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:15:18
-Telemetry age             : 03:15:18
-Δ time (since last report): 03:15:26
+Time since last play      : 03:15:29
+Telemetry age             : 03:15:29
+Δ time (since last report): 00:00:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-03 00:59:51Z → 2026-02-10 00:59:51Z
+Week window (UTC)         : 2026-02-03 01:00:02Z → 2026-02-10 01:00:02Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : shoegaze(13) | latin rock(4)
 Top genres (7d)           : shoegaze(29) | latin rock(8) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-10 00:59:51Z
+Report generated (UTC)    : 2026-02-10 01:00:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
