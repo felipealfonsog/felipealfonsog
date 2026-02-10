@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:57:42
-Telemetry age             : 20:57:42
-Δ time (since last report): 00:00:48
+Time since last play      : 23:50:42
+Telemetry age             : 23:50:42
+Δ time (since last report): 02:53:01
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
+Tracks played (last 24h)  : 3
 Dominant artist           : geographics
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-03 18:42:14Z → 2026-02-10 18:42:14Z
+Week window (UTC)         : 2026-02-03 21:35:15Z → 2026-02-10 21:35:15Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -905,11 +905,11 @@ Avg inter-play gap (7d)   : 02:53:52
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(3)
+Top genres (24h)          : shoegaze(2)
 Top genres (7d)           : shoegaze(29) | latin rock(8) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-10 18:42:14Z
+Report generated (UTC)    : 2026-02-10 21:35:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
