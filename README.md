@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:15:29
-Telemetry age             : 03:15:29
-Δ time (since last report): 00:00:11
+Time since last play      : 06:32:48
+Telemetry age             : 06:32:48
+Δ time (since last report): 03:17:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
-Dominant artist           : Weichafe
+Tracks played (last 24h)  : 18
+Dominant artist           : Wayside
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-03 01:00:02Z → 2026-02-10 01:00:02Z
+Week window (UTC)         : 2026-02-03 04:17:20Z → 2026-02-10 04:17:20Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             : ▂             █▄  ▄   ▂ 
+Heatmap (24h)             :               █▄  ▄     
 Heatmap (7d)              : ▁         ▁▁▁▁▅▂▁ ▃ ▃█▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 2
 Sessions (7d)             : 12
 Avg inter-play gap (7d)   : 02:53:52
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(13) | latin rock(4)
+Top genres (24h)          : shoegaze(12) | latin rock(1)
 Top genres (7d)           : shoegaze(29) | latin rock(8) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-10 01:00:02Z
+Report generated (UTC)    : 2026-02-10 04:17:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
