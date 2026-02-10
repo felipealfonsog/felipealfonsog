@@ -842,49 +842,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : geographics — 6 underground
-Last played               : Wayside — Parallax Error
-Last played (UTC)         : 2026-02-09 21:41:41Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : geographics — 6 underground
+Last played (UTC)         : 2026-02-09 21:44:33Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Wayside — Parallax Error → geographics — 6 underground
+Δ last played (since last): 2026-02-09 21:41:41Z → 2026-02-09 21:44:33Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:45
-Telemetry age             : 00:02:45
-Δ time (since last report): 00:01:24
+Time since last play      : 03:15:18
+Telemetry age             : 03:15:18
+Δ time (since last report): 03:15:26
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 21
+Tracks played (last 24h)  : 22
 Dominant artist           : Weichafe
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-02 21:44:25Z → 2026-02-09 21:44:25Z
+Week window (UTC)         : 2026-02-03 00:59:51Z → 2026-02-10 00:59:51Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -902,15 +901,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:53:55
+Avg inter-play gap (7d)   : 02:53:52
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(13) | latin rock(4)
-Top genres (7d)           : shoegaze(29) | latin rock(8) | latin alternative(1) | latin indie(1) | metalcore(1)
+Top genres (7d)           : shoegaze(29) | latin rock(8) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-09 21:44:25Z
+Report generated (UTC)    : 2026-02-10 00:59:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
