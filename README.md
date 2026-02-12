@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Amira Elfeky — Tonight (demo)
-Last played               : Doom Mutual — Copycat Machine
-Last played (UTC)         : 2026-02-12 20:01:06Z
+Now playing               : Amira Elfeky — Everything I Do Is For You
+Last played               : Amira Elfeky — Tonight (demo)
+Last played (UTC)         : 2026-02-12 20:04:21Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : postdrome — So Inviting → Doom Mutual — Copycat Machine
-Δ last played (since last): 2026-02-12 19:56:59Z → 2026-02-12 20:01:06Z
+Δ track (since last)      : Doom Mutual — Copycat Machine → Amira Elfeky — Tonight (demo)
+Δ last played (since last): 2026-02-12 20:01:06Z → 2026-02-12 20:04:21Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:37
-Telemetry age             : 00:02:37
-Δ time (since last report): 00:05:51
+Time since last play      : 00:02:04
+Telemetry age             : 00:02:04
+Δ time (since last report): 00:02:42
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,15 +877,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : Doom Mutual
+Tracks played (last 24h)  : 5
+Dominant artist           : Amira Elfeky
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-05 20:03:43Z → 2026-02-12 20:03:43Z
-Total tracks played       : 31
+Week window (UTC)         : 2026-02-05 20:06:24Z → 2026-02-12 20:06:24Z
+Total tracks played       : 32
 Dominant artist           : Weichafe
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :                 █▃      
-Heatmap (7d)              : ▂          ▁▁▁█▄▄▁▅   ▂ 
+Heatmap (24h)             :                 █▅      
+Heatmap (7d)              : ▂          ▁▁▁█▄▄▂▅   ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 04:58:21
+Avg inter-play gap (7d)   : 04:48:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(4)
-Top genres (7d)           : shoegaze(18) | latin rock(8)
+Top genres (24h)          : shoegaze(5)
+Top genres (7d)           : shoegaze(19) | latin rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-12 20:03:43Z
+Report generated (UTC)    : 2026-02-12 20:06:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
