@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 62:52:57
-Telemetry age             : 62:52:57
-Δ time (since last report): 00:00:32
+Time since last play      : 65:53:16
+Telemetry age             : 65:53:16
+Δ time (since last report): 03:00:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,8 +883,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-05 12:37:30Z → 2026-02-12 12:37:30Z
-Total tracks played       : 29
+Week window (UTC)         : 2026-02-05 15:37:48Z → 2026-02-12 15:37:48Z
+Total tracks played       : 27
 Dominant artist           : Weichafe
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -894,22 +894,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 14:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▂         ▂▁▁▁█▄▁ ▅   ▂ 
+Heatmap (7d)              : ▂          ▁▁▁█▄▁ ▅   ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:44:05
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 03:02:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(15) | latin rock(8)
+Top genres (7d)           : shoegaze(14) | latin rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-12 12:37:30Z
+Report generated (UTC)    : 2026-02-12 15:37:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
