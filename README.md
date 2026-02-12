@@ -859,13 +859,13 @@ Last played               : Wayside — Safe Forever
 Last played (UTC)         : 2026-02-12 19:43:59Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : geographics — 6 underground → Wayside — Safe Forever
-Δ last played (since last): 2026-02-09 21:44:33Z → 2026-02-12 19:43:59Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:07:36
-Telemetry age             : 00:07:36
-Δ time (since last report): 00:10:50
+Time since last play      : 00:08:42
+Telemetry age             : 00:08:42
+Δ time (since last report): 00:01:06
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-05 19:51:35Z → 2026-02-12 19:51:35Z
+Week window (UTC)         : 2026-02-05 19:52:41Z → 2026-02-12 19:52:41Z
 Total tracks played       : 28
 Dominant artist           : Weichafe
 Cadence classification    : MEDIUM
@@ -910,7 +910,7 @@ Top genres (24h)          : shoegaze(1)
 Top genres (7d)           : shoegaze(15) | latin rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-12 19:51:35Z
+Report generated (UTC)    : 2026-02-12 19:52:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
