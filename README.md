@@ -848,24 +848,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
+Device type               : Smartphone
+Device name               : iPhone
 Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Amira Elfeky — Everything I Do Is For You
-Last played               : Amira Elfeky — Tonight (demo)
-Last played (UTC)         : 2026-02-12 20:04:21Z
+Now playing               : Weichafe — Z
+Last played               : Amira Elfeky — Coming Down
+Last played (UTC)         : 2026-02-12 20:30:25Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Doom Mutual — Copycat Machine → Amira Elfeky — Tonight (demo)
-Δ last played (since last): 2026-02-12 20:01:06Z → 2026-02-12 20:04:21Z
+Δ track (since last)      : Amira Elfeky — Tonight (demo) → Amira Elfeky — Coming Down
+Δ last played (since last): 2026-02-12 20:04:21Z → 2026-02-12 20:30:25Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:04
-Telemetry age             : 00:02:04
-Δ time (since last report): 00:02:42
+Time since last play      : 00:07:10
+Telemetry age             : 00:07:10
+Δ time (since last report): 00:31:11
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,40 +877,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
+Tracks played (last 24h)  : 11
 Dominant artist           : Amira Elfeky
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-05 20:06:24Z → 2026-02-12 20:06:24Z
-Total tracks played       : 32
+Week window (UTC)         : 2026-02-05 20:37:35Z → 2026-02-12 20:37:35Z
+Total tracks played       : 38
 Dominant artist           : Weichafe
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 16:00
+Peak hour (24h)           : 17:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :                 █▅      
-Heatmap (7d)              : ▂          ▁▁▁█▄▄▂▅   ▂ 
+Heatmap (24h)             :                 ▃█      
+Heatmap (7d)              : ▂          ▁▁▁█▄▄▇▅   ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 04:48:50
+Avg inter-play gap (7d)   : 04:02:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(5)
-Top genres (7d)           : shoegaze(19) | latin rock(8)
+Top genres (24h)          : shoegaze(9) | latin rock(1)
+Top genres (7d)           : shoegaze(23) | latin rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-12 20:06:24Z
+Report generated (UTC)    : 2026-02-12 20:37:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
