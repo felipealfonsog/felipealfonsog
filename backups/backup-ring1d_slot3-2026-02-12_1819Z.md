@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-11_1821Z
+ snapshot_utc : 2026-02-12_1819Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-11 15:42:37Z
+DSN snapshot (UTC)       : 2026-02-12 15:39:27Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 169.994 AU
-Heliocentric distance    : 169.661 AU
-Relative speed           : 21.749 km/s
+Earth distance           : 25.43e9 km | 169.991 AU
+Heliocentric distance    : 169.671 AU
+Relative speed           : 21.585 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:48
-Round-trip latency       : 47:07:36
+One-way light time       : 23:33:46
+Round-trip latency       : 47:07:33
 ------------------------------------------------------------
-Δ distance (since last)  : -59,947 km
-Mission age              : 48 years, 171 days
+Δ distance (since last)  : -61,202 km
+Mission age              : 48 years, 172 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -342,19 +342,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.734 AU
-Heliocentric distance    : 142.075 AU
-Relative speed           : 29.263 km/s
+Earth distance           : 21.35e9 km | 142.736 AU
+Heliocentric distance    : 142.084 AU
+Relative speed           : 29.097 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:05
-Round-trip latency       : 39:34:10
+One-way light time       : 19:47:06
+Round-trip latency       : 39:34:12
 ------------------------------------------------------------
-Δ distance (since last)  : +31,167 km
-Mission age              : 48 years, 187 days
+Δ distance (since last)  : +27,043 km
+Mission age              : 48 years, 188 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-11 15:42:42Z
+Report generated (UTC)   : 2026-02-12 15:39:28Z
 ```
 
 <!-- VOYAGER:END -->
@@ -869,9 +869,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 41:57:06
-Telemetry age             : 41:57:06
-Δ time (since last report): 00:00:32
+Time since last play      : 65:55:16
+Telemetry age             : 65:55:16
+Δ time (since last report): 00:02:01
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -890,8 +890,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-04 15:41:38Z → 2026-02-11 15:41:38Z
-Total tracks played       : 29
+Week window (UTC)         : 2026-02-05 15:39:48Z → 2026-02-12 15:39:48Z
+Total tracks played       : 27
 Dominant artist           : Weichafe
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -901,22 +901,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 14:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▂         ▂▁▁▁█▄▁ ▅   ▂ 
+Heatmap (7d)              : ▂          ▁▁▁█▄▁ ▅   ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:44:05
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 03:02:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(15) | latin rock(8)
+Top genres (7d)           : shoegaze(14) | latin rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-11 15:41:38Z
+Report generated (UTC)    : 2026-02-12 15:39:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,7 +1271,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 February 2026
+From: 04 December 2023 - To: 12 February 2026
 
 Total Time       : 981 hrs 20 mins
 Mostly coding in : Bash
@@ -1285,7 +1285,7 @@ LANGUAGES
 Bash           164 hrs 46 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.79 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.15 %
 HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.77 %
-Other          122 hrs 18 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.46 %
+Other          123 hrs 48 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.62 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.08 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.18 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.51 %
@@ -1296,13 +1296,13 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 OPERATING SYSTEMS
 -----------------
 Linux          584 hrs 2 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.51 %
-Mac            519 hrs 37 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  52.95 %
+Mac            521 hrs 6 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.10 %
 
 EDITORS
 -------
 VS Code        651 hrs 12 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.36 %
 Vim            325 hrs 17 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.15 %
-Firefox        107 hrs 17 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.93 %
+Firefox        108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.08 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
 Terminal       3 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
 TextMate       47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
@@ -1316,13 +1316,13 @@ Zoom           0 secs         ○○○○○○○○○○○○○○○○�
 CATEGORIES
 ----------
 Coding         994 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       107 hrs 19 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.94 %
+Browsing       107 hrs 23 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.94 %
 Writing Docs   1 hr 33 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.16 %
+Meeting        1 hr 26 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.15 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
-Meeting        0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 11/02/2026 17:27:46 UTC
+Last updated     : 12/02/2026 17:28:36 UTC
 
 ```
 <!--END_SECTION:wakastats-->
