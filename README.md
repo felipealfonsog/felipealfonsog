@@ -842,29 +842,30 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (idle session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Smartphone
 Device name               : iPhone
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Amira Elfeky — Coming Down
-Last played (UTC)         : 2026-02-12 20:30:25Z
-Last activity type        : PLAYBACK_INACTIVE
+Now playing               : msliterate — zombie
+Last played               : jaixj, Novulent — reaching out
+Last played (UTC)         : 2026-02-12 21:14:24Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : Amira Elfeky — Coming Down → jaixj, Novulent — reaching out
+Δ last played (since last): 2026-02-12 20:30:25Z → 2026-02-12 21:14:24Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:40:20
-Telemetry age             : 00:40:20
-Δ time (since last report): 00:11:32
+Time since last play      : 00:02:39
+Telemetry age             : 00:02:39
+Δ time (since last report): 00:06:19
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -876,40 +877,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 11
+Tracks played (last 24h)  : 13
 Dominant artist           : Amira Elfeky
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-05 21:10:44Z → 2026-02-12 21:10:44Z
-Total tracks played       : 38
+Week window (UTC)         : 2026-02-05 21:17:02Z → 2026-02-12 21:17:02Z
+Total tracks played       : 40
 Dominant artist           : Weichafe
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 17:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :                 ▃█      
-Heatmap (7d)              : ▂          ▁▁▁█▄▄▇▅   ▂ 
+Heatmap (24h)             :                 ▃█▂     
+Heatmap (7d)              : ▂          ▁▁▁█▄▄▇▇   ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 04:02:42
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:51:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(9) | latin rock(1)
-Top genres (7d)           : shoegaze(23) | latin rock(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : shoegaze(11) | latin rock(2)
+Top genres (7d)           : shoegaze(25) | latin rock(10)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-12 21:10:44Z
+Report generated (UTC)    : 2026-02-12 21:17:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
