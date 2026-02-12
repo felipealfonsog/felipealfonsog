@@ -842,30 +842,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : ONLINE (idle session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Smartphone
 Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Weichafe — Z
+Now playing               : N/A
 Last played               : Amira Elfeky — Coming Down
 Last played (UTC)         : 2026-02-12 20:30:25Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:28:49
-Telemetry age             : 00:28:49
-Δ time (since last report): 00:03:24
+Time since last play      : 00:40:20
+Telemetry age             : 00:40:20
+Δ time (since last report): 00:11:32
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +883,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-05 20:59:13Z → 2026-02-12 20:59:13Z
+Week window (UTC)         : 2026-02-05 21:10:44Z → 2026-02-12 21:10:44Z
 Total tracks played       : 38
 Dominant artist           : Weichafe
 Cadence classification    : MEDIUM
@@ -910,7 +909,7 @@ Top genres (24h)          : shoegaze(9) | latin rock(1)
 Top genres (7d)           : shoegaze(23) | latin rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-12 20:59:13Z
+Report generated (UTC)    : 2026-02-12 21:10:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
