@@ -842,34 +842,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Wayside — Safe Forever
 Last played               : geographics — 6 underground
 Last played (UTC)         : 2026-02-09 21:44:33Z
-Last activity type        : NO_ACTIVE_SESSION
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 68:55:37
-Telemetry age             : 68:55:37
-Δ time (since last report): 00:00:21
+Time since last play      : 69:56:13
+Telemetry age             : 69:56:13
+Δ time (since last report): 01:00:36
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -883,7 +884,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-05 18:40:10Z → 2026-02-12 18:40:10Z
+Week window (UTC)         : 2026-02-05 19:40:45Z → 2026-02-12 19:40:45Z
 Total tracks played       : 27
 Dominant artist           : Weichafe
 Cadence classification    : MEDIUM
@@ -909,7 +910,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : shoegaze(14) | latin rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-12 18:40:10Z
+Report generated (UTC)    : 2026-02-12 19:40:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
