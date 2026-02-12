@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-12 21:35:57Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-02-12 21:36:29Z",
+  "status": "IDLE",
   "last_track": "never easy — choke",
   "last_played_utc": "2026-02-12 21:30:43Z",
-  "sitrep": "GREEN",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
