@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 18:14:06
-Telemetry age             : 18:14:06
-Δ time (since last report): 00:00:34
+Time since last play      : 18:17:19
+Telemetry age             : 18:17:19
+Δ time (since last report): 00:03:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
+Tracks played (last 24h)  : 8
 Dominant artist           : Incubus
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-06 21:35:17Z → 2026-02-13 21:35:17Z
+Week window (UTC)         : 2026-02-06 21:38:30Z → 2026-02-13 21:38:30Z
 Total tracks played       : 48
 Dominant artist           : Incubus
 Cadence classification    : HIGH
@@ -893,13 +893,13 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             : ▁                 ▁   █▁
+Heatmap (24h)             : ▁                     █▁
 Heatmap (7d)              : ▂             ▆▃▂▅█   ▅▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 9
 Avg inter-play gap (7d)   : 02:05:14
 ------------------------------------------------------------
@@ -909,7 +909,7 @@ Top genres (24h)          : alternative metal(7) | alternative rock(7) | funk ro
 Top genres (7d)           : shoegaze(27) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-13 21:35:17Z
+Report generated (UTC)    : 2026-02-13 21:38:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
