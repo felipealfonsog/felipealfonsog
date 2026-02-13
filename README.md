@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Incubus — Love Hurts
-Last played               : Dozer — High Roller
-Last played (UTC)         : 2026-02-13 01:22:37Z
+Now playing               : Incubus — Nowhere Fast
+Last played               : Incubus — Love Hurts
+Last played (UTC)         : 2026-02-13 01:34:01Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Holywatr — eat me ! → Dozer — High Roller
-Δ last played (since last): 2026-02-12 21:37:31Z → 2026-02-13 01:22:37Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Dozer — High Roller → Incubus — Love Hurts
+Δ last played (since last): 2026-02-13 01:22:37Z → 2026-02-13 01:34:01Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:07:50
-Telemetry age             : 00:07:50
-Δ time (since last report): 00:34:08
+Time since last play      : 00:02:06
+Telemetry age             : 00:02:06
+Δ time (since last report): 00:05:40
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,15 +877,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
+Tracks played (last 24h)  : 20
 Dominant artist           : Amira Elfeky
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-06 01:30:27Z → 2026-02-13 01:30:27Z
-Total tracks played       : 46
+Week window (UTC)         : 2026-02-06 01:36:07Z → 2026-02-13 01:36:07Z
+Total tracks played       : 47
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -894,7 +894,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 17:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :                 ▃█▇   ▁ 
+Heatmap (24h)             :                 ▃█▇   ▂ 
 Heatmap (7d)              : ▁          ▁▁▁▆▂▂▅█   ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -902,15 +902,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 03:26:03
+Avg inter-play gap (7d)   : 03:21:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(14) | latin rock(2) | doom metal(1) | sludge metal(1) | space rock(1) | stoner metal(1)
-Top genres (7d)           : shoegaze(28) | latin rock(10) | doom metal(1) | sludge metal(1) | space rock(1) | stoner metal(1)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : shoegaze(14) | latin rock(2) | alternative metal(1) | alternative rock(1) | doom metal(1) | funk rock(1)
+Top genres (7d)           : shoegaze(28) | latin rock(10) | alternative metal(1) | alternative rock(1) | doom metal(1) | funk rock(1)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-13 01:30:27Z
+Report generated (UTC)    : 2026-02-13 01:36:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
