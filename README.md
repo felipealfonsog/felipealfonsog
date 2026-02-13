@@ -2158,6 +2158,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell
 
 ### 🕒 Recently Active Projects
+- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
+  🧬 JavaScript · CSS · Shell
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
@@ -2172,14 +2174,12 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Shell · Python
 - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
   🧬 Python
-- [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
-  🧬 JavaScript · HTML
 
 ### 📈 Popular Projects (Stars + Forks)
-- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
-  🧬 JavaScript · CSS · Shell
 - [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
   🧬 Hack · PHP · JavaScript
+- [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
+  🧬 JavaScript · HTML
 - [C-VipNX](https://github.com/openvelora/C-VipNX): Shell Vip Utility written in C for *NX Systems. Simple: Vip shell to avoid usage of sudo
   🧬 C · Shell
 - [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
