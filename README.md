@@ -858,13 +858,13 @@ Last played               : Incubus — Drive
 Last played (UTC)         : 2026-02-13 03:21:11Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Incubus — Love Hurts → Incubus — Drive
-Δ last played (since last): 2026-02-13 01:34:01Z → 2026-02-13 03:21:11Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:46:30
-Telemetry age             : 00:46:30
-Δ time (since last report): 02:31:34
+Time since last play      : 00:46:38
+Telemetry age             : 00:46:38
+Δ time (since last report): 00:00:09
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-06 04:07:40Z → 2026-02-13 04:07:40Z
+Week window (UTC)         : 2026-02-06 04:07:49Z → 2026-02-13 04:07:49Z
 Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : shoegaze(14) | alternative metal(7) | alternative ro
 Top genres (7d)           : shoegaze(27) | latin rock(8) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-13 04:07:40Z
+Report generated (UTC)    : 2026-02-13 04:07:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
