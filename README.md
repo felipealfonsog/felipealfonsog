@@ -858,13 +858,13 @@ Last played               : Holywatr — eat me !
 Last played (UTC)         : 2026-02-12 21:37:31Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : never easy — choke → Holywatr — eat me !
-Δ last played (since last): 2026-02-12 21:30:43Z → 2026-02-12 21:37:31Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:18:33
-Telemetry age             : 03:18:33
-Δ time (since last report): 03:19:35
+Time since last play      : 03:18:49
+Telemetry age             : 03:18:49
+Δ time (since last report): 00:00:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-06 00:56:04Z → 2026-02-13 00:56:04Z
+Week window (UTC)         : 2026-02-06 00:56:19Z → 2026-02-13 00:56:19Z
 Total tracks played       : 45
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(14) | latin rock(2)
 Top genres (7d)           : shoegaze(28) | latin rock(10)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-13 00:56:04Z
+Report generated (UTC)    : 2026-02-13 00:56:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
