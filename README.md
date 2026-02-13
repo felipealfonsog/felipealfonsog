@@ -842,50 +842,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Incubus — Nowhere Fast
-Last played               : Incubus — Love Hurts
-Last played (UTC)         : 2026-02-13 01:34:01Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Incubus — Drive
+Last played (UTC)         : 2026-02-13 03:21:11Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Dozer — High Roller → Incubus — Love Hurts
-Δ last played (since last): 2026-02-13 01:22:37Z → 2026-02-13 01:34:01Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Incubus — Love Hurts → Incubus — Drive
+Δ last played (since last): 2026-02-13 01:34:01Z → 2026-02-13 03:21:11Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:06
-Telemetry age             : 00:02:06
-Δ time (since last report): 00:05:40
+Time since last play      : 00:46:30
+Telemetry age             : 00:46:30
+Δ time (since last report): 02:31:34
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 20
-Dominant artist           : Amira Elfeky
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 26
+Dominant artist           : Incubus
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-06 01:36:07Z → 2026-02-13 01:36:07Z
-Total tracks played       : 47
+Week window (UTC)         : 2026-02-06 04:07:40Z → 2026-02-13 04:07:40Z
+Total tracks played       : 50
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -894,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 17:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :                 ▃█▇   ▂ 
-Heatmap (7d)              : ▁          ▁▁▁▆▂▂▅█   ▂ 
+Heatmap (24h)             : ▁               ▃█▇   ▆▁
+Heatmap (7d)              : ▂             ▆▂▂▅█   ▅▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 03:21:49
+Sessions (24h)            : 4
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:05:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(14) | latin rock(2) | alternative metal(1) | alternative rock(1) | doom metal(1) | funk rock(1)
-Top genres (7d)           : shoegaze(28) | latin rock(10) | alternative metal(1) | alternative rock(1) | doom metal(1) | funk rock(1)
+Top genres (24h)          : shoegaze(14) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(2)
+Top genres (7d)           : shoegaze(27) | latin rock(8) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-13 01:36:07Z
+Report generated (UTC)    : 2026-02-13 04:07:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
