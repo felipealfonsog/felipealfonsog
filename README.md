@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 15:15:25
-Telemetry age             : 15:15:25
-Δ time (since last report): 00:00:20
+Time since last play      : 18:12:40
+Telemetry age             : 18:12:40
+Δ time (since last report): 02:57:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,40 +876,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 26
+Tracks played (last 24h)  : 9
 Dominant artist           : Incubus
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-06 18:36:35Z → 2026-02-13 18:36:35Z
-Total tracks played       : 50
-Dominant artist           : Weichafe
+Week window (UTC)         : 2026-02-06 21:33:51Z → 2026-02-13 21:33:51Z
+Total tracks played       : 48
+Dominant artist           : Incubus
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 17:00
+Peak hour (24h)           : 22:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             : ▁               ▃█▇   ▆▁
-Heatmap (7d)              : ▂             ▆▂▂▅█   ▅▁
+Heatmap (24h)             : ▁                 ▁   █▁
+Heatmap (7d)              : ▂             ▆▃▂▅█   ▅▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:05:55
+Sessions (24h)            : 3
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 02:05:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(14) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(2)
-Top genres (7d)           : shoegaze(27) | latin rock(8) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7)
+Top genres (24h)          : alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | doom metal(1) | sludge metal(1)
+Top genres (7d)           : shoegaze(27) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-13 18:36:35Z
+Report generated (UTC)    : 2026-02-13 21:33:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
