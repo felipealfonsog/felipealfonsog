@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-02-12 21:36:29Z",
+  "report_generated_utc": "2026-02-13 00:56:04Z",
   "status": "IDLE",
-  "last_track": "never easy — choke",
-  "last_played_utc": "2026-02-12 21:30:43Z",
+  "last_track": "Holywatr — eat me !",
+  "last_played_utc": "2026-02-12 21:37:31Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -337,6 +337,7 @@
     ],
     "2Q0rAyTIfdTUwDt8jpEpv0": [
       "shoegaze"
-    ]
+    ],
+    "0muUUrVzG2eMabJN2UHtZB": []
   }
 }

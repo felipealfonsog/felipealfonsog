@@ -842,49 +842,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (idle session)
+Playback state            : OFFLINE (no active session)
 Status                    : IDLE
 SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
+Device type               : N/A
+Device name               : N/A
 Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : never easy — choke
-Last played (UTC)         : 2026-02-12 21:30:43Z
-Last activity type        : PLAYBACK_INACTIVE
+Last played               : Holywatr — eat me !
+Last played (UTC)         : 2026-02-12 21:37:31Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : never easy — choke → Holywatr — eat me !
+Δ last played (since last): 2026-02-12 21:30:43Z → 2026-02-12 21:37:31Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:47
-Telemetry age             : 00:05:47
-Δ time (since last report): 00:00:33
+Time since last play      : 03:18:33
+Telemetry age             : 03:18:33
+Δ time (since last report): 03:19:35
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
+Tracks played (last 24h)  : 18
 Dominant artist           : Amira Elfeky
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-05 21:36:29Z → 2026-02-12 21:36:29Z
-Total tracks played       : 44
+Week window (UTC)         : 2026-02-06 00:56:04Z → 2026-02-13 00:56:04Z
+Total tracks played       : 45
 Dominant artist           : Weichafe
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 17:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :                 ▃█▆     
-Heatmap (7d)              : ▁          ▁▁▁▆▃▃▅█   ▁ 
+Heatmap (24h)             :                 ▃█▇     
+Heatmap (7d)              : ▁          ▁▁▁▆▂▂▅█   ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:30:14
+Avg inter-play gap (7d)   : 03:25:37
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(14) | latin rock(2)
 Top genres (7d)           : shoegaze(28) | latin rock(10)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-12 21:36:29Z
+Report generated (UTC)    : 2026-02-13 00:56:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
