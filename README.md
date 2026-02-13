@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 18:12:40
-Telemetry age             : 18:12:40
-Δ time (since last report): 02:57:16
+Time since last play      : 18:13:32
+Telemetry age             : 18:13:32
+Δ time (since last report): 00:00:52
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-06 21:33:51Z → 2026-02-13 21:33:51Z
+Week window (UTC)         : 2026-02-06 21:34:43Z → 2026-02-13 21:34:43Z
 Total tracks played       : 48
 Dominant artist           : Incubus
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : alternative metal(7) | alternative rock(7) | funk ro
 Top genres (7d)           : shoegaze(27) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-13 21:33:51Z
+Report generated (UTC)    : 2026-02-13 21:34:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
