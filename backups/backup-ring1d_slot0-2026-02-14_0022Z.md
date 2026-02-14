@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-13_0023Z
+ snapshot_utc : 2026-02-14_0022Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-12 21:36:35Z
+DSN snapshot (UTC)       : 2026-02-13 21:36:32Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 169.990 AU
-Heliocentric distance    : 169.674 AU
-Relative speed           : 21.545 km/s
+Earth distance           : 25.43e9 km | 169.987 AU
+Heliocentric distance    : 169.683 AU
+Relative speed           : 21.384 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:46
-Round-trip latency       : 47:07:32
+One-way light time       : 23:33:44
+Round-trip latency       : 47:07:28
 ------------------------------------------------------------
-Δ distance (since last)  : -59,964 km
-Mission age              : 48 years, 172 days
+Δ distance (since last)  : -62,781 km
+Mission age              : 48 years, 173 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -342,19 +342,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.736 AU
-Heliocentric distance    : 142.086 AU
-Relative speed           : 29.056 km/s
+Earth distance           : 21.35e9 km | 142.738 AU
+Heliocentric distance    : 142.095 AU
+Relative speed           : 28.890 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:06
-Round-trip latency       : 39:34:12
+One-way light time       : 19:47:07
+Round-trip latency       : 39:34:13
 ------------------------------------------------------------
-Δ distance (since last)  : +25,383 km
-Mission age              : 48 years, 188 days
+Δ distance (since last)  : +21,999 km
+Mission age              : 48 years, 189 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-12 21:36:42Z
+Report generated (UTC)   : 2026-02-13 21:36:38Z
 ```
 
 <!-- VOYAGER:END -->
@@ -849,74 +849,74 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (idle session)
+Playback state            : OFFLINE (no active session)
 Status                    : IDLE
 SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
+Device type               : N/A
+Device name               : N/A
 Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : never easy — choke
-Last played (UTC)         : 2026-02-12 21:30:43Z
-Last activity type        : PLAYBACK_INACTIVE
+Last played               : Incubus — Drive
+Last played (UTC)         : 2026-02-13 03:21:11Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:47
-Telemetry age             : 00:05:47
-Δ time (since last report): 00:00:33
+Time since last play      : 18:17:19
+Telemetry age             : 18:17:19
+Δ time (since last report): 00:03:13
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
-Dominant artist           : Amira Elfeky
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 8
+Dominant artist           : Incubus
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-05 21:36:29Z → 2026-02-12 21:36:29Z
-Total tracks played       : 44
-Dominant artist           : Weichafe
+Week window (UTC)         : 2026-02-06 21:38:30Z → 2026-02-13 21:38:30Z
+Total tracks played       : 48
+Dominant artist           : Incubus
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 17:00
+Peak hour (24h)           : 22:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :                 ▃█▆     
-Heatmap (7d)              : ▁          ▁▁▁▆▃▃▅█   ▁ 
+Heatmap (24h)             : ▁                     █▁
+Heatmap (7d)              : ▂             ▆▃▂▅█   ▅▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:30:14
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 02:05:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(14) | latin rock(2)
-Top genres (7d)           : shoegaze(28) | latin rock(10)
+Top genres (24h)          : alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | doom metal(1) | sludge metal(1)
+Top genres (7d)           : shoegaze(27) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-12 21:36:29Z
+Report generated (UTC)    : 2026-02-13 21:38:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,9 +1271,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 12 February 2026
+From: 04 December 2023 - To: 13 February 2026
 
-Total Time       : 981 hrs 20 mins
+Total Time       : 981 hrs 29 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 13 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1283,9 +1283,9 @@ Activity pattern : High-intensity operational focus
 LANGUAGES
 ---------
 Bash           164 hrs 46 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.79 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.15 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.14 %
 HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.77 %
-Other          123 hrs 48 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.62 %
+Other          124 hrs 24 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.68 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.08 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.18 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.51 %
@@ -1296,13 +1296,13 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 OPERATING SYSTEMS
 -----------------
 Linux          584 hrs 2 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.51 %
-Mac            521 hrs 6 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.10 %
+Mac            521 hrs 51 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.17 %
 
 EDITORS
 -------
-VS Code        651 hrs 12 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.36 %
-Vim            325 hrs 17 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.15 %
-Firefox        108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.08 %
+VS Code        651 hrs 12 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.35 %
+Vim            325 hrs 17 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.14 %
+Firefox        109 hrs 31 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.16 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
 Terminal       3 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
 TextMate       47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
@@ -1316,13 +1316,13 @@ Zoom           0 secs         ○○○○○○○○○○○○○○○○�
 CATEGORIES
 ----------
 Coding         994 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       107 hrs 23 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.94 %
+Browsing       108 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.02 %
 Writing Docs   1 hr 33 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.16 %
 Meeting        1 hr 26 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.15 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 12/02/2026 22:13:40 UTC
+Last updated     : 13/02/2026 22:14:53 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2165,6 +2165,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell
 
 ### 🕒 Recently Active Projects
+- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
+  🧬 JavaScript · CSS · Shell
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
@@ -2179,14 +2181,12 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Shell · Python
 - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
   🧬 Python
-- [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
-  🧬 JavaScript · HTML
 
 ### 📈 Popular Projects (Stars + Forks)
-- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
-  🧬 JavaScript · CSS · Shell
 - [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
   🧬 Hack · PHP · JavaScript
+- [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
+  🧬 JavaScript · HTML
 - [C-VipNX](https://github.com/openvelora/C-VipNX): Shell Vip Utility written in C for *NX Systems. Simple: Vip shell to avoid usage of sudo
   🧬 C · Shell
 - [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
