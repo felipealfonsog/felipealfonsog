@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-14 06:37:36Z",
-  "status": "IDLE",
+  "report_generated_utc": "2026-02-14 06:47:47Z",
+  "status": "PLAYING",
   "last_track": "Alice In Chains — Dirt (2022 Remaster)",
   "last_played_utc": "2026-02-14 01:55:59Z",
-  "sitrep": "AMBER",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
