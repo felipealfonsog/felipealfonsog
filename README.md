@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Dam That River (2022 Remaster)
-Last played               : Alice In Chains — Them Bones (2022 Remaster)
-Last played (UTC)         : 2026-02-14 01:18:59Z
+Now playing               : Alice In Chains — Rain When I Die (2022 Remaster)
+Last played               : Alice In Chains — Dam That River (2022 Remaster)
+Last played (UTC)         : 2026-02-14 01:22:09Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Incubus — Drive → Alice In Chains — Them Bones (2022 Remaster)
-Δ last played (since last): 2026-02-13 03:21:11Z → 2026-02-14 01:18:59Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Alice In Chains — Them Bones (2022 Remaster) → Alice In Chains — Dam That River (2022 Remaster)
+Δ last played (since last): 2026-02-14 01:18:59Z → 2026-02-14 01:22:09Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:16
-Telemetry age             : 00:01:16
-Δ time (since last report): 00:29:09
+Time since last play      : 00:04:08
+Telemetry age             : 00:04:08
+Δ time (since last report): 00:06:02
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-07 01:20:15Z → 2026-02-14 01:20:15Z
+Week window (UTC)         : 2026-02-07 01:26:16Z → 2026-02-14 01:26:16Z
 Total tracks played       : 50
 Dominant artist           : Incubus
 Cadence classification    : HIGH
@@ -901,16 +901,16 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:27:01
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 02:26:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | grunge(2) | post-grunge(2)
-Top genres (7d)           : shoegaze(27) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(6)
+Top genres (24h)          : alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | grunge(3) | post-grunge(3)
+Top genres (7d)           : shoegaze(27) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-14 01:20:15Z
+Report generated (UTC)    : 2026-02-14 01:26:16Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
