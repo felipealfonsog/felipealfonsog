@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Rain When I Die (2022 Remaster)
-Last played               : Alice In Chains — Dam That River (2022 Remaster)
-Last played (UTC)         : 2026-02-14 01:22:09Z
+Now playing               : Alice In Chains — Rooster (2022 Remaster)
+Last played               : Alice In Chains — Sickman (2022 Remaster)
+Last played (UTC)         : 2026-02-14 01:39:18Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Them Bones (2022 Remaster) → Alice In Chains — Dam That River (2022 Remaster)
-Δ last played (since last): 2026-02-14 01:18:59Z → 2026-02-14 01:22:09Z
+Δ track (since last)      : Alice In Chains — Dam That River (2022 Remaster) → Alice In Chains — Sickman (2022 Remaster)
+Δ last played (since last): 2026-02-14 01:22:09Z → 2026-02-14 01:39:18Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:08
-Telemetry age             : 00:04:08
-Δ time (since last report): 00:06:02
+Time since last play      : 00:04:53
+Telemetry age             : 00:04:53
+Δ time (since last report): 00:17:55
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -878,13 +878,13 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 10
-Dominant artist           : Incubus
+Dominant artist           : Alice In Chains
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-07 01:26:16Z → 2026-02-14 01:26:16Z
+Week window (UTC)         : 2026-02-07 01:44:11Z → 2026-02-14 01:44:11Z
 Total tracks played       : 50
 Dominant artist           : Incubus
 Cadence classification    : HIGH
@@ -895,22 +895,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 18:00
 Heatmap (24h)             : ▁                     █▁
-Heatmap (7d)              : ▂             ▆▃▂▅█   ▇▁
+Heatmap (7d)              : ▁             ▆▃▂▅█   █▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:26:32
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 02:07:38
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | grunge(3) | post-grunge(3)
-Top genres (7d)           : shoegaze(27) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(5)
+Top genres (24h)          : grunge(6) | post-grunge(6) | alternative metal(4) | alternative rock(4) | funk rock(4) | nu metal(4)
+Top genres (7d)           : shoegaze(26) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | grunge(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-14 01:26:16Z
+Report generated (UTC)    : 2026-02-14 01:44:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
