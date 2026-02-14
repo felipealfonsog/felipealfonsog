@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-14 07:09:06Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-02-14 09:33:06Z",
+  "status": "IDLE",
   "last_track": "Alice In Chains — Sickman (2022 Remaster)",
   "last_played_utc": "2026-02-14 07:07:03Z",
-  "sitrep": "GREEN",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
