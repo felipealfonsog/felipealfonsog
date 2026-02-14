@@ -858,13 +858,13 @@ Last played               : Alice In Chains — Dirt (2022 Remaster)
 Last played (UTC)         : 2026-02-14 01:55:59Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Sickman (2022 Remaster) → Alice In Chains — Dirt (2022 Remaster)
-Δ last played (since last): 2026-02-14 01:39:18Z → 2026-02-14 01:55:59Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:08:36
-Telemetry age             : 02:08:36
-Δ time (since last report): 02:20:24
+Time since last play      : 02:09:35
+Telemetry age             : 02:09:35
+Δ time (since last report): 00:00:59
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-07 04:04:35Z → 2026-02-14 04:04:35Z
+Week window (UTC)         : 2026-02-07 04:05:34Z → 2026-02-14 04:05:34Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : grunge(9) | post-grunge(9)
 Top genres (7d)           : shoegaze(26) | grunge(9) | post-grunge(9) | alternative metal(7) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-14 04:04:35Z
+Report generated (UTC)    : 2026-02-14 04:05:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
