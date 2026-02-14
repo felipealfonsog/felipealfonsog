@@ -842,75 +842,74 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Rooster (2022 Remaster)
-Last played               : Alice In Chains — Sickman (2022 Remaster)
-Last played (UTC)         : 2026-02-14 01:39:18Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Alice In Chains — Dirt (2022 Remaster)
+Last played (UTC)         : 2026-02-14 01:55:59Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Dam That River (2022 Remaster) → Alice In Chains — Sickman (2022 Remaster)
-Δ last played (since last): 2026-02-14 01:22:09Z → 2026-02-14 01:39:18Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Alice In Chains — Sickman (2022 Remaster) → Alice In Chains — Dirt (2022 Remaster)
+Δ last played (since last): 2026-02-14 01:39:18Z → 2026-02-14 01:55:59Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:04:53
-Telemetry age             : 00:04:53
-Δ time (since last report): 00:17:55
+Time since last play      : 02:08:36
+Telemetry age             : 02:08:36
+Δ time (since last report): 02:20:24
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
+Tracks played (last 24h)  : 9
 Dominant artist           : Alice In Chains
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-07 01:44:11Z → 2026-02-14 01:44:11Z
+Week window (UTC)         : 2026-02-07 04:04:35Z → 2026-02-14 04:04:35Z
 Total tracks played       : 50
-Dominant artist           : Incubus
+Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
-Peak hour (7d)            : 18:00
-Heatmap (24h)             : ▁                     █▁
-Heatmap (7d)              : ▁             ▆▃▂▅█   █▁
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :                       █ 
+Heatmap (7d)              : ▁             ▃▂▂▄▆   █▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 1
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:07:38
+Avg inter-play gap (7d)   : 02:07:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(6) | post-grunge(6) | alternative metal(4) | alternative rock(4) | funk rock(4) | nu metal(4)
-Top genres (7d)           : shoegaze(26) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | grunge(6)
+Top genres (24h)          : grunge(9) | post-grunge(9)
+Top genres (7d)           : shoegaze(26) | grunge(9) | post-grunge(9) | alternative metal(7) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-14 01:44:11Z
+Report generated (UTC)    : 2026-02-14 04:04:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
