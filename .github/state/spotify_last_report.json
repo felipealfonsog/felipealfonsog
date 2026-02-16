@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-02-16 09:17:05Z",
+  "report_generated_utc": "2026-02-16 09:37:55Z",
   "status": "IDLE",
-  "last_track": "Alice In Chains — Lesson Learned",
-  "last_played_utc": "2026-02-16 02:43:11Z",
+  "last_track": "Seether — Given",
+  "last_played_utc": "2026-02-16 09:24:57Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -345,6 +345,11 @@
       "sludge metal",
       "doom metal",
       "space rock"
+    ],
+    "6B5c4sch27tWHAGdarpPaW": [
+      "post-grunge",
+      "alternative metal",
+      "rock"
     ]
   }
 }
