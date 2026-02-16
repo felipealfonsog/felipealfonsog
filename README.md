@@ -858,13 +858,13 @@ Last played               : Alice In Chains — Lesson Learned
 Last played (UTC)         : 2026-02-16 02:43:11Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Last Of My Kind → Alice In Chains — Lesson Learned
-Δ last played (since last): 2026-02-16 01:15:16Z → 2026-02-16 02:43:11Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:26:28
-Telemetry age             : 01:26:28
-Δ time (since last report): 02:41:25
+Time since last play      : 01:26:45
+Telemetry age             : 01:26:45
+Δ time (since last report): 00:00:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-09 04:09:39Z → 2026-02-16 04:09:39Z
+Week window (UTC)         : 2026-02-09 04:09:56Z → 2026-02-16 04:09:56Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : grunge(6) | post-grunge(6)
 Top genres (7d)           : grunge(19) | post-grunge(19) | shoegaze(17) | alternative metal(7) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-16 04:09:39Z
+Report generated (UTC)    : 2026-02-16 04:09:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
