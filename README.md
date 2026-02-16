@@ -859,13 +859,13 @@ Last played               : Alice In Chains — Last Of My Kind
 Last played (UTC)         : 2026-02-16 01:15:16Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Them Bones (2022 Remaster) → Alice In Chains — Last Of My Kind
-Δ last played (since last): 2026-02-16 00:48:48Z → 2026-02-16 01:15:16Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:10:59
-Telemetry age             : 00:10:59
-Δ time (since last report): 00:29:11
+Time since last play      : 00:12:58
+Telemetry age             : 00:12:58
+Δ time (since last report): 00:01:59
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-09 01:26:15Z → 2026-02-16 01:26:15Z
+Week window (UTC)         : 2026-02-09 01:28:14Z → 2026-02-16 01:28:14Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(5) | post-grunge(5)
 Top genres (7d)           : grunge(18) | post-grunge(18) | shoegaze(18) | alternative metal(7) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-16 01:26:15Z
+Report generated (UTC)    : 2026-02-16 01:28:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
