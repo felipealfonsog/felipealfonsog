@@ -859,13 +859,13 @@ Last played               : Alice In Chains — Them Bones (2022 Remaster)
 Last played (UTC)         : 2026-02-16 00:48:48Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Sickman (2022 Remaster) → Alice In Chains — Them Bones (2022 Remaster)
-Δ last played (since last): 2026-02-14 07:07:03Z → 2026-02-16 00:48:48Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:55
-Telemetry age             : 00:00:55
-Δ time (since last report): 03:16:33
+Time since last play      : 00:01:24
+Telemetry age             : 00:01:24
+Δ time (since last report): 00:00:29
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-09 00:49:43Z → 2026-02-16 00:49:43Z
+Week window (UTC)         : 2026-02-09 00:50:11Z → 2026-02-16 00:50:11Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(2) | post-grunge(2)
 Top genres (7d)           : shoegaze(21) | grunge(15) | post-grunge(15) | alternative metal(7) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-16 00:49:43Z
+Report generated (UTC)    : 2026-02-16 00:50:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
