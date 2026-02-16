@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-16 01:28:14Z",
-  "status": "PLAYING",
-  "last_track": "Alice In Chains — Last Of My Kind",
-  "last_played_utc": "2026-02-16 01:15:16Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-02-16 04:09:39Z",
+  "status": "IDLE",
+  "last_track": "Alice In Chains — Lesson Learned",
+  "last_played_utc": "2026-02-16 02:43:11Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
