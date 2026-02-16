@@ -858,13 +858,13 @@ Last played               : Seether — Given
 Last played (UTC)         : 2026-02-16 09:24:57Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Lesson Learned → Seether — Given
-Δ last played (since last): 2026-02-16 02:43:11Z → 2026-02-16 09:24:57Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:12:58
-Telemetry age             : 00:12:58
-Δ time (since last report): 00:20:50
+Time since last play      : 00:13:17
+Telemetry age             : 00:13:17
+Δ time (since last report): 00:00:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-09 09:37:55Z → 2026-02-16 09:37:55Z
+Week window (UTC)         : 2026-02-09 09:38:14Z → 2026-02-16 09:38:14Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(7) | grunge(6) | alternative metal(1) | rock(1)
 Top genres (7d)           : post-grunge(20) | grunge(19) | shoegaze(17) | alternative metal(8) | alternative rock(7) | funk rock(7)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-16 09:37:55Z
+Report generated (UTC)    : 2026-02-16 09:38:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
