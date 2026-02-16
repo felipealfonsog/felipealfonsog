@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:11:10
-Telemetry age             : 09:11:10
-Δ time (since last report): 00:00:25
+Time since last play      : 12:07:53
+Telemetry age             : 12:07:53
+Δ time (since last report): 02:56:43
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,8 +883,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-09 18:36:07Z → 2026-02-16 18:36:07Z
-Total tracks played       : 50
+Week window (UTC)         : 2026-02-09 21:32:49Z → 2026-02-16 21:32:49Z
+Total tracks played       : 49
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -894,22 +894,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
 Heatmap (24h)             :       ▃              ▅█▃
-Heatmap (7d)              :    ▁            ▁▄▅  ▁█▁
+Heatmap (7d)              :    ▁            ▁▄▄  ▁█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:10:54
+Avg inter-play gap (7d)   : 03:14:43
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(7) | grunge(6) | alternative metal(1) | rock(1)
-Top genres (7d)           : post-grunge(20) | grunge(19) | shoegaze(17) | alternative metal(8) | alternative rock(7) | funk rock(7)
+Top genres (7d)           : post-grunge(20) | grunge(19) | shoegaze(16) | alternative metal(8) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-16 18:36:07Z
+Report generated (UTC)    : 2026-02-16 21:32:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
