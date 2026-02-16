@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-16 00:57:04Z",
-  "status": "IDLE",
-  "last_track": "Alice In Chains — Them Bones (2022 Remaster)",
-  "last_played_utc": "2026-02-16 00:48:48Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-02-16 01:26:15Z",
+  "status": "PLAYING",
+  "last_track": "Alice In Chains — Last Of My Kind",
+  "last_played_utc": "2026-02-16 01:15:16Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
