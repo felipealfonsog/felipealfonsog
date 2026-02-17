@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-14_0022Z
+ snapshot_utc : 2026-02-17_0022Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-13 21:36:32Z
+DSN snapshot (UTC)       : 2026-02-16 21:35:27Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 169.987 AU
-Heliocentric distance    : 169.683 AU
-Relative speed           : 21.384 km/s
+Earth distance           : 25.43e9 km | 169.976 AU
+Heliocentric distance    : 169.713 AU
+Relative speed           : 20.926 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:44
-Round-trip latency       : 47:07:28
+One-way light time       : 23:33:39
+Round-trip latency       : 47:07:18
 ------------------------------------------------------------
-Δ distance (since last)  : -62,781 km
-Mission age              : 48 years, 173 days
+Δ distance (since last)  : -67,325 km
+Mission age              : 48 years, 176 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -342,19 +342,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.738 AU
-Heliocentric distance    : 142.095 AU
-Relative speed           : 28.890 km/s
+Earth distance           : 21.35e9 km | 142.740 AU
+Heliocentric distance    : 142.121 AU
+Relative speed           : 28.395 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:07
-Round-trip latency       : 39:34:13
+One-way light time       : 19:47:08
+Round-trip latency       : 39:34:16
 ------------------------------------------------------------
-Δ distance (since last)  : +21,999 km
-Mission age              : 48 years, 189 days
+Δ distance (since last)  : +11,246 km
+Mission age              : 48 years, 192 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-13 21:36:38Z
+Report generated (UTC)   : 2026-02-16 21:35:31Z
 ```
 
 <!-- VOYAGER:END -->
@@ -861,17 +861,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Incubus — Drive
-Last played (UTC)         : 2026-02-13 03:21:11Z
+Last played               : Seether — Given
+Last played (UTC)         : 2026-02-16 09:24:57Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 18:17:19
-Telemetry age             : 18:17:19
-Δ time (since last report): 00:03:13
+Time since last play      : 12:09:12
+Telemetry age             : 12:09:12
+Δ time (since last report): 00:00:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,40 +883,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
-Dominant artist           : Incubus
+Tracks played (last 24h)  : 7
+Dominant artist           : Alice In Chains
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-06 21:38:30Z → 2026-02-13 21:38:30Z
-Total tracks played       : 48
-Dominant artist           : Incubus
+Week window (UTC)         : 2026-02-09 21:34:08Z → 2026-02-16 21:34:08Z
+Total tracks played       : 49
+Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
-Peak hour (7d)            : 18:00
-Heatmap (24h)             : ▁                     █▁
-Heatmap (7d)              : ▂             ▆▃▂▅█   ▅▁
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :       ▃              ▅█▃
+Heatmap (7d)              :    ▁            ▁▄▄  ▁█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:05:14
+Sessions (24h)            : 3
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 03:14:43
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | doom metal(1) | sludge metal(1)
-Top genres (7d)           : shoegaze(27) | alternative metal(7) | alternative rock(7) | funk rock(7) | nu metal(7) | latin rock(6)
+Top genres (24h)          : post-grunge(7) | grunge(6) | alternative metal(1) | rock(1)
+Top genres (7d)           : post-grunge(20) | grunge(19) | shoegaze(16) | alternative metal(8) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-13 21:38:30Z
+Report generated (UTC)    : 2026-02-16 21:34:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,9 +1271,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 13 February 2026
+From: 04 December 2023 - To: 16 February 2026
 
-Total Time       : 981 hrs 29 mins
+Total Time       : 982 hrs 1 min
 Mostly coding in : Bash
 Daily average    : 1 hrs 13 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1282,27 +1282,27 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           164 hrs 46 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.79 %
+Bash           164 hrs 48 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.78 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.14 %
+Other          134 hrs 18 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.68 %
 HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.77 %
-Other          124 hrs 24 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.68 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.08 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.07 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.18 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.51 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.50 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.07 %
-Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.87 %
+Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.86 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          584 hrs 2 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.51 %
-Mac            521 hrs 51 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.17 %
+Linux          591 hrs 39 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.25 %
+Mac            524 hrs 40 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.43 %
 
 EDITORS
 -------
-VS Code        651 hrs 12 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.35 %
-Vim            325 hrs 17 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.14 %
-Firefox        109 hrs 31 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.16 %
+VS Code        651 hrs 12 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
+Vim            325 hrs 48 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.18 %
+Firefox        119 hrs 27 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.16 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
 Terminal       3 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
 TextMate       47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
@@ -1315,14 +1315,14 @@ Zoom           0 secs         ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         994 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       108 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.02 %
+Coding         995 hrs 15 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       118 hrs 4 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.02 %
 Writing Docs   1 hr 33 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.16 %
 Meeting        1 hr 26 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.15 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 13/02/2026 22:14:53 UTC
+Last updated     : 16/02/2026 22:12:03 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1384,22 +1384,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/clsource">
         <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
