@@ -854,17 +854,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Seether — Given
-Last played (UTC)         : 2026-02-16 09:24:57Z
+Last played               : Alice In Chains — God Smack (2022 Remaster)
+Last played (UTC)         : 2026-02-17 00:08:55Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Seether — Given → Alice In Chains — God Smack (2022 Remaster)
+Δ last played (since last): 2026-02-16 09:24:57Z → 2026-02-17 00:08:55Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 12:09:12
-Telemetry age             : 12:09:12
-Δ time (since last report): 00:00:17
+Time since last play      : 00:44:02
+Telemetry age             : 00:44:02
+Δ time (since last report): 03:18:49
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,15 +876,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 7
+Tracks played (last 24h)  : 6
 Dominant artist           : Alice In Chains
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-09 21:34:08Z → 2026-02-16 21:34:08Z
-Total tracks played       : 49
+Week window (UTC)         : 2026-02-10 00:52:57Z → 2026-02-17 00:52:57Z
+Total tracks played       : 47
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :       ▃              ▅█▃
-Heatmap (7d)              :    ▁            ▁▄▄  ▁█▁
+Heatmap (24h)             :       ▃              ▃█▃
+Heatmap (7d)              :    ▁            ▁▄▃  ▁█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 4
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:14:43
+Avg inter-play gap (7d)   : 02:10:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(7) | grunge(6) | alternative metal(1) | rock(1)
-Top genres (7d)           : post-grunge(20) | grunge(19) | shoegaze(16) | alternative metal(8) | alternative rock(7) | funk rock(7)
+Top genres (24h)          : post-grunge(6) | grunge(5) | alternative metal(1) | rock(1)
+Top genres (7d)           : post-grunge(21) | grunge(20) | shoegaze(14) | alternative metal(8) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-16 21:34:08Z
+Report generated (UTC)    : 2026-02-17 00:52:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
