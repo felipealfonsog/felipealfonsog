@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-16_0624Z
+ snapshot_utc : 2026-02-17_0621Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-16 04:10:12Z
+DSN snapshot (UTC)       : 2026-02-17 04:08:35Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 169.979 AU
-Heliocentric distance    : 169.705 AU
-Relative speed           : 21.034 km/s
+Earth distance           : 25.43e9 km | 169.975 AU
+Heliocentric distance    : 169.715 AU
+Relative speed           : 20.886 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:40
-Round-trip latency       : 47:07:21
+One-way light time       : 23:33:38
+Round-trip latency       : 47:07:17
 ------------------------------------------------------------
-Δ distance (since last)  : -147,024 km
-Mission age              : 48 years, 176 days
+Δ distance (since last)  : -74,194 km
+Mission age              : 48 years, 177 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -343,18 +343,18 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.35e9 km | 142.740 AU
-Heliocentric distance    : 142.115 AU
-Relative speed           : 28.514 km/s
+Heliocentric distance    : 142.123 AU
+Relative speed           : 28.350 km/s
 ------------------------------------------------------------
 One-way light time       : 19:47:08
 Round-trip latency       : 39:34:16
 ------------------------------------------------------------
-Δ distance (since last)  : +31,318 km
-Mission age              : 48 years, 192 days
+Δ distance (since last)  : +11,294 km
+Mission age              : 48 years, 193 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-16 04:10:15Z
+Report generated (UTC)   : 2026-02-17 04:08:41Z
 ```
 
 <!-- VOYAGER:END -->
@@ -861,17 +861,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Alice In Chains — Lesson Learned
-Last played (UTC)         : 2026-02-16 02:43:11Z
+Last played               : Alice In Chains — God Smack (2022 Remaster)
+Last played (UTC)         : 2026-02-17 00:08:55Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:26:45
-Telemetry age             : 01:26:45
-Δ time (since last report): 00:00:17
+Time since last play      : 03:58:31
+Telemetry age             : 03:58:31
+Δ time (since last report): 00:00:31
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,40 +883,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
+Tracks played (last 24h)  : 2
 Dominant artist           : Alice In Chains
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-09 04:09:56Z → 2026-02-16 04:09:56Z
-Total tracks played       : 50
+Week window (UTC)         : 2026-02-10 04:07:26Z → 2026-02-17 04:07:26Z
+Total tracks played       : 47
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : 06:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :                      ▅█▃
-Heatmap (7d)              :    ▁            ▁▄▅  ▁█▁
+Heatmap (24h)             :       █              █  
+Heatmap (7d)              :    ▁            ▁▄▃  ▁█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 03:02:46
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:10:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(6) | post-grunge(6)
-Top genres (7d)           : grunge(19) | post-grunge(19) | shoegaze(17) | alternative metal(7) | alternative rock(7) | funk rock(7)
+Top genres (24h)          : post-grunge(2) | alternative metal(1) | grunge(1) | rock(1)
+Top genres (7d)           : post-grunge(21) | grunge(20) | shoegaze(14) | alternative metal(8) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-16 04:09:56Z
+Report generated (UTC)    : 2026-02-17 04:07:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,7 +1271,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 16 February 2026
+From: 04 December 2023 - To: 17 February 2026
 
 Total Time       : 982 hrs 1 min
 Mostly coding in : Bash
@@ -1284,7 +1284,7 @@ LANGUAGES
 ---------
 Bash           164 hrs 48 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.78 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.14 %
-Other          134 hrs 18 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.68 %
+Other          138 hrs 40 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.12 %
 HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.77 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.07 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.18 %
@@ -1296,33 +1296,33 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 OPERATING SYSTEMS
 -----------------
 Linux          591 hrs 39 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.25 %
-Mac            524 hrs 40 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.43 %
+Mac            529 hrs 2 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  53.87 %
 
 EDITORS
 -------
-VS Code        651 hrs 12 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
+VS Code        651 hrs 13 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
 Vim            325 hrs 48 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.18 %
-Firefox        119 hrs 27 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.16 %
+Firefox        123 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.59 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
 Terminal       3 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
-TextMate       47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+TextMate       50 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
 Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-Notes          20 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
+Notes          25 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
 Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
+Zoom           5 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 Chrome         2 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
-Zoom           0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 CATEGORIES
 ----------
-Coding         995 hrs 15 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       118 hrs 4 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.02 %
-Writing Docs   1 hr 33 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.16 %
-Meeting        1 hr 26 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.15 %
+Coding         995 hrs 18 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       120 hrs 59 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.32 %
+Meeting        2 hrs 45 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
+Writing Docs   1 hr 38 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.17 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 16/02/2026 04:49:05 UTC
+Last updated     : 17/02/2026 04:43:46 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1384,22 +1384,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/clsource">
         <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
