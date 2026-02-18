@@ -858,13 +858,13 @@ Last played               : Linkin Park — Don't Stay
 Last played (UTC)         : 2026-02-18 08:44:20Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Mouth for War → Linkin Park — Don't Stay
-Δ last played (since last): 2026-02-18 04:20:31Z → 2026-02-18 08:44:20Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:51:24
-Telemetry age             : 00:51:24
-Δ time (since last report): 02:53:05
+Time since last play      : 00:52:31
+Telemetry age             : 00:52:31
+Δ time (since last report): 00:01:07
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 09:35:44Z → 2026-02-18 09:35:44Z
+Week window (UTC)         : 2026-02-11 09:36:50Z → 2026-02-18 09:36:50Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -907,9 +907,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(35) | post-grunge(35) | alternative metal(2) | groove metal(2) | heavy metal(2) | metal(2)
 Top genres (7d)           : post-grunge(45) | grunge(44) | alternative metal(3) | rock(3) | groove metal(2) | heavy metal(2)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 09:35:44Z
+Report generated (UTC)    : 2026-02-18 09:36:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
