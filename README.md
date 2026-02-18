@@ -859,13 +859,13 @@ Last played               : Linkin Park — Foreword
 Last played (UTC)         : 2026-02-18 21:20:47Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : errorz0ne — Dispose → Linkin Park — Foreword
-Δ last played (since last): 2026-02-18 21:14:45Z → 2026-02-18 21:20:47Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:58
-Telemetry age             : 00:00:58
-Δ time (since last report): 00:06:41
+Time since last play      : 00:01:40
+Telemetry age             : 00:01:40
+Δ time (since last report): 00:00:43
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 21:21:44Z → 2026-02-18 21:21:44Z
+Week window (UTC)         : 2026-02-11 21:22:26Z → 2026-02-18 21:22:26Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(35) | post-grunge(35) | alternative metal(3) 
 Top genres (7d)           : post-grunge(39) | grunge(38) | alternative metal(4) | rock(4) | nu metal(3) | rap metal(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 21:21:44Z
+Report generated (UTC)    : 2026-02-18 21:22:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
