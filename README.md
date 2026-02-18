@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : errorz0ne — Endless Cycle
-Last played               : errorz0ne — Dispose
-Last played (UTC)         : 2026-02-18 21:14:45Z
+Now playing               : Linkin Park — Don't Stay
+Last played               : Linkin Park — Foreword
+Last played (UTC)         : 2026-02-18 21:20:47Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Don't Stay → errorz0ne — Dispose
-Δ last played (since last): 2026-02-18 08:44:20Z → 2026-02-18 21:14:45Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : errorz0ne — Dispose → Linkin Park — Foreword
+Δ last played (since last): 2026-02-18 21:14:45Z → 2026-02-18 21:20:47Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:20
-Telemetry age             : 00:00:20
-Δ time (since last report): 02:36:33
+Time since last play      : 00:00:58
+Telemetry age             : 00:00:58
+Δ time (since last report): 00:06:41
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 43
+Tracks played (last 24h)  : 46
 Dominant artist           : Alice In Chains
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 21:15:04Z → 2026-02-18 21:15:04Z
+Week window (UTC)         : 2026-02-11 21:21:44Z → 2026-02-18 21:21:44Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 23:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             : ▇▂ ▂ ▁            ▂   ▆█
-Heatmap (7d)              : ▆▂ ▂ ▁▁           ▂  ▁▇█
+Heatmap (24h)             : ▇▂ ▂ ▁            ▄   ▆█
+Heatmap (7d)              : ▆▂ ▂ ▁▁           ▃  ▁▆█
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:23:48
+Avg inter-play gap (7d)   : 01:23:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(35) | post-grunge(35) | alternative metal(2) | groove metal(2) | heavy metal(2) | metal(2)
-Top genres (7d)           : post-grunge(42) | grunge(41) | alternative metal(3) | rock(3) | groove metal(2) | heavy metal(2)
+Top genres (24h)          : grunge(35) | post-grunge(35) | alternative metal(3) | nu metal(3) | rap metal(3) | rock(3)
+Top genres (7d)           : post-grunge(39) | grunge(38) | alternative metal(4) | rock(4) | nu metal(3) | rap metal(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 21:15:04Z
+Report generated (UTC)    : 2026-02-18 21:21:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
