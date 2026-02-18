@@ -859,13 +859,13 @@ Last played               : Alice In Chains — The One You Know
 Last played (UTC)         : 2026-02-18 03:21:33Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — When The Sun Rose Again → Alice In Chains — The One You Know
-Δ last played (since last): 2026-02-18 03:13:12Z → 2026-02-18 03:21:33Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:30
-Telemetry age             : 00:03:30
-Δ time (since last report): 00:03:38
+Time since last play      : 00:04:03
+Telemetry age             : 00:04:03
+Δ time (since last report): 00:00:34
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 03:25:02Z → 2026-02-18 03:25:02Z
+Week window (UTC)         : 2026-02-11 03:25:35Z → 2026-02-18 03:25:35Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(26) | post-grunge(26)
 Top genres (7d)           : post-grunge(47) | grunge(46) | alternative metal(4) | alternative rock(3) | funk rock(3) | nu metal(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 03:25:02Z
+Report generated (UTC)    : 2026-02-18 03:25:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
