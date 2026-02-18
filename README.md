@@ -854,7 +854,7 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Linkin Park — From the Inside
+Now playing               : Alice In Chains — Hollow
 Last played               : Linkin Park — Breaking the Habit
 Last played (UTC)         : 2026-02-18 21:41:44Z
 Last activity type        : PLAYBACK_ACTIVE
@@ -863,9 +863,9 @@ Last activity type        : PLAYBACK_ACTIVE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:21
-Telemetry age             : 00:01:21
-Δ time (since last report): 00:00:27
+Time since last play      : 00:08:22
+Telemetry age             : 00:08:22
+Δ time (since last report): 00:07:02
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 21:43:04Z → 2026-02-18 21:43:04Z
+Week window (UTC)         : 2026-02-11 21:50:05Z → 2026-02-18 21:50:05Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(33) | post-grunge(33) | alternative metal(9) 
 Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 21:43:04Z
+Report generated (UTC)    : 2026-02-18 21:50:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
