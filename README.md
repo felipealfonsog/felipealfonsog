@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Hollow
-Last played               : Linkin Park — Breaking the Habit
-Last played (UTC)         : 2026-02-18 21:41:44Z
+Now playing               : Alice In Chains — Stone
+Last played               : Alice In Chains — Pretty Done
+Last played (UTC)         : 2026-02-18 21:55:48Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Linkin Park — Breaking the Habit → Alice In Chains — Pretty Done
+Δ last played (since last): 2026-02-18 21:41:44Z → 2026-02-18 21:55:48Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:08:22
-Telemetry age             : 00:08:22
-Δ time (since last report): 00:07:02
+Time since last play      : 00:03:41
+Telemetry age             : 00:03:41
+Δ time (since last report): 00:09:24
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 21:50:05Z → 2026-02-18 21:50:05Z
+Week window (UTC)         : 2026-02-11 21:59:28Z → 2026-02-18 21:59:28Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -892,17 +892,17 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 23:00
-Peak hour (7d)            : 23:00
-Heatmap (24h)             : ▇▂ ▂ ▁            ▇   ▄█
-Heatmap (7d)              : ▇▂ ▂ ▁            ▇   ▄█
+Peak hour (24h)           : 18:00
+Peak hour (7d)            : 18:00
+Heatmap (24h)             : ▆▂ ▂ ▁            █   ▃▇
+Heatmap (7d)              : ▆▂ ▂ ▁            █   ▃▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:25:04
+Avg inter-play gap (7d)   : 00:25:09
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(33) | post-grunge(33) | alternative metal(9) 
 Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 21:50:05Z
+Report generated (UTC)    : 2026-02-18 21:59:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
