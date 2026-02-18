@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Drag the Waters
+Now playing               : Pantera — Mouth for War
 Last played               : Alice In Chains — All I Am
 Last played (UTC)         : 2026-02-18 04:10:39Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Never Fade → Alice In Chains — All I Am
-Δ last played (since last): 2026-02-18 04:03:23Z → 2026-02-18 04:10:39Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:18
-Telemetry age             : 00:02:18
-Δ time (since last report): 00:05:06
+Time since last play      : 00:08:11
+Telemetry age             : 00:08:11
+Δ time (since last report): 00:05:54
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 04:12:56Z → 2026-02-18 04:12:56Z
+Week window (UTC)         : 2026-02-11 04:18:49Z → 2026-02-18 04:18:49Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(35) | post-grunge(35)
 Top genres (7d)           : post-grunge(50) | grunge(49) | alternative metal(1) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 04:12:56Z
+Report generated (UTC)    : 2026-02-18 04:18:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
