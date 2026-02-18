@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-02-18 04:18:49Z",
+  "report_generated_utc": "2026-02-18 04:20:34Z",
   "status": "PLAYING",
-  "last_track": "Alice In Chains — All I Am",
-  "last_played_utc": "2026-02-18 04:10:39Z",
+  "last_track": "Pantera — Mouth for War",
+  "last_played_utc": "2026-02-18 04:20:31Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -350,6 +350,12 @@
       "post-grunge",
       "alternative metal",
       "rock"
+    ],
+    "14pVkFUHDL207LzLHtSA18": [
+      "groove metal",
+      "metal",
+      "thrash metal",
+      "heavy metal"
     ]
   }
 }
