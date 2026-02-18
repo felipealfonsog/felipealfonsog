@@ -859,13 +859,13 @@ Last played               : Alice In Chains — Never Fade
 Last played (UTC)         : 2026-02-18 04:03:23Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — The One You Know → Alice In Chains — Never Fade
-Δ last played (since last): 2026-02-18 03:21:33Z → 2026-02-18 04:03:23Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:09
-Telemetry age             : 00:04:09
-Δ time (since last report): 00:41:57
+Time since last play      : 00:04:28
+Telemetry age             : 00:04:28
+Δ time (since last report): 00:00:19
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 04:07:32Z → 2026-02-18 04:07:32Z
+Week window (UTC)         : 2026-02-11 04:07:51Z → 2026-02-18 04:07:51Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(34) | post-grunge(34)
 Top genres (7d)           : post-grunge(50) | grunge(49) | alternative metal(1) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 04:07:32Z
+Report generated (UTC)    : 2026-02-18 04:07:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
