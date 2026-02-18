@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Stone
+Now playing               : Alice In Chains — Voices
 Last played               : Alice In Chains — Pretty Done
 Last played (UTC)         : 2026-02-18 21:55:48Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Breaking the Habit → Alice In Chains — Pretty Done
-Δ last played (since last): 2026-02-18 21:41:44Z → 2026-02-18 21:55:48Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:41
-Telemetry age             : 00:03:41
-Δ time (since last report): 00:09:24
+Time since last play      : 00:07:15
+Telemetry age             : 00:07:15
+Δ time (since last report): 00:03:35
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 21:59:28Z → 2026-02-18 21:59:28Z
+Week window (UTC)         : 2026-02-11 22:03:02Z → 2026-02-18 22:03:02Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(33) | post-grunge(33) | alternative metal(9) 
 Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 21:59:28Z
+Report generated (UTC)    : 2026-02-18 22:03:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
