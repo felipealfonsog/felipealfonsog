@@ -854,17 +854,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pantera — Mouth for War
-Last played (UTC)         : 2026-02-18 04:20:31Z
+Last played               : Linkin Park — Don't Stay
+Last played (UTC)         : 2026-02-18 08:44:20Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Pantera — Mouth for War → Linkin Park — Don't Stay
+Δ last played (since last): 2026-02-18 04:20:31Z → 2026-02-18 08:44:20Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:22:09
-Telemetry age             : 02:22:09
-Δ time (since last report): 00:00:30
+Time since last play      : 00:51:24
+Telemetry age             : 00:51:24
+Δ time (since last report): 02:53:05
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 36
+Tracks played (last 24h)  : 40
 Dominant artist           : Alice In Chains
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 06:42:39Z → 2026-02-18 06:42:39Z
+Week window (UTC)         : 2026-02-11 09:35:44Z → 2026-02-18 09:35:44Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -892,24 +892,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 23:00
-Peak hour (7d)            : 22:00
-Heatmap (24h)             : ▇▂                    ▆█
-Heatmap (7d)              : ▆▂ ▂▁ ▁              ▂██
+Peak hour (7d)            : 23:00
+Heatmap (24h)             : ▇▂ ▂ ▁                ▆█
+Heatmap (7d)              : ▆▂ ▂▁▁▁              ▂▇█
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:00:37
+Sessions (24h)            : 3
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 01:59:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(35) | post-grunge(35) | groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
-Top genres (7d)           : post-grunge(49) | grunge(48) | alternative metal(1) | groove metal(1) | heavy metal(1) | metal(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : grunge(35) | post-grunge(35) | alternative metal(2) | groove metal(2) | heavy metal(2) | metal(2)
+Top genres (7d)           : post-grunge(45) | grunge(44) | alternative metal(3) | rock(3) | groove metal(2) | heavy metal(2)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 06:42:39Z
+Report generated (UTC)    : 2026-02-18 09:35:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

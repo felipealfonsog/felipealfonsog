@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-02-18 06:42:39Z",
+  "report_generated_utc": "2026-02-18 09:35:44Z",
   "status": "IDLE",
-  "last_track": "Pantera — Mouth for War",
-  "last_played_utc": "2026-02-18 04:20:31Z",
+  "last_track": "Linkin Park — Don't Stay",
+  "last_played_utc": "2026-02-18 08:44:20Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -356,6 +356,13 @@
       "metal",
       "thrash metal",
       "heavy metal"
-    ]
+    ],
+    "6XyY86QOPPrYVGvF9ch6wz": [
+      "nu metal",
+      "rap metal",
+      "rock",
+      "alternative metal"
+    ],
+    "0H0fZAyMbBJIOPfjK2BxZx": []
   }
 }
