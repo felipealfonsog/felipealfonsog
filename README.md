@@ -859,13 +859,13 @@ Last played               : Linkin Park — Easier to Run
 Last played (UTC)         : 2026-02-18 21:32:24Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Foreword → Linkin Park — Easier to Run
-Δ last played (since last): 2026-02-18 21:20:47Z → 2026-02-18 21:32:24Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:01
-Telemetry age             : 00:00:01
-Δ time (since last report): 00:09:59
+Time since last play      : 00:01:30
+Telemetry age             : 00:01:30
+Δ time (since last report): 00:01:30
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 21:32:24Z → 2026-02-18 21:32:24Z
+Week window (UTC)         : 2026-02-11 21:33:53Z → 2026-02-18 21:33:53Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(35) | post-grunge(35) | alternative metal(6) 
 Top genres (7d)           : grunge(36) | post-grunge(36) | alternative metal(6) | nu metal(6) | rap metal(6) | rock(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 21:32:24Z
+Report generated (UTC)    : 2026-02-18 21:33:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
