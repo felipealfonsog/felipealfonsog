@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-18 00:53:29Z",
-  "status": "IDLE",
-  "last_track": "Alice In Chains — God Smack (2022 Remaster)",
-  "last_played_utc": "2026-02-17 00:08:55Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-02-18 01:24:56Z",
+  "status": "PLAYING",
+  "last_track": "Alice In Chains — Voices",
+  "last_played_utc": "2026-02-18 01:23:14Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
