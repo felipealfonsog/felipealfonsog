@@ -859,13 +859,13 @@ Last played               : Alice In Chains — Voices
 Last played (UTC)         : 2026-02-18 01:23:14Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — God Smack (2022 Remaster) → Alice In Chains — Voices
-Δ last played (since last): 2026-02-17 00:08:55Z → 2026-02-18 01:23:14Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:42
-Telemetry age             : 00:01:42
-Δ time (since last report): 00:31:27
+Time since last play      : 00:02:46
+Telemetry age             : 00:02:46
+Δ time (since last report): 00:01:04
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 01:24:56Z → 2026-02-18 01:24:56Z
+Week window (UTC)         : 2026-02-11 01:26:00Z → 2026-02-18 01:26:00Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(5) | post-grunge(5)
 Top genres (7d)           : post-grunge(26) | grunge(25) | shoegaze(12) | alternative metal(8) | alternative rock(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 01:24:56Z
+Report generated (UTC)    : 2026-02-18 01:26:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
