@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Linkin Park — Figure.09
-Last played               : Linkin Park — Faint
-Last played (UTC)         : 2026-02-18 21:35:06Z
+Now playing               : Linkin Park — From the Inside
+Last played               : Linkin Park — Breaking the Habit
+Last played (UTC)         : 2026-02-18 21:41:44Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Easier to Run → Linkin Park — Faint
-Δ last played (since last): 2026-02-18 21:32:24Z → 2026-02-18 21:35:06Z
+Δ track (since last)      : Linkin Park — Faint → Linkin Park — Breaking the Habit
+Δ last played (since last): 2026-02-18 21:35:06Z → 2026-02-18 21:41:44Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:19
-Telemetry age             : 00:01:19
-Δ time (since last report): 00:01:32
+Time since last play      : 00:00:54
+Telemetry age             : 00:00:54
+Δ time (since last report): 00:06:13
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 21:36:25Z → 2026-02-18 21:36:25Z
+Week window (UTC)         : 2026-02-11 21:42:38Z → 2026-02-18 21:42:38Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 23:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             : ▇▂ ▂ ▁            ▆   ▆█
-Heatmap (7d)              : ▇▂ ▂ ▁            ▆   ▆█
+Heatmap (24h)             : ▇▂ ▂ ▁            ▇   ▄█
+Heatmap (7d)              : ▇▂ ▂ ▁            ▇   ▄█
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:25:10
+Avg inter-play gap (7d)   : 00:25:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(35) | post-grunge(35) | alternative metal(7) | nu metal(7) | rap metal(7) | rock(7)
-Top genres (7d)           : grunge(35) | post-grunge(35) | alternative metal(7) | nu metal(7) | rap metal(7) | rock(7)
+Top genres (24h)          : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
+Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 21:36:25Z
+Report generated (UTC)    : 2026-02-18 21:42:38Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
