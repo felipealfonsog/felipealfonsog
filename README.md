@@ -859,13 +859,13 @@ Last played               : Linkin Park — Breaking the Habit
 Last played (UTC)         : 2026-02-18 21:41:44Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Faint → Linkin Park — Breaking the Habit
-Δ last played (since last): 2026-02-18 21:35:06Z → 2026-02-18 21:41:44Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:54
-Telemetry age             : 00:00:54
-Δ time (since last report): 00:06:13
+Time since last play      : 00:01:21
+Telemetry age             : 00:01:21
+Δ time (since last report): 00:00:27
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 21:42:38Z → 2026-02-18 21:42:38Z
+Week window (UTC)         : 2026-02-11 21:43:04Z → 2026-02-18 21:43:04Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(33) | post-grunge(33) | alternative metal(9) 
 Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 21:42:38Z
+Report generated (UTC)    : 2026-02-18 21:43:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
