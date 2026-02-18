@@ -842,48 +842,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Linkin Park — Don't Stay
-Last played (UTC)         : 2026-02-18 08:44:20Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : errorz0ne — Endless Cycle
+Last played               : errorz0ne — Dispose
+Last played (UTC)         : 2026-02-18 21:14:45Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Linkin Park — Don't Stay → errorz0ne — Dispose
+Δ last played (since last): 2026-02-18 08:44:20Z → 2026-02-18 21:14:45Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 09:54:12
-Telemetry age             : 09:54:12
-Δ time (since last report): 00:01:15
+Time since last play      : 00:00:20
+Telemetry age             : 00:00:20
+Δ time (since last report): 02:36:33
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 40
+Tracks played (last 24h)  : 43
 Dominant artist           : Alice In Chains
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 18:38:32Z → 2026-02-18 18:38:32Z
+Week window (UTC)         : 2026-02-11 21:15:04Z → 2026-02-18 21:15:04Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -893,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 23:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             : ▇▂ ▂ ▁                ▆█
-Heatmap (7d)              : ▆▂ ▂▁▁▁              ▂▇█
+Heatmap (24h)             : ▇▂ ▂ ▁            ▂   ▆█
+Heatmap (7d)              : ▆▂ ▂ ▁▁           ▂  ▁▇█
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 4
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:59:44
+Avg inter-play gap (7d)   : 01:23:48
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(35) | post-grunge(35) | alternative metal(2) | groove metal(2) | heavy metal(2) | metal(2)
-Top genres (7d)           : post-grunge(45) | grunge(44) | alternative metal(3) | rock(3) | groove metal(2) | heavy metal(2)
+Top genres (7d)           : post-grunge(42) | grunge(41) | alternative metal(3) | rock(3) | groove metal(2) | heavy metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 18:38:32Z
+Report generated (UTC)    : 2026-02-18 21:15:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
