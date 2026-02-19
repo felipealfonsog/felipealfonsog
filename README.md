@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:24:56
-Telemetry age             : 10:24:56
-Δ time (since last report): 00:01:18
+Time since last play      : 13:19:47
+Telemetry age             : 13:19:47
+Δ time (since last report): 02:54:52
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 23
+Tracks played (last 24h)  : 14
 Dominant artist           : Pantera
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-12 18:38:42Z → 2026-02-19 18:38:42Z
+Week window (UTC)         : 2026-02-12 21:33:34Z → 2026-02-19 21:33:34Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -893,7 +893,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :      ▁            █▁  ▃▁
+Heatmap (24h)             :      ▂            █▂  █▃
 Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -905,11 +905,11 @@ Avg inter-play gap (7d)   : 00:36:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(7) | groove metal(7) | heavy metal(7) | metal(7) | nu metal(7) | rap metal(7)
+Top genres (24h)          : groove metal(7) | heavy metal(7) | metal(7) | thrash metal(7) | grunge(4) | post-grunge(4)
 Top genres (7d)           : grunge(26) | post-grunge(26) | alternative metal(9) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-19 18:38:42Z
+Report generated (UTC)    : 2026-02-19 21:33:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
