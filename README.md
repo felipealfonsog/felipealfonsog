@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:50:13
-Telemetry age             : 01:50:13
-Δ time (since last report): 00:00:19
+Time since last play      : 04:23:32
+Telemetry age             : 04:23:32
+Δ time (since last report): 02:33:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 28
+Tracks played (last 24h)  : 26
 Dominant artist           : Linkin Park
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-12 04:07:20Z → 2026-02-19 04:07:20Z
+Week window (UTC)         : 2026-02-12 06:40:38Z → 2026-02-19 06:40:38Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :  ▁ ▂ ▁            █▁  ▃▁
+Heatmap (24h)             :    ▂ ▁            █▁  ▃▁
 Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 4
 Sessions (7d)             : 5
 Avg inter-play gap (7d)   : 00:29:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rock(9) | groove metal(8) | heavy metal(8)
+Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rock(9) | groove metal(7) | heavy metal(7)
 Top genres (7d)           : grunge(27) | post-grunge(27) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-19 04:07:20Z
+Report generated (UTC)    : 2026-02-19 06:40:38Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
