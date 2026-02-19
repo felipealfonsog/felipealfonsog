@@ -65,7 +65,7 @@ Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Ze
 Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles. Throughout my life, I have lived and worked internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi), [Auckland](https://en.wikipedia.org/wiki/Auckland), [Christchurch](https://en.wikipedia.org/wiki/Christchurch), [California](https://en.wikipedia.org/wiki/California), and [Cape Town](https://en.wikipedia.org/wiki/Cape_Town). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in **English**, **Afrikaans**, and **French**, in addition to my native **Spanish**. You are welcome to connect with me in any of these languages.
 -->
 
-Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
+Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
 Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
 
@@ -305,7 +305,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-03 21:36:22Z
+DSN snapshot (UTC)       : 2026-02-19 04:08:43Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -316,15 +316,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 170.015 AU
-Heliocentric distance    : 169.586 AU
-Relative speed           : 23.139 km/s
+Earth distance           : 25.43e9 km | 169.968 AU
+Heliocentric distance    : 169.735 AU
+Relative speed           : 20.603 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:58
-Round-trip latency       : 47:07:57
+One-way light time       : 23:33:35
+Round-trip latency       : 47:07:09
 ------------------------------------------------------------
-Δ distance (since last)  : -41,099 km
-Mission age              : 48 years, 163 days
+Δ distance (since last)  : -294,573 km
+Mission age              : 48 years, 179 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -335,19 +335,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.716 AU
-Heliocentric distance    : 142.008 AU
-Relative speed           : 30.559 km/s
+Earth distance           : 21.35e9 km | 142.741 AU
+Heliocentric distance    : 142.141 AU
+Relative speed           : 28.021 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:56
-Round-trip latency       : 39:33:52
+One-way light time       : 19:47:08
+Round-trip latency       : 39:34:17
 ------------------------------------------------------------
-Δ distance (since last)  : +60,054 km
-Mission age              : 48 years, 179 days
+Δ distance (since last)  : +17,029 km
+Mission age              : 48 years, 195 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-03 21:36:27Z
+Report generated (UTC)   : 2026-02-19 04:08:46Z
 ```
 
 <!-- VOYAGER:END -->
@@ -842,75 +842,74 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : cloudyfield — is that love?
-Last played               : The Abstratica — Tomorrow
-Last played (UTC)         : 2026-02-04 00:29:22Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Pantera — War Nerve
+Last played (UTC)         : 2026-02-19 02:17:07Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : deer death — glue → The Abstratica — Tomorrow
-Δ last played (since last): 2026-02-04 00:15:44Z → 2026-02-04 00:29:22Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:31
-Telemetry age             : 00:00:31
-Δ time (since last report): 00:13:45
+Time since last play      : 01:50:13
+Telemetry age             : 01:50:13
+Δ time (since last report): 00:00:19
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 47
-Dominant artist           : Amira Elfeky
+Tracks played (last 24h)  : 28
+Dominant artist           : Linkin Park
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-01-28 00:29:53Z → 2026-02-04 00:29:53Z
+Week window (UTC)         : 2026-02-12 04:07:20Z → 2026-02-19 04:07:20Z
 Total tracks played       : 50
-Dominant artist           : Amira Elfeky
+Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
-Peak hour (7d)            : 20:00
-Heatmap (24h)             :                   ▄▄█▄  
-Heatmap (7d)              :                   ▄▄█▄ ▁
+Peak hour (24h)           : 18:00
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :  ▁ ▂ ▁            █▁  ▃▁
+Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:56:41
+Sessions (24h)            : 5
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:29:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(26) | metalcore(3) | latin alternative(2) | latin indie(2) | latin rock(1) | space rock(1)
-Top genres (7d)           : shoegaze(27) | metalcore(3) | latin alternative(2) | latin indie(2) | post-grunge(2) | alternative metal(1)
-Artist lookups (this run) : 2 (cached)
+Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rock(9) | groove metal(8) | heavy metal(8)
+Top genres (7d)           : grunge(27) | post-grunge(27) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-04 00:29:53Z
+Report generated (UTC)    : 2026-02-19 04:07:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1265,56 +1264,58 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 03 February 2026
+From: 04 December 2023 - To: 19 February 2026
 
-Total Time       : 978 hrs 17 mins
+Total Time       : 982 hrs 2 mins
 Mostly coding in : Bash
-Daily average    : 1 hrs 14 mins
+Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           164 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.83 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.19 %
-HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.81 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.12 %
-Other          104 hrs 58 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.73 %
-Markdown       78 hrs 9 mins  ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.99 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.53 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.09 %
-Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.88 %
-YAML           36 hrs 54 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
+Bash           164 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.78 %
+Other          142 hrs 45 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.54 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.14 %
+HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.77 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.07 %
+Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.18 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.50 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.07 %
+Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.86 %
+YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          584 hrs 2 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  59.70 %
-Mac            499 hrs 13 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.03 %
+Linux          591 hrs 39 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.25 %
+Mac            533 hrs 8 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.29 %
 
 EDITORS
 -------
-VS Code        650 hrs 33 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.50 %
-Vim            325 hrs 15 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.25 %
-Firefox        89 hrs 57 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   9.20 %
-TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
-Terminal       1 hr 22 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.14 %
-Antigravity    44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+VS Code        651 hrs 13 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
+Vim            325 hrs 48 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.18 %
+Firefox        127 hrs 40 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.00 %
+TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
+Terminal       3 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
+TextMate       50 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
+Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-TextMate       40 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-Notes          20 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
-Dia            6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
+Notes          25 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
+Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
+Zoom           6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 Chrome         2 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 CATEGORIES
 ----------
-Coding         992 hrs 19 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       89 hrs 59 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   9.20 %
-Writing Docs   56 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
+Coding         995 hrs 18 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       125 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.73 %
+Meeting        2 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
+Writing Docs   1 hr 38 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.17 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 03/02/2026 22:13:57 UTC
+Last updated     : 19/02/2026 04:44:07 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1376,22 +1377,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/clsource">
         <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
@@ -2157,6 +2158,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell
 
 ### 🕒 Recently Active Projects
+- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
+  🧬 JavaScript · CSS · Shell
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
@@ -2171,14 +2174,12 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Shell · Python
 - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
   🧬 Python
-- [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
-  🧬 JavaScript · HTML
 
 ### 📈 Popular Projects (Stars + Forks)
-- [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
-  🧬 JavaScript · CSS · Shell
 - [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
   🧬 Hack · PHP · JavaScript
+- [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
+  🧬 JavaScript · HTML
 - [C-VipNX](https://github.com/openvelora/C-VipNX): Shell Vip Utility written in C for *NX Systems. Simple: Vip shell to avoid usage of sudo
   🧬 C · Shell
 - [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
