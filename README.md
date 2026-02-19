@@ -858,13 +858,13 @@ Last played               : Alice In Chains — Voices
 Last played (UTC)         : 2026-02-18 22:07:21Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Pretty Done → Alice In Chains — Voices
-Δ last played (since last): 2026-02-18 21:55:48Z → 2026-02-18 22:07:21Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:46:17
-Telemetry age             : 02:46:17
-Δ time (since last report): 02:50:36
+Time since last play      : 02:46:28
+Telemetry age             : 02:46:28
+Δ time (since last report): 00:00:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-12 00:53:38Z → 2026-02-19 00:53:38Z
+Week window (UTC)         : 2026-02-12 00:53:49Z → 2026-02-19 00:53:49Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : grunge(33) | post-grunge(33) | alternative metal(9) 
 Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-19 00:53:38Z
+Report generated (UTC)    : 2026-02-19 00:53:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
