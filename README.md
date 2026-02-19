@@ -854,17 +854,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pantera — War Nerve
-Last played (UTC)         : 2026-02-19 02:17:07Z
+Last played               : Pantera — Drag the Waters
+Last played (UTC)         : 2026-02-19 08:13:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Pantera — War Nerve → Pantera — Drag the Waters
+Δ last played (since last): 2026-02-19 02:17:07Z → 2026-02-19 08:13:47Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:24:24
-Telemetry age             : 04:24:24
-Δ time (since last report): 00:00:15
+Time since last play      : 01:21:39
+Telemetry age             : 01:21:39
+Δ time (since last report): 02:53:56
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 26
-Dominant artist           : Linkin Park
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 23
+Dominant artist           : Pantera
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-12 06:41:30Z → 2026-02-19 06:41:30Z
+Week window (UTC)         : 2026-02-12 09:35:25Z → 2026-02-19 09:35:25Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -893,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :    ▂ ▁            █▁  ▃▁
-Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▇
+Heatmap (24h)             :      ▁            █▁  ▃▁
+Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:29:22
+Sessions (24h)            : 3
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 00:36:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rock(9) | groove metal(7) | heavy metal(7)
-Top genres (7d)           : grunge(27) | post-grunge(27) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
+Top genres (24h)          : alternative metal(7) | groove metal(7) | heavy metal(7) | metal(7) | nu metal(7) | rap metal(7)
+Top genres (7d)           : grunge(26) | post-grunge(26) | alternative metal(9) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-19 06:41:30Z
+Report generated (UTC)    : 2026-02-19 09:35:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
