@@ -842,34 +842,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Alice In Chains — Voices
-Last played (UTC)         : 2026-02-18 22:07:21Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Weichafe — Z
+Last played               : Alice In Chains — The Devil Put Dinosaurs Here
+Last played (UTC)         : 2026-02-19 01:19:34Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Alice In Chains — Voices → Alice In Chains — The Devil Put Dinosaurs Here
+Δ last played (since last): 2026-02-18 22:07:21Z → 2026-02-19 01:19:34Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 02:46:28
-Telemetry age             : 02:46:28
-Δ time (since last report): 00:00:11
+Time since last play      : 00:02:01
+Telemetry age             : 00:02:01
+Δ time (since last report): 00:27:46
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -883,7 +884,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-12 00:53:49Z → 2026-02-19 00:53:49Z
+Week window (UTC)         : 2026-02-12 01:21:35Z → 2026-02-19 01:21:35Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -899,9 +900,9 @@ Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▂▇
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:25:15
+Sessions (24h)            : 5
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:28:52
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -909,7 +910,7 @@ Top genres (24h)          : grunge(33) | post-grunge(33) | alternative metal(9) 
 Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-19 00:53:49Z
+Report generated (UTC)    : 2026-02-19 01:21:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
