@@ -858,13 +858,13 @@ Last played               : Pantera — War Nerve
 Last played (UTC)         : 2026-02-19 02:17:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — 10's → Pantera — War Nerve
-Δ last played (since last): 2026-02-19 02:12:01Z → 2026-02-19 02:17:07Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:49:36
-Telemetry age             : 01:49:36
-Δ time (since last report): 01:54:02
+Time since last play      : 01:49:55
+Telemetry age             : 01:49:55
+Δ time (since last report): 00:00:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-12 04:06:42Z → 2026-02-19 04:06:42Z
+Week window (UTC)         : 2026-02-12 04:07:01Z → 2026-02-19 04:07:01Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | 
 Top genres (7d)           : grunge(27) | post-grunge(27) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-19 04:06:42Z
+Report generated (UTC)    : 2026-02-19 04:07:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
