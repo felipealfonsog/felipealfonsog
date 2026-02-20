@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:21:07
-Telemetry age             : 13:21:07
-Δ time (since last report): 00:00:24
+Time since last play      : 16:36:24
+Telemetry age             : 16:36:24
+Δ time (since last report): 03:15:18
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
+Tracks played (last 24h)  : 8
 Dominant artist           : Pantera
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-12 21:34:53Z → 2026-02-19 21:34:53Z
+Week window (UTC)         : 2026-02-13 00:50:11Z → 2026-02-20 00:50:11Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -891,25 +891,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
+Peak hour (24h)           : 22:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :      ▂            █▂  █▃
+Heatmap (24h)             :      ▂                █▃
 Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 6
 Avg inter-play gap (7d)   : 00:36:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(7) | heavy metal(7) | metal(7) | thrash metal(7) | grunge(4) | post-grunge(4)
+Top genres (24h)          : groove metal(7) | heavy metal(7) | metal(7) | thrash metal(7) | grunge(1) | post-grunge(1)
 Top genres (7d)           : grunge(26) | post-grunge(26) | alternative metal(9) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-19 21:34:53Z
+Report generated (UTC)    : 2026-02-20 00:50:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
