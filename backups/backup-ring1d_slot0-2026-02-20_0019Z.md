@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-19_0022Z
+ snapshot_utc : 2026-02-20_0019Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -72,7 +72,7 @@ Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Ze
 Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles. Throughout my life, I have lived and worked internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi), [Auckland](https://en.wikipedia.org/wiki/Auckland), [Christchurch](https://en.wikipedia.org/wiki/Christchurch), [California](https://en.wikipedia.org/wiki/California), and [Cape Town](https://en.wikipedia.org/wiki/Cape_Town). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in **English**, **Afrikaans**, and **French**, in addition to my native **Spanish**. You are welcome to connect with me in any of these languages.
 -->
 
-Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
+Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
 Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
 
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-18 15:42:31Z
+DSN snapshot (UTC)       : 2026-02-19 21:36:20Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 169.970 AU
-Heliocentric distance    : 169.730 AU
-Relative speed           : 20.675 km/s
+Earth distance           : 25.43e9 km | 169.965 AU
+Heliocentric distance    : 169.742 AU
+Relative speed           : 20.504 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:36
-Round-trip latency       : 47:07:11
+One-way light time       : 23:33:33
+Round-trip latency       : 47:07:07
 ------------------------------------------------------------
-Δ distance (since last)  : -72,204 km
-Mission age              : 48 years, 178 days
+Δ distance (since last)  : -143,631 km
+Mission age              : 48 years, 179 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -343,18 +343,18 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.35e9 km | 142.741 AU
-Heliocentric distance    : 142.136 AU
-Relative speed           : 28.106 km/s
+Heliocentric distance    : 142.147 AU
+Relative speed           : 27.903 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:08
+One-way light time       : 19:47:09
 Round-trip latency       : 39:34:17
 ------------------------------------------------------------
-Δ distance (since last)  : +5,339 km
-Mission age              : 48 years, 194 days
+Δ distance (since last)  : +2,305 km
+Mission age              : 48 years, 195 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-18 15:42:35Z
+Report generated (UTC)   : 2026-02-19 21:36:21Z
 ```
 
 <!-- VOYAGER:END -->
@@ -849,49 +849,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Voices
-Last played               : Alice In Chains — Pretty Done
-Last played (UTC)         : 2026-02-18 21:55:48Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Pantera — Drag the Waters
+Last played (UTC)         : 2026-02-19 08:13:47Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:07:15
-Telemetry age             : 00:07:15
-Δ time (since last report): 00:03:35
+Time since last play      : 13:21:07
+Telemetry age             : 13:21:07
+Δ time (since last report): 00:00:24
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
-Dominant artist           : Alice In Chains
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 14
+Dominant artist           : Pantera
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-11 22:03:02Z → 2026-02-18 22:03:02Z
+Week window (UTC)         : 2026-02-12 21:34:53Z → 2026-02-19 21:34:53Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -901,23 +900,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             : ▆▂ ▂ ▁            █   ▃▇
-Heatmap (7d)              : ▆▂ ▂ ▁            █   ▃▇
+Heatmap (24h)             :      ▂            █▂  █▃
+Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:25:09
+Sessions (24h)            : 3
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 00:36:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
-Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
+Top genres (24h)          : groove metal(7) | heavy metal(7) | metal(7) | thrash metal(7) | grunge(4) | post-grunge(4)
+Top genres (7d)           : grunge(26) | post-grunge(26) | alternative metal(9) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-18 22:03:02Z
+Report generated (UTC)    : 2026-02-19 21:34:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1272,7 +1271,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 18 February 2026
+From: 04 December 2023 - To: 19 February 2026
 
 Total Time       : 982 hrs 2 mins
 Mostly coding in : Bash
@@ -1284,7 +1283,7 @@ Activity pattern : High-intensity operational focus
 LANGUAGES
 ---------
 Bash           164 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.78 %
-Other          142 hrs 20 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.50 %
+Other          142 hrs 45 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.54 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.14 %
 HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.77 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.07 %
@@ -1297,13 +1296,13 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 OPERATING SYSTEMS
 -----------------
 Linux          591 hrs 39 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.25 %
-Mac            532 hrs 43 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.25 %
+Mac            533 hrs 8 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.29 %
 
 EDITORS
 -------
 VS Code        651 hrs 13 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
 Vim            325 hrs 48 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.18 %
-Firefox        127 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.96 %
+Firefox        127 hrs 40 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.00 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
 Terminal       3 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
 TextMate       50 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
@@ -1311,19 +1310,19 @@ Antigravity    46 mins        ○○○○○○○○○○○○○○○○�
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Notes          25 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
 Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
-Zoom           5 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
+Zoom           6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 Chrome         2 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 CATEGORIES
 ----------
 Coding         995 hrs 18 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       124 hrs 39 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.69 %
-Meeting        2 hrs 46 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
+Browsing       125 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.73 %
+Meeting        2 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
 Writing Docs   1 hr 38 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.17 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 18/02/2026 22:15:39 UTC
+Last updated     : 19/02/2026 22:13:42 UTC
 
 ```
 <!--END_SECTION:wakastats-->
