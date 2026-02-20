@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-19_0623Z
+ snapshot_utc : 2026-02-20_0619Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-19 04:08:43Z
+DSN snapshot (UTC)       : 2026-02-20 04:08:05Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 169.968 AU
-Heliocentric distance    : 169.735 AU
-Relative speed           : 20.603 km/s
+Earth distance           : 25.43e9 km | 169.964 AU
+Heliocentric distance    : 169.744 AU
+Relative speed           : 20.468 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:35
-Round-trip latency       : 47:07:09
+One-way light time       : 23:33:33
+Round-trip latency       : 47:07:06
 ------------------------------------------------------------
-Δ distance (since last)  : -294,573 km
-Mission age              : 48 years, 179 days
+Δ distance (since last)  : -157,994 km
+Mission age              : 48 years, 180 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -343,18 +343,18 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.35e9 km | 142.741 AU
-Heliocentric distance    : 142.141 AU
-Relative speed           : 28.021 km/s
+Heliocentric distance    : 142.149 AU
+Relative speed           : 27.858 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:08
+One-way light time       : 19:47:09
 Round-trip latency       : 39:34:17
 ------------------------------------------------------------
-Δ distance (since last)  : +17,029 km
-Mission age              : 48 years, 195 days
+Δ distance (since last)  : +603 km
+Mission age              : 48 years, 196 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-19 04:08:46Z
+Report generated (UTC)   : 2026-02-20 04:08:11Z
 ```
 
 <!-- VOYAGER:END -->
@@ -861,17 +861,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pantera — War Nerve
-Last played (UTC)         : 2026-02-19 02:17:07Z
+Last played               : Pantera — Drag the Waters
+Last played (UTC)         : 2026-02-19 08:13:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:50:13
-Telemetry age             : 01:50:13
-Δ time (since last report): 00:00:19
+Time since last play      : 19:54:10
+Telemetry age             : 19:54:10
+Δ time (since last report): 00:01:18
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,14 +883,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 28
-Dominant artist           : Linkin Park
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 1
+Dominant artist           : Pantera
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-12 04:07:20Z → 2026-02-19 04:07:20Z
+Week window (UTC)         : 2026-02-13 04:07:56Z → 2026-02-20 04:07:56Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -898,25 +898,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
+Peak hour (24h)           : 05:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :  ▁ ▂ ▁            █▁  ▃▁
-Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▇
+Heatmap (24h)             :      █                  
+Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:29:22
+Sessions (24h)            : 1
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 00:36:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rock(9) | groove metal(8) | heavy metal(8)
-Top genres (7d)           : grunge(27) | post-grunge(27) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
+Top genres (24h)          : groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
+Top genres (7d)           : grunge(26) | post-grunge(26) | alternative metal(9) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-19 04:07:20Z
+Report generated (UTC)    : 2026-02-20 04:07:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,9 +1271,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 19 February 2026
+From: 04 December 2023 - To: 20 February 2026
 
-Total Time       : 982 hrs 2 mins
+Total Time       : 982 hrs 27 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1282,12 +1282,12 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           164 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.78 %
-Other          142 hrs 45 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.54 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.14 %
-HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.77 %
+Bash           164 hrs 50 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.78 %
+Other          144 hrs 37 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.72 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.13 %
+HTML           125 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.79 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.07 %
-Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.18 %
+Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.17 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.50 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.07 %
 Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.86 %
@@ -1295,34 +1295,34 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Linux          591 hrs 39 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.25 %
-Mac            533 hrs 8 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.29 %
+Linux          591 hrs 39 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.22 %
+Mac            535 hrs 26 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.50 %
 
 EDITORS
 -------
-VS Code        651 hrs 13 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
-Vim            325 hrs 48 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.18 %
-Firefox        127 hrs 40 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.00 %
+VS Code        651 hrs 35 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.32 %
+Vim            325 hrs 48 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.16 %
+Firefox        129 hrs 32 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.18 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
-Terminal       3 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
+Terminal       3 hrs 32 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
 TextMate       50 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
 Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Notes          25 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
 Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
-Zoom           6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
+Zoom           8 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 Chrome         2 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 CATEGORIES
 ----------
-Coding         995 hrs 18 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       125 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.73 %
-Meeting        2 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
+Coding         995 hrs 42 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       126 hrs 53 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.92 %
+Meeting        2 hrs 50 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.29 %
 Writing Docs   1 hr 38 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.17 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 19/02/2026 04:44:07 UTC
+Last updated     : 20/02/2026 04:40:48 UTC
 
 ```
 <!--END_SECTION:wakastats-->
