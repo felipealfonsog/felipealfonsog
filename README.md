@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — This Love
-Last played               : Pantera — Walk
-Last played (UTC)         : 2026-02-21 00:40:23Z
+Now playing               : Pantera — Rise
+Last played               : Pantera — This Love
+Last played (UTC)         : 2026-02-21 00:47:02Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — A New Level → Pantera — Walk
-Δ last played (since last): 2026-02-21 00:33:46Z → 2026-02-21 00:40:23Z
+Δ track (since last)      : Pantera — Walk → Pantera — This Love
+Δ last played (since last): 2026-02-21 00:40:23Z → 2026-02-21 00:47:02Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:25
-Telemetry age             : 00:05:25
-Δ time (since last report): 00:07:49
+Time since last play      : 00:00:08
+Telemetry age             : 00:00:08
+Δ time (since last report): 00:01:22
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,14 +877,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 4
 Dominant artist           : Pantera
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-14 00:45:48Z → 2026-02-21 00:45:48Z
+Week window (UTC)         : 2026-02-14 00:47:09Z → 2026-02-21 00:47:09Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -895,22 +895,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 21:00
 Peak hour (7d)            : 18:00
 Heatmap (24h)             :                      █  
-Heatmap (7d)              : ▆▂ ▂ ▁            █▁ ▂▃▅
+Heatmap (7d)              : ▆▂ ▂ ▁            █▁ ▂▃▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:25:49
+Avg inter-play gap (7d)   : 01:25:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(3) | heavy metal(3) | metal(3) | thrash metal(3)
-Top genres (7d)           : grunge(23) | post-grunge(23) | groove metal(12) | heavy metal(12) | metal(12) | thrash metal(12)
+Top genres (24h)          : groove metal(4) | heavy metal(4) | metal(4) | thrash metal(4)
+Top genres (7d)           : grunge(22) | post-grunge(22) | groove metal(13) | heavy metal(13) | metal(13) | thrash metal(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-21 00:45:48Z
+Report generated (UTC)    : 2026-02-21 00:47:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
