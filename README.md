@@ -858,13 +858,13 @@ Last played               : Pantera — Live in a Hole
 Last played (UTC)         : 2026-02-21 01:01:29Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — This Love → Pantera — Live in a Hole
-Δ last played (since last): 2026-02-21 00:47:02Z → 2026-02-21 01:01:29Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:02:29
-Telemetry age             : 03:02:29
-Δ time (since last report): 03:14:21
+Time since last play      : 03:03:39
+Telemetry age             : 03:03:39
+Δ time (since last report): 00:01:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-14 04:03:57Z → 2026-02-21 04:03:57Z
+Week window (UTC)         : 2026-02-14 04:05:08Z → 2026-02-21 04:05:08Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : groove metal(7) | heavy metal(7) | metal(7) | thrash
 Top genres (7d)           : grunge(19) | post-grunge(19) | groove metal(16) | heavy metal(16) | metal(16) | thrash metal(16)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-21 04:03:57Z
+Report generated (UTC)    : 2026-02-21 04:05:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
