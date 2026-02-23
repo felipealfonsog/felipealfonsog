@@ -858,13 +858,13 @@ Last played               : Pantera — Drag the Waters
 Last played (UTC)         : 2026-02-23 19:03:49Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Live in a Hole → Pantera — Drag the Waters
-Δ last played (since last): 2026-02-21 01:01:29Z → 2026-02-23 19:03:49Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:31:32
-Telemetry age             : 02:31:32
-Δ time (since last report): 02:53:51
+Time since last play      : 02:33:05
+Telemetry age             : 02:33:05
+Δ time (since last report): 00:01:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-16 21:35:21Z → 2026-02-23 21:35:21Z
+Week window (UTC)         : 2026-02-16 21:36:53Z → 2026-02-23 21:36:53Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -909,7 +909,7 @@ Top genres (24h)          : groove metal(1) | heavy metal(1) | metal(1) | thrash
 Top genres (7d)           : grunge(18) | post-grunge(18) | groove metal(17) | heavy metal(17) | metal(17) | thrash metal(17)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-23 21:35:21Z
+Report generated (UTC)    : 2026-02-23 21:36:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
