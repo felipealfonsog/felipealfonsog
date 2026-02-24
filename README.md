@@ -842,49 +842,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Stone
-Last played               : Alice In Chains — Pretty Done
-Last played (UTC)         : 2026-02-24 01:29:44Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Alice In Chains — Low Ceiling
+Last played (UTC)         : 2026-02-24 03:13:35Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Hollow → Alice In Chains — Pretty Done
-Δ last played (since last): 2026-02-24 01:25:08Z → 2026-02-24 01:29:44Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Alice In Chains — Pretty Done → Alice In Chains — Low Ceiling
+Δ last played (since last): 2026-02-24 01:29:44Z → 2026-02-24 03:13:35Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:38
-Telemetry age             : 00:00:38
-Δ time (since last report): 00:05:11
+Time since last play      : 00:52:09
+Telemetry age             : 00:52:09
+Δ time (since last report): 02:35:23
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 8
 Dominant artist           : Alice In Chains
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-17 01:30:21Z → 2026-02-24 01:30:21Z
+Week window (UTC)         : 2026-02-17 04:05:43Z → 2026-02-24 04:05:43Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -894,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :                 ▄     █ 
-Heatmap (7d)              : ▆▂ ▂ ▁          ▁ █▁ ▃▅▁
+Heatmap (24h)             : ▂               ▂     █▂
+Heatmap (7d)              : ▃▂ ▂ ▁          ▁ █▁ ▃▆▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:54:18
+Sessions (24h)            : 3
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:55:51
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(2) | post-grunge(2) | groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
+Top genres (24h)          : grunge(7) | post-grunge(7) | groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
 Top genres (7d)           : grunge(18) | post-grunge(18) | groove metal(17) | heavy metal(17) | metal(17) | thrash metal(17)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-24 01:30:21Z
+Report generated (UTC)    : 2026-02-24 04:05:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

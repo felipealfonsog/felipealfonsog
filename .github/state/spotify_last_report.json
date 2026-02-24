@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-24 01:30:21Z",
-  "status": "PLAYING",
-  "last_track": "Alice In Chains — Pretty Done",
-  "last_played_utc": "2026-02-24 01:29:44Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-02-24 04:05:43Z",
+  "status": "IDLE",
+  "last_track": "Alice In Chains — Low Ceiling",
+  "last_played_utc": "2026-02-24 03:13:35Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
