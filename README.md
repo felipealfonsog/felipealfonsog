@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 39:28:06
-Telemetry age             : 39:28:06
-Δ time (since last report): 00:00:15
+Time since last play      : 42:20:20
+Telemetry age             : 42:20:20
+Δ time (since last report): 02:52:14
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,8 +883,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-18 18:41:41Z → 2026-02-25 18:41:41Z
-Total tracks played       : 38
+Week window (UTC)         : 2026-02-18 21:33:55Z → 2026-02-25 21:33:55Z
+Total tracks played       : 29
 Dominant artist           : Pantera
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -892,16 +892,16 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
-Peak hour (7d)            : 18:00
+Peak hour (7d)            : 22:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁    ▁          ▁ █▁ ▃▆▂
+Heatmap (7d)              : ▁    ▁          ▁ ▄▁ ▄█▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 03:24:27
+Avg inter-play gap (7d)   : 04:29:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -909,7 +909,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : groove metal(15) | heavy metal(15) | metal(15) | thrash metal(15) | grunge(11) | post-grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-25 18:41:41Z
+Report generated (UTC)    : 2026-02-25 21:33:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
