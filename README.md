@@ -859,13 +859,13 @@ Last played               : Soundgarden — Mailman
 Last played (UTC)         : 2026-02-26 00:46:40Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Low Ceiling → Soundgarden — Mailman
-Δ last played (since last): 2026-02-24 03:13:35Z → 2026-02-26 00:46:40Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:41
-Telemetry age             : 00:00:41
-Δ time (since last report): 03:12:23
+Time since last play      : 00:02:11
+Telemetry age             : 00:02:11
+Δ time (since last report): 00:01:30
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-19 00:47:21Z → 2026-02-26 00:47:21Z
+Week window (UTC)         : 2026-02-19 00:48:51Z → 2026-02-26 00:48:51Z
 Total tracks played       : 28
 Dominant artist           : Pantera
 Cadence classification    : MEDIUM
@@ -908,9 +908,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(4) | hard rock(4) | post-grunge(4) | groove metal(1) | heavy metal(1) | metal(1)
 Top genres (7d)           : groove metal(16) | heavy metal(16) | metal(16) | thrash metal(16) | grunge(12) | post-grunge(12)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-26 00:47:21Z
+Report generated (UTC)    : 2026-02-26 00:48:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
