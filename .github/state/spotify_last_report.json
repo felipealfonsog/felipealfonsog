@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-02-25 21:34:58Z",
-  "status": "IDLE",
-  "last_track": "Alice In Chains — Low Ceiling",
-  "last_played_utc": "2026-02-24 03:13:35Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-02-26 00:47:21Z",
+  "status": "PLAYING",
+  "last_track": "Soundgarden — Mailman",
+  "last_played_utc": "2026-02-26 00:46:40Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -363,6 +363,11 @@
       "rock",
       "alternative metal"
     ],
-    "0H0fZAyMbBJIOPfjK2BxZx": []
+    "0H0fZAyMbBJIOPfjK2BxZx": [],
+    "5xUf6j4upBrXZPg6AI4MRK": [
+      "grunge",
+      "post-grunge",
+      "hard rock"
+    ]
   }
 }
