@@ -854,18 +854,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Soundgarden — Fresh Tendrils
-Last played               : Soundgarden — Kickstand
-Last played (UTC)         : 2026-02-26 01:20:06Z
+Now playing               : Soundgarden — 4th Of July
+Last played               : Soundgarden — Fresh Tendrils
+Last played (UTC)         : 2026-02-26 01:24:24Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Soundgarden — Kickstand → Soundgarden — Fresh Tendrils
+Δ last played (since last): 2026-02-26 01:20:06Z → 2026-02-26 01:24:24Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:43
-Telemetry age             : 00:03:43
-Δ time (since last report): 00:02:18
+Time since last play      : 00:00:30
+Telemetry age             : 00:00:30
+Δ time (since last report): 00:01:05
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -877,15 +877,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
+Tracks played (last 24h)  : 13
 Dominant artist           : Soundgarden
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-19 01:23:49Z → 2026-02-26 01:23:49Z
-Total tracks played       : 34
+Week window (UTC)         : 2026-02-19 01:24:54Z → 2026-02-26 01:24:54Z
+Total tracks played       : 35
 Dominant artist           : Pantera
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -894,23 +894,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 21:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :                      █▆ 
-Heatmap (7d)              : ▁    ▁          ▁    ▇█▂
+Heatmap (24h)             :                      █▇ 
+Heatmap (7d)              :                      ▆█▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 05:05:01
+Avg inter-play gap (7d)   : 04:56:10
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(11) | hard rock(11) | post-grunge(11) | groove metal(1) | heavy metal(1) | metal(1)
-Top genres (7d)           : grunge(18) | post-grunge(18) | groove metal(16) | heavy metal(16) | metal(16) | thrash metal(16)
+Top genres (24h)          : grunge(12) | hard rock(12) | post-grunge(12) | groove metal(1) | heavy metal(1) | metal(1)
+Top genres (7d)           : grunge(19) | post-grunge(19) | groove metal(16) | heavy metal(16) | metal(16) | thrash metal(16)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-26 01:23:49Z
+Report generated (UTC)    : 2026-02-26 01:24:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
