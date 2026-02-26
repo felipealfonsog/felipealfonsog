@@ -859,13 +859,13 @@ Last played               : Soundgarden — Kickstand
 Last played (UTC)         : 2026-02-26 01:20:06Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Soundgarden — Mailman → Soundgarden — Kickstand
-Δ last played (since last): 2026-02-26 00:46:40Z → 2026-02-26 01:20:06Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:25
-Telemetry age             : 00:01:25
-Δ time (since last report): 00:31:03
+Time since last play      : 00:03:43
+Telemetry age             : 00:03:43
+Δ time (since last report): 00:02:18
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -884,7 +884,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-19 01:21:31Z → 2026-02-26 01:21:31Z
+Week window (UTC)         : 2026-02-19 01:23:49Z → 2026-02-26 01:23:49Z
 Total tracks played       : 34
 Dominant artist           : Pantera
 Cadence classification    : MEDIUM
@@ -910,7 +910,7 @@ Top genres (24h)          : grunge(11) | hard rock(11) | post-grunge(11) | groov
 Top genres (7d)           : grunge(18) | post-grunge(18) | groove metal(16) | heavy metal(16) | metal(16) | thrash metal(16)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-26 01:21:31Z
+Report generated (UTC)    : 2026-02-26 01:23:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
