@@ -842,49 +842,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : never easy — perfect hell
-Last played               : Alice In Chains — Breath On A Window
-Last played (UTC)         : 2026-02-26 03:36:54Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : never easy — perfect hell
+Last played (UTC)         : 2026-02-26 07:25:23Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Alice In Chains — Breath On A Window → never easy — perfect hell
+Δ last played (since last): 2026-02-26 03:36:54Z → 2026-02-26 07:25:23Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 03:22:09
-Telemetry age             : 03:22:09
-Δ time (since last report): 00:18:26
+Time since last play      : 02:10:27
+Telemetry age             : 02:10:27
+Δ time (since last report): 02:36:48
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 23
+Tracks played (last 24h)  : 24
 Dominant artist           : Soundgarden
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-19 06:59:02Z → 2026-02-26 06:59:02Z
+Week window (UTC)         : 2026-02-19 09:35:49Z → 2026-02-26 09:35:49Z
 Total tracks played       : 39
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
@@ -894,23 +893,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             : ▁                    ▄█▁
+Heatmap (24h)             : ▁   ▁                ▄█▁
 Heatmap (7d)              : ▁                    ▅█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 4
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 04:17:59
+Avg inter-play gap (7d)   : 03:20:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(22) | post-grunge(22) | hard rock(20) | groove metal(1) | heavy metal(1) | metal(1)
-Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(10) | heavy metal(10) | metal(10)
+Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-26 06:59:02Z
+Report generated (UTC)    : 2026-02-26 09:35:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
