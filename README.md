@@ -858,13 +858,13 @@ Last played               : Alice In Chains — Breath On A Window
 Last played (UTC)         : 2026-02-26 03:36:54Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Soundgarden — Fresh Tendrils → Alice In Chains — Breath On A Window
-Δ last played (since last): 2026-02-26 01:24:24Z → 2026-02-26 03:36:54Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:28:44
-Telemetry age             : 00:28:44
-Δ time (since last report): 02:40:44
+Time since last play      : 00:29:31
+Telemetry age             : 00:29:31
+Δ time (since last report): 00:00:48
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-19 04:05:37Z → 2026-02-26 04:05:37Z
+Week window (UTC)         : 2026-02-19 04:06:25Z → 2026-02-26 04:06:25Z
 Total tracks played       : 39
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
@@ -909,7 +909,7 @@ Top genres (24h)          : grunge(22) | post-grunge(22) | hard rock(20) | groov
 Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(10) | heavy metal(10) | metal(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-26 04:05:37Z
+Report generated (UTC)    : 2026-02-26 04:06:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
