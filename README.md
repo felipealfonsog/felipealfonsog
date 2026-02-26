@@ -858,13 +858,13 @@ Last played               : never easy — perfect hell
 Last played (UTC)         : 2026-02-26 07:25:23Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Breath On A Window → never easy — perfect hell
-Δ last played (since last): 2026-02-26 03:36:54Z → 2026-02-26 07:25:23Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:10:27
-Telemetry age             : 02:10:27
-Δ time (since last report): 02:36:48
+Time since last play      : 02:11:20
+Telemetry age             : 02:11:20
+Δ time (since last report): 00:00:54
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,7 +883,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-19 09:35:49Z → 2026-02-26 09:35:49Z
+Week window (UTC)         : 2026-02-19 09:36:42Z → 2026-02-26 09:36:42Z
 Total tracks played       : 39
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
@@ -909,7 +909,7 @@ Top genres (24h)          : grunge(22) | post-grunge(22) | hard rock(20) | groov
 Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-26 09:35:49Z
+Report generated (UTC)    : 2026-02-26 09:36:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
