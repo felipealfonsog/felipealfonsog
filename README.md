@@ -216,7 +216,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <!-- 
 
 
-<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi.svg" alt="PDI Chile" width="40" height="40"/></a><a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa.svg" alt="ENISA" width="40" height="40"/></a><a href="https://www.ani.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile.svg" alt="ANI Chile" width="40" height="40"/></a><a href="https://www.anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci.svg" alt="ANCI Chile" width="40" height="40"/></a><a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe.svg" alt="NATO CCDCOE" width="40" height="40"/></a><a href="https://www.iadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg" alt="Inter-American Development Bank" width="40" height="40"/></a>
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi.svg" alt="PDI Chile" width="40" height="40"/></a>
+<a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa.svg" alt="ENISA" width="40" height="40"/></a>
+<a href="https://www.ani.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile.svg" alt="ANI Chile" width="40" height="40"/></a>
+<a href="https://www.anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci.svg" alt="ANCI Chile" width="40" height="40"/></a>
+<a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe.svg" alt="NATO CCDCOE" width="40" height="40"/></a>
+<a href="https://www.iadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg" alt="Inter-American Development Bank" width="40" height="40"/></a>
 
 
 
