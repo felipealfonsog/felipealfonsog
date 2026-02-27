@@ -244,11 +244,14 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <a href="https://www.enisa.europa.eu/" target="_blank">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ENISA.svg" alt="ENISA" width="40" height="40"/>
-</a>
-
+</a> 
 <a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/></a> 
+
 <a href="https://attack.mitre.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo1.svg" alt="MITRE ATT&CK" width="40" height="40"/></a> 
+
 <a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/PDI_CL-mono-rounded.svg" alt="PDI" width="40" height="40"/></a> 
+
+
 
 #
 
