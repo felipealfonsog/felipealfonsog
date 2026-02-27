@@ -214,7 +214,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mi6.svg" alt="MI6" width="40" height="40"/>
 </a>
 
-<a href="https://www.gov.il/en/departments/mossad" target="_blank">
+<a href="https://www.mossad.gov.il/" target="_blank">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mossad.svg" alt="MOSSAD" width="40" height="40"/>
 </a>
 
