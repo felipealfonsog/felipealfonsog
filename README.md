@@ -218,6 +218,35 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mossad.svg" alt="MOSSAD" width="40" height="40"/>
 </a>
 
+<a href="https://www.interpol.int/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/INTERPOL-cyber.svg" alt="INTERPOL" width="40" height="40"/>
+</a>
+
+<a href="https://isfce.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo2.svg" alt="ISFCE" width="40" height="40"/>
+</a>
+
+<a href="https://anci.gob.cl/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ANCI.svg" alt="ANCI Chile" width="40" height="40"/>
+</a>
+
+<a href="https://www.cisa.gov/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CISA.svg" alt="CISA" width="40" height="40"/>
+</a>
+
+<a href="https://jid.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo4.1.svg" alt="JID IADB" width="40" height="40"/>
+</a>
+
+<a href="https://ccdcoe.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/NATO-CCDCOE.svg" alt="NATO CCDCOE" width="40" height="40"/>
+</a>
+
+<a href="https://www.enisa.europa.eu/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ENISA.svg" alt="ENISA" width="40" height="40"/>
+</a>
+
+
 
 #
 
