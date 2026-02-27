@@ -198,6 +198,44 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
  -->
 
+
+
+<a href="https://www.cia.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cia.svg" alt="CIA" width="40" height="40"/></a>
+<a href="https://www.nsa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_nsa.svg" alt="NSA" width="40" height="40"/></a>
+<a href="https://www.socom.mil/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jsoc.svg" alt="JSOC" width="40" height="40"/></a>
+<a href="https://www.sis.gov.uk/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mi6_rounded.svg" alt="MI6" width="40" height="40"/></a>
+<a href="https://www.mossad.gov.il/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mossad.svg" alt="MOSSAD" width="40" height="40"/></a>
+<a href="https://www.interpol.int/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_interpol_rounded.svg" alt="INTERPOL" width="40" height="40"/></a>
+<a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_isfce.svg" alt="ISFCE" width="40" height="40"/></a>
+<a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cisa.svg" alt="CISA" width="40" height="40"/></a>
+<a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa_rounded.svg" alt="ENISA" width="40" height="40"/></a>
+<a href="https://www.iadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg" alt="Inter-American Development Bank" width="40" height="40"/></a>
+<a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe.svg" alt="NATO CCDCOE" width="40" height="40"/></a>
+<a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/></a>
+<a href="https://jid.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jid.svg" alt="JID IADB" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Agencia_Nacional_de_Inteligencia" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile_rounded.svg" alt="ANI Chile" width="40" height="40"/></a>
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi_rounded.svg" alt="PDI" width="40" height="40"/></a>
+<a href="https://www.carabineros.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_os9_carabineros_rounded.svg" alt="Carabineros de Chile OS9" width="40" height="40"/></a>
+<a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci.svg" alt="ANCI Chile" width="40" height="40"/></a>
+
+<!-- 
+
+
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi.svg" alt="PDI Chile" width="40" height="40"/></a>
+<a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa.svg" alt="ENISA" width="40" height="40"/></a>
+<a href="https://www.ani.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile.svg" alt="ANI Chile" width="40" height="40"/></a>
+<a href="https://www.anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci.svg" alt="ANCI Chile" width="40" height="40"/></a>
+<a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe.svg" alt="NATO CCDCOE" width="40" height="40"/></a>
+<a href="https://www.iadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg" alt="Inter-American Development Bank" width="40" height="40"/></a>
+
+
+
+-->
+
+
+
+
+
 #
 
 <details open>
@@ -305,7 +343,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-19 04:08:43Z
+DSN snapshot (UTC)       : 2026-02-27 15:36:57Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -316,15 +354,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 169.968 AU
-Heliocentric distance    : 169.735 AU
-Relative speed           : 20.603 km/s
+Earth distance           : 25.42e9 km | 169.933 AU
+Heliocentric distance    : 169.817 AU
+Relative speed           : 19.616 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:35
-Round-trip latency       : 47:07:09
+One-way light time       : 23:33:18
+Round-trip latency       : 47:06:35
 ------------------------------------------------------------
-Δ distance (since last)  : -294,573 km
-Mission age              : 48 years, 179 days
+Δ distance (since last)  : -79,281 km
+Mission age              : 48 years, 187 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -335,19 +373,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.741 AU
-Heliocentric distance    : 142.141 AU
-Relative speed           : 28.021 km/s
+Earth distance           : 21.35e9 km | 142.736 AU
+Heliocentric distance    : 142.214 AU
+Relative speed           : 26.672 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:08
-Round-trip latency       : 39:34:17
+One-way light time       : 19:47:06
+Round-trip latency       : 39:34:12
 ------------------------------------------------------------
-Δ distance (since last)  : +17,029 km
-Mission age              : 48 years, 195 days
+Δ distance (since last)  : -23,431 km
+Mission age              : 48 years, 203 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-19 04:08:46Z
+Report generated (UTC)   : 2026-02-27 15:37:00Z
 ```
 
 <!-- VOYAGER:END -->
@@ -500,18 +538,7 @@ Radioactive-Defcon-2.svg
 <a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/kalilinux-cs.svg" alt="Kali Linux" width="40" height="40"/></a> 
 <a href="https://kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linux.svg" alt="Linux Kernel" width="40" height="40"/></a> 
 <a href="https://www.freebsd.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/freebsd.svg" alt="FreeBSD" width="40" height="40"/></a> 
-<a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/></a> 
 <a href="https://attack.mitre.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo1.svg" alt="MITRE ATT&CK" width="40" height="40"/></a> 
-<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/PDI_CL-mono-rounded.svg" alt="PDI" width="40" height="40"/></a> 
-<a href="https://www.interpol.int/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/INTERPOL-cyber.svg" alt="INTERPOL" width="40" height="40"/></a> 
-<a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo2.svg" alt="ISFCE" width="40" height="40"/></a> 
-<a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ANCI.svg" alt="ANCI Chile" width="40" height="40"/></a> 
-<a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CISA.svg" alt="CISA" width="40" height="40"/></a> 
-<a href="https://jid.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo4.1.svg" alt="JID IADB" width="40" height="40"/></a> 
-<a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/NATO-CCDCOE.svg" alt="NATO CCDCOE" width="40" height="40"/></a> 
-<a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ENISA.svg" alt="ENISA" width="40" height="40"/></a>
-
-
 
 
 
@@ -854,17 +881,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pantera — War Nerve
-Last played (UTC)         : 2026-02-19 02:17:07Z
+Last played               : never easy — perfect hell
+Last played (UTC)         : 2026-02-26 07:25:23Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:50:13
-Telemetry age             : 01:50:13
-Δ time (since last report): 00:00:19
+Time since last play      : 32:11:23
+Telemetry age             : 32:11:23
+Δ time (since last report): 00:01:07
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,40 +903,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 28
-Dominant artist           : Linkin Park
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-12 04:07:20Z → 2026-02-19 04:07:20Z
-Total tracks played       : 50
-Dominant artist           : Alice In Chains
-Cadence classification    : HIGH
+Week window (UTC)         : 2026-02-20 15:36:45Z → 2026-02-27 15:36:45Z
+Total tracks played       : 39
+Dominant artist           : Soundgarden
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
-Peak hour (7d)            : 18:00
-Heatmap (24h)             :  ▁ ▂ ▁            █▁  ▃▁
-Heatmap (7d)              : ▆▂ ▂ ▁            █▁  ▃▇
+Peak hour (24h)           : N/A
+Peak hour (7d)            : 22:00
+Heatmap (24h)             : N/A
+Heatmap (7d)              : ▁                    ▅█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:29:22
+Sessions (24h)            : N/A
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:20:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rock(9) | groove metal(8) | heavy metal(8)
-Top genres (7d)           : grunge(27) | post-grunge(27) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
+Top genres (24h)          : N/A
+Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-19 04:07:20Z
+Report generated (UTC)    : 2026-02-27 15:36:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1264,9 +1291,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 19 February 2026
+From: 04 December 2023 - To: 27 February 2026
 
-Total Time       : 982 hrs 2 mins
+Total Time       : 984 hrs 34 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1275,47 +1302,47 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           164 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.78 %
-Other          142 hrs 45 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.54 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.14 %
-HTML           125 hrs 21 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.77 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.07 %
-Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.18 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.50 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.07 %
-Text           37 hrs 56 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.86 %
-YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.75 %
+Other          157 hrs 25 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  15.99 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.10 %
+HTML           127 hrs 9 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.04 %
+Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.15 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.48 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.06 %
+Text           38 hrs 1 min   ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.86 %
+YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.83 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          591 hrs 39 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.25 %
-Mac            533 hrs 8 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.29 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.07 %
+Mac            540 hrs 43 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.92 %
 
 EDITORS
 -------
-VS Code        651 hrs 13 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
-Vim            325 hrs 48 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.18 %
-Firefox        127 hrs 40 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.00 %
+VS Code        652 hrs 55 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
+Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.10 %
+Firefox        140 hrs 54 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.31 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
-Terminal       3 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
-TextMate       50 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
+Terminal       5 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.52 %
+TextMate       54 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
 Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-Notes          25 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
+Notes          40 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
+‎WhatsApp      14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
-Zoom           6 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
-Chrome         2 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
+Zoom           8 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 
 CATEGORIES
 ----------
-Coding         995 hrs 18 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       125 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.73 %
-Meeting        2 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
-Writing Docs   1 hr 38 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.17 %
+Coding         998 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       138 hrs 15 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.04 %
+Meeting        3 hrs 4 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.31 %
+Writing Docs   1 hr 53 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.19 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 19/02/2026 04:44:07 UTC
+Last updated     : 27/02/2026 14:21:07 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1377,12 +1404,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/clsource">
-        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/clsource">Camilo</a>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
@@ -1397,12 +1424,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
