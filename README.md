@@ -862,9 +862,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 14:09:17
-Telemetry age             : 14:09:17
-Δ time (since last report): 00:00:27
+Time since last play      : 17:27:05
+Telemetry age             : 17:27:05
+Δ time (since last report): 03:17:48
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -876,14 +876,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 24
+Tracks played (last 24h)  : 18
 Dominant artist           : Soundgarden
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-19 21:34:40Z → 2026-02-26 21:34:40Z
+Week window (UTC)         : 2026-02-20 00:52:27Z → 2026-02-27 00:52:27Z
 Total tracks played       : 39
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
@@ -893,7 +893,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             : ▁   ▁                ▄█▁
+Heatmap (24h)             : ▁   ▁                ▁█▁
 Heatmap (7d)              : ▁                    ▅█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -905,11 +905,11 @@ Avg inter-play gap (7d)   : 03:20:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(22) | post-grunge(22) | hard rock(20) | groove metal(1) | heavy metal(1) | metal(1)
+Top genres (24h)          : grunge(17) | post-grunge(17) | hard rock(15) | shoegaze(1)
 Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-26 21:34:40Z
+Report generated (UTC)    : 2026-02-27 00:52:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
