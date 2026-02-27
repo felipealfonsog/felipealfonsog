@@ -227,17 +227,15 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_isfce.svg" alt="ISFCE" width="40" height="40"/>
 </a>
 
-<a href="https://anci.gob.cl/" target="_blank">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci.svg" alt="ANCI Chile" width="40" height="40"/>
+<a href="https://www.iadb.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg" alt="Inter-American Development Bank" width="40" height="40"/>
 </a>
 
 <a href="https://www.cisa.gov/" target="_blank">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cisa.svg" alt="CISA" width="40" height="40"/>
 </a>
 
-<a href="https://jid.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jid.svg" alt="JID IADB" width="40" height="40"/>
-</a>
+
 
 <a href="https://ccdcoe.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe.svg" alt="NATO CCDCOE" width="40" height="40"/>
@@ -251,6 +249,10 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/>
 </a> 
 
+<a href="https://jid.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jid.svg" alt="JID IADB" width="40" height="40"/>
+</a>
+
 <a href="https://www.pdichile.cl/" target="_blank">
 <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi_rounded.svg" alt="PDI" width="40" height="40"/>
 </a> 
@@ -261,10 +263,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile_rounded.svg" alt="ANI Chile" width="40" height="40"/>
 </a>
 
-<a href="https://www.iadb.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg" alt="Inter-American Development Bank" width="40" height="40"/>
-</a>
 
+
+<a href="https://anci.gob.cl/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci.svg" alt="ANCI Chile" width="40" height="40"/>
+</a>
 
 <!-- 
 
