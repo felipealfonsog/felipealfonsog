@@ -237,13 +237,16 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 
-<a href="https://ccdcoe.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe.svg" alt="NATO CCDCOE" width="40" height="40"/>
-</a>
+
 
 <a href="https://www.enisa.europa.eu/" target="_blank">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa_rounded.svg" alt="ENISA" width="40" height="40"/>
 </a> 
+
+<a href="https://ccdcoe.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe.svg" alt="NATO CCDCOE" width="40" height="40"/>
+</a>
+
 
 <a href="https://globalcybersecurity.ch/" target="_blank">
 <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/>
