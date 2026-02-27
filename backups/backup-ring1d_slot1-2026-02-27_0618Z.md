@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-26_0622Z
+ snapshot_utc : 2026-02-27_0618Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -312,7 +312,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-26 04:08:02Z
+DSN snapshot (UTC)       : 2026-02-27 04:07:40Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +323,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.940 AU
-Heliocentric distance    : 169.803 AU
-Relative speed           : 19.760 km/s
+Earth distance           : 25.42e9 km | 169.935 AU
+Heliocentric distance    : 169.813 AU
+Relative speed           : 19.661 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:21
-Round-trip latency       : 47:06:41
+One-way light time       : 23:33:19
+Round-trip latency       : 47:06:37
 ------------------------------------------------------------
-Δ distance (since last)  : -171,226 km
-Mission age              : 48 years, 186 days
+Δ distance (since last)  : -86,017 km
+Mission age              : 48 years, 187 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -342,19 +342,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.738 AU
-Heliocentric distance    : 142.202 AU
-Relative speed           : 26.900 km/s
+Earth distance           : 21.35e9 km | 142.737 AU
+Heliocentric distance    : 142.210 AU
+Relative speed           : 26.746 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:07
-Round-trip latency       : 39:34:14
+One-way light time       : 19:47:06
+Round-trip latency       : 39:34:13
 ------------------------------------------------------------
-Δ distance (since last)  : -41,245 km
-Mission age              : 48 years, 202 days
+Δ distance (since last)  : -23,978 km
+Mission age              : 48 years, 203 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-26 04:08:08Z
+Report generated (UTC)   : 2026-02-27 04:07:44Z
 ```
 
 <!-- VOYAGER:END -->
@@ -861,17 +861,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Alice In Chains — Breath On A Window
-Last played (UTC)         : 2026-02-26 03:36:54Z
+Last played               : never easy — perfect hell
+Last played (UTC)         : 2026-02-26 07:25:23Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:29:59
-Telemetry age             : 00:29:59
-Δ time (since last report): 00:00:28
+Time since last play      : 20:41:12
+Telemetry age             : 20:41:12
+Δ time (since last report): 00:00:37
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,14 +883,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 23
-Dominant artist           : Soundgarden
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 1
+Dominant artist           : never easy
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-19 04:06:52Z → 2026-02-26 04:06:52Z
+Week window (UTC)         : 2026-02-20 04:06:34Z → 2026-02-27 04:06:34Z
 Total tracks played       : 39
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
@@ -898,25 +898,25 @@ Cadence classification    : MEDIUM
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             : ▁                    ▄█▁
+Heatmap (24h)             :     █                   
 Heatmap (7d)              : ▁                    ▅█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 04:17:59
+Avg inter-play gap (7d)   : 03:20:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(22) | post-grunge(22) | hard rock(20) | groove metal(1) | heavy metal(1) | metal(1)
-Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(10) | heavy metal(10) | metal(10)
+Top genres (24h)          : shoegaze(1)
+Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-26 04:06:52Z
+Report generated (UTC)    : 2026-02-27 04:06:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,7 +1271,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 26 February 2026
+From: 04 December 2023 - To: 27 February 2026
 
 Total Time       : 984 hrs 34 mins
 Mostly coding in : Bash
@@ -1322,7 +1322,7 @@ Writing Docs   1 hr 53 mins   ○○○○○○○○○○○○○○○○�
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 26/02/2026 04:41:42 UTC
+Last updated     : 27/02/2026 04:40:27 UTC
 
 ```
 <!--END_SECTION:wakastats-->
