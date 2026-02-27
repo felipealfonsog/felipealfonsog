@@ -232,11 +232,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 </a>
 
 <a href="https://www.cisa.gov/" target="_blank">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CISA.svg" alt="CISA" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cisa.svg" alt="CISA" width="40" height="40"/>
 </a>
 
 <a href="https://jid.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo4.1.svg" alt="JID IADB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jid" alt="JID IADB" width="40" height="40"/>
 </a>
 
 <a href="https://ccdcoe.org/" target="_blank">
