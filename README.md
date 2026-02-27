@@ -259,7 +259,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi.svg" alt="PDI Chile" width="40" height="40"/>
 </a>
 
-<a href="https://www.ani.cl/" target="_blank">
+<a href="https://en.wikipedia.org/wiki/Agencia_Nacional_de_Inteligencia" target="_blank">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile.svg" alt="ANI Chile" width="40" height="40"/>
 </a>
 
