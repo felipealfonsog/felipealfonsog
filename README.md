@@ -246,7 +246,9 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ENISA.svg" alt="ENISA" width="40" height="40"/>
 </a>
 
-
+<a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/></a> 
+<a href="https://attack.mitre.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo1.svg" alt="MITRE ATT&CK" width="40" height="40"/></a> 
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/PDI_CL-mono-rounded.svg" alt="PDI" width="40" height="40"/></a> 
 
 #
 
@@ -550,18 +552,7 @@ Radioactive-Defcon-2.svg
 <a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/kalilinux-cs.svg" alt="Kali Linux" width="40" height="40"/></a> 
 <a href="https://kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linux.svg" alt="Linux Kernel" width="40" height="40"/></a> 
 <a href="https://www.freebsd.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/freebsd.svg" alt="FreeBSD" width="40" height="40"/></a> 
-<a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/></a> 
 <a href="https://attack.mitre.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo1.svg" alt="MITRE ATT&CK" width="40" height="40"/></a> 
-<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/PDI_CL-mono-rounded.svg" alt="PDI" width="40" height="40"/></a> 
-<a href="https://www.interpol.int/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/INTERPOL-cyber.svg" alt="INTERPOL" width="40" height="40"/></a> 
-<a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo2.svg" alt="ISFCE" width="40" height="40"/></a> 
-<a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ANCI.svg" alt="ANCI Chile" width="40" height="40"/></a> 
-<a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CISA.svg" alt="CISA" width="40" height="40"/></a> 
-<a href="https://jid.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo4.1.svg" alt="JID IADB" width="40" height="40"/></a> 
-<a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/NATO-CCDCOE.svg" alt="NATO CCDCOE" width="40" height="40"/></a> 
-<a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ENISA.svg" alt="ENISA" width="40" height="40"/></a>
-
-
 
 
 
