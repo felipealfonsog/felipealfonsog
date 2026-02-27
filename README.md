@@ -198,6 +198,27 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
  -->
 
+<a href="https://www.cia.gov/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cia.svg" alt="CIA" width="40" height="40"/>
+</a>
+
+<a href="https://www.nsa.gov/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_nsa.svg" alt="NSA" width="40" height="40"/>
+</a>
+
+<a href="https://www.socom.mil/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jsoc.svg" alt="JSOC" width="40" height="40"/>
+</a>
+
+<a href="https://www.sis.gov.uk/" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mi6.svg" alt="MI6" width="40" height="40"/>
+</a>
+
+<a href="https://www.gov.il/en/departments/mossad" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mossad.svg" alt="MOSSAD" width="40" height="40"/>
+</a>
+
+
 #
 
 <details open>
