@@ -214,6 +214,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/></a>
 <a href="https://jid.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jid.svg" alt="JID IADB" width="40" height="40"/></a>
 <a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi_rounded.svg" alt="PDI" width="40" height="40"/></a>
+<a href="https://www.carabineros.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_os9_carabineros_rounded.svg" alt="Carabineros de Chile OS9" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Agencia_Nacional_de_Inteligencia" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile_rounded.svg" alt="ANI Chile" width="40" height="40"/></a>
 <a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci.svg" alt="ANCI Chile" width="40" height="40"/></a>
 
