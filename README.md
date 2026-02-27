@@ -224,7 +224,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 </a>
 
 <a href="https://isfce.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo2.svg" alt="ISFCE" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_isfce.svg" alt="ISFCE" width="40" height="40"/>
 </a>
 
 <a href="https://anci.gob.cl/" target="_blank">
