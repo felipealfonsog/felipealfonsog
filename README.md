@@ -890,9 +890,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 35:08:59
-Telemetry age             : 35:08:59
-Δ time (since last report): 02:57:37
+Time since last play      : 35:10:20
+Telemetry age             : 35:10:20
+Δ time (since last report): 00:01:22
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -911,7 +911,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-20 18:34:21Z → 2026-02-27 18:34:21Z
+Week window (UTC)         : 2026-02-20 18:35:42Z → 2026-02-27 18:35:42Z
 Total tracks played       : 39
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
@@ -937,7 +937,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(9) | heavy metal(9) | metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-27 18:34:21Z
+Report generated (UTC)    : 2026-02-27 18:35:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
