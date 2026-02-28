@@ -891,9 +891,9 @@ Last activity type        : PLAYBACK_ACTIVE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:14
-Telemetry age             : 00:00:14
-Δ time (since last report): 00:00:14
+Time since last play      : 00:01:19
+Telemetry age             : 00:01:19
+Δ time (since last report): 00:01:06
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 13:54:36Z → 2026-02-28 13:54:36Z
+Week window (UTC)         : 2026-02-21 13:55:41Z → 2026-02-28 13:55:41Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : shoegaze(13)
 Top genres (7d)           : shoegaze(14) | grunge(3) | post-grunge(3) | hard rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 13:54:36Z
+Report generated (UTC)    : 2026-02-28 13:55:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
