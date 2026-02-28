@@ -887,13 +887,13 @@ Last played               : Alice In Chains — Last Of My Kind
 Last played (UTC)         : 2026-02-28 15:32:34Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Take Her Out → Alice In Chains — Last Of My Kind
-Δ last played (since last): 2026-02-28 15:21:29Z → 2026-02-28 15:32:34Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:57
-Telemetry age             : 00:05:57
-Δ time (since last report): 00:06:21
+Time since last play      : 00:07:21
+Telemetry age             : 00:07:21
+Δ time (since last report): 00:01:24
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:38:31Z → 2026-02-28 15:38:31Z
+Week window (UTC)         : 2026-02-21 15:39:54Z → 2026-02-28 15:39:54Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(9) | post-grunge(9)
 Top genres (7d)           : grunge(9) | post-grunge(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:38:31Z
+Report generated (UTC)    : 2026-02-28 15:39:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
