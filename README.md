@@ -876,24 +876,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
+Device type               : Smartphone
+Device name               : iPhone
 Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Last Of My Kind
-Last played               : Alice In Chains — Take Her Out
-Last played (UTC)         : 2026-02-28 15:21:29Z
+Now playing               : Alice In Chains — Hollow
+Last played               : Alice In Chains — Last Of My Kind
+Last played (UTC)         : 2026-02-28 15:32:34Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Alice In Chains — Take Her Out → Alice In Chains — Last Of My Kind
+Δ last played (since last): 2026-02-28 15:21:29Z → 2026-02-28 15:32:34Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:10:41
-Telemetry age             : 00:10:41
-Δ time (since last report): 00:00:34
+Time since last play      : 00:05:57
+Telemetry age             : 00:05:57
+Δ time (since last report): 00:06:21
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:32:10Z → 2026-02-28 15:32:10Z
+Week window (UTC)         : 2026-02-21 15:38:31Z → 2026-02-28 15:38:31Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -930,15 +930,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:03:44
+Avg inter-play gap (7d)   : 00:03:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(8) | post-grunge(8)
-Top genres (7d)           : grunge(8) | post-grunge(8)
+Top genres (24h)          : grunge(9) | post-grunge(9)
+Top genres (7d)           : grunge(9) | post-grunge(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:32:10Z
+Report generated (UTC)    : 2026-02-28 15:38:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
