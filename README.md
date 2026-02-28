@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Overgrown — Mistake
-Last played               : Overgrown — With Me
-Last played (UTC)         : 2026-02-28 12:32:28Z
+Now playing               : Overgrown — With Me
+Last played               : Overgrown — Mistake
+Last played (UTC)         : 2026-02-28 12:36:03Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Overgrown — With Me → Overgrown — Mistake
+Δ last played (since last): 2026-02-28 12:32:28Z → 2026-02-28 12:36:03Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:17
-Telemetry age             : 00:03:17
-Δ time (since last report): 00:00:21
+Time since last play      : 00:01:07
+Telemetry age             : 00:01:07
+Δ time (since last report): 00:01:26
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,14 +905,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
+Tracks played (last 24h)  : 23
 Dominant artist           : Overgrown
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 12:35:44Z → 2026-02-28 12:35:44Z
+Week window (UTC)         : 2026-02-21 12:37:10Z → 2026-02-28 12:37:10Z
 Total tracks played       : 50
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -923,22 +923,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 22:00
 Heatmap (24h)             :         █▇              
-Heatmap (7d)              : ▂   ▁   ▆▅           ▄█▁
+Heatmap (7d)              : ▂   ▁   ▇▆           ▄█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:10:52
+Avg inter-play gap (7d)   : 02:10:48
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(13)
-Top genres (7d)           : grunge(26) | post-grunge(26) | hard rock(20) | shoegaze(14) | groove metal(1) | heavy metal(1)
+Top genres (7d)           : grunge(25) | post-grunge(25) | hard rock(20) | shoegaze(14) | groove metal(1) | heavy metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 12:35:44Z
+Report generated (UTC)    : 2026-02-28 12:37:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
