@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Overgrown — Breathe
-Last played               : Overgrown — Pieces
-Last played (UTC)         : 2026-02-28 13:37:11Z
+Now playing               : Overgrown — Mistake
+Last played               : Overgrown — Breathe
+Last played (UTC)         : 2026-02-28 13:40:47Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Overgrown — Pieces → Overgrown — Breathe
+Δ last played (since last): 2026-02-28 13:37:11Z → 2026-02-28 13:40:47Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:18
-Telemetry age             : 00:03:18
-Δ time (since last report): 00:00:48
+Time since last play      : 00:01:23
+Telemetry age             : 00:01:23
+Δ time (since last report): 00:01:42
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,14 +905,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 41
+Tracks played (last 24h)  : 42
 Dominant artist           : Overgrown
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 13:40:28Z → 2026-02-28 13:40:28Z
+Week window (UTC)         : 2026-02-21 13:42:09Z → 2026-02-28 13:42:09Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -935,10 +935,10 @@ Avg inter-play gap (7d)   : 01:13:26
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(13)
-Top genres (7d)           : shoegaze(14) | grunge(8) | post-grunge(8) | hard rock(6)
+Top genres (7d)           : shoegaze(14) | grunge(7) | post-grunge(7) | hard rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 13:40:28Z
+Report generated (UTC)    : 2026-02-28 13:42:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
