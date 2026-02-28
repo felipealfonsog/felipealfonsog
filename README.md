@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Dam That River (2022 Remaster)
-Last played               : Alice In Chains — Them Bones (2022 Remaster)
-Last played (UTC)         : 2026-02-28 17:09:03Z
+Now playing               : Acoustin — Maelstrom Lullaby
+Last played               : Alice In Chains — Down In A Hole (2022 Remaster)
+Last played (UTC)         : 2026-02-28 18:24:00Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Stone → Alice In Chains — Them Bones (2022 Remaster)
-Δ last played (since last): 2026-02-28 16:42:39Z → 2026-02-28 17:09:03Z
+Δ track (since last)      : Alice In Chains — Them Bones (2022 Remaster) → Alice In Chains — Down In A Hole (2022 Remaster)
+Δ last played (since last): 2026-02-28 17:09:03Z → 2026-02-28 18:24:00Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:58
-Telemetry age             : 00:02:58
-Δ time (since last report): 00:03:37
+Time since last play      : 00:00:29
+Telemetry age             : 00:00:29
+Δ time (since last report): 01:12:28
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 17:12:01Z → 2026-02-28 17:12:01Z
+Week window (UTC)         : 2026-02-21 18:24:28Z → 2026-02-28 18:24:28Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -920,25 +920,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
-Peak hour (7d)            : 10:00
-Heatmap (24h)             :           ██▄▃          
-Heatmap (7d)              :           ██▄▃          
+Peak hour (24h)           : 11:00
+Peak hour (7d)            : 11:00
+Heatmap (24h)             :           ▇█▄▄▂         
+Heatmap (7d)              :           ▇█▄▄▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:05:01
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:06:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(21) | post-grunge(21)
-Top genres (7d)           : grunge(21) | post-grunge(21)
+Top genres (24h)          : grunge(24) | post-grunge(24)
+Top genres (7d)           : grunge(24) | post-grunge(24)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 17:12:01Z
+Report generated (UTC)    : 2026-02-28 18:24:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
