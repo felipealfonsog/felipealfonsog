@@ -22,7 +22,7 @@ Integrity, transparency, and coherence guide both my work and my personal path. 
 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
 -->
-I'm[ **Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—supported by ongoing advanced studies, professional certifications, and forthcoming postgraduate work in innovation and technology. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
+I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—supported by ongoing advanced studies, professional certifications, and forthcoming postgraduate work in innovation and technology. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
 
 <!--
 UNIX-born engineering ethos.  
@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Amira Elfeky — Coming Down
-Last played               : msliterate — fame
-Last played (UTC)         : 2026-02-28 11:58:33Z
+Now playing               : Overgrown — Mistake
+Last played               : Overgrown — With Me
+Last played (UTC)         : 2026-02-28 14:35:23Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Amira Elfeky — A Dozen Roses → msliterate — fame
-Δ last played (since last): 2026-02-28 11:55:02Z → 2026-02-28 11:58:33Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:06
-Telemetry age             : 00:01:06
-Δ time (since last report): 00:02:35
+Time since last play      : 00:03:03
+Telemetry age             : 00:03:03
+Δ time (since last report): 00:00:26
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,40 +905,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
-Dominant artist           : Amira Elfeky
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 50
+Dominant artist           : Overgrown
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 11:59:39Z → 2026-02-28 11:59:39Z
-Total tracks played       : 44
-Dominant artist           : Soundgarden
+Week window (UTC)         : 2026-02-21 14:38:25Z → 2026-02-28 14:38:25Z
+Total tracks played       : 50
+Dominant artist           : Overgrown
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
-Peak hour (7d)            : 22:00
-Heatmap (24h)             :         █               
-Heatmap (7d)              : ▁       ▅            ▃█▁
+Peak hour (24h)           : 09:00
+Peak hour (7d)            : 09:00
+Heatmap (24h)             :         ▂██▅            
+Heatmap (7d)              :         ▂██▅            
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:37:33
+Sessions (7d)             : 1
+Avg inter-play gap (7d)   : 00:03:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(10)
-Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | shoegaze(11) | groove metal(2) | heavy metal(2)
+Top genres (24h)          : shoegaze(6)
+Top genres (7d)           : shoegaze(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 11:59:39Z
+Report generated (UTC)    : 2026-02-28 14:38:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1345,7 +1345,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/02/2026 11:08:31 UTC
+Last updated     : 28/02/2026 14:09:18 UTC
 
 ```
 <!--END_SECTION:wakastats-->
