@@ -883,17 +883,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : Overgrown — Breathe
-Last played               : Overgrown — With Me
-Last played (UTC)         : 2026-02-28 14:00:39Z
+Last played               : Overgrown — Pieces
+Last played (UTC)         : 2026-02-28 14:07:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-02-28 13:54:23Z → 2026-02-28 14:00:39Z
+Δ track (since last)      : Overgrown — With Me → Overgrown — Pieces
+Δ last played (since last): 2026-02-28 14:00:39Z → 2026-02-28 14:07:46Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:14
-Telemetry age             : 00:03:14
-Δ time (since last report): 00:08:12
+Time since last play      : 00:00:06
+Telemetry age             : 00:00:06
+Δ time (since last report): 00:04:00
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,14 +905,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 48
+Tracks played (last 24h)  : 50
 Dominant artist           : Overgrown
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 14:03:52Z → 2026-02-28 14:03:52Z
+Week window (UTC)         : 2026-02-21 14:07:52Z → 2026-02-28 14:07:52Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :         ▅██             
-Heatmap (7d)              :         ▅██             
+Heatmap (24h)             :         ▅██▁            
+Heatmap (7d)              :         ▅██▁            
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 01:11:30
+Sessions (7d)             : 1
+Avg inter-play gap (7d)   : 00:03:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(13)
-Top genres (7d)           : shoegaze(14) | grunge(1) | post-grunge(1)
+Top genres (7d)           : shoegaze(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 14:03:52Z
+Report generated (UTC)    : 2026-02-28 14:07:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
