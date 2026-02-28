@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Acid Bubble
+Now playing               : Alice In Chains — Lesson Learned
 Last played               : Alice In Chains — A Looking In View
 Last played (UTC)         : 2026-02-28 15:06:04Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Your Decision → Alice In Chains — A Looking In View
-Δ last played (since last): 2026-02-28 14:59:00Z → 2026-02-28 15:06:04Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:29
-Telemetry age             : 00:04:29
-Δ time (since last report): 00:08:51
+Time since last play      : 00:07:07
+Telemetry age             : 00:07:07
+Δ time (since last report): 00:02:38
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:10:33Z → 2026-02-28 15:10:33Z
+Week window (UTC)         : 2026-02-21 15:13:11Z → 2026-02-28 15:13:11Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(5) | post-grunge(5) | shoegaze(1)
 Top genres (7d)           : grunge(5) | post-grunge(5) | shoegaze(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:10:33Z
+Report generated (UTC)    : 2026-02-28 15:13:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
