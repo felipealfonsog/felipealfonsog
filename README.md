@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Wayside — Safe Forever
-Last played               : geographics — 6 underground
-Last played (UTC)         : 2026-02-28 11:25:28Z
+Now playing               : postdrome — So Inviting
+Last played               : Sundazer, Adam Black — Edgerunner
+Last played (UTC)         : 2026-02-28 11:32:38Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Wayside — Parallax Error → geographics — 6 underground
-Δ last played (since last): 2026-02-28 11:22:36Z → 2026-02-28 11:25:28Z
+Δ track (since last)      : geographics — 6 underground → Sundazer, Adam Black — Edgerunner
+Δ last played (since last): 2026-02-28 11:25:28Z → 2026-02-28 11:32:38Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:37
-Telemetry age             : 00:02:37
-Δ time (since last report): 00:05:04
+Time since last play      : 00:00:06
+Telemetry age             : 00:00:06
+Δ time (since last report): 00:04:40
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,15 +905,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : geographics
+Tracks played (last 24h)  : 4
+Dominant artist           : Wayside
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 11:28:04Z → 2026-02-28 11:28:04Z
-Total tracks played       : 34
+Week window (UTC)         : 2026-02-21 11:32:43Z → 2026-02-28 11:32:43Z
+Total tracks played       : 36
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -923,22 +923,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 22:00
 Heatmap (24h)             :         █               
-Heatmap (7d)              : ▁       ▁            ▃█▁
+Heatmap (7d)              : ▁       ▂            ▃█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:24:18
+Avg inter-play gap (7d)   : 03:12:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(1)
-Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(2) | heavy metal(2) | metal(2)
+Top genres (24h)          : shoegaze(3)
+Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | shoegaze(4) | groove metal(2) | heavy metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 11:28:04Z
+Report generated (UTC)    : 2026-02-28 11:32:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
