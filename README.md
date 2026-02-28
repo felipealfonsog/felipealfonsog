@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Amira Elfeky — Everything I Do Is For You
-Last played               : Amira Elfeky — Tonight (demo)
-Last played (UTC)         : 2026-02-28 11:46:41Z
+Now playing               : cloudyfield — crawl
+Last played               : Amira Elfeky — Everything I Do Is For You
+Last played (UTC)         : 2026-02-28 11:49:13Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : cloudyfield — in your head → Amira Elfeky — Tonight (demo)
-Δ last played (since last): 2026-02-28 11:43:30Z → 2026-02-28 11:46:41Z
+Δ track (since last)      : Amira Elfeky — Tonight (demo) → Amira Elfeky — Everything I Do Is For You
+Δ last played (since last): 2026-02-28 11:46:41Z → 2026-02-28 11:49:13Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:48
-Telemetry age             : 00:01:48
-Δ time (since last report): 00:04:30
+Time since last play      : 00:02:58
+Telemetry age             : 00:02:58
+Δ time (since last report): 00:03:43
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,15 +905,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
-Dominant artist           : Wayside
+Tracks played (last 24h)  : 9
+Dominant artist           : Amira Elfeky
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 11:48:28Z → 2026-02-28 11:48:28Z
-Total tracks played       : 40
+Week window (UTC)         : 2026-02-21 11:52:11Z → 2026-02-28 11:52:11Z
+Total tracks played       : 41
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -930,15 +930,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:53:24
+Avg inter-play gap (7d)   : 02:49:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(7)
-Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | shoegaze(8) | groove metal(2) | heavy metal(2)
+Top genres (24h)          : shoegaze(8)
+Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | shoegaze(9) | groove metal(2) | heavy metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 11:48:28Z
+Report generated (UTC)    : 2026-02-28 11:52:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
