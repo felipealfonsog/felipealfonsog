@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Pretty Done
-Last played               : Alice In Chains — Hollow
-Last played (UTC)         : 2026-02-28 15:40:27Z
+Now playing               : Alice In Chains — Stone
+Last played               : Alice In Chains — Pretty Done
+Last played (UTC)         : 2026-02-28 15:45:03Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Last Of My Kind → Alice In Chains — Hollow
-Δ last played (since last): 2026-02-28 15:32:34Z → 2026-02-28 15:40:27Z
+Δ track (since last)      : Alice In Chains — Hollow → Alice In Chains — Pretty Done
+Δ last played (since last): 2026-02-28 15:40:27Z → 2026-02-28 15:45:03Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:51
-Telemetry age             : 00:03:51
-Δ time (since last report): 00:04:24
+Time since last play      : 00:04:15
+Telemetry age             : 00:04:15
+Δ time (since last report): 00:05:00
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:44:18Z → 2026-02-28 15:44:18Z
+Week window (UTC)         : 2026-02-21 15:49:18Z → 2026-02-28 15:49:18Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -930,15 +930,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:03:58
+Avg inter-play gap (7d)   : 00:03:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(10) | post-grunge(10)
-Top genres (7d)           : grunge(10) | post-grunge(10)
+Top genres (24h)          : grunge(11) | post-grunge(11)
+Top genres (7d)           : grunge(11) | post-grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:44:18Z
+Report generated (UTC)    : 2026-02-28 15:49:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
