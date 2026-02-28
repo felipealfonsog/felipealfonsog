@@ -888,11 +888,11 @@ Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:09:09
-Telemetry age             : 00:09:09
-Δ time (since last report): 00:08:41
+Time since last play      : 00:10:18
+Telemetry age             : 00:10:18
+Δ time (since last report): 00:01:09
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -911,7 +911,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 18:33:09Z → 2026-02-28 18:33:09Z
+Week window (UTC)         : 2026-02-21 18:34:18Z → 2026-02-28 18:34:18Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -937,7 +937,7 @@ Top genres (24h)          : grunge(24) | post-grunge(24)
 Top genres (7d)           : grunge(24) | post-grunge(24)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 18:33:09Z
+Report generated (UTC)    : 2026-02-28 18:34:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
