@@ -887,13 +887,13 @@ Last played               : Alice In Chains — Your Decision
 Last played (UTC)         : 2026-02-28 14:59:00Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Last Of My Kind → Alice In Chains — Your Decision
-Δ last played (since last): 2026-02-28 14:54:15Z → 2026-02-28 14:59:00Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:24
-Telemetry age             : 00:01:24
-Δ time (since last report): 00:01:39
+Time since last play      : 00:02:43
+Telemetry age             : 00:02:43
+Δ time (since last report): 00:01:19
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:00:24Z → 2026-02-28 15:00:24Z
+Week window (UTC)         : 2026-02-21 15:01:42Z → 2026-02-28 15:01:42Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(4) | post-grunge(4) | shoegaze(2)
 Top genres (7d)           : grunge(4) | post-grunge(4) | shoegaze(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:00:24Z
+Report generated (UTC)    : 2026-02-28 15:01:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
