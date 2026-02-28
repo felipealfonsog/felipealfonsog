@@ -887,13 +887,13 @@ Last played               : cloudyfield — in your head
 Last played (UTC)         : 2026-02-28 11:43:30Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : postdrome — So Inviting → cloudyfield — in your head
-Δ last played (since last): 2026-02-28 11:36:37Z → 2026-02-28 11:43:30Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:15
-Telemetry age             : 00:00:15
-Δ time (since last report): 00:05:00
+Time since last play      : 00:00:30
+Telemetry age             : 00:00:30
+Δ time (since last report): 00:00:15
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 11:43:45Z → 2026-02-28 11:43:45Z
+Week window (UTC)         : 2026-02-21 11:43:59Z → 2026-02-28 11:43:59Z
 Total tracks played       : 39
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
@@ -938,7 +938,7 @@ Top genres (24h)          : shoegaze(6)
 Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | shoegaze(7) | groove metal(2) | heavy metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 11:43:45Z
+Report generated (UTC)    : 2026-02-28 11:43:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
