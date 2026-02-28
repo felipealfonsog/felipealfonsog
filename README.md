@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Overgrown — Mistake
-Last played               : Overgrown — Breathe
-Last played (UTC)         : 2026-02-28 12:59:47Z
+Now playing               : Overgrown — With Me
+Last played               : Overgrown — Mistake
+Last played (UTC)         : 2026-02-28 13:17:04Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Overgrown — Breathe → Overgrown — Mistake
+Δ last played (since last): 2026-02-28 12:59:47Z → 2026-02-28 13:17:04Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:40
-Telemetry age             : 00:02:40
-Δ time (since last report): 00:01:34
+Time since last play      : 00:02:20
+Telemetry age             : 00:02:20
+Δ time (since last report): 00:16:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,16 +905,16 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 30
+Tracks played (last 24h)  : 35
 Dominant artist           : Overgrown
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 13:02:27Z → 2026-02-28 13:02:27Z
+Week window (UTC)         : 2026-02-21 13:19:23Z → 2026-02-28 13:19:23Z
 Total tracks played       : 50
-Dominant artist           : Soundgarden
+Dominant artist           : Overgrown
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :         ▅█              
-Heatmap (7d)              : ▁       ▅█           ▁▆ 
+Heatmap (24h)             :         ▅█▂             
+Heatmap (7d)              : ▁       ▅█▂           ▅ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:13:44
+Avg inter-play gap (7d)   : 01:13:33
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(13)
-Top genres (7d)           : grunge(19) | post-grunge(19) | hard rock(17) | shoegaze(14)
+Top genres (7d)           : grunge(14) | post-grunge(14) | shoegaze(14) | hard rock(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 13:02:27Z
+Report generated (UTC)    : 2026-02-28 13:19:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
