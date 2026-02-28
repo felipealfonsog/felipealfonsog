@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Private Hell
+Now playing               : Alice In Chains — Last Of My Kind
 Last played               : Alice In Chains — Take Her Out
 Last played (UTC)         : 2026-02-28 15:21:29Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Acid Bubble → Alice In Chains — Take Her Out
-Δ last played (since last): 2026-02-28 15:13:12Z → 2026-02-28 15:21:29Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:05
-Telemetry age             : 00:04:05
-Δ time (since last report): 00:11:29
+Time since last play      : 00:06:41
+Telemetry age             : 00:06:41
+Δ time (since last report): 00:02:36
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:25:34Z → 2026-02-28 15:25:34Z
+Week window (UTC)         : 2026-02-21 15:28:09Z → 2026-02-28 15:28:09Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(8) | post-grunge(8)
 Top genres (7d)           : grunge(8) | post-grunge(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:25:34Z
+Report generated (UTC)    : 2026-02-28 15:28:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
