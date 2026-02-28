@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Voices
+Now playing               : Alice In Chains — Them Bones (2022 Remaster)
 Last played               : Alice In Chains — Stone
 Last played (UTC)         : 2026-02-28 16:42:39Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Pretty Done → Alice In Chains — Stone
-Δ last played (since last): 2026-02-28 16:38:16Z → 2026-02-28 16:42:39Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:19
-Telemetry age             : 00:00:19
-Δ time (since last report): 00:01:57
+Time since last play      : 00:25:45
+Telemetry age             : 00:25:45
+Δ time (since last report): 00:25:26
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 16:42:58Z → 2026-02-28 16:42:58Z
+Week window (UTC)         : 2026-02-21 17:08:24Z → 2026-02-28 17:08:24Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(20) | post-grunge(20)
 Top genres (7d)           : grunge(20) | post-grunge(20)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 16:42:58Z
+Report generated (UTC)    : 2026-02-28 17:08:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
