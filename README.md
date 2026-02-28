@@ -887,13 +887,13 @@ Last played               : Alice In Chains — Voices
 Last played (UTC)         : 2026-02-28 15:55:09Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Stone → Alice In Chains — Voices
-Δ last played (since last): 2026-02-28 15:49:25Z → 2026-02-28 15:55:09Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:45
-Telemetry age             : 00:02:45
-Δ time (since last report): 00:03:03
+Time since last play      : 00:03:04
+Telemetry age             : 00:03:04
+Δ time (since last report): 00:00:20
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:57:53Z → 2026-02-28 15:57:53Z
+Week window (UTC)         : 2026-02-21 15:58:13Z → 2026-02-28 15:58:13Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(13) | post-grunge(13)
 Top genres (7d)           : grunge(13) | post-grunge(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:57:53Z
+Report generated (UTC)    : 2026-02-28 15:58:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
