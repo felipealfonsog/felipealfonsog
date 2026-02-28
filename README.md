@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Overgrown — Give Up
-Last played               : Overgrown — Pieces
-Last played (UTC)         : 2026-02-28 12:25:55Z
+Now playing               : Overgrown — Mistake
+Last played               : Overgrown — With Me
+Last played (UTC)         : 2026-02-28 12:32:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Ally Nicholas — Fall Into → Overgrown — Pieces
-Δ last played (since last): 2026-02-28 12:14:20Z → 2026-02-28 12:25:55Z
+Δ track (since last)      : Overgrown — Pieces → Overgrown — With Me
+Δ last played (since last): 2026-02-28 12:25:55Z → 2026-02-28 12:32:28Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:34
-Telemetry age             : 00:03:34
-Δ time (since last report): 00:12:30
+Time since last play      : 00:01:49
+Telemetry age             : 00:01:49
+Δ time (since last report): 00:04:48
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,14 +905,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 20
-Dominant artist           : Amira Elfeky
+Tracks played (last 24h)  : 22
+Dominant artist           : Overgrown
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 12:29:29Z → 2026-02-28 12:29:29Z
+Week window (UTC)         : 2026-02-21 12:34:17Z → 2026-02-28 12:34:17Z
 Total tracks played       : 50
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :         █▅              
-Heatmap (7d)              : ▁       ▆▄           ▃█▁
+Heatmap (24h)             :         █▇              
+Heatmap (7d)              : ▂   ▁   ▆▅           ▄█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:10:57
+Avg inter-play gap (7d)   : 02:10:52
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(13)
-Top genres (7d)           : grunge(28) | post-grunge(28) | hard rock(20) | shoegaze(14) | groove metal(1) | heavy metal(1)
-Artist lookups (this run) : 1 (cached)
+Top genres (7d)           : grunge(26) | post-grunge(26) | hard rock(20) | shoegaze(14) | groove metal(1) | heavy metal(1)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 12:29:29Z
+Report generated (UTC)    : 2026-02-28 12:34:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
