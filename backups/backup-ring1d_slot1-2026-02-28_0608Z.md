@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-27_0618Z
+ snapshot_utc : 2026-02-28_0608Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -29,7 +29,7 @@ Integrity, transparency, and coherence guide both my work and my personal path. 
 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
 -->
-I'm **Felipe**[*](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—supported by ongoing advanced studies, professional certifications, and forthcoming postgraduate work in innovation and technology. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
+I'm[ **Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—supported by ongoing advanced studies, professional certifications, and forthcoming postgraduate work in innovation and technology. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
 
 <!--
 UNIX-born engineering ethos.  
@@ -205,6 +205,45 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
  -->
 
+
+
+<a href="https://www.cia.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cia.svg" alt="CIA" width="40" height="40"/></a>
+<a href="https://www.nsa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_nsa.svg" alt="NSA" width="40" height="40"/></a>
+<a href="https://www.socom.mil/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jsoc.svg" alt="JSOC" width="40" height="40"/></a>
+<a href="https://www.sis.gov.uk/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mi6_rounded.svg" alt="MI6" width="40" height="40"/></a>
+<a href="https://www.mossad.gov.il/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mossad.svg" alt="MOSSAD" width="40" height="40"/></a>
+<a href="https://www.interpol.int/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_interpol_rounded.svg" alt="INTERPOL" width="40" height="40"/></a>
+<a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_isfce.svg" alt="ISFCE" width="40" height="40"/></a>
+<a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cisa.svg" alt="CISA" width="40" height="40"/></a>
+<a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa_rounded.svg" alt="ENISA" width="40" height="40"/></a>
+<a href="https://www.iadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg" alt="Inter-American Development Bank" width="40" height="40"/></a>
+<a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe.svg" alt="NATO CCDCOE" width="40" height="40"/></a>
+<a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/></a>
+<a href="https://jid.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jid.svg" alt="JID IADB" width="40" height="40"/></a>
+<a href="https://www.interior.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_ministerio_del_interior_chile.svg" alt="Ministerio del Interior y Seguridad Pública de Chile" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Agencia_Nacional_de_Inteligencia" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile_rounded.svg" alt="ANI Chile" width="40" height="40"/></a>
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi_rounded.svg" alt="PDI" width="40" height="40"/></a>
+<a href="https://www.carabineros.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_os9_carabineros_rounded.svg" alt="Carabineros de Chile OS9" width="40" height="40"/></a>
+<a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci.svg" alt="ANCI Chile" width="40" height="40"/></a>
+
+<!-- 
+
+
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi.svg" alt="PDI Chile" width="40" height="40"/></a>
+<a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa.svg" alt="ENISA" width="40" height="40"/></a>
+<a href="https://www.ani.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile.svg" alt="ANI Chile" width="40" height="40"/></a>
+<a href="https://www.anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci.svg" alt="ANCI Chile" width="40" height="40"/></a>
+<a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe.svg" alt="NATO CCDCOE" width="40" height="40"/></a>
+<a href="https://www.iadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg" alt="Inter-American Development Bank" width="40" height="40"/></a>
+
+
+
+-->
+
+
+
+
+
 #
 
 <details open>
@@ -312,7 +351,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-27 04:07:40Z
+DSN snapshot (UTC)       : 2026-02-28 04:00:59Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -323,15 +362,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.935 AU
-Heliocentric distance    : 169.813 AU
-Relative speed           : 19.661 km/s
+Earth distance           : 25.42e9 km | 169.931 AU
+Heliocentric distance    : 169.822 AU
+Relative speed           : 19.569 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:19
-Round-trip latency       : 47:06:37
+One-way light time       : 23:33:16
+Round-trip latency       : 47:06:33
 ------------------------------------------------------------
-Δ distance (since last)  : -86,017 km
-Mission age              : 48 years, 187 days
+Δ distance (since last)  : -171,564 km
+Mission age              : 48 years, 188 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -342,19 +381,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.737 AU
-Heliocentric distance    : 142.210 AU
-Relative speed           : 26.746 km/s
+Earth distance           : 21.35e9 km | 142.736 AU
+Heliocentric distance    : 142.219 AU
+Relative speed           : 26.594 km/s
 ------------------------------------------------------------
 One-way light time       : 19:47:06
-Round-trip latency       : 39:34:13
+Round-trip latency       : 39:34:12
 ------------------------------------------------------------
-Δ distance (since last)  : -23,978 km
-Mission age              : 48 years, 203 days
+Δ distance (since last)  : -53,311 km
+Mission age              : 48 years, 204 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-27 04:07:44Z
+Report generated (UTC)   : 2026-02-28 04:01:05Z
 ```
 
 <!-- VOYAGER:END -->
@@ -507,18 +546,7 @@ Radioactive-Defcon-2.svg
 <a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/kalilinux-cs.svg" alt="Kali Linux" width="40" height="40"/></a> 
 <a href="https://kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linux.svg" alt="Linux Kernel" width="40" height="40"/></a> 
 <a href="https://www.freebsd.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/freebsd.svg" alt="FreeBSD" width="40" height="40"/></a> 
-<a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA-mono.svg" alt="GCA" width="40" height="40"/></a> 
 <a href="https://attack.mitre.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo1.svg" alt="MITRE ATT&CK" width="40" height="40"/></a> 
-<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/PDI_CL-mono-rounded.svg" alt="PDI" width="40" height="40"/></a> 
-<a href="https://www.interpol.int/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/INTERPOL-cyber.svg" alt="INTERPOL" width="40" height="40"/></a> 
-<a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo2.svg" alt="ISFCE" width="40" height="40"/></a> 
-<a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ANCI.svg" alt="ANCI Chile" width="40" height="40"/></a> 
-<a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CISA.svg" alt="CISA" width="40" height="40"/></a> 
-<a href="https://jid.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo4.1.svg" alt="JID IADB" width="40" height="40"/></a> 
-<a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/NATO-CCDCOE.svg" alt="NATO CCDCOE" width="40" height="40"/></a> 
-<a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ENISA.svg" alt="ENISA" width="40" height="40"/></a>
-
-
 
 
 
@@ -869,9 +897,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:41:12
-Telemetry age             : 20:41:12
-Δ time (since last report): 00:00:37
+Time since last play      : 44:35:29
+Telemetry age             : 44:35:29
+Δ time (since last report): 00:00:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -883,40 +911,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : never easy
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-20 04:06:34Z → 2026-02-27 04:06:34Z
-Total tracks played       : 39
+Week window (UTC)         : 2026-02-21 04:00:52Z → 2026-02-28 04:00:52Z
+Total tracks played       : 32
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 04:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :     █                   
-Heatmap (7d)              : ▁                    ▅█▁
+Heatmap (24h)             : N/A
+Heatmap (7d)              : ▁                    ▃█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:20:25
+Sessions (24h)            : N/A
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 01:56:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(1)
-Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(9) | heavy metal(9) | metal(9)
+Top genres (24h)          : N/A
+Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(2) | heavy metal(2) | metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-27 04:06:34Z
+Report generated (UTC)    : 2026-02-28 04:00:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1271,9 +1299,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 27 February 2026
+From: 04 December 2023 - To: 28 February 2026
 
-Total Time       : 984 hrs 34 mins
+Total Time       : 989 hrs 18 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1282,47 +1310,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.75 %
-Other          157 hrs 25 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  15.99 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.10 %
-HTML           127 hrs 9 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.04 %
-Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.15 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.48 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.06 %
-Text           38 hrs 1 min   ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.86 %
-YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.83 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.67 %
+Other          159 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.08 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.03 %
+HTML           127 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.99 %
+Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.45 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.04 %
+Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
+YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.07 %
-Mac            540 hrs 43 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.92 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.78 %
+Mac            547 hrs 3 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.30 %
 
 EDITORS
 -------
-VS Code        652 hrs 55 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.10 %
-Firefox        140 hrs 54 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.31 %
-TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
-Terminal       5 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.52 %
-TextMate       54 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
+VS Code        653 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.01 %
+Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.94 %
+Firefox        146 hrs 35 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.82 %
+TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
+Terminal       5 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.56 %
+TextMate       57 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
 Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
 Notes          40 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-‎WhatsApp      14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
+‎WhatsApp      17 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
 Zoom           8 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 
 CATEGORIES
 ----------
-Coding         998 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       138 hrs 15 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.04 %
-Meeting        3 hrs 4 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.31 %
+Coding         999 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       143 hrs 57 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.55 %
+Meeting        3 hrs 7 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.32 %
 Writing Docs   1 hr 53 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.19 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
+Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 27/02/2026 04:40:27 UTC
+Last updated     : 28/02/2026 04:31:46 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1384,16 +1413,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/clsource">
-        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/clsource">Camilo</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Francesco601">
         <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
@@ -1410,6 +1429,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
