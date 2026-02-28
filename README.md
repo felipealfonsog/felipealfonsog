@@ -890,9 +890,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 38:08:36
-Telemetry age             : 38:08:36
-Δ time (since last report): 00:00:25
+Time since last play      : 41:21:09
+Telemetry age             : 41:21:09
+Δ time (since last report): 03:12:34
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -911,8 +911,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-20 21:33:58Z → 2026-02-27 21:33:58Z
-Total tracks played       : 39
+Week window (UTC)         : 2026-02-21 00:46:32Z → 2026-02-28 00:46:32Z
+Total tracks played       : 36
 Dominant artist           : Soundgarden
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -922,22 +922,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 22:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁                    ▅█▁
+Heatmap (7d)              : ▁                    ▄█▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:20:25
+Avg inter-play gap (7d)   : 03:37:06
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(9) | heavy metal(9) | metal(9)
+Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(6) | heavy metal(6) | metal(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-27 21:33:58Z
+Report generated (UTC)    : 2026-02-28 00:46:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
