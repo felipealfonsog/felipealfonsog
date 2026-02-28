@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Voices
-Last played               : Alice In Chains — Stone
-Last played (UTC)         : 2026-02-28 15:49:25Z
+Now playing               : Alice In Chains — The Devil Put Dinosaurs Here
+Last played               : Alice In Chains — Voices
+Last played (UTC)         : 2026-02-28 15:55:09Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Alice In Chains — Stone → Alice In Chains — Voices
+Δ last played (since last): 2026-02-28 15:49:25Z → 2026-02-28 15:55:09Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:26
-Telemetry age             : 00:05:26
-Δ time (since last report): 00:05:19
+Time since last play      : 00:02:45
+Telemetry age             : 00:02:45
+Δ time (since last report): 00:03:03
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:54:51Z → 2026-02-28 15:54:51Z
+Week window (UTC)         : 2026-02-21 15:57:53Z → 2026-02-28 15:57:53Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -930,15 +930,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:04:01
+Avg inter-play gap (7d)   : 00:04:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(12) | post-grunge(12)
-Top genres (7d)           : grunge(12) | post-grunge(12)
+Top genres (24h)          : grunge(13) | post-grunge(13)
+Top genres (7d)           : grunge(13) | post-grunge(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:54:51Z
+Report generated (UTC)    : 2026-02-28 15:57:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
