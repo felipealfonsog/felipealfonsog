@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Scalpel
+Now playing               : Alice In Chains — Phantom Limb
 Last played               : Alice In Chains — Breath On A Window
 Last played (UTC)         : 2026-02-28 16:24:37Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Voices → Alice In Chains — Breath On A Window
-Δ last played (since last): 2026-02-28 15:55:09Z → 2026-02-28 16:24:37Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:00
-Telemetry age             : 00:01:00
-Δ time (since last report): 00:27:24
+Time since last play      : 00:01:33
+Telemetry age             : 00:01:33
+Δ time (since last report): 00:00:33
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 16:25:37Z → 2026-02-28 16:25:37Z
+Week window (UTC)         : 2026-02-21 16:26:10Z → 2026-02-28 16:26:10Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(17) | post-grunge(17)
 Top genres (7d)           : grunge(17) | post-grunge(17)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 16:25:37Z
+Report generated (UTC)    : 2026-02-28 16:26:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
