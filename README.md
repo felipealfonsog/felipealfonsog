@@ -887,13 +887,13 @@ Last played               : Overgrown — With Me
 Last played (UTC)         : 2026-02-28 12:32:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Overgrown — Pieces → Overgrown — With Me
-Δ last played (since last): 2026-02-28 12:25:55Z → 2026-02-28 12:32:28Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:49
-Telemetry age             : 00:01:49
-Δ time (since last report): 00:04:48
+Time since last play      : 00:02:57
+Telemetry age             : 00:02:57
+Δ time (since last report): 00:01:08
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 12:34:17Z → 2026-02-28 12:34:17Z
+Week window (UTC)         : 2026-02-21 12:35:24Z → 2026-02-28 12:35:24Z
 Total tracks played       : 50
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : shoegaze(13)
 Top genres (7d)           : grunge(26) | post-grunge(26) | hard rock(20) | shoegaze(14) | groove metal(1) | heavy metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 12:34:17Z
+Report generated (UTC)    : 2026-02-28 12:35:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
