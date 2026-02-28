@@ -883,17 +883,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : Alice In Chains — Lesson Learned
-Last played               : Alice In Chains — A Looking In View
-Last played (UTC)         : 2026-02-28 15:06:04Z
+Last played               : Alice In Chains — Acid Bubble
+Last played (UTC)         : 2026-02-28 15:13:12Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Alice In Chains — A Looking In View → Alice In Chains — Acid Bubble
+Δ last played (since last): 2026-02-28 15:06:04Z → 2026-02-28 15:13:12Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:07:07
-Telemetry age             : 00:07:07
-Δ time (since last report): 00:02:38
+Time since last play      : 00:00:53
+Telemetry age             : 00:00:53
+Δ time (since last report): 00:00:54
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:13:11Z → 2026-02-28 15:13:11Z
+Week window (UTC)         : 2026-02-21 15:14:05Z → 2026-02-28 15:14:05Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :          ███            
-Heatmap (7d)              :          ███            
+Heatmap (24h)             :          ▇██▁           
+Heatmap (7d)              :          ▇██▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:03:38
+Avg inter-play gap (7d)   : 00:03:43
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(5) | post-grunge(5) | shoegaze(1)
-Top genres (7d)           : grunge(5) | post-grunge(5) | shoegaze(1)
+Top genres (24h)          : grunge(6) | post-grunge(6)
+Top genres (7d)           : grunge(6) | post-grunge(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:13:11Z
+Report generated (UTC)    : 2026-02-28 15:14:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
