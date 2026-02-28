@@ -887,13 +887,13 @@ Last played               : Alice In Chains — Stone
 Last played (UTC)         : 2026-02-28 15:49:25Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Pretty Done → Alice In Chains — Stone
-Δ last played (since last): 2026-02-28 15:45:03Z → 2026-02-28 15:49:25Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:07
-Telemetry age             : 00:00:07
-Δ time (since last report): 00:00:14
+Time since last play      : 00:05:26
+Telemetry age             : 00:05:26
+Δ time (since last report): 00:05:19
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 15:49:32Z → 2026-02-28 15:49:32Z
+Week window (UTC)         : 2026-02-21 15:54:51Z → 2026-02-28 15:54:51Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(12) | post-grunge(12)
 Top genres (7d)           : grunge(12) | post-grunge(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 15:49:32Z
+Report generated (UTC)    : 2026-02-28 15:54:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
