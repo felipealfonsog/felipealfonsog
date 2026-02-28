@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Overgrown — Mistake
-Last played               : Overgrown — Breathe
-Last played (UTC)         : 2026-02-28 14:21:48Z
+Now playing               : Overgrown — Give Up
+Last played               : Overgrown — Pieces
+Last played (UTC)         : 2026-02-28 14:28:55Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Overgrown — Breathe → Overgrown — Pieces
+Δ last played (since last): 2026-02-28 14:21:48Z → 2026-02-28 14:28:55Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:21
-Telemetry age             : 00:01:21
-Δ time (since last report): 00:00:20
+Time since last play      : 00:02:22
+Telemetry age             : 00:02:22
+Δ time (since last report): 00:08:09
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 14:23:08Z → 2026-02-28 14:23:08Z
+Week window (UTC)         : 2026-02-21 14:31:17Z → 2026-02-28 14:31:17Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :         ▄██▃            
-Heatmap (7d)              :         ▄██▃            
+Heatmap (24h)             :         ▃██▄            
+Heatmap (7d)              :         ▃██▄            
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:03:22
+Avg inter-play gap (7d)   : 00:03:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(10)
-Top genres (7d)           : shoegaze(10)
+Top genres (24h)          : shoegaze(8)
+Top genres (7d)           : shoegaze(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 14:23:08Z
+Report generated (UTC)    : 2026-02-28 14:31:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
