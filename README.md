@@ -886,13 +886,13 @@ Last played               : Acoustin — I'm Fine
 Last played (UTC)         : 2026-02-28 22:03:00Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Down In A Hole (2022 Remaster) → Acoustin — I'm Fine
-Δ last played (since last): 2026-02-28 18:24:00Z → 2026-02-28 22:03:00Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:55:38
-Telemetry age             : 02:55:38
-Δ time (since last report): 03:26:49
+Time since last play      : 06:06:10
+Telemetry age             : 06:06:10
+Δ time (since last report): 03:10:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -911,7 +911,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-22 00:58:37Z → 2026-03-01 00:58:37Z
+Week window (UTC)         : 2026-02-22 04:09:10Z → 2026-03-01 04:09:10Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -935,9 +935,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(24) | post-grunge(24)
 Top genres (7d)           : grunge(24) | post-grunge(24)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-01 00:58:37Z
+Report generated (UTC)    : 2026-03-01 04:09:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
