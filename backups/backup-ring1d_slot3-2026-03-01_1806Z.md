@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-28_1805Z
+ snapshot_utc : 2026-03-01_1806Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -351,7 +351,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-28 15:32:57Z
+DSN snapshot (UTC)       : 2026-03-01 15:33:45Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -362,15 +362,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.929 AU
-Heliocentric distance    : 169.827 AU
-Relative speed           : 19.527 km/s
+Earth distance           : 25.42e9 km | 169.925 AU
+Heliocentric distance    : 169.837 AU
+Relative speed           : 19.443 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:15
-Round-trip latency       : 47:06:31
+One-way light time       : 23:33:13
+Round-trip latency       : 47:06:27
 ------------------------------------------------------------
-Δ distance (since last)  : -159,699 km
-Mission age              : 48 years, 188 days
+Δ distance (since last)  : -240,614 km
+Mission age              : 48 years, 189 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -381,19 +381,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.735 AU
-Heliocentric distance    : 142.223 AU
-Relative speed           : 26.522 km/s
+Earth distance           : 21.35e9 km | 142.733 AU
+Heliocentric distance    : 142.232 AU
+Relative speed           : 26.372 km/s
 ------------------------------------------------------------
 One-way light time       : 19:47:05
-Round-trip latency       : 39:34:11
+Round-trip latency       : 39:34:09
 ------------------------------------------------------------
-Δ distance (since last)  : -52,265 km
-Mission age              : 48 years, 204 days
+Δ distance (since last)  : -86,218 km
+Mission age              : 48 years, 205 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-28 15:33:01Z
+Report generated (UTC)   : 2026-03-01 15:33:50Z
 ```
 
 <!-- VOYAGER:END -->
@@ -877,49 +877,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Dam That River (2022 Remaster)
-Last played               : Alice In Chains — Them Bones (2022 Remaster)
-Last played (UTC)         : 2026-02-28 17:09:03Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Acoustin — I'm Fine
+Last played (UTC)         : 2026-02-28 22:03:00Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Stone → Alice In Chains — Them Bones (2022 Remaster)
-Δ last played (since last): 2026-02-28 16:42:39Z → 2026-02-28 17:09:03Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:58
-Telemetry age             : 00:02:58
-Δ time (since last report): 00:03:37
+Time since last play      : 17:29:38
+Telemetry age             : 17:29:38
+Δ time (since last report): 00:00:53
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
-Dominant artist           : Overgrown
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 16
+Dominant artist           : Alice In Chains
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 17:12:01Z → 2026-02-28 17:12:01Z
+Week window (UTC)         : 2026-02-22 15:32:38Z → 2026-03-01 15:32:38Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -927,25 +926,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
-Peak hour (7d)            : 10:00
-Heatmap (24h)             :           ██▄▃          
-Heatmap (7d)              :           ██▄▃          
+Peak hour (24h)           : 13:00
+Peak hour (7d)            : 11:00
+Heatmap (24h)             :             ▅█▃▁   ▁    
+Heatmap (7d)              :           ▆█▄▄▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:05:01
+Sessions (24h)            : 4
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 00:10:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(21) | post-grunge(21)
-Top genres (7d)           : grunge(21) | post-grunge(21)
+Top genres (24h)          : grunge(15) | post-grunge(15)
+Top genres (7d)           : grunge(24) | post-grunge(24)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 17:12:01Z
+Report generated (UTC)    : 2026-03-01 15:32:38Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1300,9 +1299,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 28 February 2026
+From: 04 December 2023 - To: 01 March 2026
 
-Total Time       : 989 hrs 18 mins
+Total Time       : 990 hrs 23 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1311,48 +1310,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.67 %
-Other          159 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.08 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.03 %
-HTML           127 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.99 %
-Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.45 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.66 %
+Other          162 hrs 37 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.42 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.02 %
+HTML           128 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.95 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.98 %
+Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.11 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.44 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.04 %
 Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.78 %
-Mac            547 hrs 3 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.30 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.71 %
+Mac            551 hrs 43 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.71 %
 
 EDITORS
 -------
-VS Code        653 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.01 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.94 %
-Firefox        146 hrs 35 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.82 %
+VS Code        653 hrs 35 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.99 %
+Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.91 %
+Firefox        150 hrs 42 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  15.22 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Terminal       5 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.56 %
+Terminal       5 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.55 %
 TextMate       57 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
 Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
 Notes          40 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-‎WhatsApp      17 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
+‎WhatsApp      18 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
 Zoom           8 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 
 CATEGORIES
 ----------
-Coding         999 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       143 hrs 57 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.55 %
-Meeting        3 hrs 7 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.32 %
+Coding         999 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       148 hrs 3 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.95 %
+Meeting        3 hrs 8 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.32 %
 Writing Docs   1 hr 53 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.19 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/02/2026 17:08:40 UTC
+Last updated     : 01/03/2026 17:10:38 UTC
 
 ```
 <!--END_SECTION:wakastats-->
