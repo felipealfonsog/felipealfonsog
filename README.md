@@ -890,9 +890,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 14:34:23
-Telemetry age             : 14:34:23
-Δ time (since last report): 00:01:23
+Time since last play      : 17:28:45
+Telemetry age             : 17:28:45
+Δ time (since last report): 02:54:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -904,14 +904,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
-Dominant artist           : Overgrown
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 17
+Dominant artist           : Alice In Chains
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-22 12:37:22Z → 2026-03-01 12:37:22Z
+Week window (UTC)         : 2026-02-22 15:31:45Z → 2026-03-01 15:31:45Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -919,9 +919,9 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 11:00
+Peak hour (24h)           : 13:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :           ▆█▄▄▂         
+Heatmap (24h)             :             ▆█▃▁   ▁    
 Heatmap (7d)              :           ▆█▄▄▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -933,11 +933,11 @@ Avg inter-play gap (7d)   : 00:10:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(24) | post-grunge(24)
+Top genres (24h)          : grunge(16) | post-grunge(16)
 Top genres (7d)           : grunge(24) | post-grunge(24)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-01 12:37:22Z
+Report generated (UTC)    : 2026-03-01 15:31:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
