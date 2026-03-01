@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-02-28_0018Z
+ snapshot_utc : 2026-03-01_0023Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -29,7 +29,7 @@ Integrity, transparency, and coherence guide both my work and my personal path. 
 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
 -->
-I'm[ **Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—supported by ongoing advanced studies, professional certifications, and forthcoming postgraduate work in innovation and technology. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
+I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—supported by ongoing advanced studies, professional certifications, and forthcoming postgraduate work in innovation and technology. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
 
 <!--
 UNIX-born engineering ethos.  
@@ -210,7 +210,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <a href="https://www.cia.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cia.svg" alt="CIA" width="40" height="40"/></a>
 <a href="https://www.nsa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_nsa.svg" alt="NSA" width="40" height="40"/></a>
 <a href="https://www.socom.mil/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jsoc.svg" alt="JSOC" width="40" height="40"/></a>
-<a href="https://www.sis.gov.uk/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mi6_rounded.svg" alt="MI6" width="40" height="40"/></a>
+<a href="https://www.sis.gov.uk/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mi6_rounded_bgremoved.svg" alt="MI6" width="40" height="40"/></a>
 <a href="https://www.mossad.gov.il/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mossad.svg" alt="MOSSAD" width="40" height="40"/></a>
 <a href="https://www.interpol.int/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_interpol_rounded.svg" alt="INTERPOL" width="40" height="40"/></a>
 <a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_isfce.svg" alt="ISFCE" width="40" height="40"/></a>
@@ -351,7 +351,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-27 21:35:03Z
+DSN snapshot (UTC)       : 2026-02-28 18:35:54Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -362,15 +362,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.932 AU
-Heliocentric distance    : 169.820 AU
-Relative speed           : 19.593 km/s
+Earth distance           : 25.42e9 km | 169.928 AU
+Heliocentric distance    : 169.828 AU
+Relative speed           : 19.516 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:17
-Round-trip latency       : 47:06:34
+One-way light time       : 23:33:15
+Round-trip latency       : 47:06:30
 ------------------------------------------------------------
-Δ distance (since last)  : -78,995 km
-Mission age              : 48 years, 187 days
+Δ distance (since last)  : -81,296 km
+Mission age              : 48 years, 188 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -381,19 +381,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.736 AU
-Heliocentric distance    : 142.217 AU
-Relative speed           : 26.635 km/s
+Earth distance           : 21.35e9 km | 142.735 AU
+Heliocentric distance    : 142.224 AU
+Relative speed           : 26.503 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:06
-Round-trip latency       : 39:34:12
+One-way light time       : 19:47:05
+Round-trip latency       : 39:34:11
 ------------------------------------------------------------
-Δ distance (since last)  : -24,020 km
-Mission age              : 48 years, 203 days
+Δ distance (since last)  : -27,265 km
+Mission age              : 48 years, 204 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-27 21:35:08Z
+Report generated (UTC)   : 2026-02-28 18:35:59Z
 ```
 
 <!-- VOYAGER:END -->
@@ -889,17 +889,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : never easy — perfect hell
-Last played (UTC)         : 2026-02-26 07:25:23Z
+Last played               : Alice In Chains — Down In A Hole (2022 Remaster)
+Last played (UTC)         : 2026-02-28 18:24:00Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 38:08:36
-Telemetry age             : 38:08:36
-Δ time (since last report): 00:00:25
+Time since last play      : 03:07:49
+Telemetry age             : 03:07:49
+Δ time (since last report): 00:01:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -911,40 +911,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 50
+Dominant artist           : Overgrown
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-20 21:33:58Z → 2026-02-27 21:33:58Z
-Total tracks played       : 39
-Dominant artist           : Soundgarden
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-02-21 21:31:49Z → 2026-02-28 21:31:49Z
+Total tracks played       : 50
+Dominant artist           : Overgrown
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 22:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁                    ▅█▁
+Peak hour (24h)           : 11:00
+Peak hour (7d)            : 11:00
+Heatmap (24h)             :           ▇█▄▄▂         
+Heatmap (7d)              :           ▇█▄▄▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:20:25
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:06:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(29) | post-grunge(29) | hard rock(20) | groove metal(9) | heavy metal(9) | metal(9)
+Top genres (24h)          : grunge(24) | post-grunge(24)
+Top genres (7d)           : grunge(24) | post-grunge(24)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-27 21:33:58Z
+Report generated (UTC)    : 2026-02-28 21:31:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1299,9 +1299,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 27 February 2026
+From: 04 December 2023 - To: 28 February 2026
 
-Total Time       : 984 hrs 34 mins
+Total Time       : 989 hrs 18 mins
 Mostly coding in : Bash
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1310,47 +1310,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.75 %
-Other          157 hrs 25 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  15.99 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.10 %
-HTML           127 hrs 9 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  11.04 %
-Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.15 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.48 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.06 %
-Text           38 hrs 1 min   ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.86 %
-YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.83 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.67 %
+Other          159 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.08 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.03 %
+HTML           127 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.99 %
+Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.45 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.04 %
+Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
+YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.07 %
-Mac            540 hrs 43 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.92 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.78 %
+Mac            547 hrs 3 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.30 %
 
 EDITORS
 -------
-VS Code        652 hrs 55 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.31 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.10 %
-Firefox        140 hrs 54 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.31 %
-TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
-Terminal       5 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.52 %
-TextMate       54 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
+VS Code        653 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.01 %
+Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.94 %
+Firefox        146 hrs 35 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.82 %
+TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
+Terminal       5 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.56 %
+TextMate       57 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
 Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
 Notes          40 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-‎WhatsApp      14 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
+‎WhatsApp      17 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
 Zoom           8 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
 
 CATEGORIES
 ----------
-Coding         998 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       138 hrs 15 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.04 %
-Meeting        3 hrs 4 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.31 %
+Coding         999 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       143 hrs 57 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.55 %
+Meeting        3 hrs 7 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.32 %
 Writing Docs   1 hr 53 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.19 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
+Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 27/02/2026 22:09:32 UTC
+Last updated     : 28/02/2026 22:09:09 UTC
 
 ```
 <!--END_SECTION:wakastats-->
