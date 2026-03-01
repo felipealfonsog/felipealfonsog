@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-02-28 21:31:49Z",
+  "report_generated_utc": "2026-03-01 00:58:37Z",
   "status": "IDLE",
-  "last_track": "Alice In Chains — Down In A Hole (2022 Remaster)",
-  "last_played_utc": "2026-02-28 18:24:00Z",
+  "last_track": "Acoustin — I'm Fine",
+  "last_played_utc": "2026-02-28 22:03:00Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -369,6 +369,7 @@
       "post-grunge",
       "hard rock"
     ],
-    "4nhRSSUxbE3wHY1DpWtCg0": []
+    "4nhRSSUxbE3wHY1DpWtCg0": [],
+    "5WimSm0vfp2fbXuoJKSncx": []
   }
 }

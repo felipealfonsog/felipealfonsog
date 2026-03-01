@@ -882,17 +882,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Alice In Chains — Down In A Hole (2022 Remaster)
-Last played (UTC)         : 2026-02-28 18:24:00Z
+Last played               : Acoustin — I'm Fine
+Last played (UTC)         : 2026-02-28 22:03:00Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Alice In Chains — Down In A Hole (2022 Remaster) → Acoustin — I'm Fine
+Δ last played (since last): 2026-02-28 18:24:00Z → 2026-02-28 22:03:00Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:07:49
-Telemetry age             : 03:07:49
-Δ time (since last report): 00:01:11
+Time since last play      : 02:55:38
+Telemetry age             : 02:55:38
+Δ time (since last report): 03:26:49
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -911,7 +911,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 21:31:49Z → 2026-02-28 21:31:49Z
+Week window (UTC)         : 2026-02-22 00:58:37Z → 2026-03-01 00:58:37Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -921,23 +921,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 11:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :           ▇█▄▄▂         
-Heatmap (7d)              :           ▇█▄▄▂         
+Heatmap (24h)             :           ▆█▄▄▂         
+Heatmap (7d)              :           ▆█▄▄▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:06:20
+Sessions (24h)            : 4
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 00:10:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(24) | post-grunge(24)
 Top genres (7d)           : grunge(24) | post-grunge(24)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 21:31:49Z
+Report generated (UTC)    : 2026-03-01 00:58:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
