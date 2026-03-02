@@ -882,17 +882,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Acoustin — I'm Fine
-Last played (UTC)         : 2026-02-28 22:03:00Z
+Last played               : Pantera — Mouth for War
+Last played (UTC)         : 2026-03-02 12:39:42Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Acoustin — I'm Fine → Pantera — Mouth for War
+Δ last played (since last): 2026-02-28 22:03:00Z → 2026-03-02 12:39:42Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 38:35:07
-Telemetry age             : 38:35:07
-Δ time (since last report): 00:01:18
+Time since last play      : 02:55:15
+Telemetry age             : 02:55:15
+Δ time (since last report): 02:56:50
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -904,40 +904,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Pantera
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-23 12:38:07Z → 2026-03-02 12:38:07Z
+Week window (UTC)         : 2026-02-23 15:34:57Z → 2026-03-02 15:34:57Z
 Total tracks played       : 50
-Dominant artist           : Overgrown
+Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             : N/A
+Heatmap (24h)             :          █              
 Heatmap (7d)              :           ▆█▄▄▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:10:44
+Sessions (24h)            : 1
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:57:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(24) | post-grunge(24)
+Top genres (24h)          : groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
+Top genres (7d)           : grunge(24) | post-grunge(24) | groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-02 12:38:07Z
+Report generated (UTC)    : 2026-03-02 15:34:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
