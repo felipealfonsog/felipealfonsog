@@ -887,13 +887,13 @@ Last played               : Incubus — Privilege
 Last played (UTC)         : 2026-03-04 16:23:18Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : KXLLSWXTCH — WASTE → Incubus — Privilege
-Δ last played (since last): 2026-03-04 16:16:43Z → 2026-03-04 16:23:18Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:59
-Telemetry age             : 00:01:59
-Δ time (since last report): 00:03:29
+Time since last play      : 00:02:37
+Telemetry age             : 00:02:37
+Δ time (since last report): 00:00:38
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 16:25:17Z → 2026-03-04 16:25:17Z
+Week window (UTC)         : 2026-02-25 16:25:55Z → 2026-03-04 16:25:55Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(2) | alternative metal(1) | alternative rock(
 Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(1) | alternative rock(1) | funk rock(1) | groove metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 16:25:17Z
+Report generated (UTC)    : 2026-03-04 16:25:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
