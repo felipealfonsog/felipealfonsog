@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Incubus — Privilege
-Last played               : KXLLSWXTCH — WASTE
-Last played (UTC)         : 2026-03-04 16:16:43Z
+Now playing               : Incubus — Nowhere Fast
+Last played               : Incubus — Privilege
+Last played (UTC)         : 2026-03-04 16:23:18Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Your Decision → KXLLSWXTCH — WASTE
-Δ last played (since last): 2026-03-04 14:42:29Z → 2026-03-04 16:16:43Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : KXLLSWXTCH — WASTE → Incubus — Privilege
+Δ last played (since last): 2026-03-04 16:16:43Z → 2026-03-04 16:23:18Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:05
-Telemetry age             : 00:05:05
-Δ time (since last report): 00:45:41
+Time since last play      : 00:01:59
+Telemetry age             : 00:01:59
+Δ time (since last report): 00:03:29
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,14 +905,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
-Dominant artist           : KXLLSWXTCH
+Tracks played (last 24h)  : 4
+Dominant artist           : Incubus
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 16:21:48Z → 2026-03-04 16:21:48Z
+Week window (UTC)         : 2026-02-25 16:25:17Z → 2026-03-04 16:25:17Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :            ▄ █          
-Heatmap (7d)              :           ▄█▄▄▁         
+Heatmap (24h)             :            ▃ █          
+Heatmap (7d)              :           ▄█▄▅▁         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:00:57
+Avg inter-play gap (7d)   : 02:01:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(2) | post-grunge(1) | rock(1) | trap metal(1)
-Top genres (7d)           : grunge(26) | post-grunge(25) | groove metal(1) | heavy metal(1) | metal(1) | rock(1)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : grunge(2) | alternative metal(1) | alternative rock(1) | funk rock(1) | nu metal(1) | post-grunge(1)
+Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(1) | alternative rock(1) | funk rock(1) | groove metal(1)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 16:21:48Z
+Report generated (UTC)    : 2026-03-04 16:25:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
