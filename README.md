@@ -886,13 +886,13 @@ Last played               : Alice In Chains — Your Decision
 Last played (UTC)         : 2026-03-04 14:42:29Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Mouth for War → Alice In Chains — Your Decision
-Δ last played (since last): 2026-03-02 12:39:42Z → 2026-03-04 14:42:29Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:52:09
-Telemetry age             : 00:52:09
-Δ time (since last report): 02:56:44
+Time since last play      : 00:53:20
+Telemetry age             : 00:53:20
+Δ time (since last report): 00:01:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -911,7 +911,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 15:34:37Z → 2026-03-04 15:34:37Z
+Week window (UTC)         : 2026-02-25 15:35:49Z → 2026-03-04 15:35:49Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -937,7 +937,7 @@ Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : grunge(25) | post-grunge(25) | groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 15:34:37Z
+Report generated (UTC)    : 2026-03-04 15:35:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
