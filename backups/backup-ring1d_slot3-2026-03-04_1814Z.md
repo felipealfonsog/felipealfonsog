@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-03_1815Z
+ snapshot_utc : 2026-03-04_1814Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -351,7 +351,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-03 15:38:32Z
+DSN snapshot (UTC)       : 2026-03-04 15:37:21Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -362,15 +362,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.916 AU
-Heliocentric distance    : 169.856 AU
-Relative speed           : 19.296 km/s
+Earth distance           : 25.42e9 km | 169.912 AU
+Heliocentric distance    : 169.866 AU
+Relative speed           : 19.232 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:09
-Round-trip latency       : 47:06:18
+One-way light time       : 23:33:07
+Round-trip latency       : 47:06:13
 ------------------------------------------------------------
-Δ distance (since last)  : -81,711 km
-Mission age              : 48 years, 191 days
+Δ distance (since last)  : -81,564 km
+Mission age              : 48 years, 192 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -381,19 +381,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.730 AU
-Heliocentric distance    : 142.249 AU
-Relative speed           : 26.081 km/s
+Earth distance           : 21.35e9 km | 142.728 AU
+Heliocentric distance    : 142.258 AU
+Relative speed           : 25.938 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:03
-Round-trip latency       : 39:34:06
+One-way light time       : 19:47:02
+Round-trip latency       : 39:34:04
 ------------------------------------------------------------
-Δ distance (since last)  : -34,836 km
-Mission age              : 48 years, 207 days
+Δ distance (since last)  : -37,305 km
+Mission age              : 48 years, 208 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-03 15:38:37Z
+Report generated (UTC)   : 2026-03-04 15:37:25Z
 ```
 
 <!-- VOYAGER:END -->
@@ -877,48 +877,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Pantera — Mouth for War
-Last played (UTC)         : 2026-03-02 12:39:42Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Incubus — Stellar
+Last played               : Incubus — When It Comes
+Last played (UTC)         : 2026-03-04 16:39:33Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Incubus — Privilege → Incubus — When It Comes
+Δ last played (since last): 2026-03-04 16:23:18Z → 2026-03-04 16:39:33Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 26:57:40
-Telemetry age             : 26:57:40
-Δ time (since last report): 00:00:24
+Time since last play      : 00:02:35
+Telemetry age             : 00:02:35
+Δ time (since last report): 00:16:13
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 8
+Dominant artist           : Incubus
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-24 15:37:21Z → 2026-03-03 15:37:21Z
+Week window (UTC)         : 2026-02-25 16:42:07Z → 2026-03-04 16:42:07Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -926,25 +927,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 13:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :           ▆█▄▄▂         
+Heatmap (24h)             :            ▁ █          
+Heatmap (7d)              :           ▂█▄▇▁         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:57:58
+Sessions (24h)            : 2
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 02:01:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(24) | post-grunge(24) | groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
+Top genres (24h)          : alternative metal(5) | alternative rock(5) | funk rock(5) | nu metal(5) | grunge(2) | post-grunge(1)
+Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(5) | alternative rock(5) | funk rock(5) | nu metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-03 15:37:21Z
+Report generated (UTC)    : 2026-03-04 16:42:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1299,9 +1300,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 03 March 2026
+From: 04 December 2023 - To: 04 March 2026
 
-Total Time       : 990 hrs 23 mins
+Total Time       : 994 hrs 52 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1310,48 +1311,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          171 hrs 57 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  17.36 %
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.66 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.02 %
-HTML           128 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.95 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.98 %
-Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.11 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.44 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.04 %
-Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
-YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
+Other          179 hrs 20 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.03 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.58 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.95 %
+HTML           128 hrs 19 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.93 %
+Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.07 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.41 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.02 %
+Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
+YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.71 %
-Mac            561 hrs 4 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.65 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.44 %
+Mac            572 hrs 55 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.59 %
 
 EDITORS
 -------
-VS Code        653 hrs 35 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.99 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.91 %
-Firefox        158 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.05 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.70 %
+Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.76 %
+Firefox        166 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.69 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Terminal       5 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.55 %
+Terminal       5 hrs 51 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
+FileZilla      4 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.43 %
+TextMate       1 hr 2 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
 Acrobat        1 hr 1 min     ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
-TextMate       57 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
+Notes          47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-Notes          46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
 ‎WhatsApp      18 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
-Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
 
 CATEGORIES
 ----------
-Coding         1,000 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       156 hrs 18 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  15.78 %
+Coding         1,005 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.42 %
 Meeting        3 hrs 8 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.32 %
-Writing Docs   1 hr 58 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
+Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 03/03/2026 17:22:31 UTC
+Last updated     : 04/03/2026 17:20:39 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1413,22 +1414,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
@@ -2175,7 +2176,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [TermNotes](https://github.com/felipealfonsog/TermNotes): Term Notes is a simple command-line utility for creating and managing notes directly from your terminal.
   🧬 C · Shell · Ruby
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
-  🧬 JavaScript · CSS · Shell
 - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
   🧬 C · Shell · Nix
 
