@@ -870,49 +870,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Incubus — Stellar
-Last played               : Incubus — When It Comes
-Last played (UTC)         : 2026-03-04 16:39:33Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Incubus — Stellar
+Last played (UTC)         : 2026-03-04 16:42:53Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Incubus — Privilege → Incubus — When It Comes
-Δ last played (since last): 2026-03-04 16:23:18Z → 2026-03-04 16:39:33Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Incubus — When It Comes → Incubus — Stellar
+Δ last played (since last): 2026-03-04 16:39:33Z → 2026-03-04 16:42:53Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:35
-Telemetry age             : 00:02:35
-Δ time (since last report): 00:16:13
+Time since last play      : 01:52:26
+Telemetry age             : 01:52:26
+Δ time (since last report): 01:53:12
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
+Tracks played (last 24h)  : 9
 Dominant artist           : Incubus
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 16:42:07Z → 2026-03-04 16:42:07Z
+Week window (UTC)         : 2026-02-25 18:35:18Z → 2026-03-04 18:35:18Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -923,7 +922,7 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 11:00
 Heatmap (24h)             :            ▁ █          
-Heatmap (7d)              :           ▂█▄▇▁         
+Heatmap (7d)              :           ▁█▄▇▁         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -934,11 +933,11 @@ Avg inter-play gap (7d)   : 02:01:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(5) | alternative rock(5) | funk rock(5) | nu metal(5) | grunge(2) | post-grunge(1)
-Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(5) | alternative rock(5) | funk rock(5) | nu metal(5)
+Top genres (24h)          : alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6) | grunge(2) | post-grunge(1)
+Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 16:42:07Z
+Report generated (UTC)    : 2026-03-04 18:35:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
