@@ -882,17 +882,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pantera — Mouth for War
-Last played (UTC)         : 2026-03-02 12:39:42Z
+Last played               : Alice In Chains — Your Decision
+Last played (UTC)         : 2026-03-04 14:42:29Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Pantera — Mouth for War → Alice In Chains — Your Decision
+Δ last played (since last): 2026-03-02 12:39:42Z → 2026-03-04 14:42:29Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 47:58:13
-Telemetry age             : 47:58:13
-Δ time (since last report): 00:01:11
+Time since last play      : 00:52:09
+Telemetry age             : 00:52:09
+Δ time (since last report): 02:56:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -904,14 +904,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Alice In Chains
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 12:37:54Z → 2026-03-04 12:37:54Z
+Week window (UTC)         : 2026-02-25 15:34:37Z → 2026-03-04 15:34:37Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -919,25 +919,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 11:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :           ▆█▄▄▂         
+Heatmap (24h)             :            █            
+Heatmap (7d)              :           ▅█▄▃▁         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:57:58
+Sessions (24h)            : 1
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 01:59:10
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(24) | post-grunge(24) | groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
+Top genres (24h)          : grunge(1) | post-grunge(1)
+Top genres (7d)           : grunge(25) | post-grunge(25) | groove metal(1) | heavy metal(1) | metal(1) | thrash metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 12:37:54Z
+Report generated (UTC)    : 2026-03-04 15:34:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
