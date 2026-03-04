@@ -887,13 +887,13 @@ Last played               : Tricky, Martina Topley-Bird — Hell Is Round The Co
 Last played (UTC)         : 2026-03-04 23:44:15Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Massive Attack, Elizabeth Fraser — Teardrop → Tricky, Martina Topley-Bird — Hell Is Round The Corner
-Δ last played (since last): 2026-03-04 23:35:24Z → 2026-03-04 23:44:15Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:37
-Telemetry age             : 00:03:37
-Δ time (since last report): 00:11:27
+Time since last play      : 00:03:51
+Telemetry age             : 00:03:51
+Δ time (since last report): 00:00:14
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 23:47:52Z → 2026-03-04 23:47:52Z
+Week window (UTC)         : 2026-02-25 23:48:05Z → 2026-03-04 23:48:05Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -936,9 +936,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(38) | post-grunge(37) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
 Top genres (7d)           : grunge(38) | post-grunge(37) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 23:47:52Z
+Report generated (UTC)    : 2026-03-04 23:48:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
