@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Incubus — Nowhere Fast
-Last played               : Incubus — Privilege
-Last played (UTC)         : 2026-03-04 16:23:18Z
+Now playing               : Incubus — Stellar
+Last played               : Incubus — When It Comes
+Last played (UTC)         : 2026-03-04 16:39:33Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Incubus — Privilege → Incubus — When It Comes
+Δ last played (since last): 2026-03-04 16:23:18Z → 2026-03-04 16:39:33Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:37
-Telemetry age             : 00:02:37
-Δ time (since last report): 00:00:38
+Time since last play      : 00:02:35
+Telemetry age             : 00:02:35
+Δ time (since last report): 00:16:13
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,14 +905,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
+Tracks played (last 24h)  : 8
 Dominant artist           : Incubus
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 16:25:55Z → 2026-03-04 16:25:55Z
+Week window (UTC)         : 2026-02-25 16:42:07Z → 2026-03-04 16:42:07Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :            ▃ █          
-Heatmap (7d)              :           ▄█▄▅▁         
+Heatmap (24h)             :            ▁ █          
+Heatmap (7d)              :           ▂█▄▇▁         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:01:01
+Avg inter-play gap (7d)   : 02:01:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(2) | alternative metal(1) | alternative rock(1) | funk rock(1) | nu metal(1) | post-grunge(1)
-Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(1) | alternative rock(1) | funk rock(1) | groove metal(1)
+Top genres (24h)          : alternative metal(5) | alternative rock(5) | funk rock(5) | nu metal(5) | grunge(2) | post-grunge(1)
+Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(5) | alternative rock(5) | funk rock(5) | nu metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 16:25:55Z
+Report generated (UTC)    : 2026-03-04 16:42:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
