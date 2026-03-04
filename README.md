@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Take Her Out
-Last played               : Alice In Chains — Lesson Learned
-Last played (UTC)         : 2026-03-04 23:15:38Z
+Now playing               : Massive Attack, Elizabeth Fraser — Teardrop
+Last played               : Alice In Chains — Private Hell
+Last played (UTC)         : 2026-03-04 23:25:17Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Alice In Chains — Lesson Learned → Alice In Chains — Private Hell
+Δ last played (since last): 2026-03-04 23:15:38Z → 2026-03-04 23:25:17Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:31
-Telemetry age             : 00:02:31
-Δ time (since last report): 00:01:04
+Time since last play      : 00:07:17
+Telemetry age             : 00:07:17
+Δ time (since last report): 00:14:26
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,14 +905,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 43
+Tracks played (last 24h)  : 45
 Dominant artist           : Alice In Chains
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 23:18:08Z → 2026-03-04 23:18:08Z
+Week window (UTC)         : 2026-02-25 23:32:33Z → 2026-03-04 23:32:33Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :            ▁ ▅   ▃█▇▂   
-Heatmap (7d)              :          ▁ ▁ ▆▂▁ ▃██▂   
+Heatmap (24h)             :            ▁ ▅   ▃█▇▄   
+Heatmap (7d)              :          ▁ ▁ ▅▁▁ ▃██▄   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:05:34
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 02:05:10
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(36) | post-grunge(35) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
+Top genres (24h)          : grunge(38) | post-grunge(37) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
 Top genres (7d)           : grunge(41) | post-grunge(40) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 23:18:08Z
+Report generated (UTC)    : 2026-03-04 23:32:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
