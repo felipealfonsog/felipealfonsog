@@ -870,34 +870,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Alice In Chains — All Secrets Known
 Last played               : Incubus — Stellar
 Last played (UTC)         : 2026-03-04 16:42:53Z
-Last activity type        : NO_ACTIVE_SESSION
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 01:55:03
-Telemetry age             : 01:55:03
-Δ time (since last report): 00:01:18
+Time since last play      : 03:51:37
+Telemetry age             : 03:51:37
+Δ time (since last report): 01:56:34
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -911,7 +912,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 18:37:56Z → 2026-03-04 18:37:56Z
+Week window (UTC)         : 2026-02-25 20:34:30Z → 2026-03-04 20:34:30Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -937,7 +938,7 @@ Top genres (24h)          : alternative metal(6) | alternative rock(6) | funk ro
 Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 18:37:56Z
+Report generated (UTC)    : 2026-03-04 20:34:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
