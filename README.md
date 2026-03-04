@@ -887,13 +887,13 @@ Last played               : Alice In Chains — Your Decision
 Last played (UTC)         : 2026-03-04 20:49:14Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — All Secrets Known → Alice In Chains — Your Decision
-Δ last played (since last): 2026-03-04 20:34:39Z → 2026-03-04 20:49:14Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:35
-Telemetry age             : 00:01:35
-Δ time (since last report): 00:12:48
+Time since last play      : 00:03:54
+Telemetry age             : 00:03:54
+Δ time (since last report): 00:02:20
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 20:50:48Z → 2026-03-04 20:50:48Z
+Week window (UTC)         : 2026-02-25 20:53:07Z → 2026-03-04 20:53:07Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : alternative metal(6) | alternative rock(6) | funk ro
 Top genres (7d)           : grunge(30) | post-grunge(29) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 20:50:48Z
+Report generated (UTC)    : 2026-03-04 20:53:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
