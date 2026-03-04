@@ -886,13 +886,13 @@ Last played               : Incubus — Stellar
 Last played (UTC)         : 2026-03-04 16:42:53Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Incubus — When It Comes → Incubus — Stellar
-Δ last played (since last): 2026-03-04 16:39:33Z → 2026-03-04 16:42:53Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:52:26
-Telemetry age             : 01:52:26
-Δ time (since last report): 01:53:12
+Time since last play      : 01:53:19
+Telemetry age             : 01:53:19
+Δ time (since last report): 00:00:54
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -911,7 +911,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 18:35:18Z → 2026-03-04 18:35:18Z
+Week window (UTC)         : 2026-02-25 18:36:11Z → 2026-03-04 18:36:11Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -937,7 +937,7 @@ Top genres (24h)          : alternative metal(6) | alternative rock(6) | funk ro
 Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 18:35:18Z
+Report generated (UTC)    : 2026-03-04 18:36:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
