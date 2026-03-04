@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Zero 7, Sophie Barker — In The Waiting Line
-Last played               : Morcheeba — The Sea
-Last played (UTC)         : 2026-03-04 23:50:28Z
+Now playing               : DJ Shadow — Midnight In A Perfect World
+Last played               : Zero 7, Sophie Barker — In The Waiting Line
+Last played (UTC)         : 2026-03-04 23:54:27Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Tricky, Martina Topley-Bird — Hell Is Round The Corner → Morcheeba — The Sea
-Δ last played (since last): 2026-03-04 23:44:15Z → 2026-03-04 23:50:28Z
+Δ track (since last)      : Morcheeba — The Sea → Zero 7, Sophie Barker — In The Waiting Line
+Δ last played (since last): 2026-03-04 23:50:28Z → 2026-03-04 23:54:27Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:34
-Telemetry age             : 00:00:34
-Δ time (since last report): 00:02:57
+Time since last play      : 00:03:48
+Telemetry age             : 00:03:48
+Δ time (since last report): 00:07:13
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -905,14 +905,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 49
+Tracks played (last 24h)  : 50
 Dominant artist           : Alice In Chains
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 23:51:02Z → 2026-03-04 23:51:02Z
+Week window (UTC)         : 2026-02-25 23:58:14Z → 2026-03-04 23:58:14Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :            ▁ ▅   ▃█▇▆   
-Heatmap (7d)              :          ▁ ▁ ▅   ▃█▇▆   
+Heatmap (24h)             :            ▁ ▅   ▃█▇▇   
+Heatmap (7d)              :            ▁ ▅   ▃█▇▇   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 01:12:28
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:11:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(38) | post-grunge(37) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
-Top genres (7d)           : grunge(38) | post-grunge(37) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : grunge(38) | post-grunge(37) | downtempo(7) | trip hop(7) | alternative metal(6) | alternative rock(6)
+Top genres (7d)           : grunge(38) | post-grunge(37) | downtempo(7) | trip hop(7) | alternative metal(6) | alternative rock(6)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 23:51:02Z
+Report generated (UTC)    : 2026-03-04 23:58:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
