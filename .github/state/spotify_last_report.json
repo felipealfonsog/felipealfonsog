@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-03-04 23:48:05Z",
+  "report_generated_utc": "2026-03-04 23:51:02Z",
   "status": "PLAYING",
-  "last_track": "Tricky, Martina Topley-Bird — Hell Is Round The Corner",
-  "last_played_utc": "2026-03-04 23:44:15Z",
+  "last_track": "Morcheeba — The Sea",
+  "last_played_utc": "2026-03-04 23:50:28Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -388,6 +388,10 @@
       "downtempo"
     ],
     "6liAMWkVf5LH7YR9yfFy1Y": [
+      "trip hop",
+      "downtempo"
+    ],
+    "6bWxFw65IEJzBYjx3SxUXd": [
       "trip hop",
       "downtempo"
     ]
