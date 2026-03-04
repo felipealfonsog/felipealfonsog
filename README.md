@@ -887,13 +887,13 @@ Last played               : Alice In Chains — Private Hell
 Last played (UTC)         : 2026-03-04 23:25:17Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Lesson Learned → Alice In Chains — Private Hell
-Δ last played (since last): 2026-03-04 23:15:38Z → 2026-03-04 23:25:17Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:07:17
-Telemetry age             : 00:07:17
-Δ time (since last report): 00:14:26
+Time since last play      : 00:08:40
+Telemetry age             : 00:08:40
+Δ time (since last report): 00:01:24
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 23:32:33Z → 2026-03-04 23:32:33Z
+Week window (UTC)         : 2026-02-25 23:33:57Z → 2026-03-04 23:33:57Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -938,7 +938,7 @@ Top genres (24h)          : grunge(38) | post-grunge(37) | alternative metal(6) 
 Top genres (7d)           : grunge(41) | post-grunge(40) | alternative metal(6) | alternative rock(6) | funk rock(6) | nu metal(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 23:32:33Z
+Report generated (UTC)    : 2026-03-04 23:33:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
