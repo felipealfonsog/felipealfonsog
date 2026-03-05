@@ -886,18 +886,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Hollow
-Last played               : Pantera — By Demons Be Driven
-Last played (UTC)         : 2026-03-05 15:59:10Z
+Now playing               : Pantera — The Art of Shredding
+Last played               : Pantera — Hollow
+Last played (UTC)         : 2026-03-05 16:04:56Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Regular People (Conceit) → Pantera — By Demons Be Driven
-Δ last played (since last): 2026-03-05 15:54:30Z → 2026-03-05 15:59:10Z
+Δ track (since last)      : Pantera — By Demons Be Driven → Pantera — Hollow
+Δ last played (since last): 2026-03-05 15:59:10Z → 2026-03-05 16:04:56Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:16
-Telemetry age             : 00:03:16
-Δ time (since last report): 00:06:39
+Time since last play      : 00:03:26
+Telemetry age             : 00:03:26
+Δ time (since last report): 00:05:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -916,7 +916,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 16:02:25Z → 2026-03-05 16:02:25Z
+Week window (UTC)         : 2026-02-26 16:08:22Z → 2026-03-05 16:08:22Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -926,8 +926,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :             ▅     ▇██▅▁ 
-Heatmap (7d)              :             ▅     ▇██▅▁ 
+Heatmap (24h)             :             ▅▁    ▆██▅▁ 
+Heatmap (7d)              :             ▅▁    ▆██▅▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -938,11 +938,11 @@ Avg inter-play gap (7d)   : 00:22:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(28) | post-grunge(28) | downtempo(10) | trip hop(10) | groove metal(8) | heavy metal(8)
-Top genres (7d)           : grunge(28) | post-grunge(28) | downtempo(10) | trip hop(10) | groove metal(8) | heavy metal(8)
+Top genres (24h)          : grunge(27) | post-grunge(27) | downtempo(10) | trip hop(10) | groove metal(9) | heavy metal(9)
+Top genres (7d)           : grunge(27) | post-grunge(27) | downtempo(10) | trip hop(10) | groove metal(9) | heavy metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 16:02:25Z
+Report generated (UTC)    : 2026-03-05 16:08:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
