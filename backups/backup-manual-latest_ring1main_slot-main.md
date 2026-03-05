@@ -151,12 +151,16 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white&labelColor=000000&color=000000&logoSize=20" height="19"/>](https://x.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
-[<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
+
+
+<!--
+[<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
+-->
 
 <!--
 
@@ -344,7 +348,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-02-28 09:35:11Z
+DSN snapshot (UTC)       : 2026-03-04 21:36:14Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -355,15 +359,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.930 AU
-Heliocentric distance    : 169.825 AU
-Relative speed           : 19.548 km/s
+Earth distance           : 25.42e9 km | 169.911 AU
+Heliocentric distance    : 169.869 AU
+Relative speed           : 19.217 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:16
-Round-trip latency       : 47:06:32
+One-way light time       : 23:33:06
+Round-trip latency       : 47:06:12
 ------------------------------------------------------------
-Δ distance (since last)  : -148,732 km
-Mission age              : 48 years, 188 days
+Δ distance (since last)  : -163,683 km
+Mission age              : 48 years, 192 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -374,19 +378,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.735 AU
-Heliocentric distance    : 142.221 AU
-Relative speed           : 26.559 km/s
+Earth distance           : 21.35e9 km | 142.728 AU
+Heliocentric distance    : 142.260 AU
+Relative speed           : 25.903 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:06
-Round-trip latency       : 39:34:11
+One-way light time       : 19:47:02
+Round-trip latency       : 39:34:03
 ------------------------------------------------------------
-Δ distance (since last)  : -47,474 km
-Mission age              : 48 years, 204 days
+Δ distance (since last)  : -75,803 km
+Mission age              : 48 years, 208 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-02-28 09:35:13Z
+Report generated (UTC)   : 2026-03-04 21:36:17Z
 ```
 
 <!-- VOYAGER:END -->
@@ -882,18 +886,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Overgrown — Mistake
-Last played               : Overgrown — With Me
-Last played (UTC)         : 2026-02-28 14:35:23Z
+Now playing               : Portishead — Only You
+Last played               : DJ Shadow — Midnight In A Perfect World
+Last played (UTC)         : 2026-03-04 23:59:21Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:03
-Telemetry age             : 00:03:03
-Δ time (since last report): 00:00:26
+Time since last play      : 00:01:59
+Telemetry age             : 00:01:59
+Δ time (since last report): 00:01:21
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -906,39 +910,39 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 50
-Dominant artist           : Overgrown
+Dominant artist           : Alice In Chains
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-21 14:38:25Z → 2026-02-28 14:38:25Z
+Week window (UTC)         : 2026-02-26 00:01:20Z → 2026-03-05 00:01:20Z
 Total tracks played       : 50
-Dominant artist           : Overgrown
+Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 09:00
-Peak hour (7d)            : 09:00
-Heatmap (24h)             :         ▂██▅            
-Heatmap (7d)              :         ▂██▅            
+Peak hour (24h)           : 18:00
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :              ▅   ▃█▇▇   
+Heatmap (7d)              :              ▅   ▃█▇▇   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:03:23
+Sessions (24h)            : 2
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 00:09:29
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(6)
-Top genres (7d)           : shoegaze(6)
+Top genres (24h)          : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
+Top genres (7d)           : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-02-28 14:38:25Z
+Report generated (UTC)    : 2026-03-05 00:01:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1293,10 +1297,10 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 28 February 2026
+From: 04 December 2023 - To: 04 March 2026
 
-Total Time       : 989 hrs 18 mins
-Mostly coding in : Bash
+Total Time       : 994 hrs 52 mins
+Mostly coding in : Other
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
@@ -1304,48 +1308,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.67 %
-Other          159 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.08 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.03 %
-HTML           127 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.99 %
-Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.12 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.45 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.04 %
-Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
-YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
+Other          179 hrs 20 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.03 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.58 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.95 %
+HTML           128 hrs 19 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.93 %
+Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.07 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.41 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.02 %
+Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
+YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.78 %
-Mac            547 hrs 3 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.30 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.44 %
+Mac            572 hrs 55 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.59 %
 
 EDITORS
 -------
-VS Code        653 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.01 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.94 %
-Firefox        146 hrs 35 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.82 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.70 %
+Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.76 %
+Firefox        166 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.69 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Terminal       5 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.56 %
-TextMate       57 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
+Terminal       5 hrs 51 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
+FileZilla      4 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.43 %
+TextMate       1 hr 2 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
+Acrobat        1 hr 1 min     ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
+Notes          47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-Notes          40 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-‎WhatsApp      17 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
-Dia            10 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.02 %
-Zoom           8 mins         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.01 %
+‎WhatsApp      18 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 
 CATEGORIES
 ----------
-Coding         999 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       143 hrs 57 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  14.55 %
-Meeting        3 hrs 7 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.32 %
-Writing Docs   1 hr 53 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.19 %
+Coding         1,005 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.42 %
+Meeting        3 hrs 8 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.32 %
+Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/02/2026 14:09:18 UTC
+Last updated     : 04/03/2026 22:13:35 UTC
 
 ```
 <!--END_SECTION:wakastats-->
