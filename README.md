@@ -887,13 +887,13 @@ Last played               : DJ Shadow — Midnight In A Perfect World
 Last played (UTC)         : 2026-03-04 23:59:21Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Zero 7, Sophie Barker — In The Waiting Line → DJ Shadow — Midnight In A Perfect World
-Δ last played (since last): 2026-03-04 23:54:27Z → 2026-03-04 23:59:21Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:39
-Telemetry age             : 00:00:39
-Δ time (since last report): 00:01:46
+Time since last play      : 00:01:59
+Telemetry age             : 00:01:59
+Δ time (since last report): 00:01:21
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 23:59:59Z → 2026-03-04 23:59:59Z
+Week window (UTC)         : 2026-02-26 00:01:20Z → 2026-03-05 00:01:20Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -936,9 +936,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
 Top genres (7d)           : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 23:59:59Z
+Report generated (UTC)    : 2026-03-05 00:01:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
