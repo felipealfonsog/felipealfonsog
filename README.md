@@ -886,18 +886,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — By Demons Be Driven
-Last played               : Pantera — Regular People (Conceit)
-Last played (UTC)         : 2026-03-05 15:54:30Z
+Now playing               : Pantera — Hollow
+Last played               : Pantera — By Demons Be Driven
+Last played (UTC)         : 2026-03-05 15:59:10Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — No Good (Attack the Radical) → Pantera — Regular People (Conceit)
-Δ last played (since last): 2026-03-05 15:44:02Z → 2026-03-05 15:54:30Z
+Δ track (since last)      : Pantera — Regular People (Conceit) → Pantera — By Demons Be Driven
+Δ last played (since last): 2026-03-05 15:54:30Z → 2026-03-05 15:59:10Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:18
-Telemetry age             : 00:01:18
-Δ time (since last report): 00:07:56
+Time since last play      : 00:03:16
+Telemetry age             : 00:03:16
+Δ time (since last report): 00:06:39
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -916,7 +916,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 15:55:47Z → 2026-03-05 15:55:47Z
+Week window (UTC)         : 2026-02-26 16:02:25Z → 2026-03-05 16:02:25Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -934,15 +934,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:22:55
+Avg inter-play gap (7d)   : 00:22:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(29) | post-grunge(29) | downtempo(10) | trip hop(10) | groove metal(7) | heavy metal(7)
-Top genres (7d)           : grunge(29) | post-grunge(29) | downtempo(10) | trip hop(10) | groove metal(7) | heavy metal(7)
+Top genres (24h)          : grunge(28) | post-grunge(28) | downtempo(10) | trip hop(10) | groove metal(8) | heavy metal(8)
+Top genres (7d)           : grunge(28) | post-grunge(28) | downtempo(10) | trip hop(10) | groove metal(8) | heavy metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 15:55:47Z
+Report generated (UTC)    : 2026-03-05 16:02:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
