@@ -886,17 +886,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Sundazer — Silent Call
-Last played (UTC)         : 2026-03-05 00:28:57Z
+Last played               : damnsonic — Rebirth
+Last played (UTC)         : 2026-03-05 01:33:54Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : DJ Shadow — Midnight In A Perfect World → Sundazer — Silent Call
-Δ last played (since last): 2026-03-04 23:59:21Z → 2026-03-05 00:28:57Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : Sundazer — Silent Call → damnsonic — Rebirth
+Δ last played (since last): 2026-03-05 00:28:57Z → 2026-03-05 01:33:54Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:23:48
-Telemetry age             : 00:23:48
-Δ time (since last report): 00:51:25
+Time since last play      : 02:31:04
+Telemetry age             : 02:31:04
+Δ time (since last report): 03:12:14
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -915,7 +915,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 00:52:44Z → 2026-03-05 00:52:44Z
+Week window (UTC)         : 2026-02-26 04:04:58Z → 2026-03-05 04:04:58Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -925,23 +925,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :              ▁   ▃█▇▇▄  
-Heatmap (7d)              :              ▁   ▃█▇▇▄  
+Heatmap (24h)             :                  ▃█▇▇▄▁ 
+Heatmap (7d)              :                  ▃█▇▇▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:09:31
+Avg inter-play gap (7d)   : 00:06:06
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(36) | post-grunge(36) | downtempo(10) | trip hop(10) | alternative metal(1) | alternative rock(1)
-Top genres (7d)           : grunge(36) | post-grunge(36) | downtempo(10) | trip hop(10) | alternative metal(1) | alternative rock(1)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : grunge(36) | post-grunge(36) | downtempo(10) | trip hop(10) | plunderphonics(1) | shoegaze(1)
+Top genres (7d)           : grunge(36) | post-grunge(36) | downtempo(10) | trip hop(10) | plunderphonics(1) | shoegaze(1)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 00:52:44Z
+Report generated (UTC)    : 2026-03-05 04:04:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
