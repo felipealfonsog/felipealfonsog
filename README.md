@@ -874,35 +874,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Portishead — Only You
-Last played               : DJ Shadow — Midnight In A Perfect World
-Last played (UTC)         : 2026-03-04 23:59:21Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Sundazer — Silent Call
+Last played (UTC)         : 2026-03-05 00:28:57Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : DJ Shadow — Midnight In A Perfect World → Sundazer — Silent Call
+Δ last played (since last): 2026-03-04 23:59:21Z → 2026-03-05 00:28:57Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:01:59
-Telemetry age             : 00:01:59
-Δ time (since last report): 00:01:21
+Time since last play      : 00:23:48
+Telemetry age             : 00:23:48
+Δ time (since last report): 00:51:25
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -916,7 +915,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 00:01:20Z → 2026-03-05 00:01:20Z
+Week window (UTC)         : 2026-02-26 00:52:44Z → 2026-03-05 00:52:44Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -926,23 +925,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :              ▅   ▃█▇▇   
-Heatmap (7d)              :              ▅   ▃█▇▇   
+Heatmap (24h)             :              ▁   ▃█▇▇▄  
+Heatmap (7d)              :              ▁   ▃█▇▇▄  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:09:29
+Avg inter-play gap (7d)   : 00:09:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
-Top genres (7d)           : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : grunge(36) | post-grunge(36) | downtempo(10) | trip hop(10) | alternative metal(1) | alternative rock(1)
+Top genres (7d)           : grunge(36) | post-grunge(36) | downtempo(10) | trip hop(10) | alternative metal(1) | alternative rock(1)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 00:01:20Z
+Report generated (UTC)    : 2026-03-05 00:52:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
