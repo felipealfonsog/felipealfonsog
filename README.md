@@ -886,18 +886,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Rise
-Last played               : Pantera — This Love
-Last played (UTC)         : 2026-03-05 15:34:37Z
+Now playing               : Pantera — No Good (Attack the Radical)
+Last played               : Pantera — Rise
+Last played (UTC)         : 2026-03-05 15:39:12Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Pantera — This Love → Pantera — Rise
+Δ last played (since last): 2026-03-05 15:34:37Z → 2026-03-05 15:39:12Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:03
-Telemetry age             : 00:03:03
-Δ time (since last report): 00:00:24
+Time since last play      : 00:00:55
+Telemetry age             : 00:00:55
+Δ time (since last report): 00:02:27
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -916,7 +916,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 15:37:40Z → 2026-03-05 15:37:40Z
+Week window (UTC)         : 2026-02-26 15:40:07Z → 2026-03-05 15:40:07Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -934,15 +934,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:22:58
+Avg inter-play gap (7d)   : 00:22:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(33) | post-grunge(33) | downtempo(10) | trip hop(10) | groove metal(3) | heavy metal(3)
-Top genres (7d)           : grunge(33) | post-grunge(33) | downtempo(10) | trip hop(10) | groove metal(3) | heavy metal(3)
+Top genres (24h)          : grunge(32) | post-grunge(32) | downtempo(10) | trip hop(10) | groove metal(4) | heavy metal(4)
+Top genres (7d)           : grunge(32) | post-grunge(32) | downtempo(10) | trip hop(10) | groove metal(4) | heavy metal(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 15:37:40Z
+Report generated (UTC)    : 2026-03-05 15:40:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
