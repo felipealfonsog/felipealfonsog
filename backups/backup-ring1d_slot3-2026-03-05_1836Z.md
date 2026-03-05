@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-04_1814Z
+ snapshot_utc : 2026-03-05_1836Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -158,12 +158,16 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white&labelColor=000000&color=000000&logoSize=20" height="19"/>](https://x.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
-[<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
+
+
+<!--
+[<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
+-->
 
 <!--
 
@@ -351,7 +355,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-04 15:37:21Z
+DSN snapshot (UTC)       : 2026-03-05 15:38:52Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -362,15 +366,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.912 AU
-Heliocentric distance    : 169.866 AU
-Relative speed           : 19.232 km/s
+Earth distance           : 25.42e9 km | 169.907 AU
+Heliocentric distance    : 169.876 AU
+Relative speed           : 19.175 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:07
-Round-trip latency       : 47:06:13
+One-way light time       : 23:33:05
+Round-trip latency       : 47:06:09
 ------------------------------------------------------------
-Δ distance (since last)  : -81,564 km
-Mission age              : 48 years, 192 days
+Δ distance (since last)  : -82,254 km
+Mission age              : 48 years, 193 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -381,19 +385,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.728 AU
-Heliocentric distance    : 142.258 AU
-Relative speed           : 25.938 km/s
+Earth distance           : 21.35e9 km | 142.726 AU
+Heliocentric distance    : 142.267 AU
+Relative speed           : 25.798 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:02
-Round-trip latency       : 39:34:04
+One-way light time       : 19:47:01
+Round-trip latency       : 39:34:02
 ------------------------------------------------------------
-Δ distance (since last)  : -37,305 km
-Mission age              : 48 years, 208 days
+Δ distance (since last)  : -40,135 km
+Mission age              : 48 years, 209 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-04 15:37:25Z
+Report generated (UTC)   : 2026-03-05 15:38:55Z
 ```
 
 <!-- VOYAGER:END -->
@@ -889,18 +893,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Incubus — Stellar
-Last played               : Incubus — When It Comes
-Last played (UTC)         : 2026-03-04 16:39:33Z
+Now playing               : Pantera — The Art of Shredding
+Last played               : Pantera — Hollow
+Last played (UTC)         : 2026-03-05 16:04:56Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Incubus — Privilege → Incubus — When It Comes
-Δ last played (since last): 2026-03-04 16:23:18Z → 2026-03-04 16:39:33Z
+Δ track (since last)      : Pantera — By Demons Be Driven → Pantera — Hollow
+Δ last played (since last): 2026-03-05 15:59:10Z → 2026-03-05 16:04:56Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:35
-Telemetry age             : 00:02:35
-Δ time (since last report): 00:16:13
+Time since last play      : 00:03:26
+Telemetry age             : 00:03:26
+Δ time (since last report): 00:05:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,14 +916,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
-Dominant artist           : Incubus
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 50
+Dominant artist           : Alice In Chains
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 16:42:07Z → 2026-03-04 16:42:07Z
+Week window (UTC)         : 2026-02-26 16:08:22Z → 2026-03-05 16:08:22Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -927,25 +931,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 13:00
-Peak hour (7d)            : 11:00
-Heatmap (24h)             :            ▁ █          
-Heatmap (7d)              :           ▂█▄▇▁         
+Peak hour (24h)           : 19:00
+Peak hour (7d)            : 19:00
+Heatmap (24h)             :             ▅▁    ▆██▅▁ 
+Heatmap (7d)              :             ▅▁    ▆██▅▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:01:03
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:22:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(5) | alternative rock(5) | funk rock(5) | nu metal(5) | grunge(2) | post-grunge(1)
-Top genres (7d)           : grunge(26) | post-grunge(25) | alternative metal(5) | alternative rock(5) | funk rock(5) | nu metal(5)
+Top genres (24h)          : grunge(27) | post-grunge(27) | downtempo(10) | trip hop(10) | groove metal(9) | heavy metal(9)
+Top genres (7d)           : grunge(27) | post-grunge(27) | downtempo(10) | trip hop(10) | groove metal(9) | heavy metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 16:42:07Z
+Report generated (UTC)    : 2026-03-05 16:08:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1300,9 +1304,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 04 March 2026
+From: 04 December 2023 - To: 05 March 2026
 
-Total Time       : 994 hrs 52 mins
+Total Time       : 995 hrs 18 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1311,48 +1315,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          179 hrs 20 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.03 %
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.58 %
+Other          189 hrs 9 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  19.01 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.57 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.95 %
-HTML           128 hrs 19 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
+HTML           128 hrs 25 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.93 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.07 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.41 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.40 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.02 %
 Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.44 %
-Mac            572 hrs 55 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.59 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.41 %
+Mac            583 hrs 11 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.59 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.70 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.76 %
-Firefox        166 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.69 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.67 %
+Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.74 %
+Firefox        171 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.28 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Terminal       5 hrs 51 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
-FileZilla      4 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.43 %
-TextMate       1 hr 2 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
-Acrobat        1 hr 1 min     ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
+Terminal       5 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
+FileZilla      4 hrs 28 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.45 %
+Spotify        3 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.33 %
+Antigravity    1 hr 14 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.12 %
+TextMate       1 hr 6 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
+Acrobat        1 hr 5 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
 Notes          47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-‎WhatsApp      18 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 
 CATEGORIES
 ----------
-Coding         1,005 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.42 %
-Meeting        3 hrs 8 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.32 %
+Coding         1,009 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       169 hrs 18 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
+Meeting        3 hrs 26 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 04/03/2026 17:20:39 UTC
+Last updated     : 05/03/2026 17:48:56 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2176,6 +2180,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [TermNotes](https://github.com/felipealfonsog/TermNotes): Term Notes is a simple command-line utility for creating and managing notes directly from your terminal.
   🧬 C · Shell · Ruby
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
+  🧬 JavaScript · CSS · Shell
 - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
   🧬 C · Shell · Nix
 
