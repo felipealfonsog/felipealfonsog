@@ -890,13 +890,13 @@ Last played               : DOWN — Losing All
 Last played (UTC)         : 2026-03-05 16:50:09Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Hollow → DOWN — Losing All
-Δ last played (since last): 2026-03-05 16:04:56Z → 2026-03-05 16:50:09Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:04:37
-Telemetry age             : 02:04:37
-Δ time (since last report): 02:46:24
+Time since last play      : 02:05:15
+Telemetry age             : 02:05:15
+Δ time (since last report): 00:00:39
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -915,7 +915,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 18:54:45Z → 2026-03-05 18:54:45Z
+Week window (UTC)         : 2026-02-26 18:55:23Z → 2026-03-05 18:55:23Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -939,9 +939,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
 Top genres (7d)           : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
-Artist lookups (this run) : 4 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 18:54:45Z
+Report generated (UTC)    : 2026-03-05 18:55:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
