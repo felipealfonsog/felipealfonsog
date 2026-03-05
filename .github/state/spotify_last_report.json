@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-05 16:08:22Z",
-  "status": "PLAYING",
-  "last_track": "Pantera — Hollow",
-  "last_played_utc": "2026-03-05 16:04:56Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-03-05 18:54:45Z",
+  "status": "IDLE",
+  "last_track": "DOWN — Losing All",
+  "last_played_utc": "2026-03-05 16:50:09Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -408,6 +408,30 @@
       "plunderphonics",
       "downtempo"
     ],
-    "1fm9SUMjPmHgti3dnfYzD7": []
+    "1fm9SUMjPmHgti3dnfYzD7": [],
+    "1m0B9ak05G0jqDY4ACLhQu": [
+      "sludge metal",
+      "stoner metal",
+      "stoner rock",
+      "groove metal",
+      "doom metal",
+      "metal"
+    ],
+    "4fE4Bf0MM6lMJpHiHniPuW": [
+      "groove metal",
+      "metal"
+    ],
+    "3xtIpqzIOfQUxKce8BU4Ka": [
+      "sludge metal",
+      "stoner metal",
+      "doom metal",
+      "groove metal",
+      "drone metal"
+    ],
+    "0zfT626RwO6zN3RDYeRit5": [
+      "groove metal",
+      "metal",
+      "heavy metal"
+    ]
   }
 }

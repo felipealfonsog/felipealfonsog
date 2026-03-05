@@ -874,35 +874,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Pantera — The Art of Shredding
-Last played               : Pantera — Hollow
-Last played (UTC)         : 2026-03-05 16:04:56Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : DOWN — Losing All
+Last played (UTC)         : 2026-03-05 16:50:09Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — By Demons Be Driven → Pantera — Hollow
-Δ last played (since last): 2026-03-05 15:59:10Z → 2026-03-05 16:04:56Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Pantera — Hollow → DOWN — Losing All
+Δ last played (since last): 2026-03-05 16:04:56Z → 2026-03-05 16:50:09Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:03:26
-Telemetry age             : 00:03:26
-Δ time (since last report): 00:05:57
+Time since last play      : 02:04:37
+Telemetry age             : 02:04:37
+Δ time (since last report): 02:46:24
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -916,7 +915,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 16:08:22Z → 2026-03-05 16:08:22Z
+Week window (UTC)         : 2026-02-26 18:54:45Z → 2026-03-05 18:54:45Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -924,25 +923,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 19:00
-Peak hour (7d)            : 19:00
-Heatmap (24h)             :             ▅▁    ▆██▅▁ 
-Heatmap (7d)              :             ▅▁    ▆██▅▁ 
+Peak hour (24h)           : 13:00
+Peak hour (7d)            : 13:00
+Heatmap (24h)             :             ▅█     ▇█▅▁ 
+Heatmap (7d)              :             ▅█     ▇█▅▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:22:56
+Avg inter-play gap (7d)   : 00:22:47
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(27) | post-grunge(27) | downtempo(10) | trip hop(10) | groove metal(9) | heavy metal(9)
-Top genres (7d)           : grunge(27) | post-grunge(27) | downtempo(10) | trip hop(10) | groove metal(9) | heavy metal(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
+Top genres (7d)           : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 16:08:22Z
+Report generated (UTC)    : 2026-03-05 18:54:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
