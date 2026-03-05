@@ -882,18 +882,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : DJ Shadow — Midnight In A Perfect World
-Last played               : Zero 7, Sophie Barker — In The Waiting Line
-Last played (UTC)         : 2026-03-04 23:54:27Z
+Now playing               : Portishead — Only You
+Last played               : DJ Shadow — Midnight In A Perfect World
+Last played (UTC)         : 2026-03-04 23:59:21Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Morcheeba — The Sea → Zero 7, Sophie Barker — In The Waiting Line
-Δ last played (since last): 2026-03-04 23:50:28Z → 2026-03-04 23:54:27Z
+Δ track (since last)      : Zero 7, Sophie Barker — In The Waiting Line → DJ Shadow — Midnight In A Perfect World
+Δ last played (since last): 2026-03-04 23:54:27Z → 2026-03-04 23:59:21Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:48
-Telemetry age             : 00:03:48
-Δ time (since last report): 00:07:13
+Time since last play      : 00:00:39
+Telemetry age             : 00:00:39
+Δ time (since last report): 00:01:46
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -912,7 +912,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-25 23:58:14Z → 2026-03-04 23:58:14Z
+Week window (UTC)         : 2026-02-25 23:59:59Z → 2026-03-04 23:59:59Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -922,23 +922,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :            ▁ ▅   ▃█▇▇   
-Heatmap (7d)              :            ▁ ▅   ▃█▇▇   
+Heatmap (24h)             :              ▅   ▃█▇▇   
+Heatmap (7d)              :              ▅   ▃█▇▇   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:11:16
+Sessions (24h)            : 2
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 00:09:29
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(38) | post-grunge(37) | downtempo(7) | trip hop(7) | alternative metal(6) | alternative rock(6)
-Top genres (7d)           : grunge(38) | post-grunge(37) | downtempo(7) | trip hop(7) | alternative metal(6) | alternative rock(6)
-Artist lookups (this run) : 2 (cached)
+Top genres (24h)          : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
+Top genres (7d)           : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-04 23:58:14Z
+Report generated (UTC)    : 2026-03-04 23:59:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
