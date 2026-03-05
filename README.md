@@ -886,18 +886,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Live in a Hole
-Last played               : Pantera — No Good (Attack the Radical)
-Last played (UTC)         : 2026-03-05 15:44:02Z
+Now playing               : Pantera — By Demons Be Driven
+Last played               : Pantera — Regular People (Conceit)
+Last played (UTC)         : 2026-03-05 15:54:30Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Rise → Pantera — No Good (Attack the Radical)
-Δ last played (since last): 2026-03-05 15:39:12Z → 2026-03-05 15:44:02Z
+Δ track (since last)      : Pantera — No Good (Attack the Radical) → Pantera — Regular People (Conceit)
+Δ last played (since last): 2026-03-05 15:44:02Z → 2026-03-05 15:54:30Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:51
-Telemetry age             : 00:03:51
-Δ time (since last report): 00:07:46
+Time since last play      : 00:01:18
+Telemetry age             : 00:01:18
+Δ time (since last report): 00:07:56
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -916,7 +916,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 15:47:52Z → 2026-03-05 15:47:52Z
+Week window (UTC)         : 2026-02-26 15:55:47Z → 2026-03-05 15:55:47Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -924,25 +924,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
-Peak hour (7d)            : 18:00
-Heatmap (24h)             :             ▃     █▇▇▄▁ 
-Heatmap (7d)              :             ▃     █▇▇▄▁ 
+Peak hour (24h)           : 19:00
+Peak hour (7d)            : 19:00
+Heatmap (24h)             :             ▅     ▇██▅▁ 
+Heatmap (7d)              :             ▅     ▇██▅▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:22:56
+Avg inter-play gap (7d)   : 00:22:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(31) | post-grunge(31) | downtempo(10) | trip hop(10) | groove metal(5) | heavy metal(5)
-Top genres (7d)           : grunge(31) | post-grunge(31) | downtempo(10) | trip hop(10) | groove metal(5) | heavy metal(5)
+Top genres (24h)          : grunge(29) | post-grunge(29) | downtempo(10) | trip hop(10) | groove metal(7) | heavy metal(7)
+Top genres (7d)           : grunge(29) | post-grunge(29) | downtempo(10) | trip hop(10) | groove metal(7) | heavy metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 15:47:52Z
+Report generated (UTC)    : 2026-03-05 15:55:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
