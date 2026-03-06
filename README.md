@@ -912,13 +912,13 @@ Last played               : DOWN — Ghosts Along the Mississippi
 Last played (UTC)         : 2026-03-06 01:25:26Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — No Good (Attack the Radical) → DOWN — Ghosts Along the Mississippi
-Δ last played (since last): 2026-03-06 00:49:11Z → 2026-03-06 01:25:26Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:36
-Telemetry age             : 00:00:36
-Δ time (since last report): 00:34:07
+Time since last play      : 00:04:08
+Telemetry age             : 00:04:08
+Δ time (since last report): 00:03:32
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -937,7 +937,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-27 01:26:02Z → 2026-03-06 01:26:02Z
+Week window (UTC)         : 2026-02-27 01:29:34Z → 2026-03-06 01:29:34Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -963,7 +963,7 @@ Top genres (24h)          : groove metal(32) | metal(29) | heavy metal(25) | thr
 Top genres (7d)           : groove metal(32) | metal(29) | heavy metal(25) | thrash metal(22) | downtempo(10) | trip hop(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-06 01:26:02Z
+Report generated (UTC)    : 2026-03-06 01:29:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
