@@ -910,13 +910,13 @@ Last played               : Pantera — No Good (Attack the Radical)
 Last played (UTC)         : 2026-03-06 00:49:11Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Fucking Hostile → Pantera — No Good (Attack the Radical)
-Δ last played (since last): 2026-03-06 00:33:11Z → 2026-03-06 00:49:11Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:16
-Telemetry age             : 00:01:16
-Δ time (since last report): 00:14:08
+Time since last play      : 00:02:44
+Telemetry age             : 00:02:44
+Δ time (since last report): 00:01:28
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -935,7 +935,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-27 00:50:27Z → 2026-03-06 00:50:27Z
+Week window (UTC)         : 2026-02-27 00:51:55Z → 2026-03-06 00:51:55Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -961,7 +961,7 @@ Top genres (24h)          : groove metal(25) | metal(23) | heavy metal(20) | thr
 Top genres (7d)           : groove metal(25) | metal(23) | heavy metal(20) | thrash metal(18) | grunge(11) | post-grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-06 00:50:27Z
+Report generated (UTC)    : 2026-03-06 00:51:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
