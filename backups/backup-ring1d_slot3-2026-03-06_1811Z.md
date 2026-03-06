@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-05_1836Z
+ snapshot_utc : 2026-03-06_1811Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -78,7 +78,7 @@ Throughout my life, I have lived, worked, and studied internationally — includ
 
 Integrity, transparency, and coherence shape both my work and my personal journey. I act with purpose—where values meet impact—and I seek truth in the silence that moves us forward.
 
-If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
+If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀ ✡︎
 
 <!-- 
 https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
@@ -355,7 +355,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-05 15:38:52Z
+DSN snapshot (UTC)       : 2026-03-06 15:36:35Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -366,15 +366,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.907 AU
-Heliocentric distance    : 169.876 AU
-Relative speed           : 19.175 km/s
+Earth distance           : 25.42e9 km | 169.903 AU
+Heliocentric distance    : 169.886 AU
+Relative speed           : 19.125 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:05
-Round-trip latency       : 47:06:09
+One-way light time       : 23:33:02
+Round-trip latency       : 47:06:05
 ------------------------------------------------------------
-Δ distance (since last)  : -82,254 km
-Mission age              : 48 years, 193 days
+Δ distance (since last)  : -81,955 km
+Mission age              : 48 years, 194 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -385,19 +385,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.726 AU
-Heliocentric distance    : 142.267 AU
-Relative speed           : 25.798 km/s
+Earth distance           : 21.35e9 km | 142.724 AU
+Heliocentric distance    : 142.275 AU
+Relative speed           : 25.661 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:01
-Round-trip latency       : 39:34:02
+One-way light time       : 19:47:00
+Round-trip latency       : 39:34:00
 ------------------------------------------------------------
-Δ distance (since last)  : -40,135 km
-Mission age              : 48 years, 209 days
+Δ distance (since last)  : -42,459 km
+Mission age              : 48 years, 210 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-05 15:38:55Z
+Report generated (UTC)   : 2026-03-06 15:36:41Z
 ```
 
 <!-- VOYAGER:END -->
@@ -844,8 +844,29 @@ _)      \.___.,|     .'
 
 <!-- LIVE CARD (updates automatically) -->
 
+<!-- ok -->
+<!-- 
+[![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
+-->
+
 [![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 
+[![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
+
+<!-- 
+<a href="https://open.spotify.com/user/12133266428">
+<picture>
+  <source srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" type="image/svg+xml">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true">
+</picture>
+</a>
+
+#
+
+[![spotify](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify-live.svg)](https://open.spotify.com/user/12133266428)
+
+#
+--> 
 
 <!-- FALLBACK (last known good state, static) -->
 <!--
@@ -887,24 +908,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
+Device type               : Smartphone
+Device name               : iPhone
 Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — The Art of Shredding
-Last played               : Pantera — Hollow
-Last played (UTC)         : 2026-03-05 16:04:56Z
+Now playing               : Pantera — Walk
+Last played               : Pantera — A New Level
+Last played (UTC)         : 2026-03-06 17:06:09Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — By Demons Be Driven → Pantera — Hollow
-Δ last played (since last): 2026-03-05 15:59:10Z → 2026-03-05 16:04:56Z
+Δ track (since last)      : Pantera — Mouth for War → Pantera — A New Level
+Δ last played (since last): 2026-03-06 16:55:36Z → 2026-03-06 17:06:09Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:26
-Telemetry age             : 00:03:26
-Δ time (since last report): 00:05:57
+Time since last play      : 00:02:24
+Telemetry age             : 00:02:24
+Δ time (since last report): 00:04:32
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -916,40 +937,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
-Dominant artist           : Alice In Chains
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 22
+Dominant artist           : Pantera
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 16:08:22Z → 2026-03-05 16:08:22Z
+Week window (UTC)         : 2026-02-27 17:08:33Z → 2026-03-06 17:08:33Z
 Total tracks played       : 50
-Dominant artist           : Alice In Chains
+Dominant artist           : Pantera
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 19:00
-Peak hour (7d)            : 19:00
-Heatmap (24h)             :             ▅▁    ▆██▅▁ 
-Heatmap (7d)              :             ▅▁    ▆██▅▁ 
+Peak hour (24h)           : 21:00
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :             ▃▂▁      █▆ 
+Heatmap (7d)              :             ▆▇       █▄ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:22:56
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 00:50:15
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(27) | post-grunge(27) | downtempo(10) | trip hop(10) | groove metal(9) | heavy metal(9)
-Top genres (7d)           : grunge(27) | post-grunge(27) | downtempo(10) | trip hop(10) | groove metal(9) | heavy metal(9)
+Top genres (24h)          : groove metal(21) | metal(19) | heavy metal(17) | thrash metal(16) | doom metal(2) | sludge metal(2)
+Top genres (7d)           : groove metal(39) | metal(35) | heavy metal(30) | thrash metal(27) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 16:08:22Z
+Report generated (UTC)    : 2026-03-06 17:08:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1304,9 +1325,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 05 March 2026
+From: 04 December 2023 - To: 06 March 2026
 
-Total Time       : 995 hrs 18 mins
+Total Time       : 995 hrs 54 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1315,12 +1336,12 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          189 hrs 9 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  19.01 %
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.57 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.95 %
-HTML           128 hrs 25 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.93 %
-Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.07 %
+Other          191 hrs 6 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  19.19 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.56 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.94 %
+HTML           128 hrs 25 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.89 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.92 %
+Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.06 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.40 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.02 %
 Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
@@ -1328,35 +1349,35 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.41 %
-Mac            583 hrs 11 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.59 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.37 %
+Mac            585 hrs 44 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.81 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.67 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.74 %
-Firefox        171 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.28 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.63 %
+Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.72 %
+Firefox        173 hrs 10 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  17.39 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Terminal       5 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
+Terminal       6 hrs 9 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.62 %
 FileZilla      4 hrs 28 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.45 %
-Spotify        3 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.33 %
+Spotify        3 hrs 18 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.33 %
+‎WhatsApp      1 hr 35 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.16 %
 Antigravity    1 hr 14 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.12 %
 TextMate       1 hr 6 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
 Acrobat        1 hr 5 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
 Notes          47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
 
 CATEGORIES
 ----------
-Coding         1,009 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       169 hrs 18 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
-Meeting        3 hrs 26 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
+Coding         1,010 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       170 hrs 32 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.12 %
+Meeting        4 hrs 25 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.44 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 05/03/2026 17:48:56 UTC
+Last updated     : 06/03/2026 17:18:58 UTC
 
 ```
 <!--END_SECTION:wakastats-->
