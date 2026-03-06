@@ -886,50 +886,51 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : DOWN — Losing All
-Last played (UTC)         : 2026-03-05 16:50:09Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Pantera — This Love
+Last played               : Pantera — Fucking Hostile
+Last played (UTC)         : 2026-03-06 00:33:11Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : DOWN — Losing All → Pantera — Fucking Hostile
+Δ last played (since last): 2026-03-05 16:50:09Z → 2026-03-06 00:33:11Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 04:44:57
-Telemetry age             : 04:44:57
-Δ time (since last report): 00:00:23
+Time since last play      : 00:03:09
+Telemetry age             : 00:03:09
+Δ time (since last report): 03:01:14
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
-Dominant artist           : Alice In Chains
+Tracks played (last 24h)  : 25
+Dominant artist           : Pantera
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 21:35:06Z → 2026-03-05 21:35:06Z
+Week window (UTC)         : 2026-02-27 00:36:19Z → 2026-03-06 00:36:19Z
 Total tracks played       : 50
-Dominant artist           : Alice In Chains
+Dominant artist           : Pantera
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -937,23 +938,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :             ▅█     ▇█▅▁ 
-Heatmap (7d)              :             ▅█     ▇█▅▁ 
+Heatmap (24h)             :             ▅█       ▃▁ 
+Heatmap (7d)              :             ▅█     ▄█▇▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:22:47
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 00:31:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
-Top genres (7d)           : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
+Top genres (24h)          : groove metal(22) | metal(20) | heavy metal(17) | thrash metal(15) | doom metal(3) | sludge metal(3)
+Top genres (7d)           : groove metal(22) | metal(20) | heavy metal(17) | thrash metal(15) | grunge(14) | post-grunge(14)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 21:35:06Z
+Report generated (UTC)    : 2026-03-06 00:36:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
