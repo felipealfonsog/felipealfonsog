@@ -895,34 +895,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Dimebag Darrell — Twisted
-Last played (UTC)         : 2026-03-06 01:34:06Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Pantera — A New Level
+Last played               : Pantera — Mouth for War
+Last played (UTC)         : 2026-03-06 15:45:26Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Dimebag Darrell — Twisted → Pantera — Mouth for War
+Δ last played (since last): 2026-03-06 01:34:06Z → 2026-03-06 15:45:26Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 14:01:17
-Telemetry age             : 14:01:17
-Δ time (since last report): 00:00:21
+Time since last play      : 00:00:34
+Telemetry age             : 00:00:34
+Δ time (since last report): 00:10:37
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -936,7 +937,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-27 15:35:23Z → 2026-03-06 15:35:23Z
+Week window (UTC)         : 2026-02-27 15:46:00Z → 2026-03-06 15:46:00Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -947,22 +948,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 21:00
 Heatmap (24h)             :             ▃█       ▆▅ 
-Heatmap (7d)              :             ▄▆      ▃█▄ 
+Heatmap (7d)              :             ▅▆      ▂█▄ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:31:49
+Sessions (24h)            : 3
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:49:00
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(31) | metal(27) | heavy metal(22) | thrash metal(19) | doom metal(5) | sludge metal(5)
-Top genres (7d)           : groove metal(34) | metal(30) | heavy metal(25) | thrash metal(22) | downtempo(10) | trip hop(10)
+Top genres (24h)          : groove metal(30) | metal(26) | heavy metal(21) | thrash metal(18) | doom metal(5) | sludge metal(5)
+Top genres (7d)           : groove metal(35) | metal(31) | heavy metal(26) | thrash metal(23) | downtempo(8) | trip hop(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-06 15:35:23Z
+Report generated (UTC)    : 2026-03-06 15:46:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
