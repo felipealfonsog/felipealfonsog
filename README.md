@@ -895,49 +895,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Pantera — Walk
-Last played               : Pantera — A New Level
-Last played (UTC)         : 2026-03-06 17:06:09Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Pantera — Walk
+Last played (UTC)         : 2026-03-06 17:11:24Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Mouth for War → Pantera — A New Level
-Δ last played (since last): 2026-03-06 16:55:36Z → 2026-03-06 17:06:09Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Pantera — A New Level → Pantera — Walk
+Δ last played (since last): 2026-03-06 17:06:09Z → 2026-03-06 17:11:24Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:24
-Telemetry age             : 00:02:24
-Δ time (since last report): 00:04:32
+Time since last play      : 01:23:10
+Telemetry age             : 01:23:10
+Δ time (since last report): 01:26:01
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
+Tracks played (last 24h)  : 23
 Dominant artist           : Pantera
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-27 17:08:33Z → 2026-03-06 17:08:33Z
+Week window (UTC)         : 2026-02-27 18:34:33Z → 2026-03-06 18:34:33Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -947,23 +946,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 21:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :             ▃▂▁      █▆ 
-Heatmap (7d)              :             ▆▇       █▄ 
+Heatmap (24h)             :             ▃▂▂      █▆ 
+Heatmap (7d)              :             ▆▇▁      █▄ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:50:15
+Avg inter-play gap (7d)   : 00:50:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(21) | metal(19) | heavy metal(17) | thrash metal(16) | doom metal(2) | sludge metal(2)
-Top genres (7d)           : groove metal(39) | metal(35) | heavy metal(30) | thrash metal(27) | doom metal(5) | sludge metal(5)
+Top genres (24h)          : groove metal(22) | metal(20) | heavy metal(18) | thrash metal(17) | doom metal(2) | sludge metal(2)
+Top genres (7d)           : groove metal(40) | metal(36) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-06 17:08:33Z
+Report generated (UTC)    : 2026-03-06 18:34:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
