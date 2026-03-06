@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-06 01:31:22Z",
-  "status": "PLAYING",
-  "last_track": "Damageplan — Crawl",
-  "last_played_utc": "2026-03-06 01:30:55Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-03-06 04:04:30Z",
+  "status": "IDLE",
+  "last_track": "Dimebag Darrell — Twisted",
+  "last_played_utc": "2026-03-06 01:34:06Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -432,6 +432,9 @@
       "groove metal",
       "metal",
       "heavy metal"
+    ],
+    "7ozkOJRZcDU9B3DlmZKS9s": [
+      "groove metal"
     ]
   }
 }
