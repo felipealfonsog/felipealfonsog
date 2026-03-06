@@ -907,18 +907,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Mouth for War
+Now playing               : Pantera — A New Level
 Last played               : Pantera — Mouth for War
 Last played (UTC)         : 2026-03-06 16:55:36Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — A New Level → Pantera — Mouth for War
-Δ last played (since last): 2026-03-06 15:49:22Z → 2026-03-06 16:55:36Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:48
-Telemetry age             : 00:04:48
-Δ time (since last report): 00:09:01
+Time since last play      : 00:08:25
+Telemetry age             : 00:08:25
+Δ time (since last report): 00:03:37
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -937,7 +937,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-27 17:00:24Z → 2026-03-06 17:00:24Z
+Week window (UTC)         : 2026-02-27 17:04:01Z → 2026-03-06 17:04:01Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -963,7 +963,7 @@ Top genres (24h)          : groove metal(20) | metal(18) | heavy metal(16) | thr
 Top genres (7d)           : groove metal(38) | metal(34) | heavy metal(29) | thrash metal(26) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-06 17:00:24Z
+Report generated (UTC)    : 2026-03-06 17:04:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
