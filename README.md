@@ -908,17 +908,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : Pantera — Mouth for War
-Last played               : Pantera — A New Level
-Last played (UTC)         : 2026-03-06 15:49:22Z
+Last played               : Pantera — Mouth for War
+Last played (UTC)         : 2026-03-06 16:55:36Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Mouth for War → Pantera — A New Level
-Δ last played (since last): 2026-03-06 15:45:26Z → 2026-03-06 15:49:22Z
+Δ track (since last)      : Pantera — A New Level → Pantera — Mouth for War
+Δ last played (since last): 2026-03-06 15:49:22Z → 2026-03-06 16:55:36Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:02:01
-Telemetry age             : 01:02:01
-Δ time (since last report): 01:05:23
+Time since last play      : 00:04:48
+Telemetry age             : 00:04:48
+Δ time (since last report): 00:09:01
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -930,14 +930,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
+Tracks played (last 24h)  : 21
 Dominant artist           : Pantera
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-27 16:51:23Z → 2026-03-06 16:51:23Z
+Week window (UTC)         : 2026-02-27 17:00:24Z → 2026-03-06 17:00:24Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -947,23 +947,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 21:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :             ▃        █▆ 
-Heatmap (7d)              :             ▆▆      ▂█▄ 
+Heatmap (24h)             :             ▃▂       █▆ 
+Heatmap (7d)              :             ▆▇       █▄ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:48:57
+Sessions (24h)            : 3
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 00:50:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(18) | metal(16) | heavy metal(14) | thrash metal(13) | doom metal(2) | sludge metal(2)
-Top genres (7d)           : groove metal(36) | metal(32) | heavy metal(27) | thrash metal(24) | downtempo(6) | trip hop(6)
+Top genres (24h)          : groove metal(20) | metal(18) | heavy metal(16) | thrash metal(15) | doom metal(2) | sludge metal(2)
+Top genres (7d)           : groove metal(38) | metal(34) | heavy metal(29) | thrash metal(26) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-06 16:51:23Z
+Report generated (UTC)    : 2026-03-06 17:00:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
