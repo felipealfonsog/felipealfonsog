@@ -1,0 +1,64 @@
+import urllib.request
+import urllib.error
+from pathlib import Path
+
+ENDPOINT = "https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true"
+
+BLANK = "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/blank.svg"
+
+README = Path("README.md")
+
+LIVE_MD = f"[![spotify-live]({ENDPOINT})](https://open.spotify.com/user/12133266428)"
+BLANK_MD = f"[![spotify-live]({BLANK})](https://open.spotify.com/user/12133266428)"
+
+
+def endpoint_alive():
+    try:
+        req = urllib.request.Request(
+            ENDPOINT,
+            headers={"User-Agent": "spotify-healthcheck"}
+        )
+
+        with urllib.request.urlopen(req, timeout=6) as r:
+            if r.status != 200:
+                return False
+
+            ctype = r.headers.get("Content-Type", "")
+            data = r.read(300).decode("utf-8", "ignore")
+
+            if "svg" not in ctype.lower():
+                return False
+
+            if "<svg" not in data:
+                return False
+
+            return True
+
+    except Exception:
+        return False
+
+
+def main():
+    text = README.read_text()
+
+    alive = endpoint_alive()
+
+    if alive:
+        print("Endpoint OK")
+
+        if BLANK in text:
+            print("Restoring live widget")
+            text = text.replace(BLANK, ENDPOINT)
+            README.write_text(text)
+
+    else:
+        print("Endpoint DOWN")
+
+        if ENDPOINT in text:
+            print("Switching to blank.svg")
+            text = text.replace(ENDPOINT, BLANK)
+            README.write_text(text)
+
+
+if __name__ == "__main__":
+    main()
