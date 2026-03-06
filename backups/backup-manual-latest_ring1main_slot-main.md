@@ -348,7 +348,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-05 21:36:20Z
+DSN snapshot (UTC)       : 2026-03-06 00:55:26Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -360,14 +360,14 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.42e9 km | 169.906 AU
-Heliocentric distance    : 169.878 AU
-Relative speed           : 19.162 km/s
+Heliocentric distance    : 169.880 AU
+Relative speed           : 19.155 km/s
 ------------------------------------------------------------
 One-way light time       : 23:33:04
-Round-trip latency       : 47:06:08
+Round-trip latency       : 47:06:07
 ------------------------------------------------------------
-Δ distance (since last)  : -73,615 km
-Mission age              : 48 years, 193 days
+Δ distance (since last)  : -91,013 km
+Mission age              : 48 years, 194 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -379,18 +379,18 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.35e9 km | 142.725 AU
-Heliocentric distance    : 142.269 AU
-Relative speed           : 25.764 km/s
+Heliocentric distance    : 142.270 AU
+Relative speed           : 25.745 km/s
 ------------------------------------------------------------
 One-way light time       : 19:47:01
 Round-trip latency       : 39:34:01
 ------------------------------------------------------------
-Δ distance (since last)  : -36,489 km
-Mission age              : 48 years, 209 days
+Δ distance (since last)  : -45,457 km
+Mission age              : 48 years, 210 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-05 21:36:25Z
+Report generated (UTC)   : 2026-03-06 00:55:30Z
 ```
 
 <!-- VOYAGER:END -->
@@ -837,8 +837,29 @@ _)      \.___.,|     .'
 
 <!-- LIVE CARD (updates automatically) -->
 
+<!-- ok -->
+<!-- 
+[![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
+-->
+
 [![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 
+[![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
+
+<!-- 
+<a href="https://open.spotify.com/user/12133266428">
+<picture>
+  <source srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" type="image/svg+xml">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true">
+</picture>
+</a>
+
+#
+
+[![spotify](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify-live.svg)](https://open.spotify.com/user/12133266428)
+
+#
+--> 
 
 <!-- FALLBACK (last known good state, static) -->
 <!--
@@ -874,74 +895,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : DOWN — Losing All
-Last played (UTC)         : 2026-03-05 16:50:09Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Pantera — Live in a Hole
+Last played               : Pantera — No Good (Attack the Radical)
+Last played (UTC)         : 2026-03-06 00:49:11Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:44:57
-Telemetry age             : 04:44:57
-Δ time (since last report): 00:00:23
+Time since last play      : 00:02:44
+Telemetry age             : 00:02:44
+Δ time (since last report): 00:01:28
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
-Dominant artist           : Alice In Chains
+Tracks played (last 24h)  : 28
+Dominant artist           : Pantera
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 21:35:06Z → 2026-03-05 21:35:06Z
+Week window (UTC)         : 2026-02-27 00:51:55Z → 2026-03-06 00:51:55Z
 Total tracks played       : 50
-Dominant artist           : Alice In Chains
+Dominant artist           : Pantera
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
-Peak hour (7d)            : 13:00
-Heatmap (24h)             :             ▅█     ▇█▅▁ 
-Heatmap (7d)              :             ▅█     ▇█▅▁ 
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :             ▅█       ▅▁ 
+Heatmap (7d)              :             ▅▇     ▂▇█▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:22:47
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 00:31:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
-Top genres (7d)           : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
+Top genres (24h)          : groove metal(25) | metal(23) | heavy metal(20) | thrash metal(18) | doom metal(3) | sludge metal(3)
+Top genres (7d)           : groove metal(25) | metal(23) | heavy metal(20) | thrash metal(18) | grunge(11) | post-grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 21:35:06Z
+Report generated (UTC)    : 2026-03-06 00:51:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1348,7 +1370,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 05/03/2026 22:13:01 UTC
+Last updated     : 06/03/2026 00:50:05 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1410,22 +1432,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Francesco601">
         <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
