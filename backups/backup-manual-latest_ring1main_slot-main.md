@@ -71,7 +71,7 @@ Throughout my life, I have lived, worked, and studied internationally — includ
 
 Integrity, transparency, and coherence shape both my work and my personal journey. I act with purpose—where values meet impact—and I seek truth in the silence that moves us forward.
 
-If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
+If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀ ✡︎
 
 <!-- 
 https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
@@ -348,7 +348,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-04 21:36:14Z
+DSN snapshot (UTC)       : 2026-03-05 21:36:20Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -359,15 +359,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.911 AU
-Heliocentric distance    : 169.869 AU
-Relative speed           : 19.217 km/s
+Earth distance           : 25.42e9 km | 169.906 AU
+Heliocentric distance    : 169.878 AU
+Relative speed           : 19.162 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:06
-Round-trip latency       : 47:06:12
+One-way light time       : 23:33:04
+Round-trip latency       : 47:06:08
 ------------------------------------------------------------
-Δ distance (since last)  : -163,683 km
-Mission age              : 48 years, 192 days
+Δ distance (since last)  : -73,615 km
+Mission age              : 48 years, 193 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -378,19 +378,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.728 AU
-Heliocentric distance    : 142.260 AU
-Relative speed           : 25.903 km/s
+Earth distance           : 21.35e9 km | 142.725 AU
+Heliocentric distance    : 142.269 AU
+Relative speed           : 25.764 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:02
-Round-trip latency       : 39:34:03
+One-way light time       : 19:47:01
+Round-trip latency       : 39:34:01
 ------------------------------------------------------------
-Δ distance (since last)  : -75,803 km
-Mission age              : 48 years, 208 days
+Δ distance (since last)  : -36,489 km
+Mission age              : 48 years, 209 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-04 21:36:17Z
+Report generated (UTC)   : 2026-03-05 21:36:25Z
 ```
 
 <!-- VOYAGER:END -->
@@ -874,35 +874,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Portishead — Only You
-Last played               : DJ Shadow — Midnight In A Perfect World
-Last played (UTC)         : 2026-03-04 23:59:21Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : DOWN — Losing All
+Last played (UTC)         : 2026-03-05 16:50:09Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:59
-Telemetry age             : 00:01:59
-Δ time (since last report): 00:01:21
+Time since last play      : 04:44:57
+Telemetry age             : 04:44:57
+Δ time (since last report): 00:00:23
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -916,7 +915,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-26 00:01:20Z → 2026-03-05 00:01:20Z
+Week window (UTC)         : 2026-02-26 21:35:06Z → 2026-03-05 21:35:06Z
 Total tracks played       : 50
 Dominant artist           : Alice In Chains
 Cadence classification    : HIGH
@@ -924,25 +923,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
-Peak hour (7d)            : 18:00
-Heatmap (24h)             :              ▅   ▃█▇▇   
-Heatmap (7d)              :              ▅   ▃█▇▇   
+Peak hour (24h)           : 13:00
+Peak hour (7d)            : 13:00
+Heatmap (24h)             :             ▅█     ▇█▅▁ 
+Heatmap (7d)              :             ▅█     ▇█▅▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:09:29
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:22:47
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
-Top genres (7d)           : grunge(37) | post-grunge(36) | downtempo(8) | trip hop(8) | alternative metal(6) | alternative rock(6)
+Top genres (24h)          : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
+Top genres (7d)           : groove metal(18) | grunge(18) | post-grunge(18) | metal(16) | heavy metal(13) | thrash metal(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-05 00:01:20Z
+Report generated (UTC)    : 2026-03-05 21:35:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1297,9 +1296,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 04 March 2026
+From: 04 December 2023 - To: 05 March 2026
 
-Total Time       : 994 hrs 52 mins
+Total Time       : 995 hrs 18 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1308,48 +1307,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          179 hrs 20 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.03 %
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.58 %
+Other          189 hrs 9 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  19.01 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.57 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.95 %
-HTML           128 hrs 19 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
+HTML           128 hrs 25 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.93 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.07 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.41 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.40 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.02 %
 Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.44 %
-Mac            572 hrs 55 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.59 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.41 %
+Mac            583 hrs 11 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.59 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.70 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.76 %
-Firefox        166 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.69 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.67 %
+Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.74 %
+Firefox        171 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.28 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Terminal       5 hrs 51 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
-FileZilla      4 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.43 %
-TextMate       1 hr 2 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
-Acrobat        1 hr 1 min     ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.10 %
+Terminal       5 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
+FileZilla      4 hrs 28 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.45 %
+Spotify        3 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.33 %
+Antigravity    1 hr 14 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.12 %
+TextMate       1 hr 6 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
+Acrobat        1 hr 5 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
 Notes          47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
-Antigravity    46 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-‎WhatsApp      18 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 
 CATEGORIES
 ----------
-Coding         1,005 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       163 hrs 23 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.42 %
-Meeting        3 hrs 8 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.32 %
+Coding         1,009 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       169 hrs 18 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.01 %
+Meeting        3 hrs 26 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 04/03/2026 22:13:35 UTC
+Last updated     : 05/03/2026 22:13:01 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1411,22 +1410,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
