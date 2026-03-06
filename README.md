@@ -911,13 +911,13 @@ Last played               : Dimebag Darrell — Twisted
 Last played (UTC)         : 2026-03-06 01:34:06Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Damageplan — Crawl → Dimebag Darrell — Twisted
-Δ last played (since last): 2026-03-06 01:30:55Z → 2026-03-06 01:34:06Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:30:24
-Telemetry age             : 02:30:24
-Δ time (since last report): 02:33:08
+Time since last play      : 02:31:16
+Telemetry age             : 02:31:16
+Δ time (since last report): 00:00:52
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -936,7 +936,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-27 04:04:30Z → 2026-03-06 04:04:30Z
+Week window (UTC)         : 2026-02-27 04:05:21Z → 2026-03-06 04:05:21Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -960,9 +960,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : groove metal(34) | metal(30) | heavy metal(25) | thrash metal(22) | doom metal(5) | sludge metal(5)
 Top genres (7d)           : groove metal(34) | metal(30) | heavy metal(25) | thrash metal(22) | downtempo(10) | trip hop(10)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-06 04:04:30Z
+Report generated (UTC)    : 2026-03-06 04:05:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
