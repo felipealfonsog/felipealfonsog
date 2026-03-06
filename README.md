@@ -850,7 +850,11 @@ _)      \.___.,|     .'
 </picture>
 </a>
 
+#
 
+[![spotify](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/spotify-live.svg)](https://open.spotify.com/user/12133266428)
+
+#
 
 <!-- FALLBACK (last known good state, static) -->
 <!--
