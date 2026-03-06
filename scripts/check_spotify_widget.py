@@ -1,5 +1,6 @@
 import urllib.request
 import urllib.error
+import time
 from pathlib import Path
 
 ENDPOINT = "https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true"
@@ -11,8 +12,11 @@ README = Path("README.md")
 LIVE_MD = f"[![spotify-live]({ENDPOINT})](https://open.spotify.com/user/12133266428)"
 BLANK_MD = f"[![spotify-live]({BLANK})](https://open.spotify.com/user/12133266428)"
 
+RETRIES = 3
+WAIT_SECONDS = 2
 
-def endpoint_alive():
+
+def check_once():
     try:
         req = urllib.request.Request(
             ENDPOINT,
@@ -20,6 +24,7 @@ def endpoint_alive():
         )
 
         with urllib.request.urlopen(req, timeout=6) as r:
+
             if r.status != 200:
                 return False
 
@@ -38,12 +43,26 @@ def endpoint_alive():
         return False
 
 
-def main():
-    text = README.read_text()
+def endpoint_alive():
 
+    for i in range(RETRIES):
+
+        if check_once():
+            return True
+
+        if i < RETRIES - 1:
+            time.sleep(WAIT_SECONDS)
+
+    return False
+
+
+def main():
+
+    text = README.read_text()
     alive = endpoint_alive()
 
     if alive:
+
         print("Endpoint OK")
 
         if BLANK in text:
@@ -52,6 +71,7 @@ def main():
             README.write_text(text)
 
     else:
+
         print("Endpoint DOWN")
 
         if ENDPOINT in text:
