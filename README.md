@@ -907,18 +907,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — A New Level
-Last played               : Pantera — Mouth for War
-Last played (UTC)         : 2026-03-06 15:45:26Z
+Now playing               : Pantera — Mouth for War
+Last played               : Pantera — A New Level
+Last played (UTC)         : 2026-03-06 15:49:22Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Dimebag Darrell — Twisted → Pantera — Mouth for War
-Δ last played (since last): 2026-03-06 01:34:06Z → 2026-03-06 15:45:26Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Pantera — Mouth for War → Pantera — A New Level
+Δ last played (since last): 2026-03-06 15:45:26Z → 2026-03-06 15:49:22Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:34
-Telemetry age             : 00:00:34
-Δ time (since last report): 00:10:37
+Time since last play      : 01:02:01
+Telemetry age             : 01:02:01
+Δ time (since last report): 01:05:23
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -930,14 +930,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 33
+Tracks played (last 24h)  : 19
 Dominant artist           : Pantera
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-27 15:46:00Z → 2026-03-06 15:46:00Z
+Week window (UTC)         : 2026-02-27 16:51:23Z → 2026-03-06 16:51:23Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -945,25 +945,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 13:00
+Peak hour (24h)           : 21:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :             ▃█       ▆▅ 
-Heatmap (7d)              :             ▅▆      ▂█▄ 
+Heatmap (24h)             :             ▃        █▆ 
+Heatmap (7d)              :             ▆▆      ▂█▄ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:49:00
+Avg inter-play gap (7d)   : 00:48:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(30) | metal(26) | heavy metal(21) | thrash metal(18) | doom metal(5) | sludge metal(5)
-Top genres (7d)           : groove metal(35) | metal(31) | heavy metal(26) | thrash metal(23) | downtempo(8) | trip hop(8)
+Top genres (24h)          : groove metal(18) | metal(16) | heavy metal(14) | thrash metal(13) | doom metal(2) | sludge metal(2)
+Top genres (7d)           : groove metal(36) | metal(32) | heavy metal(27) | thrash metal(24) | downtempo(6) | trip hop(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-06 15:46:00Z
+Report generated (UTC)    : 2026-03-06 16:51:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
