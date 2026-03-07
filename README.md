@@ -922,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Helmet — I Know
-Last played               : Incubus — Love Hurts
-Last played (UTC)         : 2026-03-07 16:33:15Z
+Now playing               : Helmet — Tic
+Last played               : Helmet — I Know
+Last played (UTC)         : 2026-03-07 16:38:13Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — A New Level → Incubus — Love Hurts
-Δ last played (since last): 2026-03-07 16:10:48Z → 2026-03-07 16:33:15Z
+Δ track (since last)      : Incubus — Love Hurts → Helmet — I Know
+Δ last played (since last): 2026-03-07 16:33:15Z → 2026-03-07 16:38:13Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:41
-Telemetry age             : 00:02:41
-Δ time (since last report): 00:18:46
+Time since last play      : 00:04:01
+Telemetry age             : 00:04:01
+Δ time (since last report): 00:06:19
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -945,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 48
+Tracks played (last 24h)  : 49
 Dominant artist           : Pantera
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 16:35:55Z → 2026-03-07 16:35:55Z
+Week window (UTC)         : 2026-02-28 16:42:13Z → 2026-03-07 16:42:13Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -962,23 +962,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 11:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :         ▇▆▄█▆▆▂         
-Heatmap (7d)              :         ▇▆▄█▇▆▂         
+Heatmap (24h)             :         ▇▆▄█▆▇▂         
+Heatmap (7d)              :         ▇▆▄█▆▇▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:30:22
+Avg inter-play gap (7d)   : 00:30:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(44) | metal(44) | heavy metal(27) | thrash metal(27) | alternative metal(4) | alternative rock(4)
-Top genres (7d)           : groove metal(46) | metal(46) | heavy metal(29) | thrash metal(29) | alternative metal(4) | alternative rock(4)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : groove metal(45) | metal(44) | heavy metal(27) | thrash metal(27) | alternative metal(5) | alternative rock(4)
+Top genres (7d)           : groove metal(46) | metal(45) | heavy metal(28) | thrash metal(28) | alternative metal(5) | alternative rock(4)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 16:35:55Z
+Report generated (UTC)    : 2026-03-07 16:42:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
