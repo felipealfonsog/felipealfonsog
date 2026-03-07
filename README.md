@@ -922,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Fucking Hostile
-Last played               : Pantera — Walk
-Last played (UTC)         : 2026-03-07 15:16:19Z
+Now playing               : Pantera — This Love
+Last played               : Pantera — Fucking Hostile
+Last played (UTC)         : 2026-03-07 15:19:07Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Mouth for War → Pantera — Walk
-Δ last played (since last): 2026-03-07 15:07:06Z → 2026-03-07 15:16:19Z
+Δ track (since last)      : Pantera — Walk → Pantera — Fucking Hostile
+Δ last played (since last): 2026-03-07 15:16:19Z → 2026-03-07 15:19:07Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:29
-Telemetry age             : 00:02:29
-Δ time (since last report): 00:07:55
+Time since last play      : 00:05:35
+Telemetry age             : 00:05:35
+Δ time (since last report): 00:05:54
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -945,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 42
+Tracks played (last 24h)  : 43
 Dominant artist           : Pantera
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 15:18:48Z → 2026-03-07 15:18:48Z
+Week window (UTC)         : 2026-02-28 15:24:41Z → 2026-03-07 15:24:41Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -963,22 +963,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 11:00
 Peak hour (7d)            : 11:00
 Heatmap (24h)             :         ▇▆▄█▆▂▂         
-Heatmap (7d)              :         ▇▆▄█▆▂▂      ▁▆ 
+Heatmap (7d)              :         ▇▆▄█▆▂▂       ▆ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:46:52
+Avg inter-play gap (7d)   : 00:46:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(41) | metal(41) | heavy metal(24) | thrash metal(24) | grunge(1) | hard rock(1)
+Top genres (24h)          : groove metal(42) | metal(42) | heavy metal(25) | thrash metal(25) | grunge(1) | hard rock(1)
 Top genres (7d)           : groove metal(49) | metal(47) | heavy metal(28) | thrash metal(27) | doom metal(2) | sludge metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 15:18:48Z
+Report generated (UTC)    : 2026-03-07 15:24:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
