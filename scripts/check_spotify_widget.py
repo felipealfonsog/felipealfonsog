@@ -14,16 +14,15 @@ END = "<!-- SPOTIFY-WIDGET-END -->"
 RETRIES = 3
 WAIT_SECONDS = 2
 
-
 # ----------------------------------------------------
 # TOGGLE (para simular caída del endpoint) - True / False
 # ----------------------------------------------------
-FORCE_ENDPOINT_DOWN = True
+FORCE_ENDPOINT_DOWN = False
 # ----------------------------------------------------
 
-
 LIVE_WIDGET = f"[![spotify-live]({ENDPOINT})](https://open.spotify.com/user/12133266428)"
-BLANK_WIDGET = f"![spotify-live]({BLANK})"
+
+BLANK_WIDGET = f'<img src="{BLANK}" width="0" height="0">'
 
 
 def check_once():
@@ -75,7 +74,7 @@ def replace_widget(content, widget):
     start = content.index(START) + len(START)
     end = content.index(END)
 
-    return content[:start] + "\n\n" + widget + "\n\n" + content[end:]
+    return content[:start] + "\n" + widget + "\n" + content[end:]
 
 
 def main():
