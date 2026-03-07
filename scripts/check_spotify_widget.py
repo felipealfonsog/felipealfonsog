@@ -1,5 +1,4 @@
 import urllib.request
-import urllib.error
 import time
 from pathlib import Path
 
@@ -9,11 +8,16 @@ BLANK = "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/
 
 README = Path("README.md")
 
-LIVE_MD = f"[![spotify-live]({ENDPOINT})](https://open.spotify.com/user/12133266428)"
-BLANK_MD = f"[![spotify-live]({BLANK})](https://open.spotify.com/user/12133266428)"
-
 RETRIES = 3
 WAIT_SECONDS = 2
+
+
+# ----------------------------------------------------
+# TOGGLE (para simular caída del endpoint)
+# Cambia a True si quieres probar el fallback
+# ----------------------------------------------------
+FORCE_ENDPOINT_DOWN = False
+# ----------------------------------------------------
 
 
 def check_once():
@@ -44,6 +48,11 @@ def check_once():
 
 
 def endpoint_alive():
+
+    # Toggle manual
+    if FORCE_ENDPOINT_DOWN:
+        print("TOGGLE ACTIVE → Simulating endpoint failure")
+        return False
 
     for i in range(RETRIES):
 
