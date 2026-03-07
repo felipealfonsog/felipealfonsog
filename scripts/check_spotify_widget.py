@@ -16,9 +16,9 @@ WAIT_SECONDS = 2
 
 
 # ----------------------------------------------------
-# TOGGLE (para simular caída del endpoint)
+# TOGGLE (para simular caída del endpoint) - True / False
 # ----------------------------------------------------
-FORCE_ENDPOINT_DOWN = False
+FORCE_ENDPOINT_DOWN = True
 # ----------------------------------------------------
 
 
