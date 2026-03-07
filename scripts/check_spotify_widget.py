@@ -17,7 +17,7 @@ WAIT_SECONDS = 2
 # ----------------------------------------------------
 # TOGGLE (para simular caída del endpoint) - True / False
 # ----------------------------------------------------
-FORCE_ENDPOINT_DOWN = True
+FORCE_ENDPOINT_DOWN = False
 # ----------------------------------------------------
 
 LIVE_WIDGET = f"[![spotify-live]({ENDPOINT})](https://open.spotify.com/user/12133266428)"
