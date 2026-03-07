@@ -922,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Damageplan — Blunt Force Trauma
-Last played               : Damageplan — Blink of an Eye
-Last played (UTC)         : 2026-03-07 11:56:08Z
+Now playing               : Damageplan — Moment of Truth
+Last played               : Damageplan — Blunt Force Trauma
+Last played (UTC)         : 2026-03-07 12:01:05Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Damageplan — Blink of an Eye → Damageplan — Blunt Force Trauma
+Δ last played (since last): 2026-03-07 11:56:08Z → 2026-03-07 12:01:05Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:08
-Telemetry age             : 00:04:08
-Δ time (since last report): 00:02:04
+Time since last play      : 00:00:20
+Telemetry age             : 00:00:20
+Δ time (since last report): 00:01:09
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -945,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
+Tracks played (last 24h)  : 17
 Dominant artist           : Damageplan
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 12:00:16Z → 2026-03-07 12:00:16Z
+Week window (UTC)         : 2026-02-28 12:01:25Z → 2026-03-07 12:01:25Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -962,8 +962,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :         █   ▃▂▂         
-Heatmap (7d)              :         ▅   ▅█▁      ▅▄ 
+Heatmap (24h)             :         █▁  ▃▂▂         
+Heatmap (7d)              :         ▅▁  ▅█▁      ▅▄ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -974,11 +974,11 @@ Avg inter-play gap (7d)   : 00:54:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(15) | metal(15) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
-Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(29) | thrash metal(26) | doom metal(5) | sludge metal(5)
+Top genres (24h)          : groove metal(16) | metal(16) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
+Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(28) | thrash metal(25) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 12:00:16Z
+Report generated (UTC)    : 2026-03-07 12:01:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
