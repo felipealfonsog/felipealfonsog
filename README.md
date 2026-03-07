@@ -853,6 +853,7 @@ _)      \.___.,|     .'
 
 <sub>Live Spotify widget rendered via an endpoint powered by the open-source project <a href="https://github.com/kittinan/spotify-github-profile">Spotify GitHub Profile</a>. If the widget appears blank or does not render, it likely corresponds to an endpoint error from that project, even if the watchdog action reports a passing status.</sub>
 
+<br>
 
 <!-- 
 <a href="https://open.spotify.com/user/12133266428">
