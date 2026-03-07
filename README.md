@@ -1014,6 +1014,8 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 </details>
 
+<br>
+
 [![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Stats](https://img.shields.io/badge/Spotify-Profile-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/user/12133266428)
 
 #
