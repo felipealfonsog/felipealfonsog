@@ -919,17 +919,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : Damageplan — Explode
-Last played               : Damageplan — Fuck You
-Last played (UTC)         : 2026-03-07 11:30:33Z
+Last played               : Damageplan — Reborn
+Last played (UTC)         : 2026-03-07 11:34:35Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Damageplan — Pride → Damageplan — Fuck You
-Δ last played (since last): 2026-03-07 11:27:24Z → 2026-03-07 11:30:33Z
+Δ track (since last)      : Damageplan — Fuck You → Damageplan — Reborn
+Δ last played (since last): 2026-03-07 11:30:33Z → 2026-03-07 11:34:35Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:01
-Telemetry age             : 00:04:01
-Δ time (since last report): 00:04:06
+Time since last play      : 00:02:28
+Telemetry age             : 00:02:28
+Δ time (since last report): 00:02:30
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -941,14 +941,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
+Tracks played (last 24h)  : 11
 Dominant artist           : Pantera
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 11:34:33Z → 2026-03-07 11:34:33Z
+Week window (UTC)         : 2026-02-28 11:37:02Z → 2026-03-07 11:37:02Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -958,8 +958,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :         █   █▅▅         
-Heatmap (7d)              :         ▂   ▆█▁      ▇▅ 
+Heatmap (24h)             :         █   ▆▄▄         
+Heatmap (7d)              :         ▂   ▆█▁      ▆▅ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -970,11 +970,11 @@ Avg inter-play gap (7d)   : 01:12:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(9) | metal(9) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
-Top genres (7d)           : groove metal(43) | metal(39) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
+Top genres (24h)          : groove metal(10) | metal(10) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
+Top genres (7d)           : groove metal(44) | metal(40) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 11:34:33Z
+Report generated (UTC)    : 2026-03-07 11:37:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
