@@ -919,13 +919,13 @@ Last played               : Damageplan — New Found Power
 Last played (UTC)         : 2026-03-07 11:23:07Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Walk → Damageplan — New Found Power
-Δ last played (since last): 2026-03-06 17:11:24Z → 2026-03-07 11:23:07Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:21
-Telemetry age             : 00:00:21
-Δ time (since last report): 01:48:04
+Time since last play      : 00:01:20
+Telemetry age             : 00:01:20
+Δ time (since last report): 00:00:59
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -944,7 +944,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 11:23:28Z → 2026-03-07 11:23:28Z
+Week window (UTC)         : 2026-02-28 11:24:26Z → 2026-03-07 11:24:26Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -970,7 +970,7 @@ Top genres (24h)          : groove metal(7) | metal(7) | heavy metal(6) | thrash
 Top genres (7d)           : groove metal(41) | metal(37) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 11:23:28Z
+Report generated (UTC)    : 2026-03-07 11:24:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
