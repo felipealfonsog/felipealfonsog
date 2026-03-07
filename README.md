@@ -910,35 +910,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Pantera — Rise
+Now playing               : N/A
 Last played               : Pantera — This Love
 Last played (UTC)         : 2026-03-07 15:25:41Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Fucking Hostile → Pantera — This Love
-Δ last played (since last): 2026-03-07 15:19:07Z → 2026-03-07 15:25:41Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:19
-Telemetry age             : 00:00:19
-Δ time (since last report): 00:01:19
+Time since last play      : 00:06:27
+Telemetry age             : 00:06:27
+Δ time (since last report): 00:06:08
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -952,7 +951,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 15:26:00Z → 2026-03-07 15:26:00Z
+Week window (UTC)         : 2026-02-28 15:32:08Z → 2026-03-07 15:32:08Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -978,7 +977,7 @@ Top genres (24h)          : groove metal(43) | metal(43) | heavy metal(26) | thr
 Top genres (7d)           : groove metal(49) | metal(47) | heavy metal(28) | thrash metal(27) | doom metal(2) | sludge metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 15:26:00Z
+Report generated (UTC)    : 2026-03-07 15:32:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

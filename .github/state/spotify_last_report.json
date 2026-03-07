@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-07 15:26:00Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-03-07 15:32:08Z",
+  "status": "IDLE",
   "last_track": "Pantera — This Love",
   "last_played_utc": "2026-03-07 15:25:41Z",
-  "sitrep": "GREEN",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
