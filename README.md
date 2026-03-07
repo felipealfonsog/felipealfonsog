@@ -1007,12 +1007,8 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 <sub>Custom Spotify telemetry engineered by the repository author, built on the Spotify Developer API and automated through GitHub Actions to render live playback data within the GitHub profile environment.</sub>
 
-What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
-Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.
-
-
-
-</sub>
+<sub>What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.</sub>
+<sub>Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.</sub>
 
 
 
