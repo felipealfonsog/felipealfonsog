@@ -927,13 +927,13 @@ Last played               : Pantera — Fucking Hostile
 Last played (UTC)         : 2026-03-07 13:19:16Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Damageplan — Fuck You → Pantera — Fucking Hostile
-Δ last played (since last): 2026-03-07 13:01:55Z → 2026-03-07 13:19:16Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:51:39
-Telemetry age             : 00:51:39
-Δ time (since last report): 01:04:50
+Time since last play      : 00:51:53
+Telemetry age             : 00:51:53
+Δ time (since last report): 00:00:15
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -952,7 +952,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 14:10:54Z → 2026-03-07 14:10:54Z
+Week window (UTC)         : 2026-02-28 14:11:08Z → 2026-03-07 14:11:08Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -978,7 +978,7 @@ Top genres (24h)          : groove metal(27) | metal(27) | heavy metal(10) | thr
 Top genres (7d)           : groove metal(48) | metal(45) | heavy metal(24) | thrash metal(22) | doom metal(4) | sludge metal(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 14:10:54Z
+Report generated (UTC)    : 2026-03-07 14:11:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
