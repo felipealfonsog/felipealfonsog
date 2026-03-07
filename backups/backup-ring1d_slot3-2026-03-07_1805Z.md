@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-06_1811Z
+ snapshot_utc : 2026-03-07_1805Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -164,6 +164,10 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 
+<sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+
+#
 
 <!--
 [<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
@@ -355,7 +359,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-06 15:36:35Z
+DSN snapshot (UTC)       : 2026-03-07 15:33:14Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -366,15 +370,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.903 AU
-Heliocentric distance    : 169.886 AU
-Relative speed           : 19.125 km/s
+Earth distance           : 25.42e9 km | 169.898 AU
+Heliocentric distance    : 169.895 AU
+Relative speed           : 19.081 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:02
-Round-trip latency       : 47:06:05
+One-way light time       : 23:33:00
+Round-trip latency       : 47:06:00
 ------------------------------------------------------------
-Δ distance (since last)  : -81,955 km
-Mission age              : 48 years, 194 days
+Δ distance (since last)  : -246,090 km
+Mission age              : 48 years, 195 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -385,19 +389,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.724 AU
-Heliocentric distance    : 142.275 AU
-Relative speed           : 25.661 km/s
+Earth distance           : 21.35e9 km | 142.721 AU
+Heliocentric distance    : 142.284 AU
+Relative speed           : 25.525 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:00
-Round-trip latency       : 39:34:00
+One-way light time       : 19:46:59
+Round-trip latency       : 39:33:57
 ------------------------------------------------------------
-Δ distance (since last)  : -42,459 km
-Mission age              : 48 years, 210 days
+Δ distance (since last)  : -133,915 km
+Mission age              : 48 years, 211 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-06 15:36:41Z
+Report generated (UTC)   : 2026-03-07 15:33:20Z
 ```
 
 <!-- VOYAGER:END -->
@@ -645,7 +649,7 @@ Radioactive-Defcon-2.svg
 
 
 <!-- IDEAL AND CAUSES -->
-
+<!-- 
 <details>
   <summary>🎗️🤝📚 Supporting Meaningful Causes, Ideas, and Philosophical Thought</summary>
   <br>
@@ -654,7 +658,7 @@ Radioactive-Defcon-2.svg
 
 
 </details>
-
+-->
 
 
 
@@ -833,6 +837,8 @@ _)      \.___.,|     .'
 ------- con actions v.1 ----
 -->
 
+#
+
 <details open>
 <summary id="spotify">
 <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a>
@@ -848,10 +854,19 @@ _)      \.___.,|     .'
 <!-- 
 [![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 -->
-
+<!--
 [![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
+-->
+
+<!-- SPOTIFY-WIDGET-START -->
+[![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
+<!-- SPOTIFY-WIDGET-END -->
 
 [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
+
+<sub>Live Spotify widget rendered via an endpoint powered by the open-source project <a href="https://github.com/kittinan/spotify-github-profile">Spotify GitHub Profile</a>. If the widget appears blank or does not render, it likely corresponds to an endpoint error from that project, even if the watchdog action reports a passing status.</sub>
+
+<br>
 
 <!-- 
 <a href="https://open.spotify.com/user/12133266428">
@@ -914,18 +929,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Walk
-Last played               : Pantera — A New Level
-Last played (UTC)         : 2026-03-06 17:06:09Z
+Now playing               : Helmet — Tic
+Last played               : Helmet — I Know
+Last played (UTC)         : 2026-03-07 16:51:31Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Mouth for War → Pantera — A New Level
-Δ last played (since last): 2026-03-06 16:55:36Z → 2026-03-06 17:06:09Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:24
-Telemetry age             : 00:02:24
-Δ time (since last report): 00:04:32
+Time since last play      : 00:03:53
+Telemetry age             : 00:03:53
+Δ time (since last report): 00:01:40
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -937,14 +952,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
+Tracks played (last 24h)  : 50
 Dominant artist           : Pantera
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-27 17:08:33Z → 2026-03-06 17:08:33Z
+Week window (UTC)         : 2026-02-28 16:55:23Z → 2026-03-07 16:55:23Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -952,25 +967,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 21:00
-Peak hour (7d)            : 21:00
-Heatmap (24h)             :             ▃▂▁      █▆ 
-Heatmap (7d)              :             ▆▇       █▄ 
+Peak hour (24h)           : 11:00
+Peak hour (7d)            : 11:00
+Heatmap (24h)             :         ▇▆▄█▆█▂         
+Heatmap (7d)              :         ▇▆▄█▆█▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:50:15
+Sessions (24h)            : 5
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:29:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(21) | metal(19) | heavy metal(17) | thrash metal(16) | doom metal(2) | sludge metal(2)
-Top genres (7d)           : groove metal(39) | metal(35) | heavy metal(30) | thrash metal(27) | doom metal(5) | sludge metal(5)
+Top genres (24h)          : groove metal(46) | metal(43) | heavy metal(26) | thrash metal(26) | alternative metal(7) | alternative rock(4)
+Top genres (7d)           : groove metal(46) | metal(43) | heavy metal(26) | thrash metal(26) | alternative metal(7) | alternative rock(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-06 17:08:33Z
+Report generated (UTC)    : 2026-03-07 16:55:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -987,8 +1002,7 @@ Data may contain discrepancies or inaccuracies due to limitations or transient i
 </sub>
 
 
-<sub>
-For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+<sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to the automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
 What is reflected as playing on Spotify in this repository is telemetry data obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
 Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform and related services.
@@ -996,23 +1010,22 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 
 -->
-   
-<sub>
-For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
-The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
-What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
-Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.
 
 
+<sub>Custom Spotify telemetry engineered by the repository author, built on the Spotify Developer API and automated through GitHub Actions to render live playback data within the GitHub profile environment.</sub>
 
-</sub>
+<sub>What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.</sub>
+<sub>Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.</sub>
 
 
 
 </details>
 
+<br>
+
 [![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Stats](https://img.shields.io/badge/Spotify-Profile-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/user/12133266428)
 
+#
 
 <!--
 ------- con actions v.2 - no working ----
@@ -1325,7 +1338,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 06 March 2026
+From: 04 December 2023 - To: 07 March 2026
 
 Total Time       : 995 hrs 54 mins
 Mostly coding in : Other
@@ -1377,7 +1390,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 06/03/2026 17:18:58 UTC
+Last updated     : 07/03/2026 17:09:03 UTC
 
 ```
 <!--END_SECTION:wakastats-->
