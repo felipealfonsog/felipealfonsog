@@ -922,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Walk
+Now playing               : Incubus — Love Hurts
 Last played               : Pantera — A New Level
 Last played (UTC)         : 2026-03-07 16:10:48Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — This Love → Pantera — A New Level
-Δ last played (since last): 2026-03-07 15:25:41Z → 2026-03-07 16:10:48Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:12
-Telemetry age             : 00:00:12
-Δ time (since last report): 00:38:39
+Time since last play      : 00:06:23
+Telemetry age             : 00:06:23
+Δ time (since last report): 00:06:11
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -952,7 +952,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 16:11:00Z → 2026-03-07 16:11:00Z
+Week window (UTC)         : 2026-02-28 16:17:10Z → 2026-03-07 16:17:10Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -978,7 +978,7 @@ Top genres (24h)          : groove metal(44) | metal(44) | heavy metal(27) | thr
 Top genres (7d)           : groove metal(49) | metal(48) | heavy metal(29) | thrash metal(29) | doom metal(1) | grunge(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 16:11:00Z
+Report generated (UTC)    : 2026-03-07 16:17:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
