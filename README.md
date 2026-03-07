@@ -826,6 +826,8 @@ _)      \.___.,|     .'
 ------- con actions v.1 ----
 -->
 
+#
+
 <details open>
 <summary id="spotify">
 <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a>
