@@ -851,6 +851,8 @@ _)      \.___.,|     .'
 
 [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
 
+<sub>Live Spotify widget rendered via an endpoint powered by the open-source project <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a>.</sub>
+
 <!-- 
 <a href="https://open.spotify.com/user/12133266428">
 <picture>
