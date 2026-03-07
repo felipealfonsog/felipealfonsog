@@ -927,13 +927,13 @@ Last played               : Damageplan — Blink of an Eye
 Last played (UTC)         : 2026-03-07 11:56:08Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Damageplan — Crawl → Damageplan — Blink of an Eye
-Δ last played (since last): 2026-03-07 11:51:49Z → 2026-03-07 11:56:08Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:05
-Telemetry age             : 00:02:05
-Δ time (since last report): 00:04:59
+Time since last play      : 00:04:08
+Telemetry age             : 00:04:08
+Δ time (since last report): 00:02:04
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -952,7 +952,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 11:58:12Z → 2026-03-07 11:58:12Z
+Week window (UTC)         : 2026-02-28 12:00:16Z → 2026-03-07 12:00:16Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -978,7 +978,7 @@ Top genres (24h)          : groove metal(15) | metal(15) | heavy metal(6) | thra
 Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(29) | thrash metal(26) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 11:58:12Z
+Report generated (UTC)    : 2026-03-07 12:00:16Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
