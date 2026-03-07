@@ -638,7 +638,7 @@ Radioactive-Defcon-2.svg
 
 
 <!-- IDEAL AND CAUSES -->
-
+<!-- 
 <details>
   <summary>🎗️🤝📚 Supporting Meaningful Causes, Ideas, and Philosophical Thought</summary>
   <br>
@@ -647,7 +647,7 @@ Radioactive-Defcon-2.svg
 
 
 </details>
-
+-->
 
 
 
