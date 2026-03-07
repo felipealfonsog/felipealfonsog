@@ -926,13 +926,13 @@ Last played               : Damageplan — Pride
 Last played (UTC)         : 2026-03-07 12:29:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Damageplan — Wake Up → Damageplan — Pride
-Δ last played (since last): 2026-03-07 12:17:35Z → 2026-03-07 12:29:07Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:08
-Telemetry age             : 00:05:08
-Δ time (since last report): 00:16:25
+Time since last play      : 00:06:20
+Telemetry age             : 00:06:20
+Δ time (since last report): 00:01:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -951,7 +951,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 12:34:15Z → 2026-03-07 12:34:15Z
+Week window (UTC)         : 2026-02-28 12:35:26Z → 2026-03-07 12:35:26Z
 Total tracks played       : 50
 Dominant artist           : Damageplan
 Cadence classification    : HIGH
@@ -977,7 +977,7 @@ Top genres (24h)          : groove metal(22) | metal(22) | heavy metal(6) | thra
 Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(22) | thrash metal(19) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 12:34:15Z
+Report generated (UTC)    : 2026-03-07 12:35:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
