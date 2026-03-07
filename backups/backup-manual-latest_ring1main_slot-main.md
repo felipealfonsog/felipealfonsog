@@ -157,6 +157,10 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 
+<sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+
+#
 
 <!--
 [<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
@@ -918,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Damageplan — Explode
-Last played               : Damageplan — Reborn
-Last played (UTC)         : 2026-03-07 11:34:35Z
+Now playing               : Damageplan — Crawl
+Last played               : Damageplan — Cold Blooded
+Last played (UTC)         : 2026-03-07 11:46:20Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Damageplan — Fuck You → Damageplan — Reborn
-Δ last played (since last): 2026-03-07 11:30:33Z → 2026-03-07 11:34:35Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:28
-Telemetry age             : 00:02:28
-Δ time (since last report): 00:02:30
+Time since last play      : 00:05:17
+Telemetry age             : 00:05:17
+Δ time (since last report): 00:02:51
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -941,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 11
-Dominant artist           : Pantera
+Tracks played (last 24h)  : 14
+Dominant artist           : Damageplan
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 11:37:02Z → 2026-03-07 11:37:02Z
+Week window (UTC)         : 2026-02-28 11:51:37Z → 2026-03-07 11:51:37Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -958,23 +962,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :         █   ▆▄▄         
-Heatmap (7d)              :         ▂   ▆█▁      ▆▅ 
+Heatmap (24h)             :         █   ▃▂▂         
+Heatmap (7d)              :         ▄   ▆█▁      ▅▄ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:12:28
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:54:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(10) | metal(10) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
-Top genres (7d)           : groove metal(44) | metal(40) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
+Top genres (24h)          : groove metal(13) | metal(13) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
+Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 11:37:02Z
+Report generated (UTC)    : 2026-03-07 11:51:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -991,8 +995,7 @@ Data may contain discrepancies or inaccuracies due to limitations or transient i
 </sub>
 
 
-<sub>
-For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+<sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to the automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
 What is reflected as playing on Spotify in this repository is telemetry data obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
 Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform and related services.
@@ -1000,23 +1003,22 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 
 -->
-   
-<sub>
-For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
-The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
-What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.  
-Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.
 
 
+<sub>Custom Spotify telemetry engineered by the repository author, built on the Spotify Developer API and automated through GitHub Actions to render live playback data within the GitHub profile environment.</sub>
 
-</sub>
+<sub>What is shown as playing on Spotify in this repository is powered by two sources: the visual card is rendered using the <a href="https://github.com/kittinan/spotify-github-profile">Spotify Now Playing Card project</a>, while the CLI-style telemetry is obtained directly through my own Spotify Developer API integration, executed via automated workflows, with data provided by Spotify ©.</sub>
+<sub>Data may contain discrepancies or inaccuracies due to limitations, caching, or transient issues within Spotify’s platform or related services.</sub>
 
 
 
 </details>
 
+<br>
+
 [![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Stats](https://img.shields.io/badge/Spotify-Profile-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/user/12133266428)
 
+#
 
 <!--
 ------- con actions v.2 - no working ----
