@@ -8,16 +8,22 @@ BLANK = "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/
 
 README = Path("README.md")
 
+START = "<!-- SPOTIFY-WIDGET-START -->"
+END = "<!-- SPOTIFY-WIDGET-END -->"
+
 RETRIES = 3
 WAIT_SECONDS = 2
 
 
 # ----------------------------------------------------
 # TOGGLE (para simular caída del endpoint)
-# Cambia a True si quieres probar el fallback
 # ----------------------------------------------------
 FORCE_ENDPOINT_DOWN = False
 # ----------------------------------------------------
+
+
+LIVE_WIDGET = f"[![spotify-live]({ENDPOINT})](https://open.spotify.com/user/12133266428)"
+BLANK_WIDGET = f"![spotify-live]({BLANK})"
 
 
 def check_once():
@@ -49,7 +55,6 @@ def check_once():
 
 def endpoint_alive():
 
-    # Toggle manual
     if FORCE_ENDPOINT_DOWN:
         print("TOGGLE ACTIVE → Simulating endpoint failure")
         return False
@@ -65,28 +70,32 @@ def endpoint_alive():
     return False
 
 
+def replace_widget(content, widget):
+
+    start = content.index(START) + len(START)
+    end = content.index(END)
+
+    return content[:start] + "\n\n" + widget + "\n\n" + content[end:]
+
+
 def main():
 
     text = README.read_text()
+
     alive = endpoint_alive()
 
     if alive:
-
         print("Endpoint OK")
-
-        if BLANK in text:
-            print("Restoring live widget")
-            text = text.replace(BLANK, ENDPOINT)
-            README.write_text(text)
-
+        new_text = replace_widget(text, LIVE_WIDGET)
     else:
-
         print("Endpoint DOWN")
+        new_text = replace_widget(text, BLANK_WIDGET)
 
-        if ENDPOINT in text:
-            print("Switching to blank.svg")
-            text = text.replace(ENDPOINT, BLANK)
-            README.write_text(text)
+    if new_text != text:
+        print("Updating README")
+        README.write_text(new_text)
+    else:
+        print("No changes needed")
 
 
 if __name__ == "__main__":
