@@ -1000,7 +1000,10 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 
 -->
-   
+
+
+<sub>Custom Spotify telemetry engineered by the repository author, built on the Spotify Developer API and automated through GitHub Actions to render live playback data within the GitHub profile environment.</sub>
+
 <sub>
 For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
