@@ -922,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Damageplan — Cold Blooded
-Last played               : Damageplan — Save Me
-Last played (UTC)         : 2026-03-07 11:41:23Z
+Now playing               : Damageplan — Crawl
+Last played               : Damageplan — Cold Blooded
+Last played (UTC)         : 2026-03-07 11:46:20Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Damageplan — Save Me → Damageplan — Cold Blooded
+Δ last played (since last): 2026-03-07 11:41:23Z → 2026-03-07 11:46:20Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:14
-Telemetry age             : 00:03:14
-Δ time (since last report): 00:02:56
+Time since last play      : 00:02:27
+Telemetry age             : 00:02:27
+Δ time (since last report): 00:04:10
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -945,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 13
+Tracks played (last 24h)  : 14
 Dominant artist           : Damageplan
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 11:44:37Z → 2026-03-07 11:44:37Z
+Week window (UTC)         : 2026-02-28 11:48:46Z → 2026-03-07 11:48:46Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -962,23 +962,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :         █   ▄▃▃         
-Heatmap (7d)              :         ▃   ▆█▁      ▅▅ 
+Heatmap (24h)             :         █   ▃▂▂         
+Heatmap (7d)              :         ▄   ▆█▁      ▅▄ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 01:11:10
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:54:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(12) | metal(12) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
-Top genres (7d)           : groove metal(46) | metal(42) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
+Top genres (24h)          : groove metal(13) | metal(13) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
+Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 11:44:37Z
+Report generated (UTC)    : 2026-03-07 11:48:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
