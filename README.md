@@ -924,16 +924,16 @@ Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : Helmet — Tic
 Last played               : Helmet — I Know
-Last played (UTC)         : 2026-03-07 16:38:13Z
+Last played (UTC)         : 2026-03-07 16:51:31Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Incubus — Love Hurts → Helmet — I Know
-Δ last played (since last): 2026-03-07 16:33:15Z → 2026-03-07 16:38:13Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): 2026-03-07 16:38:13Z → 2026-03-07 16:51:31Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:01
-Telemetry age             : 00:04:01
-Δ time (since last report): 00:06:19
+Time since last play      : 00:02:13
+Telemetry age             : 00:02:13
+Δ time (since last report): 00:11:31
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -945,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 49
+Tracks played (last 24h)  : 50
 Dominant artist           : Pantera
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 16:42:13Z → 2026-03-07 16:42:13Z
+Week window (UTC)         : 2026-02-28 16:53:44Z → 2026-03-07 16:53:44Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -962,23 +962,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 11:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :         ▇▆▄█▆▇▂         
-Heatmap (7d)              :         ▇▆▄█▆▇▂         
+Heatmap (24h)             :         ▇▆▄█▆█▂         
+Heatmap (7d)              :         ▇▆▄█▆█▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:30:23
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:29:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(45) | metal(44) | heavy metal(27) | thrash metal(27) | alternative metal(5) | alternative rock(4)
-Top genres (7d)           : groove metal(46) | metal(45) | heavy metal(28) | thrash metal(28) | alternative metal(5) | alternative rock(4)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : groove metal(46) | metal(43) | heavy metal(26) | thrash metal(26) | alternative metal(7) | alternative rock(4)
+Top genres (7d)           : groove metal(46) | metal(43) | heavy metal(26) | thrash metal(26) | alternative metal(7) | alternative rock(4)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 16:42:13Z
+Report generated (UTC)    : 2026-03-07 16:53:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
