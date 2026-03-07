@@ -638,7 +638,7 @@ Radioactive-Defcon-2.svg
 
 
 <!-- IDEAL AND CAUSES -->
-
+<!-- 
 <details>
   <summary>🎗️🤝📚 Supporting Meaningful Causes, Ideas, and Philosophical Thought</summary>
   <br>
@@ -647,7 +647,7 @@ Radioactive-Defcon-2.svg
 
 
 </details>
-
+-->
 
 
 
@@ -826,6 +826,8 @@ _)      \.___.,|     .'
 ------- con actions v.1 ----
 -->
 
+#
+
 <details open>
 <summary id="spotify">
 <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a>
@@ -850,6 +852,10 @@ _)      \.___.,|     .'
 <!-- SPOTIFY-WIDGET-END -->
 
 [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
+
+<sub>Live Spotify widget rendered via an endpoint powered by the open-source project <a href="https://github.com/kittinan/spotify-github-profile">Spotify GitHub Profile</a>. If the widget appears blank or does not render, it likely corresponds to an endpoint error from that project, even if the watchdog action reports a passing status.</sub>
+
+<br>
 
 <!-- 
 <a href="https://open.spotify.com/user/12133266428">
@@ -900,48 +906,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Pantera — Walk
-Last played (UTC)         : 2026-03-06 17:11:24Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Damageplan — Explode
+Last played               : Damageplan — Reborn
+Last played (UTC)         : 2026-03-07 11:34:35Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Damageplan — Fuck You → Damageplan — Reborn
+Δ last played (since last): 2026-03-07 11:30:33Z → 2026-03-07 11:34:35Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 16:24:01
-Telemetry age             : 16:24:01
-Δ time (since last report): 00:01:24
+Time since last play      : 00:02:28
+Telemetry age             : 00:02:28
+Δ time (since last report): 00:02:30
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 7
+Tracks played (last 24h)  : 11
 Dominant artist           : Pantera
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 09:35:24Z → 2026-03-07 09:35:24Z
+Week window (UTC)         : 2026-02-28 11:37:02Z → 2026-03-07 11:37:02Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -949,25 +956,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
-Peak hour (7d)            : 21:00
-Heatmap (24h)             :             █▅▅         
-Heatmap (7d)              :             ▆▇▁      █▄ 
+Peak hour (24h)           : 08:00
+Peak hour (7d)            : 13:00
+Heatmap (24h)             :         █   ▆▄▄         
+Heatmap (7d)              :         ▂   ▆█▁      ▆▅ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:50:14
+Sessions (24h)            : 3
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 01:12:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(6) | heavy metal(6) | metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
-Top genres (7d)           : groove metal(40) | metal(36) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
+Top genres (24h)          : groove metal(10) | metal(10) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
+Top genres (7d)           : groove metal(44) | metal(40) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 09:35:24Z
+Report generated (UTC)    : 2026-03-07 11:37:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
