@@ -927,13 +927,13 @@ Last played               : Pantera — Regular People (Conceit)
 Last played (UTC)         : 2026-03-07 14:52:47Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Live in a Hole → Pantera — Regular People (Conceit)
-Δ last played (since last): 2026-03-07 14:47:19Z → 2026-03-07 14:52:47Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:17
-Telemetry age             : 00:01:17
-Δ time (since last report): 00:03:28
+Time since last play      : 00:04:00
+Telemetry age             : 00:04:00
+Δ time (since last report): 00:02:44
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -952,7 +952,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 14:54:03Z → 2026-03-07 14:54:03Z
+Week window (UTC)         : 2026-02-28 14:56:47Z → 2026-03-07 14:56:47Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -978,7 +978,7 @@ Top genres (24h)          : groove metal(36) | metal(36) | heavy metal(19) | thr
 Top genres (7d)           : groove metal(49) | metal(47) | heavy metal(28) | thrash metal(27) | doom metal(2) | sludge metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 14:54:03Z
+Report generated (UTC)    : 2026-03-07 14:56:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
