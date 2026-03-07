@@ -927,13 +927,13 @@ Last played               : Damageplan — Cold Blooded
 Last played (UTC)         : 2026-03-07 11:46:20Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Damageplan — Save Me → Damageplan — Cold Blooded
-Δ last played (since last): 2026-03-07 11:41:23Z → 2026-03-07 11:46:20Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:27
-Telemetry age             : 00:02:27
-Δ time (since last report): 00:04:10
+Time since last play      : 00:05:17
+Telemetry age             : 00:05:17
+Δ time (since last report): 00:02:51
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -952,7 +952,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 11:48:46Z → 2026-03-07 11:48:46Z
+Week window (UTC)         : 2026-02-28 11:51:37Z → 2026-03-07 11:51:37Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -978,7 +978,7 @@ Top genres (24h)          : groove metal(13) | metal(13) | heavy metal(6) | thra
 Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 11:48:46Z
+Report generated (UTC)    : 2026-03-07 11:51:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
