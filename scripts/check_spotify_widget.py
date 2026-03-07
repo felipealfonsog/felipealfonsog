@@ -17,12 +17,11 @@ WAIT_SECONDS = 2
 # ----------------------------------------------------
 # TOGGLE (para simular caída del endpoint) - True / False
 # ----------------------------------------------------
-FORCE_ENDPOINT_DOWN = True
+FORCE_ENDPOINT_DOWN = False
 # ----------------------------------------------------
 
 LIVE_WIDGET = f"[![spotify-live]({ENDPOINT})](https://open.spotify.com/user/12133266428)"
-
-BLANK_WIDGET = f'<img src="{BLANK}" width="0" height="0">'
+BLANK_WIDGET = f'<img src="{BLANK}" width="0" height="0" style="display:none" alt="">'
 
 
 def check_once():
@@ -32,15 +31,14 @@ def check_once():
             headers={"User-Agent": "spotify-healthcheck"}
         )
 
-        with urllib.request.urlopen(req, timeout=6) as r:
-
-            if r.status != 200:
+        with urllib.request.urlopen(req, timeout=6) as response:
+            if response.status != 200:
                 return False
 
-            ctype = r.headers.get("Content-Type", "")
-            data = r.read(300).decode("utf-8", "ignore")
+            content_type = response.headers.get("Content-Type", "")
+            data = response.read(300).decode("utf-8", "ignore")
 
-            if "svg" not in ctype.lower():
+            if "svg" not in content_type.lower():
                 return False
 
             if "<svg" not in data:
@@ -53,33 +51,29 @@ def check_once():
 
 
 def endpoint_alive():
-
     if FORCE_ENDPOINT_DOWN:
-        print("TOGGLE ACTIVE → Simulating endpoint failure")
+        print("TOGGLE ACTIVE -> Simulating endpoint failure")
         return False
 
-    for i in range(RETRIES):
-
+    for attempt in range(RETRIES):
         if check_once():
             return True
 
-        if i < RETRIES - 1:
+        if attempt < RETRIES - 1:
             time.sleep(WAIT_SECONDS)
 
     return False
 
 
 def replace_widget(content, widget):
+    start_index = content.index(START) + len(START)
+    end_index = content.index(END)
 
-    start = content.index(START) + len(START)
-    end = content.index(END)
-
-    return content[:start] + "\n" + widget + "\n" + content[end:]
+    return content[:start_index] + "\n" + widget + "\n" + content[end_index:]
 
 
 def main():
-
-    text = README.read_text()
+    text = README.read_text(encoding="utf-8")
 
     alive = endpoint_alive()
 
@@ -92,7 +86,7 @@ def main():
 
     if new_text != text:
         print("Updating README")
-        README.write_text(new_text)
+        README.write_text(new_text, encoding="utf-8")
     else:
         print("No changes needed")
 
