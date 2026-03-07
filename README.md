@@ -910,48 +910,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Damageplan — Pride
-Last played (UTC)         : 2026-03-07 12:29:07Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Pantera — Mouth for War
+Last played               : Damageplan — Fuck You
+Last played (UTC)         : 2026-03-07 13:01:55Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Damageplan — Pride → Damageplan — Fuck You
+Δ last played (since last): 2026-03-07 12:29:07Z → 2026-03-07 13:01:55Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:08:10
-Telemetry age             : 00:08:10
-Δ time (since last report): 00:01:27
+Time since last play      : 00:03:06
+Telemetry age             : 00:03:06
+Δ time (since last report): 00:27:45
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 23
+Tracks played (last 24h)  : 24
 Dominant artist           : Damageplan
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 12:37:16Z → 2026-03-07 12:37:16Z
+Week window (UTC)         : 2026-02-28 13:05:00Z → 2026-03-07 13:05:00Z
 Total tracks played       : 50
 Dominant artist           : Damageplan
 Cadence classification    : HIGH
@@ -961,23 +962,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :         █▆  ▃▂▂         
-Heatmap (7d)              :         ▆▄  ▂█▁      ▆▄ 
+Heatmap (24h)             :         █▆▁ ▃▂▂         
+Heatmap (7d)              :         ▆▅▁ ▂█▁      ▆▅ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:54:17
+Sessions (24h)            : 4
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 00:54:52
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(22) | metal(22) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
-Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(22) | thrash metal(19) | doom metal(5) | sludge metal(5)
+Top genres (24h)          : groove metal(23) | metal(23) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
+Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(21) | thrash metal(18) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 12:37:16Z
+Report generated (UTC)    : 2026-03-07 13:05:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
