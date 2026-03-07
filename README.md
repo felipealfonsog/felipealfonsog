@@ -922,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Incubus — Love Hurts
-Last played               : Pantera — A New Level
-Last played (UTC)         : 2026-03-07 16:10:48Z
+Now playing               : Helmet — I Know
+Last played               : Incubus — Love Hurts
+Last played (UTC)         : 2026-03-07 16:33:15Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Pantera — A New Level → Incubus — Love Hurts
+Δ last played (since last): 2026-03-07 16:10:48Z → 2026-03-07 16:33:15Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:06:23
-Telemetry age             : 00:06:23
-Δ time (since last report): 00:06:11
+Time since last play      : 00:02:41
+Telemetry age             : 00:02:41
+Δ time (since last report): 00:18:46
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -945,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 44
+Tracks played (last 24h)  : 48
 Dominant artist           : Pantera
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 16:17:10Z → 2026-03-07 16:17:10Z
+Week window (UTC)         : 2026-02-28 16:35:55Z → 2026-03-07 16:35:55Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -962,23 +962,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 11:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :         ▇▆▄█▆▃▂         
-Heatmap (7d)              :         ▇▆▄██▃▂       ▂ 
+Heatmap (24h)             :         ▇▆▄█▆▆▂         
+Heatmap (7d)              :         ▇▆▄█▇▆▂         
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 00:47:27
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 00:30:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(44) | metal(44) | heavy metal(27) | thrash metal(27)
-Top genres (7d)           : groove metal(49) | metal(48) | heavy metal(29) | thrash metal(29) | doom metal(1) | grunge(1)
+Top genres (24h)          : groove metal(44) | metal(44) | heavy metal(27) | thrash metal(27) | alternative metal(4) | alternative rock(4)
+Top genres (7d)           : groove metal(46) | metal(46) | heavy metal(29) | thrash metal(29) | alternative metal(4) | alternative rock(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 16:17:10Z
+Report generated (UTC)    : 2026-03-07 16:35:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
