@@ -922,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Damageplan — Crawl
-Last played               : Damageplan — Cold Blooded
-Last played (UTC)         : 2026-03-07 11:46:20Z
+Now playing               : Damageplan — Breathing New Life
+Last played               : Damageplan — Wake Up
+Last played (UTC)         : 2026-03-07 12:17:35Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Damageplan — Soul Bleed → Damageplan — Wake Up
+Δ last played (since last): 2026-03-07 12:13:09Z → 2026-03-07 12:17:35Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:17
-Telemetry age             : 00:05:17
-Δ time (since last report): 00:02:51
+Time since last play      : 00:00:15
+Telemetry age             : 00:00:15
+Δ time (since last report): 00:00:33
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -945,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
+Tracks played (last 24h)  : 20
 Dominant artist           : Damageplan
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-02-28 11:51:37Z → 2026-03-07 11:51:37Z
+Week window (UTC)         : 2026-02-28 12:17:50Z → 2026-03-07 12:17:50Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -962,23 +962,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :         █   ▃▂▂         
-Heatmap (7d)              :         ▄   ▆█▁      ▅▄ 
+Heatmap (24h)             :         █▄  ▃▂▂         
+Heatmap (7d)              :         ▅▂  ▃█▁      ▅▄ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:54:26
+Avg inter-play gap (7d)   : 00:54:21
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(13) | metal(13) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
-Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(31) | thrash metal(28) | doom metal(5) | sludge metal(5)
+Top genres (24h)          : groove metal(19) | metal(19) | heavy metal(6) | thrash metal(6) | grunge(1) | hard rock(1)
+Top genres (7d)           : groove metal(47) | metal(43) | heavy metal(25) | thrash metal(22) | doom metal(5) | sludge metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-07 11:51:37Z
+Report generated (UTC)    : 2026-03-07 12:17:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1383,7 +1383,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 07/03/2026 11:08:37 UTC
+Last updated     : 07/03/2026 12:16:33 UTC
 
 ```
 <!--END_SECTION:wakastats-->
