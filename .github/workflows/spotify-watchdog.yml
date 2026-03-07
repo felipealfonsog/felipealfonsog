@@ -2,28 +2,39 @@ name: Spotify Widget Watchdog
 
 on:
   schedule:
+    # Ejecuta una vez al día
     - cron: "15 6 * * *"
   workflow_dispatch:
 
 jobs:
   check:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: python scripts/check_spotify_widget.py
+      - name: Run Spotify endpoint watchdog
+        run: python scripts/check_spotify_widget.py
 
-      - name: Commit changes
+      - name: Commit changes if needed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+
           git add README.md
-          git diff --staged --quiet || git commit -m "spotify widget watchdog update"
-          git push
+
+          if git diff --staged --quiet; then
+            echo "No changes detected"
+          else
+            git commit -m "spotify watchdog: widget state updated"
+            git push
+          fi
