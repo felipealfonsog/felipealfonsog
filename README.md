@@ -926,13 +926,13 @@ Last played               : Helmet — Tic
 Last played (UTC)         : 2026-03-08 03:43:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Helmet — I Know → Helmet — Tic
-Δ last played (since last): 2026-03-07 16:51:31Z → 2026-03-08 03:43:47Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:20:42
-Telemetry age             : 00:20:42
-Δ time (since last report): 03:11:02
+Time since last play      : 00:21:45
+Telemetry age             : 00:21:45
+Δ time (since last report): 00:01:03
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -951,7 +951,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-01 04:04:29Z → 2026-03-08 04:04:29Z
+Week window (UTC)         : 2026-03-01 04:05:32Z → 2026-03-08 04:05:32Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -977,7 +977,7 @@ Top genres (24h)          : groove metal(45) | metal(40) | heavy metal(23) | thr
 Top genres (7d)           : groove metal(46) | metal(41) | heavy metal(24) | thrash metal(24) | alternative metal(9) | grunge(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-08 04:04:29Z
+Report generated (UTC)    : 2026-03-08 04:05:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
