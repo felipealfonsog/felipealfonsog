@@ -930,9 +930,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 21:27:54
-Telemetry age             : 21:27:54
-Δ time (since last report): 00:00:25
+Time since last play      : 23:57:19
+Telemetry age             : 23:57:19
+Δ time (since last report): 02:29:25
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -944,14 +944,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 1
 Dominant artist           : Helmet
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-03 04:05:39Z → 2026-03-10 04:05:39Z
+Week window (UTC)         : 2026-03-03 06:35:03Z → 2026-03-10 06:35:03Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -967,17 +967,17 @@ Heatmap (7d)              : ▂  ▂    ▆▆▄█▆▇        ▁
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 9
 Avg inter-play gap (7d)   : 00:52:48
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(2) | groove metal(2) | grunge(2) | noise rock(2) | post-hardcore(2)
+Top genres (24h)          : alternative metal(1) | groove metal(1) | grunge(1) | noise rock(1) | post-hardcore(1)
 Top genres (7d)           : groove metal(46) | metal(38) | heavy metal(23) | thrash metal(23) | alternative metal(12) | grunge(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-10 04:05:39Z
+Report generated (UTC)    : 2026-03-10 06:35:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
