@@ -922,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Helmet — Tic
-Last played               : Helmet — Tic
-Last played (UTC)         : 2026-03-09 06:37:45Z
+Now playing               : Silverchair — No Association
+Last played               : Silverchair — Abuse Me
+Last played (UTC)         : 2026-03-11 02:08:16Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Helmet — Tic → Silverchair — Abuse Me
+Δ last played (since last): 2026-03-09 06:37:45Z → 2026-03-11 02:08:16Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 42:44:40
-Telemetry age             : 42:44:40
-Δ time (since last report): 00:01:24
+Time since last play      : 00:00:12
+Telemetry age             : 00:00:12
+Δ time (since last report): 00:46:03
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -945,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 9
+Dominant artist           : Silverchair
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-04 01:22:25Z → 2026-03-11 01:22:25Z
+Week window (UTC)         : 2026-03-04 02:08:27Z → 2026-03-11 02:08:27Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -960,25 +960,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 22:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▂  ▂    ▆▆▄█▆▇        ▁ 
+Heatmap (24h)             :                       █▄
+Heatmap (7d)              : ▂  ▂     ▄▄█▆▇        ▆▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 00:52:48
+Sessions (24h)            : 1
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 01:45:12
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : groove metal(46) | metal(38) | heavy metal(23) | thrash metal(23) | alternative metal(12) | grunge(8)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : grunge(9) | post-grunge(8) | alternative metal(1) | groove metal(1) | noise rock(1) | post-hardcore(1)
+Top genres (7d)           : groove metal(38) | metal(29) | heavy metal(23) | thrash metal(23) | grunge(17) | alternative metal(13)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-11 01:22:25Z
+Report generated (UTC)    : 2026-03-11 02:08:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
