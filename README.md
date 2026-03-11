@@ -260,24 +260,24 @@ The “Google Translate” badge redirects to an automatic translation of this p
   
 <!-- telemetry-presence:start -->
 ```text
-Presence Vector Telemetry — Remote Node
+Telemetry Presence
 ────────────────────────────────────────────
 profile        : virginia
 region         : Northern Virginia, United States
-zone           : Reston tech belt
-location       : hotel
-latitude       : 38.952499
-longitude      : -77.360091
-altitude       : 33 m
-gps_accuracy   : ±4.5 m
-heading        : 189°
-speed          : 0.5 km/h
-status         : stationary
+zone           : McLean perimeter
+location       : cafe
+latitude       : 38.934715
+longitude      : -77.180896
+altitude       : 102 m
+gps_accuracy   : ±8.2 m
+heading        : 296°
+speed          : 0.2 km/h
+status         : in_transit
 phase          : evening
-local_time     : 19:34
+local_time     : 19:47
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-11 23:34:13 UTC
+updated_utc    : 2026-03-11 23:47:29 UTC
 ```
 <!-- telemetry-presence:end -->
 
