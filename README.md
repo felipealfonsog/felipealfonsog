@@ -244,8 +244,12 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 #
 
-## Telemetry Presence Widget
+## Telemetry Presence
 
+<details open>
+<summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • city-local profile active)*</summary>
+
+  
 <!-- telemetry-presence:start -->
 ```text
 telemetry presence widget
@@ -269,7 +273,11 @@ updated_utc    : 2026-03-11 23:19:31 UTC
 ```
 <!-- telemetry-presence:end -->
 
+</details>
 
+> [!NOTE]
+> <sub>*Telemetry Presence — operational-style presence layer generated from curated city profiles, local timezone logic, and rotating urban position sets.</sub><br>
+> <sub>Telemetry fields, movement states, and location labels are updated automatically through automation.</sub>
 
 #
 
