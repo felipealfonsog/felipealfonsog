@@ -242,6 +242,31 @@ The “Google Translate” badge redirects to an automatic translation of this p
 -->
 
 
+#
+
+## Telemetry Presence Widget
+
+<!-- telemetry-presence:start -->
+```text
+telemetry presence widget
+────────────────────────────────────────────
+profile        : booting
+region         : initializing
+zone           : awaiting generation
+location       : awaiting generation
+latitude       : 0.000000
+longitude      : 0.000000
+altitude       : 0 m
+gps_accuracy   : ±0.0 m
+heading        : 0°
+speed          : 0.0 km/h
+status         : idle
+phase          : standby
+local_time     : 00:00
+timezone       : UTC
+signal         : nominal
+updated_utc    : 1970-01-01 00:00:00 UTC
+<!-- telemetry-presence:end -->
 
 
 
