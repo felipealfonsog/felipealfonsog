@@ -287,6 +287,8 @@ updated_utc    : 2026-03-11 23:34:13 UTC
 > <sub>*Telemetry Presence — operational-style presence layer generated from curated city profiles, local timezone logic, and rotating urban position telemetry sets.</sub><br>
 > <sub>Telemetry fields, movement states, and location labels are updated automatically through automation.</sub>
 
+[![telemetry-presence](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml)
+
 #
 
 <details open>
