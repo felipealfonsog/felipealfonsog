@@ -4,46 +4,26 @@
       "label": "Santiago, Chile",
       "timezone": "America/Santiago",
       "country": "Chile",
-      "radius_km": 18,
+      "radius_km": 12,
       "zones": [
         {
           "name": "Santiago Centro",
-          "category": "urban_core",
+          "category": "urban_residential_mixed",
           "points": [
-            { "name": "office", "lat": -33.444200, "lon": -70.650600 },
-            { "name": "cafe", "lat": -33.437800, "lon": -70.646900 },
-            { "name": "transit_corridor", "lat": -33.446500, "lon": -70.661700 },
-            { "name": "hotel", "lat": -33.441900, "lon": -70.653900 }
+            { "name": "urban_sector", "lat": -33.444200, "lon": -70.650600 },
+            { "name": "residential_sector", "lat": -33.441900, "lon": -70.653900 },
+            { "name": "pedestrian_axis", "lat": -33.437800, "lon": -70.646900 },
+            { "name": "transit_corridor", "lat": -33.446500, "lon": -70.661700 }
           ]
         },
         {
-          "name": "Providencia",
-          "category": "business_residential",
+          "name": "La Florida",
+          "category": "urban_residential_mixed",
           "points": [
-            { "name": "office", "lat": -33.425900, "lon": -70.617300 },
-            { "name": "cafe", "lat": -33.423600, "lon": -70.611600 },
-            { "name": "pedestrian_axis", "lat": -33.427800, "lon": -70.605200 },
-            { "name": "hotel", "lat": -33.420900, "lon": -70.608900 }
-          ]
-        },
-        {
-          "name": "Las Condes",
-          "category": "corporate_district",
-          "points": [
-            { "name": "office", "lat": -33.407600, "lon": -70.570300 },
-            { "name": "cafe", "lat": -33.409100, "lon": -70.575500 },
-            { "name": "business_lounge", "lat": -33.413300, "lon": -70.567100 },
-            { "name": "hotel", "lat": -33.414700, "lon": -70.573300 }
-          ]
-        },
-        {
-          "name": "Nunoa",
-          "category": "residential_mixed",
-          "points": [
-            { "name": "cafe", "lat": -33.456900, "lon": -70.597900 },
-            { "name": "residential_sector", "lat": -33.459400, "lon": -70.601200 },
-            { "name": "pedestrian_axis", "lat": -33.454500, "lon": -70.594400 },
-            { "name": "transit_corridor", "lat": -33.461300, "lon": -70.589800 }
+            { "name": "urban_sector", "lat": -33.523200, "lon": -70.580100 },
+            { "name": "residential_sector", "lat": -33.525900, "lon": -70.575400 },
+            { "name": "pedestrian_axis", "lat": -33.520700, "lon": -70.583600 },
+            { "name": "transit_corridor", "lat": -33.528600, "lon": -70.577800 }
           ]
         }
       ]
