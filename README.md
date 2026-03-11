@@ -260,24 +260,24 @@ The “Google Translate” badge redirects to an automatic translation of this p
   
 <!-- telemetry-presence:start -->
 ```text
-telemetry presence widget
+Presence Vector Telemetry
 ────────────────────────────────────────────
 profile        : virginia
 region         : Northern Virginia, United States
-zone           : Tysons corridor
-location       : cafe
-latitude       : 38.919669
-longitude      : -77.227263
-altitude       : 18 m
-gps_accuracy   : ±8.1 m
-heading        : 213°
-speed          : 1.9 km/h
-status         : walking
+zone           : Reston tech belt
+location       : hotel
+latitude       : 38.952499
+longitude      : -77.360091
+altitude       : 33 m
+gps_accuracy   : ±4.5 m
+heading        : 189°
+speed          : 0.5 km/h
+status         : stationary
 phase          : evening
-local_time     : 19:19
+local_time     : 19:32
 timezone       : America/New_York
-signal         : stable
-updated_utc    : 2026-03-11 23:19:31 UTC
+signal         : nominal
+updated_utc    : 2026-03-11 23:32:05 UTC
 ```
 <!-- telemetry-presence:end -->
 
