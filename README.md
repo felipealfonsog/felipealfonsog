@@ -241,10 +241,18 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 -->
 
+<!--
+
+ _____ _____ _     _____ _      _____ _____ ____ ___  _   ____  ____  _____ ____  _____ _      ____  _____
+/__ __Y  __// \   /  __// \__/|/  __//__ __Y  __\\  \//  /  __\/  __\/  __// ___\/  __// \  /|/   _\/  __/
+  / \ |  \  | |   |  \  | |\/|||  \    / \ |  \/| \  /   |  \/||  \/||  \  |    \|  \  | |\ |||  /  |  \  
+  | | |  /_ | |_/\|  /_ | |  |||  /_   | | |    / / /    |  __/|    /|  /_ \___ ||  /_ | | \|||  \__|  /_ 
+  \_/ \____\\____/\____\\_/  \|\____\  \_/ \_/\_\/_/     \_/   \_/\_\\____\\____/\____\\_/  \|\____/\____\
+                                                                                                          
+                                                                                                          
+-->
 
 #
-
-## Telemetry Presence
 
 <details open>
 <summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • city-local profile active)*</summary>
