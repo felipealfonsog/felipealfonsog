@@ -1,10 +1,10 @@
 {
   "cities": {
-    "santiago": {
+    "santiago_centro": {
       "label": "Santiago, Chile",
       "timezone": "America/Santiago",
       "country": "Chile",
-      "radius_km": 12,
+      "radius_km": 6,
       "zones": [
         {
           "name": "Santiago Centro",
@@ -15,7 +15,15 @@
             { "name": "pedestrian_axis", "lat": -33.437800, "lon": -70.646900 },
             { "name": "transit_corridor", "lat": -33.446500, "lon": -70.661700 }
           ]
-        },
+        }
+      ]
+    },
+    "santiago_laflorida": {
+      "label": "Santiago, Chile",
+      "timezone": "America/Santiago",
+      "country": "Chile",
+      "radius_km": 6,
+      "zones": [
         {
           "name": "La Florida",
           "category": "urban_residential_mixed",
