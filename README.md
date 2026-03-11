@@ -260,7 +260,7 @@ The “Google Translate” badge redirects to an automatic translation of this p
   
 <!-- telemetry-presence:start -->
 ```text
-Presence Vector Telemetry
+Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 profile        : virginia
 region         : Northern Virginia, United States
@@ -274,10 +274,10 @@ heading        : 189°
 speed          : 0.5 km/h
 status         : stationary
 phase          : evening
-local_time     : 19:32
+local_time     : 19:34
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-11 23:32:05 UTC
+updated_utc    : 2026-03-11 23:34:13 UTC
 ```
 <!-- telemetry-presence:end -->
 
