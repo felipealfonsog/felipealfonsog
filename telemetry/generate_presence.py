@@ -296,7 +296,7 @@ def build_cli_block(state: PresenceState) -> str:
     Renderiza el widget como bloque de texto estilo terminal.
     """
     lines = [
-        "Presence Vector Telemetry",
+        "Presence Vector Telemetry — Remote Node",
         "────────────────────────────────────────────",
         f"profile        : {state.city_key}",
         f"region         : {state.city_label}",
