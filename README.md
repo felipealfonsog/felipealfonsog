@@ -262,7 +262,6 @@ The “Google Translate” badge redirects to an automatic translation of this p
 ```text
 Telemetry Presence
 ────────────────────────────────────────────
-profile        : virginia
 region         : Northern Virginia, United States
 zone           : McLean perimeter
 location       : cafe
@@ -274,10 +273,10 @@ heading        : 296°
 speed          : 0.2 km/h
 status         : in_transit
 phase          : evening
-local_time     : 19:47
+local_time     : 19:52
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-11 23:47:29 UTC
+updated_utc    : 2026-03-11 23:52:20 UTC
 ```
 <!-- telemetry-presence:end -->
 
