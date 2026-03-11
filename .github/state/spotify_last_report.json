@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-03-11 18:31:54Z",
+  "report_generated_utc": "2026-03-11 18:35:59Z",
   "status": "PLAYING",
-  "last_track": "Pantera — Rise",
-  "last_played_utc": "2026-03-11 18:28:12Z",
+  "last_track": "Bleed — Silver",
+  "last_played_utc": "2026-03-11 18:35:53Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -446,6 +446,12 @@
     "4iudEcmuPlYNdbP3e1bdn1": [
       "grunge",
       "post-grunge"
+    ],
+    "15DYcBNS0c6bfsoezOIzT3": [
+      "shoegaze",
+      "post-grunge",
+      "alternative metal",
+      "nu metal"
     ]
   }
 }

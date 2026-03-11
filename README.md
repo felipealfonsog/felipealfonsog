@@ -922,18 +922,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Bleed — Burnt (By the Sun)
-Last played               : Pantera — Rise
-Last played (UTC)         : 2026-03-11 18:28:12Z
+Now playing               : Bleed — Enervation
+Last played               : Bleed — Silver
+Last played (UTC)         : 2026-03-11 18:35:53Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — This Love → Pantera — Rise
-Δ last played (since last): 2026-03-11 18:23:36Z → 2026-03-11 18:28:12Z
+Δ track (since last)      : Pantera — Rise → Bleed — Silver
+Δ last played (since last): 2026-03-11 18:28:12Z → 2026-03-11 18:35:53Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:42
-Telemetry age             : 00:03:42
-Δ time (since last report): 00:04:02
+Time since last play      : 00:00:07
+Telemetry age             : 00:00:07
+Δ time (since last report): 00:04:06
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -945,14 +945,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
+Tracks played (last 24h)  : 19
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-04 18:31:54Z → 2026-03-11 18:31:54Z
+Week window (UTC)         : 2026-03-04 18:35:59Z → 2026-03-11 18:35:59Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -960,25 +960,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : 15:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :   ▁           ▁▇      █▅
-Heatmap (7d)              : ▂ ▁▂      ▂█▆▇▁▄      ▆▃
+Heatmap (24h)             :   ▁           ▁█      ▇▅
+Heatmap (7d)              : ▂ ▁▂       █▆▇▁▆      ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:03:55
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:02:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(11) | post-grunge(10) | groove metal(7) | heavy metal(6) | metal(6) | thrash metal(6)
-Top genres (7d)           : groove metal(36) | heavy metal(27) | metal(27) | thrash metal(27) | grunge(19) | alternative metal(13)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(12) | grunge(11) | groove metal(7) | heavy metal(6) | metal(6) | thrash metal(6)
+Top genres (7d)           : groove metal(34) | heavy metal(25) | metal(25) | thrash metal(25) | grunge(19) | alternative metal(15)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-11 18:31:54Z
+Report generated (UTC)    : 2026-03-11 18:35:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
