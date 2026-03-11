@@ -927,13 +927,13 @@ Last played               : Bleed — Silver
 Last played (UTC)         : 2026-03-11 18:35:53Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Rise → Bleed — Silver
-Δ last played (since last): 2026-03-11 18:28:12Z → 2026-03-11 18:35:53Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:07
-Telemetry age             : 00:00:07
-Δ time (since last report): 00:04:06
+Time since last play      : 00:01:08
+Telemetry age             : 00:01:08
+Δ time (since last report): 00:01:02
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -952,7 +952,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-04 18:35:59Z → 2026-03-11 18:35:59Z
+Week window (UTC)         : 2026-03-04 18:37:00Z → 2026-03-11 18:37:00Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -976,9 +976,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(12) | grunge(11) | groove metal(7) | heavy metal(6) | metal(6) | thrash metal(6)
 Top genres (7d)           : groove metal(34) | heavy metal(25) | metal(25) | thrash metal(25) | grunge(19) | alternative metal(15)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-11 18:35:59Z
+Report generated (UTC)    : 2026-03-11 18:37:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
