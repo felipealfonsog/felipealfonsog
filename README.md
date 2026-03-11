@@ -284,7 +284,7 @@ updated_utc    : 2026-03-11 23:19:31 UTC
 </details>
 
 > [!NOTE]
-> <sub>*Telemetry Presence — operational-style presence layer generated from curated city profiles, local timezone logic, and rotating urban position sets.</sub><br>
+> <sub>*Telemetry Presence — operational-style presence layer generated from curated city profiles, local timezone logic, and rotating urban position telemetry sets.</sub><br>
 > <sub>Telemetry fields, movement states, and location labels are updated automatically through automation.</sub>
 
 #
