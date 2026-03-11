@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-11 02:12:15Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-03-11 04:04:16Z",
+  "status": "IDLE",
   "last_track": "Silverchair — No Association",
   "last_played_utc": "2026-03-11 02:12:08Z",
-  "sitrep": "GREEN",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
