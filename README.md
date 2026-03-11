@@ -922,17 +922,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — No Association
-Last played (UTC)         : 2026-03-11 02:12:08Z
+Last played               : Silverchair — Cemetery
+Last played (UTC)         : 2026-03-11 05:06:52Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Silverchair — No Association → Silverchair — Cemetery
+Δ last played (since last): 2026-03-11 02:12:08Z → 2026-03-11 05:06:52Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:54:56
-Telemetry age             : 01:54:56
-Δ time (since last report): 00:01:23
+Time since last play      : 01:28:52
+Telemetry age             : 01:28:52
+Δ time (since last report): 02:28:41
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -944,14 +944,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
+Tracks played (last 24h)  : 11
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-04 04:07:03Z → 2026-03-11 04:07:03Z
+Week window (UTC)         : 2026-03-04 06:35:44Z → 2026-03-11 06:35:44Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -961,23 +961,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :                       █▅
-Heatmap (7d)              : ▂  ▂     ▃▄█▆▇        ▆▃
+Heatmap (24h)             :   ▁                   █▅
+Heatmap (7d)              : ▂ ▁▂     ▂▄█▆▇        ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 01:45:12
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 01:48:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(10) | post-grunge(9) | alternative metal(1) | groove metal(1) | noise rock(1) | post-hardcore(1)
-Top genres (7d)           : groove metal(37) | metal(28) | heavy metal(23) | thrash metal(23) | grunge(18) | alternative metal(13)
+Top genres (24h)          : grunge(11) | post-grunge(10) | alternative metal(1) | groove metal(1) | noise rock(1) | post-hardcore(1)
+Top genres (7d)           : groove metal(36) | metal(27) | heavy metal(23) | thrash metal(23) | grunge(19) | alternative metal(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-11 04:07:03Z
+Report generated (UTC)    : 2026-03-11 06:35:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
