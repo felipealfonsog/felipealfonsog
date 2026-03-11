@@ -1,0 +1,366 @@
+{
+  "cities": {
+    "santiago": {
+      "label": "Santiago, Chile",
+      "timezone": "America/Santiago",
+      "country": "Chile",
+      "radius_km": 18,
+      "zones": [
+        {
+          "name": "Santiago Centro",
+          "category": "urban_core",
+          "points": [
+            { "name": "office", "lat": -33.444200, "lon": -70.650600 },
+            { "name": "cafe", "lat": -33.437800, "lon": -70.646900 },
+            { "name": "transit_corridor", "lat": -33.446500, "lon": -70.661700 },
+            { "name": "hotel", "lat": -33.441900, "lon": -70.653900 }
+          ]
+        },
+        {
+          "name": "Providencia",
+          "category": "business_residential",
+          "points": [
+            { "name": "office", "lat": -33.425900, "lon": -70.617300 },
+            { "name": "cafe", "lat": -33.423600, "lon": -70.611600 },
+            { "name": "pedestrian_axis", "lat": -33.427800, "lon": -70.605200 },
+            { "name": "hotel", "lat": -33.420900, "lon": -70.608900 }
+          ]
+        },
+        {
+          "name": "Las Condes",
+          "category": "corporate_district",
+          "points": [
+            { "name": "office", "lat": -33.407600, "lon": -70.570300 },
+            { "name": "cafe", "lat": -33.409100, "lon": -70.575500 },
+            { "name": "business_lounge", "lat": -33.413300, "lon": -70.567100 },
+            { "name": "hotel", "lat": -33.414700, "lon": -70.573300 }
+          ]
+        },
+        {
+          "name": "Nunoa",
+          "category": "residential_mixed",
+          "points": [
+            { "name": "cafe", "lat": -33.456900, "lon": -70.597900 },
+            { "name": "residential_sector", "lat": -33.459400, "lon": -70.601200 },
+            { "name": "pedestrian_axis", "lat": -33.454500, "lon": -70.594400 },
+            { "name": "transit_corridor", "lat": -33.461300, "lon": -70.589800 }
+          ]
+        }
+      ]
+    },
+    "virginia": {
+      "label": "Northern Virginia, United States",
+      "timezone": "America/New_York",
+      "country": "United States",
+      "radius_km": 35,
+      "zones": [
+        {
+          "name": "McLean perimeter",
+          "category": "business",
+          "points": [
+            { "name": "office", "lat": 38.933400, "lon": -77.177100 },
+            { "name": "cafe", "lat": 38.934900, "lon": -77.181300 },
+            { "name": "business_lounge", "lat": 38.930800, "lon": -77.173800 },
+            { "name": "hotel", "lat": 38.929700, "lon": -77.185900 }
+          ]
+        },
+        {
+          "name": "Tysons corridor",
+          "category": "commercial",
+          "points": [
+            { "name": "office", "lat": 38.918100, "lon": -77.229200 },
+            { "name": "cafe", "lat": 38.919800, "lon": -77.227400 },
+            { "name": "transit_corridor", "lat": 38.920200, "lon": -77.223000 },
+            { "name": "hotel", "lat": 38.916700, "lon": -77.220800 }
+          ]
+        },
+        {
+          "name": "Reston tech belt",
+          "category": "tech",
+          "points": [
+            { "name": "office", "lat": 38.958600, "lon": -77.357000 },
+            { "name": "cafe", "lat": 38.960100, "lon": -77.355400 },
+            { "name": "pedestrian_axis", "lat": 38.954900, "lon": -77.349600 },
+            { "name": "hotel", "lat": 38.952800, "lon": -77.360200 }
+          ]
+        },
+        {
+          "name": "Alexandria hospitality sector",
+          "category": "hospitality",
+          "points": [
+            { "name": "hotel", "lat": 38.806800, "lon": -77.061900 },
+            { "name": "cafe", "lat": 38.804700, "lon": -77.059100 },
+            { "name": "dining_lounge", "lat": 38.809300, "lon": -77.056800 },
+            { "name": "pedestrian_axis", "lat": 38.802900, "lon": -77.063200 }
+          ]
+        }
+      ]
+    },
+    "stockholm": {
+      "label": "Stockholm, Sweden",
+      "timezone": "Europe/Stockholm",
+      "country": "Sweden",
+      "radius_km": 20,
+      "zones": [
+        {
+          "name": "Norrmalm",
+          "category": "urban_core",
+          "points": [
+            { "name": "office", "lat": 59.333200, "lon": 18.063000 },
+            { "name": "cafe", "lat": 59.331600, "lon": 18.067100 },
+            { "name": "transit_corridor", "lat": 59.329700, "lon": 18.058600 },
+            { "name": "hotel", "lat": 59.335100, "lon": 18.061200 }
+          ]
+        },
+        {
+          "name": "Sodermalm",
+          "category": "mixed",
+          "points": [
+            { "name": "cafe", "lat": 59.314400, "lon": 18.073500 },
+            { "name": "pedestrian_axis", "lat": 59.316100, "lon": 18.070400 },
+            { "name": "hotel", "lat": 59.311800, "lon": 18.078200 },
+            { "name": "dining_lounge", "lat": 59.313000, "lon": 18.076400 }
+          ]
+        },
+        {
+          "name": "Ostermalm",
+          "category": "business_residential",
+          "points": [
+            { "name": "office", "lat": 59.338000, "lon": 18.089700 },
+            { "name": "cafe", "lat": 59.340300, "lon": 18.085500 },
+            { "name": "pedestrian_axis", "lat": 59.336100, "lon": 18.094100 },
+            { "name": "hotel", "lat": 59.339500, "lon": 18.092800 }
+          ]
+        }
+      ]
+    },
+    "paris": {
+      "label": "Paris, France",
+      "timezone": "Europe/Paris",
+      "country": "France",
+      "radius_km": 20,
+      "zones": [
+        {
+          "name": "La Defense",
+          "category": "corporate",
+          "points": [
+            { "name": "office", "lat": 48.891900, "lon": 2.238600 },
+            { "name": "business_lounge", "lat": 48.892700, "lon": 2.236900 },
+            { "name": "cafe", "lat": 48.889800, "lon": 2.241500 },
+            { "name": "hotel", "lat": 48.890900, "lon": 2.244200 }
+          ]
+        },
+        {
+          "name": "7th Arrondissement",
+          "category": "institutional_mixed",
+          "points": [
+            { "name": "cafe", "lat": 48.856600, "lon": 2.312600 },
+            { "name": "pedestrian_axis", "lat": 48.858200, "lon": 2.307100 },
+            { "name": "hotel", "lat": 48.854100, "lon": 2.315900 },
+            { "name": "dining_lounge", "lat": 48.857700, "lon": 2.310800 }
+          ]
+        },
+        {
+          "name": "Montparnasse",
+          "category": "mixed",
+          "points": [
+            { "name": "office", "lat": 48.840200, "lon": 2.321100 },
+            { "name": "cafe", "lat": 48.842100, "lon": 2.324500 },
+            { "name": "transit_corridor", "lat": 48.839200, "lon": 2.319900 },
+            { "name": "hotel", "lat": 48.838500, "lon": 2.326100 }
+          ]
+        }
+      ]
+    },
+    "palo_alto": {
+      "label": "Palo Alto, California, United States",
+      "timezone": "America/Los_Angeles",
+      "country": "United States",
+      "radius_km": 18,
+      "zones": [
+        {
+          "name": "University Avenue sector",
+          "category": "mixed",
+          "points": [
+            { "name": "cafe", "lat": 37.444200, "lon": -122.161400 },
+            { "name": "office", "lat": 37.445700, "lon": -122.160100 },
+            { "name": "pedestrian_axis", "lat": 37.443100, "lon": -122.164900 },
+            { "name": "dining_lounge", "lat": 37.446300, "lon": -122.158600 }
+          ]
+        },
+        {
+          "name": "Stanford perimeter",
+          "category": "academic_mixed",
+          "points": [
+            { "name": "office", "lat": 37.427600, "lon": -122.169700 },
+            { "name": "cafe", "lat": 37.430100, "lon": -122.173200 },
+            { "name": "pedestrian_axis", "lat": 37.428300, "lon": -122.166400 },
+            { "name": "hotel", "lat": 37.433000, "lon": -122.171500 }
+          ]
+        },
+        {
+          "name": "Page Mill corridor",
+          "category": "business",
+          "points": [
+            { "name": "office", "lat": 37.413800, "lon": -122.145200 },
+            { "name": "business_lounge", "lat": 37.415600, "lon": -122.148100 },
+            { "name": "cafe", "lat": 37.417200, "lon": -122.143700 },
+            { "name": "hotel", "lat": 37.411400, "lon": -122.151900 }
+          ]
+        }
+      ]
+    },
+    "seattle": {
+      "label": "Seattle, Washington, United States",
+      "timezone": "America/Los_Angeles",
+      "country": "United States",
+      "radius_km": 22,
+      "zones": [
+        {
+          "name": "Downtown core",
+          "category": "urban_core",
+          "points": [
+            { "name": "office", "lat": 47.609200, "lon": -122.336700 },
+            { "name": "cafe", "lat": 47.611100, "lon": -122.334000 },
+            { "name": "hotel", "lat": 47.607400, "lon": -122.332800 },
+            { "name": "transit_corridor", "lat": 47.605900, "lon": -122.338900 }
+          ]
+        },
+        {
+          "name": "South Lake Union",
+          "category": "tech",
+          "points": [
+            { "name": "office", "lat": 47.623300, "lon": -122.338200 },
+            { "name": "cafe", "lat": 47.625000, "lon": -122.336100 },
+            { "name": "pedestrian_axis", "lat": 47.621700, "lon": -122.334500 },
+            { "name": "hotel", "lat": 47.620200, "lon": -122.341300 }
+          ]
+        },
+        {
+          "name": "Capitol Hill edge",
+          "category": "mixed",
+          "points": [
+            { "name": "cafe", "lat": 47.619500, "lon": -122.321300 },
+            { "name": "dining_lounge", "lat": 47.618100, "lon": -122.323900 },
+            { "name": "pedestrian_axis", "lat": 47.617200, "lon": -122.319800 },
+            { "name": "hotel", "lat": 47.615900, "lon": -122.325500 }
+          ]
+        }
+      ]
+    },
+    "berlin": {
+      "label": "Berlin, Germany",
+      "timezone": "Europe/Berlin",
+      "country": "Germany",
+      "radius_km": 25,
+      "zones": [
+        {
+          "name": "Mitte",
+          "category": "urban_core",
+          "points": [
+            { "name": "office", "lat": 52.520800, "lon": 13.409500 },
+            { "name": "cafe", "lat": 52.519400, "lon": 13.405100 },
+            { "name": "hotel", "lat": 52.517900, "lon": 13.411800 },
+            { "name": "pedestrian_axis", "lat": 52.522300, "lon": 13.402700 }
+          ]
+        },
+        {
+          "name": "Charlottenburg",
+          "category": "business_residential",
+          "points": [
+            { "name": "office", "lat": 52.505800, "lon": 13.304700 },
+            { "name": "cafe", "lat": 52.507100, "lon": 13.309200 },
+            { "name": "hotel", "lat": 52.503300, "lon": 13.312100 },
+            { "name": "dining_lounge", "lat": 52.506500, "lon": 13.300800 }
+          ]
+        },
+        {
+          "name": "Potsdamer Platz sector",
+          "category": "corporate",
+          "points": [
+            { "name": "office", "lat": 52.509700, "lon": 13.376100 },
+            { "name": "business_lounge", "lat": 52.510900, "lon": 13.374400 },
+            { "name": "hotel", "lat": 52.507600, "lon": 13.378900 },
+            { "name": "transit_corridor", "lat": 52.508100, "lon": 13.372800 }
+          ]
+        }
+      ]
+    },
+    "tel_aviv": {
+      "label": "Tel Aviv, Israel",
+      "timezone": "Asia/Jerusalem",
+      "country": "Israel",
+      "radius_km": 18,
+      "zones": [
+        {
+          "name": "Rothschild district",
+          "category": "business_mixed",
+          "points": [
+            { "name": "office", "lat": 32.064300, "lon": 34.774800 },
+            { "name": "cafe", "lat": 32.062700, "lon": 34.776100 },
+            { "name": "dining_lounge", "lat": 32.061800, "lon": 34.772900 },
+            { "name": "hotel", "lat": 32.066100, "lon": 34.778400 }
+          ]
+        },
+        {
+          "name": "Sarona sector",
+          "category": "commercial",
+          "points": [
+            { "name": "office", "lat": 32.071400, "lon": 34.787700 },
+            { "name": "cafe", "lat": 32.072000, "lon": 34.785200 },
+            { "name": "pedestrian_axis", "lat": 32.070300, "lon": 34.790400 },
+            { "name": "hotel", "lat": 32.073100, "lon": 34.789300 }
+          ]
+        },
+        {
+          "name": "Northern waterfront edge",
+          "category": "mixed",
+          "points": [
+            { "name": "cafe", "lat": 32.098600, "lon": 34.774200 },
+            { "name": "hotel", "lat": 32.100000, "lon": 34.772100 },
+            { "name": "pedestrian_axis", "lat": 32.096800, "lon": 34.776800 },
+            { "name": "dining_lounge", "lat": 32.099100, "lon": 34.770900 }
+          ]
+        }
+      ]
+    },
+    "ramallah": {
+      "label": "Ramallah, West Bank",
+      "timezone": "Asia/Hebron",
+      "country": "Palestine / West Bank",
+      "radius_km": 12,
+      "zones": [
+        {
+          "name": "Central district",
+          "category": "urban_core",
+          "points": [
+            { "name": "office", "lat": 31.907700, "lon": 35.204600 },
+            { "name": "cafe", "lat": 31.906300, "lon": 35.202800 },
+            { "name": "hotel", "lat": 31.909100, "lon": 35.206300 },
+            { "name": "pedestrian_axis", "lat": 31.905100, "lon": 35.205500 }
+          ]
+        },
+        {
+          "name": "Al-Masyoun sector",
+          "category": "business_residential",
+          "points": [
+            { "name": "office", "lat": 31.910500, "lon": 35.210600 },
+            { "name": "cafe", "lat": 31.911600, "lon": 35.212100 },
+            { "name": "dining_lounge", "lat": 31.909200, "lon": 35.214000 },
+            { "name": "hotel", "lat": 31.912400, "lon": 35.209100 }
+          ]
+        },
+        {
+          "name": "Hill district edge",
+          "category": "mixed",
+          "points": [
+            { "name": "cafe", "lat": 31.901900, "lon": 35.198700 },
+            { "name": "residential_sector", "lat": 31.900600, "lon": 35.196500 },
+            { "name": "pedestrian_axis", "lat": 31.903100, "lon": 35.200900 },
+            { "name": "hotel", "lat": 31.899700, "lon": 35.201800 }
+          ]
+        }
+      ]
+    }
+  }
+}
