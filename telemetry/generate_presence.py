@@ -293,7 +293,7 @@ def build_cli_block(state: PresenceState) -> str:
     lines = [
         "Telemetry Presence",
         "────────────────────────────────────────────",
-        f"profile        : {state.city_key}",
+#        f"profile        : {state.city_key}",
         f"region         : {state.city_label}",
         f"zone           : {state.zone_name}",
         f"location       : {state.location_name}",
