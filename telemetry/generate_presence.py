@@ -7,17 +7,14 @@ Este script:
 1. Lee la ciudad activa desde telemetry/active-city.json
 2. Lee la base de ciudades y puntos desde telemetry/cities.json
 3. Calcula la hora local de la ciudad
-4. Determina una "fase del día" (morning / workday / evening / overnight)
+4. Determina una fase del día
 5. Elige una zona y un punto plausible según esa fase
 6. Aplica una pequeña variación GPS para simular movimiento
 7. Genera un bloque CLI-style
 8. Reemplaza automáticamente el bloque entre marcadores en README.md
-
-Pensado para GitHub Actions, pero también puedes correrlo localmente.
 """
 
 import json
-import math
 import random
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -79,8 +76,7 @@ def load_json(path: Path) -> Dict:
 def deterministic_rng(*parts: str) -> random.Random:
     """
     Genera un RNG determinista a partir de una semilla estable.
-    Esto permite que el widget cambie con el tiempo, pero no de forma caótica
-    dentro del mismo intervalo.
+    Esto permite cambios predecibles por slot temporal sin caos absoluto.
     """
     seed_str = "::".join(parts)
     seed = sum(ord(c) * (i + 1) for i, c in enumerate(seed_str))
@@ -109,7 +105,6 @@ def format_local_time(dt: datetime) -> str:
 def get_phase(local_dt: datetime) -> str:
     """
     Determina la fase del día según la hora local.
-    Puedes tunear estos rangos si quieres un comportamiento distinto.
     """
     hour = local_dt.hour
 
@@ -127,13 +122,15 @@ def get_phase(local_dt: datetime) -> str:
 def get_phase_profiles(phase: str) -> Dict[str, List[str]]:
     """
     Define qué tipos de lugares son plausibles según la fase.
-    Esto hace que el movimiento se vea más orgánico y menos random puro.
+    Incluye también los tipos especiales usados en Santiago:
+    urban_sector y residential_sector.
     """
     profiles = {
         "early_morning": {
             "allowed_locations": [
                 "hotel",
                 "residential_sector",
+                "urban_sector",
                 "cafe",
                 "pedestrian_axis",
                 "transit_corridor"
@@ -146,9 +143,11 @@ def get_phase_profiles(phase: str) -> Dict[str, List[str]]:
             "allowed_locations": [
                 "cafe",
                 "office",
+                "urban_sector",
                 "business_lounge",
                 "pedestrian_axis",
-                "transit_corridor"
+                "transit_corridor",
+                "residential_sector"
             ],
             "statuses": ["walking", "in_transit", "stationary"],
             "signals": ["stable", "nominal"],
@@ -157,6 +156,7 @@ def get_phase_profiles(phase: str) -> Dict[str, List[str]]:
         "workday": {
             "allowed_locations": [
                 "office",
+                "urban_sector",
                 "business_lounge",
                 "transit_corridor",
                 "pedestrian_axis",
@@ -171,6 +171,8 @@ def get_phase_profiles(phase: str) -> Dict[str, List[str]]:
                 "cafe",
                 "dining_lounge",
                 "hotel",
+                "urban_sector",
+                "residential_sector",
                 "pedestrian_axis",
                 "transit_corridor",
                 "business_lounge"
@@ -182,6 +184,7 @@ def get_phase_profiles(phase: str) -> Dict[str, List[str]]:
         "overnight": {
             "allowed_locations": [
                 "hotel",
+                "urban_sector",
                 "residential_sector",
                 "pedestrian_axis"
             ],
@@ -199,8 +202,7 @@ def get_phase_profiles(phase: str) -> Dict[str, List[str]]:
 
 def build_time_slot(local_dt: datetime) -> str:
     """
-    Agrupa el tiempo en slots de 15 minutos para que el widget cambie
-    con cierta continuidad y no en cada segundo.
+    Agrupa el tiempo en slots de 15 minutos para dar continuidad.
     """
     minute_bucket = (local_dt.minute // 15) * 15
     return f"{local_dt:%Y-%m-%d %H}:{minute_bucket:02d}"
@@ -208,8 +210,8 @@ def build_time_slot(local_dt: datetime) -> str:
 
 def choose_zone_and_point(city_key: str, city_data: Dict, phase: str, local_dt: datetime) -> Tuple[Dict, Dict]:
     """
-    Elige una zona y un punto de forma determinista dentro del mismo slot horario,
-    priorizando puntos compatibles con la fase del día.
+    Elige una zona y un punto de forma determinista, priorizando
+    puntos compatibles con la fase del día.
     """
     phase_profile = get_phase_profiles(phase)
     allowed_locations = set(phase_profile["allowed_locations"])
@@ -219,7 +221,6 @@ def choose_zone_and_point(city_key: str, city_data: Dict, phase: str, local_dt: 
 
     zones = city_data["zones"]
 
-    # Filtra puntos plausibles por fase
     candidate_pairs = []
     fallback_pairs = []
 
@@ -230,9 +231,7 @@ def choose_zone_and_point(city_key: str, city_data: Dict, phase: str, local_dt: 
             if point["name"] in allowed_locations:
                 candidate_pairs.append(pair)
 
-    # Si no hay candidatos plausibles, cae al pool completo
     pool = candidate_pairs if candidate_pairs else fallback_pairs
-
     selected_zone, selected_point = rng.choice(pool)
     return selected_zone, selected_point
 
@@ -243,13 +242,11 @@ def choose_zone_and_point(city_key: str, city_data: Dict, phase: str, local_dt: 
 
 def apply_coordinate_jitter(lat: float, lon: float, city_key: str, phase: str, local_dt: datetime) -> Tuple[float, float]:
     """
-    Aplica una microvariación a las coordenadas para simular movimiento fino.
-    La variación es pequeña y estable por slot horario.
+    Aplica una microvariación a las coordenadas.
     """
     slot = build_time_slot(local_dt)
     rng = deterministic_rng("jitter", city_key, phase, slot)
 
-    # Jitter pequeño: aprox hasta ~80m dependiendo de latitud
     lat_offset = rng.uniform(-0.00055, 0.00055)
     lon_offset = rng.uniform(-0.00055, 0.00055)
 
@@ -259,7 +256,6 @@ def apply_coordinate_jitter(lat: float, lon: float, city_key: str, phase: str, l
 def choose_heading_speed_status_signal(city_key: str, phase: str, local_dt: datetime) -> Tuple[int, float, str, str, float, int]:
     """
     Elige heading, speed, status, signal, accuracy y altitud simulada.
-    Todo determinista por slot.
     """
     slot = build_time_slot(local_dt)
     rng = deterministic_rng("motion", city_key, phase, slot)
@@ -274,7 +270,6 @@ def choose_heading_speed_status_signal(city_key: str, phase: str, local_dt: date
     gps_accuracy = round(rng.uniform(3.5, 8.7), 1)
     altitude = rng.randint(8, 160)
 
-    # Ajustes lógicos finos
     if status in ("resting", "stationary"):
         speed = round(rng.uniform(0.0, 0.8), 1)
 
@@ -296,7 +291,7 @@ def build_cli_block(state: PresenceState) -> str:
     Renderiza el widget como bloque de texto estilo terminal.
     """
     lines = [
-        "Presence Vector Telemetry — Remote Node",
+        "Telemetry Presence",
         "────────────────────────────────────────────",
         f"profile        : {state.city_key}",
         f"region         : {state.city_label}",
@@ -324,9 +319,7 @@ def build_cli_block(state: PresenceState) -> str:
 
 def update_readme_block(readme_path: Path, cli_block: str) -> None:
     """
-    Reemplaza el bloque entre:
-    <!-- telemetry-presence:start -->
-    <!-- telemetry-presence:end -->
+    Reemplaza el bloque entre los marcadores del README.
     """
     readme = readme_path.read_text(encoding="utf-8")
 
@@ -334,9 +327,7 @@ def update_readme_block(readme_path: Path, cli_block: str) -> None:
     end_index = readme.find(END_MARKER)
 
     if start_index == -1 or end_index == -1:
-        raise RuntimeError(
-            "No se encontraron los marcadores de telemetry presence en README.md"
-        )
+        raise RuntimeError("No se encontraron los marcadores de telemetry presence en README.md")
 
     end_index += len(END_MARKER)
 
@@ -382,18 +373,10 @@ def generate_presence_state() -> PresenceState:
 
     zone, point = choose_zone_and_point(city_key, city, phase, local_dt)
 
-    lat, lon = apply_coordinate_jitter(
-        point["lat"],
-        point["lon"],
-        city_key,
-        phase,
-        local_dt
-    )
+    lat, lon = apply_coordinate_jitter(point["lat"], point["lon"], city_key, phase, local_dt)
 
     heading, speed, status, signal, gps_accuracy, altitude = choose_heading_speed_status_signal(
-        city_key,
-        phase,
-        local_dt
+        city_key, phase, local_dt
     )
 
     return PresenceState(
