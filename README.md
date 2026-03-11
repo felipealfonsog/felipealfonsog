@@ -260,7 +260,7 @@ The “Google Translate” badge redirects to an automatic translation of this p
   
 <!-- telemetry-presence:start -->
 ```text
-Telemetry Presence
+Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
 zone           : McLean perimeter
@@ -273,10 +273,10 @@ heading        : 296°
 speed          : 0.2 km/h
 status         : in_transit
 phase          : evening
-local_time     : 19:52
+local_time     : 19:53
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-11 23:52:20 UTC
+updated_utc    : 2026-03-11 23:53:58 UTC
 ```
 <!-- telemetry-presence:end -->
 
