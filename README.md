@@ -926,13 +926,13 @@ Last played               : Bleed — Burnt (By the Sun)
 Last played (UTC)         : 2026-03-11 18:47:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Bleed — Silver → Bleed — Burnt (By the Sun)
-Δ last played (since last): 2026-03-11 18:35:53Z → 2026-03-11 18:47:37Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:45:47
-Telemetry age             : 02:45:47
-Δ time (since last report): 02:54:37
+Time since last play      : 02:46:47
+Telemetry age             : 02:46:47
+Δ time (since last report): 00:01:01
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -951,7 +951,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-04 21:33:23Z → 2026-03-11 21:33:23Z
+Week window (UTC)         : 2026-03-04 21:34:23Z → 2026-03-11 21:34:23Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -977,7 +977,7 @@ Top genres (24h)          : post-grunge(15) | grunge(11) | groove metal(7) | alt
 Top genres (7d)           : groove metal(31) | heavy metal(22) | metal(22) | thrash metal(22) | grunge(19) | alternative metal(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-11 21:33:23Z
+Report generated (UTC)    : 2026-03-11 21:34:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
