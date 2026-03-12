@@ -263,7 +263,13 @@ The “Google Translate” badge redirects to an automatic translation of this p
 bootstrapping telemetry...
 <!-- GNLZ:SITE_INTEL:END -->
 
+</details>
 
+> [!NOTE]
+> <sub>*GNLZ.CL Site Operations Intelligence — operational-style telemetry layer generated from live web probes, defensive surface inspection, TLS and header analysis, traffic aggregates, and Tor Browser compatibility checks.</sub><br>
+> <sub>Telemetry fields, probe states, fingerprint hints, and cached continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if a live probe fails.</sub>
+
+[![telemetry-presence](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml)
 
 #
 
