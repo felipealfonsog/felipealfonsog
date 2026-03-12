@@ -241,6 +241,33 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 -->
 
+#
+
+<!--
+
+ ____  _ _____ _____   _____ _____ _     _____ _      _____ _____ ____ ___  _
+/ ___\/ Y__ __Y  __/  /__ __Y  __// \   /  __// \__/|/  __//__ __Y  __\\  \//
+|    \| | / \ |  \      / \ |  \  | |   |  \  | |\/|||  \    / \ |  \/| \  / 
+\___ || | | | |  /_     | | |  /_ | |_/\|  /_ | |  |||  /_   | | |    / / /  
+\____/\_/ \_/ \____\    \_/ \____\\____/\____\\_/  \|\____\  \_/ \_/\_\/_/   
+                                                                                                                                                                           
+                                                                                                          
+-->
+
+
+<details open>
+<summary><strong>🛰️ GNLZ.CL SITE OPERATIONS INTELLIGENCE</strong> — updated automatically every 3 hours (00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC • full-spectrum profile active • last valid snapshot retained on probe failure)*</summary>
+
+<!-- GNLZ:SITE_INTEL:START -->
+```text
+bootstrapping telemetry...
+<!-- GNLZ:SITE_INTEL:END -->
+
+
+
+#
+
+
 <!--
 
  _____ _____ _     _____ _      _____ _____ ____ ___  _   ____  ____  _____ ____  _____ _      ____  _____
@@ -252,7 +279,7 @@ The “Google Translate” badge redirects to an automatic translation of this p
                                                                                                           
 -->
 
-#
+
 
 <details open>
 <summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • city-local profile active)*</summary>
@@ -283,8 +310,8 @@ updated_utc    : 2026-03-12 23:27:52 UTC
 </details>
 
 > [!NOTE]
-> <sub>*Telemetry Presence — operational-style presence layer generated from curated city profiles, local timezone logic, and rotating urban position telemetry sets.</sub><br>
-> <sub>Telemetry fields, movement states, and location labels are updated automatically through automation.</sub>
+> <sub>*GNLZ.CL Site Operations Intelligence — operational-style telemetry layer generated from live web probes, defensive surface inspection, TLS and header analysis, traffic aggregates, and Tor Browser compatibility checks.</sub><br>
+> <sub>Telemetry fields, probe states, fingerprint hints, and cached continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if a live probe fails.</sub>
 
 [![telemetry-presence](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml)
 
