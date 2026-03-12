@@ -263,20 +263,20 @@ The “Google Translate” badge redirects to an automatic translation of this p
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Tysons corridor
-location       : hotel
-latitude       : 38.917147
-longitude      : -77.220627
-altitude       : 64 m
-gps_accuracy   : ±7.3 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : resting
+zone           : Alexandria hospitality sector
+location       : pedestrian_axis
+latitude       : 38.803408
+longitude      : -77.062789
+altitude       : 10 m
+gps_accuracy   : ±7.2 m
+heading        : 49°
+speed          : 0.3 km/h
+status         : stationary
 phase          : overnight
-local_time     : 23:45
+local_time     : 02:12
 timezone       : America/New_York
 signal         : stable
-updated_utc    : 2026-03-12 03:45:23 UTC
+updated_utc    : 2026-03-12 06:12:33 UTC
 ```
 <!-- telemetry-presence:end -->
 
