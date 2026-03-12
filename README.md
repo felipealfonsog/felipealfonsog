@@ -260,7 +260,56 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 <!-- GNLZ:SITE_INTEL:START -->
 ```text
-bootstrapping telemetry...
+probe@watchops:~$ telemetry-acquire gnlz.cl
+status: ok
+
+felipe@watchops:~$ gnlz-site-intel --target gnlz.cl --mode full
+
+GNLZ.CL :: SITE OPERATIONS INTELLIGENCE
+---------------------------------------
+
+TARGET.............. gnlz.cl
+PROFILE............. FULL-SPECTRUM
+STATUS.............. ONLINE
+HTTP................ 200 OK
+LATENCY............. 216 ms
+TTFB................ 215 ms
+UPTIME_24H.......... 100.000%
+UPTIME_7D........... 99.987%
+UPTIME_30D.......... 99.982%
+TLS_POSTURE......... ACCEPTABLE
+TLS_EXPIRY.......... 56d
+EDGE_SIGNAL......... PRESENT
+ORIGIN_EXPOSURE..... EDGE MASKED
+DNS_FOOTPRINT....... CLEAN
+ASN_HINT............ EDGE MASKED
+HEADER_HYGIENE...... PARTIAL
+HSTS................ PASS
+CSP................. MISS
+XFO................. PASS
+REFPOL.............. PASS
+PERMPOL............. PASS
+ROBOTS.............. PRESENT
+SECURITYTXT......... ABSENT
+TOR_BROWSER_COMPAT.. FAIL
+TOR_FETCH_MODE...... SOCKS5
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+ONION_STATUS........ NOT_PRESENT
+ONION_LOCATION...... ABSENT
+SERVER_HINT......... Unknown
+OS_HINT............. Unknown
+DETECTION_MODEL..... banner+tcl+tls
+CONFIDENCE.......... LOW
+VIEWS_24H........... 1284
+VIEWS_7D............ 6882
+UNIQUES_24H......... 402
+BOT_RATIO........... 11.8%
+CACHE_SIGNAL........ UNKNOWN
+CONTENT_LENGTH...... 38 KB
+ANOMALY_SIGNAL...... NONE
+LAST_PROBE_UTC...... 2026-03-12T23:49:10Z
+DATA_STATE.......... LIVE
+PROBE_CONFIDENCE.... HIGH
 ```
 <!-- GNLZ:SITE_INTEL:END -->
 
