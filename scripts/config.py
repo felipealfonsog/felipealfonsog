@@ -70,7 +70,7 @@ TOR_TIMEOUT_SECONDS = 35
 
 REQUEST_TIMEOUT_SECONDS = 25
 VERIFY_TLS = True
-USER_AGENT = "gnlz-site-intel/1.0 (+https://gnlz.cl)"
+USER_AGENT = "gnlz-site-intel/2.0 (+https://gnlz.cl)"
 
 TLS_STRICT_DAYS_THRESHOLD = 21
 
@@ -119,7 +119,11 @@ MODE_FIELDS = {
     },
     "ops": {
         "SHOW_PROFILE": True,
+        "SHOW_HTTP": True,
+        "SHOW_LATENCY": True,
         "SHOW_TTFB": True,
+        "SHOW_UPTIME": True,
+        "SHOW_TLS": True,
         "SHOW_EDGE": False,
         "SHOW_ORIGIN_EXPOSURE": False,
         "SHOW_DNS": False,
