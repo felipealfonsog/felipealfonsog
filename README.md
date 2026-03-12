@@ -263,20 +263,20 @@ The “Google Translate” badge redirects to an automatic translation of this p
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Alexandria hospitality sector
-location       : pedestrian_axis
-latitude       : 38.802406
-longitude      : -77.063125
-altitude       : 107 m
-gps_accuracy   : ±4.6 m
-heading        : 269°
-speed          : 6.8 km/h
-status         : meeting
+zone           : Reston tech belt
+location       : office
+latitude       : 38.958607
+longitude      : -77.357108
+altitude       : 127 m
+gps_accuracy   : ±3.9 m
+heading        : 148°
+speed          : 5.4 km/h
+status         : walking
 phase          : workday
-local_time     : 14:12
+local_time     : 17:06
 timezone       : America/New_York
-signal         : nominal
-updated_utc    : 2026-03-12 18:12:17 UTC
+signal         : stable
+updated_utc    : 2026-03-12 21:06:57 UTC
 ```
 <!-- telemetry-presence:end -->
 
