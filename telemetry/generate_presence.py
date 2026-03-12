@@ -12,11 +12,12 @@ Este script:
 6. Aplica una pequeña variación GPS para simular movimiento
 7. Genera un bloque CLI-style
 8. Reemplaza automáticamente el bloque entre marcadores en README.md
+9. Si falla la generación, reutiliza el último snapshot válido
 """
 
 import json
 import random
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Tuple
@@ -33,6 +34,7 @@ README_PATH = ROOT / "README.md"
 
 ACTIVE_CITY_FILE = TELEMETRY_DIR / "active-city.json"
 CITIES_FILE = TELEMETRY_DIR / "cities.json"
+LAST_PRESENCE_FILE = TELEMETRY_DIR / "last_presence.json"
 
 START_MARKER = "<!-- telemetry-presence:start -->"
 END_MARKER = "<!-- telemetry-presence:end -->"
@@ -68,34 +70,50 @@ class PresenceState:
 # ============================================================
 
 def load_json(path: Path) -> Dict:
-    """Carga un JSON y retorna un dict."""
     with path.open("r", encoding="utf-8") as f:
         return json.load(f)
 
 
+def save_json(path: Path, data: Dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
 def deterministic_rng(*parts: str) -> random.Random:
-    """
-    Genera un RNG determinista a partir de una semilla estable.
-    Esto permite cambios predecibles por slot temporal sin caos absoluto.
-    """
     seed_str = "::".join(parts)
     seed = sum(ord(c) * (i + 1) for i, c in enumerate(seed_str))
     return random.Random(seed)
 
 
 def get_local_datetime(tz_name: str) -> datetime:
-    """Obtiene fecha y hora actual en la zona horaria de la ciudad."""
     return datetime.now(ZoneInfo(tz_name))
 
 
 def get_utc_string() -> str:
-    """Retorna timestamp UTC formateado."""
     return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
 
 def format_local_time(dt: datetime) -> str:
-    """Hora local compacta HH:MM."""
     return dt.strftime("%H:%M")
+
+
+def state_to_dict(state: PresenceState) -> Dict:
+    return asdict(state)
+
+
+def dict_to_state(data: Dict) -> PresenceState:
+    return PresenceState(**data)
+
+
+def save_last_presence(state: PresenceState) -> None:
+    save_json(LAST_PRESENCE_FILE, state_to_dict(state))
+
+
+def load_last_presence() -> PresenceState:
+    if not LAST_PRESENCE_FILE.exists():
+        raise RuntimeError("No existe cache de last_presence.json")
+    return dict_to_state(load_json(LAST_PRESENCE_FILE))
 
 
 # ============================================================
@@ -103,9 +121,6 @@ def format_local_time(dt: datetime) -> str:
 # ============================================================
 
 def get_phase(local_dt: datetime) -> str:
-    """
-    Determina la fase del día según la hora local.
-    """
     hour = local_dt.hour
 
     if 5 <= hour <= 7:
@@ -120,11 +135,6 @@ def get_phase(local_dt: datetime) -> str:
 
 
 def get_phase_profiles(phase: str) -> Dict[str, List[str]]:
-    """
-    Define qué tipos de lugares son plausibles según la fase.
-    Incluye también los tipos especiales usados en Santiago:
-    urban_sector y residential_sector.
-    """
     profiles = {
         "early_morning": {
             "allowed_locations": [
@@ -201,30 +211,21 @@ def get_phase_profiles(phase: str) -> Dict[str, List[str]]:
 # ============================================================
 
 def build_time_slot(local_dt: datetime) -> str:
-    """
-    Agrupa el tiempo en slots de 15 minutos para dar continuidad.
-    """
     minute_bucket = (local_dt.minute // 15) * 15
     return f"{local_dt:%Y-%m-%d %H}:{minute_bucket:02d}"
 
 
 def choose_zone_and_point(city_key: str, city_data: Dict, phase: str, local_dt: datetime) -> Tuple[Dict, Dict]:
-    """
-    Elige una zona y un punto de forma determinista, priorizando
-    puntos compatibles con la fase del día.
-    """
     phase_profile = get_phase_profiles(phase)
     allowed_locations = set(phase_profile["allowed_locations"])
 
     slot = build_time_slot(local_dt)
     rng = deterministic_rng(city_key, phase, slot)
 
-    zones = city_data["zones"]
-
     candidate_pairs = []
     fallback_pairs = []
 
-    for zone in zones:
+    for zone in city_data["zones"]:
         for point in zone["points"]:
             pair = (zone, point)
             fallback_pairs.append(pair)
@@ -241,9 +242,6 @@ def choose_zone_and_point(city_key: str, city_data: Dict, phase: str, local_dt: 
 # ============================================================
 
 def apply_coordinate_jitter(lat: float, lon: float, city_key: str, phase: str, local_dt: datetime) -> Tuple[float, float]:
-    """
-    Aplica una microvariación a las coordenadas.
-    """
     slot = build_time_slot(local_dt)
     rng = deterministic_rng("jitter", city_key, phase, slot)
 
@@ -254,9 +252,6 @@ def apply_coordinate_jitter(lat: float, lon: float, city_key: str, phase: str, l
 
 
 def choose_heading_speed_status_signal(city_key: str, phase: str, local_dt: datetime) -> Tuple[int, float, str, str, float, int]:
-    """
-    Elige heading, speed, status, signal, accuracy y altitud simulada.
-    """
     slot = build_time_slot(local_dt)
     rng = deterministic_rng("motion", city_key, phase, slot)
 
@@ -286,10 +281,7 @@ def choose_heading_speed_status_signal(city_key: str, phase: str, local_dt: date
 # RENDER DEL BLOQUE CLI
 # ============================================================
 
-def build_cli_block(state: PresenceState) -> str:
-    """
-    Renderiza el widget como bloque de texto estilo terminal.
-    """
+def build_cli_block(state: PresenceState, used_fallback: bool = False) -> str:
     lines = [
         "Presence Vector Telemetry — Remote Node",
         "────────────────────────────────────────────",
@@ -310,6 +302,10 @@ def build_cli_block(state: PresenceState) -> str:
         f"signal         : {state.signal}",
         f"updated_utc    : {state.updated_utc}"
     ]
+
+    if used_fallback:
+        lines.append("cache_state    : retained_last_snapshot")
+
     return "\n".join(lines)
 
 
@@ -318,9 +314,6 @@ def build_cli_block(state: PresenceState) -> str:
 # ============================================================
 
 def update_readme_block(readme_path: Path, cli_block: str) -> None:
-    """
-    Reemplaza el bloque entre los marcadores del README.
-    """
     readme = readme_path.read_text(encoding="utf-8")
 
     start_index = readme.find(START_MARKER)
@@ -348,10 +341,6 @@ def update_readme_block(readme_path: Path, cli_block: str) -> None:
 # ============================================================
 
 def generate_presence_state() -> PresenceState:
-    """
-    Carga configuración, selecciona ciudad/zona/punto, aplica jitter y
-    construye el estado final.
-    """
     active_data = load_json(ACTIVE_CITY_FILE)
     cities_data = load_json(CITIES_FILE)
 
@@ -401,11 +390,24 @@ def generate_presence_state() -> PresenceState:
 
 
 def main() -> None:
-    """
-    Entry point principal.
-    """
-    state = generate_presence_state()
-    cli_block = build_cli_block(state)
+    used_fallback = False
+
+    try:
+        state = generate_presence_state()
+        save_last_presence(state)
+    except Exception as e:
+        print(f"[warn] failed to generate fresh telemetry: {e}")
+
+        try:
+            state = load_last_presence()
+            used_fallback = True
+            print("[info] using cached last_presence.json")
+        except Exception as cache_error:
+            raise RuntimeError(
+                f"No se pudo generar estado nuevo ni cargar cache previa: {cache_error}"
+            ) from e
+
+    cli_block = build_cli_block(state, used_fallback=used_fallback)
     update_readme_block(README_PATH, cli_block)
     print(cli_block)
 
