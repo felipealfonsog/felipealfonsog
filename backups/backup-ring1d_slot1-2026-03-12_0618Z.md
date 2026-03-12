@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-11_0616Z
+ snapshot_utc : 2026-03-12_0618Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -248,9 +248,52 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 -->
 
+<!--
 
+ _____ _____ _     _____ _      _____ _____ ____ ___  _   ____  ____  _____ ____  _____ _      ____  _____
+/__ __Y  __// \   /  __// \__/|/  __//__ __Y  __\\  \//  /  __\/  __\/  __// ___\/  __// \  /|/   _\/  __/
+  / \ |  \  | |   |  \  | |\/|||  \    / \ |  \/| \  /   |  \/||  \/||  \  |    \|  \  | |\ |||  /  |  \  
+  | | |  /_ | |_/\|  /_ | |  |||  /_   | | |    / / /    |  __/|    /|  /_ \___ ||  /_ | | \|||  \__|  /_ 
+  \_/ \____\\____/\____\\_/  \|\____\  \_/ \_/\_\/_/     \_/   \_/\_\\____\\____/\____\\_/  \|\____/\____\
+                                                                                                          
+                                                                                                          
+-->
 
+#
 
+<details open>
+<summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • city-local profile active)*</summary>
+
+  
+<!-- telemetry-presence:start -->
+```text
+Presence Vector Telemetry — Remote Node
+────────────────────────────────────────────
+region         : Northern Virginia, United States
+zone           : Alexandria hospitality sector
+location       : pedestrian_axis
+latitude       : 38.803408
+longitude      : -77.062789
+altitude       : 10 m
+gps_accuracy   : ±7.2 m
+heading        : 49°
+speed          : 0.3 km/h
+status         : stationary
+phase          : overnight
+local_time     : 02:12
+timezone       : America/New_York
+signal         : stable
+updated_utc    : 2026-03-12 06:12:33 UTC
+```
+<!-- telemetry-presence:end -->
+
+</details>
+
+> [!NOTE]
+> <sub>*Telemetry Presence — operational-style presence layer generated from curated city profiles, local timezone logic, and rotating urban position telemetry sets.</sub><br>
+> <sub>Telemetry fields, movement states, and location labels are updated automatically through automation.</sub>
+
+[![telemetry-presence](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml)
 
 #
 
@@ -359,7 +402,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-10 15:43:55Z
+DSN snapshot (UTC)       : 2026-03-11 21:35:56Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -370,15 +413,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.885 AU
-Heliocentric distance    : 169.925 AU
-Relative speed           : 18.987 km/s
+Earth distance           : 25.41e9 km | 169.880 AU
+Heliocentric distance    : 169.937 AU
+Relative speed           : 18.966 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:54
-Round-trip latency       : 47:05:47
+One-way light time       : 23:32:51
+Round-trip latency       : 47:05:42
 ------------------------------------------------------------
-Δ distance (since last)  : -85,016 km
-Mission age              : 48 years, 198 days
+Δ distance (since last)  : -327,647 km
+Mission age              : 48 years, 199 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -389,19 +432,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.714 AU
-Heliocentric distance    : 142.310 AU
-Relative speed           : 25.132 km/s
+Earth distance           : 21.35e9 km | 142.710 AU
+Heliocentric distance    : 142.321 AU
+Relative speed           : 24.975 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:55
-Round-trip latency       : 39:33:49
+One-way light time       : 19:46:53
+Round-trip latency       : 39:33:46
 ------------------------------------------------------------
-Δ distance (since last)  : -54,108 km
-Mission age              : 48 years, 214 days
+Δ distance (since last)  : -218,710 km
+Mission age              : 48 years, 215 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-10 15:44:01Z
+Report generated (UTC)   : 2026-03-11 21:36:00Z
 ```
 
 <!-- VOYAGER:END -->
@@ -929,17 +972,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — No Association
-Last played (UTC)         : 2026-03-11 02:12:08Z
+Last played               : Bleed — Burnt (By the Sun)
+Last played (UTC)         : 2026-03-11 18:47:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:54:56
-Telemetry age             : 01:54:56
-Δ time (since last report): 00:01:23
+Time since last play      : 09:20:06
+Telemetry age             : 09:20:06
+Δ time (since last report): 00:01:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -951,14 +994,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 12
+Dominant artist           : Pantera
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-04 04:07:03Z → 2026-03-11 04:07:03Z
+Week window (UTC)         : 2026-03-05 04:07:43Z → 2026-03-12 04:07:43Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -966,25 +1009,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
-Peak hour (7d)            : 11:00
-Heatmap (24h)             :                       █▅
-Heatmap (7d)              : ▂  ▂     ▃▄█▆▇        ▆▃
+Peak hour (24h)           : 15:00
+Peak hour (7d)            : 15:00
+Heatmap (24h)             :   ▁           ▁█        
+Heatmap (7d)              : ▂ ▁▂       ▆▆▇▁█      ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : 2
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 01:45:12
+Avg inter-play gap (7d)   : 02:02:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(10) | post-grunge(9) | alternative metal(1) | groove metal(1) | noise rock(1) | post-hardcore(1)
-Top genres (7d)           : groove metal(37) | metal(28) | heavy metal(23) | thrash metal(23) | grunge(18) | alternative metal(13)
+Top genres (24h)          : groove metal(6) | heavy metal(6) | metal(6) | post-grunge(6) | thrash metal(6) | alternative metal(5)
+Top genres (7d)           : groove metal(31) | heavy metal(22) | metal(22) | thrash metal(22) | grunge(19) | alternative metal(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-11 04:07:03Z
+Report generated (UTC)    : 2026-03-12 04:07:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1389,7 +1432,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 11/03/2026 04:40:32 UTC
+Last updated     : 12/03/2026 04:40:41 UTC
 
 ```
 <!--END_SECTION:wakastats-->
