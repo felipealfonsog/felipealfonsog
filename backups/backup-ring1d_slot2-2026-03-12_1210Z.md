@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-11_1211Z
+ snapshot_utc : 2026-03-12_1210Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -248,9 +248,52 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 -->
 
+<!--
 
+ _____ _____ _     _____ _      _____ _____ ____ ___  _   ____  ____  _____ ____  _____ _      ____  _____
+/__ __Y  __// \   /  __// \__/|/  __//__ __Y  __\\  \//  /  __\/  __\/  __// ___\/  __// \  /|/   _\/  __/
+  / \ |  \  | |   |  \  | |\/|||  \    / \ |  \/| \  /   |  \/||  \/||  \  |    \|  \  | |\ |||  /  |  \  
+  | | |  /_ | |_/\|  /_ | |  |||  /_   | | |    / / /    |  __/|    /|  /_ \___ ||  /_ | | \|||  \__|  /_ 
+  \_/ \____\\____/\____\\_/  \|\____\  \_/ \_/\_\/_/     \_/   \_/\_\\____\\____/\____\\_/  \|\____/\____\
+                                                                                                          
+                                                                                                          
+-->
 
+#
 
+<details open>
+<summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • city-local profile active)*</summary>
+
+  
+<!-- telemetry-presence:start -->
+```text
+Presence Vector Telemetry — Remote Node
+────────────────────────────────────────────
+region         : Northern Virginia, United States
+zone           : Reston tech belt
+location       : cafe
+latitude       : 38.960272
+longitude      : -77.355507
+altitude       : 111 m
+gps_accuracy   : ±8.2 m
+heading        : 21°
+speed          : 8.4 km/h
+status         : in_transit
+phase          : morning
+local_time     : 08:03
+timezone       : America/New_York
+signal         : nominal
+updated_utc    : 2026-03-12 12:03:27 UTC
+```
+<!-- telemetry-presence:end -->
+
+</details>
+
+> [!NOTE]
+> <sub>*Telemetry Presence — operational-style presence layer generated from curated city profiles, local timezone logic, and rotating urban position telemetry sets.</sub><br>
+> <sub>Telemetry fields, movement states, and location labels are updated automatically through automation.</sub>
+
+[![telemetry-presence](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml)
 
 #
 
@@ -359,7 +402,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-11 09:37:24Z
+DSN snapshot (UTC)       : 2026-03-11 21:35:56Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -370,14 +413,14 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.882 AU
-Heliocentric distance    : 169.932 AU
-Relative speed           : 18.973 km/s
+Earth distance           : 25.41e9 km | 169.880 AU
+Heliocentric distance    : 169.937 AU
+Relative speed           : 18.966 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:52
-Round-trip latency       : 47:05:44
+One-way light time       : 23:32:51
+Round-trip latency       : 47:05:42
 ------------------------------------------------------------
-Δ distance (since last)  : -489,889 km
+Δ distance (since last)  : -327,647 km
 Mission age              : 48 years, 199 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -389,19 +432,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.711 AU
-Heliocentric distance    : 142.316 AU
-Relative speed           : 25.037 km/s
+Earth distance           : 21.35e9 km | 142.710 AU
+Heliocentric distance    : 142.321 AU
+Relative speed           : 24.975 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:54
-Round-trip latency       : 39:33:47
+One-way light time       : 19:46:53
+Round-trip latency       : 39:33:46
 ------------------------------------------------------------
-Δ distance (since last)  : -318,065 km
+Δ distance (since last)  : -218,710 km
 Mission age              : 48 years, 215 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-11 09:37:29Z
+Report generated (UTC)   : 2026-03-11 21:36:00Z
 ```
 
 <!-- VOYAGER:END -->
@@ -929,17 +972,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — Cemetery
-Last played (UTC)         : 2026-03-11 05:06:52Z
+Last played               : Bleed — Burnt (By the Sun)
+Last played (UTC)         : 2026-03-11 18:47:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:29:18
-Telemetry age             : 04:29:18
-Δ time (since last report): 00:00:24
+Time since last play      : 14:49:52
+Telemetry age             : 14:49:52
+Δ time (since last report): 00:01:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -952,13 +995,13 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 11
-Dominant artist           : Silverchair
+Dominant artist           : Pantera
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-04 09:36:10Z → 2026-03-11 09:36:10Z
+Week window (UTC)         : 2026-03-05 09:37:28Z → 2026-03-12 09:37:28Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -966,25 +1009,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
-Peak hour (7d)            : 11:00
-Heatmap (24h)             :   ▁                   █▅
-Heatmap (7d)              : ▂ ▁▂     ▂▄█▆▇        ▆▃
+Peak hour (24h)           : 15:00
+Peak hour (7d)            : 15:00
+Heatmap (24h)             :               ▁█        
+Heatmap (7d)              : ▂ ▁▂       ▆▆▇▁█      ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 01:48:41
+Sessions (24h)            : 1
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:02:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(11) | post-grunge(10) | alternative metal(1) | groove metal(1) | noise rock(1) | post-hardcore(1)
-Top genres (7d)           : groove metal(36) | metal(27) | heavy metal(23) | thrash metal(23) | grunge(19) | alternative metal(13)
+Top genres (24h)          : groove metal(6) | heavy metal(6) | metal(6) | thrash metal(6) | alternative metal(5) | nu metal(5)
+Top genres (7d)           : groove metal(31) | heavy metal(22) | metal(22) | thrash metal(22) | grunge(19) | alternative metal(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-11 09:36:10Z
+Report generated (UTC)    : 2026-03-12 09:37:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1337,9 +1380,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 March 2026
+From: 04 December 2023 - To: 12 March 2026
 
-Total Time       : 996 hrs 49 mins
+Total Time       : 997 hrs 18 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1348,11 +1391,11 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          196 hrs 36 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.72 %
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.55 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.93 %
+Other          196 hrs 49 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.74 %
+Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.54 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.92 %
 HTML           128 hrs 25 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.88 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.91 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.90 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.05 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.39 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.01 %
@@ -1361,14 +1404,14 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.32 %
-Mac            592 hrs 8 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.40 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.29 %
+Mac            592 hrs 50 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.44 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.57 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.69 %
-Firefox        176 hrs 35 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  17.72 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.54 %
+Vim            325 hrs 54 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.68 %
+Firefox        177 hrs 17 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  17.78 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
 Terminal       6 hrs 46 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.68 %
 FileZilla      4 hrs 28 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.45 %
@@ -1382,14 +1425,14 @@ Notes          47 mins        ○○○○○○○○○○○○○○○○�
 CATEGORIES
 ----------
 Coding         1,013 hrs 1 min ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       173 hrs 57 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  17.45 %
+Browsing       174 hrs 39 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  17.51 %
 Meeting        4 hrs 25 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.44 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 11/03/2026 11:18:00 UTC
+Last updated     : 12/03/2026 11:17:58 UTC
 
 ```
 <!--END_SECTION:wakastats-->
