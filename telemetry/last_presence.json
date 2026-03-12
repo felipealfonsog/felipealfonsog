@@ -1,0 +1,19 @@
+{
+  "city_key": "santiago_centro",
+  "city_label": "Santiago, Chile",
+  "timezone_name": "America/Santiago",
+  "country": "Chile",
+  "zone_name": "Santiago Centro",
+  "location_name": "pedestrian_axis",
+  "latitude": -33.4378,
+  "longitude": -70.6469,
+  "altitude_m": 86,
+  "gps_accuracy_m": 4.3,
+  "heading_deg": 44,
+  "speed_kmh": 1.3,
+  "status": "walking",
+  "phase": "evening",
+  "local_time_str": "21:12",
+  "signal": "nominal",
+  "updated_utc": "2026-03-12 00:12:00 UTC"
+}
