@@ -263,20 +263,20 @@ The “Google Translate” badge redirects to an automatic translation of this p
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : McLean perimeter
-location       : cafe
-latitude       : 38.934715
-longitude      : -77.180896
-altitude       : 102 m
-gps_accuracy   : ±8.2 m
-heading        : 296°
-speed          : 0.2 km/h
-status         : in_transit
+zone           : Tysons corridor
+location       : transit_corridor
+latitude       : 38.920655
+longitude      : -77.223003
+altitude       : 10 m
+gps_accuracy   : ±6.8 m
+heading        : 139°
+speed          : 0.8 km/h
+status         : walking
 phase          : evening
-local_time     : 19:53
+local_time     : 20:04
 timezone       : America/New_York
-signal         : nominal
-updated_utc    : 2026-03-11 23:53:58 UTC
+signal         : stable
+updated_utc    : 2026-03-12 00:04:30 UTC
 ```
 <!-- telemetry-presence:end -->
 
