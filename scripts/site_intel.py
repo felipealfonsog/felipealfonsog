@@ -3,13 +3,11 @@ from __future__ import annotations
 
 import json
 import math
-import os
 import re
 import socket
 import ssl
 import sys
 import time
-from collections import OrderedDict
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, Optional, Tuple
@@ -55,7 +53,9 @@ def human_kb(num_bytes: int) -> str:
 
 
 def format_ms(value: Optional[float]) -> str:
-    if value is None or math.isnan(value):
+    if value is None:
+        return "N/A"
+    if isinstance(value, float) and math.isnan(value):
         return "N/A"
     return f"{round(value)} ms"
 
@@ -97,15 +97,25 @@ def check_http(url: str) -> Dict[str, Any]:
         verify=config.VERIFY_TLS,
     )
     elapsed = (time.perf_counter() - start) * 1000.0
-
-    # crude TTFB approximation from requests elapsed
     ttfb_ms = response.elapsed.total_seconds() * 1000.0
 
     content_length = response.headers.get("content-length")
-    if content_length is not None and content_length.isdigit():
+    if content_length is not None and str(content_length).isdigit():
         content_length_num = int(content_length)
     else:
         content_length_num = len(response.content)
+
+    protocol_hint = "http/1.1"
+    try:
+        raw_version = getattr(response.raw, "version", None)
+        if raw_version == 11:
+            protocol_hint = "http/1.1"
+        elif raw_version == 10:
+            protocol_hint = "http/1.0"
+        elif raw_version == 20:
+            protocol_hint = "h2"
+    except Exception:
+        pass
 
     return {
         "final_url": response.url,
@@ -115,9 +125,10 @@ def check_http(url: str) -> Dict[str, Any]:
         "ttfb_ms": ttfb_ms,
         "headers": dict(response.headers),
         "content_length": content_length_num,
-        "text_sample": response.text[:6000],
+        "text_sample": response.text[:12000],
         "redirect_chain": len(response.history),
-        "ok": True,
+        "ok": response.ok,
+        "protocol_hint": protocol_hint,
     }
 
 
@@ -177,22 +188,29 @@ def resolve_dns(hostname: str) -> Dict[str, Any]:
     return result
 
 
-def detect_edge(headers: Dict[str, str]) -> Tuple[str, str]:
-    lower = {k.lower(): v for k, v in headers.items()}
+def detect_edge(headers: Dict[str, str]) -> Tuple[str, str, str]:
+    lower = {k.lower(): str(v) for k, v in headers.items()}
     server = lower.get("server", "")
-    powered = lower.get("x-powered-by", "")
-    cf_ray = lower.get("cf-ray")
     via = lower.get("via", "")
     x_cache = lower.get("x-cache", "")
-    if cf_ray or "cloudflare" in server.lower():
-        return "PRESENT", "EDGE MASKED"
-    if "cloudfront" in via.lower() or "cloudfront" in x_cache.lower():
-        return "PRESENT", "EDGE DISTRIBUTED"
-    if any(token in server.lower() for token in ("akamai", "fastly")):
-        return "PRESENT", "EDGE DISTRIBUTED"
-    if powered:
-        return "POSSIBLE", "PARTIAL"
-    return "ABSENT", "LOW"
+    cf_ray = lower.get("cf-ray", "")
+    cf_cache_status = lower.get("cf-cache-status", "")
+    x_served_by = lower.get("x-served-by", "")
+    x_amz_cf_id = lower.get("x-amz-cf-id", "")
+
+    if cf_ray or cf_cache_status or "cloudflare" in server:
+        return "PRESENT", "EDGE MASKED", "CLOUDFLARE"
+    if x_amz_cf_id or "cloudfront" in via.lower() or "cloudfront" in x_cache.lower():
+        return "PRESENT", "EDGE DISTRIBUTED", "CLOUDFRONT"
+    if "fastly" in x_served_by.lower() or "fastly" in via.lower():
+        return "PRESENT", "EDGE DISTRIBUTED", "FASTLY"
+    if "akamai" in server.lower() or "akamai" in via.lower():
+        return "PRESENT", "EDGE DISTRIBUTED", "AKAMAI"
+    if "varnish" in via.lower() or "varnish" in x_cache.lower():
+        return "PRESENT", "PARTIAL", "VARNISH"
+    if server or via or x_cache:
+        return "POSSIBLE", "PARTIAL", "UNSPECIFIED"
+    return "ABSENT", "LOW", "NONE"
 
 
 def header_hygiene(headers: Dict[str, str]) -> Dict[str, str]:
@@ -208,19 +226,23 @@ def header_hygiene(headers: Dict[str, str]) -> Dict[str, str]:
                 passes += 1
         else:
             result[alias] = "N/A"
+
     if passes == len(config.HEADER_EXPECTATIONS):
         result["HEADER_HYGIENE"] = "HARDENED"
     elif passes >= max(1, len(config.HEADER_EXPECTATIONS) // 2):
         result["HEADER_HYGIENE"] = "PARTIAL"
     else:
         result["HEADER_HYGIENE"] = "WEAK"
+
     return result
 
 
 def detect_server_hint(headers: Dict[str, str]) -> Tuple[str, str, str, str]:
-    lower = {k.lower(): v for k, v in headers.items()}
+    lower = {k.lower(): str(v) for k, v in headers.items()}
     server = lower.get("server", "")
+    powered = lower.get("x-powered-by", "")
     server_low = server.lower()
+    powered_low = powered.lower()
 
     if "apache" in server_low:
         return "Apache-derived", "unix-like", "banner+tcl+tls", "LOW"
@@ -230,8 +252,12 @@ def detect_server_hint(headers: Dict[str, str]) -> Tuple[str, str, str, str]:
         return "LiteSpeed-derived", "unix-like", "banner+tcl+tls", "LOW"
     if "caddy" in server_low:
         return "Caddy-derived", "unix-like", "banner+tcl+tls", "LOW"
-    if "iis" in server_low:
+    if "iis" in server_low or "asp.net" in powered_low:
         return "IIS-derived", "windows-like", "banner+tcl+tls", "LOW"
+    if "php" in powered_low:
+        return "PHP-backed", "unix-like", "banner+tcl+tls", "LOW"
+    if server_low or powered_low:
+        return "Application-fronted", "unix-like", "banner+tcl+tls", "LOW"
 
     return "Unknown", "Unknown", "banner+tcl+tls", "LOW"
 
@@ -317,14 +343,8 @@ def calculate_uptime(previous: Dict[str, Any], current_ok: bool) -> Dict[str, st
     if not previous:
         return windows
 
-    # simple decay heuristic if current probe fails
     if not current_ok:
-        degraded = {
-            "uptime_24h": windows["uptime_24h"],
-            "uptime_7d": windows["uptime_7d"],
-            "uptime_30d": windows["uptime_30d"],
-        }
-        return degraded
+        return windows
 
     return windows
 
@@ -339,7 +359,7 @@ def collect_live() -> Dict[str, Any]:
     tor_data = tor_check(config.TARGET_URL, config.TARGET_EXPECTED_TEXT)
     analytics = read_analytics()
 
-    edge_signal, origin_exposure = detect_edge(http_data["headers"])
+    edge_signal, origin_exposure, edge_provider = detect_edge(http_data["headers"])
     hygiene = header_hygiene(http_data["headers"])
     server_hint, os_hint, detection_model, fp_conf = detect_server_hint(http_data["headers"])
     posture = tls_posture(cert_data.get("tls_days_left"), hygiene["HEADER_HYGIENE"])
@@ -359,9 +379,10 @@ def collect_live() -> Dict[str, Any]:
         "tls_expires_utc": cert_data.get("tls_expires_utc"),
         "tls_days_left": cert_data.get("tls_days_left"),
         "edge_signal": edge_signal,
+        "edge_provider": edge_provider,
         "origin_exposure": origin_exposure,
         "dns_footprint": "CLEAN" if dns_data.get("ipv4") else "UNKNOWN",
-        "asn_hint": "EDGE MASKED" if edge_signal in ("PRESENT", "POSSIBLE") else "DIRECT",
+        "asn_hint": edge_provider if edge_provider != "NONE" else ("DIRECT" if dns_data.get("ipv4") else "UNKNOWN"),
         "header_hygiene": hygiene["HEADER_HYGIENE"],
         "header_checks": {k: v for k, v in hygiene.items() if k != "HEADER_HYGIENE"},
         "robots": probe_special_file(robots_url),
@@ -374,18 +395,19 @@ def collect_live() -> Dict[str, Any]:
         "views_7d": analytics.get("views_7d"),
         "uniques_24h": analytics.get("uniques_24h"),
         "bot_ratio": analytics.get("bot_ratio"),
-        "cache_signal": "ACTIVE" if "cache-control" in {k.lower() for k in http_data["headers"].keys()} else "UNKNOWN",
+        "cache_signal": "ACTIVE" if any(k.lower() == "cache-control" for k in http_data["headers"].keys()) else "UNKNOWN",
         "content_length": human_kb(http_data["content_length"]),
         "anomaly_signal": "NONE",
         "last_probe_utc": now_utc_iso(),
         "data_state": "LIVE",
         "probe_confidence": "HIGH",
-        "http_protocol": "h2" if cert_data.get("alpn") == "h2" else "http/1.1",
+        "http_protocol": cert_data.get("alpn") or http_data.get("protocol_hint") or "http/1.1",
         "tls_cipher": cert_data.get("tls_cipher"),
         "alpn": cert_data.get("alpn"),
         "tls_issuer": cert_data.get("tls_issuer"),
         "ipv4": dns_data.get("ipv4"),
         "ipv6": dns_data.get("ipv6"),
+        "rdns": dns_data.get("rdns"),
         **tor_data,
     }
     return payload
@@ -413,6 +435,7 @@ def fallback_snapshot(previous: Dict[str, Any]) -> Dict[str, Any]:
             "tls_posture": "UNKNOWN",
             "tls_days_left": None,
             "edge_signal": "UNKNOWN",
+            "edge_provider": "UNKNOWN",
             "origin_exposure": "UNKNOWN",
             "dns_footprint": "UNKNOWN",
             "asn_hint": "UNKNOWN",
@@ -445,6 +468,7 @@ def fallback_snapshot(previous: Dict[str, Any]) -> Dict[str, Any]:
             "tls_issuer": "N/A",
             "ipv4": None,
             "ipv6": None,
+            "rdns": None,
         }
 
     snap = previous.copy()
@@ -566,8 +590,11 @@ def render_cli(snapshot: Dict[str, Any]) -> str:
     if toggles["SHOW_HEADERS"]:
         append_line(lines, "HEADER_HYGIENE......", snapshot.get("header_hygiene"))
         checks = snapshot.get("header_checks", {})
-        for key in ("HSTS", "CSP", "XFO", "REFPOL", "PERMPOL"):
-            append_line(lines, f"{key+'.':<20}".replace(" ", "."), checks.get(key, "N/A"))
+        append_line(lines, "HSTS................", checks.get("HSTS", "N/A"))
+        append_line(lines, "CSP.................", checks.get("CSP", "N/A"))
+        append_line(lines, "XFO.................", checks.get("XFO", "N/A"))
+        append_line(lines, "REFPOL..............", checks.get("REFPOL", "N/A"))
+        append_line(lines, "PERMPOL.............", checks.get("PERMPOL", "N/A"))
 
     if toggles["SHOW_ROBOTS"]:
         append_line(lines, "ROBOTS..............", snapshot.get("robots"))
@@ -641,19 +668,46 @@ def render_cli(snapshot: Dict[str, Any]) -> str:
 
 
 def replace_readme_block(readme_path: Path, new_block: str) -> None:
+    """
+    Robust README block replacement.
+
+    Behaviour:
+    - If START/END markers exist -> replace the block.
+    - If markers do not exist -> append block to end of README.
+    """
+
+    if not readme_path.exists():
+        raise RuntimeError(f"README not found: {readme_path}")
+
     content = readme_path.read_text(encoding="utf-8")
+
+    replacement = (
+        f"{config.README_START}\n"
+        f"```text\n"
+        f"{new_block}\n"
+        f"```\n"
+        f"{config.README_END}"
+    )
+
     pattern = re.compile(
         rf"{re.escape(config.README_START)}.*?{re.escape(config.README_END)}",
         flags=re.DOTALL,
     )
-    replacement = (
-        f"{config.README_START}\n"
-        f"```text\n{new_block}\n```\n"
-        f"{config.README_END}"
-    )
-    new_content, count = pattern.subn(replacement, content)
-    if count == 0:
-        raise RuntimeError("README markers not found.")
+
+    if pattern.search(content):
+        new_content = pattern.sub(replacement, content, count=1)
+    else:
+        if not content.endswith("\n"):
+            content += "\n"
+
+        new_content = (
+            content
+            + "\n"
+            + "## GNLZ.CL Site Operations Intelligence\n\n"
+            + replacement
+            + "\n"
+        )
+
     readme_path.write_text(new_content, encoding="utf-8")
 
 
@@ -672,6 +726,7 @@ def main() -> int:
 
     cli = render_cli(snapshot)
     print(cli)
+    print("\nUpdating README telemetry block...\n")
 
     replace_readme_block(config.README_PATH, cli)
     return 0
