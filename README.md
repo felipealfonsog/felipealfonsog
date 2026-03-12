@@ -261,6 +261,7 @@ The “Google Translate” badge redirects to an automatic translation of this p
 <!-- GNLZ:SITE_INTEL:START -->
 ```text
 bootstrapping telemetry...
+```
 <!-- GNLZ:SITE_INTEL:END -->
 
 </details>
