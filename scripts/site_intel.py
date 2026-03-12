@@ -15,7 +15,7 @@ from urllib.parse import urlparse
 
 import requests
 
-import config
+import config_site_intel as config
 
 
 def now_utc_iso() -> str:
