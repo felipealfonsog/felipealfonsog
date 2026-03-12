@@ -973,9 +973,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 23:48:10
-Telemetry age             : 23:48:10
-Δ time (since last report): 02:54:12
+Time since last play      : 23:49:08
+Telemetry age             : 23:49:08
+Δ time (since last report): 00:00:59
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -987,14 +987,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
+Tracks played (last 24h)  : 3
 Dominant artist           : Bleed
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-05 18:35:46Z → 2026-03-12 18:35:46Z
+Week window (UTC)         : 2026-03-05 18:36:45Z → 2026-03-12 18:36:45Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -1016,11 +1016,11 @@ Avg inter-play gap (7d)   : 02:02:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(4) | nu metal(4) | post-grunge(4) | shoegaze(4)
+Top genres (24h)          : alternative metal(3) | nu metal(3) | post-grunge(3) | shoegaze(3)
 Top genres (7d)           : groove metal(31) | heavy metal(22) | metal(22) | thrash metal(22) | grunge(19) | alternative metal(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-12 18:35:46Z
+Report generated (UTC)    : 2026-03-12 18:36:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
