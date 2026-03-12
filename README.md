@@ -973,9 +973,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:53:58
-Telemetry age             : 20:53:58
-Δ time (since last report): 00:00:32
+Time since last play      : 23:48:10
+Telemetry age             : 23:48:10
+Δ time (since last report): 02:54:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -987,14 +987,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 11
-Dominant artist           : Pantera
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 4
+Dominant artist           : Bleed
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-05 15:41:35Z → 2026-03-12 15:41:35Z
+Week window (UTC)         : 2026-03-05 18:35:46Z → 2026-03-12 18:35:46Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -1004,7 +1004,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 15:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :               ▁█        
+Heatmap (24h)             :                █        
 Heatmap (7d)              : ▂ ▁▂       ▆▆▇▁█      ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -1016,11 +1016,11 @@ Avg inter-play gap (7d)   : 02:02:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(6) | heavy metal(6) | metal(6) | thrash metal(6) | alternative metal(5) | nu metal(5)
+Top genres (24h)          : alternative metal(4) | nu metal(4) | post-grunge(4) | shoegaze(4)
 Top genres (7d)           : groove metal(31) | heavy metal(22) | metal(22) | thrash metal(22) | grunge(19) | alternative metal(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-12 15:41:35Z
+Report generated (UTC)    : 2026-03-12 18:35:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
