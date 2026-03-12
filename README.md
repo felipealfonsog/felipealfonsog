@@ -973,9 +973,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:58:53
-Telemetry age             : 05:58:53
-Δ time (since last report): 00:00:13
+Time since last play      : 09:17:25
+Telemetry age             : 09:17:25
+Δ time (since last report): 03:18:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -987,14 +987,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 12
+Dominant artist           : Pantera
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-05 00:46:29Z → 2026-03-12 00:46:29Z
+Week window (UTC)         : 2026-03-05 04:05:01Z → 2026-03-12 04:05:01Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -1004,23 +1004,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 15:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :   ▁           ▁█      ▅▃
+Heatmap (24h)             :   ▁           ▁█        
 Heatmap (7d)              : ▂ ▁▂       ▆▆▇▁█      ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 10
 Avg inter-play gap (7d)   : 02:02:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(15) | grunge(11) | groove metal(7) | alternative metal(6) | heavy metal(6) | metal(6)
+Top genres (24h)          : groove metal(6) | heavy metal(6) | metal(6) | post-grunge(6) | thrash metal(6) | alternative metal(5)
 Top genres (7d)           : groove metal(31) | heavy metal(22) | metal(22) | thrash metal(22) | grunge(19) | alternative metal(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-12 00:46:29Z
+Report generated (UTC)    : 2026-03-12 04:05:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
