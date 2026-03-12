@@ -264,19 +264,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
 zone           : Reston tech belt
-location       : cafe
-latitude       : 38.960272
-longitude      : -77.355507
-altitude       : 111 m
-gps_accuracy   : ±8.2 m
-heading        : 21°
-speed          : 8.4 km/h
+location       : office
+latitude       : 38.958892
+longitude      : -77.357117
+altitude       : 88 m
+gps_accuracy   : ±4.5 m
+heading        : 49°
+speed          : 4.1 km/h
 status         : in_transit
 phase          : morning
-local_time     : 08:03
+local_time     : 11:15
 timezone       : America/New_York
-signal         : nominal
-updated_utc    : 2026-03-12 12:03:27 UTC
+signal         : stable
+updated_utc    : 2026-03-12 15:15:27 UTC
 ```
 <!-- telemetry-presence:end -->
 
