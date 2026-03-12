@@ -263,20 +263,20 @@ The “Google Translate” badge redirects to an automatic translation of this p
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Tysons corridor
-location       : hotel
-latitude       : 38.916649
-longitude      : -77.220466
-altitude       : 151 m
-gps_accuracy   : ±4.0 m
-heading        : 0°
-speed          : 0.3 km/h
+zone           : Reston tech belt
+location       : cafe
+latitude       : 38.960272
+longitude      : -77.355507
+altitude       : 111 m
+gps_accuracy   : ±8.2 m
+heading        : 21°
+speed          : 8.4 km/h
 status         : in_transit
-phase          : early_morning
-local_time     : 05:12
+phase          : morning
+local_time     : 08:03
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-12 09:12:18 UTC
+updated_utc    : 2026-03-12 12:03:27 UTC
 ```
 <!-- telemetry-presence:end -->
 
