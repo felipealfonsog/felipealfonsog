@@ -345,20 +345,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Alexandria hospitality sector
-location       : pedestrian_axis
-latitude       : 38.803323
-longitude      : -77.063324
-altitude       : 127 m
-gps_accuracy   : ±7.3 m
-heading        : 55°
-speed          : 0.4 km/h
-status         : low_movement
+zone           : Tysons corridor
+location       : hotel
+latitude       : 38.916754
+longitude      : -77.221003
+altitude       : 107 m
+gps_accuracy   : ±7.1 m
+heading        : 348°
+speed          : 0.5 km/h
+status         : stationary
 phase          : overnight
-local_time     : 23:44
+local_time     : 02:11
 timezone       : America/New_York
-signal         : stable
-updated_utc    : 2026-03-13 03:44:48 UTC
+signal         : nominal
+updated_utc    : 2026-03-13 06:11:41 UTC
 ```
 <!-- telemetry-presence:end -->
 
