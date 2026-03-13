@@ -262,17 +262,17 @@ The “Google Translate” badge redirects to an automatic translation of this p
 probe@watchops:~$ telemetry-acquire gnlz.cl
 status: ok
 
-felipe@watchops:~$ gnlz-site-intel --target gnlz.cl --mode blackbox
+felipe@watchops:~$ gnlz-site-intel --target gnlz.cl --mode full
 
 GNLZ.CL :: SITE OPERATIONS INTELLIGENCE
 ---------------------------------------
 
 TARGET.............. gnlz.cl
-PROFILE............. BLACKBOX
+PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 163 ms
-TTFB................ 161 ms
+LATENCY............. 171 ms
+TTFB................ 169 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -290,9 +290,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PARTIAL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -306,12 +306,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-HTTP_PROTOCOL....... http/1.1
-TLS_CIPHER.......... TLS_AES_256_GCM_SHA384
-ALPN................ N/A
-TLS_ISSUER.......... countryName=US, organizationName=Google Trust Services, commonName=WE1
-IPV6_REACHABLE...... YES
-LAST_PROBE_UTC...... 2026-03-13T01:23:03Z
+LAST_PROBE_UTC...... 2026-03-13T01:32:21Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
