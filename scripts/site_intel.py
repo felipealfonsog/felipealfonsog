@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import sys
+from pathlib import Path
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
 import json
 import math
 import re
 import socket
 import ssl
-import sys
 import time
 from datetime import datetime, timezone
-from pathlib import Path
 from typing import Any, Dict, Optional, Tuple
 from urllib.parse import urlparse
 
@@ -668,14 +673,6 @@ def render_cli(snapshot: Dict[str, Any]) -> str:
 
 
 def replace_readme_block(readme_path: Path, new_block: str) -> None:
-    """
-    Robust README block replacement.
-
-    Behaviour:
-    - If START/END markers exist -> replace the block.
-    - If markers do not exist -> append block to end of README.
-    """
-
     if not readme_path.exists():
         raise RuntimeError(f"README not found: {readme_path}")
 
