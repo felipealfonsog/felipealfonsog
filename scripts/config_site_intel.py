@@ -6,7 +6,7 @@ TARGET_URL = "https://gnlz.cl"
 TARGET_HOST = "gnlz.cl"
 TARGET_EXPECTED_TEXT = "gnlz.cl"
 
-MODE = "blackbox"  # minimal | ops | intel | full | blackbox
+MODE = "full"  # minimal | ops | intel | full | blackbox
 
 README_PATH = BASE_DIR / "README.md"
 CACHE_PATH = BASE_DIR / "data" / "last_probe.json"
