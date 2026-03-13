@@ -1049,17 +1049,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Bleed — Silver
-Last played (UTC)         : 2026-03-13 04:01:03Z
+Last played               : The Pretty Reckless — Death by Rock and Roll
+Last played (UTC)         : 2026-03-13 07:53:48Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Bleed — Silver → The Pretty Reckless — Death by Rock and Roll
+Δ last played (since last): 2026-03-13 04:01:03Z → 2026-03-13 07:53:48Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:37:11
-Telemetry age             : 02:37:11
-Δ time (since last report): 00:01:19
+Time since last play      : 01:40:27
+Telemetry age             : 01:40:27
+Δ time (since last report): 02:56:01
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1071,14 +1071,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Bleed
+Tracks played (last 24h)  : 3
+Dominant artist           : The Pretty Reckless
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-06 06:38:14Z → 2026-03-13 06:38:14Z
+Week window (UTC)         : 2026-03-06 09:34:15Z → 2026-03-13 09:34:15Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -1086,25 +1086,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :  █                      
-Heatmap (7d)              : ▂▁▁▂       ▅▆▇▁█      ▆▃
+Heatmap (24h)             :  ▄  █                   
+Heatmap (7d)              : ▂▁▁▂▂      ▃▆▇▁█      ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:43:25
+Sessions (24h)            : 2
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 02:47:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | nu metal(1) | post-grunge(1) | shoegaze(1)
-Top genres (7d)           : groove metal(30) | heavy metal(21) | metal(21) | thrash metal(21) | alternative metal(19) | grunge(19)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(1) | groove metal(1) | heavy metal(1) | metal(1) | nu metal(1) | post-grunge(1)
+Top genres (7d)           : groove metal(29) | heavy metal(20) | metal(20) | thrash metal(20) | alternative metal(19) | grunge(19)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-13 06:38:14Z
+Report generated (UTC)    : 2026-03-13 09:34:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
