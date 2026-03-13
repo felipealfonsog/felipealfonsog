@@ -349,18 +349,18 @@ Presence Vector Telemetry — Remote Node
 region         : Northern Virginia, United States
 zone           : Alexandria hospitality sector
 location       : pedestrian_axis
-latitude       : 38.803308
-longitude      : -77.063447
-altitude       : 69 m
-gps_accuracy   : ±5.5 m
-heading        : 21°
-speed          : 0.9 km/h
-status         : walking
-phase          : morning
-local_time     : 11:12
+latitude       : 38.803079
+longitude      : -77.063260
+altitude       : 50 m
+gps_accuracy   : ±8.0 m
+heading        : 237°
+speed          : 3.1 km/h
+status         : meeting
+phase          : workday
+local_time     : 14:06
 timezone       : America/New_York
-signal         : nominal
-updated_utc    : 2026-03-13 15:12:27 UTC
+signal         : stable
+updated_utc    : 2026-03-13 18:06:46 UTC
 ```
 <!-- telemetry-presence:end -->
 
