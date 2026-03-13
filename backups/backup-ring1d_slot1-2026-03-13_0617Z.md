@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-12_0618Z
+ snapshot_utc : 2026-03-13_0617Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -248,6 +248,88 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 -->
 
+#
+
+<!--
+
+ ____  _ _____ _____   _____ _____ _     _____ _      _____ _____ ____ ___  _
+/ ___\/ Y__ __Y  __/  /__ __Y  __// \   /  __// \__/|/  __//__ __Y  __\\  \//
+|    \| | / \ |  \      / \ |  \  | |   |  \  | |\/|||  \    / \ |  \/| \  / 
+\___ || | | | |  /_     | | |  /_ | |_/\|  /_ | |  |||  /_   | | |    / / /  
+\____/\_/ \_/ \____\    \_/ \____\\____/\____\\_/  \|\____\  \_/ \_/\_\/_/   
+                                                                                                                                                                           
+                                                                                                          
+-->
+
+<details open>
+<summary><strong>🛰️ GNLZ.CL SITE OPERATIONS INTELLIGENCE</strong> — updated automatically every 3 hours (00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC • full-spectrum profile active • last valid snapshot retained on probe failure)*</summary>
+
+<!-- GNLZ:SITE_INTEL:START -->
+```text
+probe@watchops:~$ telemetry-acquire gnlz.cl
+status: ok
+
+felipe@watchops:~$ gnlz-site-intel --target gnlz.cl --mode full
+
+GNLZ.CL :: SITE OPERATIONS INTELLIGENCE
+---------------------------------------
+
+TARGET.............. gnlz.cl
+PROFILE............. FULL-SPECTRUM
+STATUS.............. ONLINE
+HTTP................ 200 OK
+LATENCY............. 246 ms
+TTFB................ 245 ms
+UPTIME_24H.......... 100.000%
+UPTIME_7D........... 99.987%
+UPTIME_30D.......... 99.982%
+TLS_POSTURE......... ACCEPTABLE
+TLS_EXPIRY.......... 55d
+EDGE_SIGNAL......... PRESENT
+ORIGIN_EXPOSURE..... EDGE MASKED
+DNS_FOOTPRINT....... CLEAN
+ASN_HINT............ CLOUDFLARE
+HEADER_HYGIENE...... PARTIAL
+HSTS................ PASS
+CSP................. MISS
+XFO................. PASS
+REFPOL.............. PASS
+PERMPOL............. PASS
+ROBOTS.............. PRESENT
+SECURITYTXT......... ABSENT
+TOR_BROWSER_COMPAT.. PARTIAL
+TOR_FETCH_MODE...... SOCKS5
+TOR_EXIT_RESULT..... SUCCESS
+ONION_STATUS........ NOT_PRESENT
+ONION_LOCATION...... ABSENT
+SERVER_HINT......... Application-fronted
+OS_HINT............. unix-like
+DETECTION_MODEL..... banner+tcl+tls
+CONFIDENCE.......... LOW
+VIEWS_24H........... 1284
+VIEWS_7D............ 6882
+UNIQUES_24H......... 402
+BOT_RATIO........... 11.8%
+CACHE_SIGNAL........ UNKNOWN
+CONTENT_LENGTH...... 38 KB
+ANOMALY_SIGNAL...... NONE
+LAST_PROBE_UTC...... 2026-03-13T03:52:22Z
+DATA_STATE.......... LIVE
+PROBE_CONFIDENCE.... HIGH
+```
+<!-- GNLZ:SITE_INTEL:END -->
+
+</details>
+
+> [!NOTE]
+> <sub>*GNLZ.CL Site Operations Intelligence — operational-style telemetry layer generated from live web probes, defensive surface inspection, TLS and header analysis, traffic aggregates, and Tor Browser compatibility checks.</sub><br>
+> <sub>Telemetry fields, probe states, fingerprint hints, and cached continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if a live probe fails.</sub>
+
+[![GNLZ Site Intel](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/site-intel.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/site-intel.yml)
+
+#
+
+
 <!--
 
  _____ _____ _     _____ _      _____ _____ ____ ___  _   ____  ____  _____ ____  _____ _      ____  _____
@@ -259,7 +341,7 @@ The “Google Translate” badge redirects to an automatic translation of this p
                                                                                                           
 -->
 
-#
+
 
 <details open>
 <summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • city-local profile active)*</summary>
@@ -270,28 +352,28 @@ The “Google Translate” badge redirects to an automatic translation of this p
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Alexandria hospitality sector
-location       : pedestrian_axis
-latitude       : 38.803408
-longitude      : -77.062789
-altitude       : 10 m
-gps_accuracy   : ±7.2 m
-heading        : 49°
-speed          : 0.3 km/h
+zone           : Tysons corridor
+location       : hotel
+latitude       : 38.916754
+longitude      : -77.221003
+altitude       : 107 m
+gps_accuracy   : ±7.1 m
+heading        : 348°
+speed          : 0.5 km/h
 status         : stationary
 phase          : overnight
-local_time     : 02:12
+local_time     : 02:11
 timezone       : America/New_York
-signal         : stable
-updated_utc    : 2026-03-12 06:12:33 UTC
+signal         : nominal
+updated_utc    : 2026-03-13 06:11:41 UTC
 ```
 <!-- telemetry-presence:end -->
 
 </details>
 
 > [!NOTE]
-> <sub>*Telemetry Presence — operational-style presence layer generated from curated city profiles, local timezone logic, and rotating urban position telemetry sets.</sub><br>
-> <sub>Telemetry fields, movement states, and location labels are updated automatically through automation.</sub>
+> <sub>*GNLZ.CL Site Operations Intelligence — operational-style telemetry layer generated from live web probes, defensive surface inspection, TLS and header analysis, traffic aggregates, and Tor Browser compatibility checks.</sub><br>
+> <sub>Telemetry fields, probe states, fingerprint hints, and cached continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if a live probe fails.</sub>
 
 [![telemetry-presence](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/telemetry-presence.yml)
 
@@ -402,7 +484,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-11 21:35:56Z
+DSN snapshot (UTC)       : 2026-03-13 04:07:26Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -413,15 +495,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.880 AU
-Heliocentric distance    : 169.937 AU
-Relative speed           : 18.966 km/s
+Earth distance           : 25.41e9 km | 169.874 AU
+Heliocentric distance    : 169.949 AU
+Relative speed           : 18.955 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:51
-Round-trip latency       : 47:05:42
+One-way light time       : 23:32:48
+Round-trip latency       : 47:05:36
 ------------------------------------------------------------
-Δ distance (since last)  : -327,647 km
-Mission age              : 48 years, 199 days
+Δ distance (since last)  : -88,789 km
+Mission age              : 48 years, 201 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -432,19 +514,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.710 AU
-Heliocentric distance    : 142.321 AU
-Relative speed           : 24.975 km/s
+Earth distance           : 21.35e9 km | 142.706 AU
+Heliocentric distance    : 142.332 AU
+Relative speed           : 24.819 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:53
-Round-trip latency       : 39:33:46
+One-way light time       : 19:46:51
+Round-trip latency       : 39:33:42
 ------------------------------------------------------------
-Δ distance (since last)  : -218,710 km
-Mission age              : 48 years, 215 days
+Δ distance (since last)  : -63,065 km
+Mission age              : 48 years, 217 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-11 21:36:00Z
+Report generated (UTC)   : 2026-03-13 04:07:28Z
 ```
 
 <!-- VOYAGER:END -->
@@ -960,48 +1042,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
+Playback state            : ONLINE (idle session)
 Status                    : IDLE
 SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
+Device type               : Smartphone
+Device name               : iPhone
 Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Bleed — Burnt (By the Sun)
-Last played (UTC)         : 2026-03-11 18:47:37Z
-Last activity type        : NO_ACTIVE_SESSION
+Last played               : Bleed — Silver
+Last played (UTC)         : 2026-03-13 04:01:03Z
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:20:06
-Telemetry age             : 09:20:06
-Δ time (since last report): 00:01:16
+Time since last play      : 00:05:02
+Telemetry age             : 00:05:02
+Δ time (since last report): 00:00:22
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
-Dominant artist           : Pantera
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 1
+Dominant artist           : Bleed
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-05 04:07:43Z → 2026-03-12 04:07:43Z
+Week window (UTC)         : 2026-03-06 04:06:04Z → 2026-03-13 04:06:04Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -1009,25 +1091,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 15:00
+Peak hour (24h)           : 01:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :   ▁           ▁█        
-Heatmap (7d)              : ▂ ▁▂       ▆▆▇▁█      ▆▃
+Heatmap (24h)             :  █                      
+Heatmap (7d)              : ▂▁▁▂       ▅▆▇▁█      ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:02:53
+Sessions (24h)            : 1
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:43:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : groove metal(6) | heavy metal(6) | metal(6) | post-grunge(6) | thrash metal(6) | alternative metal(5)
-Top genres (7d)           : groove metal(31) | heavy metal(22) | metal(22) | thrash metal(22) | grunge(19) | alternative metal(18)
+Top genres (24h)          : alternative metal(1) | nu metal(1) | post-grunge(1) | shoegaze(1)
+Top genres (7d)           : groove metal(30) | heavy metal(21) | metal(21) | thrash metal(21) | alternative metal(19) | grunge(19)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-12 04:07:43Z
+Report generated (UTC)    : 2026-03-13 04:06:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1380,9 +1462,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 March 2026
+From: 04 December 2023 - To: 13 March 2026
 
-Total Time       : 996 hrs 49 mins
+Total Time       : 997 hrs 54 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 12 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1391,48 +1473,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          196 hrs 36 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.72 %
-Bash           164 hrs 57 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.55 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.93 %
-HTML           128 hrs 25 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.88 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.91 %
+Other          202 hrs 9 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  20.26 %
+Bash           164 hrs 59 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.53 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.91 %
+HTML           128 hrs 25 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.87 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.90 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.05 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.39 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.38 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.01 %
 Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.78 %
 
 OPERATING SYSTEMS
 -----------------
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.32 %
-Mac            592 hrs 8 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.40 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.25 %
+Mac            598 hrs 47 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.00 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.57 %
-Vim            325 hrs 54 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.69 %
-Firefox        176 hrs 35 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  17.72 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.50 %
+Vim            325 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.66 %
+Firefox        180 hrs 27 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.08 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Terminal       6 hrs 46 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.68 %
+Terminal       7 hrs 9 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.72 %
 FileZilla      4 hrs 28 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.45 %
 Spotify        4 hrs 21 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.44 %
-TextMate       2 hrs 26 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.24 %
-‎WhatsApp      1 hr 35 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.16 %
+Acrobat        3 hrs 24 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
+TextMate       2 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.25 %
+‎WhatsApp      1 hr 36 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.16 %
 Antigravity    1 hr 14 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.12 %
-Acrobat        1 hr 5 mins    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.11 %
 Notes          47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 
 CATEGORIES
 ----------
-Coding         1,013 hrs 1 min ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       173 hrs 57 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  17.45 %
+Coding         1,015 hrs 48 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       177 hrs 48 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  17.82 %
 Meeting        4 hrs 25 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.44 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 12/03/2026 04:40:41 UTC
+Last updated     : 13/03/2026 04:40:03 UTC
 
 ```
 <!--END_SECTION:wakastats-->
