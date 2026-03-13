@@ -1035,48 +1035,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
+Playback state            : ONLINE (idle session)
 Status                    : IDLE
 SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
+Device type               : Smartphone
+Device name               : iPhone
 Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Bleed — Burnt (By the Sun)
-Last played (UTC)         : 2026-03-11 18:47:37Z
-Last activity type        : NO_ACTIVE_SESSION
+Last played               : Bleed — Silver
+Last played (UTC)         : 2026-03-13 04:01:03Z
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Bleed — Burnt (By the Sun) → Bleed — Silver
+Δ last played (since last): 2026-03-11 18:47:37Z → 2026-03-13 04:01:03Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 26:48:19
-Telemetry age             : 26:48:19
-Δ time (since last report): 00:01:17
+Time since last play      : 00:03:44
+Telemetry age             : 00:03:44
+Δ time (since last report): 06:28:51
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Bleed
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-05 21:35:56Z → 2026-03-12 21:35:56Z
+Week window (UTC)         : 2026-03-06 04:04:47Z → 2026-03-13 04:04:47Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -1084,25 +1084,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 01:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▂ ▁▂       ▆▆▇▁█      ▆▃
+Heatmap (24h)             :  █                      
+Heatmap (7d)              : ▂▁▁▂       ▅▆▇▁█      ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:02:53
+Sessions (24h)            : 1
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:43:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : groove metal(31) | heavy metal(22) | metal(22) | thrash metal(22) | grunge(19) | alternative metal(18)
+Top genres (24h)          : alternative metal(1) | nu metal(1) | post-grunge(1) | shoegaze(1)
+Top genres (7d)           : groove metal(30) | heavy metal(21) | metal(21) | thrash metal(21) | alternative metal(19) | grunge(19)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-12 21:35:56Z
+Report generated (UTC)    : 2026-03-13 04:04:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
