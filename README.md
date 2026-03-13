@@ -1053,13 +1053,13 @@ Last played               : The Pretty Reckless — Death by Rock and Roll
 Last played (UTC)         : 2026-03-13 07:53:48Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Bleed — Silver → The Pretty Reckless — Death by Rock and Roll
-Δ last played (since last): 2026-03-13 04:01:03Z → 2026-03-13 07:53:48Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:40:27
-Telemetry age             : 01:40:27
-Δ time (since last report): 02:56:01
+Time since last play      : 01:41:37
+Telemetry age             : 01:41:37
+Δ time (since last report): 00:01:10
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1078,7 +1078,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-06 09:34:15Z → 2026-03-13 09:34:15Z
+Week window (UTC)         : 2026-03-06 09:35:24Z → 2026-03-13 09:35:24Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -1102,9 +1102,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(1) | groove metal(1) | heavy metal(1) | metal(1) | nu metal(1) | post-grunge(1)
 Top genres (7d)           : groove metal(29) | heavy metal(20) | metal(20) | thrash metal(20) | alternative metal(19) | grunge(19)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-13 09:34:15Z
+Report generated (UTC)    : 2026-03-13 09:35:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
