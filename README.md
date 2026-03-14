@@ -350,19 +350,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
 zone           : McLean perimeter
-location       : cafe
-latitude       : 38.934391
-longitude      : -77.180898
-altitude       : 25 m
-gps_accuracy   : ±6.5 m
-heading        : 198°
-speed          : 6.2 km/h
-status         : walking
-phase          : evening
-local_time     : 20:06
+location       : hotel
+latitude       : 38.929835
+longitude      : -77.185648
+altitude       : 133 m
+gps_accuracy   : ±6.9 m
+heading        : 11°
+speed          : 0.2 km/h
+status         : low_movement
+phase          : overnight
+local_time     : 23:44
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-14 00:06:06 UTC
+updated_utc    : 2026-03-14 03:44:07 UTC
 ```
 <!-- telemetry-presence:end -->
 
