@@ -1059,9 +1059,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 28:41:55
-Telemetry age             : 28:41:55
-Δ time (since last report): 00:01:12
+Time since last play      : 28:42:22
+Telemetry age             : 28:42:22
+Δ time (since last report): 00:00:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1080,7 +1080,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-07 12:35:42Z → 2026-03-14 12:35:42Z
+Week window (UTC)         : 2026-03-07 12:36:09Z → 2026-03-14 12:36:09Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -1106,7 +1106,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : groove metal(29) | heavy metal(20) | metal(20) | thrash metal(20) | alternative metal(19) | grunge(19)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-14 12:35:42Z
+Report generated (UTC)    : 2026-03-14 12:36:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
