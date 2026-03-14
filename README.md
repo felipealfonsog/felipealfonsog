@@ -350,19 +350,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
 zone           : Tysons corridor
-location       : hotel
-latitude       : 38.916822
-longitude      : -77.221186
-altitude       : 138 m
-gps_accuracy   : ±4.6 m
-heading        : 112°
-speed          : 0.4 km/h
+location       : transit_corridor
+latitude       : 38.920739
+longitude      : -77.223547
+altitude       : 108 m
+gps_accuracy   : ±8.2 m
+heading        : 252°
+speed          : 0.2 km/h
 status         : stationary
-phase          : overnight
-local_time     : 02:10
+phase          : early_morning
+local_time     : 05:06
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-14 06:10:03 UTC
+updated_utc    : 2026-03-14 09:06:53 UTC
 ```
 <!-- telemetry-presence:end -->
 
