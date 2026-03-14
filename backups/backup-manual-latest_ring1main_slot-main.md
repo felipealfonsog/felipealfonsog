@@ -149,6 +149,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Refresh_Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7&logoWidth=20" height="19"/>](https://github.com/felipealfonsog?cache-bypass=1) [<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white&labelColor=000000&color=000000&logoSize=20" height="19"/>](https://x.com/felipealfonsog)
+[<img src="https://img.shields.io/badge/-bluesky_profile-0285FF?style=plastic&logo=bluesky&logoColor=white&labelColor=0285FF&logoWidth=20" height="19"/>](https://bsky.app/profile/felipealfonsog.bsky.social)
 [<img src="https://img.shields.io/badge/-nostr_identity-7C3AED?style=plastic&logo=databricks&logoColor=white&labelColor=7C3AED&logoWidth=20" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2)
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
@@ -271,25 +272,25 @@ GNLZ.CL :: SITE OPERATIONS INTELLIGENCE
 
 TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
-STATUS.............. DEGRADED
-HTTP................ 522 <none>
-LATENCY............. 19652 ms
-TTFB................ 19651 ms
+STATUS.............. ONLINE
+HTTP................ 200 OK
+LATENCY............. 212 ms
+TTFB................ 211 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 55d
+TLS_EXPIRY.......... 54d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
 ASN_HINT............ CLOUDFLARE
 HEADER_HYGIENE...... PARTIAL
-HSTS................ MISS
+HSTS................ PASS
 CSP................. MISS
 XFO................. PASS
 REFPOL.............. PASS
-PERMPOL............. MISS
+PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
 TOR_BROWSER_COMPAT.. PARTIAL
@@ -305,10 +306,10 @@ VIEWS_24H........... 1284
 VIEWS_7D............ 6882
 UNIQUES_24H......... 402
 BOT_RATIO........... 11.8%
-CACHE_SIGNAL........ ACTIVE
-CONTENT_LENGTH...... 7 KB
+CACHE_SIGNAL........ UNKNOWN
+CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-13T06:27:24Z
+LAST_PROBE_UTC...... 2026-03-14T00:43:32Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -347,20 +348,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Tysons corridor
-location       : hotel
-latitude       : 38.916754
-longitude      : -77.221003
-altitude       : 107 m
-gps_accuracy   : ±7.1 m
-heading        : 348°
-speed          : 0.5 km/h
-status         : stationary
-phase          : overnight
-local_time     : 02:11
+zone           : McLean perimeter
+location       : cafe
+latitude       : 38.934391
+longitude      : -77.180898
+altitude       : 25 m
+gps_accuracy   : ±6.5 m
+heading        : 198°
+speed          : 6.2 km/h
+status         : walking
+phase          : evening
+local_time     : 20:06
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-13 06:11:41 UTC
+updated_utc    : 2026-03-14 00:06:06 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -479,7 +480,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-13 04:07:26Z
+DSN snapshot (UTC)       : 2026-03-13 18:40:19Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -490,14 +491,14 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.874 AU
-Heliocentric distance    : 169.949 AU
-Relative speed           : 18.955 km/s
+Earth distance           : 25.41e9 km | 169.872 AU
+Heliocentric distance    : 169.955 AU
+Relative speed           : 18.953 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:48
-Round-trip latency       : 47:05:36
+One-way light time       : 23:32:47
+Round-trip latency       : 47:05:33
 ------------------------------------------------------------
-Δ distance (since last)  : -88,789 km
+Δ distance (since last)  : -82,641 km
 Mission age              : 48 years, 201 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -509,19 +510,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.706 AU
-Heliocentric distance    : 142.332 AU
-Relative speed           : 24.819 km/s
+Earth distance           : 21.35e9 km | 142.704 AU
+Heliocentric distance    : 142.337 AU
+Relative speed           : 24.745 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:51
-Round-trip latency       : 39:33:42
+One-way light time       : 19:46:50
+Round-trip latency       : 39:33:40
 ------------------------------------------------------------
-Δ distance (since last)  : -63,065 km
+Δ distance (since last)  : -60,191 km
 Mission age              : 48 years, 217 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-13 04:07:28Z
+Report generated (UTC)   : 2026-03-13 18:40:23Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1049,17 +1050,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Bleed — Silver
-Last played (UTC)         : 2026-03-13 04:01:03Z
+Last played               : The Pretty Reckless — Death by Rock and Roll
+Last played (UTC)         : 2026-03-13 07:53:48Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:37:11
-Telemetry age             : 02:37:11
-Δ time (since last report): 00:01:19
+Time since last play      : 16:56:14
+Telemetry age             : 16:56:14
+Δ time (since last report): 03:14:04
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1071,14 +1072,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Bleed
+Tracks played (last 24h)  : 3
+Dominant artist           : The Pretty Reckless
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-06 06:38:14Z → 2026-03-13 06:38:14Z
+Week window (UTC)         : 2026-03-07 00:50:01Z → 2026-03-14 00:50:01Z
 Total tracks played       : 50
 Dominant artist           : Pantera
 Cadence classification    : HIGH
@@ -1086,25 +1087,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :  █                      
-Heatmap (7d)              : ▂▁▁▂       ▅▆▇▁█      ▆▃
+Heatmap (24h)             :  ▄  █                   
+Heatmap (7d)              : ▂▁▁▂▂      ▃▆▇▁█      ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:43:25
+Sessions (24h)            : 2
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 02:47:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | nu metal(1) | post-grunge(1) | shoegaze(1)
-Top genres (7d)           : groove metal(30) | heavy metal(21) | metal(21) | thrash metal(21) | alternative metal(19) | grunge(19)
+Top genres (24h)          : alternative metal(1) | groove metal(1) | heavy metal(1) | metal(1) | nu metal(1) | post-grunge(1)
+Top genres (7d)           : groove metal(29) | heavy metal(20) | metal(20) | thrash metal(20) | alternative metal(19) | grunge(19)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-13 06:38:14Z
+Report generated (UTC)    : 2026-03-14 00:50:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1509,7 +1510,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 13/03/2026 04:40:03 UTC
+Last updated     : 14/03/2026 03:05:01 UTC
 
 ```
 <!--END_SECTION:wakastats-->
