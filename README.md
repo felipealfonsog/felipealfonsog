@@ -350,19 +350,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
 zone           : Tysons corridor
-location       : transit_corridor
-latitude       : 38.920636
-longitude      : -77.223484
-altitude       : 49 m
-gps_accuracy   : ±7.2 m
-heading        : 350°
-speed          : 0.5 km/h
-status         : meeting
+location       : office
+latitude       : 38.918229
+longitude      : -77.228751
+altitude       : 63 m
+gps_accuracy   : ±4.1 m
+heading        : 246°
+speed          : 5.1 km/h
+status         : walking
 phase          : workday
-local_time     : 14:03
+local_time     : 17:03
 timezone       : America/New_York
-signal         : strong
-updated_utc    : 2026-03-14 18:03:33 UTC
+signal         : stable
+updated_utc    : 2026-03-14 21:03:56 UTC
 ```
 <!-- telemetry-presence:end -->
 
