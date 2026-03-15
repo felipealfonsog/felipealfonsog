@@ -351,18 +351,18 @@ Presence Vector Telemetry — Remote Node
 region         : Northern Virginia, United States
 zone           : McLean perimeter
 location       : office
-latitude       : 38.933488
-longitude      : -77.176740
-altitude       : 121 m
-gps_accuracy   : ±7.5 m
-heading        : 348°
-speed          : 0.6 km/h
-status         : stationary
+latitude       : 38.932948
+longitude      : -77.177596
+altitude       : 82 m
+gps_accuracy   : ±8.1 m
+heading        : 64°
+speed          : 11.8 km/h
+status         : in_transit
 phase          : workday
-local_time     : 14:03
+local_time     : 17:04
 timezone       : America/New_York
-signal         : nominal
-updated_utc    : 2026-03-15 18:03:59 UTC
+signal         : stable
+updated_utc    : 2026-03-15 21:04:42 UTC
 ```
 <!-- telemetry-presence:end -->
 
