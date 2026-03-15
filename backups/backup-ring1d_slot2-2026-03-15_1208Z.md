@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-14_1208Z
+ snapshot_utc : 2026-03-15_1208Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -282,13 +282,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 190 ms
-TTFB................ 189 ms
+LATENCY............. 171 ms
+TTFB................ 170 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 54d
+TLS_EXPIRY.......... 53d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -301,9 +301,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PARTIAL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -317,7 +317,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-14T09:16:43Z
+LAST_PROBE_UTC...... 2026-03-15T09:17:31Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -357,19 +357,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
 zone           : McLean perimeter
-location       : business_lounge
-latitude       : 38.931181
-longitude      : -77.174279
-altitude       : 141 m
-gps_accuracy   : ±3.6 m
-heading        : 316°
-speed          : 5.3 km/h
-status         : in_transit
+location       : office
+latitude       : 38.933716
+longitude      : -77.177304
+altitude       : 85 m
+gps_accuracy   : ±5.3 m
+heading        : 340°
+speed          : 7.5 km/h
+status         : walking
 phase          : morning
 local_time     : 08:02
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-14 12:02:37 UTC
+updated_utc    : 2026-03-15 12:02:51 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -488,7 +488,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-14 09:35:58Z
+DSN snapshot (UTC)       : 2026-03-15 09:36:16Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -499,15 +499,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.869 AU
-Heliocentric distance    : 169.961 AU
-Relative speed           : 18.953 km/s
+Earth distance           : 25.41e9 km | 169.865 AU
+Heliocentric distance    : 169.971 AU
+Relative speed           : 18.959 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:45
-Round-trip latency       : 47:05:31
+One-way light time       : 23:32:43
+Round-trip latency       : 47:05:26
 ------------------------------------------------------------
-Δ distance (since last)  : -80,545 km
-Mission age              : 48 years, 202 days
+Δ distance (since last)  : -79,120 km
+Mission age              : 48 years, 203 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -518,19 +518,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.702 AU
-Heliocentric distance    : 142.343 AU
-Relative speed           : 24.671 km/s
+Earth distance           : 21.35e9 km | 142.699 AU
+Heliocentric distance    : 142.351 AU
+Relative speed           : 24.554 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:49
-Round-trip latency       : 39:33:38
+One-way light time       : 19:46:47
+Round-trip latency       : 39:33:35
 ------------------------------------------------------------
-Δ distance (since last)  : -60,156 km
-Mission age              : 48 years, 218 days
+Δ distance (since last)  : -61,463 km
+Mission age              : 48 years, 219 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-14 09:36:00Z
+Report generated (UTC)   : 2026-03-15 09:36:22Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1066,9 +1066,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 25:40:48
-Telemetry age             : 25:40:48
-Δ time (since last report): 00:01:21
+Time since last play      : 49:42:21
+Telemetry age             : 49:42:21
+Δ time (since last report): 00:01:26
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1087,10 +1087,10 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-07 09:34:35Z → 2026-03-14 09:34:35Z
-Total tracks played       : 50
-Dominant artist           : Pantera
-Cadence classification    : HIGH
+Week window (UTC)         : 2026-03-08 09:36:08Z → 2026-03-15 09:36:08Z
+Total tracks played       : 28
+Dominant artist           : Silverchair
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1098,22 +1098,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 15:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▂▁▁▂▂      ▃▆▇▁█      ▆▃
+Heatmap (7d)              : ▁▁▁▂▂         ▁█      ▅▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:47:59
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:43:47
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : groove metal(29) | heavy metal(20) | metal(20) | thrash metal(20) | alternative metal(19) | grunge(19)
+Top genres (7d)           : post-grunge(16) | grunge(14) | groove metal(11) | alternative metal(10) | heavy metal(7) | metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-14 09:34:35Z
+Report generated (UTC)    : 2026-03-15 09:36:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1466,9 +1466,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 14 March 2026
+From: 04 December 2023 - To: 15 March 2026
 
-Total Time       : 998 hrs 21 mins
+Total Time       : 998 hrs 30 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 11 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1477,48 +1477,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          208 hrs 21 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  20.87 %
-Bash           164 hrs 59 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.53 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.91 %
+Other          217 hrs 51 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  21.82 %
+Bash           165 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.53 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.90 %
 HTML           128 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.88 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.89 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.04 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.38 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.01 %
-Text           38 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.00 %
+Text           38 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.78 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            605 hrs 26 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.64 %
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.23 %
+Mac            615 hrs 5 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.60 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.22 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.47 %
-Vim            325 hrs 59 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.65 %
-Firefox        184 hrs 14 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.46 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.46 %
+Vim            326 hrs 1 min  ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.65 %
+Firefox        188 hrs 12 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.85 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Terminal       8 hrs 23 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.84 %
-FileZilla      4 hrs 33 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.46 %
+Terminal       9 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.93 %
+Acrobat        6 hrs 12 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.62 %
+FileZilla      5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
 Spotify        4 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.45 %
-Acrobat        3 hrs 45 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.38 %
 TextMate       2 hrs 45 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
-‎WhatsApp      1 hr 58 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
+‎WhatsApp      2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
+Zoom           2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Antigravity    1 hr 23 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.14 %
-Notes          47 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 
 CATEGORIES
 ----------
-Coding         1,018 hrs 6 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       181 hrs 36 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.19 %
-Meeting        4 hrs 58 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.50 %
+Coding         1,021 hrs 57 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       185 hrs 40 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.60 %
+Meeting        6 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.67 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 14/03/2026 11:10:32 UTC
+Last updated     : 15/03/2026 11:11:36 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1580,12 +1580,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
@@ -1600,12 +1600,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
