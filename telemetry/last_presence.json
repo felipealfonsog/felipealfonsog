@@ -5,15 +5,15 @@
   "country": "United States",
   "zone_name": "Reston tech belt",
   "location_name": "pedestrian_axis",
-  "latitude": 38.9553800175701,
-  "longitude": -77.34995307543221,
-  "altitude_m": 10,
-  "gps_accuracy_m": 7.2,
-  "heading_deg": 356,
-  "speed_kmh": 0.3,
+  "latitude": 38.95489719862389,
+  "longitude": -77.34931600728345,
+  "altitude_m": 63,
+  "gps_accuracy_m": 4.8,
+  "heading_deg": 72,
+  "speed_kmh": 0.4,
   "status": "low_movement",
   "phase": "overnight",
-  "local_time_str": "23:56",
+  "local_time_str": "02:15",
   "signal": "nominal",
-  "updated_utc": "2026-03-15 03:56:03 UTC"
+  "updated_utc": "2026-03-15 06:15:37 UTC"
 }
