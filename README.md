@@ -1059,9 +1059,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 41:05:46
-Telemetry age             : 41:05:46
-Δ time (since last report): 03:26:07
+Time since last play      : 44:23:13
+Telemetry age             : 44:23:13
+Δ time (since last report): 03:17:27
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1080,8 +1080,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-08 00:59:34Z → 2026-03-15 00:59:34Z
-Total tracks played       : 30
+Week window (UTC)         : 2026-03-08 04:17:00Z → 2026-03-15 04:17:00Z
+Total tracks played       : 28
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1091,22 +1091,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 15:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▂▁▁▂▂         ▁█      ▆▃
+Heatmap (7d)              : ▁▁▁▂▂         ▁█      ▅▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 04:21:14
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:43:47
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : grunge(16) | post-grunge(16) | groove metal(13) | alternative metal(12) | heavy metal(7) | metal(7)
+Top genres (7d)           : post-grunge(16) | grunge(14) | groove metal(11) | alternative metal(10) | heavy metal(7) | metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-15 00:59:34Z
+Report generated (UTC)    : 2026-03-15 04:17:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
