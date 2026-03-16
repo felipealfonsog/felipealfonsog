@@ -1055,13 +1055,13 @@ Last played               : The Pretty Reckless — Intro
 Last played (UTC)         : 2026-03-16 02:42:54Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Pretty Reckless — Death by Rock and Roll → The Pretty Reckless — Intro
-Δ last played (since last): 2026-03-13 07:53:48Z → 2026-03-16 02:42:54Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:36:15
-Telemetry age             : 01:36:15
-Δ time (since last report): 03:19:27
+Time since last play      : 01:36:58
+Telemetry age             : 01:36:58
+Δ time (since last report): 00:00:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1080,7 +1080,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-09 04:19:08Z → 2026-03-16 04:19:08Z
+Week window (UTC)         : 2026-03-09 04:19:51Z → 2026-03-16 04:19:51Z
 Total tracks played       : 28
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
@@ -1106,7 +1106,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : post-grunge(16) | grunge(13) | groove metal(10) | alternative metal(9) | heavy metal(7) | metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-16 04:19:08Z
+Report generated (UTC)    : 2026-03-16 04:19:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
