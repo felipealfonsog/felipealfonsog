@@ -1039,35 +1039,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Bleed — Silver
+Now playing               : N/A
 Last played               : Bleed — Burnt (By the Sun)
 Last played (UTC)         : 2026-03-16 12:35:26Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:45
-Telemetry age             : 00:02:45
-Δ time (since last report): 00:00:32
+Time since last play      : 00:03:33
+Telemetry age             : 00:03:33
+Δ time (since last report): 00:00:49
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1081,7 +1080,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-09 12:38:10Z → 2026-03-16 12:38:10Z
+Week window (UTC)         : 2026-03-09 12:38:59Z → 2026-03-16 12:38:59Z
 Total tracks played       : 40
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1107,7 +1106,7 @@ Top genres (24h)          : alternative metal(13) | nu metal(13) | post-grunge(1
 Top genres (7d)           : post-grunge(29) | alternative metal(20) | nu metal(19) | shoegaze(19) | grunge(11) | groove metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-16 12:38:10Z
+Report generated (UTC)    : 2026-03-16 12:38:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
