@@ -1051,18 +1051,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Bleed — Burnt (By the Sun)
-Last played               : The Pretty Reckless — Follow Me Down
-Last played (UTC)         : 2026-03-16 05:29:10Z
+Now playing               : Bleed — Enervation
+Last played               : Bleed — Silver
+Last played (UTC)         : 2026-03-16 11:50:47Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : The Pretty Reckless — Follow Me Down → Bleed — Silver
+Δ last played (since last): 2026-03-16 05:29:10Z → 2026-03-16 11:50:47Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:17:44
-Telemetry age             : 06:17:44
-Δ time (since last report): 02:01:50
+Time since last play      : 00:01:13
+Telemetry age             : 00:01:13
+Δ time (since last report): 00:05:06
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1074,40 +1074,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : The Pretty Reckless
+Tracks played (last 24h)  : 4
+Dominant artist           : Bleed
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-09 11:46:54Z → 2026-03-16 11:46:54Z
-Total tracks played       : 27
+Week window (UTC)         : 2026-03-09 11:52:00Z → 2026-03-16 11:52:00Z
+Total tracks played       : 29
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 02:00
+Peak hour (24h)           : 08:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :   █                    █
-Heatmap (7d)              :  ▁▂ ▂         ▁█      ▅▄
+Heatmap (24h)             :   ▄     █              ▄
+Heatmap (7d)              :  ▁▂ ▂   ▂     ▁█      ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:46:20
+Sessions (24h)            : 3
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 04:39:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : post-grunge(16) | grunge(11) | groove metal(8) | alternative metal(7) | heavy metal(7) | metal(7)
+Top genres (24h)          : alternative metal(2) | nu metal(2) | post-grunge(2) | shoegaze(2)
+Top genres (7d)           : post-grunge(18) | grunge(11) | alternative metal(9) | groove metal(8) | nu metal(8) | shoegaze(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-16 11:46:54Z
+Report generated (UTC)    : 2026-03-16 11:52:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
