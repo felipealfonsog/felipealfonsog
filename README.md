@@ -1056,13 +1056,13 @@ Last played               : Bleed — Burnt (By the Sun)
 Last played (UTC)         : 2026-03-16 12:35:26Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Bleed — Enervation → Bleed — Burnt (By the Sun)
-Δ last played (since last): 2026-03-16 12:22:18Z → 2026-03-16 12:35:26Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:11
-Telemetry age             : 00:01:11
-Δ time (since last report): 00:14:14
+Time since last play      : 00:02:14
+Telemetry age             : 00:02:14
+Δ time (since last report): 00:01:03
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1081,7 +1081,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-09 12:36:37Z → 2026-03-16 12:36:37Z
+Week window (UTC)         : 2026-03-09 12:37:39Z → 2026-03-16 12:37:39Z
 Total tracks played       : 40
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1107,7 +1107,7 @@ Top genres (24h)          : alternative metal(13) | nu metal(13) | post-grunge(1
 Top genres (7d)           : post-grunge(29) | alternative metal(20) | nu metal(19) | shoegaze(19) | grunge(11) | groove metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-16 12:36:37Z
+Report generated (UTC)    : 2026-03-16 12:37:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
