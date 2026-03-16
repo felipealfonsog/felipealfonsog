@@ -349,20 +349,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : McLean perimeter
-location       : office
-latitude       : 38.932948
-longitude      : -77.177596
-altitude       : 82 m
-gps_accuracy   : ±8.1 m
-heading        : 64°
-speed          : 11.8 km/h
-status         : in_transit
-phase          : workday
-local_time     : 17:04
+zone           : Alexandria hospitality sector
+location       : hotel
+latitude       : 38.807110
+longitude      : -77.061707
+altitude       : 85 m
+gps_accuracy   : ±4.1 m
+heading        : 312°
+speed          : 0.7 km/h
+status         : stationary
+phase          : evening
+local_time     : 20:06
 timezone       : America/New_York
 signal         : stable
-updated_utc    : 2026-03-15 21:04:42 UTC
+updated_utc    : 2026-03-16 00:06:29 UTC
 ```
 <!-- telemetry-presence:end -->
 
