@@ -349,20 +349,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : McLean perimeter
+zone           : Reston tech belt
 location       : cafe
-latitude       : 38.934663
-longitude      : -77.181176
-altitude       : 34 m
-gps_accuracy   : ±4.0 m
-heading        : 354°
-speed          : 7.8 km/h
+latitude       : 38.959920
+longitude      : -77.355647
+altitude       : 56 m
+gps_accuracy   : ±7.7 m
+heading        : 305°
+speed          : 1.8 km/h
 status         : walking
-phase          : morning
-local_time     : 11:21
+phase          : workday
+local_time     : 14:14
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-16 15:21:47 UTC
+updated_utc    : 2026-03-16 18:14:55 UTC
 ```
 <!-- telemetry-presence:end -->
 
