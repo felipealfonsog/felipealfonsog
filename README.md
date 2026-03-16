@@ -1051,18 +1051,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Bleed — Silver
-Last played               : Bleed — Burnt (By the Sun)
-Last played (UTC)         : 2026-03-16 12:01:28Z
+Now playing               : Bleed — Somebody's Closer
+Last played               : Bleed — Enervation
+Last played (UTC)         : 2026-03-16 12:08:13Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Bleed — Enervation → Bleed — Burnt (By the Sun)
-Δ last played (since last): 2026-03-16 11:54:22Z → 2026-03-16 12:01:28Z
+Δ track (since last)      : Bleed — Burnt (By the Sun) → Bleed — Enervation
+Δ last played (since last): 2026-03-16 12:01:28Z → 2026-03-16 12:08:13Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:39
-Telemetry age             : 00:02:39
-Δ time (since last report): 00:09:17
+Time since last play      : 00:03:55
+Telemetry age             : 00:03:55
+Δ time (since last report): 00:08:02
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1074,15 +1074,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 7
+Tracks played (last 24h)  : 9
 Dominant artist           : Bleed
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-09 12:04:06Z → 2026-03-16 12:04:06Z
-Total tracks played       : 32
+Week window (UTC)         : 2026-03-09 12:12:07Z → 2026-03-16 12:12:07Z
+Total tracks played       : 34
 Dominant artist           : Bleed
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1091,23 +1091,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :   ▂     █▂             ▂
-Heatmap (7d)              :  ▁▂ ▂   ▃▁    ▁█      ▅▄
+Heatmap (24h)             :   ▂     █▆             ▂
+Heatmap (7d)              :  ▁▂ ▂   ▃▂    ▁█      ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 04:12:48
+Avg inter-play gap (7d)   : 03:57:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(5) | nu metal(5) | post-grunge(5) | shoegaze(5)
-Top genres (7d)           : post-grunge(21) | alternative metal(12) | grunge(11) | nu metal(11) | shoegaze(11) | groove metal(8)
+Top genres (24h)          : alternative metal(7) | nu metal(7) | post-grunge(7) | shoegaze(7)
+Top genres (7d)           : post-grunge(23) | alternative metal(14) | nu metal(13) | shoegaze(13) | grunge(11) | groove metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-16 12:04:06Z
+Report generated (UTC)    : 2026-03-16 12:12:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
