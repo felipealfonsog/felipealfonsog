@@ -1053,16 +1053,16 @@ Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : Bleed — Somebody's Closer
 Last played               : Bleed — Enervation
-Last played (UTC)         : 2026-03-16 12:08:13Z
+Last played (UTC)         : 2026-03-16 12:22:18Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Bleed — Burnt (By the Sun) → Bleed — Enervation
-Δ last played (since last): 2026-03-16 12:01:28Z → 2026-03-16 12:08:13Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): 2026-03-16 12:08:13Z → 2026-03-16 12:22:18Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:55
-Telemetry age             : 00:03:55
-Δ time (since last report): 00:08:02
+Time since last play      : 00:00:06
+Telemetry age             : 00:00:06
+Δ time (since last report): 00:10:17
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1074,40 +1074,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
+Tracks played (last 24h)  : 13
 Dominant artist           : Bleed
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-09 12:12:07Z → 2026-03-16 12:12:07Z
-Total tracks played       : 34
+Week window (UTC)         : 2026-03-09 12:22:23Z → 2026-03-16 12:22:23Z
+Total tracks played       : 38
 Dominant artist           : Bleed
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :   ▂     █▆             ▂
-Heatmap (7d)              :  ▁▂ ▂   ▃▂    ▁█      ▅▄
+Heatmap (24h)             :   ▁     ▅█             ▁
+Heatmap (7d)              :  ▁▂ ▂   ▃▆    ▁█      ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:57:41
+Avg inter-play gap (7d)   : 03:32:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(7) | nu metal(7) | post-grunge(7) | shoegaze(7)
-Top genres (7d)           : post-grunge(23) | alternative metal(14) | nu metal(13) | shoegaze(13) | grunge(11) | groove metal(8)
+Top genres (24h)          : alternative metal(11) | nu metal(11) | post-grunge(11) | shoegaze(11)
+Top genres (7d)           : post-grunge(27) | alternative metal(18) | nu metal(17) | shoegaze(17) | grunge(11) | groove metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-16 12:12:07Z
+Report generated (UTC)    : 2026-03-16 12:22:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
