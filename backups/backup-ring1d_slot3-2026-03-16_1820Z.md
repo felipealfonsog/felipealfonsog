@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-15_1808Z
+ snapshot_utc : 2026-03-16_1820Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -282,13 +282,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 171 ms
-TTFB................ 170 ms
+LATENCY............. 14835 ms
+TTFB................ 14833 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 53d
+TLS_EXPIRY.......... 52d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -317,7 +317,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-15T09:17:31Z
+LAST_PROBE_UTC...... 2026-03-16T12:29:35Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -356,20 +356,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : McLean perimeter
-location       : office
-latitude       : 38.933488
-longitude      : -77.176740
-altitude       : 121 m
-gps_accuracy   : ±7.5 m
-heading        : 348°
-speed          : 0.6 km/h
-status         : stationary
+zone           : Reston tech belt
+location       : cafe
+latitude       : 38.959920
+longitude      : -77.355647
+altitude       : 56 m
+gps_accuracy   : ±7.7 m
+heading        : 305°
+speed          : 1.8 km/h
+status         : walking
 phase          : workday
-local_time     : 14:03
+local_time     : 14:14
 timezone       : America/New_York
 signal         : nominal
-updated_utc    : 2026-03-15 18:03:59 UTC
+updated_utc    : 2026-03-16 18:14:55 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -488,7 +488,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-15 15:35:13Z
+DSN snapshot (UTC)       : 2026-03-16 15:44:36Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -499,15 +499,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.863 AU
-Heliocentric distance    : 169.973 AU
-Relative speed           : 18.962 km/s
+Earth distance           : 25.41e9 km | 169.859 AU
+Heliocentric distance    : 169.983 AU
+Relative speed           : 18.975 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:43
-Round-trip latency       : 47:05:25
+One-way light time       : 23:32:41
+Round-trip latency       : 47:05:21
 ------------------------------------------------------------
-Δ distance (since last)  : -160,259 km
-Mission age              : 48 years, 203 days
+Δ distance (since last)  : -81,890 km
+Mission age              : 48 years, 204 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -518,19 +518,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.698 AU
-Heliocentric distance    : 142.353 AU
-Relative speed           : 24.525 km/s
+Earth distance           : 21.35e9 km | 142.695 AU
+Heliocentric distance    : 142.362 AU
+Relative speed           : 24.409 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:47
-Round-trip latency       : 39:33:34
+One-way light time       : 19:46:45
+Round-trip latency       : 39:33:31
 ------------------------------------------------------------
-Δ distance (since last)  : -125,392 km
-Mission age              : 48 years, 219 days
+Δ distance (since last)  : -66,727 km
+Mission age              : 48 years, 220 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-15 15:35:19Z
+Report generated (UTC)   : 2026-03-16 15:44:40Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1058,17 +1058,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : The Pretty Reckless — Death by Rock and Roll
-Last played (UTC)         : 2026-03-13 07:53:48Z
+Last played               : Bleed — Silver
+Last played (UTC)         : 2026-03-16 13:26:20Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 55:41:24
-Telemetry age             : 55:41:24
-Δ time (since last report): 00:01:12
+Time since last play      : 02:17:47
+Telemetry age             : 02:17:47
+Δ time (since last report): 00:01:00
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1080,40 +1080,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 16
+Dominant artist           : Bleed
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-08 15:35:11Z → 2026-03-15 15:35:11Z
-Total tracks played       : 28
-Dominant artist           : Silverchair
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-03-09 15:44:07Z → 2026-03-16 15:44:07Z
+Total tracks played       : 41
+Dominant artist           : Bleed
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁▁▁▂▂         ▁█      ▅▃
+Heatmap (24h)             :   ▁     ▄█▁            ▁
+Heatmap (7d)              :  ▁▂ ▂   ▃▇▁   ▁█      ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:43:47
+Sessions (24h)            : 4
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 03:18:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : post-grunge(16) | grunge(14) | groove metal(11) | alternative metal(10) | heavy metal(7) | metal(7)
+Top genres (24h)          : alternative metal(14) | nu metal(14) | post-grunge(14) | shoegaze(14)
+Top genres (7d)           : post-grunge(30) | alternative metal(21) | nu metal(20) | shoegaze(20) | grunge(11) | groove metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-15 15:35:11Z
+Report generated (UTC)    : 2026-03-16 15:44:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1466,7 +1466,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 15 March 2026
+From: 04 December 2023 - To: 16 March 2026
 
 Total Time       : 998 hrs 30 mins
 Mostly coding in : Other
@@ -1477,7 +1477,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          217 hrs 51 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  21.82 %
+Other          227 hrs 34 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  22.79 %
 Bash           165 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.53 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.90 %
 HTML           128 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.88 %
@@ -1490,35 +1490,35 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            615 hrs 5 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.60 %
+Mac            624 hrs 48 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.57 %
 Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.22 %
 
 EDITORS
 -------
 VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.46 %
 Vim            326 hrs 1 min  ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.65 %
-Firefox        188 hrs 12 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.85 %
+Firefox        196 hrs 51 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.72 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Terminal       9 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.93 %
+Terminal       9 hrs 18 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.93 %
 Acrobat        6 hrs 12 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.62 %
 FileZilla      5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
-Spotify        4 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.45 %
-TextMate       2 hrs 45 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
-‎WhatsApp      2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
-Zoom           2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
+Spotify        4 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.47 %
+TextMate       2 hrs 48 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
+Zoom           2 hrs 28 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.25 %
+‎WhatsApp      2 hrs 4 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.21 %
 Antigravity    1 hr 23 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.14 %
 
 CATEGORIES
 ----------
-Coding         1,021 hrs 57 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       185 hrs 40 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.60 %
-Meeting        6 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.67 %
+Coding         1,022 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       194 hrs 32 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.48 %
+Meeting        7 hrs 13 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.72 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 15/03/2026 17:12:01 UTC
+Last updated     : 16/03/2026 17:28:51 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1590,22 +1590,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/clsource">
-        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/clsource">Camilo</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Francesco601">
         <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
