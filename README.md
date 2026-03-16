@@ -351,18 +351,18 @@ Presence Vector Telemetry — Remote Node
 region         : Northern Virginia, United States
 zone           : Reston tech belt
 location       : pedestrian_axis
-latitude       : 38.954867
-longitude      : -77.349962
-altitude       : 157 m
-gps_accuracy   : ±8.6 m
-heading        : 110°
-speed          : 0.2 km/h
-status         : resting
+latitude       : 38.954919
+longitude      : -77.349975
+altitude       : 103 m
+gps_accuracy   : ±8.2 m
+heading        : 352°
+speed          : 0.3 km/h
+status         : low_movement
 phase          : overnight
-local_time     : 23:57
+local_time     : 02:25
 timezone       : America/New_York
-signal         : nominal
-updated_utc    : 2026-03-16 03:57:46 UTC
+signal         : stable
+updated_utc    : 2026-03-16 06:25:30 UTC
 ```
 <!-- telemetry-presence:end -->
 
