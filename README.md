@@ -1051,17 +1051,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : The Pretty Reckless — Intro
-Last played (UTC)         : 2026-03-16 02:42:54Z
+Last played               : The Pretty Reckless — Follow Me Down
+Last played (UTC)         : 2026-03-16 05:29:10Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : The Pretty Reckless — Intro → The Pretty Reckless — Follow Me Down
+Δ last played (since last): 2026-03-16 02:42:54Z → 2026-03-16 05:29:10Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:37:20
-Telemetry age             : 01:37:20
-Δ time (since last report): 00:00:23
+Time since last play      : 01:21:16
+Telemetry age             : 01:21:16
+Δ time (since last report): 02:30:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1073,40 +1073,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 2
 Dominant artist           : The Pretty Reckless
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-09 04:20:13Z → 2026-03-16 04:20:13Z
-Total tracks played       : 28
+Week window (UTC)         : 2026-03-09 06:50:25Z → 2026-03-16 06:50:25Z
+Total tracks played       : 27
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 23:00
+Peak hour (24h)           : 02:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :                        █
-Heatmap (7d)              :  ▁▁▂▂         ▁█      ▅▄
+Heatmap (24h)             :   █                    █
+Heatmap (7d)              :  ▁▂ ▂         ▁█      ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 06:05:47
+Sessions (24h)            : 2
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 04:46:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : post-grunge(16) | grunge(13) | groove metal(10) | alternative metal(9) | heavy metal(7) | metal(7)
+Top genres (7d)           : post-grunge(16) | grunge(11) | groove metal(8) | alternative metal(7) | heavy metal(7) | metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-16 04:20:13Z
+Report generated (UTC)    : 2026-03-16 06:50:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
