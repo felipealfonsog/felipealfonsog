@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-16_1820Z
+ snapshot_utc : 2026-03-17_1820Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -157,7 +157,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white&labelColor=000000&color=000000&logoSize=20" height="19"/>](https://x.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/-bluesky_profile-0285FF?style=plastic&logo=bluesky&logoColor=white&labelColor=0285FF&logoWidth=20" height="19"/>](https://bsky.app/profile/felipealfonsog.bsky.social)
-[<img src="https://img.shields.io/badge/-nostr_identity-7C3AED?style=plastic&logo=databricks&logoColor=white&labelColor=7C3AED&logoWidth=20" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2)
+[<img src="https://custom-icon-badges.demolab.com/badge/Nostr-6f42c1?style=plastic&logo=nostr-logo&logoColor=ffffff" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2)
 
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
@@ -168,8 +168,13 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 
+[<img src="https://custom-icon-badges.demolab.com/badge/Freemasonry-1f3a5f?style=plastic&logo=masoneria-logo&logoColor=ffffff" height="19"/>](https://en.wikipedia.org/wiki/Freemasonry) [<img src="https://custom-icon-badges.demolab.com/badge/Gran%20Logia%20de%20Chile-1f3a5f?style=plastic&logo=granlogia-chile-logo&logoColor=ffffff" height="19"/>](https://www.granlogia.cl)
+
+
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+
+
 
 #
 
@@ -282,13 +287,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 14835 ms
-TTFB................ 14833 ms
+LATENCY............. 225 ms
+TTFB................ 224 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 52d
+TLS_EXPIRY.......... 51d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -301,9 +306,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PARTIAL
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -317,7 +322,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-16T12:29:35Z
+LAST_PROBE_UTC...... 2026-03-17T09:27:05Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -356,20 +361,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Reston tech belt
-location       : cafe
-latitude       : 38.959920
-longitude      : -77.355647
-altitude       : 56 m
-gps_accuracy   : ±7.7 m
-heading        : 305°
-speed          : 1.8 km/h
-status         : walking
+zone           : Tysons corridor
+location       : transit_corridor
+latitude       : 38.920155
+longitude      : -77.223148
+altitude       : 9 m
+gps_accuracy   : ±4.3 m
+heading        : 264°
+speed          : 0.3 km/h
+status         : stationary
 phase          : workday
-local_time     : 14:14
+local_time     : 14:13
 timezone       : America/New_York
-signal         : nominal
-updated_utc    : 2026-03-16 18:14:55 UTC
+signal         : strong
+updated_utc    : 2026-03-17 18:13:31 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -488,7 +493,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-16 15:44:36Z
+DSN snapshot (UTC)       : 2026-03-17 15:44:48Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -499,15 +504,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.859 AU
-Heliocentric distance    : 169.983 AU
-Relative speed           : 18.975 km/s
+Earth distance           : 25.41e9 km | 169.855 AU
+Heliocentric distance    : 169.993 AU
+Relative speed           : 18.995 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:41
-Round-trip latency       : 47:05:21
+One-way light time       : 23:32:38
+Round-trip latency       : 47:05:17
 ------------------------------------------------------------
-Δ distance (since last)  : -81,890 km
-Mission age              : 48 years, 204 days
+Δ distance (since last)  : -81,589 km
+Mission age              : 48 years, 205 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -518,19 +523,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.695 AU
-Heliocentric distance    : 142.362 AU
-Relative speed           : 24.409 km/s
+Earth distance           : 21.35e9 km | 142.691 AU
+Heliocentric distance    : 142.371 AU
+Relative speed           : 24.297 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:45
-Round-trip latency       : 39:33:31
+One-way light time       : 19:46:44
+Round-trip latency       : 39:33:27
 ------------------------------------------------------------
-Δ distance (since last)  : -66,727 km
-Mission age              : 48 years, 220 days
+Δ distance (since last)  : -68,999 km
+Mission age              : 48 years, 221 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-16 15:44:40Z
+Report generated (UTC)   : 2026-03-17 15:44:51Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1058,17 +1063,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Bleed — Silver
-Last played (UTC)         : 2026-03-16 13:26:20Z
+Last played               : Jason Barker, Sea Of Destruction — Beckon The Storm
+Last played (UTC)         : 2026-03-17 06:35:58Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:17:47
-Telemetry age             : 02:17:47
-Δ time (since last report): 00:01:00
+Time since last play      : 09:08:35
+Telemetry age             : 09:08:35
+Δ time (since last report): 00:01:03
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1080,40 +1085,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
-Dominant artist           : Bleed
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 5
+Dominant artist           : Overgrown
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-09 15:44:07Z → 2026-03-16 15:44:07Z
-Total tracks played       : 41
+Week window (UTC)         : 2026-03-10 15:44:32Z → 2026-03-17 15:44:32Z
+Total tracks played       : 46
 Dominant artist           : Bleed
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 09:00
+Peak hour (24h)           : 18:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :   ▁     ▄█▁            ▁
-Heatmap (7d)              :  ▁▂ ▂   ▃▇▁   ▁█      ▅▄
+Heatmap (24h)             :    ▄              ██    
+Heatmap (7d)              :  ▁▂▁▂   ▃▇▁   ▁█  ▂▂  ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 03:18:03
+Sessions (24h)            : 3
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 03:18:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(14) | nu metal(14) | post-grunge(14) | shoegaze(14)
-Top genres (7d)           : post-grunge(30) | alternative metal(21) | nu metal(20) | shoegaze(20) | grunge(11) | groove metal(8)
+Top genres (24h)          : alternative metal(2) | nu metal(2) | alternative rock(1) | funk rock(1) | rap metal(1) | rock(1)
+Top genres (7d)           : post-grunge(30) | alternative metal(23) | nu metal(22) | shoegaze(21) | grunge(11) | groove metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-16 15:44:07Z
+Report generated (UTC)    : 2026-03-17 15:44:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1466,9 +1471,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 16 March 2026
+From: 04 December 2023 - To: 17 March 2026
 
-Total Time       : 998 hrs 30 mins
+Total Time       : 998 hrs 43 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 11 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1477,8 +1482,8 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          227 hrs 34 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  22.79 %
-Bash           165 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.53 %
+Other          232 hrs 45 mins ●●●●●●○○○○○○○○○○○○○○○○○○○○  23.31 %
+Bash           165 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.52 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.90 %
 HTML           128 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.88 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.89 %
@@ -1490,17 +1495,17 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            624 hrs 48 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.57 %
-Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.22 %
+Mac            630 hrs 12 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.10 %
+Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.21 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.46 %
-Vim            326 hrs 1 min  ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.65 %
-Firefox        196 hrs 51 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.72 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.45 %
+Vim            326 hrs 14 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.67 %
+Firefox        201 hrs 51 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  20.21 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Terminal       9 hrs 18 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.93 %
-Acrobat        6 hrs 12 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.62 %
+Terminal       9 hrs 22 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.94 %
+Acrobat        6 hrs 19 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.63 %
 FileZilla      5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
 Spotify        4 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.47 %
 TextMate       2 hrs 48 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
@@ -1510,15 +1515,15 @@ Antigravity    1 hr 23 mins   ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,022 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       194 hrs 32 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.48 %
+Coding         1,022 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       199 hrs 32 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.98 %
 Meeting        7 hrs 13 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.72 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 16/03/2026 17:28:51 UTC
+Last updated     : 17/03/2026 17:29:02 UTC
 
 ```
 <!--END_SECTION:wakastats-->
