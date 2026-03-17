@@ -161,7 +161,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 
-[<img src="https://img.shields.io/badge/%E2%97%AC%20Gran%20Logia%20de%20Chile-1f3a5f?style=plastic&logoColor=ffd700&labelColor=1f3a5f" height="19"/>](https://www.granlogia.cl)
+[<img src="https://img.shields.io/badge/%E2%97%ACGran%20Logia%20de%20Chile-1f3a5f?style=plastic&logoColor=ffd700&labelColor=1f3a5f" height="19"/>](https://www.granlogia.cl)
 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
