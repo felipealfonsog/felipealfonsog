@@ -354,20 +354,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Tysons corridor
-location       : transit_corridor
-latitude       : 38.920155
-longitude      : -77.223148
-altitude       : 9 m
-gps_accuracy   : ±4.3 m
-heading        : 264°
-speed          : 0.3 km/h
-status         : stationary
+zone           : McLean perimeter
+location       : cafe
+latitude       : 38.934830
+longitude      : -77.181365
+altitude       : 34 m
+gps_accuracy   : ±6.6 m
+heading        : 329°
+speed          : 8.7 km/h
+status         : in_transit
 phase          : workday
-local_time     : 14:13
+local_time     : 17:09
 timezone       : America/New_York
-signal         : strong
-updated_utc    : 2026-03-17 18:13:31 UTC
+signal         : nominal
+updated_utc    : 2026-03-17 21:09:33 UTC
 ```
 <!-- telemetry-presence:end -->
 
