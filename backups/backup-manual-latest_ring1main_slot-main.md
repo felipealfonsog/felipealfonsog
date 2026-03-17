@@ -150,7 +150,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white&labelColor=000000&color=000000&logoSize=20" height="19"/>](https://x.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/-bluesky_profile-0285FF?style=plastic&logo=bluesky&logoColor=white&labelColor=0285FF&logoWidth=20" height="19"/>](https://bsky.app/profile/felipealfonsog.bsky.social)
-[<img src="https://img.shields.io/badge/-nostr_identity-7C3AED?style=plastic&logo=databricks&logoColor=white&labelColor=7C3AED&logoWidth=20" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2)
+[<img src="https://custom-icon-badges.demolab.com/badge/Nostr-6f42c1?style=plastic&logo=nostr-logo&logoColor=ffffff" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2)
 
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
@@ -161,8 +161,13 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 
+[<img src="https://custom-icon-badges.demolab.com/badge/Freemasonry-1f3a5f?style=plastic&logo=masoneria-logo&logoColor=ffffff" height="19"/>](https://en.wikipedia.org/wiki/Freemasonry) [<img src="https://custom-icon-badges.demolab.com/badge/Gran%20Logia%20de%20Chile-1f3a5f?style=plastic&logo=granlogia-chile-logo&logoColor=ffffff" height="19"/>](https://www.granlogia.cl)
+
+
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+
+
 
 #
 
@@ -275,8 +280,8 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 287 ms
-TTFB................ 286 ms
+LATENCY............. 225 ms
+TTFB................ 224 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -294,9 +299,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PARTIAL
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -310,7 +315,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-17T06:33:19Z
+LAST_PROBE_UTC...... 2026-03-17T09:27:05Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -349,20 +354,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Reston tech belt
+zone           : Alexandria hospitality sector
 location       : hotel
-latitude       : 38.953141
-longitude      : -77.360704
-altitude       : 17 m
-gps_accuracy   : ±3.7 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : stationary
-phase          : overnight
-local_time     : 02:17
+latitude       : 38.807338
+longitude      : -77.061925
+altitude       : 145 m
+gps_accuracy   : ±6.9 m
+heading        : 133°
+speed          : 3.3 km/h
+status         : walking
+phase          : early_morning
+local_time     : 05:15
 timezone       : America/New_York
-signal         : nominal
-updated_utc    : 2026-03-17 06:17:54 UTC
+signal         : stable
+updated_utc    : 2026-03-17 09:15:08 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -1055,13 +1060,13 @@ Last played               : Jason Barker, Sea Of Destruction — Beckon The Stor
 Last played (UTC)         : 2026-03-17 06:35:58Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Deftones — Passenger → Jason Barker, Sea Of Destruction — Beckon The Storm
-Δ last played (since last): 2026-03-16 22:34:37Z → 2026-03-17 06:35:58Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:06:52
-Telemetry age             : 00:06:52
-Δ time (since last report): 02:35:58
+Time since last play      : 03:04:54
+Telemetry age             : 03:04:54
+Δ time (since last report): 00:00:24
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1080,7 +1085,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-10 06:42:49Z → 2026-03-17 06:42:49Z
+Week window (UTC)         : 2026-03-10 09:40:51Z → 2026-03-17 09:40:51Z
 Total tracks played       : 46
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1104,9 +1109,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(16) | nu metal(16) | shoegaze(15) | post-grunge(14) | alternative rock(1) | funk rock(1)
 Top genres (7d)           : post-grunge(30) | alternative metal(23) | nu metal(22) | shoegaze(21) | grunge(11) | groove metal(8)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-17 06:42:49Z
+Report generated (UTC)    : 2026-03-17 09:40:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
