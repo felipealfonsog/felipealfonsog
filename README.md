@@ -165,6 +165,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [<img src="https://img.shields.io/static/v1?label=&message=%E2%97%AC%E2%80%89Gran%20Logia%20de%20Chile&color=1f3a5f&style=plastic&logoColor=ffd700" height="19"/>](https://www.granlogia.cl)
 
+<a href="https://www.granlogia.cl" target="_blank">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/freeman.svg"
+       height="19"
+       style="vertical-align:middle; margin:0; padding:0;" />
+</a>
 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
