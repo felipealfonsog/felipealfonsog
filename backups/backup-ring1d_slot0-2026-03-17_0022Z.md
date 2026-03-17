@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-16_0024Z
+ snapshot_utc : 2026-03-17_0022Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -282,13 +282,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 154 ms
-TTFB................ 153 ms
+LATENCY............. 14835 ms
+TTFB................ 14833 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 53d
+TLS_EXPIRY.......... 52d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -317,7 +317,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-15T18:16:28Z
+LAST_PROBE_UTC...... 2026-03-16T12:29:35Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -356,20 +356,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Alexandria hospitality sector
-location       : hotel
-latitude       : 38.807110
-longitude      : -77.061707
-altitude       : 85 m
-gps_accuracy   : ±4.1 m
-heading        : 312°
-speed          : 0.7 km/h
+zone           : Reston tech belt
+location       : cafe
+latitude       : 38.959592
+longitude      : -77.355012
+altitude       : 124 m
+gps_accuracy   : ±8.2 m
+heading        : 139°
+speed          : 0.4 km/h
 status         : stationary
 phase          : evening
-local_time     : 20:06
+local_time     : 20:05
 timezone       : America/New_York
 signal         : stable
-updated_utc    : 2026-03-16 00:06:29 UTC
+updated_utc    : 2026-03-17 00:05:44 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -488,7 +488,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-15 21:34:45Z
+DSN snapshot (UTC)       : 2026-03-16 21:37:06Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -499,15 +499,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.862 AU
-Heliocentric distance    : 169.976 AU
-Relative speed           : 18.964 km/s
+Earth distance           : 25.41e9 km | 169.858 AU
+Heliocentric distance    : 169.986 AU
+Relative speed           : 18.980 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:42
-Round-trip latency       : 47:05:24
+One-way light time       : 23:32:40
+Round-trip latency       : 47:05:20
 ------------------------------------------------------------
-Δ distance (since last)  : -159,961 km
-Mission age              : 48 years, 203 days
+Δ distance (since last)  : -156,004 km
+Mission age              : 48 years, 204 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -518,19 +518,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.697 AU
-Heliocentric distance    : 142.356 AU
-Relative speed           : 24.496 km/s
+Earth distance           : 21.35e9 km | 142.694 AU
+Heliocentric distance    : 142.364 AU
+Relative speed           : 24.382 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:47
-Round-trip latency       : 39:33:33
+One-way light time       : 19:46:45
+Round-trip latency       : 39:33:30
 ------------------------------------------------------------
-Δ distance (since last)  : -126,364 km
-Mission age              : 48 years, 219 days
+Δ distance (since last)  : -128,011 km
+Mission age              : 48 years, 220 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-15 21:34:50Z
+Report generated (UTC)   : 2026-03-16 21:37:10Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1046,74 +1046,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : The Pretty Reckless — Death by Rock and Roll
-Last played (UTC)         : 2026-03-13 07:53:48Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Overgrown — Give Up
+Last played               : Incubus — A Kiss to Send Us Off
+Last played (UTC)         : 2026-03-16 21:42:35Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Bleed — Silver → Incubus — A Kiss to Send Us Off
+Δ last played (since last): 2026-03-16 13:26:20Z → 2026-03-16 21:42:35Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 61:39:49
-Telemetry age             : 61:39:49
-Δ time (since last report): 00:00:14
+Time since last play      : 00:01:30
+Telemetry age             : 00:01:30
+Δ time (since last report): 00:07:11
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 17
+Dominant artist           : Bleed
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-08 21:33:36Z → 2026-03-15 21:33:36Z
-Total tracks played       : 28
-Dominant artist           : Silverchair
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-03-09 21:44:04Z → 2026-03-16 21:44:04Z
+Total tracks played       : 42
+Dominant artist           : Bleed
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁▁▁▂▂         ▁█      ▅▃
+Heatmap (24h)             :   ▁     ▄█▁       ▁    ▁
+Heatmap (7d)              :  ▁▂ ▂   ▃▇▁   ▁█  ▁   ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:43:47
+Sessions (24h)            : 5
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 03:25:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : post-grunge(16) | grunge(14) | groove metal(11) | alternative metal(10) | heavy metal(7) | metal(7)
+Top genres (24h)          : alternative metal(15) | nu metal(15) | post-grunge(14) | shoegaze(14) | alternative rock(1) | funk rock(1)
+Top genres (7d)           : post-grunge(30) | alternative metal(22) | nu metal(21) | shoegaze(20) | grunge(11) | groove metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-15 21:33:36Z
+Report generated (UTC)    : 2026-03-16 21:44:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1466,7 +1467,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 15 March 2026
+From: 04 December 2023 - To: 16 March 2026
 
 Total Time       : 998 hrs 30 mins
 Mostly coding in : Other
@@ -1477,7 +1478,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          217 hrs 51 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  21.82 %
+Other          227 hrs 34 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  22.79 %
 Bash           165 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.53 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.90 %
 HTML           128 hrs 36 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.88 %
@@ -1490,35 +1491,35 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            615 hrs 5 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.60 %
+Mac            624 hrs 48 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.57 %
 Linux          601 hrs 16 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.22 %
 
 EDITORS
 -------
 VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.46 %
 Vim            326 hrs 1 min  ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.65 %
-Firefox        188 hrs 12 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.85 %
+Firefox        196 hrs 51 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.72 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Terminal       9 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.93 %
+Terminal       9 hrs 18 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.93 %
 Acrobat        6 hrs 12 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.62 %
 FileZilla      5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
-Spotify        4 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.45 %
-TextMate       2 hrs 45 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
-‎WhatsApp      2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
-Zoom           2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
+Spotify        4 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.47 %
+TextMate       2 hrs 48 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
+Zoom           2 hrs 28 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.25 %
+‎WhatsApp      2 hrs 4 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.21 %
 Antigravity    1 hr 23 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.14 %
 
 CATEGORIES
 ----------
-Coding         1,021 hrs 57 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       185 hrs 40 mins ●●●●◔○○○○○○○○○○○○○○○○○○○○○  18.60 %
-Meeting        6 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.67 %
+Coding         1,022 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       194 hrs 32 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  19.48 %
+Meeting        7 hrs 13 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.72 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 15/03/2026 22:11:21 UTC
+Last updated     : 16/03/2026 22:16:36 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1590,22 +1591,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/clsource">
-        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/clsource">Camilo</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Francesco601">
         <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
