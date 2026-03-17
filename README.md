@@ -1059,9 +1059,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:30:59
-Telemetry age             : 05:30:59
-Δ time (since last report): 03:13:44
+Time since last play      : 05:32:01
+Telemetry age             : 05:32:01
+Δ time (since last report): 00:01:03
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1080,7 +1080,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-10 04:05:35Z → 2026-03-17 04:05:35Z
+Week window (UTC)         : 2026-03-10 04:06:37Z → 2026-03-17 04:06:37Z
 Total tracks played       : 45
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1106,7 +1106,7 @@ Top genres (24h)          : alternative metal(16) | nu metal(16) | shoegaze(15) 
 Top genres (7d)           : post-grunge(30) | alternative metal(23) | nu metal(22) | shoegaze(21) | grunge(11) | groove metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-17 04:05:35Z
+Report generated (UTC)    : 2026-03-17 04:06:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
