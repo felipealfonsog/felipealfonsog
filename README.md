@@ -164,13 +164,12 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/static/v1?label=&message=%E2%97%AC%20Gran%20Logia%20de%20Chile&color=1f3a5f&style=plastic&logoColor=ffd700" height="19"/>](https://www.granlogia.cl)
 
 [<img src="https://img.shields.io/static/v1?label=&message=%E2%97%AC%E2%80%89Gran%20Logia%20de%20Chile&color=1f3a5f&style=plastic&logoColor=ffd700" height="19"/>](https://www.granlogia.cl)
-
-<a href="https://www.granlogia.cl" target="_blank">
+<a href="https://www.granlogia.cl" target="_blank" rel="noopener noreferrer">
   <span style="
     display:inline-flex;
     align-items:center;
-    background:#1f3a5f;
-    color:white;
+    background:linear-gradient(#36527b, #183153);
+    color:#ffd700;
     font-size:11px;
     font-family:Verdana, sans-serif;
     padding:2px 8px;
