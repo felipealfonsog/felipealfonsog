@@ -1039,50 +1039,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Overgrown — Give Up
-Last played               : Incubus — A Kiss to Send Us Off
-Last played (UTC)         : 2026-03-16 21:42:35Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Deftones — Passenger
+Last played (UTC)         : 2026-03-16 22:34:37Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Bleed — Silver → Incubus — A Kiss to Send Us Off
-Δ last played (since last): 2026-03-16 13:26:20Z → 2026-03-16 21:42:35Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Incubus — A Kiss to Send Us Off → Deftones — Passenger
+Δ last played (since last): 2026-03-16 21:42:35Z → 2026-03-16 22:34:37Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:01:30
-Telemetry age             : 00:01:30
-Δ time (since last report): 00:07:11
+Time since last play      : 02:17:16
+Telemetry age             : 02:17:16
+Δ time (since last report): 03:07:49
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
+Tracks played (last 24h)  : 20
 Dominant artist           : Bleed
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-09 21:44:04Z → 2026-03-16 21:44:04Z
-Total tracks played       : 42
+Week window (UTC)         : 2026-03-10 00:51:52Z → 2026-03-17 00:51:52Z
+Total tracks played       : 45
 Dominant artist           : Bleed
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1091,23 +1090,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :   ▁     ▄█▁       ▁    ▁
-Heatmap (7d)              :  ▁▂ ▂   ▃▇▁   ▁█  ▁   ▅▄
+Heatmap (24h)             :   ▁     ▄█▁       ▂▂   ▁
+Heatmap (7d)              :  ▁▂ ▂   ▃▇▁   ▁█  ▂▂  ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:25:19
+Sessions (24h)            : 6
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:12:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(15) | nu metal(15) | post-grunge(14) | shoegaze(14) | alternative rock(1) | funk rock(1)
-Top genres (7d)           : post-grunge(30) | alternative metal(22) | nu metal(21) | shoegaze(20) | grunge(11) | groove metal(8)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(16) | nu metal(16) | shoegaze(15) | post-grunge(14) | alternative rock(1) | funk rock(1)
+Top genres (7d)           : post-grunge(30) | alternative metal(23) | nu metal(22) | shoegaze(21) | grunge(11) | groove metal(8)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-16 21:44:04Z
+Report generated (UTC)    : 2026-03-17 00:51:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

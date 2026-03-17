@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-16 21:44:04Z",
-  "status": "PLAYING",
-  "last_track": "Incubus — A Kiss to Send Us Off",
-  "last_played_utc": "2026-03-16 21:42:35Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-03-17 00:51:52Z",
+  "status": "IDLE",
+  "last_track": "Deftones — Passenger",
+  "last_played_utc": "2026-03-16 22:34:37Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -453,6 +453,13 @@
       "alternative metal",
       "nu metal"
     ],
-    "2R57sY41L9XvGPiIgHOaYq": []
+    "2R57sY41L9XvGPiIgHOaYq": [],
+    "6Ghvu1VvMGScGpOUJBAHNH": [
+      "nu metal",
+      "alternative metal",
+      "rap metal",
+      "shoegaze",
+      "rock"
+    ]
   }
 }
