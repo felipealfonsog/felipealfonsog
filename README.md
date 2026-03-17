@@ -164,6 +164,13 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
 
+
+
+<a href="https://www.granlogia.cl/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gran%20Logia%20de%20Chile-Visitar%20sitio-6b4f2a?style=plastic" alt="Gran Logia de Chile">
+</a>
+
+
 #
 
 <!--
