@@ -1060,13 +1060,13 @@ Last played               : Jason Barker, Sea Of Destruction — Beckon The Stor
 Last played (UTC)         : 2026-03-17 06:35:58Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Deftones — Passenger → Jason Barker, Sea Of Destruction — Beckon The Storm
-Δ last played (since last): 2026-03-16 22:34:37Z → 2026-03-17 06:35:58Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:06:52
-Telemetry age             : 00:06:52
-Δ time (since last report): 02:35:58
+Time since last play      : 03:03:52
+Telemetry age             : 03:03:52
+Δ time (since last report): 02:57:01
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1085,7 +1085,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-10 06:42:49Z → 2026-03-17 06:42:49Z
+Week window (UTC)         : 2026-03-10 09:39:49Z → 2026-03-17 09:39:49Z
 Total tracks played       : 46
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1109,9 +1109,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(16) | nu metal(16) | shoegaze(15) | post-grunge(14) | alternative rock(1) | funk rock(1)
 Top genres (7d)           : post-grunge(30) | alternative metal(23) | nu metal(22) | shoegaze(21) | grunge(11) | groove metal(8)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-17 06:42:49Z
+Report generated (UTC)    : 2026-03-17 09:39:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
