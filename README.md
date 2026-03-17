@@ -175,10 +175,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
     font-family:Verdana, sans-serif;
     padding:2px 8px;
     border-radius:4px;
+    line-height:1;
   ">
     <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/freeman.svg"
          height="14"
-         style="margin-right:6px;" />
+         style="margin-right:6px; display:block;" />
     Gran Logia de Chile
   </span>
 </a>
