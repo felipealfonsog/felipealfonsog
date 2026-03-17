@@ -1051,17 +1051,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Deftones — Passenger
-Last played (UTC)         : 2026-03-16 22:34:37Z
+Last played               : Jason Barker, Sea Of Destruction — Beckon The Storm
+Last played (UTC)         : 2026-03-17 06:35:58Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Deftones — Passenger → Jason Barker, Sea Of Destruction — Beckon The Storm
+Δ last played (since last): 2026-03-16 22:34:37Z → 2026-03-17 06:35:58Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:32:16
-Telemetry age             : 05:32:16
-Δ time (since last report): 00:00:16
+Time since last play      : 00:06:52
+Telemetry age             : 00:06:52
+Δ time (since last report): 02:35:58
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1080,8 +1080,8 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-10 04:06:52Z → 2026-03-17 04:06:52Z
-Total tracks played       : 45
+Week window (UTC)         : 2026-03-10 06:42:49Z → 2026-03-17 06:42:49Z
+Total tracks played       : 46
 Dominant artist           : Bleed
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1090,23 +1090,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :   ▁     ▄█▁       ▂▂    
-Heatmap (7d)              :  ▁▂ ▂   ▃▇▁   ▁█  ▂▂  ▅▄
+Heatmap (24h)             :    ▁    ▄█▁       ▂▂    
+Heatmap (7d)              :  ▁▂▁▂   ▃▇▁   ▁█  ▂▂  ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:12:30
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 03:18:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(16) | nu metal(16) | shoegaze(15) | post-grunge(14) | alternative rock(1) | funk rock(1)
 Top genres (7d)           : post-grunge(30) | alternative metal(23) | nu metal(22) | shoegaze(21) | grunge(11) | groove metal(8)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-17 04:06:52Z
+Report generated (UTC)    : 2026-03-17 06:42:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
