@@ -165,16 +165,9 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
 
 
+[<img src="https://img.shields.io/badge/△◬%20Freemasonry-Chile-1f3a5f?style=plastic&logoColor=white&labelColor=1f3a5f" height="19"/>](https://www.granlogia.cl)
 
-[<img src="https://img.shields.io/badge/-Freemasonry%20Chile-4b3621?style=plastic&logo=databricks&logoColor=white&labelColor=4b3621&logoWidth=20" height="19"/>](https://www.granlogia.cl)
-
-[<img src="https://img.shields.io/badge/-Freemasonry%20Chile-4b3621?style=plastic&logo=databricks&logoColor=white&labelColor=4b3621&logoWidth=20" height="19"/>](https://www.granlogia.cl)
-
-[<img src="https://img.shields.io/badge/△%20Freemasonry-Chile-6b4f2a?style=plastic&logoColor=white&labelColor=6b4f2a" height="19"/>](https://www.granlogia.cl)
-
-[<img src="https://img.shields.io/badge/-Freemasonry-6b4f2a?style=plastic&logo=databricks&logoColor=white&labelColor=6b4f2a&logoWidth=20" height="19"/>](https://www.granlogia.cl)
-
-
+[<img src="https://img.shields.io/badge/△◬%20Freemasonry-Chile-1f3a5f?style=plastic&logoColor=ffd700&labelColor=1f3a5f" height="19"/>](https://www.granlogia.cl)
 
 
 #
