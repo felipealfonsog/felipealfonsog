@@ -349,20 +349,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Reston tech belt
-location       : cafe
-latitude       : 38.959592
-longitude      : -77.355012
-altitude       : 124 m
-gps_accuracy   : ±8.2 m
-heading        : 139°
-speed          : 0.4 km/h
+zone           : Alexandria hospitality sector
+location       : hotel
+latitude       : 38.806837
+longitude      : -77.061591
+altitude       : 24 m
+gps_accuracy   : ±4.1 m
+heading        : 95°
+speed          : 0.3 km/h
 status         : stationary
-phase          : evening
-local_time     : 20:05
+phase          : overnight
+local_time     : 23:46
 timezone       : America/New_York
 signal         : stable
-updated_utc    : 2026-03-17 00:05:44 UTC
+updated_utc    : 2026-03-17 03:46:05 UTC
 ```
 <!-- telemetry-presence:end -->
 
