@@ -166,9 +166,15 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 
 
-<a href="https://www.granlogia.cl/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gran%20Logia%20de%20Chile-Visitar%20sitio-6b4f2a?style=plastic" alt="Gran Logia de Chile">
-</a>
+[<img src="https://img.shields.io/badge/-Freemasonry%20Chile-4b3621?style=plastic&logo=databricks&logoColor=white&labelColor=4b3621&logoWidth=20" height="19"/>](https://www.granlogia.cl)
+
+[<img src="https://img.shields.io/badge/-Freemasonry%20Chile-4b3621?style=plastic&logo=databricks&logoColor=white&labelColor=4b3621&logoWidth=20" height="19"/>](https://www.granlogia.cl)
+
+[<img src="https://img.shields.io/badge/△%20Freemasonry-Chile-6b4f2a?style=plastic&logoColor=white&labelColor=6b4f2a" height="19"/>](https://www.granlogia.cl)
+
+[<img src="https://img.shields.io/badge/-Freemasonry-6b4f2a?style=plastic&logo=databricks&logoColor=white&labelColor=6b4f2a&logoWidth=20" height="19"/>](https://www.granlogia.cl)
+
+
 
 
 #
