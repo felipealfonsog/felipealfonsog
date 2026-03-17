@@ -1055,13 +1055,13 @@ Last played               : Deftones — Passenger
 Last played (UTC)         : 2026-03-16 22:34:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Incubus — A Kiss to Send Us Off → Deftones — Passenger
-Δ last played (since last): 2026-03-16 21:42:35Z → 2026-03-16 22:34:37Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:17:16
-Telemetry age             : 02:17:16
-Δ time (since last report): 03:07:49
+Time since last play      : 05:30:59
+Telemetry age             : 05:30:59
+Δ time (since last report): 03:13:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1073,14 +1073,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 20
+Tracks played (last 24h)  : 19
 Dominant artist           : Bleed
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-10 00:51:52Z → 2026-03-17 00:51:52Z
+Week window (UTC)         : 2026-03-10 04:05:35Z → 2026-03-17 04:05:35Z
 Total tracks played       : 45
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1090,13 +1090,13 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :   ▁     ▄█▁       ▂▂   ▁
+Heatmap (24h)             :   ▁     ▄█▁       ▂▂    
 Heatmap (7d)              :  ▁▂ ▂   ▃▇▁   ▁█  ▂▂  ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 6
+Sessions (24h)            : 5
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 03:12:30
 ------------------------------------------------------------
@@ -1104,9 +1104,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(16) | nu metal(16) | shoegaze(15) | post-grunge(14) | alternative rock(1) | funk rock(1)
 Top genres (7d)           : post-grunge(30) | alternative metal(23) | nu metal(22) | shoegaze(21) | grunge(11) | groove metal(8)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-17 00:51:52Z
+Report generated (UTC)    : 2026-03-17 04:05:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
