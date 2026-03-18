@@ -354,20 +354,20 @@ PROBE_CONFIDENCE.... HIGH
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Northern Virginia, United States
-zone           : Tysons corridor
-location       : hotel
-latitude       : 38.917193
-longitude      : -77.221261
-altitude       : 113 m
-gps_accuracy   : ±6.4 m
-heading        : 38°
-speed          : 2.8 km/h
+zone           : Reston tech belt
+location       : office
+latitude       : 38.958411
+longitude      : -77.357429
+altitude       : 160 m
+gps_accuracy   : ±6.7 m
+heading        : 119°
+speed          : 7.0 km/h
 status         : walking
-phase          : early_morning
-local_time     : 05:14
+phase          : morning
+local_time     : 08:09
 timezone       : America/New_York
-signal         : stable
-updated_utc    : 2026-03-18 09:14:43 UTC
+signal         : nominal
+updated_utc    : 2026-03-18 12:09:53 UTC
 ```
 <!-- telemetry-presence:end -->
 
