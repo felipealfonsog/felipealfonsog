@@ -1064,9 +1064,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 18:19:04
-Telemetry age             : 18:19:04
-Δ time (since last report): 00:00:11
+Time since last play      : 21:33:52
+Telemetry age             : 21:33:52
+Δ time (since last report): 03:14:49
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1085,10 +1085,10 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-11 00:55:01Z → 2026-03-18 00:55:01Z
-Total tracks played       : 46
+Week window (UTC)         : 2026-03-11 04:09:49Z → 2026-03-18 04:09:49Z
+Total tracks played       : 36
 Dominant artist           : Bleed
-Cadence classification    : HIGH
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1096,22 +1096,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 15:00
 Heatmap (24h)             :    █                    
-Heatmap (7d)              :  ▁▂▁▂   ▃▇▁   ▁█  ▂▂  ▅▄
+Heatmap (7d)              :  ▁▂▁▂   ▃▇▁   ▁█  ▂▂   ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 03:18:55
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 04:09:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : post-grunge(30) | alternative metal(23) | nu metal(22) | shoegaze(21) | grunge(11) | groove metal(8)
+Top genres (7d)           : alternative metal(22) | nu metal(22) | post-grunge(21) | shoegaze(21) | groove metal(7) | heavy metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-18 00:55:01Z
+Report generated (UTC)    : 2026-03-18 04:09:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
