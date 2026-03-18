@@ -1064,9 +1064,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 15:00:45
-Telemetry age             : 15:00:45
-Δ time (since last report): 00:01:02
+Time since last play      : 18:18:39
+Telemetry age             : 18:18:39
+Δ time (since last report): 03:17:55
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1078,14 +1078,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
-Dominant artist           : Overgrown
+Tracks played (last 24h)  : 1
+Dominant artist           : Jason Barker
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-10 21:36:42Z → 2026-03-17 21:36:42Z
+Week window (UTC)         : 2026-03-11 00:54:36Z → 2026-03-18 00:54:36Z
 Total tracks played       : 46
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1093,25 +1093,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
+Peak hour (24h)           : 03:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :    ▄              ██    
+Heatmap (24h)             :    █                    
 Heatmap (7d)              :  ▁▂▁▂   ▃▇▁   ▁█  ▂▂  ▅▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 1
 Sessions (7d)             : 12
 Avg inter-play gap (7d)   : 03:18:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(2) | nu metal(2) | alternative rock(1) | funk rock(1) | rap metal(1) | rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : post-grunge(30) | alternative metal(23) | nu metal(22) | shoegaze(21) | grunge(11) | groove metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-17 21:36:42Z
+Report generated (UTC)    : 2026-03-18 00:54:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
