@@ -1063,18 +1063,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : I Hate Elephants Sitting on Children — Fear Is Just a Concept
-Last played               : Slow Wild — Slow Wild
-Last played (UTC)         : 2026-03-19 21:18:57Z
+Now playing               : Red In Summer — Save Me
+Last played               : Transmission Lost — Break
+Last played (UTC)         : 2026-03-19 21:32:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Milk Krayt — At Firing Range → Slow Wild — Slow Wild
-Δ last played (since last): 2026-03-19 21:15:16Z → 2026-03-19 21:18:57Z
+Δ track (since last)      : Slow Wild — Slow Wild → Transmission Lost — Break
+Δ last played (since last): 2026-03-19 21:18:57Z → 2026-03-19 21:32:46Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:59
-Telemetry age             : 00:00:59
-Δ time (since last report): 00:01:45
+Time since last play      : 00:01:01
+Telemetry age             : 00:01:01
+Δ time (since last report): 00:13:51
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1086,15 +1086,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 21
-Dominant artist           : Slow Wild
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 25
+Dominant artist           : Transmission Lost
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 21:19:56Z → 2026-03-19 21:19:56Z
-Total tracks played       : 45
+Week window (UTC)         : 2026-03-12 21:33:46Z → 2026-03-19 21:33:46Z
+Total tracks played       : 49
 Dominant artist           : Bleed
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1103,23 +1103,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :   ▁█             ▂▃     
-Heatmap (7d)              :  ▁▁█▁   ▂▆▁      ▂▄▁   ▁
+Heatmap (24h)             :   ▁█             ▂▆     
+Heatmap (7d)              :  ▁▁█▁   ▂▆▁      ▂▇▁   ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:39:57
+Avg inter-play gap (7d)   : 03:21:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | brazilian jazz(1) | metalcore(1) | space rock(1)
-Top genres (7d)           : alternative metal(18) | nu metal(17) | shoegaze(16) | jazz(15) | post-grunge(15) | ambient jazz(3)
+Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | brazilian jazz(1) | metalcore(1) | progressive metal(1)
+Top genres (7d)           : alternative metal(18) | nu metal(17) | shoegaze(17) | jazz(15) | post-grunge(15) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 21:19:56Z
+Report generated (UTC)    : 2026-03-19 21:33:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
