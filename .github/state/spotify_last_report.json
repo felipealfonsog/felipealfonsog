@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-19 21:34:34Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-03-19 21:35:01Z",
+  "status": "IDLE",
   "last_track": "Transmission Lost — Break",
   "last_played_utc": "2026-03-19 21:32:46Z",
-  "sitrep": "GREEN",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"

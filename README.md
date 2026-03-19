@@ -1051,30 +1051,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : ONLINE (idle session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Red In Summer — Save Me
+Now playing               : N/A
 Last played               : Transmission Lost — Break
 Last played (UTC)         : 2026-03-19 21:32:46Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:01:48
-Telemetry age             : 00:01:48
-Δ time (since last report): 00:00:48
+Time since last play      : 00:02:15
+Telemetry age             : 00:02:15
+Δ time (since last report): 00:00:27
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1093,7 +1092,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 21:34:34Z → 2026-03-19 21:34:34Z
+Week window (UTC)         : 2026-03-12 21:35:01Z → 2026-03-19 21:35:01Z
 Total tracks played       : 49
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1119,7 +1118,7 @@ Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | 
 Top genres (7d)           : alternative metal(18) | nu metal(17) | shoegaze(17) | jazz(15) | post-grunge(15) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 21:34:34Z
+Report generated (UTC)    : 2026-03-19 21:35:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
