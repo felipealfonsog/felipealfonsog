@@ -359,21 +359,21 @@ PROBE_CONFIDENCE.... HIGH
 ```text
 Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
-region         : Northern Virginia, United States
-zone           : Tysons corridor
-location       : hotel
-latitude       : 38.916772
-longitude      : -77.220570
-altitude       : 129 m
-gps_accuracy   : ±5.2 m
-heading        : 24°
-speed          : 0.6 km/h
-status         : resting
+region         : Santiago, Chile
+zone           : Santiago Centro
+location       : pedestrian_axis
+latitude       : -33.438211
+longitude      : -70.647337
+altitude       : 77 m
+gps_accuracy   : ±4.5 m
+heading        : 0°
+speed          : 0.1 km/h
+status         : low_movement
 phase          : overnight
-local_time     : 23:50
-timezone       : America/New_York
+local_time     : 02:52
+timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-03-19 03:50:01 UTC
+updated_utc    : 2026-03-19 05:52:40 UTC
 ```
 <!-- telemetry-presence:end -->
 
