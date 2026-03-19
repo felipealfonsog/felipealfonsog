@@ -1068,13 +1068,13 @@ Last played               : Transmission Lost — Break
 Last played (UTC)         : 2026-03-19 21:32:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Slow Wild — Slow Wild → Transmission Lost — Break
-Δ last played (since last): 2026-03-19 21:18:57Z → 2026-03-19 21:32:46Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:01
-Telemetry age             : 00:01:01
-Δ time (since last report): 00:13:51
+Time since last play      : 00:01:48
+Telemetry age             : 00:01:48
+Δ time (since last report): 00:00:48
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1093,7 +1093,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 21:33:46Z → 2026-03-19 21:33:46Z
+Week window (UTC)         : 2026-03-12 21:34:34Z → 2026-03-19 21:34:34Z
 Total tracks played       : 49
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1119,7 +1119,7 @@ Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | 
 Top genres (7d)           : alternative metal(18) | nu metal(17) | shoegaze(17) | jazz(15) | post-grunge(15) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 21:33:46Z
+Report generated (UTC)    : 2026-03-19 21:34:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
