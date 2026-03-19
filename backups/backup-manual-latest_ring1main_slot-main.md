@@ -71,7 +71,7 @@ Throughout my life, I have lived, worked, and studied internationally — includ
 
 Integrity, transparency, and coherence shape both my work and my personal journey. I act with purpose—where values meet impact—and I seek truth in the silence that moves us forward.
 
-If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀ ✡︎
+If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀ ✡︎ ⚜︎
 
 <!-- 
 https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
@@ -362,19 +362,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437663
-longitude      : -70.646571
-altitude       : 136 m
-gps_accuracy   : ±4.7 m
-heading        : 10°
-speed          : 9.4 km/h
-status         : walking
-phase          : workday
-local_time     : 15:12
+location       : residential_sector
+latitude       : -33.441597
+longitude      : -70.653719
+altitude       : 116 m
+gps_accuracy   : ±7.7 m
+heading        : 193°
+speed          : 0.3 km/h
+status         : stationary
+phase          : evening
+local_time     : 18:08
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-03-19 18:12:27 UTC
+signal         : stable
+updated_utc    : 2026-03-19 21:08:14 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -1063,18 +1063,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : PRAUN — Vanishing Point
-Last played               : Silver Throne — Where Your Feet Have Been
-Last played (UTC)         : 2026-03-19 20:57:14Z
+Now playing               : I Hate Elephants Sitting on Children — Fear Is Just a Concept
+Last played               : Slow Wild — Slow Wild
+Last played (UTC)         : 2026-03-19 21:18:57Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Milk Krayt — At Firing Range → Slow Wild — Slow Wild
+Δ last played (since last): 2026-03-19 21:15:16Z → 2026-03-19 21:18:57Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:58
-Telemetry age             : 00:03:58
-Δ time (since last report): 00:01:41
+Time since last play      : 00:00:59
+Telemetry age             : 00:00:59
+Δ time (since last report): 00:01:45
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1086,15 +1086,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
-Dominant artist           : Silver Throne
+Tracks played (last 24h)  : 21
+Dominant artist           : Slow Wild
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 21:01:11Z → 2026-03-19 21:01:11Z
-Total tracks played       : 40
+Week window (UTC)         : 2026-03-12 21:19:56Z → 2026-03-19 21:19:56Z
+Total tracks played       : 45
 Dominant artist           : Bleed
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1103,23 +1103,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :   ▁█             ▂      
-Heatmap (7d)              :  ▁▁█▁   ▂▆▁      ▂▁▁   ▁
+Heatmap (24h)             :   ▁█             ▂▃     
+Heatmap (7d)              :  ▁▁█▁   ▂▆▁      ▂▄▁   ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 04:07:36
+Avg inter-play gap (7d)   : 03:39:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(15) | ambient jazz(3) | brazilian jazz(1)
-Top genres (7d)           : alternative metal(17) | nu metal(17) | shoegaze(16) | jazz(15) | post-grunge(15) | ambient jazz(3)
+Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | brazilian jazz(1) | metalcore(1) | space rock(1)
+Top genres (7d)           : alternative metal(18) | nu metal(17) | shoegaze(16) | jazz(15) | post-grunge(15) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 21:01:11Z
+Report generated (UTC)    : 2026-03-19 21:19:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1524,7 +1524,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 19/03/2026 20:17:57 UTC
+Last updated     : 19/03/2026 21:17:06 UTC
 
 ```
 <!--END_SECTION:wakastats-->
