@@ -1067,13 +1067,13 @@ Last played               : Silver Throne — Where Your Feet Have Been
 Last played (UTC)         : 2026-03-19 20:57:14Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Maxime Leroy Trio — Honey, I'm Glad You're Mine → Silver Throne — Where Your Feet Have Been
-Δ last played (since last): 2026-03-19 06:35:29Z → 2026-03-19 20:57:14Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:06
-Telemetry age             : 00:00:06
-Δ time (since last report): 02:19:54
+Time since last play      : 00:02:18
+Telemetry age             : 00:02:18
+Δ time (since last report): 00:02:13
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1092,7 +1092,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 20:57:19Z → 2026-03-19 20:57:19Z
+Week window (UTC)         : 2026-03-12 20:59:31Z → 2026-03-19 20:59:31Z
 Total tracks played       : 40
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1116,9 +1116,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(15) | ambient jazz(3) | brazilian jazz(1)
 Top genres (7d)           : alternative metal(17) | nu metal(17) | shoegaze(16) | jazz(15) | post-grunge(15) | ambient jazz(3)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 20:57:19Z
+Report generated (UTC)    : 2026-03-19 20:59:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
