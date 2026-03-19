@@ -1050,30 +1050,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : ONLINE (idle session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Erik Moreau — Faded Moment
+Now playing               : N/A
 Last played               : Maxime Leroy Trio — Honey, I'm Glad You're Mine
 Last played (UTC)         : 2026-03-19 06:35:29Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Hudson Harris & Haim — Blue in Green → Maxime Leroy Trio — Honey, I'm Glad You're Mine
-Δ last played (since last): 2026-03-19 06:29:55Z → 2026-03-19 06:35:29Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:59
-Telemetry age             : 00:00:59
-Δ time (since last report): 00:03:14
+Time since last play      : 00:03:38
+Telemetry age             : 00:03:38
+Δ time (since last report): 00:02:40
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1092,7 +1091,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 06:36:27Z → 2026-03-19 06:36:27Z
+Week window (UTC)         : 2026-03-12 06:39:07Z → 2026-03-19 06:39:07Z
 Total tracks played       : 37
 Dominant artist           : Bleed
 Cadence classification    : MEDIUM
@@ -1116,9 +1115,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(14) | ambient jazz(3) | brazilian jazz(1)
 Top genres (7d)           : alternative metal(17) | nu metal(17) | shoegaze(16) | post-grunge(15) | jazz(14) | ambient jazz(3)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 06:36:27Z
+Report generated (UTC)    : 2026-03-19 06:39:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

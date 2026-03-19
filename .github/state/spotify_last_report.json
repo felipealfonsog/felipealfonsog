@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-19 06:36:27Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-03-19 06:39:07Z",
+  "status": "IDLE",
   "last_track": "Maxime Leroy Trio — Honey, I'm Glad You're Mine",
   "last_played_utc": "2026-03-19 06:35:29Z",
-  "sitrep": "GREEN",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
