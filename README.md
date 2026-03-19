@@ -1062,18 +1062,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Gottfried Barber Trio — Lighter
+Now playing               : Maxime Leroy Trio — Honey, I'm Glad You're Mine
 Last played               : Hudson Harris & Haim — Blue in Green
 Last played (UTC)         : 2026-03-19 06:29:55Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Odo Lefebvre — That´s All → Hudson Harris & Haim — Blue in Green
-Δ last played (since last): 2026-03-19 06:05:57Z → 2026-03-19 06:29:55Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:08
-Telemetry age             : 00:02:08
-Δ time (since last report): 00:23:44
+Time since last play      : 00:03:19
+Telemetry age             : 00:03:19
+Δ time (since last report): 00:01:11
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1092,7 +1092,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 06:32:03Z → 2026-03-19 06:32:03Z
+Week window (UTC)         : 2026-03-12 06:33:14Z → 2026-03-19 06:33:14Z
 Total tracks played       : 35
 Dominant artist           : Bleed
 Cadence classification    : MEDIUM
@@ -1116,9 +1116,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(12) | ambient jazz(3) | brazilian jazz(1)
 Top genres (7d)           : alternative metal(17) | nu metal(17) | shoegaze(16) | post-grunge(15) | jazz(12) | ambient jazz(3)
-Artist lookups (this run) : 10 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 06:32:03Z
+Report generated (UTC)    : 2026-03-19 06:33:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
