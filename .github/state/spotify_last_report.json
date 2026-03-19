@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-03-19 06:08:19Z",
+  "report_generated_utc": "2026-03-19 06:32:03Z",
   "status": "PLAYING",
-  "last_track": "Odo Lefebvre — That´s All",
-  "last_played_utc": "2026-03-19 06:05:57Z",
+  "last_track": "Hudson Harris & Haim — Blue in Green",
+  "last_played_utc": "2026-03-19 06:29:55Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -469,6 +469,37 @@
     "6ezFSYpcIHmJfQ0ZrGQmyh": [
       "jazz",
       "ambient jazz"
-    ]
+    ],
+    "29EE6iBb3i7sWjsz410xbV": [
+      "jazz",
+      "ambient jazz"
+    ],
+    "3EJ5w7wMNM0ZVOKFBaRp4J": [
+      "jazz"
+    ],
+    "0oeLogVOTRyRb8h43KVlXm": [
+      "jazz"
+    ],
+    "2deWXMlH853VExXZNmSe5o": [
+      "jazz"
+    ],
+    "7c7414LKkYnuDPlkrwDg9a": [
+      "jazz"
+    ],
+    "3j1aerNPNVeAjD4GgI3xJQ": [
+      "jazz"
+    ],
+    "3dz5vxw8WxPgcbD2HIVN5D": [
+      "jazz"
+    ],
+    "2MV5ORkK9NtSHyy4WbwY80": [
+      "jazz",
+      "ambient jazz",
+      "brazilian jazz"
+    ],
+    "4OSxWbYWRbUZzmkKS6PRM4": [
+      "jazz"
+    ],
+    "10fF7C0hOnj8V3lDxH6PQH": []
   }
 }

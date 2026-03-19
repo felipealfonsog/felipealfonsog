@@ -1062,18 +1062,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Dan Evans-Parker — Food is the dream
-Last played               : Odo Lefebvre — That´s All
-Last played (UTC)         : 2026-03-19 06:05:57Z
+Now playing               : Gottfried Barber Trio — Lighter
+Last played               : Hudson Harris & Haim — Blue in Green
+Last played (UTC)         : 2026-03-19 06:29:55Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Clover Post — First Day on Set → Odo Lefebvre — That´s All
-Δ last played (since last): 2026-03-19 06:02:20Z → 2026-03-19 06:05:57Z
+Δ track (since last)      : Odo Lefebvre — That´s All → Hudson Harris & Haim — Blue in Green
+Δ last played (since last): 2026-03-19 06:05:57Z → 2026-03-19 06:29:55Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:23
-Telemetry age             : 00:02:23
-Δ time (since last report): 00:03:51
+Time since last play      : 00:02:08
+Telemetry age             : 00:02:08
+Δ time (since last report): 00:23:44
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1085,15 +1085,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
-Dominant artist           : Odo Lefebvre
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 11
+Dominant artist           : Hudson Harris & Haim
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 06:08:19Z → 2026-03-19 06:08:19Z
-Total tracks played       : 27
+Week window (UTC)         : 2026-03-12 06:32:03Z → 2026-03-19 06:32:03Z
+Total tracks played       : 35
 Dominant artist           : Bleed
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1101,24 +1101,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
-Peak hour (7d)            : 09:00
-Heatmap (24h)             :   ▄█                    
-Heatmap (7d)              :  ▁▂▃▂   ▄█▁       ▂▂   ▁
+Peak hour (7d)            : 03:00
+Heatmap (24h)             :   ▁█                    
+Heatmap (7d)              :  ▁▁█▁   ▃▇▁       ▁▁   ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 05:37:07
+Avg inter-play gap (7d)   : 04:18:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(3) | ambient jazz(1)
-Top genres (7d)           : alternative metal(17) | nu metal(17) | shoegaze(16) | post-grunge(15) | jazz(3) | alternative rock(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(12) | ambient jazz(3) | brazilian jazz(1)
+Top genres (7d)           : alternative metal(17) | nu metal(17) | shoegaze(16) | post-grunge(15) | jazz(12) | ambient jazz(3)
+Artist lookups (this run) : 10 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 06:08:19Z
+Report generated (UTC)    : 2026-03-19 06:32:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
