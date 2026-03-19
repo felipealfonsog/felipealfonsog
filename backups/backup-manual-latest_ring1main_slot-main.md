@@ -166,6 +166,8 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 <a href="https://en.wikipedia.org/wiki/Freemasonry" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/masoneria-logo.svg" alt="Freemasonry" width="40" height="40"/></a>
 <a href="https://www.granlogia.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogia-final.svg" alt="Gran Logia de Chile" width="40" height="40"/></a>
+<a href="https://granoriente.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiadelgranoriente.svg" alt="Gran Logia Gran Oriente de Chile" width="40" height="40"/></a>
+<a href="https://granlogiamixta.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiamixta.svg" alt="Gran Logia Mixta de Chile" width="40" height="40"/></a>
 <a href="https://boyscouts.cl" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/anbschile.svg" alt="Agrupacción Nacional de Chile" width="40" height="40"/></a>
 <a href="https://boyscouts.cl/c22/?page_id=1108" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gilwell.svg" alt="Baden Powell, El Parque De Gilwell Y La Insignia De Madera" width="40" height="40"/></a>
 
@@ -1051,30 +1053,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : ONLINE (idle session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : I Hate Elephants Sitting on Children — Fear Is Just a Concept
-Last played               : Slow Wild — Slow Wild
-Last played (UTC)         : 2026-03-19 21:18:57Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Transmission Lost — Break
+Last played (UTC)         : 2026-03-19 21:32:46Z
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Milk Krayt — At Firing Range → Slow Wild — Slow Wild
-Δ last played (since last): 2026-03-19 21:15:16Z → 2026-03-19 21:18:57Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:59
-Telemetry age             : 00:00:59
-Δ time (since last report): 00:01:45
+Time since last play      : 00:03:37
+Telemetry age             : 00:03:37
+Δ time (since last report): 00:01:22
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1086,15 +1087,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 21
-Dominant artist           : Slow Wild
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 25
+Dominant artist           : Transmission Lost
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 21:19:56Z → 2026-03-19 21:19:56Z
-Total tracks played       : 45
+Week window (UTC)         : 2026-03-12 21:36:22Z → 2026-03-19 21:36:22Z
+Total tracks played       : 49
 Dominant artist           : Bleed
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1103,23 +1104,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :   ▁█             ▂▃     
-Heatmap (7d)              :  ▁▁█▁   ▂▆▁      ▂▄▁   ▁
+Heatmap (24h)             :   ▁█             ▂▆     
+Heatmap (7d)              :  ▁▁█▁   ▂▆▁      ▂▇▁   ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:39:57
+Avg inter-play gap (7d)   : 03:21:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | brazilian jazz(1) | metalcore(1) | space rock(1)
-Top genres (7d)           : alternative metal(18) | nu metal(17) | shoegaze(16) | jazz(15) | post-grunge(15) | ambient jazz(3)
+Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | brazilian jazz(1) | metalcore(1) | progressive metal(1)
+Top genres (7d)           : alternative metal(18) | nu metal(17) | shoegaze(17) | jazz(15) | post-grunge(15) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 21:19:56Z
+Report generated (UTC)    : 2026-03-19 21:36:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1524,7 +1525,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 19/03/2026 21:17:06 UTC
+Last updated     : 19/03/2026 22:11:40 UTC
 
 ```
 <!--END_SECTION:wakastats-->
