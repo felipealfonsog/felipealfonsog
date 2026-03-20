@@ -1077,9 +1077,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 21:05:02
-Telemetry age             : 21:05:02
-Δ time (since last report): 00:01:22
+Time since last play      : 23:59:59
+Telemetry age             : 23:59:59
+Δ time (since last report): 02:54:57
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1091,14 +1091,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
+Tracks played (last 24h)  : 1
 Dominant artist           : Transmission Lost
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-13 18:37:48Z → 2026-03-20 18:37:48Z
+Week window (UTC)         : 2026-03-13 21:32:45Z → 2026-03-20 21:32:45Z
 Total tracks played       : 46
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1108,7 +1108,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :                  ▃█     
+Heatmap (24h)             :                   █     
 Heatmap (7d)              :   ▁█    ▂▆▁      ▂▇▁   ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -1120,11 +1120,11 @@ Avg inter-play gap (7d)   : 02:01:06
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | jazz(1) | metalcore(1) | progressive metal(1) | progressive rock(1) | shoegaze(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(17) | nu metal(16) | shoegaze(16) | jazz(15) | post-grunge(14) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-20 18:37:48Z
+Report generated (UTC)    : 2026-03-20 21:32:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
