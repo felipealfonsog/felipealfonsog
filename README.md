@@ -1077,9 +1077,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:19:22
-Telemetry age             : 03:19:22
-Δ time (since last report): 03:15:46
+Time since last play      : 06:32:15
+Telemetry age             : 06:32:15
+Δ time (since last report): 03:12:53
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1098,8 +1098,8 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-13 00:52:08Z → 2026-03-20 00:52:08Z
-Total tracks played       : 49
+Week window (UTC)         : 2026-03-13 04:05:01Z → 2026-03-20 04:05:01Z
+Total tracks played       : 48
 Dominant artist           : Bleed
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1109,22 +1109,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
 Heatmap (24h)             :   ▁█             ▂▆     
-Heatmap (7d)              :  ▁▁█▁   ▂▆▁      ▂▇▁   ▁
+Heatmap (7d)              :   ▁█▁   ▂▆▁      ▂▇▁   ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:21:55
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 03:21:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | brazilian jazz(1) | metalcore(1) | progressive metal(1)
-Top genres (7d)           : alternative metal(18) | nu metal(17) | shoegaze(17) | jazz(15) | post-grunge(15) | ambient jazz(3)
+Top genres (7d)           : alternative metal(17) | nu metal(16) | shoegaze(16) | jazz(15) | post-grunge(14) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-20 00:52:08Z
+Report generated (UTC)    : 2026-03-20 04:05:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
