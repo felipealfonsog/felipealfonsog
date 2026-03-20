@@ -1077,9 +1077,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:34:53
-Telemetry age             : 06:34:53
-Δ time (since last report): 00:01:30
+Time since last play      : 09:04:10
+Telemetry age             : 09:04:10
+Δ time (since last report): 02:29:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1091,14 +1091,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
+Tracks played (last 24h)  : 12
 Dominant artist           : Transmission Lost
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-13 04:07:39Z → 2026-03-20 04:07:39Z
+Week window (UTC)         : 2026-03-13 06:36:55Z → 2026-03-20 06:36:55Z
 Total tracks played       : 48
 Dominant artist           : Bleed
 Cadence classification    : HIGH
@@ -1106,25 +1106,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
+Peak hour (24h)           : 18:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :   ▁█             ▂▆     
+Heatmap (24h)             :                  ▃█     
 Heatmap (7d)              :   ▁█▁   ▂▆▁      ▂▇▁   ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 10
 Avg inter-play gap (7d)   : 03:21:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | brazilian jazz(1) | metalcore(1) | progressive metal(1)
+Top genres (24h)          : alternative metal(1) | jazz(1) | metalcore(1) | progressive metal(1) | progressive rock(1) | shoegaze(1)
 Top genres (7d)           : alternative metal(17) | nu metal(16) | shoegaze(16) | jazz(15) | post-grunge(14) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-20 04:07:39Z
+Report generated (UTC)    : 2026-03-20 06:36:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
