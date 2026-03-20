@@ -161,6 +161,15 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 
+
+
+
+<sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+
+#
+
+
 <!-- 
 [<img src="https://custom-icon-badges.demolab.com/badge/Freemasonry-1f3a5f?style=plastic&logo=masoneria-logo&logoColor=ffffff" height="19"/>](https://en.wikipedia.org/wiki/Freemasonry) [<img src="https://custom-icon-badges.demolab.com/badge/Gran%20Logia%20de%20Chile-1f3a5f?style=plastic&logo=granlogia-chile-logo&logoColor=ffffff" height="19"/>](https://www.granlogia.cl)
 -->
@@ -171,12 +180,6 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <a href="https://granlogiamixta.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiamixta.svg" alt="Gran Logia Mixta de Chile" width="40" height="40"/></a>
 <a href="https://boyscouts.cl" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/anbschile.svg" alt="Agrupacción Nacional de Chile" width="40" height="40"/></a>
 <a href="https://boyscouts.cl/c22/?page_id=1108" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gilwell.svg" alt="Baden Powell, El Parque De Gilwell Y La Insignia De Madera" width="40" height="40"/></a>
-
-
-
-<sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
-The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
-
 
 
 #
