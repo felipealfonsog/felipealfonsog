@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-21 03:11:05Z",
-  "status": "PLAYING",
-  "last_track": "Silverchair — Slave",
-  "last_played_utc": "2026-03-21 03:07:20Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-03-21 04:03:33Z",
+  "status": "IDLE",
+  "last_track": "Silverchair — No Association",
+  "last_played_utc": "2026-03-21 03:19:46Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
