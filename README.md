@@ -1074,13 +1074,13 @@ Last played               : Silverchair — Slave
 Last played (UTC)         : 2026-03-21 03:07:20Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Shade → Silverchair — Slave
-Δ last played (since last): 2026-03-21 02:40:34Z → 2026-03-21 03:07:20Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:14
-Telemetry age             : 00:01:14
-Δ time (since last report): 00:26:19
+Time since last play      : 00:03:46
+Telemetry age             : 00:03:46
+Δ time (since last report): 00:02:33
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1099,7 +1099,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-14 03:08:33Z → 2026-03-21 03:08:33Z
+Week window (UTC)         : 2026-03-14 03:11:05Z → 2026-03-21 03:11:05Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1125,7 +1125,7 @@ Top genres (24h)          : grunge(12) | post-grunge(12) | djent(1) | progressiv
 Top genres (7d)           : post-grunge(19) | jazz(15) | grunge(12) | alternative metal(10) | nu metal(9) | shoegaze(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-21 03:08:33Z
+Report generated (UTC)    : 2026-03-21 03:11:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
