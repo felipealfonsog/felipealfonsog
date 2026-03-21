@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-20_0022Z
+ snapshot_utc : 2026-03-21_0020Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -168,8 +168,18 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 
-[<img src="https://custom-icon-badges.demolab.com/badge/Freemasonry-1f3a5f?style=plastic&logo=masoneria-logo&logoColor=ffffff" height="19"/>](https://en.wikipedia.org/wiki/Freemasonry) [<img src="https://custom-icon-badges.demolab.com/badge/Gran%20Logia%20de%20Chile-1f3a5f?style=plastic&logo=granlogia-chile-logo&logoColor=ffffff" height="19"/>](https://www.granlogia.cl)
 
+
+
+<sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+
+#
+
+
+<!-- 
+[<img src="https://custom-icon-badges.demolab.com/badge/Freemasonry-1f3a5f?style=plastic&logo=masoneria-logo&logoColor=ffffff" height="19"/>](https://en.wikipedia.org/wiki/Freemasonry) [<img src="https://custom-icon-badges.demolab.com/badge/Gran%20Logia%20de%20Chile-1f3a5f?style=plastic&logo=granlogia-chile-logo&logoColor=ffffff" height="19"/>](https://www.granlogia.cl)
+-->
 
 <a href="https://en.wikipedia.org/wiki/Freemasonry" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/masoneria-logo.svg" alt="Freemasonry" width="40" height="40"/></a>
 <a href="https://www.granlogia.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogia-final.svg" alt="Gran Logia de Chile" width="40" height="40"/></a>
@@ -177,12 +187,6 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 <a href="https://granlogiamixta.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiamixta.svg" alt="Gran Logia Mixta de Chile" width="40" height="40"/></a>
 <a href="https://boyscouts.cl" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/anbschile.svg" alt="Agrupacción Nacional de Chile" width="40" height="40"/></a>
 <a href="https://boyscouts.cl/c22/?page_id=1108" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gilwell.svg" alt="Baden Powell, El Parque De Gilwell Y La Insignia De Madera" width="40" height="40"/></a>
-
-
-
-<sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
-The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
-
 
 
 #
@@ -296,13 +300,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 197 ms
-TTFB................ 196 ms
+LATENCY............. 108 ms
+TTFB................ 107 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 49d
+TLS_EXPIRY.......... 48d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -331,7 +335,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-19T18:26:33Z
+LAST_PROBE_UTC...... 2026-03-20T18:21:25Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -371,19 +375,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437719
-longitude      : -70.646443
-altitude       : 122 m
-gps_accuracy   : ±5.2 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : stationary
+location       : residential_sector
+latitude       : -33.442136
+longitude      : -70.654313
+altitude       : 48 m
+gps_accuracy   : ±8.3 m
+heading        : 36°
+speed          : 1.0 km/h
+status         : walking
 phase          : evening
 local_time     : 21:05
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-03-20 00:05:43 UTC
+signal         : stable
+updated_utc    : 2026-03-21 00:05:05 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -502,7 +506,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-19 18:38:50Z
+DSN snapshot (UTC)       : 2026-03-20 15:37:32Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -513,15 +517,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.846 AU
-Heliocentric distance    : 170.014 AU
-Relative speed           : 19.057 km/s
+Earth distance           : 25.41e9 km | 169.842 AU
+Heliocentric distance    : 170.022 AU
+Relative speed           : 19.090 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:34
-Round-trip latency       : 47:05:08
+One-way light time       : 23:32:32
+Round-trip latency       : 47:05:04
 ------------------------------------------------------------
-Δ distance (since last)  : -76,724 km
-Mission age              : 48 years, 207 days
+Δ distance (since last)  : -228,853 km
+Mission age              : 48 years, 208 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -532,19 +536,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.683 AU
-Heliocentric distance    : 142.389 AU
-Relative speed           : 24.068 km/s
+Earth distance           : 21.34e9 km | 142.680 AU
+Heliocentric distance    : 142.397 AU
+Relative speed           : 23.976 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:40
-Round-trip latency       : 39:33:19
+One-way light time       : 19:46:38
+Round-trip latency       : 39:33:16
 ------------------------------------------------------------
-Δ distance (since last)  : -70,062 km
-Mission age              : 48 years, 223 days
+Δ distance (since last)  : -214,610 km
+Mission age              : 48 years, 224 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-19 18:38:53Z
+Report generated (UTC)   : 2026-03-20 15:37:35Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1060,74 +1064,74 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (idle session)
+Playback state            : OFFLINE (no active session)
 Status                    : IDLE
 SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
+Device type               : N/A
+Device name               : N/A
 Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : Transmission Lost — Break
 Last played (UTC)         : 2026-03-19 21:32:46Z
-Last activity type        : PLAYBACK_INACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:37
-Telemetry age             : 00:03:37
-Δ time (since last report): 00:01:22
+Time since last play      : 24:02:31
+Telemetry age             : 24:02:31
+Δ time (since last report): 00:01:10
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
-Dominant artist           : Transmission Lost
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-12 21:36:22Z → 2026-03-19 21:36:22Z
-Total tracks played       : 49
+Week window (UTC)         : 2026-03-13 21:35:16Z → 2026-03-20 21:35:16Z
+Total tracks played       : 46
 Dominant artist           : Bleed
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :   ▁█             ▂▆     
-Heatmap (7d)              :  ▁▁█▁   ▂▆▁      ▂▇▁   ▁
+Heatmap (24h)             : N/A
+Heatmap (7d)              :   ▁█    ▂▆▁      ▂▇▁   ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:21:55
+Sessions (24h)            : N/A
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 02:01:06
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(15) | ambient jazz(3) | alternative metal(1) | brazilian jazz(1) | metalcore(1) | progressive metal(1)
-Top genres (7d)           : alternative metal(18) | nu metal(17) | shoegaze(17) | jazz(15) | post-grunge(15) | ambient jazz(3)
+Top genres (24h)          : N/A
+Top genres (7d)           : alternative metal(17) | nu metal(16) | shoegaze(16) | jazz(15) | post-grunge(14) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-19 21:36:22Z
+Report generated (UTC)    : 2026-03-20 21:35:16Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1480,9 +1484,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 19 March 2026
+From: 04 December 2023 - To: 20 March 2026
 
-Total Time       : 999 hrs 53 mins
+Total Time       : 1,000 hrs 9 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 11 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1491,11 +1495,11 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          238 hrs 38 mins ●●●●●●○○○○○○○○○○○○○○○○○○○○  23.87 %
+Other          246 hrs 5 mins ●●●●●●○○○○○○○○○○○○○○○○○○○○  24.61 %
 Bash           165 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.50 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.88 %
-HTML           129 hrs 46 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.98 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.88 %
+HTML           130 hrs 1 min  ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.00 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.87 %
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.03 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.37 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.00 %
@@ -1504,35 +1508,35 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            637 hrs 10 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.72 %
-Linux          601 hrs 21 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.14 %
+Mac            644 hrs 53 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.48 %
+Linux          601 hrs 21 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.13 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.37 %
-Vim            326 hrs 19 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.64 %
-Firefox        207 hrs 22 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  20.74 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.35 %
+Vim            326 hrs 21 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.63 %
+Firefox        213 hrs 59 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  21.39 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Terminal       9 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.95 %
-Acrobat        7 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.70 %
+Terminal       9 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.98 %
+Acrobat        7 hrs 6 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.71 %
 FileZilla      5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
-Spotify        4 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.47 %
+Spotify        4 hrs 45 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.48 %
 TextMate       2 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
+‎WhatsApp      2 hrs 43 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.27 %
 Zoom           2 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.25 %
-‎WhatsApp      2 hrs 24 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.24 %
 Antigravity    1 hr 37 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.16 %
 
 CATEGORIES
 ----------
-Coding         1,023 hrs 51 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       205 hrs 2 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  20.51 %
-Meeting        7 hrs 37 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.76 %
+Coding         1,024 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       211 hrs 39 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  21.16 %
+Meeting        7 hrs 55 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.79 %
 Writing Docs   2 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 19/03/2026 22:11:40 UTC
+Last updated     : 20/03/2026 22:11:57 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2375,14 +2379,14 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell
 
 ### 🕒 Recently Active Projects
+- [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
+  🧬 Shell · Python · C
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
   🧬 JavaScript · CSS · Shell
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
   🧬 Python · Shell
-- [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
-  🧬 Shell · Python · C
 - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
   🧬 Shell · C · Makefile
 - [BashGuardian](https://github.com/felipealfonsog/BashGuardian): Bash script for backups/encrypted on Unix-like (Linux & macOS) systems.
