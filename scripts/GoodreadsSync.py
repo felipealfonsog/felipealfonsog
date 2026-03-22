@@ -38,7 +38,7 @@ def build_rss_url(shelf: str) -> str:
 
 
 def http_get(url: str) -> str:
-    req = urllib.request.Request(
+    request = urllib.request.Request(
         url,
         headers={
             "User-Agent": config.USER_AGENT,
@@ -46,9 +46,10 @@ def http_get(url: str) -> str:
         },
         method="GET",
     )
-    with urllib.request.urlopen(req, timeout=config.REQUEST_TIMEOUT) as resp:
-        charset = resp.headers.get_content_charset() or "utf-8"
-        return resp.read().decode(charset, errors="replace")
+
+    with urllib.request.urlopen(request, timeout=config.REQUEST_TIMEOUT) as response:
+        charset = response.headers.get_content_charset() or "utf-8"
+        return response.read().decode(charset, errors="replace")
 
 
 def extract_cover_from_description(description: str) -> str:
@@ -89,14 +90,20 @@ def extract_author_from_description(description: str) -> str:
 
 def extract_summary_from_description(description: str) -> str:
     """
-    Best effort extraction only. In the current covers_only mode this is unused,
-    but we keep it for future modes.
+    Best effort only.
+    Goodreads RSS normalmente no entrega una sinopsis limpia.
+    Esto intenta sacar algo usable, pero si queda ruido, se devuelve vacío.
     """
     if not description:
         return ""
 
     text = re.sub(r"<img[^>]*>", " ", description, flags=re.IGNORECASE)
-    text = re.sub(r"</?(br|p|div|span|a|b|strong|em|i)[^>]*>", " ", text, flags=re.IGNORECASE)
+    text = re.sub(
+        r"</?(br|p|div|span|a|b|strong|em|i)[^>]*>",
+        " ",
+        text,
+        flags=re.IGNORECASE,
+    )
     text = strip_html_tags(text)
     text = sanitize_text(text)
 
@@ -107,6 +114,7 @@ def extract_summary_from_description(description: str) -> str:
         r"^reviewed.*?$",
         r"^by\s+[^.]+",
     ]
+
     for pattern in noise_patterns:
         text = re.sub(pattern, " ", text, flags=re.IGNORECASE)
 
@@ -121,6 +129,7 @@ def extract_summary_from_description(description: str) -> str:
 def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
     root = ET.fromstring(xml_text)
     channel = root.find("channel")
+
     if channel is None:
         return []
 
@@ -132,7 +141,12 @@ def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
         description_raw = item.findtext("description", default="") or ""
 
         author = ""
-        for tag in ("author_name", "creator", "{http://purl.org/dc/elements/1.1/}creator", "author"):
+        for tag in (
+            "author_name",
+            "creator",
+            "{http://purl.org/dc/elements/1.1/}creator",
+            "author",
+        ):
             value = sanitize_text(item.findtext(tag, default=""))
             if value:
                 author = value
@@ -143,7 +157,6 @@ def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
 
         cover = extract_cover_from_description(description_raw)
         summary = extract_summary_from_description(description_raw)
-
         guid = sanitize_text(item.findtext("guid", default=""))
         pub_date = sanitize_text(item.findtext("pubDate", default=""))
 
@@ -206,8 +219,8 @@ def fetch_section(section_name: str, shelf: str) -> dict[str, Any]:
     limit = resolve_section_limit(section_name)
     url = build_rss_url(shelf)
     xml_text = http_get(url)
-    parsed = parse_rss_items(xml_text)
-    books = normalize_books(parsed, limit)
+    parsed_items = parse_rss_items(xml_text)
+    books = normalize_books(parsed_items, limit)
 
     return {
         "shelf": shelf,
@@ -215,6 +228,29 @@ def fetch_section(section_name: str, shelf: str) -> dict[str, Any]:
         "limit": limit,
         "item_count": len(books),
         "books": books,
+    }
+
+
+def build_empty_sections_snapshot() -> dict[str, Any]:
+    return {
+        "currently_reading": {
+            "enabled": config.SHOW_CURRENTLY_READING_SECTION,
+            "title": config.VISUAL_CURRENTLY_READING_TITLE,
+            "shelf": config.CURRENTLY_READING_SHELF,
+            "source_url": "",
+            "limit": resolve_section_limit("currently_reading"),
+            "item_count": 0,
+            "books": [],
+        },
+        "recent_read": {
+            "enabled": config.SHOW_RECENT_READ_SECTION,
+            "title": config.VISUAL_RECENT_READ_TITLE,
+            "shelf": config.RECENT_READ_SHELF,
+            "source_url": "",
+            "limit": resolve_section_limit("recent_read"),
+            "item_count": 0,
+            "books": [],
+        },
     }
 
 
@@ -237,32 +273,15 @@ def build_failure_snapshot(previous_cache: dict[str, Any] | None, error_message:
             "last_successful_sync": "",
             "error_message": error_message,
         },
-        "sections": {
-            "currently_reading": {
-                "enabled": config.SHOW_CURRENTLY_READING_SECTION,
-                "title": config.VISUAL_CURRENTLY_READING_TITLE,
-                "shelf": config.CURRENTLY_READING_SHELF,
-                "limit": resolve_section_limit("currently_reading"),
-                "item_count": 0,
-                "books": [],
-            },
-            "recent_read": {
-                "enabled": config.SHOW_RECENT_READ_SECTION,
-                "title": config.VISUAL_RECENT_READ_TITLE,
-                "shelf": config.RECENT_READ_SHELF,
-                "limit": resolve_section_limit("recent_read"),
-                "item_count": 0,
-                "books": [],
-            },
-        },
+        "sections": build_empty_sections_snapshot(),
     }
 
 
 def main() -> int:
     ensure_dir(config.DATA_DIR)
 
-    if not config.GOODREADS_USER_ID.strip():
-        print("ERROR: Goodreads user id is not configured.")
+    if not str(config.GOODREADS_USER_ID).strip():
+        print("ERROR: Goodreads user id is not configured.", file=sys.stderr)
         return 1
 
     previous_cache = read_json(config.CACHE_PATH)
@@ -322,7 +341,10 @@ def main() -> int:
                     valid_count += 1
 
         if config.STRICT_VALIDATION and required_enabled_sections > 0 and valid_count == 0:
-            snapshot = build_failure_snapshot(previous_cache, "all_enabled_sections_invalid_or_empty")
+            snapshot = build_failure_snapshot(
+                previous_cache,
+                "all_enabled_sections_invalid_or_empty",
+            )
             write_json(
                 config.CACHE_PATH,
                 snapshot,
@@ -334,17 +356,19 @@ def main() -> int:
 
         previous_success = ""
         if previous_cache:
-            previous_success = str(previous_cache.get("meta", {}).get("last_successful_sync", "")).strip()
+            previous_success = str(
+                previous_cache.get("meta", {}).get("last_successful_sync", "")
+            ).strip()
 
-        current_now = utc_now_iso()
+        now_utc = utc_now_iso()
 
         snapshot = {
             "meta": {
                 "source": config.SOURCE_LABEL,
                 "status": "ok",
                 "fetch_mode": "network",
-                "last_attempted_sync": current_now,
-                "last_successful_sync": current_now or previous_success,
+                "last_attempted_sync": now_utc,
+                "last_successful_sync": now_utc or previous_success,
                 "error_message": "",
             },
             "sections": sections,
@@ -359,7 +383,13 @@ def main() -> int:
         print("Goodreads sync OK.")
         return 0
 
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, ET.ParseError, ValueError) as exc:
+    except (
+        urllib.error.URLError,
+        urllib.error.HTTPError,
+        TimeoutError,
+        ET.ParseError,
+        ValueError,
+    ) as exc:
         snapshot = build_failure_snapshot(previous_cache, str(exc))
         write_json(
             config.CACHE_PATH,
