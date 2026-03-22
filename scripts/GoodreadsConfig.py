@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/2.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/2.1; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -24,7 +24,7 @@ USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/2.0; +https://github.c
 # Tu ID numérico real de Goodreads.
 GOODREADS_USER_ID = "10606567"
 
-# Plantilla RSS de shelf.
+# Plantilla RSS del shelf.
 GOODREADS_RSS_URL_TEMPLATE = (
     "https://www.goodreads.com/review/list_rss/{user_id}?shelf={shelf}"
 )
@@ -33,41 +33,38 @@ GOODREADS_RSS_URL_TEMPLATE = (
 # ============================================================
 # SECTIONS / SHELVES
 # ============================================================
-# Puedes activar/desactivar cada sección por separado.
+# Puedes activar o desactivar cada sección por separado.
 
-# SHOW_CURRENTLY_READING_SECTION:
-#   True  -> renderiza la sección "currently reading"
-#   False -> no la muestra
+# True -> mostrar sección "Currently Reading"
 SHOW_CURRENTLY_READING_SECTION = True
 
-# SHOW_RECENT_READ_SECTION:
-#   True  -> renderiza la sección "recently read"
-#   False -> no la muestra
+# True -> mostrar sección "Recently Read"
 SHOW_RECENT_READ_SECTION = True
 
-# Shelf que se usará para "currently reading"
+# Shelf usado para "Currently Reading"
 CURRENTLY_READING_SHELF = "currently-reading"
 
-# Shelf que se usará para "recently read"
+# Shelf usado para "Recently Read"
 RECENT_READ_SHELF = "read"
 
-# Cantidad de libros por sección
-CURRENTLY_READING_LIMIT = 6
-RECENT_READ_LIMIT = 12
+# Cantidad máxima de libros por sección.
+# OJO:
+# si Goodreads devuelve menos, se mostrarán menos.
+CURRENTLY_READING_LIMIT = 8
+RECENT_READ_LIMIT = 10
 
 
 # ============================================================
 # GLOBAL RENDER CONTROL
 # ============================================================
-# Qué bloques renderizar en README:
-#   "visual" -> solo visual
-#   "cli"    -> solo CLI
-#   "both"   -> ambos
+# "visual" -> solo bloque visual
+# "cli"    -> solo bloque CLI
+# "both"   -> ambos
 RENDER_MODE = "both"
 
-# Si un bloque no se usa:
-#   True  -> lo deja intacto
-#   False -> lo vacía
+# Si una parte no se renderiza:
+# True  -> la deja intacta
+# False -> la vacía
 PRESERVE_UNUSED_BLOCKS = True
 
 
@@ -89,75 +86,106 @@ SHOW_AUTHOR = True
 SHOW_LINK = True
 SHOW_COVER = True
 
-# Mostrar link textual pequeño debajo del caption en visual.
+# Link textual pequeño en el visual.
 SHOW_VISUAL_TEXT_LINK = True
-VISUAL_TEXT_LINK_LABEL = "open"
+
+# Texto bonito y moderno para el link visual.
+# Puedes cambiarlo por:
+#   "check the link"
+#   "view details"
+#   "open on Goodreads"
+#   "explore"
+VISUAL_TEXT_LINK_LABEL = "check the link"
 
 
 # ============================================================
 # VISUAL STYLE
 # ============================================================
-# Títulos de bloque
 VISUAL_BLOCK_TITLE = "Goodreads Reading Intelligence"
+
+# Texto pequeño descriptivo debajo del título principal.
+# Puedes poner algo más corto o más técnico si quieres.
+VISUAL_BLOCK_DESCRIPTION = (
+    "A compact reading snapshot showing what I am currently reading and "
+    "the latest books I have recently finished on Goodreads."
+)
+
 VISUAL_CURRENTLY_READING_TITLE = "Currently Reading"
 VISUAL_RECENT_READ_TITLE = "Recently Read"
 
 # Alineación general
+# Valores recomendados:
+#   "center"
+#   "left"
 VISUAL_ALIGN = "center"
 
 # Tamaño de portadas
-VISUAL_COVER_WIDTH = 58
-VISUAL_COVER_HEIGHT = 88
+# Recomendado para README:
+#   width 44-58
+#   height 66-88
+VISUAL_COVER_WIDTH = 48
+VISUAL_COVER_HEIGHT = 72
 
-# Espaciado entre items
-VISUAL_ITEM_MARGIN_PX = 8
+# Margen entre items
+VISUAL_ITEM_MARGIN_PX = 5
 
-# Caption
+# Caption bajo la portada
 VISUAL_SHOW_CAPTION = True
 VISUAL_CAPTION_SHOW_TITLE = True
 VISUAL_CAPTION_SHOW_AUTHOR = True
-VISUAL_CAPTION_MAX_TITLE_LENGTH = 24
-VISUAL_CAPTION_MAX_AUTHOR_LENGTH = 20
+VISUAL_CAPTION_MAX_TITLE_LENGTH = 18
+VISUAL_CAPTION_MAX_AUTHOR_LENGTH = 16
 
-# Estilo de texto y título
+# Título principal pequeño
 VISUAL_TITLE_USE_SMALL = True
+
+# Mostrar línea meta pequeña debajo del título principal
 VISUAL_META_AS_SUBTEXT = True
 
-# Bordes de imagen
+# Bordes y forma
 VISUAL_IMAGE_BORDER_RADIUS_PX = 4
 VISUAL_ENABLE_IMAGE_BORDER = False
 VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
-# Placeholder si no hay cover
+# Placeholder si falta portada
 VISUAL_FALLBACK_BG = "#1f1f1f"
 VISUAL_FALLBACK_TEXT_COLOR = "#f4f4f4"
-
-# Cuántos items por fila
-# OJO: no es tabla con bordes. Es una fila HTML calculada.
-VISUAL_ITEMS_PER_ROW = 6
 
 
 # ============================================================
 # CLI STYLE
 # ============================================================
 CLI_BLOCK_TITLE = "Goodreads Telemetry"
+
+# Lenguaje del code fence
+# Recomendado:
+#   "text"
+#   "bash"
 CLI_CODE_FENCE_LANGUAGE = "text"
 
 # Mostrar links inline en CLI
-# RECOMENDADO: False para que no se vea saturado
+# Recomendado False para que se vea limpio.
 CLI_SHOW_LINKS_INLINE = False
 
-# Cantidad de dígitos del índice
+# Dígitos del índice
 CLI_BOOK_INDEX_PAD = 2
 
-# Metadata compacta
+# Metadata compacta arriba
 CLI_COMPACT_META = True
+
+# Línea en blanco entre metadata y contenido
 CLI_DIVIDER = True
 
 # Etiqueta last update
 CLI_LABEL_LAST_UPDATE = "last_update"
 
-# Límites visuales del CLI
+# Texto pequeño descriptivo para CLI
+CLI_DESCRIPTION = (
+    "Structured shelf telemetry derived from Goodreads RSS with validated caching continuity."
+)
+
+# Límites opcionales del CLI
+# 0 = no truncar
 CLI_MAX_TITLE_LENGTH = 0
 CLI_MAX_AUTHOR_LENGTH = 0
 
