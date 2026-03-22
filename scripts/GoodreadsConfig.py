@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/14.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/15.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -61,7 +61,7 @@ OPTION2_CARD_TABLE_ENABLED = False
 
 # OPTION 3:
 #   CLI block
-#   This stays enabled and should not be changed structurally
+#   This stays enabled
 OPTION3_CLI_ENABLED = True
 
 # Preserve blocks not being rendered
@@ -85,9 +85,9 @@ VISUAL_SHOW_DESCRIPTION = True
 VISUAL_SECTION_HEADER_ALIGN = "left"
 
 # Header / section spacing
-VISUAL_SECTION_TOP_SPACER_PX = 16
-VISUAL_SECTION_SPACER_PX = 10
-VISUAL_SECTION_BOTTOM_SPACER_PX = 16
+VISUAL_SECTION_TOP_SPACER_PX = 18
+VISUAL_SECTION_SPACER_PX = 12
+VISUAL_SECTION_BOTTOM_SPACER_PX = 18
 
 
 # ============================================================
@@ -97,16 +97,16 @@ VISUAL_SECTION_BOTTOM_SPACER_PX = 16
 OPTION1_SHOW_COVERS = True
 
 # All covers must look the same size
-OPTION1_COVER_WIDTH = 40
-OPTION1_COVER_HEIGHT = 60
+OPTION1_COVER_WIDTH = 34
+OPTION1_COVER_HEIGHT = 52
 OPTION1_COVER_OBJECT_FIT = "cover"
 
-# Covers per row
-OPTION1_ITEMS_PER_ROW = 6
+# Single continuous line. GitHub may still auto-wrap if viewport is narrow,
+# but we do NOT inject manual row breaks in option 1.
+OPTION1_SINGLE_LINE = True
 
-# Horizontal flow between covers
-OPTION1_COVERS_GAP_SPACES = " "
-OPTION1_COVERS_ROW_BREAK = "<br/>"
+# Horizontal spacing between covers
+OPTION1_COVER_MARGIN_RIGHT_PX = 4
 
 # Image style
 OPTION1_IMAGE_BORDER_RADIUS_PX = 4
@@ -156,15 +156,16 @@ SHOW_LAST_SYNC = True
 SHOW_LAST_UPDATE = True
 SHOW_SOURCE = True
 
+VISUAL_FOOTER_NOTE_LABEL = "Note:"
 VISUAL_FOOTER_META_USE_SUB = True
-VISUAL_FOOTER_TOP_SPACER_PX = 12
-VISUAL_FOOTER_BOTTOM_SPACER_PX = 10
+VISUAL_FOOTER_TOP_SPACER_PX = 14
+VISUAL_FOOTER_BOTTOM_SPACER_PX = 12
 
 
 # ============================================================
 # CLI (OPTION 3)
 # ============================================================
-# Kept intact
+# Kept intact structurally
 SHOW_STATUS = True
 SHOW_FETCH_MODE = True
 
