@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-21_1807Z
+ snapshot_utc : 2026-03-22_1807Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -270,6 +270,78 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 -->
 
+
+
+#
+
+<!--
+
+                          .___                          .___      
+   ____   ____   ____   __| _/______   ____ _____     __| _/______
+  / ___\ /  _ \ /  _ \ / __ |\_  __ \_/ __ \\__  \   / __ |/  ___/
+ / /_/  >  <_> |  <_> ) /_/ | |  | \/\  ___/ / __ \_/ /_/ |\___ \ 
+ \___  / \____/ \____/\____ | |__|    \___  >____  /\____ /____  >
+/_____/                    \/             \/     \/      \/    \/ 
+
+-->
+
+<details open>
+<summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
+
+
+<!-- GOODREADS:VISUAL_START -->
+<sub><strong>Goodreads Reading Data</strong></sub>
+<sub>A compact reading snapshot showing what I am currently reading and the latest books I have recently finished on Goodreads.</sub>
+<br/>
+<div align="left"><sub><strong>Currently Reading</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8455651783?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732188901l/220887027._SY75_.jpg" width="40" height="60" alt="The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455648321?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619978145l/57920800._SX50_.jpg" width="40" height="60" alt="The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455634136?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633192138l/59131430._SX50_.jpg" width="40" height="60" alt="Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455624520?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538363806l/42107422._SX50_.jpg" width="40" height="60" alt="The Autobiography of a Yogi — Paramahansa Yogananda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8399631886?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg" width="40" height="60" alt="PAYBACK: COREY PEARSON- CIA SPYMASTER SERIES — Robert Morton" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8120974609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg" width="40" height="60" alt="Leviathan — Thomas Hobbes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8083185323?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg" width="40" height="60" alt="Aferrada a mi balsa — Gladys Díaz Armijo" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008450894?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg" width="40" height="60" alt="Man&#x27;s Search for Meaning — Viktor E. Frankl" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
+<div align="left"><sub><strong>Recently Read</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg" width="40" height="60" alt="Programming Perl (3rd Edition) — Larry Wall" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg" width="40" height="60" alt="Mala onda — Alberto Fuguet" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg" width="40" height="60" alt="Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg" width="40" height="60" alt="Freedom from the Known — J. Krishnamurti" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg" width="40" height="60" alt="In My Father&#x27;s Den — Maurice Gee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg" width="40" height="60" alt="The Poetry of Pablo Neruda — Pablo Neruda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg" width="40" height="60" alt="Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg" width="40" height="60" alt="Cujo — Stephen King" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg" width="40" height="60" alt="On Writing — Ernest Hemingway" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg" width="40" height="60" alt="Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
+<br/><sub>SYNC: 2026-03-22T15:12:14+00:00 • LAST UPDATE: 2026-03-22T15:12:14+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
+<!-- GOODREADS:VISUAL_END -->
+
+<!-- GOODREADS:CLI_START -->
+```text
+# Goodreads Telemetry
+# Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
+# status=ok | mode=network | sync=2026-03-22T15:12:14+00:00 | last_update=2026-03-22T15:12:14+00:00 | source=goodreads_rss
+
+[currently_reading] shelf=currently-reading books=8 limit=8
+01. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+02. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+03. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+04. The Autobiography of a Yogi — Paramahansa Yogananda
+05. PAYBACK: COREY PEARSON- CIA SPYMASTER SERIES — Robert Morton
+06. Leviathan — Thomas Hobbes
+07. Aferrada a mi balsa — Gladys Díaz Armijo
+08. Man's Search for Meaning — Viktor E. Frankl
+
+[recent_read] shelf=read books=10 limit=10
+01. Programming Perl (3rd Edition) — Larry Wall
+02. Mala onda — Alberto Fuguet
+03. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
+04. Freedom from the Known — J. Krishnamurti
+05. In My Father's Den — Maurice Gee
+06. The Poetry of Pablo Neruda — Pablo Neruda
+07. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
+08. Cujo — Stephen King
+09. On Writing — Ernest Hemingway
+10. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
+
+```
+<!-- GOODREADS:CLI_END -->
+
+
+</details>
+
+
+
+
+
+> [!NOTE]
+> <sub>*Goodreads Reading Intelligence — operational-style telemetry layer generated from <a href="https://www.goodreads.com/">Goodreads</a> shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
+> <sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
+
+[![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml)
+
 #
 
 <!--
@@ -300,13 +372,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 208 ms
-TTFB................ 207 ms
+LATENCY............. 61 ms
+TTFB................ 60 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 47d
+TLS_EXPIRY.......... 46d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -335,7 +407,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-21T09:14:32Z
+LAST_PROBE_UTC...... 2026-03-22T12:17:58Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -375,19 +447,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443750
-longitude      : -70.651127
-altitude       : 122 m
-gps_accuracy   : ±3.8 m
-heading        : 212°
-speed          : 2.6 km/h
+location       : pedestrian_axis
+latitude       : -33.437332
+longitude      : -70.646438
+altitude       : 82 m
+gps_accuracy   : ±5.7 m
+heading        : 121°
+speed          : 3.0 km/h
 status         : walking
 phase          : workday
 local_time     : 15:02
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-03-21 18:02:34 UTC
+signal         : strong
+updated_utc    : 2026-03-22 18:02:50 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -506,7 +578,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-21 12:37:12Z
+DSN snapshot (UTC)       : 2026-03-22 15:34:31Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -517,15 +589,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.839 AU
-Heliocentric distance    : 170.031 AU
-Relative speed           : 19.127 km/s
+Earth distance           : 25.41e9 km | 169.834 AU
+Heliocentric distance    : 170.042 AU
+Relative speed           : 19.181 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:30
-Round-trip latency       : 47:05:01
+One-way light time       : 23:32:28
+Round-trip latency       : 47:04:56
 ------------------------------------------------------------
-Δ distance (since last)  : -150,904 km
-Mission age              : 48 years, 209 days
+Δ distance (since last)  : -72,882 km
+Mission age              : 48 years, 210 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -536,19 +608,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.677 AU
-Heliocentric distance    : 142.404 AU
-Relative speed           : 23.887 km/s
+Earth distance           : 21.34e9 km | 142.672 AU
+Heliocentric distance    : 142.414 AU
+Relative speed           : 23.775 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:36
-Round-trip latency       : 39:33:13
+One-way light time       : 19:46:34
+Round-trip latency       : 39:33:08
 ------------------------------------------------------------
-Δ distance (since last)  : -146,259 km
-Mission age              : 48 years, 225 days
+Δ distance (since last)  : -73,631 km
+Mission age              : 48 years, 226 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-21 12:37:17Z
+Report generated (UTC)   : 2026-03-22 15:34:33Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1084,9 +1156,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 12:14:45
-Telemetry age             : 12:14:45
-Δ time (since last report): 00:01:10
+Time since last play      : 36:13:25
+Telemetry age             : 36:13:25
+Δ time (since last report): 00:01:14
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1098,14 +1170,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
-Dominant artist           : Silverchair
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-14 15:34:30Z → 2026-03-21 15:34:30Z
+Week window (UTC)         : 2026-03-15 15:33:11Z → 2026-03-22 15:33:11Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1113,25 +1185,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 23:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 03:00
-Heatmap (24h)             : ▄                    ▁ █
+Heatmap (24h)             : N/A
 Heatmap (7d)              : ▃ ▁█     ▂▁      ▂▇▁ ▁ ▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 9
 Avg inter-play gap (7d)   : 02:15:52
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(15) | post-grunge(15) | djent(1) | progressive metal(1) | progressive rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : post-grunge(19) | grunge(15) | jazz(15) | alternative metal(7) | nu metal(6) | shoegaze(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-21 15:34:30Z
+Report generated (UTC)    : 2026-03-22 15:33:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1484,9 +1556,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 21 March 2026
+From: 04 December 2023 - To: 22 March 2026
 
-Total Time       : 1,000 hrs 11 mins
+Total Time       : 1,000 hrs 16 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 11 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1495,7 +1567,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          248 hrs 42 mins ●●●●●●○○○○○○○○○○○○○○○○○○○○  24.87 %
+Other          258 hrs 52 mins ●●●●●●◔○○○○○○○○○○○○○○○○○○○  25.88 %
 Bash           165 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.50 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.88 %
 HTML           130 hrs 3 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.00 %
@@ -1503,24 +1575,24 @@ PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○�
 Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.03 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.37 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.00 %
-Text           38 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
+Text           38 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            647 hrs 32 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.74 %
-Linux          601 hrs 21 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.13 %
+Mac            651 hrs 22 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.12 %
+Linux          607 hrs 46 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.76 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.35 %
-Vim            326 hrs 21 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.63 %
-Firefox        214 hrs 24 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  21.44 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.34 %
+Vim            326 hrs 26 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.63 %
+Firefox        220 hrs 44 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  22.07 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
 Terminal       9 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.98 %
+Spotify        8 hrs 36 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.86 %
 Acrobat        7 hrs 6 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.71 %
 FileZilla      5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
-Spotify        4 hrs 46 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.48 %
 ‎WhatsApp      3 hrs 33 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
 TextMate       2 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
 Zoom           2 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.25 %
@@ -1528,15 +1600,15 @@ Antigravity    1 hr 37 mins   ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,026 hrs 1 min ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       212 hrs 5 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  21.20 %
+Coding         1,029 hrs 56 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       218 hrs 24 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  21.84 %
 Meeting        8 hrs 46 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.88 %
 Writing Docs   2 hrs 1 min    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 21/03/2026 17:11:00 UTC
+Last updated     : 22/03/2026 17:10:50 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2352,83 +2424,83 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 ### ⭐ Featured (Pinned)
 - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
-  🧬 Python · Shell · C
+  🧬 Python · Shell · C  •  ⭐ 26
 - [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
-  🧬 Python · Shell
+  🧬 Python · Shell  •  ⭐ 6
 - [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
-  🧬 C++ · Python · Makefile
+  🧬 C++ · Python · Makefile  •  ⭐ 9
 - [TermNotes](https://github.com/felipealfonsog/TermNotes): Term Notes is a simple command-line utility for creating and managing notes directly from your terminal.
-  🧬 C · Shell · Ruby
+  🧬 C · Shell · Ruby  •  ⭐ 7
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
-  🧬 JavaScript · CSS · Shell
+  🧬 JavaScript · CSS · Shell  •  ⭐ 52
 - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
-  🧬 C · Shell · Nix
+  🧬 C · Shell · Nix  •  ⭐ 3
 
 ### 🆕 Latest OSS Projects
 - [intelforge](https://github.com/felipealfonsog/intelforge): Defensive CTI pipeline built in Perl. IntelForge is a Perl-first, CLI-driven defensive cyber threat intelligence (CTI) pipeline that ingests public sources, extracts and normalizes indicators, applies lightweight rules and scoring, and produces auditable artifacts (JSONL + reports).
-  🧬 Makefile · Perl · Shell
+  🧬 Makefile · Perl · Shell  •  ⭐ 1
 - [camviewer](https://github.com/felipealfonsog/camviewer): CamViewer is a simple web-based CCTV dashboard that allows you to stream multiple RTSP camera feeds through a clean HLS interface.
-  🧬 Shell · JavaScript · HTML
+  🧬 Shell · JavaScript · HTML  •  ⭐ 2
 - [ShadowScan](https://github.com/felipealfonsog/ShadowScan): ShadowScan is a security tool designed to scan files and system configurations for hidden backdoors, malicious scripts, and reverse shells on Linux and macOS.
-  🧬 Python
+  🧬 Python  •  ⭐ 2
 - [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): A versatile tool for managing No-IP dynamic DNS updates and client operations.
-  🧬 Shell · Python · C
+  🧬 Shell · Python · C  •  ⭐ 1
 - [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
-  🧬 Python · Shell
+  🧬 Python · Shell  •  ⭐ 4
 - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): An automated tool for reconnecting to WiFi networks using ConnMan. It ensures continuous internet connectivity by reconnecting to the last connected network or the next available one.
-  🧬 Python · Shell
+  🧬 Python · Shell  •  ⭐ 2
 
 ### 🕒 Recently Active Projects
 - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
-  🧬 Shell · Python · C
+  🧬 Shell · Python · C  •  ⭐ 4
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
-  🧬 JavaScript · CSS · Shell
+  🧬 JavaScript · CSS · Shell  •  ⭐ 52
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
-  🧬 Python · HTML
+  🧬 Python · HTML  •  ⭐ 1
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
-  🧬 Python · Shell
+  🧬 Python · Shell  •  ⭐ 3
 - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
-  🧬 Shell · C · Makefile
+  🧬 Shell · C · Makefile  •  ⭐ 1
 - [BashGuardian](https://github.com/felipealfonsog/BashGuardian): Bash script for backups/encrypted on Unix-like (Linux & macOS) systems.
-  🧬 Shell · C
+  🧬 Shell · C  •  ⭐ 1
 - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
-  🧬 Shell · Python
+  🧬 Shell · Python  •  ⭐ 1
 - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
-  🧬 Python
+  🧬 Python  •  ⭐ 1
 
 ### 📈 Popular Projects (Stars + Forks)
 - [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
-  🧬 Hack · PHP · JavaScript
+  🧬 Hack · PHP · JavaScript  •  ⭐ 3
 - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
-  🧬 JavaScript · HTML
+  🧬 JavaScript · HTML  •  ⭐ 2
 - [C-VipNX](https://github.com/openvelora/C-VipNX): Shell Vip Utility written in C for *NX Systems. Simple: Vip shell to avoid usage of sudo
-  🧬 C · Shell
+  🧬 C · Shell  •  ⭐ 2
 - [RapidStockTracker](https://github.com/felipealfonsog/RapidStockTracker): RapidStockTracker is an efficient inventory management system designed for small businesses. Streamline your stock control, manage product quantities, and generate insightful reports to optimize your business operations. Stay organized and make informed decisions with SmartStockKeeper.
-  🧬 COBOL
+  🧬 COBOL  •  ⭐ 2
 - [EventSphere](https://github.com/openvelora/EventSphere): Standard Web application for managing social events of all kind.
-  🧬 JavaScript · Pug · CSS
+  🧬 JavaScript · Pug · CSS  •  ⭐ 2
 - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
-  🧬 Python · Shell · Nix
+  🧬 Python · Shell · Nix  •  ⭐ 1
 - [Restockify](https://github.com/openvelora/Restockify): Restockify+ is a feature-rich ReST API for NodeJS and MongoDB. Simplify inventory management and streamline stock tracking with ease.
-  🧬 JavaScript · CSS · HTML
+  🧬 JavaScript · CSS · HTML  •  ⭐ 1
 - [PerlMemoPad](https://github.com/openvelora/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
-  🧬 Perl · CSS
+  🧬 Perl · CSS  •  ⭐ 1
 
 ### 🧠 Curated Project Collection
 - [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
-  🧬 C · C++
+  🧬 C · C++  •  ⭐ 1
 - [rtl-88x2bu](https://github.com/felipealfonsog/rtl-88x2bu): This repository contains the Linux driver for the Realtek RTL88x2BU WiFi USB chipset.
-  🧬 C · Makefile · Roff
+  🧬 C · Makefile · Roff  •  ⭐ 1
 - [MatrixCodeGrid](https://github.com/felipealfonsog/MatrixCodeGrid): Matrix Effect in your shell: "MatrixCodeGrid" recreates the falling lines from the movie "The Matrix" in your Linux or macOS shell.
-  🧬 C · Shell
+  🧬 C · Shell  •  ⭐ 1
 - [TermLock](https://github.com/felipealfonsog/TermLock): The project is a Bash script for managing system actions on Arch Linux, offering options for suspension, screen locking using various methods, and system shutdown. Users can choose their preferred action through a simple command-line interface.
-  🧬 Shell
+  🧬 Shell  •  ⭐ 1
 - [HoraFinderCL](https://github.com/felipealfonsog/HoraFinderCL): Próxima hora en Registro Civil (CL) Busca la próxima hora disponible en oficinas del Registro Civil para renovar el carnet de identidad para chilenos, dentro de la Región Metropolitana.
-  🧬 PHP
+  🧬 PHP  •  ⭐ 1
 - [RescuePaw](https://github.com/felipealfonsog/RescuePaw): Application is designed to help animal rescuer find the nearest qualified help for the injured animal.
-  🧬 JavaScript · CSS · HTML
+  🧬 JavaScript · CSS · HTML  •  ⭐ 1
 - [FeedHive](https://github.com/openvelora/FeedHive): It's very simple, it's a loader news or feednews, with the chance to make comments and put a finger up in a post.
-  🧬 JavaScript · HTML · EJS
+  🧬 JavaScript · HTML · EJS  •  ⭐ 1
 
 <br>
 </details>
