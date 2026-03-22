@@ -89,11 +89,6 @@ def extract_author_from_description(description: str) -> str:
 
 
 def extract_summary_from_description(description: str) -> str:
-    """
-    Best effort only.
-    Goodreads RSS normalmente no entrega una sinopsis limpia.
-    Esto intenta sacar algo usable, pero si queda ruido, se devuelve vacío.
-    """
     if not description:
         return ""
 
