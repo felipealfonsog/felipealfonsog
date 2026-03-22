@@ -3,7 +3,7 @@ name: Goodreads Widget
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "3 */3 * * *"
 
 concurrency:
   group: goodreads-widget
