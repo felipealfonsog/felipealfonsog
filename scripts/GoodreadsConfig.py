@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/3.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/3.1; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -40,16 +40,13 @@ RECENT_READ_SHELF = "read"
 # ============================================================
 # SECTION LIMITS
 # ============================================================
-# GLOBAL_SECTION_LIMIT:
-#   Límite común para ambas secciones si quieres una sola cifra.
+# Si quieres una sola cifra para ambas secciones:
 GLOBAL_SECTION_LIMIT = 10
 
-# USE_GLOBAL_SECTION_LIMIT:
-#   True  -> ambas secciones usan GLOBAL_SECTION_LIMIT
-#   False -> usa los overrides de abajo
+# True  -> ambas secciones usan GLOBAL_SECTION_LIMIT
+# False -> usa límites separados
 USE_GLOBAL_SECTION_LIMIT = False
 
-# Overrides por sección.
 CURRENTLY_READING_LIMIT = 8
 RECENT_READ_LIMIT = 10
 
@@ -57,13 +54,13 @@ RECENT_READ_LIMIT = 10
 # ============================================================
 # GLOBAL RENDER CONTROL
 # ============================================================
-# "visual" -> solo bloque visual
-# "cli"    -> solo bloque CLI
+# "visual" -> solo visual
+# "cli"    -> solo cli
 # "both"   -> ambos
 RENDER_MODE = "both"
 
-# Si una parte no se renderiza:
-# True  -> la deja intacta
+# Si una parte no se usa:
+# True  -> la conserva
 # False -> la vacía
 PRESERVE_UNUSED_BLOCKS = True
 
@@ -103,47 +100,55 @@ VISUAL_TITLE_USE_SMALL = True
 VISUAL_META_AS_SUBTEXT = True
 VISUAL_SHOW_DESCRIPTION = True
 
-# Link visual pequeño bajo cada item.
-SHOW_VISUAL_TEXT_LINK = True
+# Ya no se usa un link textual separado tipo "check the link"
+SHOW_VISUAL_TEXT_LINK = False
 VISUAL_TEXT_LINK_LABEL = "check the link"
 
-# Título/autor debajo de la portada.
+# Caption
 VISUAL_SHOW_CAPTION = True
 VISUAL_CAPTION_SHOW_TITLE = True
 VISUAL_CAPTION_SHOW_AUTHOR = True
+
+# El título será link y el autor no.
+VISUAL_CAPTION_TITLE_IS_LINK = True
+VISUAL_CAPTION_AUTHOR_IS_LINK = False
+
 VISUAL_CAPTION_MAX_TITLE_LENGTH = 18
 VISUAL_CAPTION_MAX_AUTHOR_LENGTH = 16
 
-# Tamaño de portada.
-VISUAL_COVER_WIDTH = 46
-VISUAL_COVER_HEIGHT = 70
+# Tamaño de portada
+VISUAL_COVER_WIDTH = 42
+VISUAL_COVER_HEIGHT = 64
 
-# Espaciado entre libros.
-VISUAL_ITEM_PADDING_PX = 6
+# Padding interno por item
+VISUAL_ITEM_PADDING_PX = 4
 
-# Cantidad de libros por fila.
+# Ancho total de columna visual
+VISUAL_CARD_WIDTH_PX = 74
+
+# Cantidad por fila
 VISUAL_ITEMS_PER_ROW = 6
 
-# Bordes / forma de imagen.
+# Separación vertical entre imagen y texto
+VISUAL_CAPTION_TOP_MARGIN_PX = 3
+
+# Separación entre autor y título
+VISUAL_AUTHOR_TOP_MARGIN_PX = 1
+
+# Bordes / forma de imagen
 VISUAL_IMAGE_BORDER_RADIUS_PX = 4
 VISUAL_ENABLE_IMAGE_BORDER = False
 VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
-# Placeholder si falta portada.
+# Placeholder si no hay portada
 VISUAL_FALLBACK_BG = "#1f1f1f"
 VISUAL_FALLBACK_TEXT_COLOR = "#f4f4f4"
 
-# Alineación del header de cada sección.
+# Headers de sección
 VISUAL_SECTION_HEADER_ALIGN = "left"
-
-# Alineación de la grilla.
 VISUAL_SECTION_GRID_ALIGN = "left"
-
-# Espacio vertical entre header y grilla.
 VISUAL_SECTION_SPACER_PX = 6
-
-# Espacio vertical entre secciones.
-VISUAL_SECTION_BOTTOM_SPACER_PX = 14
+VISUAL_SECTION_BOTTOM_SPACER_PX = 12
 
 
 # ============================================================
@@ -161,18 +166,13 @@ CLI_COMPACT_META = True
 CLI_DIVIDER = True
 CLI_LABEL_LAST_UPDATE = "last_update"
 
-# Límites opcionales del CLI (0 = sin truncar)
 CLI_MAX_TITLE_LENGTH = 0
 CLI_MAX_AUTHOR_LENGTH = 0
 
-# Mostrar headers de sección dentro del CLI.
 CLI_SHOW_SECTION_HEADERS = True
-
-# Mostrar el shelf name dentro del header de sección del CLI.
 CLI_SHOW_SECTION_SHELF = True
-
-# Mostrar el recuento de libros dentro del header de sección del CLI.
 CLI_SHOW_SECTION_BOOK_COUNT = True
+CLI_SHOW_SECTION_LIMIT = True
 
 
 # ============================================================
