@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/12.1; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/12.3; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -83,10 +83,10 @@ SHOW_COVER = True
 # ============================================================
 # VISUAL BLOCK
 # ============================================================
-VISUAL_BLOCK_TITLE = "Goodreads Reading Intelligence"
+VISUAL_BLOCK_TITLE = "Goodreads Reading Data"
 VISUAL_BLOCK_DESCRIPTION = (
-    "A compact reading snapshot showing what I am currently reading and "
-    "the latest books I have recently finished on Goodreads."
+    "A compact reading snapshot showing what I am currently reading "
+    "and the latest books I have recently finished on Goodreads."
 )
 
 VISUAL_CURRENTLY_READING_TITLE = "Currently Reading"
@@ -96,22 +96,27 @@ VISUAL_TITLE_USE_SMALL = True
 VISUAL_META_AS_SUBTEXT = False
 VISUAL_SHOW_DESCRIPTION = True
 
-# Título con link, autor sin link
-VISUAL_TITLE_IS_LINK = True
+# En opción 1 la lista visual NO lleva links
+VISUAL_TITLE_IS_LINK = False
 VISUAL_AUTHOR_IS_LINK = False
 
-# 0 = no truncar
-VISUAL_TITLE_MAX_LENGTH = 0
-VISUAL_AUTHOR_MAX_LENGTH = 22
+# Conviene truncar para que NINGUNA línea se rompa feo
+VISUAL_TITLE_MAX_LENGTH = 62
+VISUAL_AUTHOR_MAX_LENGTH = 24
 
-# Covers
+# Covers: mismas dimensiones visuales SIEMPRE
 VISUAL_COVER_WIDTH = 42
 VISUAL_COVER_HEIGHT = 64
 VISUAL_ITEMS_PER_ROW = 6
 
+# object-fit:
+#   "cover"   -> todas se ven iguales, recorta si hace falta
+#   "contain" -> muestra la portada completa pero puede dejar aire
+VISUAL_COVER_OBJECT_FIT = "cover"
+
 # Compact spacing
 VISUAL_SECTION_HEADER_ALIGN = "left"
-VISUAL_SECTION_TOP_SPACER_PX = 8
+VISUAL_SECTION_TOP_SPACER_PX = 10
 VISUAL_SECTION_SPACER_PX = 8
 VISUAL_SECTION_BOTTOM_SPACER_PX = 14
 
@@ -127,9 +132,7 @@ VISUAL_LIST_SHOW_READ_MORE = False
 VISUAL_READ_MORE_LABEL = "[read more]"
 VISUAL_LIST_LINE_BREAK = "<br/>"
 
-# Summary / description
-# Goodreads RSS no entrega una sinopsis limpia útil, así que por defecto va apagado.
-# Solo aplica a VISUAL_MODE = "covers_and_list"
+# Summary / description apagado
 SHOW_BOOK_SUMMARY = False
 BOOK_SUMMARY_MAX_LENGTH = 140
 
@@ -145,14 +148,14 @@ VISUAL_IMAGE_BORDER_RADIUS_PX = 4
 VISUAL_ENABLE_IMAGE_BORDER = False
 VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
-VISUAL_FALLBACK_BG = "#ffffff"
+VISUAL_FALLBACK_BG = "#f3f3f3"
 VISUAL_FALLBACK_TEXT_COLOR = "#666666"
 
 # Línea meta entre visual y CLI
 SHOW_VISUAL_FOOTER_META = True
 VISUAL_FOOTER_META_PREFIX = ""
 VISUAL_FOOTER_META_USE_SUB = True
-VISUAL_FOOTER_TOP_SPACER_PX = 8
+VISUAL_FOOTER_TOP_SPACER_PX = 10
 VISUAL_FOOTER_BOTTOM_SPACER_PX = 10
 
 
