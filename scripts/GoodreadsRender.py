@@ -130,27 +130,34 @@ def render_summary_html(book: dict[str, Any]) -> str:
         return ""
 
     safe_summary = html_escape(truncate(summary, config.BOOK_SUMMARY_MAX_LENGTH))
-    return f'<div><sub>{safe_summary}</sub></div>'
+    return f"<sub>{safe_summary}</sub>" if config.VISUAL_LIST_USE_SUB else safe_summary
 
 
 def render_visual_list_item(book: dict[str, Any]) -> str:
     title_html = render_title_html(book) if config.SHOW_TITLE else ""
     author_html = render_author_html(book) if config.SHOW_AUTHOR else ""
     summary_html = render_summary_html(book)
+    link = str(book.get("link", "") or "")
 
-    line = f"{title_html}"
+    prefix = f"{config.VISUAL_LIST_PREFIX} "
+    line = prefix + title_html
+
     if author_html:
         line += f" — {author_html}"
+
+    if config.VISUAL_LIST_SHOW_READ_MORE and config.SHOW_LINK and link:
+        line += f' <a href="{html_escape(link)}">{html_escape(config.VISUAL_READ_MORE_LABEL)}</a>'
 
     if config.VISUAL_LIST_USE_SUB:
         line = f"<sub>{line}</sub>"
 
     if summary_html:
         return f"{line}<br/>{summary_html}"
+
     return line
 
 
-def render_visual_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
+def render_visual_section_covers_and_list(section: dict[str, Any], section_name: str, section_title: str) -> str:
     books = section.get("books", [])
     if not section.get("enabled", False):
         return ""
@@ -158,7 +165,7 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
     header = (
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
-        f"</div>"
+        f'</div>'
     )
 
     if not books:
@@ -169,7 +176,6 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
             f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    # Fila(s) horizontales de covers
     cover_rows = []
     items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
 
@@ -180,13 +186,9 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
         )
         cover_rows.append(row)
 
-    covers_html = "<br/><br/>\n".join(cover_rows)
+    covers_html = config.VISUAL_COVERS_ROW_BREAK.join(cover_rows)
 
-    # Listado debajo
-    list_lines = []
-    for book in books:
-        list_lines.append(render_visual_list_item(book))
-
+    list_lines = [render_visual_list_item(book) for book in books]
     list_html = "<br/>\n".join(list_lines)
 
     return (
@@ -301,7 +303,7 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
                 config.VISUAL_CURRENTLY_READING_TITLE,
             )
         else:
-            current_html = render_visual_section(
+            current_html = render_visual_section_covers_and_list(
                 current_section,
                 "currently_reading",
                 config.VISUAL_CURRENTLY_READING_TITLE,
@@ -315,7 +317,7 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
                 config.VISUAL_RECENT_READ_TITLE,
             )
         else:
-            recent_html = render_visual_section(
+            recent_html = render_visual_section_covers_and_list(
                 recent_section,
                 "recent_read",
                 config.VISUAL_RECENT_READ_TITLE,
@@ -350,10 +352,8 @@ def render_cli_section(section: dict[str, Any], section_name: str, label: str) -
 
         if config.CLI_SHOW_SECTION_SHELF:
             header_parts.append(f"shelf={shelf}")
-
         if config.CLI_SHOW_SECTION_BOOK_COUNT:
             header_parts.append(f"books={len(books)}")
-
         if config.CLI_SHOW_SECTION_LIMIT:
             header_parts.append(f"limit={limit}")
 
@@ -370,7 +370,6 @@ def render_cli_section(section: dict[str, Any], section_name: str, label: str) -
 
         if config.CLI_MAX_TITLE_LENGTH > 0:
             title = truncate(title, config.CLI_MAX_TITLE_LENGTH)
-
         if config.CLI_MAX_AUTHOR_LENGTH > 0 and author:
             author = truncate(author, config.CLI_MAX_AUTHOR_LENGTH)
 
