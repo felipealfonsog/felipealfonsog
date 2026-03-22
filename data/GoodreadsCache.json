@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "source": "goodreads_rss",
+    "source_url": "",
+    "shelf": "read",
+    "status": "bootstrap",
+    "fetch_mode": "none",
+    "last_attempted_sync": "",
+    "last_successful_sync": "",
+    "item_count": 0,
+    "books_limit": 15,
+    "error_message": ""
+  },
+  "books": []
+}
