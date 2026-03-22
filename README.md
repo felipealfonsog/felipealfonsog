@@ -263,6 +263,31 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 -->
 
+
+
+#
+
+
+<details open>
+<summary><strong>🛰️ GNLZ.CL SITE OPERATIONS INTELLIGENCE</strong> — updated automatically every 3 hours (00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC • full-spectrum profile active • last valid snapshot retained on probe failure)*</summary>
+
+<!-- GOODREADS:VISUAL_START -->
+temporary visual placeholder
+<!-- GOODREADS:VISUAL_END -->
+
+<!-- GOODREADS:CLI_START -->
+temporary cli placeholder
+<!-- GOODREADS:CLI_END -->
+
+
+</details>
+
+> [!NOTE]
+> <sub>*GNLZ.CL Site Operations Intelligence — operational-style telemetry layer generated from live web probes, defensive surface inspection, TLS and header analysis, traffic aggregates, and Tor Browser compatibility checks.</sub><br>
+> <sub>Telemetry fields, probe states, fingerprint hints, and cached continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if a live probe fails.</sub>
+
+[![GNLZ Site Intel](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/site-intel.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/site-intel.yml)
+
 #
 
 <!--
