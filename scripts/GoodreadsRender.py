@@ -1,456 +1,342 @@
+import re
+import sys
+import urllib.error
+import urllib.request
+import xml.etree.ElementTree as ET
 from typing import Any
 
 import GoodreadsConfig as config
 from GoodreadsUtils import (
     ensure_dir,
-    html_escape,
     read_json,
-    read_text,
-    replace_between_markers,
-    sha256_json,
-    truncate,
+    sanitize_text,
     utc_now_iso,
+    validate_book,
     write_json,
-    write_text_if_changed,
 )
 
 
-def resolve_section_limit_from_snapshot(section: dict[str, Any], fallback_name: str) -> int:
-    value = section.get("limit")
-    if isinstance(value, int) and value > 0:
-        return value
-
+def resolve_section_limit(section_name: str) -> int:
     if config.USE_GLOBAL_SECTION_LIMIT:
         return config.GLOBAL_SECTION_LIMIT
 
-    if fallback_name == "currently_reading":
+    if section_name == "currently_reading":
         return config.CURRENTLY_READING_LIMIT
 
-    if fallback_name == "recent_read":
+    if section_name == "recent_read":
         return config.RECENT_READ_LIMIT
 
     return config.GLOBAL_SECTION_LIMIT
 
 
-def build_last_update_utc(snapshot: dict[str, Any]) -> str:
-    meta = snapshot.get("meta", {})
-    attempted = str(meta.get("last_attempted_sync", "")).strip()
-    if attempted:
-        return attempted
-
-    successful = str(meta.get("last_successful_sync", "")).strip()
-    if successful:
-        return successful
-
-    return utc_now_iso()
+def build_rss_url(shelf: str) -> str:
+    return config.GOODREADS_RSS_URL_TEMPLATE.format(
+        user_id=config.GOODREADS_USER_ID,
+        shelf=shelf,
+    )
 
 
-def build_visual_meta_line(snapshot: dict[str, Any]) -> str:
-    meta = snapshot.get("meta", {})
-    parts = []
-
-    if config.SHOW_STATUS:
-        parts.append(f"status: {html_escape(str(meta.get('status', '')))}")
-
-    if config.SHOW_FETCH_MODE:
-        parts.append(f"mode: {html_escape(str(meta.get('fetch_mode', '')))}")
-
-    if config.SHOW_LAST_SYNC:
-        sync = str(meta.get("last_successful_sync", "")).strip()
-        if sync:
-            parts.append(f"sync: {html_escape(sync)}")
-
-    if config.SHOW_LAST_UPDATE:
-        parts.append(f"last update: {html_escape(build_last_update_utc(snapshot))}")
-
-    if config.SHOW_SOURCE:
-        parts.append(f"source: {html_escape(str(meta.get('source', '')))}")
-
-    return " • ".join(parts)
+def http_get(url: str) -> str:
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": config.USER_AGENT,
+            "Accept": "application/rss+xml, application/xml, text/xml, text/html;q=0.9, */*;q=0.8",
+        },
+        method="GET",
+    )
+    with urllib.request.urlopen(req, timeout=config.REQUEST_TIMEOUT) as resp:
+        charset = resp.headers.get_content_charset() or "utf-8"
+        return resp.read().decode(charset, errors="replace")
 
 
-def render_visual_image(book: dict[str, Any]) -> str:
-    title = str(book.get("title", "") or "")
-    author = str(book.get("author", "") or "")
-    link = str(book.get("link", "") or "")
-    cover = str(book.get("cover", "") or "")
-
-    alt_parts = []
-    if config.SHOW_TITLE and title:
-        alt_parts.append(title)
-    if config.SHOW_AUTHOR and author:
-        alt_parts.append(author)
-    alt = " — ".join(alt_parts) if alt_parts else "Book cover"
-
-    border_style = ""
-    if config.VISUAL_ENABLE_IMAGE_BORDER:
-        border_style = f"border:1px solid {config.VISUAL_IMAGE_BORDER_COLOR};"
-
-    if config.SHOW_COVER and cover:
-        image_html = (
-            f'<img src="{html_escape(cover)}" '
-            f'width="{config.VISUAL_COVER_WIDTH}" '
-            f'height="{config.VISUAL_COVER_HEIGHT}" '
-            f'alt="{html_escape(alt)}" '
-            f'style="object-fit:cover;border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;{border_style}" />'
-        )
-    else:
-        image_html = (
-            f'<img alt="{html_escape(alt)}" '
-            f'width="{config.VISUAL_COVER_WIDTH}" '
-            f'height="{config.VISUAL_COVER_HEIGHT}" '
-            f'style="object-fit:cover;border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;'
-            f'background:{config.VISUAL_FALLBACK_BG};{border_style}" />'
-        )
-
-    if config.SHOW_LINK and link:
-        return f'<a href="{html_escape(link)}">{image_html}</a>'
-
-    return image_html
-
-
-def render_visual_detail_line(book: dict[str, Any], index: int) -> str:
-    title = str(book.get("title", "") or "Untitled")
-    author = str(book.get("author", "") or "")
-    link = str(book.get("link", "") or "")
-
-    safe_title = html_escape(truncate(title, config.VISUAL_TITLE_MAX_LENGTH))
-    safe_author = html_escape(truncate(author, config.VISUAL_AUTHOR_MAX_LENGTH))
-
-    if config.VISUAL_TITLE_IS_LINK and config.SHOW_LINK and link:
-        title_html = f'<a href="{html_escape(link)}">{safe_title}</a>'
-    else:
-        title_html = safe_title
-
-    prefix = ""
-    if config.VISUAL_SHOW_DETAILS_INDEX:
-        prefix = f"{index:02d}. "
-
-    body = prefix + title_html
-    if config.SHOW_AUTHOR and safe_author:
-        body += f" — {safe_author}"
-
-    if config.VISUAL_DETAILS_USE_SUB:
-        return f"<sub>{body}</sub>"
-    return body
-
-
-def render_visual_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
-    books = section.get("books", [])
-    if not section.get("enabled", False):
+def extract_cover_from_description(description: str) -> str:
+    if not description:
         return ""
 
-    header = (
-        f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
-        f'<sub><strong>{html_escape(section_title)}</strong></sub>'
-        f"</div>"
-    )
+    patterns = [
+        r'<img[^>]+src="([^"]+)"',
+        r"<img[^>]+src='([^']+)'",
+    ]
 
-    if not books:
-        return (
-            f"{header}"
-            f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-            f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
-            f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
+    for pattern in patterns:
+        match = re.search(pattern, description, re.IGNORECASE)
+        if match:
+            return match.group(1).strip()
+
+    return ""
+
+
+def extract_author_from_description(description: str) -> str:
+    if not description:
+        return ""
+
+    patterns = [
+        r"by\s+([^<\n\r]+)",
+        r"author:\s*([^<\n\r]+)",
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, description, re.IGNORECASE)
+        if match:
+            author = sanitize_text(match.group(1))
+            if author:
+                return author
+
+    return ""
+
+
+def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
+    root = ET.fromstring(xml_text)
+    channel = root.find("channel")
+    if channel is None:
+        return []
+
+    books: list[dict[str, Any]] = []
+
+    for item in channel.findall("item"):
+        title = sanitize_text(item.findtext("title", default=""))
+        link = sanitize_text(item.findtext("link", default=""))
+        description_raw = item.findtext("description", default="") or ""
+
+        author = ""
+        for tag in ("author_name", "creator", "{http://purl.org/dc/elements/1.1/}creator", "author"):
+            value = sanitize_text(item.findtext(tag, default=""))
+            if value:
+                author = value
+                break
+
+        if not author:
+            author = extract_author_from_description(description_raw)
+
+        cover = extract_cover_from_description(description_raw)
+        guid = sanitize_text(item.findtext("guid", default=""))
+        pub_date = sanitize_text(item.findtext("pubDate", default=""))
+
+        books.append(
+            {
+                "title": title,
+                "author": author,
+                "link": link,
+                "cover": cover,
+                "guid": guid,
+                "pub_date": pub_date,
+            }
         )
 
-    rows: list[str] = []
-    items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
-
-    for start in range(0, len(books), items_per_row):
-        chunk = books[start : start + items_per_row]
-
-        image_row = config.VISUAL_IMAGE_GAP_SPACES.join(
-            render_visual_image(book) for book in chunk
-        )
-
-        detail_lines = []
-        for offset, book in enumerate(chunk, start=start + 1):
-            detail_lines.append(render_visual_detail_line(book, offset))
-
-        details_html = "<br/>\n".join(detail_lines)
-
-        rows.append(image_row)
-        if config.VISUAL_SHOW_DETAILS_LIST:
-            rows.append("<br/>")
-            rows.append(details_html)
-        rows.append("<br/><br/>")
-
-    section_html = "\n".join(rows)
-
-    return (
-        f"{header}"
-        f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f"{section_html}"
-        f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
-    )
+    return books
 
 
-def render_visual_block(snapshot: dict[str, Any]) -> str:
-    sections = snapshot.get("sections", {})
-    current_section = sections.get("currently_reading", {})
-    recent_section = sections.get("recent_read", {})
+def normalize_books(books: list[dict[str, Any]], limit: int) -> list[dict[str, Any]]:
+    normalized: list[dict[str, Any]] = []
+    seen: set[tuple[str, str, str]] = set()
 
-    lines: list[str] = []
-
-    if config.VISUAL_TITLE_USE_SMALL:
-        lines.append(f'<sub><strong>{html_escape(config.VISUAL_BLOCK_TITLE)}</strong></sub>')
-    else:
-        lines.append(f"### {html_escape(config.VISUAL_BLOCK_TITLE)}")
-
-    if config.VISUAL_SHOW_DESCRIPTION and config.VISUAL_BLOCK_DESCRIPTION.strip():
-        lines.append(f'<sub>{html_escape(config.VISUAL_BLOCK_DESCRIPTION)}</sub>')
-
-    if config.VISUAL_META_AS_SUBTEXT:
-        meta_line = build_visual_meta_line(snapshot)
-        if meta_line:
-            lines.append(f'<sub>{html_escape(meta_line)}</sub>')
-
-    current_html = ""
-    recent_html = ""
-
-    if config.SHOW_CURRENTLY_READING_SECTION:
-        current_html = render_visual_section(
-            current_section,
-            "currently_reading",
-            config.VISUAL_CURRENTLY_READING_TITLE,
-        )
-
-    if config.SHOW_RECENT_READ_SECTION:
-        recent_html = render_visual_section(
-            recent_section,
-            "recent_read",
-            config.VISUAL_RECENT_READ_TITLE,
-        )
-
-    if current_html:
-        lines.append("")
-        lines.append(current_html)
-
-    if recent_html:
-        lines.append("")
-        lines.append(recent_html)
-
-    if not current_html and not recent_html:
-        lines.append(config.VISUAL_EMPTY_MESSAGE)
-
-    return "\n".join(lines)
-
-
-def render_cli_section(section: dict[str, Any], section_name: str, label: str) -> list[str]:
-    lines: list[str] = []
-
-    if not section.get("enabled", False):
-        return lines
-
-    books = section.get("books", [])
-    shelf = str(section.get("shelf", ""))
-    limit = resolve_section_limit_from_snapshot(section, section_name)
-
-    if config.CLI_SHOW_SECTION_HEADERS:
-        header_parts = [f"[{label}]"]
-
-        if config.CLI_SHOW_SECTION_SHELF:
-            header_parts.append(f"shelf={shelf}")
-
-        if config.CLI_SHOW_SECTION_BOOK_COUNT:
-            header_parts.append(f"books={len(books)}")
-
-        if config.CLI_SHOW_SECTION_LIMIT:
-            header_parts.append(f"limit={limit}")
-
-        lines.append(" ".join(header_parts))
-
-    if not books:
-        lines.append("no data available")
-        lines.append("")
-        return lines
-
-    for idx, book in enumerate(books, start=1):
-        title = str(book.get("title", "") or "Untitled")
-        author = str(book.get("author", "") or "")
-
-        if config.CLI_MAX_TITLE_LENGTH > 0:
-            title = truncate(title, config.CLI_MAX_TITLE_LENGTH)
-
-        if config.CLI_MAX_AUTHOR_LENGTH > 0 and author:
-            author = truncate(author, config.CLI_MAX_AUTHOR_LENGTH)
-
-        line = f"{str(idx).zfill(config.CLI_BOOK_INDEX_PAD)}. {title}"
-        if config.SHOW_AUTHOR and author:
-            line += f" — {author}"
-
-        if config.CLI_SHOW_LINKS_INLINE and config.SHOW_LINK:
-            link = str(book.get("link", "") or "")
-            if link:
-                line += f" [{link}]"
-
-        lines.append(line)
-
-    lines.append("")
-    return lines
-
-
-def render_cli_block(snapshot: dict[str, Any]) -> str:
-    meta = snapshot.get("meta", {})
-    sections = snapshot.get("sections", {})
-
-    lines: list[str] = []
-    lines.append(f"```{config.CLI_CODE_FENCE_LANGUAGE}")
-    lines.append(f"# {config.CLI_BLOCK_TITLE}")
-
-    if config.CLI_DESCRIPTION.strip():
-        lines.append(f"# {config.CLI_DESCRIPTION}")
-
-    meta_parts = []
-
-    if config.SHOW_STATUS:
-        meta_parts.append(f"status={meta.get('status', '')}")
-    if config.SHOW_FETCH_MODE:
-        meta_parts.append(f"mode={meta.get('fetch_mode', '')}")
-    if config.SHOW_LAST_SYNC:
-        meta_parts.append(f"sync={meta.get('last_successful_sync', '')}")
-    if config.SHOW_LAST_UPDATE:
-        meta_parts.append(f"{config.CLI_LABEL_LAST_UPDATE}={build_last_update_utc(snapshot)}")
-    if config.SHOW_SOURCE:
-        meta_parts.append(f"source={meta.get('source', '')}")
-
-    if meta_parts:
-        if config.CLI_COMPACT_META:
-            lines.append("# " + " | ".join(meta_parts))
-        else:
-            for part in meta_parts:
-                lines.append(f"# {part}")
-
-    if config.CLI_DIVIDER:
-        lines.append("")
-
-    if config.SHOW_CURRENTLY_READING_SECTION:
-        lines.extend(
-            render_cli_section(
-                sections.get("currently_reading", {}),
-                "currently_reading",
-                "currently_reading",
-            )
-        )
-
-    if config.SHOW_RECENT_READ_SECTION:
-        lines.extend(
-            render_cli_section(
-                sections.get("recent_read", {}),
-                "recent_read",
-                "recent_read",
-            )
-        )
-
-    if len(lines) <= 4:
-        lines.append(config.CLI_EMPTY_MESSAGE)
-
-    lines.append("```")
-    return "\n".join(lines)
-
-
-def write_render_metadata(
-    snapshot: dict[str, Any],
-    readme_changed: bool,
-    rendered_visual: bool,
-    rendered_cli: bool,
-) -> None:
-    payload = {
-        "meta": {
-            "rendered_at": utc_now_iso(),
-            "render_mode": config.RENDER_MODE,
-            "rendered_visual": rendered_visual,
-            "rendered_cli": rendered_cli,
-            "readme_changed": readme_changed,
-            "snapshot_hash": sha256_json(snapshot),
+    for book in books:
+        cleaned = {
+            "title": sanitize_text(book.get("title", "")),
+            "author": sanitize_text(book.get("author", "")),
+            "link": sanitize_text(book.get("link", "")),
+            "cover": sanitize_text(book.get("cover", "")),
+            "guid": sanitize_text(book.get("guid", "")),
+            "pub_date": sanitize_text(book.get("pub_date", "")),
         }
+
+        if not validate_book(
+            cleaned,
+            allow_empty_cover=config.ALLOW_EMPTY_COVER,
+            allow_empty_link=config.ALLOW_EMPTY_LINK,
+            allow_empty_author=config.ALLOW_EMPTY_AUTHOR,
+        ):
+            continue
+
+        key = (
+            cleaned["title"].lower(),
+            cleaned["author"].lower(),
+            cleaned["link"].lower(),
+        )
+        if key in seen:
+            continue
+        seen.add(key)
+
+        normalized.append(cleaned)
+
+        if len(normalized) >= limit:
+            break
+
+    return normalized
+
+
+def fetch_section(section_name: str, shelf: str) -> dict[str, Any]:
+    limit = resolve_section_limit(section_name)
+    url = build_rss_url(shelf)
+    xml_text = http_get(url)
+    parsed = parse_rss_items(xml_text)
+    books = normalize_books(parsed, limit)
+
+    return {
+        "shelf": shelf,
+        "source_url": url,
+        "limit": limit,
+        "item_count": len(books),
+        "books": books,
     }
 
-    write_json(
-        config.LAST_RENDER_PATH,
-        payload,
-        indent=config.JSON_INDENT,
-        sort_keys=config.JSON_SORT_KEYS,
-    )
+
+def build_failure_snapshot(previous_cache: dict[str, Any] | None, error_message: str) -> dict[str, Any]:
+    if previous_cache and config.USE_CACHE_FALLBACK and config.PRESERVE_LAST_GOOD_SNAPSHOT:
+        cache = previous_cache
+        meta = cache.setdefault("meta", {})
+        meta["status"] = "source_unavailable_using_cache"
+        meta["fetch_mode"] = "cache"
+        meta["last_attempted_sync"] = utc_now_iso()
+        meta["error_message"] = error_message
+        return cache
+
+    return {
+        "meta": {
+            "source": config.SOURCE_LABEL,
+            "status": "source_unavailable_no_cache",
+            "fetch_mode": "none",
+            "last_attempted_sync": utc_now_iso(),
+            "last_successful_sync": "",
+            "error_message": error_message,
+        },
+        "sections": {
+            "currently_reading": {
+                "enabled": config.SHOW_CURRENTLY_READING_SECTION,
+                "title": config.VISUAL_CURRENTLY_READING_TITLE,
+                "shelf": config.CURRENTLY_READING_SHELF,
+                "limit": resolve_section_limit("currently_reading"),
+                "item_count": 0,
+                "books": [],
+            },
+            "recent_read": {
+                "enabled": config.SHOW_RECENT_READ_SECTION,
+                "title": config.VISUAL_RECENT_READ_TITLE,
+                "shelf": config.RECENT_READ_SHELF,
+                "limit": resolve_section_limit("recent_read"),
+                "item_count": 0,
+                "books": [],
+            },
+        },
+    }
 
 
 def main() -> int:
     ensure_dir(config.DATA_DIR)
 
-    snapshot = read_json(config.CACHE_PATH)
-    if snapshot is None:
+    if not config.GOODREADS_USER_ID.strip():
+        print("ERROR: Goodreads user id is not configured.")
+        return 1
+
+    previous_cache = read_json(config.CACHE_PATH)
+
+    try:
+        sections: dict[str, Any] = {}
+
+        if config.SHOW_CURRENTLY_READING_SECTION:
+            current = fetch_section(
+                section_name="currently_reading",
+                shelf=config.CURRENTLY_READING_SHELF,
+            )
+            sections["currently_reading"] = {
+                "enabled": True,
+                "title": config.VISUAL_CURRENTLY_READING_TITLE,
+                **current,
+            }
+        else:
+            sections["currently_reading"] = {
+                "enabled": False,
+                "title": config.VISUAL_CURRENTLY_READING_TITLE,
+                "shelf": config.CURRENTLY_READING_SHELF,
+                "source_url": "",
+                "limit": resolve_section_limit("currently_reading"),
+                "item_count": 0,
+                "books": [],
+            }
+
+        if config.SHOW_RECENT_READ_SECTION:
+            recent = fetch_section(
+                section_name="recent_read",
+                shelf=config.RECENT_READ_SHELF,
+            )
+            sections["recent_read"] = {
+                "enabled": True,
+                "title": config.VISUAL_RECENT_READ_TITLE,
+                **recent,
+            }
+        else:
+            sections["recent_read"] = {
+                "enabled": False,
+                "title": config.VISUAL_RECENT_READ_TITLE,
+                "shelf": config.RECENT_READ_SHELF,
+                "source_url": "",
+                "limit": resolve_section_limit("recent_read"),
+                "item_count": 0,
+                "books": [],
+            }
+
+        valid_count = 0
+        required_enabled_sections = 0
+
+        for section in sections.values():
+            if section["enabled"]:
+                required_enabled_sections += 1
+                if section["item_count"] >= config.MIN_VALID_BOOKS_PER_SECTION:
+                    valid_count += 1
+
+        if config.STRICT_VALIDATION and required_enabled_sections > 0 and valid_count == 0:
+            snapshot = build_failure_snapshot(previous_cache, "all_enabled_sections_invalid_or_empty")
+            write_json(
+                config.CACHE_PATH,
+                snapshot,
+                indent=config.JSON_INDENT,
+                sort_keys=config.JSON_SORT_KEYS,
+            )
+            print("Goodreads sync fallback: all enabled sections invalid or empty.")
+            return 0
+
+        previous_success = ""
+        if previous_cache:
+            previous_success = str(previous_cache.get("meta", {}).get("last_successful_sync", "")).strip()
+
+        current_now = utc_now_iso()
+
         snapshot = {
             "meta": {
                 "source": config.SOURCE_LABEL,
-                "status": "no_snapshot",
-                "fetch_mode": "none",
-                "last_attempted_sync": "",
-                "last_successful_sync": "",
-                "error_message": "No cache file present.",
+                "status": "ok",
+                "fetch_mode": "network",
+                "last_attempted_sync": current_now,
+                "last_successful_sync": current_now or previous_success,
+                "error_message": "",
             },
-            "sections": {
-                "currently_reading": {
-                    "enabled": config.SHOW_CURRENTLY_READING_SECTION,
-                    "title": config.VISUAL_CURRENTLY_READING_TITLE,
-                    "shelf": config.CURRENTLY_READING_SHELF,
-                    "limit": config.GLOBAL_SECTION_LIMIT if config.USE_GLOBAL_SECTION_LIMIT else config.CURRENTLY_READING_LIMIT,
-                    "item_count": 0,
-                    "books": [],
-                },
-                "recent_read": {
-                    "enabled": config.SHOW_RECENT_READ_SECTION,
-                    "title": config.VISUAL_RECENT_READ_TITLE,
-                    "shelf": config.RECENT_READ_SHELF,
-                    "limit": config.GLOBAL_SECTION_LIMIT if config.USE_GLOBAL_SECTION_LIMIT else config.RECENT_READ_LIMIT,
-                    "item_count": 0,
-                    "books": [],
-                },
-            },
+            "sections": sections,
         }
 
-    readme = read_text(config.README_PATH)
-
-    render_visual = config.RENDER_MODE in ("visual", "both")
-    render_cli = config.RENDER_MODE in ("cli", "both")
-
-    if render_visual:
-        visual_block = render_visual_block(snapshot)
-        readme = replace_between_markers(
-            readme,
-            config.README_MARKER_VISUAL_START,
-            config.README_MARKER_VISUAL_END,
-            visual_block,
+        write_json(
+            config.CACHE_PATH,
+            snapshot,
+            indent=config.JSON_INDENT,
+            sort_keys=config.JSON_SORT_KEYS,
         )
-    elif not config.PRESERVE_UNUSED_BLOCKS:
-        readme = replace_between_markers(
-            readme,
-            config.README_MARKER_VISUAL_START,
-            config.README_MARKER_VISUAL_END,
-            "",
-        )
+        print("Goodreads sync OK.")
+        return 0
 
-    if render_cli:
-        cli_block = render_cli_block(snapshot)
-        readme = replace_between_markers(
-            readme,
-            config.README_MARKER_CLI_START,
-            config.README_MARKER_CLI_END,
-            cli_block,
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, ET.ParseError, ValueError) as exc:
+        snapshot = build_failure_snapshot(previous_cache, str(exc))
+        write_json(
+            config.CACHE_PATH,
+            snapshot,
+            indent=config.JSON_INDENT,
+            sort_keys=config.JSON_SORT_KEYS,
         )
-    elif not config.PRESERVE_UNUSED_BLOCKS:
-        readme = replace_between_markers(
-            readme,
-            config.README_MARKER_CLI_START,
-            config.README_MARKER_CLI_END,
-            "",
-        )
+        print(f"Goodreads sync fallback due to fetch/parse error: {exc}")
+        return 0
 
-    changed = write_text_if_changed(config.README_PATH, readme)
-    write_render_metadata(snapshot, changed, render_visual, render_cli)
-
-    print(f"Goodreads render completed. README changed: {changed}")
-    return 0
+    except Exception as exc:
+        print(f"Unexpected error in GoodreadsSync.py: {exc}", file=sys.stderr)
+        return 1
 
 
 if __name__ == "__main__":
