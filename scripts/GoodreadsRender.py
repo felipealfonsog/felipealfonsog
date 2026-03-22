@@ -45,7 +45,7 @@ def build_last_update_utc(snapshot: dict[str, Any]) -> str:
     return utc_now_iso()
 
 
-def build_visual_meta_line(snapshot: dict[str, Any]) -> str:
+def build_visual_footer_meta_line(snapshot: dict[str, Any]) -> str:
     meta = snapshot.get("meta", {})
     parts = []
 
@@ -80,24 +80,33 @@ def render_cover_html(book: dict[str, Any]) -> str:
     if config.VISUAL_ENABLE_IMAGE_BORDER:
         border_style = f"border:1px solid {config.VISUAL_IMAGE_BORDER_COLOR};"
 
+    common_style = (
+        f"display:inline-block;"
+        f"width:{config.VISUAL_COVER_WIDTH}px;"
+        f"height:{config.VISUAL_COVER_HEIGHT}px;"
+        f"object-fit:{config.VISUAL_COVER_OBJECT_FIT};"
+        f"border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;"
+        f"{border_style}"
+    )
+
     if config.SHOW_COVER and cover:
         image_html = (
             f'<img src="{html_escape(cover)}" '
             f'width="{config.VISUAL_COVER_WIDTH}" '
             f'height="{config.VISUAL_COVER_HEIGHT}" '
             f'alt="{html_escape(alt)}" '
-            f'style="object-fit:cover;border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;{border_style}" />'
+            f'style="{common_style}" />'
         )
     else:
         image_html = (
-            f'<div style="display:flex;align-items:center;justify-content:center;'
+            f'<div style="display:inline-flex;align-items:center;justify-content:center;'
             f'width:{config.VISUAL_COVER_WIDTH}px;'
             f'height:{config.VISUAL_COVER_HEIGHT}px;'
             f'background:{config.VISUAL_FALLBACK_BG};'
             f'color:{config.VISUAL_FALLBACK_TEXT_COLOR};'
             f'border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;'
             f'font-size:9px;text-align:center;padding:4px;{border_style}">'
-            f'{html_escape(title if not config.VISUAL_TITLE_MAX_LENGTH else truncate(title or "Untitled", 14))}</div>'
+            f'{html_escape(truncate(title or "Untitled", 14))}</div>'
         )
 
     if config.SHOW_LINK and link:
@@ -106,19 +115,12 @@ def render_cover_html(book: dict[str, Any]) -> str:
     return image_html
 
 
-def render_title_html(book: dict[str, Any]) -> str:
+def render_title_plain(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "Untitled")
-    link = str(book.get("link", "") or "")
-
-    safe_title = html_escape(title if config.VISUAL_TITLE_MAX_LENGTH == 0 else truncate(title, config.VISUAL_TITLE_MAX_LENGTH))
-
-    if config.VISUAL_TITLE_IS_LINK and config.SHOW_LINK and link:
-        return f'<a href="{html_escape(link)}">{safe_title}</a>'
-
-    return safe_title
+    return html_escape(title if config.VISUAL_TITLE_MAX_LENGTH == 0 else truncate(title, config.VISUAL_TITLE_MAX_LENGTH))
 
 
-def render_author_html(book: dict[str, Any]) -> str:
+def render_author_plain(book: dict[str, Any]) -> str:
     author = str(book.get("author", "") or "")
     return html_escape(author if config.VISUAL_AUTHOR_MAX_LENGTH == 0 else truncate(author, config.VISUAL_AUTHOR_MAX_LENGTH))
 
@@ -133,19 +135,15 @@ def render_summary_html(book: dict[str, Any]) -> str:
 
 
 def render_visual_list_item(book: dict[str, Any]) -> str:
-    title_html = render_title_html(book) if config.SHOW_TITLE else ""
-    author_html = render_author_html(book) if config.SHOW_AUTHOR else ""
+    title_text = render_title_plain(book) if config.SHOW_TITLE else ""
+    author_text = render_author_plain(book) if config.SHOW_AUTHOR else ""
     summary_html = render_summary_html(book)
-    link = str(book.get("link", "") or "")
 
     prefix = f"{config.VISUAL_LIST_PREFIX} "
-    line = prefix + title_html
+    line = prefix + title_text
 
-    if author_html:
-        line += f" — {author_html}"
-
-    if config.VISUAL_LIST_SHOW_READ_MORE and config.SHOW_LINK and link:
-        line += f' <a href="{html_escape(link)}">{html_escape(config.VISUAL_READ_MORE_LABEL)}</a>'
+    if author_text:
+        line += f" — {author_text}"
 
     if config.VISUAL_LIST_USE_SUB:
         line = f"<sub>{line}</sub>"
@@ -204,8 +202,8 @@ def render_visual_section_covers_and_list(section: dict[str, Any], section_name:
 
 def render_visual_card_table_cell(book: dict[str, Any]) -> str:
     cover_html = render_cover_html(book)
-    title_html = render_title_html(book) if config.SHOW_TITLE else ""
-    author_html = render_author_html(book) if config.SHOW_AUTHOR else ""
+    title_text = render_title_plain(book) if config.SHOW_TITLE else ""
+    author_text = render_author_plain(book) if config.SHOW_AUTHOR else ""
 
     return (
         f'<td align="center" valign="top" '
@@ -214,8 +212,8 @@ def render_visual_card_table_cell(book: dict[str, Any]) -> str:
         f'width:{config.VISUAL_TABLE_CELL_WIDTH_PX}px;'
         f'background:transparent;">'
         f'{cover_html}'
-        f'<div style="margin-top:{config.VISUAL_CAPTION_TOP_MARGIN_PX}px;"><sub>{title_html}</sub></div>'
-        f'<div style="margin-top:{config.VISUAL_AUTHOR_TOP_MARGIN_PX}px;"><sub>{author_html}</sub></div>'
+        f'<div style="margin-top:{config.VISUAL_CAPTION_TOP_MARGIN_PX}px;"><sub>{title_text}</sub></div>'
+        f'<div style="margin-top:{config.VISUAL_AUTHOR_TOP_MARGIN_PX}px;"><sub>{author_text}</sub></div>'
         f'</td>'
     )
 
@@ -279,7 +277,7 @@ def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
     if not config.SHOW_VISUAL_FOOTER_META:
         return ""
 
-    meta_line = build_visual_meta_line(snapshot)
+    meta_line = build_visual_footer_meta_line(snapshot)
     if not meta_line:
         return ""
 
