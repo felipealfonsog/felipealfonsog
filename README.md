@@ -283,60 +283,48 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 
 <!-- GOODREADS:VISUAL_START -->
-### Goodreads Shelf
-shelf: **read** | books: **15** | status: **ok** | last sync: **2026\-03\-22T09:56:43\+00:00**
+<sub><strong>Goodreads Shelf</strong></sub>
+<sub>shelf: read • books: 15 • status: ok • sync: 2026-03-22T10:20:14+00:00</sub>
 
-<table align="center">
-<tr>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg" width="88" alt="Programming Perl (3rd Edition) — Larry Wall" /></a><br/>Programming Perl (3rd Edition)</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg" width="88" alt="Mala onda — Alberto Fuguet" /></a><br/>Mala onda</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg" width="88" alt="Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh" /></a><br/>Old Path White Clouds: Walking in the Foo…</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg" width="88" alt="Freedom from the Known — J. Krishnamurti" /></a><br/>Freedom from the Known</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg" width="88" alt="In My Father&#x27;s Den — Maurice Gee" /></a><br/>In My Father&#x27;s Den</td>
-</tr>
-<tr>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg" width="88" alt="The Poetry of Pablo Neruda — Pablo Neruda" /></a><br/>The Poetry of Pablo Neruda</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg" width="88" alt="Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee" /></a><br/>Scenes from Provincial Life: Boyhood, You…</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg" width="88" alt="Cujo — Stephen King" /></a><br/>Cujo</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg" width="88" alt="On Writing — Ernest Hemingway" /></a><br/>On Writing</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg" width="88" alt="Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez" /></a><br/>Más Allá de la Tristeza: Entendiendo y Su…</td>
-</tr>
-<tr>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/2668706571?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266678331l/2258939._SX50_.jpg" width="88" alt="PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky" /></a><br/>PROYECTOS WEB: Espanol, Manual Users, Man…</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/8019176816?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924160l/40541._SX50_.jpg" width="88" alt="PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman" /></a><br/>PHP and MySQL for Dynamic Web Sites: Visu…</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/2668706225?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266959106l/2605122._SX50_.jpg" width="88" alt="Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera" /></a><br/>Ajax Web 2.0: Espanol, Manual Users, Manu…</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/8019174098?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709427131l/8620024._SY75_.jpg" width="88" alt="Ebano — Ryszard Kapuściński" /></a><br/>Ebano</td>
-<td align="center" valign="top" style="padding:8px;"><a href="https://www.goodreads.com/review/show/8019173181?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181634672l/1173584._SY75_.jpg" width="88" alt="MARY LAVELLE — Kate O&#x27;Brien" /></a><br/>MARY LAVELLE</td>
-</tr>
-</table>
+<div align="center">
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg" width="64" height="96" alt="Programming Perl (3rd Edition) — Larry Wall" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>Programming Perl (3rd Edi…</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg" width="64" height="96" alt="Mala onda — Alberto Fuguet" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>Mala onda</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg" width="64" height="96" alt="Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>Old Path White Clouds: Wa…</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg" width="64" height="96" alt="Freedom from the Known — J. Krishnamurti" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>Freedom from the Known</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg" width="64" height="96" alt="In My Father&#x27;s Den — Maurice Gee" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>In My Father&#x27;s Den</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg" width="64" height="96" alt="The Poetry of Pablo Neruda — Pablo Neruda" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>The Poetry of Pablo Neruda</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg" width="64" height="96" alt="Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>Scenes from Provincial Li…</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg" width="64" height="96" alt="Cujo — Stephen King" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>Cujo</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg" width="64" height="96" alt="On Writing — Ernest Hemingway" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>On Writing</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg" width="64" height="96" alt="Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>Más Allá de la Tristeza:…</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/2668706571?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266678331l/2258939._SX50_.jpg" width="64" height="96" alt="PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>PROYECTOS WEB: Espanol, M…</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/8019176816?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924160l/40541._SX50_.jpg" width="64" height="96" alt="PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>PHP and MySQL for Dynamic…</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/2668706225?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266959106l/2605122._SX50_.jpg" width="64" height="96" alt="Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>Ajax Web 2.0: Espanol, Ma…</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/8019174098?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709427131l/8620024._SY75_.jpg" width="64" height="96" alt="Ebano — Ryszard Kapuściński" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>Ebano</sub></span>
+<span style="display:inline-block;vertical-align:top;margin:6px;text-align:center;"><a href="https://www.goodreads.com/review/show/8019173181?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181634672l/1173584._SY75_.jpg" width="64" height="96" alt="MARY LAVELLE — Kate O&#x27;Brien" style="object-fit:cover;border-radius:4px;" /></a><br/><sub>MARY LAVELLE</sub></span>
+</div>
 <!-- GOODREADS:VISUAL_END -->
 
 <!-- GOODREADS:CLI_START -->
-```text
-[Goodreads Telemetry]
+```bash
+# Goodreads Telemetry
+# shelf=read | books=15 | status=ok | mode=network | sync=2026-03-22T10:20:14+00:00 | last_update=2026-03-22T10:20:14+00:00 | source=goodreads_rss
 
-shelf        : read
-books_loaded : 15
-status       : ok
-fetch_mode   : network
-last_sync    : 2026-03-22T09:56:43+00:00
-source       : goodreads_rss
-
-book_01      : Programming Perl (3rd Edition) — Larry Wall | https://www.goodreads.com/review/show/8267390277?utm_medium=api&utm_source=rss
-book_02      : Mala onda — Alberto Fuguet | https://www.goodreads.com/review/show/2656643044?utm_medium=api&utm_source=rss
-book_03      : Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh | https://www.goodreads.com/review/show/2645704229?utm_medium=api&utm_source=rss
-book_04      : Freedom from the Known — J. Krishnamurti | https://www.goodreads.com/review/show/2603964044?utm_medium=api&utm_source=rss
-book_05      : In My Father's Den — Maurice Gee | https://www.goodreads.com/review/show/2668638609?utm_medium=api&utm_source=rss
-book_06      : The Poetry of Pablo Neruda — Pablo Neruda | https://www.goodreads.com/review/show/8019191236?utm_medium=api&utm_source=rss
-book_07      : Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee | https://www.goodreads.com/review/show/8019190402?utm_medium=api&utm_source=rss
-book_08      : Cujo — Stephen King | https://www.goodreads.com/review/show/2656635039?utm_medium=api&utm_source=rss
-book_09      : On Writing — Ernest Hemingway | https://www.goodreads.com/review/show/2668694518?utm_medium=api&utm_source=rss
-book_10      : Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez | https://www.goodreads.com/review/show/8019181335?utm_medium=api&utm_source=rss
-book_11      : PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky | https://www.goodreads.com/review/show/2668706571?utm_medium=api&utm_source=rss
-book_12      : PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman | https://www.goodreads.com/review/show/8019176816?utm_medium=api&utm_source=rss
-book_13      : Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera | https://www.goodreads.com/review/show/2668706225?utm_medium=api&utm_source=rss
-book_14      : Ebano — Ryszard Kapuściński | https://www.goodreads.com/review/show/8019174098?utm_medium=api&utm_source=rss
-book_15      : MARY LAVELLE — Kate O'Brien | https://www.goodreads.com/review/show/8019173181?utm_medium=api&utm_source=rss
+01. Programming Perl (3rd Edition) — Larry Wall  [https://www.goodreads.com/review/show/8267390277?utm_medium=api&utm_source=rss]
+02. Mala onda — Alberto Fuguet  [https://www.goodreads.com/review/show/2656643044?utm_medium=api&utm_source=rss]
+03. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh  [https://www.goodreads.com/review/show/2645704229?utm_medium=api&utm_source=rss]
+04. Freedom from the Known — J. Krishnamurti  [https://www.goodreads.com/review/show/2603964044?utm_medium=api&utm_source=rss]
+05. In My Father's Den — Maurice Gee  [https://www.goodreads.com/review/show/2668638609?utm_medium=api&utm_source=rss]
+06. The Poetry of Pablo Neruda — Pablo Neruda  [https://www.goodreads.com/review/show/8019191236?utm_medium=api&utm_source=rss]
+07. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee  [https://www.goodreads.com/review/show/8019190402?utm_medium=api&utm_source=rss]
+08. Cujo — Stephen King  [https://www.goodreads.com/review/show/2656635039?utm_medium=api&utm_source=rss]
+09. On Writing — Ernest Hemingway  [https://www.goodreads.com/review/show/2668694518?utm_medium=api&utm_source=rss]
+10. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez  [https://www.goodreads.com/review/show/8019181335?utm_medium=api&utm_source=rss]
+11. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky  [https://www.goodreads.com/review/show/2668706571?utm_medium=api&utm_source=rss]
+12. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman  [https://www.goodreads.com/review/show/8019176816?utm_medium=api&utm_source=rss]
+13. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera  [https://www.goodreads.com/review/show/2668706225?utm_medium=api&utm_source=rss]
+14. Ebano — Ryszard Kapuściński  [https://www.goodreads.com/review/show/8019174098?utm_medium=api&utm_source=rss]
+15. MARY LAVELLE — Kate O'Brien  [https://www.goodreads.com/review/show/8019173181?utm_medium=api&utm_source=rss]
 ```
 <!-- GOODREADS:CLI_END -->
 
