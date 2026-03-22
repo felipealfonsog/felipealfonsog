@@ -57,7 +57,8 @@ def build_visual_footer_meta_line(snapshot: dict[str, Any]) -> str:
     if config.SHOW_LAST_SYNC:
         sync = str(meta.get("last_successful_sync", "")).strip()
         if sync:
-            parts.append(f"{config.VISUAL_FOOTER_SYNC_LABEL}: {html_escape(sync)}")
+            sync_label = getattr(config, "VISUAL_FOOTER_SYNC_LABEL", "SYNC")
+            parts.append(f"{sync_label}: {html_escape(sync)}")
 
     if config.SHOW_LAST_UPDATE:
         parts.append(f"LAST UPDATE: {html_escape(build_last_update_utc(snapshot))}")
@@ -156,29 +157,23 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
     if not section.get("enabled", False):
         return ""
 
-    # FIX: salto de línea real tras el subtítulo
+    # Salto simple, no gigante
     header = (
-        f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
         f'</div>'
         f'<br/>'
-        f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
     )
 
     if not books:
-        return (
-            header
-            + f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
-            + f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
-        )
+        return header + f'<sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub><br/>'
 
     covers_html = "".join(render_option1_cover(book) for book in books)
 
     return (
         header
         + covers_html
-        + f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
+        + '<br/>'
     )
 
 
@@ -271,13 +266,7 @@ def render_option2_section(section: dict[str, Any], section_name: str, section_t
     )
 
     if not books:
-        return (
-            f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
-            f'{header}'
-            f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-            f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
-            f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
-        )
+        return header + f'<sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub><br/>'
 
     rows: list[str] = []
     items_per_row = max(1, config.OPTION2_ITEMS_PER_ROW)
@@ -305,13 +294,7 @@ def render_option2_section(section: dict[str, Any], section_name: str, section_t
         f'</table>'
     )
 
-    return (
-        f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
-        f'{header}'
-        f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f'{table_html}'
-        f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
-    )
+    return header + table_html + '<br/>'
 
 
 # ============================================================
@@ -329,12 +312,11 @@ def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
     if config.VISUAL_FOOTER_META_USE_SUB:
         meta_line = f"<sub>{meta_line}</sub>"
 
-    # FIX: salto de línea real tras la línea meta para separar del CLI
+    # Salto simple antes y después del bloque meta
     return (
-        f'<div style="height:{config.VISUAL_FOOTER_TOP_SPACER_PX}px;"></div>'
-        f'{meta_line}'
-        f'<br/>'
-        f'<div style="height:{config.VISUAL_FOOTER_BOTTOM_SPACER_PX}px;"></div>'
+        '<br/>'
+        + meta_line
+        + '<br/>'
     )
 
 
@@ -356,6 +338,8 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
 
     if config.VISUAL_SHOW_DESCRIPTION and config.VISUAL_BLOCK_DESCRIPTION.strip():
         lines.append(f'<sub>{html_escape(config.VISUAL_BLOCK_DESCRIPTION)}</sub>')
+
+    lines.append('<br/>')
 
     current_html = ""
     recent_html = ""
@@ -389,11 +373,9 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
             )
 
     if current_html:
-        lines.append("")
         lines.append(current_html)
 
     if recent_html:
-        lines.append("")
         lines.append(recent_html)
 
     if not current_html and not recent_html:
@@ -401,7 +383,6 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
 
     footer_meta = render_visual_footer_meta(snapshot)
     if footer_meta:
-        lines.append("")
         lines.append(footer_meta)
 
     return "\n".join(lines)
