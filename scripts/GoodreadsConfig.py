@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/11.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/12.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -51,11 +51,10 @@ RECENT_READ_LIMIT = 10
 # RENDER MODES
 # ============================================================
 # VISUAL_MODE:
-#   "covers_and_list"  -> opción 1 (recomendada)
-#   "card_table"       -> opción 2 (la anterior, compacta con tabla)
+#   "covers_and_list"  -> opción 1 recomendada
+#   "card_table"       -> opción 2 guardada
 VISUAL_MODE = "covers_and_list"
 
-# CLI queda aparte y puede coexistir con el visual.
 SHOW_VISUAL_BLOCK = True
 SHOW_CLI_BLOCK = True
 
@@ -80,10 +79,6 @@ SHOW_AUTHOR = True
 SHOW_LINK = True
 SHOW_COVER = True
 
-# Summary / description best effort
-SHOW_BOOK_SUMMARY = True
-BOOK_SUMMARY_MAX_LENGTH = 140
-
 
 # ============================================================
 # VISUAL BLOCK
@@ -104,23 +99,38 @@ VISUAL_SHOW_DESCRIPTION = True
 VISUAL_TITLE_IS_LINK = True
 VISUAL_AUTHOR_IS_LINK = False
 
-VISUAL_TITLE_MAX_LENGTH = 18
-VISUAL_AUTHOR_MAX_LENGTH = 16
+# Más largo para que se vea mejor
+VISUAL_TITLE_MAX_LENGTH = 28
+VISUAL_AUTHOR_MAX_LENGTH = 22
 
+# Covers
 VISUAL_COVER_WIDTH = 42
 VISUAL_COVER_HEIGHT = 64
 VISUAL_ITEMS_PER_ROW = 6
 
+# Compact spacing
 VISUAL_SECTION_HEADER_ALIGN = "left"
-VISUAL_SECTION_SPACER_PX = 6
-VISUAL_SECTION_BOTTOM_SPACER_PX = 12
+VISUAL_SECTION_SPACER_PX = 4
+VISUAL_SECTION_BOTTOM_SPACER_PX = 8
 
-# Opción 1: covers horizontales + listado debajo
-VISUAL_COVERS_GAP_SPACES = "  "
+# Fila de covers
+VISUAL_COVERS_GAP_SPACES = " "
+VISUAL_COVERS_ROW_BREAK = "<br/>"
+
+# Listado compacto debajo
 VISUAL_LIST_USE_SUB = True
 VISUAL_LIST_SHOW_INDEX = False
+VISUAL_LIST_PREFIX = "-"
+VISUAL_LIST_SHOW_READ_MORE = True
+VISUAL_READ_MORE_LABEL = "[read more]"
 
-# Opción 2: card table compacta
+# Summary / description
+# Goodreads RSS no entrega una sinopsis limpia útil, así que por defecto va apagado.
+# Solo aplica a VISUAL_MODE = "covers_and_list"
+SHOW_BOOK_SUMMARY = False
+BOOK_SUMMARY_MAX_LENGTH = 140
+
+# Opción 2: card table compacta guardada
 VISUAL_TABLE_CELL_PADDING_PX = 4
 VISUAL_TABLE_CELL_WIDTH_PX = 76
 VISUAL_CAPTION_TOP_MARGIN_PX = 3
