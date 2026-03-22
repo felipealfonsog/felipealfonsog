@@ -130,6 +130,7 @@ def render_option1_cover(book: dict[str, Any]) -> str:
             f'height="{config.OPTION1_COVER_HEIGHT}" '
             f'alt="{html_escape(alt)}" '
             f'style="{style}" />'
+            f'<br/>'
         )
     else:
         image_html = (
@@ -172,7 +173,6 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
     return (
         header
         + covers_html
-        + '<br/>'
     )
 
 
