@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-03-22T10:47:28+00:00",
-    "last_successful_sync": "2026-03-22T10:47:28+00:00",
+    "last_attempted_sync": "2026-03-22T10:55:25+00:00",
+    "last_successful_sync": "2026-03-22T10:55:25+00:00",
     "error_message": ""
   },
   "sections": {
@@ -13,6 +13,7 @@
       "title": "Currently Reading",
       "shelf": "currently-reading",
       "source_url": "https://www.goodreads.com/review/list_rss/10606567?shelf=currently-reading",
+      "limit": 8,
       "item_count": 8,
       "books": [
         {
@@ -86,6 +87,7 @@
       "title": "Recently Read",
       "shelf": "read",
       "source_url": "https://www.goodreads.com/review/list_rss/10606567?shelf=read",
+      "limit": 10,
       "item_count": 10,
       "books": [
         {
