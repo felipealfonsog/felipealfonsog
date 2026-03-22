@@ -40,30 +40,36 @@ def http_get(url: str) -> str:
 def extract_cover_from_description(description: str) -> str:
     if not description:
         return ""
+
     patterns = [
         r'<img[^>]+src="([^"]+)"',
         r"<img[^>]+src='([^']+)'",
     ]
+
     for pattern in patterns:
         match = re.search(pattern, description, re.IGNORECASE)
         if match:
             return match.group(1).strip()
+
     return ""
 
 
 def extract_author_from_description(description: str) -> str:
     if not description:
         return ""
+
     patterns = [
         r"by\s+([^<\n\r]+)",
         r"author:\s*([^<\n\r]+)",
     ]
+
     for pattern in patterns:
         match = re.search(pattern, description, re.IGNORECASE)
         if match:
             author = sanitize_text(match.group(1))
             if author:
                 return author
+
     return ""
 
 
@@ -274,19 +280,19 @@ def main() -> int:
             print("Goodreads sync fallback: all enabled sections invalid or empty.")
             return 0
 
-        last_successful_sync = utc_now_iso()
+        previous_success = ""
         if previous_cache:
-            prev_success = previous_cache.get("meta", {}).get("last_successful_sync", "")
-        else:
-            prev_success = ""
+            previous_success = str(previous_cache.get("meta", {}).get("last_successful_sync", "")).strip()
+
+        current_now = utc_now_iso()
 
         snapshot = {
             "meta": {
                 "source": config.SOURCE_LABEL,
                 "status": "ok",
                 "fetch_mode": "network",
-                "last_attempted_sync": utc_now_iso(),
-                "last_successful_sync": last_successful_sync or prev_success,
+                "last_attempted_sync": current_now,
+                "last_successful_sync": current_now or previous_success,
                 "error_message": "",
             },
             "sections": sections,
