@@ -15,40 +15,41 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/2.2; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/3.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
 # GOODREADS SOURCE
 # ============================================================
-# Tu ID numérico real de Goodreads.
 GOODREADS_USER_ID = "10606567"
-
-# Plantilla RSS del shelf.
 GOODREADS_RSS_URL_TEMPLATE = (
     "https://www.goodreads.com/review/list_rss/{user_id}?shelf={shelf}"
 )
 
 
 # ============================================================
-# SECTIONS / SHELVES
+# SECTION TOGGLES
 # ============================================================
-# Puedes activar o desactivar cada sección por separado.
-
-# True -> mostrar sección "Currently Reading"
 SHOW_CURRENTLY_READING_SECTION = True
-
-# True -> mostrar sección "Recently Read"
 SHOW_RECENT_READ_SECTION = True
 
-# Shelf usado para "Currently Reading"
 CURRENTLY_READING_SHELF = "currently-reading"
-
-# Shelf usado para "Recently Read"
 RECENT_READ_SHELF = "read"
 
-# Cantidad máxima de libros por sección.
-# Si Goodreads devuelve menos, se mostrarán menos.
+
+# ============================================================
+# SECTION LIMITS
+# ============================================================
+# GLOBAL_SECTION_LIMIT:
+#   Límite común para ambas secciones si quieres una sola cifra.
+GLOBAL_SECTION_LIMIT = 10
+
+# USE_GLOBAL_SECTION_LIMIT:
+#   True  -> ambas secciones usan GLOBAL_SECTION_LIMIT
+#   False -> usa los overrides de abajo
+USE_GLOBAL_SECTION_LIMIT = False
+
+# Overrides por sección.
 CURRENTLY_READING_LIMIT = 8
 RECENT_READ_LIMIT = 10
 
@@ -85,19 +86,11 @@ SHOW_AUTHOR = True
 SHOW_LINK = True
 SHOW_COVER = True
 
-# Link textual pequeño en el visual.
-SHOW_VISUAL_TEXT_LINK = True
-
-# Texto moderno para el link visual.
-VISUAL_TEXT_LINK_LABEL = "check the link"
-
 
 # ============================================================
-# VISUAL STYLE
+# VISUAL BLOCK TOGGLES
 # ============================================================
 VISUAL_BLOCK_TITLE = "Goodreads Reading Intelligence"
-
-# Texto descriptivo pequeño debajo del título principal.
 VISUAL_BLOCK_DESCRIPTION = (
     "A compact reading snapshot showing what I am currently reading and "
     "the latest books I have recently finished on Goodreads."
@@ -106,72 +99,80 @@ VISUAL_BLOCK_DESCRIPTION = (
 VISUAL_CURRENTLY_READING_TITLE = "Currently Reading"
 VISUAL_RECENT_READ_TITLE = "Recently Read"
 
-# Alineación general base del bloque
-VISUAL_ALIGN = "left"
+VISUAL_TITLE_USE_SMALL = True
+VISUAL_META_AS_SUBTEXT = True
+VISUAL_SHOW_DESCRIPTION = True
 
-# Tamaño de portadas
-VISUAL_COVER_WIDTH = 46
-VISUAL_COVER_HEIGHT = 70
+# Link visual pequeño bajo cada item.
+SHOW_VISUAL_TEXT_LINK = True
+VISUAL_TEXT_LINK_LABEL = "check the link"
 
-# Margen entre items
-VISUAL_ITEM_MARGIN_PX = 6
-
-# Caption bajo la portada
+# Título/autor debajo de la portada.
 VISUAL_SHOW_CAPTION = True
 VISUAL_CAPTION_SHOW_TITLE = True
 VISUAL_CAPTION_SHOW_AUTHOR = True
 VISUAL_CAPTION_MAX_TITLE_LENGTH = 18
 VISUAL_CAPTION_MAX_AUTHOR_LENGTH = 16
 
-# Título principal pequeño
-VISUAL_TITLE_USE_SMALL = True
+# Tamaño de portada.
+VISUAL_COVER_WIDTH = 46
+VISUAL_COVER_HEIGHT = 70
 
-# Mostrar línea meta pequeña debajo del título principal
-VISUAL_META_AS_SUBTEXT = True
+# Espaciado entre libros.
+VISUAL_ITEM_PADDING_PX = 6
 
-# Bordes y forma
+# Cantidad de libros por fila.
+VISUAL_ITEMS_PER_ROW = 6
+
+# Bordes / forma de imagen.
 VISUAL_IMAGE_BORDER_RADIUS_PX = 4
 VISUAL_ENABLE_IMAGE_BORDER = False
 VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
-# Placeholder si falta portada
+# Placeholder si falta portada.
 VISUAL_FALLBACK_BG = "#1f1f1f"
 VISUAL_FALLBACK_TEXT_COLOR = "#f4f4f4"
+
+# Alineación del header de cada sección.
+VISUAL_SECTION_HEADER_ALIGN = "left"
+
+# Alineación de la grilla.
+VISUAL_SECTION_GRID_ALIGN = "left"
+
+# Espacio vertical entre header y grilla.
+VISUAL_SECTION_SPACER_PX = 6
+
+# Espacio vertical entre secciones.
+VISUAL_SECTION_BOTTOM_SPACER_PX = 14
 
 
 # ============================================================
 # CLI STYLE
 # ============================================================
 CLI_BLOCK_TITLE = "Goodreads Telemetry"
-
-# Lenguaje del code fence
-CLI_CODE_FENCE_LANGUAGE = "text"
-
-# Mostrar links inline en CLI
-# Recomendado False para que se vea limpio.
-CLI_SHOW_LINKS_INLINE = False
-
-# Dígitos del índice
-CLI_BOOK_INDEX_PAD = 2
-
-# Metadata compacta arriba
-CLI_COMPACT_META = True
-
-# Línea en blanco entre metadata y contenido
-CLI_DIVIDER = True
-
-# Etiqueta last update
-CLI_LABEL_LAST_UPDATE = "last_update"
-
-# Texto descriptivo pequeño para CLI
 CLI_DESCRIPTION = (
     "Structured shelf telemetry derived from Goodreads RSS with validated caching continuity."
 )
 
-# Límites opcionales del CLI
-# 0 = no truncar
+CLI_CODE_FENCE_LANGUAGE = "text"
+CLI_SHOW_LINKS_INLINE = False
+CLI_BOOK_INDEX_PAD = 2
+CLI_COMPACT_META = True
+CLI_DIVIDER = True
+CLI_LABEL_LAST_UPDATE = "last_update"
+
+# Límites opcionales del CLI (0 = sin truncar)
 CLI_MAX_TITLE_LENGTH = 0
 CLI_MAX_AUTHOR_LENGTH = 0
+
+# Mostrar headers de sección dentro del CLI.
+CLI_SHOW_SECTION_HEADERS = True
+
+# Mostrar el shelf name dentro del header de sección del CLI.
+CLI_SHOW_SECTION_SHELF = True
+
+# Mostrar el recuento de libros dentro del header de sección del CLI.
+CLI_SHOW_SECTION_BOOK_COUNT = True
 
 
 # ============================================================
