@@ -89,22 +89,17 @@ def extract_author_from_description(description: str) -> str:
 
 def extract_summary_from_description(description: str) -> str:
     """
-    Best effort.
-    Goodreads RSS description no siempre trae una sinopsis limpia.
-    Aquí intentamos sacar algo usable y si queda basura, se filtra/recorta.
+    Best effort extraction only. In the current covers_only mode this is unused,
+    but we keep it for future modes.
     """
     if not description:
         return ""
 
-    # Quitar imágenes
     text = re.sub(r"<img[^>]*>", " ", description, flags=re.IGNORECASE)
-    # Convertir algunos separadores HTML en espacios
     text = re.sub(r"</?(br|p|div|span|a|b|strong|em|i)[^>]*>", " ", text, flags=re.IGNORECASE)
-    # Limpiar el resto
     text = strip_html_tags(text)
     text = sanitize_text(text)
 
-    # Quitar frases típicas muy ruidosas
     noise_patterns = [
         r"^rated.*?$",
         r"^is currently reading.*?$",
@@ -117,7 +112,6 @@ def extract_summary_from_description(description: str) -> str:
 
     text = sanitize_text(text)
 
-    # Si queda demasiado corto o ruido puro, lo vaciamos
     if len(text) < 20:
         return ""
 
