@@ -1,0 +1,50 @@
+name: Goodreads Widget
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+concurrency:
+  group: goodreads-widget
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-goodreads-widget:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ensure data directory exists
+        run: mkdir -p data
+
+      - name: Run Goodreads sync
+        run: python scripts/GoodreadsSync.py
+
+      - name: Run Goodreads render
+        run: python scripts/GoodreadsRender.py
+
+      - name: Commit and push if changed
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add README.md data/GoodreadsCache.json data/GoodreadsLastRender.json
+          git commit -m "Update Goodreads widget"
+          git push
