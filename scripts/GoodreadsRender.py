@@ -16,7 +16,7 @@ from GoodreadsUtils import (
 
 
 # ============================================================
-# CORE HELPERS
+# HELPERS
 # ============================================================
 
 def resolve_section_limit_from_snapshot(section: dict[str, Any], fallback_name: str) -> int:
@@ -57,7 +57,7 @@ def build_visual_footer_meta_line(snapshot: dict[str, Any]) -> str:
     if config.SHOW_LAST_SYNC:
         sync = str(meta.get("last_successful_sync", "")).strip()
         if sync:
-            parts.append(f"SYNC: {html_escape(sync)}")
+            parts.append(f"{config.VISUAL_FOOTER_SYNC_LABEL}: {html_escape(sync)}")
 
     if config.SHOW_LAST_UPDATE:
         parts.append(f"LAST UPDATE: {html_escape(build_last_update_utc(snapshot))}")
@@ -156,11 +156,13 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
     if not section.get("enabled", False):
         return ""
 
+    # FIX: salto de línea real tras el subtítulo
     header = (
         f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
         f'</div>'
+        f'<br/>'
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
     )
 
@@ -171,7 +173,6 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
             + f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    # Sin filas manuales. Una sola línea continua de covers.
     covers_html = "".join(render_option1_cover(book) for book in books)
 
     return (
@@ -266,6 +267,7 @@ def render_option2_section(section: dict[str, Any], section_name: str, section_t
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
         f'</div>'
+        f'<br/>'
     )
 
     if not books:
@@ -327,9 +329,11 @@ def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
     if config.VISUAL_FOOTER_META_USE_SUB:
         meta_line = f"<sub>{meta_line}</sub>"
 
+    # FIX: salto de línea real tras la línea meta para separar del CLI
     return (
         f'<div style="height:{config.VISUAL_FOOTER_TOP_SPACER_PX}px;"></div>'
         f'{meta_line}'
+        f'<br/>'
         f'<div style="height:{config.VISUAL_FOOTER_BOTTOM_SPACER_PX}px;"></div>'
     )
 
