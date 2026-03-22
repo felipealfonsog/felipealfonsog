@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/2.1; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/2.2; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -48,8 +48,7 @@ CURRENTLY_READING_SHELF = "currently-reading"
 RECENT_READ_SHELF = "read"
 
 # Cantidad máxima de libros por sección.
-# OJO:
-# si Goodreads devuelve menos, se mostrarán menos.
+# Si Goodreads devuelve menos, se mostrarán menos.
 CURRENTLY_READING_LIMIT = 8
 RECENT_READ_LIMIT = 10
 
@@ -89,12 +88,7 @@ SHOW_COVER = True
 # Link textual pequeño en el visual.
 SHOW_VISUAL_TEXT_LINK = True
 
-# Texto bonito y moderno para el link visual.
-# Puedes cambiarlo por:
-#   "check the link"
-#   "view details"
-#   "open on Goodreads"
-#   "explore"
+# Texto moderno para el link visual.
 VISUAL_TEXT_LINK_LABEL = "check the link"
 
 
@@ -103,8 +97,7 @@ VISUAL_TEXT_LINK_LABEL = "check the link"
 # ============================================================
 VISUAL_BLOCK_TITLE = "Goodreads Reading Intelligence"
 
-# Texto pequeño descriptivo debajo del título principal.
-# Puedes poner algo más corto o más técnico si quieres.
+# Texto descriptivo pequeño debajo del título principal.
 VISUAL_BLOCK_DESCRIPTION = (
     "A compact reading snapshot showing what I am currently reading and "
     "the latest books I have recently finished on Goodreads."
@@ -113,21 +106,15 @@ VISUAL_BLOCK_DESCRIPTION = (
 VISUAL_CURRENTLY_READING_TITLE = "Currently Reading"
 VISUAL_RECENT_READ_TITLE = "Recently Read"
 
-# Alineación general
-# Valores recomendados:
-#   "center"
-#   "left"
-VISUAL_ALIGN = "center"
+# Alineación general base del bloque
+VISUAL_ALIGN = "left"
 
 # Tamaño de portadas
-# Recomendado para README:
-#   width 44-58
-#   height 66-88
-VISUAL_COVER_WIDTH = 48
-VISUAL_COVER_HEIGHT = 72
+VISUAL_COVER_WIDTH = 46
+VISUAL_COVER_HEIGHT = 70
 
 # Margen entre items
-VISUAL_ITEM_MARGIN_PX = 5
+VISUAL_ITEM_MARGIN_PX = 6
 
 # Caption bajo la portada
 VISUAL_SHOW_CAPTION = True
@@ -158,9 +145,6 @@ VISUAL_FALLBACK_TEXT_COLOR = "#f4f4f4"
 CLI_BLOCK_TITLE = "Goodreads Telemetry"
 
 # Lenguaje del code fence
-# Recomendado:
-#   "text"
-#   "bash"
 CLI_CODE_FENCE_LANGUAGE = "text"
 
 # Mostrar links inline en CLI
@@ -179,7 +163,7 @@ CLI_DIVIDER = True
 # Etiqueta last update
 CLI_LABEL_LAST_UPDATE = "last_update"
 
-# Texto pequeño descriptivo para CLI
+# Texto descriptivo pequeño para CLI
 CLI_DESCRIPTION = (
     "Structured shelf telemetry derived from Goodreads RSS with validated caching continuity."
 )
