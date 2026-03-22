@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/12.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/12.1; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -93,14 +93,15 @@ VISUAL_CURRENTLY_READING_TITLE = "Currently Reading"
 VISUAL_RECENT_READ_TITLE = "Recently Read"
 
 VISUAL_TITLE_USE_SMALL = True
-VISUAL_META_AS_SUBTEXT = True
+VISUAL_META_AS_SUBTEXT = False
 VISUAL_SHOW_DESCRIPTION = True
 
+# Título con link, autor sin link
 VISUAL_TITLE_IS_LINK = True
 VISUAL_AUTHOR_IS_LINK = False
 
-# Más largo para que se vea mejor
-VISUAL_TITLE_MAX_LENGTH = 28
+# 0 = no truncar
+VISUAL_TITLE_MAX_LENGTH = 0
 VISUAL_AUTHOR_MAX_LENGTH = 22
 
 # Covers
@@ -110,8 +111,9 @@ VISUAL_ITEMS_PER_ROW = 6
 
 # Compact spacing
 VISUAL_SECTION_HEADER_ALIGN = "left"
-VISUAL_SECTION_SPACER_PX = 4
-VISUAL_SECTION_BOTTOM_SPACER_PX = 8
+VISUAL_SECTION_TOP_SPACER_PX = 8
+VISUAL_SECTION_SPACER_PX = 8
+VISUAL_SECTION_BOTTOM_SPACER_PX = 14
 
 # Fila de covers
 VISUAL_COVERS_GAP_SPACES = " "
@@ -121,8 +123,9 @@ VISUAL_COVERS_ROW_BREAK = "<br/>"
 VISUAL_LIST_USE_SUB = True
 VISUAL_LIST_SHOW_INDEX = False
 VISUAL_LIST_PREFIX = "-"
-VISUAL_LIST_SHOW_READ_MORE = True
+VISUAL_LIST_SHOW_READ_MORE = False
 VISUAL_READ_MORE_LABEL = "[read more]"
+VISUAL_LIST_LINE_BREAK = "<br/>"
 
 # Summary / description
 # Goodreads RSS no entrega una sinopsis limpia útil, así que por defecto va apagado.
@@ -144,6 +147,13 @@ VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
 VISUAL_FALLBACK_BG = "#ffffff"
 VISUAL_FALLBACK_TEXT_COLOR = "#666666"
+
+# Línea meta entre visual y CLI
+SHOW_VISUAL_FOOTER_META = True
+VISUAL_FOOTER_META_PREFIX = ""
+VISUAL_FOOTER_META_USE_SUB = True
+VISUAL_FOOTER_TOP_SPACER_PX = 8
+VISUAL_FOOTER_BOTTOM_SPACER_PX = 10
 
 
 # ============================================================
