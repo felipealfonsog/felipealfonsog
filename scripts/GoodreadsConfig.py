@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/6.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/7.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -89,53 +89,45 @@ VISUAL_TITLE_USE_SMALL = True
 VISUAL_META_AS_SUBTEXT = True
 VISUAL_SHOW_DESCRIPTION = True
 
-# No más texto tipo "check the link"
-SHOW_VISUAL_TEXT_LINK = False
-VISUAL_TEXT_LINK_LABEL = "check the link"
-
-# Caption
-VISUAL_SHOW_CAPTION = True
-VISUAL_CAPTION_SHOW_TITLE = True
-VISUAL_CAPTION_SHOW_AUTHOR = True
-
 # Título link, autor no
-VISUAL_CAPTION_TITLE_IS_LINK = True
-VISUAL_CAPTION_AUTHOR_IS_LINK = False
+VISUAL_TITLE_IS_LINK = True
 
-VISUAL_CAPTION_MAX_TITLE_LENGTH = 18
-VISUAL_CAPTION_MAX_AUTHOR_LENGTH = 16
+# Longitudes
+VISUAL_TITLE_MAX_LENGTH = 18
+VISUAL_AUTHOR_MAX_LENGTH = 16
 
-# Tamaños
+# Tamaño de portada
 VISUAL_COVER_WIDTH = 42
 VISUAL_COVER_HEIGHT = 64
 
-# Card width y spacing
-VISUAL_CARD_WIDTH_PX = 78
-VISUAL_CARD_MARGIN_RIGHT_PX = 8
-VISUAL_CARD_MARGIN_BOTTOM_PX = 10
-VISUAL_CAPTION_TOP_MARGIN_PX = 3
-VISUAL_AUTHOR_TOP_MARGIN_PX = 1
-
-# Cantidad por fila
+# Cantidad de imágenes por fila
 VISUAL_ITEMS_PER_ROW = 6
 
-# Layout basado en SPAN inline-block
-VISUAL_CARD_USE_SPAN = True
-VISUAL_CARD_TEXT_ALIGN = "center"
+# Espaciado horizontal entre portadas
+VISUAL_IMAGE_GAP_SPACES = "  "
 
-# Bordes / forma
-VISUAL_IMAGE_BORDER_RADIUS_PX = 4
-VISUAL_ENABLE_IMAGE_BORDER = False
-VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
+# Espaciado vertical
+VISUAL_SECTION_SPACER_PX = 6
+VISUAL_SECTION_BOTTOM_SPACER_PX = 12
+
+# Encabezados
+VISUAL_SECTION_HEADER_ALIGN = "left"
+
+# Mostrar lista descriptiva debajo de las filas de portadas
+VISUAL_SHOW_DETAILS_LIST = True
+
+# Si True, la lista descriptiva usa índice 01, 02, etc.
+VISUAL_SHOW_DETAILS_INDEX = True
+
+# Texto pequeño en lista descriptiva
+VISUAL_DETAILS_USE_SUB = True
 
 # Placeholder
 VISUAL_FALLBACK_BG = "#1f1f1f"
 VISUAL_FALLBACK_TEXT_COLOR = "#f4f4f4"
-
-# Headers y separación
-VISUAL_SECTION_HEADER_ALIGN = "left"
-VISUAL_SECTION_SPACER_PX = 6
-VISUAL_SECTION_BOTTOM_SPACER_PX = 12
+VISUAL_IMAGE_BORDER_RADIUS_PX = 4
+VISUAL_ENABLE_IMAGE_BORDER = False
+VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
 
 # ============================================================
