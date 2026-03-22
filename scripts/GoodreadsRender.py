@@ -34,6 +34,7 @@ def resolve_section_limit_from_snapshot(section: dict[str, Any], fallback_name: 
 
 def build_last_update_utc(snapshot: dict[str, Any]) -> str:
     meta = snapshot.get("meta", {})
+
     attempted = str(meta.get("last_attempted_sync", "")).strip()
     if attempted:
         return attempted
@@ -47,7 +48,7 @@ def build_last_update_utc(snapshot: dict[str, Any]) -> str:
 
 def build_visual_footer_meta_line(snapshot: dict[str, Any]) -> str:
     meta = snapshot.get("meta", {})
-    parts = []
+    parts: list[str] = []
 
     if config.SHOW_LAST_SYNC:
         sync = str(meta.get("last_successful_sync", "")).strip()
@@ -63,99 +64,87 @@ def build_visual_footer_meta_line(snapshot: dict[str, Any]) -> str:
     return " • ".join(parts)
 
 
-def render_cover_html(book: dict[str, Any]) -> str:
+def build_cli_meta_line(snapshot: dict[str, Any]) -> str:
+    meta = snapshot.get("meta", {})
+    parts: list[str] = []
+
+    if config.SHOW_STATUS:
+        parts.append(f"status={meta.get('status', '')}")
+
+    if config.SHOW_FETCH_MODE:
+        parts.append(f"mode={meta.get('fetch_mode', '')}")
+
+    if config.SHOW_LAST_SYNC:
+        parts.append(f"sync={meta.get('last_successful_sync', '')}")
+
+    if config.SHOW_LAST_UPDATE:
+        parts.append(f"{config.CLI_LABEL_LAST_UPDATE}={build_last_update_utc(snapshot)}")
+
+    if config.SHOW_SOURCE:
+        parts.append(f"source={meta.get('source', '')}")
+
+    return " | ".join(parts)
+
+
+# ============================================================
+# OPTION 1: COVERS ONLY
+# ============================================================
+def render_option1_cover(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "")
     author = str(book.get("author", "") or "")
     link = str(book.get("link", "") or "")
     cover = str(book.get("cover", "") or "")
 
     alt_parts = []
-    if config.SHOW_TITLE and title:
+    if title:
         alt_parts.append(title)
-    if config.SHOW_AUTHOR and author:
+    if author:
         alt_parts.append(author)
     alt = " — ".join(alt_parts) if alt_parts else "Book cover"
 
     border_style = ""
-    if config.VISUAL_ENABLE_IMAGE_BORDER:
-        border_style = f"border:1px solid {config.VISUAL_IMAGE_BORDER_COLOR};"
+    if config.OPTION1_ENABLE_IMAGE_BORDER:
+        border_style = f"border:1px solid {config.OPTION1_IMAGE_BORDER_COLOR};"
 
-    common_style = (
+    style = (
         f"display:inline-block;"
-        f"width:{config.VISUAL_COVER_WIDTH}px;"
-        f"height:{config.VISUAL_COVER_HEIGHT}px;"
-        f"object-fit:{config.VISUAL_COVER_OBJECT_FIT};"
-        f"border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;"
+        f"width:{config.OPTION1_COVER_WIDTH}px;"
+        f"height:{config.OPTION1_COVER_HEIGHT}px;"
+        f"object-fit:{config.OPTION1_COVER_OBJECT_FIT};"
+        f"border-radius:{config.OPTION1_IMAGE_BORDER_RADIUS_PX}px;"
         f"{border_style}"
     )
 
-    if config.SHOW_COVER and cover:
+    if config.OPTION1_SHOW_COVERS and cover:
         image_html = (
             f'<img src="{html_escape(cover)}" '
-            f'width="{config.VISUAL_COVER_WIDTH}" '
-            f'height="{config.VISUAL_COVER_HEIGHT}" '
+            f'width="{config.OPTION1_COVER_WIDTH}" '
+            f'height="{config.OPTION1_COVER_HEIGHT}" '
             f'alt="{html_escape(alt)}" '
-            f'style="{common_style}" />'
+            f'style="{style}" />'
         )
     else:
         image_html = (
             f'<div style="display:inline-flex;align-items:center;justify-content:center;'
-            f'width:{config.VISUAL_COVER_WIDTH}px;'
-            f'height:{config.VISUAL_COVER_HEIGHT}px;'
-            f'background:{config.VISUAL_FALLBACK_BG};'
-            f'color:{config.VISUAL_FALLBACK_TEXT_COLOR};'
-            f'border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;'
+            f'width:{config.OPTION1_COVER_WIDTH}px;'
+            f'height:{config.OPTION1_COVER_HEIGHT}px;'
+            f'background:{config.OPTION1_FALLBACK_BG};'
+            f'color:{config.OPTION1_FALLBACK_TEXT_COLOR};'
+            f'border-radius:{config.OPTION1_IMAGE_BORDER_RADIUS_PX}px;'
             f'font-size:9px;text-align:center;padding:4px;{border_style}">'
-            f'{html_escape(truncate(title or "Untitled", 14))}</div>'
+            f'No cover'
+            f'</div>'
         )
 
-    if config.SHOW_LINK and link:
+    if link:
         return f'<a href="{html_escape(link)}">{image_html}</a>'
 
     return image_html
 
 
-def render_title_plain(book: dict[str, Any]) -> str:
-    title = str(book.get("title", "") or "Untitled")
-    return html_escape(title if config.VISUAL_TITLE_MAX_LENGTH == 0 else truncate(title, config.VISUAL_TITLE_MAX_LENGTH))
-
-
-def render_author_plain(book: dict[str, Any]) -> str:
-    author = str(book.get("author", "") or "")
-    return html_escape(author if config.VISUAL_AUTHOR_MAX_LENGTH == 0 else truncate(author, config.VISUAL_AUTHOR_MAX_LENGTH))
-
-
-def render_summary_html(book: dict[str, Any]) -> str:
-    summary = str(book.get("summary", "") or "").strip()
-    if not config.SHOW_BOOK_SUMMARY or not summary:
-        return ""
-
-    safe_summary = html_escape(truncate(summary, config.BOOK_SUMMARY_MAX_LENGTH))
-    return f"<sub>{safe_summary}</sub>" if config.VISUAL_LIST_USE_SUB else safe_summary
-
-
-def render_visual_list_item(book: dict[str, Any]) -> str:
-    title_text = render_title_plain(book) if config.SHOW_TITLE else ""
-    author_text = render_author_plain(book) if config.SHOW_AUTHOR else ""
-    summary_html = render_summary_html(book)
-
-    prefix = f"{config.VISUAL_LIST_PREFIX} "
-    line = prefix + title_text
-
-    if author_text:
-        line += f" — {author_text}"
-
-    if config.VISUAL_LIST_USE_SUB:
-        line = f"<sub>{line}</sub>"
-
-    if summary_html:
-        return f"{line}{config.VISUAL_LIST_LINE_BREAK}{summary_html}"
-
-    return line
-
-
-def render_visual_section_covers_and_list(section: dict[str, Any], section_name: str, section_title: str) -> str:
+def render_option1_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
     books = section.get("books", [])
+
     if not section.get("enabled", False):
         return ""
 
@@ -168,58 +157,110 @@ def render_visual_section_covers_and_list(section: dict[str, Any], section_name:
     if not books:
         return (
             f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
-            f"{header}"
+            f'{header}'
             f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
             f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
             f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    cover_rows = []
-    items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
+    cover_rows: list[str] = []
+    items_per_row = max(1, config.OPTION1_ITEMS_PER_ROW)
 
     for start in range(0, len(books), items_per_row):
-        chunk = books[start : start + items_per_row]
-        row = config.VISUAL_COVERS_GAP_SPACES.join(
-            render_cover_html(book) for book in chunk
+        chunk = books[start:start + items_per_row]
+        row_html = config.OPTION1_COVERS_GAP_SPACES.join(
+            render_option1_cover(book) for book in chunk
         )
-        cover_rows.append(row)
+        cover_rows.append(row_html)
 
-    covers_html = config.VISUAL_COVERS_ROW_BREAK.join(cover_rows)
-
-    list_lines = [render_visual_list_item(book) for book in books]
-    list_html = config.VISUAL_LIST_LINE_BREAK.join(list_lines)
+    covers_html = config.OPTION1_COVERS_ROW_BREAK.join(cover_rows)
 
     return (
         f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
-        f"{header}"
+        f'{header}'
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f"{covers_html}"
-        f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f"{list_html}"
+        f'{covers_html}'
         f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
     )
 
 
-def render_visual_card_table_cell(book: dict[str, Any]) -> str:
-    cover_html = render_cover_html(book)
-    title_text = render_title_plain(book) if config.SHOW_TITLE else ""
-    author_text = render_author_plain(book) if config.SHOW_AUTHOR else ""
+# ============================================================
+# OPTION 2: CARD TABLE (OLD STYLE, OFF BY DEFAULT)
+# ============================================================
+def render_option2_cover(book: dict[str, Any]) -> str:
+    title = str(book.get("title", "") or "")
+    author = str(book.get("author", "") or "")
+    link = str(book.get("link", "") or "")
+    cover = str(book.get("cover", "") or "")
+
+    alt_parts = []
+    if title:
+        alt_parts.append(title)
+    if author:
+        alt_parts.append(author)
+    alt = " — ".join(alt_parts) if alt_parts else "Book cover"
+
+    border_style = ""
+    if config.OPTION2_ENABLE_IMAGE_BORDER:
+        border_style = f"border:1px solid {config.OPTION2_IMAGE_BORDER_COLOR};"
+
+    style = (
+        f"display:inline-block;"
+        f"width:{config.OPTION2_COVER_WIDTH}px;"
+        f"height:{config.OPTION2_COVER_HEIGHT}px;"
+        f"object-fit:{config.OPTION2_COVER_OBJECT_FIT};"
+        f"border-radius:{config.OPTION2_IMAGE_BORDER_RADIUS_PX}px;"
+        f"{border_style}"
+    )
+
+    if config.OPTION2_SHOW_COVER and cover:
+        image_html = (
+            f'<img src="{html_escape(cover)}" '
+            f'width="{config.OPTION2_COVER_WIDTH}" '
+            f'height="{config.OPTION2_COVER_HEIGHT}" '
+            f'alt="{html_escape(alt)}" '
+            f'style="{style}" />'
+        )
+    else:
+        image_html = (
+            f'<div style="display:inline-flex;align-items:center;justify-content:center;'
+            f'width:{config.OPTION2_COVER_WIDTH}px;'
+            f'height:{config.OPTION2_COVER_HEIGHT}px;'
+            f'background:{config.OPTION2_FALLBACK_BG};'
+            f'color:{config.OPTION2_FALLBACK_TEXT_COLOR};'
+            f'border-radius:{config.OPTION2_IMAGE_BORDER_RADIUS_PX}px;'
+            f'font-size:9px;text-align:center;padding:4px;{border_style}">'
+            f'No cover'
+            f'</div>'
+        )
+
+    if config.OPTION2_SHOW_LINK and link:
+        return f'<a href="{html_escape(link)}">{image_html}</a>'
+
+    return image_html
+
+
+def render_option2_cell(book: dict[str, Any]) -> str:
+    cover_html = render_option2_cover(book)
+    title = truncate(str(book.get("title", "") or ""), config.OPTION2_TITLE_MAX_LENGTH)
+    author = truncate(str(book.get("author", "") or ""), config.OPTION2_AUTHOR_MAX_LENGTH)
 
     return (
         f'<td align="center" valign="top" '
         f'style="border:none !important;outline:none !important;box-shadow:none !important;'
-        f'padding:{config.VISUAL_TABLE_CELL_PADDING_PX}px;'
-        f'width:{config.VISUAL_TABLE_CELL_WIDTH_PX}px;'
+        f'padding:{config.OPTION2_TABLE_CELL_PADDING_PX}px;'
+        f'width:{config.OPTION2_TABLE_CELL_WIDTH_PX}px;'
         f'background:transparent;">'
         f'{cover_html}'
-        f'<div style="margin-top:{config.VISUAL_CAPTION_TOP_MARGIN_PX}px;"><sub>{title_text}</sub></div>'
-        f'<div style="margin-top:{config.VISUAL_AUTHOR_TOP_MARGIN_PX}px;"><sub>{author_text}</sub></div>'
+        f'<div style="margin-top:{config.OPTION2_CAPTION_TOP_MARGIN_PX}px;"><sub>{html_escape(title)}</sub></div>'
+        f'<div style="margin-top:{config.OPTION2_AUTHOR_TOP_MARGIN_PX}px;"><sub>{html_escape(author)}</sub></div>'
         f'</td>'
     )
 
 
-def render_visual_card_table_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
+def render_option2_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
     books = section.get("books", [])
+
     if not section.get("enabled", False):
         return ""
 
@@ -232,19 +273,19 @@ def render_visual_card_table_section(section: dict[str, Any], section_name: str,
     if not books:
         return (
             f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
-            f"{header}"
+            f'{header}'
             f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
             f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
             f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    rows = []
-    items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
+    rows: list[str] = []
+    items_per_row = max(1, config.OPTION2_ITEMS_PER_ROW)
 
     for start in range(0, len(books), items_per_row):
-        chunk = books[start : start + items_per_row]
-        cells = "".join(render_visual_card_table_cell(book) for book in chunk)
-        rows.append(f"<tr>{cells}</tr>")
+        chunk = books[start:start + items_per_row]
+        row_cells = "".join(render_option2_cell(book) for book in chunk)
+        rows.append(f"<tr>{row_cells}</tr>")
 
     table_style = (
         "border-collapse:collapse;"
@@ -255,7 +296,7 @@ def render_visual_card_table_section(section: dict[str, Any], section_name: str,
         "margin:0;"
     )
 
-    if config.VISUAL_FORCE_BORDERLESS_TABLE:
+    if config.OPTION2_FORCE_BORDERLESS_TABLE:
         table_style += "border-spacing:0;"
 
     table_html = (
@@ -266,13 +307,16 @@ def render_visual_card_table_section(section: dict[str, Any], section_name: str,
 
     return (
         f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
-        f"{header}"
+        f'{header}'
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f"{table_html}"
+        f'{table_html}'
         f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
     )
 
 
+# ============================================================
+# VISUAL FOOTER
+# ============================================================
 def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
     if not config.SHOW_VISUAL_FOOTER_META:
         return ""
@@ -281,17 +325,19 @@ def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
     if not meta_line:
         return ""
 
-    content = f"{config.VISUAL_FOOTER_META_PREFIX}{meta_line}"
     if config.VISUAL_FOOTER_META_USE_SUB:
-        content = f"<sub>{content}</sub>"
+        meta_line = f"<sub>{meta_line}</sub>"
 
     return (
         f'<div style="height:{config.VISUAL_FOOTER_TOP_SPACER_PX}px;"></div>'
-        f"{content}"
+        f'{meta_line}'
         f'<div style="height:{config.VISUAL_FOOTER_BOTTOM_SPACER_PX}px;"></div>'
     )
 
 
+# ============================================================
+# VISUAL BLOCK
+# ============================================================
 def render_visual_block(snapshot: dict[str, Any]) -> str:
     sections = snapshot.get("sections", {})
     current_section = sections.get("currently_reading", {})
@@ -311,28 +357,28 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
     recent_html = ""
 
     if config.SHOW_CURRENTLY_READING_SECTION:
-        if config.VISUAL_MODE == "card_table":
-            current_html = render_visual_card_table_section(
+        if config.OPTION2_CARD_TABLE_ENABLED:
+            current_html = render_option2_section(
                 current_section,
                 "currently_reading",
                 config.VISUAL_CURRENTLY_READING_TITLE,
             )
-        else:
-            current_html = render_visual_section_covers_and_list(
+        elif config.OPTION1_COVERS_ONLY_ENABLED:
+            current_html = render_option1_section(
                 current_section,
                 "currently_reading",
                 config.VISUAL_CURRENTLY_READING_TITLE,
             )
 
     if config.SHOW_RECENT_READ_SECTION:
-        if config.VISUAL_MODE == "card_table":
-            recent_html = render_visual_card_table_section(
+        if config.OPTION2_CARD_TABLE_ENABLED:
+            recent_html = render_option2_section(
                 recent_section,
                 "recent_read",
                 config.VISUAL_RECENT_READ_TITLE,
             )
-        else:
-            recent_html = render_visual_section_covers_and_list(
+        elif config.OPTION1_COVERS_ONLY_ENABLED:
+            recent_html = render_option1_section(
                 recent_section,
                 "recent_read",
                 config.VISUAL_RECENT_READ_TITLE,
@@ -357,6 +403,9 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
+# ============================================================
+# CLI BLOCK (OPTION 3 - UNTOUCHED STRUCTURALLY)
+# ============================================================
 def render_cli_section(section: dict[str, Any], section_name: str, label: str) -> list[str]:
     lines: list[str] = []
 
@@ -372,8 +421,10 @@ def render_cli_section(section: dict[str, Any], section_name: str, label: str) -
 
         if config.CLI_SHOW_SECTION_SHELF:
             header_parts.append(f"shelf={shelf}")
+
         if config.CLI_SHOW_SECTION_BOOK_COUNT:
             header_parts.append(f"books={len(books)}")
+
         if config.CLI_SHOW_SECTION_LIMIT:
             header_parts.append(f"limit={limit}")
 
@@ -390,14 +441,15 @@ def render_cli_section(section: dict[str, Any], section_name: str, label: str) -
 
         if config.CLI_MAX_TITLE_LENGTH > 0:
             title = truncate(title, config.CLI_MAX_TITLE_LENGTH)
+
         if config.CLI_MAX_AUTHOR_LENGTH > 0 and author:
             author = truncate(author, config.CLI_MAX_AUTHOR_LENGTH)
 
         line = f"{str(idx).zfill(config.CLI_BOOK_INDEX_PAD)}. {title}"
-        if config.SHOW_AUTHOR and author:
+        if author:
             line += f" — {author}"
 
-        if config.CLI_SHOW_LINKS_INLINE and config.SHOW_LINK:
+        if config.CLI_SHOW_LINKS_INLINE:
             link = str(book.get("link", "") or "")
             if link:
                 line += f" [{link}]"
@@ -409,7 +461,6 @@ def render_cli_section(section: dict[str, Any], section_name: str, label: str) -
 
 
 def render_cli_block(snapshot: dict[str, Any]) -> str:
-    meta = snapshot.get("meta", {})
     sections = snapshot.get("sections", {})
 
     lines: list[str] = []
@@ -419,25 +470,13 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
     if config.CLI_DESCRIPTION.strip():
         lines.append(f"# {config.CLI_DESCRIPTION}")
 
-    meta_parts = []
-
-    if config.SHOW_STATUS:
-        meta_parts.append(f"status={meta.get('status', '')}")
-    if config.SHOW_FETCH_MODE:
-        meta_parts.append(f"mode={meta.get('fetch_mode', '')}")
-    if config.SHOW_LAST_SYNC:
-        meta_parts.append(f"sync={meta.get('last_successful_sync', '')}")
-    if config.SHOW_LAST_UPDATE:
-        meta_parts.append(f"{config.CLI_LABEL_LAST_UPDATE}={build_last_update_utc(snapshot)}")
-    if config.SHOW_SOURCE:
-        meta_parts.append(f"source={meta.get('source', '')}")
-
-    if meta_parts:
+    meta_line = build_cli_meta_line(snapshot)
+    if meta_line:
         if config.CLI_COMPACT_META:
-            lines.append("# " + " | ".join(meta_parts))
+            lines.append("# " + meta_line)
         else:
-            for part in meta_parts:
-                lines.append(f"# {part}")
+            for piece in meta_line.split(" | "):
+                lines.append(f"# {piece}")
 
     if config.CLI_DIVIDER:
         lines.append("")
@@ -467,6 +506,9 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
+# ============================================================
+# RENDER METADATA
+# ============================================================
 def write_render_metadata(
     snapshot: dict[str, Any],
     readme_changed: bool,
@@ -477,8 +519,9 @@ def write_render_metadata(
         "meta": {
             "rendered_at": utc_now_iso(),
             "render_mode": (
-                f'visual={config.VISUAL_MODE if config.SHOW_VISUAL_BLOCK else "off"}|'
-                f'cli={"on" if config.SHOW_CLI_BLOCK else "off"}'
+                f'option1={"on" if config.OPTION1_COVERS_ONLY_ENABLED else "off"}|'
+                f'option2={"on" if config.OPTION2_CARD_TABLE_ENABLED else "off"}|'
+                f'option3_cli={"on" if config.OPTION3_CLI_ENABLED else "off"}'
             ),
             "rendered_visual": rendered_visual,
             "rendered_cli": rendered_cli,
@@ -495,6 +538,9 @@ def write_render_metadata(
     )
 
 
+# ============================================================
+# MAIN
+# ============================================================
 def main() -> int:
     ensure_dir(config.DATA_DIR)
 
@@ -514,7 +560,7 @@ def main() -> int:
                     "enabled": config.SHOW_CURRENTLY_READING_SECTION,
                     "title": config.VISUAL_CURRENTLY_READING_TITLE,
                     "shelf": config.CURRENTLY_READING_SHELF,
-                    "limit": config.GLOBAL_SECTION_LIMIT if config.USE_GLOBAL_SECTION_LIMIT else config.CURRENTLY_READING_LIMIT,
+                    "limit": config.CURRENTLY_READING_LIMIT,
                     "item_count": 0,
                     "books": [],
                 },
@@ -522,7 +568,7 @@ def main() -> int:
                     "enabled": config.SHOW_RECENT_READ_SECTION,
                     "title": config.VISUAL_RECENT_READ_TITLE,
                     "shelf": config.RECENT_READ_SHELF,
-                    "limit": config.GLOBAL_SECTION_LIMIT if config.USE_GLOBAL_SECTION_LIMIT else config.RECENT_READ_LIMIT,
+                    "limit": config.RECENT_READ_LIMIT,
                     "item_count": 0,
                     "books": [],
                 },
@@ -531,8 +577,8 @@ def main() -> int:
 
     readme = read_text(config.README_PATH)
 
-    render_visual = config.SHOW_VISUAL_BLOCK
-    render_cli = config.SHOW_CLI_BLOCK
+    render_visual = config.OPTION1_COVERS_ONLY_ENABLED or config.OPTION2_CARD_TABLE_ENABLED
+    render_cli = config.OPTION3_CLI_ENABLED
 
     if render_visual:
         visual_block = render_visual_block(snapshot)
