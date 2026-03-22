@@ -1,11 +1,10 @@
 {
   "meta": {
-    "rendered_at": "2026-03-22T10:20:14+00:00",
+    "rendered_at": "2026-03-22T10:28:12+00:00",
     "render_mode": "both",
     "rendered_visual": true,
     "rendered_cli": true,
-    "books_limit": 15,
     "readme_changed": true,
-    "snapshot_hash": "337f7cd0455c2b46ba6fad3d3ec577ed71ddfe26edf77fac1b9604272a7bbb4b"
+    "snapshot_hash": "1fd5f1a8187ffc98651f16e3b9359dd108169aeeca429783f9dd0b4d7fc72edd"
   }
 }
