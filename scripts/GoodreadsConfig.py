@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/7.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/8.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -91,8 +91,8 @@ VISUAL_SHOW_DESCRIPTION = True
 
 # Título link, autor no
 VISUAL_TITLE_IS_LINK = True
+VISUAL_AUTHOR_IS_LINK = False
 
-# Longitudes
 VISUAL_TITLE_MAX_LENGTH = 18
 VISUAL_AUTHOR_MAX_LENGTH = 16
 
@@ -100,34 +100,31 @@ VISUAL_AUTHOR_MAX_LENGTH = 16
 VISUAL_COVER_WIDTH = 42
 VISUAL_COVER_HEIGHT = 64
 
-# Cantidad de imágenes por fila
+# Layout por card
+VISUAL_CARD_WIDTH_PX = 78
+VISUAL_CARD_GAP_PX = 8
+VISUAL_CARD_ROW_GAP_PX = 10
+
+# Cantidad por fila
 VISUAL_ITEMS_PER_ROW = 6
 
-# Espaciado horizontal entre portadas
-VISUAL_IMAGE_GAP_SPACES = "  "
+# Texto debajo de la imagen
+VISUAL_CAPTION_TOP_MARGIN_PX = 3
+VISUAL_AUTHOR_TOP_MARGIN_PX = 1
 
-# Espaciado vertical
+# Encabezados y separación
+VISUAL_SECTION_HEADER_ALIGN = "left"
 VISUAL_SECTION_SPACER_PX = 6
 VISUAL_SECTION_BOTTOM_SPACER_PX = 12
 
-# Encabezados
-VISUAL_SECTION_HEADER_ALIGN = "left"
-
-# Mostrar lista descriptiva debajo de las filas de portadas
-VISUAL_SHOW_DETAILS_LIST = True
-
-# Si True, la lista descriptiva usa índice 01, 02, etc.
-VISUAL_SHOW_DETAILS_INDEX = True
-
-# Texto pequeño en lista descriptiva
-VISUAL_DETAILS_USE_SUB = True
+# Bordes / forma
+VISUAL_IMAGE_BORDER_RADIUS_PX = 4
+VISUAL_ENABLE_IMAGE_BORDER = False
+VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
 # Placeholder
 VISUAL_FALLBACK_BG = "#1f1f1f"
 VISUAL_FALLBACK_TEXT_COLOR = "#f4f4f4"
-VISUAL_IMAGE_BORDER_RADIUS_PX = 4
-VISUAL_ENABLE_IMAGE_BORDER = False
-VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
 
 # ============================================================
