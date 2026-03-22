@@ -49,16 +49,14 @@ def build_visual_meta_line(snapshot: dict[str, Any]) -> str:
     meta = snapshot.get("meta", {})
     parts = []
 
-    if config.SHOW_STATUS:
-        parts.append(f"status: {html_escape(str(meta.get('status', '')))}")
-    if config.SHOW_FETCH_MODE:
-        parts.append(f"mode: {html_escape(str(meta.get('fetch_mode', '')))}")
     if config.SHOW_LAST_SYNC:
         sync = str(meta.get("last_successful_sync", "")).strip()
         if sync:
             parts.append(f"sync: {html_escape(sync)}")
+
     if config.SHOW_LAST_UPDATE:
         parts.append(f"last update: {html_escape(build_last_update_utc(snapshot))}")
+
     if config.SHOW_SOURCE:
         parts.append(f"source: {html_escape(str(meta.get('source', '')))}")
 
@@ -99,7 +97,7 @@ def render_cover_html(book: dict[str, Any]) -> str:
             f'color:{config.VISUAL_FALLBACK_TEXT_COLOR};'
             f'border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;'
             f'font-size:9px;text-align:center;padding:4px;{border_style}">'
-            f'{html_escape(truncate(title or "Untitled", 14))}</div>'
+            f'{html_escape(title if not config.VISUAL_TITLE_MAX_LENGTH else truncate(title or "Untitled", 14))}</div>'
         )
 
     if config.SHOW_LINK and link:
@@ -111,7 +109,8 @@ def render_cover_html(book: dict[str, Any]) -> str:
 def render_title_html(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "Untitled")
     link = str(book.get("link", "") or "")
-    safe_title = html_escape(truncate(title, config.VISUAL_TITLE_MAX_LENGTH))
+
+    safe_title = html_escape(title if config.VISUAL_TITLE_MAX_LENGTH == 0 else truncate(title, config.VISUAL_TITLE_MAX_LENGTH))
 
     if config.VISUAL_TITLE_IS_LINK and config.SHOW_LINK and link:
         return f'<a href="{html_escape(link)}">{safe_title}</a>'
@@ -121,7 +120,7 @@ def render_title_html(book: dict[str, Any]) -> str:
 
 def render_author_html(book: dict[str, Any]) -> str:
     author = str(book.get("author", "") or "")
-    return html_escape(truncate(author, config.VISUAL_AUTHOR_MAX_LENGTH))
+    return html_escape(author if config.VISUAL_AUTHOR_MAX_LENGTH == 0 else truncate(author, config.VISUAL_AUTHOR_MAX_LENGTH))
 
 
 def render_summary_html(book: dict[str, Any]) -> str:
@@ -152,7 +151,7 @@ def render_visual_list_item(book: dict[str, Any]) -> str:
         line = f"<sub>{line}</sub>"
 
     if summary_html:
-        return f"{line}<br/>{summary_html}"
+        return f"{line}{config.VISUAL_LIST_LINE_BREAK}{summary_html}"
 
     return line
 
@@ -170,6 +169,7 @@ def render_visual_section_covers_and_list(section: dict[str, Any], section_name:
 
     if not books:
         return (
+            f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
             f"{header}"
             f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
             f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
@@ -189,9 +189,10 @@ def render_visual_section_covers_and_list(section: dict[str, Any], section_name:
     covers_html = config.VISUAL_COVERS_ROW_BREAK.join(cover_rows)
 
     list_lines = [render_visual_list_item(book) for book in books]
-    list_html = "<br/>\n".join(list_lines)
+    list_html = config.VISUAL_LIST_LINE_BREAK.join(list_lines)
 
     return (
+        f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
         f"{header}"
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
         f"{covers_html}"
@@ -232,6 +233,7 @@ def render_visual_card_table_section(section: dict[str, Any], section_name: str,
 
     if not books:
         return (
+            f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
             f"{header}"
             f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
             f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
@@ -265,10 +267,30 @@ def render_visual_card_table_section(section: dict[str, Any], section_name: str,
     )
 
     return (
+        f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
         f"{header}"
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
         f"{table_html}"
         f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
+    )
+
+
+def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
+    if not config.SHOW_VISUAL_FOOTER_META:
+        return ""
+
+    meta_line = build_visual_meta_line(snapshot)
+    if not meta_line:
+        return ""
+
+    content = f"{config.VISUAL_FOOTER_META_PREFIX}{meta_line}"
+    if config.VISUAL_FOOTER_META_USE_SUB:
+        content = f"<sub>{content}</sub>"
+
+    return (
+        f'<div style="height:{config.VISUAL_FOOTER_TOP_SPACER_PX}px;"></div>'
+        f"{content}"
+        f'<div style="height:{config.VISUAL_FOOTER_BOTTOM_SPACER_PX}px;"></div>'
     )
 
 
@@ -286,11 +308,6 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
 
     if config.VISUAL_SHOW_DESCRIPTION and config.VISUAL_BLOCK_DESCRIPTION.strip():
         lines.append(f'<sub>{html_escape(config.VISUAL_BLOCK_DESCRIPTION)}</sub>')
-
-    if config.VISUAL_META_AS_SUBTEXT:
-        meta_line = build_visual_meta_line(snapshot)
-        if meta_line:
-            lines.append(f'<sub>{html_escape(meta_line)}</sub>')
 
     current_html = ""
     recent_html = ""
@@ -333,6 +350,11 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
 
     if not current_html and not recent_html:
         lines.append(config.VISUAL_EMPTY_MESSAGE)
+
+    footer_meta = render_visual_footer_meta(snapshot)
+    if footer_meta:
+        lines.append("")
+        lines.append(footer_meta)
 
     return "\n".join(lines)
 
