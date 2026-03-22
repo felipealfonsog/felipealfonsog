@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/3.1; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/4.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -100,7 +100,7 @@ VISUAL_TITLE_USE_SMALL = True
 VISUAL_META_AS_SUBTEXT = True
 VISUAL_SHOW_DESCRIPTION = True
 
-# Ya no se usa un link textual separado tipo "check the link"
+# Ya no se muestra "check the link"
 SHOW_VISUAL_TEXT_LINK = False
 VISUAL_TEXT_LINK_LABEL = "check the link"
 
@@ -120,20 +120,19 @@ VISUAL_CAPTION_MAX_AUTHOR_LENGTH = 16
 VISUAL_COVER_WIDTH = 42
 VISUAL_COVER_HEIGHT = 64
 
-# Padding interno por item
-VISUAL_ITEM_PADDING_PX = 4
+# Tamaño total de cada card visual
+VISUAL_CARD_WIDTH_PX = 78
 
-# Ancho total de columna visual
-VISUAL_CARD_WIDTH_PX = 74
-
-# Cantidad por fila
-VISUAL_ITEMS_PER_ROW = 6
-
-# Separación vertical entre imagen y texto
+# Espaciados
+VISUAL_CARD_MARGIN_RIGHT_PX = 8
+VISUAL_CARD_MARGIN_BOTTOM_PX = 8
 VISUAL_CAPTION_TOP_MARGIN_PX = 3
-
-# Separación entre autor y título
 VISUAL_AUTHOR_TOP_MARGIN_PX = 1
+
+# Layout inline-block
+VISUAL_CARD_DISPLAY = "inline-block"
+VISUAL_CARD_VERTICAL_ALIGN = "top"
+VISUAL_CARD_TEXT_ALIGN = "center"
 
 # Bordes / forma de imagen
 VISUAL_IMAGE_BORDER_RADIUS_PX = 4
