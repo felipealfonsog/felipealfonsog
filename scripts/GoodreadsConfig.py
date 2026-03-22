@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/4.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/5.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -100,7 +100,7 @@ VISUAL_TITLE_USE_SMALL = True
 VISUAL_META_AS_SUBTEXT = True
 VISUAL_SHOW_DESCRIPTION = True
 
-# Ya no se muestra "check the link"
+# Ya no se usa texto tipo "check the link"
 SHOW_VISUAL_TEXT_LINK = False
 VISUAL_TEXT_LINK_LABEL = "check the link"
 
@@ -120,16 +120,16 @@ VISUAL_CAPTION_MAX_AUTHOR_LENGTH = 16
 VISUAL_COVER_WIDTH = 42
 VISUAL_COVER_HEIGHT = 64
 
-# Tamaño total de cada card visual
+# Tamaño total de card
 VISUAL_CARD_WIDTH_PX = 78
 
 # Espaciados
 VISUAL_CARD_MARGIN_RIGHT_PX = 8
-VISUAL_CARD_MARGIN_BOTTOM_PX = 8
+VISUAL_CARD_MARGIN_BOTTOM_PX = 10
 VISUAL_CAPTION_TOP_MARGIN_PX = 3
 VISUAL_AUTHOR_TOP_MARGIN_PX = 1
 
-# Layout inline-block
+# Layout de cards
 VISUAL_CARD_DISPLAY = "inline-block"
 VISUAL_CARD_VERTICAL_ALIGN = "top"
 VISUAL_CARD_TEXT_ALIGN = "center"
@@ -148,6 +148,9 @@ VISUAL_SECTION_HEADER_ALIGN = "left"
 VISUAL_SECTION_GRID_ALIGN = "left"
 VISUAL_SECTION_SPACER_PX = 6
 VISUAL_SECTION_BOTTOM_SPACER_PX = 12
+
+# Wrapper de grilla
+VISUAL_GRID_USE_DIV_WRAPPER = True
 
 
 # ============================================================
