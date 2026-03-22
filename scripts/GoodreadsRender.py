@@ -149,38 +149,26 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
         return ""
 
     header = (
+        f'<div style="margin-top:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
         f'</div>'
+        f'<div style="margin-bottom:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
     )
 
     if not books:
         return (
-            f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
-            f'{header}'
-            f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-            f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
-            f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
+            header
+            + f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
+            + f'<div style="margin-bottom:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    cover_rows: list[str] = []
-    items_per_row = max(1, config.OPTION1_ITEMS_PER_ROW)
-
-    for start in range(0, len(books), items_per_row):
-        chunk = books[start:start + items_per_row]
-        row_html = config.OPTION1_COVERS_GAP_SPACES.join(
-            render_option1_cover(book) for book in chunk
-        )
-        cover_rows.append(row_html)
-
-    covers_html = config.OPTION1_COVERS_ROW_BREAK.join(cover_rows)
+    covers_line = "".join(render_option1_cover(book) for book in books)
 
     return (
-        f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
-        f'{header}'
-        f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f'{covers_html}'
-        f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
+        header
+        + covers_line
+        + f'<div style="margin-bottom:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
     )
 
 
