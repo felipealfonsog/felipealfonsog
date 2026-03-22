@@ -267,9 +267,20 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 #
 
+<!--
+
+                          .___                          .___      
+   ____   ____   ____   __| _/______   ____ _____     __| _/______
+  / ___\ /  _ \ /  _ \ / __ |\_  __ \_/ __ \\__  \   / __ |/  ___/
+ / /_/  >  <_> |  <_> ) /_/ | |  | \/\  ___/ / __ \_/ /_/ |\___ \ 
+ \___  / \____/ \____/\____ | |__|    \___  >____  /\____ /____  >
+/_____/                    \/             \/     \/      \/    \/ 
+
+-->
 
 <details open>
-<summary><strong>🛰️ GNLZ.CL SITE OPERATIONS INTELLIGENCE</strong> — updated automatically every 3 hours (00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC • full-spectrum profile active • last valid snapshot retained on probe failure)*</summary>
+<summary><strong>📚 GOODREADS READING INTELLIGENCE</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
+
 
 <!-- GOODREADS:VISUAL_START -->
 ### Goodreads Shelf
@@ -333,10 +344,10 @@ book_15      : MARY LAVELLE — Kate O'Brien | https://www.goodreads.com/review/
 </details>
 
 > [!NOTE]
-> <sub>*GNLZ.CL Site Operations Intelligence — operational-style telemetry layer generated from live web probes, defensive surface inspection, TLS and header analysis, traffic aggregates, and Tor Browser compatibility checks.</sub><br>
-> <sub>Telemetry fields, probe states, fingerprint hints, and cached continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if a live probe fails.</sub>
+> <sub>*Goodreads Reading Intelligence — operational-style telemetry layer generated from Goodreads shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
+> <sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
 
-[![GNLZ Site Intel](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/site-intel.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/site-intel.yml)
+[![Goodreads Reading Intelligence](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/goodreads-widget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/goodreads-widget.yml)
 
 #
 
