@@ -347,7 +347,7 @@ book_15      : MARY LAVELLE — Kate O'Brien | https://www.goodreads.com/review/
 > <sub>*Goodreads Reading Intelligence — operational-style telemetry layer generated from Goodreads shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
 > <sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
 
-[![Goodreads Reading Intelligence](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/goodreads-widget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/goodreads-widget.yml)
+[![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml)
 
 #
 
