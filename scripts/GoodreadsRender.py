@@ -15,6 +15,10 @@ from GoodreadsUtils import (
 )
 
 
+# ============================================================
+# CORE HELPERS
+# ============================================================
+
 def resolve_section_limit_from_snapshot(section: dict[str, Any], fallback_name: str) -> int:
     value = section.get("limit")
     if isinstance(value, int) and value > 0:
@@ -53,13 +57,13 @@ def build_visual_footer_meta_line(snapshot: dict[str, Any]) -> str:
     if config.SHOW_LAST_SYNC:
         sync = str(meta.get("last_successful_sync", "")).strip()
         if sync:
-            parts.append(f"sync: {html_escape(sync)}")
+            parts.append(f"SYNC: {html_escape(sync)}")
 
     if config.SHOW_LAST_UPDATE:
-        parts.append(f"last update: {html_escape(build_last_update_utc(snapshot))}")
+        parts.append(f"LAST UPDATE: {html_escape(build_last_update_utc(snapshot))}")
 
     if config.SHOW_SOURCE:
-        parts.append(f"source: {html_escape(str(meta.get('source', '')))}")
+        parts.append(f"SOURCE: {html_escape(str(meta.get('source', '')))}")
 
     return " • ".join(parts)
 
@@ -89,6 +93,7 @@ def build_cli_meta_line(snapshot: dict[str, Any]) -> str:
 # ============================================================
 # OPTION 1: COVERS ONLY
 # ============================================================
+
 def render_option1_cover(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "")
     author = str(book.get("author", "") or "")
@@ -112,6 +117,8 @@ def render_option1_cover(book: dict[str, Any]) -> str:
         f"height:{config.OPTION1_COVER_HEIGHT}px;"
         f"object-fit:{config.OPTION1_COVER_OBJECT_FIT};"
         f"border-radius:{config.OPTION1_IMAGE_BORDER_RADIUS_PX}px;"
+        f"vertical-align:top;"
+        f"margin-right:4px;"
         f"{border_style}"
     )
 
@@ -131,7 +138,8 @@ def render_option1_cover(book: dict[str, Any]) -> str:
             f'background:{config.OPTION1_FALLBACK_BG};'
             f'color:{config.OPTION1_FALLBACK_TEXT_COLOR};'
             f'border-radius:{config.OPTION1_IMAGE_BORDER_RADIUS_PX}px;'
-            f'font-size:9px;text-align:center;padding:4px;{border_style}">'
+            f'font-size:9px;text-align:center;padding:4px;'
+            f'vertical-align:top;margin-right:4px;{border_style}">'
             f'No cover'
             f'</div>'
         )
@@ -149,32 +157,34 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
         return ""
 
     header = (
-        f'<div style="margin-top:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
+        f'<div style="height:{config.VISUAL_SECTION_TOP_SPACER_PX}px;"></div>'
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
         f'</div>'
-        f'<div style="margin-bottom:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
+        f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
     )
 
     if not books:
         return (
             header
             + f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
-            + f'<div style="margin-bottom:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
+            + f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    covers_line = "".join(render_option1_cover(book) for book in books)
+    # Sin filas manuales. Una sola línea continua de covers.
+    covers_html = "".join(render_option1_cover(book) for book in books)
 
     return (
         header
-        + covers_line
-        + f'<div style="margin-bottom:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
+        + covers_html
+        + f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
     )
 
 
 # ============================================================
 # OPTION 2: CARD TABLE (OLD STYLE, OFF BY DEFAULT)
 # ============================================================
+
 def render_option2_cover(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "")
     author = str(book.get("author", "") or "")
@@ -305,6 +315,7 @@ def render_option2_section(section: dict[str, Any], section_name: str, section_t
 # ============================================================
 # VISUAL FOOTER
 # ============================================================
+
 def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
     if not config.SHOW_VISUAL_FOOTER_META:
         return ""
@@ -326,6 +337,7 @@ def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
 # ============================================================
 # VISUAL BLOCK
 # ============================================================
+
 def render_visual_block(snapshot: dict[str, Any]) -> str:
     sections = snapshot.get("sections", {})
     current_section = sections.get("currently_reading", {})
@@ -392,8 +404,9 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
 
 
 # ============================================================
-# CLI BLOCK (OPTION 3 - UNTOUCHED STRUCTURALLY)
+# CLI BLOCK (OPTION 3)
 # ============================================================
+
 def render_cli_section(section: dict[str, Any], section_name: str, label: str) -> list[str]:
     lines: list[str] = []
 
@@ -497,6 +510,7 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
 # ============================================================
 # RENDER METADATA
 # ============================================================
+
 def write_render_metadata(
     snapshot: dict[str, Any],
     readme_changed: bool,
@@ -529,6 +543,7 @@ def write_render_metadata(
 # ============================================================
 # MAIN
 # ============================================================
+
 def main() -> int:
     ensure_dir(config.DATA_DIR)
 
