@@ -69,6 +69,18 @@ def build_visual_meta_line(snapshot: dict[str, Any]) -> str:
     return " • ".join(parts)
 
 
+def render_visual_title(title: str, link: str) -> str:
+    safe_title = html_escape(truncate(title, config.VISUAL_CAPTION_MAX_TITLE_LENGTH))
+    if config.VISUAL_CAPTION_TITLE_IS_LINK and config.SHOW_LINK and link:
+        return f'<div><sub><a href="{html_escape(link)}">{safe_title}</a></sub></div>'
+    return f"<div><sub>{safe_title}</sub></div>"
+
+
+def render_visual_author(author: str) -> str:
+    safe_author = html_escape(truncate(author, config.VISUAL_CAPTION_MAX_AUTHOR_LENGTH))
+    return f'<div style="margin-top:{config.VISUAL_AUTHOR_TOP_MARGIN_PX}px;"><sub>{safe_author}</sub></div>'
+
+
 def render_visual_book_card_td(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "")
     author = str(book.get("author", "") or "")
@@ -115,26 +127,21 @@ def render_visual_book_card_td(book: dict[str, Any]) -> str:
 
     if config.VISUAL_SHOW_CAPTION:
         if config.VISUAL_CAPTION_SHOW_TITLE and config.SHOW_TITLE and title:
-            text_bits.append(
-                f'<div><sub>{html_escape(truncate(title, config.VISUAL_CAPTION_MAX_TITLE_LENGTH))}</sub></div>'
-            )
-        if config.VISUAL_CAPTION_SHOW_AUTHOR and config.SHOW_AUTHOR and author:
-            text_bits.append(
-                f'<div><sub>{html_escape(truncate(author, config.VISUAL_CAPTION_MAX_AUTHOR_LENGTH))}</sub></div>'
-            )
+            text_bits.append(render_visual_title(title, link))
 
-    if config.SHOW_VISUAL_TEXT_LINK and config.SHOW_LINK and link:
-        text_bits.append(
-            f'<div><sub><a href="{html_escape(link)}">{html_escape(config.VISUAL_TEXT_LINK_LABEL)}</a></sub></div>'
-        )
+        if config.VISUAL_CAPTION_SHOW_AUTHOR and config.SHOW_AUTHOR and author:
+            text_bits.append(render_visual_author(author))
 
     text_html = "".join(text_bits)
 
     return (
-        f'<td valign="top" style="border:none;padding:{config.VISUAL_ITEM_PADDING_PX}px;'
-        f'text-align:center;width:{config.VISUAL_COVER_WIDTH + 16}px;">'
+        f'<td valign="top" style="border:none !important;outline:none !important;'
+        f'padding:{config.VISUAL_ITEM_PADDING_PX}px;'
+        f'text-align:center;'
+        f'width:{config.VISUAL_CARD_WIDTH_PX}px;'
+        f'background:transparent;">'
         f'{img_html}'
-        f'<div style="margin-top:4px;">{text_html}</div>'
+        f'<div style="margin-top:{config.VISUAL_CAPTION_TOP_MARGIN_PX}px;">{text_html}</div>'
         f'</td>'
     )
 
@@ -152,11 +159,11 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
 
     if not books:
         return (
-            f'{header}'
+            f"{header}"
             f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
             f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
             f'<sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub>'
-            f'</div>'
+            f"</div>"
             f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
@@ -169,13 +176,15 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
         rows.append(f"<tr>{row_cells}</tr>")
 
     table_html = (
-        f'<table style="border-collapse:collapse;border:none;margin:0;">'
+        '<table border="0" cellspacing="0" cellpadding="0" '
+        'style="border-collapse:collapse;border:none !important;outline:none !important;'
+        'background:transparent;margin:0;">'
         f'{"".join(rows)}'
-        f'</table>'
+        "</table>"
     )
 
     return (
-        f'{header}'
+        f"{header}"
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
         f'<div align="{html_escape(config.VISUAL_SECTION_GRID_ALIGN)}">{table_html}</div>'
         f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
@@ -192,7 +201,7 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
     if config.VISUAL_TITLE_USE_SMALL:
         lines.append(f'<sub><strong>{html_escape(config.VISUAL_BLOCK_TITLE)}</strong></sub>')
     else:
-        lines.append(f'### {html_escape(config.VISUAL_BLOCK_TITLE)}')
+        lines.append(f"### {html_escape(config.VISUAL_BLOCK_TITLE)}")
 
     if config.VISUAL_SHOW_DESCRIPTION and config.VISUAL_BLOCK_DESCRIPTION.strip():
         lines.append(f'<sub>{html_escape(config.VISUAL_BLOCK_DESCRIPTION)}</sub>')
@@ -252,7 +261,8 @@ def render_cli_section(section: dict[str, Any], section_name: str, label: str) -
         if config.CLI_SHOW_SECTION_BOOK_COUNT:
             header_parts.append(f"books={len(books)}")
 
-        header_parts.append(f"limit={limit}")
+        if config.CLI_SHOW_SECTION_LIMIT:
+            header_parts.append(f"limit={limit}")
 
         lines.append(" ".join(header_parts))
 
