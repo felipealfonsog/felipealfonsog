@@ -12,15 +12,14 @@ from GoodreadsUtils import (
     sanitize_text,
     utc_now_iso,
     validate_book,
-    validate_snapshot,
     write_json,
 )
 
 
-def build_rss_url() -> str:
+def build_rss_url(shelf: str) -> str:
     return config.GOODREADS_RSS_URL_TEMPLATE.format(
         user_id=config.GOODREADS_USER_ID,
-        shelf=config.GOODREADS_SHELF,
+        shelf=shelf,
     )
 
 
@@ -41,36 +40,30 @@ def http_get(url: str) -> str:
 def extract_cover_from_description(description: str) -> str:
     if not description:
         return ""
-
     patterns = [
         r'<img[^>]+src="([^"]+)"',
         r"<img[^>]+src='([^']+)'",
     ]
-
     for pattern in patterns:
         match = re.search(pattern, description, re.IGNORECASE)
         if match:
             return match.group(1).strip()
-
     return ""
 
 
 def extract_author_from_description(description: str) -> str:
     if not description:
         return ""
-
-    candidates = [
+    patterns = [
         r"by\s+([^<\n\r]+)",
         r"author:\s*([^<\n\r]+)",
     ]
-
-    for pattern in candidates:
+    for pattern in patterns:
         match = re.search(pattern, description, re.IGNORECASE)
         if match:
             author = sanitize_text(match.group(1))
             if author:
                 return author
-
     return ""
 
 
@@ -89,8 +82,7 @@ def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
 
         author = ""
         for tag in ("author_name", "creator", "{http://purl.org/dc/elements/1.1/}creator", "author"):
-            value = item.findtext(tag, default="")
-            value = sanitize_text(value)
+            value = sanitize_text(item.findtext(tag, default=""))
             if value:
                 author = value
                 break
@@ -99,25 +91,27 @@ def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
             author = extract_author_from_description(description_raw)
 
         cover = extract_cover_from_description(description_raw)
-
         guid = sanitize_text(item.findtext("guid", default=""))
         pub_date = sanitize_text(item.findtext("pubDate", default=""))
 
-        book = {
-            "title": title,
-            "author": author,
-            "link": link,
-            "cover": cover,
-            "guid": guid,
-            "pub_date": pub_date,
-        }
-        books.append(book)
+        books.append(
+            {
+                "title": title,
+                "author": author,
+                "link": link,
+                "cover": cover,
+                "guid": guid,
+                "pub_date": pub_date,
+            }
+        )
 
     return books
 
 
-def normalize_books(books: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    normalized = []
+def normalize_books(books: list[dict[str, Any]], limit: int) -> list[dict[str, Any]]:
+    normalized: list[dict[str, Any]] = []
+    seen: set[tuple[str, str, str]] = set()
+
     for book in books:
         cleaned = {
             "title": sanitize_text(book.get("title", "")),
@@ -128,155 +122,194 @@ def normalize_books(books: list[dict[str, Any]]) -> list[dict[str, Any]]:
             "pub_date": sanitize_text(book.get("pub_date", "")),
         }
 
-        if validate_book(
+        if not validate_book(
             cleaned,
             allow_empty_cover=config.ALLOW_EMPTY_COVER,
             allow_empty_link=config.ALLOW_EMPTY_LINK,
             allow_empty_author=config.ALLOW_EMPTY_AUTHOR,
         ):
-            normalized.append(cleaned)
+            continue
+
+        key = (
+            cleaned["title"].lower(),
+            cleaned["author"].lower(),
+            cleaned["link"].lower(),
+        )
+        if key in seen:
+            continue
+        seen.add(key)
+
+        normalized.append(cleaned)
+
+        if len(normalized) >= limit:
+            break
 
     return normalized
 
 
-def build_snapshot(
-    books: list[dict[str, Any]],
-    status: str,
-    fetch_mode: str,
-    source_url: str,
-    error_message: str = "",
-) -> dict[str, Any]:
+def fetch_section(shelf: str, limit: int) -> dict[str, Any]:
+    url = build_rss_url(shelf)
+    xml_text = http_get(url)
+    parsed = parse_rss_items(xml_text)
+    books = normalize_books(parsed, limit)
+
     return {
-        "meta": {
-            "source": config.SOURCE_LABEL,
-            "source_url": source_url,
-            "shelf": config.GOODREADS_SHELF,
-            "status": status,
-            "fetch_mode": fetch_mode,
-            "last_attempted_sync": utc_now_iso(),
-            "last_successful_sync": utc_now_iso() if status == "ok" else "",
-            "item_count": len(books),
-            "books_limit": config.BOOKS_LIMIT,
-            "error_message": error_message,
-        },
+        "shelf": shelf,
+        "source_url": url,
+        "item_count": len(books),
         "books": books,
     }
 
 
-def merge_with_previous_success(
-    previous_cache: dict[str, Any] | None,
-    new_snapshot: dict[str, Any],
-) -> dict[str, Any]:
-    previous_meta = (previous_cache or {}).get("meta", {})
-    if previous_meta.get("last_successful_sync") and not new_snapshot["meta"].get("last_successful_sync"):
-        new_snapshot["meta"]["last_successful_sync"] = previous_meta.get("last_successful_sync", "")
-    return new_snapshot
+def build_failure_snapshot(previous_cache: dict[str, Any] | None, error_message: str) -> dict[str, Any]:
+    if previous_cache and config.USE_CACHE_FALLBACK and config.PRESERVE_LAST_GOOD_SNAPSHOT:
+        cache = previous_cache
+        meta = cache.setdefault("meta", {})
+        meta["status"] = "source_unavailable_using_cache"
+        meta["fetch_mode"] = "cache"
+        meta["last_attempted_sync"] = utc_now_iso()
+        meta["error_message"] = error_message
+        return cache
+
+    return {
+        "meta": {
+            "source": config.SOURCE_LABEL,
+            "status": "source_unavailable_no_cache",
+            "fetch_mode": "none",
+            "last_attempted_sync": utc_now_iso(),
+            "last_successful_sync": "",
+            "error_message": error_message,
+        },
+        "sections": {
+            "currently_reading": {
+                "enabled": config.SHOW_CURRENTLY_READING_SECTION,
+                "title": config.VISUAL_CURRENTLY_READING_TITLE,
+                "shelf": config.CURRENTLY_READING_SHELF,
+                "item_count": 0,
+                "books": [],
+            },
+            "recent_read": {
+                "enabled": config.SHOW_RECENT_READ_SECTION,
+                "title": config.VISUAL_RECENT_READ_TITLE,
+                "shelf": config.RECENT_READ_SHELF,
+                "item_count": 0,
+                "books": [],
+            },
+        },
+    }
 
 
 def main() -> int:
     ensure_dir(config.DATA_DIR)
 
-    if config.GOODREADS_USER_ID == "YOUR_GOODREADS_USER_ID":
+    if not config.GOODREADS_USER_ID.strip():
         print("ERROR: Goodreads user id is not configured.")
         return 1
 
-    source_url = build_rss_url()
     previous_cache = read_json(config.CACHE_PATH)
 
     try:
-        xml_text = http_get(source_url)
-        parsed_books = parse_rss_items(xml_text)
-        normalized_books = normalize_books(parsed_books)
-        normalized_books = normalized_books[: config.BOOKS_LIMIT]
+        sections: dict[str, Any] = {}
 
-        is_valid, validation_reason = validate_snapshot(
-            normalized_books,
-            min_valid_books=config.MIN_VALID_BOOKS,
-            max_duplicate_ratio=config.MAX_DUPLICATE_RATIO,
+        if config.SHOW_CURRENTLY_READING_SECTION:
+            current = fetch_section(
+                shelf=config.CURRENTLY_READING_SHELF,
+                limit=config.CURRENTLY_READING_LIMIT,
+            )
+            sections["currently_reading"] = {
+                "enabled": True,
+                "title": config.VISUAL_CURRENTLY_READING_TITLE,
+                **current,
+            }
+        else:
+            sections["currently_reading"] = {
+                "enabled": False,
+                "title": config.VISUAL_CURRENTLY_READING_TITLE,
+                "shelf": config.CURRENTLY_READING_SHELF,
+                "source_url": "",
+                "item_count": 0,
+                "books": [],
+            }
+
+        if config.SHOW_RECENT_READ_SECTION:
+            recent = fetch_section(
+                shelf=config.RECENT_READ_SHELF,
+                limit=config.RECENT_READ_LIMIT,
+            )
+            sections["recent_read"] = {
+                "enabled": True,
+                "title": config.VISUAL_RECENT_READ_TITLE,
+                **recent,
+            }
+        else:
+            sections["recent_read"] = {
+                "enabled": False,
+                "title": config.VISUAL_RECENT_READ_TITLE,
+                "shelf": config.RECENT_READ_SHELF,
+                "source_url": "",
+                "item_count": 0,
+                "books": [],
+            }
+
+        valid_count = 0
+        if sections["currently_reading"]["enabled"]:
+            if sections["currently_reading"]["item_count"] >= config.MIN_VALID_BOOKS_PER_SECTION:
+                valid_count += 1
+        if sections["recent_read"]["enabled"]:
+            if sections["recent_read"]["item_count"] >= config.MIN_VALID_BOOKS_PER_SECTION:
+                valid_count += 1
+
+        required_enabled_sections = sum(
+            1 for section in sections.values() if section["enabled"]
         )
 
-        if not is_valid and config.STRICT_VALIDATION:
-            if config.USE_CACHE_FALLBACK and previous_cache and config.PRESERVE_LAST_GOOD_SNAPSHOT:
-                fallback = previous_cache
-                fallback_meta = fallback.setdefault("meta", {})
-                fallback_meta["status"] = "cached_fallback"
-                fallback_meta["fetch_mode"] = "cache"
-                fallback_meta["last_attempted_sync"] = utc_now_iso()
-                fallback_meta["error_message"] = validation_reason
-                write_json(
-                    config.CACHE_PATH,
-                    fallback,
-                    indent=config.JSON_INDENT,
-                    sort_keys=config.JSON_SORT_KEYS,
-                )
-                print(f"Using cache fallback due to validation failure: {validation_reason}")
-                return 0
-
-            failed_snapshot = build_snapshot(
-                books=[],
-                status="invalid_snapshot",
-                fetch_mode="network",
-                source_url=source_url,
-                error_message=validation_reason,
-            )
-            failed_snapshot = merge_with_previous_success(previous_cache, failed_snapshot)
+        if config.STRICT_VALIDATION and required_enabled_sections > 0 and valid_count == 0:
+            snapshot = build_failure_snapshot(previous_cache, "all_enabled_sections_invalid_or_empty")
             write_json(
                 config.CACHE_PATH,
-                failed_snapshot,
+                snapshot,
                 indent=config.JSON_INDENT,
                 sort_keys=config.JSON_SORT_KEYS,
             )
-            print(f"Stored invalid snapshot metadata: {validation_reason}")
+            print("Goodreads sync fallback: all enabled sections invalid or empty.")
             return 0
 
-        snapshot = build_snapshot(
-            books=normalized_books,
-            status="ok",
-            fetch_mode="network",
-            source_url=source_url,
-        )
-        snapshot = merge_with_previous_success(previous_cache, snapshot)
+        last_successful_sync = utc_now_iso()
+        if previous_cache:
+            prev_success = previous_cache.get("meta", {}).get("last_successful_sync", "")
+        else:
+            prev_success = ""
+
+        snapshot = {
+            "meta": {
+                "source": config.SOURCE_LABEL,
+                "status": "ok",
+                "fetch_mode": "network",
+                "last_attempted_sync": utc_now_iso(),
+                "last_successful_sync": last_successful_sync or prev_success,
+                "error_message": "",
+            },
+            "sections": sections,
+        }
+
         write_json(
             config.CACHE_PATH,
             snapshot,
             indent=config.JSON_INDENT,
             sort_keys=config.JSON_SORT_KEYS,
         )
-        print(f"Goodreads sync OK. Books stored: {len(normalized_books)}")
+        print("Goodreads sync OK.")
         return 0
 
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, ET.ParseError, ValueError) as exc:
-        if config.USE_CACHE_FALLBACK and previous_cache and config.PRESERVE_LAST_GOOD_SNAPSHOT:
-            fallback = previous_cache
-            fallback_meta = fallback.setdefault("meta", {})
-            fallback_meta["status"] = "source_unavailable_using_cache"
-            fallback_meta["fetch_mode"] = "cache"
-            fallback_meta["last_attempted_sync"] = utc_now_iso()
-            fallback_meta["error_message"] = str(exc)
-            write_json(
-                config.CACHE_PATH,
-                fallback,
-                indent=config.JSON_INDENT,
-                sort_keys=config.JSON_SORT_KEYS,
-            )
-            print(f"Goodreads fetch failed. Using cache: {exc}")
-            return 0
-
-        failed_snapshot = build_snapshot(
-            books=[],
-            status="source_unavailable_no_cache",
-            fetch_mode="none",
-            source_url=source_url,
-            error_message=str(exc),
-        )
-        failed_snapshot = merge_with_previous_success(previous_cache, failed_snapshot)
+        snapshot = build_failure_snapshot(previous_cache, str(exc))
         write_json(
             config.CACHE_PATH,
-            failed_snapshot,
+            snapshot,
             indent=config.JSON_INDENT,
             sort_keys=config.JSON_SORT_KEYS,
         )
-        print(f"Goodreads fetch failed and no cache available: {exc}")
+        print(f"Goodreads sync fallback due to fetch/parse error: {exc}")
         return 0
 
     except Exception as exc:
