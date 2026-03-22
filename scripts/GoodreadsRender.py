@@ -54,16 +54,16 @@ def build_visual_footer_meta_line(snapshot: dict[str, Any]) -> str:
     meta = snapshot.get("meta", {})
     parts: list[str] = []
 
-    if config.SHOW_LAST_SYNC:
+    if getattr(config, "SHOW_LAST_SYNC", True):
         sync = str(meta.get("last_successful_sync", "")).strip()
         if sync:
             sync_label = getattr(config, "VISUAL_FOOTER_SYNC_LABEL", "SYNC")
             parts.append(f"{sync_label}: {html_escape(sync)}")
 
-    if config.SHOW_LAST_UPDATE:
+    if getattr(config, "SHOW_LAST_UPDATE", True):
         parts.append(f"LAST UPDATE: {html_escape(build_last_update_utc(snapshot))}")
 
-    if config.SHOW_SOURCE:
+    if getattr(config, "SHOW_SOURCE", True):
         parts.append(f"SOURCE: {html_escape(str(meta.get('source', '')))}")
 
     return " • ".join(parts)
@@ -73,19 +73,19 @@ def build_cli_meta_line(snapshot: dict[str, Any]) -> str:
     meta = snapshot.get("meta", {})
     parts: list[str] = []
 
-    if config.SHOW_STATUS:
+    if getattr(config, "SHOW_STATUS", True):
         parts.append(f"status={meta.get('status', '')}")
 
-    if config.SHOW_FETCH_MODE:
+    if getattr(config, "SHOW_FETCH_MODE", True):
         parts.append(f"mode={meta.get('fetch_mode', '')}")
 
-    if config.SHOW_LAST_SYNC:
+    if getattr(config, "SHOW_LAST_SYNC", True):
         parts.append(f"sync={meta.get('last_successful_sync', '')}")
 
-    if config.SHOW_LAST_UPDATE:
+    if getattr(config, "SHOW_LAST_UPDATE", True):
         parts.append(f"{config.CLI_LABEL_LAST_UPDATE}={build_last_update_utc(snapshot)}")
 
-    if config.SHOW_SOURCE:
+    if getattr(config, "SHOW_SOURCE", True):
         parts.append(f"source={meta.get('source', '')}")
 
     return " | ".join(parts)
@@ -109,7 +109,7 @@ def render_option1_cover(book: dict[str, Any]) -> str:
     alt = " — ".join(alt_parts) if alt_parts else "Book cover"
 
     border_style = ""
-    if config.OPTION1_ENABLE_IMAGE_BORDER:
+    if getattr(config, "OPTION1_ENABLE_IMAGE_BORDER", False):
         border_style = f"border:1px solid {config.OPTION1_IMAGE_BORDER_COLOR};"
 
     style = (
@@ -123,14 +123,13 @@ def render_option1_cover(book: dict[str, Any]) -> str:
         f"{border_style}"
     )
 
-    if config.OPTION1_SHOW_COVERS and cover:
+    if getattr(config, "OPTION1_SHOW_COVERS", True) and cover:
         image_html = (
             f'<img src="{html_escape(cover)}" '
             f'width="{config.OPTION1_COVER_WIDTH}" '
             f'height="{config.OPTION1_COVER_HEIGHT}" '
             f'alt="{html_escape(alt)}" '
             f'style="{style}" />'
-            f'<br/>'
         )
     else:
         image_html = (
@@ -158,11 +157,12 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
     if not section.get("enabled", False):
         return ""
 
-    # Salto simple, no gigante
+    # Un solo salto real entre subtítulo y covers
     header = (
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
         f'</div>'
+        f'<br/>'
     )
 
     if not books:
@@ -170,10 +170,8 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
 
     covers_html = "".join(render_option1_cover(book) for book in books)
 
-    return (
-        header
-        + covers_html
-    )
+    # Un solo salto al final de la sección
+    return header + covers_html + "<br/>"
 
 
 # ============================================================
@@ -194,7 +192,7 @@ def render_option2_cover(book: dict[str, Any]) -> str:
     alt = " — ".join(alt_parts) if alt_parts else "Book cover"
 
     border_style = ""
-    if config.OPTION2_ENABLE_IMAGE_BORDER:
+    if getattr(config, "OPTION2_ENABLE_IMAGE_BORDER", False):
         border_style = f"border:1px solid {config.OPTION2_IMAGE_BORDER_COLOR};"
 
     style = (
@@ -206,7 +204,7 @@ def render_option2_cover(book: dict[str, Any]) -> str:
         f"{border_style}"
     )
 
-    if config.OPTION2_SHOW_COVER and cover:
+    if getattr(config, "OPTION2_SHOW_COVER", True) and cover:
         image_html = (
             f'<img src="{html_escape(cover)}" '
             f'width="{config.OPTION2_COVER_WIDTH}" '
@@ -227,7 +225,7 @@ def render_option2_cover(book: dict[str, Any]) -> str:
             f'</div>'
         )
 
-    if config.OPTION2_SHOW_LINK and link:
+    if getattr(config, "OPTION2_SHOW_LINK", True) and link:
         return f'<a href="{html_escape(link)}">{image_html}</a>'
 
     return image_html
@@ -284,7 +282,7 @@ def render_option2_section(section: dict[str, Any], section_name: str, section_t
         "margin:0;"
     )
 
-    if config.OPTION2_FORCE_BORDERLESS_TABLE:
+    if getattr(config, "OPTION2_FORCE_BORDERLESS_TABLE", True):
         table_style += "border-spacing:0;"
 
     table_html = (
@@ -293,7 +291,7 @@ def render_option2_section(section: dict[str, Any], section_name: str, section_t
         f'</table>'
     )
 
-    return header + table_html + '<br/>'
+    return header + table_html + "<br/>"
 
 
 # ============================================================
@@ -301,22 +299,18 @@ def render_option2_section(section: dict[str, Any], section_name: str, section_t
 # ============================================================
 
 def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
-    if not config.SHOW_VISUAL_FOOTER_META:
+    if not getattr(config, "SHOW_VISUAL_FOOTER_META", True):
         return ""
 
     meta_line = build_visual_footer_meta_line(snapshot)
     if not meta_line:
         return ""
 
-    if config.VISUAL_FOOTER_META_USE_SUB:
+    if getattr(config, "VISUAL_FOOTER_META_USE_SUB", True):
         meta_line = f"<sub>{meta_line}</sub>"
 
-    # Salto simple antes y después del bloque meta
-    return (
-        '<br/>'
-        + meta_line
-        + '<br/><br/>'
-    )
+    # Un salto simple antes y uno simple después
+    return "<br/>" + meta_line + "<br/>"
 
 
 # ============================================================
@@ -330,27 +324,28 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
 
     lines: list[str] = []
 
-    if config.VISUAL_TITLE_USE_SMALL:
+    if getattr(config, "VISUAL_TITLE_USE_SMALL", True):
         lines.append(f'<sub><strong>{html_escape(config.VISUAL_BLOCK_TITLE)}</strong></sub>')
     else:
         lines.append(f"### {html_escape(config.VISUAL_BLOCK_TITLE)}")
 
-    if config.VISUAL_SHOW_DESCRIPTION and config.VISUAL_BLOCK_DESCRIPTION.strip():
+    if getattr(config, "VISUAL_SHOW_DESCRIPTION", True) and str(config.VISUAL_BLOCK_DESCRIPTION).strip():
         lines.append(f'<sub>{html_escape(config.VISUAL_BLOCK_DESCRIPTION)}</sub>')
 
-    lines.append('<br/>')
+    # Un solo salto antes del contenido visual
+    lines.append("<br/>")
 
     current_html = ""
     recent_html = ""
 
     if config.SHOW_CURRENTLY_READING_SECTION:
-        if config.OPTION2_CARD_TABLE_ENABLED:
+        if getattr(config, "OPTION2_CARD_TABLE_ENABLED", False):
             current_html = render_option2_section(
                 current_section,
                 "currently_reading",
                 config.VISUAL_CURRENTLY_READING_TITLE,
             )
-        elif config.OPTION1_COVERS_ONLY_ENABLED:
+        elif getattr(config, "OPTION1_COVERS_ONLY_ENABLED", True):
             current_html = render_option1_section(
                 current_section,
                 "currently_reading",
@@ -358,13 +353,13 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
             )
 
     if config.SHOW_RECENT_READ_SECTION:
-        if config.OPTION2_CARD_TABLE_ENABLED:
+        if getattr(config, "OPTION2_CARD_TABLE_ENABLED", False):
             recent_html = render_option2_section(
                 recent_section,
                 "recent_read",
                 config.VISUAL_RECENT_READ_TITLE,
             )
-        elif config.OPTION1_COVERS_ONLY_ENABLED:
+        elif getattr(config, "OPTION1_COVERS_ONLY_ENABLED", True):
             recent_html = render_option1_section(
                 recent_section,
                 "recent_read",
@@ -401,16 +396,16 @@ def render_cli_section(section: dict[str, Any], section_name: str, label: str) -
     shelf = str(section.get("shelf", ""))
     limit = resolve_section_limit_from_snapshot(section, section_name)
 
-    if config.CLI_SHOW_SECTION_HEADERS:
+    if getattr(config, "CLI_SHOW_SECTION_HEADERS", True):
         header_parts = [f"[{label}]"]
 
-        if config.CLI_SHOW_SECTION_SHELF:
+        if getattr(config, "CLI_SHOW_SECTION_SHELF", True):
             header_parts.append(f"shelf={shelf}")
 
-        if config.CLI_SHOW_SECTION_BOOK_COUNT:
+        if getattr(config, "CLI_SHOW_SECTION_BOOK_COUNT", True):
             header_parts.append(f"books={len(books)}")
 
-        if config.CLI_SHOW_SECTION_LIMIT:
+        if getattr(config, "CLI_SHOW_SECTION_LIMIT", True):
             header_parts.append(f"limit={limit}")
 
         lines.append(" ".join(header_parts))
@@ -434,7 +429,7 @@ def render_cli_section(section: dict[str, Any], section_name: str, label: str) -
         if author:
             line += f" — {author}"
 
-        if config.CLI_SHOW_LINKS_INLINE:
+        if getattr(config, "CLI_SHOW_LINKS_INLINE", False):
             link = str(book.get("link", "") or "")
             if link:
                 line += f" [{link}]"
@@ -452,18 +447,18 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
     lines.append(f"```{config.CLI_CODE_FENCE_LANGUAGE}")
     lines.append(f"# {config.CLI_BLOCK_TITLE}")
 
-    if config.CLI_DESCRIPTION.strip():
+    if str(config.CLI_DESCRIPTION).strip():
         lines.append(f"# {config.CLI_DESCRIPTION}")
 
     meta_line = build_cli_meta_line(snapshot)
     if meta_line:
-        if config.CLI_COMPACT_META:
+        if getattr(config, "CLI_COMPACT_META", True):
             lines.append("# " + meta_line)
         else:
             for piece in meta_line.split(" | "):
                 lines.append(f"# {piece}")
 
-    if config.CLI_DIVIDER:
+    if getattr(config, "CLI_DIVIDER", True):
         lines.append("")
 
     if config.SHOW_CURRENTLY_READING_SECTION:
@@ -505,9 +500,9 @@ def write_render_metadata(
         "meta": {
             "rendered_at": utc_now_iso(),
             "render_mode": (
-                f'option1={"on" if config.OPTION1_COVERS_ONLY_ENABLED else "off"}|'
-                f'option2={"on" if config.OPTION2_CARD_TABLE_ENABLED else "off"}|'
-                f'option3_cli={"on" if config.OPTION3_CLI_ENABLED else "off"}'
+                f'option1={"on" if getattr(config, "OPTION1_COVERS_ONLY_ENABLED", True) else "off"}|'
+                f'option2={"on" if getattr(config, "OPTION2_CARD_TABLE_ENABLED", False) else "off"}|'
+                f'option3_cli={"on" if getattr(config, "OPTION3_CLI_ENABLED", True) else "off"}'
             ),
             "rendered_visual": rendered_visual,
             "rendered_cli": rendered_cli,
@@ -564,8 +559,8 @@ def main() -> int:
 
     readme = read_text(config.README_PATH)
 
-    render_visual = config.OPTION1_COVERS_ONLY_ENABLED or config.OPTION2_CARD_TABLE_ENABLED
-    render_cli = config.OPTION3_CLI_ENABLED
+    render_visual = getattr(config, "OPTION1_COVERS_ONLY_ENABLED", True) or getattr(config, "OPTION2_CARD_TABLE_ENABLED", False)
+    render_cli = getattr(config, "OPTION3_CLI_ENABLED", True)
 
     if render_visual:
         visual_block = render_visual_block(snapshot)
@@ -575,7 +570,7 @@ def main() -> int:
             config.README_MARKER_VISUAL_END,
             visual_block,
         )
-    elif not config.PRESERVE_UNUSED_BLOCKS:
+    elif not getattr(config, "PRESERVE_UNUSED_BLOCKS", True):
         readme = replace_between_markers(
             readme,
             config.README_MARKER_VISUAL_START,
@@ -591,7 +586,7 @@ def main() -> int:
             config.README_MARKER_CLI_END,
             cli_block,
         )
-    elif not config.PRESERVE_UNUSED_BLOCKS:
+    elif not getattr(config, "PRESERVE_UNUSED_BLOCKS", True):
         readme = replace_between_markers(
             readme,
             config.README_MARKER_CLI_START,
