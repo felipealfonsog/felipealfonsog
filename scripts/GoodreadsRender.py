@@ -85,14 +85,15 @@ def render_visual_book_card(book: dict[str, Any]) -> str:
             f'background:{config.VISUAL_FALLBACK_BG};'
             f'color:{config.VISUAL_FALLBACK_TEXT_COLOR};'
             f'border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;'
-            f'margin:0 auto;font-size:10px;text-align:center;padding:4px;{border_style}">'
-            f'{html_escape(truncate(title or "Untitled", 16))}</div>'
+            f'margin:0 auto;font-size:9px;text-align:center;padding:4px;{border_style}">'
+            f'{html_escape(truncate(title or "Untitled", 14))}</div>'
         )
 
     if config.SHOW_LINK and link:
         img_html = f'<a href="{html_escape(link)}">{img_html}</a>'
 
     text_bits = []
+
     if config.VISUAL_SHOW_CAPTION:
         if config.VISUAL_CAPTION_SHOW_TITLE and config.SHOW_TITLE and title:
             text_bits.append(
@@ -111,10 +112,12 @@ def render_visual_book_card(book: dict[str, Any]) -> str:
     text_html = "".join(text_bits)
 
     return (
-        f'<td align="center" valign="top" '
-        f'style="padding:{config.VISUAL_ITEM_MARGIN_PX}px; width:{config.VISUAL_COVER_WIDTH + 22}px;">'
+        f'<span style="display:inline-block;vertical-align:top;'
+        f'width:{config.VISUAL_COVER_WIDTH + 20}px;'
+        f'margin:{config.VISUAL_ITEM_MARGIN_PX}px;'
+        f'text-align:center;">'
         f'{img_html}{text_html}'
-        f'</td>'
+        f'</span>'
     )
 
 
@@ -131,20 +134,12 @@ def render_visual_section(section: dict[str, Any], section_title: str) -> str:
             f'</div>'
         )
 
-    items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
-    rows = []
-
-    for i in range(0, len(books), items_per_row):
-        chunk = books[i : i + items_per_row]
-        row = "".join(render_visual_book_card(book) for book in chunk)
-        rows.append(f"<tr>{row}</tr>")
-
-    table_html = "".join(rows)
+    items_html = "".join(render_visual_book_card(book) for book in books)
 
     return (
         f'<div align="{html_escape(config.VISUAL_ALIGN)}">'
-        f'<sub><strong>{html_escape(section_title)}</strong></sub>'
-        f'<table><tbody>{table_html}</tbody></table>'
+        f'<sub><strong>{html_escape(section_title)}</strong></sub><br/>'
+        f'{items_html}'
         f'</div>'
     )
 
@@ -159,10 +154,13 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
     else:
         lines.append(f'### {html_escape(config.VISUAL_BLOCK_TITLE)}')
 
+    if config.VISUAL_BLOCK_DESCRIPTION.strip():
+        lines.append(f'<sub>{html_escape(config.VISUAL_BLOCK_DESCRIPTION)}</sub>')
+
     if config.VISUAL_META_AS_SUBTEXT:
         meta_line = build_visual_meta_line(snapshot)
         if meta_line:
-            lines.append(f"<sub>{meta_line}</sub>")
+            lines.append(f'<sub>{meta_line}</sub>')
 
     current_html = ""
     recent_html = ""
@@ -242,6 +240,9 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
     lines.append(f"```{config.CLI_CODE_FENCE_LANGUAGE}")
     lines.append(f"# {config.CLI_BLOCK_TITLE}")
 
+    if config.CLI_DESCRIPTION.strip():
+        lines.append(f"# {config.CLI_DESCRIPTION}")
+
     meta_parts = []
     if config.SHOW_STATUS:
         meta_parts.append(f"status={meta.get('status', '')}")
@@ -280,7 +281,7 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
             )
         )
 
-    if len(lines) <= 3:
+    if len(lines) <= 4:
         lines.append(config.CLI_EMPTY_MESSAGE)
 
     lines.append("```")
