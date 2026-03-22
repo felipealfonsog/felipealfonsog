@@ -48,31 +48,20 @@ RECENT_READ_LIMIT = 10
 
 
 # ============================================================
-# RENDER MODES
+# VISUAL / CLI MODES
 # ============================================================
 # VISUAL_MODE:
-#   "covers_only"      -> opción 1 actual
-#   "card_table"       -> opción 2 guardada
+#   "covers_only" -> opción 1 actual
+#   "card_table"  -> opción 2 guardada para el futuro
 VISUAL_MODE = "covers_only"
 
 SHOW_VISUAL_BLOCK = True
 SHOW_CLI_BLOCK = True
-
 PRESERVE_UNUSED_BLOCKS = True
 
 
 # ============================================================
-# META TOGGLES
-# ============================================================
-SHOW_STATUS = True
-SHOW_LAST_SYNC = True
-SHOW_SOURCE = True
-SHOW_FETCH_MODE = True
-SHOW_LAST_UPDATE = True
-
-
-# ============================================================
-# VISUAL BLOCK
+# VISUAL BLOCK CONTENT
 # ============================================================
 VISUAL_BLOCK_TITLE = "Goodreads Reading Data"
 VISUAL_BLOCK_DESCRIPTION = (
@@ -86,35 +75,33 @@ VISUAL_RECENT_READ_TITLE = "Recently Read"
 VISUAL_TITLE_USE_SMALL = True
 VISUAL_SHOW_DESCRIPTION = True
 
-# Covers only mode: no titles, no authors, no summaries
+# En covers_only NO se muestran títulos/autores debajo
 SHOW_TITLE = False
 SHOW_AUTHOR = False
 SHOW_LINK = True
 SHOW_COVER = True
-SHOW_BOOK_SUMMARY = False
 
-# Covers: all must have exactly the same visual dimensions
+# Todas las imágenes deben verse iguales
 VISUAL_COVER_WIDTH = 40
 VISUAL_COVER_HEIGHT = 60
 
-# cover -> fills box, may crop slightly, all look uniform
-# contain -> preserves full image, may leave empty padding
+# "cover" fuerza tamaño visual uniforme aunque recorte un poco
 VISUAL_COVER_OBJECT_FIT = "cover"
 
-# Number of covers per row
+# Cantidad de covers por fila
 VISUAL_ITEMS_PER_ROW = 6
 
-# Spacing
+# Separación horizontal entre covers
+VISUAL_COVERS_GAP_SPACES = " "
+VISUAL_COVERS_ROW_BREAK = "<br/>"
+
+# Espaciado visual general
 VISUAL_SECTION_HEADER_ALIGN = "left"
 VISUAL_SECTION_TOP_SPACER_PX = 16
 VISUAL_SECTION_SPACER_PX = 10
 VISUAL_SECTION_BOTTOM_SPACER_PX = 16
 
-# Use one normal space between adjacent images in the HTML row
-VISUAL_COVERS_GAP_SPACES = " "
-VISUAL_COVERS_ROW_BREAK = "<br/>"
-
-# Visual style
+# Estilo de imagen
 VISUAL_IMAGE_BORDER_RADIUS_PX = 4
 VISUAL_ENABLE_IMAGE_BORDER = False
 VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
@@ -122,26 +109,28 @@ VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 VISUAL_FALLBACK_BG = "#f3f3f3"
 VISUAL_FALLBACK_TEXT_COLOR = "#666666"
 
-# Visual footer meta before CLI
+# Footer meta visual entre el bloque visual y el CLI
 SHOW_VISUAL_FOOTER_META = True
 VISUAL_FOOTER_META_USE_SUB = True
 VISUAL_FOOTER_TOP_SPACER_PX = 12
 VISUAL_FOOTER_BOTTOM_SPACER_PX = 10
 
+# Qué campos meta mostrar en el footer visual / CLI
+SHOW_STATUS = True
+SHOW_FETCH_MODE = True
+SHOW_LAST_SYNC = True
+SHOW_LAST_UPDATE = True
+SHOW_SOURCE = True
+
+
 # ============================================================
-# OPTION 2 (kept for future use)
+# OPTION 2 (GUARDADA)
 # ============================================================
 VISUAL_TABLE_CELL_PADDING_PX = 4
 VISUAL_TABLE_CELL_WIDTH_PX = 76
 VISUAL_CAPTION_TOP_MARGIN_PX = 3
 VISUAL_AUTHOR_TOP_MARGIN_PX = 1
 VISUAL_FORCE_BORDERLESS_TABLE = True
-
-# Not used in covers_only, kept only for card_table mode
-VISUAL_TITLE_IS_LINK = False
-VISUAL_AUTHOR_IS_LINK = False
-VISUAL_TITLE_MAX_LENGTH = 62
-VISUAL_AUTHOR_MAX_LENGTH = 24
 
 
 # ============================================================
@@ -151,17 +140,14 @@ CLI_BLOCK_TITLE = "Goodreads Telemetry"
 CLI_DESCRIPTION = (
     "Structured shelf telemetry derived from Goodreads RSS with validated caching continuity."
 )
-
 CLI_CODE_FENCE_LANGUAGE = "text"
 CLI_SHOW_LINKS_INLINE = False
 CLI_BOOK_INDEX_PAD = 2
 CLI_COMPACT_META = True
 CLI_DIVIDER = True
 CLI_LABEL_LAST_UPDATE = "last_update"
-
 CLI_MAX_TITLE_LENGTH = 0
 CLI_MAX_AUTHOR_LENGTH = 0
-
 CLI_SHOW_SECTION_HEADERS = True
 CLI_SHOW_SECTION_SHELF = True
 CLI_SHOW_SECTION_BOOK_COUNT = True
