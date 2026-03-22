@@ -20,9 +20,11 @@ def build_last_update_utc(snapshot: dict[str, Any]) -> str:
     attempted = str(meta.get("last_attempted_sync", "")).strip()
     if attempted:
         return attempted
+
     successful = str(meta.get("last_successful_sync", "")).strip()
     if successful:
         return successful
+
     return utc_now_iso()
 
 
@@ -92,7 +94,7 @@ def render_visual_book_card(book: dict[str, Any]) -> str:
     if config.SHOW_LINK and link:
         img_html = f'<a href="{html_escape(link)}">{img_html}</a>'
 
-    text_bits = []
+    text_bits: list[str] = []
 
     if config.VISUAL_SHOW_CAPTION:
         if config.VISUAL_CAPTION_SHOW_TITLE and config.SHOW_TITLE and title:
@@ -113,10 +115,11 @@ def render_visual_book_card(book: dict[str, Any]) -> str:
 
     return (
         f'<span style="display:inline-block;vertical-align:top;'
-        f'width:{config.VISUAL_COVER_WIDTH + 20}px;'
+        f'width:{config.VISUAL_COVER_WIDTH + 12}px;'
         f'margin:{config.VISUAL_ITEM_MARGIN_PX}px;'
         f'text-align:center;">'
-        f'{img_html}{text_html}'
+        f'{img_html}'
+        f'<div style="margin-top:4px;">{text_html}</div>'
         f'</span>'
     )
 
@@ -126,19 +129,19 @@ def render_visual_section(section: dict[str, Any], section_title: str) -> str:
     if not section.get("enabled", False):
         return ""
 
+    header = f'<div align="left"><sub><strong>{html_escape(section_title)}</strong></sub></div>'
+
     if not books:
         return (
-            f'<div align="{html_escape(config.VISUAL_ALIGN)}">'
-            f'<sub><strong>{html_escape(section_title)}</strong></sub><br/>'
-            f'<sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub>'
-            f'</div>'
+            f'{header}'
+            f'<div align="left"><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
         )
 
     items_html = "".join(render_visual_book_card(book) for book in books)
 
     return (
-        f'<div align="{html_escape(config.VISUAL_ALIGN)}">'
-        f'<sub><strong>{html_escape(section_title)}</strong></sub><br/>'
+        f'{header}'
+        f'<div align="center" style="margin-top:6px;">'
         f'{items_html}'
         f'</div>'
     )
@@ -244,6 +247,7 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
         lines.append(f"# {config.CLI_DESCRIPTION}")
 
     meta_parts = []
+
     if config.SHOW_STATUS:
         meta_parts.append(f"status={meta.get('status', '')}")
     if config.SHOW_FETCH_MODE:
@@ -304,6 +308,7 @@ def write_render_metadata(
             "snapshot_hash": sha256_json(snapshot),
         }
     }
+
     write_json(
         config.LAST_RENDER_PATH,
         payload,
