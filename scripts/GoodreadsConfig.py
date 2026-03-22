@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/13.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/14.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -48,20 +48,28 @@ RECENT_READ_LIMIT = 10
 
 
 # ============================================================
-# VISUAL / CLI MODES
+# THREE OPTIONS
 # ============================================================
-# VISUAL_MODE:
-#   "covers_only" -> opción 1 actual
-#   "card_table"  -> opción 2 guardada para el futuro
-VISUAL_MODE = "covers_only"
+# OPTION 1:
+#   Covers only
+OPTION1_COVERS_ONLY_ENABLED = True
 
-SHOW_VISUAL_BLOCK = True
-SHOW_CLI_BLOCK = True
+# OPTION 2:
+#   Old visual/card-table style
+#   Keep disabled by default
+OPTION2_CARD_TABLE_ENABLED = False
+
+# OPTION 3:
+#   CLI block
+#   This stays enabled and should not be changed structurally
+OPTION3_CLI_ENABLED = True
+
+# Preserve blocks not being rendered
 PRESERVE_UNUSED_BLOCKS = True
 
 
 # ============================================================
-# VISUAL BLOCK CONTENT
+# VISUAL BLOCK GENERAL
 # ============================================================
 VISUAL_BLOCK_TITLE = "Goodreads Reading Data"
 VISUAL_BLOCK_DESCRIPTION = (
@@ -74,68 +82,92 @@ VISUAL_RECENT_READ_TITLE = "Recently Read"
 
 VISUAL_TITLE_USE_SMALL = True
 VISUAL_SHOW_DESCRIPTION = True
-
-# En covers_only NO se muestran títulos/autores debajo
-SHOW_TITLE = False
-SHOW_AUTHOR = False
-SHOW_LINK = True
-SHOW_COVER = True
-
-# Todas las imágenes deben verse iguales
-VISUAL_COVER_WIDTH = 40
-VISUAL_COVER_HEIGHT = 60
-
-# "cover" fuerza tamaño visual uniforme aunque recorte un poco
-VISUAL_COVER_OBJECT_FIT = "cover"
-
-# Cantidad de covers por fila
-VISUAL_ITEMS_PER_ROW = 6
-
-# Separación horizontal entre covers
-VISUAL_COVERS_GAP_SPACES = " "
-VISUAL_COVERS_ROW_BREAK = "<br/>"
-
-# Espaciado visual general
 VISUAL_SECTION_HEADER_ALIGN = "left"
+
+# Header / section spacing
 VISUAL_SECTION_TOP_SPACER_PX = 16
 VISUAL_SECTION_SPACER_PX = 10
 VISUAL_SECTION_BOTTOM_SPACER_PX = 16
 
-# Estilo de imagen
-VISUAL_IMAGE_BORDER_RADIUS_PX = 4
-VISUAL_ENABLE_IMAGE_BORDER = False
-VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
-VISUAL_FALLBACK_BG = "#f3f3f3"
-VISUAL_FALLBACK_TEXT_COLOR = "#666666"
+# ============================================================
+# OPTION 1: COVERS ONLY
+# ============================================================
+# Only covers, no titles, no authors, no text list
+OPTION1_SHOW_COVERS = True
 
-# Footer meta visual entre el bloque visual y el CLI
+# All covers must look the same size
+OPTION1_COVER_WIDTH = 40
+OPTION1_COVER_HEIGHT = 60
+OPTION1_COVER_OBJECT_FIT = "cover"
+
+# Covers per row
+OPTION1_ITEMS_PER_ROW = 6
+
+# Horizontal flow between covers
+OPTION1_COVERS_GAP_SPACES = " "
+OPTION1_COVERS_ROW_BREAK = "<br/>"
+
+# Image style
+OPTION1_IMAGE_BORDER_RADIUS_PX = 4
+OPTION1_ENABLE_IMAGE_BORDER = False
+OPTION1_IMAGE_BORDER_COLOR = "#bfbfbf"
+
+# Fallback if cover missing
+OPTION1_FALLBACK_BG = "#f3f3f3"
+OPTION1_FALLBACK_TEXT_COLOR = "#666666"
+
+
+# ============================================================
+# OPTION 2: OLD CARD TABLE STYLE
+# ============================================================
+OPTION2_SHOW_TITLE = True
+OPTION2_SHOW_AUTHOR = True
+OPTION2_SHOW_LINK = True
+OPTION2_SHOW_COVER = True
+
+OPTION2_COVER_WIDTH = 42
+OPTION2_COVER_HEIGHT = 64
+OPTION2_COVER_OBJECT_FIT = "cover"
+OPTION2_ITEMS_PER_ROW = 6
+
+OPTION2_TITLE_MAX_LENGTH = 24
+OPTION2_AUTHOR_MAX_LENGTH = 18
+
+OPTION2_TABLE_CELL_PADDING_PX = 4
+OPTION2_TABLE_CELL_WIDTH_PX = 76
+OPTION2_CAPTION_TOP_MARGIN_PX = 3
+OPTION2_AUTHOR_TOP_MARGIN_PX = 1
+OPTION2_FORCE_BORDERLESS_TABLE = True
+
+OPTION2_IMAGE_BORDER_RADIUS_PX = 4
+OPTION2_ENABLE_IMAGE_BORDER = False
+OPTION2_IMAGE_BORDER_COLOR = "#bfbfbf"
+
+OPTION2_FALLBACK_BG = "#f3f3f3"
+OPTION2_FALLBACK_TEXT_COLOR = "#666666"
+
+
+# ============================================================
+# VISUAL FOOTER META (between visual and CLI)
+# ============================================================
 SHOW_VISUAL_FOOTER_META = True
-VISUAL_FOOTER_META_USE_SUB = True
-VISUAL_FOOTER_TOP_SPACER_PX = 12
-VISUAL_FOOTER_BOTTOM_SPACER_PX = 10
-
-# Qué campos meta mostrar en el footer visual / CLI
-SHOW_STATUS = True
-SHOW_FETCH_MODE = True
 SHOW_LAST_SYNC = True
 SHOW_LAST_UPDATE = True
 SHOW_SOURCE = True
 
-
-# ============================================================
-# OPTION 2 (GUARDADA)
-# ============================================================
-VISUAL_TABLE_CELL_PADDING_PX = 4
-VISUAL_TABLE_CELL_WIDTH_PX = 76
-VISUAL_CAPTION_TOP_MARGIN_PX = 3
-VISUAL_AUTHOR_TOP_MARGIN_PX = 1
-VISUAL_FORCE_BORDERLESS_TABLE = True
+VISUAL_FOOTER_META_USE_SUB = True
+VISUAL_FOOTER_TOP_SPACER_PX = 12
+VISUAL_FOOTER_BOTTOM_SPACER_PX = 10
 
 
 # ============================================================
-# CLI STYLE
+# CLI (OPTION 3)
 # ============================================================
+# Kept intact
+SHOW_STATUS = True
+SHOW_FETCH_MODE = True
+
 CLI_BLOCK_TITLE = "Goodreads Telemetry"
 CLI_DESCRIPTION = (
     "Structured shelf telemetry derived from Goodreads RSS with validated caching continuity."
