@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/12.3; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/13.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -51,9 +51,9 @@ RECENT_READ_LIMIT = 10
 # RENDER MODES
 # ============================================================
 # VISUAL_MODE:
-#   "covers_and_list"  -> opción 1 recomendada
+#   "covers_only"      -> opción 1 actual
 #   "card_table"       -> opción 2 guardada
-VISUAL_MODE = "covers_and_list"
+VISUAL_MODE = "covers_only"
 
 SHOW_VISUAL_BLOCK = True
 SHOW_CLI_BLOCK = True
@@ -62,22 +62,13 @@ PRESERVE_UNUSED_BLOCKS = True
 
 
 # ============================================================
-# GLOBAL META TOGGLES
+# META TOGGLES
 # ============================================================
 SHOW_STATUS = True
 SHOW_LAST_SYNC = True
 SHOW_SOURCE = True
 SHOW_FETCH_MODE = True
 SHOW_LAST_UPDATE = True
-
-
-# ============================================================
-# BOOK FIELD TOGGLES
-# ============================================================
-SHOW_TITLE = True
-SHOW_AUTHOR = True
-SHOW_LINK = True
-SHOW_COVER = True
 
 
 # ============================================================
@@ -93,57 +84,37 @@ VISUAL_CURRENTLY_READING_TITLE = "Currently Reading"
 VISUAL_RECENT_READ_TITLE = "Recently Read"
 
 VISUAL_TITLE_USE_SMALL = True
-VISUAL_META_AS_SUBTEXT = False
 VISUAL_SHOW_DESCRIPTION = True
 
-# En opción 1 la lista visual NO lleva links
-VISUAL_TITLE_IS_LINK = False
-VISUAL_AUTHOR_IS_LINK = False
+# Covers only mode: no titles, no authors, no summaries
+SHOW_TITLE = False
+SHOW_AUTHOR = False
+SHOW_LINK = True
+SHOW_COVER = True
+SHOW_BOOK_SUMMARY = False
 
-# Conviene truncar para que NINGUNA línea se rompa feo
-VISUAL_TITLE_MAX_LENGTH = 62
-VISUAL_AUTHOR_MAX_LENGTH = 24
+# Covers: all must have exactly the same visual dimensions
+VISUAL_COVER_WIDTH = 40
+VISUAL_COVER_HEIGHT = 60
 
-# Covers: mismas dimensiones visuales SIEMPRE
-VISUAL_COVER_WIDTH = 42
-VISUAL_COVER_HEIGHT = 64
-VISUAL_ITEMS_PER_ROW = 6
-
-# object-fit:
-#   "cover"   -> todas se ven iguales, recorta si hace falta
-#   "contain" -> muestra la portada completa pero puede dejar aire
+# cover -> fills box, may crop slightly, all look uniform
+# contain -> preserves full image, may leave empty padding
 VISUAL_COVER_OBJECT_FIT = "cover"
 
-# Compact spacing
-VISUAL_SECTION_HEADER_ALIGN = "left"
-VISUAL_SECTION_TOP_SPACER_PX = 10
-VISUAL_SECTION_SPACER_PX = 8
-VISUAL_SECTION_BOTTOM_SPACER_PX = 14
+# Number of covers per row
+VISUAL_ITEMS_PER_ROW = 6
 
-# Fila de covers
+# Spacing
+VISUAL_SECTION_HEADER_ALIGN = "left"
+VISUAL_SECTION_TOP_SPACER_PX = 16
+VISUAL_SECTION_SPACER_PX = 10
+VISUAL_SECTION_BOTTOM_SPACER_PX = 16
+
+# Use one normal space between adjacent images in the HTML row
 VISUAL_COVERS_GAP_SPACES = " "
 VISUAL_COVERS_ROW_BREAK = "<br/>"
 
-# Listado compacto debajo
-VISUAL_LIST_USE_SUB = True
-VISUAL_LIST_SHOW_INDEX = False
-VISUAL_LIST_PREFIX = "-"
-VISUAL_LIST_SHOW_READ_MORE = False
-VISUAL_READ_MORE_LABEL = "[read more]"
-VISUAL_LIST_LINE_BREAK = "<br/>"
-
-# Summary / description apagado
-SHOW_BOOK_SUMMARY = False
-BOOK_SUMMARY_MAX_LENGTH = 140
-
-# Opción 2: card table compacta guardada
-VISUAL_TABLE_CELL_PADDING_PX = 4
-VISUAL_TABLE_CELL_WIDTH_PX = 76
-VISUAL_CAPTION_TOP_MARGIN_PX = 3
-VISUAL_AUTHOR_TOP_MARGIN_PX = 1
-VISUAL_FORCE_BORDERLESS_TABLE = True
-
-# Estilo de imagen
+# Visual style
 VISUAL_IMAGE_BORDER_RADIUS_PX = 4
 VISUAL_ENABLE_IMAGE_BORDER = False
 VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
@@ -151,12 +122,26 @@ VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 VISUAL_FALLBACK_BG = "#f3f3f3"
 VISUAL_FALLBACK_TEXT_COLOR = "#666666"
 
-# Línea meta entre visual y CLI
+# Visual footer meta before CLI
 SHOW_VISUAL_FOOTER_META = True
-VISUAL_FOOTER_META_PREFIX = ""
 VISUAL_FOOTER_META_USE_SUB = True
-VISUAL_FOOTER_TOP_SPACER_PX = 10
+VISUAL_FOOTER_TOP_SPACER_PX = 12
 VISUAL_FOOTER_BOTTOM_SPACER_PX = 10
+
+# ============================================================
+# OPTION 2 (kept for future use)
+# ============================================================
+VISUAL_TABLE_CELL_PADDING_PX = 4
+VISUAL_TABLE_CELL_WIDTH_PX = 76
+VISUAL_CAPTION_TOP_MARGIN_PX = 3
+VISUAL_AUTHOR_TOP_MARGIN_PX = 1
+VISUAL_FORCE_BORDERLESS_TABLE = True
+
+# Not used in covers_only, kept only for card_table mode
+VISUAL_TITLE_IS_LINK = False
+VISUAL_AUTHOR_IS_LINK = False
+VISUAL_TITLE_MAX_LENGTH = 62
+VISUAL_AUTHOR_MAX_LENGTH = 24
 
 
 # ============================================================
