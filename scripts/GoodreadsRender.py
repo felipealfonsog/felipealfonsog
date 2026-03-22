@@ -135,7 +135,7 @@ def render_visual_book_card(book: dict[str, Any]) -> str:
     caption_html = "".join(caption_parts)
 
     return (
-        f'<span style="display:{config.VISUAL_CARD_DISPLAY};'
+        f'<div style="display:{config.VISUAL_CARD_DISPLAY};'
         f'vertical-align:{config.VISUAL_CARD_VERTICAL_ALIGN};'
         f'width:{config.VISUAL_CARD_WIDTH_PX}px;'
         f'margin-right:{config.VISUAL_CARD_MARGIN_RIGHT_PX}px;'
@@ -144,7 +144,7 @@ def render_visual_book_card(book: dict[str, Any]) -> str:
         f'background:transparent;">'
         f'{image_html}'
         f'<div style="margin-top:{config.VISUAL_CAPTION_TOP_MARGIN_PX}px;">{caption_html}</div>'
-        f'</span>'
+        f'</div>'
     )
 
 
@@ -171,12 +171,20 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
 
     cards_html = "".join(render_visual_book_card(book) for book in books)
 
+    if config.VISUAL_GRID_USE_DIV_WRAPPER:
+        grid_html = (
+            f'<div align="{html_escape(config.VISUAL_SECTION_GRID_ALIGN)}" '
+            f'style="background:transparent;">'
+            f'{cards_html}'
+            f'</div>'
+        )
+    else:
+        grid_html = cards_html
+
     return (
         f"{header}"
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f'<div align="{html_escape(config.VISUAL_SECTION_GRID_ALIGN)}" style="background:transparent;">'
-        f"{cards_html}"
-        f"</div>"
+        f"{grid_html}"
         f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
     )
 
@@ -199,7 +207,7 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
     if config.VISUAL_META_AS_SUBTEXT:
         meta_line = build_visual_meta_line(snapshot)
         if meta_line:
-            lines.append(f'<sub>{meta_line}</sub>')
+            lines.append(f'<sub>{html_escape(meta_line)}</sub>')
 
     current_html = ""
     recent_html = ""
