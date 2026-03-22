@@ -309,7 +309,7 @@ def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
     if config.VISUAL_FOOTER_META_USE_SUB:
         meta_line = f"<br/><sub>{meta_line}</sub>"
 
-    return meta_line + "<br/><br/><br/>"
+    return meta_line + "<br/><br/>"
 
 # ============================================================
 # VISUAL BLOCK
