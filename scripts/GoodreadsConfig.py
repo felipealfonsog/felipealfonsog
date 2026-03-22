@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/5.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/6.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -40,11 +40,7 @@ RECENT_READ_SHELF = "read"
 # ============================================================
 # SECTION LIMITS
 # ============================================================
-# Si quieres una sola cifra para ambas secciones:
 GLOBAL_SECTION_LIMIT = 10
-
-# True  -> ambas secciones usan GLOBAL_SECTION_LIMIT
-# False -> usa límites separados
 USE_GLOBAL_SECTION_LIMIT = False
 
 CURRENTLY_READING_LIMIT = 8
@@ -54,14 +50,7 @@ RECENT_READ_LIMIT = 10
 # ============================================================
 # GLOBAL RENDER CONTROL
 # ============================================================
-# "visual" -> solo visual
-# "cli"    -> solo cli
-# "both"   -> ambos
 RENDER_MODE = "both"
-
-# Si una parte no se usa:
-# True  -> la conserva
-# False -> la vacía
 PRESERVE_UNUSED_BLOCKS = True
 
 
@@ -85,7 +74,7 @@ SHOW_COVER = True
 
 
 # ============================================================
-# VISUAL BLOCK TOGGLES
+# VISUAL BLOCK
 # ============================================================
 VISUAL_BLOCK_TITLE = "Goodreads Reading Intelligence"
 VISUAL_BLOCK_DESCRIPTION = (
@@ -100,7 +89,7 @@ VISUAL_TITLE_USE_SMALL = True
 VISUAL_META_AS_SUBTEXT = True
 VISUAL_SHOW_DESCRIPTION = True
 
-# Ya no se usa texto tipo "check the link"
+# No más texto tipo "check the link"
 SHOW_VISUAL_TEXT_LINK = False
 VISUAL_TEXT_LINK_LABEL = "check the link"
 
@@ -109,48 +98,44 @@ VISUAL_SHOW_CAPTION = True
 VISUAL_CAPTION_SHOW_TITLE = True
 VISUAL_CAPTION_SHOW_AUTHOR = True
 
-# El título será link y el autor no.
+# Título link, autor no
 VISUAL_CAPTION_TITLE_IS_LINK = True
 VISUAL_CAPTION_AUTHOR_IS_LINK = False
 
 VISUAL_CAPTION_MAX_TITLE_LENGTH = 18
 VISUAL_CAPTION_MAX_AUTHOR_LENGTH = 16
 
-# Tamaño de portada
+# Tamaños
 VISUAL_COVER_WIDTH = 42
 VISUAL_COVER_HEIGHT = 64
 
-# Tamaño total de card
+# Card width y spacing
 VISUAL_CARD_WIDTH_PX = 78
-
-# Espaciados
 VISUAL_CARD_MARGIN_RIGHT_PX = 8
 VISUAL_CARD_MARGIN_BOTTOM_PX = 10
 VISUAL_CAPTION_TOP_MARGIN_PX = 3
 VISUAL_AUTHOR_TOP_MARGIN_PX = 1
 
-# Layout de cards
-VISUAL_CARD_DISPLAY = "inline-block"
-VISUAL_CARD_VERTICAL_ALIGN = "top"
+# Cantidad por fila
+VISUAL_ITEMS_PER_ROW = 6
+
+# Layout basado en SPAN inline-block
+VISUAL_CARD_USE_SPAN = True
 VISUAL_CARD_TEXT_ALIGN = "center"
 
-# Bordes / forma de imagen
+# Bordes / forma
 VISUAL_IMAGE_BORDER_RADIUS_PX = 4
 VISUAL_ENABLE_IMAGE_BORDER = False
 VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
-# Placeholder si no hay portada
+# Placeholder
 VISUAL_FALLBACK_BG = "#1f1f1f"
 VISUAL_FALLBACK_TEXT_COLOR = "#f4f4f4"
 
-# Headers de sección
+# Headers y separación
 VISUAL_SECTION_HEADER_ALIGN = "left"
-VISUAL_SECTION_GRID_ALIGN = "left"
 VISUAL_SECTION_SPACER_PX = 6
 VISUAL_SECTION_BOTTOM_SPACER_PX = 12
-
-# Wrapper de grilla
-VISUAL_GRID_USE_DIV_WRAPPER = True
 
 
 # ============================================================
