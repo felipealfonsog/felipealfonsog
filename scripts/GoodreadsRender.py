@@ -15,6 +15,23 @@ from GoodreadsUtils import (
 )
 
 
+def resolve_section_limit_from_snapshot(section: dict[str, Any], fallback_name: str) -> int:
+    value = section.get("limit")
+    if isinstance(value, int) and value > 0:
+        return value
+
+    if config.USE_GLOBAL_SECTION_LIMIT:
+        return config.GLOBAL_SECTION_LIMIT
+
+    if fallback_name == "currently_reading":
+        return config.CURRENTLY_READING_LIMIT
+
+    if fallback_name == "recent_read":
+        return config.RECENT_READ_LIMIT
+
+    return config.GLOBAL_SECTION_LIMIT
+
+
 def build_last_update_utc(snapshot: dict[str, Any]) -> str:
     meta = snapshot.get("meta", {})
     attempted = str(meta.get("last_attempted_sync", "")).strip()
@@ -52,7 +69,7 @@ def build_visual_meta_line(snapshot: dict[str, Any]) -> str:
     return " • ".join(parts)
 
 
-def render_visual_book_card(book: dict[str, Any]) -> str:
+def render_visual_book_card_td(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "")
     author = str(book.get("author", "") or "")
     link = str(book.get("link", "") or "")
@@ -114,41 +131,61 @@ def render_visual_book_card(book: dict[str, Any]) -> str:
     text_html = "".join(text_bits)
 
     return (
-        f'<span style="display:inline-block;vertical-align:top;'
-        f'width:{config.VISUAL_COVER_WIDTH + 12}px;'
-        f'margin:{config.VISUAL_ITEM_MARGIN_PX}px;'
-        f'text-align:center;">'
+        f'<td valign="top" style="border:none;padding:{config.VISUAL_ITEM_PADDING_PX}px;'
+        f'text-align:center;width:{config.VISUAL_COVER_WIDTH + 16}px;">'
         f'{img_html}'
         f'<div style="margin-top:4px;">{text_html}</div>'
-        f'</span>'
+        f'</td>'
     )
 
 
-def render_visual_section(section: dict[str, Any], section_title: str) -> str:
+def render_visual_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
     books = section.get("books", [])
     if not section.get("enabled", False):
         return ""
 
-    header = f'<div align="left"><sub><strong>{html_escape(section_title)}</strong></sub></div>'
+    header = (
+        f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
+        f'<sub><strong>{html_escape(section_title)}</strong></sub>'
+        f'</div>'
+    )
 
     if not books:
         return (
             f'{header}'
-            f'<div align="left"><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
+            f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
+            f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
+            f'<sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub>'
+            f'</div>'
+            f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    items_html = "".join(render_visual_book_card(book) for book in books)
+    items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
+    rows: list[str] = []
+
+    for start in range(0, len(books), items_per_row):
+        chunk = books[start : start + items_per_row]
+        row_cells = "".join(render_visual_book_card_td(book) for book in chunk)
+        rows.append(f"<tr>{row_cells}</tr>")
+
+    table_html = (
+        f'<table style="border-collapse:collapse;border:none;margin:0;">'
+        f'{"".join(rows)}'
+        f'</table>'
+    )
 
     return (
         f'{header}'
-        f'<div align="center" style="margin-top:6px;">'
-        f'{items_html}'
-        f'</div>'
+        f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
+        f'<div align="{html_escape(config.VISUAL_SECTION_GRID_ALIGN)}">{table_html}</div>'
+        f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
     )
 
 
 def render_visual_block(snapshot: dict[str, Any]) -> str:
     sections = snapshot.get("sections", {})
+    current_section = sections.get("currently_reading", {})
+    recent_section = sections.get("recent_read", {})
 
     lines: list[str] = []
 
@@ -157,7 +194,7 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
     else:
         lines.append(f'### {html_escape(config.VISUAL_BLOCK_TITLE)}')
 
-    if config.VISUAL_BLOCK_DESCRIPTION.strip():
+    if config.VISUAL_SHOW_DESCRIPTION and config.VISUAL_BLOCK_DESCRIPTION.strip():
         lines.append(f'<sub>{html_escape(config.VISUAL_BLOCK_DESCRIPTION)}</sub>')
 
     if config.VISUAL_META_AS_SUBTEXT:
@@ -170,13 +207,15 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
 
     if config.SHOW_CURRENTLY_READING_SECTION:
         current_html = render_visual_section(
-            sections.get("currently_reading", {}),
+            current_section,
+            "currently_reading",
             config.VISUAL_CURRENTLY_READING_TITLE,
         )
 
     if config.SHOW_RECENT_READ_SECTION:
         recent_html = render_visual_section(
-            sections.get("recent_read", {}),
+            recent_section,
+            "recent_read",
             config.VISUAL_RECENT_READ_TITLE,
         )
 
@@ -194,7 +233,7 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
-def render_cli_section(section: dict[str, Any], label: str) -> list[str]:
+def render_cli_section(section: dict[str, Any], section_name: str, label: str) -> list[str]:
     lines: list[str] = []
 
     if not section.get("enabled", False):
@@ -202,8 +241,20 @@ def render_cli_section(section: dict[str, Any], label: str) -> list[str]:
 
     books = section.get("books", [])
     shelf = str(section.get("shelf", ""))
+    limit = resolve_section_limit_from_snapshot(section, section_name)
 
-    lines.append(f"[{label}] shelf={shelf} | books={len(books)}")
+    if config.CLI_SHOW_SECTION_HEADERS:
+        header_parts = [f"[{label}]"]
+
+        if config.CLI_SHOW_SECTION_SHELF:
+            header_parts.append(f"shelf={shelf}")
+
+        if config.CLI_SHOW_SECTION_BOOK_COUNT:
+            header_parts.append(f"books={len(books)}")
+
+        header_parts.append(f"limit={limit}")
+
+        lines.append(" ".join(header_parts))
 
     if not books:
         lines.append("no data available")
@@ -274,6 +325,7 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
             render_cli_section(
                 sections.get("currently_reading", {}),
                 "currently_reading",
+                "currently_reading",
             )
         )
 
@@ -281,6 +333,7 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
         lines.extend(
             render_cli_section(
                 sections.get("recent_read", {}),
+                "recent_read",
                 "recent_read",
             )
         )
@@ -336,6 +389,7 @@ def main() -> int:
                     "enabled": config.SHOW_CURRENTLY_READING_SECTION,
                     "title": config.VISUAL_CURRENTLY_READING_TITLE,
                     "shelf": config.CURRENTLY_READING_SHELF,
+                    "limit": config.GLOBAL_SECTION_LIMIT if config.USE_GLOBAL_SECTION_LIMIT else config.CURRENTLY_READING_LIMIT,
                     "item_count": 0,
                     "books": [],
                 },
@@ -343,6 +397,7 @@ def main() -> int:
                     "enabled": config.SHOW_RECENT_READ_SECTION,
                     "title": config.VISUAL_RECENT_READ_TITLE,
                     "shelf": config.RECENT_READ_SHELF,
+                    "limit": config.GLOBAL_SECTION_LIMIT if config.USE_GLOBAL_SECTION_LIMIT else config.RECENT_READ_LIMIT,
                     "item_count": 0,
                     "books": [],
                 },
