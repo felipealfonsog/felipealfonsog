@@ -16,6 +16,19 @@ from GoodreadsUtils import (
 )
 
 
+def resolve_section_limit(section_name: str) -> int:
+    if config.USE_GLOBAL_SECTION_LIMIT:
+        return config.GLOBAL_SECTION_LIMIT
+
+    if section_name == "currently_reading":
+        return config.CURRENTLY_READING_LIMIT
+
+    if section_name == "recent_read":
+        return config.RECENT_READ_LIMIT
+
+    return config.GLOBAL_SECTION_LIMIT
+
+
 def build_rss_url(shelf: str) -> str:
     return config.GOODREADS_RSS_URL_TEMPLATE.format(
         user_id=config.GOODREADS_USER_ID,
@@ -153,7 +166,8 @@ def normalize_books(books: list[dict[str, Any]], limit: int) -> list[dict[str, A
     return normalized
 
 
-def fetch_section(shelf: str, limit: int) -> dict[str, Any]:
+def fetch_section(section_name: str, shelf: str) -> dict[str, Any]:
+    limit = resolve_section_limit(section_name)
     url = build_rss_url(shelf)
     xml_text = http_get(url)
     parsed = parse_rss_items(xml_text)
@@ -162,6 +176,7 @@ def fetch_section(shelf: str, limit: int) -> dict[str, Any]:
     return {
         "shelf": shelf,
         "source_url": url,
+        "limit": limit,
         "item_count": len(books),
         "books": books,
     }
@@ -191,6 +206,7 @@ def build_failure_snapshot(previous_cache: dict[str, Any] | None, error_message:
                 "enabled": config.SHOW_CURRENTLY_READING_SECTION,
                 "title": config.VISUAL_CURRENTLY_READING_TITLE,
                 "shelf": config.CURRENTLY_READING_SHELF,
+                "limit": resolve_section_limit("currently_reading"),
                 "item_count": 0,
                 "books": [],
             },
@@ -198,6 +214,7 @@ def build_failure_snapshot(previous_cache: dict[str, Any] | None, error_message:
                 "enabled": config.SHOW_RECENT_READ_SECTION,
                 "title": config.VISUAL_RECENT_READ_TITLE,
                 "shelf": config.RECENT_READ_SHELF,
+                "limit": resolve_section_limit("recent_read"),
                 "item_count": 0,
                 "books": [],
             },
@@ -219,8 +236,8 @@ def main() -> int:
 
         if config.SHOW_CURRENTLY_READING_SECTION:
             current = fetch_section(
+                section_name="currently_reading",
                 shelf=config.CURRENTLY_READING_SHELF,
-                limit=config.CURRENTLY_READING_LIMIT,
             )
             sections["currently_reading"] = {
                 "enabled": True,
@@ -233,14 +250,15 @@ def main() -> int:
                 "title": config.VISUAL_CURRENTLY_READING_TITLE,
                 "shelf": config.CURRENTLY_READING_SHELF,
                 "source_url": "",
+                "limit": resolve_section_limit("currently_reading"),
                 "item_count": 0,
                 "books": [],
             }
 
         if config.SHOW_RECENT_READ_SECTION:
             recent = fetch_section(
+                section_name="recent_read",
                 shelf=config.RECENT_READ_SHELF,
-                limit=config.RECENT_READ_LIMIT,
             )
             sections["recent_read"] = {
                 "enabled": True,
@@ -253,21 +271,19 @@ def main() -> int:
                 "title": config.VISUAL_RECENT_READ_TITLE,
                 "shelf": config.RECENT_READ_SHELF,
                 "source_url": "",
+                "limit": resolve_section_limit("recent_read"),
                 "item_count": 0,
                 "books": [],
             }
 
         valid_count = 0
-        if sections["currently_reading"]["enabled"]:
-            if sections["currently_reading"]["item_count"] >= config.MIN_VALID_BOOKS_PER_SECTION:
-                valid_count += 1
-        if sections["recent_read"]["enabled"]:
-            if sections["recent_read"]["item_count"] >= config.MIN_VALID_BOOKS_PER_SECTION:
-                valid_count += 1
+        required_enabled_sections = 0
 
-        required_enabled_sections = sum(
-            1 for section in sections.values() if section["enabled"]
-        )
+        for section in sections.values():
+            if section["enabled"]:
+                required_enabled_sections += 1
+                if section["item_count"] >= config.MIN_VALID_BOOKS_PER_SECTION:
+                    valid_count += 1
 
         if config.STRICT_VALIDATION and required_enabled_sections > 0 and valid_count == 0:
             snapshot = build_failure_snapshot(previous_cache, "all_enabled_sections_invalid_or_empty")
