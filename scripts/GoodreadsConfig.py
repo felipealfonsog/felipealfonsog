@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/10.0; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/11.0; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -48,9 +48,17 @@ RECENT_READ_LIMIT = 10
 
 
 # ============================================================
-# GLOBAL RENDER CONTROL
+# RENDER MODES
 # ============================================================
-RENDER_MODE = "both"
+# VISUAL_MODE:
+#   "covers_and_list"  -> opción 1 (recomendada)
+#   "card_table"       -> opción 2 (la anterior, compacta con tabla)
+VISUAL_MODE = "covers_and_list"
+
+# CLI queda aparte y puede coexistir con el visual.
+SHOW_VISUAL_BLOCK = True
+SHOW_CLI_BLOCK = True
+
 PRESERVE_UNUSED_BLOCKS = True
 
 
@@ -72,6 +80,10 @@ SHOW_AUTHOR = True
 SHOW_LINK = True
 SHOW_COVER = True
 
+# Summary / description best effort
+SHOW_BOOK_SUMMARY = True
+BOOK_SUMMARY_MAX_LENGTH = 140
+
 
 # ============================================================
 # VISUAL BLOCK
@@ -89,42 +101,39 @@ VISUAL_TITLE_USE_SMALL = True
 VISUAL_META_AS_SUBTEXT = True
 VISUAL_SHOW_DESCRIPTION = True
 
-# Título con link, autor sin link
 VISUAL_TITLE_IS_LINK = True
 VISUAL_AUTHOR_IS_LINK = False
 
 VISUAL_TITLE_MAX_LENGTH = 18
 VISUAL_AUTHOR_MAX_LENGTH = 16
 
-# Portadas
 VISUAL_COVER_WIDTH = 42
 VISUAL_COVER_HEIGHT = 64
-
-# Tabla invisible para layout
 VISUAL_ITEMS_PER_ROW = 6
-VISUAL_TABLE_CELL_PADDING_PX = 4
-VISUAL_TABLE_CELL_WIDTH_PX = 76
 
-# Espaciado dentro de la celda
-VISUAL_CAPTION_TOP_MARGIN_PX = 3
-VISUAL_AUTHOR_TOP_MARGIN_PX = 1
-
-# Headers y separación
 VISUAL_SECTION_HEADER_ALIGN = "left"
 VISUAL_SECTION_SPACER_PX = 6
 VISUAL_SECTION_BOTTOM_SPACER_PX = 12
 
-# Bordes / forma
+# Opción 1: covers horizontales + listado debajo
+VISUAL_COVERS_GAP_SPACES = "  "
+VISUAL_LIST_USE_SUB = True
+VISUAL_LIST_SHOW_INDEX = False
+
+# Opción 2: card table compacta
+VISUAL_TABLE_CELL_PADDING_PX = 4
+VISUAL_TABLE_CELL_WIDTH_PX = 76
+VISUAL_CAPTION_TOP_MARGIN_PX = 3
+VISUAL_AUTHOR_TOP_MARGIN_PX = 1
+VISUAL_FORCE_BORDERLESS_TABLE = True
+
+# Estilo de imagen
 VISUAL_IMAGE_BORDER_RADIUS_PX = 4
 VISUAL_ENABLE_IMAGE_BORDER = False
 VISUAL_IMAGE_BORDER_COLOR = "#bfbfbf"
 
-# Placeholder
 VISUAL_FALLBACK_BG = "#ffffff"
 VISUAL_FALLBACK_TEXT_COLOR = "#666666"
-
-# Estilo agresivo anti-bordes
-VISUAL_FORCE_BORDERLESS_TABLE = True
 
 
 # ============================================================
