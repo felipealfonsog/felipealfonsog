@@ -10,6 +10,7 @@ from GoodreadsUtils import (
     ensure_dir,
     read_json,
     sanitize_text,
+    strip_html_tags,
     utc_now_iso,
     validate_book,
     write_json,
@@ -86,6 +87,43 @@ def extract_author_from_description(description: str) -> str:
     return ""
 
 
+def extract_summary_from_description(description: str) -> str:
+    """
+    Best effort.
+    Goodreads RSS description no siempre trae una sinopsis limpia.
+    Aquí intentamos sacar algo usable y si queda basura, se filtra/recorta.
+    """
+    if not description:
+        return ""
+
+    # Quitar imágenes
+    text = re.sub(r"<img[^>]*>", " ", description, flags=re.IGNORECASE)
+    # Convertir algunos separadores HTML en espacios
+    text = re.sub(r"</?(br|p|div|span|a|b|strong|em|i)[^>]*>", " ", text, flags=re.IGNORECASE)
+    # Limpiar el resto
+    text = strip_html_tags(text)
+    text = sanitize_text(text)
+
+    # Quitar frases típicas muy ruidosas
+    noise_patterns = [
+        r"^rated.*?$",
+        r"^is currently reading.*?$",
+        r"^added.*?$",
+        r"^reviewed.*?$",
+        r"^by\s+[^.]+",
+    ]
+    for pattern in noise_patterns:
+        text = re.sub(pattern, " ", text, flags=re.IGNORECASE)
+
+    text = sanitize_text(text)
+
+    # Si queda demasiado corto o ruido puro, lo vaciamos
+    if len(text) < 20:
+        return ""
+
+    return text
+
+
 def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
     root = ET.fromstring(xml_text)
     channel = root.find("channel")
@@ -110,6 +148,8 @@ def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
             author = extract_author_from_description(description_raw)
 
         cover = extract_cover_from_description(description_raw)
+        summary = extract_summary_from_description(description_raw)
+
         guid = sanitize_text(item.findtext("guid", default=""))
         pub_date = sanitize_text(item.findtext("pubDate", default=""))
 
@@ -119,6 +159,7 @@ def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
                 "author": author,
                 "link": link,
                 "cover": cover,
+                "summary": summary,
                 "guid": guid,
                 "pub_date": pub_date,
             }
@@ -137,6 +178,7 @@ def normalize_books(books: list[dict[str, Any]], limit: int) -> list[dict[str, A
             "author": sanitize_text(book.get("author", "")),
             "link": sanitize_text(book.get("link", "")),
             "cover": sanitize_text(book.get("cover", "")),
+            "summary": sanitize_text(book.get("summary", "")),
             "guid": sanitize_text(book.get("guid", "")),
             "pub_date": sanitize_text(book.get("pub_date", "")),
         }
