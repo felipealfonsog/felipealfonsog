@@ -69,7 +69,7 @@ def build_visual_meta_line(snapshot: dict[str, Any]) -> str:
     return " • ".join(parts)
 
 
-def render_cover_link(book: dict[str, Any]) -> str:
+def render_cover_html(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "")
     author = str(book.get("author", "") or "")
     link = str(book.get("link", "") or "")
@@ -112,10 +112,9 @@ def render_cover_link(book: dict[str, Any]) -> str:
     return image_html
 
 
-def render_title_line(book: dict[str, Any]) -> str:
+def render_title_html(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "Untitled")
     link = str(book.get("link", "") or "")
-
     safe_title = html_escape(truncate(title, config.VISUAL_TITLE_MAX_LENGTH))
 
     if config.VISUAL_TITLE_IS_LINK and config.SHOW_LINK and link:
@@ -124,27 +123,29 @@ def render_title_line(book: dict[str, Any]) -> str:
     return safe_title
 
 
-def render_author_line(book: dict[str, Any]) -> str:
+def render_author_html(book: dict[str, Any]) -> str:
     author = str(book.get("author", "") or "")
     return html_escape(truncate(author, config.VISUAL_AUTHOR_MAX_LENGTH))
 
 
-def render_visual_card(book: dict[str, Any]) -> str:
-    cover_html = render_cover_link(book)
-    title_html = render_title_line(book) if config.SHOW_TITLE else ""
-    author_html = render_author_line(book) if config.SHOW_AUTHOR else ""
+def render_visual_cell(book: dict[str, Any]) -> str:
+    cover_html = render_cover_html(book)
+    title_html = render_title_html(book) if config.SHOW_TITLE else ""
+    author_html = render_author_html(book) if config.SHOW_AUTHOR else ""
 
+    # IMPORTANT:
+    # TD solo para ordenar.
+    # Sin bordes visibles, sin listas, todo junto en la misma celda.
     return (
-        f'<div style="display:inline-block;'
-        f'vertical-align:top;'
-        f'width:{config.VISUAL_CARD_WIDTH_PX}px;'
-        f'margin-right:{config.VISUAL_CARD_GAP_PX}px;'
-        f'margin-bottom:{config.VISUAL_CARD_ROW_GAP_PX}px;'
-        f'text-align:center;">'
+        f'<td align="center" valign="top" '
+        f'style="border:none !important;outline:none !important;box-shadow:none !important;'
+        f'padding:{config.VISUAL_TABLE_CELL_PADDING_PX}px;'
+        f'width:{config.VISUAL_TABLE_CELL_WIDTH_PX}px;'
+        f'background:transparent;">'
         f'{cover_html}'
         f'<div style="margin-top:{config.VISUAL_CAPTION_TOP_MARGIN_PX}px;"><sub>{title_html}</sub></div>'
         f'<div style="margin-top:{config.VISUAL_AUTHOR_TOP_MARGIN_PX}px;"><sub>{author_html}</sub></div>'
-        f'</div>'
+        f'</td>'
     )
 
 
@@ -167,20 +168,36 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
             f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    rows: list[str] = []
+    rows = []
     items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
 
     for start in range(0, len(books), items_per_row):
         chunk = books[start : start + items_per_row]
-        row_html = "".join(render_visual_card(book) for book in chunk)
-        rows.append(f'<div>{row_html}</div>')
+        cells = "".join(render_visual_cell(book) for book in chunk)
+        rows.append(f"<tr>{cells}</tr>")
 
-    grid_html = "\n".join(rows)
+    table_style = (
+        "border-collapse:collapse;"
+        "border:none !important;"
+        "outline:none !important;"
+        "box-shadow:none !important;"
+        "background:transparent;"
+        "margin:0;"
+    )
+
+    if config.VISUAL_FORCE_BORDERLESS_TABLE:
+        table_style += "border-spacing:0;"
+
+    table_html = (
+        f'<table border="0" cellspacing="0" cellpadding="0" style="{table_style}">'
+        f'{"".join(rows)}'
+        f"</table>"
+    )
 
     return (
         f"{header}"
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f"{grid_html}"
+        f"{table_html}"
         f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
     )
 
