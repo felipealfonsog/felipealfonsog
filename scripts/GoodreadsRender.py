@@ -162,7 +162,6 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
         f'</div>'
-        f'<br/><br/>'
     )
 
     if not books:
