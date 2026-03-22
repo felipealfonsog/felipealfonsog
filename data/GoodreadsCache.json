@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-03-22T12:18:45+00:00",
-    "last_successful_sync": "2026-03-22T12:18:45+00:00",
+    "last_attempted_sync": "2026-03-22T12:33:06+00:00",
+    "last_successful_sync": "2026-03-22T12:33:06+00:00",
     "error_message": ""
   },
   "sections": {
@@ -21,6 +21,7 @@
           "author": "Rizwan Virk",
           "link": "https://www.goodreads.com/review/show/8455651783?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732188901l/220887027._SY75_.jpg",
+          "summary": "author: Rizwan Virk name: Felipe Alfonso average rating: 3.86 book published: 2019 rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8455651783?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 21 Mar 2026 08:22:01 -0700"
         },
@@ -29,6 +30,7 @@
           "author": "Rizwan Virk",
           "link": "https://www.goodreads.com/review/show/8455648321?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619978145l/57920800._SX50_.jpg",
+          "summary": "author: Rizwan Virk name: Felipe Alfonso average rating: 3.95 book published: rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8455648321?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 21 Mar 2026 08:20:21 -0700"
         },
@@ -37,6 +39,7 @@
           "author": "Peter Hollins",
           "link": "https://www.goodreads.com/review/show/8455634136?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633192138l/59131430._SX50_.jpg",
+          "summary": "author: Peter Hollins name: Felipe Alfonso average rating: 4.11 book published: rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8455634136?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 21 Mar 2026 08:13:46 -0700"
         },
@@ -45,6 +48,7 @@
           "author": "Paramahansa Yogananda",
           "link": "https://www.goodreads.com/review/show/8455624520?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538363806l/42107422._SX50_.jpg",
+          "summary": "author: Paramahansa Yogananda name: Felipe Alfonso average rating: 4.44 book published: 1946 rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8455624520?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 21 Mar 2026 08:12:09 -0700"
         },
@@ -53,6 +57,7 @@
           "author": "Robert Morton",
           "link": "https://www.goodreads.com/review/show/8399631886?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg",
+          "summary": "author: Robert Morton name: Felipe Alfonso average rating: 4.67 book published: rating: 0 read at: date added: 2026/02/28 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8399631886?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 28 Feb 2026 20:50:44 -0800"
         },
@@ -61,6 +66,7 @@
           "author": "Thomas Hobbes",
           "link": "https://www.goodreads.com/review/show/8120974609?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg",
+          "summary": "author: Thomas Hobbes name: Felipe Alfonso average rating: 4.60 book published: 1651 rating: 0 read at: date added: 2025/12/04 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8120974609?utm_medium=api&utm_source=rss",
           "pub_date": "Thu, 04 Dec 2025 08:12:48 -0800"
         },
@@ -69,6 +75,7 @@
           "author": "Gladys Díaz Armijo",
           "link": "https://www.goodreads.com/review/show/8083185323?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg",
+          "summary": "author: Gladys Díaz Armijo name: Felipe Alfonso average rating: 4.86 book published: 2025 rating: 5 read at: date added: 2025/11/18 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8083185323?utm_medium=api&utm_source=rss",
           "pub_date": "Tue, 18 Nov 2025 22:48:05 -0800"
         },
@@ -77,6 +84,7 @@
           "author": "Viktor E. Frankl",
           "link": "https://www.goodreads.com/review/show/8008450894?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg",
+          "summary": "author: Viktor E. Frankl name: Felipe Alfonso average rating: 4.38 book published: 1946 rating: 0 read at: date added: 2025/10/20 shelves: currently-reading, philosophy review:",
           "guid": "https://www.goodreads.com/review/show/8008450894?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:21:04 -0700"
         }
@@ -95,6 +103,7 @@
           "author": "Larry Wall",
           "link": "https://www.goodreads.com/review/show/8267390277?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg",
+          "summary": "author: Larry Wall name: Felipe Alfonso average rating: 4.40 book published: rating: 5 read at: date added: 2026/01/16 shelves: technology review:",
           "guid": "https://www.goodreads.com/review/show/8267390277?utm_medium=api&utm_source=rss",
           "pub_date": "Fri, 16 Jan 2026 01:17:02 -0800"
         },
@@ -103,6 +112,7 @@
           "author": "Alberto Fuguet",
           "link": "https://www.goodreads.com/review/show/2656643044?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg",
+          "summary": "author: Alberto Fuguet name: Felipe Alfonso average rating: 3.33 book published: 1992 rating: 5 read at: date added: 2025/12/07 shelves: favorites, novels review: Este libro se convirtió en mi cimiento. Me enseñó cómo escribir desde un Chile que aún carga sus heridas, pero que no deja de luchar por superarlas. En sus páginas encontré una forma de transformar el dolor en palabra, y la palabra en fuerza.",
           "guid": "https://www.goodreads.com/review/show/2656643044?utm_medium=api&utm_source=rss",
           "pub_date": "Sun, 07 Dec 2025 17:22:41 -0800"
         },
@@ -111,6 +121,7 @@
           "author": "Thich Nhat Hanh",
           "link": "https://www.goodreads.com/review/show/2645704229?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg",
+          "summary": "author: Thich Nhat Hanh name: Felipe Alfonso average rating: 4.37 book published: 1991 rating: 5 read at: 2018/12/30 date added: 2025/12/07 shelves: buddhism review: An amazing book — quite a long one, but absolutely worth it. It offers a powerful and truthful portrayal of Buddha’s life, brought to life through a beautifully crafted narrative. It feels immersive, sincere, and profoundly insightful.",
           "guid": "https://www.goodreads.com/review/show/2645704229?utm_medium=api&utm_source=rss",
           "pub_date": "Sun, 07 Dec 2025 17:22:13 -0800"
         },
@@ -119,6 +130,7 @@
           "author": "J. Krishnamurti",
           "link": "https://www.goodreads.com/review/show/2603964044?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg",
+          "summary": "author: J. Krishnamurti name: Felipe Alfonso average rating: 4.29 book published: 1969 rating: 5 read at: 2018/01/01 date added: 2025/12/07 shelves: review: It’s a very good read — concise yet impactful. It distills Krishnamurti’s core philosophical ideas in a way that feels accessible without losing depth. A great starting point for anyone curious about his thinking.",
           "guid": "https://www.goodreads.com/review/show/2603964044?utm_medium=api&utm_source=rss",
           "pub_date": "Sun, 07 Dec 2025 17:21:35 -0800"
         },
@@ -127,6 +139,7 @@
           "author": "Maurice Gee",
           "link": "https://www.goodreads.com/review/show/2668638609?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg",
+          "summary": "author: Maurice Gee name: Felipe Alfonso average rating: 3.88 book published: 1972 rating: 5 read at: 2019/01/01 date added: 2025/12/07 shelves: favorites, fiction review: It’s absolutely tremendous — a delicate, vividly descriptive narrative that wraps you in its atmosphere. I could feel the air, the places, every subtle moment unfolding around me. I loved every second of it. I’m especially glad I read it while I was in New Zealand — it made the experience even more magical.",
           "guid": "https://www.goodreads.com/review/show/2668638609?utm_medium=api&utm_source=rss",
           "pub_date": "Sun, 07 Dec 2025 17:21:04 -0800"
         },
@@ -135,6 +148,7 @@
           "author": "Pablo Neruda",
           "link": "https://www.goodreads.com/review/show/8019191236?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg",
+          "summary": "author: Pablo Neruda name: Felipe Alfonso average rating: 4.44 book published: 1951 rating: 5 read at: date added: 2025/10/25 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/8019191236?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Oct 2025 06:05:29 -0700"
         },
@@ -143,6 +157,7 @@
           "author": "J.M. Coetzee",
           "link": "https://www.goodreads.com/review/show/8019190402?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg",
+          "summary": "author: J.M. Coetzee name: Felipe Alfonso average rating: 3.85 book published: 2011 rating: 5 read at: date added: 2025/10/25 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/8019190402?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Oct 2025 06:04:56 -0700"
         },
@@ -151,6 +166,7 @@
           "author": "Stephen King",
           "link": "https://www.goodreads.com/review/show/2656635039?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg",
+          "summary": "author: Stephen King name: Felipe Alfonso average rating: 3.80 book published: 1981 rating: 5 read at: date added: 2025/10/25 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/2656635039?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Oct 2025 06:02:30 -0700"
         },
@@ -159,6 +175,7 @@
           "author": "Ernest Hemingway",
           "link": "https://www.goodreads.com/review/show/2668694518?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg",
+          "summary": "author: Ernest Hemingway name: Felipe Alfonso average rating: 4.03 book published: 1984 rating: 5 read at: date added: 2025/10/25 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/2668694518?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Oct 2025 06:02:03 -0700"
         },
@@ -167,6 +184,7 @@
           "author": "Victor Chavez",
           "link": "https://www.goodreads.com/review/show/8019181335?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg",
+          "summary": "author: Victor Chavez name: Felipe Alfonso average rating: 5.00 book published: rating: 5 read at: date added: 2025/10/25 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/8019181335?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Oct 2025 05:59:03 -0700"
         }
