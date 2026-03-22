@@ -81,7 +81,7 @@ def render_visual_author(author: str) -> str:
     return f'<div style="margin-top:{config.VISUAL_AUTHOR_TOP_MARGIN_PX}px;"><sub>{safe_author}</sub></div>'
 
 
-def render_visual_book_card_td(book: dict[str, Any]) -> str:
+def render_visual_book_card(book: dict[str, Any]) -> str:
     title = str(book.get("title", "") or "")
     author = str(book.get("author", "") or "")
     link = str(book.get("link", "") or "")
@@ -99,7 +99,7 @@ def render_visual_book_card_td(book: dict[str, Any]) -> str:
         border_style = f"border:1px solid {config.VISUAL_IMAGE_BORDER_COLOR};"
 
     if config.SHOW_COVER and cover:
-        img_html = (
+        image_html = (
             f'<img src="{html_escape(cover)}" '
             f'width="{config.VISUAL_COVER_WIDTH}" '
             f'height="{config.VISUAL_COVER_HEIGHT}" '
@@ -109,7 +109,7 @@ def render_visual_book_card_td(book: dict[str, Any]) -> str:
             f'margin:0 auto;{border_style}" />'
         )
     else:
-        img_html = (
+        image_html = (
             f'<div style="display:flex;align-items:center;justify-content:center;'
             f'width:{config.VISUAL_COVER_WIDTH}px;'
             f'height:{config.VISUAL_COVER_HEIGHT}px;'
@@ -121,28 +121,30 @@ def render_visual_book_card_td(book: dict[str, Any]) -> str:
         )
 
     if config.SHOW_LINK and link:
-        img_html = f'<a href="{html_escape(link)}">{img_html}</a>'
+        image_html = f'<a href="{html_escape(link)}">{image_html}</a>'
 
-    text_bits: list[str] = []
+    caption_parts: list[str] = []
 
     if config.VISUAL_SHOW_CAPTION:
         if config.VISUAL_CAPTION_SHOW_TITLE and config.SHOW_TITLE and title:
-            text_bits.append(render_visual_title(title, link))
+            caption_parts.append(render_visual_title(title, link))
 
         if config.VISUAL_CAPTION_SHOW_AUTHOR and config.SHOW_AUTHOR and author:
-            text_bits.append(render_visual_author(author))
+            caption_parts.append(render_visual_author(author))
 
-    text_html = "".join(text_bits)
+    caption_html = "".join(caption_parts)
 
     return (
-        f'<td valign="top" style="border:none !important;outline:none !important;'
-        f'padding:{config.VISUAL_ITEM_PADDING_PX}px;'
-        f'text-align:center;'
+        f'<span style="display:{config.VISUAL_CARD_DISPLAY};'
+        f'vertical-align:{config.VISUAL_CARD_VERTICAL_ALIGN};'
         f'width:{config.VISUAL_CARD_WIDTH_PX}px;'
+        f'margin-right:{config.VISUAL_CARD_MARGIN_RIGHT_PX}px;'
+        f'margin-bottom:{config.VISUAL_CARD_MARGIN_BOTTOM_PX}px;'
+        f'text-align:{config.VISUAL_CARD_TEXT_ALIGN};'
         f'background:transparent;">'
-        f'{img_html}'
-        f'<div style="margin-top:{config.VISUAL_CAPTION_TOP_MARGIN_PX}px;">{text_html}</div>'
-        f'</td>'
+        f'{image_html}'
+        f'<div style="margin-top:{config.VISUAL_CAPTION_TOP_MARGIN_PX}px;">{caption_html}</div>'
+        f'</span>'
     )
 
 
@@ -167,26 +169,14 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
             f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
-    rows: list[str] = []
-
-    for start in range(0, len(books), items_per_row):
-        chunk = books[start : start + items_per_row]
-        row_cells = "".join(render_visual_book_card_td(book) for book in chunk)
-        rows.append(f"<tr>{row_cells}</tr>")
-
-    table_html = (
-        '<table border="0" cellspacing="0" cellpadding="0" '
-        'style="border-collapse:collapse;border:none !important;outline:none !important;'
-        'background:transparent;margin:0;">'
-        f'{"".join(rows)}'
-        "</table>"
-    )
+    cards_html = "".join(render_visual_book_card(book) for book in books)
 
     return (
         f"{header}"
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f'<div align="{html_escape(config.VISUAL_SECTION_GRID_ALIGN)}">{table_html}</div>'
+        f'<div align="{html_escape(config.VISUAL_SECTION_GRID_ALIGN)}" style="background:transparent;">'
+        f"{cards_html}"
+        f"</div>"
         f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
     )
 
