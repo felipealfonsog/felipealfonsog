@@ -310,7 +310,7 @@ def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
         meta_line = f"<sub>{meta_line}</sub>"
 
     # Un salto simple antes y uno simple después
-    return "<br/>" + meta_line + "<br/>"
+    return "<br/>" + meta_line + "<br/><br/>"
 
 
 # ============================================================
