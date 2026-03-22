@@ -299,19 +299,17 @@ def render_option2_section(section: dict[str, Any], section_name: str, section_t
 # ============================================================
 
 def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
-    if not getattr(config, "SHOW_VISUAL_FOOTER_META", True):
+    if not config.SHOW_VISUAL_FOOTER_META:
         return ""
 
     meta_line = build_visual_footer_meta_line(snapshot)
     if not meta_line:
         return ""
 
-    if getattr(config, "VISUAL_FOOTER_META_USE_SUB", True):
+    if config.VISUAL_FOOTER_META_USE_SUB:
         meta_line = f"<sub>{meta_line}</sub>"
 
-    # Un salto simple antes y uno simple después
-    return "<br/>" + meta_line + "<br/><br/>"
-
+    return meta_line + "<br/><br/>"
 
 # ============================================================
 # VISUAL BLOCK
