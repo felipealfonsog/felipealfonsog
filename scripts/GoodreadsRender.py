@@ -72,13 +72,13 @@ def build_visual_meta_line(snapshot: dict[str, Any]) -> str:
 def render_visual_title(title: str, link: str) -> str:
     safe_title = html_escape(truncate(title, config.VISUAL_CAPTION_MAX_TITLE_LENGTH))
     if config.VISUAL_CAPTION_TITLE_IS_LINK and config.SHOW_LINK and link:
-        return f'<div><sub><a href="{html_escape(link)}">{safe_title}</a></sub></div>'
-    return f"<div><sub>{safe_title}</sub></div>"
+        return f'<sub><a href="{html_escape(link)}">{safe_title}</a></sub>'
+    return f"<sub>{safe_title}</sub>"
 
 
 def render_visual_author(author: str) -> str:
     safe_author = html_escape(truncate(author, config.VISUAL_CAPTION_MAX_AUTHOR_LENGTH))
-    return f'<div style="margin-top:{config.VISUAL_AUTHOR_TOP_MARGIN_PX}px;"><sub>{safe_author}</sub></div>'
+    return f"<sub>{safe_author}</sub>"
 
 
 def render_visual_book_card(book: dict[str, Any]) -> str:
@@ -104,47 +104,46 @@ def render_visual_book_card(book: dict[str, Any]) -> str:
             f'width="{config.VISUAL_COVER_WIDTH}" '
             f'height="{config.VISUAL_COVER_HEIGHT}" '
             f'alt="{html_escape(alt)}" '
-            f'style="display:block;object-fit:cover;'
-            f'border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;'
-            f'margin:0 auto;{border_style}" />'
+            f'style="object-fit:cover;border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;{border_style}" />'
         )
     else:
         image_html = (
-            f'<div style="display:flex;align-items:center;justify-content:center;'
-            f'width:{config.VISUAL_COVER_WIDTH}px;'
+            f'<div style="width:{config.VISUAL_COVER_WIDTH}px;'
             f'height:{config.VISUAL_COVER_HEIGHT}px;'
             f'background:{config.VISUAL_FALLBACK_BG};'
             f'color:{config.VISUAL_FALLBACK_TEXT_COLOR};'
             f'border-radius:{config.VISUAL_IMAGE_BORDER_RADIUS_PX}px;'
-            f'margin:0 auto;font-size:9px;text-align:center;padding:4px;{border_style}">'
+            f'font-size:9px;text-align:center;padding:4px;{border_style}">'
             f'{html_escape(truncate(title or "Untitled", 14))}</div>'
         )
 
     if config.SHOW_LINK and link:
         image_html = f'<a href="{html_escape(link)}">{image_html}</a>'
 
-    caption_parts: list[str] = []
+    title_html = ""
+    author_html = ""
 
     if config.VISUAL_SHOW_CAPTION:
         if config.VISUAL_CAPTION_SHOW_TITLE and config.SHOW_TITLE and title:
-            caption_parts.append(render_visual_title(title, link))
-
+            title_html = render_visual_title(title, link)
         if config.VISUAL_CAPTION_SHOW_AUTHOR and config.SHOW_AUTHOR and author:
-            caption_parts.append(render_visual_author(author))
+            author_html = render_visual_author(author)
 
-    caption_html = "".join(caption_parts)
-
+    # IMPORTANTE:
+    # usamos SPAN inline-block como wrapper del card,
+    # y dentro solo metemos elementos inline + br.
     return (
-        f'<div style="display:{config.VISUAL_CARD_DISPLAY};'
-        f'vertical-align:{config.VISUAL_CARD_VERTICAL_ALIGN};'
+        f'<span style="display:inline-block;'
+        f'vertical-align:top;'
         f'width:{config.VISUAL_CARD_WIDTH_PX}px;'
         f'margin-right:{config.VISUAL_CARD_MARGIN_RIGHT_PX}px;'
         f'margin-bottom:{config.VISUAL_CARD_MARGIN_BOTTOM_PX}px;'
         f'text-align:{config.VISUAL_CARD_TEXT_ALIGN};'
         f'background:transparent;">'
-        f'{image_html}'
-        f'<div style="margin-top:{config.VISUAL_CAPTION_TOP_MARGIN_PX}px;">{caption_html}</div>'
-        f'</div>'
+        f'{image_html}<br/>'
+        f'{title_html}<br/>'
+        f'{author_html}'
+        f'</span>'
     )
 
 
@@ -156,7 +155,7 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
     header = (
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
-        f'</div>'
+        f"</div>"
     )
 
     if not books:
@@ -169,22 +168,20 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
             f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
         )
 
-    cards_html = "".join(render_visual_book_card(book) for book in books)
+    cards = []
+    items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
 
-    if config.VISUAL_GRID_USE_DIV_WRAPPER:
-        grid_html = (
-            f'<div align="{html_escape(config.VISUAL_SECTION_GRID_ALIGN)}" '
-            f'style="background:transparent;">'
-            f'{cards_html}'
-            f'</div>'
-        )
-    else:
-        grid_html = cards_html
+    for i, book in enumerate(books, start=1):
+        cards.append(render_visual_book_card(book))
+        if i % items_per_row == 0:
+            cards.append("<br/>")
+
+    cards_html = "".join(cards)
 
     return (
         f"{header}"
         f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
-        f"{grid_html}"
+        f"{cards_html}"
         f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
     )
 
