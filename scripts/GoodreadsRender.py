@@ -51,18 +51,14 @@ def build_visual_meta_line(snapshot: dict[str, Any]) -> str:
 
     if config.SHOW_STATUS:
         parts.append(f"status: {html_escape(str(meta.get('status', '')))}")
-
     if config.SHOW_FETCH_MODE:
         parts.append(f"mode: {html_escape(str(meta.get('fetch_mode', '')))}")
-
     if config.SHOW_LAST_SYNC:
         sync = str(meta.get("last_successful_sync", "")).strip()
         if sync:
             parts.append(f"sync: {html_escape(sync)}")
-
     if config.SHOW_LAST_UPDATE:
         parts.append(f"last update: {html_escape(build_last_update_utc(snapshot))}")
-
     if config.SHOW_SOURCE:
         parts.append(f"source: {html_escape(str(meta.get('source', '')))}")
 
@@ -128,14 +124,86 @@ def render_author_html(book: dict[str, Any]) -> str:
     return html_escape(truncate(author, config.VISUAL_AUTHOR_MAX_LENGTH))
 
 
-def render_visual_cell(book: dict[str, Any]) -> str:
+def render_summary_html(book: dict[str, Any]) -> str:
+    summary = str(book.get("summary", "") or "").strip()
+    if not config.SHOW_BOOK_SUMMARY or not summary:
+        return ""
+
+    safe_summary = html_escape(truncate(summary, config.BOOK_SUMMARY_MAX_LENGTH))
+    return f'<div><sub>{safe_summary}</sub></div>'
+
+
+def render_visual_list_item(book: dict[str, Any]) -> str:
+    title_html = render_title_html(book) if config.SHOW_TITLE else ""
+    author_html = render_author_html(book) if config.SHOW_AUTHOR else ""
+    summary_html = render_summary_html(book)
+
+    line = f"{title_html}"
+    if author_html:
+        line += f" — {author_html}"
+
+    if config.VISUAL_LIST_USE_SUB:
+        line = f"<sub>{line}</sub>"
+
+    if summary_html:
+        return f"{line}<br/>{summary_html}"
+    return line
+
+
+def render_visual_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
+    books = section.get("books", [])
+    if not section.get("enabled", False):
+        return ""
+
+    header = (
+        f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
+        f'<sub><strong>{html_escape(section_title)}</strong></sub>'
+        f"</div>"
+    )
+
+    if not books:
+        return (
+            f"{header}"
+            f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
+            f'<div><sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub></div>'
+            f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
+        )
+
+    # Fila(s) horizontales de covers
+    cover_rows = []
+    items_per_row = max(1, config.VISUAL_ITEMS_PER_ROW)
+
+    for start in range(0, len(books), items_per_row):
+        chunk = books[start : start + items_per_row]
+        row = config.VISUAL_COVERS_GAP_SPACES.join(
+            render_cover_html(book) for book in chunk
+        )
+        cover_rows.append(row)
+
+    covers_html = "<br/><br/>\n".join(cover_rows)
+
+    # Listado debajo
+    list_lines = []
+    for book in books:
+        list_lines.append(render_visual_list_item(book))
+
+    list_html = "<br/>\n".join(list_lines)
+
+    return (
+        f"{header}"
+        f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
+        f"{covers_html}"
+        f'<div style="height:{config.VISUAL_SECTION_SPACER_PX}px;"></div>'
+        f"{list_html}"
+        f'<div style="height:{config.VISUAL_SECTION_BOTTOM_SPACER_PX}px;"></div>'
+    )
+
+
+def render_visual_card_table_cell(book: dict[str, Any]) -> str:
     cover_html = render_cover_html(book)
     title_html = render_title_html(book) if config.SHOW_TITLE else ""
     author_html = render_author_html(book) if config.SHOW_AUTHOR else ""
 
-    # IMPORTANT:
-    # TD solo para ordenar.
-    # Sin bordes visibles, sin listas, todo junto en la misma celda.
     return (
         f'<td align="center" valign="top" '
         f'style="border:none !important;outline:none !important;box-shadow:none !important;'
@@ -149,7 +217,7 @@ def render_visual_cell(book: dict[str, Any]) -> str:
     )
 
 
-def render_visual_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
+def render_visual_card_table_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
     books = section.get("books", [])
     if not section.get("enabled", False):
         return ""
@@ -173,7 +241,7 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
 
     for start in range(0, len(books), items_per_row):
         chunk = books[start : start + items_per_row]
-        cells = "".join(render_visual_cell(book) for book in chunk)
+        cells = "".join(render_visual_card_table_cell(book) for book in chunk)
         rows.append(f"<tr>{cells}</tr>")
 
     table_style = (
@@ -191,7 +259,7 @@ def render_visual_section(section: dict[str, Any], section_name: str, section_ti
     table_html = (
         f'<table border="0" cellspacing="0" cellpadding="0" style="{table_style}">'
         f'{"".join(rows)}'
-        f"</table>"
+        f'</table>'
     )
 
     return (
@@ -226,18 +294,32 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
     recent_html = ""
 
     if config.SHOW_CURRENTLY_READING_SECTION:
-        current_html = render_visual_section(
-            current_section,
-            "currently_reading",
-            config.VISUAL_CURRENTLY_READING_TITLE,
-        )
+        if config.VISUAL_MODE == "card_table":
+            current_html = render_visual_card_table_section(
+                current_section,
+                "currently_reading",
+                config.VISUAL_CURRENTLY_READING_TITLE,
+            )
+        else:
+            current_html = render_visual_section(
+                current_section,
+                "currently_reading",
+                config.VISUAL_CURRENTLY_READING_TITLE,
+            )
 
     if config.SHOW_RECENT_READ_SECTION:
-        recent_html = render_visual_section(
-            recent_section,
-            "recent_read",
-            config.VISUAL_RECENT_READ_TITLE,
-        )
+        if config.VISUAL_MODE == "card_table":
+            recent_html = render_visual_card_table_section(
+                recent_section,
+                "recent_read",
+                config.VISUAL_RECENT_READ_TITLE,
+            )
+        else:
+            recent_html = render_visual_section(
+                recent_section,
+                "recent_read",
+                config.VISUAL_RECENT_READ_TITLE,
+            )
 
     if current_html:
         lines.append("")
@@ -375,7 +457,10 @@ def write_render_metadata(
     payload = {
         "meta": {
             "rendered_at": utc_now_iso(),
-            "render_mode": config.RENDER_MODE,
+            "render_mode": (
+                f'visual={config.VISUAL_MODE if config.SHOW_VISUAL_BLOCK else "off"}|'
+                f'cli={"on" if config.SHOW_CLI_BLOCK else "off"}'
+            ),
             "rendered_visual": rendered_visual,
             "rendered_cli": rendered_cli,
             "readme_changed": readme_changed,
@@ -427,8 +512,8 @@ def main() -> int:
 
     readme = read_text(config.README_PATH)
 
-    render_visual = config.RENDER_MODE in ("visual", "both")
-    render_cli = config.RENDER_MODE in ("cli", "both")
+    render_visual = config.SHOW_VISUAL_BLOCK
+    render_cli = config.SHOW_CLI_BLOCK
 
     if render_visual:
         visual_block = render_visual_block(snapshot)
