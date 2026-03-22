@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-03-22T10:28:12+00:00",
-    "last_successful_sync": "2026-03-22T10:28:12+00:00",
+    "last_attempted_sync": "2026-03-22T10:37:09+00:00",
+    "last_successful_sync": "2026-03-22T10:37:09+00:00",
     "error_message": ""
   },
   "sections": {
@@ -13,7 +13,7 @@
       "title": "Currently Reading",
       "shelf": "currently-reading",
       "source_url": "https://www.goodreads.com/review/list_rss/10606567?shelf=currently-reading",
-      "item_count": 6,
+      "item_count": 8,
       "books": [
         {
           "title": "The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game",
@@ -62,6 +62,22 @@
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg",
           "guid": "https://www.goodreads.com/review/show/8120974609?utm_medium=api&utm_source=rss",
           "pub_date": "Thu, 04 Dec 2025 08:12:48 -0800"
+        },
+        {
+          "title": "Aferrada a mi balsa",
+          "author": "Gladys Díaz Armijo",
+          "link": "https://www.goodreads.com/review/show/8083185323?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg",
+          "guid": "https://www.goodreads.com/review/show/8083185323?utm_medium=api&utm_source=rss",
+          "pub_date": "Tue, 18 Nov 2025 22:48:05 -0800"
+        },
+        {
+          "title": "Man's Search for Meaning",
+          "author": "Viktor E. Frankl",
+          "link": "https://www.goodreads.com/review/show/8008450894?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg",
+          "guid": "https://www.goodreads.com/review/show/8008450894?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:21:04 -0700"
         }
       ]
     },
@@ -70,7 +86,7 @@
       "title": "Recently Read",
       "shelf": "read",
       "source_url": "https://www.goodreads.com/review/list_rss/10606567?shelf=read",
-      "item_count": 12,
+      "item_count": 10,
       "books": [
         {
           "title": "Programming Perl (3rd Edition)",
@@ -151,22 +167,6 @@
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg",
           "guid": "https://www.goodreads.com/review/show/8019181335?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Oct 2025 05:59:03 -0700"
-        },
-        {
-          "title": "PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition)",
-          "author": "Mariano Makedonsky",
-          "link": "https://www.goodreads.com/review/show/2668706571?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266678331l/2258939._SX50_.jpg",
-          "guid": "https://www.goodreads.com/review/show/2668706571?utm_medium=api&utm_source=rss",
-          "pub_date": "Sat, 25 Oct 2025 05:57:04 -0700"
-        },
-        {
-          "title": "PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide",
-          "author": "Larry Ullman",
-          "link": "https://www.goodreads.com/review/show/8019176816?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924160l/40541._SX50_.jpg",
-          "guid": "https://www.goodreads.com/review/show/8019176816?utm_medium=api&utm_source=rss",
-          "pub_date": "Sat, 25 Oct 2025 05:56:07 -0700"
         }
       ]
     }
