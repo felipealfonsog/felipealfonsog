@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-23 04:12:04Z",
-  "status": "IDLE",
-  "last_track": "Silverchair — No Association",
-  "last_played_utc": "2026-03-21 03:19:46Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-03-23 06:45:46Z",
+  "status": "PLAYING",
+  "last_track": "Silverchair — Learn to Hate",
+  "last_played_utc": "2026-03-23 06:44:01Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
