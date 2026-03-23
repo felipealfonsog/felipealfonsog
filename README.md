@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Them Bones (2022 Remaster)
-Last played               : Alice In Chains — Grind
-Last played (UTC)         : 2026-03-23 15:54:39Z
+Now playing               : Staind — Pardon Me
+Last played               : Staind — It's Been Awhile
+Last played (UTC)         : 2026-03-23 16:09:29Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Alice In Chains — Grind → Staind — It's Been Awhile
+Δ last played (since last): 2026-03-23 15:54:39Z → 2026-03-23 16:09:29Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:55
-Telemetry age             : 00:02:55
-Δ time (since last report): 00:00:29
+Time since last play      : 00:00:36
+Telemetry age             : 00:00:36
+Δ time (since last report): 00:12:31
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1172,14 +1172,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 26
+Tracks played (last 24h)  : 29
 Dominant artist           : Soundgarden
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 15:57:34Z → 2026-03-23 15:57:34Z
+Week window (UTC)         : 2026-03-16 16:10:05Z → 2026-03-23 16:10:05Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1189,23 +1189,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             :    ▄█   ▁▄ ▄▄           
-Heatmap (7d)              : ▄  ▃▇   ▁▃ ▃▃     ▆  ▁ █
+Heatmap (24h)             :    ▄█   ▁▄ ▄▄▂          
+Heatmap (7d)              : ▄  ▃▇   ▁▃ ▃▄▂    ▄  ▁ █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:51:10
+Avg inter-play gap (7d)   : 01:51:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(26) | grunge(19) | hard rock(13) | alternative metal(7) | nu metal(7)
-Top genres (7d)           : post-grunge(41) | grunge(34) | hard rock(13) | alternative metal(7) | nu metal(7) | progressive metal(2)
+Top genres (24h)          : post-grunge(29) | grunge(21) | hard rock(13) | alternative metal(8) | nu metal(8)
+Top genres (7d)           : post-grunge(44) | grunge(36) | hard rock(13) | alternative metal(8) | nu metal(8) | progressive metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 15:57:34Z
+Report generated (UTC)    : 2026-03-23 16:10:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
