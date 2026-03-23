@@ -1154,13 +1154,13 @@ Last played               : Silverchair — Israel's Son
 Last played (UTC)         : 2026-03-23 15:37:31Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Staind — Raining Again → Silverchair — Israel's Son
-Δ last played (since last): 2026-03-23 14:29:55Z → 2026-03-23 15:37:31Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:44
-Telemetry age             : 00:00:44
-Δ time (since last report): 00:57:29
+Time since last play      : 00:04:15
+Telemetry age             : 00:04:15
+Δ time (since last report): 00:03:31
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1179,7 +1179,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 15:38:15Z → 2026-03-23 15:38:15Z
+Week window (UTC)         : 2026-03-16 15:41:45Z → 2026-03-23 15:41:45Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1205,7 +1205,7 @@ Top genres (24h)          : post-grunge(24) | grunge(17) | hard rock(13) | alter
 Top genres (7d)           : post-grunge(39) | grunge(32) | hard rock(13) | alternative metal(8) | nu metal(7) | progressive metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 15:38:15Z
+Report generated (UTC)    : 2026-03-23 15:41:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
