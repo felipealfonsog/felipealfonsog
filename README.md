@@ -1154,13 +1154,13 @@ Last played               : Silverchair — Learn to Hate
 Last played (UTC)         : 2026-03-23 06:44:01Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — No Association → Silverchair — Learn to Hate
-Δ last played (since last): 2026-03-21 03:19:46Z → 2026-03-23 06:44:01Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:46
-Telemetry age             : 00:01:46
-Δ time (since last report): 02:33:43
+Time since last play      : 00:03:33
+Telemetry age             : 00:03:33
+Δ time (since last report): 00:01:48
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1179,7 +1179,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 06:45:46Z → 2026-03-23 06:45:46Z
+Week window (UTC)         : 2026-03-16 06:47:33Z → 2026-03-23 06:47:33Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1205,7 +1205,7 @@ Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : post-grunge(19) | grunge(16) | jazz(15) | alternative metal(6) | nu metal(5) | shoegaze(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 06:45:46Z
+Report generated (UTC)    : 2026-03-23 06:47:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
