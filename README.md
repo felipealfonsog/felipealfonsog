@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Mouth for War - 2012 Remaster
-Last played               : Staind — Here And Now
-Last played (UTC)         : 2026-03-23 16:25:17Z
+Now playing               : Pantera — Walk - 2012 Remaster
+Last played               : Pantera — Mouth for War - 2012 Remaster
+Last played (UTC)         : 2026-03-23 16:31:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Staind — Here And Now → Pantera — Mouth for War - 2012 Remaster
+Δ last played (since last): 2026-03-23 16:25:17Z → 2026-03-23 16:31:46Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:29
-Telemetry age             : 00:02:29
-Δ time (since last report): 00:00:16
+Time since last play      : 00:03:07
+Telemetry age             : 00:03:07
+Δ time (since last report): 00:07:08
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1172,14 +1172,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 30
+Tracks played (last 24h)  : 31
 Dominant artist           : Soundgarden
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 16:27:45Z → 2026-03-23 16:27:45Z
+Week window (UTC)         : 2026-03-16 16:34:52Z → 2026-03-23 16:34:52Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1189,23 +1189,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             :    ▄█   ▁▄ ▄▄▃          
-Heatmap (7d)              : ▄  ▃▇   ▁▃ ▃▄▂    ▃  ▁ █
+Heatmap (24h)             :    ▄█   ▁▄ ▄▄▄          
+Heatmap (7d)              : ▄  ▃▇   ▁▃ ▃▄▃    ▂  ▁ █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:51:30
+Avg inter-play gap (7d)   : 01:51:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(30) | grunge(21) | hard rock(13) | alternative metal(9) | nu metal(9)
+Top genres (24h)          : post-grunge(30) | grunge(21) | hard rock(13) | alternative metal(9) | nu metal(9) | groove metal(1)
 Top genres (7d)           : post-grunge(45) | grunge(36) | hard rock(13) | alternative metal(9) | nu metal(9) | progressive metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 16:27:45Z
+Report generated (UTC)    : 2026-03-23 16:34:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
