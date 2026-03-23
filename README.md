@@ -1154,13 +1154,13 @@ Last played               : Alice In Chains — Grind
 Last played (UTC)         : 2026-03-23 15:54:39Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Tomorrow → Alice In Chains — Grind
-Δ last played (since last): 2026-03-23 15:41:58Z → 2026-03-23 15:54:39Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:26
-Telemetry age             : 00:02:26
-Δ time (since last report): 00:14:53
+Time since last play      : 00:02:55
+Telemetry age             : 00:02:55
+Δ time (since last report): 00:00:29
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1179,7 +1179,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 15:57:05Z → 2026-03-23 15:57:05Z
+Week window (UTC)         : 2026-03-16 15:57:34Z → 2026-03-23 15:57:34Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1205,7 +1205,7 @@ Top genres (24h)          : post-grunge(26) | grunge(19) | hard rock(13) | alter
 Top genres (7d)           : post-grunge(41) | grunge(34) | hard rock(13) | alternative metal(7) | nu metal(7) | progressive metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 15:57:05Z
+Report generated (UTC)    : 2026-03-23 15:57:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
