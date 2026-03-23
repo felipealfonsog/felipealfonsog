@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Israel's Son
+Now playing               : Silverchair — Tomorrow
 Last played               : Staind — Raining Again
 Last played (UTC)         : 2026-03-23 14:29:55Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Staind — Pardon Me → Staind — Raining Again
-Δ last played (since last): 2026-03-23 14:09:01Z → 2026-03-23 14:29:55Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:50
-Telemetry age             : 00:04:50
-Δ time (since last report): 00:22:08
+Time since last play      : 00:06:54
+Telemetry age             : 00:06:54
+Δ time (since last report): 00:02:04
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1179,7 +1179,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 14:34:45Z → 2026-03-23 14:34:45Z
+Week window (UTC)         : 2026-03-16 14:36:49Z → 2026-03-23 14:36:49Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1205,7 +1205,7 @@ Top genres (24h)          : post-grunge(21) | grunge(14) | hard rock(13) | alter
 Top genres (7d)           : post-grunge(36) | grunge(29) | hard rock(13) | alternative metal(8) | nu metal(7) | jazz(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 14:34:45Z
+Report generated (UTC)    : 2026-03-23 14:36:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
