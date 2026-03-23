@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Soundgarden — Let Me Drown
-Last played               : Silverchair — Learn to Hate
-Last played (UTC)         : 2026-03-23 06:44:01Z
+Now playing               : Soundgarden — My Wave
+Last played               : Soundgarden — Let Me Drown
+Last played (UTC)         : 2026-03-23 06:48:41Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Silverchair — Learn to Hate → Soundgarden — Let Me Drown
+Δ last played (since last): 2026-03-23 06:44:01Z → 2026-03-23 06:48:41Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:39
-Telemetry age             : 00:04:39
-Δ time (since last report): 00:00:38
+Time since last play      : 00:00:29
+Telemetry age             : 00:00:29
+Δ time (since last report): 00:00:31
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1172,14 +1172,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 2
+Dominant artist           : Soundgarden
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 06:48:39Z → 2026-03-23 06:48:39Z
+Week window (UTC)         : 2026-03-16 06:49:09Z → 2026-03-23 06:49:09Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1190,22 +1190,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
 Heatmap (24h)             :    █                    
-Heatmap (7d)              : ▃ ▁█     ▁▁      ▂▆▁ ▁ ▆
+Heatmap (7d)              : ▃ ▁█     ▁▁      ▂▆▁ ▁ ▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:18:44
+Avg inter-play gap (7d)   : 03:18:38
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
-Top genres (7d)           : post-grunge(19) | grunge(16) | jazz(15) | alternative metal(6) | nu metal(5) | shoegaze(5)
+Top genres (24h)          : grunge(2) | post-grunge(2) | hard rock(1)
+Top genres (7d)           : post-grunge(19) | grunge(17) | jazz(15) | alternative metal(5) | nu metal(4) | shoegaze(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 06:48:39Z
+Report generated (UTC)    : 2026-03-23 06:49:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
