@@ -1137,48 +1137,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Soundgarden — Fresh Tendrils
-Last played (UTC)         : 2026-03-23 07:40:53Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Staind — It's Been Awhile
+Last played               : Staind — It's Been Awhile
+Last played (UTC)         : 2026-03-23 12:23:12Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Soundgarden — Fresh Tendrils → Staind — It's Been Awhile
+Δ last played (since last): 2026-03-23 07:40:53Z → 2026-03-23 12:23:12Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 02:02:52
-Telemetry age             : 02:02:52
-Δ time (since last report): 00:00:14
+Time since last play      : 00:07:51
+Telemetry age             : 00:07:51
+Δ time (since last report): 02:47:19
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 13
+Tracks played (last 24h)  : 15
 Dominant artist           : Soundgarden
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 09:43:44Z → 2026-03-23 09:43:44Z
+Week window (UTC)         : 2026-03-16 12:31:02Z → 2026-03-23 12:31:02Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1188,23 +1189,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :    ▄█                   
-Heatmap (7d)              : ▃  █▆            ▂▆  ▁ ▆
+Heatmap (24h)             :    ▄█   ▁▁              
+Heatmap (7d)              : ▄  █▇   ▁▁       ▂▇  ▁ ▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:59:23
+Sessions (24h)            : 3
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 02:05:00
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(13) | post-grunge(13) | hard rock(12)
-Top genres (7d)           : grunge(28) | post-grunge(28) | hard rock(12) | jazz(12) | ambient jazz(2) | progressive metal(2)
+Top genres (24h)          : post-grunge(15) | grunge(14) | hard rock(13) | alternative metal(1) | nu metal(1)
+Top genres (7d)           : post-grunge(30) | grunge(29) | hard rock(13) | jazz(10) | alternative metal(2) | progressive metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 09:43:44Z
+Report generated (UTC)    : 2026-03-23 12:31:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
