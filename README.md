@@ -1153,13 +1153,13 @@ Last played               : Helmet — I Know
 Last played (UTC)         : 2026-03-23 19:56:03Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Walk - 2012 Remaster → Helmet — I Know
-Δ last played (since last): 2026-03-23 16:39:08Z → 2026-03-23 19:56:03Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:37:58
-Telemetry age             : 01:37:58
-Δ time (since last report): 02:56:57
+Time since last play      : 01:38:41
+Telemetry age             : 01:38:41
+Δ time (since last report): 00:00:43
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1178,7 +1178,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 21:34:01Z → 2026-03-23 21:34:01Z
+Week window (UTC)         : 2026-03-16 21:34:43Z → 2026-03-23 21:34:43Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1204,7 +1204,7 @@ Top genres (24h)          : post-grunge(30) | grunge(22) | hard rock(13) | alter
 Top genres (7d)           : post-grunge(45) | grunge(37) | hard rock(13) | alternative metal(10) | nu metal(9) | groove metal(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 21:34:01Z
+Report generated (UTC)    : 2026-03-23 21:34:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
