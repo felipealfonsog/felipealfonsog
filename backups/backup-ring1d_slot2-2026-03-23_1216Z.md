@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-22_1208Z
+ snapshot_utc : 2026-03-23_1216Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -172,7 +172,15 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
-The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.</sub>
+
+<sub>
+Selected badges and iconography within this profile are dynamically generated via 
+<a href="https://custom-icon-badges.demolab.com/">custom-icon-badges</a>, 
+an open-source toolkit available on 
+<a href="https://github.com/DenverCoder1/custom-icon-badges">GitHub</a>. 
+This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.
+</sub>
 
 #
 
@@ -286,24 +294,23 @@ The “Google Translate” badge redirects to an automatic translation of this p
 -->
 
 <details open>
-<summary><strong>📚 GOODREADS READING INTELLIGENCE</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
+<summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
 
 
 <!-- GOODREADS:VISUAL_START -->
-<sub><strong>Goodreads Reading Intelligence</strong></sub>
+<sub><strong>Goodreads Reading Data</strong></sub>
 <sub>A compact reading snapshot showing what I am currently reading and the latest books I have recently finished on Goodreads.</sub>
-<sub>status: ok • mode: network • sync: 2026-03-22T12:04:51+00:00 • last update: 2026-03-22T12:04:51+00:00 • source: goodreads_rss</sub>
-
-<div align="left"><sub><strong>Currently Reading</strong></sub></div><div style="height:6px;"></div><table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none !important;outline:none !important;box-shadow:none !important;background:transparent;margin:0;border-spacing:0;"><tr><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8455651783?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732188901l/220887027._SY75_.jpg" width="42" height="64" alt="The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8455651783?utm_medium=api&amp;utm_source=rss">The Simulation Hy…</a></sub></div><div style="margin-top:1px;"><sub>Rizwan Virk</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8455648321?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619978145l/57920800._SX50_.jpg" width="42" height="64" alt="The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8455648321?utm_medium=api&amp;utm_source=rss">The Simulated Mul…</a></sub></div><div style="margin-top:1px;"><sub>Rizwan Virk</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8455634136?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633192138l/59131430._SX50_.jpg" width="42" height="64" alt="Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8455634136?utm_medium=api&amp;utm_source=rss">Lectura rápida: C…</a></sub></div><div style="margin-top:1px;"><sub>Peter Hollins</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8455624520?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538363806l/42107422._SX50_.jpg" width="42" height="64" alt="The Autobiography of a Yogi — Paramahansa Yogananda" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8455624520?utm_medium=api&amp;utm_source=rss">The Autobiography…</a></sub></div><div style="margin-top:1px;"><sub>Paramahansa Yog…</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8399631886?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg" width="42" height="64" alt="PAYBACK: COREY PEARSON- CIA SPYMASTER SERIES — Robert Morton" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8399631886?utm_medium=api&amp;utm_source=rss">PAYBACK: COREY PE…</a></sub></div><div style="margin-top:1px;"><sub>Robert Morton</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8120974609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg" width="42" height="64" alt="Leviathan — Thomas Hobbes" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8120974609?utm_medium=api&amp;utm_source=rss">Leviathan</a></sub></div><div style="margin-top:1px;"><sub>Thomas Hobbes</sub></div></td></tr><tr><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8083185323?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg" width="42" height="64" alt="Aferrada a mi balsa — Gladys Díaz Armijo" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8083185323?utm_medium=api&amp;utm_source=rss">Aferrada a mi bal…</a></sub></div><div style="margin-top:1px;"><sub>Gladys Díaz Arm…</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8008450894?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg" width="42" height="64" alt="Man&#x27;s Search for Meaning — Viktor E. Frankl" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8008450894?utm_medium=api&amp;utm_source=rss">Man&#x27;s Search for…</a></sub></div><div style="margin-top:1px;"><sub>Viktor E. Frankl</sub></div></td></tr></table><div style="height:12px;"></div>
-
-<div align="left"><sub><strong>Recently Read</strong></sub></div><div style="height:6px;"></div><table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none !important;outline:none !important;box-shadow:none !important;background:transparent;margin:0;border-spacing:0;"><tr><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg" width="42" height="64" alt="Programming Perl (3rd Edition) — Larry Wall" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss">Programming Perl…</a></sub></div><div style="margin-top:1px;"><sub>Larry Wall</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg" width="42" height="64" alt="Mala onda — Alberto Fuguet" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss">Mala onda</a></sub></div><div style="margin-top:1px;"><sub>Alberto Fuguet</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg" width="42" height="64" alt="Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss">Old Path White Cl…</a></sub></div><div style="margin-top:1px;"><sub>Thich Nhat Hanh</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg" width="42" height="64" alt="Freedom from the Known — J. Krishnamurti" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss">Freedom from the…</a></sub></div><div style="margin-top:1px;"><sub>J. Krishnamurti</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg" width="42" height="64" alt="In My Father&#x27;s Den — Maurice Gee" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss">In My Father&#x27;s Den</a></sub></div><div style="margin-top:1px;"><sub>Maurice Gee</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg" width="42" height="64" alt="The Poetry of Pablo Neruda — Pablo Neruda" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss">The Poetry of Pab…</a></sub></div><div style="margin-top:1px;"><sub>Pablo Neruda</sub></div></td></tr><tr><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg" width="42" height="64" alt="Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss">Scenes from Provi…</a></sub></div><div style="margin-top:1px;"><sub>J.M. Coetzee</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg" width="42" height="64" alt="Cujo — Stephen King" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss">Cujo</a></sub></div><div style="margin-top:1px;"><sub>Stephen King</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg" width="42" height="64" alt="On Writing — Ernest Hemingway" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss">On Writing</a></sub></div><div style="margin-top:1px;"><sub>Ernest Hemingway</sub></div></td><td align="center" valign="top" style="border:none !important;outline:none !important;box-shadow:none !important;padding:4px;width:76px;background:transparent;"><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg" width="42" height="64" alt="Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez" style="object-fit:cover;border-radius:4px;" /></a><div style="margin-top:3px;"><sub><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss">Más Allá de la Tr…</a></sub></div><div style="margin-top:1px;"><sub>Victor Chavez</sub></div></td></tr></table><div style="height:12px;"></div>
+<br/>
+<div align="left"><sub><strong>Currently Reading</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8455651783?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732188901l/220887027._SY75_.jpg" width="40" height="60" alt="The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455648321?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619978145l/57920800._SX50_.jpg" width="40" height="60" alt="The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455634136?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633192138l/59131430._SX50_.jpg" width="40" height="60" alt="Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455624520?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538363806l/42107422._SX50_.jpg" width="40" height="60" alt="The Autobiography of a Yogi — Paramahansa Yogananda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8399631886?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg" width="40" height="60" alt="PAYBACK: COREY PEARSON- CIA SPYMASTER SERIES — Robert Morton" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8120974609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg" width="40" height="60" alt="Leviathan — Thomas Hobbes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8083185323?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg" width="40" height="60" alt="Aferrada a mi balsa — Gladys Díaz Armijo" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008450894?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg" width="40" height="60" alt="Man&#x27;s Search for Meaning — Viktor E. Frankl" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
+<div align="left"><sub><strong>Recently Read</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg" width="40" height="60" alt="Programming Perl (3rd Edition) — Larry Wall" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg" width="40" height="60" alt="Mala onda — Alberto Fuguet" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg" width="40" height="60" alt="Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg" width="40" height="60" alt="Freedom from the Known — J. Krishnamurti" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg" width="40" height="60" alt="In My Father&#x27;s Den — Maurice Gee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg" width="40" height="60" alt="The Poetry of Pablo Neruda — Pablo Neruda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg" width="40" height="60" alt="Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg" width="40" height="60" alt="Cujo — Stephen King" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg" width="40" height="60" alt="On Writing — Ernest Hemingway" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg" width="40" height="60" alt="Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
+<br/><sub>SYNC: 2026-03-23T09:32:14+00:00 • LAST UPDATE: 2026-03-23T09:32:14+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
 <!-- GOODREADS:VISUAL_END -->
 
 <!-- GOODREADS:CLI_START -->
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-03-22T12:04:51+00:00 | last_update=2026-03-22T12:04:51+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-03-23T09:32:14+00:00 | last_update=2026-03-23T09:32:14+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
@@ -333,8 +340,12 @@ The “Google Translate” badge redirects to an automatic translation of this p
 
 </details>
 
+
+
+
+
 > [!NOTE]
-> <sub>*Goodreads Reading Intelligence — operational-style telemetry layer generated from Goodreads shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
+> <sub>*Goodreads Reading Intelligence — operational-style telemetry layer generated from <a href="https://www.goodreads.com/">Goodreads</a> shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
 > <sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
 
 [![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml)
@@ -369,13 +380,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 318 ms
-TTFB................ 316 ms
+LATENCY............. 221 ms
+TTFB................ 220 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 46d
+TLS_EXPIRY.......... 45d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -404,7 +415,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-22T09:15:14Z
+LAST_PROBE_UTC...... 2026-03-23T09:31:51Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -444,19 +455,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.438032
-longitude      : -70.646852
-altitude       : 136 m
-gps_accuracy   : ±4.0 m
-heading        : 76°
-speed          : 4.5 km/h
-status         : walking
+location       : transit_corridor
+latitude       : -33.446335
+longitude      : -70.661249
+altitude       : 141 m
+gps_accuracy   : ±6.5 m
+heading        : 202°
+speed          : 0.7 km/h
+status         : stationary
 phase          : morning
-local_time     : 09:01
+local_time     : 09:09
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-03-22 12:01:45 UTC
+updated_utc    : 2026-03-23 12:09:03 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -575,7 +586,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-22 06:37:58Z
+DSN snapshot (UTC)       : 2026-03-23 09:44:28Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -586,15 +597,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.836 AU
-Heliocentric distance    : 170.038 AU
-Relative speed           : 19.163 km/s
+Earth distance           : 25.41e9 km | 169.831 AU
+Heliocentric distance    : 170.049 AU
+Relative speed           : 19.222 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:29
-Round-trip latency       : 47:04:58
+One-way light time       : 23:32:27
+Round-trip latency       : 47:04:53
 ------------------------------------------------------------
-Δ distance (since last)  : -226,154 km
-Mission age              : 48 years, 210 days
+Δ distance (since last)  : -135,148 km
+Mission age              : 48 years, 211 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -605,19 +616,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.674 AU
-Heliocentric distance    : 142.411 AU
-Relative speed           : 23.812 km/s
+Earth distance           : 21.34e9 km | 142.669 AU
+Heliocentric distance    : 142.421 AU
+Relative speed           : 23.702 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:35
-Round-trip latency       : 39:33:10
+One-way light time       : 19:46:33
+Round-trip latency       : 39:33:05
 ------------------------------------------------------------
-Δ distance (since last)  : -224,113 km
-Mission age              : 48 years, 226 days
+Δ distance (since last)  : -139,926 km
+Mission age              : 48 years, 227 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-22 06:38:05Z
+Report generated (UTC)   : 2026-03-23 09:44:33Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1145,17 +1156,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — No Association
-Last played (UTC)         : 2026-03-21 03:19:46Z
+Last played               : Soundgarden — Fresh Tendrils
+Last played (UTC)         : 2026-03-23 07:40:53Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 30:15:59
-Telemetry age             : 30:15:59
-Δ time (since last report): 00:01:16
+Time since last play      : 02:02:52
+Telemetry age             : 02:02:52
+Δ time (since last report): 00:00:14
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1167,14 +1178,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 13
+Dominant artist           : Soundgarden
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-15 09:35:45Z → 2026-03-22 09:35:45Z
+Week window (UTC)         : 2026-03-16 09:43:44Z → 2026-03-23 09:43:44Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1182,25 +1193,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▃ ▁█     ▂▁      ▂▇▁ ▁ ▆
+Heatmap (24h)             :    ▄█                   
+Heatmap (7d)              : ▃  █▆            ▂▆  ▁ ▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:15:52
+Sessions (24h)            : 1
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 01:59:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : post-grunge(19) | grunge(15) | jazz(15) | alternative metal(7) | nu metal(6) | shoegaze(6)
+Top genres (24h)          : grunge(13) | post-grunge(13) | hard rock(12)
+Top genres (7d)           : grunge(28) | post-grunge(28) | hard rock(12) | jazz(12) | ambient jazz(2) | progressive metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-22 09:35:45Z
+Report generated (UTC)    : 2026-03-23 09:43:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1553,9 +1564,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 22 March 2026
+From: 04 December 2023 - To: 23 March 2026
 
-Total Time       : 1,000 hrs 16 mins
+Total Time       : 1,001 hrs 17 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 11 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1564,32 +1575,32 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          258 hrs 52 mins ●●●●●●◔○○○○○○○○○○○○○○○○○○○  25.88 %
-Bash           165 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.50 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.88 %
-HTML           130 hrs 3 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.00 %
-PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.87 %
-Markdown       80 hrs 17 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.03 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.37 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.00 %
+Other          266 hrs 58 mins ●●●●●●◔○○○○○○○○○○○○○○○○○○○  26.66 %
+Bash           165 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.48 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.86 %
+HTML           130 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.01 %
+PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.86 %
+Markdown       80 hrs 36 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.05 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.36 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.99 %
 Text           38 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            651 hrs 22 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.12 %
-Linux          607 hrs 46 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.76 %
+Mac            651 hrs 22 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.05 %
+Linux          616 hrs 52 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.61 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.34 %
-Vim            326 hrs 26 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.63 %
-Firefox        220 hrs 44 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  22.07 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.28 %
+Vim            326 hrs 32 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.61 %
+Firefox        229 hrs 44 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  22.94 %
 TeXstudio      11 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
 Terminal       9 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.98 %
 Spotify        8 hrs 36 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.86 %
 Acrobat        7 hrs 6 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.71 %
-FileZilla      5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
+FileZilla      5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.50 %
 ‎WhatsApp      3 hrs 33 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
 TextMate       2 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
 Zoom           2 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.25 %
@@ -1597,15 +1608,15 @@ Antigravity    1 hr 37 mins   ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,029 hrs 56 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       218 hrs 24 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  21.84 %
+Coding         1,030 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       227 hrs 25 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  22.71 %
 Meeting        8 hrs 46 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.88 %
 Writing Docs   2 hrs 1 min    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 22/03/2026 11:10:39 UTC
+Last updated     : 23/03/2026 11:22:35 UTC
 
 ```
 <!--END_SECTION:wakastats-->
