@@ -1149,7 +1149,7 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Tomorrow
+Now playing               : Silverchair — Pure Massacre
 Last played               : Staind — Raining Again
 Last played (UTC)         : 2026-03-23 14:29:55Z
 Last activity type        : PLAYBACK_ACTIVE
@@ -1158,9 +1158,9 @@ Last activity type        : PLAYBACK_ACTIVE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:06:54
-Telemetry age             : 00:06:54
-Δ time (since last report): 00:02:04
+Time since last play      : 00:10:51
+Telemetry age             : 00:10:51
+Δ time (since last report): 00:03:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1179,7 +1179,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 14:36:49Z → 2026-03-23 14:36:49Z
+Week window (UTC)         : 2026-03-16 14:40:46Z → 2026-03-23 14:40:46Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1205,7 +1205,7 @@ Top genres (24h)          : post-grunge(21) | grunge(14) | hard rock(13) | alter
 Top genres (7d)           : post-grunge(36) | grunge(29) | hard rock(13) | alternative metal(8) | nu metal(7) | jazz(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 14:36:49Z
+Report generated (UTC)    : 2026-03-23 14:40:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
