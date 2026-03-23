@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Staind — Rainy Day Parade
-Last played               : Staind — Pardon Me
-Last played (UTC)         : 2026-03-23 14:09:01Z
+Now playing               : Silverchair — Israel's Son
+Last played               : Staind — Raining Again
+Last played (UTC)         : 2026-03-23 14:29:55Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Staind — For You → Staind — Pardon Me
-Δ last played (since last): 2026-03-23 12:35:27Z → 2026-03-23 14:09:01Z
+Δ track (since last)      : Staind — Pardon Me → Staind — Raining Again
+Δ last played (since last): 2026-03-23 14:09:01Z → 2026-03-23 14:29:55Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:37
-Telemetry age             : 00:03:37
-Δ time (since last report): 01:35:24
+Time since last play      : 00:04:50
+Telemetry age             : 00:04:50
+Δ time (since last report): 00:22:08
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1172,14 +1172,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
+Tracks played (last 24h)  : 21
 Dominant artist           : Soundgarden
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 14:12:37Z → 2026-03-23 14:12:37Z
+Week window (UTC)         : 2026-03-16 14:34:45Z → 2026-03-23 14:34:45Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1189,23 +1189,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             :    ▄█   ▁▄ ▁            
-Heatmap (7d)              : ▄  ▆▇   ▁▃ ▁     ▂▇  ▁ █
+Heatmap (24h)             :    ▄█   ▁▄ ▃            
+Heatmap (7d)              : ▄  ▄▇   ▁▃ ▂     ▂▇  ▁ █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:06:55
+Avg inter-play gap (7d)   : 02:07:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(19) | grunge(14) | hard rock(13) | alternative metal(5) | nu metal(5)
-Top genres (7d)           : post-grunge(34) | grunge(29) | hard rock(13) | alternative metal(6) | nu metal(5) | jazz(4)
+Top genres (24h)          : post-grunge(21) | grunge(14) | hard rock(13) | alternative metal(7) | nu metal(7)
+Top genres (7d)           : post-grunge(36) | grunge(29) | hard rock(13) | alternative metal(8) | nu metal(7) | jazz(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 14:12:37Z
+Report generated (UTC)    : 2026-03-23 14:34:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
