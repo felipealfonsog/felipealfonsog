@@ -1149,17 +1149,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pantera — Walk - 2012 Remaster
-Last played (UTC)         : 2026-03-23 16:39:08Z
+Last played               : Helmet — I Know
+Last played (UTC)         : 2026-03-23 19:56:03Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Pantera — Walk - 2012 Remaster → Helmet — I Know
+Δ last played (since last): 2026-03-23 16:39:08Z → 2026-03-23 19:56:03Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:57:56
-Telemetry age             : 01:57:56
-Δ time (since last report): 00:01:29
+Time since last play      : 01:37:58
+Telemetry age             : 01:37:58
+Δ time (since last report): 02:56:57
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1171,14 +1171,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 32
+Tracks played (last 24h)  : 34
 Dominant artist           : Soundgarden
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 18:37:04Z → 2026-03-23 18:37:04Z
+Week window (UTC)         : 2026-03-16 21:34:01Z → 2026-03-23 21:34:01Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1188,23 +1188,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             :    ▄█   ▁▄ ▄▄▄          
-Heatmap (7d)              : ▄  ▃▇   ▁▃ ▃▄▄    ▂  ▁ █
+Heatmap (24h)             :    ▄█   ▁▄ ▄▄▄  ▂       
+Heatmap (7d)              : ▄  ▃▇   ▁▃ ▃▄▄  ▂    ▁ █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:51:38
+Sessions (24h)            : 7
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 01:22:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(30) | grunge(21) | hard rock(13) | alternative metal(9) | nu metal(9) | groove metal(2)
-Top genres (7d)           : post-grunge(45) | grunge(36) | hard rock(13) | alternative metal(9) | nu metal(9) | groove metal(2)
+Top genres (24h)          : post-grunge(30) | grunge(22) | hard rock(13) | alternative metal(10) | nu metal(9) | groove metal(4)
+Top genres (7d)           : post-grunge(45) | grunge(37) | hard rock(13) | alternative metal(10) | nu metal(9) | groove metal(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 18:37:04Z
+Report generated (UTC)    : 2026-03-23 21:34:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
