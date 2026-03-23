@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-03-23T18:26:02+00:00",
-    "last_successful_sync": "2026-03-23T18:26:02+00:00",
+    "last_attempted_sync": "2026-03-23T21:19:12+00:00",
+    "last_successful_sync": "2026-03-23T21:19:12+00:00",
     "error_message": ""
   },
   "sections": {
@@ -121,7 +121,7 @@
           "author": "Thich Nhat Hanh",
           "link": "https://www.goodreads.com/review/show/2645704229?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg",
-          "summary": "author: Thich Nhat Hanh name: Felipe Alfonso average rating: 4.37 book published: 1991 rating: 5 read at: 2018/12/30 date added: 2025/12/07 shelves: buddhism review: An amazing book — quite a long one, but absolutely worth it. It offers a powerful and truthful portrayal of Buddha’s life, brought to life through a beautifully crafted narrative. It feels immersive, sincere, and profoundly insightful.",
+          "summary": "author: Thich Nhat Hanh name: Felipe Alfonso average rating: 4.36 book published: 1991 rating: 5 read at: 2018/12/30 date added: 2025/12/07 shelves: buddhism review: An amazing book — quite a long one, but absolutely worth it. It offers a powerful and truthful portrayal of Buddha’s life, brought to life through a beautifully crafted narrative. It feels immersive, sincere, and profoundly insightful.",
           "guid": "https://www.goodreads.com/review/show/2645704229?utm_medium=api&utm_source=rss",
           "pub_date": "Sun, 07 Dec 2025 17:22:13 -0800"
         },
