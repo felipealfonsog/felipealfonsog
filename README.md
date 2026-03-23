@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Soundgarden — Mailman
-Last played               : Soundgarden — Fell On Black Days
-Last played (UTC)         : 2026-03-23 06:58:25Z
+Now playing               : Soundgarden — Black Hole Sun
+Last played               : Soundgarden — Head Down
+Last played (UTC)         : 2026-03-23 07:14:08Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Soundgarden — Let Me Drown → Soundgarden — Fell On Black Days
-Δ last played (since last): 2026-03-23 06:48:41Z → 2026-03-23 06:58:25Z
+Δ track (since last)      : Soundgarden — Fell On Black Days → Soundgarden — Head Down
+Δ last played (since last): 2026-03-23 06:58:25Z → 2026-03-23 07:14:08Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:07
-Telemetry age             : 00:04:07
-Δ time (since last report): 00:13:23
+Time since last play      : 00:00:40
+Telemetry age             : 00:00:40
+Δ time (since last report): 00:12:17
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1172,14 +1172,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
+Tracks played (last 24h)  : 7
 Dominant artist           : Soundgarden
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-16 07:02:31Z → 2026-03-23 07:02:31Z
+Week window (UTC)         : 2026-03-16 07:14:48Z → 2026-03-23 07:14:48Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1189,23 +1189,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :    █                    
-Heatmap (7d)              : ▂  █             ▁▅▁   ▅
+Heatmap (24h)             :    █▆                   
+Heatmap (7d)              : ▂  █▁            ▁▄    ▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:07:40
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 03:06:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(4) | post-grunge(4) | hard rock(3)
-Top genres (7d)           : grunge(19) | post-grunge(19) | jazz(15) | alternative metal(3) | ambient jazz(3) | hard rock(3)
+Top genres (24h)          : grunge(7) | post-grunge(7) | hard rock(6)
+Top genres (7d)           : grunge(22) | post-grunge(22) | jazz(15) | hard rock(6) | ambient jazz(3) | alternative metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-23 07:02:31Z
+Report generated (UTC)    : 2026-03-23 07:14:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
