@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Staind — Cycle Of Hurting
-Last played               : Staind — Out Of Time
-Last played (UTC)         : 2026-03-24 18:43:56Z
+Now playing               : Staind — The Fray
+Last played               : Staind — Cycle Of Hurting
+Last played (UTC)         : 2026-03-24 18:47:45Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Staind — Here And Now → Staind — Out Of Time
-Δ last played (since last): 2026-03-24 18:40:41Z → 2026-03-24 18:43:56Z
+Δ track (since last)      : Staind — Out Of Time → Staind — Cycle Of Hurting
+Δ last played (since last): 2026-03-24 18:43:56Z → 2026-03-24 18:47:45Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:13
-Telemetry age             : 00:02:13
-Δ time (since last report): 00:05:14
+Time since last play      : 00:03:11
+Telemetry age             : 00:03:11
+Δ time (since last report): 00:04:47
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1172,14 +1172,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
+Tracks played (last 24h)  : 6
 Dominant artist           : Staind
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-17 18:46:09Z → 2026-03-24 18:46:09Z
+Week window (UTC)         : 2026-03-17 18:50:55Z → 2026-03-24 18:50:55Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1189,23 +1189,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 15:00
 Peak hour (7d)            : 04:00
-Heatmap (24h)             :                ██      ▄
-Heatmap (7d)              : ▄  ▄█   ▁▄ ▄▄▄ ▂▂      █
+Heatmap (24h)             :                █▅      ▃
+Heatmap (7d)              : ▄  ▄█   ▁▄ ▄▄▄ ▃▂      ▇
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 01:48:00
+Avg inter-play gap (7d)   : 01:47:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(4) | nu metal(3) | groove metal(2) | post-grunge(2) | alternative rock(1) | funk rock(1)
-Top genres (7d)           : post-grunge(45) | grunge(35) | alternative metal(13) | hard rock(13) | nu metal(12) | groove metal(4)
+Top genres (24h)          : alternative metal(5) | nu metal(4) | post-grunge(3) | groove metal(2) | alternative rock(1) | funk rock(1)
+Top genres (7d)           : post-grunge(45) | grunge(34) | alternative metal(14) | hard rock(13) | nu metal(13) | groove metal(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-24 18:46:09Z
+Report generated (UTC)    : 2026-03-24 18:50:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
