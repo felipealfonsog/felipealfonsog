@@ -1154,13 +1154,13 @@ Last played               : Silverchair — Undecided
 Last played (UTC)         : 2026-03-24 20:19:23Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Faultline → Silverchair — Undecided
-Δ last played (since last): 2026-03-24 19:56:23Z → 2026-03-24 20:19:23Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:14
-Telemetry age             : 00:02:14
-Δ time (since last report): 00:21:09
+Time since last play      : 00:02:41
+Telemetry age             : 00:02:41
+Δ time (since last report): 00:00:28
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1179,7 +1179,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-17 20:21:36Z → 2026-03-24 20:21:36Z
+Week window (UTC)         : 2026-03-17 20:22:03Z → 2026-03-24 20:22:03Z
 Total tracks played       : 50
 Dominant artist           : Staind
 Cadence classification    : HIGH
@@ -1205,7 +1205,7 @@ Top genres (24h)          : alternative metal(17) | nu metal(17) | post-grunge(1
 Top genres (7d)           : post-grunge(34) | alternative metal(27) | nu metal(26) | grunge(21) | rap metal(11) | rock(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-24 20:21:36Z
+Report generated (UTC)    : 2026-03-24 20:22:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
