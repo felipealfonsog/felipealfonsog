@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Screaming Trees — More or Less
-Last played               : Staind — Better Days
-Last played (UTC)         : 2026-03-24 18:55:35Z
+Now playing               : Linkin Park — Points of Authority
+Last played               : Linkin Park — With You
+Last played (UTC)         : 2026-03-24 19:14:21Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Staind — Cycle Of Hurting → Staind — Better Days
-Δ last played (since last): 2026-03-24 18:47:45Z → 2026-03-24 18:55:35Z
+Δ track (since last)      : Staind — Better Days → Linkin Park — With You
+Δ last played (since last): 2026-03-24 18:55:35Z → 2026-03-24 19:14:21Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:43
-Telemetry age             : 00:03:43
-Δ time (since last report): 00:08:23
+Time since last play      : 00:02:43
+Telemetry age             : 00:02:43
+Δ time (since last report): 00:17:46
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1172,25 +1172,25 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
+Tracks played (last 24h)  : 13
 Dominant artist           : Staind
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-17 18:59:18Z → 2026-03-24 18:59:18Z
+Week window (UTC)         : 2026-03-17 19:17:04Z → 2026-03-24 19:17:04Z
 Total tracks played       : 50
-Dominant artist           : Silverchair
+Dominant artist           : Staind
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 15:00
+Peak hour (24h)           : 16:00
 Peak hour (7d)            : 04:00
-Heatmap (24h)             :                █▃      ▂
-Heatmap (7d)              : ▄  ▄█   ▁▄ ▄▄▄ ▄▂      ▅
+Heatmap (24h)             :                ▆█      ▁
+Heatmap (7d)              : ▄  ▄█   ▁▄ ▄▄▄ ▄▆      ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -1201,11 +1201,11 @@ Avg inter-play gap (7d)   : 01:48:00
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(7) | nu metal(6) | post-grunge(5) | groove metal(2) | alternative rock(1) | funk rock(1)
-Top genres (7d)           : post-grunge(45) | grunge(32) | alternative metal(16) | nu metal(15) | hard rock(13) | groove metal(4)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(10) | nu metal(9) | post-grunge(7) | grunge(3) | rap metal(3) | rock(3)
+Top genres (7d)           : post-grunge(42) | grunge(29) | alternative metal(19) | nu metal(18) | hard rock(13) | groove metal(4)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-24 18:59:18Z
+Report generated (UTC)    : 2026-03-24 19:17:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
