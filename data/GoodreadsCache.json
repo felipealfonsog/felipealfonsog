@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-03-24T03:53:56+00:00",
-    "last_successful_sync": "2026-03-24T03:53:56+00:00",
+    "last_attempted_sync": "2026-03-24T06:34:12+00:00",
+    "last_successful_sync": "2026-03-24T06:34:12+00:00",
     "error_message": ""
   },
   "sections": {
@@ -39,7 +39,7 @@
           "author": "Peter Hollins",
           "link": "https://www.goodreads.com/review/show/8455634136?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633192138l/59131430._SX50_.jpg",
-          "summary": "author: Peter Hollins name: Felipe Alfonso average rating: 4.11 book published: rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
+          "summary": "author: Peter Hollins name: Felipe Alfonso average rating: 4.12 book published: rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8455634136?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 21 Mar 2026 08:13:46 -0700"
         },
