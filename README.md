@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Linkin Park — A Place for My Head
-Last played               : Linkin Park — By Myself
-Last played (UTC)         : 2026-03-24 19:27:24Z
+Now playing               : Silverchair — Israel's Son
+Last played               : Linkin Park — Cure for the Itch
+Last played (UTC)         : 2026-03-24 19:40:27Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Points of Authority → Linkin Park — By Myself
-Δ last played (since last): 2026-03-24 19:17:41Z → 2026-03-24 19:27:24Z
+Δ track (since last)      : Linkin Park — By Myself → Linkin Park — Cure for the Itch
+Δ last played (since last): 2026-03-24 19:27:24Z → 2026-03-24 19:40:27Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:37
-Telemetry age             : 00:03:37
-Δ time (since last report): 00:11:17
+Time since last play      : 00:02:54
+Telemetry age             : 00:02:54
+Δ time (since last report): 00:12:21
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1172,14 +1172,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
+Tracks played (last 24h)  : 20
 Dominant artist           : Linkin Park
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-17 19:31:00Z → 2026-03-24 19:31:00Z
+Week window (UTC)         : 2026-03-17 19:43:21Z → 2026-03-24 19:43:21Z
 Total tracks played       : 50
 Dominant artist           : Staind
 Cadence classification    : HIGH
@@ -1189,23 +1189,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :                ▄█      ▁
-Heatmap (7d)              : ▁  ▃▇   ▁▃ ▃▄▄ ▄█      ▁
+Heatmap (24h)             :                ▃█      ▁
+Heatmap (7d)              :    ▁▅   ▁▂ ▂▃▃ ▃█      ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 01:47:55
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 00:44:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(14) | nu metal(13) | post-grunge(7) | rap metal(7) | rock(7) | grunge(3)
-Top genres (7d)           : post-grunge(38) | grunge(25) | alternative metal(23) | nu metal(22) | hard rock(13) | rap metal(7)
+Top genres (24h)          : alternative metal(18) | nu metal(17) | rap metal(11) | rock(11) | post-grunge(7) | grunge(3)
+Top genres (7d)           : post-grunge(34) | alternative metal(27) | nu metal(26) | grunge(21) | hard rock(11) | rap metal(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-24 19:31:00Z
+Report generated (UTC)    : 2026-03-24 19:43:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
