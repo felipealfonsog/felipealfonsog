@@ -1149,18 +1149,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Faultline
-Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-03-24 19:52:05Z
+Now playing               : Silverchair — Pure Massacre
+Last played               : Silverchair — Faultline
+Last played (UTC)         : 2026-03-24 19:56:23Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Cure for the Itch → Silverchair — Tomorrow
-Δ last played (since last): 2026-03-24 19:40:27Z → 2026-03-24 19:52:05Z
+Δ track (since last)      : Silverchair — Tomorrow → Silverchair — Faultline
+Δ last played (since last): 2026-03-24 19:52:05Z → 2026-03-24 19:56:23Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:14
-Telemetry age             : 00:03:14
-Δ time (since last report): 00:11:58
+Time since last play      : 00:04:05
+Telemetry age             : 00:04:05
+Δ time (since last report): 00:05:10
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1179,7 +1179,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-17 19:55:18Z → 2026-03-24 19:55:18Z
+Week window (UTC)         : 2026-03-17 20:00:28Z → 2026-03-24 20:00:28Z
 Total tracks played       : 50
 Dominant artist           : Staind
 Cadence classification    : HIGH
@@ -1190,22 +1190,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 16:00
 Heatmap (24h)             :                ▂█       
-Heatmap (7d)              :     ▄    ▂ ▂▂▂ ▂█       
+Heatmap (7d)              :     ▃    ▂ ▂▂▂ ▂█       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 00:44:59
+Avg inter-play gap (7d)   : 00:44:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(18) | nu metal(17) | rap metal(11) | rock(11) | post-grunge(9) | grunge(5)
+Top genres (24h)          : alternative metal(17) | nu metal(17) | rap metal(11) | rock(11) | post-grunge(10) | grunge(5)
 Top genres (7d)           : post-grunge(34) | alternative metal(27) | nu metal(26) | grunge(21) | rap metal(11) | rock(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-24 19:55:18Z
+Report generated (UTC)    : 2026-03-24 20:00:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
