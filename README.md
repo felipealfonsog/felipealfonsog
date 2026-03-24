@@ -1137,51 +1137,50 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Silverchair — Cicada
-Last played               : Silverchair — Undecided
-Last played (UTC)         : 2026-03-24 20:19:23Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Stone Temple Pilots — Meatplow - 2019 Remaster
+Last played (UTC)         : 2026-03-24 20:29:44Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Silverchair — Undecided → Stone Temple Pilots — Meatplow - 2019 Remaster
+Δ last played (since last): 2026-03-24 20:19:23Z → 2026-03-24 20:29:44Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:41
-Telemetry age             : 00:02:41
-Δ time (since last report): 00:00:28
+Time since last play      : 01:04:06
+Telemetry age             : 01:04:06
+Δ time (since last report): 01:11:47
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 28
+Tracks played (last 24h)  : 30
 Dominant artist           : Linkin Park
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-17 20:22:03Z → 2026-03-24 20:22:03Z
+Week window (UTC)         : 2026-03-17 21:33:50Z → 2026-03-24 21:33:50Z
 Total tracks played       : 50
-Dominant artist           : Staind
+Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1189,23 +1188,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :                ▂█▃      
-Heatmap (7d)              :          ▂ ▂▂▂ ▂█▃      
+Heatmap (24h)             :                ▂█▄      
+Heatmap (7d)              :          ▂ ▂▂▂ ▂█▄      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 00:44:52
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 00:39:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(17) | nu metal(17) | post-grunge(16) | grunge(11) | rap metal(11) | rock(11)
-Top genres (7d)           : post-grunge(34) | alternative metal(27) | nu metal(26) | grunge(21) | rap metal(11) | rock(11)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(18) | alternative metal(17) | nu metal(17) | grunge(13) | rock(12) | rap metal(11)
+Top genres (7d)           : post-grunge(34) | alternative metal(27) | nu metal(26) | grunge(21) | rock(12) | rap metal(11)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-24 20:22:03Z
+Report generated (UTC)    : 2026-03-24 21:33:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

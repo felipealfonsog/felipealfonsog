@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-03-24 20:22:03Z",
-  "status": "PLAYING",
-  "last_track": "Silverchair — Undecided",
-  "last_played_utc": "2026-03-24 20:19:23Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-03-24 21:33:50Z",
+  "status": "IDLE",
+  "last_track": "Stone Temple Pilots — Meatplow - 2019 Remaster",
+  "last_played_utc": "2026-03-24 20:29:44Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -514,6 +514,12 @@
     "3Ukr3Ufjg8ygRJv7Ww887f": [
       "grunge",
       "post-grunge"
+    ],
+    "2UazAtjfzqBF0Nho2awK4z": [
+      "grunge",
+      "alternative rock",
+      "post-grunge",
+      "rock"
     ]
   }
 }
