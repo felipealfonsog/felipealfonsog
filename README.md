@@ -1149,17 +1149,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Stone Temple Pilots — Meatplow - 2019 Remaster
-Last played (UTC)         : 2026-03-24 20:29:44Z
+Last played               : Stone Temple Pilots — Vasoline - 2019 Remaster
+Last played (UTC)         : 2026-03-24 21:34:10Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Undecided → Stone Temple Pilots — Meatplow - 2019 Remaster
-Δ last played (since last): 2026-03-24 20:19:23Z → 2026-03-24 20:29:44Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : Stone Temple Pilots — Meatplow - 2019 Remaster → Stone Temple Pilots — Vasoline - 2019 Remaster
+Δ last played (since last): 2026-03-24 20:29:44Z → 2026-03-24 21:34:10Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:04:06
-Telemetry age             : 01:04:06
-Δ time (since last report): 01:11:47
+Time since last play      : 00:00:56
+Telemetry age             : 00:00:56
+Δ time (since last report): 00:01:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1171,14 +1171,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 30
+Tracks played (last 24h)  : 31
 Dominant artist           : Linkin Park
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-17 21:33:50Z → 2026-03-24 21:33:50Z
+Week window (UTC)         : 2026-03-17 21:35:05Z → 2026-03-24 21:35:05Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1189,22 +1189,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 16:00
 Heatmap (24h)             :                ▂█▄      
-Heatmap (7d)              :          ▂ ▂▂▂ ▂█▄      
+Heatmap (7d)              :          ▁ ▂▂▂ ▂█▄      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 00:39:19
+Sessions (24h)            : 3
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 00:40:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(18) | alternative metal(17) | nu metal(17) | grunge(13) | rock(12) | rap metal(11)
-Top genres (7d)           : post-grunge(34) | alternative metal(27) | nu metal(26) | grunge(21) | rock(12) | rap metal(11)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : post-grunge(19) | alternative metal(17) | nu metal(17) | grunge(14) | rock(13) | rap metal(11)
+Top genres (7d)           : post-grunge(34) | alternative metal(26) | nu metal(25) | grunge(22) | rock(13) | rap metal(11)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-24 21:33:50Z
+Report generated (UTC)    : 2026-03-24 21:35:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
