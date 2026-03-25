@@ -1157,9 +1157,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:20:13
-Telemetry age             : 03:20:13
-Δ time (since last report): 03:17:47
+Time since last play      : 06:32:24
+Telemetry age             : 06:32:24
+Δ time (since last report): 03:12:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1171,14 +1171,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 31
+Tracks played (last 24h)  : 30
 Dominant artist           : Linkin Park
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-18 00:54:23Z → 2026-03-25 00:54:23Z
+Week window (UTC)         : 2026-03-18 04:06:33Z → 2026-03-25 04:06:33Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1194,17 +1194,17 @@ Heatmap (7d)              :          ▁ ▂▂▂ ▂█▄
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 8
 Avg inter-play gap (7d)   : 00:40:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(19) | alternative metal(17) | nu metal(17) | grunge(14) | rock(13) | rap metal(11)
+Top genres (24h)          : post-grunge(19) | alternative metal(16) | nu metal(16) | grunge(14) | rock(13) | rap metal(11)
 Top genres (7d)           : post-grunge(34) | alternative metal(26) | nu metal(25) | grunge(22) | rock(13) | rap metal(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-25 00:54:23Z
+Report generated (UTC)    : 2026-03-25 04:06:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
