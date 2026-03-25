@@ -188,9 +188,23 @@ This integration enables precise visual control, consistent styling, and a refin
 <a href="https://granoriente.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiadelgranoriente.svg" alt="Gran Logia Gran Oriente de Chile" width="40" height="40"/></a>
 <a href="https://granlogiamixta.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiamixta.svg" alt="Gran Logia Mixta de Chile" width="40" height="40"/></a>
 <a href="https://www.glach.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/glacl.svg" alt="Gran Logia Autónoma de Chile" width="40" height="40"/></a>
-<a href="https://boyscouts.cl" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/anbschile.svg" alt="Agrupacción Nacional de Chile" width="40" height="40"/></a>
+<a href="https://granlogiafemenina.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/glfcl.svg" alt="Gran Logia Femenina de Chile" width="40" height="40"/></a>
+<a href="https://asociacionmujereslaicas.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/amlcl.svg" alt="Asociación de Mujeres Laicas de Chile" width="40" height="40"/></a>
+<a href="https://fraternidad.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fjapecl.svg" alt="Fraternidad Juvenil Alfa Pi Épsilon" width="40" height="40"/></a>
+<a href="https://www.partidoradical.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/prsdcl.svg" alt="Partido Radical Socialdemócrata" width="40" height="40"/></a>
+<a href="https://www.instagram.com/todaslasmanos/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/tlmcl-circle.svg" alt="Movimiento Ciudadano Todas Las Manos de La Florida" width="40" height="40"/></a>
+<a href="https://www.zenchile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/dojozenstgo.svg" alt="Dojo Sho Den - Soto Zen Santiago" width="40" height="40"/></a>
+<a href="https://zendochudo.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/zendosudho.svg" alt="Zendo Chūdō" width="40" height="40"/></a>
+<a href="https://boyscouts.cl" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/anbschile.svg" alt="Agrupacción Nacional de Boy Scouts de Chile" width="40" height="40"/></a>
 <a href="https://boyscouts.cl/c22/?page_id=1108" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gilwell.svg" alt="Baden Powell, El Parque De Gilwell Y La Insignia De Madera" width="40" height="40"/></a>
 
+<a href="https://www.instagram.com/rfchile/?hl=es" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rfbjj.svg" alt="RF Chile BJJ" width="40" height="40"/></a>
+<a href="https://www.instagram.com/rfchile/?hl=es" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rfbjjmma.svg" alt="RF Chile BJJ" width="40" height="40"/></a>
+<a href="https://www.instagram.com/club.samurai/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/samuraijudo.svg" alt="BSamurai Judo Club" width="40" height="40"/></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/acmma.svg" alt="AC MMA BJJ Patricio Cmapos" width="40" height="40"/></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/acbjj.svg" alt="AC MMA BJJ Patricio Cmapos" width="40" height="40"/></a>
+<a href="https://www.instagram.com/cicerocosthachileoficial/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/cicerocostabjj.svg" alt="Cicero Costha BJJ Chile" width="40" height="40"/></a>
+<a href="https://www.instagram.com/labarba_jiujitsu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/labarbabjj.svg" alt="La Barba Jiu-Jitsu - Proyecto Social" width="40" height="40"/></a>
 
 #
 
@@ -581,7 +595,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-25 09:38:48Z
+DSN snapshot (UTC)       : 2026-03-25 12:38:34Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -592,14 +606,14 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.824 AU
-Heliocentric distance    : 170.068 AU
-Relative speed           : 19.345 km/s
+Earth distance           : 25.41e9 km | 169.823 AU
+Heliocentric distance    : 170.070 AU
+Relative speed           : 19.353 km/s
 ------------------------------------------------------------
 One-way light time       : 23:32:23
-Round-trip latency       : 47:04:46
+Round-trip latency       : 47:04:45
 ------------------------------------------------------------
-Δ distance (since last)  : -68,634 km
+Δ distance (since last)  : -70,424 km
 Mission age              : 48 years, 213 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -611,19 +625,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.661 AU
-Heliocentric distance    : 142.438 AU
-Relative speed           : 23.517 km/s
+Earth distance           : 21.34e9 km | 142.660 AU
+Heliocentric distance    : 142.439 AU
+Relative speed           : 23.506 km/s
 ------------------------------------------------------------
 One-way light time       : 19:46:28
-Round-trip latency       : 39:32:57
+Round-trip latency       : 39:32:56
 ------------------------------------------------------------
-Δ distance (since last)  : -76,338 km
+Δ distance (since last)  : -78,668 km
 Mission age              : 48 years, 229 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-25 09:38:54Z
+Report generated (UTC)   : 2026-03-25 12:38:39Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1159,9 +1173,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 12:04:32
-Telemetry age             : 12:04:32
-Δ time (since last report): 02:55:52
+Time since last play      : 15:03:01
+Telemetry age             : 15:03:01
+Δ time (since last report): 00:00:24
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1180,7 +1194,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-18 09:38:42Z → 2026-03-25 09:38:42Z
+Week window (UTC)         : 2026-03-18 12:37:10Z → 2026-03-25 12:37:10Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1206,7 +1220,7 @@ Top genres (24h)          : post-grunge(19) | alternative metal(16) | nu metal(1
 Top genres (7d)           : post-grunge(34) | alternative metal(26) | nu metal(25) | grunge(22) | rock(13) | rap metal(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-25 09:38:42Z
+Report generated (UTC)    : 2026-03-25 12:37:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1611,7 +1625,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 25/03/2026 12:27:18 UTC
+Last updated     : 25/03/2026 14:35:03 UTC
 
 ```
 <!--END_SECTION:wakastats-->
