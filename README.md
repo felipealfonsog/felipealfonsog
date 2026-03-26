@@ -1189,18 +1189,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Linkin Park — Nobody's Listening
-Last played               : Linkin Park — From the Inside
-Last played (UTC)         : 2026-03-26 11:42:15Z
+Now playing               : Linkin Park — Lying from You - Live LP Underground Tour 2003
+Last played               : Linkin Park — Numb
+Last played (UTC)         : 2026-03-26 11:50:43Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Faint → Linkin Park — From the Inside
-Δ last played (since last): 2026-03-26 11:32:43Z → 2026-03-26 11:42:15Z
+Δ track (since last)      : Linkin Park — From the Inside → Linkin Park — Numb
+Δ last played (since last): 2026-03-26 11:42:15Z → 2026-03-26 11:50:43Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:08
-Telemetry age             : 00:00:08
-Δ time (since last report): 00:08:18
+Time since last play      : 00:00:39
+Telemetry age             : 00:00:39
+Δ time (since last report): 00:08:59
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1212,14 +1212,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
+Tracks played (last 24h)  : 13
 Dominant artist           : Linkin Park
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 11:42:23Z → 2026-03-26 11:42:23Z
+Week window (UTC)         : 2026-03-19 11:51:21Z → 2026-03-26 11:51:21Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1230,22 +1230,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 16:00
 Heatmap (24h)             :         █               
-Heatmap (7d)              :         ▄   ▁▂ ▂█▄      
+Heatmap (7d)              :         ▆    ▂ ▂█▄      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:23:01
+Avg inter-play gap (7d)   : 01:22:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(10) | nu metal(10) | rap metal(10) | rock(10)
-Top genres (7d)           : alternative metal(30) | nu metal(29) | post-grunge(24) | rock(23) | rap metal(21) | grunge(18)
+Top genres (24h)          : alternative metal(13) | nu metal(13) | rap metal(13) | rock(13)
+Top genres (7d)           : alternative metal(33) | nu metal(32) | rock(26) | rap metal(24) | post-grunge(21) | grunge(15)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 11:42:23Z
+Report generated (UTC)    : 2026-03-26 11:51:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
