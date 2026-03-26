@@ -1189,18 +1189,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Deftones — Passenger
-Last played               : Red Hot Chili Peppers — The Zephyr Song
-Last played (UTC)         : 2026-03-26 13:37:35Z
+Now playing               : Linkin Park — Healing Foot
+Last played               : Deftones — Passenger
+Last played (UTC)         : 2026-03-26 13:43:40Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Red Hot Chili Peppers — The Zephyr Song → Deftones — Passenger
+Δ last played (since last): 2026-03-26 13:37:35Z → 2026-03-26 13:43:40Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:47
-Telemetry age             : 00:04:47
-Δ time (since last report): 00:03:19
+Time since last play      : 00:02:26
+Telemetry age             : 00:02:26
+Δ time (since last report): 00:03:44
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1212,14 +1212,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 40
+Tracks played (last 24h)  : 41
 Dominant artist           : Linkin Park
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 13:42:22Z → 2026-03-26 13:42:22Z
+Week window (UTC)         : 2026-03-19 13:46:05Z → 2026-03-26 13:46:05Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1229,23 +1229,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 08:00
-Heatmap (24h)             :         ██▅             
-Heatmap (7d)              :         ██▅     ▁▄▁     
+Heatmap (24h)             :         ██▆             
+Heatmap (7d)              :         ██▆      ▄▁     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:51:03
+Avg inter-play gap (7d)   : 00:51:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : rock(28) | alternative metal(27) | nu metal(24) | rap metal(22) | post-grunge(8) | groove metal(4)
-Top genres (7d)           : rock(30) | alternative metal(27) | nu metal(24) | rap metal(22) | post-grunge(18) | grunge(12)
+Top genres (24h)          : rock(29) | alternative metal(28) | nu metal(25) | rap metal(23) | post-grunge(8) | groove metal(4)
+Top genres (7d)           : rock(31) | alternative metal(28) | nu metal(25) | rap metal(23) | post-grunge(17) | grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 13:42:22Z
+Report generated (UTC)    : 2026-03-26 13:46:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
