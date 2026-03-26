@@ -174,6 +174,22 @@ This integration enables precise visual control, consistent styling, and a refin
 
 
 
+
+sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.</sub>
+<sub>
+Selected badges and iconography within this profile are dynamically generated via 
+<a href="https://custom-icon-badges.demolab.com/">custom-icon-badges</a>, 
+an open-source toolkit available on 
+<a href="https://github.com/DenverCoder1/custom-icon-badges">GitHub</a>. 
+This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.
+</sub>
+
+
+
+
+
+
 #
 
 
@@ -346,23 +362,23 @@ This integration enables precise visual control, consistent styling, and a refin
 <!-- GOODREADS:CLI_END -->
 
 
+<!-- 
 <sub><sub><strong>Note</strong> — *Goodreads Reading Intelligence — operational-style telemetry layer generated from <a href="https://www.goodreads.com/">Goodreads</a> shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
 <sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
 
 [![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml)
-
+-->
 
 </details>
 
 
-<!-- 
+
 
 > [!NOTE]
 > <sub>*Goodreads Reading Intelligence — operational-style telemetry layer generated from <a href="https://www.goodreads.com/">Goodreads</a> shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
 > <sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
 
 [![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml)
--->
 
 #
 
