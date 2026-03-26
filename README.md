@@ -1189,18 +1189,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Linkin Park — Easier to Run - Live LP Underground Tour 2003
-Last played               : Linkin Park — Lying from You - Live LP Underground Tour 2003
-Last played (UTC)         : 2026-03-26 11:53:48Z
+Now playing               : Pantera — Hollow
+Last played               : Linkin Park — Easier to Run - Live LP Underground Tour 2003
+Last played (UTC)         : 2026-03-26 12:00:06Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Numb → Linkin Park — Lying from You - Live LP Underground Tour 2003
-Δ last played (since last): 2026-03-26 11:50:43Z → 2026-03-26 11:53:48Z
+Δ track (since last)      : Linkin Park — Lying from You - Live LP Underground Tour 2003 → Linkin Park — Easier to Run - Live LP Underground Tour 2003
+Δ last played (since last): 2026-03-26 11:53:48Z → 2026-03-26 12:00:06Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:02
-Telemetry age             : 00:03:02
-Δ time (since last report): 00:05:29
+Time since last play      : 00:03:50
+Telemetry age             : 00:03:50
+Δ time (since last report): 00:07:07
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1212,14 +1212,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
+Tracks played (last 24h)  : 16
 Dominant artist           : Linkin Park
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 11:56:49Z → 2026-03-26 11:56:49Z
+Week window (UTC)         : 2026-03-19 12:03:56Z → 2026-03-26 12:03:56Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1229,23 +1229,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :         █               
-Heatmap (7d)              :         ▆    ▁ ▂█▄      
+Heatmap (24h)             :         █▁              
+Heatmap (7d)              :         ▇      ▂█▄      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:22:37
+Avg inter-play gap (7d)   : 01:22:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(14) | nu metal(14) | rap metal(14) | rock(14)
-Top genres (7d)           : alternative metal(33) | nu metal(32) | rock(27) | rap metal(25) | post-grunge(20) | grunge(15)
+Top genres (24h)          : alternative metal(16) | nu metal(16) | rap metal(16) | rock(16)
+Top genres (7d)           : alternative metal(34) | nu metal(33) | rock(29) | rap metal(27) | post-grunge(19) | grunge(15)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 11:56:49Z
+Report generated (UTC)    : 2026-03-26 12:03:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
