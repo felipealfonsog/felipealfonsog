@@ -1194,13 +1194,13 @@ Last played               : Pantera — Floods
 Last played (UTC)         : 2026-03-26 13:02:08Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — High Voltage → Pantera — Floods
-Δ last played (since last): 2026-03-26 12:55:12Z → 2026-03-26 13:02:08Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:53
-Telemetry age             : 00:00:53
-Δ time (since last report): 00:03:26
+Time since last play      : 00:01:38
+Telemetry age             : 00:01:38
+Δ time (since last report): 00:00:46
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1219,7 +1219,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 13:03:00Z → 2026-03-26 13:03:00Z
+Week window (UTC)         : 2026-03-19 13:03:45Z → 2026-03-26 13:03:45Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1245,7 +1245,7 @@ Top genres (24h)          : alternative metal(23) | nu metal(23) | rock(22) | ra
 Top genres (7d)           : rock(31) | alternative metal(30) | nu metal(30) | rap metal(28) | post-grunge(16) | grunge(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 13:03:00Z
+Report generated (UTC)    : 2026-03-26 13:03:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
