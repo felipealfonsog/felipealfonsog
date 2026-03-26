@@ -1194,13 +1194,13 @@ Last played               : Black Coast — Strangers Skin
 Last played (UTC)         : 2026-03-26 14:47:16Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : damnsonic — RETROGRADE → Black Coast — Strangers Skin
-Δ last played (since last): 2026-03-26 14:20:12Z → 2026-03-26 14:47:16Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:23
-Telemetry age             : 00:00:23
-Δ time (since last report): 00:25:25
+Time since last play      : 00:01:00
+Telemetry age             : 00:01:00
+Δ time (since last report): 00:00:38
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1219,7 +1219,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 14:47:38Z → 2026-03-26 14:47:38Z
+Week window (UTC)         : 2026-03-19 14:48:15Z → 2026-03-26 14:48:15Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1243,9 +1243,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(27) | rock(25) | nu metal(24) | rap metal(20) | post-grunge(11) | shoegaze(8)
 Top genres (7d)           : alternative metal(27) | rock(25) | nu metal(24) | rap metal(20) | post-grunge(11) | shoegaze(8)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 14:47:38Z
+Report generated (UTC)    : 2026-03-26 14:48:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
