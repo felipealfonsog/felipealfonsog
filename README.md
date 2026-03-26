@@ -1195,13 +1195,13 @@ Last played               : Creek — Unbalanced
 Last played (UTC)         : 2026-03-26 14:55:04Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Black Coast — Strangers Skin → Creek — Unbalanced
-Δ last played (since last): 2026-03-26 14:47:16Z → 2026-03-26 14:55:04Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:54:21
-Telemetry age             : 00:54:21
-Δ time (since last report): 00:58:13
+Time since last play      : 00:55:00
+Telemetry age             : 00:55:00
+Δ time (since last report): 00:00:40
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1220,7 +1220,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 15:49:24Z → 2026-03-26 15:49:24Z
+Week window (UTC)         : 2026-03-19 15:50:03Z → 2026-03-26 15:50:03Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1244,9 +1244,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(25) | rock(23) | nu metal(22) | rap metal(18) | post-grunge(11) | shoegaze(10)
 Top genres (7d)           : alternative metal(25) | rock(23) | nu metal(22) | rap metal(18) | post-grunge(11) | shoegaze(10)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 15:49:24Z
+Report generated (UTC)    : 2026-03-26 15:50:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
