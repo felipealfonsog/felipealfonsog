@@ -166,7 +166,6 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 > [!NOTE]
 > <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.</sub>
-
 > <sub>Selected badges and iconography within this profile are dynamically generated via 
 <a href="https://custom-icon-badges.demolab.com/">custom-icon-badges</a>, 
 an open-source toolkit available on 
