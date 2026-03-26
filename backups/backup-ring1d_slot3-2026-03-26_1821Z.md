@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-03-25_1820Z
+ snapshot_utc : 2026-03-26_1821Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -160,6 +160,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://custom-icon-badges.demolab.com/badge/Nostr-6f42c1?style=plastic&logo=nostr-logo&logoColor=ffffff" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2)
 
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
+[<img src="https://img.shields.io/badge/-gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.qzz.io/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 [<img src="https://img.shields.io/badge/-onion_access-7D4698?style=plastic&logo=torproject&logoColor=white&labelColor=7D4698&logoWidth=20" height="19"/>](http://ookod2olxzttlvvvrtqqsjsg7mgiuhcypeyjize42y5ii4rsduxzafid.onion/)
@@ -170,7 +171,18 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 
+> [!NOTE]
+> <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.</sub><br>
+> <sub>Selected badges and iconography within this profile are dynamically generated via 
+<a href="https://custom-icon-badges.demolab.com/">custom-icon-badges</a>, 
+an open-source toolkit available on 
+<a href="https://github.com/DenverCoder1/custom-icon-badges">GitHub</a>. 
+This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.</sub>
 
+
+
+<!-- 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.</sub>
 
@@ -181,6 +193,11 @@ an open-source toolkit available on
 <a href="https://github.com/DenverCoder1/custom-icon-badges">GitHub</a>. 
 This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.
 </sub>
+
+-->
+
+
+
 
 #
 
@@ -195,6 +212,8 @@ This integration enables precise visual control, consistent styling, and a refin
 <a href="https://granoriente.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiadelgranoriente.svg" alt="Gran Logia Gran Oriente de Chile" width="40" height="40"/></a>
 <a href="https://granlogiamixta.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiamixta.svg" alt="Gran Logia Mixta de Chile" width="40" height="40"/></a>
 <a href="https://www.glach.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/glacl.svg" alt="Gran Logia Autónoma de Chile" width="40" height="40"/></a>
+<a href="https://www.granlogiahispana.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/glh-seal.svg" alt="Gran Logia Hispana" width="40" height="40"/></a>
+<a href="https://lumeninterioris.online/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/lumenilogia.svg" alt="Logia Masónica Lumen Interioris Nº 137" width="40" height="40"/></a>
 <a href="https://granlogiafemenina.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/glfcl.svg" alt="Gran Logia Femenina de Chile" width="40" height="40"/></a>
 <a href="https://asociacionmujereslaicas.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/amlcl.svg" alt="Asociación de Mujeres Laicas de Chile" width="40" height="40"/></a>
 <a href="https://fraternidad.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fjapecl.svg" alt="Fraternidad Juvenil Alfa Pi Épsilon" width="40" height="40"/></a>
@@ -202,6 +221,7 @@ This integration enables precise visual control, consistent styling, and a refin
 <a href="https://www.instagram.com/todaslasmanos/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/tlmcl-circle.svg" alt="Movimiento Ciudadano Todas Las Manos de La Florida" width="40" height="40"/></a>
 <a href="https://www.zenchile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/dojozenstgo.svg" alt="Dojo Sho Den - Soto Zen Santiago" width="40" height="40"/></a>
 <a href="https://zendochudo.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/zendosudho.svg" alt="Zendo Chūdō" width="40" height="40"/></a>
+<a href="https://insighttimer.com/daiunjoshin" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/insightt-logo.svg" alt="InsightTimer" width="40" height="40"/></a>
 <a href="https://boyscouts.cl" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/anbschile.svg" alt="Agrupacción Nacional de Boy Scouts de Chile" width="40" height="40"/></a>
 <a href="https://boyscouts.cl/c22/?page_id=1108" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gilwell.svg" alt="Baden Powell, El Parque De Gilwell Y La Insignia De Madera" width="40" height="40"/></a>
 
@@ -319,14 +339,14 @@ This integration enables precise visual control, consistent styling, and a refin
 <br/>
 <div align="left"><sub><strong>Currently Reading</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8455651783?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732188901l/220887027._SY75_.jpg" width="40" height="60" alt="The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455648321?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619978145l/57920800._SX50_.jpg" width="40" height="60" alt="The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455634136?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633192138l/59131430._SX50_.jpg" width="40" height="60" alt="Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455624520?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538363806l/42107422._SX50_.jpg" width="40" height="60" alt="The Autobiography of a Yogi — Paramahansa Yogananda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8399631886?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg" width="40" height="60" alt="PAYBACK: COREY PEARSON- CIA SPYMASTER SERIES — Robert Morton" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8120974609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg" width="40" height="60" alt="Leviathan — Thomas Hobbes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8083185323?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg" width="40" height="60" alt="Aferrada a mi balsa — Gladys Díaz Armijo" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008450894?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg" width="40" height="60" alt="Man&#x27;s Search for Meaning — Viktor E. Frankl" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
 <div align="left"><sub><strong>Recently Read</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg" width="40" height="60" alt="Programming Perl (3rd Edition) — Larry Wall" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg" width="40" height="60" alt="Mala onda — Alberto Fuguet" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg" width="40" height="60" alt="Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg" width="40" height="60" alt="Freedom from the Known — J. Krishnamurti" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg" width="40" height="60" alt="In My Father&#x27;s Den — Maurice Gee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg" width="40" height="60" alt="The Poetry of Pablo Neruda — Pablo Neruda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg" width="40" height="60" alt="Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg" width="40" height="60" alt="Cujo — Stephen King" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg" width="40" height="60" alt="On Writing — Ernest Hemingway" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg" width="40" height="60" alt="Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
-<br/><sub>SYNC: 2026-03-25T15:35:01+00:00 • LAST UPDATE: 2026-03-25T15:35:01+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
+<br/><sub>SYNC: 2026-03-26T15:37:26+00:00 • LAST UPDATE: 2026-03-26T15:37:26+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
 <!-- GOODREADS:VISUAL_END -->
 
 <!-- GOODREADS:CLI_START -->
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-03-25T15:35:01+00:00 | last_update=2026-03-25T15:35:01+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-03-26T15:37:26+00:00 | last_update=2026-03-26T15:37:26+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
@@ -354,8 +374,14 @@ This integration enables precise visual control, consistent styling, and a refin
 <!-- GOODREADS:CLI_END -->
 
 
-</details>
+<!-- 
+<sub><sub><strong>Note</strong> — *Goodreads Reading Intelligence — operational-style telemetry layer generated from <a href="https://www.goodreads.com/">Goodreads</a> shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
+<sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
 
+[![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml)
+-->
+
+</details>
 
 
 
@@ -396,13 +422,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 210 ms
-TTFB................ 209 ms
+LATENCY............. 193 ms
+TTFB................ 192 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 43d
+TLS_EXPIRY.......... 42d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -431,7 +457,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-03-25T12:27:06Z
+LAST_PROBE_UTC...... 2026-03-26T12:31:16Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -471,19 +497,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446898
-longitude      : -70.661992
-altitude       : 51 m
-gps_accuracy   : ±8.1 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : meeting
+location       : pedestrian_axis
+latitude       : -33.437650
+longitude      : -70.646625
+altitude       : 152 m
+gps_accuracy   : ±7.1 m
+heading        : 155°
+speed          : 0.6 km/h
+status         : stationary
 phase          : workday
-local_time     : 15:14
+local_time     : 15:15
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-03-25 18:14:49 UTC
+signal         : strong
+updated_utc    : 2026-03-26 18:15:42 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -602,7 +628,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-25 12:38:34Z
+DSN snapshot (UTC)       : 2026-03-26 15:51:04Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -613,15 +639,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.823 AU
-Heliocentric distance    : 170.070 AU
-Relative speed           : 19.353 km/s
+Earth distance           : 25.40e9 km | 169.819 AU
+Heliocentric distance    : 170.081 AU
+Relative speed           : 19.434 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:23
-Round-trip latency       : 47:04:45
+One-way light time       : 23:32:21
+Round-trip latency       : 47:04:41
 ------------------------------------------------------------
-Δ distance (since last)  : -70,424 km
-Mission age              : 48 years, 213 days
+Δ distance (since last)  : -630,794 km
+Mission age              : 48 years, 214 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -632,19 +658,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.660 AU
-Heliocentric distance    : 142.439 AU
-Relative speed           : 23.506 km/s
+Earth distance           : 21.34e9 km | 142.655 AU
+Heliocentric distance    : 142.449 AU
+Relative speed           : 23.407 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:28
-Round-trip latency       : 39:32:56
+One-way light time       : 19:46:26
+Round-trip latency       : 39:32:51
 ------------------------------------------------------------
-Δ distance (since last)  : -78,668 km
-Mission age              : 48 years, 229 days
+Δ distance (since last)  : -720,430 km
+Mission age              : 48 years, 230 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-25 12:38:39Z
+Report generated (UTC)   : 2026-03-26 15:51:09Z
 ```
 
 <!-- VOYAGER:END -->
@@ -710,6 +736,8 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 </details>
 
 [![Update OTX Threat Feed](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update_otx.yml/badge.svg)](#)
+
+#
 
 <!-- 
 [![Felipe's Wikipedia User Page](https://img.shields.io/badge/-Felipe%27s%20Wikipedia%20User%20Page-181717?style=plastic&logo=Wikipedia&logoColor=white&labelColor=181717)](https://en.wikipedia.org/wiki/User:Felipealfonsog)
@@ -1172,17 +1200,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Stone Temple Pilots — Vasoline - 2019 Remaster
-Last played (UTC)         : 2026-03-24 21:34:10Z
+Last played               : Creek — Unbalanced
+Last played (UTC)         : 2026-03-26 14:55:04Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 18:13:11
-Telemetry age             : 18:13:11
-Δ time (since last report): 00:00:15
+Time since last play      : 00:55:53
+Telemetry age             : 00:55:53
+Δ time (since last report): 00:00:54
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1194,40 +1222,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 30
+Tracks played (last 24h)  : 50
 Dominant artist           : Linkin Park
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-18 15:47:20Z → 2026-03-25 15:47:20Z
+Week window (UTC)         : 2026-03-19 15:50:56Z → 2026-03-26 15:50:56Z
 Total tracks played       : 50
-Dominant artist           : Silverchair
+Dominant artist           : Linkin Park
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 16:00
-Peak hour (7d)            : 16:00
-Heatmap (24h)             :                ▂█▄      
-Heatmap (7d)              :          ▁ ▂▂▂ ▂█▄      
+Peak hour (24h)           : 09:00
+Peak hour (7d)            : 09:00
+Heatmap (24h)             :         ▄█▇▇            
+Heatmap (7d)              :         ▄█▇▇            
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 00:40:28
+Sessions (24h)            : 1
+Sessions (7d)             : 1
+Avg inter-play gap (7d)   : 00:04:00
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(19) | alternative metal(16) | nu metal(16) | grunge(14) | rock(13) | rap metal(11)
-Top genres (7d)           : post-grunge(34) | alternative metal(26) | nu metal(25) | grunge(22) | rock(13) | rap metal(11)
+Top genres (24h)          : alternative metal(25) | rock(23) | nu metal(22) | rap metal(18) | post-grunge(11) | shoegaze(10)
+Top genres (7d)           : alternative metal(25) | rock(23) | nu metal(22) | rap metal(18) | post-grunge(11) | shoegaze(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-25 15:47:20Z
+Report generated (UTC)    : 2026-03-26 15:50:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1580,9 +1608,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 25 March 2026
+From: 04 December 2023 - To: 26 March 2026
 
-Total Time       : 1,001 hrs 49 mins
+Total Time       : 1,002 hrs 16 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 11 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1591,32 +1619,32 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          272 hrs 2 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  27.15 %
+Other          278 hrs 58 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  27.83 %
 Bash           165 hrs 1 min  ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.86 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.85 %
 HTML           130 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.00 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.85 %
 Markdown       80 hrs 39 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.05 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.35 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.99 %
 Text           38 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
-YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
+YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.76 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            656 hrs 59 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.58 %
-Linux          616 hrs 52 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.57 %
+Mac            664 hrs 22 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.29 %
+Linux          616 hrs 52 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.55 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.24 %
-Vim            326 hrs 34 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.60 %
-Firefox        231 hrs 18 mins ●●●●●●○○○○○○○○○○○○○○○○○○○○  23.09 %
-TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.20 %
-Terminal       10 hrs 2 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.00 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.21 %
+Vim            326 hrs 34 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.58 %
+Firefox        238 hrs 16 mins ●●●●●●○○○○○○○○○○○○○○○○○○○○  23.77 %
+TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
+Terminal       10 hrs 16 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.03 %
 Spotify        8 hrs 38 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.86 %
 Acrobat        7 hrs 48 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.78 %
-FileZilla      5 hrs 6 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
+FileZilla      5 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.53 %
 ‎WhatsApp      3 hrs 35 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.36 %
 Dia            3 hrs 26 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 TextMate       2 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
@@ -1624,15 +1652,15 @@ Zoom           2 hrs 31 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,034 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       228 hrs 58 mins ●●●●●◔○○○○○○○○○○○○○○○○○○○○  22.86 %
+Coding         1,034 hrs 26 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       235 hrs 56 mins ●●●●●●○○○○○○○○○○○○○○○○○○○○  23.54 %
 Meeting        8 hrs 48 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.88 %
 Writing Docs   2 hrs 2 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.20 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 25/03/2026 17:28:34 UTC
+Last updated     : 26/03/2026 17:29:48 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2530,6 +2558,18 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 </details>
 <!-- PROJECTS:END -->
 
+
+> [!NOTE]
+> <sub>This project portfolio is automatically curated through a custom Python-based classification system, orchestrated via GitHub Actions. 
+Repositories are continuously evaluated and organized based on real pinned selections, creation timelines, recent activity, popularity metrics, and curated relevance — ensuring the portfolio reflects both long-term focus and ongoing development beyond manually pinned projects.<br>
+> All projects are distributed under their respective licenses as defined per repository (see LICENSE / NOTICE). Where applicable, reuse and redistribution require explicit attribution, including my name and my GitHub profile reference.</sub><br>
+
+[![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) 
+
+
+<!-- 
+
+
 <sub><strong>Note</strong> — This project portfolio is automatically curated through a custom Python-based classification system, orchestrated via GitHub Actions. 
 Repositories are continuously evaluated and organized based on real pinned selections, creation timelines, recent activity, popularity metrics, and curated relevance — ensuring the portfolio reflects both long-term focus and ongoing development beyond manually pinned projects.
 <br>
@@ -2538,6 +2578,9 @@ All projects are distributed under their respective licenses as defined per repo
 <br>
 
 [![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) 
+
+--> 
+
 
 <!--
 [![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
