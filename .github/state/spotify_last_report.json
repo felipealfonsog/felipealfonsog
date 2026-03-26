@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-03-26 12:41:07Z",
+  "report_generated_utc": "2026-03-26 12:59:35Z",
   "status": "PLAYING",
-  "last_track": "Alice In Chains — Check My Brain",
-  "last_played_utc": "2026-03-26 12:39:44Z",
+  "last_track": "Linkin Park — High Voltage",
+  "last_played_utc": "2026-03-26 12:55:12Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -534,6 +534,18 @@
     ],
     "3dXaa6jwM7B52GZpaJEIr5": [
       "post-grunge"
+    ],
+    "0L8ExT028jH3ddEcZwqJJ5": [
+      "funk rock",
+      "alternative rock",
+      "rock"
+    ],
+    "1Ffb6ejR6Fe5IamqA5oRUF": [
+      "metalcore",
+      "emo",
+      "rock",
+      "screamo",
+      "post-hardcore"
     ]
   }
 }
