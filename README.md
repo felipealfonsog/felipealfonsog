@@ -174,7 +174,7 @@ This integration enables precise visual control, consistent styling, and a refin
 
 
 
-
+<!-- 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.</sub>
 
@@ -186,7 +186,7 @@ an open-source toolkit available on
 This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.
 </sub>
 
-
+-->
 
 
 
@@ -2546,6 +2546,18 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 <!-- PROJECTS:END -->
 
+
+> [!NOTE]
+> <sub>This project portfolio is automatically curated through a custom Python-based classification system, orchestrated via GitHub Actions. 
+Repositories are continuously evaluated and organized based on real pinned selections, creation timelines, recent activity, popularity metrics, and curated relevance — ensuring the portfolio reflects both long-term focus and ongoing development beyond manually pinned projects.<br>
+> All projects are distributed under their respective licenses as defined per repository (see LICENSE / NOTICE). Where applicable, reuse and redistribution require explicit attribution, including my name and my GitHub profile reference.</sub><br>
+
+[![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) 
+
+
+<!-- 
+
+
 <sub><strong>Note</strong> — This project portfolio is automatically curated through a custom Python-based classification system, orchestrated via GitHub Actions. 
 Repositories are continuously evaluated and organized based on real pinned selections, creation timelines, recent activity, popularity metrics, and curated relevance — ensuring the portfolio reflects both long-term focus and ongoing development beyond manually pinned projects.
 <br>
@@ -2554,6 +2566,9 @@ All projects are distributed under their respective licenses as defined per repo
 <br>
 
 [![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) 
+
+--> 
+
 
 <!--
 [![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
