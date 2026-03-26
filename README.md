@@ -1194,13 +1194,13 @@ Last played               : Alice In Chains — Check My Brain
 Last played (UTC)         : 2026-03-26 12:39:44Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — In Pieces → Alice In Chains — Check My Brain
-Δ last played (since last): 2026-03-26 12:28:50Z → 2026-03-26 12:39:44Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:26
-Telemetry age             : 00:00:26
-Δ time (since last report): 00:04:55
+Time since last play      : 00:00:50
+Telemetry age             : 00:00:50
+Δ time (since last report): 00:00:25
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1219,7 +1219,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 12:40:09Z → 2026-03-26 12:40:09Z
+Week window (UTC)         : 2026-03-19 12:40:34Z → 2026-03-26 12:40:34Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1245,7 +1245,7 @@ Top genres (24h)          : alternative metal(21) | nu metal(21) | rap metal(20)
 Top genres (7d)           : alternative metal(32) | nu metal(32) | rock(32) | rap metal(31) | post-grunge(16) | grunge(14)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 12:40:09Z
+Report generated (UTC)    : 2026-03-26 12:40:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
