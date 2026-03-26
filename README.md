@@ -1189,18 +1189,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pantera — Floods
-Last played               : Linkin Park — High Voltage
-Last played (UTC)         : 2026-03-26 12:55:12Z
+Now playing               : Seether — Gasoline
+Last played               : Pantera — Floods
+Last played (UTC)         : 2026-03-26 13:02:08Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Check My Brain → Linkin Park — High Voltage
-Δ last played (since last): 2026-03-26 12:39:44Z → 2026-03-26 12:55:12Z
+Δ track (since last)      : Linkin Park — High Voltage → Pantera — Floods
+Δ last played (since last): 2026-03-26 12:55:12Z → 2026-03-26 13:02:08Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:24
-Telemetry age             : 00:04:24
-Δ time (since last report): 00:18:29
+Time since last play      : 00:00:53
+Telemetry age             : 00:00:53
+Δ time (since last report): 00:03:26
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1212,14 +1212,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 30
+Tracks played (last 24h)  : 31
 Dominant artist           : Linkin Park
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 12:59:35Z → 2026-03-26 12:59:35Z
+Week window (UTC)         : 2026-03-19 13:03:00Z → 2026-03-26 13:03:00Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1229,23 +1229,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 08:00
-Heatmap (24h)             :         ██              
-Heatmap (7d)              :         ██      ▆▄▁     
+Heatmap (24h)             :         ██▁             
+Heatmap (7d)              :         ██▁     ▅▄▁     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:50:58
+Avg inter-play gap (7d)   : 00:51:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(23) | nu metal(23) | rock(22) | rap metal(21) | post-grunge(4) | groove metal(3)
-Top genres (7d)           : rock(32) | alternative metal(31) | nu metal(31) | rap metal(29) | post-grunge(16) | grunge(13)
-Artist lookups (this run) : 2 (cached)
+Top genres (24h)          : alternative metal(23) | nu metal(23) | rock(22) | rap metal(21) | groove metal(4) | heavy metal(4)
+Top genres (7d)           : rock(31) | alternative metal(30) | nu metal(30) | rap metal(28) | post-grunge(16) | grunge(13)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 12:59:35Z
+Report generated (UTC)    : 2026-03-26 13:03:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
