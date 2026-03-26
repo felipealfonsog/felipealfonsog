@@ -1194,13 +1194,13 @@ Last played               : Linkin Park — In Pieces
 Last played (UTC)         : 2026-03-26 12:28:50Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Hollow → Linkin Park — In Pieces
-Δ last played (since last): 2026-03-26 12:04:39Z → 2026-03-26 12:28:50Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:13
-Telemetry age             : 00:03:13
-Δ time (since last report): 00:22:52
+Time since last play      : 00:05:24
+Telemetry age             : 00:05:24
+Δ time (since last report): 00:02:12
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1219,7 +1219,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 12:32:02Z → 2026-03-26 12:32:02Z
+Week window (UTC)         : 2026-03-19 12:34:14Z → 2026-03-26 12:34:14Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1243,9 +1243,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(21) | nu metal(21) | rap metal(20) | rock(19) | groove metal(2) | heavy metal(2)
 Top genres (7d)           : alternative metal(33) | nu metal(33) | rock(32) | rap metal(31) | post-grunge(17) | grunge(14)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 12:32:02Z
+Report generated (UTC)    : 2026-03-26 12:34:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
