@@ -175,7 +175,7 @@ This integration enables precise visual control, consistent styling, and a refin
 
 
 
-sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+<sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.</sub>
 <sub>
 Selected badges and iconography within this profile are dynamically generated via 
