@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-03-26 13:03:45Z",
+  "report_generated_utc": "2026-03-26 13:39:03Z",
   "status": "PLAYING",
-  "last_track": "Pantera — Floods",
-  "last_played_utc": "2026-03-26 13:02:08Z",
+  "last_track": "Red Hot Chili Peppers — The Zephyr Song",
+  "last_played_utc": "2026-03-26 13:37:35Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -546,6 +546,24 @@
       "rock",
       "screamo",
       "post-hardcore"
+    ],
+    "502ZZTWlqgS1Ht62ewubEJ": [],
+    "5bf6yYgHODBW5EreBZshpX": [],
+    "0GmGQmKKOK16cPu1wYINzn": [],
+    "7CaUk9xCxdXAmmqQn3PLR7": [
+      "underground hip hop",
+      "west coast hip hop",
+      "jazz rap"
+    ],
+    "6glaZ3qSwdXqln8g8JpYzr": [],
+    "6deZN1bslXzeGvOLaLMOIF": [
+      "post-grunge",
+      "rock"
+    ],
+    "2ziB7fzrXBoh1HUPS6sVFn": [
+      "grunge",
+      "post-grunge",
+      "alternative metal"
     ]
   }
 }
