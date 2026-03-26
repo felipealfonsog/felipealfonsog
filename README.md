@@ -2525,7 +2525,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 JavaScript · HTML · EJS  •  ⭐ 1
 
 <br>
-</details>
+<! -- </details> -->
+
 <!-- PROJECTS:END -->
 
 <sub><strong>Note</strong> — This project portfolio is automatically curated through a custom Python-based classification system, orchestrated via GitHub Actions. 
@@ -2540,7 +2541,7 @@ All projects are distributed under their respective licenses as defined per repo
 <!--
 [![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
 -->
-
+</details>
 #
 
 
