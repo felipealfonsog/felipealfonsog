@@ -163,7 +163,18 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 
+> [!NOTE]
+> <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
+The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.</sub><br>
+> <sub>Selected badges and iconography within this profile are dynamically generated via 
+<a href="https://custom-icon-badges.demolab.com/">custom-icon-badges</a>, 
+an open-source toolkit available on 
+<a href="https://github.com/DenverCoder1/custom-icon-badges">GitHub</a>. 
+This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.</sub>
 
+
+
+<!-- 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
 The “Google Translate” badge redirects to an automatic translation of this page from English to Spanish via <a href="https://translate.google.com/?hl=es-419&sl=en&tl=es&op=translate">Google Translate</a>.</sub>
 
@@ -174,6 +185,11 @@ an open-source toolkit available on
 <a href="https://github.com/DenverCoder1/custom-icon-badges">GitHub</a>. 
 This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.
 </sub>
+
+-->
+
+
+
 
 #
 
@@ -346,15 +362,15 @@ This integration enables precise visual control, consistent styling, and a refin
 ```
 <!-- GOODREADS:CLI_END -->
 
+
 <!-- 
-> <sub>*Goodreads Reading Intelligence — operational-style telemetry layer generated from <a href="https://www.goodreads.com/">Goodreads</a> shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
-> <sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
+<sub><sub><strong>Note</strong> — *Goodreads Reading Intelligence — operational-style telemetry layer generated from <a href="https://www.goodreads.com/">Goodreads</a> shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
+<sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
 
 [![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml)
 -->
 
 </details>
-
 
 
 
@@ -470,19 +486,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.441556
-longitude      : -70.654445
-altitude       : 54 m
-gps_accuracy   : ±5.1 m
-heading        : 140°
-speed          : 0.3 km/h
-status         : low_movement
-phase          : overnight
-local_time     : 03:20
+location       : pedestrian_axis
+latitude       : -33.437718
+longitude      : -70.647430
+altitude       : 159 m
+gps_accuracy   : ±5.2 m
+heading        : 72°
+speed          : 1.5 km/h
+status         : in_transit
+phase          : early_morning
+local_time     : 06:17
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-03-26 06:20:01 UTC
+signal         : nominal
+updated_utc    : 2026-03-26 09:17:25 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -2527,7 +2543,20 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 <br>
 </details>
+
 <!-- PROJECTS:END -->
+
+
+> [!NOTE]
+> <sub>This project portfolio is automatically curated through a custom Python-based classification system, orchestrated via GitHub Actions. 
+Repositories are continuously evaluated and organized based on real pinned selections, creation timelines, recent activity, popularity metrics, and curated relevance — ensuring the portfolio reflects both long-term focus and ongoing development beyond manually pinned projects.<br>
+> All projects are distributed under their respective licenses as defined per repository (see LICENSE / NOTICE). Where applicable, reuse and redistribution require explicit attribution, including my name and my GitHub profile reference.</sub><br>
+
+[![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) 
+
+
+<!-- 
+
 
 <sub><strong>Note</strong> — This project portfolio is automatically curated through a custom Python-based classification system, orchestrated via GitHub Actions. 
 Repositories are continuously evaluated and organized based on real pinned selections, creation timelines, recent activity, popularity metrics, and curated relevance — ensuring the portfolio reflects both long-term focus and ongoing development beyond manually pinned projects.
@@ -2537,6 +2566,9 @@ All projects are distributed under their respective licenses as defined per repo
 <br>
 
 [![Run Project Portfolio](https://img.shields.io/badge/Run-Project%20Portfolio-181717?logo=github&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml) [![Update Project Portfolio](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/update-projects.yml/badge.svg)](#) 
+
+--> 
+
 
 <!--
 [![GitHub Profile](https://img.shields.io/badge/GitHub-felipealfonsog-181717?style=plastic&logo=github&logoColor=white&labelColor=000000)](https://github.com/felipealfonsog)
