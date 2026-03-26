@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-03-26 14:22:14Z",
+  "report_generated_utc": "2026-03-26 14:47:38Z",
   "status": "PLAYING",
-  "last_track": "damnsonic — RETROGRADE",
-  "last_played_utc": "2026-03-26 14:20:12Z",
+  "last_track": "Black Coast — Strangers Skin",
+  "last_played_utc": "2026-03-26 14:47:16Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -580,6 +580,14 @@
       "alternative metal",
       "rap metal",
       "hard rock"
+    ],
+    "4Op2pnzbOze0T6HSejf6dL": [
+      "nu metal"
+    ],
+    "78La3UNTjYIUPI0gVjRdIF": [
+      "nu metal",
+      "rap metal",
+      "alternative metal"
     ]
   }
 }

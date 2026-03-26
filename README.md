@@ -1189,18 +1189,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : postdrome — Circles
-Last played               : damnsonic — RETROGRADE
-Last played (UTC)         : 2026-03-26 14:20:12Z
+Now playing               : Wayside — Asymmetry
+Last played               : Black Coast — Strangers Skin
+Last played (UTC)         : 2026-03-26 14:47:16Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : postdrome — So Inviting → damnsonic — RETROGRADE
-Δ last played (since last): 2026-03-26 14:13:52Z → 2026-03-26 14:20:12Z
+Δ track (since last)      : damnsonic — RETROGRADE → Black Coast — Strangers Skin
+Δ last played (since last): 2026-03-26 14:20:12Z → 2026-03-26 14:47:16Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:03
-Telemetry age             : 00:02:03
-Δ time (since last report): 00:06:07
+Time since last play      : 00:00:23
+Telemetry age             : 00:00:23
+Δ time (since last report): 00:25:25
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1212,14 +1212,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 49
+Tracks played (last 24h)  : 50
 Dominant artist           : Linkin Park
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 14:22:14Z → 2026-03-26 14:22:14Z
+Week window (UTC)         : 2026-03-19 14:47:38Z → 2026-03-26 14:47:38Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1227,25 +1227,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
-Peak hour (7d)            : 08:00
-Heatmap (24h)             :         ██▇▃            
-Heatmap (7d)              :         ██▇▃      ▁     
+Peak hour (24h)           : 09:00
+Peak hour (7d)            : 09:00
+Heatmap (24h)             :         ▅█▇▆            
+Heatmap (7d)              :         ▅█▇▆            
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:49:55
+Sessions (7d)             : 1
+Avg inter-play gap (7d)   : 00:03:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(32) | rock(31) | nu metal(28) | rap metal(25) | post-grunge(11) | metal(5)
-Top genres (7d)           : alternative metal(32) | rock(32) | nu metal(28) | rap metal(25) | post-grunge(12) | metal(5)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(27) | rock(25) | nu metal(24) | rap metal(20) | post-grunge(11) | shoegaze(8)
+Top genres (7d)           : alternative metal(27) | rock(25) | nu metal(24) | rap metal(20) | post-grunge(11) | shoegaze(8)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 14:22:14Z
+Report generated (UTC)    : 2026-03-26 14:47:38Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
