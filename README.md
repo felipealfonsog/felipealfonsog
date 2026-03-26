@@ -1189,18 +1189,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Linkin Park — Easier to Run
-Last played               : Linkin Park — Hit the Floor
-Last played (UTC)         : 2026-03-26 11:26:37Z
+Now playing               : Linkin Park — Figure.09
+Last played               : Linkin Park — Faint
+Last played (UTC)         : 2026-03-26 11:32:43Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Linkin Park — Don't Stay → Linkin Park — Hit the Floor
-Δ last played (since last): 2026-03-26 11:17:25Z → 2026-03-26 11:26:37Z
+Δ track (since last)      : Linkin Park — Hit the Floor → Linkin Park — Faint
+Δ last played (since last): 2026-03-26 11:26:37Z → 2026-03-26 11:32:43Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:53
-Telemetry age             : 00:01:53
-Δ time (since last report): 00:09:00
+Time since last play      : 00:01:22
+Telemetry age             : 00:01:22
+Δ time (since last report): 00:05:36
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1212,14 +1212,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
+Tracks played (last 24h)  : 7
 Dominant artist           : Linkin Park
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 11:28:29Z → 2026-03-26 11:28:29Z
+Week window (UTC)         : 2026-03-19 11:34:05Z → 2026-03-26 11:34:05Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1230,22 +1230,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 16:00
 Heatmap (24h)             :         █               
-Heatmap (7d)              :         ▂  ▁▂▂ ▂█▄      
+Heatmap (7d)              :         ▃   ▂▂ ▂█▄      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:24:25
+Avg inter-play gap (7d)   : 01:23:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
-Top genres (7d)           : post-grunge(29) | alternative metal(26) | nu metal(25) | grunge(22) | rock(18) | rap metal(16)
+Top genres (24h)          : alternative metal(7) | nu metal(7) | rap metal(7) | rock(7)
+Top genres (7d)           : alternative metal(27) | post-grunge(27) | nu metal(26) | grunge(21) | rock(20) | rap metal(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 11:28:29Z
+Report generated (UTC)    : 2026-03-26 11:34:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
