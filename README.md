@@ -1194,13 +1194,13 @@ Last played               : Red Hot Chili Peppers — The Zephyr Song
 Last played (UTC)         : 2026-03-26 13:37:35Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Pantera — Floods → Red Hot Chili Peppers — The Zephyr Song
-Δ last played (since last): 2026-03-26 13:02:08Z → 2026-03-26 13:37:35Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:29
-Telemetry age             : 00:01:29
-Δ time (since last report): 00:35:19
+Time since last play      : 00:04:47
+Telemetry age             : 00:04:47
+Δ time (since last report): 00:03:19
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1219,7 +1219,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 13:39:03Z → 2026-03-26 13:39:03Z
+Week window (UTC)         : 2026-03-19 13:42:22Z → 2026-03-26 13:42:22Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1243,9 +1243,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : rock(28) | alternative metal(27) | nu metal(24) | rap metal(22) | post-grunge(8) | groove metal(4)
 Top genres (7d)           : rock(30) | alternative metal(27) | nu metal(24) | rap metal(22) | post-grunge(18) | grunge(12)
-Artist lookups (this run) : 7 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 13:39:03Z
+Report generated (UTC)    : 2026-03-26 13:42:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
