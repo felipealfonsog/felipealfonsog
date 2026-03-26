@@ -154,6 +154,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.qzz.io/)
+[<img src="https://img.shields.io/badge/-cl.gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://cl.gnlz.qzz.io/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 [<img src="https://img.shields.io/badge/-onion_access-7D4698?style=plastic&logo=torproject&logoColor=white&labelColor=7D4698&logoWidth=20" height="19"/>](http://ookod2olxzttlvvvrtqqsjsg7mgiuhcypeyjize42y5ii4rsduxzafid.onion/)
