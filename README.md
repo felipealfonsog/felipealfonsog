@@ -1189,18 +1189,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Linkin Park — Somewhere I Belong
-Last played               : Linkin Park — Don't Stay
-Last played (UTC)         : 2026-03-26 11:17:25Z
+Now playing               : Linkin Park — Easier to Run
+Last played               : Linkin Park — Hit the Floor
+Last played (UTC)         : 2026-03-26 11:26:37Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Stone Temple Pilots — Vasoline - 2019 Remaster → Linkin Park — Don't Stay
-Δ last played (since last): 2026-03-24 21:34:10Z → 2026-03-26 11:17:25Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Linkin Park — Don't Stay → Linkin Park — Hit the Floor
+Δ last played (since last): 2026-03-26 11:17:25Z → 2026-03-26 11:26:37Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:05
-Telemetry age             : 00:02:05
-Δ time (since last report): 01:35:20
+Time since last play      : 00:01:53
+Telemetry age             : 00:01:53
+Δ time (since last report): 00:09:00
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1212,16 +1212,16 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 5
 Dominant artist           : Linkin Park
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 11:19:30Z → 2026-03-26 11:19:30Z
+Week window (UTC)         : 2026-03-19 11:28:29Z → 2026-03-26 11:28:29Z
 Total tracks played       : 50
-Dominant artist           : Silverchair
+Dominant artist           : Linkin Park
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1230,22 +1230,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 16:00
 Heatmap (24h)             :         █               
-Heatmap (7d)              :         ▁  ▂▂▂ ▂█▄      
+Heatmap (7d)              :         ▂  ▁▂▂ ▂█▄      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 01:26:29
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 01:24:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(2) | nu metal(2) | rap metal(2) | rock(2)
-Top genres (7d)           : post-grunge(32) | alternative metal(26) | nu metal(25) | grunge(22) | rock(15) | rap metal(13)
+Top genres (24h)          : alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
+Top genres (7d)           : post-grunge(29) | alternative metal(26) | nu metal(25) | grunge(22) | rock(18) | rap metal(16)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 11:19:30Z
+Report generated (UTC)    : 2026-03-26 11:28:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
