@@ -1194,13 +1194,13 @@ Last played               : postdrome — So Inviting
 Last played (UTC)         : 2026-03-26 14:13:52Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Deftones — Passenger → postdrome — So Inviting
-Δ last played (since last): 2026-03-26 13:43:40Z → 2026-03-26 14:13:52Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:56
-Telemetry age             : 00:00:56
-Δ time (since last report): 00:28:43
+Time since last play      : 00:02:16
+Telemetry age             : 00:02:16
+Δ time (since last report): 00:01:20
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1219,7 +1219,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 14:14:48Z → 2026-03-26 14:14:48Z
+Week window (UTC)         : 2026-03-19 14:16:08Z → 2026-03-26 14:16:08Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1243,9 +1243,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(32) | rock(31) | nu metal(28) | rap metal(25) | post-grunge(11) | metal(5)
 Top genres (7d)           : rock(33) | alternative metal(32) | nu metal(28) | rap metal(25) | post-grunge(14) | grunge(5)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 14:14:48Z
+Report generated (UTC)    : 2026-03-26 14:16:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
