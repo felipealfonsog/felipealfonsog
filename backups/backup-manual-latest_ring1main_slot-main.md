@@ -159,6 +159,8 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 [<img src="https://img.shields.io/badge/-onion_access-7D4698?style=plastic&logo=torproject&logoColor=white&labelColor=7D4698&logoWidth=20" height="19"/>](http://ookod2olxzttlvvvrtqqsjsg7mgiuhcypeyjize42y5ii4rsduxzafid.onion/)
 
+[![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat.](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat.-2563eb?style=flat-square&logo=databricks&logoColor=ffffff)](https://dash.domain.digitalplat.org/signup?ref=OrSbjKtQYH)
+
 [<img src="https://img.shields.io/badge/Reachable-555555?style=plastic&logo=checkmarx&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](#how-to-reach-me)
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
@@ -622,7 +624,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-03-26 15:51:04Z
+DSN snapshot (UTC)       : 2026-03-26 18:41:39Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -634,13 +636,13 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.40e9 km | 169.819 AU
-Heliocentric distance    : 170.081 AU
-Relative speed           : 19.434 km/s
+Heliocentric distance    : 170.082 AU
+Relative speed           : 19.443 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:21
+One-way light time       : 23:32:20
 Round-trip latency       : 47:04:41
 ------------------------------------------------------------
-Δ distance (since last)  : -630,794 km
+Δ distance (since last)  : -64,808 km
 Mission age              : 48 years, 214 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -653,18 +655,18 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.34e9 km | 142.655 AU
-Heliocentric distance    : 142.449 AU
-Relative speed           : 23.407 km/s
+Heliocentric distance    : 142.450 AU
+Relative speed           : 23.397 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:26
+One-way light time       : 19:46:25
 Round-trip latency       : 39:32:51
 ------------------------------------------------------------
-Δ distance (since last)  : -720,430 km
+Δ distance (since last)  : -75,676 km
 Mission age              : 48 years, 230 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-03-26 15:51:09Z
+Report generated (UTC)   : 2026-03-26 18:41:41Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1202,9 +1204,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:55:53
-Telemetry age             : 00:55:53
-Δ time (since last report): 00:00:54
+Time since last play      : 03:45:58
+Telemetry age             : 03:45:58
+Δ time (since last report): 00:00:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1223,7 +1225,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-19 15:50:56Z → 2026-03-26 15:50:56Z
+Week window (UTC)         : 2026-03-19 18:41:01Z → 2026-03-26 18:41:01Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1249,7 +1251,7 @@ Top genres (24h)          : alternative metal(25) | rock(23) | nu metal(22) | ra
 Top genres (7d)           : alternative metal(25) | rock(23) | nu metal(22) | rap metal(18) | post-grunge(11) | shoegaze(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-26 15:50:56Z
+Report generated (UTC)    : 2026-03-26 18:41:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
