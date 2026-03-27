@@ -1187,30 +1187,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : ONLINE (idle session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : CastAudio
 Device name               : GNest-MerkleTree speaker
-Volume                    : 49%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Silverchair — Slave
-Last played               : Silverchair — Shade
-Last played (UTC)         : 2026-03-27 09:33:42Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Silverchair — Slave
+Last played (UTC)         : 2026-03-27 09:37:34Z
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Abuse Me → Silverchair — Shade
-Δ last played (since last): 2026-03-27 09:18:36Z → 2026-03-27 09:33:42Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Silverchair — Shade → Silverchair — Slave
+Δ last played (since last): 2026-03-27 09:33:42Z → 2026-03-27 09:37:34Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:03:38
-Telemetry age             : 00:03:38
-Δ time (since last report): 00:16:36
+Time since last play      : 00:01:52
+Telemetry age             : 00:01:52
+Δ time (since last report): 00:02:07
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1228,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 09:37:19Z → 2026-03-27 09:37:19Z
+Week window (UTC)         : 2026-03-20 09:39:26Z → 2026-03-27 09:39:26Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1239,8 +1238,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 11:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :     ▄▆▄   ▆█           ▁
-Heatmap (7d)              :     ▄▆▄   ▆█           ▁
+Heatmap (24h)             :     ▄▆▅   ▆█           ▁
+Heatmap (7d)              :     ▄▆▅   ▆█           ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -1251,11 +1250,11 @@ Avg inter-play gap (7d)   : 00:24:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(21) | grunge(20) | rap metal(18) | funk rock(14) | post-grunge(12) | shoegaze(11)
-Top genres (7d)           : alternative metal(21) | grunge(20) | rap metal(18) | funk rock(14) | post-grunge(12) | shoegaze(11)
+Top genres (24h)          : alternative metal(21) | grunge(21) | rap metal(18) | funk rock(14) | post-grunge(12) | shoegaze(11)
+Top genres (7d)           : alternative metal(21) | grunge(21) | rap metal(18) | funk rock(14) | post-grunge(12) | shoegaze(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 09:37:19Z
+Report generated (UTC)    : 2026-03-27 09:39:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
