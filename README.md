@@ -1204,13 +1204,13 @@ Last played               : Faith No More — Evidence - 2016 Remaster
 Last played (UTC)         : 2026-03-27 08:03:40Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Easy → Faith No More — Evidence - 2016 Remaster
-Δ last played (since last): 2026-03-27 07:50:09Z → 2026-03-27 08:03:40Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:26
-Telemetry age             : 00:00:26
-Δ time (since last report): 00:12:34
+Time since last play      : 00:01:33
+Telemetry age             : 00:01:33
+Δ time (since last report): 00:01:08
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 08:04:05Z → 2026-03-27 08:04:05Z
+Week window (UTC)         : 2026-03-20 08:05:13Z → 2026-03-27 08:05:13Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1255,7 +1255,7 @@ Top genres (24h)          : alternative metal(20) | rock(14) | nu metal(13) | ra
 Top genres (7d)           : alternative metal(20) | rock(14) | nu metal(13) | rap metal(13) | shoegaze(12) | post-grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 08:04:05Z
+Report generated (UTC)    : 2026-03-27 08:05:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
