@@ -1187,34 +1187,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : CastAudio
+Device name               : GNest-MerkleTree speaker
+Volume                    : 49%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : OVERSIZE — Something Clean
-Last played (UTC)         : 2026-03-27 02:37:26Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Miles Davis, John Coltrane, Bill Evans — Blue in Green (feat. John Coltrane & Bill Evans)
+Last played               : Wayside — Safe Forever
+Last played (UTC)         : 2026-03-27 07:35:03Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : OVERSIZE — Something Clean → Wayside — Safe Forever
+Δ last played (since last): 2026-03-27 02:37:26Z → 2026-03-27 07:35:03Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 04:10:00
-Telemetry age             : 04:10:00
-Δ time (since last report): 00:00:40
+Time since last play      : 00:03:28
+Telemetry age             : 00:03:28
+Δ time (since last report): 00:51:05
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1228,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 06:47:26Z → 2026-03-27 06:47:26Z
+Week window (UTC)         : 2026-03-20 07:38:30Z → 2026-03-27 07:38:30Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1238,23 +1239,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :         ▃█▇▇           ▁
-Heatmap (7d)              :         ▃█▇▇           ▁
+Heatmap (24h)             :     ▁   ▂█▇▇           ▁
+Heatmap (7d)              :     ▁   ▂█▇▇           ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:18:16
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:24:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(24) | rock(22) | nu metal(21) | rap metal(17) | post-grunge(11) | shoegaze(11)
-Top genres (7d)           : alternative metal(24) | rock(22) | nu metal(21) | rap metal(17) | post-grunge(11) | shoegaze(11)
+Top genres (24h)          : alternative metal(22) | rock(20) | nu metal(19) | rap metal(15) | shoegaze(12) | post-grunge(11)
+Top genres (7d)           : alternative metal(22) | rock(20) | nu metal(19) | rap metal(15) | shoegaze(12) | post-grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 06:47:26Z
+Report generated (UTC)    : 2026-03-27 07:38:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
