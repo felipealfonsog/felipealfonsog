@@ -1199,18 +1199,18 @@ Volume                    : 49%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄
 ------------------------------------------------------------
-Now playing               : Faith No More — Epic
-Last played               : Faith No More — Easy
-Last played (UTC)         : 2026-03-27 07:50:09Z
+Now playing               : Faith No More — Midlife Crisis
+Last played               : Faith No More — Evidence - 2016 Remaster
+Last played (UTC)         : 2026-03-27 08:03:40Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Wayside — Safe Forever → Faith No More — Easy
-Δ last played (since last): 2026-03-27 07:35:03Z → 2026-03-27 07:50:09Z
+Δ track (since last)      : Faith No More — Easy → Faith No More — Evidence - 2016 Remaster
+Δ last played (since last): 2026-03-27 07:50:09Z → 2026-03-27 08:03:40Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:24
-Telemetry age             : 00:01:24
-Δ time (since last report): 00:11:49
+Time since last play      : 00:00:26
+Telemetry age             : 00:00:26
+Δ time (since last report): 00:12:34
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1223,39 +1223,39 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 50
-Dominant artist           : Linkin Park
+Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 07:51:32Z → 2026-03-27 07:51:32Z
+Week window (UTC)         : 2026-03-20 08:04:05Z → 2026-03-27 08:04:05Z
 Total tracks played       : 50
-Dominant artist           : Linkin Park
+Dominant artist           : Faith No More
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 09:00
-Peak hour (7d)            : 09:00
-Heatmap (24h)             :     ▃   ▁█▇▇           ▁
-Heatmap (7d)              :     ▃   ▁█▇▇           ▁
+Peak hour (24h)           : 10:00
+Peak hour (7d)            : 10:00
+Heatmap (24h)             :     ▄▁   ▇██           ▁
+Heatmap (7d)              :     ▄▁   ▇██           ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:24:19
+Avg inter-play gap (7d)   : 00:24:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(20) | rock(17) | nu metal(16) | rap metal(13) | shoegaze(12) | post-grunge(11)
-Top genres (7d)           : alternative metal(20) | rock(17) | nu metal(16) | rap metal(13) | shoegaze(12) | post-grunge(11)
-Artist lookups (this run) : 5 (cached)
+Top genres (24h)          : alternative metal(20) | rock(14) | nu metal(13) | rap metal(13) | shoegaze(12) | post-grunge(11)
+Top genres (7d)           : alternative metal(20) | rock(14) | nu metal(13) | rap metal(13) | shoegaze(12) | post-grunge(11)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 07:51:32Z
+Report generated (UTC)    : 2026-03-27 08:04:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
