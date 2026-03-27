@@ -1187,35 +1187,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Zahkia — Glass Halo
+Now playing               : N/A
 Last played               : Silverchair — Suicidal Dream
 Last played (UTC)         : 2026-03-27 16:10:33Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Leave Me Out → Silverchair — Suicidal Dream
-Δ last played (since last): 2026-03-27 10:51:30Z → 2026-03-27 16:10:33Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:21
-Telemetry age             : 00:00:21
-Δ time (since last report): 00:31:43
+Time since last play      : 02:26:45
+Telemetry age             : 02:26:45
+Δ time (since last report): 02:26:24
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1229,7 +1228,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 16:10:54Z → 2026-03-27 16:10:54Z
+Week window (UTC)         : 2026-03-20 18:37:18Z → 2026-03-27 18:37:18Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1255,7 +1254,7 @@ Top genres (24h)          : grunge(29) | post-grunge(16) | alternative metal(13)
 Top genres (7d)           : grunge(29) | post-grunge(19) | alternative metal(17) | rap metal(15) | funk rock(13) | shoegaze(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 16:10:54Z
+Report generated (UTC)    : 2026-03-27 18:37:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
