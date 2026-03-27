@@ -1199,18 +1199,18 @@ Volume                    : 49%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄
 ------------------------------------------------------------
-Now playing               : Miles Davis, John Coltrane, Bill Evans — Blue in Green (feat. John Coltrane & Bill Evans)
-Last played               : Wayside — Safe Forever
-Last played (UTC)         : 2026-03-27 07:35:03Z
+Now playing               : Faith No More — Epic
+Last played               : Faith No More — Easy
+Last played (UTC)         : 2026-03-27 07:50:09Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Wayside — Safe Forever → Faith No More — Easy
+Δ last played (since last): 2026-03-27 07:35:03Z → 2026-03-27 07:50:09Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:42
-Telemetry age             : 00:04:42
-Δ time (since last report): 00:01:15
+Time since last play      : 00:01:24
+Telemetry age             : 00:01:24
+Δ time (since last report): 00:11:49
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 07:39:44Z → 2026-03-27 07:39:44Z
+Week window (UTC)         : 2026-03-20 07:51:32Z → 2026-03-27 07:51:32Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1239,23 +1239,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :     ▁   ▂█▇▇           ▁
-Heatmap (7d)              :     ▁   ▂█▇▇           ▁
+Heatmap (24h)             :     ▃   ▁█▇▇           ▁
+Heatmap (7d)              :     ▃   ▁█▇▇           ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:24:14
+Avg inter-play gap (7d)   : 00:24:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(22) | rock(20) | nu metal(19) | rap metal(15) | shoegaze(12) | post-grunge(11)
-Top genres (7d)           : alternative metal(22) | rock(20) | nu metal(19) | rap metal(15) | shoegaze(12) | post-grunge(11)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(20) | rock(17) | nu metal(16) | rap metal(13) | shoegaze(12) | post-grunge(11)
+Top genres (7d)           : alternative metal(20) | rock(17) | nu metal(16) | rap metal(13) | shoegaze(12) | post-grunge(11)
+Artist lookups (this run) : 5 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 07:39:44Z
+Report generated (UTC)    : 2026-03-27 07:51:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

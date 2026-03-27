@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-03-27 07:39:44Z",
+  "report_generated_utc": "2026-03-27 07:51:32Z",
   "status": "PLAYING",
-  "last_track": "Wayside — Safe Forever",
-  "last_played_utc": "2026-03-27 07:35:03Z",
+  "last_track": "Faith No More — Easy",
+  "last_played_utc": "2026-03-27 07:50:09Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -594,6 +594,40 @@
     ],
     "38vNZvHEjUU9XlzlV43H9T": [
       "shoegaze"
+    ],
+    "6GbCJZrI318Ybm8mY36Of5": [
+      "funk rock",
+      "alternative metal",
+      "rap metal",
+      "grunge"
+    ],
+    "4iRZAbYvBqnxrbs6K25aJ7": [
+      "jazz",
+      "cool jazz"
+    ],
+    "0kbYTNQb4Pb1rPbbaF0pT4": [
+      "jazz",
+      "cool jazz",
+      "hard bop",
+      "bebop",
+      "jazz fusion",
+      "jazz ballads",
+      "free jazz"
+    ],
+    "2hGh5VOeeqimQFxqXvfCUf": [
+      "jazz",
+      "hard bop",
+      "free jazz",
+      "bebop",
+      "jazz ballads",
+      "cool jazz"
+    ],
+    "4jXfFzeP66Zy67HM2mvIIF": [
+      "jazz",
+      "cool jazz",
+      "jazz ballads",
+      "bebop",
+      "hard bop"
     ]
   }
 }
