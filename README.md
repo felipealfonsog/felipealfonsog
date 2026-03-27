@@ -1204,13 +1204,13 @@ Last played               : Wayside — Safe Forever
 Last played (UTC)         : 2026-03-27 07:35:03Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : OVERSIZE — Something Clean → Wayside — Safe Forever
-Δ last played (since last): 2026-03-27 02:37:26Z → 2026-03-27 07:35:03Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:28
-Telemetry age             : 00:03:28
-Δ time (since last report): 00:51:05
+Time since last play      : 00:04:42
+Telemetry age             : 00:04:42
+Δ time (since last report): 00:01:15
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 07:38:30Z → 2026-03-27 07:38:30Z
+Week window (UTC)         : 2026-03-20 07:39:44Z → 2026-03-27 07:39:44Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1255,7 +1255,7 @@ Top genres (24h)          : alternative metal(22) | rock(20) | nu metal(19) | ra
 Top genres (7d)           : alternative metal(22) | rock(20) | nu metal(19) | rap metal(15) | shoegaze(12) | post-grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 07:38:30Z
+Report generated (UTC)    : 2026-03-27 07:39:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
