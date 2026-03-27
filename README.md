@@ -1199,18 +1199,18 @@ Volume                    : 49%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄
 ------------------------------------------------------------
-Now playing               : Faith No More — From Out of Nowhere
-Last played               : Faith No More — The Gentle Art of Making Enemies
-Last played (UTC)         : 2026-03-27 08:26:31Z
+Now playing               : Faith No More — Everything's Ruined
+Last played               : Faith No More — From Out of Nowhere
+Last played (UTC)         : 2026-03-27 08:29:52Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — The Gentle Art of Making Enemies → Faith No More — From Out of Nowhere
+Δ last played (since last): 2026-03-27 08:26:31Z → 2026-03-27 08:29:52Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:41
-Telemetry age             : 00:01:41
-Δ time (since last report): 00:01:21
+Time since last play      : 00:00:07
+Telemetry age             : 00:00:07
+Δ time (since last report): 00:01:47
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 08:28:12Z → 2026-03-27 08:28:12Z
+Week window (UTC)         : 2026-03-20 08:29:58Z → 2026-03-27 08:29:58Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1239,8 +1239,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :     ▄▃   ▅██           ▁
-Heatmap (7d)              :     ▄▃   ▅██           ▁
+Heatmap (24h)             :     ▄▄   ▄██           ▁
+Heatmap (7d)              :     ▄▄   ▄██           ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -1251,11 +1251,11 @@ Avg inter-play gap (7d)   : 00:24:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(23) | rap metal(17) | rock(14) | shoegaze(12) | funk rock(11) | grunge(11)
-Top genres (7d)           : alternative metal(23) | rap metal(17) | rock(14) | shoegaze(12) | funk rock(11) | grunge(11)
+Top genres (24h)          : alternative metal(23) | rap metal(17) | rock(13) | funk rock(12) | grunge(12) | shoegaze(11)
+Top genres (7d)           : alternative metal(23) | rap metal(17) | rock(13) | funk rock(12) | grunge(12) | shoegaze(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 08:28:12Z
+Report generated (UTC)    : 2026-03-27 08:29:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
