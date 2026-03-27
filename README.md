@@ -1199,18 +1199,18 @@ Volume                    : 49%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄
 ------------------------------------------------------------
-Now playing               : Faith No More — Midlife Crisis
-Last played               : Faith No More — Evidence - 2016 Remaster
-Last played (UTC)         : 2026-03-27 08:03:40Z
+Now playing               : Faith No More — Falling to Pieces
+Last played               : Faith No More — Midlife Crisis
+Last played (UTC)         : 2026-03-27 08:07:54Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Evidence - 2016 Remaster → Faith No More — Midlife Crisis
+Δ last played (since last): 2026-03-27 08:03:40Z → 2026-03-27 08:07:54Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:33
-Telemetry age             : 00:01:33
-Δ time (since last report): 00:01:08
+Time since last play      : 00:01:16
+Telemetry age             : 00:01:16
+Δ time (since last report): 00:03:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 08:05:13Z → 2026-03-27 08:05:13Z
+Week window (UTC)         : 2026-03-20 08:09:10Z → 2026-03-27 08:09:10Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1247,15 +1247,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:24:28
+Avg inter-play gap (7d)   : 00:24:27
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(20) | rock(14) | nu metal(13) | rap metal(13) | shoegaze(12) | post-grunge(11)
-Top genres (7d)           : alternative metal(20) | rock(14) | nu metal(13) | rap metal(13) | shoegaze(12) | post-grunge(11)
+Top genres (24h)          : alternative metal(21) | rap metal(14) | rock(14) | nu metal(13) | shoegaze(12) | post-grunge(11)
+Top genres (7d)           : alternative metal(21) | rap metal(14) | rock(14) | nu metal(13) | shoegaze(12) | post-grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 08:05:13Z
+Report generated (UTC)    : 2026-03-27 08:09:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
