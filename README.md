@@ -1204,13 +1204,13 @@ Last played               : Faith No More — The Gentle Art of Making Enemies
 Last played (UTC)         : 2026-03-27 08:26:31Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Midlife Crisis → Faith No More — The Gentle Art of Making Enemies
-Δ last played (since last): 2026-03-27 08:07:54Z → 2026-03-27 08:26:31Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:20
-Telemetry age             : 00:00:20
-Δ time (since last report): 00:17:41
+Time since last play      : 00:01:41
+Telemetry age             : 00:01:41
+Δ time (since last report): 00:01:21
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 08:26:51Z → 2026-03-27 08:26:51Z
+Week window (UTC)         : 2026-03-20 08:28:12Z → 2026-03-27 08:28:12Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1255,7 +1255,7 @@ Top genres (24h)          : alternative metal(23) | rap metal(17) | rock(14) | s
 Top genres (7d)           : alternative metal(23) | rap metal(17) | rock(14) | shoegaze(12) | funk rock(11) | grunge(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 08:26:51Z
+Report generated (UTC)    : 2026-03-27 08:28:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
