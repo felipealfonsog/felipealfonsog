@@ -1199,18 +1199,18 @@ Volume                    : 49%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄
 ------------------------------------------------------------
-Now playing               : Silverchair — Abuse Me
-Last played               : Silverchair — Israel's Son
-Last played (UTC)         : 2026-03-27 09:14:36Z
+Now playing               : Silverchair — The Greatest View
+Last played               : Silverchair — Abuse Me
+Last played (UTC)         : 2026-03-27 09:18:36Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Freak → Silverchair — Israel's Son
-Δ last played (since last): 2026-03-27 09:08:05Z → 2026-03-27 09:14:36Z
+Δ track (since last)      : Silverchair — Israel's Son → Silverchair — Abuse Me
+Δ last played (since last): 2026-03-27 09:14:36Z → 2026-03-27 09:18:36Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:12
-Telemetry age             : 00:01:12
-Δ time (since last report): 00:03:29
+Time since last play      : 00:02:08
+Telemetry age             : 00:02:08
+Δ time (since last report): 00:04:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 09:15:47Z → 2026-03-27 09:15:47Z
+Week window (UTC)         : 2026-03-20 09:20:44Z → 2026-03-27 09:20:44Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1239,23 +1239,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :     ▄▆▂  ▁██           ▁
-Heatmap (7d)              :     ▄▆▂  ▁██           ▁
+Heatmap (24h)             :     ▄▆▂   ██           ▁
+Heatmap (7d)              :     ▄▆▂   ██           ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:24:53
+Avg inter-play gap (7d)   : 00:24:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(24) | rap metal(19) | grunge(17) | funk rock(14) | shoegaze(11) | post-grunge(10)
-Top genres (7d)           : alternative metal(24) | rap metal(19) | grunge(17) | funk rock(14) | shoegaze(11) | post-grunge(10)
+Top genres (24h)          : alternative metal(23) | grunge(18) | rap metal(18) | funk rock(14) | post-grunge(11) | shoegaze(11)
+Top genres (7d)           : alternative metal(23) | grunge(18) | rap metal(18) | funk rock(14) | post-grunge(11) | shoegaze(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 09:15:47Z
+Report generated (UTC)    : 2026-03-27 09:20:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
