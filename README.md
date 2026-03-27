@@ -1187,35 +1187,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Silverchair — Leave Me Out
-Last played               : Silverchair — Shade
-Last played (UTC)         : 2026-03-27 10:48:27Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Silverchair — Leave Me Out
+Last played (UTC)         : 2026-03-27 10:51:30Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Pure Massacre → Silverchair — Shade
-Δ last played (since last): 2026-03-27 10:44:26Z → 2026-03-27 10:48:27Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Silverchair — Shade → Silverchair — Leave Me Out
+Δ last played (since last): 2026-03-27 10:48:27Z → 2026-03-27 10:51:30Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:01:04
-Telemetry age             : 00:01:04
-Δ time (since last report): 00:01:34
+Time since last play      : 01:44:04
+Telemetry age             : 01:44:04
+Δ time (since last report): 01:46:04
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1229,7 +1228,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 10:49:30Z → 2026-03-27 10:49:30Z
+Week window (UTC)         : 2026-03-20 12:35:34Z → 2026-03-27 12:35:34Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1239,23 +1238,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 11:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :     ▄▆▅▃  ▂█           ▁
-Heatmap (7d)              :     ▄▆▅▃  ▂█           ▁
+Heatmap (24h)             :     ▄▆▅▄  ▂█           ▁
+Heatmap (7d)              :     ▄▆▅▄  ▂█           ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:25:49
+Avg inter-play gap (7d)   : 00:25:48
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(27) | alternative metal(19) | post-grunge(17) | rap metal(17) | funk rock(13) | shoegaze(11)
-Top genres (7d)           : grunge(27) | alternative metal(19) | post-grunge(17) | rap metal(17) | funk rock(13) | shoegaze(11)
+Top genres (24h)          : grunge(28) | alternative metal(18) | post-grunge(18) | rap metal(16) | funk rock(13) | shoegaze(10)
+Top genres (7d)           : grunge(28) | alternative metal(18) | post-grunge(18) | rap metal(16) | funk rock(13) | shoegaze(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 10:49:30Z
+Report generated (UTC)    : 2026-03-27 12:35:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
