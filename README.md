@@ -1207,9 +1207,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:40:39
-Telemetry age             : 01:40:39
-Δ time (since last report): 00:00:41
+Time since last play      : 04:09:21
+Telemetry age             : 04:09:21
+Δ time (since last report): 02:28:43
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1228,7 +1228,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 04:18:04Z → 2026-03-27 04:18:04Z
+Week window (UTC)         : 2026-03-20 06:46:46Z → 2026-03-27 06:46:46Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1254,7 +1254,7 @@ Top genres (24h)          : alternative metal(24) | rock(22) | nu metal(21) | ra
 Top genres (7d)           : alternative metal(24) | rock(22) | nu metal(21) | rap metal(17) | post-grunge(11) | shoegaze(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 04:18:04Z
+Report generated (UTC)    : 2026-03-27 06:46:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
