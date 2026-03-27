@@ -1199,17 +1199,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Creek — Unbalanced
-Last played (UTC)         : 2026-03-26 14:55:04Z
+Last played               : OVERSIZE — Something Clean
+Last played (UTC)         : 2026-03-27 02:37:26Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Creek — Unbalanced → OVERSIZE — Something Clean
+Δ last played (since last): 2026-03-26 14:55:04Z → 2026-03-27 02:37:26Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:02:58
-Telemetry age             : 10:02:58
-Δ time (since last report): 03:22:23
+Time since last play      : 01:39:58
+Telemetry age             : 01:39:58
+Δ time (since last report): 03:19:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1228,7 +1228,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 00:58:01Z → 2026-03-27 00:58:01Z
+Week window (UTC)         : 2026-03-20 04:17:24Z → 2026-03-27 04:17:24Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1238,23 +1238,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :         ▄█▇▇            
-Heatmap (7d)              :         ▄█▇▇            
+Heatmap (24h)             :         ▃█▇▇           ▁
+Heatmap (7d)              :         ▃█▇▇           ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:04:00
+Sessions (24h)            : 2
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 00:18:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(25) | rock(23) | nu metal(22) | rap metal(18) | post-grunge(11) | shoegaze(10)
-Top genres (7d)           : alternative metal(25) | rock(23) | nu metal(22) | rap metal(18) | post-grunge(11) | shoegaze(10)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(24) | rock(22) | nu metal(21) | rap metal(17) | post-grunge(11) | shoegaze(11)
+Top genres (7d)           : alternative metal(24) | rock(22) | nu metal(21) | rap metal(17) | post-grunge(11) | shoegaze(11)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 00:58:01Z
+Report generated (UTC)    : 2026-03-27 04:17:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

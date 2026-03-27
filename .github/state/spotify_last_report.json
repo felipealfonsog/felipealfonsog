@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-03-27 00:58:01Z",
+  "report_generated_utc": "2026-03-27 04:17:24Z",
   "status": "IDLE",
-  "last_track": "Creek — Unbalanced",
-  "last_played_utc": "2026-03-26 14:55:04Z",
+  "last_track": "OVERSIZE — Something Clean",
+  "last_played_utc": "2026-03-27 02:37:26Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -590,6 +590,9 @@
       "alternative metal"
     ],
     "79HVlXcLQYQJTbDVWeARcC": [
+      "shoegaze"
+    ],
+    "38vNZvHEjUU9XlzlV43H9T": [
       "shoegaze"
     ]
   }
