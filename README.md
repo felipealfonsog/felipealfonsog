@@ -1203,13 +1203,13 @@ Last played               : Silverchair — Leave Me Out
 Last played (UTC)         : 2026-03-27 10:51:30Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Shade → Silverchair — Leave Me Out
-Δ last played (since last): 2026-03-27 10:48:27Z → 2026-03-27 10:51:30Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:44:04
-Telemetry age             : 01:44:04
-Δ time (since last report): 01:46:04
+Time since last play      : 01:45:10
+Telemetry age             : 01:45:10
+Δ time (since last report): 00:01:06
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1228,7 +1228,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-20 12:35:34Z → 2026-03-27 12:35:34Z
+Week window (UTC)         : 2026-03-20 12:36:40Z → 2026-03-27 12:36:40Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1254,7 +1254,7 @@ Top genres (24h)          : grunge(28) | alternative metal(18) | post-grunge(18)
 Top genres (7d)           : grunge(28) | alternative metal(18) | post-grunge(18) | rap metal(16) | funk rock(13) | shoegaze(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-27 12:35:34Z
+Report generated (UTC)    : 2026-03-27 12:36:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
