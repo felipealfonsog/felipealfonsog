@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-03-28T03:54:05+00:00",
-    "last_successful_sync": "2026-03-28T03:54:05+00:00",
+    "last_attempted_sync": "2026-03-28T06:30:40+00:00",
+    "last_successful_sync": "2026-03-28T06:30:40+00:00",
     "error_message": ""
   },
   "sections": {
@@ -53,7 +53,7 @@
           "pub_date": "Sat, 21 Mar 2026 08:12:09 -0700"
         },
         {
-          "title": "PAYBACK: COREY PEARSON- CIA SPYMASTER SERIES",
+          "title": "PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3)",
           "author": "Robert Morton",
           "link": "https://www.goodreads.com/review/show/8399631886?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg",
