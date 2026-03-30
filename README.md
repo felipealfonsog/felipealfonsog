@@ -1203,13 +1203,13 @@ Last played               : Silverchair — Pure Massacre
 Last played (UTC)         : 2026-03-30 17:59:22Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Faultline → Silverchair — Pure Massacre
-Δ last played (since last): 2026-03-30 17:54:23Z → 2026-03-30 17:59:22Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:40:35
-Telemetry age             : 00:40:35
-Δ time (since last report): 00:40:47
+Time since last play      : 00:41:00
+Telemetry age             : 00:41:00
+Δ time (since last report): 00:00:25
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1228,7 +1228,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-23 18:39:57Z → 2026-03-30 18:39:57Z
+Week window (UTC)         : 2026-03-23 18:40:22Z → 2026-03-30 18:40:22Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1254,7 +1254,7 @@ Top genres (24h)          : grunge(14) | post-grunge(14)
 Top genres (7d)           : grunge(49) | post-grunge(36) | alternative metal(13) | funk rock(13) | rap metal(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-30 18:39:57Z
+Report generated (UTC)    : 2026-03-30 18:40:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
