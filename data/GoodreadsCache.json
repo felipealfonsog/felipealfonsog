@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-03-30T09:42:55+00:00",
-    "last_successful_sync": "2026-03-30T09:42:55+00:00",
+    "last_attempted_sync": "2026-03-30T12:32:51+00:00",
+    "last_successful_sync": "2026-03-30T12:32:51+00:00",
     "error_message": ""
   },
   "sections": {
@@ -103,7 +103,7 @@
           "author": "Larry Wall",
           "link": "https://www.goodreads.com/review/show/8267390277?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg",
-          "summary": "author: Larry Wall name: Felipe Alfonso average rating: 4.40 book published: rating: 5 read at: date added: 2026/01/16 shelves: technology review:",
+          "summary": "author: Larry Wall name: Felipe Alfonso average rating: 4.50 book published: rating: 5 read at: date added: 2026/01/16 shelves: technology review:",
           "guid": "https://www.goodreads.com/review/show/8267390277?utm_medium=api&utm_source=rss",
           "pub_date": "Fri, 16 Jan 2026 01:17:02 -0800"
         },
