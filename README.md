@@ -1187,49 +1187,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Silverchair — Pure Massacre
-Last played               : Silverchair — Faultline
-Last played (UTC)         : 2026-03-30 17:54:23Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Silverchair — Pure Massacre
+Last played (UTC)         : 2026-03-30 17:59:22Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Israel's Son → Silverchair — Faultline
-Δ last played (since last): 2026-03-30 17:45:38Z → 2026-03-30 17:54:23Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Silverchair — Faultline → Silverchair — Pure Massacre
+Δ last played (since last): 2026-03-30 17:54:23Z → 2026-03-30 17:59:22Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:04:47
-Telemetry age             : 00:04:47
-Δ time (since last report): 00:07:22
+Time since last play      : 00:40:35
+Telemetry age             : 00:40:35
+Δ time (since last report): 00:40:47
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 13
+Tracks played (last 24h)  : 14
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-23 17:59:10Z → 2026-03-30 17:59:10Z
+Week window (UTC)         : 2026-03-23 18:39:57Z → 2026-03-30 18:39:57Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1247,15 +1246,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:40:34
+Avg inter-play gap (7d)   : 01:40:36
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(13) | post-grunge(13)
-Top genres (7d)           : grunge(48) | post-grunge(35) | alternative metal(13) | funk rock(13) | rap metal(13) | cool jazz(1)
+Top genres (24h)          : grunge(14) | post-grunge(14)
+Top genres (7d)           : grunge(49) | post-grunge(36) | alternative metal(13) | funk rock(13) | rap metal(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-30 17:59:10Z
+Report generated (UTC)    : 2026-03-30 18:39:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
