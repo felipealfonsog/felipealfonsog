@@ -1204,13 +1204,13 @@ Last played               : Silverchair — Israel's Son
 Last played (UTC)         : 2026-03-31 04:15:50Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Undecided → Silverchair — Israel's Son
-Δ last played (since last): 2026-03-31 03:44:41Z → 2026-03-31 04:15:50Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:00
-Telemetry age             : 00:02:00
-Δ time (since last report): 00:29:57
+Time since last play      : 00:02:44
+Telemetry age             : 00:02:44
+Δ time (since last report): 00:00:45
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-24 04:17:49Z → 2026-03-31 04:17:49Z
+Week window (UTC)         : 2026-03-24 04:18:34Z → 2026-03-31 04:18:34Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1255,7 +1255,7 @@ Top genres (24h)          : grunge(32) | post-grunge(32)
 Top genres (7d)           : grunge(49) | post-grunge(49)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-31 04:17:49Z
+Report generated (UTC)    : 2026-03-31 04:18:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
