@@ -1204,13 +1204,13 @@ Last played               : Silverchair — Undecided
 Last played (UTC)         : 2026-03-31 03:44:41Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Madman → Silverchair — Undecided
-Δ last played (since last): 2026-03-31 03:40:05Z → 2026-03-31 03:44:41Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:29
-Telemetry age             : 00:00:29
-Δ time (since last report): 00:04:35
+Time since last play      : 00:03:12
+Telemetry age             : 00:03:12
+Δ time (since last report): 00:02:44
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1229,7 +1229,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-24 03:45:09Z → 2026-03-31 03:45:09Z
+Week window (UTC)         : 2026-03-24 03:47:53Z → 2026-03-31 03:47:53Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1255,7 +1255,7 @@ Top genres (24h)          : grunge(27) | post-grunge(27)
 Top genres (7d)           : grunge(49) | post-grunge(49)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-03-31 03:45:09Z
+Report generated (UTC)    : 2026-03-31 03:47:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
