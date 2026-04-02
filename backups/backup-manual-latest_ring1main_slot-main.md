@@ -214,7 +214,6 @@ This integration enables precise visual control, consistent styling, and a refin
 <a href="https://granlogiafemenina.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/glfcl.svg" alt="Gran Logia Femenina de Chile" width="40" height="40"/></a>
 <a href="https://asociacionmujereslaicas.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/amlcl.svg" alt="Asociación de Mujeres Laicas de Chile" width="40" height="40"/></a>
 <a href="https://fraternidad.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fjapecl.svg" alt="Fraternidad Juvenil Alfa Pi Épsilon" width="40" height="40"/></a>
-<a href="https://www.partidoradical.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/prsdcl.svg" alt="Partido Radical Socialdemócrata" width="40" height="40"/></a>
 <a href="https://www.zenchile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/dojozenstgo.svg" alt="Dojo Sho Den - Soto Zen Santiago" width="40" height="40"/></a>
 <a href="https://zendochudo.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/zendosudho.svg" alt="Zendo Chūdō" width="40" height="40"/></a>
 <a href="https://insighttimer.com/daiunjoshin" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/insightt-logo.svg" alt="InsightTimer" width="40" height="40"/></a>
@@ -222,6 +221,7 @@ This integration enables precise visual control, consistent styling, and a refin
 <a href="https://boyscouts.cl/c22/?page_id=1108" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gilwell.svg" alt="Baden Powell, El Parque De Gilwell Y La Insignia De Madera" width="40" height="40"/></a>
 
 <!--
+<a href="https://www.partidoradical.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/prsdcl.svg" alt="Partido Radical Socialdemócrata" width="40" height="40"/></a>
 <a href="https://www.instagram.com/todaslasmanos/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/tlmcl-circle.svg" alt="Movimiento Ciudadano Todas Las Manos de La Florida" width="40" height="40"/></a>
 -->
 
