@@ -2505,6 +2505,10 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell  •  ⭐ 2
 
 ### 🕒 Recently Active Projects
+- [PerlMemoPad](https://github.com/openvelora/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
+  🧬 Perl · CSS  •  ⭐ 1
+- [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
+  🧬 Python · Shell · Nix  •  ⭐ 1
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
   🧬 Python · Shell  •  ⭐ 4
 - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
@@ -2517,10 +2521,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Shell · C · Makefile  •  ⭐ 1
 - [BashGuardian](https://github.com/felipealfonsog/BashGuardian): Bash script for backups/encrypted on Unix-like (Linux & macOS) systems.
   🧬 Shell · C  •  ⭐ 1
-- [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
-  🧬 Shell · Python  •  ⭐ 1
-- [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
-  🧬 Python  •  ⭐ 1
 
 ### 📈 Popular Projects (Stars + Forks)
 - [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
@@ -2533,12 +2533,12 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 COBOL  •  ⭐ 2
 - [EventSphere](https://github.com/openvelora/EventSphere): Standard Web application for managing social events of all kind.
   🧬 JavaScript · Pug · CSS  •  ⭐ 2
-- [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
-  🧬 Python · Shell · Nix  •  ⭐ 1
+- [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
+  🧬 Shell · Python  •  ⭐ 1
+- [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
+  🧬 Python  •  ⭐ 1
 - [Restockify](https://github.com/openvelora/Restockify): Restockify+ is a feature-rich ReST API for NodeJS and MongoDB. Simplify inventory management and streamline stock tracking with ease.
   🧬 JavaScript · CSS · HTML  •  ⭐ 1
-- [PerlMemoPad](https://github.com/openvelora/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
-  🧬 Perl · CSS  •  ⭐ 1
 
 ### 🧠 Curated Project Collection
 - [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
