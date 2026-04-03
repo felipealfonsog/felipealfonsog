@@ -1190,49 +1190,50 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Silverchair — Faultline
 Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-04-03 07:10:30Z
-Last activity type        : NO_ACTIVE_SESSION
+Last played (UTC)         : 2026-04-03 23:43:05Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ last played (since last): 2026-04-03 07:10:30Z → 2026-04-03 23:43:05Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 14:24:13
-Telemetry age             : 14:24:13
-Δ time (since last report): 00:01:08
+Time since last play      : 00:02:04
+Telemetry age             : 00:02:04
+Δ time (since last report): 02:10:26
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 3
 Dominant artist           : Silverchair
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-27 21:34:43Z → 2026-04-03 21:34:43Z
-Total tracks played       : 37
+Week window (UTC)         : 2026-03-27 23:45:08Z → 2026-04-03 23:45:08Z
+Total tracks played       : 38
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1241,23 +1242,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :     █                  █
-Heatmap (7d)              : ▇▃  ▁         █        ▂
+Heatmap (24h)             :     █               █  █
+Heatmap (7d)              : ▇▃  ▁         █     ▁  ▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 02:23:35
+Sessions (24h)            : 3
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 02:46:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(2) | post-grunge(2)
-Top genres (7d)           : grunge(37) | post-grunge(37)
+Top genres (24h)          : grunge(3) | post-grunge(3)
+Top genres (7d)           : grunge(38) | post-grunge(38)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-03 21:34:43Z
+Report generated (UTC)    : 2026-04-03 23:45:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
