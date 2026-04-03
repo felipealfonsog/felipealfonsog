@@ -341,14 +341,14 @@ This integration enables precise visual control, consistent styling, and a refin
 <br/>
 <div align="left"><sub><strong>Currently Reading</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8455651783?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732188901l/220887027._SY75_.jpg" width="40" height="60" alt="The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455648321?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619978145l/57920800._SX50_.jpg" width="40" height="60" alt="The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455634136?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633192138l/59131430._SX50_.jpg" width="40" height="60" alt="Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455624520?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538363806l/42107422._SX50_.jpg" width="40" height="60" alt="The Autobiography of a Yogi — Paramahansa Yogananda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8399631886?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg" width="40" height="60" alt="PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8120974609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg" width="40" height="60" alt="Leviathan — Thomas Hobbes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8083185323?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg" width="40" height="60" alt="Aferrada a mi balsa — Gladys Díaz Armijo" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008450894?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg" width="40" height="60" alt="Man&#x27;s Search for Meaning — Viktor E. Frankl" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
 <div align="left"><sub><strong>Recently Read</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg" width="40" height="60" alt="Programming Perl (3rd Edition) — Larry Wall" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg" width="40" height="60" alt="Mala onda — Alberto Fuguet" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg" width="40" height="60" alt="Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg" width="40" height="60" alt="Freedom from the Known — J. Krishnamurti" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg" width="40" height="60" alt="In My Father&#x27;s Den — Maurice Gee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg" width="40" height="60" alt="The Poetry of Pablo Neruda — Pablo Neruda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg" width="40" height="60" alt="Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg" width="40" height="60" alt="Cujo — Stephen King" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg" width="40" height="60" alt="On Writing — Ernest Hemingway" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg" width="40" height="60" alt="Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
-<br/><sub>SYNC: 2026-04-02T15:29:49+00:00 • LAST UPDATE: 2026-04-02T15:29:49+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
+<br/><sub>SYNC: 2026-04-03T04:01:34+00:00 • LAST UPDATE: 2026-04-03T04:01:34+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
 <!-- GOODREADS:VISUAL_END -->
 
 <!-- GOODREADS:CLI_START -->
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-02T15:29:49+00:00 | last_update=2026-04-02T15:29:49+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-03T04:01:34+00:00 | last_update=2026-04-03T04:01:34+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
@@ -424,13 +424,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 180 ms
-TTFB................ 179 ms
+LATENCY............. 167 ms
+TTFB................ 166 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 35d
+TLS_EXPIRY.......... 34d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -459,7 +459,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-04-02T06:38:19Z
+LAST_PROBE_UTC...... 2026-04-03T04:01:00Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -499,19 +499,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444703
-longitude      : -70.650601
-altitude       : 156 m
-gps_accuracy   : ±5.2 m
-heading        : 124°
-speed          : 4.2 km/h
-status         : walking
-phase          : workday
-local_time     : 12:18
+location       : residential_sector
+latitude       : -33.441580
+longitude      : -70.654152
+altitude       : 14 m
+gps_accuracy   : ±5.0 m
+heading        : 65°
+speed          : 0.5 km/h
+status         : resting
+phase          : overnight
+local_time     : 00:53
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-04-02 15:18:53 UTC
+updated_utc    : 2026-04-03 03:53:43 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -1203,16 +1203,16 @@ Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : Silverchair — Israel's Son
-Last played (UTC)         : 2026-03-31 04:48:33Z
+Last played (UTC)         : 2026-04-03 02:16:23Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 58:54:14
-Telemetry age             : 58:54:14
-Δ time (since last report): 00:00:42
+Time since last play      : 01:58:08
+Telemetry age             : 01:58:08
+Δ time (since last report): 00:00:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1224,14 +1224,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Silverchair
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-26 15:42:47Z → 2026-04-02 15:42:47Z
+Week window (UTC)         : 2026-03-27 04:14:31Z → 2026-04-03 04:14:31Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1239,25 +1239,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 23:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▇▃     ▄     ▁█▂▂      ▁
+Heatmap (24h)             :                        █
+Heatmap (7d)              : ▇▃     ▃     ▁█▂▂      ▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:50:34
+Sessions (24h)            : 1
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 03:15:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
+Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : grunge(49) | post-grunge(49)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-02 15:42:47Z
+Report generated (UTC)    : 2026-04-03 04:14:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1610,9 +1610,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 02 April 2026
+From: 04 December 2023 - To: 03 April 2026
 
-Total Time       : 1,004 hrs 50 mins
+Total Time       : 1,004 hrs 53 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 10 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1621,9 +1621,9 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          300 hrs 17 mins ●●●●●●●◔○○○○○○○○○○○○○○○○○○  29.88 %
+Other          306 hrs 42 mins ●●●●●●●◔○○○○○○○○○○○○○○○○○○  30.52 %
 Bash           165 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.50 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.82 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.81 %
 HTML           130 hrs 18 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.97 %
 PHP            108 hrs 44 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.82 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.04 %
@@ -1634,35 +1634,35 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            685 hrs 55 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.26 %
+Mac            692 hrs 22 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.90 %
 Linux          619 hrs 12 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.62 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.05 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.04 %
 Vim            328 hrs 58 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.74 %
-Firefox        252 hrs 53 mins ●●●●●●◔○○○○○○○○○○○○○○○○○○○  25.17 %
-Terminal       14 hrs 39 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.46 %
+Firefox        259 hrs 8 mins ●●●●●●◔○○○○○○○○○○○○○○○○○○○  25.79 %
+Terminal       14 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.47 %
 TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
 Spotify        8 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.88 %
-Acrobat        7 hrs 48 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.78 %
+Acrobat        7 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.78 %
 FileZilla      5 hrs 33 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.55 %
-‎WhatsApp      4 hrs 10 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.42 %
+‎WhatsApp      4 hrs 13 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.42 %
 Dia            3 hrs 26 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 TextMate       2 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.29 %
 Zoom           2 hrs 31 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.25 %
 
 CATEGORIES
 ----------
-Coding         1,043 hrs 1 min ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       250 hrs 32 mins ●●●●●●○○○○○○○○○○○○○○○○○○○○  24.93 %
-Meeting        9 hrs 24 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.94 %
+Coding         1,043 hrs 10 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       256 hrs 47 mins ●●●●●●◔○○○○○○○○○○○○○○○○○○○  25.56 %
+Meeting        9 hrs 27 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.94 %
 Writing Docs   2 hrs 8 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.21 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 02/04/2026 15:29:16 UTC
+Last updated     : 03/04/2026 04:53:19 UTC
 
 ```
 <!--END_SECTION:wakastats-->
