@@ -1202,17 +1202,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — Israel's Son
-Last played (UTC)         : 2026-04-03 02:16:23Z
+Last played               : Silverchair — Tomorrow
+Last played (UTC)         : 2026-04-03 07:10:30Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Silverchair — Israel's Son → Silverchair — Tomorrow
+Δ last played (since last): 2026-04-03 02:16:23Z → 2026-04-03 07:10:30Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:32:10
-Telemetry age             : 04:32:10
-Δ time (since last report): 00:00:21
+Time since last play      : 02:29:18
+Telemetry age             : 02:29:18
+Δ time (since last report): 02:51:15
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1224,14 +1224,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 2
 Dominant artist           : Silverchair
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-27 06:48:33Z → 2026-04-03 06:48:33Z
+Week window (UTC)         : 2026-03-27 09:39:47Z → 2026-04-03 09:39:47Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1239,25 +1239,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 23:00
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :                        █
-Heatmap (7d)              : ▇▃     ▃     ▁█▂▂      ▂
+Heatmap (24h)             :     █                  █
+Heatmap (7d)              : ▇▃  ▁  ▃     ▁█▂▂      ▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 03:15:32
+Sessions (24h)            : 2
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 03:21:27
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
+Top genres (24h)          : grunge(2) | post-grunge(2)
 Top genres (7d)           : grunge(49) | post-grunge(49)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-03 06:48:33Z
+Report generated (UTC)    : 2026-04-03 09:39:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
