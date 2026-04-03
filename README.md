@@ -1210,9 +1210,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 08:26:28
-Telemetry age             : 08:26:28
-Δ time (since last report): 00:01:16
+Time since last play      : 11:24:15
+Telemetry age             : 11:24:15
+Δ time (since last report): 02:57:47
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1231,8 +1231,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-27 15:36:58Z → 2026-04-03 15:36:58Z
-Total tracks played       : 45
+Week window (UTC)         : 2026-03-27 18:34:44Z → 2026-04-03 18:34:44Z
+Total tracks played       : 44
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1242,22 +1242,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 14:00
 Heatmap (24h)             :     █                  █
-Heatmap (7d)              : ▇▃  ▁        ▁█▂▂      ▂
+Heatmap (7d)              : ▇▃  ▁         █▂▂      ▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 03:36:49
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 03:38:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(2) | post-grunge(2)
-Top genres (7d)           : grunge(44) | post-grunge(44)
+Top genres (7d)           : grunge(43) | post-grunge(43)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-03 15:36:58Z
+Report generated (UTC)    : 2026-04-03 18:34:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
