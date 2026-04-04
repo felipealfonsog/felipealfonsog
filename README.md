@@ -1202,17 +1202,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-04-03 23:43:05Z
+Last played               : Silverchair — Faultline
+Last played (UTC)         : 2026-04-04 02:28:04Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : Silverchair — Tomorrow → Silverchair — Faultline
+Δ last played (since last): 2026-04-03 23:43:05Z → 2026-04-04 02:28:04Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:10:43
-Telemetry age             : 01:10:43
-Δ time (since last report): 01:08:40
+Time since last play      : 01:37:14
+Telemetry age             : 01:37:14
+Δ time (since last report): 03:11:30
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1231,8 +1231,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-28 00:53:48Z → 2026-04-04 00:53:48Z
-Total tracks played       : 38
+Week window (UTC)         : 2026-03-28 04:05:18Z → 2026-04-04 04:05:18Z
+Total tracks played       : 39
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1248,16 +1248,16 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 02:46:32
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 02:46:29
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(3) | post-grunge(3)
-Top genres (7d)           : grunge(38) | post-grunge(38)
+Top genres (7d)           : grunge(39) | post-grunge(39)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-04 00:53:48Z
+Report generated (UTC)    : 2026-04-04 04:05:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
