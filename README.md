@@ -1206,13 +1206,13 @@ Last played               : Silverchair — Faultline
 Last played (UTC)         : 2026-04-04 02:28:04Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Tomorrow → Silverchair — Faultline
-Δ last played (since last): 2026-04-03 23:43:05Z → 2026-04-04 02:28:04Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:37:14
-Telemetry age             : 01:37:14
-Δ time (since last report): 03:11:30
+Time since last play      : 01:38:30
+Telemetry age             : 01:38:30
+Δ time (since last report): 00:01:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1231,7 +1231,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-28 04:05:18Z → 2026-04-04 04:05:18Z
+Week window (UTC)         : 2026-03-28 04:06:33Z → 2026-04-04 04:06:33Z
 Total tracks played       : 39
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
@@ -1257,7 +1257,7 @@ Top genres (24h)          : grunge(3) | post-grunge(3)
 Top genres (7d)           : grunge(39) | post-grunge(39)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-04 04:05:18Z
+Report generated (UTC)    : 2026-04-04 04:06:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
