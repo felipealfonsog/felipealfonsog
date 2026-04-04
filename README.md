@@ -1190,35 +1190,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Silverchair — Faultline
+Now playing               : N/A
 Last played               : Silverchair — Tomorrow
 Last played (UTC)         : 2026-04-03 23:43:05Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-04-03 07:10:30Z → 2026-04-03 23:43:05Z
-Δ status (since last)     : IDLE → PLAYING
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:04
-Telemetry age             : 00:02:04
-Δ time (since last report): 02:10:26
+Time since last play      : 01:10:43
+Telemetry age             : 01:10:43
+Δ time (since last report): 01:08:40
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1232,7 +1231,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-27 23:45:08Z → 2026-04-03 23:45:08Z
+Week window (UTC)         : 2026-03-28 00:53:48Z → 2026-04-04 00:53:48Z
 Total tracks played       : 38
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
@@ -1258,7 +1257,7 @@ Top genres (24h)          : grunge(3) | post-grunge(3)
 Top genres (7d)           : grunge(38) | post-grunge(38)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-03 23:45:08Z
+Report generated (UTC)    : 2026-04-04 00:53:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
