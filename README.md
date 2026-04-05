@@ -1206,13 +1206,13 @@ Last played               : Glass Beams — Orb
 Last played (UTC)         : 2026-04-05 04:22:50Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Yin Yin — Pingpxng → Glass Beams — Orb
-Δ last played (since last): 2026-04-05 04:18:00Z → 2026-04-05 04:22:50Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:22:56
-Telemetry age             : 02:22:56
-Δ time (since last report): 02:26:29
+Time since last play      : 02:23:08
+Telemetry age             : 02:23:08
+Δ time (since last report): 00:00:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1231,7 +1231,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-29 06:45:46Z → 2026-04-05 06:45:46Z
+Week window (UTC)         : 2026-03-29 06:45:57Z → 2026-04-05 06:45:57Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1255,9 +1255,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : math rock(9) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3) | space rock(2) | stoner metal(2)
 Top genres (7d)           : grunge(23) | post-grunge(23) | math rock(9) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-05 06:45:46Z
+Report generated (UTC)    : 2026-04-05 06:45:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
