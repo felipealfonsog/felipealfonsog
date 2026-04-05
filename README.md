@@ -1202,18 +1202,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Maromaro — Voodoo People
-Last played               : Gwenifer Raymond — Jack Parsons Blues
-Last played (UTC)         : 2026-04-05 03:47:42Z
+Now playing               : SLIFT — Ummon
+Last played               : Jordan Wav — Avalanche
+Last played (UTC)         : 2026-04-05 03:57:59Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : HENGE — Slingshot → Gwenifer Raymond — Jack Parsons Blues
-Δ last played (since last): 2026-04-05 03:44:09Z → 2026-04-05 03:47:42Z
+Δ track (since last)      : Gwenifer Raymond — Jack Parsons Blues → Jordan Wav — Avalanche
+Δ last played (since last): 2026-04-05 03:47:42Z → 2026-04-05 03:57:59Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:52
-Telemetry age             : 00:01:52
-Δ time (since last report): 00:03:12
+Time since last play      : 00:04:56
+Telemetry age             : 00:04:56
+Δ time (since last report): 00:13:22
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1225,14 +1225,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 18
+Tracks played (last 24h)  : 21
 Dominant artist           : Angine de Poitrine
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-29 03:49:33Z → 2026-04-05 03:49:33Z
+Week window (UTC)         : 2026-03-29 04:02:55Z → 2026-04-05 04:02:55Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1243,22 +1243,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 23:00
 Peak hour (7d)            : 23:00
 Heatmap (24h)             :                        █
-Heatmap (7d)              : ▅▂            ▃        █
+Heatmap (7d)              : ▄▂            ▁        █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:39:35
+Avg inter-play gap (7d)   : 02:39:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : math rock(9) | funk rock(3) | neo-psychedelic(2) | ambient folk(1) | funk(1) | psychedelic rock(1)
-Top genres (7d)           : grunge(32) | post-grunge(32) | math rock(9) | funk rock(3) | neo-psychedelic(2) | ambient folk(1)
+Top genres (24h)          : math rock(9) | funk rock(3) | neo-psychedelic(3) | ambient folk(1) | funk(1) | jazz fusion(1)
+Top genres (7d)           : grunge(29) | post-grunge(29) | math rock(9) | funk rock(3) | neo-psychedelic(3) | ambient folk(1)
 Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-05 03:49:33Z
+Report generated (UTC)    : 2026-04-05 04:02:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

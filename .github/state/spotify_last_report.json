@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-05 03:49:33Z",
+  "report_generated_utc": "2026-04-05 04:02:55Z",
   "status": "PLAYING",
-  "last_track": "Gwenifer Raymond — Jack Parsons Blues",
-  "last_played_utc": "2026-04-05 03:47:42Z",
+  "last_track": "Jordan Wav — Avalanche",
+  "last_played_utc": "2026-04-05 03:57:59Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -654,6 +654,9 @@
     ],
     "2scavaz2jGMWRFULHoe5je": [
       "ambient folk"
+    ],
+    "2zJr4pLOMsOmlPj6XB0owT": [
+      "jazz fusion"
     ]
   }
 }
