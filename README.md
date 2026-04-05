@@ -1202,18 +1202,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Angine de Poitrine — Sarniezz
-Last played               : Angine de Poitrine — Mata Zyklek
-Last played (UTC)         : 2026-04-05 02:50:52Z
+Now playing               : Gwenifer Raymond — Jack Parsons Blues
+Last played               : HENGE — Slingshot
+Last played (UTC)         : 2026-04-05 03:44:09Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Angine de Poitrine — Fabienk → Angine de Poitrine — Mata Zyklek
-Δ last played (since last): 2026-04-05 02:17:08Z → 2026-04-05 02:50:52Z
+Δ track (since last)      : Angine de Poitrine — Mata Zyklek → HENGE — Slingshot
+Δ last played (since last): 2026-04-05 02:50:52Z → 2026-04-05 03:44:09Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:28
-Telemetry age             : 00:04:28
-Δ time (since last report): 00:11:11
+Time since last play      : 00:02:13
+Telemetry age             : 00:02:13
+Δ time (since last report): 00:51:03
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1225,15 +1225,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
+Tracks played (last 24h)  : 17
 Dominant artist           : Angine de Poitrine
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-29 02:55:19Z → 2026-04-05 02:55:19Z
-Total tracks played       : 44
+Week window (UTC)         : 2026-03-29 03:46:22Z → 2026-04-05 03:46:22Z
+Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1241,24 +1241,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 23:00
-Peak hour (7d)            : 14:00
+Peak hour (7d)            : 23:00
 Heatmap (24h)             :                        █
-Heatmap (7d)              : ▇▃  ▁         █     ▁  ▅
+Heatmap (7d)              : ▅▂            ▃        █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:01:09
+Avg inter-play gap (7d)   : 02:39:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : math rock(5)
-Top genres (7d)           : grunge(39) | post-grunge(39) | math rock(5)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : math rock(9) | funk rock(3) | neo-psychedelic(2) | funk(1) | psychedelic rock(1) | space rock(1)
+Top genres (7d)           : grunge(33) | post-grunge(33) | math rock(9) | funk rock(3) | neo-psychedelic(2) | funk(1)
+Artist lookups (this run) : 6 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-05 02:55:19Z
+Report generated (UTC)    : 2026-04-05 03:46:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-05 02:55:19Z",
+  "report_generated_utc": "2026-04-05 03:46:22Z",
   "status": "PLAYING",
-  "last_track": "Angine de Poitrine — Mata Zyklek",
-  "last_played_utc": "2026-04-05 02:50:52Z",
+  "last_track": "HENGE — Slingshot",
+  "last_played_utc": "2026-04-05 03:44:09Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -632,6 +632,25 @@
     "1HbW4t0XEnxdOAqUD6Ntlr": [],
     "13NmOYYfvONNZ9mn2qn8P2": [
       "math rock"
+    ],
+    "5R09pajxQjiwdUH6Fw4yM5": [],
+    "0Xl5J6iOgiQHFqgri7TF8j": [
+      "funk rock"
+    ],
+    "7aRGzyzEWC50FDDzdNFMtF": [
+      "funk rock",
+      "funk"
+    ],
+    "2sLMYvxNmHIYNx6re1WUM2": [
+      "neo-psychedelic"
+    ],
+    "79h56VcePe4n1k0DCuQpX7": [],
+    "66kb7d5jDmTkMSs1XcOXTQ": [
+      "stoner rock",
+      "neo-psychedelic",
+      "psychedelic rock",
+      "space rock",
+      "stoner metal"
     ]
   }
 }
