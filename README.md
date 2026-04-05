@@ -1206,13 +1206,13 @@ Last played               : Angine de Poitrine — Sarniezz
 Last played (UTC)         : 2026-04-05 20:50:14Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Olympians — California → Angine de Poitrine — Sarniezz
-Δ last played (since last): 2026-04-05 20:45:40Z → 2026-04-05 20:50:14Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:42:45
-Telemetry age             : 00:42:45
-Δ time (since last report): 00:43:11
+Time since last play      : 00:44:06
+Telemetry age             : 00:44:06
+Δ time (since last report): 00:01:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1231,7 +1231,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-29 21:32:59Z → 2026-04-05 21:32:59Z
+Week window (UTC)         : 2026-03-29 21:34:20Z → 2026-04-05 21:34:20Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1257,7 +1257,7 @@ Top genres (24h)          : math rock(10) | neo-psychedelic(6) | funk rock(4) | 
 Top genres (7d)           : grunge(21) | post-grunge(21) | math rock(10) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-05 21:32:59Z
+Report generated (UTC)    : 2026-04-05 21:34:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
