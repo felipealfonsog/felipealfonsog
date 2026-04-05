@@ -1196,24 +1196,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
 Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Angine de Poitrine — Sherpa
-Last played               : Silverchair — Faultline
-Last played (UTC)         : 2026-04-04 02:28:04Z
+Now playing               : Angine de Poitrine — Fabienk
+Last played               : Angine de Poitrine — Fabienk
+Last played (UTC)         : 2026-04-05 02:17:08Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Silverchair — Faultline → Angine de Poitrine — Fabienk
+Δ last played (since last): 2026-04-04 02:28:04Z → 2026-04-05 02:17:08Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 23:22:38
-Telemetry age             : 23:22:38
-Δ time (since last report): 00:48:36
+Time since last play      : 00:23:11
+Telemetry age             : 00:23:11
+Δ time (since last report): 00:49:37
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1225,17 +1225,17 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 3
+Dominant artist           : Angine de Poitrine
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-29 01:50:42Z → 2026-04-05 01:50:42Z
-Total tracks played       : 39
+Week window (UTC)         : 2026-03-29 02:40:18Z → 2026-04-05 02:40:18Z
+Total tracks played       : 42
 Dominant artist           : Silverchair
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1243,22 +1243,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 23:00
 Peak hour (7d)            : 14:00
 Heatmap (24h)             :                        █
-Heatmap (7d)              : ▇▃  ▁         █     ▁  ▂
+Heatmap (7d)              : ▇▃  ▁         █     ▁  ▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 02:46:29
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 03:09:10
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
-Top genres (7d)           : grunge(39) | post-grunge(39)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : math rock(3)
+Top genres (7d)           : grunge(39) | post-grunge(39) | math rock(3)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-05 01:50:42Z
+Report generated (UTC)    : 2026-04-05 02:40:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
