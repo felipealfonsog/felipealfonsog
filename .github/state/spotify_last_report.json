@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-05 04:02:55Z",
+  "report_generated_utc": "2026-04-05 04:18:15Z",
   "status": "PLAYING",
-  "last_track": "Jordan Wav — Avalanche",
-  "last_played_utc": "2026-04-05 03:57:59Z",
+  "last_track": "Yin Yin — Pingpxng",
+  "last_played_utc": "2026-04-05 04:18:00Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -657,6 +657,18 @@
     ],
     "2zJr4pLOMsOmlPj6XB0owT": [
       "jazz fusion"
+    ],
+    "3bPcnmJ1Lk6fQlhxGV3Apx": [
+      "neo-psychedelic",
+      "psychedelic rock"
+    ],
+    "0x9HCT7ZZlOEfLSVCDi5SO": [
+      "stoner rock",
+      "space rock",
+      "stoner metal",
+      "psychedelic rock",
+      "neo-psychedelic",
+      "sludge metal"
     ]
   }
 }
