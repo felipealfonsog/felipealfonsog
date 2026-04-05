@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-04-05T06:36:33+00:00",
-    "last_successful_sync": "2026-04-05T06:36:33+00:00",
+    "last_attempted_sync": "2026-04-05T12:22:36+00:00",
+    "last_successful_sync": "2026-04-05T12:22:36+00:00",
     "error_message": ""
   },
   "sections": {
