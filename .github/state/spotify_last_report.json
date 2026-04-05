@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-04-05 01:02:06Z",
-  "status": "IDLE",
+  "report_generated_utc": "2026-04-05 01:50:42Z",
+  "status": "PLAYING",
   "last_track": "Silverchair — Faultline",
   "last_played_utc": "2026-04-04 02:28:04Z",
-  "sitrep": "AMBER",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
