@@ -1207,13 +1207,13 @@ Last played               : Yin Yin — Pingpxng
 Last played (UTC)         : 2026-04-05 04:18:00Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Jordan Wav — Avalanche → Yin Yin — Pingpxng
-Δ last played (since last): 2026-04-05 03:57:59Z → 2026-04-05 04:18:00Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:16
-Telemetry age             : 00:00:16
-Δ time (since last report): 00:15:21
+Time since last play      : 00:00:57
+Telemetry age             : 00:00:57
+Δ time (since last report): 00:00:42
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1232,7 +1232,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-29 04:18:15Z → 2026-04-05 04:18:15Z
+Week window (UTC)         : 2026-03-29 04:18:57Z → 2026-04-05 04:18:57Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1256,9 +1256,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : math rock(9) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3) | space rock(2) | stoner metal(2)
 Top genres (7d)           : grunge(24) | post-grunge(24) | math rock(9) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-05 04:18:15Z
+Report generated (UTC)    : 2026-04-05 04:18:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
