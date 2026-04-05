@@ -1207,13 +1207,13 @@ Last played               : Angine de Poitrine — Fabienk
 Last played (UTC)         : 2026-04-05 02:17:08Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Faultline → Angine de Poitrine — Fabienk
-Δ last played (since last): 2026-04-04 02:28:04Z → 2026-04-05 02:17:08Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:23:11
-Telemetry age             : 00:23:11
-Δ time (since last report): 00:49:37
+Time since last play      : 00:27:01
+Telemetry age             : 00:27:01
+Δ time (since last report): 00:03:51
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1232,7 +1232,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-29 02:40:18Z → 2026-04-05 02:40:18Z
+Week window (UTC)         : 2026-03-29 02:44:09Z → 2026-04-05 02:44:09Z
 Total tracks played       : 42
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1256,9 +1256,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : math rock(3)
 Top genres (7d)           : grunge(39) | post-grunge(39) | math rock(3)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-05 02:40:18Z
+Report generated (UTC)    : 2026-04-05 02:44:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
