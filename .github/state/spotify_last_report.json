@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-05 03:46:22Z",
+  "report_generated_utc": "2026-04-05 03:49:33Z",
   "status": "PLAYING",
-  "last_track": "HENGE — Slingshot",
-  "last_played_utc": "2026-04-05 03:44:09Z",
+  "last_track": "Gwenifer Raymond — Jack Parsons Blues",
+  "last_played_utc": "2026-04-05 03:47:42Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -651,6 +651,9 @@
       "psychedelic rock",
       "space rock",
       "stoner metal"
+    ],
+    "2scavaz2jGMWRFULHoe5je": [
+      "ambient folk"
     ]
   }
 }
