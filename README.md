@@ -1210,9 +1210,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 19:06:10
-Telemetry age             : 19:06:10
-Δ time (since last report): 00:01:27
+Time since last play      : 22:34:02
+Telemetry age             : 22:34:02
+Δ time (since last report): 03:27:52
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1224,14 +1224,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 1
 Dominant artist           : Silverchair
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-28 21:34:14Z → 2026-04-04 21:34:14Z
+Week window (UTC)         : 2026-03-29 01:02:06Z → 2026-04-05 01:02:06Z
 Total tracks played       : 39
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
@@ -1239,25 +1239,25 @@ Cadence classification    : MEDIUM
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 23:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :                     █  █
+Heatmap (24h)             :                        █
 Heatmap (7d)              : ▇▃  ▁         █     ▁  ▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 6
 Avg inter-play gap (7d)   : 02:46:29
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(2) | post-grunge(2)
+Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : grunge(39) | post-grunge(39)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-04 21:34:14Z
+Report generated (UTC)    : 2026-04-05 01:02:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
