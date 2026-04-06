@@ -1210,9 +1210,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 07:32:17
-Telemetry age             : 07:32:17
-Δ time (since last report): 00:00:57
+Time since last play      : 10:09:14
+Telemetry age             : 10:09:14
+Δ time (since last report): 02:36:58
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1224,14 +1224,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 2
 Dominant artist           : Angine de Poitrine
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-30 04:22:30Z → 2026-04-06 04:22:30Z
+Week window (UTC)         : 2026-03-30 06:59:27Z → 2026-04-06 06:59:27Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1241,13 +1241,13 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             : ▄               █       
+Heatmap (24h)             :                 █       
 Heatmap (7d)              : ▆▂              ▁      █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 8
 Avg inter-play gap (7d)   : 02:48:31
 ------------------------------------------------------------
@@ -1257,7 +1257,7 @@ Top genres (24h)          : math rock(1) | retro soul(1)
 Top genres (7d)           : grunge(21) | post-grunge(21) | math rock(10) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-06 04:22:30Z
+Report generated (UTC)    : 2026-04-06 06:59:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
