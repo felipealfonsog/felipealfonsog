@@ -1210,9 +1210,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 21:46:35
-Telemetry age             : 21:46:35
-Δ time (since last report): 02:58:47
+Time since last play      : 21:47:03
+Telemetry age             : 21:47:03
+Δ time (since last report): 00:00:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1231,7 +1231,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-30 18:36:49Z → 2026-04-06 18:36:49Z
+Week window (UTC)         : 2026-03-30 18:37:17Z → 2026-04-06 18:37:17Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1257,7 +1257,7 @@ Top genres (24h)          : math rock(1) | retro soul(1)
 Top genres (7d)           : grunge(21) | post-grunge(21) | math rock(10) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-06 18:36:49Z
+Report generated (UTC)    : 2026-04-06 18:37:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
