@@ -630,7 +630,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-06 07:00:48Z
+DSN snapshot (UTC)       : 2026-04-06 09:49:32Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -642,13 +642,13 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.40e9 km | 169.785 AU
-Heliocentric distance    : 170.184 AU
-Relative speed           : 20.545 km/s
+Heliocentric distance    : 170.186 AU
+Relative speed           : 20.560 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:04
+One-way light time       : 23:32:03
 Round-trip latency       : 47:04:07
 ------------------------------------------------------------
-Δ distance (since last)  : -205,418 km
+Δ distance (since last)  : -46,076 km
 Mission age              : 48 years, 225 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -661,18 +661,18 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.33e9 km | 142.607 AU
-Heliocentric distance    : 142.541 AU
-Relative speed           : 22.729 km/s
+Heliocentric distance    : 142.542 AU
+Relative speed           : 22.724 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:02
+One-way light time       : 19:46:01
 Round-trip latency       : 39:32:03
 ------------------------------------------------------------
-Δ distance (since last)  : -362,912 km
+Δ distance (since last)  : -82,662 km
 Mission age              : 48 years, 241 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-06 07:00:51Z
+Report generated (UTC)   : 2026-04-06 09:49:37Z
 ```
 
 <!-- VOYAGER:END -->
