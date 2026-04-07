@@ -1210,9 +1210,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 36:56:21
-Telemetry age             : 36:56:21
-Δ time (since last report): 02:56:01
+Time since last play      : 36:56:49
+Telemetry age             : 36:56:49
+Δ time (since last report): 00:00:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1231,7 +1231,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-31 09:46:35Z → 2026-04-07 09:46:35Z
+Week window (UTC)         : 2026-03-31 09:47:02Z → 2026-04-07 09:47:02Z
 Total tracks played       : 33
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
@@ -1257,7 +1257,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : math rock(10) | neo-psychedelic(6) | funk rock(4) | grunge(4) | post-grunge(4) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-07 09:46:35Z
+Report generated (UTC)    : 2026-04-07 09:47:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
