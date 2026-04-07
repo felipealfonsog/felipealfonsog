@@ -1210,9 +1210,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 31:27:19
-Telemetry age             : 31:27:19
-Δ time (since last report): 00:00:15
+Time since last play      : 33:59:34
+Telemetry age             : 33:59:34
+Δ time (since last report): 02:32:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1231,8 +1231,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-03-31 04:17:32Z → 2026-04-07 04:17:32Z
-Total tracks played       : 36
+Week window (UTC)         : 2026-03-31 06:49:47Z → 2026-04-07 06:49:47Z
+Total tracks played       : 33
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1242,22 +1242,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 23:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▂▁              ▁      █
+Heatmap (7d)              : ▂               ▁      █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:53:59
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 02:04:48
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : math rock(10) | grunge(7) | post-grunge(7) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3)
+Top genres (7d)           : math rock(10) | neo-psychedelic(6) | funk rock(4) | grunge(4) | post-grunge(4) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-07 04:17:32Z
+Report generated (UTC)    : 2026-04-07 06:49:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
