@@ -1203,17 +1203,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Angine de Poitrine — Sarniezz
-Last played (UTC)         : 2026-04-05 20:50:14Z
+Last played               : Angine de Poitrine — Utzp
+Last played (UTC)         : 2026-04-09 05:38:58Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Angine de Poitrine — Sarniezz → Angine de Poitrine — Utzp
+Δ last played (since last): 2026-04-05 20:50:14Z → 2026-04-09 05:38:58Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 79:26:33
-Telemetry age             : 79:26:33
-Δ time (since last report): 03:26:05
+Time since last play      : 01:12:45
+Telemetry age             : 01:12:45
+Δ time (since last report): 02:34:56
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1225,40 +1225,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Angine de Poitrine
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-02 04:16:47Z → 2026-04-09 04:16:47Z
-Total tracks played       : 33
+Week window (UTC)         : 2026-04-02 06:51:43Z → 2026-04-09 06:51:43Z
+Total tracks played       : 34
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 01:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             : N/A
+Heatmap (24h)             :  █                      
 Heatmap (7d)              : ▂               ▁      █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:04:48
+Sessions (24h)            : 1
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 04:27:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : math rock(10) | neo-psychedelic(6) | funk rock(4) | grunge(4) | post-grunge(4) | psychedelic rock(3)
+Top genres (24h)          : math rock(1)
+Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | grunge(4) | post-grunge(4) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-09 04:16:47Z
+Report generated (UTC)    : 2026-04-09 06:51:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
