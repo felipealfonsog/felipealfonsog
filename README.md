@@ -1215,9 +1215,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:42:48
-Telemetry age             : 22:42:48
-Δ time (since last report): 00:00:23
+Time since last play      : 25:20:06
+Telemetry age             : 25:20:06
+Δ time (since last report): 02:37:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1229,14 +1229,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Angine de Poitrine
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-03 04:21:45Z → 2026-04-10 04:21:45Z
+Week window (UTC)         : 2026-04-03 06:59:03Z → 2026-04-10 06:59:03Z
 Total tracks played       : 33
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
@@ -1244,25 +1244,25 @@ Cadence classification    : MEDIUM
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 23:00
-Heatmap (24h)             :  █                      
+Heatmap (24h)             : N/A
 Heatmap (7d)              : ▂               ▁      █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 7
 Avg inter-play gap (7d)   : 04:27:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : math rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | grunge(3) | post-grunge(3) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-10 04:21:45Z
+Report generated (UTC)    : 2026-04-10 06:59:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
