@@ -4,16 +4,16 @@
   "timezone_name": "America/Santiago",
   "country": "Chile",
   "zone_name": "Santiago Centro",
-  "location_name": "urban_sector",
-  "latitude": -33.44365038976348,
-  "longitude": -70.65034410704472,
-  "altitude_m": 27,
-  "gps_accuracy_m": 4.4,
+  "location_name": "pedestrian_axis",
+  "latitude": -33.43787601657075,
+  "longitude": -70.64722066939689,
+  "altitude_m": 108,
+  "gps_accuracy_m": 6.2,
   "heading_deg": 0,
   "speed_kmh": 0.1,
   "status": "low_movement",
   "phase": "overnight",
-  "local_time_str": "23:59",
+  "local_time_str": "02:30",
   "signal": "nominal",
-  "updated_utc": "2026-04-10 03:59:39 UTC"
+  "updated_utc": "2026-04-10 06:30:19 UTC"
 }
