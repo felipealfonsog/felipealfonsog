@@ -1207,17 +1207,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Temple Of The Dog — Reach Down
-Last played (UTC)         : 2026-04-10 11:39:50Z
+Last played               : Temple Of The Dog — Hunger Strike
+Last played (UTC)         : 2026-04-10 12:58:22Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Temple Of The Dog — Reach Down → Temple Of The Dog — Hunger Strike
+Δ last played (since last): 2026-04-10 11:39:50Z → 2026-04-10 12:58:22Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:58:56
-Telemetry age             : 00:58:56
-Δ time (since last report): 00:01:19
+Time since last play      : 02:38:29
+Telemetry age             : 02:38:29
+Δ time (since last report): 02:58:05
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1229,15 +1229,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 2
 Dominant artist           : Temple Of The Dog
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-03 12:38:46Z → 2026-04-10 12:38:46Z
-Total tracks played       : 33
+Week window (UTC)         : 2026-04-03 15:36:50Z → 2026-04-10 15:36:50Z
+Total tracks played       : 34
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1246,23 +1246,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             :        █                
+Heatmap (24h)             :        ██               
 Heatmap (7d)              : ▂               ▁      █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:52:24
+Sessions (24h)            : 2
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 04:45:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
-Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | grunge(3) | post-grunge(3) | psychedelic rock(3)
+Top genres (24h)          : grunge(2) | post-grunge(2)
+Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | grunge(4) | post-grunge(4) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-10 12:38:46Z
+Report generated (UTC)    : 2026-04-10 15:36:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
