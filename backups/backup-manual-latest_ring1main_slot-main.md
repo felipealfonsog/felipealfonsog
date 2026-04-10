@@ -231,7 +231,7 @@ This integration enables precise visual control, consistent styling, and a refin
 <a href="https://www.instagram.com/club.samurai/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/samuraijudo.svg" alt="BSamurai Judo Club" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/acmma.svg" alt="AC MMA BJJ Patricio Cmapos" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/acbjj.svg" alt="AC MMA BJJ Patricio Cmapos" width="40" height="40"/></a>
-<a href="https://www.instagram.com/cicerocosthachileoficial/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/cicerocostabjj.svg" alt="Cicero Costha BJJ Chile" width="40" height="40"/></a>
+<a href="https://www.instagram.com/cicerocosthachileoficial/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/cicerocostabjjlogo2-modified.svg" alt="Cicero Costha BJJ Chile" width="40" height="40"/></a>
 <a href="https://www.instagram.com/labarba_jiujitsu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/labarbabjj.svg" alt="La Barba Jiu-Jitsu - Proyecto Social" width="40" height="40"/></a>
 
 <a href="https://freeshell.de" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/freeshell.svg" alt="Freeshell.de" width="40" height="40"/></a>
@@ -635,7 +635,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-10 04:22:58Z
+DSN snapshot (UTC)       : 2026-04-10 06:59:42Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -647,13 +647,13 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.40e9 km | 169.776 AU
-Heliocentric distance    : 170.222 AU
-Relative speed           : 21.094 km/s
+Heliocentric distance    : 170.223 AU
+Relative speed           : 21.111 km/s
 ------------------------------------------------------------
 One-way light time       : 23:31:59
 Round-trip latency       : 47:03:58
 ------------------------------------------------------------
-Δ distance (since last)  : -131,578 km
+Δ distance (since last)  : -34,727 km
 Mission age              : 48 years, 229 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -665,19 +665,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.33e9 km | 142.589 AU
-Heliocentric distance    : 142.575 AU
-Relative speed           : 22.595 km/s
+Earth distance           : 21.33e9 km | 142.588 AU
+Heliocentric distance    : 142.576 AU
+Relative speed           : 22.593 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:53
+One-way light time       : 19:45:52
 Round-trip latency       : 39:31:45
 ------------------------------------------------------------
-Δ distance (since last)  : -287,548 km
+Δ distance (since last)  : -77,098 km
 Mission age              : 48 years, 245 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-10 04:23:04Z
+Report generated (UTC)   : 2026-04-10 06:59:45Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1215,9 +1215,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:42:48
-Telemetry age             : 22:42:48
-Δ time (since last report): 00:00:23
+Time since last play      : 25:20:22
+Telemetry age             : 25:20:22
+Δ time (since last report): 00:00:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1229,14 +1229,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Angine de Poitrine
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-03 04:21:45Z → 2026-04-10 04:21:45Z
+Week window (UTC)         : 2026-04-03 06:59:19Z → 2026-04-10 06:59:19Z
 Total tracks played       : 33
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
@@ -1244,25 +1244,25 @@ Cadence classification    : MEDIUM
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 23:00
-Heatmap (24h)             :  █                      
+Heatmap (24h)             : N/A
 Heatmap (7d)              : ▂               ▁      █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 7
 Avg inter-play gap (7d)   : 04:27:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : math rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | grunge(3) | post-grunge(3) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-10 04:21:45Z
+Report generated (UTC)    : 2026-04-10 06:59:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
