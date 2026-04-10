@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-04-10 11:31:12Z",
-  "status": "PLAYING",
-  "last_track": "Angine de Poitrine — Utzp",
-  "last_played_utc": "2026-04-09 05:38:58Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-04-10 12:37:27Z",
+  "status": "IDLE",
+  "last_track": "Temple Of The Dog — Reach Down",
+  "last_played_utc": "2026-04-10 11:39:50Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -673,6 +673,10 @@
     "1LTFJvVvRw7ghAyThxYmnF": [],
     "0ZPqGxW2iwZz7vGJWzuTUi": [
       "retro soul"
+    ],
+    "0iHb0mCbqZTYeb4y9Pirrd": [
+      "grunge",
+      "post-grunge"
     ]
   }
 }

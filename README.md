@@ -1195,75 +1195,74 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Temple Of The Dog — Reach Down
-Last played               : Angine de Poitrine — Utzp
-Last played (UTC)         : 2026-04-09 05:38:58Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Temple Of The Dog — Reach Down
+Last played (UTC)         : 2026-04-10 11:39:50Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Angine de Poitrine — Utzp → Temple Of The Dog — Reach Down
+Δ last played (since last): 2026-04-09 05:38:58Z → 2026-04-10 11:39:50Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 29:52:14
-Telemetry age             : 29:52:14
-Δ time (since last report): 00:02:16
+Time since last play      : 00:57:38
+Telemetry age             : 00:57:38
+Δ time (since last report): 01:06:16
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Temple Of The Dog
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-03 11:31:12Z → 2026-04-10 11:31:12Z
-Total tracks played       : 32
+Week window (UTC)         : 2026-04-03 12:37:27Z → 2026-04-10 12:37:27Z
+Total tracks played       : 33
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 07:00
 Peak hour (7d)            : 23:00
-Heatmap (24h)             : N/A
+Heatmap (24h)             :        █                
 Heatmap (7d)              : ▂               ▁      █
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 04:03:44
+Sessions (24h)            : 1
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 04:52:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3) | grunge(2) | post-grunge(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : grunge(1) | post-grunge(1)
+Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | grunge(3) | post-grunge(3) | psychedelic rock(3)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-10 11:31:12Z
+Report generated (UTC)    : 2026-04-10 12:37:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
