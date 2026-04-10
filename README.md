@@ -1211,13 +1211,13 @@ Last played               : Temple Of The Dog — Reach Down
 Last played (UTC)         : 2026-04-10 11:39:50Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Angine de Poitrine — Utzp → Temple Of The Dog — Reach Down
-Δ last played (since last): 2026-04-09 05:38:58Z → 2026-04-10 11:39:50Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:57:38
-Telemetry age             : 00:57:38
-Δ time (since last report): 01:06:16
+Time since last play      : 00:58:56
+Telemetry age             : 00:58:56
+Δ time (since last report): 00:01:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1236,7 +1236,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-03 12:37:27Z → 2026-04-10 12:37:27Z
+Week window (UTC)         : 2026-04-03 12:38:46Z → 2026-04-10 12:38:46Z
 Total tracks played       : 33
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
@@ -1260,9 +1260,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | grunge(3) | post-grunge(3) | psychedelic rock(3)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-10 12:37:27Z
+Report generated (UTC)    : 2026-04-10 12:38:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
