@@ -300,12 +300,15 @@ This integration enables precise visual control, consistent styling, and a refin
 <a href="https://jid.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jid-modified.svg" alt="JID IADB" width="40" height="40"/></a>
 <a href="https://www.interior.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_ministerio_del_interior_chile.svg" alt="Ministerio del Interior y Seguridad Pública de Chile" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Agencia_Nacional_de_Inteligencia" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile_rounded.svg" alt="ANI Chile" width="40" height="40"/></a>
-<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/badgePDIChile-modified.svg" alt="PDI" width="40" height="40"/></a>
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/pdilogoletters-modified.svg" alt="PDI" width="40" height="40"/></a>
 <a href="https://www.carabineros.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_os9_carabineros_rounded-modified.svg" alt="Carabineros de Chile OS9" width="40" height="40"/></a>
 <a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci-modified.svg" alt="ANCI Chile" width="40" height="40"/></a>
 
 <!-- 
 
+
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/pdilogoletters-modified.svg" alt="PDI" width="40" height="40"/></a>
+<a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/badgePDIChile-modified.svg" alt="PDI" width="40" height="40"/></a>
 
 <a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_pdi.svg" alt="PDI Chile" width="40" height="40"/></a>
 <a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa.svg" alt="ENISA" width="40" height="40"/></a>
