@@ -1195,34 +1195,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Temple Of The Dog — Reach Down
 Last played               : Angine de Poitrine — Utzp
 Last played (UTC)         : 2026-04-09 05:38:58Z
-Last activity type        : NO_ACTIVE_SESSION
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 28:09:11
-Telemetry age             : 28:09:11
-Δ time (since last report): 00:00:57
+Time since last play      : 29:49:01
+Telemetry age             : 29:49:01
+Δ time (since last report): 01:39:51
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1236,7 +1237,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-03 09:48:08Z → 2026-04-10 09:48:08Z
+Week window (UTC)         : 2026-04-03 11:27:59Z → 2026-04-10 11:27:59Z
 Total tracks played       : 32
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
@@ -1262,7 +1263,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3) | grunge(2) | post-grunge(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-10 09:48:08Z
+Report generated (UTC)    : 2026-04-10 11:27:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
