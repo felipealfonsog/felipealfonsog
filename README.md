@@ -1211,13 +1211,13 @@ Last played               : Temple Of The Dog — Hunger Strike
 Last played (UTC)         : 2026-04-10 12:58:22Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Temple Of The Dog — Reach Down → Temple Of The Dog — Hunger Strike
-Δ last played (since last): 2026-04-10 11:39:50Z → 2026-04-10 12:58:22Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:38:29
-Telemetry age             : 02:38:29
-Δ time (since last report): 02:58:05
+Time since last play      : 02:39:09
+Telemetry age             : 02:39:09
+Δ time (since last report): 00:00:41
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1236,7 +1236,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-03 15:36:50Z → 2026-04-10 15:36:50Z
+Week window (UTC)         : 2026-04-03 15:37:31Z → 2026-04-10 15:37:31Z
 Total tracks played       : 34
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
@@ -1262,7 +1262,7 @@ Top genres (24h)          : grunge(2) | post-grunge(2)
 Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | grunge(4) | post-grunge(4) | psychedelic rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-10 15:36:50Z
+Report generated (UTC)    : 2026-04-10 15:37:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
