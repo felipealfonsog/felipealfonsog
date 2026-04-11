@@ -1615,9 +1615,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 10 April 2026
+From: 04 December 2023 - To: 11 April 2026
 
-Total Time       : 1,006 hrs 34 mins
+Total Time       : 1,007 hrs
 Mostly coding in : Other
 Daily average    : 1 hrs 10 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1626,48 +1626,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          339 hrs 34 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.74 %
+Other          346 hrs 12 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  34.38 %
 Bash           165 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.79 %
-HTML           130 hrs 18 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.95 %
-PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.81 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.03 %
+HTML           130 hrs 18 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.94 %
+PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.80 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.02 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.32 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.97 %
-Text           38 hrs 16 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.80 %
+Text           38 hrs 17 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.80 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            726 hrs 56 mins ●●●●●●●●●●●●●●●●●●◔○○○○○○○  72.22 %
-Linux          619 hrs 12 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.52 %
+Mac            733 hrs 29 mins ●●●●●●●●●●●●●●●●●●◔○○○○○○○  72.84 %
+Linux          619 hrs 42 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.54 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.94 %
-Vim            329 hrs 2 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.69 %
-Firefox        282 hrs 55 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  28.11 %
-Terminal       18 hrs 4 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.80 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.91 %
+Vim            329 hrs 2 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.68 %
+Firefox        286 hrs 14 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  28.43 %
+Terminal       18 hrs 20 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
 TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
 Spotify        10 hrs 15 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.02 %
+‎WhatsApp      8 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.89 %
 Acrobat        7 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.78 %
-‎WhatsApp      7 hrs 35 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.76 %
 FileZilla      5 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
 Dia            4 hrs 15 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.42 %
+Termius        3 hrs 18 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.33 %
 TextMate       2 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.29 %
-Zoom           2 hrs 36 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.26 %
 
 CATEGORIES
 ----------
-Coding         1,050 hrs 23 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       280 hrs 35 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  27.88 %
-Meeting        12 hrs 54 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.28 %
+Coding         1,052 hrs 46 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       283 hrs 53 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  28.19 %
+Meeting        14 hrs 16 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.42 %
 Writing Docs   2 hrs 15 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.22 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 11/04/2026 04:45:17 UTC
+Last updated     : 11/04/2026 10:17:02 UTC
 
 ```
 <!--END_SECTION:wakastats-->
