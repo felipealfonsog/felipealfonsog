@@ -1215,9 +1215,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 11:57:56
-Telemetry age             : 11:57:56
-Δ time (since last report): 03:19:46
+Time since last play      : 15:08:59
+Telemetry age             : 15:08:59
+Δ time (since last report): 03:11:04
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1236,8 +1236,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-04 00:56:17Z → 2026-04-11 00:56:17Z
-Total tracks played       : 33
+Week window (UTC)         : 2026-04-04 04:07:20Z → 2026-04-11 04:07:20Z
+Total tracks played       : 32
 Dominant artist           : Angine de Poitrine
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1253,16 +1253,16 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:49:42
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 04:13:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(2) | post-grunge(2)
-Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | grunge(3) | post-grunge(3) | psychedelic rock(3)
+Top genres (7d)           : math rock(11) | neo-psychedelic(6) | funk rock(4) | psychedelic rock(3) | grunge(2) | post-grunge(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-11 00:56:17Z
+Report generated (UTC)    : 2026-04-11 04:07:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
