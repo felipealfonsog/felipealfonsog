@@ -1215,9 +1215,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 41:53:47
-Telemetry age             : 41:53:47
-Δ time (since last report): 00:00:42
+Time since last play      : 44:36:58
+Telemetry age             : 44:36:58
+Δ time (since last report): 02:43:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1236,7 +1236,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-05 06:52:08Z → 2026-04-12 06:52:08Z
+Week window (UTC)         : 2026-04-05 09:35:20Z → 2026-04-12 09:35:20Z
 Total tracks played       : 5
 Dominant artist           : Temple Of The Dog
 Cadence classification    : LOW
@@ -1262,7 +1262,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : grunge(2) | math rock(2) | post-grunge(2) | retro soul(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-12 06:52:08Z
+Report generated (UTC)    : 2026-04-12 09:35:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
