@@ -1,10 +1,10 @@
 {
   "target": "gnlz.cl",
   "profile": "FULL-SPECTRUM",
-  "status": "ONLINE",
-  "http": "200 OK",
-  "latency_ms": 194,
-  "ttfb_ms": 192,
+  "status": "DEGRADED",
+  "http": "522 <none>",
+  "latency_ms": 19623,
+  "ttfb_ms": 19622,
   "uptime": {
     "uptime_24h": "100.000%",
     "uptime_7d": "99.987%",
@@ -20,11 +20,11 @@
   "asn_hint": "CLOUDFLARE",
   "header_hygiene": "PARTIAL",
   "header_checks": {
-    "HSTS": "PASS",
+    "HSTS": "MISS",
     "CSP": "MISS",
     "XFO": "PASS",
     "REFPOL": "PASS",
-    "PERMPOL": "PASS"
+    "PERMPOL": "MISS"
   },
   "robots": "PRESENT",
   "securitytxt": "ABSENT",
@@ -36,10 +36,10 @@
   "views_7d": 6882,
   "uniques_24h": 402,
   "bot_ratio": 11.8,
-  "cache_signal": "UNKNOWN",
-  "content_length": "38 KB",
+  "cache_signal": "ACTIVE",
+  "content_length": "7 KB",
   "anomaly_signal": "NONE",
-  "last_probe_utc": "2026-04-12T12:22:31Z",
+  "last_probe_utc": "2026-04-12T18:21:59Z",
   "data_state": "LIVE",
   "probe_confidence": "HIGH",
   "http_protocol": "http/1.1",
