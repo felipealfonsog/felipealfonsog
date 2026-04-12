@@ -106,12 +106,17 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 -->
 
 
+<!-- FINAL BADGES BELOW THE DONATION BADGE -->
 
 
 
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=flat-rounded&logo=githubsponsors&logoColor=white&labelColor=EA4AAA&color=EA4AAA&logoWidth=25)](https://github.com/sponsors/felipealfonsog) [![Crypto Donations](https://img.shields.io/badge/Crypto-Donations-F7931A?style=flat-rounded&logo=bitcoin&logoColor=white&labelColor=F7931A&color=F7931A&logoWidth=25)](https://coindrop.to/felipealfonsog)
 
-[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=flat-rounded&logo=githubsponsors&logoColor=white&labelColor=EA4AAA&color=EA4AAA&logoWidth=25)](https://github.com/sponsors/felipealfonsog) [![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-Support_me-FFDD00?style=flat-rounded&logo=buymeacoffee&logoColor=000000&labelColor=FFDD00&color=FFDD00&logoWidth=25)](https://buymeacoffee.com/felipealfonsog)
+<!--
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-Support_me-FFDD00?style=flat-rounded&logo=buymeacoffee&logoColor=000000&labelColor=FFDD00&color=FFDD00&logoWidth=25)](https://buymeacoffee.com/felipealfonsog)
+
+-->
 
 
 
@@ -122,7 +127,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [![Repository Collection](https://img.shields.io/badge/Repository_Collection-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](#projects) [![All Gists](https://img.shields.io/badge/All_Gists-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/GitLab_Repositories-E24329?style=flat-rounded&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/Refresh_Page-0078D7?style=flat-rounded&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 -->
 
-<!-- FINAL BADGES BELOW THE DONATION BADGE -->
+
 
 
 <!-- 
