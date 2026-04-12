@@ -110,7 +110,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 
-[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=flat-rounded&logo=githubsponsors&logoColor=white&labelColor=EA4AAA&color=EA4AAA&logoWidth=25)](https://github.com/sponsors/felipealfonsog) [![Crypto Donations](https://img.shields.io/badge/Crypto-Donations-F7931A?style=flat-rounded&logo=bitcoin&logoColor=white&labelColor=F7931A&color=F7931A&logoWidth=25)](https://coindrop.to/felipealfonsog)
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=flat-rounded&logo=githubsponsors&logoColor=white&labelColor=EA4AAA&color=EA4AAA&logoWidth=25)](https://github.com/sponsors/felipealfonsog) [![CoinDrop](https://img.shields.io/badge/CoinDrop-Support-1A1A1A?style=flat-rounded&logo=bitcoin&logoColor=white&labelColor=1A1A1A&color=1A1A1A&logoWidth=25)](https://coindrop.to/felipealfonsog)
 
 <!--
 
