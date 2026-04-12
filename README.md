@@ -1215,9 +1215,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 39:23:45
-Telemetry age             : 39:23:45
-Δ time (since last report): 00:00:15
+Time since last play      : 39:24:59
+Telemetry age             : 39:24:59
+Δ time (since last report): 00:01:15
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1236,8 +1236,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-05 04:22:06Z → 2026-04-12 04:22:06Z
-Total tracks played       : 6
+Week window (UTC)         : 2026-04-05 04:23:21Z → 2026-04-12 04:23:21Z
+Total tracks played       : 5
 Dominant artist           : Temple Of The Dog
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1247,14 +1247,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 16:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▄▄     ▄▄       █       
+Heatmap (7d)              :  ▄     ▄▄       █       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 25:43:06
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 28:03:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1262,7 +1262,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : grunge(2) | math rock(2) | post-grunge(2) | retro soul(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-12 04:22:06Z
+Report generated (UTC)    : 2026-04-12 04:23:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
