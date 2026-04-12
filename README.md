@@ -110,7 +110,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 
 
-[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=flat-rounded&logo=githubsponsors&logoColor=white&labelColor=EA4AAA&color=EA4AAA&logoWidth=25)](https://github.com/sponsors/felipealfonsog)
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=flat-rounded&logo=githubsponsors&logoColor=white&labelColor=EA4AAA&color=EA4AAA&logoWidth=25)](https://github.com/sponsors/felipealfonsog) [![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-Support_me-FFDD00?style=flat-rounded&logo=buymeacoffee&logoColor=000000&labelColor=FFDD00&color=FFDD00&logoWidth=25)](https://buymeacoffee.com/felipealfonsog)
+
+
+
+
 <!--
 [![Repository Collection](https://img.shields.io/badge/Repository_Collection-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](#projects) [![All Gists](https://img.shields.io/badge/All_Gists-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 
@@ -118,7 +122,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [![Repository Collection](https://img.shields.io/badge/Repository_Collection-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](#projects) [![All Gists](https://img.shields.io/badge/All_Gists-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/GitLab_Repositories-E24329?style=flat-rounded&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/Refresh_Page-0078D7?style=flat-rounded&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 -->
 
-
+<!-- FINAL BADGES BELOW THE DONATION BADGE -->
 
 
 <!-- 
@@ -135,7 +139,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://felipe.gnlz.cl) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl) [![Books2Read](https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57)](https://books2read.com/adrianglorentz) [![Insight Timer](https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166)](https://insighttimer.com/namchandersingh/) 
 -->
 
-<!-- FINAL BADGES BELOW THE DONATION BADGE -->
+<!-- FINAL BADGES BELOW  -->
 
 [<img src="https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=20" height="19"/>](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/Repository_Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#projects) [<img src="https://img.shields.io/badge/Pinned_Repositories-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#pinned-repositories) [<img src="https://img.shields.io/badge/All_Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog) 
 [<img src="https://img.shields.io/badge/GitLab_Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog) [<img src="https://img.shields.io/badge/License_%2F_Compliance-SECURED?style=plastic&logo=readthedocs&logoColor=white&labelColor=111111&color=111111&logoWidth=20" height="19"/>](#classified-identity--integrity-notice)
