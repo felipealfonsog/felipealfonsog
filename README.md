@@ -1228,9 +1228,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 53:37:48
-Telemetry age             : 53:37:48
-Δ time (since last report): 00:00:17
+Time since last play      : 56:35:06
+Telemetry age             : 56:35:06
+Δ time (since last report): 02:57:18
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1249,8 +1249,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-05 18:36:10Z → 2026-04-12 18:36:10Z
-Total tracks played       : 5
+Week window (UTC)         : 2026-04-05 21:33:28Z → 2026-04-12 21:33:28Z
+Total tracks played       : 3
 Dominant artist           : Temple Of The Dog
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1258,24 +1258,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
-Peak hour (7d)            : 16:00
+Peak hour (7d)            : 01:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :  ▄     ▄▄       █       
+Heatmap (7d)              :  █     ██               
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 28:03:11
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 15:39:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : grunge(2) | math rock(2) | post-grunge(2) | retro soul(1)
+Top genres (7d)           : grunge(2) | post-grunge(2) | math rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-12 18:36:10Z
+Report generated (UTC)    : 2026-04-12 21:33:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
