@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-04-12_0632Z
+ snapshot_utc : 2026-04-13_0644Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -78,7 +78,7 @@ Throughout my life, I have lived, worked, and studied internationally — includ
 
 Integrity, transparency, and coherence shape both my work and my personal journey. I act with purpose—where values meet impact—and I seek truth in the silence that moves us forward.
 
-If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀ ✡︎ ⚜︎
+If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). 
 
 <!-- 
 https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
@@ -113,11 +113,20 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 -->
 
 
+<!-- FINAL BADGES BELOW THE DONATION BADGE -->
 
 
 
+[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=flat-rounded&logo=githubsponsors&logoColor=white&labelColor=EA4AAA&color=EA4AAA&logoWidth=25)](https://github.com/sponsors/felipealfonsog) [![CoinDrop](https://img.shields.io/badge/CoinDrop-Crypto_Donations-F7931A?style=flat-rounded&logo=bitcoin&logoColor=white&labelColor=1C1C1C&color=F7931A&logoWidth=25)](https://coindrop.to/felipealfonsog)
 
-[![Donate](https://img.shields.io/badge/Donate-OpenSource-003087?style=flat-rounded&logo=paypal&logoColor=white&labelColor=003087&color=0070ba&logoWidth=25)](https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8) 
+<!--
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-Support_me-FFDD00?style=flat-rounded&logo=buymeacoffee&logoColor=000000&labelColor=FFDD00&color=FFDD00&logoWidth=25)](https://buymeacoffee.com/felipealfonsog)
+
+-->
+
+
+
 <!--
 [![Repository Collection](https://img.shields.io/badge/Repository_Collection-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](#projects) [![All Gists](https://img.shields.io/badge/All_Gists-181717?style=flat-rounded&logo=github&logoColor=white&labelColor=181717&color=181717)](https://gist.github.com/felipealfonsog) [![GitLab Repositories](https://img.shields.io/badge/-GitLab%20Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329)](https://gitlab.com/felipealfonsog) [![Refresh Page](https://img.shields.io/badge/-Refresh%20Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7)](https://github.com/felipealfonsog?cache-bypass=1)
 
@@ -142,11 +151,15 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [![Versión en español](https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=19)](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/E–mail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com) [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://felipe.gnlz.cl) [![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139)](https://www.gnlz.cl) [![Books2Read](https://img.shields.io/badge/-Books2Read-2E8B57?style=plastic&logo=bookstack&logoColor=white&labelColor=2E8B57)](https://books2read.com/adrianglorentz) [![Insight Timer](https://img.shields.io/badge/-Insight%20Timer-FFD166?style=plastic&logo=clockify&logoColor=white&labelColor=FFD166)](https://insighttimer.com/namchandersingh/) 
 -->
 
-<!-- FINAL BADGES BELOW THE DONATION BADGE -->
+<!-- FINAL BADGES BELOW  -->
 
 [<img src="https://img.shields.io/badge/-Versi%C3%B3n%20en%20espa%C3%B1ol-4285F4?style=plastic&logo=google-translate&logoColor=white&labelColor=4285F4&logoWidth=20" height="19"/>](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/felipealfonsog) [<img src="https://img.shields.io/badge/Repository_Collection-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#projects) [<img src="https://img.shields.io/badge/Pinned_Repositories-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](#pinned-repositories) [<img src="https://img.shields.io/badge/All_Gists-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="19"/>](https://gist.github.com/felipealfonsog) 
-[<img src="https://img.shields.io/badge/GitLab_Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog)
-[<img src="https://img.shields.io/badge/License_%2F_Compliance-SECURED?style=plastic&logo=readthedocs&logoColor=white&labelColor=111111&color=111111&logoWidth=20" height="19"/>](#classified-identity--integrity-notice)
+[<img src="https://img.shields.io/badge/GitLab_Repositories-E24329?style=plastic&logo=gitlab&logoColor=white&labelColor=E24329&color=E24329&logoWidth=20" height="19"/>](https://gitlab.com/felipealfonsog) [<img src="https://img.shields.io/badge/License_%2F_Compliance-SECURED?style=plastic&logo=readthedocs&logoColor=white&labelColor=111111&color=111111&logoWidth=20" height="19"/>](#classified-identity--integrity-notice)
+
+<!--
+[<img src="https://img.shields.io/badge/Become_a_Sponsor-EA4AAA?style=plastic&logo=githubsponsors&logoColor=white&labelColor=EA4AAA&color=EA4AAA&logoWidth=20" height="19"/>](https://github.com/sponsors/felipealfonsog)
+-->
+
 
 [<img src="https://img.shields.io/badge/WakaTime_Telemetry/Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime)
 [<img src="https://img.shields.io/badge/Spotify_Telemetry/Stats-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=1DB954&color=1DB954&logoWidth=20" height="19"/>](#spotify)
@@ -161,7 +174,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.qzz.io/)
-[<img src="https://img.shields.io/badge/-cl.gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://cl.gnlz.qzz.io/)
+[<img src="https://img.shields.io/badge/-felipe.gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.qzz.io/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 [<img src="https://img.shields.io/badge/-onion_access-7D4698?style=plastic&logo=torproject&logoColor=white&labelColor=7D4698&logoWidth=20" height="19"/>](http://ookod2olxzttlvvvrtqqsjsg7mgiuhcypeyjize42y5ii4rsduxzafid.onion/)
@@ -183,6 +196,15 @@ The “Google Translate” badge redirects to an automatic translation of this p
 an open-source toolkit available on 
 <a href="https://github.com/DenverCoder1/custom-icon-badges">GitHub</a>. 
 This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.</sub>
+
+<!-- 
+> <sub> ⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
+-->
+
+
+```
+⟁ ❀ ✡︎ ⚜︎ ∴ .·.
+```
 
 
 
@@ -353,14 +375,14 @@ This integration enables precise visual control, consistent styling, and a refin
 <br/>
 <div align="left"><sub><strong>Currently Reading</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8455651783?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732188901l/220887027._SY75_.jpg" width="40" height="60" alt="The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455648321?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619978145l/57920800._SX50_.jpg" width="40" height="60" alt="The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455634136?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633192138l/59131430._SX50_.jpg" width="40" height="60" alt="Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455624520?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538363806l/42107422._SX50_.jpg" width="40" height="60" alt="The Autobiography of a Yogi — Paramahansa Yogananda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8399631886?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg" width="40" height="60" alt="PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8120974609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg" width="40" height="60" alt="Leviathan — Thomas Hobbes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8083185323?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg" width="40" height="60" alt="Aferrada a mi balsa — Gladys Díaz Armijo" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008450894?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg" width="40" height="60" alt="Man&#x27;s Search for Meaning — Viktor E. Frankl" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
 <div align="left"><sub><strong>Recently Read</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg" width="40" height="60" alt="Programming Perl (3rd Edition) — Larry Wall" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg" width="40" height="60" alt="Mala onda — Alberto Fuguet" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg" width="40" height="60" alt="Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg" width="40" height="60" alt="Freedom from the Known — J. Krishnamurti" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg" width="40" height="60" alt="In My Father&#x27;s Den — Maurice Gee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg" width="40" height="60" alt="The Poetry of Pablo Neruda — Pablo Neruda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg" width="40" height="60" alt="Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg" width="40" height="60" alt="Cujo — Stephen King" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg" width="40" height="60" alt="On Writing — Ernest Hemingway" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg" width="40" height="60" alt="Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
-<br/><sub>SYNC: 2026-04-12T00:59:15+00:00 • LAST UPDATE: 2026-04-12T00:59:15+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
+<br/><sub>SYNC: 2026-04-13T04:13:18+00:00 • LAST UPDATE: 2026-04-13T04:13:18+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
 <!-- GOODREADS:VISUAL_END -->
 
 <!-- GOODREADS:CLI_START -->
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-12T00:59:15+00:00 | last_update=2026-04-12T00:59:15+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-13T04:13:18+00:00 | last_update=2026-04-13T04:13:18+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
@@ -436,13 +458,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 185 ms
-TTFB................ 184 ms
+LATENCY............. 205 ms
+TTFB................ 204 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 84d
+TLS_EXPIRY.......... 83d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -471,7 +493,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-04-12T04:08:02Z
+LAST_PROBE_UTC...... 2026-04-13T04:13:05Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -511,19 +533,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437369
-longitude      : -70.647194
-altitude       : 15 m
-gps_accuracy   : ±4.8 m
-heading        : 17°
+location       : residential_sector
+latitude       : -33.441513
+longitude      : -70.653470
+altitude       : 25 m
+gps_accuracy   : ±6.4 m
+heading        : 342°
 speed          : 0.2 km/h
-status         : stationary
+status         : resting
 phase          : overnight
-local_time     : 02:26
+local_time     : 02:36
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-04-12 06:26:51 UTC
+updated_utc    : 2026-04-13 06:36:37 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -642,7 +664,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-11 21:35:53Z
+DSN snapshot (UTC)       : 2026-04-13 04:29:02Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -653,15 +675,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.772 AU
-Heliocentric distance    : 170.239 AU
-Relative speed           : 21.357 km/s
+Earth distance           : 25.40e9 km | 169.770 AU
+Heliocentric distance    : 170.252 AU
+Relative speed           : 21.562 km/s
 ------------------------------------------------------------
-One-way light time       : 23:31:57
-Round-trip latency       : 47:03:54
+One-way light time       : 23:31:56
+Round-trip latency       : 47:03:52
 ------------------------------------------------------------
-Δ distance (since last)  : -35,671 km
-Mission age              : 48 years, 230 days
+Δ distance (since last)  : -37,124 km
+Mission age              : 48 years, 232 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -672,19 +694,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.33e9 km | 142.581 AU
-Heliocentric distance    : 142.590 AU
-Relative speed           : 22.556 km/s
+Earth distance           : 21.33e9 km | 142.575 AU
+Heliocentric distance    : 142.601 AU
+Relative speed           : 22.534 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:48
-Round-trip latency       : 39:31:37
+One-way light time       : 19:45:45
+Round-trip latency       : 39:31:31
 ------------------------------------------------------------
-Δ distance (since last)  : -88,027 km
-Mission age              : 48 years, 246 days
+Δ distance (since last)  : -100,779 km
+Mission age              : 48 years, 248 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-11 21:35:54Z
+Report generated (UTC)   : 2026-04-13 04:29:04Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1222,9 +1244,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 39:24:59
-Telemetry age             : 39:24:59
-Δ time (since last report): 00:01:15
+Time since last play      : 63:30:12
+Telemetry age             : 63:30:12
+Δ time (since last report): 00:00:45
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1243,8 +1265,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-05 04:23:21Z → 2026-04-12 04:23:21Z
-Total tracks played       : 5
+Week window (UTC)         : 2026-04-06 04:28:33Z → 2026-04-13 04:28:33Z
+Total tracks played       : 3
 Dominant artist           : Temple Of The Dog
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1252,24 +1274,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
-Peak hour (7d)            : 16:00
+Peak hour (7d)            : 01:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :  ▄     ▄▄       █       
+Heatmap (7d)              :  █     ██               
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 28:03:11
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 15:39:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : grunge(2) | math rock(2) | post-grunge(2) | retro soul(1)
+Top genres (7d)           : grunge(2) | post-grunge(2) | math rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-12 04:23:21Z
+Report generated (UTC)    : 2026-04-13 04:28:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1622,7 +1644,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 April 2026
+From: 04 December 2023 - To: 12 April 2026
 
 Total Time       : 1,007 hrs
 Mostly coding in : Other
@@ -1633,7 +1655,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          346 hrs 12 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  34.38 %
+Other          346 hrs 37 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  34.42 %
 Bash           165 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.79 %
 HTML           130 hrs 18 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.94 %
@@ -1646,18 +1668,18 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            733 hrs 29 mins ●●●●●●●●●●●●●●●●●●◔○○○○○○○  72.84 %
+Mac            733 hrs 55 mins ●●●●●●●●●●●●●●●●●●◔○○○○○○○  72.88 %
 Linux          619 hrs 42 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.54 %
 
 EDITORS
 -------
 VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.91 %
 Vim            329 hrs 2 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.68 %
-Firefox        286 hrs 14 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  28.43 %
+Firefox        286 hrs 37 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  28.46 %
 Terminal       18 hrs 20 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
 TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
 Spotify        10 hrs 15 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.02 %
-‎WhatsApp      8 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.89 %
+‎WhatsApp      8 hrs 59 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.89 %
 Acrobat        7 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.78 %
 FileZilla      5 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
 Dia            4 hrs 15 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.42 %
@@ -1667,14 +1689,14 @@ TextMate       2 hrs 57 mins  ○○○○○○○○○○○○○○○○�
 CATEGORIES
 ----------
 Coding         1,052 hrs 46 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       283 hrs 53 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  28.19 %
-Meeting        14 hrs 16 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.42 %
+Browsing       284 hrs 16 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  28.23 %
+Meeting        14 hrs 18 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.42 %
 Writing Docs   2 hrs 15 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.22 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 12/04/2026 05:04:50 UTC
+Last updated     : 13/04/2026 05:11:44 UTC
 
 ```
 <!--END_SECTION:wakastats-->
