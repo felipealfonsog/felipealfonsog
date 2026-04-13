@@ -190,7 +190,7 @@ an open-source toolkit available on
 <a href="https://github.com/DenverCoder1/custom-icon-badges">GitHub</a>. 
 This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.</sub>
 
-> <sub> ⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
+> <pre> ⟁ ❀ ✡︎ ⚜︎ ∴ .·.</pre>
 
 <!-- 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
