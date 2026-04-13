@@ -179,7 +179,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Telegram-555555?style=plastic&logo=telegram&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://t.me/felipealfonsog)
 [<img src="https://img.shields.io/badge/Linktree-555555?style=plastic&logo=linktree&logoColor=white&labelColor=555555&logoWidth=20" height="19"/>](https://linktr.ee/felipealfonsog)
 
-<sub> > ⟁ ❀ ✡︎ ⚜︎ </sub>
+
 
 > [!NOTE]
 > <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
@@ -190,7 +190,7 @@ an open-source toolkit available on
 <a href="https://github.com/DenverCoder1/custom-icon-badges">GitHub</a>. 
 This integration enables precise visual control, consistent styling, and a refined presentation layer aligned with the overall system design of the profile.</sub>
 
-
+<sub> ⟁ ❀ ✡︎ ⚜︎ </sub>
 
 <!-- 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
