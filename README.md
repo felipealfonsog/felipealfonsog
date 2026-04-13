@@ -194,11 +194,11 @@ This integration enables precise visual control, consistent styling, and a refin
 > <sub> ⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
 -->
 
-<sub>
+
 ```
 ⟁ ❀ ✡︎ ⚜︎ ∴ .·.
 ```
-</sub>
+
 
 
 <!-- 
