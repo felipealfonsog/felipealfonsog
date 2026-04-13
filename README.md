@@ -1637,9 +1637,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 12 April 2026
+From: 04 December 2023 - To: 13 April 2026
 
-Total Time       : 1,007 hrs
+Total Time       : 1,008 hrs 31 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 10 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1648,48 +1648,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          346 hrs 37 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  34.42 %
-Bash           165 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.79 %
-HTML           130 hrs 18 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.94 %
-PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.80 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.02 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.32 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.97 %
-Text           38 hrs 17 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.80 %
-YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
+Other          356 hrs 34 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.36 %
+Bash           165 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.44 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.77 %
+HTML           130 hrs 49 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.97 %
+PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.78 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.01 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.31 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.96 %
+Text           38 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
+YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.74 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            733 hrs 55 mins ●●●●●●●●●●●●●●●●●●◔○○○○○○○  72.88 %
-Linux          619 hrs 42 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.54 %
+Mac            745 hrs 22 mins ●●●●●●●●●●●●●●●●●●●○○○○○○○  73.91 %
+Linux          619 hrs 43 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.45 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.91 %
-Vim            329 hrs 2 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.68 %
-Firefox        286 hrs 37 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  28.46 %
-Terminal       18 hrs 20 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.81 %
+Vim            329 hrs 3 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.63 %
+Firefox        296 hrs 59 mins ●●●●●●●◔○○○○○○○○○○○○○○○○○○  29.45 %
+Terminal       18 hrs 39 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.85 %
 TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
 Spotify        10 hrs 15 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.02 %
-‎WhatsApp      8 hrs 59 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.89 %
+‎WhatsApp      9 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.89 %
 Acrobat        7 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.78 %
-FileZilla      5 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
+FileZilla      5 hrs 43 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
 Dia            4 hrs 15 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.42 %
-Termius        3 hrs 18 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.33 %
+Termius        3 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
 TextMate       2 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.29 %
 
 CATEGORIES
 ----------
-Coding         1,052 hrs 46 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       284 hrs 16 mins ●●●●●●●○○○○○○○○○○○○○○○○○○○  28.23 %
-Meeting        14 hrs 18 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.42 %
+Coding         1,053 hrs 52 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       293 hrs 11 mins ●●●●●●●◔○○○○○○○○○○○○○○○○○○  29.07 %
+Meeting        15 hrs 47 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.57 %
 Writing Docs   2 hrs 15 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.22 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 13/04/2026 05:11:44 UTC
+Last updated     : 13/04/2026 10:41:09 UTC
 
 ```
 <!--END_SECTION:wakastats-->
