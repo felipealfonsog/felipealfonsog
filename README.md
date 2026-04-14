@@ -1229,18 +1229,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Angine de Poitrine — Sarniezz
-Last played               : Silverchair — Findaway
-Last played (UTC)         : 2026-04-14 02:46:51Z
+Now playing               : Deftones — Rickets
+Last played               : Deftones — Around the Fur
+Last played (UTC)         : 2026-04-14 04:20:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Silverchair — Findaway → Deftones — Around the Fur
+Δ last played (since last): 2026-04-14 02:46:51Z → 2026-04-14 04:20:28Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:07:14
-Telemetry age             : 01:07:14
-Δ time (since last report): 00:00:24
+Time since last play      : 00:00:24
+Telemetry age             : 00:00:24
+Δ time (since last report): 00:26:48
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1252,40 +1252,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
+Tracks played (last 24h)  : 15
 Dominant artist           : Silverchair
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-07 03:54:04Z → 2026-04-14 03:54:04Z
-Total tracks played       : 12
+Week window (UTC)         : 2026-04-07 04:20:52Z → 2026-04-14 04:20:52Z
+Total tracks played       : 18
 Dominant artist           : Silverchair
-Cadence classification    : LOW
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :                       █ 
-Heatmap (7d)              :  ▁     ▁▁             █ 
+Heatmap (24h)             : ▄                     █▁
+Heatmap (7d)              : ▄▁     ▁▁             █▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 10:38:54
+Sessions (24h)            : 2
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 06:58:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(9) | post-grunge(9)
-Top genres (7d)           : grunge(11) | post-grunge(11) | math rock(1)
+Top genres (24h)          : grunge(9) | post-grunge(9) | alternative metal(4) | nu metal(4) | rap metal(4) | rock(4)
+Top genres (7d)           : grunge(11) | post-grunge(11) | alternative metal(4) | nu metal(4) | rap metal(4) | rock(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-14 03:54:04Z
+Report generated (UTC)    : 2026-04-14 04:20:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
