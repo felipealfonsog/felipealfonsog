@@ -1234,13 +1234,13 @@ Last played               : Deftones — Around the Fur
 Last played (UTC)         : 2026-04-14 04:20:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Findaway → Deftones — Around the Fur
-Δ last played (since last): 2026-04-14 02:46:51Z → 2026-04-14 04:20:28Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:24
-Telemetry age             : 00:00:24
-Δ time (since last report): 00:26:48
+Time since last play      : 00:01:03
+Telemetry age             : 00:01:03
+Δ time (since last report): 00:00:39
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1259,7 +1259,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-07 04:20:52Z → 2026-04-14 04:20:52Z
+Week window (UTC)         : 2026-04-07 04:21:30Z → 2026-04-14 04:21:30Z
 Total tracks played       : 18
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
@@ -1285,7 +1285,7 @@ Top genres (24h)          : grunge(9) | post-grunge(9) | alternative metal(4) | 
 Top genres (7d)           : grunge(11) | post-grunge(11) | alternative metal(4) | nu metal(4) | rap metal(4) | rock(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-14 04:20:52Z
+Report generated (UTC)    : 2026-04-14 04:21:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
