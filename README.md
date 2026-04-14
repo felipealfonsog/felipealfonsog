@@ -1234,13 +1234,13 @@ Last played               : Silverchair — Findaway
 Last played (UTC)         : 2026-04-14 02:46:51Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Cicada → Silverchair — Findaway
-Δ last played (since last): 2026-04-14 02:43:53Z → 2026-04-14 02:46:51Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:06:51
-Telemetry age             : 01:06:51
-Δ time (since last report): 01:09:05
+Time since last play      : 01:07:14
+Telemetry age             : 01:07:14
+Δ time (since last report): 00:00:24
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1259,7 +1259,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-07 03:53:41Z → 2026-04-14 03:53:41Z
+Week window (UTC)         : 2026-04-07 03:54:04Z → 2026-04-14 03:54:04Z
 Total tracks played       : 12
 Dominant artist           : Silverchair
 Cadence classification    : LOW
@@ -1285,7 +1285,7 @@ Top genres (24h)          : grunge(9) | post-grunge(9)
 Top genres (7d)           : grunge(11) | post-grunge(11) | math rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-14 03:53:41Z
+Report generated (UTC)    : 2026-04-14 03:54:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
