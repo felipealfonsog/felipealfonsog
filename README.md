@@ -1217,74 +1217,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Temple Of The Dog — Hunger Strike
-Last played (UTC)         : 2026-04-10 12:58:22Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Silverchair — Findaway
+Last played               : Silverchair — Cicada
+Last played (UTC)         : 2026-04-14 02:43:53Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Temple Of The Dog — Hunger Strike → Silverchair — Cicada
+Δ last played (since last): 2026-04-10 12:58:22Z → 2026-04-14 02:43:53Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 84:06:10
-Telemetry age             : 84:06:10
-Δ time (since last report): 00:00:31
+Time since last play      : 00:00:45
+Telemetry age             : 00:00:45
+Δ time (since last report): 01:40:07
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 8
+Dominant artist           : Silverchair
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-07 01:04:31Z → 2026-04-14 01:04:31Z
-Total tracks played       : 3
-Dominant artist           : Temple Of The Dog
+Week window (UTC)         : 2026-04-07 02:44:37Z → 2026-04-14 02:44:37Z
+Total tracks played       : 11
+Dominant artist           : Silverchair
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 01:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  █     ██               
+Peak hour (24h)           : 22:00
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :                       █ 
+Heatmap (7d)              :  ▁     ▁▁             █ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 15:39:42
+Sessions (24h)            : 1
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 11:42:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(2) | post-grunge(2) | math rock(1)
+Top genres (24h)          : grunge(8) | post-grunge(8)
+Top genres (7d)           : grunge(10) | post-grunge(10) | math rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-14 01:04:31Z
+Report generated (UTC)    : 2026-04-14 02:44:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
