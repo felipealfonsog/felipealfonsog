@@ -1217,50 +1217,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Deftones — Rickets
-Last played               : Deftones — Around the Fur
-Last played (UTC)         : 2026-04-14 04:20:28Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Deftones — Rickets
+Last played (UTC)         : 2026-04-14 04:23:11Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Deftones — Around the Fur → Deftones — Rickets
+Δ last played (since last): 2026-04-14 04:20:28Z → 2026-04-14 04:23:11Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:14
-Telemetry age             : 00:02:14
-Δ time (since last report): 00:00:48
+Time since last play      : 02:35:29
+Telemetry age             : 02:35:29
+Δ time (since last report): 02:35:59
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 15
+Tracks played (last 24h)  : 16
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-07 04:22:41Z → 2026-04-14 04:22:41Z
-Total tracks played       : 18
+Week window (UTC)         : 2026-04-07 06:58:40Z → 2026-04-14 06:58:40Z
+Total tracks played       : 19
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1269,23 +1268,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             : ▄                     █▁
-Heatmap (7d)              : ▄▁     ▁▁             █▁
+Heatmap (24h)             : ▅                     █▁
+Heatmap (7d)              : ▅▁     ▁▁             █▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 06:58:55
+Avg inter-play gap (7d)   : 06:35:47
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(9) | post-grunge(9) | alternative metal(4) | nu metal(4) | rap metal(4) | rock(4)
-Top genres (7d)           : grunge(11) | post-grunge(11) | alternative metal(4) | nu metal(4) | rap metal(4) | rock(4)
+Top genres (24h)          : grunge(9) | post-grunge(9) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
+Top genres (7d)           : grunge(11) | post-grunge(11) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-14 04:22:41Z
+Report generated (UTC)    : 2026-04-14 06:58:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
