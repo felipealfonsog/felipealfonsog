@@ -1223,24 +1223,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
 Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Findaway
-Last played               : Silverchair — Cicada
-Last played (UTC)         : 2026-04-14 02:43:53Z
+Now playing               : Angine de Poitrine — Sarniezz
+Last played               : Silverchair — Findaway
+Last played (UTC)         : 2026-04-14 02:46:51Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Temple Of The Dog — Hunger Strike → Silverchair — Cicada
-Δ last played (since last): 2026-04-10 12:58:22Z → 2026-04-14 02:43:53Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Silverchair — Cicada → Silverchair — Findaway
+Δ last played (since last): 2026-04-14 02:43:53Z → 2026-04-14 02:46:51Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:45
-Telemetry age             : 00:00:45
-Δ time (since last report): 01:40:07
+Time since last play      : 01:06:51
+Telemetry age             : 01:06:51
+Δ time (since last report): 01:09:05
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1252,15 +1252,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
+Tracks played (last 24h)  : 9
 Dominant artist           : Silverchair
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-07 02:44:37Z → 2026-04-14 02:44:37Z
-Total tracks played       : 11
+Week window (UTC)         : 2026-04-07 03:53:41Z → 2026-04-14 03:53:41Z
+Total tracks played       : 12
 Dominant artist           : Silverchair
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1277,15 +1277,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 11:42:30
+Avg inter-play gap (7d)   : 10:38:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(8) | post-grunge(8)
-Top genres (7d)           : grunge(10) | post-grunge(10) | math rock(1)
+Top genres (24h)          : grunge(9) | post-grunge(9)
+Top genres (7d)           : grunge(11) | post-grunge(11) | math rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-14 02:44:37Z
+Report generated (UTC)    : 2026-04-14 03:53:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
