@@ -1217,75 +1217,74 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Silverchair — Abuse Me
-Last played               : Silverchair — Freak
-Last played (UTC)         : 2026-04-15 01:05:20Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Soundgarden — Power Trip
+Last played (UTC)         : 2026-04-15 01:22:47Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Slave → Silverchair — Freak
-Δ last played (since last): 2026-04-15 01:01:34Z → 2026-04-15 01:05:20Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Silverchair — Freak → Soundgarden — Power Trip
+Δ last played (since last): 2026-04-15 01:05:20Z → 2026-04-15 01:22:47Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:01:43
-Telemetry age             : 00:01:43
-Δ time (since last report): 00:02:38
+Time since last play      : 02:57:46
+Telemetry age             : 02:57:46
+Δ time (since last report): 03:13:30
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 33
+Tracks played (last 24h)  : 22
 Dominant artist           : Silverchair
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-08 01:07:03Z → 2026-04-15 01:07:03Z
-Total tracks played       : 36
+Week window (UTC)         : 2026-04-08 04:20:33Z → 2026-04-15 04:20:33Z
+Total tracks played       : 40
 Dominant artist           : Silverchair
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             : ▃       ▁           █▁▅▁
-Heatmap (7d)              : ▃▁     ▁▁           █▁▅▁
+Heatmap (24h)             : ▁       ▁           █▃  
+Heatmap (7d)              : ▃▁     ▁▁           █▃▅▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : 3
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 03:59:02
+Avg inter-play gap (7d)   : 03:34:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(26) | post-grunge(26) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
-Top genres (7d)           : grunge(28) | post-grunge(28) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
+Top genres (24h)          : grunge(21) | post-grunge(21) | hard rock(2) | alternative metal(1) | nu metal(1) | rap metal(1)
+Top genres (7d)           : grunge(32) | post-grunge(32) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-15 01:07:03Z
+Report generated (UTC)    : 2026-04-15 04:20:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

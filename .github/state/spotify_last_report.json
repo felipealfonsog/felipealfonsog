@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-04-15 01:07:03Z",
-  "status": "PLAYING",
-  "last_track": "Silverchair — Freak",
-  "last_played_utc": "2026-04-15 01:05:20Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-04-15 04:20:33Z",
+  "status": "IDLE",
+  "last_track": "Soundgarden — Power Trip",
+  "last_played_utc": "2026-04-15 01:22:47Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
