@@ -1229,17 +1229,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Soundgarden — Power Trip
-Last played (UTC)         : 2026-04-15 01:22:47Z
+Last played               : Soundgarden — Get On The Snake
+Last played (UTC)         : 2026-04-15 16:06:29Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Soundgarden — Power Trip → Soundgarden — Get On The Snake
+Δ last played (since last): 2026-04-15 01:22:47Z → 2026-04-15 16:06:29Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 14:26:37
-Telemetry age             : 14:26:37
-Δ time (since last report): 00:00:49
+Time since last play      : 02:37:56
+Telemetry age             : 02:37:56
+Δ time (since last report): 02:55:02
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1251,15 +1251,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 20
+Tracks played (last 24h)  : 21
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-08 15:49:23Z → 2026-04-15 15:49:23Z
-Total tracks played       : 40
+Week window (UTC)         : 2026-04-08 18:44:25Z → 2026-04-15 18:44:25Z
+Total tracks played       : 41
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1268,23 +1268,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                     █▃  
-Heatmap (7d)              : ▃▁     ▁▁           █▃▅▁
+Heatmap (24h)             :             ▁       █▃  
+Heatmap (7d)              : ▃▁     ▁▁   ▁       █▃▅▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 03:34:58
+Sessions (24h)            : 2
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:51:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(20) | post-grunge(20) | hard rock(2)
-Top genres (7d)           : grunge(32) | post-grunge(32) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
+Top genres (24h)          : grunge(21) | post-grunge(21) | hard rock(3)
+Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-15 15:49:23Z
+Report generated (UTC)    : 2026-04-15 18:44:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
