@@ -1233,13 +1233,13 @@ Last played               : Rama — Esqueletos
 Last played (UTC)         : 2026-04-15 20:06:58Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Soundgarden — Get On The Snake → Rama — Esqueletos
-Δ last played (since last): 2026-04-15 16:06:29Z → 2026-04-15 20:06:58Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:31:09
-Telemetry age             : 01:31:09
-Δ time (since last report): 02:52:47
+Time since last play      : 01:31:49
+Telemetry age             : 01:31:49
+Δ time (since last report): 00:00:41
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1258,7 +1258,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-08 21:38:06Z → 2026-04-15 21:38:06Z
+Week window (UTC)         : 2026-04-08 21:38:47Z → 2026-04-15 21:38:47Z
 Total tracks played       : 42
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1282,9 +1282,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(21) | post-grunge(21) | hard rock(3) | nu metal(1) | rap metal(1)
 Top genres (7d)           : grunge(33) | post-grunge(33) | nu metal(6) | rap metal(6) | alternative metal(5) | rock(5)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-15 21:38:06Z
+Report generated (UTC)    : 2026-04-15 21:38:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
