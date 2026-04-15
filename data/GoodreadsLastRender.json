@@ -1,10 +1,10 @@
 {
   "meta": {
-    "rendered_at": "2026-04-15T04:07:43+00:00",
+    "rendered_at": "2026-04-15T06:50:18+00:00",
     "render_mode": "option1=on|option2=off|option3_cli=on",
     "rendered_visual": true,
     "rendered_cli": true,
     "readme_changed": true,
-    "snapshot_hash": "a33cf932616180b5873a033c550bcad0466c745d36af57f3ef4d645251e58add"
+    "snapshot_hash": "60901e7e5e7cde95ab883ae927cbc4018894eebb597ae0ab6fcb52129990a934"
   }
 }
