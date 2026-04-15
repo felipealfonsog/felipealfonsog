@@ -1229,18 +1229,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Freak
-Last played               : Silverchair — Slave
-Last played (UTC)         : 2026-04-15 01:01:34Z
+Now playing               : Silverchair — Abuse Me
+Last played               : Silverchair — Freak
+Last played (UTC)         : 2026-04-15 01:05:20Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Silverchair — Slave → Silverchair — Freak
+Δ last played (since last): 2026-04-15 01:01:34Z → 2026-04-15 01:05:20Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:51
-Telemetry age             : 00:02:51
-Δ time (since last report): 00:01:06
+Time since last play      : 00:01:43
+Telemetry age             : 00:01:43
+Δ time (since last report): 00:02:38
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1252,15 +1252,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 32
+Tracks played (last 24h)  : 33
 Dominant artist           : Silverchair
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-08 01:04:25Z → 2026-04-15 01:04:25Z
-Total tracks played       : 35
+Week window (UTC)         : 2026-04-08 01:07:03Z → 2026-04-15 01:07:03Z
+Total tracks played       : 36
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1277,15 +1277,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:05:58
+Avg inter-play gap (7d)   : 03:59:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(25) | post-grunge(25) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
-Top genres (7d)           : grunge(27) | post-grunge(27) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
+Top genres (24h)          : grunge(26) | post-grunge(26) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
+Top genres (7d)           : grunge(28) | post-grunge(28) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-15 01:04:25Z
+Report generated (UTC)    : 2026-04-15 01:07:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
