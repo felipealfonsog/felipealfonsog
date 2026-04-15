@@ -1233,13 +1233,13 @@ Last played               : Soundgarden — Power Trip
 Last played (UTC)         : 2026-04-15 01:22:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Freak → Soundgarden — Power Trip
-Δ last played (since last): 2026-04-15 01:05:20Z → 2026-04-15 01:22:47Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:57:46
-Telemetry age             : 02:57:46
-Δ time (since last report): 03:13:30
+Time since last play      : 02:58:39
+Telemetry age             : 02:58:39
+Δ time (since last report): 00:00:53
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1258,7 +1258,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-08 04:20:33Z → 2026-04-15 04:20:33Z
+Week window (UTC)         : 2026-04-08 04:21:25Z → 2026-04-15 04:21:25Z
 Total tracks played       : 40
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1284,7 +1284,7 @@ Top genres (24h)          : grunge(21) | post-grunge(21) | hard rock(2) | altern
 Top genres (7d)           : grunge(32) | post-grunge(32) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-15 04:20:33Z
+Report generated (UTC)    : 2026-04-15 04:21:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
