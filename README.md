@@ -1233,13 +1233,13 @@ Last played               : Soundgarden — Get On The Snake
 Last played (UTC)         : 2026-04-15 16:06:29Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Soundgarden — Power Trip → Soundgarden — Get On The Snake
-Δ last played (since last): 2026-04-15 01:22:47Z → 2026-04-15 16:06:29Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:37:56
-Telemetry age             : 02:37:56
-Δ time (since last report): 02:55:02
+Time since last play      : 02:38:51
+Telemetry age             : 02:38:51
+Δ time (since last report): 00:00:55
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1258,7 +1258,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-08 18:44:25Z → 2026-04-15 18:44:25Z
+Week window (UTC)         : 2026-04-08 18:45:20Z → 2026-04-15 18:45:20Z
 Total tracks played       : 41
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1284,7 +1284,7 @@ Top genres (24h)          : grunge(21) | post-grunge(21) | hard rock(3)
 Top genres (7d)           : grunge(33) | post-grunge(33) | alternative metal(5) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-15 18:44:25Z
+Report generated (UTC)    : 2026-04-15 18:45:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
