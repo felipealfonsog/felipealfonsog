@@ -82,7 +82,7 @@ VISUAL_SECTION_BOTTOM_SPACER_PX = 20
 # ============================================================
 # OPTION 1: COVERS ONLY
 # ============================================================
-OPTION1_SHOW_COVERS = True
+OPTION1_SHOW_COVERS = False
 
 OPTION1_COVER_WIDTH = 40
 OPTION1_COVER_HEIGHT = 60
