@@ -1,0 +1,177 @@
+[
+  {
+    "href": "https://www.torproject.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/torproject-icon.svg",
+    "alt": "tor",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://blackarch.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/archlinux-plain.svg",
+    "alt": "blackarch",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.kali.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/kalilinux-cs.svg",
+    "alt": "kalilinux",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.metasploit.com/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/metasploit.svg",
+    "alt": "metasploit",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.wireshark.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/wireshark.svg",
+    "alt": "wireshark",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://openvpn.net/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/openvpn.svg",
+    "alt": "openvpn",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://protonvpn.com/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/protonvpn.svg",
+    "alt": "protonvpn",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://defcon.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/defcon.svg",
+    "alt": "defcon",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.kali.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/distributor-logo-kali-linux.svg",
+    "alt": "kali linux",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://duckduckgo.com/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/duckduckgo-icon.svg",
+    "alt": "duckduckgo",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://learn.microsoft.com/en-us/azure/security/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons//security21.svg",
+    "alt": "Azure Security",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://mlh.io/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Major_League_Hacking_logo.svg",
+    "alt": "Major League Hacking",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://hackaday.com/",
+    "src": "https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackaday.svg",
+    "alt": "Hackaday",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.ingress.com/",
+    "src": "https://raw.githubusercontent.com/cr0ybot/ingress-logos/master/badges/hacker.svg",
+    "alt": "Ingress Hacker",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://nmap.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Nmap.svg",
+    "alt": "Nmap",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.snort.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Snort.svg",
+    "alt": "Snort",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Open-source_intelligence",
+    "src": "https://raw.githubusercontent.com/detain/svg-logos/master/svg/o/osint-1.svg",
+    "alt": "OSINT",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://portswigger.net/burp",
+    "src": "https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/burp.svg",
+    "alt": "Burp Suite",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.malwarebytes.com/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/malwarebytes.svg",
+    "alt": "Malwarebytes",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://isfce.com/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/350284.svg",
+    "alt": "CCE",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.maltego.com/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Maltego_Logo.svg",
+    "alt": "Maltego",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.shodan.io/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Logo_of_Shodan.svg",
+    "alt": "Shodan",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://censys.io/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/censys.svg",
+    "alt": "Censys",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.cortex.io/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/cortex_ctxc.svg",
+    "alt": "Cortex",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.cisa.gov/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/240px-CISA_Logo.png",
+    "alt": "CISA",
+    "width": 40,
+    "height": 40
+  }
+]
