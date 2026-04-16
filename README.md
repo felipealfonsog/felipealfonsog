@@ -1237,9 +1237,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:18:01
-Telemetry age             : 02:18:01
-Δ time (since last report): 00:00:26
+Time since last play      : 04:53:28
+Telemetry age             : 04:53:28
+Δ time (since last report): 02:35:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1258,8 +1258,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-09 04:25:12Z → 2026-04-16 04:25:12Z
-Total tracks played       : 42
+Week window (UTC)         : 2026-04-09 07:00:39Z → 2026-04-16 07:00:39Z
+Total tracks played       : 41
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1269,14 +1269,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 12:00
 Peak hour (7d)            : 20:00
 Heatmap (24h)             :             █         █ 
-Heatmap (7d)              : ▃▁     ▁▁   ▁       █▃▆▁
+Heatmap (7d)              : ▃      ▁▁   ▁       █▃▆▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 04:00:41
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:21:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1284,7 +1284,7 @@ Top genres (24h)          : grunge(1) | hard rock(1) | nu metal(1) | post-grunge
 Top genres (7d)           : grunge(33) | post-grunge(33) | nu metal(6) | rap metal(6) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-16 04:25:12Z
+Report generated (UTC)    : 2026-04-16 07:00:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
