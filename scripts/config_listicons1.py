@@ -8,7 +8,7 @@
 # - "full_image"
 # - "none"
 
-RENDER_MODE = "links_listicons1_svg_github"
+RENDER_MODE = "links_listicons1_svg_gnlz"
 
 
 # ============================================================
