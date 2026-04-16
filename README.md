@@ -375,17 +375,17 @@ This integration enables precise visual control, consistent styling, and a refin
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-16T09:41:39+00:00 | last_update=2026-04-16T09:41:39+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-16T12:29:24+00:00 | last_update=2026-04-16T12:29:24+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
-01. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
-02. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
-03. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
-04. The Autobiography of a Yogi — Paramahansa Yogananda
-05. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
-06. Leviathan — Thomas Hobbes
-07. Aferrada a mi balsa — Gladys Díaz Armijo
-08. Man's Search for Meaning — Viktor E. Frankl
+01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+02. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+03. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+04. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+05. The Autobiography of a Yogi — Paramahansa Yogananda
+06. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
+07. Leviathan — Thomas Hobbes
+08. Aferrada a mi balsa — Gladys Díaz Armijo
 
 [recent_read] shelf=read books=10 limit=10
 01. Programming Perl (3rd Edition) — Larry Wall
