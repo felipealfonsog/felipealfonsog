@@ -877,6 +877,14 @@ Radioactive-Defcon-2.svg
 
 -->
 
+
+
+
+
+
+
+<!--
+
 <a href="https://hackaday.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackaday.svg" alt="Hackaday" width="40" height="40"/></a> 
 <a href="https://defcon.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Radioactive-Defcon-2.svg" alt="DEFCON" width="40" height="40"/></a> 
 <a href="https://blackarch.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/archlinux.svg" alt="BlackArch" width="40" height="40"/></a> 
@@ -884,6 +892,17 @@ Radioactive-Defcon-2.svg
 <a href="https://kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linux.svg" alt="Linux Kernel" width="40" height="40"/></a> 
 <a href="https://www.freebsd.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/freebsd.svg" alt="FreeBSD" width="40" height="40"/></a> 
 <a href="https://attack.mitre.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/CyberOrg-GenLogo1.svg" alt="MITRE ATT&CK" width="40" height="40"/></a> 
+
+-->
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2135,7 +2154,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
 <!-- 
 Powered by https://github.com/devicons/devicon
 -->
-
+<!--
   <a href="https://www.json.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/json-original.svg" alt="json" width="40" height="40"/></a>
   <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/></a>
   <a href="https://mariadb.org/" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a>
@@ -2207,7 +2226,12 @@ Powered by https://github.com/devicons/devicon
   <a href="https://es.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/macos.svg" alt="macOS" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
 
+-->
 
+
+<!--
+ICONS TECH YML...
+-->
 
   
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
