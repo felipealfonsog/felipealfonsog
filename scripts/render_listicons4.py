@@ -114,16 +114,19 @@ def render_full_image_mode() -> str:
 def build_block() -> str:
     mode = normalize_render_mode(cfg.RENDER_MODE)
 
-    if cfg.FORCE_EMPTY_IF_GNLZ_DOWN and not gnlz_is_alive():
-        return ""
-
     if mode == "none":
         return ""
 
+    # FIX:
+    # full_image NO debe morir por el healthcheck de gnlz
+    # porque su src viene desde GitHub/raw.
     if mode == "full_image":
         return render_full_image_mode()
 
+    # La regla de vacío por caída de gnlz aplica solo a modos links
     if mode in {"links_listicons4_svg_gnlz", "links_listicons4_svg_github"}:
+        if cfg.FORCE_EMPTY_IF_GNLZ_DOWN and not gnlz_is_alive():
+            return ""
         return render_links_mode()
 
     return ""
