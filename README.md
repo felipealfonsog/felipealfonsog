@@ -272,8 +272,8 @@ https://github.com/felipealfonsog/felipealfonsog/blob/master/images/icons1inline
 ICONOS INICIALES INLINE SVG1
 -->
 
-<!-- ICONS:START -->
-<!-- ICONS:END -->
+<!-- LIST-ICONS1:START -->
+<!-- LIST-ICONS1:END -->
 
 
 #
