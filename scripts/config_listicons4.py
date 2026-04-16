@@ -8,21 +8,21 @@
 # - "full_image"
 # - "none"
 
-RENDER_MODE = "full_image"
+RENDER_MODE = "links_listicons4_svg_github"
 
 
 # ============================================================
 # LIST-ICONS4
 # SOURCE HEALTH RULE
 # ============================================================
-# Exact rule:
+# Exact rule for LINKS modes:
 # If https://gnlz.cl/svg4cybersecicons.html is down and this is True
 # -> render nothing
 # -> no visible error in README
 #
 # IMPORTANT:
-# This rule applies ONLY to links modes.
-# full_image must still render from GitHub.
+# This applies only to links modes.
+# full_image still renders from GitHub/raw.
 
 FORCE_EMPTY_IF_GNLZ_DOWN = True
 
