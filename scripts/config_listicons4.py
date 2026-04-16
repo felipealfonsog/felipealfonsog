@@ -8,7 +8,7 @@
 # - "full_image"
 # - "none"
 
-RENDER_MODE = "full_image"
+RENDER_MODE = "links_listicons4_svg_github"
 
 
 # ============================================================
@@ -19,6 +19,10 @@ RENDER_MODE = "full_image"
 # If https://gnlz.cl/svg4cybersecicons.html is down and this is True
 # -> render nothing
 # -> no visible error in README
+#
+# IMPORTANT:
+# This rule applies ONLY to links modes.
+# full_image must still render from GitHub.
 
 FORCE_EMPTY_IF_GNLZ_DOWN = True
 
