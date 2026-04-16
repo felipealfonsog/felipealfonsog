@@ -223,9 +223,16 @@ This integration enables precise visual control, consistent styling, and a refin
 
 <!-- 
 [<img src="https://custom-icon-badges.demolab.com/badge/Freemasonry-1f3a5f?style=plastic&logo=masoneria-logo&logoColor=ffffff" height="19"/>](https://en.wikipedia.org/wiki/Freemasonry) [<img src="https://custom-icon-badges.demolab.com/badge/Gran%20Logia%20de%20Chile-1f3a5f?style=plastic&logo=granlogia-chile-logo&logoColor=ffffff" height="19"/>](https://www.granlogia.cl)
+
+https://github.com/felipealfonsog/felipealfonsog/blob/master/images/icons1inline-full.png
+<a href="https://en.wikipedia.org/wiki/Freemasonry" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/icons1inline-full.png" alt="Freemasonry" width="40" height="40"/></a>
+
+
 -->
 
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/icons1inline-full.png" alt="icons" width="100%" height="100%"/></a>
 
+<!-- 
 <a href="https://en.wikipedia.org/wiki/Freemasonry" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/masoneria-logo.svg" alt="Freemasonry" width="40" height="40"/></a>
 <a href="https://www.granlogia.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogia-final.svg" alt="Gran Logia de Chile" width="40" height="40"/></a>
 <a href="https://granoriente.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiadelgranoriente.svg" alt="Gran Logia Gran Oriente de Chile" width="40" height="40"/></a>
@@ -243,10 +250,7 @@ This integration enables precise visual control, consistent styling, and a refin
 <a href="https://boyscouts.cl" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/anbschile.svg" alt="Agrupacción Nacional de Boy Scouts de Chile" width="40" height="40"/></a>
 <a href="https://boyscouts.cl/c22/?page_id=1108" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gilwell.svg" alt="Baden Powell, El Parque De Gilwell Y La Insignia De Madera" width="40" height="40"/></a>
 
-<!--
-<a href="https://www.partidoradical.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/prsdcl.svg" alt="Partido Radical Socialdemócrata" width="40" height="40"/></a>
-<a href="https://www.instagram.com/todaslasmanos/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/tlmcl-circle.svg" alt="Movimiento Ciudadano Todas Las Manos de La Florida" width="40" height="40"/></a>
--->
+
 
 <a href="https://www.instagram.com/rfchile/?hl=es" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rfbjj.svg" alt="RF Chile BJJ" width="40" height="40"/></a>
 <a href="https://www.instagram.com/rfchile/?hl=es" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rfbjjmma.svg" alt="RF Chile BJJ" width="40" height="40"/></a>
@@ -257,6 +261,14 @@ This integration enables precise visual control, consistent styling, and a refin
 <a href="https://www.instagram.com/labarba_jiujitsu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/labarbabjj.svg" alt="La Barba Jiu-Jitsu - Proyecto Social" width="40" height="40"/></a>
 
 <a href="https://freeshell.de" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/freeshell.svg" alt="Freeshell.de" width="40" height="40"/></a>
+-->
+
+
+<!--
+<a href="https://www.partidoradical.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/prsdcl.svg" alt="Partido Radical Socialdemócrata" width="40" height="40"/></a>
+<a href="https://www.instagram.com/todaslasmanos/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/tlmcl-circle.svg" alt="Movimiento Ciudadano Todas Las Manos de La Florida" width="40" height="40"/></a>
+-->
+
 
 #
 
