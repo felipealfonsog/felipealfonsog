@@ -58,14 +58,7 @@ def load_links_json() -> list[dict]:
     return data
 
 
-def select_src(item: dict, source_selector: str) -> str:
-    if source_selector == "gnlz":
-        return str(item.get("src_gnlz", "")).strip()
-
-    return str(item.get("src_github", "")).strip()
-
-
-def render_links_mode(source_selector: str) -> str:
+def render_links_mode() -> str:
     items = load_links_json()
     html_parts: list[str] = []
 
@@ -75,7 +68,7 @@ def render_links_mode(source_selector: str) -> str:
         if cfg.SKIP_HASH_LINKS and href == "#":
             continue
 
-        src = select_src(item, source_selector)
+        src = str(item.get("src", "")).strip()
         if not src:
             continue
 
@@ -109,11 +102,8 @@ def build_block() -> str:
     if mode == "full_image":
         return render_full_image_mode()
 
-    if mode == "links_listicons1_svg_gnlz":
-        return render_links_mode("gnlz")
-
-    if mode == "links_listicons1_svg_github":
-        return render_links_mode("github")
+    if mode in {"links_listicons1_svg_gnlz", "links_listicons1_svg_github"}:
+        return render_links_mode()
 
     return ""
 
