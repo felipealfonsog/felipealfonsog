@@ -35,8 +35,8 @@ def gnlz_is_alive() -> bool:
             status = getattr(response, "status", 200)
             if status < 200 or status >= 400:
                 return False
-            _ = response.read(128)
-            return True
+            chunk = response.read(256)
+            return len(chunk) > 0
     except (HTTPError, URLError, TimeoutError, Exception):
         return False
 
@@ -61,22 +61,31 @@ def load_links_json() -> list[dict]:
     return data
 
 
+def validate_link_item(item: dict, index: int) -> None:
+    if not isinstance(item, dict):
+        raise ValueError(f"Item #{index} must be an object.")
+
+    required_keys = {"href", "src", "alt"}
+    missing = [key for key in required_keys if key not in item]
+    if missing:
+        raise ValueError(f"Item #{index} is missing keys: {', '.join(missing)}")
+
+
 def render_links_mode() -> str:
     items = load_links_json()
     html_parts: list[str] = []
 
     for index, item in enumerate(items, start=1):
-        if not isinstance(item, dict):
-            raise ValueError(f"Item #{index} must be an object.")
+        validate_link_item(item, index)
 
-        href = str(item.get("href", "")).strip()
-        src = str(item.get("src", "")).strip()
-        alt = str(item.get("alt", "")).strip()
+        href = str(item["href"]).strip()
+        src = str(item["src"]).strip()
+        alt = str(item["alt"]).strip()
 
         if cfg.SKIP_HASH_LINKS and href == "#":
             continue
 
-        if not href or not src:
+        if not src:
             continue
 
         width = int(item.get("width", cfg.DEFAULT_ICON_WIDTH))
@@ -103,16 +112,14 @@ def render_full_image_mode() -> str:
 def build_block() -> str:
     mode = normalize_render_mode(cfg.RENDER_MODE)
 
-    # none = always empty
     if mode == "none":
         return ""
 
-    # IMPORTANT:
-    # full_image should NOT depend on gnlz health
+    # full_image MUST render even if gnlz healthcheck fails
     if mode == "full_image":
         return render_full_image_mode()
 
-    # only links modes depend on gnlz health rule
+    # links modes obey the gnlz-down => empty rule
     if mode in {"links_listicons4_svg_gnlz", "links_listicons4_svg_github"}:
         if cfg.FORCE_EMPTY_IF_GNLZ_DOWN and not gnlz_is_alive():
             return ""
@@ -126,9 +133,7 @@ def replace_between_markers(readme_text: str, new_content: str) -> str:
     end = readme_text.find(cfg.README_END_MARKER)
 
     if start == -1 or end == -1 or end < start:
-        raise RuntimeError(
-            f"README markers not found: {cfg.README_START_MARKER} / {cfg.README_END_MARKER}"
-        )
+        raise RuntimeError("README markers for List-icons4 not found or invalid.")
 
     insert_at = start + len(cfg.README_START_MARKER)
     return readme_text[:insert_at] + "\n" + new_content + "\n" + readme_text[end:]
