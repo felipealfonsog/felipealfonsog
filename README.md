@@ -230,7 +230,6 @@ https://github.com/felipealfonsog/felipealfonsog/blob/master/images/icons1inline
 
 -->
 
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/icons1inline-full.png" alt="icons" width="100%" height="100%"/></a>
 
 <!-- 
 <a href="https://en.wikipedia.org/wiki/Freemasonry" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/masoneria-logo.svg" alt="Freemasonry" width="40" height="40"/></a>
