@@ -1212,74 +1212,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 81%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Rama — Esqueletos
-Last played (UTC)         : 2026-04-16 02:07:12Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Rama — Comunicar
+Last played               : Rama — Comunicar
+Last played (UTC)         : 2026-04-16 12:34:37Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Rama — Esqueletos → Rama — Comunicar
+Δ last played (since last): 2026-04-16 02:07:12Z → 2026-04-16 12:34:37Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 07:45:19
-Telemetry age             : 07:45:19
-Δ time (since last report): 00:00:13
+Time since last play      : 00:04:38
+Telemetry age             : 00:04:38
+Δ time (since last report): 02:46:44
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 3
 Dominant artist           : Rama
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-09 09:52:31Z → 2026-04-16 09:52:31Z
-Total tracks played       : 41
+Week window (UTC)         : 2026-04-09 12:39:15Z → 2026-04-16 12:39:15Z
+Total tracks played       : 42
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
+Peak hour (24h)           : 08:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :             █         █ 
-Heatmap (7d)              : ▃      ▁▁   ▁       █▃▆▁
+Heatmap (24h)             :         █   █         █ 
+Heatmap (7d)              : ▃      ▁▂   ▁       █▃▆▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:21:41
+Sessions (24h)            : 3
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 03:32:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | hard rock(1) | nu metal(1) | post-grunge(1) | rap metal(1)
-Top genres (7d)           : grunge(33) | post-grunge(33) | nu metal(6) | rap metal(6) | alternative metal(5) | rock(5)
+Top genres (24h)          : nu metal(2) | rap metal(2) | grunge(1) | hard rock(1) | post-grunge(1)
+Top genres (7d)           : grunge(33) | post-grunge(33) | nu metal(7) | rap metal(7) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-16 09:52:31Z
+Report generated (UTC)    : 2026-04-16 12:39:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
