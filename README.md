@@ -325,6 +325,7 @@ ICONOS INICIALES INLINE SVG1
 
 
 
+<!--
 
 <a href="https://www.cia.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cia.svg" alt="CIA" width="40" height="40"/></a>
 <a href="https://www.nsa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_nsa.svg" alt="NSA" width="40" height="40"/></a>
@@ -344,6 +345,13 @@ ICONOS INICIALES INLINE SVG1
 <a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/pdilogoletters-modified.svg" alt="PDI" width="40" height="40"/></a>
 <a href="https://www.carabineros.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_os9_carabineros_rounded-modified.svg" alt="Carabineros de Chile OS9" width="40" height="40"/></a>
 <a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci-modified.svg" alt="ANCI Chile" width="40" height="40"/></a>
+
+-->
+# LIST ICONS CIA, NSA ETC
+
+<!-- LIST-ICONS2:START -->
+<!-- LIST-ICONS2:END -->
+
 
 <!-- 
 
