@@ -1212,30 +1212,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : ONLINE (idle session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 81%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Rama — Consecuencias
+Now playing               : N/A
 Last played               : Rama — Comunicar
 Last played (UTC)         : 2026-04-16 12:39:28Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-04-16 12:34:37Z → 2026-04-16 12:39:28Z
-Δ status (since last)     : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:30
-Telemetry age             : 00:00:30
-Δ time (since last report): 00:00:43
+Time since last play      : 00:05:41
+Telemetry age             : 00:05:41
+Δ time (since last report): 00:05:12
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1254,7 +1253,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-09 12:39:57Z → 2026-04-16 12:39:57Z
+Week window (UTC)         : 2026-04-09 12:45:08Z → 2026-04-16 12:45:08Z
 Total tracks played       : 43
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1280,7 +1279,7 @@ Top genres (24h)          : nu metal(3) | rap metal(3) | grunge(1) | hard rock(1
 Top genres (7d)           : grunge(33) | post-grunge(33) | nu metal(8) | rap metal(8) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-16 12:39:57Z
+Report generated (UTC)    : 2026-04-16 12:45:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
