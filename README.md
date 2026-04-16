@@ -273,7 +273,6 @@ ICONOS INICIALES INLINE SVG1
 -->
 
 <!-- LIST-ICONS1:START -->
-<img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons1inline-full.png" alt="List-icons1 inline strip" />
 <!-- LIST-ICONS1:END -->
 
 
