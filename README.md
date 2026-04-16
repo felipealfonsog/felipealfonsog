@@ -2325,6 +2325,7 @@ ICONS CYBER YML...
 -->
 
 <!-- LIST-ICONS4:START -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons4inline-cyber.png" alt="List-icons4 inline strip" /></a>
 <!-- LIST-ICONS4:END -->
 
 </details>
