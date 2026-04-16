@@ -117,9 +117,7 @@ def build_block() -> str:
     if mode == "none":
         return ""
 
-    # FIX:
-    # full_image NO debe morir por el healthcheck de gnlz
-    # porque su src viene desde GitHub/raw.
+    # full_image SIEMPRE debe renderizar desde GitHub/raw
     if mode == "full_image":
         return render_full_image_mode()
 
