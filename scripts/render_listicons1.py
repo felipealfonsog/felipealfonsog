@@ -35,8 +35,10 @@ def gnlz_is_alive() -> bool:
             status = getattr(response, "status", 200)
             if status < 200 or status >= 400:
                 return False
+
             chunk = response.read(512)
             return len(chunk) > 0
+
     except (HTTPError, URLError, TimeoutError, Exception):
         return False
 
@@ -49,8 +51,11 @@ def normalize_render_mode(value: str) -> str:
 
 
 def load_links_json() -> list[dict]:
-    with LINKS_JSON_PATH.open("r", encoding="utf-8") as f:
-        data = json.load(f)
+    if not LINKS_JSON_PATH.exists():
+        raise FileNotFoundError(f"JSON file not found: {LINKS_JSON_PATH}")
+
+    raw = LINKS_JSON_PATH.read_text(encoding="utf-8")
+    data = json.loads(raw)
 
     if not isinstance(data, list):
         raise ValueError("list-icons1-links.json must contain a JSON array.")
@@ -58,21 +63,42 @@ def load_links_json() -> list[dict]:
     return data
 
 
+def validate_link_item(item: dict, index: int) -> None:
+    if not isinstance(item, dict):
+        raise ValueError(f"Item #{index} must be an object.")
+
+    required_keys = {"href", "src", "alt"}
+    missing = [key for key in required_keys if key not in item]
+    if missing:
+        raise ValueError(f"Item #{index} is missing keys: {', '.join(missing)}")
+
+    if not isinstance(item["href"], str):
+        raise ValueError(f'Item #{index} key "href" must be a string.')
+
+    if not isinstance(item["src"], str):
+        raise ValueError(f'Item #{index} key "src" must be a string.')
+
+    if not isinstance(item["alt"], str):
+        raise ValueError(f'Item #{index} key "alt" must be a string.')
+
+
 def render_links_mode() -> str:
     items = load_links_json()
     html_parts: list[str] = []
 
-    for item in items:
-        href = str(item.get("href", "")).strip()
+    for index, item in enumerate(items, start=1):
+        validate_link_item(item, index)
+
+        href = item["href"].strip()
+        src = item["src"].strip()
+        alt = item["alt"].strip()
 
         if cfg.SKIP_HASH_LINKS and href == "#":
             continue
 
-        src = str(item.get("src", "")).strip()
         if not src:
             continue
 
-        alt = str(item.get("alt", "")).strip()
         width = int(item.get("width", cfg.DEFAULT_ICON_WIDTH))
         height = int(item.get("height", cfg.DEFAULT_ICON_HEIGHT))
 
@@ -87,14 +113,22 @@ def render_links_mode() -> str:
 
 
 def render_full_image_mode() -> str:
-    return f'<img src="{cfg.FULL_IMAGE_URL}" alt="List-icons1 inline strip" />'
+    target_attr = ' target="_blank"' if cfg.FULL_IMAGE_OPEN_IN_NEW_TAB else ""
+
+    return (
+        f'<a href="{cfg.FULL_IMAGE_LINK}"{target_attr}>'
+        f'<img src="{cfg.FULL_IMAGE_URL}" alt="{cfg.FULL_IMAGE_ALT}" />'
+        f'</a>'
+    )
 
 
 def build_block() -> str:
     mode = normalize_render_mode(cfg.RENDER_MODE)
 
-    if cfg.FORCE_EMPTY_IF_GNLZ_DOWN and not gnlz_is_alive():
-        return ""
+    if cfg.FORCE_EMPTY_IF_GNLZ_DOWN:
+        source_ok = gnlz_is_alive()
+        if not source_ok:
+            return ""
 
     if mode == "none":
         return ""
@@ -122,10 +156,6 @@ def replace_between_markers(readme_text: str, new_content: str) -> str:
 def main() -> int:
     if not README_PATH.exists():
         print(f"{cfg.README_PATH} not found.", file=sys.stderr)
-        return 1
-
-    if not LINKS_JSON_PATH.exists():
-        print(f"{cfg.LINKS_JSON_PATH} not found.", file=sys.stderr)
         return 1
 
     original = README_PATH.read_text(encoding="utf-8")
