@@ -268,6 +268,13 @@ https://github.com/felipealfonsog/felipealfonsog/blob/master/images/icons1inline
 <a href="https://www.instagram.com/todaslasmanos/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/tlmcl-circle.svg" alt="Movimiento Ciudadano Todas Las Manos de La Florida" width="40" height="40"/></a>
 -->
 
+<!--
+ICONOS INICIALES INLINE SVG1
+-->
+
+<!-- ICONS:START -->
+<!-- ICONS:END -->
+
 
 #
 
