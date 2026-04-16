@@ -50,7 +50,7 @@ RECENT_READ_LIMIT = 10
 # ============================================================
 # THREE OPTIONS
 # ============================================================
-OPTION1_COVERS_ONLY_ENABLED = True
+OPTION1_COVERS_ONLY_ENABLED = False
 OPTION2_CARD_TABLE_ENABLED = False
 OPTION3_CLI_ENABLED = True
 
@@ -82,7 +82,7 @@ VISUAL_SECTION_BOTTOM_SPACER_PX = 20
 # ============================================================
 # OPTION 1: COVERS ONLY
 # ============================================================
-OPTION1_SHOW_COVERS = False
+OPTION1_SHOW_COVERS = True
 
 OPTION1_COVER_WIDTH = 40
 OPTION1_COVER_HEIGHT = 60
