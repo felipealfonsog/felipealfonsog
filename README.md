@@ -2244,7 +2244,7 @@ ICONS TECH YML...
 <details>
   <summary>🛡️ Cybersecurity / Cyberintelligence Stack Badges* 🔒</summary>
   <br>
-<!--
+
 [![Tor](https://img.shields.io/badge/Tor-7E4798?style=plastic&logo=torproject&logoColor=white)](https://www.torproject.org/)
 [![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=plastic&logo=archlinux&logoColor=white)](https://blackarch.org/)
 [![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=plastic&logo=kalilinux&logoColor=white)](https://www.kali.org/)
@@ -2270,16 +2270,14 @@ ICONS TECH YML...
 [![Censys](https://img.shields.io/badge/Censys-FF6F61?style=plastic&logo=censys&logoColor=white)](https://censys.io/)
 [![Cortex](https://img.shields.io/badge/Cortex-FF6600?style=plastic&logo=elastic&logoColor=white)](https://www.cortex.io/)
 [![CISA](https://img.shields.io/badge/CISA-0052CC?style=plastic&logo=cisa&logoColor=white)](https://www.cisa.gov/)
--->
+
 
 
 <!--
 ICONS CYBER YML...
 -->
 
-<!-- LIST-ICONS4:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons4inline-cyber.png" alt="List-icons4 inline strip" /></a>
-<!-- LIST-ICONS4:END -->
+
 
 
 </details>
