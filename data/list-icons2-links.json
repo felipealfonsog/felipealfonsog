@@ -1,0 +1,128 @@
+[
+  {
+    "href": "https://www.cia.gov/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cia.svg",
+    "alt": "CIA",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.nsa.gov/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_nsa.svg",
+    "alt": "NSA",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.socom.mil/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jsoc.svg",
+    "alt": "JSOC",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.sis.gov.uk/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mi6_rounded-modified.svg",
+    "alt": "MI6",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.mossad.gov.il/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mossad.svg",
+    "alt": "MOSSAD",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.interpol.int/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_interpol_rounded.svg",
+    "alt": "INTERPOL",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://isfce.com/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_isfce.svg",
+    "alt": "ISFCE",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.cisa.gov/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cisa.svg",
+    "alt": "CISA",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.enisa.europa.eu/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa_rounded-modified.svg",
+    "alt": "ENISA",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.iadb.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg",
+    "alt": "Inter-American Development Bank",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://ccdcoe.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe-modified.svg",
+    "alt": "NATO CCDCOE",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://globalcybersecurity.ch/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA_logo2-modified.svg",
+    "alt": "GCA",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://jid.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jid-modified.svg",
+    "alt": "JID IADB",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.interior.gob.cl/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_ministerio_del_interior_chile.svg",
+    "alt": "Ministerio del Interior y Seguridad Pública de Chile",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Agencia_Nacional_de_Inteligencia",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile_rounded.svg",
+    "alt": "ANI Chile",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.pdichile.cl/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/pdilogoletters-modified.svg",
+    "alt": "PDI",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.carabineros.cl/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_os9_carabineros_rounded-modified.svg",
+    "alt": "Carabineros de Chile OS9",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://anci.gob.cl/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci-modified.svg",
+    "alt": "ANCI Chile",
+    "width": 40,
+    "height": 40
+  }
+]
