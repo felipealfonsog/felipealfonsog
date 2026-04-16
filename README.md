@@ -2233,6 +2233,8 @@ Powered by https://github.com/devicons/devicon
 ICONS TECH YML...
 -->
 
+<!-- LIST-ICONS3:START -->
+<!-- LIST-ICONS3:END -->
   
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
 
