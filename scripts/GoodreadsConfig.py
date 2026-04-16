@@ -54,7 +54,7 @@ OPTION1_COVERS_ONLY_ENABLED = False
 OPTION2_CARD_TABLE_ENABLED = False
 OPTION3_CLI_ENABLED = True
 
-PRESERVE_UNUSED_BLOCKS = True
+PRESERVE_UNUSED_BLOCKS = False
 
 
 # ============================================================
