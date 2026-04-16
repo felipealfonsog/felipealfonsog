@@ -50,7 +50,7 @@ RECENT_READ_LIMIT = 10
 # ============================================================
 # THREE OPTIONS
 # ============================================================
-OPTION1_COVERS_ONLY_ENABLED = True
+OPTION1_COVERS_ONLY_ENABLED = False
 OPTION2_CARD_TABLE_ENABLED = False
 OPTION3_CLI_ENABLED = True
 
