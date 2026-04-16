@@ -2234,6 +2234,7 @@ ICONS TECH YML...
 -->
 
 <!-- LIST-ICONS3:START -->
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons3inline-tech.png" alt="List-icons3 inline strip" /></a>
 <!-- LIST-ICONS3:END -->
   
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
