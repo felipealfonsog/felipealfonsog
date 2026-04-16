@@ -1,0 +1,492 @@
+[
+  {
+    "href": "https://www.json.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/json-original.svg",
+    "alt": "json",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.ruby-lang.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ruby-original-wordmark.svg",
+    "alt": "ruby",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://mariadb.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mariadb-original-wordmark.svg",
+    "alt": "mariadb",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://www.djangoproject.com/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/django-plain-wordmark.svg",
+    "alt": "django",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://angular.io/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/angularjs-original.svg",
+    "alt": "angular",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://rubyonrails.org/",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rails-original-wordmark.svg",
+    "alt": "ruby-on-rails",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Shell_script",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/bash-plain.svg",
+    "alt": "shell-script",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/amazonwebservices-original-wordmark.svg",
+    "alt": "aws",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Microsoft_Azure",
+    "src": "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg",
+    "alt": "azure",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Bash",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/bash-original.svg",
+    "alt": "bash",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Docker_(software)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/docker-original-wordmark.svg",
+    "alt": "docker",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Electron_(software_framework)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/electron-original.svg",
+    "alt": "electron",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Express.js",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/express-original-wordmark.svg",
+    "alt": "express",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Firebase",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/firebase-original.svg",
+    "alt": "firebase",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Markdown",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/markdown-original.svg",
+    "alt": "markdown",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/HTML5",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/html5-original.svg",
+    "alt": "html5",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/CSS",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/css3-original.svg",
+    "alt": "css3",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Google_Cloud_Platform",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/google_cloud-icon.svg",
+    "alt": "gcp",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Git",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/git-scm-icon.svg",
+    "alt": "git",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/GraphQL",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/graphql-plain.svg",
+    "alt": "graphql",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/JavaScript",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/javascript-original.svg",
+    "alt": "javascript",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/MongoDB",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mongodb-original-wordmark.svg",
+    "alt": "mongodb",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/PostgreSQL",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/postgresql-original.svg",
+    "alt": "postgresql",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/c-original.svg",
+    "alt": "c",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/python-original.svg",
+    "alt": "python",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/C%2B%2B",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/cplusplus-original.svg",
+    "alt": "c++",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Rust_(programming_language)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rust-original.svg",
+    "alt": "rust",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Raspberry_Pi",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/raspberrypi-original.svg",
+    "alt": "raspberrypi",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Perl",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-vertical.svg",
+    "alt": "Apple",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/React_(software)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/react-original-wordmark.svg",
+    "alt": "react",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/React_Native",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/header_logo.svg",
+    "alt": "reactnative",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/java-original.svg",
+    "alt": "java",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/TypeScript",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/typescript-original.svg",
+    "alt": "typescript",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/PHP",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/php-original.svg",
+    "alt": "php",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Vim_(text_editor)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/vim-original.svg",
+    "alt": "vim",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/GNU_Emacs",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/emacs-original.svg",
+    "alt": "emacs",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/vscode-original.svg",
+    "alt": "vscode",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Oracle_Database",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/oracle-original.svg",
+    "alt": "oracle",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/MySQL",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mysql-original-wordmark.svg",
+    "alt": "mysql",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/SQLite",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/sqlite-original-wordmark.svg",
+    "alt": "sqlite",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Deno_(software)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/denojs-original.svg",
+    "alt": "denojs",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Node.js",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/nodejs-original.svg",
+    "alt": "nodejs",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/JQuery",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/jquery-original-wordmark.svg",
+    "alt": "jquery",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Vue.js",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/vuejs-original-wordmark.svg",
+    "alt": "vuejs",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Next.js",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/nextjs-original-wordmark.svg",
+    "alt": "nextjs",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Heroku",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/heroku-original.svg",
+    "alt": "heroku",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Project_Jupyter",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/jupyter-original.svg",
+    "alt": "jupyter",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Redis",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/redis-original.svg",
+    "alt": "redis",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Software_as_a_service",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/sass-original.svg",
+    "alt": "sass",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/artificial-intelligence-ai-icon.svg",
+    "alt": "AI",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/LaTeX",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/latex-original.svg",
+    "alt": "latex",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/GitLab",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gitlab-original.svg",
+    "alt": "gitlab",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/GitHub",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/github-original.svg",
+    "alt": "github",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Open_Source_Initiative",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/opensource-icon.svg",
+    "alt": "opensource",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Free_Software_Foundation",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fsf-icon.svg",
+    "alt": "freesoftware",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org./wiki/Homebrew_(package_manager)",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/homebrew.svg",
+    "alt": "Homebrew",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Unix",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/unix-original.svg",
+    "alt": "Unix",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/FreeBSD",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/freebsd-icon.svg",
+    "alt": "freebsd",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Linux",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/linux-original.svg",
+    "alt": "linux",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Slackware",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/slackware.svg",
+    "alt": "slackware",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Red_Hat_Linux",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/redhat.svg",
+    "alt": "redhat",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Fedora_Linux",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fedora.svg",
+    "alt": "fedora",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Debian",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/debian-original.svg",
+    "alt": "debian",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Ubuntu",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ubuntu.svg",
+    "alt": "ubuntu",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://es.wikipedia.org/wiki/Manjaro_Linux",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logo-manjaro.svg",
+    "alt": "Manjaro",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://es.wikipedia.org/wiki/Mabox_Linux",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logomabox-linux.svg",
+    "alt": "Mabox",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Kali_Linux",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logo-kali.svg",
+    "alt": "kalilinux",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Arch_Linux",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/archlinux-original.svg",
+    "alt": "archlinux",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://es.wikipedia.org/wiki/MacOS",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/macos.svg",
+    "alt": "macOS",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "href": "https://en.wikipedia.org/wiki/Apple_Inc.",
+    "src": "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg",
+    "alt": "Apple",
+    "width": 40,
+    "height": 40
+  }
+]
