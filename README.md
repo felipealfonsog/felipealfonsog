@@ -1285,9 +1285,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 12:25:08
-Telemetry age             : 12:25:08
-Δ time (since last report): 03:27:15
+Time since last play      : 15:43:44
+Telemetry age             : 15:43:44
+Δ time (since last report): 03:18:37
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1299,14 +1299,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 2
 Dominant artist           : Rama
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-10 01:04:35Z → 2026-04-17 01:04:35Z
+Week window (UTC)         : 2026-04-10 04:23:12Z → 2026-04-17 04:23:12Z
 Total tracks played       : 43
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1316,23 +1316,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :         █             ▄ 
+Heatmap (24h)             :         █               
 Heatmap (7d)              : ▃      ▁▂   ▁       █▃▆▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 9
 Avg inter-play gap (7d)   : 03:27:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : nu metal(3) | rap metal(3)
+Top genres (24h)          : nu metal(2) | rap metal(2)
 Top genres (7d)           : grunge(33) | post-grunge(33) | nu metal(8) | rap metal(8) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-17 01:04:35Z
+Report generated (UTC)    : 2026-04-17 04:23:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
