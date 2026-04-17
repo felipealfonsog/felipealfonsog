@@ -1285,9 +1285,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 24:03:33
-Telemetry age             : 24:03:33
-Δ time (since last report): 00:00:15
+Time since last play      : 27:02:00
+Telemetry age             : 27:02:00
+Δ time (since last report): 02:58:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1306,8 +1306,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-10 12:43:00Z → 2026-04-17 12:43:00Z
-Total tracks played       : 42
+Week window (UTC)         : 2026-04-10 15:41:28Z → 2026-04-17 15:41:28Z
+Total tracks played       : 41
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1323,16 +1323,16 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:30:16
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 01:27:38
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : grunge(32) | post-grunge(32) | nu metal(8) | rap metal(8) | alternative metal(5) | rock(5)
+Top genres (7d)           : grunge(31) | post-grunge(31) | nu metal(8) | rap metal(8) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-17 12:43:00Z
+Report generated (UTC)    : 2026-04-17 15:41:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
