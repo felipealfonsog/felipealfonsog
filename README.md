@@ -1280,18 +1280,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Rama — Comunicar
-Last played               : Rama — Consecuencias
-Last played (UTC)         : 2026-04-18 19:50:10Z
+Now playing               : The Gathering — Shot to Pieces
+Last played               : The Gathering — Rollercoaster
+Last played (UTC)         : 2026-04-18 20:00:07Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Rama — Consecuencias → The Gathering — Rollercoaster
+Δ last played (since last): 2026-04-18 19:50:10Z → 2026-04-18 20:00:07Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:22
-Telemetry age             : 00:04:22
-Δ time (since last report): 00:02:45
+Time since last play      : 00:04:08
+Telemetry age             : 00:04:08
+Δ time (since last report): 00:09:43
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1303,14 +1303,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 28
+Tracks played (last 24h)  : 30
 Dominant artist           : Rama
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 19:54:32Z → 2026-04-18 19:54:32Z
+Week window (UTC)         : 2026-04-11 20:04:14Z → 2026-04-18 20:04:14Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1320,23 +1320,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :     ▁▂       ▃█▄        
-Heatmap (7d)              :     ▁▂  ▁   ▁▃█▄    ▇▄▁ 
+Heatmap (24h)             :     ▁▂       ▃█▄▁       
+Heatmap (7d)              :     ▁▂  ▁   ▁▃█▄▁   ▆▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:54:24
+Avg inter-play gap (7d)   : 01:54:27
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : nu metal(22) | rap metal(22) | doom metal(5) | gothic metal(5) | gothic rock(5) | progressive metal(5)
-Top genres (7d)           : nu metal(25) | rap metal(25) | grunge(18) | post-grunge(18) | doom metal(5) | gothic metal(5)
+Top genres (24h)          : nu metal(23) | rap metal(23) | doom metal(6) | gothic metal(6) | gothic rock(6) | progressive metal(6)
+Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(16) | post-grunge(16) | doom metal(6) | gothic metal(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 19:54:32Z
+Report generated (UTC)    : 2026-04-18 20:04:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
