@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-18 09:36:47Z",
+  "report_generated_utc": "2026-04-18 12:35:06Z",
   "status": "IDLE",
-  "last_track": "Rama — Esqueletos",
-  "last_played_utc": "2026-04-18 09:16:24Z",
+  "last_track": "The Ganjas — Frío Ni Calor",
+  "last_played_utc": "2026-04-18 09:42:15Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -681,6 +681,11 @@
     "5sPKdpazPYfN2NfvBwc1mF": [
       "nu metal",
       "rap metal"
+    ],
+    "5RMXXAoAm0xKC6hEovLyOr": [
+      "space rock",
+      "stoner rock",
+      "psychedelic rock"
     ]
   }
 }
