@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-18 18:55:16Z",
+  "report_generated_utc": "2026-04-18 19:08:37Z",
   "status": "PLAYING",
-  "last_track": "Rama — Untitled 01",
-  "last_played_utc": "2026-04-18 18:52:20Z",
+  "last_track": "The Gathering — Colorado Incident",
+  "last_played_utc": "2026-04-18 19:07:20Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -686,6 +686,13 @@
       "space rock",
       "stoner rock",
       "psychedelic rock"
+    ],
+    "2kO6zjt4a1OIqxOERhliEX": [
+      "gothic metal",
+      "symphonic metal",
+      "doom metal",
+      "gothic rock",
+      "progressive metal"
     ]
   }
 }
