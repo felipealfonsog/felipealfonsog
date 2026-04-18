@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-04-17_1818Z
+ snapshot_utc : 2026-04-18_1813Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -411,7 +411,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-17T15:30:56+00:00 | last_update=2026-04-17T15:30:56+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-18T15:20:22+00:00 | last_update=2026-04-18T15:20:22+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -487,13 +487,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 173 ms
-TTFB................ 171 ms
+LATENCY............. 147 ms
+TTFB................ 146 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 79d
+TLS_EXPIRY.......... 78d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -506,9 +506,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PARTIAL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -522,7 +522,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-04-17T09:40:44Z
+LAST_PROBE_UTC...... 2026-04-18T06:36:36Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -562,19 +562,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446601
-longitude      : -70.661929
-altitude       : 115 m
-gps_accuracy   : ±7.2 m
-heading        : 333°
-speed          : 0.6 km/h
-status         : stationary
+location       : pedestrian_axis
+latitude       : -33.437298
+longitude      : -70.646632
+altitude       : 119 m
+gps_accuracy   : ±7.3 m
+heading        : 90°
+speed          : 3.0 km/h
+status         : in_transit
 phase          : workday
-local_time     : 14:13
+local_time     : 14:07
 timezone       : America/Santiago
 signal         : strong
-updated_utc    : 2026-04-17 18:13:47 UTC
+updated_utc    : 2026-04-18 18:07:43 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -693,7 +693,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-17 12:43:44Z
+DSN snapshot (UTC)       : 2026-04-18 12:37:58Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -704,15 +704,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.764 AU
-Heliocentric distance    : 170.294 AU
-Relative speed           : 22.290 km/s
+Earth distance           : 25.40e9 km | 169.763 AU
+Heliocentric distance    : 170.304 AU
+Relative speed           : 22.465 km/s
 ------------------------------------------------------------
-One-way light time       : 23:31:53
-Round-trip latency       : 47:03:46
+One-way light time       : 23:31:52
+Round-trip latency       : 47:03:45
 ------------------------------------------------------------
-Δ distance (since last)  : -19,625 km
-Mission age              : 48 years, 236 days
+Δ distance (since last)  : -17,727 km
+Mission age              : 48 years, 237 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -723,19 +723,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.33e9 km | 142.554 AU
-Heliocentric distance    : 142.639 AU
-Relative speed           : 22.505 km/s
+Earth distance           : 21.33e9 km | 142.549 AU
+Heliocentric distance    : 142.648 AU
+Relative speed           : 22.508 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:35
-Round-trip latency       : 39:31:10
+One-way light time       : 19:45:33
+Round-trip latency       : 39:31:06
 ------------------------------------------------------------
-Δ distance (since last)  : -83,269 km
-Mission age              : 48 years, 252 days
+Δ distance (since last)  : -87,150 km
+Mission age              : 48 years, 253 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-17 12:43:47Z
+Report generated (UTC)   : 2026-04-18 12:38:02Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1196,8 +1196,9 @@ _)      \.___.,|     .'
 
 <details open>
 <summary id="spotify">
-<a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a>
-🎧 Currently or previously on Spotify ...
+<!-- 
+  <a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> -->
+   🎧 Currently or previously on Spotify  ...
 </summary>
 <br>
 
@@ -1217,7 +1218,14 @@ _)      \.___.,|     .'
 [![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 <!-- SPOTIFY-WIDGET-END -->
 
-[![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
+
+
+([![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)]
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]
+([![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
 
 <sub>Live Spotify widget rendered via an endpoint powered by the open-source project <a href="https://github.com/kittinan/spotify-github-profile">Spotify GitHub Profile</a>. If the widget appears blank or does not render, it likely corresponds to an endpoint error from that project, even if the watchdog action reports a passing status.</sub>
 
@@ -1272,74 +1280,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 81%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Rama — Comunicar
-Last played (UTC)         : 2026-04-16 12:39:28Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Rama — Fugitivos
+Last played               : Rama — Algo Empieza a Nacer
+Last played (UTC)         : 2026-04-18 17:58:47Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Rama — Consecuencias → Rama — Algo Empieza a Nacer
+Δ last played (since last): 2026-04-18 17:54:55Z → 2026-04-18 17:58:47Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 27:03:27
-Telemetry age             : 27:03:27
-Δ time (since last report): 00:00:13
+Time since last play      : 00:00:08
+Telemetry age             : 00:00:08
+Δ time (since last report): 00:02:40
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 9
+Dominant artist           : Rama
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-10 15:42:55Z → 2026-04-17 15:42:55Z
-Total tracks played       : 41
+Week window (UTC)         : 2026-04-11 17:58:55Z → 2026-04-18 17:58:55Z
+Total tracks played       : 49
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 13:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▃       ▂   ▁       █▃▆▁
+Heatmap (24h)             :     ▂▅       █          
+Heatmap (7d)              : ▃   ▁▂  ▂   ▁▃      █▃▅▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:27:38
+Sessions (24h)            : 3
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:19:36
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(31) | post-grunge(31) | nu metal(8) | rap metal(8) | alternative metal(5) | rock(5)
+Top genres (24h)          : nu metal(8) | rap metal(8) | psychedelic rock(1) | space rock(1) | stoner rock(1)
+Top genres (7d)           : grunge(30) | post-grunge(30) | nu metal(16) | rap metal(16) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-17 15:42:55Z
+Report generated (UTC)    : 2026-04-18 17:58:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1377,7 +1386,9 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 <br>
 
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Stats](https://img.shields.io/badge/Spotify-Profile-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/user/12133266428)
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Stats](https://img.shields.io/badge/Spotify-Profile%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428)
+
+
 
 #
 
@@ -1692,7 +1703,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 17 April 2026
+From: 04 December 2023 - To: 18 April 2026
 
 Total Time       : 1,013 hrs 34 mins
 Mostly coding in : Other
@@ -1703,7 +1714,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          384 hrs 9 mins ●●●●●●●●●◔○○○○○○○○○○○○○○○○  37.90 %
+Other          384 hrs 10 mins ●●●●●●●●●◔○○○○○○○○○○○○○○○○  37.90 %
 Bash           165 hrs 49 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.36 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.70 %
 HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.95 %
@@ -1716,14 +1727,14 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            778 hrs        ●●●●●●●●●●●●●●●●●●●◔○○○○○○  76.76 %
+Mac            778 hrs 1 min  ●●●●●●●●●●●●●●●●●●●◔○○○○○○  76.76 %
 Linux          619 hrs 43 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.14 %
 
 EDITORS
 -------
 VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.49 %
 Vim            329 hrs 3 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.47 %
-Firefox        321 hrs 51 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.76 %
+Firefox        321 hrs 52 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.76 %
 Terminal       18 hrs 57 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.87 %
 Spotify        13 hrs 7 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
 TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
@@ -1737,14 +1748,14 @@ Termius        3 hrs 30 mins  ○○○○○○○○○○○○○○○○�
 CATEGORIES
 ----------
 Coding         1,061 hrs 24 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       318 hrs 5 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.38 %
+Browsing       318 hrs 6 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.39 %
 Meeting        15 hrs 56 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.57 %
 Writing Docs   2 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.22 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 17/04/2026 17:23:36 UTC
+Last updated     : 18/04/2026 17:17:49 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2724,8 +2735,11 @@ All projects are distributed under their respective licenses as defined per repo
 <!-- ![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue) -->
 <!-- Last Updated: 2023-07-23 -->
 
-[![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org) [![Copilot Enabled](https://img.shields.io/badge/Copilot-Enabled-%23333F48.svg?style=plastic&logo=github-copilot&logoColor=white)](https://github.com/features/copilot) [![GitHub Actions Enabled](https://img.shields.io/badge/GitHub%20Actions-Enabled-%23333F48.svg?style=plastic&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org) [![GitHub Actions Enabled](https://img.shields.io/badge/GitHub%20Actions-Enabled-%23333F48.svg?style=plastic&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
+<!--
+[![Copilot Enabled](https://img.shields.io/badge/Copilot-Enabled-%23333F48.svg?style=plastic&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
+-->
 
 
 <sub>[[Top Home]](#hi-there-)</sub>
