@@ -1268,35 +1268,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : The Gathering — Amity
+Now playing               : N/A
 Last played               : The Gathering — Shot to Pieces
 Last played (UTC)         : 2026-04-18 20:04:17Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Gathering — Rollercoaster → The Gathering — Shot to Pieces
-Δ last played (since last): 2026-04-18 20:00:07Z → 2026-04-18 20:04:17Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:27
-Telemetry age             : 00:02:27
-Δ time (since last report): 00:02:30
+Time since last play      : 01:28:58
+Telemetry age             : 01:28:58
+Δ time (since last report): 01:26:32
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1310,7 +1309,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 20:06:43Z → 2026-04-18 20:06:43Z
+Week window (UTC)         : 2026-04-11 21:33:14Z → 2026-04-18 21:33:14Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1336,7 +1335,7 @@ Top genres (24h)          : nu metal(23) | rap metal(23) | doom metal(7) | gothi
 Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(15) | post-grunge(15) | doom metal(7) | gothic metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 20:06:43Z
+Report generated (UTC)    : 2026-04-18 21:33:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

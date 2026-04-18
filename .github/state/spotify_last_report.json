@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-04-18 20:06:43Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-04-18 21:33:14Z",
+  "status": "IDLE",
   "last_track": "The Gathering — Shot to Pieces",
   "last_played_utc": "2026-04-18 20:04:17Z",
-  "sitrep": "GREEN",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
