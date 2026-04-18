@@ -448,7 +448,7 @@ ICONOS INICIALES INLINE SVG1
 > <sub>*Goodreads Reading Intelligence — operational-style telemetry layer generated from <a href="https://www.goodreads.com/">Goodreads</a> shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
 > <sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
 
-[![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml)
+[![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml) [![Follow on Goodreads](https://img.shields.io/badge/Follow%20on-Goodreads-553B08?logo=goodreads&logoColor=white)](https://www.goodreads.com/felipealfonsog)
 
 #
 
@@ -686,7 +686,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-18 12:37:58Z
+DSN snapshot (UTC)       : 2026-04-18 18:37:32Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -698,13 +698,13 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.40e9 km | 169.763 AU
-Heliocentric distance    : 170.304 AU
-Relative speed           : 22.465 km/s
+Heliocentric distance    : 170.306 AU
+Relative speed           : 22.508 km/s
 ------------------------------------------------------------
 One-way light time       : 23:31:52
 Round-trip latency       : 47:03:45
 ------------------------------------------------------------
-Δ distance (since last)  : -17,727 km
+Δ distance (since last)  : -34,241 km
 Mission age              : 48 years, 237 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -716,19 +716,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.33e9 km | 142.549 AU
-Heliocentric distance    : 142.648 AU
-Relative speed           : 22.508 km/s
+Earth distance           : 21.32e9 km | 142.548 AU
+Heliocentric distance    : 142.650 AU
+Relative speed           : 22.509 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:33
-Round-trip latency       : 39:31:06
+One-way light time       : 19:45:32
+Round-trip latency       : 39:31:04
 ------------------------------------------------------------
-Δ distance (since last)  : -87,150 km
+Δ distance (since last)  : -173,609 km
 Mission age              : 48 years, 253 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-18 12:38:02Z
+Report generated (UTC)   : 2026-04-18 18:37:34Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1280,18 +1280,18 @@ Volume                    : 81%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : Rama — Dedicado
-Last played               : Rama — Alguien Más
-Last played (UTC)         : 2026-04-18 18:28:44Z
+Now playing               : Rama — Aura
+Last played               : Rama — Dedicado
+Last played (UTC)         : 2026-04-18 18:33:17Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Rama — Consecuencias → Rama — Alguien Más
-Δ last played (since last): 2026-04-18 18:20:37Z → 2026-04-18 18:28:44Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:27
-Telemetry age             : 00:02:27
-Δ time (since last report): 00:08:07
+Time since last play      : 00:02:53
+Telemetry age             : 00:02:53
+Δ time (since last report): 00:00:20
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1303,16 +1303,16 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
+Tracks played (last 24h)  : 17
 Dominant artist           : Rama
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 18:31:10Z → 2026-04-18 18:31:10Z
+Week window (UTC)         : 2026-04-11 18:36:09Z → 2026-04-18 18:36:09Z
 Total tracks played       : 49
-Dominant artist           : Silverchair
+Dominant artist           : Rama
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1320,23 +1320,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :     ▁▃       ▆█         
-Heatmap (7d)              : ▃   ▁▂  ▂   ▁▃▄     █▃▁▁
+Heatmap (24h)             :     ▁▃       ▅█         
+Heatmap (7d)              : ▃   ▁▂  ▂   ▁▃▅     █▃▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:19:37
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 02:18:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : nu metal(15) | rap metal(15) | psychedelic rock(1) | space rock(1) | stoner rock(1)
-Top genres (7d)           : grunge(23) | nu metal(23) | post-grunge(23) | rap metal(23) | alternative metal(5) | rock(5)
+Top genres (24h)          : nu metal(16) | rap metal(16) | psychedelic rock(1) | space rock(1) | stoner rock(1)
+Top genres (7d)           : nu metal(24) | rap metal(24) | grunge(22) | post-grunge(22) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 18:31:10Z
+Report generated (UTC)    : 2026-04-18 18:36:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
