@@ -1215,7 +1215,7 @@ _)      \.___.,|     .'
 
 
 ([![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)]
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-000000?style=plastic&logo=spotify&logoColor=1DB954)]
 [![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
 [![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]
 ([![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
@@ -1379,7 +1379,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 <br>
 
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Stats](https://img.shields.io/badge/Spotify-Profile%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428)
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Stats](https://img.shields.io/badge/Spotify-Profile%20Telemetry-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428)
 
 
 
