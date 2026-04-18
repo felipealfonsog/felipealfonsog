@@ -1277,18 +1277,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Rama — Comunicar
-Last played               : Rama — Consecuencias
-Last played (UTC)         : 2026-04-18 08:58:31Z
+Now playing               : Rama — Esqueletos
+Last played               : Rama — Comunicar
+Last played (UTC)         : 2026-04-18 09:10:32Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Rama — Consecuencias → Rama — Comunicar
+Δ last played (since last): 2026-04-18 08:58:31Z → 2026-04-18 09:10:32Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:11:04
-Telemetry age             : 00:11:04
-Δ time (since last report): 00:01:36
+Time since last play      : 00:01:49
+Telemetry age             : 00:01:49
+Δ time (since last report): 00:02:47
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1300,15 +1300,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 2
 Dominant artist           : Rama
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 09:09:34Z → 2026-04-18 09:09:34Z
-Total tracks played       : 42
+Week window (UTC)         : 2026-04-11 09:12:21Z → 2026-04-18 09:12:21Z
+Total tracks played       : 43
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1317,23 +1317,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :     █                   
-Heatmap (7d)              : ▃   ▁   ▂   ▁       █▃▆▁
+Heatmap (24h)             :     ██                  
+Heatmap (7d)              : ▃   ▁▁  ▂   ▁       █▃▆▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:30:21
+Avg inter-play gap (7d)   : 02:27:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : nu metal(1) | rap metal(1)
-Top genres (7d)           : grunge(31) | post-grunge(31) | nu metal(9) | rap metal(9) | alternative metal(5) | rock(5)
+Top genres (24h)          : nu metal(2) | rap metal(2)
+Top genres (7d)           : grunge(31) | post-grunge(31) | nu metal(10) | rap metal(10) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 09:09:34Z
+Report generated (UTC)    : 2026-04-18 09:12:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
