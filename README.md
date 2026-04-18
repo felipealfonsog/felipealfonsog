@@ -1278,18 +1278,18 @@ Volume                    : 81%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : Rama — Consecuencias
-Last played               : Rama — Comunicar
-Last played (UTC)         : 2026-04-18 17:51:09Z
+Now playing               : Rama — Algo Empieza a Nacer
+Last played               : Rama — Consecuencias
+Last played (UTC)         : 2026-04-18 17:54:55Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : The Ganjas — Frío Ni Calor → Rama — Comunicar
-Δ last played (since last): 2026-04-18 09:42:15Z → 2026-04-18 17:51:09Z
+Δ track (since last)      : Rama — Comunicar → Rama — Consecuencias
+Δ last played (since last): 2026-04-18 17:51:09Z → 2026-04-18 17:54:55Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:35
-Telemetry age             : 00:03:35
-Δ time (since last report): 00:15:13
+Time since last play      : 00:01:21
+Telemetry age             : 00:01:21
+Δ time (since last report): 00:01:32
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1301,24 +1301,24 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 7
+Tracks played (last 24h)  : 8
 Dominant artist           : Rama
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 17:54:44Z → 2026-04-18 17:54:44Z
-Total tracks played       : 48
+Week window (UTC)         : 2026-04-11 17:56:15Z → 2026-04-18 17:56:15Z
+Total tracks played       : 49
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 05:00
+Peak hour (24h)           : 13:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :     ▃█       █          
+Heatmap (24h)             :     ▂▆       █          
 Heatmap (7d)              : ▃   ▁▂  ▂   ▁▂      █▃▆▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -1326,15 +1326,15 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:22:30
+Avg inter-play gap (7d)   : 02:19:36
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : nu metal(6) | rap metal(6) | psychedelic rock(1) | space rock(1) | stoner rock(1)
-Top genres (7d)           : grunge(31) | post-grunge(31) | nu metal(14) | rap metal(14) | alternative metal(5) | rock(5)
+Top genres (24h)          : nu metal(7) | rap metal(7) | psychedelic rock(1) | space rock(1) | stoner rock(1)
+Top genres (7d)           : grunge(31) | post-grunge(31) | nu metal(15) | rap metal(15) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 17:54:44Z
+Report generated (UTC)    : 2026-04-18 17:56:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
