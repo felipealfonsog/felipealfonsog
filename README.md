@@ -1213,6 +1213,13 @@ _)      \.___.,|     .'
 
 [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
 
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428)
+
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://www.spotify.com/)
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://www.spotify.com/)
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://www.spotify.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com/)
+
 <sub>Live Spotify widget rendered via an endpoint powered by the open-source project <a href="https://github.com/kittinan/spotify-github-profile">Spotify GitHub Profile</a>. If the widget appears blank or does not render, it likely corresponds to an endpoint error from that project, even if the watchdog action reports a passing status.</sub>
 
 <br>
