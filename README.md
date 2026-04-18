@@ -1282,13 +1282,13 @@ Last played               : Rama — Consecuencias
 Last played (UTC)         : 2026-04-18 08:58:31Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Rama — Comunicar → Rama — Consecuencias
-Δ last played (since last): 2026-04-16 12:39:28Z → 2026-04-18 08:58:31Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:09:28
-Telemetry age             : 00:09:28
-Δ time (since last report): 02:19:45
+Time since last play      : 00:11:04
+Telemetry age             : 00:11:04
+Δ time (since last report): 00:01:36
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1307,7 +1307,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 09:07:59Z → 2026-04-18 09:07:59Z
+Week window (UTC)         : 2026-04-11 09:09:34Z → 2026-04-18 09:09:34Z
 Total tracks played       : 42
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1333,7 +1333,7 @@ Top genres (24h)          : nu metal(1) | rap metal(1)
 Top genres (7d)           : grunge(31) | post-grunge(31) | nu metal(9) | rap metal(9) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 09:07:59Z
+Report generated (UTC)    : 2026-04-18 09:09:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
