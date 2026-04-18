@@ -1274,24 +1274,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 81%
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : The Gathering — Strange Machines
-Last played               : The Gathering — Beautiful War
-Last played (UTC)         : 2026-04-18 19:09:53Z
+Now playing               : Rama — Consecuencias
+Last played               : Rama — Comunicar
+Last played (UTC)         : 2026-04-18 19:46:32Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : The Gathering — Colorado Incident → The Gathering — Beautiful War
-Δ last played (since last): 2026-04-18 19:07:20Z → 2026-04-18 19:09:53Z
+Δ track (since last)      : The Gathering — Beautiful War → Rama — Comunicar
+Δ last played (since last): 2026-04-18 19:09:53Z → 2026-04-18 19:46:32Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:10
-Telemetry age             : 00:01:10
-Δ time (since last report): 00:02:26
+Time since last play      : 00:03:23
+Telemetry age             : 00:03:23
+Δ time (since last report): 00:38:53
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1303,14 +1303,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
+Tracks played (last 24h)  : 27
 Dominant artist           : Rama
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 19:11:02Z → 2026-04-18 19:11:02Z
+Week window (UTC)         : 2026-04-11 19:49:55Z → 2026-04-18 19:49:55Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1319,24 +1319,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
-Peak hour (7d)            : 20:00
-Heatmap (24h)             :     ▁▂       ▃█▂        
-Heatmap (7d)              :     ▁▂  ▁   ▁▃▇▂    █▃▁ 
+Peak hour (7d)            : 14:00
+Heatmap (24h)             :     ▁▂       ▃█▃        
+Heatmap (7d)              :     ▁▂  ▁   ▁▃█▃    ▇▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:53:51
+Sessions (24h)            : 4
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 01:54:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : nu metal(20) | rap metal(20) | doom metal(4) | gothic metal(4) | gothic rock(4) | progressive metal(4)
-Top genres (7d)           : nu metal(23) | rap metal(23) | grunge(21) | post-grunge(21) | doom metal(4) | gothic metal(4)
+Top genres (24h)          : nu metal(21) | rap metal(21) | doom metal(5) | gothic metal(5) | gothic rock(5) | progressive metal(5)
+Top genres (7d)           : nu metal(24) | rap metal(24) | grunge(19) | post-grunge(19) | doom metal(5) | gothic metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 19:11:02Z
+Report generated (UTC)    : 2026-04-18 19:49:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
