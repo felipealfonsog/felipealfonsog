@@ -1285,13 +1285,13 @@ Last played               : Rama — Consecuencias
 Last played (UTC)         : 2026-04-18 19:50:10Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Rama — Comunicar → Rama — Consecuencias
-Δ last played (since last): 2026-04-18 19:46:32Z → 2026-04-18 19:50:10Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:38
-Telemetry age             : 00:01:38
-Δ time (since last report): 00:01:53
+Time since last play      : 00:04:22
+Telemetry age             : 00:04:22
+Δ time (since last report): 00:02:45
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1310,7 +1310,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 19:51:47Z → 2026-04-18 19:51:47Z
+Week window (UTC)         : 2026-04-11 19:54:32Z → 2026-04-18 19:54:32Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1336,7 +1336,7 @@ Top genres (24h)          : nu metal(22) | rap metal(22) | doom metal(5) | gothi
 Top genres (7d)           : nu metal(25) | rap metal(25) | grunge(18) | post-grunge(18) | doom metal(5) | gothic metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 19:51:47Z
+Report generated (UTC)    : 2026-04-18 19:54:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
