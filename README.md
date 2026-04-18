@@ -1281,13 +1281,13 @@ Last played               : The Ganjas — Frío Ni Calor
 Last played (UTC)         : 2026-04-18 09:42:15Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Rama — Esqueletos → The Ganjas — Frío Ni Calor
-Δ last played (since last): 2026-04-18 09:16:24Z → 2026-04-18 09:42:15Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:52:52
-Telemetry age             : 02:52:52
-Δ time (since last report): 02:58:20
+Time since last play      : 02:54:07
+Telemetry age             : 02:54:07
+Δ time (since last report): 00:01:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1306,7 +1306,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 12:35:06Z → 2026-04-18 12:35:06Z
+Week window (UTC)         : 2026-04-11 12:36:22Z → 2026-04-18 12:36:22Z
 Total tracks played       : 45
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1330,9 +1330,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : nu metal(3) | rap metal(3) | psychedelic rock(1) | space rock(1) | stoner rock(1)
 Top genres (7d)           : grunge(31) | post-grunge(31) | nu metal(11) | rap metal(11) | alternative metal(5) | rock(5)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 12:35:06Z
+Report generated (UTC)    : 2026-04-18 12:36:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
