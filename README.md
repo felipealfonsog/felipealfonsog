@@ -1285,13 +1285,13 @@ Last played               : Rama — Dedicado
 Last played (UTC)         : 2026-04-18 18:33:17Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Rama — Alguien Más → Rama — Dedicado
-Δ last played (since last): 2026-04-18 18:28:44Z → 2026-04-18 18:33:17Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:24
-Telemetry age             : 00:01:24
-Δ time (since last report): 00:03:31
+Time since last play      : 00:02:33
+Telemetry age             : 00:02:33
+Δ time (since last report): 00:01:10
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1310,7 +1310,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 18:34:40Z → 2026-04-18 18:34:40Z
+Week window (UTC)         : 2026-04-11 18:35:50Z → 2026-04-18 18:35:50Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1336,7 +1336,7 @@ Top genres (24h)          : nu metal(16) | rap metal(16) | psychedelic rock(1) |
 Top genres (7d)           : nu metal(24) | rap metal(24) | grunge(22) | post-grunge(22) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 18:34:40Z
+Report generated (UTC)    : 2026-04-18 18:35:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
