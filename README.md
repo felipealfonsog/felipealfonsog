@@ -1189,7 +1189,7 @@ _)      \.___.,|     .'
 
 <details open>
 <summary id="spotify">
-<a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> 🎧 Currently or previously on Spotify ...
+<a href="#"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/spotify.svg" alt="Spotify" width="16" height="16"/></a> Currently or previously on Spotify 🎧 ...
 </summary>
 <br>
 
