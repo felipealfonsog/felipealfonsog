@@ -1265,34 +1265,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 81%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Rama — Comunicar
 Last played               : The Ganjas — Frío Ni Calor
 Last played (UTC)         : 2026-04-18 09:42:15Z
-Last activity type        : NO_ACTIVE_SESSION
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 05:54:18
-Telemetry age             : 05:54:18
-Δ time (since last report): 00:01:11
+Time since last play      : 07:57:16
+Telemetry age             : 07:57:16
+Δ time (since last report): 02:02:59
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1306,7 +1307,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 15:36:32Z → 2026-04-18 15:36:32Z
+Week window (UTC)         : 2026-04-11 17:39:31Z → 2026-04-18 17:39:31Z
 Total tracks played       : 45
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1332,7 +1333,7 @@ Top genres (24h)          : nu metal(3) | rap metal(3) | psychedelic rock(1) | s
 Top genres (7d)           : grunge(31) | post-grunge(31) | nu metal(11) | rap metal(11) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 15:36:32Z
+Report generated (UTC)    : 2026-04-18 17:39:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
