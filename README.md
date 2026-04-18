@@ -1211,13 +1211,14 @@ _)      \.___.,|     .'
 [![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 <!-- SPOTIFY-WIDGET-END -->
 
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
 
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428)
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=flat&logo=spotify&logoColor=white)]
+
 ([![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)]([![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
-[![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)]
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]
+([![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428))
 
 <sub>Live Spotify widget rendered via an endpoint powered by the open-source project <a href="https://github.com/kittinan/spotify-github-profile">Spotify GitHub Profile</a>. If the widget appears blank or does not render, it likely corresponds to an endpoint error from that project, even if the watchdog action reports a passing status.</sub>
 
