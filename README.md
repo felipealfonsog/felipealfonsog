@@ -1280,18 +1280,18 @@ Volume                    : 81%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : Rama — Misión
-Last played               : Rama — Aura
-Last played (UTC)         : 2026-04-18 18:39:36Z
+Now playing               : Rama — Rompeolas
+Last played               : Rama — Misión
+Last played (UTC)         : 2026-04-18 18:43:48Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Rama — Dedicado → Rama — Aura
-Δ last played (since last): 2026-04-18 18:33:17Z → 2026-04-18 18:39:36Z
+Δ track (since last)      : Rama — Aura → Rama — Misión
+Δ last played (since last): 2026-04-18 18:39:36Z → 2026-04-18 18:43:48Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:01
-Telemetry age             : 00:04:01
-Δ time (since last report): 00:07:28
+Time since last play      : 00:02:47
+Telemetry age             : 00:02:47
+Δ time (since last report): 00:02:58
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1303,14 +1303,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 18
+Tracks played (last 24h)  : 19
 Dominant artist           : Rama
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 18:43:37Z → 2026-04-18 18:43:37Z
+Week window (UTC)         : 2026-04-11 18:46:34Z → 2026-04-18 18:46:34Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1320,23 +1320,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :     ▁▃       ▄█         
-Heatmap (7d)              : ▃   ▁▂  ▂   ▁▃▅     █▃▁ 
+Heatmap (24h)             :     ▁▂       ▄█         
+Heatmap (7d)              : ▃   ▁▂  ▂   ▁▃▆     █▃▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:18:16
+Avg inter-play gap (7d)   : 02:18:13
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : nu metal(17) | rap metal(17) | psychedelic rock(1) | space rock(1) | stoner rock(1)
-Top genres (7d)           : nu metal(25) | rap metal(25) | grunge(22) | post-grunge(22) | alternative metal(5) | rock(5)
+Top genres (24h)          : nu metal(18) | rap metal(18) | psychedelic rock(1) | space rock(1) | stoner rock(1)
+Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(22) | post-grunge(22) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 18:43:37Z
+Report generated (UTC)    : 2026-04-18 18:46:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
