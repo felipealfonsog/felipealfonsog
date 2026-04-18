@@ -1280,18 +1280,18 @@ Volume                    : 81%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : Rama — Dedicado
-Last played               : Rama — Alguien Más
-Last played (UTC)         : 2026-04-18 18:28:44Z
+Now playing               : Rama — Aura
+Last played               : Rama — Dedicado
+Last played (UTC)         : 2026-04-18 18:33:17Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Rama — Consecuencias → Rama — Alguien Más
-Δ last played (since last): 2026-04-18 18:20:37Z → 2026-04-18 18:28:44Z
+Δ track (since last)      : Rama — Alguien Más → Rama — Dedicado
+Δ last played (since last): 2026-04-18 18:28:44Z → 2026-04-18 18:33:17Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:27
-Telemetry age             : 00:02:27
-Δ time (since last report): 00:08:07
+Time since last play      : 00:01:24
+Telemetry age             : 00:01:24
+Δ time (since last report): 00:03:31
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1303,16 +1303,16 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
+Tracks played (last 24h)  : 17
 Dominant artist           : Rama
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-11 18:31:10Z → 2026-04-18 18:31:10Z
+Week window (UTC)         : 2026-04-11 18:34:40Z → 2026-04-18 18:34:40Z
 Total tracks played       : 49
-Dominant artist           : Silverchair
+Dominant artist           : Rama
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1320,23 +1320,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :     ▁▃       ▆█         
-Heatmap (7d)              : ▃   ▁▂  ▂   ▁▃▄     █▃▁▁
+Heatmap (24h)             :     ▁▃       ▅█         
+Heatmap (7d)              : ▃   ▁▂  ▂   ▁▃▅     █▃▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:19:37
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 02:18:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : nu metal(15) | rap metal(15) | psychedelic rock(1) | space rock(1) | stoner rock(1)
-Top genres (7d)           : grunge(23) | nu metal(23) | post-grunge(23) | rap metal(23) | alternative metal(5) | rock(5)
+Top genres (24h)          : nu metal(16) | rap metal(16) | psychedelic rock(1) | space rock(1) | stoner rock(1)
+Top genres (7d)           : nu metal(24) | rap metal(24) | grunge(22) | post-grunge(22) | alternative metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-18 18:31:10Z
+Report generated (UTC)    : 2026-04-18 18:34:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
