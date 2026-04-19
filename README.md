@@ -1280,17 +1280,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : The Gathering — Shot to Pieces
-Last played (UTC)         : 2026-04-18 20:04:17Z
+Last played               : JamTracksMania — 2-5-1 Jazz Practice in B-Flat Major (Bossa Style Backing Track)
+Last played (UTC)         : 2026-04-19 08:43:41Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : The Gathering — Shot to Pieces → JamTracksMania — 2-5-1 Jazz Practice in B-Flat Major (Bossa Style Backing Track)
+Δ last played (since last): 2026-04-18 20:04:17Z → 2026-04-19 08:43:41Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:50:18
-Telemetry age             : 10:50:18
-Δ time (since last report): 00:00:31
+Time since last play      : 00:51:44
+Telemetry age             : 00:51:44
+Δ time (since last report): 02:40:51
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1309,7 +1309,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-12 06:54:34Z → 2026-04-19 06:54:34Z
+Week window (UTC)         : 2026-04-12 09:35:24Z → 2026-04-19 09:35:24Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1319,23 +1319,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :     ▁▂       ▃█▄▁       
-Heatmap (7d)              :     ▁▂  ▁   ▁▃█▄▁   ▅▄▁ 
+Heatmap (24h)             :    ▁▁▁       ▃█▄▁       
+Heatmap (7d)              :    ▁▁▂  ▁   ▁▃█▄▁   ▃▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:54:29
+Sessions (24h)            : 5
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:10:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : nu metal(23) | rap metal(23) | doom metal(7) | gothic metal(7) | gothic rock(7) | progressive metal(7)
-Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(15) | post-grunge(15) | doom metal(7) | gothic metal(7)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : nu metal(20) | rap metal(20) | doom metal(8) | gothic metal(8) | gothic rock(8) | progressive metal(8)
+Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(12) | post-grunge(12) | doom metal(8) | gothic metal(8)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-19 06:54:34Z
+Report generated (UTC)    : 2026-04-19 09:35:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

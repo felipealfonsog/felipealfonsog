@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-19 06:54:34Z",
+  "report_generated_utc": "2026-04-19 09:35:24Z",
   "status": "IDLE",
-  "last_track": "The Gathering — Shot to Pieces",
-  "last_played_utc": "2026-04-18 20:04:17Z",
+  "last_track": "JamTracksMania — 2-5-1 Jazz Practice in B-Flat Major (Bossa Style Backing Track)",
+  "last_played_utc": "2026-04-19 08:43:41Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -693,6 +693,10 @@
       "doom metal",
       "gothic rock",
       "progressive metal"
+    ],
+    "6D02iVU7zm1eL77nHiBX2o": [],
+    "0Wehs7ZKqo4s5X8WuwhQyx": [
+      "blues"
     ]
   }
 }
