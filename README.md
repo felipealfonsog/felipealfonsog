@@ -1288,9 +1288,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:53:17
-Telemetry age             : 00:53:17
-Δ time (since last report): 00:00:36
+Time since last play      : 03:51:28
+Telemetry age             : 03:51:28
+Δ time (since last report): 02:58:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1302,14 +1302,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 31
+Tracks played (last 24h)  : 30
 Dominant artist           : Rama
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-12 09:36:58Z → 2026-04-19 09:36:58Z
+Week window (UTC)         : 2026-04-12 12:35:09Z → 2026-04-19 12:35:09Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1319,13 +1319,13 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :    ▁▁▁       ▃█▄▁       
+Heatmap (24h)             :    ▁▁        ▃█▄▁       
 Heatmap (7d)              :    ▁▁▂  ▁   ▁▃█▄▁   ▃▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 4
 Sessions (7d)             : 10
 Avg inter-play gap (7d)   : 02:10:02
 ------------------------------------------------------------
@@ -1335,7 +1335,7 @@ Top genres (24h)          : nu metal(20) | rap metal(20) | doom metal(8) | gothi
 Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(12) | post-grunge(12) | doom metal(8) | gothic metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-19 09:36:58Z
+Report generated (UTC)    : 2026-04-19 12:35:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
