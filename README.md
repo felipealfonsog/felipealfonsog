@@ -1288,9 +1288,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:23:13
-Telemetry age             : 22:23:13
-Δ time (since last report): 02:38:35
+Time since last play      : 22:23:29
+Telemetry age             : 22:23:29
+Δ time (since last report): 00:00:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1309,7 +1309,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-13 07:06:54Z → 2026-04-20 07:06:54Z
+Week window (UTC)         : 2026-04-13 07:07:10Z → 2026-04-20 07:07:10Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1335,7 +1335,7 @@ Top genres (24h)          : blues(1) | doom metal(1) | gothic metal(1) | gothic 
 Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(12) | post-grunge(12) | doom metal(8) | gothic metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-20 07:06:54Z
+Report generated (UTC)    : 2026-04-20 07:07:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
