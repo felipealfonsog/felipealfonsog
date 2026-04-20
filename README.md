@@ -1280,17 +1280,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : JamTracksMania — 2-5-1 Jazz Practice in B-Flat Major (Bossa Style Backing Track)
-Last played (UTC)         : 2026-04-19 08:43:41Z
+Last played               : Silverchair — Israel's Son
+Last played (UTC)         : 2026-04-20 08:37:36Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : JamTracksMania — 2-5-1 Jazz Practice in B-Flat Major (Bossa Style Backing Track) → Silverchair — Israel's Son
+Δ last played (since last): 2026-04-19 08:43:41Z → 2026-04-20 08:37:36Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:24:53
-Telemetry age             : 22:24:53
-Δ time (since last report): 00:01:24
+Time since last play      : 01:24:51
+Telemetry age             : 01:24:51
+Δ time (since last report): 02:53:53
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1302,14 +1302,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
-Dominant artist           : JamTracksMania
+Tracks played (last 24h)  : 1
+Dominant artist           : Silverchair
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-13 07:08:34Z → 2026-04-20 07:08:34Z
+Week window (UTC)         : 2026-04-13 10:02:26Z → 2026-04-20 10:02:26Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1317,25 +1317,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :    █▄                   
-Heatmap (7d)              :    ▁▁▂  ▁   ▁▃█▄▁   ▃▄▁ 
+Heatmap (24h)             :     █                   
+Heatmap (7d)              :    ▁▂▂  ▁   ▁▃█▄▁   ▂▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:10:02
+Sessions (24h)            : 1
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:39:51
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : blues(1) | doom metal(1) | gothic metal(1) | gothic rock(1) | progressive metal(1) | symphonic metal(1)
+Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(12) | post-grunge(12) | doom metal(8) | gothic metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-20 07:08:34Z
+Report generated (UTC)    : 2026-04-20 10:02:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
