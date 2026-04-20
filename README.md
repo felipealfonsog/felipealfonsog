@@ -1284,13 +1284,13 @@ Last played               : Silverchair — Israel's Son
 Last played (UTC)         : 2026-04-20 08:37:36Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : JamTracksMania — 2-5-1 Jazz Practice in B-Flat Major (Bossa Style Backing Track) → Silverchair — Israel's Son
-Δ last played (since last): 2026-04-19 08:43:41Z → 2026-04-20 08:37:36Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:24:51
-Telemetry age             : 01:24:51
-Δ time (since last report): 02:53:53
+Time since last play      : 01:26:11
+Telemetry age             : 01:26:11
+Δ time (since last report): 00:01:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1309,7 +1309,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-13 10:02:26Z → 2026-04-20 10:02:26Z
+Week window (UTC)         : 2026-04-13 10:03:46Z → 2026-04-20 10:03:46Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1335,7 +1335,7 @@ Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(12) | post-grunge(12) | doom metal(8) | gothic metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-20 10:02:26Z
+Report generated (UTC)    : 2026-04-20 10:03:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
