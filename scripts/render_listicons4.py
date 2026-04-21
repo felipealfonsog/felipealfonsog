@@ -115,11 +115,9 @@ def build_block() -> str:
     if mode == "none":
         return ""
 
-    # full_image MUST render even if gnlz healthcheck fails
     if mode == "full_image":
         return render_full_image_mode()
 
-    # links modes obey the gnlz-down => empty rule
     if mode in {"links_listicons4_svg_gnlz", "links_listicons4_svg_github"}:
         if cfg.FORCE_EMPTY_IF_GNLZ_DOWN and not gnlz_is_alive():
             return ""
