@@ -1280,17 +1280,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — Israel's Son
-Last played (UTC)         : 2026-04-20 08:37:36Z
+Last played               : The Gathering — Eleanor
+Last played (UTC)         : 2026-04-21 00:25:58Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Silverchair — Israel's Son → The Gathering — Eleanor
+Δ last played (since last): 2026-04-20 08:37:36Z → 2026-04-21 00:25:58Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:00:26
-Telemetry age             : 13:00:26
-Δ time (since last report): 00:01:16
+Time since last play      : 00:38:21
+Telemetry age             : 00:38:21
+Δ time (since last report): 03:26:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1302,14 +1302,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 2
+Dominant artist           : The Gathering
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-13 21:38:02Z → 2026-04-20 21:38:02Z
+Week window (UTC)         : 2026-04-14 01:04:18Z → 2026-04-21 01:04:18Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1319,23 +1319,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :     █                   
+Heatmap (24h)             :     █               █   
 Heatmap (7d)              :    ▁▂▂  ▁   ▁▃█▄▁   ▂▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:39:51
+Sessions (24h)            : 2
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 02:59:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
-Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(12) | post-grunge(12) | doom metal(8) | gothic metal(8)
+Top genres (24h)          : doom metal(1) | gothic metal(1) | gothic rock(1) | grunge(1) | post-grunge(1) | progressive metal(1)
+Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(11) | post-grunge(11) | doom metal(9) | gothic metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-20 21:38:02Z
+Report generated (UTC)    : 2026-04-21 01:04:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
