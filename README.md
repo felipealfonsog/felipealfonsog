@@ -1287,13 +1287,13 @@ Last played               : The Gathering — Eleanor
 Last played (UTC)         : 2026-04-21 00:25:58Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Israel's Son → The Gathering — Eleanor
-Δ last played (since last): 2026-04-20 08:37:36Z → 2026-04-21 00:25:58Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:38:21
-Telemetry age             : 00:38:21
-Δ time (since last report): 03:26:17
+Time since last play      : 03:56:11
+Telemetry age             : 03:56:11
+Δ time (since last report): 03:17:51
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1312,7 +1312,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-14 01:04:18Z → 2026-04-21 01:04:18Z
+Week window (UTC)         : 2026-04-14 04:22:08Z → 2026-04-21 04:22:08Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1338,7 +1338,7 @@ Top genres (24h)          : doom metal(1) | gothic metal(1) | gothic rock(1) | g
 Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(11) | post-grunge(11) | doom metal(9) | gothic metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-21 01:04:18Z
+Report generated (UTC)    : 2026-04-21 04:22:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
