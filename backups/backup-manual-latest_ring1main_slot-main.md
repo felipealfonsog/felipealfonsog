@@ -2775,7 +2775,7 @@ All projects are distributed under their respective licenses as defined per repo
 > <sub><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></sub>
 
 <p align="center">
-<sub>⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
+<sub>⟁ ❀ ✡︎ ⚜︎ π ∴ .·.</sub>
 </p>
 
 <a id="pinned-repositories"></a>
