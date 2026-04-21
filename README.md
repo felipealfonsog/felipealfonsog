@@ -1291,9 +1291,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:36:05
-Telemetry age             : 06:36:05
-Δ time (since last report): 00:00:15
+Time since last play      : 09:28:13
+Telemetry age             : 09:28:13
+Δ time (since last report): 02:52:08
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1305,14 +1305,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 1
 Dominant artist           : The Gathering
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-14 07:02:03Z → 2026-04-21 07:02:03Z
+Week window (UTC)         : 2026-04-14 09:54:10Z → 2026-04-21 09:54:10Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1320,25 +1320,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 04:00
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :     █               █   
+Heatmap (24h)             :                     █   
 Heatmap (7d)              :    ▁▂▂  ▁   ▁▃█▄▁   ▂▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 12
 Avg inter-play gap (7d)   : 02:59:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : doom metal(1) | gothic metal(1) | gothic rock(1) | grunge(1) | post-grunge(1) | progressive metal(1)
+Top genres (24h)          : doom metal(1) | gothic metal(1) | gothic rock(1) | progressive metal(1) | symphonic metal(1)
 Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(11) | post-grunge(11) | doom metal(9) | gothic metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-21 07:02:03Z
+Report generated (UTC)    : 2026-04-21 09:54:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
