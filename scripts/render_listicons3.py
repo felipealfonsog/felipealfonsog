@@ -114,9 +114,6 @@ def render_full_image_mode() -> str:
 def build_block() -> str:
     mode = normalize_render_mode(cfg.RENDER_MODE)
 
-    if cfg.FORCE_EMPTY_IF_GNLZ_DOWN and not gnlz_is_alive():
-        return ""
-
     if mode == "none":
         return ""
 
@@ -124,6 +121,8 @@ def build_block() -> str:
         return render_full_image_mode()
 
     if mode in {"links_listicons3_svg_gnlz", "links_listicons3_svg_github"}:
+        if cfg.FORCE_EMPTY_IF_GNLZ_DOWN and not gnlz_is_alive():
+            return ""
         return render_links_mode()
 
     return ""
