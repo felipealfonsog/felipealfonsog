@@ -197,6 +197,7 @@ This integration enables precise visual control, consistent styling, and a refin
 > <sub> ⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
 -->
 
+<!-- 
 
 ```
 ⟁ ❀ ✡︎ ⚜︎ ∴ .·.
@@ -205,6 +206,9 @@ This integration enables precise visual control, consistent styling, and a refin
 <p align="center">
 <sub>⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
 </p>
+
+-->
+
 
 <!-- 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
@@ -2769,5 +2773,9 @@ All projects are distributed under their respective licenses as defined per repo
 > <sub>This profile, its content, identity markers, and associated metadata are protected.</sub>  
 > <sub>Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.</sub>  
 > <sub><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></sub>
+
+<p align="center">
+<sub>⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
+</p>
 
 <a id="pinned-repositories"></a>
