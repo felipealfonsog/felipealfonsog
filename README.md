@@ -202,7 +202,9 @@ This integration enables precise visual control, consistent styling, and a refin
 ⟁ ❀ ✡︎ ⚜︎ ∴ .·.
 ```
 
-
+<p align="center">
+<sub>⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
+</p>
 
 <!-- 
 <sub>For the best experience, open GitHub links in a new tab (right-click and select “Open Link in New Tab”), as Markdown does not support forcing a blank target.  
