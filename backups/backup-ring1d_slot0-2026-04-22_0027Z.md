@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-04-21_0030Z
+ snapshot_utc : 2026-04-22_0027Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -169,8 +169,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/Refresh_Page-0078D7?style=plastic&logo=checkmarx&logoColor=white&labelColor=0078D7&color=0078D7&logoWidth=20" height="19"/>](https://github.com/felipealfonsog?cache-bypass=1) [<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" height="19"/>](mailto:felipe.alfonso.glz@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white&labelColor=000000&color=000000&logoSize=20" height="19"/>](https://x.com/felipealfonsog)
-[<img src="https://img.shields.io/badge/-bluesky_profile-0285FF?style=plastic&logo=bluesky&logoColor=white&labelColor=0285FF&logoWidth=20" height="19"/>](https://bsky.app/profile/felipealfonsog.bsky.social)
-[<img src="https://custom-icon-badges.demolab.com/badge/Nostr-6f42c1?style=plastic&logo=nostr-logo&logoColor=ffffff" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2)
+[<img src="https://img.shields.io/badge/-bluesky-0285FF?style=plastic&logo=bluesky&logoColor=white&labelColor=0285FF&logoWidth=20" height="19"/>](https://bsky.app/profile/felipealfonsog.bsky.social)
+[<img src="https://custom-icon-badges.demolab.com/badge/Nostr-6f42c1?style=plastic&logo=nostr-logo&logoColor=ffffff" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2) [<img src="https://img.shields.io/badge/-soundcloud-FF5500?style=plastic&logo=soundcloud&logoColor=white&labelColor=FF5500&logoWidth=20" height="19"/>](https://soundcloud.com/felipealfonsog) [<img src="https://custom-icon-badges.demolab.com/badge/InsightTimer-69ACAC?style=plastic&logo=insighttimer&logoColor=ffffff" height="19"/>](https://insighttimer.com/daiunjoshin) [<img src="https://custom-icon-badges.demolab.com/badge/7Cups-F5F7FA?style=plastic&logo=7cups&logoColor=ffffff" height="19"/>](https://www.7cups.com/@felipealfonsog)
+
+
+
 
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.qzz.io/)
@@ -201,11 +204,17 @@ This integration enables precise visual control, consistent styling, and a refin
 > <sub> ⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
 -->
 
+<!-- 
 
 ```
 ⟁ ❀ ✡︎ ⚜︎ ∴ .·.
 ```
 
+<p align="center">
+<sub>⟁ ❀ ✡︎ ⚜︎ ∴ .·.</sub>
+</p>
+
+-->
 
 
 <!-- 
@@ -411,7 +420,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-20T21:23:50+00:00 | last_update=2026-04-20T21:23:50+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-21T21:22:05+00:00 | last_update=2026-04-21T21:22:05+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -487,13 +496,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 112 ms
-TTFB................ 111 ms
+LATENCY............. 160 ms
+TTFB................ 159 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 76d
+TLS_EXPIRY.......... 75d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -522,7 +531,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-04-20T12:38:52Z
+LAST_PROBE_UTC...... 2026-04-21T09:40:37Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -562,19 +571,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.442201
-longitude      : -70.653962
-altitude       : 48 m
-gps_accuracy   : ±7.2 m
-heading        : 166°
-speed          : 2.2 km/h
+location       : urban_sector
+latitude       : -33.443957
+longitude      : -70.651043
+altitude       : 35 m
+gps_accuracy   : ±4.3 m
+heading        : 326°
+speed          : 0.5 km/h
 status         : walking
 phase          : evening
-local_time     : 20:12
+local_time     : 20:09
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-04-21 00:12:46 UTC
+signal         : nominal
+updated_utc    : 2026-04-22 00:09:44 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -693,7 +702,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-20 18:42:53Z
+DSN snapshot (UTC)       : 2026-04-21 21:37:54Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -705,14 +714,14 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.40e9 km | 169.761 AU
-Heliocentric distance    : 170.326 AU
-Relative speed           : 22.866 km/s
+Heliocentric distance    : 170.337 AU
+Relative speed           : 23.070 km/s
 ------------------------------------------------------------
-One-way light time       : 23:31:52
+One-way light time       : 23:31:51
 Round-trip latency       : 47:03:43
 ------------------------------------------------------------
-Δ distance (since last)  : -10,311 km
-Mission age              : 48 years, 239 days
+Δ distance (since last)  : -7,048 km
+Mission age              : 48 years, 240 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -723,19 +732,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.539 AU
-Heliocentric distance    : 142.667 AU
-Relative speed           : 22.526 km/s
+Earth distance           : 21.32e9 km | 142.534 AU
+Heliocentric distance    : 142.677 AU
+Relative speed           : 22.542 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:28
-Round-trip latency       : 39:30:55
+One-way light time       : 19:45:25
+Round-trip latency       : 39:30:50
 ------------------------------------------------------------
-Δ distance (since last)  : -81,436 km
-Mission age              : 48 years, 255 days
+Δ distance (since last)  : -81,567 km
+Mission age              : 48 years, 256 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-20 18:42:56Z
+Report generated (UTC)   : 2026-04-21 21:37:57Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1287,17 +1296,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — Israel's Son
-Last played (UTC)         : 2026-04-20 08:37:36Z
+Last played               : The Gathering — Eleanor
+Last played (UTC)         : 2026-04-21 00:25:58Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:00:26
-Telemetry age             : 13:00:26
-Δ time (since last report): 00:01:16
+Time since last play      : 21:10:49
+Telemetry age             : 21:10:49
+Δ time (since last report): 00:00:22
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1310,13 +1319,13 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 1
-Dominant artist           : Silverchair
+Dominant artist           : The Gathering
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-13 21:38:02Z → 2026-04-20 21:38:02Z
+Week window (UTC)         : 2026-04-14 21:36:46Z → 2026-04-21 21:36:46Z
 Total tracks played       : 49
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1324,25 +1333,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 04:00
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :     █                   
+Heatmap (24h)             :                     █   
 Heatmap (7d)              :    ▁▂▂  ▁   ▁▃█▄▁   ▂▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:39:51
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 02:59:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
-Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(12) | post-grunge(12) | doom metal(8) | gothic metal(8)
+Top genres (24h)          : doom metal(1) | gothic metal(1) | gothic rock(1) | progressive metal(1) | symphonic metal(1)
+Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(11) | post-grunge(11) | doom metal(9) | gothic metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-20 21:38:02Z
+Report generated (UTC)    : 2026-04-21 21:36:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1696,9 +1705,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 20 April 2026
+From: 04 December 2023 - To: 21 April 2026
 
-Total Time       : 1,014 hrs 39 mins
+Total Time       : 1,015 hrs 14 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 10 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1707,11 +1716,11 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          401 hrs 19 mins ●●●●●●●●●●○○○○○○○○○○○○○○○○  39.55 %
-Bash           166 hrs 47 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.44 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.68 %
-HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.94 %
-PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.72 %
+Other          408 hrs 4 mins ●●●●●●●●●●○○○○○○○○○○○○○○○○  40.19 %
+Bash           167 hrs 22 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.49 %
+Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.67 %
+HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.93 %
+PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.71 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.96 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.26 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.94 %
@@ -1720,35 +1729,35 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            783 hrs        ●●●●●●●●●●●●●●●●●●●●○○○○○○  77.17 %
-Linux          632 hrs 57 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.38 %
+Mac            785 hrs 44 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  77.39 %
+Linux          637 hrs 34 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.80 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.42 %
-Firefox        336 hrs 8 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.13 %
-Vim            329 hrs 10 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.44 %
-Terminal       18 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.87 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.38 %
+Firefox        342 hrs 59 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.78 %
+Vim            329 hrs 10 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.42 %
+Terminal       19 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.88 %
 Spotify        15 hrs 52 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.56 %
 TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
-‎WhatsApp      9 hrs 11 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.91 %
+‎WhatsApp      9 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.91 %
 Acrobat        7 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.77 %
-Dia            5 hrs 51 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
+Dia            5 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
 Antigravity    5 hrs 50 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
 FileZilla      5 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
-Termius        3 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
+Termius        3 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 
 CATEGORIES
 ----------
-Coding         1,065 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       332 hrs 19 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  32.75 %
-Meeting        16 hrs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.58 %
+Coding         1,065 hrs 33 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       339 hrs 25 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.43 %
+Meeting        16 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.58 %
 Writing Docs   2 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.22 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 20/04/2026 22:22:50 UTC
+Last updated     : 21/04/2026 22:21:09 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2604,7 +2613,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 ### 🆕 Latest OSS Projects
 - [aegisintel](https://github.com/felipealfonsog/aegisintel): AegisIntel - Defensive threat intelligence platform that aggregates, normalizes, and correlates indicators of compromise (IOCs) to produce actionable insights.
-  🧬 Python  •  ⭐ 1
+  🧬 Python · Shell · Batchfile  •  ⭐ 1
 - [intelforge](https://github.com/felipealfonsog/intelforge): Defensive CTI pipeline built in Perl. IntelForge is a Perl-first, CLI-driven defensive cyber threat intelligence (CTI) pipeline that ingests public sources, extracts and normalizes indicators, applies lightweight rules and scoring, and produces auditable artifacts (JSONL + reports).
   🧬 Makefile · Perl · Shell  •  ⭐ 1
 - [camviewer](https://github.com/felipealfonsog/camviewer): CamViewer is a simple web-based CCTV dashboard that allows you to stream multiple RTSP camera feeds through a clean HLS interface.
@@ -2771,5 +2780,9 @@ All projects are distributed under their respective licenses as defined per repo
 > <sub>This profile, its content, identity markers, and associated metadata are protected.</sub>  
 > <sub>Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.</sub>  
 > <sub><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></sub>
+
+<p align="center">
+<sub>⟁ ❀ ✡︎ ⚜︎ π ∴ .·.</sub>
+</p>
 
 <a id="pinned-repositories"></a>
