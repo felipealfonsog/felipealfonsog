@@ -1294,13 +1294,13 @@ Last played               : Faith No More — Naked in Front of the Computer - 2
 Last played (UTC)         : 2026-04-22 01:36:14Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : The Gathering — Eleanor → Faith No More — Naked in Front of the Computer - 2016 Remaster
-Δ last played (since last): 2026-04-21 00:25:58Z → 2026-04-22 01:36:14Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:44
-Telemetry age             : 00:03:44
-Δ time (since last report): 00:38:50
+Time since last play      : 00:05:07
+Telemetry age             : 00:05:07
+Δ time (since last report): 00:01:24
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1319,7 +1319,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-15 01:39:57Z → 2026-04-22 01:39:57Z
+Week window (UTC)         : 2026-04-15 01:41:21Z → 2026-04-22 01:41:21Z
 Total tracks played       : 43
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1345,7 +1345,7 @@ Top genres (24h)          : alternative metal(3) | funk rock(3) | grunge(3) | ra
 Top genres (7d)           : rap metal(29) | nu metal(26) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-22 01:39:57Z
+Report generated (UTC)    : 2026-04-22 01:41:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
