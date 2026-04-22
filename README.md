@@ -1277,50 +1277,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 81%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Faith No More — Helpless - 2016 Remaster
-Last played               : Faith No More — Naked in Front of the Computer - 2016 Remaster
-Last played (UTC)         : 2026-04-22 01:36:14Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Faith No More — Mouth to Mouth - 2016 Remaster
+Last played (UTC)         : 2026-04-22 01:45:34Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Faith No More — Naked in Front of the Computer - 2016 Remaster → Faith No More — Mouth to Mouth - 2016 Remaster
+Δ last played (since last): 2026-04-22 01:36:14Z → 2026-04-22 01:45:34Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:05:07
-Telemetry age             : 00:05:07
-Δ time (since last report): 00:01:24
+Time since last play      : 02:35:30
+Telemetry age             : 02:35:30
+Δ time (since last report): 02:39:43
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 5
 Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-15 01:41:21Z → 2026-04-22 01:41:21Z
-Total tracks played       : 43
+Week window (UTC)         : 2026-04-15 04:21:04Z → 2026-04-22 04:21:04Z
+Total tracks played       : 45
 Dominant artist           : Rama
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1330,22 +1329,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 21:00
 Peak hour (7d)            : 14:00
 Heatmap (24h)             :                      █  
-Heatmap (7d)              :    ▁▂▂  ▁   ▁▃█▄▁   ▁▂▁ 
+Heatmap (7d)              :    ▁▂▂  ▁   ▁▃█▄▁   ▁▃▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 03:39:17
+Avg inter-play gap (7d)   : 03:29:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(3) | funk rock(3) | grunge(3) | rap metal(3)
-Top genres (7d)           : rap metal(29) | nu metal(26) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
+Top genres (24h)          : alternative metal(5) | funk rock(5) | grunge(5) | rap metal(5)
+Top genres (7d)           : rap metal(31) | nu metal(26) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-22 01:41:21Z
+Report generated (UTC)    : 2026-04-22 04:21:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
