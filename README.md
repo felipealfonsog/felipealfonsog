@@ -1297,9 +1297,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 14:08:00
-Telemetry age             : 14:08:00
-Δ time (since last report): 00:02:48
+Time since last play      : 16:57:20
+Telemetry age             : 16:57:20
+Δ time (since last report): 02:49:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,8 +1318,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-15 15:53:34Z → 2026-04-22 15:53:34Z
-Total tracks played       : 45
+Week window (UTC)         : 2026-04-15 18:42:53Z → 2026-04-22 18:42:53Z
+Total tracks played       : 44
 Dominant artist           : Rama
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1329,14 +1329,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 21:00
 Peak hour (7d)            : 14:00
 Heatmap (24h)             :                      █  
-Heatmap (7d)              :    ▁▂▂  ▁   ▁▃█▄▁   ▁▃▁ 
+Heatmap (7d)              :    ▁▂▂  ▁    ▃█▄▁   ▁▃▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 03:29:31
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:20:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1344,7 +1344,7 @@ Top genres (24h)          : alternative metal(5) | funk rock(5) | grunge(5) | ra
 Top genres (7d)           : rap metal(31) | nu metal(26) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-22 15:53:34Z
+Report generated (UTC)    : 2026-04-22 18:42:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
