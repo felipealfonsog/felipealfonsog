@@ -1293,13 +1293,13 @@ Last played               : Faith No More — Mouth to Mouth - 2016 Remaster
 Last played (UTC)         : 2026-04-22 01:45:34Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Naked in Front of the Computer - 2016 Remaster → Faith No More — Mouth to Mouth - 2016 Remaster
-Δ last played (since last): 2026-04-22 01:36:14Z → 2026-04-22 01:45:34Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:35:30
-Telemetry age             : 02:35:30
-Δ time (since last report): 02:39:43
+Time since last play      : 02:36:12
+Telemetry age             : 02:36:12
+Δ time (since last report): 00:00:42
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,7 +1318,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-15 04:21:04Z → 2026-04-22 04:21:04Z
+Week window (UTC)         : 2026-04-15 04:21:46Z → 2026-04-22 04:21:46Z
 Total tracks played       : 45
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1344,7 +1344,7 @@ Top genres (24h)          : alternative metal(5) | funk rock(5) | grunge(5) | ra
 Top genres (7d)           : rap metal(31) | nu metal(26) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-22 04:21:04Z
+Report generated (UTC)    : 2026-04-22 04:21:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
