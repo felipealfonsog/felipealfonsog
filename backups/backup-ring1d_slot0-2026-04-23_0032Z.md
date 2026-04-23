@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-04-22_0027Z
+ snapshot_utc : 2026-04-23_0032Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -170,7 +170,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&labelColor=0077B5&logoWidth=20" height="19"/>](https://www.linkedin.com/in/felipealfonsog/)
 [<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white&labelColor=000000&color=000000&logoSize=20" height="19"/>](https://x.com/felipealfonsog)
 [<img src="https://img.shields.io/badge/-bluesky-0285FF?style=plastic&logo=bluesky&logoColor=white&labelColor=0285FF&logoWidth=20" height="19"/>](https://bsky.app/profile/felipealfonsog.bsky.social)
-[<img src="https://custom-icon-badges.demolab.com/badge/Nostr-6f42c1?style=plastic&logo=nostr-logo&logoColor=ffffff" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2) [<img src="https://img.shields.io/badge/-soundcloud-FF5500?style=plastic&logo=soundcloud&logoColor=white&labelColor=FF5500&logoWidth=20" height="19"/>](https://soundcloud.com/felipealfonsog) [<img src="https://custom-icon-badges.demolab.com/badge/InsightTimer-69ACAC?style=plastic&logo=insighttimer&logoColor=ffffff" height="19"/>](https://insighttimer.com/daiunjoshin) [<img src="https://custom-icon-badges.demolab.com/badge/7Cups-F5F7FA?style=plastic&logo=7cups&logoColor=ffffff" height="19"/>](https://www.7cups.com/@felipealfonsog)
+[<img src="https://custom-icon-badges.demolab.com/badge/Nostr-6f42c1?style=plastic&logo=nostr-logo&logoColor=ffffff" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2) [<img src="https://img.shields.io/badge/-soundcloud-FF5500?style=plastic&logo=soundcloud&logoColor=white&labelColor=FF5500&logoWidth=20" height="19"/>](https://soundcloud.com/felipealfonsog) [<img src="https://custom-icon-badges.demolab.com/badge/InsightTimer-69ACAC?style=plastic&logo=insighttimer&logoColor=ffffff" height="19"/>](https://insighttimer.com/daiunjoshin) [<img src="https://custom-icon-badges.demolab.com/badge/7Cups_Listener-F5F7FA?style=plastic&logo=7cups&logoColor=ffffff" height="19"/>](https://www.7cups.com/@felipealfonsog)
 
 
 
@@ -420,7 +420,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-21T21:22:05+00:00 | last_update=2026-04-21T21:22:05+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-22T21:25:09+00:00 | last_update=2026-04-22T21:25:09+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -496,13 +496,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 160 ms
-TTFB................ 159 ms
+LATENCY............. 154 ms
+TTFB................ 153 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 75d
+TLS_EXPIRY.......... 74d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -515,9 +515,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PARTIAL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -531,7 +531,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-04-21T09:40:37Z
+LAST_PROBE_UTC...... 2026-04-22T18:33:47Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -571,19 +571,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443957
-longitude      : -70.651043
-altitude       : 35 m
-gps_accuracy   : ±4.3 m
-heading        : 326°
-speed          : 0.5 km/h
-status         : walking
+location       : residential_sector
+latitude       : -33.442093
+longitude      : -70.653367
+altitude       : 119 m
+gps_accuracy   : ±4.4 m
+heading        : 273°
+speed          : 3.2 km/h
+status         : in_transit
 phase          : evening
-local_time     : 20:09
+local_time     : 20:14
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-04-22 00:09:44 UTC
+updated_utc    : 2026-04-23 00:14:21 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -702,7 +702,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-21 21:37:54Z
+DSN snapshot (UTC)       : 2026-04-22 21:39:06Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -713,15 +713,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.761 AU
-Heliocentric distance    : 170.337 AU
-Relative speed           : 23.070 km/s
+Earth distance           : 25.40e9 km | 169.760 AU
+Heliocentric distance    : 170.346 AU
+Relative speed           : 23.255 km/s
 ------------------------------------------------------------
 One-way light time       : 23:31:51
-Round-trip latency       : 47:03:43
+Round-trip latency       : 47:03:42
 ------------------------------------------------------------
-Δ distance (since last)  : -7,048 km
-Mission age              : 48 years, 240 days
+Δ distance (since last)  : -13,485 km
+Mission age              : 48 years, 241 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -732,19 +732,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.534 AU
-Heliocentric distance    : 142.677 AU
-Relative speed           : 22.542 km/s
+Earth distance           : 21.32e9 km | 142.529 AU
+Heliocentric distance    : 142.686 AU
+Relative speed           : 22.561 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:25
-Round-trip latency       : 39:30:50
+One-way light time       : 19:45:23
+Round-trip latency       : 39:30:46
 ------------------------------------------------------------
-Δ distance (since last)  : -81,567 km
-Mission age              : 48 years, 256 days
+Δ distance (since last)  : -250,070 km
+Mission age              : 48 years, 257 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-21 21:37:57Z
+Report generated (UTC)   : 2026-04-22 21:39:12Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1296,17 +1296,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : The Gathering — Eleanor
-Last played (UTC)         : 2026-04-21 00:25:58Z
+Last played               : Faith No More — Mouth to Mouth - 2016 Remaster
+Last played (UTC)         : 2026-04-22 01:45:34Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 21:10:49
-Telemetry age             : 21:10:49
-Δ time (since last report): 00:00:22
+Time since last play      : 19:53:13
+Telemetry age             : 19:53:13
+Δ time (since last report): 00:00:18
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,40 +1318,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : The Gathering
+Tracks played (last 24h)  : 5
+Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-14 21:36:46Z → 2026-04-21 21:36:46Z
-Total tracks played       : 49
+Week window (UTC)         : 2026-04-15 21:38:47Z → 2026-04-22 21:38:47Z
+Total tracks played       : 44
 Dominant artist           : Rama
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 21:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :                     █   
-Heatmap (7d)              :    ▁▂▂  ▁   ▁▃█▄▁   ▂▄▁ 
+Heatmap (24h)             :                      █  
+Heatmap (7d)              :    ▁▂▂  ▁    ▃█▄▁   ▁▃▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:59:31
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:20:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : doom metal(1) | gothic metal(1) | gothic rock(1) | progressive metal(1) | symphonic metal(1)
-Top genres (7d)           : nu metal(26) | rap metal(26) | grunge(11) | post-grunge(11) | doom metal(9) | gothic metal(9)
+Top genres (24h)          : alternative metal(5) | funk rock(5) | grunge(5) | rap metal(5)
+Top genres (7d)           : rap metal(31) | nu metal(26) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-21 21:36:46Z
+Report generated (UTC)    : 2026-04-22 21:38:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1705,59 +1705,59 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 21 April 2026
+From: 04 December 2023 - To: 22 April 2026
 
-Total Time       : 1,015 hrs 14 mins
+Total Time       : 1,015 hrs 45 mins
 Mostly coding in : Other
-Daily average    : 1 hrs 10 mins
+Daily average    : 1 hrs 9 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          408 hrs 4 mins ●●●●●●●●●●○○○○○○○○○○○○○○○○  40.19 %
-Bash           167 hrs 22 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.49 %
+Other          410 hrs 2 mins ●●●●●●●●●●○○○○○○○○○○○○○○○○  40.37 %
+Bash           167 hrs 53 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.53 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.67 %
-HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.93 %
+HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.92 %
 PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.71 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.96 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.26 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.95 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.25 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.94 %
 Text           38 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
-YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.72 %
+YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.71 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            785 hrs 44 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  77.39 %
-Linux          637 hrs 34 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.80 %
+Mac            788 hrs 13 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  77.60 %
+Linux          637 hrs 34 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.77 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.38 %
-Firefox        342 hrs 59 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.78 %
-Vim            329 hrs 10 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.42 %
-Terminal       19 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.88 %
-Spotify        15 hrs 52 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.56 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.35 %
+Firefox        344 hrs 36 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.93 %
+Vim            329 hrs 10 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.41 %
+Terminal       19 hrs 25 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.91 %
+Spotify        15 hrs 54 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.57 %
 TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
-‎WhatsApp      9 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.91 %
+‎WhatsApp      9 hrs 45 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
 Acrobat        7 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.77 %
-Dia            5 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
-Antigravity    5 hrs 50 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
+Dia            5 hrs 55 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
+Antigravity    5 hrs 50 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
 FileZilla      5 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
 Termius        3 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 
 CATEGORIES
 ----------
-Coding         1,065 hrs 33 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       339 hrs 25 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.43 %
-Meeting        16 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.58 %
+Coding         1,065 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       341 hrs 2 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  33.57 %
+Meeting        16 hrs 34 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.63 %
 Writing Docs   2 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.22 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 21/04/2026 22:21:09 UTC
+Last updated     : 22/04/2026 22:22:27 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1829,22 +1829,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
