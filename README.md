@@ -2605,7 +2605,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 C · Shell · Nix  •  ⭐ 3
 
 ### 🆕 Latest OSS Projects
-- [aegisintel](https://github.com/felipealfonsog/aegisintel): AegisIntel - Defensive threat intelligence platform that aggregates, normalizes, and correlates indicators of compromise (IOCs) to produce actionable insights.
+- [AegisIntel](https://github.com/felipealfonsog/AegisIntel): AegisIntel - Defensive threat intelligence platform that aggregates, normalizes, and correlates indicators of compromise (IOCs) to produce actionable insights.
   🧬 Python · Shell · Batchfile  •  ⭐ 1
 - [intelforge](https://github.com/felipealfonsog/intelforge): Defensive CTI pipeline built in Perl. IntelForge is a Perl-first, CLI-driven defensive cyber threat intelligence (CTI) pipeline that ingests public sources, extracts and normalizes indicators, applies lightweight rules and scoring, and produces auditable artifacts (JSONL + reports).
   🧬 Makefile · Perl · Shell  •  ⭐ 1
