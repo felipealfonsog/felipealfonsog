@@ -1293,13 +1293,13 @@ Last played               : Sevendust — Threshold
 Last played (UTC)         : 2026-04-24 10:20:06Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : MC Hammer — Intro: Turn This Mutha Out → Sevendust — Threshold
-Δ last played (since last): 2026-04-24 08:40:40Z → 2026-04-24 10:20:06Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:21:47
-Telemetry age             : 02:21:47
-Δ time (since last report): 02:46:55
+Time since last play      : 02:22:22
+Telemetry age             : 02:22:22
+Δ time (since last report): 00:00:35
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,7 +1318,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-17 12:41:53Z → 2026-04-24 12:41:53Z
+Week window (UTC)         : 2026-04-17 12:42:27Z → 2026-04-24 12:42:27Z
 Total tracks played       : 44
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1342,9 +1342,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(2) | rap metal(2) | funk rock(1) | grunge(1) | hard rock(1) | nu metal(1)
 Top genres (7d)           : rap metal(30) | nu metal(24) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-24 12:41:53Z
+Report generated (UTC)    : 2026-04-24 12:42:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
