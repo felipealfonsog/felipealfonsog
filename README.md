@@ -1289,17 +1289,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Faith No More — Mouth to Mouth - 2016 Remaster
-Last played (UTC)         : 2026-04-22 01:45:34Z
+Last played               : MC Hammer — Intro: Turn This Mutha Out
+Last played (UTC)         : 2026-04-24 08:40:40Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Mouth to Mouth - 2016 Remaster → MC Hammer — Intro: Turn This Mutha Out
+Δ last played (since last): 2026-04-22 01:45:34Z → 2026-04-24 08:40:40Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 53:19:53
-Telemetry age             : 53:19:53
-Δ time (since last report): 00:01:19
+Time since last play      : 01:14:19
+Telemetry age             : 01:14:19
+Δ time (since last report): 02:49:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1311,40 +1311,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 2
+Dominant artist           : MC Hammer
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-17 07:05:26Z → 2026-04-24 07:05:26Z
-Total tracks played       : 41
+Week window (UTC)         : 2026-04-17 09:54:58Z → 2026-04-24 09:54:58Z
+Total tracks played       : 43
 Dominant artist           : Rama
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :    ▁▂▂       ▃█▄▁   ▁▃  
+Heatmap (24h)             :     █                   
+Heatmap (7d)              :    ▁▃▂       ▃█▄▁   ▁▃  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:13:11
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:25:17
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : rap metal(28) | nu metal(23) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(1) | funk rock(1) | grunge(1) | rap metal(1)
+Top genres (7d)           : rap metal(29) | nu metal(23) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-24 07:05:26Z
+Report generated (UTC)    : 2026-04-24 09:54:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
