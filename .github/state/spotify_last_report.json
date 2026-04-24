@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-24 09:54:58Z",
+  "report_generated_utc": "2026-04-24 12:41:53Z",
   "status": "IDLE",
-  "last_track": "MC Hammer — Intro: Turn This Mutha Out",
-  "last_played_utc": "2026-04-24 08:40:40Z",
+  "last_track": "Sevendust — Threshold",
+  "last_played_utc": "2026-04-24 10:20:06Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -698,6 +698,12 @@
     "0Wehs7ZKqo4s5X8WuwhQyx": [
       "blues"
     ],
-    "2rblp9fJo16ZPTcKDtlmKW": []
+    "2rblp9fJo16ZPTcKDtlmKW": [],
+    "35Uu85Pq33mK8x1jYqsHY2": [
+      "nu metal",
+      "alternative metal",
+      "rap metal",
+      "hard rock"
+    ]
   }
 }
