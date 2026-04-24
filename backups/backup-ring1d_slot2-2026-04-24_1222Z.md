@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-04-23_1222Z
+ snapshot_utc : 2026-04-24_1222Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -420,7 +420,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-23T09:43:10+00:00 | last_update=2026-04-23T09:43:10+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-24T09:42:49+00:00 | last_update=2026-04-24T09:42:49+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -496,13 +496,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 202 ms
-TTFB................ 201 ms
+LATENCY............. 195 ms
+TTFB................ 193 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 73d
+TLS_EXPIRY.......... 72d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -531,7 +531,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-04-23T09:42:27Z
+LAST_PROBE_UTC...... 2026-04-24T09:42:36Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -571,19 +571,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446552
-longitude      : -70.662129
-altitude       : 80 m
-gps_accuracy   : ±5.7 m
-heading        : 311°
-speed          : 0.2 km/h
+location       : residential_sector
+latitude       : -33.442274
+longitude      : -70.653810
+altitude       : 155 m
+gps_accuracy   : ±5.1 m
+heading        : 0°
+speed          : 0.0 km/h
 status         : stationary
 phase          : morning
-local_time     : 08:15
+local_time     : 08:14
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-04-23 12:15:20 UTC
+signal         : nominal
+updated_utc    : 2026-04-24 12:14:18 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -702,7 +702,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-23 09:57:42Z
+DSN snapshot (UTC)       : 2026-04-24 09:55:57Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -714,14 +714,14 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 25.40e9 km | 169.760 AU
-Heliocentric distance    : 170.351 AU
-Relative speed           : 23.350 km/s
+Heliocentric distance    : 170.361 AU
+Relative speed           : 23.536 km/s
 ------------------------------------------------------------
 One-way light time       : 23:31:51
 Round-trip latency       : 47:03:42
 ------------------------------------------------------------
-Δ distance (since last)  : -4,914 km
-Mission age              : 48 years, 242 days
+Δ distance (since last)  : +1,119 km
+Mission age              : 48 years, 243 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -732,19 +732,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.527 AU
-Heliocentric distance    : 142.690 AU
-Relative speed           : 22.571 km/s
+Earth distance           : 21.32e9 km | 142.523 AU
+Heliocentric distance    : 142.699 AU
+Relative speed           : 22.595 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:22
-Round-trip latency       : 39:30:43
+One-way light time       : 19:45:19
+Round-trip latency       : 39:30:39
 ------------------------------------------------------------
-Δ distance (since last)  : -154,695 km
-Mission age              : 48 years, 258 days
+Δ distance (since last)  : -151,112 km
+Mission age              : 48 years, 259 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-23 09:57:47Z
+Report generated (UTC)   : 2026-04-24 09:56:02Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1296,17 +1296,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Faith No More — Mouth to Mouth - 2016 Remaster
-Last played (UTC)         : 2026-04-22 01:45:34Z
+Last played               : MC Hammer — Intro: Turn This Mutha Out
+Last played (UTC)         : 2026-04-24 08:40:40Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Mouth to Mouth - 2016 Remaster → MC Hammer — Intro: Turn This Mutha Out
+Δ last played (since last): 2026-04-22 01:45:34Z → 2026-04-24 08:40:40Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 32:11:33
-Telemetry age             : 32:11:33
-Δ time (since last report): 00:00:23
+Time since last play      : 01:14:19
+Telemetry age             : 01:14:19
+Δ time (since last report): 02:49:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,14 +1318,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 2
+Dominant artist           : MC Hammer
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-16 09:57:07Z → 2026-04-23 09:57:07Z
+Week window (UTC)         : 2026-04-17 09:54:58Z → 2026-04-24 09:54:58Z
 Total tracks played       : 43
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1333,25 +1333,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :    ▁▂▂  ▁    ▃█▄▁   ▁▃  
+Heatmap (24h)             :     █                   
+Heatmap (7d)              :    ▁▃▂       ▃█▄▁   ▁▃  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:10:16
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:25:17
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : rap metal(30) | nu metal(25) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(1) | funk rock(1) | grunge(1) | rap metal(1)
+Top genres (7d)           : rap metal(29) | nu metal(23) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-23 09:57:07Z
+Report generated (UTC)    : 2026-04-24 09:54:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1705,9 +1705,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 23 April 2026
+From: 04 December 2023 - To: 24 April 2026
 
-Total Time       : 1,016 hrs 9 mins
+Total Time       : 1,016 hrs 13 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 9 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1716,28 +1716,28 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          417 hrs 1 min  ●●●●●●●●●●◔○○○○○○○○○○○○○○○  41.04 %
-Bash           168 hrs 17 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.56 %
+Other          418 hrs 13 mins ●●●●●●●●●●◔○○○○○○○○○○○○○○○  41.16 %
+Bash           168 hrs 20 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.57 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.66 %
 HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.92 %
 PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.70 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.95 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.25 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.94 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.93 %
 Text           38 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.71 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            795 hrs 36 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  78.30 %
+Mac            796 hrs 51 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  78.41 %
 Linux          637 hrs 34 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.74 %
 
 EDITORS
 -------
 VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.32 %
-Firefox        351 hrs 39 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  34.61 %
+Firefox        352 hrs 53 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  34.73 %
 Vim            329 hrs 10 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.39 %
-Terminal       19 hrs 25 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.91 %
+Terminal       19 hrs 26 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.91 %
 Spotify        16 hrs 2 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.58 %
 TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
 ‎WhatsApp      9 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.98 %
@@ -1749,15 +1749,15 @@ Termius        3 hrs 30 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,066 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       348 hrs 5 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  34.26 %
+Coding         1,066 hrs 3 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       349 hrs 18 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  34.37 %
 Meeting        16 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.65 %
 Writing Docs   2 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.22 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 23/04/2026 11:31:35 UTC
+Last updated     : 24/04/2026 11:32:14 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2612,7 +2612,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 C · Shell · Nix  •  ⭐ 3
 
 ### 🆕 Latest OSS Projects
-- [aegisintel](https://github.com/felipealfonsog/aegisintel): AegisIntel - Defensive threat intelligence platform that aggregates, normalizes, and correlates indicators of compromise (IOCs) to produce actionable insights.
+- [AegisIntel](https://github.com/felipealfonsog/AegisIntel): AegisIntel - Defensive threat intelligence platform that aggregates, normalizes, and correlates indicators of compromise (IOCs) to produce actionable insights.
   🧬 Python · Shell · Batchfile  •  ⭐ 1
 - [intelforge](https://github.com/felipealfonsog/intelforge): Defensive CTI pipeline built in Perl. IntelForge is a Perl-first, CLI-driven defensive cyber threat intelligence (CTI) pipeline that ingests public sources, extracts and normalizes indicators, applies lightweight rules and scoring, and produces auditable artifacts (JSONL + reports).
   🧬 Makefile · Perl · Shell  •  ⭐ 1
