@@ -1297,9 +1297,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:05:31
-Telemetry age             : 03:05:31
-Δ time (since last report): 00:00:55
+Time since last play      : 03:06:00
+Telemetry age             : 03:06:00
+Δ time (since last report): 00:00:29
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,7 +1318,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-18 18:35:58Z → 2026-04-25 18:35:58Z
+Week window (UTC)         : 2026-04-18 18:36:26Z → 2026-04-25 18:36:26Z
 Total tracks played       : 30
 Dominant artist           : The Gathering
 Cadence classification    : MEDIUM
@@ -1344,7 +1344,7 @@ Top genres (24h)          : grunge(3) | alternative metal(2) | funk rock(2) | ra
 Top genres (7d)           : rap metal(16) | grunge(10) | alternative metal(9) | doom metal(9) | gothic metal(9) | gothic rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-25 18:35:58Z
+Report generated (UTC)    : 2026-04-25 18:36:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
