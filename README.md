@@ -1289,18 +1289,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Pearl Jam — Whipping
+Now playing               : Pearl Jam — Immortality
 Last played               : Faith No More — Ashes to Ashes - 2016 Remaster
 Last played (UTC)         : 2026-04-25 11:02:41Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Stripsearch - 2016 Remaster → Faith No More — Ashes to Ashes - 2016 Remaster
-Δ last played (since last): 2026-04-25 10:55:02Z → 2026-04-25 11:02:41Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:48
-Telemetry age             : 00:04:48
-Δ time (since last report): 00:08:01
+Time since last play      : 00:08:56
+Telemetry age             : 00:08:56
+Δ time (since last report): 00:04:09
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1319,7 +1319,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-18 11:07:28Z → 2026-04-25 11:07:28Z
+Week window (UTC)         : 2026-04-18 11:11:37Z → 2026-04-25 11:11:37Z
 Total tracks played       : 42
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1345,7 +1345,7 @@ Top genres (24h)          : alternative metal(2) | funk rock(2) | grunge(2) | ra
 Top genres (7d)           : rap metal(29) | nu metal(21) | alternative metal(9) | doom metal(9) | gothic metal(9) | gothic rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-25 11:07:28Z
+Report generated (UTC)    : 2026-04-25 11:11:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
