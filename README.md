@@ -1297,9 +1297,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:02
-Telemetry age             : 00:05:02
-Δ time (since last report): 00:01:11
+Time since last play      : 03:04:37
+Telemetry age             : 03:04:37
+Δ time (since last report): 02:59:36
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,33 +1318,33 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-18 15:35:28Z → 2026-04-25 15:35:28Z
-Total tracks played       : 43
-Dominant artist           : Rama
-Cadence classification    : HIGH
+Week window (UTC)         : 2026-04-18 18:35:03Z → 2026-04-25 18:35:03Z
+Total tracks played       : 30
+Dominant artist           : The Gathering
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 06:00
-Peak hour (7d)            : 14:00
+Peak hour (7d)            : 15:00
 Heatmap (24h)             :       ██   █            
-Heatmap (7d)              :    ▁▂ ▁▁   ▁ ▃█▄▁   ▁▃  
+Heatmap (7d)              :    ▂▅ ▂▁   ▁  ▆█▂   ▁▆  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 03:56:51
+Avg inter-play gap (7d)   : 05:41:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(3) | alternative metal(2) | funk rock(2) | rap metal(2) | post-grunge(1) | rock(1)
-Top genres (7d)           : rap metal(29) | nu metal(21) | grunge(10) | alternative metal(9) | doom metal(9) | gothic metal(9)
+Top genres (7d)           : rap metal(16) | grunge(10) | alternative metal(9) | doom metal(9) | gothic metal(9) | gothic rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-25 15:35:28Z
+Report generated (UTC)    : 2026-04-25 18:35:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
