@@ -1293,13 +1293,13 @@ Last played               : Pearl Jam — Better Man - Guitar / Organ Only
 Last played (UTC)         : 2026-04-25 15:30:27Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Ashes to Ashes - 2016 Remaster → Pearl Jam — Better Man - Guitar / Organ Only
-Δ last played (since last): 2026-04-25 11:02:41Z → 2026-04-25 15:30:27Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:52
-Telemetry age             : 00:03:52
-Δ time (since last report): 02:57:41
+Time since last play      : 00:05:02
+Telemetry age             : 00:05:02
+Δ time (since last report): 00:01:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,7 +1318,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-18 15:34:18Z → 2026-04-25 15:34:18Z
+Week window (UTC)         : 2026-04-18 15:35:28Z → 2026-04-25 15:35:28Z
 Total tracks played       : 43
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1342,9 +1342,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(3) | alternative metal(2) | funk rock(2) | rap metal(2) | post-grunge(1) | rock(1)
 Top genres (7d)           : rap metal(29) | nu metal(21) | grunge(10) | alternative metal(9) | doom metal(9) | gothic metal(9)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-25 15:34:18Z
+Report generated (UTC)    : 2026-04-25 15:35:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
