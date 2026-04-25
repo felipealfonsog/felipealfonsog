@@ -1289,18 +1289,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Faith No More — Ashes to Ashes - 2016 Remaster
-Last played               : Faith No More — Stripsearch - 2016 Remaster
-Last played (UTC)         : 2026-04-25 10:55:02Z
+Now playing               : Pearl Jam — Whipping
+Last played               : Faith No More — Ashes to Ashes - 2016 Remaster
+Last played (UTC)         : 2026-04-25 11:02:41Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Sevendust — Threshold → Faith No More — Stripsearch - 2016 Remaster
-Δ last played (since last): 2026-04-24 10:20:06Z → 2026-04-25 10:55:02Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Faith No More — Stripsearch - 2016 Remaster → Faith No More — Ashes to Ashes - 2016 Remaster
+Δ last played (since last): 2026-04-25 10:55:02Z → 2026-04-25 11:02:41Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:27
-Telemetry age             : 00:04:27
-Δ time (since last report): 01:21:10
+Time since last play      : 00:04:48
+Telemetry age             : 00:04:48
+Δ time (since last report): 00:08:01
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1312,15 +1312,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 2
 Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-18 10:59:28Z → 2026-04-25 10:59:28Z
-Total tracks played       : 41
+Week window (UTC)         : 2026-04-18 11:07:28Z → 2026-04-25 11:07:28Z
+Total tracks played       : 42
 Dominant artist           : Rama
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1329,23 +1329,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 06:00
 Peak hour (7d)            : 14:00
-Heatmap (24h)             :       █                 
-Heatmap (7d)              :    ▁▂ ▁      ▃█▄▁   ▁▃  
+Heatmap (24h)             :       ██                
+Heatmap (7d)              :    ▁▂ ▁▁     ▃█▄▁   ▁▃  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 04:01:49
+Avg inter-play gap (7d)   : 03:56:06
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | funk rock(1) | grunge(1) | rap metal(1)
-Top genres (7d)           : rap metal(28) | nu metal(21) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
+Top genres (24h)          : alternative metal(2) | funk rock(2) | grunge(2) | rap metal(2)
+Top genres (7d)           : rap metal(29) | nu metal(21) | alternative metal(9) | doom metal(9) | gothic metal(9) | gothic rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-25 10:59:28Z
+Report generated (UTC)    : 2026-04-25 11:07:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
