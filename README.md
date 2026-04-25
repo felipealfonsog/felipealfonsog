@@ -1277,34 +1277,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Sevendust — Threshold
-Last played (UTC)         : 2026-04-24 10:20:06Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Faith No More — Ashes to Ashes - 2016 Remaster
+Last played               : Faith No More — Stripsearch - 2016 Remaster
+Last played (UTC)         : 2026-04-25 10:55:02Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Sevendust — Threshold → Faith No More — Stripsearch - 2016 Remaster
+Δ last played (since last): 2026-04-24 10:20:06Z → 2026-04-25 10:55:02Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 23:18:13
-Telemetry age             : 23:18:13
-Δ time (since last report): 00:00:12
+Time since last play      : 00:04:27
+Telemetry age             : 00:04:27
+Δ time (since last report): 01:21:10
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1312,13 +1313,13 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 1
-Dominant artist           : Sevendust
+Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-18 09:38:19Z → 2026-04-25 09:38:19Z
+Week window (UTC)         : 2026-04-18 10:59:28Z → 2026-04-25 10:59:28Z
 Total tracks played       : 41
 Dominant artist           : Rama
 Cadence classification    : HIGH
@@ -1329,22 +1330,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 06:00
 Peak hour (7d)            : 14:00
 Heatmap (24h)             :       █                 
-Heatmap (7d)              :    ▁▂▁▁      ▃█▄▁   ▁▃  
+Heatmap (7d)              :    ▁▂ ▁      ▃█▄▁   ▁▃  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:36:57
+Avg inter-play gap (7d)   : 04:01:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | hard rock(1) | nu metal(1) | rap metal(1)
-Top genres (7d)           : rap metal(27) | nu metal(21) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
+Top genres (24h)          : alternative metal(1) | funk rock(1) | grunge(1) | rap metal(1)
+Top genres (7d)           : rap metal(28) | nu metal(21) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-25 09:38:19Z
+Report generated (UTC)    : 2026-04-25 10:59:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
