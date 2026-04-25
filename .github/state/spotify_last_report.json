@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-25 12:36:38Z",
+  "report_generated_utc": "2026-04-25 15:34:18Z",
   "status": "IDLE",
-  "last_track": "Faith No More — Ashes to Ashes - 2016 Remaster",
-  "last_played_utc": "2026-04-25 11:02:41Z",
+  "last_track": "Pearl Jam — Better Man - Guitar / Organ Only",
+  "last_played_utc": "2026-04-25 15:30:27Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -704,6 +704,11 @@
       "alternative metal",
       "rap metal",
       "hard rock"
+    ],
+    "1w5Kfo2jwwIPruYS2UWh56": [
+      "grunge",
+      "rock",
+      "post-grunge"
     ]
   }
 }
