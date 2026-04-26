@@ -1297,9 +1297,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 15:32:30
-Telemetry age             : 15:32:30
-Δ time (since last report): 00:00:50
+Time since last play      : 18:08:20
+Telemetry age             : 18:08:20
+Δ time (since last report): 02:35:51
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,10 +1318,10 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-19 07:02:56Z → 2026-04-26 07:02:56Z
-Total tracks played       : 16
+Week window (UTC)         : 2026-04-19 09:38:46Z → 2026-04-26 09:38:46Z
+Total tracks played       : 13
 Dominant artist           : Faith No More
-Cadence classification    : MEDIUM
+Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1329,22 +1329,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 06:00
 Peak hour (7d)            : 21:00
 Heatmap (24h)             :       ██   █            
-Heatmap (7d)              :    ▃▆ ▃▂   ▂        ▂█  
+Heatmap (7d)              :     ▅ ▃▂   ▂        ▂█  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 10:08:11
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 10:34:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(3) | alternative metal(2) | funk rock(2) | rap metal(2) | post-grunge(1) | rock(1)
-Top genres (7d)           : grunge(10) | alternative metal(9) | rap metal(9) | funk rock(8) | doom metal(2) | gothic metal(2)
+Top genres (7d)           : grunge(10) | alternative metal(9) | rap metal(9) | funk rock(8) | post-grunge(2) | doom metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-26 07:02:56Z
+Report generated (UTC)    : 2026-04-26 09:38:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
