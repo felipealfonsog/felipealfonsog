@@ -413,17 +413,17 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-25T21:18:39+00:00 | last_update=2026-04-25T21:18:39+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-26T01:03:34+00:00 | last_update=2026-04-26T01:03:34+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
-01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
-02. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
-03. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
-04. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
-05. The Autobiography of a Yogi — Paramahansa Yogananda
-06. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
-07. Leviathan — Thomas Hobbes
-08. Aferrada a mi balsa — Gladys Díaz Armijo
+01. An Introduction to Zen Buddhism — D.T. Suzuki
+02. Shobogenzo "Zazengi"- English edition — dogen kigen
+03. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
+04. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+05. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+06. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+07. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+08. The Autobiography of a Yogi — Paramahansa Yogananda
 
 [recent_read] shelf=read books=10 limit=10
 01. Programming Perl (3rd Edition) — Larry Wall

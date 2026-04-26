@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-04-25T21:18:39+00:00",
-    "last_successful_sync": "2026-04-25T21:18:39+00:00",
+    "last_attempted_sync": "2026-04-26T01:03:34+00:00",
+    "last_successful_sync": "2026-04-26T01:03:34+00:00",
     "error_message": ""
   },
   "sections": {
@@ -16,6 +16,33 @@
       "limit": 8,
       "item_count": 8,
       "books": [
+        {
+          "title": "An Introduction to Zen Buddhism",
+          "author": "D.T. Suzuki",
+          "link": "https://www.goodreads.com/review/show/8551382313?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386501012l/19285004._SY75_.jpg",
+          "summary": "author: D.T. Suzuki name: Felipe Alfonso average rating: 4.28 book published: 1934 rating: 0 read at: date added: 2026/04/25 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/8551382313?utm_medium=api&utm_source=rss",
+          "pub_date": "Sat, 25 Apr 2026 15:50:09 -0700"
+        },
+        {
+          "title": "Shobogenzo \"Zazengi\"- English edition",
+          "author": "dogen kigen",
+          "link": "https://www.goodreads.com/review/show/8551368666?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718804453l/215002572._SX50_.jpg",
+          "summary": "author: dogen kigen name: Felipe Alfonso average rating: 0.0 book published: rating: 0 read at: date added: 2026/04/25 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/8551368666?utm_medium=api&utm_source=rss",
+          "pub_date": "Sat, 25 Apr 2026 15:43:27 -0700"
+        },
+        {
+          "title": "Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern...",
+          "author": "Jeri Takimoto",
+          "link": "https://www.goodreads.com/review/show/8551354385?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737133217l/223728231._SY75_.jpg",
+          "summary": "author: Jeri Takimoto name: Felipe Alfonso average rating: 0.0 book published: rating: 0 read at: date added: 2026/04/25 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/8551354385?utm_medium=api&utm_source=rss",
+          "pub_date": "Sat, 25 Apr 2026 15:36:12 -0700"
+        },
         {
           "title": "Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition)",
           "author": "Sergio Salinas Cañas",
@@ -60,33 +87,6 @@
           "summary": "author: Paramahansa Yogananda name: Felipe Alfonso average rating: 4.44 book published: 1946 rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8455624520?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 21 Mar 2026 08:12:09 -0700"
-        },
-        {
-          "title": "PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3)",
-          "author": "Robert Morton",
-          "link": "https://www.goodreads.com/review/show/8399631886?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg",
-          "summary": "author: Robert Morton name: Felipe Alfonso average rating: 4.67 book published: rating: 0 read at: date added: 2026/02/28 shelves: currently-reading review:",
-          "guid": "https://www.goodreads.com/review/show/8399631886?utm_medium=api&utm_source=rss",
-          "pub_date": "Sat, 28 Feb 2026 20:50:44 -0800"
-        },
-        {
-          "title": "Leviathan",
-          "author": "Thomas Hobbes",
-          "link": "https://www.goodreads.com/review/show/8120974609?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg",
-          "summary": "author: Thomas Hobbes name: Felipe Alfonso average rating: 4.60 book published: 1651 rating: 0 read at: date added: 2025/12/04 shelves: currently-reading review:",
-          "guid": "https://www.goodreads.com/review/show/8120974609?utm_medium=api&utm_source=rss",
-          "pub_date": "Thu, 04 Dec 2025 08:12:48 -0800"
-        },
-        {
-          "title": "Aferrada a mi balsa",
-          "author": "Gladys Díaz Armijo",
-          "link": "https://www.goodreads.com/review/show/8083185323?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg",
-          "summary": "author: Gladys Díaz Armijo name: Felipe Alfonso average rating: 4.86 book published: 2025 rating: 5 read at: date added: 2025/11/18 shelves: currently-reading review:",
-          "guid": "https://www.goodreads.com/review/show/8083185323?utm_medium=api&utm_source=rss",
-          "pub_date": "Tue, 18 Nov 2025 22:48:05 -0800"
         }
       ]
     },
