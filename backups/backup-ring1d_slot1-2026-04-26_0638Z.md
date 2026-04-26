@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-04-25_0631Z
+ snapshot_utc : 2026-04-26_0638Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -420,17 +420,17 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-25T04:04:13+00:00 | last_update=2026-04-25T04:04:13+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-26T04:15:47+00:00 | last_update=2026-04-26T04:15:47+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
-01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
-02. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
-03. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
-04. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
-05. The Autobiography of a Yogi — Paramahansa Yogananda
-06. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
-07. Leviathan — Thomas Hobbes
-08. Aferrada a mi balsa — Gladys Díaz Armijo
+01. An Introduction to Zen Buddhism — D.T. Suzuki
+02. Shobogenzo "Zazengi"- English edition — dogen kigen
+03. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
+04. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+05. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+06. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+07. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+08. The Autobiography of a Yogi — Paramahansa Yogananda
 
 [recent_read] shelf=read books=10 limit=10
 01. Programming Perl (3rd Edition) — Larry Wall
@@ -496,8 +496,8 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 214 ms
-TTFB................ 213 ms
+LATENCY............. 227 ms
+TTFB................ 226 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -515,9 +515,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PARTIAL
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -531,7 +531,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-04-25T04:03:26Z
+LAST_PROBE_UTC...... 2026-04-26T01:01:18Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -571,19 +571,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444156
-longitude      : -70.650481
-altitude       : 58 m
-gps_accuracy   : ±6.6 m
-heading        : 181°
-speed          : 0.2 km/h
-status         : low_movement
+location       : pedestrian_axis
+latitude       : -33.437928
+longitude      : -70.647117
+altitude       : 46 m
+gps_accuracy   : ±5.3 m
+heading        : 246°
+speed          : 0.5 km/h
+status         : resting
 phase          : overnight
-local_time     : 02:25
+local_time     : 02:32
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-04-25 06:25:26 UTC
+updated_utc    : 2026-04-26 06:32:18 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -702,7 +702,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-25 04:20:07Z
+DSN snapshot (UTC)       : 2026-04-26 04:30:09Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -713,15 +713,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.760 AU
-Heliocentric distance    : 170.369 AU
-Relative speed           : 23.681 km/s
+Earth distance           : 25.40e9 km | 169.761 AU
+Heliocentric distance    : 170.378 AU
+Relative speed           : 23.873 km/s
 ------------------------------------------------------------
 One-way light time       : 23:31:51
-Round-trip latency       : 47:03:42
+Round-trip latency       : 47:03:43
 ------------------------------------------------------------
-Δ distance (since last)  : +6,841 km
-Mission age              : 48 years, 244 days
+Δ distance (since last)  : +14,761 km
+Mission age              : 48 years, 245 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -732,19 +732,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.519 AU
-Heliocentric distance    : 142.706 AU
-Relative speed           : 22.616 km/s
+Earth distance           : 21.32e9 km | 142.515 AU
+Heliocentric distance    : 142.714 AU
+Relative speed           : 22.647 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:18
-Round-trip latency       : 39:30:36
+One-way light time       : 19:45:16
+Round-trip latency       : 39:30:31
 ------------------------------------------------------------
-Δ distance (since last)  : -182,981 km
-Mission age              : 48 years, 260 days
+Δ distance (since last)  : -185,997 km
+Mission age              : 48 years, 261 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-25 04:20:09Z
+Report generated (UTC)   : 2026-04-26 04:30:13Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1296,17 +1296,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Sevendust — Threshold
-Last played (UTC)         : 2026-04-24 10:20:06Z
+Last played               : Pearl Jam — Better Man - Guitar / Organ Only
+Last played (UTC)         : 2026-04-25 15:30:27Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 17:58:57
-Telemetry age             : 17:58:57
-Δ time (since last report): 00:00:18
+Time since last play      : 12:59:39
+Telemetry age             : 12:59:39
+Δ time (since last report): 00:00:46
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1319,39 +1319,39 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 3
-Dominant artist           : Sevendust
+Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-18 04:19:02Z → 2026-04-25 04:19:02Z
-Total tracks played       : 44
-Dominant artist           : Rama
-Cadence classification    : HIGH
+Week window (UTC)         : 2026-04-19 04:30:05Z → 2026-04-26 04:30:05Z
+Total tracks played       : 16
+Dominant artist           : Faith No More
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 04:00
-Peak hour (7d)            : 14:00
-Heatmap (24h)             :     █ ▄                 
-Heatmap (7d)              :    ▁▃▂▁      ▃█▄▁   ▁▃  
+Peak hour (24h)           : 06:00
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :       ██   █            
+Heatmap (7d)              :    ▃▆ ▃▂   ▂        ▂█  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 03:22:50
+Sessions (24h)            : 2
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 10:08:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(2) | rap metal(2) | funk rock(1) | grunge(1) | hard rock(1) | nu metal(1)
-Top genres (7d)           : rap metal(30) | nu metal(24) | doom metal(9) | gothic metal(9) | gothic rock(9) | progressive metal(9)
+Top genres (24h)          : grunge(3) | alternative metal(2) | funk rock(2) | rap metal(2) | post-grunge(1) | rock(1)
+Top genres (7d)           : grunge(10) | alternative metal(9) | rap metal(9) | funk rock(8) | doom metal(2) | gothic metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-25 04:19:02Z
+Report generated (UTC)    : 2026-04-26 04:30:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1705,7 +1705,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 24 April 2026
+From: 04 December 2023 - To: 25 April 2026
 
 Total Time       : 1,016 hrs 13 mins
 Mostly coding in : Other
@@ -1716,8 +1716,8 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          418 hrs 13 mins ●●●●●●●●●●◔○○○○○○○○○○○○○○○  41.16 %
-Bash           168 hrs 20 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.57 %
+Other          422 hrs 55 mins ●●●●●●●●●●◔○○○○○○○○○○○○○○○  41.62 %
+Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.57 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.66 %
 HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.92 %
 PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.70 %
@@ -1729,18 +1729,18 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            796 hrs 51 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  78.41 %
+Mac            801 hrs 34 mins ●●●●●●●●●●●●●●●●●●●●◔○○○○○  78.88 %
 Linux          637 hrs 34 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.74 %
 
 EDITORS
 -------
 VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.32 %
-Firefox        352 hrs 53 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  34.73 %
+Firefox        357 hrs 32 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.18 %
 Vim            329 hrs 10 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.39 %
-Terminal       19 hrs 26 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.91 %
+Terminal       19 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.91 %
 Spotify        16 hrs 2 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.58 %
 TeXstudio      11 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
-‎WhatsApp      9 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.98 %
+‎WhatsApp      10 hrs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.98 %
 Acrobat        7 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.77 %
 Dia            5 hrs 55 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
 Antigravity    5 hrs 50 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
@@ -1749,15 +1749,15 @@ Termius        3 hrs 30 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,066 hrs 3 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       349 hrs 18 mins ●●●●●●●●◔○○○○○○○○○○○○○○○○○  34.37 %
-Meeting        16 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.65 %
+Coding         1,066 hrs 4 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       353 hrs 57 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  34.83 %
+Meeting        16 hrs 49 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.66 %
 Writing Docs   2 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.22 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 25/04/2026 04:56:59 UTC
+Last updated     : 26/04/2026 05:09:43 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2605,7 +2605,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
   🧬 C++ · Python · Makefile  •  ⭐ 9
 - [TermNotes](https://github.com/felipealfonsog/TermNotes): Term Notes is a simple command-line utility for creating and managing notes directly from your terminal.
-  🧬 C · Shell · Ruby  •  ⭐ 7
+  🧬 C · Shell · Ruby  •  ⭐ 8
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
   🧬 JavaScript · CSS · Shell  •  ⭐ 54
 - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
