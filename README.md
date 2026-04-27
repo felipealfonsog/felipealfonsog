@@ -1289,17 +1289,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pearl Jam — Better Man - Guitar / Organ Only
-Last played (UTC)         : 2026-04-25 15:30:27Z
+Last played               : endless withdrawal — someone you love is gone
+Last played (UTC)         : 2026-04-27 05:07:22Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Pearl Jam — Better Man - Guitar / Organ Only → endless withdrawal — someone you love is gone
+Δ last played (since last): 2026-04-25 15:30:27Z → 2026-04-27 05:07:22Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 37:03:25
-Telemetry age             : 37:03:25
-Δ time (since last report): 00:00:35
+Time since last play      : 02:09:23
+Telemetry age             : 02:09:23
+Δ time (since last report): 02:42:54
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1311,40 +1311,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 2
+Dominant artist           : endless withdrawal
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-20 04:33:51Z → 2026-04-27 04:33:51Z
-Total tracks played       : 13
+Week window (UTC)         : 2026-04-20 07:16:45Z → 2026-04-27 07:16:45Z
+Total tracks played       : 15
 Dominant artist           : Faith No More
-Cadence classification    : LOW
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 01:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▅ ▃▂   ▂        ▂█  
+Heatmap (24h)             :  █                      
+Heatmap (7d)              :  ▃  ▅ ▃▂   ▂        ▂█  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 10:34:24
+Sessions (24h)            : 1
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 11:44:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(10) | alternative metal(9) | rap metal(9) | funk rock(8) | post-grunge(2) | doom metal(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : ambient(1) | dark ambient(1)
+Top genres (7d)           : grunge(10) | alternative metal(9) | rap metal(9) | funk rock(8) | post-grunge(2) | ambient(1)
+Artist lookups (this run) : 3 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-27 04:33:51Z
+Report generated (UTC)    : 2026-04-27 07:16:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

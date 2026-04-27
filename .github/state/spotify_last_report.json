@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-04-27 04:33:51Z",
+  "report_generated_utc": "2026-04-27 07:16:45Z",
   "status": "IDLE",
-  "last_track": "Pearl Jam — Better Man - Guitar / Organ Only",
-  "last_played_utc": "2026-04-25 15:30:27Z",
+  "last_track": "endless withdrawal — someone you love is gone",
+  "last_played_utc": "2026-04-27 05:07:22Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -709,6 +709,12 @@
       "grunge",
       "rock",
       "post-grunge"
-    ]
+    ],
+    "38BaarFdCwCpVmw0rXB2tu": [
+      "dark ambient",
+      "ambient"
+    ],
+    "4KPgZSnwlJl4LnUDb09mCw": [],
+    "12Zk1DFhCbHY6v3xep2ZjI": []
   }
 }
