@@ -1293,13 +1293,13 @@ Last played               : endless withdrawal — someone you love is gone
 Last played (UTC)         : 2026-04-27 05:07:22Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pearl Jam — Better Man - Guitar / Organ Only → endless withdrawal — someone you love is gone
-Δ last played (since last): 2026-04-25 15:30:27Z → 2026-04-27 05:07:22Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:09:23
-Telemetry age             : 02:09:23
-Δ time (since last report): 02:42:54
+Time since last play      : 02:10:07
+Telemetry age             : 02:10:07
+Δ time (since last report): 00:00:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,7 +1318,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-20 07:16:45Z → 2026-04-27 07:16:45Z
+Week window (UTC)         : 2026-04-20 07:17:28Z → 2026-04-27 07:17:28Z
 Total tracks played       : 15
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
@@ -1342,9 +1342,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : ambient(1) | dark ambient(1)
 Top genres (7d)           : grunge(10) | alternative metal(9) | rap metal(9) | funk rock(8) | post-grunge(2) | ambient(1)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-27 07:16:45Z
+Report generated (UTC)    : 2026-04-27 07:17:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
