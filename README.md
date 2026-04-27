@@ -1297,9 +1297,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:41:39
-Telemetry age             : 13:41:39
-Δ time (since last report): 00:00:19
+Time since last play      : 13:42:19
+Telemetry age             : 13:42:19
+Δ time (since last report): 00:00:40
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,7 +1318,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-20 18:49:01Z → 2026-04-27 18:49:01Z
+Week window (UTC)         : 2026-04-20 18:49:40Z → 2026-04-27 18:49:40Z
 Total tracks played       : 14
 Dominant artist           : Faith No More
 Cadence classification    : LOW
@@ -1344,7 +1344,7 @@ Top genres (24h)          : ambient(1) | dark ambient(1)
 Top genres (7d)           : alternative metal(9) | grunge(9) | rap metal(9) | funk rock(8) | ambient(1) | dark ambient(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-27 18:49:01Z
+Report generated (UTC)    : 2026-04-27 18:49:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
