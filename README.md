@@ -1289,17 +1289,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : endless withdrawal — someone you love is gone
-Last played (UTC)         : 2026-04-27 05:07:22Z
+Last played               : Boombap Cafe — Macha Standard
+Last played (UTC)         : 2026-04-27 20:06:20Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : endless withdrawal — someone you love is gone → Boombap Cafe — Macha Standard
+Δ last played (since last): 2026-04-27 05:07:22Z → 2026-04-27 20:06:20Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:42:19
-Telemetry age             : 13:42:19
-Δ time (since last report): 00:00:40
+Time since last play      : 01:33:21
+Telemetry age             : 01:33:21
+Δ time (since last report): 02:50:01
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1311,40 +1311,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : endless withdrawal
+Tracks played (last 24h)  : 3
+Dominant artist           : Boombap Cafe
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-20 18:49:40Z → 2026-04-27 18:49:40Z
-Total tracks played       : 14
+Week window (UTC)         : 2026-04-20 21:39:41Z → 2026-04-27 21:39:41Z
+Total tracks played       : 15
 Dominant artist           : Faith No More
-Cadence classification    : LOW
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 01:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :  █                      
-Heatmap (7d)              :  ▃  ▃ ▃▂   ▂        ▂█  
+Heatmap (24h)             :  █              ▄       
+Heatmap (7d)              :  ▃  ▃ ▃▂   ▂    ▂   ▂█  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 11:26:16
+Sessions (24h)            : 2
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 11:41:27
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient(1) | dark ambient(1)
-Top genres (7d)           : alternative metal(9) | grunge(9) | rap metal(9) | funk rock(8) | ambient(1) | dark ambient(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : ambient(1) | boom bap(1) | dark ambient(1)
+Top genres (7d)           : alternative metal(9) | grunge(9) | rap metal(9) | funk rock(8) | ambient(1) | boom bap(1)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-27 18:49:40Z
+Report generated (UTC)    : 2026-04-27 21:39:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
