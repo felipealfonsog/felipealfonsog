@@ -413,7 +413,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-29T07:03:28+00:00 | last_update=2026-04-29T07:03:28+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-29T09:50:53+00:00 | last_update=2026-04-29T09:50:53+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -426,16 +426,16 @@ ICONOS INICIALES INLINE SVG1
 08. The Autobiography of a Yogi — Paramahansa Yogananda
 
 [recent_read] shelf=read books=10 limit=10
-01. Programming Perl (3rd Edition) — Larry Wall
-02. Mala onda — Alberto Fuguet
-03. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
-04. Freedom from the Known — J. Krishnamurti
-05. In My Father's Den — Maurice Gee
-06. The Poetry of Pablo Neruda — Pablo Neruda
-07. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
-08. Cujo — Stephen King
-09. On Writing — Ernest Hemingway
-10. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
+01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
+02. Programming Perl (3rd Edition) — Larry Wall
+03. Mala onda — Alberto Fuguet
+04. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
+05. Freedom from the Known — J. Krishnamurti
+06. In My Father's Den — Maurice Gee
+07. The Poetry of Pablo Neruda — Pablo Neruda
+08. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
+09. Cujo — Stephen King
+10. On Writing — Ernest Hemingway
 
 ```
 <!-- GOODREADS:CLI_END -->

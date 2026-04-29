@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-04-29T07:03:28+00:00",
-    "last_successful_sync": "2026-04-29T07:03:28+00:00",
+    "last_attempted_sync": "2026-04-29T09:50:53+00:00",
+    "last_successful_sync": "2026-04-29T09:50:53+00:00",
     "error_message": ""
   },
   "sections": {
@@ -99,6 +99,15 @@
       "item_count": 10,
       "books": [
         {
+          "title": "A New Earth: Awakening to Your Life's Purpose",
+          "author": "Eckhart Tolle",
+          "link": "https://www.goodreads.com/review/show/8560692951?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388206232l/76334._SY75_.jpg",
+          "summary": "author: Eckhart Tolle name: Felipe Alfonso average rating: 4.15 book published: 2005 rating: 5 read at: date added: 2026/04/29 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8560692951?utm_medium=api&utm_source=rss",
+          "pub_date": "Wed, 29 Apr 2026 02:44:35 -0700"
+        },
+        {
           "title": "Programming Perl (3rd Edition)",
           "author": "Larry Wall",
           "link": "https://www.goodreads.com/review/show/8267390277?utm_medium=api&utm_source=rss",
@@ -178,15 +187,6 @@
           "summary": "author: Ernest Hemingway name: Felipe Alfonso average rating: 4.03 book published: 1984 rating: 5 read at: date added: 2025/10/25 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/2668694518?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Oct 2025 06:02:03 -0700"
-        },
-        {
-          "title": "Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition)",
-          "author": "Victor Chavez",
-          "link": "https://www.goodreads.com/review/show/8019181335?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg",
-          "summary": "author: Victor Chavez name: Felipe Alfonso average rating: 5.00 book published: rating: 5 read at: date added: 2025/10/25 shelves: review:",
-          "guid": "https://www.goodreads.com/review/show/8019181335?utm_medium=api&utm_source=rss",
-          "pub_date": "Sat, 25 Oct 2025 05:59:03 -0700"
         }
       ]
     }
