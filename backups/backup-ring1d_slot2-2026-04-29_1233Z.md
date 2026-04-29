@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-04-28_1236Z
+ snapshot_utc : 2026-04-29_1233Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -420,7 +420,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-28T09:54:59+00:00 | last_update=2026-04-28T09:54:59+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-29T09:50:53+00:00 | last_update=2026-04-29T09:50:53+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -433,16 +433,16 @@ ICONOS INICIALES INLINE SVG1
 08. The Autobiography of a Yogi — Paramahansa Yogananda
 
 [recent_read] shelf=read books=10 limit=10
-01. Programming Perl (3rd Edition) — Larry Wall
-02. Mala onda — Alberto Fuguet
-03. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
-04. Freedom from the Known — J. Krishnamurti
-05. In My Father's Den — Maurice Gee
-06. The Poetry of Pablo Neruda — Pablo Neruda
-07. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
-08. Cujo — Stephen King
-09. On Writing — Ernest Hemingway
-10. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
+01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
+02. Programming Perl (3rd Edition) — Larry Wall
+03. Mala onda — Alberto Fuguet
+04. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
+05. Freedom from the Known — J. Krishnamurti
+06. In My Father's Den — Maurice Gee
+07. The Poetry of Pablo Neruda — Pablo Neruda
+08. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
+09. Cujo — Stephen King
+10. On Writing — Ernest Hemingway
 
 ```
 <!-- GOODREADS:CLI_END -->
@@ -496,13 +496,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 300 ms
-TTFB................ 299 ms
+LATENCY............. 186 ms
+TTFB................ 185 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 68d
+TLS_EXPIRY.......... 67d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -531,7 +531,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-04-28T07:08:04Z
+LAST_PROBE_UTC...... 2026-04-29T09:50:15Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -572,18 +572,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : transit_corridor
-latitude       : -33.446964
-longitude      : -70.661666
-altitude       : 90 m
-gps_accuracy   : ±7.5 m
-heading        : 148°
-speed          : 5.5 km/h
-status         : walking
+latitude       : -33.446748
+longitude      : -70.662196
+altitude       : 117 m
+gps_accuracy   : ±3.9 m
+heading        : 89°
+speed          : 0.3 km/h
+status         : stationary
 phase          : morning
-local_time     : 08:28
+local_time     : 08:24
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-04-28 12:28:18 UTC
+signal         : stable
+updated_utc    : 2026-04-29 12:24:34 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -702,7 +702,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-28 10:07:47Z
+DSN snapshot (UTC)       : 2026-04-29 10:06:13Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -713,15 +713,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.762 AU
-Heliocentric distance    : 170.400 AU
-Relative speed           : 24.306 km/s
+Earth distance           : 25.40e9 km | 169.763 AU
+Heliocentric distance    : 170.410 AU
+Relative speed           : 24.503 km/s
 ------------------------------------------------------------
 One-way light time       : 23:31:52
-Round-trip latency       : 47:03:44
+Round-trip latency       : 47:03:45
 ------------------------------------------------------------
-Δ distance (since last)  : +26,092 km
-Mission age              : 48 years, 247 days
+Δ distance (since last)  : +32,515 km
+Mission age              : 48 years, 248 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -732,19 +732,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.505 AU
-Heliocentric distance    : 142.734 AU
-Relative speed           : 22.731 km/s
+Earth distance           : 21.32e9 km | 142.501 AU
+Heliocentric distance    : 142.742 AU
+Relative speed           : 22.774 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:11
-Round-trip latency       : 39:30:22
+One-way light time       : 19:45:09
+Round-trip latency       : 39:30:18
 ------------------------------------------------------------
-Δ distance (since last)  : -144,284 km
-Mission age              : 48 years, 263 days
+Δ distance (since last)  : -141,938 km
+Mission age              : 48 years, 264 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-28 10:07:54Z
+Report generated (UTC)   : 2026-04-29 10:06:18Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1296,17 +1296,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Boombap Cafe — Macha Standard
-Last played (UTC)         : 2026-04-27 20:06:20Z
+Last played               : Faith No More — Stripsearch - 2016 Remaster
+Last played (UTC)         : 2026-04-28 11:16:40Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 14:00:11
-Telemetry age             : 14:00:11
-Δ time (since last report): 00:00:17
+Time since last play      : 22:48:28
+Telemetry age             : 22:48:28
+Δ time (since last report): 00:00:18
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1319,39 +1319,39 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 1
-Dominant artist           : Boombap Cafe
+Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-21 10:06:30Z → 2026-04-28 10:06:30Z
-Total tracks played       : 14
+Week window (UTC)         : 2026-04-22 10:05:08Z → 2026-04-29 10:05:08Z
+Total tracks played       : 10
 Dominant artist           : Faith No More
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 16:00
-Peak hour (7d)            : 21:00
-Heatmap (24h)             :                 █       
-Heatmap (7d)              :  ▃  ▃ ▃▂   ▂    ▂    █  
+Peak hour (24h)           : 07:00
+Peak hour (7d)            : 01:00
+Heatmap (24h)             :        █                
+Heatmap (7d)              :  █  █ ██   ▄    ▄       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 10:39:44
+Avg inter-play gap (7d)   : 11:00:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : boom bap(1)
-Top genres (7d)           : alternative metal(9) | grunge(9) | rap metal(9) | funk rock(8) | ambient(1) | boom bap(1)
+Top genres (24h)          : alternative metal(1) | funk rock(1) | grunge(1) | rap metal(1)
+Top genres (7d)           : alternative metal(5) | grunge(5) | rap metal(5) | funk rock(4) | ambient(1) | boom bap(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-28 10:06:30Z
+Report generated (UTC)    : 2026-04-29 10:05:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1705,7 +1705,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 28 April 2026
+From: 04 December 2023 - To: 29 April 2026
 
 Total Time       : 1,016 hrs 13 mins
 Mostly coding in : Other
@@ -1757,7 +1757,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/04/2026 11:39:07 UTC
+Last updated     : 29/04/2026 11:36:58 UTC
 
 ```
 <!--END_SECTION:wakastats-->
