@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-04-29_0035Z
+ snapshot_utc : 2026-04-30_0035Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -420,7 +420,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-04-28T21:30:51+00:00 | last_update=2026-04-28T21:30:51+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-04-29T21:31:06+00:00 | last_update=2026-04-29T21:31:06+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -433,16 +433,16 @@ ICONOS INICIALES INLINE SVG1
 08. The Autobiography of a Yogi — Paramahansa Yogananda
 
 [recent_read] shelf=read books=10 limit=10
-01. Programming Perl (3rd Edition) — Larry Wall
-02. Mala onda — Alberto Fuguet
-03. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
-04. Freedom from the Known — J. Krishnamurti
-05. In My Father's Den — Maurice Gee
-06. The Poetry of Pablo Neruda — Pablo Neruda
-07. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
-08. Cujo — Stephen King
-09. On Writing — Ernest Hemingway
-10. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
+01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
+02. Programming Perl (3rd Edition) — Larry Wall
+03. Mala onda — Alberto Fuguet
+04. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
+05. Freedom from the Known — J. Krishnamurti
+06. In My Father's Den — Maurice Gee
+07. The Poetry of Pablo Neruda — Pablo Neruda
+08. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
+09. Cujo — Stephen King
+10. On Writing — Ernest Hemingway
 
 ```
 <!-- GOODREADS:CLI_END -->
@@ -496,13 +496,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 205 ms
-TTFB................ 204 ms
+LATENCY............. 198 ms
+TTFB................ 197 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 68d
+TLS_EXPIRY.......... 67d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -531,7 +531,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-04-28T18:42:51Z
+LAST_PROBE_UTC...... 2026-04-29T18:41:25Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -571,19 +571,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437843
-longitude      : -70.646535
-altitude       : 148 m
-gps_accuracy   : ±8.0 m
-heading        : 19°
-speed          : 6.1 km/h
+location       : urban_sector
+latitude       : -33.443673
+longitude      : -70.650297
+altitude       : 25 m
+gps_accuracy   : ±8.4 m
+heading        : 142°
+speed          : 3.7 km/h
 status         : walking
 phase          : evening
 local_time     : 20:16
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-04-29 00:16:44 UTC
+signal         : stable
+updated_utc    : 2026-04-30 00:16:23 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -702,7 +702,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-04-28 21:43:08Z
+DSN snapshot (UTC)       : 2026-04-29 21:43:59Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -713,15 +713,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.762 AU
-Heliocentric distance    : 170.405 AU
-Relative speed           : 24.401 km/s
+Earth distance           : 25.40e9 km | 169.763 AU
+Heliocentric distance    : 170.415 AU
+Relative speed           : 24.599 km/s
 ------------------------------------------------------------
-One-way light time       : 23:31:52
-Round-trip latency       : 47:03:44
+One-way light time       : 23:31:53
+Round-trip latency       : 47:03:45
 ------------------------------------------------------------
-Δ distance (since last)  : +14,868 km
-Mission age              : 48 years, 247 days
+Δ distance (since last)  : +56,006 km
+Mission age              : 48 years, 248 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -732,19 +732,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.503 AU
-Heliocentric distance    : 142.738 AU
-Relative speed           : 22.751 km/s
+Earth distance           : 21.32e9 km | 142.499 AU
+Heliocentric distance    : 142.747 AU
+Relative speed           : 22.797 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:10
-Round-trip latency       : 39:30:20
+One-way light time       : 19:45:08
+Round-trip latency       : 39:30:16
 ------------------------------------------------------------
-Δ distance (since last)  : -71,946 km
-Mission age              : 48 years, 263 days
+Δ distance (since last)  : -224,122 km
+Mission age              : 48 years, 264 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-04-28 21:43:10Z
+Report generated (UTC)   : 2026-04-29 21:44:02Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1304,9 +1304,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:25:49
-Telemetry age             : 10:25:49
-Δ time (since last report): 00:00:49
+Time since last play      : 34:26:22
+Telemetry age             : 34:26:22
+Δ time (since last report): 00:00:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,40 +1318,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Faith No More
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-21 21:42:28Z → 2026-04-28 21:42:28Z
-Total tracks played       : 15
+Week window (UTC)         : 2026-04-22 21:43:01Z → 2026-04-29 21:43:01Z
+Total tracks played       : 10
 Dominant artist           : Faith No More
-Cadence classification    : MEDIUM
+Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
-Peak hour (7d)            : 21:00
-Heatmap (24h)             :        █                
-Heatmap (7d)              :  ▃  ▃ ▃▃   ▂    ▂    █  
+Peak hour (24h)           : N/A
+Peak hour (7d)            : 01:00
+Heatmap (24h)             : N/A
+Heatmap (7d)              :  █  █ ██   ▄    ▄       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 10:59:04
+Sessions (24h)            : N/A
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 11:00:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | funk rock(1) | grunge(1) | rap metal(1)
-Top genres (7d)           : alternative metal(10) | grunge(10) | rap metal(10) | funk rock(9) | ambient(1) | boom bap(1)
+Top genres (24h)          : N/A
+Top genres (7d)           : alternative metal(5) | grunge(5) | rap metal(5) | funk rock(4) | ambient(1) | boom bap(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-04-28 21:42:28Z
+Report generated (UTC)    : 2026-04-29 21:43:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1705,7 +1705,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 28 April 2026
+From: 04 December 2023 - To: 29 April 2026
 
 Total Time       : 1,016 hrs 13 mins
 Mostly coding in : Other
@@ -1757,7 +1757,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/04/2026 22:27:00 UTC
+Last updated     : 29/04/2026 22:26:42 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2609,7 +2609,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
   🧬 JavaScript · CSS · Shell  •  ⭐ 54
 - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
-  🧬 C · Shell · Nix  •  ⭐ 3
+  🧬 C · Shell · Nix  •  ⭐ 4
 
 ### 🆕 Latest OSS Projects
 - [AegisIntel](https://github.com/felipealfonsog/AegisIntel): AegisIntel - Defensive threat intelligence platform that aggregates, normalizes, and correlates indicators of compromise (IOCs) to produce actionable insights.
