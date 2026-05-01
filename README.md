@@ -1277,74 +1277,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Faith No More — Stripsearch - 2016 Remaster
-Last played (UTC)         : 2026-04-28 11:16:40Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Silverchair — Shade
+Last played               : Silverchair — Pure Massacre
+Last played (UTC)         : 2026-05-01 03:18:33Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Faith No More — Stripsearch - 2016 Remaster → Silverchair — Pure Massacre
+Δ last played (since last): 2026-04-28 11:16:40Z → 2026-05-01 03:18:33Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 61:59:41
-Telemetry age             : 61:59:41
-Δ time (since last report): 03:35:22
+Time since last play      : 00:01:08
+Telemetry age             : 00:01:08
+Δ time (since last report): 02:03:21
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 9
+Dominant artist           : Silverchair
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-24 01:16:20Z → 2026-05-01 01:16:20Z
-Total tracks played       : 10
-Dominant artist           : Faith No More
-Cadence classification    : LOW
+Week window (UTC)         : 2026-04-24 03:19:41Z → 2026-05-01 03:19:41Z
+Total tracks played       : 19
+Dominant artist           : Silverchair
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 01:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  █  █ ██   ▄    ▄       
+Peak hour (24h)           : 22:00
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :                       █▆
+Heatmap (7d)              :  ▃  ▃ ▃▃   ▂    ▂     █▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 11:00:54
+Sessions (24h)            : 2
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 09:03:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(5) | grunge(5) | rap metal(5) | funk rock(4) | ambient(1) | boom bap(1)
+Top genres (24h)          : grunge(9) | post-grunge(9)
+Top genres (7d)           : grunge(14) | post-grunge(10) | alternative metal(5) | rap metal(5) | funk rock(4) | ambient(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-01 01:16:20Z
+Report generated (UTC)    : 2026-05-01 03:19:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
