@@ -2619,6 +2619,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell  •  ⭐ 4
 
 ### 🕒 Recently Active Projects
+- [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
+  🧬 Hack · PHP · JavaScript  •  ⭐ 4
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
   🧬 JavaScript · CSS · Shell  •  ⭐ 54
 - [PerlMemoPad](https://github.com/openvelora/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
@@ -2633,12 +2635,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · HTML  •  ⭐ 1
 - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): An automated tool for reconnecting to WiFi networks using ConnMan. It ensures continuous internet connectivity by reconnecting to the last connected network or the next available one.
   🧬 Python · Shell  •  ⭐ 2
-- [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
-  🧬 Shell · C · Makefile  •  ⭐ 1
 
 ### 📈 Popular Projects (Stars + Forks)
-- [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
-  🧬 Hack · PHP · JavaScript  •  ⭐ 3
 - [BashGuardian](https://github.com/felipealfonsog/BashGuardian): Bash script for backups/encrypted on Unix-like (Linux & macOS) systems.
   🧬 Shell · C  •  ⭐ 1
 - [BookmarkNest](https://github.com/felipealfonsog/BookmarkNest): BookmarkNest: Easily save and organize your bookmarks in the cloud or locally with this Chrome extension.
@@ -2649,6 +2647,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 COBOL  •  ⭐ 2
 - [EventSphere](https://github.com/openvelora/EventSphere): Standard Web application for managing social events of all kind.
   🧬 JavaScript · Pug · CSS  •  ⭐ 2
+- [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
+  🧬 Shell · C · Makefile  •  ⭐ 1
 - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
   🧬 Shell · Python  •  ⭐ 1
 - [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
