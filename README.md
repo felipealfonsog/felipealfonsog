@@ -2619,6 +2619,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell  •  ⭐ 4
 
 ### 🕒 Recently Active Projects
+- [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
+  🧬 Shell · Python · C  •  ⭐ 3
 - [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
   🧬 Hack · PHP · JavaScript  •  ⭐ 4
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
@@ -2629,8 +2631,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell · Nix  •  ⭐ 1
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
   🧬 Python · Shell  •  ⭐ 4
-- [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
-  🧬 Shell · Python · C  •  ⭐ 4
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML  •  ⭐ 1
 - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): An automated tool for reconnecting to WiFi networks using ConnMan. It ensures continuous internet connectivity by reconnecting to the last connected network or the next available one.
