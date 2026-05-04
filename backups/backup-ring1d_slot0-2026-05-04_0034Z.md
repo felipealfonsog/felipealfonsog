@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-05-03_0034Z
+ snapshot_utc : 2026-05-04_0034Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -420,7 +420,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-02T21:21:20+00:00 | last_update=2026-05-02T21:21:20+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-03T21:22:10+00:00 | last_update=2026-05-03T21:22:10+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=8 limit=8
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -496,13 +496,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 465 ms
-TTFB................ 464 ms
+LATENCY............. 68 ms
+TTFB................ 67 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 64d
+TLS_EXPIRY.......... 63d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -531,7 +531,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-02T06:50:42Z
+LAST_PROBE_UTC...... 2026-05-03T12:29:04Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -572,18 +572,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.444402
-longitude      : -70.650175
-altitude       : 151 m
-gps_accuracy   : ±6.6 m
-heading        : 246°
-speed          : 5.8 km/h
-status         : in_transit
+latitude       : -33.443703
+longitude      : -70.650815
+altitude       : 83 m
+gps_accuracy   : ±5.0 m
+heading        : 359°
+speed          : 0.6 km/h
+status         : stationary
 phase          : evening
-local_time     : 20:14
+local_time     : 20:15
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-05-03 00:14:25 UTC
+updated_utc    : 2026-05-04 00:15:10 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -702,7 +702,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-02 18:38:35Z
+DSN snapshot (UTC)       : 2026-05-03 18:38:35Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -713,15 +713,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.767 AU
-Heliocentric distance    : 170.443 AU
-Relative speed           : 25.178 km/s
+Earth distance           : 25.40e9 km | 169.769 AU
+Heliocentric distance    : 170.452 AU
+Relative speed           : 25.383 km/s
 ------------------------------------------------------------
 One-way light time       : 23:31:55
-Round-trip latency       : 47:03:49
+Round-trip latency       : 47:03:51
 ------------------------------------------------------------
-Δ distance (since last)  : +29,978 km
-Mission age              : 48 years, 251 days
+Δ distance (since last)  : +66,495 km
+Mission age              : 48 years, 252 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -732,19 +732,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.488 AU
-Heliocentric distance    : 142.772 AU
-Relative speed           : 22.951 km/s
+Earth distance           : 21.32e9 km | 142.484 AU
+Heliocentric distance    : 142.780 AU
+Relative speed           : 23.012 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:02
-Round-trip latency       : 39:30:04
+One-way light time       : 19:45:00
+Round-trip latency       : 39:30:00
 ------------------------------------------------------------
-Δ distance (since last)  : -72,142 km
-Mission age              : 48 years, 267 days
+Δ distance (since last)  : -141,379 km
+Mission age              : 48 years, 268 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-02 18:38:38Z
+Report generated (UTC)   : 2026-05-03 18:38:39Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1304,9 +1304,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 42:18:20
-Telemetry age             : 42:18:20
-Δ time (since last report): 00:01:15
+Time since last play      : 66:18:30
+Telemetry age             : 66:18:30
+Δ time (since last report): 00:01:14
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1325,7 +1325,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-25 21:36:53Z → 2026-05-02 21:36:53Z
+Week window (UTC)         : 2026-04-26 21:37:02Z → 2026-05-03 21:37:02Z
 Total tracks played       : 13
 Dominant artist           : Silverchair
 Cadence classification    : LOW
@@ -1351,7 +1351,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : grunge(10) | post-grunge(9) | alternative metal(1) | ambient(1) | boom bap(1) | dark ambient(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-02 21:36:53Z
+Report generated (UTC)    : 2026-05-03 21:37:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1705,9 +1705,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 02 May 2026
+From: 04 December 2023 - To: 03 May 2026
 
-Total Time       : 1,016 hrs 24 mins
+Total Time       : 1,016 hrs 26 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 9 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1716,7 +1716,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          435 hrs 9 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  42.81 %
+Other          435 hrs 13 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  42.82 %
 Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.56 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.66 %
 HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
@@ -1729,13 +1729,13 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            813 hrs 59 mins ●●●●●●●●●●●●●●●●●●●●◔○○○○○  80.08 %
+Mac            814 hrs 5 mins ●●●●●●●●●●●●●●●●●●●●◔○○○○○  80.09 %
 Linux          637 hrs 34 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.73 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.31 %
-Firefox        362 hrs 12 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.64 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.30 %
+Firefox        362 hrs 13 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.64 %
 Vim            329 hrs 10 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.39 %
 Terminal       19 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.91 %
 Spotify        16 hrs 25 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.62 %
@@ -1749,15 +1749,15 @@ Termius        3 hrs 30 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,073 hrs 3 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       358 hrs 37 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.28 %
+Coding         1,073 hrs 8 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       358 hrs 38 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.28 %
 Meeting        16 hrs 51 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.66 %
-Writing Docs   2 hrs 59 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.30 %
+Writing Docs   3 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.30 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 02/05/2026 22:19:23 UTC
+Last updated     : 03/05/2026 22:20:36 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1819,22 +1819,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/clsource">
         <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
@@ -2626,6 +2626,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell  •  ⭐ 4
 
 ### 🕒 Recently Active Projects
+- [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
+  🧬 Shell · Python · C  •  ⭐ 3
 - [WordCraft360](https://github.com/openvelora/WordCraft360): WordCraft360, the ultimate Writing Toolkit designed to elevate your writing experience to new heights. Inspired by the minimalist elegance of 750words.com.
   🧬 Hack · PHP · JavaScript  •  ⭐ 4
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
@@ -2636,8 +2638,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell · Nix  •  ⭐ 1
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
   🧬 Python · Shell  •  ⭐ 4
-- [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
-  🧬 Shell · Python · C  •  ⭐ 4
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML  •  ⭐ 1
 - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): An automated tool for reconnecting to WiFi networks using ConnMan. It ensures continuous internet connectivity by reconnecting to the last connected network or the next available one.
