@@ -1297,9 +1297,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 73:17:51
-Telemetry age             : 73:17:51
-Δ time (since last report): 00:00:28
+Time since last play      : 76:06:35
+Telemetry age             : 76:06:35
+Δ time (since last report): 02:48:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,8 +1318,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-27 04:36:24Z → 2026-05-04 04:36:24Z
-Total tracks played       : 13
+Week window (UTC)         : 2026-04-27 07:25:07Z → 2026-05-04 07:25:07Z
+Total tracks played       : 11
 Dominant artist           : Silverchair
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1329,22 +1329,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 22:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :  ▃     ▂        ▂     █▆
+Heatmap (7d)              :        ▂        ▂     █▆
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 07:51:01
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 07:55:13
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : grunge(10) | post-grunge(9) | alternative metal(1) | ambient(1) | boom bap(1) | dark ambient(1)
+Top genres (7d)           : grunge(10) | post-grunge(9) | alternative metal(1) | boom bap(1) | funk rock(1) | rap metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-04 04:36:24Z
+Report generated (UTC)    : 2026-05-04 07:25:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
