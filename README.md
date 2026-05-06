@@ -1289,17 +1289,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — Pure Massacre
-Last played (UTC)         : 2026-05-01 03:18:33Z
+Last played               : Pearl Jam — Corduroy - Alternate Take
+Last played (UTC)         : 2026-05-06 02:22:49Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Silverchair — Pure Massacre → Pearl Jam — Corduroy - Alternate Take
+Δ last played (since last): 2026-05-01 03:18:33Z → 2026-05-06 02:22:49Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 117:48:54
-Telemetry age             : 117:48:54
-Δ time (since last report): 00:00:24
+Time since last play      : 02:10:21
+Telemetry age             : 02:10:21
+Δ time (since last report): 03:25:43
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1311,40 +1311,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Pearl Jam
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-29 01:07:27Z → 2026-05-06 01:07:27Z
-Total tracks played       : 9
+Week window (UTC)         : 2026-04-29 04:33:10Z → 2026-05-06 04:33:10Z
+Total tracks played       : 10
 Dominant artist           : Silverchair
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :                       █▆
+Heatmap (24h)             :                       █ 
+Heatmap (7d)              :                       █▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:08:32
+Sessions (24h)            : 1
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 13:21:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(9) | post-grunge(9)
+Top genres (24h)          : grunge(1) | post-grunge(1) | rock(1)
+Top genres (7d)           : grunge(10) | post-grunge(10) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-06 01:07:27Z
+Report generated (UTC)    : 2026-05-06 04:33:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
