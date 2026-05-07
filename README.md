@@ -1293,13 +1293,13 @@ Last played               : Silverchair — Shade
 Last played (UTC)         : 2026-05-07 05:07:56Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pearl Jam — Corduroy - Alternate Take → Silverchair — Shade
-Δ last played (since last): 2026-05-06 02:22:49Z → 2026-05-07 05:07:56Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:13:32
-Telemetry age             : 02:13:32
-Δ time (since last report): 02:46:54
+Time since last play      : 02:14:08
+Telemetry age             : 02:14:08
+Δ time (since last report): 00:00:36
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,7 +1318,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-30 07:21:28Z → 2026-05-07 07:21:28Z
+Week window (UTC)         : 2026-04-30 07:22:03Z → 2026-05-07 07:22:03Z
 Total tracks played       : 11
 Dominant artist           : Silverchair
 Cadence classification    : LOW
@@ -1344,7 +1344,7 @@ Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : grunge(11) | post-grunge(11) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-07 07:21:28Z
+Report generated (UTC)    : 2026-05-07 07:22:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
