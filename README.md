@@ -413,9 +413,9 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-08T05:48:00+00:00 | last_update=2026-05-08T05:48:00+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-08T05:49:41+00:00 | last_update=2026-05-08T05:49:41+00:00 | source=goodreads_rss
 
-[currently_reading] shelf=currently-reading books=15 limit=15
+[currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
 02. Shobogenzo "Zazengi"- English edition — dogen kigen
 03. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
@@ -431,8 +431,18 @@ ICONOS INICIALES INLINE SVG1
 13. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
 14. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
 15. Más allá del bien y del mal — Friedrich Nietzsche
+16. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
+17. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
+18. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
+19. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
+20. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
+21. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
+22. Zen en el arte de escribir — Ray Bradbury
+23. Gray Target: A Luke Ryder Novel (Luke Ryder Series Book 3) — J. Benedict
+24. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
+25. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
 
-[recent_read] shelf=read books=15 limit=15
+[recent_read] shelf=read books=25 limit=25
 01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
 02. Programming Perl (3rd Edition) — Larry Wall
 03. Mala onda — Alberto Fuguet
@@ -448,6 +458,16 @@ ICONOS INICIALES INLINE SVG1
 13. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
 14. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
 15. Ebano — Ryszard Kapuściński
+16. MARY LAVELLE — Kate O'Brien
+17. Nosotras que nos queremos tanto — Marcela Serrano
+18. Donde mueren los valientes — Hernán Rivera Letelier
+19. Linear Algebra and Its Applications — Gilbert Strang
+20. Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes
+21. Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort
+22. Elementos de estadística descriptiva — Miguel Gómez Barrantes
+23. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
+24. Calculus — Purcell Rigdon Varberg
+25. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
 
 ```
 <!-- GOODREADS:CLI_END -->

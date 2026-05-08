@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-08T05:48:00+00:00",
-    "last_successful_sync": "2026-05-08T05:48:00+00:00",
+    "last_attempted_sync": "2026-05-08T05:49:41+00:00",
+    "last_successful_sync": "2026-05-08T05:49:41+00:00",
     "error_message": ""
   },
   "sections": {
@@ -13,8 +13,8 @@
       "title": "Currently Reading",
       "shelf": "currently-reading",
       "source_url": "https://www.goodreads.com/review/list_rss/10606567?shelf=currently-reading",
-      "limit": 15,
-      "item_count": 15,
+      "limit": 25,
+      "item_count": 25,
       "books": [
         {
           "title": "An Introduction to Zen Buddhism",
@@ -150,6 +150,96 @@
           "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 3.92 book published: 1886 rating: 0 read at: date added: 2025/10/20 shelves: currently-reading, philosophy review:",
           "guid": "https://www.goodreads.com/review/show/7248316358?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:18:02 -0700"
+        },
+        {
+          "title": "Waking Up: A Guide to Spirituality Without Religion",
+          "author": "Sam Harris",
+          "link": "https://www.goodreads.com/review/show/5985050529?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415677308l/18774981._SY75_.jpg",
+          "summary": "author: Sam Harris name: Felipe Alfonso average rating: 3.88 book published: 2014 rating: 0 read at: 2025/10/20 date added: 2025/10/20 shelves: favorites, buddhism, currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/5985050529?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:16:03 -0700"
+        },
+        {
+          "title": "Essential Buddhism: A Complete Guide to Beliefs and Practices",
+          "author": "Jack Maguire",
+          "link": "https://www.goodreads.com/review/show/2656668777?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347634422l/418425._SY75_.jpg",
+          "summary": "author: Jack Maguire name: Felipe Alfonso average rating: 3.97 book published: 2001 rating: 0 read at: 2025/10/20 date added: 2025/10/20 shelves: currently-reading, buddhism review:",
+          "guid": "https://www.goodreads.com/review/show/2656668777?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:15:19 -0700"
+        },
+        {
+          "title": "Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition)",
+          "author": "Ángel Villalobos",
+          "link": "https://www.goodreads.com/review/show/4990784941?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598099804l/55065122._SY75_.jpg",
+          "summary": "author: Ángel Villalobos name: Felipe Alfonso average rating: 5.00 book published: rating: 0 read at: 2025/10/20 date added: 2025/10/20 shelves: favorites, currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/4990784941?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:14:32 -0700"
+        },
+        {
+          "title": "The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01)",
+          "author": "Thomas S. Kuhn",
+          "link": "https://www.goodreads.com/review/show/8008430837?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696085876l/133287809._SY75_.jpg",
+          "summary": "author: Thomas S. Kuhn name: Felipe Alfonso average rating: 3.75 book published: 1962 rating: 0 read at: date added: 2025/10/20 shelves: currently-reading, favorites review:",
+          "guid": "https://www.goodreads.com/review/show/8008430837?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:13:07 -0700"
+        },
+        {
+          "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+          "author": "Cal Newport",
+          "link": "https://www.goodreads.com/review/show/2961526533?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549433350l/40672036._SY75_.jpg",
+          "summary": "author: Cal Newport name: Felipe Alfonso average rating: 4.05 book published: 2019 rating: 0 read at: 2025/10/20 date added: 2025/10/20 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/2961526533?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:12:31 -0700"
+        },
+        {
+          "title": "Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment",
+          "author": "Robert Wright",
+          "link": "https://www.goodreads.com/review/show/2793689234?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500809335l/32895535._SX50_.jpg",
+          "summary": "author: Robert Wright name: Felipe Alfonso average rating: 4.00 book published: 2017 rating: 5 read at: 2025/10/20 date added: 2025/10/20 shelves: buddhism, favorites, currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/2793689234?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:12:03 -0700"
+        },
+        {
+          "title": "Zen en el arte de escribir",
+          "author": "Ray Bradbury",
+          "link": "https://www.goodreads.com/review/show/2643854418?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460488034l/304583._SY75_.jpg",
+          "summary": "author: Ray Bradbury name: Felipe Alfonso average rating: 4.14 book published: 1973 rating: 5 read at: 2025/10/20 date added: 2025/10/20 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/2643854418?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:11:29 -0700"
+        },
+        {
+          "title": "Gray Target: A Luke Ryder Novel (Luke Ryder Series Book 3)",
+          "author": "J. Benedict",
+          "link": "https://www.goodreads.com/review/show/8001340548?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747854608l/234653028._SY75_.jpg",
+          "summary": "author: J. Benedict name: Felipe Alfonso average rating: 5.00 book published: rating: 0 read at: date added: 2025/10/17 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/8001340548?utm_medium=api&utm_source=rss",
+          "pub_date": "Fri, 17 Oct 2025 23:30:42 -0700"
+        },
+        {
+          "title": "Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health",
+          "author": "Murilo hammes",
+          "link": "https://www.goodreads.com/review/show/7769445617?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737223196l/223757824._SY75_.jpg",
+          "summary": "author: Murilo hammes name: Felipe Alfonso average rating: 4.00 book published: rating: 0 read at: 2025/08/24 date added: 2025/08/24 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/7769445617?utm_medium=api&utm_source=rss",
+          "pub_date": "Sun, 24 Aug 2025 12:04:49 -0700"
+        },
+        {
+          "title": "The Singularity is Near: When Humans Transcend Biology",
+          "author": "Ray Kurzweil",
+          "link": "https://www.goodreads.com/review/show/6560409677?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348757857l/83518._SX50_.jpg",
+          "summary": "author: Ray Kurzweil name: Felipe Alfonso average rating: 3.92 book published: 2005 rating: 0 read at: date added: 2025/08/05 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/6560409677?utm_medium=api&utm_source=rss",
+          "pub_date": "Tue, 05 Aug 2025 03:00:25 -0700"
         }
       ]
     },
@@ -158,8 +248,8 @@
       "title": "Recently Read",
       "shelf": "read",
       "source_url": "https://www.goodreads.com/review/list_rss/10606567?shelf=read",
-      "limit": 15,
-      "item_count": 15,
+      "limit": 25,
+      "item_count": 25,
       "books": [
         {
           "title": "A New Earth: Awakening to Your Life's Purpose",
@@ -295,6 +385,96 @@
           "summary": "author: Ryszard Kapuściński name: Felipe Alfonso average rating: 4.38 book published: 1998 rating: 5 read at: date added: 2025/10/25 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/8019174098?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Oct 2025 05:54:28 -0700"
+        },
+        {
+          "title": "MARY LAVELLE",
+          "author": "Kate O'Brien",
+          "link": "https://www.goodreads.com/review/show/8019173181?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181634672l/1173584._SY75_.jpg",
+          "summary": "author: Kate O'Brien name: Felipe Alfonso average rating: 3.84 book published: rating: 5 read at: date added: 2025/10/25 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8019173181?utm_medium=api&utm_source=rss",
+          "pub_date": "Sat, 25 Oct 2025 05:53:53 -0700"
+        },
+        {
+          "title": "Nosotras que nos queremos tanto",
+          "author": "Marcela Serrano",
+          "link": "https://www.goodreads.com/review/show/8019172354?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315409272l/1181999._SY75_.jpg",
+          "summary": "author: Marcela Serrano name: Felipe Alfonso average rating: 3.98 book published: 1991 rating: 5 read at: date added: 2025/10/25 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8019172354?utm_medium=api&utm_source=rss",
+          "pub_date": "Sat, 25 Oct 2025 05:53:22 -0700"
+        },
+        {
+          "title": "Donde mueren los valientes",
+          "author": "Hernán Rivera Letelier",
+          "link": "https://www.goodreads.com/review/show/8019170523?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314302973l/12436777._SY75_.jpg",
+          "summary": "author: Hernán Rivera Letelier name: Felipe Alfonso average rating: 3.40 book published: 1999 rating: 5 read at: date added: 2025/10/25 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8019170523?utm_medium=api&utm_source=rss",
+          "pub_date": "Sat, 25 Oct 2025 05:52:10 -0700"
+        },
+        {
+          "title": "Linear Algebra and Its Applications",
+          "author": "Gilbert Strang",
+          "link": "https://www.goodreads.com/review/show/8019165682?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348384442l/179699._SX50_.jpg",
+          "summary": "author: Gilbert Strang name: Felipe Alfonso average rating: 4.29 book published: 1976 rating: 5 read at: date added: 2025/10/25 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8019165682?utm_medium=api&utm_source=rss",
+          "pub_date": "Sat, 25 Oct 2025 05:49:04 -0700"
+        },
+        {
+          "title": "Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes",
+          "author": "BOOK SUMMARY by GetFlashNotes",
+          "link": "https://www.goodreads.com/review/show/8008420597?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419013866l/23821271._SY75_.jpg",
+          "summary": "author: BOOK SUMMARY by GetFlashNotes name: Felipe Alfonso average rating: 3.59 book published: 2014 rating: 0 read at: 2025/10/23 date added: 2025/10/23 shelves: buddhism review:",
+          "guid": "https://www.goodreads.com/review/show/8008420597?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:56:46 -0700"
+        },
+        {
+          "title": "Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition)",
+          "author": "Mercedes Orus Lacort",
+          "link": "https://www.goodreads.com/review/show/8014644253?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400889783l/22293792._SX50_.jpg",
+          "summary": "author: Mercedes Orus Lacort name: Felipe Alfonso average rating: 4.50 book published: 2014 rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014644253?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:55:00 -0700"
+        },
+        {
+          "title": "Elementos de estadística descriptiva",
+          "author": "Miguel Gómez Barrantes",
+          "link": "https://www.goodreads.com/review/show/8014643826?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341028907l/15728956._SX50_.jpg",
+          "summary": "author: Miguel Gómez Barrantes name: Felipe Alfonso average rating: 3.90 book published: 2009 rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014643826?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:54:48 -0700"
+        },
+        {
+          "title": "Programacion En C/c++java Y Uml. El Precio Es En Dolares",
+          "author": "IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR",
+          "link": "https://www.goodreads.com/review/show/8014639786?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697481696l/160528789._SX50_.jpg",
+          "summary": "author: IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR name: Felipe Alfonso average rating: 5.00 book published: rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014639786?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:52:41 -0700"
+        },
+        {
+          "title": "Calculus",
+          "author": "Purcell Rigdon Varberg",
+          "link": "https://www.goodreads.com/review/show/8014638288?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699051220l/6493084._SX50_.jpg",
+          "summary": "author: Purcell Rigdon Varberg name: Felipe Alfonso average rating: 4.00 book published: 1999 rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014638288?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:51:56 -0700"
+        },
+        {
+          "title": "CONVERSACIONES CON EL DEMONIO",
+          "author": "Carl Goldberg",
+          "link": "https://www.goodreads.com/review/show/8014634512?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679160497l/104773898._SY75_.jpg",
+          "summary": "author: Carl Goldberg name: Felipe Alfonso average rating: 5.00 book published: rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014634512?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:50:02 -0700"
         }
       ]
     }
