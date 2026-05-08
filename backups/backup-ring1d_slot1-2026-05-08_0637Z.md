@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-05-07_0700Z
+ snapshot_utc : 2026-05-08_0637Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -420,9 +420,9 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-07T04:22:39+00:00 | last_update=2026-05-07T04:22:39+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-08T05:49:41+00:00 | last_update=2026-05-08T05:49:41+00:00 | source=goodreads_rss
 
-[currently_reading] shelf=currently-reading books=8 limit=8
+[currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
 02. Shobogenzo "Zazengi"- English edition — dogen kigen
 03. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
@@ -431,8 +431,25 @@ ICONOS INICIALES INLINE SVG1
 06. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
 07. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
 08. The Autobiography of a Yogi — Paramahansa Yogananda
+09. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
+10. Leviathan — Thomas Hobbes
+11. Aferrada a mi balsa — Gladys Díaz Armijo
+12. Man's Search for Meaning — Viktor E. Frankl
+13. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
+14. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
+15. Más allá del bien y del mal — Friedrich Nietzsche
+16. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
+17. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
+18. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
+19. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
+20. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
+21. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
+22. Zen en el arte de escribir — Ray Bradbury
+23. Gray Target: A Luke Ryder Novel (Luke Ryder Series Book 3) — J. Benedict
+24. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
+25. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
 
-[recent_read] shelf=read books=10 limit=10
+[recent_read] shelf=read books=25 limit=25
 01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
 02. Programming Perl (3rd Edition) — Larry Wall
 03. Mala onda — Alberto Fuguet
@@ -443,6 +460,21 @@ ICONOS INICIALES INLINE SVG1
 08. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
 09. Cujo — Stephen King
 10. On Writing — Ernest Hemingway
+11. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
+12. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky
+13. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
+14. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
+15. Ebano — Ryszard Kapuściński
+16. MARY LAVELLE — Kate O'Brien
+17. Nosotras que nos queremos tanto — Marcela Serrano
+18. Donde mueren los valientes — Hernán Rivera Letelier
+19. Linear Algebra and Its Applications — Gilbert Strang
+20. Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes
+21. Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort
+22. Elementos de estadística descriptiva — Miguel Gómez Barrantes
+23. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
+24. Calculus — Purcell Rigdon Varberg
+25. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
 
 ```
 <!-- GOODREADS:CLI_END -->
@@ -496,13 +528,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 152 ms
-TTFB................ 151 ms
+LATENCY............. 156 ms
+TTFB................ 155 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 60d
+TLS_EXPIRY.......... 58d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -531,7 +563,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-07T01:02:40Z
+LAST_PROBE_UTC...... 2026-05-08T04:10:07Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -571,19 +603,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.441843
-longitude      : -70.653580
-altitude       : 156 m
-gps_accuracy   : ±5.7 m
-heading        : 25°
-speed          : 0.5 km/h
-status         : resting
+location       : urban_sector
+latitude       : -33.443934
+longitude      : -70.650397
+altitude       : 30 m
+gps_accuracy   : ±7.8 m
+heading        : 269°
+speed          : 0.8 km/h
+status         : stationary
 phase          : overnight
-local_time     : 02:52
+local_time     : 02:29
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-05-07 06:52:50 UTC
+signal         : nominal
+updated_utc    : 2026-05-08 06:29:48 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -702,7 +734,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-07 04:35:38Z
+DSN snapshot (UTC)       : 2026-05-08 04:25:39Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -713,15 +745,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.776 AU
-Heliocentric distance    : 170.486 AU
-Relative speed           : 26.094 km/s
+Earth distance           : 25.40e9 km | 169.779 AU
+Heliocentric distance    : 170.495 AU
+Relative speed           : 26.304 km/s
 ------------------------------------------------------------
-One-way light time       : 23:31:59
-Round-trip latency       : 47:03:58
+One-way light time       : 23:32:00
+Round-trip latency       : 47:04:01
 ------------------------------------------------------------
-Δ distance (since last)  : +52,422 km
-Mission age              : 48 years, 256 days
+Δ distance (since last)  : +111,768 km
+Mission age              : 48 years, 257 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -732,19 +764,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.472 AU
-Heliocentric distance    : 142.810 AU
-Relative speed           : 23.249 km/s
+Earth distance           : 21.31e9 km | 142.468 AU
+Heliocentric distance    : 142.819 AU
+Relative speed           : 23.326 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:54
-Round-trip latency       : 39:29:48
+One-way light time       : 19:44:52
+Round-trip latency       : 39:29:45
 ------------------------------------------------------------
-Δ distance (since last)  : -73,475 km
-Mission age              : 48 years, 272 days
+Δ distance (since last)  : -141,717 km
+Mission age              : 48 years, 273 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-07 04:35:40Z
+Report generated (UTC)   : 2026-05-08 04:25:41Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1296,17 +1328,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pearl Jam — Corduroy - Alternate Take
-Last played (UTC)         : 2026-05-06 02:22:49Z
+Last played               : Silverchair — Shade
+Last played (UTC)         : 2026-05-07 05:07:56Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 26:11:46
-Telemetry age             : 26:11:46
-Δ time (since last report): 00:00:14
+Time since last play      : 23:16:51
+Telemetry age             : 23:16:51
+Δ time (since last report): 00:00:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1318,40 +1350,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Silverchair
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-04-30 04:34:34Z → 2026-05-07 04:34:34Z
-Total tracks played       : 10
+Week window (UTC)         : 2026-05-01 04:24:47Z → 2026-05-08 04:24:47Z
+Total tracks played       : 2
 Dominant artist           : Silverchair
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 22:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :                       █▅
+Peak hour (24h)           : 01:00
+Peak hour (7d)            : 01:00
+Heatmap (24h)             :  █                      
+Heatmap (7d)              :  █                    █ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 13:21:24
+Sessions (24h)            : 1
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 26:45:07
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(10) | post-grunge(10) | rock(1)
+Top genres (24h)          : grunge(1) | post-grunge(1)
+Top genres (7d)           : grunge(2) | post-grunge(2) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-07 04:34:34Z
+Report generated (UTC)    : 2026-05-08 04:24:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1705,7 +1737,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 06 May 2026
+From: 04 December 2023 - To: 07 May 2026
 
 Total Time       : 1,016 hrs 41 mins
 Mostly coding in : Other
@@ -1716,7 +1748,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          440 hrs 37 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.34 %
+Other          443 hrs 3 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.58 %
 Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.56 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.65 %
 HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
@@ -1729,35 +1761,35 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            819 hrs 44 mins ●●●●●●●●●●●●●●●●●●●●◔○○○○○  80.63 %
-Linux          637 hrs 34 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.71 %
+Mac            822 hrs 7 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  80.86 %
+Linux          637 hrs 37 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.72 %
 
 EDITORS
 -------
 VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.29 %
-Firefox        364 hrs 58 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.90 %
-Vim            329 hrs 10 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.38 %
-Terminal       21 hrs         ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.07 %
-Spotify        16 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.62 %
+Firefox        365 hrs 18 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.93 %
+Vim            329 hrs 13 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.38 %
+Terminal       21 hrs 51 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
+Spotify        16 hrs 28 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.62 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
-Acrobat        11 hrs 42 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.15 %
+Acrobat        11 hrs 44 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
 ‎WhatsApp      10 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.99 %
 Dia            8 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.80 %
 Antigravity    5 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
 FileZilla      5 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
-Termius        4 hrs 2 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.40 %
+Termius        4 hrs 59 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.49 %
 
 CATEGORIES
 ----------
-Coding         1,075 hrs 56 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       361 hrs 26 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.55 %
+Coding         1,078 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       361 hrs 45 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.58 %
 Meeting        16 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.66 %
 Writing Docs   3 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.30 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 07/05/2026 05:16:36 UTC
+Last updated     : 08/05/2026 05:08:09 UTC
 
 ```
 <!--END_SECTION:wakastats-->
