@@ -1309,49 +1309,50 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Faith No More — Ashes to Ashes - 2016 Remaster
 Last played               : Faith No More — Ashes to Ashes - 2016 Remaster
-Last played (UTC)         : 2026-05-08 21:12:56Z
-Last activity type        : NO_ACTIVE_SESSION
+Last played (UTC)         : 2026-05-08 22:06:52Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ last played (since last): 2026-05-08 21:12:56Z → 2026-05-08 22:06:52Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:28:54
-Telemetry age             : 00:28:54
-Δ time (since last report): 00:01:06
+Time since last play      : 00:00:34
+Telemetry age             : 00:00:34
+Δ time (since last report): 00:25:37
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 7
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 8
+Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-01 21:41:49Z → 2026-05-08 21:41:49Z
-Total tracks played       : 9
+Week window (UTC)         : 2026-05-01 22:07:25Z → 2026-05-08 22:07:25Z
+Total tracks played       : 10
 Dominant artist           : Silverchair
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1360,23 +1361,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :                 █▃      
-Heatmap (7d)              :  ▂              █▃    ▂ 
+Heatmap (24h)             :                 █▃▂     
+Heatmap (7d)              :  ▂              █▃▂   ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 08:21:16
+Sessions (24h)            : 2
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 07:31:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(7) | post-grunge(4) | alternative metal(3) | funk rock(3) | rap metal(3)
-Top genres (7d)           : grunge(9) | post-grunge(6) | alternative metal(3) | funk rock(3) | rap metal(3) | rock(1)
+Top genres (24h)          : grunge(8) | alternative metal(4) | funk rock(4) | post-grunge(4) | rap metal(4)
+Top genres (7d)           : grunge(10) | post-grunge(6) | alternative metal(4) | funk rock(4) | rap metal(4) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-08 21:41:49Z
+Report generated (UTC)    : 2026-05-08 22:07:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
