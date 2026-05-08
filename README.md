@@ -1321,18 +1321,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Faith No More — Ashes to Ashes - 2016 Remaster
+Now playing               : Silverchair — Israel's Son
 Last played               : Faith No More — Ashes to Ashes - 2016 Remaster
-Last played (UTC)         : 2026-05-08 22:06:52Z
+Last played (UTC)         : 2026-05-08 22:29:15Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-05-08 21:12:56Z → 2026-05-08 22:06:52Z
-Δ status (since last)     : IDLE → PLAYING
+Δ last played (since last): 2026-05-08 22:06:52Z → 2026-05-08 22:29:15Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:34
-Telemetry age             : 00:00:34
-Δ time (since last report): 00:25:37
+Time since last play      : 00:02:45
+Telemetry age             : 00:02:45
+Δ time (since last report): 00:24:35
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1344,16 +1344,16 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
+Tracks played (last 24h)  : 12
 Dominant artist           : Faith No More
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-01 22:07:25Z → 2026-05-08 22:07:25Z
-Total tracks played       : 10
-Dominant artist           : Silverchair
+Week window (UTC)         : 2026-05-01 22:31:59Z → 2026-05-08 22:31:59Z
+Total tracks played       : 14
+Dominant artist           : Faith No More
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1361,23 +1361,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :                 █▃▂     
-Heatmap (7d)              :  ▂              █▃▂   ▂ 
+Heatmap (24h)             :                 █▃█     
+Heatmap (7d)              :  ▂              █▃█   ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 07:31:34
+Avg inter-play gap (7d)   : 05:14:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(8) | alternative metal(4) | funk rock(4) | post-grunge(4) | rap metal(4)
-Top genres (7d)           : grunge(10) | post-grunge(6) | alternative metal(4) | funk rock(4) | rap metal(4) | rock(1)
+Top genres (24h)          : grunge(12) | alternative metal(8) | funk rock(8) | rap metal(8) | post-grunge(4)
+Top genres (7d)           : grunge(14) | alternative metal(8) | funk rock(8) | rap metal(8) | post-grunge(6) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-08 22:07:25Z
+Report generated (UTC)    : 2026-05-08 22:31:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
