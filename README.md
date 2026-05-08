@@ -1321,18 +1321,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Pure Massacre
-Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-05-08 20:36:14Z
+Now playing               : Silverchair — Tomorrow
+Last played               : Silverchair — Israel's Son
+Last played (UTC)         : 2026-05-08 20:49:58Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Israel's Son → Silverchair — Tomorrow
-Δ last played (since last): 2026-05-08 20:31:52Z → 2026-05-08 20:36:14Z
+Δ track (since last)      : Silverchair — Tomorrow → Silverchair — Israel's Son
+Δ last played (since last): 2026-05-08 20:36:14Z → 2026-05-08 20:49:58Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:29
-Telemetry age             : 00:05:29
-Δ time (since last report): 00:07:09
+Time since last play      : 00:00:20
+Telemetry age             : 00:00:20
+Δ time (since last report): 00:08:35
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1344,15 +1344,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 4
 Dominant artist           : Silverchair
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-01 20:41:43Z → 2026-05-08 20:41:43Z
-Total tracks played       : 5
+Week window (UTC)         : 2026-05-01 20:50:18Z → 2026-05-08 20:50:18Z
+Total tracks played       : 6
 Dominant artist           : Silverchair
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1362,22 +1362,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 16:00
 Heatmap (24h)             :                 █       
-Heatmap (7d)              :  ▃              █     ▃ 
+Heatmap (7d)              :  ▂              █     ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 16:33:21
+Avg inter-play gap (7d)   : 13:17:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(3) | post-grunge(3)
-Top genres (7d)           : grunge(5) | post-grunge(5) | rock(1)
+Top genres (24h)          : grunge(4) | post-grunge(4)
+Top genres (7d)           : grunge(6) | post-grunge(6) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-08 20:41:43Z
+Report generated (UTC)    : 2026-05-08 20:50:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
