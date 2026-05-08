@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-05-08 21:01:51Z",
-  "status": "PLAYING",
+  "report_generated_utc": "2026-05-08 21:11:49Z",
+  "status": "IDLE",
   "last_track": "Faith No More — Stripsearch - 2016 Remaster",
-  "last_played_utc": "2026-05-08 20:59:17Z",
-  "sitrep": "GREEN",
+  "last_played_utc": "2026-05-08 21:04:56Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
