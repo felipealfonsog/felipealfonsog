@@ -413,9 +413,9 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-08T04:10:56+00:00 | last_update=2026-05-08T04:10:56+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-08T05:48:00+00:00 | last_update=2026-05-08T05:48:00+00:00 | source=goodreads_rss
 
-[currently_reading] shelf=currently-reading books=8 limit=8
+[currently_reading] shelf=currently-reading books=15 limit=15
 01. An Introduction to Zen Buddhism — D.T. Suzuki
 02. Shobogenzo "Zazengi"- English edition — dogen kigen
 03. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
@@ -424,8 +424,15 @@ ICONOS INICIALES INLINE SVG1
 06. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
 07. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
 08. The Autobiography of a Yogi — Paramahansa Yogananda
+09. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
+10. Leviathan — Thomas Hobbes
+11. Aferrada a mi balsa — Gladys Díaz Armijo
+12. Man's Search for Meaning — Viktor E. Frankl
+13. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
+14. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
+15. Más allá del bien y del mal — Friedrich Nietzsche
 
-[recent_read] shelf=read books=10 limit=10
+[recent_read] shelf=read books=15 limit=15
 01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
 02. Programming Perl (3rd Edition) — Larry Wall
 03. Mala onda — Alberto Fuguet
@@ -436,6 +443,11 @@ ICONOS INICIALES INLINE SVG1
 08. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
 09. Cujo — Stephen King
 10. On Writing — Ernest Hemingway
+11. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
+12. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky
+13. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
+14. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
+15. Ebano — Ryszard Kapuściński
 
 ```
 <!-- GOODREADS:CLI_END -->
