@@ -1468,7 +1468,7 @@ If you are interested in starting a business, consulting, research, or collabora
 <details open>
   <summary>📝 In brief, let me provide you with some additional details about myself...</summary>
 <br>
-- 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄 
+- 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! 😄 
 <br><br>
 
 <!-- 
@@ -1527,15 +1527,16 @@ An entertaining story that humorously traces the evolution of Unix and Tux. 🚀
 Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't forget to leave a ⭐️ if you like it.
 
 #
-
+<!-- 
 <details open >
 <summary>📰 Read On Further 💼</summary>
   <br>
 
-- 📚 Currently, I’m pursuing forthcoming postgraduate studies, exploring the fascinating world of knowledge and its applications across diverse fields. It’s an exciting journey to deepen expertise and contribute to the intersection of technology, innovation & strategy! ⚙️✨
+- 📚 Currently, I’m pursuing forthcoming postgraduate studies, exploring the fascinating world of knowledge and its applications across diverse fields. It’s an exciting journey to deepen expertise and contribute to the intersection of technology, innovation & strategy! ⚙️✨ 
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog). You can also contact me, as always, by email at [felipe.alfonso.glz@gmail.com](mailto:felipe.alfonso.glz@gmail.com) ⚡! 😊
   <br>
 </details>
+-->
 
 > ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - [Jake the dog](https://en.wikipedia.org/wiki/Jake_the_Dog) (❍ᴥ❍ʋ) holds true! You can check it out for yourself 😄. 🐶
 
