@@ -1445,7 +1445,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 
 
-
+<!-- 
 
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
@@ -1461,6 +1461,9 @@ Throughout my life, I have lived and worked in New Delhi, India; Auckland and Ch
 If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me via [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog). If you happen to be in Santiago—or online anywhere in the world—we could also meet over a cup of coffee or a virtual chat; just let me know in advance, as I may be engaged in exciting projects. Thank you!
 <br>
 </details>
+-->
+
+
 
 <details open>
   <summary>📝 In brief, let me provide you with some additional details about myself...</summary>
