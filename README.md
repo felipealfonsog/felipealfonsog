@@ -1321,18 +1321,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Tomorrow
+Now playing               : Silverchair — Faultline
 Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-05-09 09:31:26Z
+Last played (UTC)         : 2026-05-09 09:49:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-05-09 03:12:34Z → 2026-05-09 09:31:26Z
-Δ status (since last)     : IDLE → PLAYING
+Δ last played (since last): 2026-05-09 09:31:26Z → 2026-05-09 09:49:46Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:17:06
-Telemetry age             : 00:17:06
-Δ time (since last report): 02:43:22
+Time since last play      : 00:00:02
+Telemetry age             : 00:00:02
+Δ time (since last report): 00:01:17
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1344,15 +1344,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 20
+Tracks played (last 24h)  : 21
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-02 09:48:31Z → 2026-05-09 09:48:31Z
-Total tracks played       : 22
+Week window (UTC)         : 2026-05-02 09:49:48Z → 2026-05-09 09:49:48Z
+Total tracks played       : 23
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1361,23 +1361,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :      ▂          █▃█   █▃
-Heatmap (7d)              :  ▁   ▁          ▇▃▇   █▃
+Heatmap (24h)             :      ▃          █▃█   █▃
+Heatmap (7d)              :  ▁   ▃          ▇▃▇   █▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 03:46:07
+Avg inter-play gap (7d)   : 03:36:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(20) | post-grunge(12) | alternative metal(8) | funk rock(8) | rap metal(8)
-Top genres (7d)           : grunge(22) | post-grunge(14) | alternative metal(8) | funk rock(8) | rap metal(8) | rock(1)
+Top genres (24h)          : grunge(21) | post-grunge(13) | alternative metal(8) | funk rock(8) | rap metal(8)
+Top genres (7d)           : grunge(23) | post-grunge(15) | alternative metal(8) | funk rock(8) | rap metal(8) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-09 09:48:31Z
+Report generated (UTC)    : 2026-05-09 09:49:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
