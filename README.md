@@ -1466,7 +1466,7 @@ If you are interested in starting a business, consulting, research, or collabora
 
 
 <details open>
-  <summary>📝 In brief, let me provide you with some additional details about myself...</summary>
+  <summary>📝 Let me provide you with some additional cool stuff I love 😄  ...</summary>
 <br>
 - 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! 😄 
 <br><br>
