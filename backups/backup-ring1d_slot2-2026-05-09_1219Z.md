@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-05-08_1229Z
+ snapshot_utc : 2026-05-09_1219Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -29,7 +29,7 @@ Integrity, transparency, and coherence guide both my work and my personal path. 
 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
 -->
-I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—supported by ongoing advanced studies, professional certifications, and forthcoming postgraduate work in innovation and technology. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
+I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—driven by continuous learning, independent research, professional certifications, and long-term exploration across systems, cybersecurity, and emerging technologies. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
 
 <!--
 UNIX-born engineering ethos.  
@@ -420,7 +420,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-08T05:49:41+00:00 | last_update=2026-05-08T05:49:41+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-09T09:39:26+00:00 | last_update=2026-05-09T09:39:26+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -528,13 +528,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 166 ms
-TTFB................ 165 ms
+LATENCY............. 182 ms
+TTFB................ 181 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 58d
+TLS_EXPIRY.......... 57d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -547,9 +547,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PARTIAL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -563,7 +563,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-08T09:43:03Z
+LAST_PROBE_UTC...... 2026-05-09T09:38:57Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -603,19 +603,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.441382
-longitude      : -70.653500
-altitude       : 45 m
-gps_accuracy   : ±7.0 m
-heading        : 186°
-speed          : 3.0 km/h
-status         : in_transit
+location       : transit_corridor
+latitude       : -33.445982
+longitude      : -70.662087
+altitude       : 131 m
+gps_accuracy   : ±4.9 m
+heading        : 248°
+speed          : 0.7 km/h
+status         : stationary
 phase          : morning
-local_time     : 08:20
+local_time     : 08:12
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-05-08 12:20:32 UTC
+updated_utc    : 2026-05-09 12:12:49 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -734,7 +734,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-08 09:56:27Z
+DSN snapshot (UTC)       : 2026-05-09 09:51:15Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -745,15 +745,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.779 AU
-Heliocentric distance    : 170.498 AU
-Relative speed           : 26.352 km/s
+Earth distance           : 25.40e9 km | 169.782 AU
+Heliocentric distance    : 170.507 AU
+Relative speed           : 26.564 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:01
-Round-trip latency       : 47:04:01
+One-way light time       : 23:32:02
+Round-trip latency       : 47:04:04
 ------------------------------------------------------------
-Δ distance (since last)  : +93,383 km
-Mission age              : 48 years, 257 days
+Δ distance (since last)  : +50,303 km
+Mission age              : 48 years, 258 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -764,19 +764,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.468 AU
-Heliocentric distance    : 142.821 AU
-Relative speed           : 23.344 km/s
+Earth distance           : 21.31e9 km | 142.464 AU
+Heliocentric distance    : 142.829 AU
+Relative speed           : 23.426 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:52
-Round-trip latency       : 39:29:44
+One-way light time       : 19:44:50
+Round-trip latency       : 39:29:41
 ------------------------------------------------------------
-Δ distance (since last)  : -115,233 km
-Mission age              : 48 years, 273 days
+Δ distance (since last)  : -55,598 km
+Mission age              : 48 years, 274 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-08 09:56:32Z
+Report generated (UTC)   : 2026-05-09 09:51:18Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1316,74 +1316,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Silverchair — Shade
-Last played (UTC)         : 2026-05-07 05:07:56Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Silverchair — Faultline
+Last played               : Silverchair — Tomorrow
+Last played (UTC)         : 2026-05-09 09:49:46Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 28:47:42
-Telemetry age             : 28:47:42
-Δ time (since last report): 00:00:25
+Time since last play      : 00:00:52
+Telemetry age             : 00:00:52
+Δ time (since last report): 00:00:50
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 21
+Dominant artist           : Silverchair
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-01 09:55:38Z → 2026-05-08 09:55:38Z
-Total tracks played       : 2
+Week window (UTC)         : 2026-05-02 09:50:37Z → 2026-05-09 09:50:37Z
+Total tracks played       : 23
 Dominant artist           : Silverchair
-Cadence classification    : LOW
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 01:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  █                    █ 
+Peak hour (24h)           : 16:00
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :      ▃          █▃█   █▃
+Heatmap (7d)              :  ▁   ▃          ▇▃▇   █▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 26:45:07
+Sessions (24h)            : 4
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 03:36:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(2) | post-grunge(2) | rock(1)
+Top genres (24h)          : grunge(21) | post-grunge(13) | alternative metal(8) | funk rock(8) | rap metal(8)
+Top genres (7d)           : grunge(23) | post-grunge(15) | alternative metal(8) | funk rock(8) | rap metal(8) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-08 09:55:38Z
+Report generated (UTC)    : 2026-05-09 09:50:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1452,7 +1453,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 
 
-
+<!-- 
 
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
@@ -1468,11 +1469,14 @@ Throughout my life, I have lived and worked in New Delhi, India; Auckland and Ch
 If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me via [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog). If you happen to be in Santiago—or online anywhere in the world—we could also meet over a cup of coffee or a virtual chat; just let me know in advance, as I may be engaged in exciting projects. Thank you!
 <br>
 </details>
+-->
+
+
 
 <details open>
-  <summary>📝 In brief, let me provide you with some additional details about myself...</summary>
+  <summary>📝 Let me provide you with some additional cool stuff I love 😄  ...</summary>
 <br>
-- 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄 
+- 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! 😄 
 <br><br>
 
 <!-- 
@@ -1531,15 +1535,16 @@ An entertaining story that humorously traces the evolution of Unix and Tux. 🚀
 Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't forget to leave a ⭐️ if you like it.
 
 #
-
+<!-- 
 <details open >
 <summary>📰 Read On Further 💼</summary>
   <br>
 
-- 📚 Currently, I’m pursuing forthcoming postgraduate studies, exploring the fascinating world of knowledge and its applications across diverse fields. It’s an exciting journey to deepen expertise and contribute to the intersection of technology, innovation & strategy! ⚙️✨
+- 📚 Currently, I’m pursuing forthcoming postgraduate studies, exploring the fascinating world of knowledge and its applications across diverse fields. It’s an exciting journey to deepen expertise and contribute to the intersection of technology, innovation & strategy! ⚙️✨ 
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog). You can also contact me, as always, by email at [felipe.alfonso.glz@gmail.com](mailto:felipe.alfonso.glz@gmail.com) ⚡! 😊
   <br>
 </details>
+-->
 
 > ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - [Jake the dog](https://en.wikipedia.org/wiki/Jake_the_Dog) (❍ᴥ❍ʋ) holds true! You can check it out for yourself 😄. 🐶
 
@@ -1737,9 +1742,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 08 May 2026
+From: 04 December 2023 - To: 09 May 2026
 
-Total Time       : 1,016 hrs 41 mins
+Total Time       : 1,016 hrs 44 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 8 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1748,7 +1753,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          444 hrs 51 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.76 %
+Other          448 hrs 51 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  44.15 %
 Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.56 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.65 %
 HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
@@ -1761,15 +1766,15 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            823 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  81.04 %
-Linux          637 hrs 37 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.72 %
+Mac            827 hrs 58 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  81.43 %
+Linux          637 hrs 37 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.71 %
 
 EDITORS
 -------
 VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.29 %
-Firefox        367 hrs 5 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  36.11 %
+Firefox        369 hrs 11 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  36.31 %
 Vim            329 hrs 13 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.38 %
-Terminal       21 hrs 51 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
+Terminal       22 hrs 3 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.17 %
 Spotify        16 hrs 28 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.62 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
 Acrobat        11 hrs 44 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
@@ -1777,19 +1782,19 @@ Acrobat        11 hrs 44 mins ○○○○○○○○○○○○○○○○�
 Dia            8 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.80 %
 Antigravity    5 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
 FileZilla      5 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
-Termius        4 hrs 59 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.49 %
+Termius        5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.50 %
 
 CATEGORIES
 ----------
-Coding         1,078 hrs 3 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       363 hrs 32 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.76 %
+Coding         1,080 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       365 hrs 38 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.96 %
 Meeting        16 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.66 %
 Writing Docs   3 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.30 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 08/05/2026 11:37:27 UTC
+Last updated     : 09/05/2026 11:23:16 UTC
 
 ```
 <!--END_SECTION:wakastats-->
