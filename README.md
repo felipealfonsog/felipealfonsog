@@ -1309,35 +1309,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Silverchair — Israel's Son
+Now playing               : N/A
 Last played               : Faith No More — Ashes to Ashes - 2016 Remaster
 Last played (UTC)         : 2026-05-08 22:29:15Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:03:21
-Telemetry age             : 00:03:21
-Δ time (since last report): 00:00:37
+Time since last play      : 02:41:29
+Telemetry age             : 02:41:29
+Δ time (since last report): 02:38:09
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1351,7 +1350,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-01 22:32:35Z → 2026-05-08 22:32:35Z
+Week window (UTC)         : 2026-05-02 01:10:43Z → 2026-05-09 01:10:43Z
 Total tracks played       : 14
 Dominant artist           : Faith No More
 Cadence classification    : LOW
@@ -1377,7 +1376,7 @@ Top genres (24h)          : grunge(12) | alternative metal(8) | funk rock(8) | r
 Top genres (7d)           : grunge(14) | alternative metal(8) | funk rock(8) | rap metal(8) | post-grunge(6) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-08 22:32:35Z
+Report generated (UTC)    : 2026-05-09 01:10:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
