@@ -1359,49 +1359,50 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Deftones — Be Quiet and Drive (Far Away)
-Last played (UTC)         : 2026-05-10 08:08:32Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : 2Pac — Ballad Of A Dead Soulja
+Last played               : Kaikobad — Turn Echo (Vocal Mix)
+Last played (UTC)         : 2026-05-10 18:34:05Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Deftones — Be Quiet and Drive (Far Away) → Kaikobad — Turn Echo (Vocal Mix)
+Δ last played (since last): 2026-05-10 08:08:32Z → 2026-05-10 18:34:05Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 07:30:11
-Telemetry age             : 07:30:11
-Δ time (since last report): 00:00:18
+Time since last play      : 00:00:59
+Telemetry age             : 00:00:59
+Δ time (since last report): 02:56:22
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Deftones
+Tracks played (last 24h)  : 2
+Dominant artist           : Kaikobad
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 15:38:42Z → 2026-05-10 15:38:42Z
-Total tracks played       : 25
+Week window (UTC)         : 2026-05-03 18:35:04Z → 2026-05-10 18:35:04Z
+Total tracks played       : 26
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1410,23 +1411,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :     █                   
-Heatmap (7d)              :  ▁  ▁▃ ▁        ▇▃▇   █▃
+Heatmap (24h)             :     █         █         
+Heatmap (7d)              :  ▁  ▁▃ ▁      ▁ ▇▃▇   █▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 04:14:24
+Sessions (24h)            : 2
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 04:29:15
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | nu metal(1) | rap metal(1) | rock(1) | shoegaze(1)
+Top genres (24h)          : alternative metal(1) | lo-fi house(1) | nu metal(1) | rap metal(1) | rock(1) | shoegaze(1)
 Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | rock(2)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 15:38:42Z
+Report generated (UTC)    : 2026-05-10 18:35:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
