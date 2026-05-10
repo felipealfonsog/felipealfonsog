@@ -1359,74 +1359,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Yere — Are We Dreaming
 Last played               : Kaikobad — Turn Echo (Vocal Mix)
-Last played (UTC)         : 2026-05-10 18:34:05Z
-Last activity type        : NO_ACTIVE_SESSION
+Last played (UTC)         : 2026-05-10 18:52:44Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ last played (since last): 2026-05-10 18:34:05Z → 2026-05-10 18:52:44Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:05:44
-Telemetry age             : 00:05:44
-Δ time (since last report): 00:00:23
+Time since last play      : 00:03:40
+Telemetry age             : 00:03:40
+Δ time (since last report): 00:16:35
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 3
 Dominant artist           : Kaikobad
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 18:39:49Z → 2026-05-10 18:39:49Z
-Total tracks played       : 26
+Week window (UTC)         : 2026-05-03 18:56:23Z → 2026-05-10 18:56:23Z
+Total tracks played       : 27
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 04:00
+Peak hour (24h)           : 14:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :     █         █         
-Heatmap (7d)              :  ▁  ▁▃ ▁      ▁ ▇▃▇   █▃
+Heatmap (24h)             :     ▄         █         
+Heatmap (7d)              :  ▁  ▁▃ ▁      ▃ ▇▃▇   █▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 04:29:15
+Avg inter-play gap (7d)   : 04:19:37
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | lo-fi house(1) | nu metal(1) | rap metal(1) | rock(1) | shoegaze(1)
-Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | rock(2)
+Top genres (24h)          : lo-fi house(2) | alternative metal(1) | nu metal(1) | rap metal(1) | rock(1) | shoegaze(1)
+Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | lo-fi house(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 18:39:49Z
+Report generated (UTC)    : 2026-05-10 18:56:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
