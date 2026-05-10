@@ -1371,18 +1371,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Øneheart — watching the stars
+Now playing               : boy 2000, Baltra — feel
 Last played               : Deftones — Be Quiet and Drive (Far Away)
 Last played (UTC)         : 2026-05-10 08:08:32Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Faultline → Deftones — Be Quiet and Drive (Far Away)
-Δ last played (since last): 2026-05-09 11:20:46Z → 2026-05-10 08:08:32Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:36:53
-Telemetry age             : 01:36:53
-Δ time (since last report): 02:30:36
+Time since last play      : 01:39:36
+Telemetry age             : 01:39:36
+Δ time (since last report): 00:02:43
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1401,7 +1401,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 09:45:25Z → 2026-05-10 09:45:25Z
+Week window (UTC)         : 2026-05-03 09:48:07Z → 2026-05-10 09:48:07Z
 Total tracks played       : 25
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
@@ -1427,7 +1427,7 @@ Top genres (24h)          : grunge(2) | post-grunge(2) | alternative metal(1) | 
 Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 09:45:25Z
+Report generated (UTC)    : 2026-05-10 09:48:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
