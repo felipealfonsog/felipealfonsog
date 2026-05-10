@@ -1376,13 +1376,13 @@ Last played               : Rage Against The Machine — Fistful Of Steel
 Last played (UTC)         : 2026-05-10 22:19:15Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : HKLS — Time is the fire in which we burn... right, my angel? → Rage Against The Machine — Fistful Of Steel
-Δ last played (since last): 2026-05-10 22:04:06Z → 2026-05-10 22:19:15Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:36
-Telemetry age             : 00:01:36
-Δ time (since last report): 00:08:20
+Time since last play      : 00:04:32
+Telemetry age             : 00:04:32
+Δ time (since last report): 00:02:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1401,7 +1401,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 22:20:50Z → 2026-05-10 22:20:50Z
+Week window (UTC)         : 2026-05-03 22:23:46Z → 2026-05-10 22:23:46Z
 Total tracks played       : 31
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
@@ -1425,9 +1425,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(3) | lo-fi house(3) | nu metal(3) | rap metal(3) | rap rock(2) | drift phonk(1)
 Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(11) | rap metal(11) | funk rock(8) | lo-fi house(3)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 22:20:50Z
+Report generated (UTC)    : 2026-05-10 22:23:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
