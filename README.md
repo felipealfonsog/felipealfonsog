@@ -1371,18 +1371,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Rage Against The Machine — Township Rebellion
-Last played               : Rage Against The Machine — Fistful Of Steel
-Last played (UTC)         : 2026-05-10 22:19:15Z
+Now playing               : Rage Against The Machine — Killing In The Name
+Last played               : Rage Against The Machine — Bombtrack
+Last played (UTC)         : 2026-05-10 22:28:42Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Rage Against The Machine — Fistful Of Steel → Rage Against The Machine — Bombtrack
+Δ last played (since last): 2026-05-10 22:19:15Z → 2026-05-10 22:28:42Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:32
-Telemetry age             : 00:04:32
-Δ time (since last report): 00:02:57
+Time since last play      : 00:03:08
+Telemetry age             : 00:03:08
+Δ time (since last report): 00:08:04
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,15 +1394,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 7
+Tracks played (last 24h)  : 9
 Dominant artist           : Rage Against The Machine
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 22:23:46Z → 2026-05-10 22:23:46Z
-Total tracks played       : 31
+Week window (UTC)         : 2026-05-03 22:31:50Z → 2026-05-10 22:31:50Z
+Total tracks played       : 33
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1411,23 +1411,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :     ▃         ▅▃  █     
-Heatmap (7d)              :  ▁  ▁▂ ▁      ▂▁▅▂█   ▆▂
+Heatmap (24h)             :     ▂         ▃▂  █     
+Heatmap (7d)              :  ▁  ▁▂ ▁      ▂▁▄▂█   ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:51:53
+Avg inter-play gap (7d)   : 03:37:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(3) | lo-fi house(3) | nu metal(3) | rap metal(3) | rap rock(2) | drift phonk(1)
-Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(11) | rap metal(11) | funk rock(8) | lo-fi house(3)
+Top genres (24h)          : alternative metal(5) | nu metal(5) | rap metal(5) | rap rock(4) | lo-fi house(3) | drift phonk(1)
+Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(13) | rap metal(13) | funk rock(8) | nu metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 22:23:46Z
+Report generated (UTC)    : 2026-05-10 22:31:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
