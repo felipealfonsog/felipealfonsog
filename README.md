@@ -1359,49 +1359,50 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : svnti — taipei月光
-Last played (UTC)         : 2026-05-10 19:01:41Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Rage Against The Machine — Wake Up
+Last played               : HKLS — Time is the fire in which we burn... right, my angel?
+Last played (UTC)         : 2026-05-10 22:04:06Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : svnti — taipei月光 → HKLS — Time is the fire in which we burn... right, my angel?
+Δ last played (since last): 2026-05-10 19:01:41Z → 2026-05-10 22:04:06Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 02:35:04
-Telemetry age             : 02:35:04
-Δ time (since last report): 00:00:18
+Time since last play      : 00:08:26
+Telemetry age             : 00:08:26
+Δ time (since last report): 00:35:48
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
+Tracks played (last 24h)  : 5
 Dominant artist           : Kaikobad
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 21:36:44Z → 2026-05-10 21:36:44Z
-Total tracks played       : 28
+Week window (UTC)         : 2026-05-03 22:12:31Z → 2026-05-10 22:12:31Z
+Total tracks played       : 29
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1409,24 +1410,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
-Peak hour (7d)            : 22:00
-Heatmap (24h)             :     ▄         █▄        
-Heatmap (7d)              :  ▁  ▁▃ ▁      ▃▁▇▃▇   █▃
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :     ▄         █▄  ▄     
+Heatmap (7d)              :  ▁  ▁▃ ▁      ▃▁▇▃█   █▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 04:10:20
+Sessions (24h)            : 3
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 04:07:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : lo-fi house(3) | alternative metal(1) | nu metal(1) | rap metal(1) | rock(1) | shoegaze(1)
+Top genres (24h)          : lo-fi house(3) | alternative metal(1) | drift phonk(1) | nu metal(1) | phonk(1) | rap metal(1)
 Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | lo-fi house(3)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 21:36:44Z
+Report generated (UTC)    : 2026-05-10 22:12:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
