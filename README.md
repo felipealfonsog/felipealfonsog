@@ -413,7 +413,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-10T03:30:55+00:00 | last_update=2026-05-10T03:30:55+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-10T03:32:15+00:00 | last_update=2026-05-10T03:32:15+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -442,7 +442,7 @@ ICONOS INICIALES INLINE SVG1
 24. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
 25. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
 
-[recent_read] shelf=read books=50 limit=50
+[recent_read] shelf=read books=75 limit=75
 01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
 02. Programming Perl (3rd Edition) — Larry Wall
 03. Mala onda — Alberto Fuguet
@@ -493,6 +493,31 @@ ICONOS INICIALES INLINE SVG1
 48. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
 49. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
 50. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
+51. Cyber Minds: Insights on cybersecurity across the cloud, data, artificial intelligence, blockchain, and IoT to keep you cyber safe — Shira Rubinoff
+52. Mike Meyers' Comptia Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition — Mike Meyers
+53. Mike Meyers' CompTIA Network+ Certification Passport, Seventh Edition (Exam N10-008) — Mike Meyers
+54. Principles of Computer Security: CompTIA Security+ and Beyond Lab Manual (Exam SY0-601) — Jonathan S Weissman
+55. Principles of Computer Security, CompTIA Security+ and Beyond, with CD-ROM — William Arthur Conklin
+56. Principles of Data Science: Learn the techniques and math you need to start making sense of your data: Mathematical techniques and theory to succeed in data-driven industries — Sinan Özdemir
+57. Hands-On Machine Learning with Scikit-Learn and TensorFlow — Aurélien Géron
+58. Deep Learning — Ian Goodfellow
+59. Introduction to Algorithms — Thomas H. Cormen
+60. The Art of Happiness — Dalai Lama XIV
+61. The Bhagavad Gita — Krishna-Dwaipayana Vyasa
+62. Essence of the Upanishads: A Key to Indian Spirituality (Wisdom of India, 1) — Eknath Easwaran
+63. The Upanishads — Anonymous
+64. The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism — Fritjof Capra
+65. The Denial of Death — Ernest Becker
+66. Homo Deus: A Brief History of Tomorrow — Yuval Noah Harari
+67. Sapiens: A Brief History of Humankind — Yuval Noah Harari
+68. Algorithms to Live By: The Computer Science of Human Decisions — Brian Christian
+69. Thinking, Fast and Slow — Daniel Kahneman
+70. Gödel, Escher, Bach: An Eternal Golden Braid — Douglas R. Hofstadter
+71. The Republic — Plato
+72. Meditations on First Philosophy: Rene Descartes — René Descartes
+73. The Art of War — Sun Tzu
+74. The Power of Now: A Guide to Spiritual Enlightenment — Eckhart Tolle
+75. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
 
 ```
 <!-- GOODREADS:CLI_END -->

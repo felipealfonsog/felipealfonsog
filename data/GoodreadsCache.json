@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-10T03:30:55+00:00",
-    "last_successful_sync": "2026-05-10T03:30:55+00:00",
+    "last_attempted_sync": "2026-05-10T03:32:15+00:00",
+    "last_successful_sync": "2026-05-10T03:32:15+00:00",
     "error_message": ""
   },
   "sections": {
@@ -248,8 +248,8 @@
       "title": "Recently Read",
       "shelf": "read",
       "source_url": "https://www.goodreads.com/review/list_rss/10606567?shelf=read",
-      "limit": 50,
-      "item_count": 50,
+      "limit": 75,
+      "item_count": 75,
       "books": [
         {
           "title": "A New Earth: Awakening to Your Life's Purpose",
@@ -700,6 +700,231 @@
           "summary": "author: Iqbal H. Sarker name: Felipe Alfonso average rating: 4.00 book published: rating: 0 read at: date added: 2025/10/20 shelves: cybersecurity, engineering review:",
           "guid": "https://www.goodreads.com/review/show/8008494244?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:38:34 -0700"
+        },
+        {
+          "title": "Cyber Minds: Insights on cybersecurity across the cloud, data, artificial intelligence, blockchain, and IoT to keep you cyber safe",
+          "author": "Shira Rubinoff",
+          "link": "https://www.goodreads.com/review/show/8008493786?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586979124l/53184793._SX50_.jpg",
+          "summary": "author: Shira Rubinoff name: Felipe Alfonso average rating: 4.00 book published: rating: 0 read at: date added: 2025/10/20 shelves: cybersecurity, engineering review:",
+          "guid": "https://www.goodreads.com/review/show/8008493786?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:38:24 -0700"
+        },
+        {
+          "title": "Mike Meyers' Comptia Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition",
+          "author": "Mike Meyers",
+          "link": "https://www.goodreads.com/review/show/8008487581?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639381842l/59384130._SX50_.jpg",
+          "summary": "author: Mike Meyers name: Felipe Alfonso average rating: 0.0 book published: rating: 0 read at: date added: 2025/10/20 shelves: engineering, cybersecurity review:",
+          "guid": "https://www.goodreads.com/review/show/8008487581?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:35:51 -0700"
+        },
+        {
+          "title": "Mike Meyers' CompTIA Network+ Certification Passport, Seventh Edition (Exam N10-008)",
+          "author": "Mike Meyers",
+          "link": "https://www.goodreads.com/review/show/8008487100?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650240788l/60412682._SX50_.jpg",
+          "summary": "author: Mike Meyers name: Felipe Alfonso average rating: 5.00 book published: rating: 0 read at: date added: 2025/10/20 shelves: engineering, cybersecurity review:",
+          "guid": "https://www.goodreads.com/review/show/8008487100?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:35:41 -0700"
+        },
+        {
+          "title": "Principles of Computer Security: CompTIA Security+ and Beyond Lab Manual (Exam SY0-601)",
+          "author": "Jonathan S Weissman",
+          "link": "https://www.goodreads.com/review/show/8008486188?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625601209l/55562057._SX50_.jpg",
+          "summary": "author: Jonathan S Weissman name: Felipe Alfonso average rating: 1.00 book published: rating: 0 read at: date added: 2025/10/20 shelves: engineering, cybersecurity review:",
+          "guid": "https://www.goodreads.com/review/show/8008486188?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:35:19 -0700"
+        },
+        {
+          "title": "Principles of Computer Security, CompTIA Security+ and Beyond, with CD-ROM",
+          "author": "William Arthur Conklin",
+          "link": "https://www.goodreads.com/review/show/8008482063?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348051222l/7634458._SX50_.jpg",
+          "summary": "author: William Arthur Conklin name: Felipe Alfonso average rating: 3.64 book published: 2004 rating: 0 read at: date added: 2025/10/20 shelves: cybersecurity, engineering review:",
+          "guid": "https://www.goodreads.com/review/show/8008482063?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:34:17 -0700"
+        },
+        {
+          "title": "Principles of Data Science: Learn the techniques and math you need to start making sense of your data: Mathematical techniques and theory to succeed in data-driven industries",
+          "author": "Sinan Özdemir",
+          "link": "https://www.goodreads.com/review/show/8008476978?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482148126l/33479958._SX50_.jpg",
+          "summary": "author: Sinan Özdemir name: Felipe Alfonso average rating: 4.00 book published: rating: 0 read at: date added: 2025/10/20 shelves: engineering review:",
+          "guid": "https://www.goodreads.com/review/show/8008476978?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:31:33 -0700"
+        },
+        {
+          "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+          "author": "Aurélien Géron",
+          "link": "https://www.goodreads.com/review/show/8008475902?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478536137l/32899495._SX50_.jpg",
+          "summary": "author: Aurélien Géron name: Felipe Alfonso average rating: 4.55 book published: 2017 rating: 0 read at: date added: 2025/10/20 shelves: engineering, science review:",
+          "guid": "https://www.goodreads.com/review/show/8008475902?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:31:07 -0700"
+        },
+        {
+          "title": "Deep Learning",
+          "author": "Ian Goodfellow",
+          "link": "https://www.goodreads.com/review/show/8008474120?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490810628l/24072897._SX50_.jpg",
+          "summary": "author: Ian Goodfellow name: Felipe Alfonso average rating: 4.42 book published: 2016 rating: 0 read at: date added: 2025/10/20 shelves: engineering, science review:",
+          "guid": "https://www.goodreads.com/review/show/8008474120?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:30:26 -0700"
+        },
+        {
+          "title": "Introduction to Algorithms",
+          "author": "Thomas H. Cormen",
+          "link": "https://www.goodreads.com/review/show/8008472095?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387741681l/108986._SX50_.jpg",
+          "summary": "author: Thomas H. Cormen name: Felipe Alfonso average rating: 4.35 book published: 1989 rating: 0 read at: date added: 2025/10/20 shelves: science, engineering review:",
+          "guid": "https://www.goodreads.com/review/show/8008472095?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:29:37 -0700"
+        },
+        {
+          "title": "The Art of Happiness",
+          "author": "Dalai Lama XIV",
+          "link": "https://www.goodreads.com/review/show/8008471026?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309287434l/38210._SX50_.jpg",
+          "summary": "author: Dalai Lama XIV name: Felipe Alfonso average rating: 4.17 book published: 1998 rating: 0 read at: date added: 2025/10/20 shelves: buddhism review:",
+          "guid": "https://www.goodreads.com/review/show/8008471026?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:29:07 -0700"
+        },
+        {
+          "title": "The Bhagavad Gita",
+          "author": "Krishna-Dwaipayana Vyasa",
+          "link": "https://www.goodreads.com/review/show/8008469342?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1769077152l/99944._SY75_.jpg",
+          "summary": "author: Krishna-Dwaipayana Vyasa name: Felipe Alfonso average rating: 4.13 book published: -400 rating: 0 read at: date added: 2025/10/20 shelves: spirituality, buddhism review:",
+          "guid": "https://www.goodreads.com/review/show/8008469342?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:28:43 -0700"
+        },
+        {
+          "title": "Essence of the Upanishads: A Key to Indian Spirituality (Wisdom of India, 1)",
+          "author": "Eknath Easwaran",
+          "link": "https://www.goodreads.com/review/show/8008468117?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328759110l/6836655._SY75_.jpg",
+          "summary": "author: Eknath Easwaran name: Felipe Alfonso average rating: 4.40 book published: 2009 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008468117?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:28:00 -0700"
+        },
+        {
+          "title": "The Upanishads",
+          "author": "Anonymous",
+          "link": "https://www.goodreads.com/review/show/8008466732?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/290882._SY75_.jpg",
+          "summary": "author: Anonymous name: Felipe Alfonso average rating: 4.22 book published: -500 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008466732?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:27:33 -0700"
+        },
+        {
+          "title": "The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism",
+          "author": "Fritjof Capra",
+          "link": "https://www.goodreads.com/review/show/8008465152?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327908532l/10238._SY75_.jpg",
+          "summary": "author: Fritjof Capra name: Felipe Alfonso average rating: 3.97 book published: 1975 rating: 0 read at: date added: 2025/10/20 shelves: science, philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008465152?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:26:58 -0700"
+        },
+        {
+          "title": "The Denial of Death",
+          "author": "Ernest Becker",
+          "link": "https://www.goodreads.com/review/show/8008464158?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388432490l/2761._SY75_.jpg",
+          "summary": "author: Ernest Becker name: Felipe Alfonso average rating: 4.06 book published: 1973 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008464158?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:26:22 -0700"
+        },
+        {
+          "title": "Homo Deus: A Brief History of Tomorrow",
+          "author": "Yuval Noah Harari",
+          "link": "https://www.goodreads.com/review/show/8008463043?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624232683l/39704901._SY75_.jpg",
+          "summary": "author: Yuval Noah Harari name: Felipe Alfonso average rating: 4.33 book published: 2015 rating: 0 read at: date added: 2025/10/20 shelves: history, philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008463043?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:25:59 -0700"
+        },
+        {
+          "title": "Sapiens: A Brief History of Humankind",
+          "author": "Yuval Noah Harari",
+          "link": "https://www.goodreads.com/review/show/8008461350?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703329310l/23692271._SY75_.jpg",
+          "summary": "author: Yuval Noah Harari name: Felipe Alfonso average rating: 4.32 book published: 2011 rating: 0 read at: date added: 2025/10/20 shelves: history review:",
+          "guid": "https://www.goodreads.com/review/show/8008461350?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:25:20 -0700"
+        },
+        {
+          "title": "Algorithms to Live By: The Computer Science of Human Decisions",
+          "author": "Brian Christian",
+          "link": "https://www.goodreads.com/review/show/8008459566?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296875l/25666050._SY75_.jpg",
+          "summary": "author: Brian Christian name: Felipe Alfonso average rating: 4.12 book published: 2016 rating: 0 read at: date added: 2025/10/20 shelves: engineering review:",
+          "guid": "https://www.goodreads.com/review/show/8008459566?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:24:40 -0700"
+        },
+        {
+          "title": "Thinking, Fast and Slow",
+          "author": "Daniel Kahneman",
+          "link": "https://www.goodreads.com/review/show/8008458403?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377._SX50_.jpg",
+          "summary": "author: Daniel Kahneman name: Felipe Alfonso average rating: 4.16 book published: 2011 rating: 0 read at: date added: 2025/10/20 shelves: philosophy, psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008458403?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:24:03 -0700"
+        },
+        {
+          "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+          "author": "Douglas R. Hofstadter",
+          "link": "https://www.goodreads.com/review/show/8008456479?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547125681l/24113._SY75_.jpg",
+          "summary": "author: Douglas R. Hofstadter name: Felipe Alfonso average rating: 4.28 book published: 1979 rating: 0 read at: date added: 2025/10/20 shelves: philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008456479?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:23:18 -0700"
+        },
+        {
+          "title": "The Republic",
+          "author": "Plato",
+          "link": "https://www.goodreads.com/review/show/8008455123?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925655l/30289._SY75_.jpg",
+          "summary": "author: Plato name: Felipe Alfonso average rating: 3.97 book published: -400 rating: 0 read at: date added: 2025/10/20 shelves: philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008455123?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:22:51 -0700"
+        },
+        {
+          "title": "Meditations on First Philosophy: Rene Descartes",
+          "author": "René Descartes",
+          "link": "https://www.goodreads.com/review/show/8008454039?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663694924l/62671466._SY75_.jpg",
+          "summary": "author: René Descartes name: Felipe Alfonso average rating: 0.0 book published: rating: 0 read at: 2025/10/20 date added: 2025/10/20 shelves: psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008454039?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:22:25 -0700"
+        },
+        {
+          "title": "The Art of War",
+          "author": "Sun Tzu",
+          "link": "https://www.goodreads.com/review/show/2643858005?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630683326l/10534._SY75_.jpg",
+          "summary": "author: Sun Tzu name: Felipe Alfonso average rating: 3.97 book published: -500 rating: 5 read at: date added: 2025/10/20 shelves: philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/2643858005?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:21:55 -0700"
+        },
+        {
+          "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+          "author": "Eckhart Tolle",
+          "link": "https://www.goodreads.com/review/show/2643853524?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689947880l/6708._SY75_.jpg",
+          "summary": "author: Eckhart Tolle name: Felipe Alfonso average rating: 4.16 book published: 1997 rating: 5 read at: 2018/01/01 date added: 2025/10/20 shelves: philosophy, buddhism, psychology review:",
+          "guid": "https://www.goodreads.com/review/show/2643853524?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:20:31 -0700"
+        },
+        {
+          "title": "Human, All-Too-Human by Friedrich Nietzsche",
+          "author": "Friedrich Nietzsche",
+          "link": "https://www.goodreads.com/review/show/8008446066?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406841716l/22847327._SY75_.jpg",
+          "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 4.00 book published: 1878 rating: 0 read at: date added: 2025/10/20 shelves: philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008446066?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:19:05 -0700"
         }
       ]
     }
