@@ -1359,35 +1359,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : 2Pac — Ballad Of A Dead Soulja
+Now playing               : N/A
 Last played               : Kaikobad — Turn Echo (Vocal Mix)
 Last played (UTC)         : 2026-05-10 18:34:05Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Deftones — Be Quiet and Drive (Far Away) → Kaikobad — Turn Echo (Vocal Mix)
-Δ last played (since last): 2026-05-10 08:08:32Z → 2026-05-10 18:34:05Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:59
-Telemetry age             : 00:00:59
-Δ time (since last report): 02:56:22
+Time since last play      : 00:05:21
+Telemetry age             : 00:05:21
+Δ time (since last report): 00:04:22
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1401,7 +1400,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 18:35:04Z → 2026-05-10 18:35:04Z
+Week window (UTC)         : 2026-05-03 18:39:26Z → 2026-05-10 18:39:26Z
 Total tracks played       : 26
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
@@ -1425,9 +1424,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(1) | lo-fi house(1) | nu metal(1) | rap metal(1) | rock(1) | shoegaze(1)
 Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | rock(2)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 18:35:04Z
+Report generated (UTC)    : 2026-05-10 18:39:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
