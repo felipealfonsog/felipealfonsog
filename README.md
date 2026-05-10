@@ -1359,34 +1359,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Silverchair — Faultline
-Last played (UTC)         : 2026-05-09 11:20:46Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Øneheart — watching the stars
+Last played               : Deftones — Be Quiet and Drive (Far Away)
+Last played (UTC)         : 2026-05-10 08:08:32Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Silverchair — Faultline → Deftones — Be Quiet and Drive (Far Away)
+Δ last played (since last): 2026-05-09 11:20:46Z → 2026-05-10 08:08:32Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 19:54:04
-Telemetry age             : 19:54:04
-Δ time (since last report): 00:00:32
+Time since last play      : 01:36:53
+Telemetry age             : 01:36:53
+Δ time (since last report): 02:30:36
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1400,33 +1401,33 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 07:14:49Z → 2026-05-10 07:14:49Z
-Total tracks played       : 24
+Week window (UTC)         : 2026-05-03 09:45:25Z → 2026-05-10 09:45:25Z
+Total tracks played       : 25
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 05:00
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :      █ ▄                
-Heatmap (7d)              :  ▁   ▃ ▁        ▇▃▇   █▃
+Heatmap (24h)             :     ██ █                
+Heatmap (7d)              :  ▁  ▁▃ ▁        ▇▃▇   █▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 03:31:13
+Sessions (24h)            : 3
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 04:14:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(3) | post-grunge(3)
-Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(8) | funk rock(8) | rap metal(8) | rock(1)
+Top genres (24h)          : grunge(2) | post-grunge(2) | alternative metal(1) | nu metal(1) | rap metal(1) | rock(1)
+Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 07:14:49Z
+Report generated (UTC)    : 2026-05-10 09:45:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
