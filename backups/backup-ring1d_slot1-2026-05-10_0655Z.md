@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-05-08_0637Z
+ snapshot_utc : 2026-05-10_0655Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -29,7 +29,7 @@ Integrity, transparency, and coherence guide both my work and my personal path. 
 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
 -->
-I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—supported by ongoing advanced studies, professional certifications, and forthcoming postgraduate work in innovation and technology. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
+I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—driven by continuous learning, independent research, professional certifications, and long-term exploration across systems, cybersecurity, and emerging technologies. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
 
 <!--
 UNIX-born engineering ethos.  
@@ -420,7 +420,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-08T05:49:41+00:00 | last_update=2026-05-08T05:49:41+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-10T04:28:09+00:00 | last_update=2026-05-10T04:28:09+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -449,7 +449,7 @@ ICONOS INICIALES INLINE SVG1
 24. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
 25. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
 
-[recent_read] shelf=read books=25 limit=25
+[recent_read] shelf=read books=75 limit=75
 01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
 02. Programming Perl (3rd Edition) — Larry Wall
 03. Mala onda — Alberto Fuguet
@@ -475,6 +475,56 @@ ICONOS INICIALES INLINE SVG1
 23. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
 24. Calculus — Purcell Rigdon Varberg
 25. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
+26. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
+27. La vida, un enigma — Daisaku Ikeda
+28. The Count of Monte Cristo — Alexandre Dumas
+29. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
+30. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
+31. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
+32. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
+33. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
+34. The Silva Mind Control Method — José Silva
+35. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
+36. De Sapos a Principes — Richard Bandler
+37. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
+38. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
+39. Psychology: The Science of Mind and Behaviour — Richard Gross
+40. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
+41. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
+42. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
+43. Understanding Psychology — Robert S. Feldman
+44. Critique of Pure Reason — Immanuel Kant
+45. Becoming — Michelle Obama
+46. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
+47. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
+48. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
+49. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
+50. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
+51. Cyber Minds: Insights on cybersecurity across the cloud, data, artificial intelligence, blockchain, and IoT to keep you cyber safe — Shira Rubinoff
+52. Mike Meyers' Comptia Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition — Mike Meyers
+53. Mike Meyers' CompTIA Network+ Certification Passport, Seventh Edition (Exam N10-008) — Mike Meyers
+54. Principles of Computer Security: CompTIA Security+ and Beyond Lab Manual (Exam SY0-601) — Jonathan S Weissman
+55. Principles of Computer Security, CompTIA Security+ and Beyond, with CD-ROM — William Arthur Conklin
+56. Principles of Data Science: Learn the techniques and math you need to start making sense of your data: Mathematical techniques and theory to succeed in data-driven industries — Sinan Özdemir
+57. Hands-On Machine Learning with Scikit-Learn and TensorFlow — Aurélien Géron
+58. Deep Learning — Ian Goodfellow
+59. Introduction to Algorithms — Thomas H. Cormen
+60. The Art of Happiness — Dalai Lama XIV
+61. The Bhagavad Gita — Krishna-Dwaipayana Vyasa
+62. Essence of the Upanishads: A Key to Indian Spirituality (Wisdom of India, 1) — Eknath Easwaran
+63. The Upanishads — Anonymous
+64. The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism — Fritjof Capra
+65. The Denial of Death — Ernest Becker
+66. Homo Deus: A Brief History of Tomorrow — Yuval Noah Harari
+67. Sapiens: A Brief History of Humankind — Yuval Noah Harari
+68. Algorithms to Live By: The Computer Science of Human Decisions — Brian Christian
+69. Thinking, Fast and Slow — Daniel Kahneman
+70. Gödel, Escher, Bach: An Eternal Golden Braid — Douglas R. Hofstadter
+71. The Republic — Plato
+72. Meditations on First Philosophy: Rene Descartes — René Descartes
+73. The Art of War — Sun Tzu
+74. The Power of Now: A Guide to Spiritual Enlightenment — Eckhart Tolle
+75. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
 
 ```
 <!-- GOODREADS:CLI_END -->
@@ -528,13 +578,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 156 ms
-TTFB................ 155 ms
+LATENCY............. 173 ms
+TTFB................ 172 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 58d
+TLS_EXPIRY.......... 56d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -547,9 +597,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PARTIAL
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -563,7 +613,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-08T04:10:07Z
+LAST_PROBE_UTC...... 2026-05-10T01:08:28Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -603,19 +653,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443934
-longitude      : -70.650397
-altitude       : 30 m
-gps_accuracy   : ±7.8 m
-heading        : 269°
-speed          : 0.8 km/h
-status         : stationary
+location       : pedestrian_axis
+latitude       : -33.437832
+longitude      : -70.646418
+altitude       : 28 m
+gps_accuracy   : ±7.4 m
+heading        : 314°
+speed          : 0.3 km/h
+status         : low_movement
 phase          : overnight
-local_time     : 02:29
+local_time     : 02:48
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-05-08 06:29:48 UTC
+updated_utc    : 2026-05-10 06:48:41 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -734,7 +784,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-08 04:25:39Z
+DSN snapshot (UTC)       : 2026-05-10 01:16:59Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -745,15 +795,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.779 AU
-Heliocentric distance    : 170.495 AU
-Relative speed           : 26.304 km/s
+Earth distance           : 25.40e9 km | 169.784 AU
+Heliocentric distance    : 170.514 AU
+Relative speed           : 26.701 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:00
-Round-trip latency       : 47:04:01
+One-way light time       : 23:32:03
+Round-trip latency       : 47:04:06
 ------------------------------------------------------------
-Δ distance (since last)  : +111,768 km
-Mission age              : 48 years, 257 days
+Δ distance (since last)  : +70,056 km
+Mission age              : 48 years, 259 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -764,19 +814,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.468 AU
-Heliocentric distance    : 142.819 AU
-Relative speed           : 23.326 km/s
+Earth distance           : 21.31e9 km | 142.462 AU
+Heliocentric distance    : 142.835 AU
+Relative speed           : 23.480 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:52
-Round-trip latency       : 39:29:45
+One-way light time       : 19:44:49
+Round-trip latency       : 39:29:39
 ------------------------------------------------------------
-Δ distance (since last)  : -141,717 km
-Mission age              : 48 years, 273 days
+Δ distance (since last)  : -72,633 km
+Mission age              : 48 years, 275 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-08 04:25:41Z
+Report generated (UTC)   : 2026-05-10 01:17:03Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1328,17 +1378,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — Shade
-Last played (UTC)         : 2026-05-07 05:07:56Z
+Last played               : Silverchair — Faultline
+Last played (UTC)         : 2026-05-09 11:20:46Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 23:16:51
-Telemetry age             : 23:16:51
-Δ time (since last report): 00:00:23
+Time since last play      : 17:17:32
+Telemetry age             : 17:17:32
+Δ time (since last report): 00:01:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1350,40 +1400,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 3
 Dominant artist           : Silverchair
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-01 04:24:47Z → 2026-05-08 04:24:47Z
-Total tracks played       : 2
+Week window (UTC)         : 2026-05-03 04:38:18Z → 2026-05-10 04:38:18Z
+Total tracks played       : 24
 Dominant artist           : Silverchair
-Cadence classification    : LOW
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
-Peak hour (7d)            : 01:00
-Heatmap (24h)             :  █                      
-Heatmap (7d)              :  █                    █ 
+Peak hour (24h)           : 05:00
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :      █ ▄                
+Heatmap (7d)              :  ▁   ▃ ▁        ▇▃▇   █▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 26:45:07
+Sessions (24h)            : 2
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 03:31:13
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
-Top genres (7d)           : grunge(2) | post-grunge(2) | rock(1)
+Top genres (24h)          : grunge(3) | post-grunge(3)
+Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(8) | funk rock(8) | rap metal(8) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-08 04:24:47Z
+Report generated (UTC)    : 2026-05-10 04:38:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1452,7 +1502,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 
 
-
+<!-- 
 
 <details>
 <summary>📚 Explore further insights about me here...</summary> 
@@ -1468,11 +1518,14 @@ Throughout my life, I have lived and worked in New Delhi, India; Auckland and Ch
 If you are interested in starting a business, consulting, research, or collaboration, please feel free to reach out to me via [LinkedIn](https://linkedin.com/in/felipealfonsog) or [X (Twitter)](https://twitter.com/felipealfonsog). If you happen to be in Santiago—or online anywhere in the world—we could also meet over a cup of coffee or a virtual chat; just let me know in advance, as I may be engaged in exciting projects. Thank you!
 <br>
 </details>
+-->
+
+
 
 <details open>
-  <summary>📝 In brief, let me provide you with some additional details about myself...</summary>
+  <summary>📝 Let me provide you with some additional cool stuff I love 😄  ...</summary>
 <br>
-- 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! I'm also knowledgeable about various topics in science and technology. From general inquiries to specific subjects, I'm here to help. Additionally, I can provide insights into entrepreneurship, management, teaching, writing papers, and conducting research. And, of course, I'm well-versed in computer science engineering as a whole. So, go ahead and ask me anything you'd like! 😄 
+- 💬 Feel free to ask me about Unix/Linux flavors, as I have a deep passion for Linux/Unix-based systems like the adorable penguin mascot of GNU/Linux 🐧 and macOS, which is UNIX/BSD-based and deserves a special mention with the  symbol and the badges for Linux & macOS below! 😄 
 <br><br>
 
 <!-- 
@@ -1531,15 +1584,16 @@ An entertaining story that humorously traces the evolution of Unix and Tux. 🚀
 Enjoy 'The Gospel of Tux Unearthed' in English, Spanish and French! 🎉 Don't forget to leave a ⭐️ if you like it.
 
 #
-
+<!-- 
 <details open >
 <summary>📰 Read On Further 💼</summary>
   <br>
 
-- 📚 Currently, I’m pursuing forthcoming postgraduate studies, exploring the fascinating world of knowledge and its applications across diverse fields. It’s an exciting journey to deepen expertise and contribute to the intersection of technology, innovation & strategy! ⚙️✨
+- 📚 Currently, I’m pursuing forthcoming postgraduate studies, exploring the fascinating world of knowledge and its applications across diverse fields. It’s an exciting journey to deepen expertise and contribute to the intersection of technology, innovation & strategy! ⚙️✨ 
 - 💼 Always sharing updates on [LinkedIn](https://linkedin.com/in/felipealfonsog). You can also contact me, as always, by email at [felipe.alfonso.glz@gmail.com](mailto:felipe.alfonso.glz@gmail.com) ⚡! 😊
   <br>
 </details>
+-->
 
 > ⚡ Fun fact: I truly believe that in science and technology, and almost anything we want to master or achieve, the phrase 'Sucking at something is the first step to becoming sorta good at something' - [Jake the dog](https://en.wikipedia.org/wiki/Jake_the_Dog) (❍ᴥ❍ʋ) holds true! You can check it out for yourself 😄. 🐶
 
@@ -1737,9 +1791,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 07 May 2026
+From: 04 December 2023 - To: 09 May 2026
 
-Total Time       : 1,016 hrs 41 mins
+Total Time       : 1,016 hrs 44 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 8 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1748,7 +1802,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          443 hrs 3 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.58 %
+Other          448 hrs 51 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  44.15 %
 Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.56 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.65 %
 HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
@@ -1761,15 +1815,15 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            822 hrs 7 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  80.86 %
-Linux          637 hrs 37 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.72 %
+Mac            827 hrs 58 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  81.43 %
+Linux          637 hrs 37 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.71 %
 
 EDITORS
 -------
 VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.29 %
-Firefox        365 hrs 18 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.93 %
+Firefox        369 hrs 11 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  36.31 %
 Vim            329 hrs 13 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.38 %
-Terminal       21 hrs 51 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
+Terminal       22 hrs 3 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.17 %
 Spotify        16 hrs 28 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.62 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
 Acrobat        11 hrs 44 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
@@ -1777,19 +1831,19 @@ Acrobat        11 hrs 44 mins ○○○○○○○○○○○○○○○○�
 Dia            8 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.80 %
 Antigravity    5 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
 FileZilla      5 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
-Termius        4 hrs 59 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.49 %
+Termius        5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.50 %
 
 CATEGORIES
 ----------
-Coding         1,078 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       361 hrs 45 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.58 %
+Coding         1,080 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       365 hrs 38 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.96 %
 Meeting        16 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.66 %
 Writing Docs   3 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.30 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 08/05/2026 05:08:09 UTC
+Last updated     : 10/05/2026 05:20:46 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2641,7 +2695,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [Theatherflix](https://github.com/openvelora/Theatherflix): Theatherflix Extension is a browser extension that provides personalized movie and series recommendations to users. Using The Movie Database (TMDb) API, the extension fetches popular movie data and displays customized suggestions based on user preferences.
   🧬 JavaScript · CSS · Shell  •  ⭐ 54
 - [OptiCPU](https://github.com/felipealfonsog/OptiCPU): OptiCPU: A utility for continuously optimizing system resources, particularly CPU usage, on Linux systems.
-  🧬 C · Shell · Nix  •  ⭐ 4
+  🧬 C · Shell · Nix  •  ⭐ 3
 
 ### 🆕 Latest OSS Projects
 - [AegisIntel](https://github.com/felipealfonsog/AegisIntel): AegisIntel - Defensive threat intelligence platform that aggregates, normalizes, and correlates indicators of compromise (IOCs) to produce actionable insights.
