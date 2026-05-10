@@ -44,7 +44,7 @@ GLOBAL_SECTION_LIMIT = 25
 USE_GLOBAL_SECTION_LIMIT = False
 
 CURRENTLY_READING_LIMIT = 25
-RECENT_READ_LIMIT = 45
+RECENT_READ_LIMIT = 50
 
 
 # ============================================================
