@@ -1371,18 +1371,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Rage Against The Machine — Wake Up
-Last played               : HKLS — Time is the fire in which we burn... right, my angel?
-Last played (UTC)         : 2026-05-10 22:04:06Z
+Now playing               : Rage Against The Machine — Township Rebellion
+Last played               : Rage Against The Machine — Fistful Of Steel
+Last played (UTC)         : 2026-05-10 22:19:15Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : svnti — taipei月光 → HKLS — Time is the fire in which we burn... right, my angel?
-Δ last played (since last): 2026-05-10 19:01:41Z → 2026-05-10 22:04:06Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : HKLS — Time is the fire in which we burn... right, my angel? → Rage Against The Machine — Fistful Of Steel
+Δ last played (since last): 2026-05-10 22:04:06Z → 2026-05-10 22:19:15Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:08:26
-Telemetry age             : 00:08:26
-Δ time (since last report): 00:35:48
+Time since last play      : 00:01:36
+Telemetry age             : 00:01:36
+Δ time (since last report): 00:08:20
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,40 +1394,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
-Dominant artist           : Kaikobad
+Tracks played (last 24h)  : 7
+Dominant artist           : Rage Against The Machine
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 22:12:31Z → 2026-05-10 22:12:31Z
-Total tracks played       : 29
+Week window (UTC)         : 2026-05-03 22:20:50Z → 2026-05-10 22:20:50Z
+Total tracks played       : 31
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 14:00
+Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :     ▄         █▄  ▄     
-Heatmap (7d)              :  ▁  ▁▃ ▁      ▃▁▇▃█   █▃
+Heatmap (24h)             :     ▃         ▅▃  █     
+Heatmap (7d)              :  ▁  ▁▂ ▁      ▂▁▅▂█   ▆▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 04:07:54
+Avg inter-play gap (7d)   : 03:51:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : lo-fi house(3) | alternative metal(1) | drift phonk(1) | nu metal(1) | phonk(1) | rap metal(1)
-Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | lo-fi house(3)
+Top genres (24h)          : alternative metal(3) | lo-fi house(3) | nu metal(3) | rap metal(3) | rap rock(2) | drift phonk(1)
+Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(11) | rap metal(11) | funk rock(8) | lo-fi house(3)
 Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 22:12:31Z
+Report generated (UTC)    : 2026-05-10 22:20:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
