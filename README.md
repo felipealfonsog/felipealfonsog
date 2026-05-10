@@ -1371,7 +1371,7 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : boy 2000, Baltra — feel
+Now playing               : airshade, hypertenshi — forgotten reality
 Last played               : Deftones — Be Quiet and Drive (Far Away)
 Last played (UTC)         : 2026-05-10 08:08:32Z
 Last activity type        : PLAYBACK_ACTIVE
@@ -1380,9 +1380,9 @@ Last activity type        : PLAYBACK_ACTIVE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:39:36
-Telemetry age             : 01:39:36
-Δ time (since last report): 00:02:43
+Time since last play      : 01:42:11
+Telemetry age             : 01:42:11
+Δ time (since last report): 00:02:36
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,14 +1394,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 2
+Dominant artist           : Deftones
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 09:48:07Z → 2026-05-10 09:48:07Z
+Week window (UTC)         : 2026-05-03 09:50:43Z → 2026-05-10 09:50:43Z
 Total tracks played       : 25
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
@@ -1411,23 +1411,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :     ██ █                
+Heatmap (24h)             :     █  █                
 Heatmap (7d)              :  ▁  ▁▃ ▁        ▇▃▇   █▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 8
 Avg inter-play gap (7d)   : 04:14:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(2) | post-grunge(2) | alternative metal(1) | nu metal(1) | rap metal(1) | rock(1)
+Top genres (24h)          : alternative metal(1) | grunge(1) | nu metal(1) | post-grunge(1) | rap metal(1) | rock(1)
 Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 09:48:07Z
+Report generated (UTC)    : 2026-05-10 09:50:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
