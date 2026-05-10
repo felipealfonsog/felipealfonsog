@@ -1371,18 +1371,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Rage Against The Machine — Killing In The Name
-Last played               : Rage Against The Machine — Bombtrack
-Last played (UTC)         : 2026-05-10 22:28:42Z
+Now playing               : Rage Against The Machine — Settle For Nothing
+Last played               : Rage Against The Machine — Take The Power Back
+Last played (UTC)         : 2026-05-10 22:39:34Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Rage Against The Machine — Fistful Of Steel → Rage Against The Machine — Bombtrack
-Δ last played (since last): 2026-05-10 22:19:15Z → 2026-05-10 22:28:42Z
+Δ track (since last)      : Rage Against The Machine — Bombtrack → Rage Against The Machine — Take The Power Back
+Δ last played (since last): 2026-05-10 22:28:42Z → 2026-05-10 22:39:34Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:08
-Telemetry age             : 00:03:08
-Δ time (since last report): 00:08:04
+Time since last play      : 00:02:17
+Telemetry age             : 00:02:17
+Δ time (since last report): 00:10:01
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,15 +1394,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
+Tracks played (last 24h)  : 11
 Dominant artist           : Rage Against The Machine
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 22:31:50Z → 2026-05-10 22:31:50Z
-Total tracks played       : 33
+Week window (UTC)         : 2026-05-03 22:41:51Z → 2026-05-10 22:41:51Z
+Total tracks played       : 35
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1411,23 +1411,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :     ▂         ▃▂  █     
-Heatmap (7d)              :  ▁  ▁▂ ▁      ▂▁▄▂█   ▅▂
+Heatmap (24h)             :     ▁         ▂▁  █     
+Heatmap (7d)              :  ▁  ▁▁ ▁      ▁▁▃▁█   ▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:37:41
+Avg inter-play gap (7d)   : 03:25:12
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(5) | nu metal(5) | rap metal(5) | rap rock(4) | lo-fi house(3) | drift phonk(1)
-Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(13) | rap metal(13) | funk rock(8) | nu metal(5)
+Top genres (24h)          : alternative metal(7) | nu metal(7) | rap metal(7) | rap rock(6) | lo-fi house(3) | drift phonk(1)
+Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(15) | rap metal(15) | funk rock(8) | nu metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 22:31:50Z
+Report generated (UTC)    : 2026-05-10 22:41:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
