@@ -1371,18 +1371,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Yere — Are We Dreaming
-Last played               : Kaikobad — Turn Echo (Vocal Mix)
-Last played (UTC)         : 2026-05-10 18:52:44Z
+Now playing               : HKLS — Time is the fire in which we burn... right, my angel?
+Last played               : svnti — taipei月光
+Last played (UTC)         : 2026-05-10 19:01:41Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-05-10 18:34:05Z → 2026-05-10 18:52:44Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Kaikobad — Turn Echo (Vocal Mix) → svnti — taipei月光
+Δ last played (since last): 2026-05-10 18:52:44Z → 2026-05-10 19:01:41Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:40
-Telemetry age             : 00:03:40
-Δ time (since last report): 00:16:35
+Time since last play      : 00:02:09
+Telemetry age             : 00:02:09
+Δ time (since last report): 00:07:27
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,15 +1394,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 4
 Dominant artist           : Kaikobad
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-03 18:56:23Z → 2026-05-10 18:56:23Z
-Total tracks played       : 27
+Week window (UTC)         : 2026-05-03 19:03:49Z → 2026-05-10 19:03:49Z
+Total tracks played       : 28
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1411,23 +1411,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 14:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :     ▄         █         
-Heatmap (7d)              :  ▁  ▁▃ ▁      ▃ ▇▃▇   █▃
+Heatmap (24h)             :     ▄         █▄        
+Heatmap (7d)              :  ▁  ▁▃ ▁      ▃▁▇▃▇   █▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 04:19:37
+Avg inter-play gap (7d)   : 04:10:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : lo-fi house(2) | alternative metal(1) | nu metal(1) | rap metal(1) | rock(1) | shoegaze(1)
-Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | lo-fi house(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : lo-fi house(3) | alternative metal(1) | nu metal(1) | rap metal(1) | rock(1) | shoegaze(1)
+Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(9) | rap metal(9) | funk rock(8) | lo-fi house(3)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-10 18:56:23Z
+Report generated (UTC)    : 2026-05-10 19:03:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
