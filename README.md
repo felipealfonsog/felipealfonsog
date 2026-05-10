@@ -413,7 +413,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-10T01:11:06+00:00 | last_update=2026-05-10T01:11:06+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-10T03:30:55+00:00 | last_update=2026-05-10T03:30:55+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -442,7 +442,7 @@ ICONOS INICIALES INLINE SVG1
 24. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
 25. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
 
-[recent_read] shelf=read books=25 limit=25
+[recent_read] shelf=read books=50 limit=50
 01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
 02. Programming Perl (3rd Edition) — Larry Wall
 03. Mala onda — Alberto Fuguet
@@ -468,6 +468,31 @@ ICONOS INICIALES INLINE SVG1
 23. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
 24. Calculus — Purcell Rigdon Varberg
 25. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
+26. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
+27. La vida, un enigma — Daisaku Ikeda
+28. The Count of Monte Cristo — Alexandre Dumas
+29. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
+30. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
+31. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
+32. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
+33. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
+34. The Silva Mind Control Method — José Silva
+35. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
+36. De Sapos a Principes — Richard Bandler
+37. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
+38. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
+39. Psychology: The Science of Mind and Behaviour — Richard Gross
+40. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
+41. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
+42. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
+43. Understanding Psychology — Robert S. Feldman
+44. Critique of Pure Reason — Immanuel Kant
+45. Becoming — Michelle Obama
+46. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
+47. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
+48. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
+49. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
+50. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
 
 ```
 <!-- GOODREADS:CLI_END -->

@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-10T01:11:06+00:00",
-    "last_successful_sync": "2026-05-10T01:11:06+00:00",
+    "last_attempted_sync": "2026-05-10T03:30:55+00:00",
+    "last_successful_sync": "2026-05-10T03:30:55+00:00",
     "error_message": ""
   },
   "sections": {
@@ -248,8 +248,8 @@
       "title": "Recently Read",
       "shelf": "read",
       "source_url": "https://www.goodreads.com/review/list_rss/10606567?shelf=read",
-      "limit": 25,
-      "item_count": 25,
+      "limit": 50,
+      "item_count": 50,
       "books": [
         {
           "title": "A New Earth: Awakening to Your Life's Purpose",
@@ -475,6 +475,231 @@
           "summary": "author: Carl Goldberg name: Felipe Alfonso average rating: 5.00 book published: rating: 5 read at: date added: 2025/10/23 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/8014634512?utm_medium=api&utm_source=rss",
           "pub_date": "Thu, 23 Oct 2025 06:50:02 -0700"
+        },
+        {
+          "title": "The Way to Freedom: Core Teachings of Tibetan Buddhism",
+          "author": "Dalai Lama XIV",
+          "link": "https://www.goodreads.com/review/show/2645667583?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440826168l/1155450._SY75_.jpg",
+          "summary": "author: Dalai Lama XIV name: Felipe Alfonso average rating: 3.93 book published: 1994 rating: 5 read at: 2018/01/01 date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/2645667583?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:49:31 -0700"
+        },
+        {
+          "title": "La vida, un enigma",
+          "author": "Daisaku Ikeda",
+          "link": "https://www.goodreads.com/review/show/8014632213?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605624873l/55922406._SX50_.jpg",
+          "summary": "author: Daisaku Ikeda name: Felipe Alfonso average rating: 5.00 book published: rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014632213?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:48:51 -0700"
+        },
+        {
+          "title": "The Count of Monte Cristo",
+          "author": "Alexandre Dumas",
+          "link": "https://www.goodreads.com/review/show/2668711291?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126._SY75_.jpg",
+          "summary": "author: Alexandre Dumas name: Felipe Alfonso average rating: 4.31 book published: 1846 rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/2668711291?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:47:35 -0700"
+        },
+        {
+          "title": "LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel)",
+          "author": "Sociedad Celestial",
+          "link": "https://www.goodreads.com/review/show/8014628104?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596994605l/54863837._SX50_.jpg",
+          "summary": "author: Sociedad Celestial name: Felipe Alfonso average rating: 4.50 book published: rating: 0 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014628104?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:46:44 -0700"
+        },
+        {
+          "title": "LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado",
+          "author": "Heavenly Society",
+          "link": "https://www.goodreads.com/review/show/8014627651?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670884110l/66003327._SX50_.jpg",
+          "summary": "author: Heavenly Society name: Felipe Alfonso average rating: 0.0 book published: rating: 0 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014627651?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:46:31 -0700"
+        },
+        {
+          "title": "LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1)",
+          "author": "Heavenly Society",
+          "link": "https://www.goodreads.com/review/show/8014627379?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544272861l/43174016._SX50_.jpg",
+          "summary": "author: Heavenly Society name: Felipe Alfonso average rating: 3.90 book published: rating: 0 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014627379?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:46:23 -0700"
+        },
+        {
+          "title": "Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!",
+          "author": "Anthony Robbins",
+          "link": "https://www.goodreads.com/review/show/8014620411?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415677371l/180116._SY75_.jpg",
+          "summary": "author: Anthony Robbins name: Felipe Alfonso average rating: 4.16 book published: 1992 rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014620411?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:43:05 -0700"
+        },
+        {
+          "title": "Walking Meditation: Easy Steps to Mindfulness",
+          "author": "Thich Nhat Hanh",
+          "link": "https://www.goodreads.com/review/show/8014619477?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548908688l/40630101._SX50_.jpg",
+          "summary": "author: Thich Nhat Hanh name: Felipe Alfonso average rating: 4.04 book published: rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014619477?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:42:35 -0700"
+        },
+        {
+          "title": "The Silva Mind Control Method",
+          "author": "José Silva",
+          "link": "https://www.goodreads.com/review/show/8014617774?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369395259l/184955._SY75_.jpg",
+          "summary": "author: José Silva name: Felipe Alfonso average rating: 3.89 book published: 1977 rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014617774?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:41:49 -0700"
+        },
+        {
+          "title": "Flow: The Psychology of Optimal Experience",
+          "author": "Mihály Csíkszentmihályi",
+          "link": "https://www.goodreads.com/review/show/8008451727?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1748892272l/66354._SY75_.jpg",
+          "summary": "author: Mihály Csíkszentmihályi name: Felipe Alfonso average rating: 4.11 book published: 1990 rating: 5 read at: 2025/10/23 date added: 2025/10/23 shelves: psychology, philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008451727?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:40:15 -0700"
+        },
+        {
+          "title": "De Sapos a Principes",
+          "author": "Richard Bandler",
+          "link": "https://www.goodreads.com/review/show/8014613848?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491038496l/7259023._SX50_.jpg",
+          "summary": "author: Richard Bandler name: Felipe Alfonso average rating: 3.43 book published: 1979 rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8014613848?utm_medium=api&utm_source=rss",
+          "pub_date": "Thu, 23 Oct 2025 06:39:52 -0700"
+        },
+        {
+          "title": "SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn)",
+          "author": "Powerful Insights",
+          "link": "https://www.goodreads.com/review/show/8008545823?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678497945l/90541816._SY75_.jpg",
+          "summary": "author: Powerful Insights name: Felipe Alfonso average rating: 3.00 book published: rating: 0 read at: date added: 2025/10/20 shelves: favorites review:",
+          "guid": "https://www.goodreads.com/review/show/8008545823?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 20:00:12 -0700"
+        },
+        {
+          "title": "The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions",
+          "author": "Allan Pease",
+          "link": "https://www.goodreads.com/review/show/8008516989?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421992256l/19937017._SY75_.jpg",
+          "summary": "author: Allan Pease name: Felipe Alfonso average rating: 4.12 book published: 1981 rating: 0 read at: date added: 2025/10/20 shelves: behavior, psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008516989?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:47:47 -0700"
+        },
+        {
+          "title": "Psychology: The Science of Mind and Behaviour",
+          "author": "Richard Gross",
+          "link": "https://www.goodreads.com/review/show/8008515537?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348824141l/8697315._SX50_.jpg",
+          "summary": "author: Richard Gross name: Felipe Alfonso average rating: 4.34 book published: 2015 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008515537?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:47:06 -0700"
+        },
+        {
+          "title": "Evil: Inside Human Violence and Cruelty",
+          "author": "Roy F. Baumeister",
+          "link": "https://www.goodreads.com/review/show/8008513012?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311990046l/573611._SY75_.jpg",
+          "summary": "author: Roy F. Baumeister name: Felipe Alfonso average rating: 4.10 book published: 1996 rating: 0 read at: date added: 2025/10/20 shelves: behavior, philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008513012?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:46:09 -0700"
+        },
+        {
+          "title": "Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology",
+          "author": "Joshua Coopers",
+          "link": "https://www.goodreads.com/review/show/8008510985?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677847206l/51421505._SX50_.jpg",
+          "summary": "author: Joshua Coopers name: Felipe Alfonso average rating: 3.75 book published: rating: 0 read at: date added: 2025/10/20 shelves: philosophy, behavior review:",
+          "guid": "https://www.goodreads.com/review/show/8008510985?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:45:26 -0700"
+        },
+        {
+          "title": "The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces",
+          "author": "Nicholas James Long",
+          "link": "https://www.goodreads.com/review/show/8008507909?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397061034l/6146129._SY75_.jpg",
+          "summary": "author: Nicholas James Long name: Felipe Alfonso average rating: 4.24 book published: 2001 rating: 0 read at: date added: 2025/10/20 shelves: philosophy, behavior review:",
+          "guid": "https://www.goodreads.com/review/show/8008507909?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:44:29 -0700"
+        },
+        {
+          "title": "Understanding Psychology",
+          "author": "Robert S. Feldman",
+          "link": "https://www.goodreads.com/review/show/8008506913?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1253448017l/4146134._SX50_.jpg",
+          "summary": "author: Robert S. Feldman name: Felipe Alfonso average rating: 3.94 book published: 1987 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008506913?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:43:44 -0700"
+        },
+        {
+          "title": "Critique of Pure Reason",
+          "author": "Immanuel Kant",
+          "link": "https://www.goodreads.com/review/show/8008504265?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757108780l/18288._SY75_.jpg",
+          "summary": "author: Immanuel Kant name: Felipe Alfonso average rating: 3.95 book published: 1781 rating: 0 read at: date added: 2025/10/20 shelves: philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008504265?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:42:31 -0700"
+        },
+        {
+          "title": "Becoming",
+          "author": "Michelle Obama",
+          "link": "https://www.goodreads.com/review/show/8008502829?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SY75_.jpg",
+          "summary": "author: Michelle Obama name: Felipe Alfonso average rating: 4.41 book published: 2018 rating: 0 read at: date added: 2025/10/20 shelves: biography, psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008502829?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:42:11 -0700"
+        },
+        {
+          "title": "Emotional Intelligence: Why It Can Matter More Than IQ",
+          "author": "Daniel Goleman",
+          "link": "https://www.goodreads.com/review/show/8008501473?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388185411l/26329._SY75_.jpg",
+          "summary": "author: Daniel Goleman name: Felipe Alfonso average rating: 4.07 book published: 1995 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
+          "guid": "https://www.goodreads.com/review/show/8008501473?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:41:26 -0700"
+        },
+        {
+          "title": "Steve Jobs by Walter Isaacson (2011-10-24)",
+          "author": "Walter Isaacson",
+          "link": "https://www.goodreads.com/review/show/8008499321?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697011746l/129268233._SX50_.jpg",
+          "summary": "author: Walter Isaacson name: Felipe Alfonso average rating: 4.60 book published: 2011 rating: 0 read at: date added: 2025/10/20 shelves: favorites, biography review:",
+          "guid": "https://www.goodreads.com/review/show/8008499321?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:40:51 -0700"
+        },
+        {
+          "title": "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
+          "author": "Cathy O'Neil",
+          "link": "https://www.goodreads.com/review/show/8008497464?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456091964l/28186015._SX50_.jpg",
+          "summary": "author: Cathy O'Neil name: Felipe Alfonso average rating: 3.86 book published: 2016 rating: 0 read at: date added: 2025/10/20 shelves: engineering, philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008497464?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:40:00 -0700"
+        },
+        {
+          "title": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+          "author": "Simon Singh",
+          "link": "https://www.goodreads.com/review/show/8008495891?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403181687l/17994._SY75_.jpg",
+          "summary": "author: Simon Singh name: Felipe Alfonso average rating: 4.30 book published: 1999 rating: 0 read at: date added: 2025/10/20 shelves: cybersecurity, engineering, cryptography review:",
+          "guid": "https://www.goodreads.com/review/show/8008495891?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:39:25 -0700"
+        },
+        {
+          "title": "AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability",
+          "author": "Iqbal H. Sarker",
+          "link": "https://www.goodreads.com/review/show/8008494244?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718702955l/205548015._SY75_.jpg",
+          "summary": "author: Iqbal H. Sarker name: Felipe Alfonso average rating: 4.00 book published: rating: 0 read at: date added: 2025/10/20 shelves: cybersecurity, engineering review:",
+          "guid": "https://www.goodreads.com/review/show/8008494244?utm_medium=api&utm_source=rss",
+          "pub_date": "Mon, 20 Oct 2025 19:38:34 -0700"
         }
       ]
     }
