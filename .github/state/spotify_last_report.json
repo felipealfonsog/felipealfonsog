@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-05-10 22:46:57Z",
-  "status": "PLAYING",
-  "last_track": "Rage Against The Machine — Settle For Nothing",
-  "last_played_utc": "2026-05-10 22:44:19Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-05-11 01:17:08Z",
+  "status": "IDLE",
+  "last_track": "Rage Against The Machine — Bullet In The Head",
+  "last_played_utc": "2026-05-10 22:49:26Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
