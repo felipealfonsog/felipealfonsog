@@ -1359,29 +1359,30 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (idle session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Rage Against The Machine — Settle For Nothing
-Last played (UTC)         : 2026-05-11 21:37:18Z
-Last activity type        : PLAYBACK_INACTIVE
+Now playing               : Rage Against The Machine — Wake Up
+Last played               : Rage Against The Machine — Bullet In The Head
+Last played (UTC)         : 2026-05-11 21:49:04Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : Rage Against The Machine — Settle For Nothing → Rage Against The Machine — Bullet In The Head
+Δ last played (since last): 2026-05-11 21:37:18Z → 2026-05-11 21:49:04Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:11:24
-Telemetry age             : 00:11:24
-Δ time (since last report): 00:09:39
+Time since last play      : 00:00:08
+Telemetry age             : 00:00:08
+Δ time (since last report): 00:00:30
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1393,14 +1394,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
+Tracks played (last 24h)  : 26
 Dominant artist           : Rage Against The Machine
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-04 21:48:42Z → 2026-05-11 21:48:42Z
+Week window (UTC)         : 2026-05-04 21:49:11Z → 2026-05-11 21:49:11Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1411,22 +1412,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
 Heatmap (24h)             :   ▁   ▁          ▄█   ▆▃
-Heatmap (7d)              :   ▁ ▁▁▁▁      ▁▁▂▃█   ▇▃
+Heatmap (7d)              :   ▁ ▁▁▁▁      ▁▁▂▄█   ▇▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
 Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 01:29:30
+Avg inter-play gap (7d)   : 01:29:39
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(22) | nu metal(22) | rap metal(22) | rap rock(15) | funk rock(5) | latin rock(2)
-Top genres (7d)           : alternative metal(31) | rap metal(31) | nu metal(23) | grunge(21) | rap rock(15) | funk rock(13)
+Top genres (24h)          : alternative metal(23) | nu metal(23) | rap metal(23) | rap rock(16) | funk rock(5) | latin rock(2)
+Top genres (7d)           : alternative metal(32) | rap metal(32) | nu metal(24) | grunge(20) | rap rock(16) | funk rock(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-11 21:48:42Z
+Report generated (UTC)    : 2026-05-11 21:49:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
