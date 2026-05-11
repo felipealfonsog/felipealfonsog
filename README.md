@@ -1379,9 +1379,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:20:49
-Telemetry age             : 05:20:49
-Δ time (since last report): 00:00:43
+Time since last play      : 08:06:04
+Telemetry age             : 08:06:04
+Δ time (since last report): 02:45:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1393,14 +1393,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 24
+Tracks played (last 24h)  : 21
 Dominant artist           : Rage Against The Machine
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-04 16:16:55Z → 2026-05-11 16:16:55Z
+Week window (UTC)         : 2026-05-04 19:02:11Z → 2026-05-11 19:02:11Z
 Total tracks played       : 49
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1410,23 +1410,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :   ▁   ▁       ▂▁  █   ▆▃
+Heatmap (24h)             :   ▁   ▁           █   ▆▃
 Heatmap (7d)              :  ▁▁ ▁▁▁▁      ▁▁▃▁█   ▇▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 4
 Sessions (7d)             : 13
 Avg inter-play gap (7d)   : 02:40:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(18) | nu metal(18) | rap metal(18) | rap rock(11) | funk rock(5) | lo-fi house(3)
+Top genres (24h)          : alternative metal(18) | nu metal(18) | rap metal(18) | rap rock(11) | funk rock(5) | latin rock(2)
 Top genres (7d)           : alternative metal(27) | rap metal(27) | grunge(24) | nu metal(19) | post-grunge(16) | funk rock(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-11 16:16:55Z
+Report generated (UTC)    : 2026-05-11 19:02:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
