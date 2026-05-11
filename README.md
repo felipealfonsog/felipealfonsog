@@ -1371,17 +1371,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Rage Against The Machine — Bullet In The Head
-Last played (UTC)         : 2026-05-10 22:49:26Z
+Last played               : Snot — Snooze Button
+Last played (UTC)         : 2026-05-11 03:10:35Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Rage Against The Machine — Settle For Nothing → Rage Against The Machine — Bullet In The Head
-Δ last played (since last): 2026-05-10 22:44:19Z → 2026-05-10 22:49:26Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : Rage Against The Machine — Bullet In The Head → Snot — Snooze Button
+Δ last played (since last): 2026-05-10 22:49:26Z → 2026-05-11 03:10:35Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:27:42
-Telemetry age             : 02:27:42
-Δ time (since last report): 02:30:11
+Time since last play      : 01:35:00
+Telemetry age             : 01:35:00
+Δ time (since last report): 03:28:27
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1393,40 +1393,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 13
+Tracks played (last 24h)  : 23
 Dominant artist           : Rage Against The Machine
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-04 01:17:08Z → 2026-05-11 01:17:08Z
-Total tracks played       : 37
+Week window (UTC)         : 2026-05-04 04:45:34Z → 2026-05-11 04:45:34Z
+Total tracks played       : 47
 Dominant artist           : Silverchair
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :     ▁         ▂▁  █     
-Heatmap (7d)              :  ▁  ▁▁ ▁      ▁▁▃▁█   ▃▁
+Heatmap (24h)             :     ▁         ▂▁  █   ▆▃
+Heatmap (7d)              :  ▁  ▁▁ ▁      ▁▁▃▁█   ▇▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:14:04
+Sessions (24h)            : 4
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:37:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rap rock(8) | lo-fi house(3) | drift phonk(1)
-Top genres (7d)           : grunge(24) | alternative metal(17) | rap metal(17) | post-grunge(16) | nu metal(9) | funk rock(8)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(18) | nu metal(18) | rap metal(18) | rap rock(11) | funk rock(4) | lo-fi house(3)
+Top genres (7d)           : alternative metal(26) | rap metal(26) | grunge(24) | nu metal(18) | post-grunge(16) | funk rock(12)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-11 01:17:08Z
+Report generated (UTC)    : 2026-05-11 04:45:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
