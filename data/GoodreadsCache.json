@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-10T21:23:50+00:00",
-    "last_successful_sync": "2026-05-10T21:23:50+00:00",
+    "last_attempted_sync": "2026-05-11T01:11:09+00:00",
+    "last_successful_sync": "2026-05-11T01:11:09+00:00",
     "error_message": ""
   },
   "sections": {
@@ -859,7 +859,7 @@
           "author": "Brian Christian",
           "link": "https://www.goodreads.com/review/show/8008459566?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296875l/25666050._SY75_.jpg",
-          "summary": "author: Brian Christian name: Felipe Alfonso average rating: 4.11 book published: 2016 rating: 0 read at: date added: 2025/10/20 shelves: engineering review:",
+          "summary": "author: Brian Christian name: Felipe Alfonso average rating: 4.12 book published: 2016 rating: 0 read at: date added: 2025/10/20 shelves: engineering review:",
           "guid": "https://www.goodreads.com/review/show/8008459566?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:24:40 -0700"
         },
