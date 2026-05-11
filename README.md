@@ -1375,13 +1375,13 @@ Last played               : Los Tres — No Sabes Que Desperdicio Tengo en el Al
 Last played (UTC)         : 2026-05-11 10:56:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Snot — Joy Ride → Los Tres — No Sabes Que Desperdicio Tengo en el Alma
-Δ last played (since last): 2026-05-11 06:21:40Z → 2026-05-11 10:56:07Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:24:25
-Telemetry age             : 02:24:25
-Δ time (since last report): 02:44:52
+Time since last play      : 02:25:16
+Telemetry age             : 02:25:16
+Δ time (since last report): 00:00:51
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1400,7 +1400,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-04 13:20:32Z → 2026-05-11 13:20:32Z
+Week window (UTC)         : 2026-05-04 13:21:22Z → 2026-05-11 13:21:22Z
 Total tracks played       : 49
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1424,9 +1424,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(18) | nu metal(18) | rap metal(18) | rap rock(11) | funk rock(5) | lo-fi house(3)
 Top genres (7d)           : alternative metal(27) | rap metal(27) | grunge(24) | nu metal(19) | post-grunge(16) | funk rock(13)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-11 13:20:32Z
+Report generated (UTC)    : 2026-05-11 13:21:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
