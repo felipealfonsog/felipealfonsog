@@ -1359,35 +1359,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Los Tres — No Sabes Que Desperdicio Tengo en el Alma
+Now playing               : N/A
 Last played               : Snot — Joy Ride
 Last played (UTC)         : 2026-05-11 06:21:40Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 04:12:25
-Telemetry age             : 04:12:25
-Δ time (since last report): 02:56:55
+Time since last play      : 04:13:20
+Telemetry age             : 04:13:20
+Δ time (since last report): 00:00:56
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1401,7 +1400,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-04 10:34:04Z → 2026-05-11 10:34:04Z
+Week window (UTC)         : 2026-05-04 10:35:00Z → 2026-05-11 10:35:00Z
 Total tracks played       : 48
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1427,7 +1426,7 @@ Top genres (24h)          : alternative metal(18) | nu metal(18) | rap metal(18)
 Top genres (7d)           : alternative metal(27) | rap metal(27) | grunge(24) | nu metal(19) | post-grunge(16) | funk rock(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-11 10:34:04Z
+Report generated (UTC)    : 2026-05-11 10:35:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
