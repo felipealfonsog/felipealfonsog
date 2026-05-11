@@ -1359,30 +1359,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : ONLINE (idle session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : Computer
 Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 81%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Rage Against The Machine — Bullet In The Head
+Now playing               : N/A
 Last played               : Rage Against The Machine — Settle For Nothing
 Last played (UTC)         : 2026-05-11 21:37:18Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Los Tres — No Sabes Que Desperdicio Tengo en el Alma → Rage Against The Machine — Settle For Nothing
-Δ last played (since last): 2026-05-11 10:56:07Z → 2026-05-11 21:37:18Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:01:46
-Telemetry age             : 00:01:46
-Δ time (since last report): 00:17:58
+Time since last play      : 00:11:24
+Telemetry age             : 00:11:24
+Δ time (since last report): 00:09:39
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1401,7 +1400,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-04 21:39:03Z → 2026-05-11 21:39:03Z
+Week window (UTC)         : 2026-05-04 21:48:42Z → 2026-05-11 21:48:42Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1427,7 +1426,7 @@ Top genres (24h)          : alternative metal(22) | nu metal(22) | rap metal(22)
 Top genres (7d)           : alternative metal(31) | rap metal(31) | nu metal(23) | grunge(21) | rap rock(15) | funk rock(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-11 21:39:03Z
+Report generated (UTC)    : 2026-05-11 21:48:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
