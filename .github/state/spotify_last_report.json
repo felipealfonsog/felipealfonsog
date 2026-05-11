@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-05-11 19:03:14Z",
-  "status": "IDLE",
+  "report_generated_utc": "2026-05-11 21:21:06Z",
+  "status": "PLAYING",
   "last_track": "Los Tres — No Sabes Que Desperdicio Tengo en el Alma",
   "last_played_utc": "2026-05-11 10:56:07Z",
-  "sitrep": "AMBER",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
