@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-05-10_0036Z
+ snapshot_utc : 2026-05-11_0037Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -420,7 +420,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-09T21:22:35+00:00 | last_update=2026-05-09T21:22:35+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-10T21:23:50+00:00 | last_update=2026-05-10T21:23:50+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -449,7 +449,7 @@ ICONOS INICIALES INLINE SVG1
 24. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
 25. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
 
-[recent_read] shelf=read books=25 limit=25
+[recent_read] shelf=read books=75 limit=75
 01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
 02. Programming Perl (3rd Edition) — Larry Wall
 03. Mala onda — Alberto Fuguet
@@ -475,6 +475,56 @@ ICONOS INICIALES INLINE SVG1
 23. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
 24. Calculus — Purcell Rigdon Varberg
 25. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
+26. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
+27. La vida, un enigma — Daisaku Ikeda
+28. The Count of Monte Cristo — Alexandre Dumas
+29. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
+30. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
+31. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
+32. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
+33. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
+34. The Silva Mind Control Method — José Silva
+35. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
+36. De Sapos a Principes — Richard Bandler
+37. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
+38. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
+39. Psychology: The Science of Mind and Behaviour — Richard Gross
+40. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
+41. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
+42. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
+43. Understanding Psychology — Robert S. Feldman
+44. Critique of Pure Reason — Immanuel Kant
+45. Becoming — Michelle Obama
+46. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
+47. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
+48. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
+49. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
+50. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
+51. Cyber Minds: Insights on cybersecurity across the cloud, data, artificial intelligence, blockchain, and IoT to keep you cyber safe — Shira Rubinoff
+52. Mike Meyers' Comptia Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition — Mike Meyers
+53. Mike Meyers' CompTIA Network+ Certification Passport, Seventh Edition (Exam N10-008) — Mike Meyers
+54. Principles of Computer Security: CompTIA Security+ and Beyond Lab Manual (Exam SY0-601) — Jonathan S Weissman
+55. Principles of Computer Security, CompTIA Security+ and Beyond, with CD-ROM — William Arthur Conklin
+56. Principles of Data Science: Learn the techniques and math you need to start making sense of your data: Mathematical techniques and theory to succeed in data-driven industries — Sinan Özdemir
+57. Hands-On Machine Learning with Scikit-Learn and TensorFlow — Aurélien Géron
+58. Deep Learning — Ian Goodfellow
+59. Introduction to Algorithms — Thomas H. Cormen
+60. The Art of Happiness — Dalai Lama XIV
+61. The Bhagavad Gita — Krishna-Dwaipayana Vyasa
+62. Essence of the Upanishads: A Key to Indian Spirituality (Wisdom of India, 1) — Eknath Easwaran
+63. The Upanishads — Anonymous
+64. The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism — Fritjof Capra
+65. The Denial of Death — Ernest Becker
+66. Homo Deus: A Brief History of Tomorrow — Yuval Noah Harari
+67. Sapiens: A Brief History of Humankind — Yuval Noah Harari
+68. Algorithms to Live By: The Computer Science of Human Decisions — Brian Christian
+69. Thinking, Fast and Slow — Daniel Kahneman
+70. Gödel, Escher, Bach: An Eternal Golden Braid — Douglas R. Hofstadter
+71. The Republic — Plato
+72. Meditations on First Philosophy: Rene Descartes — René Descartes
+73. The Art of War — Sun Tzu
+74. The Power of Now: A Guide to Spiritual Enlightenment — Eckhart Tolle
+75. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
 
 ```
 <!-- GOODREADS:CLI_END -->
@@ -528,13 +578,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 196 ms
-TTFB................ 195 ms
+LATENCY............. 278 ms
+TTFB................ 277 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 57d
+TLS_EXPIRY.......... 56d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -563,7 +613,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-09T18:29:08Z
+LAST_PROBE_UTC...... 2026-05-10T12:30:39Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -604,18 +654,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : residential_sector
-latitude       : -33.441983
-longitude      : -70.654120
-altitude       : 26 m
-gps_accuracy   : ±3.9 m
-heading        : 184°
-speed          : 0.8 km/h
-status         : stationary
+latitude       : -33.441537
+longitude      : -70.653685
+altitude       : 60 m
+gps_accuracy   : ±4.4 m
+heading        : 59°
+speed          : 3.5 km/h
+status         : walking
 phase          : evening
-local_time     : 20:15
+local_time     : 20:16
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-05-10 00:15:59 UTC
+signal         : nominal
+updated_utc    : 2026-05-11 00:16:46 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -734,7 +784,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-09 21:37:14Z
+DSN snapshot (UTC)       : 2026-05-10 21:37:56Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -745,15 +795,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.784 AU
-Heliocentric distance    : 170.512 AU
-Relative speed           : 26.669 km/s
+Earth distance           : 25.40e9 km | 169.787 AU
+Heliocentric distance    : 170.522 AU
+Relative speed           : 26.883 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:03
-Round-trip latency       : 47:04:06
+One-way light time       : 23:32:04
+Round-trip latency       : 47:04:09
 ------------------------------------------------------------
-Δ distance (since last)  : +112,746 km
-Mission age              : 48 years, 258 days
+Δ distance (since last)  : +60,045 km
+Mission age              : 48 years, 259 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -764,19 +814,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.463 AU
-Heliocentric distance    : 142.833 AU
-Relative speed           : 23.467 km/s
+Earth distance           : 21.31e9 km | 142.460 AU
+Heliocentric distance    : 142.842 AU
+Relative speed           : 23.554 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:50
-Round-trip latency       : 39:29:39
+One-way light time       : 19:44:48
+Round-trip latency       : 39:29:36
 ------------------------------------------------------------
-Δ distance (since last)  : -119,316 km
-Mission age              : 48 years, 274 days
+Δ distance (since last)  : -57,051 km
+Mission age              : 48 years, 275 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-09 21:37:16Z
+Report generated (UTC)   : 2026-05-10 21:37:59Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1316,49 +1366,50 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Silverchair — Faultline
-Last played (UTC)         : 2026-05-09 11:20:46Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Rage Against The Machine — Bullet In The Head
+Last played               : Rage Against The Machine — Settle For Nothing
+Last played (UTC)         : 2026-05-10 22:44:19Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Rage Against The Machine — Take The Power Back → Rage Against The Machine — Settle For Nothing
+Δ last played (since last): 2026-05-10 22:39:34Z → 2026-05-10 22:44:19Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:15:17
-Telemetry age             : 10:15:17
-Δ time (since last report): 00:00:16
+Time since last play      : 00:02:39
+Telemetry age             : 00:02:39
+Δ time (since last report): 00:05:07
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 15
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 12
+Dominant artist           : Rage Against The Machine
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-02 21:36:03Z → 2026-05-09 21:36:03Z
-Total tracks played       : 24
+Week window (UTC)         : 2026-05-03 22:46:57Z → 2026-05-10 22:46:57Z
+Total tracks played       : 36
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1366,24 +1417,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
-Peak hour (7d)            : 22:00
-Heatmap (24h)             :      ▃ ▂          █   █▃
-Heatmap (7d)              :  ▁   ▃ ▁        ▇▃▇   █▃
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :     ▁         ▂▁  █     
+Heatmap (7d)              :  ▁  ▁▁ ▁      ▁▁▃▁█   ▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 03:31:13
+Sessions (24h)            : 3
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 03:19:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(15) | post-grunge(10) | alternative metal(5) | funk rock(5) | rap metal(5)
-Top genres (7d)           : grunge(24) | post-grunge(16) | alternative metal(8) | funk rock(8) | rap metal(8) | rock(1)
+Top genres (24h)          : alternative metal(8) | nu metal(8) | rap metal(8) | rap rock(7) | lo-fi house(3) | drift phonk(1)
+Top genres (7d)           : grunge(24) | alternative metal(16) | post-grunge(16) | rap metal(16) | funk rock(8) | nu metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-09 21:36:03Z
+Report generated (UTC)    : 2026-05-10 22:46:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1741,9 +1792,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 09 May 2026
+From: 04 December 2023 - To: 10 May 2026
 
-Total Time       : 1,016 hrs 44 mins
+Total Time       : 1,017 hrs 7 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 8 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1752,48 +1803,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          448 hrs 51 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  44.15 %
-Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.56 %
+Other          455 hrs 8 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  44.75 %
+Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.55 %
 Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.65 %
-HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
-PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.70 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.95 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.25 %
+HTML           131 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
+PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.69 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.94 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.24 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.93 %
 Text           38 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.71 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            827 hrs 58 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  81.43 %
-Linux          637 hrs 37 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.71 %
+Mac            833 hrs 49 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  81.98 %
+Linux          638 hrs 26 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.77 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.29 %
-Firefox        369 hrs 11 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  36.31 %
-Vim            329 hrs 13 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.38 %
-Terminal       22 hrs 3 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.17 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.26 %
+Firefox        374 hrs 44 mins ●●●●●●●●●◔○○○○○○○○○○○○○○○○  36.84 %
+Vim            329 hrs 13 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.37 %
+Terminal       22 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.20 %
 Spotify        16 hrs 28 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.62 %
-TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
+TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
 Acrobat        11 hrs 44 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
 ‎WhatsApp      10 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.99 %
 Dia            8 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.80 %
-Antigravity    5 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
-FileZilla      5 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
-Termius        5 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.50 %
+Antigravity    6 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
+FileZilla      5 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
+Termius        5 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.50 %
 
 CATEGORIES
 ----------
-Coding         1,080 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       365 hrs 38 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.96 %
+Coding         1,080 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       371 hrs 11 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  36.49 %
 Meeting        16 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.66 %
-Writing Docs   3 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.30 %
+Writing Docs   3 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 09/05/2026 22:21:42 UTC
+Last updated     : 10/05/2026 22:22:25 UTC
 
 ```
 <!--END_SECTION:wakastats-->
