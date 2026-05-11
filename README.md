@@ -1375,13 +1375,13 @@ Last played               : Snot — Snooze Button
 Last played (UTC)         : 2026-05-11 03:10:35Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Rage Against The Machine — Bullet In The Head → Snot — Snooze Button
-Δ last played (since last): 2026-05-10 22:49:26Z → 2026-05-11 03:10:35Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:35:00
-Telemetry age             : 01:35:00
-Δ time (since last report): 03:28:27
+Time since last play      : 01:35:25
+Telemetry age             : 01:35:25
+Δ time (since last report): 00:00:26
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1400,7 +1400,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-04 04:45:34Z → 2026-05-11 04:45:34Z
+Week window (UTC)         : 2026-05-04 04:45:59Z → 2026-05-11 04:45:59Z
 Total tracks played       : 47
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1424,9 +1424,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(18) | nu metal(18) | rap metal(18) | rap rock(11) | funk rock(4) | lo-fi house(3)
 Top genres (7d)           : alternative metal(26) | rap metal(26) | grunge(24) | nu metal(18) | post-grunge(16) | funk rock(12)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-11 04:45:34Z
+Report generated (UTC)    : 2026-05-11 04:45:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
