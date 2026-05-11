@@ -1371,17 +1371,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Snot — Joy Ride
-Last played (UTC)         : 2026-05-11 06:21:40Z
+Last played               : Los Tres — No Sabes Que Desperdicio Tengo en el Alma
+Last played (UTC)         : 2026-05-11 10:56:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Snot — Joy Ride → Los Tres — No Sabes Que Desperdicio Tengo en el Alma
+Δ last played (since last): 2026-05-11 06:21:40Z → 2026-05-11 10:56:07Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:14:01
-Telemetry age             : 04:14:01
-Δ time (since last report): 00:00:41
+Time since last play      : 02:24:25
+Telemetry age             : 02:24:25
+Δ time (since last report): 02:44:52
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1393,15 +1393,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 23
+Tracks played (last 24h)  : 24
 Dominant artist           : Rage Against The Machine
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-04 10:35:40Z → 2026-05-11 10:35:40Z
-Total tracks played       : 48
+Week window (UTC)         : 2026-05-04 13:20:32Z → 2026-05-11 13:20:32Z
+Total tracks played       : 49
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1410,23 +1410,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :   ▁           ▂▁  █   ▆▃
-Heatmap (7d)              :  ▁▁ ▁▁ ▁      ▁▁▃▁█   ▇▃
+Heatmap (24h)             :   ▁   ▁       ▂▁  █   ▆▃
+Heatmap (7d)              :  ▁▁ ▁▁▁▁      ▁▁▃▁█   ▇▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:38:16
+Sessions (24h)            : 5
+Sessions (7d)             : 13
+Avg inter-play gap (7d)   : 02:40:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(18) | nu metal(18) | rap metal(18) | rap rock(11) | funk rock(5) | lo-fi house(3)
 Top genres (7d)           : alternative metal(27) | rap metal(27) | grunge(24) | nu metal(19) | post-grunge(16) | funk rock(13)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-11 10:35:40Z
+Report generated (UTC)    : 2026-05-11 13:20:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

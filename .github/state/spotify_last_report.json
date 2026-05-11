@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-05-11 10:35:40Z",
+  "report_generated_utc": "2026-05-11 13:20:32Z",
   "status": "IDLE",
-  "last_track": "Snot — Joy Ride",
-  "last_played_utc": "2026-05-11 06:21:40Z",
+  "last_track": "Los Tres — No Sabes Que Desperdicio Tengo en el Alma",
+  "last_played_utc": "2026-05-11 10:56:07Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -745,6 +745,11 @@
       "nu metal",
       "rap metal",
       "alternative metal"
+    ],
+    "4qXIYIWo6wRsN0lZxvgH6S": [
+      "latin rock",
+      "rock en español",
+      "latin alternative"
     ]
   }
 }
