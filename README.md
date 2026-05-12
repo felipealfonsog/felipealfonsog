@@ -1379,9 +1379,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:33:35
-Telemetry age             : 06:33:35
-Δ time (since last report): 02:45:25
+Time since last play      : 06:34:22
+Telemetry age             : 06:34:22
+Δ time (since last report): 00:00:48
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1400,7 +1400,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 07:20:25Z → 2026-05-12 07:20:25Z
+Week window (UTC)         : 2026-05-05 07:21:13Z → 2026-05-12 07:21:13Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1426,7 +1426,7 @@ Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | 
 Top genres (7d)           : alternative metal(32) | rap metal(32) | nu metal(28) | rap rock(20) | grunge(16) | post-grunge(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 07:20:25Z
+Report generated (UTC)    : 2026-05-12 07:21:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
