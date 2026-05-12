@@ -1371,18 +1371,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Rage Against The Machine — Wake Up
-Last played               : Rage Against The Machine — Bullet In The Head
-Last played (UTC)         : 2026-05-11 21:49:04Z
+Now playing               : Silverchair — Tomorrow
+Last played               : Rage Against The Machine — Settle For Nothing
+Last played (UTC)         : 2026-05-12 00:06:09Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Rage Against The Machine — Bullet In The Head → Rage Against The Machine — Settle For Nothing
+Δ last played (since last): 2026-05-11 21:49:04Z → 2026-05-12 00:06:09Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:50
-Telemetry age             : 00:02:50
-Δ time (since last report): 00:01:51
+Time since last play      : 00:08:50
+Telemetry age             : 00:08:50
+Δ time (since last report): 02:23:05
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,14 +1394,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 26
+Tracks played (last 24h)  : 21
 Dominant artist           : Rage Against The Machine
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-04 21:51:54Z → 2026-05-11 21:51:54Z
+Week window (UTC)         : 2026-05-05 00:14:59Z → 2026-05-12 00:14:59Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1409,25 +1409,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
+Peak hour (24h)           : 22:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :   ▁   ▁          ▄█   ▆▃
-Heatmap (7d)              :   ▁ ▁▁▁▁      ▁▁▂▄█   ▇▃
+Heatmap (24h)             :   ▁   ▁          ▇▁▁▁ █▃
+Heatmap (7d)              :   ▁ ▁▁▁▁      ▁▁ ▄█▁▁ ▆▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 01:29:39
+Sessions (7d)             : 13
+Avg inter-play gap (7d)   : 01:31:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(23) | nu metal(23) | rap metal(23) | rap rock(16) | funk rock(5) | latin rock(2)
-Top genres (7d)           : alternative metal(32) | rap metal(32) | nu metal(24) | grunge(20) | rap rock(16) | funk rock(13)
+Top genres (24h)          : alternative metal(19) | nu metal(19) | rap metal(19) | rap rock(12) | funk rock(5) | latin rock(2)
+Top genres (7d)           : alternative metal(34) | rap metal(34) | nu metal(28) | rap rock(20) | grunge(16) | funk rock(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-11 21:51:54Z
+Report generated (UTC)    : 2026-05-12 00:14:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
