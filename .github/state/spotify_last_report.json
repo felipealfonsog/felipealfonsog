@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-05-12 07:21:37Z",
+  "report_generated_utc": "2026-05-12 10:12:33Z",
   "status": "IDLE",
-  "last_track": "Silverchair — Faultline",
-  "last_played_utc": "2026-05-12 00:46:51Z",
+  "last_track": "Paul Brown — Blues for Jeff",
+  "last_played_utc": "2026-05-12 08:21:28Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -750,6 +750,20 @@
       "latin rock",
       "rock en español",
       "latin alternative"
+    ],
+    "4Hisv12GBxgMUsB2eBW5jy": [
+      "smooth jazz",
+      "jazz",
+      "cool jazz"
+    ],
+    "6NS4Qt4ISw27NC9tIN9jgg": [
+      "smooth jazz",
+      "jazz"
+    ],
+    "6RAJ9Jyvs0fR96ybRd44wk": [
+      "christian jazz",
+      "gospel",
+      "smooth jazz"
     ]
   }
 }
