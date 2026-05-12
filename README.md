@@ -1375,13 +1375,13 @@ Last played               : Silverchair — Faultline
 Last played (UTC)         : 2026-05-12 00:46:51Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Rage Against The Machine — Settle For Nothing → Silverchair — Faultline
-Δ last played (since last): 2026-05-12 00:06:09Z → 2026-05-12 00:46:51Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:24:04
-Telemetry age             : 00:24:04
-Δ time (since last report): 00:55:56
+Time since last play      : 03:47:02
+Telemetry age             : 03:47:02
+Δ time (since last report): 03:22:58
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1393,14 +1393,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 23
+Tracks played (last 24h)  : 13
 Dominant artist           : Rage Against The Machine
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 01:10:55Z → 2026-05-12 01:10:55Z
+Week window (UTC)         : 2026-05-05 04:33:53Z → 2026-05-12 04:33:53Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1408,25 +1408,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : 17:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :   ▁   ▁          ▇▁▁▃ █▃
+Heatmap (24h)             :   ▁   ▁          █▁▁▄   
 Heatmap (7d)              :   ▁ ▁▁▁▁      ▁▁ ▃█▁▂ ▇▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 6
+Sessions (24h)            : 5
 Sessions (7d)             : 13
 Avg inter-play gap (7d)   : 01:31:21
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(19) | nu metal(19) | rap metal(19) | rap rock(12) | funk rock(5) | grunge(2)
+Top genres (24h)          : alternative metal(10) | nu metal(10) | rap metal(10) | rap rock(9) | grunge(2) | post-grunge(2)
 Top genres (7d)           : alternative metal(32) | rap metal(32) | nu metal(28) | rap rock(20) | grunge(16) | post-grunge(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 01:10:55Z
+Report generated (UTC)    : 2026-05-12 04:33:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
