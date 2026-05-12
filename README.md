@@ -1371,18 +1371,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Suicidal Dream
-Last played               : Silverchair — Leave Me Out
-Last played (UTC)         : 2026-05-12 23:16:34Z
+Now playing               : Silverchair — Faultline
+Last played               : Silverchair — Tomorrow
+Last played (UTC)         : 2026-05-12 23:31:39Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Faultline → Silverchair — Leave Me Out
-Δ last played (since last): 2026-05-12 23:04:28Z → 2026-05-12 23:16:34Z
+Δ track (since last)      : Silverchair — Leave Me Out → Silverchair — Tomorrow
+Δ last played (since last): 2026-05-12 23:16:34Z → 2026-05-12 23:31:39Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:20
-Telemetry age             : 00:00:20
-Δ time (since last report): 00:11:54
+Time since last play      : 00:00:48
+Telemetry age             : 00:00:48
+Δ time (since last report): 00:15:34
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,14 +1394,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
+Tracks played (last 24h)  : 15
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 23:16:53Z → 2026-05-12 23:16:53Z
+Week window (UTC)         : 2026-05-05 23:32:26Z → 2026-05-12 23:32:26Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1411,23 +1411,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :     ▃             ▁█▄   
-Heatmap (7d)              :   ▁ ▂▁▁▁      ▁▁ ▄█▄▂ ▆▄
+Heatmap (24h)             :     ▂             ▁█▃   
+Heatmap (7d)              :   ▁ ▂▁▁▁      ▁▁ ▄█▇▂ ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
-Sessions (7d)             : 14
-Avg inter-play gap (7d)   : 01:53:02
+Sessions (7d)             : 13
+Avg inter-play gap (7d)   : 01:45:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(8) | post-grunge(7) | alternative metal(3) | rap metal(3) | smooth jazz(3) | jazz(2)
+Top genres (24h)          : grunge(11) | post-grunge(10) | alternative metal(3) | rap metal(3) | smooth jazz(3) | jazz(2)
 Top genres (7d)           : alternative metal(29) | rap metal(29) | nu metal(28) | rap rock(20) | grunge(14) | post-grunge(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 23:16:53Z
+Report generated (UTC)    : 2026-05-12 23:32:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
