@@ -1379,9 +1379,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:40:33
-Telemetry age             : 10:40:33
-Δ time (since last report): 02:53:07
+Time since last play      : 10:41:26
+Telemetry age             : 10:41:26
+Δ time (since last report): 00:00:53
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1400,33 +1400,33 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 19:02:01Z → 2026-05-12 19:02:01Z
-Total tracks played       : 50
+Week window (UTC)         : 2026-05-05 19:02:53Z → 2026-05-12 19:02:53Z
+Total tracks played       : 36
 Dominant artist           : Rage Against The Machine
-Cadence classification    : HIGH
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 17:00
-Peak hour (7d)            : 18:00
+Peak hour (7d)            : 22:00
 Heatmap (24h)             :     ▃            █▁▁▄   
-Heatmap (7d)              :   ▁ ▂▁▁▁      ▁▁ ▄█▁▂ █▃
+Heatmap (7d)              :   ▁ ▂▂▁▁         ▆▇▁▃ █▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
-Sessions (7d)             : 14
-Avg inter-play gap (7d)   : 01:40:21
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:12:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rap rock(9) | smooth jazz(3) | grunge(2)
-Top genres (7d)           : alternative metal(30) | rap metal(30) | nu metal(28) | rap rock(20) | grunge(14) | post-grunge(12)
+Top genres (7d)           : alternative metal(24) | nu metal(24) | rap metal(24) | rap rock(17) | grunge(8) | post-grunge(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 19:02:01Z
+Report generated (UTC)    : 2026-05-12 19:02:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
