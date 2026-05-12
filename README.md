@@ -1371,18 +1371,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Faultline
-Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-05-12 23:00:09Z
+Now playing               : Silverchair — Pure Massacre
+Last played               : Silverchair — Faultline
+Last played (UTC)         : 2026-05-12 23:04:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Paul Brown — Blues for Jeff → Silverchair — Tomorrow
-Δ last played (since last): 2026-05-12 08:21:28Z → 2026-05-12 23:00:09Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Silverchair — Tomorrow → Silverchair — Faultline
+Δ last played (since last): 2026-05-12 23:00:09Z → 2026-05-12 23:04:28Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:13
-Telemetry age             : 00:04:13
-Δ time (since last report): 01:14:20
+Time since last play      : 00:00:32
+Telemetry age             : 00:00:32
+Δ time (since last report): 00:00:39
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,14 +1394,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
+Tracks played (last 24h)  : 9
 Dominant artist           : Silverchair
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 23:04:21Z → 2026-05-12 23:04:21Z
+Week window (UTC)         : 2026-05-05 23:05:00Z → 2026-05-12 23:05:00Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1409,25 +1409,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
-Peak hour (7d)            : 22:00
-Heatmap (24h)             :     ▅             ▃▅█   
-Heatmap (7d)              :   ▁ ▂▁▁▁      ▁▁ ▄▇▁▂ █▃
+Peak hour (24h)           : 19:00
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :     ▅             ▃██   
+Heatmap (7d)              :   ▁ ▂▁▁▁      ▁▁ ▄█▂▂ █▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 14
-Avg inter-play gap (7d)   : 01:53:06
+Avg inter-play gap (7d)   : 01:53:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(4) | alternative metal(3) | post-grunge(3) | rap metal(3) | smooth jazz(3) | jazz(2)
+Top genres (24h)          : grunge(5) | post-grunge(4) | alternative metal(3) | rap metal(3) | smooth jazz(3) | jazz(2)
 Top genres (7d)           : alternative metal(29) | rap metal(29) | nu metal(28) | rap rock(20) | grunge(14) | post-grunge(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 23:04:21Z
+Report generated (UTC)    : 2026-05-12 23:05:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
