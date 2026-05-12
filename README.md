@@ -1376,13 +1376,13 @@ Last played               : Silverchair — Tomorrow
 Last played (UTC)         : 2026-05-12 23:31:39Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Leave Me Out → Silverchair — Tomorrow
-Δ last played (since last): 2026-05-12 23:16:34Z → 2026-05-12 23:31:39Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:48
-Telemetry age             : 00:00:48
-Δ time (since last report): 00:15:34
+Time since last play      : 00:02:04
+Telemetry age             : 00:02:04
+Δ time (since last report): 00:01:17
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1401,7 +1401,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 23:32:26Z → 2026-05-12 23:32:26Z
+Week window (UTC)         : 2026-05-05 23:33:43Z → 2026-05-12 23:33:43Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1427,7 +1427,7 @@ Top genres (24h)          : grunge(11) | post-grunge(10) | alternative metal(3) 
 Top genres (7d)           : alternative metal(29) | rap metal(29) | nu metal(28) | rap rock(20) | grunge(14) | post-grunge(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 23:32:26Z
+Report generated (UTC)    : 2026-05-12 23:33:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
