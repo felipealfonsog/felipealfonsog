@@ -1359,49 +1359,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Silverchair — Tomorrow
-Last played               : Rage Against The Machine — Settle For Nothing
-Last played (UTC)         : 2026-05-12 00:06:09Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Silverchair — Faultline
+Last played (UTC)         : 2026-05-12 00:46:51Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Rage Against The Machine — Bullet In The Head → Rage Against The Machine — Settle For Nothing
-Δ last played (since last): 2026-05-11 21:49:04Z → 2026-05-12 00:06:09Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Rage Against The Machine — Settle For Nothing → Silverchair — Faultline
+Δ last played (since last): 2026-05-12 00:06:09Z → 2026-05-12 00:46:51Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:08:50
-Telemetry age             : 00:08:50
-Δ time (since last report): 02:23:05
+Time since last play      : 00:24:04
+Telemetry age             : 00:24:04
+Δ time (since last report): 00:55:56
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 21
+Tracks played (last 24h)  : 23
 Dominant artist           : Rage Against The Machine
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 00:14:59Z → 2026-05-12 00:14:59Z
+Week window (UTC)         : 2026-05-05 01:10:55Z → 2026-05-12 01:10:55Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1411,23 +1410,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :   ▁   ▁          ▇▁▁▁ █▃
-Heatmap (7d)              :   ▁ ▁▁▁▁      ▁▁ ▄█▁▁ ▆▃
+Heatmap (24h)             :   ▁   ▁          ▇▁▁▃ █▃
+Heatmap (7d)              :   ▁ ▁▁▁▁      ▁▁ ▃█▁▂ ▇▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 6
 Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 01:31:42
+Avg inter-play gap (7d)   : 01:31:21
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(19) | nu metal(19) | rap metal(19) | rap rock(12) | funk rock(5) | latin rock(2)
-Top genres (7d)           : alternative metal(34) | rap metal(34) | nu metal(28) | rap rock(20) | grunge(16) | funk rock(11)
+Top genres (24h)          : alternative metal(19) | nu metal(19) | rap metal(19) | rap rock(12) | funk rock(5) | grunge(2)
+Top genres (7d)           : alternative metal(32) | rap metal(32) | nu metal(28) | rap rock(20) | grunge(16) | post-grunge(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 00:14:59Z
+Report generated (UTC)    : 2026-05-12 01:10:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
