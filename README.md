@@ -646,19 +646,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.438003
-longitude      : -70.647105
-altitude       : 54 m
-gps_accuracy   : ±5.7 m
-heading        : 142°
-speed          : 0.7 km/h
-status         : meeting
-phase          : workday
-local_time     : 17:26
+location       : transit_corridor
+latitude       : -33.446353
+longitude      : -70.661469
+altitude       : 135 m
+gps_accuracy   : ±7.4 m
+heading        : 7°
+speed          : 5.9 km/h
+status         : in_transit
+phase          : evening
+local_time     : 20:18
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-05-11 21:26:08 UTC
+updated_utc    : 2026-05-12 00:18:25 UTC
 ```
 <!-- telemetry-presence:end -->
 
