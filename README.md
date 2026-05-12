@@ -1375,13 +1375,13 @@ Last played               : Paul Brown — Blues for Jeff
 Last played (UTC)         : 2026-05-12 08:21:28Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Faultline → Paul Brown — Blues for Jeff
-Δ last played (since last): 2026-05-12 00:46:51Z → 2026-05-12 08:21:28Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:51:05
-Telemetry age             : 01:51:05
-Δ time (since last report): 02:50:56
+Time since last play      : 01:52:06
+Telemetry age             : 01:52:06
+Δ time (since last report): 00:01:01
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1400,7 +1400,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 10:12:33Z → 2026-05-12 10:12:33Z
+Week window (UTC)         : 2026-05-05 10:13:34Z → 2026-05-12 10:13:34Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1424,9 +1424,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rap rock(9) | smooth jazz(3) | grunge(2)
 Top genres (7d)           : alternative metal(30) | rap metal(30) | nu metal(28) | rap rock(20) | grunge(14) | post-grunge(12)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 10:12:33Z
+Report generated (UTC)    : 2026-05-12 10:13:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
