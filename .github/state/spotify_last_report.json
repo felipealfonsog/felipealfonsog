@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-05-12 21:50:02Z",
-  "status": "IDLE",
-  "last_track": "Paul Brown — Blues for Jeff",
-  "last_played_utc": "2026-05-12 08:21:28Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-05-12 23:04:21Z",
+  "status": "PLAYING",
+  "last_track": "Silverchair — Tomorrow",
+  "last_played_utc": "2026-05-12 23:00:09Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
