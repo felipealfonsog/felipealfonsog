@@ -1376,13 +1376,13 @@ Last played               : 3 Doors Down — Here Without You
 Last played (UTC)         : 2026-05-13 08:19:18Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — When I'm Gone → 3 Doors Down — Here Without You
-Δ last played (since last): 2026-05-13 07:55:11Z → 2026-05-13 08:19:18Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:21
-Telemetry age             : 00:00:21
-Δ time (since last report): 00:20:45
+Time since last play      : 00:01:19
+Telemetry age             : 00:01:19
+Δ time (since last report): 00:00:58
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1401,7 +1401,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 08:19:39Z → 2026-05-13 08:19:39Z
+Week window (UTC)         : 2026-05-06 08:20:37Z → 2026-05-13 08:20:37Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1427,7 +1427,7 @@ Top genres (24h)          : post-grunge(17) | grunge(12) | alternative metal(2) 
 Top genres (7d)           : alternative metal(28) | nu metal(27) | rap metal(27) | post-grunge(19) | rap rock(19) | grunge(14)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 08:19:39Z
+Report generated (UTC)    : 2026-05-13 08:20:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
