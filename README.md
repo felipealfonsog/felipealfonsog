@@ -1359,48 +1359,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 81%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-05-12 23:47:48Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : 3 Doors Down — When I'm Gone
+Last played               : 3 Doors Down — When I'm Gone
+Last played (UTC)         : 2026-05-13 07:55:11Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Silverchair — Tomorrow → 3 Doors Down — When I'm Gone
+Δ last played (since last): 2026-05-12 23:47:48Z → 2026-05-13 07:55:11Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 07:39:23
-Telemetry age             : 07:39:23
-Δ time (since last report): 00:00:23
+Time since last play      : 00:03:43
+Telemetry age             : 00:03:43
+Δ time (since last report): 00:31:43
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
+Tracks played (last 24h)  : 17
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 07:27:11Z → 2026-05-13 07:27:11Z
+Week window (UTC)         : 2026-05-06 07:58:54Z → 2026-05-13 07:58:54Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1410,23 +1411,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :     ▁             ▁█    
-Heatmap (7d)              :   ▁ ▂ ▁       ▁▁ ▄▇█▂ ▅▂
+Heatmap (24h)             :    ▂▁             ▁█    
+Heatmap (7d)              :   ▁▂▁ ▁        ▁ ▄▇█▂ ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 3
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 01:17:57
+Avg inter-play gap (7d)   : 01:14:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(12) | post-grunge(11) | smooth jazz(3) | jazz(2) | alternative metal(1) | christian jazz(1)
-Top genres (7d)           : alternative metal(29) | rap metal(29) | nu metal(28) | rap rock(20) | grunge(14) | post-grunge(13)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(14) | grunge(12) | smooth jazz(3) | alternative metal(2) | jazz(2) | christian jazz(1)
+Top genres (7d)           : alternative metal(29) | nu metal(28) | rap metal(28) | rap rock(20) | post-grunge(16) | grunge(14)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 07:27:11Z
+Report generated (UTC)    : 2026-05-13 07:58:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
