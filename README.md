@@ -1376,13 +1376,13 @@ Last played               : 3 Doors Down — Father's Son
 Last played (UTC)         : 2026-05-13 10:10:42Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — Behind Those Eyes → 3 Doors Down — Father's Son
-Δ last played (since last): 2026-05-13 10:06:25Z → 2026-05-13 10:10:42Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:07:17
-Telemetry age             : 00:07:17
-Δ time (since last report): 00:08:34
+Time since last play      : 00:10:04
+Telemetry age             : 00:10:04
+Δ time (since last report): 00:02:47
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1401,7 +1401,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 10:17:59Z → 2026-05-13 10:17:59Z
+Week window (UTC)         : 2026-05-06 10:20:46Z → 2026-05-13 10:20:46Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1427,7 +1427,7 @@ Top genres (24h)          : post-grunge(38) | grunge(12) | alternative metal(2) 
 Top genres (7d)           : post-grunge(40) | grunge(14) | alternative metal(9) | nu metal(8) | rap metal(8) | rap rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 10:17:59Z
+Report generated (UTC)    : 2026-05-13 10:20:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
