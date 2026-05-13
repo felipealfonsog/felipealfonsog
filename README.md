@@ -1365,34 +1365,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : 3 Doors Down — It's The Only One You've Got
 Last played               : 3 Doors Down — Give It To Me
 Last played (UTC)         : 2026-05-13 11:23:22Z
-Last activity type        : NO_ACTIVE_SESSION
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 07:39:11
-Telemetry age             : 07:39:11
-Δ time (since last report): 00:00:44
+Time since last play      : 09:17:50
+Telemetry age             : 09:17:50
+Δ time (since last report): 01:38:39
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1406,7 +1407,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 19:02:33Z → 2026-05-13 19:02:33Z
+Week window (UTC)         : 2026-05-06 20:41:11Z → 2026-05-13 20:41:11Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1432,7 +1433,7 @@ Top genres (24h)          : post-grunge(44) | grunge(13) | alternative metal(2) 
 Top genres (7d)           : post-grunge(46) | grunge(15) | alternative metal(3) | smooth jazz(3) | jazz(2) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 19:02:33Z
+Report generated (UTC)    : 2026-05-13 20:41:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
