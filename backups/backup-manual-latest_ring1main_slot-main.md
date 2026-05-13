@@ -65,7 +65,7 @@ Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Ze
 Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles. Throughout my life, I have lived and worked internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi), [Auckland](https://en.wikipedia.org/wiki/Auckland), [Christchurch](https://en.wikipedia.org/wiki/Christchurch), [California](https://en.wikipedia.org/wiki/California), and [Cape Town](https://en.wikipedia.org/wiki/Cape_Town). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in **English**, **Afrikaans**, and **French**, in addition to my native **Spanish**. You are welcome to connect with me in any of these languages.
 -->
 
-Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
+Beyond engineering, I explore philosophy, I study constantly [**Zen**](https://en.wikipedia.org/wiki/Zen) and practice [**Zazen**](https://en.wikipedia.org/wiki/Zazen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
 Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
 
@@ -413,7 +413,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-09T01:04:46+00:00 | last_update=2026-05-09T01:04:46+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-13T07:18:48+00:00 | last_update=2026-05-13T07:18:48+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -442,7 +442,7 @@ ICONOS INICIALES INLINE SVG1
 24. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
 25. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
 
-[recent_read] shelf=read books=25 limit=25
+[recent_read] shelf=read books=75 limit=75
 01. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
 02. Programming Perl (3rd Edition) — Larry Wall
 03. Mala onda — Alberto Fuguet
@@ -468,6 +468,56 @@ ICONOS INICIALES INLINE SVG1
 23. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
 24. Calculus — Purcell Rigdon Varberg
 25. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
+26. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
+27. La vida, un enigma — Daisaku Ikeda
+28. The Count of Monte Cristo — Alexandre Dumas
+29. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
+30. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
+31. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
+32. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
+33. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
+34. The Silva Mind Control Method — José Silva
+35. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
+36. De Sapos a Principes — Richard Bandler
+37. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
+38. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
+39. Psychology: The Science of Mind and Behaviour — Richard Gross
+40. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
+41. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
+42. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
+43. Understanding Psychology — Robert S. Feldman
+44. Critique of Pure Reason — Immanuel Kant
+45. Becoming — Michelle Obama
+46. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
+47. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
+48. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
+49. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
+50. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
+51. Cyber Minds: Insights on cybersecurity across the cloud, data, artificial intelligence, blockchain, and IoT to keep you cyber safe — Shira Rubinoff
+52. Mike Meyers' Comptia Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition — Mike Meyers
+53. Mike Meyers' CompTIA Network+ Certification Passport, Seventh Edition (Exam N10-008) — Mike Meyers
+54. Principles of Computer Security: CompTIA Security+ and Beyond Lab Manual (Exam SY0-601) — Jonathan S Weissman
+55. Principles of Computer Security, CompTIA Security+ and Beyond, with CD-ROM — William Arthur Conklin
+56. Principles of Data Science: Learn the techniques and math you need to start making sense of your data: Mathematical techniques and theory to succeed in data-driven industries — Sinan Özdemir
+57. Hands-On Machine Learning with Scikit-Learn and TensorFlow — Aurélien Géron
+58. Deep Learning — Ian Goodfellow
+59. Introduction to Algorithms — Thomas H. Cormen
+60. The Art of Happiness — Dalai Lama XIV
+61. The Bhagavad Gita — Krishna-Dwaipayana Vyasa
+62. Essence of the Upanishads: A Key to Indian Spirituality (Wisdom of India, 1) — Eknath Easwaran
+63. The Upanishads — Anonymous
+64. The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism — Fritjof Capra
+65. The Denial of Death — Ernest Becker
+66. Homo Deus: A Brief History of Tomorrow — Yuval Noah Harari
+67. Sapiens: A Brief History of Humankind — Yuval Noah Harari
+68. Algorithms to Live By: The Computer Science of Human Decisions — Brian Christian
+69. Thinking, Fast and Slow — Daniel Kahneman
+70. Gödel, Escher, Bach: An Eternal Golden Braid — Douglas R. Hofstadter
+71. The Republic — Plato
+72. Meditations on First Philosophy: Rene Descartes — René Descartes
+73. The Art of War — Sun Tzu
+74. The Power of Now: A Guide to Spiritual Enlightenment — Eckhart Tolle
+75. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
 
 ```
 <!-- GOODREADS:CLI_END -->
@@ -521,13 +571,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 159 ms
-TTFB................ 158 ms
+LATENCY............. 188 ms
+TTFB................ 187 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 57d
+TLS_EXPIRY.......... 53d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -540,9 +590,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PARTIAL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -556,7 +606,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-09T04:15:50Z
+LAST_PROBE_UTC...... 2026-05-13T07:17:52Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -596,19 +646,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443739
-longitude      : -70.650057
-altitude       : 109 m
-gps_accuracy   : ±7.3 m
-heading        : 173°
-speed          : 0.2 km/h
-status         : resting
+location       : residential_sector
+latitude       : -33.442365
+longitude      : -70.654017
+altitude       : 46 m
+gps_accuracy   : ±3.9 m
+heading        : 261°
+speed          : 0.5 km/h
+status         : stationary
 phase          : overnight
-local_time     : 00:06
+local_time     : 02:54
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-05-09 04:06:47 UTC
+signal         : stable
+updated_utc    : 2026-05-13 06:54:57 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -727,7 +777,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-08 21:42:56Z
+DSN snapshot (UTC)       : 2026-05-13 07:28:02Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -738,15 +788,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.781 AU
-Heliocentric distance    : 170.502 AU
-Relative speed           : 26.456 km/s
+Earth distance           : 25.40e9 km | 169.795 AU
+Heliocentric distance    : 170.545 AU
+Relative speed           : 27.401 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:01
-Round-trip latency       : 47:04:03
+One-way light time       : 23:32:09
+Round-trip latency       : 47:04:17
 ------------------------------------------------------------
-Δ distance (since last)  : +101,806 km
-Mission age              : 48 years, 257 days
+Δ distance (since last)  : +66,469 km
+Mission age              : 48 years, 262 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -757,19 +807,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.466 AU
-Heliocentric distance    : 142.825 AU
-Relative speed           : 23.384 km/s
+Earth distance           : 21.31e9 km | 142.452 AU
+Heliocentric distance    : 142.863 AU
+Relative speed           : 23.775 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:51
-Round-trip latency       : 39:29:42
+One-way light time       : 19:44:44
+Round-trip latency       : 39:29:29
 ------------------------------------------------------------
-Δ distance (since last)  : -119,381 km
-Mission age              : 48 years, 273 days
+Δ distance (since last)  : -49,657 km
+Mission age              : 48 years, 278 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-08 21:42:58Z
+Report generated (UTC)   : 2026-05-13 07:28:05Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1322,16 +1372,16 @@ Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-05-09 03:12:34Z
+Last played (UTC)         : 2026-05-12 23:47:48Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:19:55
-Telemetry age             : 01:19:55
-Δ time (since last report): 00:00:53
+Time since last play      : 07:39:23
+Telemetry age             : 07:39:23
+Δ time (since last report): 00:00:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1343,40 +1393,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
+Tracks played (last 24h)  : 14
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-02 04:32:29Z → 2026-05-09 04:32:29Z
-Total tracks played       : 21
-Dominant artist           : Silverchair
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-05-06 07:27:11Z → 2026-05-13 07:27:11Z
+Total tracks played       : 50
+Dominant artist           : Rage Against The Machine
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 16:00
-Peak hour (7d)            : 22:00
-Heatmap (24h)             :                 █▃█   █▃
-Heatmap (7d)              :  ▁              ▇▃▇   █▃
+Peak hour (24h)           : 19:00
+Peak hour (7d)            : 19:00
+Heatmap (24h)             :     ▁             ▁█    
+Heatmap (7d)              :   ▁ ▂ ▁       ▁▁ ▄▇█▂ ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 03:38:29
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 01:17:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(19) | post-grunge(11) | alternative metal(8) | funk rock(8) | rap metal(8)
-Top genres (7d)           : grunge(21) | post-grunge(13) | alternative metal(8) | funk rock(8) | rap metal(8) | rock(1)
+Top genres (24h)          : grunge(12) | post-grunge(11) | smooth jazz(3) | jazz(2) | alternative metal(1) | christian jazz(1)
+Top genres (7d)           : alternative metal(29) | rap metal(29) | nu metal(28) | rap rock(20) | grunge(14) | post-grunge(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-09 04:32:29Z
+Report generated (UTC)    : 2026-05-13 07:27:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1734,9 +1784,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 08 May 2026
+From: 04 December 2023 - To: 12 May 2026
 
-Total Time       : 1,016 hrs 41 mins
+Total Time       : 1,017 hrs 20 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 8 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1745,48 +1795,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          444 hrs 51 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.76 %
-Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.56 %
-Python         138 hrs 49 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.65 %
-HTML           131 hrs 15 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
-PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.70 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.95 %
-C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.25 %
+Other          460 hrs 54 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.31 %
+Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.55 %
+Python         138 hrs 56 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.66 %
+HTML           131 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.91 %
+PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.69 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.94 %
+C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.24 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.93 %
 Text           38 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
 YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.71 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            823 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  81.04 %
-Linux          637 hrs 37 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.72 %
+Mac            839 hrs 26 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  82.51 %
+Linux          638 hrs 48 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.79 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.29 %
-Firefox        367 hrs 5 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  36.11 %
-Vim            329 hrs 13 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.38 %
-Terminal       21 hrs 51 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.25 %
+Firefox        380 hrs 24 mins ●●●●●●●●●◔○○○○○○○○○○○○○○○○  37.39 %
+Vim            329 hrs 19 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.37 %
+Terminal       22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.21 %
 Spotify        16 hrs 28 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.62 %
-TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
-Acrobat        11 hrs 44 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
+TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
+Acrobat        11 hrs 44 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.15 %
 ‎WhatsApp      10 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.99 %
-Dia            8 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.80 %
-Antigravity    5 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
-FileZilla      5 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
-Termius        4 hrs 59 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.49 %
+Dia            8 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.81 %
+Antigravity    6 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
+FileZilla      5 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
+Termius        5 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.50 %
 
 CATEGORIES
 ----------
-Coding         1,078 hrs 3 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       363 hrs 32 mins ●●●●●●●●●○○○○○○○○○○○○○○○○○  35.76 %
+Coding         1,080 hrs 57 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       376 hrs 51 mins ●●●●●●●●●◔○○○○○○○○○○○○○○○○  37.04 %
 Meeting        16 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.66 %
-Writing Docs   3 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.30 %
+Writing Docs   3 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 09/05/2026 05:12:29 UTC
+Last updated     : 13/05/2026 05:25:52 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1848,16 +1898,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/clsource">
-        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/clsource">Camilo</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
@@ -1874,6 +1914,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
