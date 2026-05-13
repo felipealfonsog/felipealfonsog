@@ -1371,18 +1371,18 @@ Volume                    : 81%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : 3 Doors Down — It's The Only One You've Got - Acoustic
-Last played               : 3 Doors Down — It's The Only One You've Got
-Last played (UTC)         : 2026-05-13 09:12:16Z
+Now playing               : 3 Doors Down — Changes
+Last played               : 3 Doors Down — Here Without You
+Last played (UTC)         : 2026-05-13 09:20:15Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — Here Without You → 3 Doors Down — It's The Only One You've Got
-Δ last played (since last): 2026-05-13 08:19:18Z → 2026-05-13 09:12:16Z
+Δ track (since last)      : 3 Doors Down — It's The Only One You've Got → 3 Doors Down — Here Without You
+Δ last played (since last): 2026-05-13 09:12:16Z → 2026-05-13 09:20:15Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:20
-Telemetry age             : 00:03:20
-Δ time (since last report): 00:54:59
+Time since last play      : 00:04:21
+Telemetry age             : 00:04:21
+Δ time (since last report): 00:09:00
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,14 +1394,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 29
+Tracks played (last 24h)  : 30
 Dominant artist           : 3 Doors Down
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 09:15:36Z → 2026-05-13 09:15:36Z
+Week window (UTC)         : 2026-05-06 09:24:36Z → 2026-05-13 09:24:36Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1411,23 +1411,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 04:00
-Heatmap (24h)             :    ▂█▂            ▁█    
-Heatmap (7d)              :   ▁▂█▂▁          ▄▁▇▂ ▂▂
+Heatmap (24h)             :    ▂█▃            ▁█    
+Heatmap (7d)              :   ▁▂█▂▁          ▄▁▇▂ ▁▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 01:06:37
+Avg inter-play gap (7d)   : 01:06:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(28) | grunge(12) | alternative metal(2) | funk rock(1) | nu metal(1) | rap metal(1)
-Top genres (7d)           : post-grunge(30) | alternative metal(18) | nu metal(17) | rap metal(17) | grunge(14) | rap rock(9)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : post-grunge(29) | grunge(12) | alternative metal(2) | funk rock(1) | nu metal(1) | rap metal(1)
+Top genres (7d)           : post-grunge(31) | alternative metal(17) | nu metal(16) | rap metal(16) | grunge(14) | rap rock(9)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 09:15:36Z
+Report generated (UTC)    : 2026-05-13 09:24:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
