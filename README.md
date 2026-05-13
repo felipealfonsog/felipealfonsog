@@ -1376,13 +1376,13 @@ Last played               : 3 Doors Down — Behind Those Eyes
 Last played (UTC)         : 2026-05-13 10:06:25Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — Changes → 3 Doors Down — Behind Those Eyes
-Δ last played (since last): 2026-05-13 09:24:38Z → 2026-05-13 10:06:25Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:02
-Telemetry age             : 00:02:02
-Δ time (since last report): 00:42:43
+Time since last play      : 00:02:32
+Telemetry age             : 00:02:32
+Δ time (since last report): 00:00:30
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1401,7 +1401,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 10:08:27Z → 2026-05-13 10:08:27Z
+Week window (UTC)         : 2026-05-06 10:08:56Z → 2026-05-13 10:08:56Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1425,9 +1425,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(37) | grunge(12) | alternative metal(2) | classic rock(1) | funk rock(1) | nu metal(1)
 Top genres (7d)           : post-grunge(39) | grunge(14) | alternative metal(10) | nu metal(9) | rap metal(9) | rap rock(8)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 10:08:27Z
+Report generated (UTC)    : 2026-05-13 10:08:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
