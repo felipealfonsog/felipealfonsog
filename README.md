@@ -1371,18 +1371,18 @@ Volume                    : 81%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇
 ------------------------------------------------------------
-Now playing               : 3 Doors Down — When I'm Gone
-Last played               : 3 Doors Down — When I'm Gone
-Last played (UTC)         : 2026-05-13 07:55:11Z
+Now playing               : 3 Doors Down — I Feel You
+Last played               : 3 Doors Down — Here Without You
+Last played (UTC)         : 2026-05-13 08:19:18Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Tomorrow → 3 Doors Down — When I'm Gone
-Δ last played (since last): 2026-05-12 23:47:48Z → 2026-05-13 07:55:11Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : 3 Doors Down — When I'm Gone → 3 Doors Down — Here Without You
+Δ last played (since last): 2026-05-13 07:55:11Z → 2026-05-13 08:19:18Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:43
-Telemetry age             : 00:03:43
-Δ time (since last report): 00:31:43
+Time since last play      : 00:00:21
+Telemetry age             : 00:00:21
+Δ time (since last report): 00:20:45
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1394,14 +1394,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
+Tracks played (last 24h)  : 19
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 07:58:54Z → 2026-05-13 07:58:54Z
+Week window (UTC)         : 2026-05-06 08:19:39Z → 2026-05-13 08:19:39Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1411,23 +1411,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :    ▂▁             ▁█    
-Heatmap (7d)              :   ▁▂▁ ▁        ▁ ▄▇█▂ ▅▂
+Heatmap (24h)             :    ▂▃             ▁█    
+Heatmap (7d)              :   ▁▂▃ ▁          ▄▆█▂ ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 01:14:34
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 01:11:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(14) | grunge(12) | smooth jazz(3) | alternative metal(2) | jazz(2) | christian jazz(1)
-Top genres (7d)           : alternative metal(29) | nu metal(28) | rap metal(28) | rap rock(20) | post-grunge(16) | grunge(14)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : post-grunge(17) | grunge(12) | alternative metal(2) | cool jazz(1) | funk rock(1) | jazz(1)
+Top genres (7d)           : alternative metal(28) | nu metal(27) | rap metal(27) | post-grunge(19) | rap rock(19) | grunge(14)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 07:58:54Z
+Report generated (UTC)    : 2026-05-13 08:19:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
