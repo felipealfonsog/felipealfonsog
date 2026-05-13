@@ -1359,49 +1359,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Silverchair — Faultline
+Now playing               : N/A
 Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-05-12 23:31:39Z
-Last activity type        : PLAYBACK_ACTIVE
+Last played (UTC)         : 2026-05-12 23:47:48Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ last played (since last): 2026-05-12 23:31:39Z → 2026-05-12 23:47:48Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:04
-Telemetry age             : 00:02:04
-Δ time (since last report): 00:01:17
+Time since last play      : 01:28:34
+Telemetry age             : 01:28:34
+Δ time (since last report): 01:42:39
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 15
+Tracks played (last 24h)  : 14
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 23:33:43Z → 2026-05-12 23:33:43Z
+Week window (UTC)         : 2026-05-06 01:16:21Z → 2026-05-13 01:16:21Z
 Total tracks played       : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1410,24 +1409,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
-Peak hour (7d)            : 18:00
-Heatmap (24h)             :     ▂             ▁█▃   
-Heatmap (7d)              :   ▁ ▂▁▁▁      ▁▁ ▄█▇▂ ▅▂
+Peak hour (7d)            : 19:00
+Heatmap (24h)             :     ▁             ▁█    
+Heatmap (7d)              :   ▁ ▂ ▁       ▁▁ ▄▇█▂ ▅▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 01:45:19
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 01:17:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(11) | post-grunge(10) | alternative metal(3) | rap metal(3) | smooth jazz(3) | jazz(2)
+Top genres (24h)          : grunge(12) | post-grunge(11) | smooth jazz(3) | jazz(2) | alternative metal(1) | christian jazz(1)
 Top genres (7d)           : alternative metal(29) | rap metal(29) | nu metal(28) | rap rock(20) | grunge(14) | post-grunge(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 23:33:43Z
+Report generated (UTC)    : 2026-05-13 01:16:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
