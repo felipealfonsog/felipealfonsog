@@ -1381,13 +1381,13 @@ Last played               : 3 Doors Down — Give It To Me
 Last played (UTC)         : 2026-05-13 11:23:22Z
 Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — Father's Son → 3 Doors Down — Give It To Me
-Δ last played (since last): 2026-05-13 10:10:42Z → 2026-05-13 11:23:22Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:42:17
-Telemetry age             : 01:42:17
-Δ time (since last report): 02:44:53
+Time since last play      : 01:42:50
+Telemetry age             : 01:42:50
+Δ time (since last report): 00:00:33
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1406,7 +1406,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 13:05:39Z → 2026-05-13 13:05:39Z
+Week window (UTC)         : 2026-05-06 13:06:12Z → 2026-05-13 13:06:12Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1432,7 +1432,7 @@ Top genres (24h)          : post-grunge(44) | grunge(13) | alternative metal(2) 
 Top genres (7d)           : post-grunge(46) | grunge(15) | alternative metal(3) | smooth jazz(3) | jazz(2) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 13:05:39Z
+Report generated (UTC)    : 2026-05-13 13:06:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
