@@ -1379,16 +1379,16 @@ Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : 3 Doors Down — It's The Only One You've Got
 Last played               : 3 Doors Down — Give It To Me
-Last played (UTC)         : 2026-05-13 11:23:22Z
+Last played (UTC)         : 2026-05-13 21:02:10Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ last played (since last): 2026-05-13 11:23:22Z → 2026-05-13 21:02:10Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:19:36
-Telemetry age             : 09:19:36
-Δ time (since last report): 00:01:47
+Time since last play      : 00:02:39
+Telemetry age             : 00:02:39
+Δ time (since last report): 00:21:51
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1400,14 +1400,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 45
+Tracks played (last 24h)  : 50
 Dominant artist           : 3 Doors Down
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 20:42:58Z → 2026-05-13 20:42:58Z
+Week window (UTC)         : 2026-05-06 21:04:49Z → 2026-05-13 21:04:49Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1417,23 +1417,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 04:00
-Heatmap (24h)             :    ▂█▇▆▁          ▁█    
-Heatmap (7d)              :    ▂█▆▅▁          ▁▇▂   
+Heatmap (24h)             :    ▂█▇▆▁        ▃▁▁█    
+Heatmap (7d)              :    ▂█▇▆▁        ▃▁▁█    
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:43:13
+Sessions (24h)            : 4
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 00:27:05
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(44) | grunge(13) | alternative metal(2) | classic rock(1) | funk rock(1) | nu metal(1)
-Top genres (7d)           : post-grunge(46) | grunge(15) | alternative metal(3) | smooth jazz(3) | jazz(2) | nu metal(2)
+Top genres (24h)          : post-grunge(49) | grunge(13) | alternative metal(2) | classic rock(1) | funk rock(1) | nu metal(1)
+Top genres (7d)           : post-grunge(49) | grunge(13) | alternative metal(2) | classic rock(1) | funk rock(1) | nu metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 20:42:58Z
+Report generated (UTC)    : 2026-05-13 21:04:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
