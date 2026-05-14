@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-05-13_0038Z
+ snapshot_utc : 2026-05-14_0040Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -72,7 +72,13 @@ Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Ze
 Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles. Throughout my life, I have lived and worked internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi), [Auckland](https://en.wikipedia.org/wiki/Auckland), [Christchurch](https://en.wikipedia.org/wiki/Christchurch), [California](https://en.wikipedia.org/wiki/California), and [Cape Town](https://en.wikipedia.org/wiki/Cape_Town). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in **English**, **Afrikaans**, and **French**, in addition to my native **Spanish**. You are welcome to connect with me in any of these languages.
 -->
 
-Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Zen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
+<!-- 
+
+Beyond engineering, I explore philosophy, I study constantly [**Zen**](https://en.wikipedia.org/wiki/Zen) and practice [**Zazen**](https://en.wikipedia.org/wiki/Zazen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
+
+-->
+
+Beyond engineering, I explore philosophy and contemplative traditions through rigorous study and long-term practice. I study [**Zen**](https://en.wikipedia.org/wiki/Zen) deeply as both a philosophical and existential discipline, maintaining a committed [**Zazen**](https://en.wikipedia.org/wiki/Zazen) practice centered on introspection, presence, silence, and direct observation of consciousness and reality. I also explore themes related to consciousness, symbolism, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth through reflective study and disciplined inner work. I enjoy reading and writing ([**Goodreads**](https://goodreads.com/felipealfonsog)), playing [**bass guitar**](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [**BJJ**](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)), listening to music ([**Spotify**](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [**PETA**](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [**Agrupación Nacional de Boy Scouts de Chile**](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
 Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
 
@@ -289,7 +295,7 @@ ICONOS INICIALES INLINE SVG1
 -->
 
 <!-- LIST-ICONS1:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons1inline-full.png" alt="List-icons1 inline strip" /></a>
+<a href="https://en.wikipedia.org/wiki/Freemasonry" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/masoneria-logo.svg" alt="Freemasonry" width="40" height="40"/></a><a href="https://www.granlogia.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogia-final.svg" alt="Gran Logia de Chile" width="40" height="40"/></a><a href="https://granoriente.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiadelgranoriente.svg" alt="Gran Logia Gran Oriente de Chile" width="40" height="40"/></a><a href="https://granlogiamixta.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/granlogiamixta.svg" alt="Gran Logia Mixta de Chile" width="40" height="40"/></a><a href="https://www.glach.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/glacl.svg" alt="Gran Logia Autónoma de Chile" width="40" height="40"/></a><a href="https://www.granlogiaaustral.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logiaaustral.svg" alt="Gran Logia Austral de Chile" width="40" height="40"/></a><a href="https://www.granlogiahispana.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/glh-seal.svg" alt="Gran Logia Hispana" width="40" height="40"/></a><a href="https://lumeninterioris.online/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/lumenilogia.svg" alt="Logia Masónica Lumen Interioris Nº 137" width="40" height="40"/></a><a href="https://granlogiafemenina.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/glfcl.svg" alt="Gran Logia Femenina de Chile" width="40" height="40"/></a><a href="https://asociacionmujereslaicas.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/amlcl.svg" alt="Asociación de Mujeres Laicas de Chile" width="40" height="40"/></a><a href="https://fraternidad.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fjapecl.svg" alt="Fraternidad Juvenil Alfa Pi Épsilon" width="40" height="40"/></a><a href="https://www.zenchile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/dojozenstgo.svg" alt="Dojo Sho Den - Soto Zen Santiago" width="40" height="40"/></a><a href="https://zendochudo.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/zendosudho.svg" alt="Zendo Chūdō" width="40" height="40"/></a><a href="https://insighttimer.com/daiunjoshin" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/insightt-logo.svg" alt="InsightTimer" width="40" height="40"/></a><a href="https://boyscouts.cl" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/anbschile.svg" alt="Agrupacción Nacional de Boy Scouts de Chile" width="40" height="40"/></a><a href="https://boyscouts.cl/c22/?page_id=1108" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gilwell.svg" alt="Baden Powell, El Parque De Gilwell Y La Insignia De Madera" width="40" height="40"/></a><a href="https://www.instagram.com/rfchile/?hl=es" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rfbjj.svg" alt="RF Chile BJJ" width="40" height="40"/></a><a href="https://www.instagram.com/rfchile/?hl=es" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rfbjjmma.svg" alt="RF Chile BJJ MMA" width="40" height="40"/></a><a href="https://www.instagram.com/club.samurai/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/samuraijudo.svg" alt="Samurai Judo Club" width="40" height="40"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/acmma.svg" alt="AC MMA BJJ Patricio Campos" width="40" height="40"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/acbjj.svg" alt="AC MMA BJJ Patricio Campos" width="40" height="40"/></a><a href="https://www.instagram.com/cicerocosthachileoficial/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/cicerocostabjjlogo2-modified.svg" alt="Cicero Costha BJJ Chile" width="40" height="40"/></a><a href="https://www.instagram.com/labarba_jiujitsu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/labarbabjj.svg" alt="La Barba Jiu-Jitsu - Proyecto Social" width="40" height="40"/></a><a href="https://freeshell.de" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/freeshell.svg" alt="Freeshell.de" width="40" height="40"/></a>
 <!-- LIST-ICONS1:END -->
 
 
@@ -372,7 +378,7 @@ ICONOS INICIALES INLINE SVG1
 
 
 <!-- LIST-ICONS2:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons2inline-full.png" alt="List-icons2 inline strip" /></a>
+<a href="https://www.cia.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cia.svg" alt="CIA" width="40" height="40"/></a><a href="https://www.nsa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_nsa.svg" alt="NSA" width="40" height="40"/></a><a href="https://www.socom.mil/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jsoc.svg" alt="JSOC" width="40" height="40"/></a><a href="https://www.sis.gov.uk/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mi6_rounded-modified.svg" alt="MI6" width="40" height="40"/></a><a href="https://www.mossad.gov.il/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_mossad.svg" alt="MOSSAD" width="40" height="40"/></a><a href="https://www.interpol.int/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_interpol_rounded.svg" alt="INTERPOL" width="40" height="40"/></a><a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_isfce.svg" alt="ISFCE" width="40" height="40"/></a><a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_cisa.svg" alt="CISA" width="40" height="40"/></a><a href="https://www.enisa.europa.eu/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_enisa_rounded-modified.svg" alt="ENISA" width="40" height="40"/></a><a href="https://www.iadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_iadb.svg" alt="Inter-American Development Bank" width="40" height="40"/></a><a href="https://ccdcoe.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ccdcoe-modified.svg" alt="NATO CCDCOE" width="40" height="40"/></a><a href="https://globalcybersecurity.ch/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/GCA_logo2-modified.svg" alt="GCA" width="40" height="40"/></a><a href="https://jid.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_jid-modified.svg" alt="JID IADB" width="40" height="40"/></a><a href="https://www.interior.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_ministerio_del_interior_chile.svg" alt="Ministerio del Interior y Seguridad Pública de Chile" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Agencia_Nacional_de_Inteligencia" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_ani_chile_rounded.svg" alt="ANI Chile" width="40" height="40"/></a><a href="https://www.pdichile.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/pdilogoletters-modified.svg" alt="PDI" width="40" height="40"/></a><a href="https://www.carabineros.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/icons/seal_os9_carabineros_rounded-modified.svg" alt="Carabineros de Chile OS9" width="40" height="40"/></a><a href="https://anci.gob.cl/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/seal_anci-modified.svg" alt="ANCI Chile" width="40" height="40"/></a>
 <!-- LIST-ICONS2:END -->
 
 
@@ -420,7 +426,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-12T21:36:02+00:00 | last_update=2026-05-12T21:36:02+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-13T21:38:56+00:00 | last_update=2026-05-13T21:38:56+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -578,13 +584,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 230 ms
-TTFB................ 228 ms
+LATENCY............. 172 ms
+TTFB................ 171 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 54d
+TLS_EXPIRY.......... 53d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -613,7 +619,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-12T18:47:58Z
+LAST_PROBE_UTC...... 2026-05-13T21:37:52Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -654,18 +660,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : pedestrian_axis
-latitude       : -33.437295
-longitude      : -70.646364
-altitude       : 70 m
-gps_accuracy   : ±8.7 m
-heading        : 275°
-speed          : 3.6 km/h
+latitude       : -33.438238
+longitude      : -70.646667
+altitude       : 108 m
+gps_accuracy   : ±8.1 m
+heading        : 59°
+speed          : 1.8 km/h
 status         : in_transit
 phase          : evening
-local_time     : 20:19
+local_time     : 20:21
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-05-13 00:19:41 UTC
+signal         : nominal
+updated_utc    : 2026-05-14 00:21:09 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -784,7 +790,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-12 19:03:44Z
+DSN snapshot (UTC)       : 2026-05-13 21:51:06Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -795,15 +801,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.793 AU
-Heliocentric distance    : 170.540 AU
-Relative speed           : 27.290 km/s
+Earth distance           : 25.40e9 km | 169.797 AU
+Heliocentric distance    : 170.551 AU
+Relative speed           : 27.531 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:08
-Round-trip latency       : 47:04:15
+One-way light time       : 23:32:10
+Round-trip latency       : 47:04:20
 ------------------------------------------------------------
-Δ distance (since last)  : +66,008 km
-Mission age              : 48 years, 261 days
+Δ distance (since last)  : +67,960 km
+Mission age              : 48 years, 262 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -814,19 +820,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.454 AU
-Heliocentric distance    : 142.859 AU
-Relative speed           : 23.726 km/s
+Earth distance           : 21.31e9 km | 142.451 AU
+Heliocentric distance    : 142.868 AU
+Relative speed           : 23.833 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:45
-Round-trip latency       : 39:29:30
+One-way light time       : 19:44:44
+Round-trip latency       : 39:29:27
 ------------------------------------------------------------
-Δ distance (since last)  : -51,920 km
-Mission age              : 48 years, 277 days
+Δ distance (since last)  : -47,830 km
+Mission age              : 48 years, 278 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-12 19:03:46Z
+Report generated (UTC)   : 2026-05-13 21:51:10Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1378,18 +1384,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Silverchair — Faultline
-Last played               : Silverchair — Tomorrow
-Last played (UTC)         : 2026-05-12 23:31:39Z
+Now playing               : 3 Doors Down — It's The Only One You've Got
+Last played               : 3 Doors Down — It's The Only One You've Got
+Last played (UTC)         : 2026-05-13 21:50:11Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ last played (since last): 2026-05-13 21:15:14Z → 2026-05-13 21:50:11Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:02:04
-Telemetry age             : 00:02:04
-Δ time (since last report): 00:01:17
+Time since last play      : 00:00:11
+Telemetry age             : 00:00:11
+Δ time (since last report): 00:00:40
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1401,40 +1407,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 15
-Dominant artist           : Silverchair
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 50
+Dominant artist           : 3 Doors Down
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-05 23:33:43Z → 2026-05-12 23:33:43Z
+Week window (UTC)         : 2026-05-06 21:50:22Z → 2026-05-13 21:50:22Z
 Total tracks played       : 50
-Dominant artist           : Rage Against The Machine
+Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 19:00
-Peak hour (7d)            : 18:00
-Heatmap (24h)             :     ▂             ▁█▃   
-Heatmap (7d)              :   ▁ ▂▁▁▁      ▁▁ ▄█▇▂ ▅▂
+Peak hour (24h)           : 04:00
+Peak hour (7d)            : 04:00
+Heatmap (24h)             :    ▂█▇▆▁        ▃▃ ▇    
+Heatmap (7d)              :    ▂█▇▆▁        ▃▃ ▇    
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 01:45:19
+Sessions (24h)            : 5
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 00:27:46
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(11) | post-grunge(10) | alternative metal(3) | rap metal(3) | smooth jazz(3) | jazz(2)
-Top genres (7d)           : alternative metal(29) | rap metal(29) | nu metal(28) | rap rock(20) | grunge(14) | post-grunge(13)
+Top genres (24h)          : post-grunge(50) | grunge(10) | alternative metal(1) | classic rock(1) | nu metal(1)
+Top genres (7d)           : post-grunge(50) | grunge(10) | alternative metal(1) | classic rock(1) | nu metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-12 23:33:43Z
+Report generated (UTC)    : 2026-05-13 21:50:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1792,7 +1798,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 12 May 2026
+From: 04 December 2023 - To: 13 May 2026
 
 Total Time       : 1,017 hrs 20 mins
 Mostly coding in : Other
@@ -1844,7 +1850,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 12/05/2026 22:33:54 UTC
+Last updated     : 13/05/2026 22:33:38 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1916,22 +1922,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/clsource">
-        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/clsource">Camilo</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/Francesco601">
         <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/Francesco601">Francesco Franco</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
@@ -2341,7 +2347,7 @@ ICONS TECH YML...
 -->
 
 <!-- LIST-ICONS3:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons3inline-tech.png" alt="List-icons3 inline strip" /></a>
+<a href="https://www.json.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/json-original.svg" alt="json" width="40" height="40"/></a><a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/></a><a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a><a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/django-plain-wordmark.svg" alt="django" width="40" height="40"/></a><a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/angularjs-original.svg" alt="angular" width="40" height="40"/></a><a href="https://rubyonrails.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rails-original-wordmark.svg" alt="ruby-on-rails" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/bash-plain.svg" alt="shell-script" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Microsoft_Azure" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Bash" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/bash-original.svg" alt="bash" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Electron_(software_framework)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/electron-original.svg" alt="electron" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Express.js" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/express-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/firebase-original.svg" alt="firebase" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/markdown-original.svg" alt="markdown" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/html5-original.svg" alt="html5" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/css3-original.svg" alt="css3" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Google_Cloud_Platform" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/GraphQL" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/graphql-plain.svg" alt="graphql" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/MongoDB" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/cplusplus-original.svg" alt="c++" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/rust-original.svg" alt="rust" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Raspberry_Pi" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Perl" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-vertical.svg" alt="Apple" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/React_(software)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/React_Native" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/header_logo.svg" alt="reactnative" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/PHP" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/php-original.svg" alt="php" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/vim-original.svg" alt="vim" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/GNU_Emacs" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/emacs-original.svg" alt="emacs" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/vscode-original.svg" alt="vscode" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Oracle_Database" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/oracle-original.svg" alt="oracle" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/SQLite" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Deno_(software)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/denojs-original.svg" alt="denojs" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Node.js" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/JQuery" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Vue.js" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Next.js" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Heroku" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/heroku-original.svg" alt="heroku" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Project_Jupyter" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Redis" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/redis-original.svg" alt="redis" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/sass-original.svg" alt="sass" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/artificial-intelligence-ai-icon.svg" alt="AI" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/latex-original.svg" alt="latex" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/GitLab" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/github-original.svg" alt="github" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Open_Source_Initiative" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/opensource-icon.svg" alt="opensource" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Free_Software_Foundation" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fsf-icon.svg" alt="freesoftware" width="40" height="40"/></a><a href="https://en.wikipedia.org./wiki/Homebrew_(package_manager)" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/homebrew.svg" alt="Homebrew" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Unix" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/unix-original.svg" alt="Unix" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/FreeBSD" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/freebsd-icon.svg" alt="freebsd" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Slackware" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/slackware.svg" alt="slackware" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Red_Hat_Linux" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/redhat.svg" alt="redhat" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Fedora_Linux" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/fedora.svg" alt="fedora" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Debian" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/debian-original.svg" alt="debian" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Ubuntu" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/ubuntu.svg" alt="ubuntu" width="40" height="40"/></a><a href="https://es.wikipedia.org/wiki/Manjaro_Linux" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logo-manjaro.svg" alt="Manjaro" width="40" height="40"/></a><a href="https://es.wikipedia.org/wiki/Mabox_Linux" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logomabox-linux.svg" alt="Mabox" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/logo-kali.svg" alt="kalilinux" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Arch_Linux" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/archlinux-original.svg" alt="archlinux" width="40" height="40"/></a><a href="https://es.wikipedia.org/wiki/MacOS" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/macos.svg" alt="macOS" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/apple-original.svg" alt="Apple" width="40" height="40"/></a>
 <!-- LIST-ICONS3:END -->
   
   <!-- <a href="https://en.wikipedia.org/wiki/Perl" target="_blank"> <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/perl-original.svg" alt="perl" width="40" height="40"/></a> -->
@@ -2432,7 +2438,7 @@ ICONS CYBER YML...
 -->
 
 <!-- LIST-ICONS4:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons4inline-cyber.png" alt="List-icons4 inline strip" /></a>
+<a href="https://www.torproject.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/torproject-icon.svg" alt="tor" width="40" height="40"/></a><a href="https://blackarch.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/archlinux-plain.svg" alt="blackarch" width="40" height="40"/></a><a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/kalilinux-cs.svg" alt="kalilinux" width="40" height="40"/></a><a href="https://www.metasploit.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/metasploit.svg" alt="metasploit" width="40" height="40"/></a><a href="https://www.wireshark.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/wireshark.svg" alt="wireshark" width="40" height="40"/></a><a href="https://openvpn.net/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/openvpn.svg" alt="openvpn" width="40" height="40"/></a><a href="https://protonvpn.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/protonvpn.svg" alt="protonvpn" width="40" height="40"/></a><a href="https://defcon.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/defcon.svg" alt="defcon" width="40" height="40"/></a><a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/distributor-logo-kali-linux.svg" alt="kali linux" width="40" height="40"/></a><a href="https://duckduckgo.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/duckduckgo-icon.svg" alt="duckduckgo" width="40" height="40"/></a><a href="https://learn.microsoft.com/en-us/azure/security/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons//security21.svg" alt="Azure Security" width="40" height="40"/></a><a href="https://mlh.io/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Major_League_Hacking_logo.svg" alt="Major League Hacking" width="40" height="40"/></a><a href="https://hackaday.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackaday.svg" alt="Hackaday" width="40" height="40"/></a><a href="https://www.ingress.com/" target="_blank"><img src="https://raw.githubusercontent.com/cr0ybot/ingress-logos/master/badges/hacker.svg" alt="Ingress Hacker" width="40" height="40"/></a><a href="https://nmap.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Nmap.svg" alt="Nmap" width="40" height="40"/></a><a href="https://www.snort.org/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Snort.svg" alt="Snort" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/Open-source_intelligence" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/o/osint-1.svg" alt="OSINT" width="40" height="40"/></a><a href="https://portswigger.net/burp" target="_blank"><img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/burp.svg" alt="Burp Suite" width="40" height="40"/></a><a href="https://www.malwarebytes.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/malwarebytes.svg" alt="Malwarebytes" width="40" height="40"/></a><a href="https://isfce.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/350284.svg" alt="CCE" width="40" height="40"/></a><a href="https://www.maltego.com/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Maltego_Logo.svg" alt="Maltego" width="40" height="40"/></a><a href="https://www.shodan.io/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/Logo_of_Shodan.svg" alt="Shodan" width="40" height="40"/></a><a href="https://censys.io/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/censys.svg" alt="Censys" width="40" height="40"/></a><a href="https://www.cortex.io/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/cortex_ctxc.svg" alt="Cortex" width="40" height="40"/></a><a href="https://www.cisa.gov/" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons/240px-CISA_Logo.png" alt="CISA" width="40" height="40"/></a>
 <!-- LIST-ICONS4:END -->
 
 </details>
