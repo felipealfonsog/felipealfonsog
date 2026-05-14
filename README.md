@@ -1365,30 +1365,29 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : ONLINE (idle session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : CastAudio
 Device name               : GNest-MerkleTree speaker
-Volume                    : 40%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Jazz Ambiance — Show Me The Light
+Now playing               : N/A
 Last played               : Jazz Ambiance — Simple Times
 Last played (UTC)         : 2026-05-14 13:00:06Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Akio — All The Way → Jazz Ambiance — Simple Times
-Δ last played (since last): 2026-05-14 06:10:53Z → 2026-05-14 13:00:06Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:08
-Telemetry age             : 00:00:08
-Δ time (since last report): 02:52:38
+Time since last play      : 00:01:21
+Telemetry age             : 00:01:21
+Δ time (since last report): 00:01:13
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1407,7 +1406,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-07 13:00:14Z → 2026-05-14 13:00:14Z
+Week window (UTC)         : 2026-05-07 13:01:27Z → 2026-05-14 13:01:27Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1431,9 +1430,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(18) | post-grunge(12) | ambient jazz(7) | smooth jazz(3) | bossa nova(1)
 Top genres (7d)           : post-grunge(26) | jazz(18) | ambient jazz(7) | smooth jazz(3) | bossa nova(1) | classic rock(1)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-14 13:00:14Z
+Report generated (UTC)    : 2026-05-14 13:01:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
