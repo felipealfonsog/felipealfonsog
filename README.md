@@ -1382,12 +1382,12 @@ Last played (UTC)         : 2026-05-13 22:12:56Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-05-13 21:50:11Z → 2026-05-13 22:12:56Z
-Δ status (since last)     : PLAYING → IDLE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:04:21
-Telemetry age             : 03:04:21
-Δ time (since last report): 03:26:55
+Time since last play      : 03:04:48
+Telemetry age             : 03:04:48
+Δ time (since last report): 00:00:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1406,7 +1406,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-07 01:17:16Z → 2026-05-14 01:17:16Z
+Week window (UTC)         : 2026-05-07 01:17:44Z → 2026-05-14 01:17:44Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1432,7 +1432,7 @@ Top genres (24h)          : post-grunge(44) | alternative metal(1) | classic roc
 Top genres (7d)           : post-grunge(50) | grunge(7) | alternative metal(1) | classic rock(1) | nu metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-14 01:17:16Z
+Report generated (UTC)    : 2026-05-14 01:17:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
