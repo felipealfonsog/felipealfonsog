@@ -1365,49 +1365,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : 3 Doors Down — It's The Only One You've Got
+Now playing               : N/A
 Last played               : 3 Doors Down — It's The Only One You've Got
-Last played (UTC)         : 2026-05-13 21:50:11Z
-Last activity type        : PLAYBACK_ACTIVE
+Last played (UTC)         : 2026-05-13 22:12:56Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-05-13 21:15:14Z → 2026-05-13 21:50:11Z
-Δ status (since last)     : IDLE → PLAYING
+Δ last played (since last): 2026-05-13 21:50:11Z → 2026-05-13 22:12:56Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:11
-Telemetry age             : 00:00:11
-Δ time (since last report): 00:00:40
+Time since last play      : 03:04:21
+Telemetry age             : 03:04:21
+Δ time (since last report): 03:26:55
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
+Tracks played (last 24h)  : 44
 Dominant artist           : 3 Doors Down
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-06 21:50:22Z → 2026-05-13 21:50:22Z
+Week window (UTC)         : 2026-05-07 01:17:16Z → 2026-05-14 01:17:16Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1417,23 +1416,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 04:00
-Heatmap (24h)             :    ▂█▇▆▁        ▃▃ ▇    
-Heatmap (7d)              :    ▂█▇▆▁        ▃▃ ▇    
+Heatmap (24h)             :    ▂█▇▆▁        ▃▃▂     
+Heatmap (7d)              :    ▂█▇▆▁        ▃▃▂▄    
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 4
 Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:27:46
+Avg inter-play gap (7d)   : 00:28:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(50) | grunge(10) | alternative metal(1) | classic rock(1) | nu metal(1)
-Top genres (7d)           : post-grunge(50) | grunge(10) | alternative metal(1) | classic rock(1) | nu metal(1)
+Top genres (24h)          : post-grunge(44) | alternative metal(1) | classic rock(1) | grunge(1) | nu metal(1)
+Top genres (7d)           : post-grunge(50) | grunge(7) | alternative metal(1) | classic rock(1) | nu metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-13 21:50:22Z
+Report generated (UTC)    : 2026-05-14 01:17:16Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
