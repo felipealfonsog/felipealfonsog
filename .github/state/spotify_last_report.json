@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-05-14 10:07:36Z",
-  "status": "IDLE",
-  "last_track": "Akio — All The Way",
-  "last_played_utc": "2026-05-14 06:10:53Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-05-14 13:00:14Z",
+  "status": "PLAYING",
+  "last_track": "Jazz Ambiance — Simple Times",
+  "last_played_utc": "2026-05-14 13:00:06Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -826,6 +826,9 @@
     ],
     "0hdiMvtIodxDuDN6Wq9Ibe": [
       "jazz"
+    ],
+    "1cafBOjzIL3KVKL6dzXr6d": [
+      "ambient jazz"
     ]
   }
 }
