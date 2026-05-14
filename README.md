@@ -1365,35 +1365,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : CastAudio
-Device name               : GNest-MerkleTree speaker
-Volume                    : 14%
-Volume telemetry          : OK
-Volume bar                : ▁▁
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : John B. Stewart — In A Sentimental Mood
-Last played               : South North — Lonely as a Cloud
-Last played (UTC)         : 2026-05-14 05:55:16Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Akio — All The Way
+Last played (UTC)         : 2026-05-14 06:10:53Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : South North — Lonely as a Cloud → Akio — All The Way
+Δ last played (since last): 2026-05-14 05:55:16Z → 2026-05-14 06:10:53Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:03:33
-Telemetry age             : 00:03:33
-Δ time (since last report): 00:00:48
+Time since last play      : 01:12:53
+Telemetry age             : 01:12:53
+Δ time (since last report): 01:24:57
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1407,7 +1406,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-07 05:58:49Z → 2026-05-14 05:58:49Z
+Week window (UTC)         : 2026-05-07 07:23:45Z → 2026-05-14 07:23:45Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1417,23 +1416,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 01:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :  █  ▂▅▄         ▂▂▂     
-Heatmap (7d)              :  █  ▂▅▄         ▂▂▂     
+Heatmap (24h)             :  █   ▅▄         ▂▂▁     
+Heatmap (7d)              :  █   ▅▄         ▂▂▁     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 6
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 00:25:48
+Avg inter-play gap (7d)   : 00:25:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(34) | jazz(16) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | classic rock(1)
-Top genres (7d)           : post-grunge(34) | jazz(16) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | classic rock(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(32) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | classic rock(1)
+Top genres (7d)           : post-grunge(32) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | classic rock(1)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-14 05:58:49Z
+Report generated (UTC)    : 2026-05-14 07:23:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
