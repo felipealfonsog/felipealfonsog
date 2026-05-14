@@ -1381,13 +1381,13 @@ Last played               : Akio — All The Way
 Last played (UTC)         : 2026-05-14 06:10:53Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : South North — Lonely as a Cloud → Akio — All The Way
-Δ last played (since last): 2026-05-14 05:55:16Z → 2026-05-14 06:10:53Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:12:53
-Telemetry age             : 01:12:53
-Δ time (since last report): 01:24:57
+Time since last play      : 01:13:39
+Telemetry age             : 01:13:39
+Δ time (since last report): 00:00:47
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1406,7 +1406,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-07 07:23:45Z → 2026-05-14 07:23:45Z
+Week window (UTC)         : 2026-05-07 07:24:31Z → 2026-05-14 07:24:31Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1430,9 +1430,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(32) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | classic rock(1)
 Top genres (7d)           : post-grunge(32) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | classic rock(1)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-14 07:23:45Z
+Report generated (UTC)    : 2026-05-14 07:24:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
