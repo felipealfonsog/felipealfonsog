@@ -1385,9 +1385,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:13:39
-Telemetry age             : 01:13:39
-Δ time (since last report): 00:00:47
+Time since last play      : 03:54:13
+Telemetry age             : 03:54:13
+Δ time (since last report): 02:40:35
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1399,14 +1399,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 50
+Tracks played (last 24h)  : 38
 Dominant artist           : 3 Doors Down
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-07 07:24:31Z → 2026-05-14 07:24:31Z
+Week window (UTC)         : 2026-05-07 10:05:05Z → 2026-05-14 10:05:05Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1416,7 +1416,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 01:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :  █   ▅▄         ▂▂▁     
+Heatmap (24h)             :  █    ▃         ▂▂▁     
 Heatmap (7d)              :  █   ▅▄         ▂▂▁     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -1428,11 +1428,11 @@ Avg inter-play gap (7d)   : 00:25:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(32) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | classic rock(1)
+Top genres (24h)          : post-grunge(20) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | grunge(1)
 Top genres (7d)           : post-grunge(32) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | classic rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-14 07:24:31Z
+Report generated (UTC)    : 2026-05-14 10:05:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
