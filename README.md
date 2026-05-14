@@ -1385,9 +1385,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:55:30
-Telemetry age             : 03:55:30
-Δ time (since last report): 00:00:21
+Time since last play      : 03:56:44
+Telemetry age             : 03:56:44
+Δ time (since last report): 00:01:15
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1399,14 +1399,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 38
+Tracks played (last 24h)  : 37
 Dominant artist           : 3 Doors Down
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-07 10:06:22Z → 2026-05-14 10:06:22Z
+Week window (UTC)         : 2026-05-07 10:07:36Z → 2026-05-14 10:07:36Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1428,11 +1428,11 @@ Avg inter-play gap (7d)   : 00:25:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(20) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | grunge(1)
+Top genres (24h)          : post-grunge(19) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | grunge(1)
 Top genres (7d)           : post-grunge(32) | jazz(18) | smooth jazz(3) | ambient jazz(1) | bossa nova(1) | classic rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-14 10:06:22Z
+Report generated (UTC)    : 2026-05-14 10:07:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
