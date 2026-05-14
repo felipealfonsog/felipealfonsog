@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-05-14 04:37:41Z",
-  "status": "IDLE",
-  "last_track": "3 Doors Down — Give It To Me",
-  "last_played_utc": "2026-05-14 04:28:26Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-05-14 05:58:01Z",
+  "status": "PLAYING",
+  "last_track": "South North — Lonely as a Cloud",
+  "last_played_utc": "2026-05-14 05:55:16Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -773,6 +773,53 @@
     ],
     "485uL27bPomh29R4JmQehQ": [
       "classic rock"
+    ],
+    "7z19cN47vHnay3CoShIp1b": [
+      "jazz"
+    ],
+    "0lEDIqg3LH3JQ9YoFMJAIn": [
+      "jazz",
+      "smooth jazz"
+    ],
+    "3tUSGipRrxvpmZgUc13rd4": [
+      "jazz"
+    ],
+    "4TOpL8dUMkZ1oydrBsfuWf": [
+      "jazz",
+      "smooth jazz"
+    ],
+    "3w12mAdbXsNTiBc4xhM0OV": [
+      "jazz"
+    ],
+    "3HwmLSofJhnA1bdPIREqAj": [
+      "bossa nova",
+      "jazz"
+    ],
+    "7b5QwOkTlJ9LVWJfofwAWV": [
+      "jazz"
+    ],
+    "0CEZunfWhz5PyHlTNJwC2S": [
+      "jazz"
+    ],
+    "1EQvOf7PPTDB3s0q1y9eD1": [
+      "jazz"
+    ],
+    "0A1I0z7snq8RVRDjVA5qzE": [
+      "jazz"
+    ],
+    "4S6bYPPOxQPs9hSnUBbGBN": [
+      "jazz",
+      "smooth jazz"
+    ],
+    "2VQmB7dgKLHJve0htcYfiQ": [
+      "jazz",
+      "ambient jazz"
+    ],
+    "0Rk4ZISv9eXs3Thg7rco7h": [
+      "jazz"
+    ],
+    "6e2ZpZDumV9AabK9rxpIUg": [
+      "jazz"
     ]
   }
 }
