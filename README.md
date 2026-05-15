@@ -1387,13 +1387,13 @@ Last played               : Stone Sour — Through Glass
 Last played (UTC)         : 2026-05-15 01:14:13Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Earshot — Rotten Inside → Stone Sour — Through Glass
-Δ last played (since last): 2026-05-15 01:09:34Z → 2026-05-15 01:14:13Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:52
-Telemetry age             : 00:00:52
-Δ time (since last report): 00:04:57
+Time since last play      : 00:01:47
+Telemetry age             : 00:01:47
+Δ time (since last report): 00:00:55
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1412,7 +1412,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-08 01:15:05Z → 2026-05-15 01:15:05Z
+Week window (UTC)         : 2026-05-08 01:15:59Z → 2026-05-15 01:15:59Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1436,9 +1436,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(25) | jazz(18) | ambient jazz(8) | alternative metal(7) | nu metal(7) | smooth jazz(3)
 Top genres (7d)           : post-grunge(25) | jazz(18) | ambient jazz(8) | alternative metal(7) | nu metal(7) | smooth jazz(3)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-15 01:15:05Z
+Report generated (UTC)    : 2026-05-15 01:15:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
