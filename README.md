@@ -1382,13 +1382,13 @@ Last played               : 3 Doors Down — She Don't Want The World
 Last played (UTC)         : 2026-05-15 00:01:43Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — Your Arms Feel Like home → 3 Doors Down — She Don't Want The World
-Δ last played (since last): 2026-05-14 23:49:58Z → 2026-05-15 00:01:43Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:40
-Telemetry age             : 00:00:40
-Δ time (since last report): 00:09:38
+Time since last play      : 00:01:41
+Telemetry age             : 00:01:41
+Δ time (since last report): 00:01:01
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1407,7 +1407,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-08 00:02:23Z → 2026-05-15 00:02:23Z
+Week window (UTC)         : 2026-05-08 00:03:24Z → 2026-05-15 00:03:24Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1433,7 +1433,7 @@ Top genres (24h)          : jazz(18) | ambient jazz(8) | post-grunge(8) | smooth
 Top genres (7d)           : post-grunge(25) | jazz(18) | ambient jazz(8) | smooth jazz(3) | bossa nova(1) | grunge(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-15 00:02:23Z
+Report generated (UTC)    : 2026-05-15 00:03:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
