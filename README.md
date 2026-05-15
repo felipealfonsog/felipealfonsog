@@ -1382,18 +1382,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Earshot — Rotten Inside
-Last played               : Staind — Believe
-Last played (UTC)         : 2026-05-15 01:06:13Z
+Now playing               : Stone Sour — Through Glass
+Last played               : Earshot — Rotten Inside
+Last played (UTC)         : 2026-05-15 01:09:34Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Earshot — Tounge-Tied → Staind — Believe
-Δ last played (since last): 2026-05-15 00:21:01Z → 2026-05-15 01:06:13Z
+Δ track (since last)      : Staind — Believe → Earshot — Rotten Inside
+Δ last played (since last): 2026-05-15 01:06:13Z → 2026-05-15 01:09:34Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:51
-Telemetry age             : 00:02:51
-Δ time (since last report): 00:47:40
+Time since last play      : 00:00:34
+Telemetry age             : 00:00:34
+Δ time (since last report): 00:01:04
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1405,14 +1405,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 49
+Tracks played (last 24h)  : 50
 Dominant artist           : 3 Doors Down
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-08 01:09:04Z → 2026-05-15 01:09:04Z
+Week window (UTC)         : 2026-05-08 01:10:08Z → 2026-05-15 01:10:08Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1429,16 +1429,16 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 00:32:55
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 00:25:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(24) | jazz(18) | ambient jazz(8) | alternative metal(5) | nu metal(5) | smooth jazz(3)
-Top genres (7d)           : post-grunge(25) | jazz(18) | ambient jazz(8) | alternative metal(5) | nu metal(5) | smooth jazz(3)
-Artist lookups (this run) : 3 (cached)
+Top genres (24h)          : post-grunge(25) | jazz(18) | ambient jazz(8) | alternative metal(6) | nu metal(6) | smooth jazz(3)
+Top genres (7d)           : post-grunge(25) | jazz(18) | ambient jazz(8) | alternative metal(6) | nu metal(6) | smooth jazz(3)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-15 01:09:04Z
+Report generated (UTC)    : 2026-05-15 01:10:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
