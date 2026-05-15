@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-05-15 01:58:32Z",
-  "status": "PLAYING",
-  "last_track": "3 Doors Down — Give It To Me",
-  "last_played_utc": "2026-05-15 01:57:37Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-05-15 04:39:41Z",
+  "status": "IDLE",
+  "last_track": "3 Doors Down — These Days",
+  "last_played_utc": "2026-05-15 02:01:17Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"

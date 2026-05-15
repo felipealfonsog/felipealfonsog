@@ -1370,35 +1370,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : 3 Doors Down — These Days
-Last played               : 3 Doors Down — Give It To Me
-Last played (UTC)         : 2026-05-15 01:57:37Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : 3 Doors Down — These Days
+Last played (UTC)         : 2026-05-15 02:01:17Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — It's The Only One You've Got → 3 Doors Down — Give It To Me
-Δ last played (since last): 2026-05-15 01:54:15Z → 2026-05-15 01:57:37Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : 3 Doors Down — Give It To Me → 3 Doors Down — These Days
+Δ last played (since last): 2026-05-15 01:57:37Z → 2026-05-15 02:01:17Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:56
-Telemetry age             : 00:00:56
-Δ time (since last report): 00:03:45
+Time since last play      : 02:38:24
+Telemetry age             : 02:38:24
+Δ time (since last report): 02:41:09
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1412,7 +1411,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-08 01:58:32Z → 2026-05-15 01:58:32Z
+Week window (UTC)         : 2026-05-08 04:39:41Z → 2026-05-15 04:39:41Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1422,23 +1421,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :  ▃▁     ▃▁         ▃██  
-Heatmap (7d)              :  ▃▁     ▃▁         ▃██  
+Heatmap (24h)             :  ▃▁     ▃▁         ▃██▁ 
+Heatmap (7d)              :  ▃▁     ▃▁         ▃██▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:24:49
+Avg inter-play gap (7d)   : 00:24:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(36) | alternative metal(11) | nu metal(9) | ambient jazz(7) | jazz(7) | smooth jazz(2)
-Top genres (7d)           : post-grunge(36) | alternative metal(11) | nu metal(9) | ambient jazz(7) | jazz(7) | smooth jazz(2)
+Top genres (24h)          : post-grunge(37) | alternative metal(11) | nu metal(9) | ambient jazz(7) | jazz(6) | smooth jazz(2)
+Top genres (7d)           : post-grunge(37) | alternative metal(11) | nu metal(9) | ambient jazz(7) | jazz(6) | smooth jazz(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-15 01:58:32Z
+Report generated (UTC)    : 2026-05-15 04:39:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
