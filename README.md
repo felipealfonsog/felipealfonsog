@@ -1386,13 +1386,13 @@ Last played               : 3 Doors Down — These Days
 Last played (UTC)         : 2026-05-15 02:01:17Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — Give It To Me → 3 Doors Down — These Days
-Δ last played (since last): 2026-05-15 01:57:37Z → 2026-05-15 02:01:17Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:38:24
-Telemetry age             : 02:38:24
-Δ time (since last report): 02:41:09
+Time since last play      : 02:38:37
+Telemetry age             : 02:38:37
+Δ time (since last report): 00:00:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1411,7 +1411,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-08 04:39:41Z → 2026-05-15 04:39:41Z
+Week window (UTC)         : 2026-05-08 04:39:54Z → 2026-05-15 04:39:54Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1437,7 +1437,7 @@ Top genres (24h)          : post-grunge(37) | alternative metal(11) | nu metal(9
 Top genres (7d)           : post-grunge(37) | alternative metal(11) | nu metal(9) | ambient jazz(7) | jazz(6) | smooth jazz(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-15 04:39:41Z
+Report generated (UTC)    : 2026-05-15 04:39:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
