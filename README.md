@@ -1382,18 +1382,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : 3 Doors Down — Give It To Me
-Last played               : 3 Doors Down — It's The Only One You've Got
-Last played (UTC)         : 2026-05-15 01:54:15Z
+Now playing               : 3 Doors Down — These Days
+Last played               : 3 Doors Down — Give It To Me
+Last played (UTC)         : 2026-05-15 01:57:37Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Stone Sour — Through Glass → 3 Doors Down — It's The Only One You've Got
-Δ last played (since last): 2026-05-15 01:14:13Z → 2026-05-15 01:54:15Z
+Δ track (since last)      : 3 Doors Down — It's The Only One You've Got → 3 Doors Down — Give It To Me
+Δ last played (since last): 2026-05-15 01:54:15Z → 2026-05-15 01:57:37Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:34
-Telemetry age             : 00:00:34
-Δ time (since last report): 00:38:50
+Time since last play      : 00:00:56
+Telemetry age             : 00:00:56
+Δ time (since last report): 00:03:45
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1412,7 +1412,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-08 01:54:48Z → 2026-05-15 01:54:48Z
+Week window (UTC)         : 2026-05-08 01:58:32Z → 2026-05-15 01:58:32Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1422,23 +1422,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :  ▄▁     ▃▁         ▃█▇  
-Heatmap (7d)              :  ▄▁     ▃▁         ▃█▇  
+Heatmap (24h)             :  ▃▁     ▃▁         ▃██  
+Heatmap (7d)              :  ▃▁     ▃▁         ▃██  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:24:50
+Avg inter-play gap (7d)   : 00:24:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(35) | alternative metal(11) | nu metal(9) | jazz(8) | ambient jazz(7) | smooth jazz(2)
-Top genres (7d)           : post-grunge(35) | alternative metal(11) | nu metal(9) | jazz(8) | ambient jazz(7) | smooth jazz(2)
-Artist lookups (this run) : 2 (cached)
+Top genres (24h)          : post-grunge(36) | alternative metal(11) | nu metal(9) | ambient jazz(7) | jazz(7) | smooth jazz(2)
+Top genres (7d)           : post-grunge(36) | alternative metal(11) | nu metal(9) | ambient jazz(7) | jazz(7) | smooth jazz(2)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-15 01:54:48Z
+Report generated (UTC)    : 2026-05-15 01:58:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
