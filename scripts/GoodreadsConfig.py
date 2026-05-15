@@ -51,12 +51,12 @@ RECENT_READ_LIMIT = 75
 # THREE OPTIONS
 # ============================================================
 # FALSE TO DISABLE ALL COVERS CARDS 
-OPTION1_COVERS_ONLY_ENABLED = False
+OPTION1_COVERS_ONLY_ENABLED = True
 OPTION2_CARD_TABLE_ENABLED = False
 OPTION3_CLI_ENABLED = True
 
 # IT SHOW ALL THE COVERS ANYWAY - FALSE TO DISABLE ALL
-PRESERVE_UNUSED_BLOCKS = False
+PRESERVE_UNUSED_BLOCKS = True
 
 
 # ============================================================
