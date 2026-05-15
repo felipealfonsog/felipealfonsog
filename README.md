@@ -1382,18 +1382,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Stone Sour — Through Glass
-Last played               : Earshot — Rotten Inside
-Last played (UTC)         : 2026-05-15 01:09:34Z
+Now playing               : 3 Doors Down — There's A Life
+Last played               : Stone Sour — Through Glass
+Last played (UTC)         : 2026-05-15 01:14:13Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Staind — Believe → Earshot — Rotten Inside
-Δ last played (since last): 2026-05-15 01:06:13Z → 2026-05-15 01:09:34Z
+Δ track (since last)      : Earshot — Rotten Inside → Stone Sour — Through Glass
+Δ last played (since last): 2026-05-15 01:09:34Z → 2026-05-15 01:14:13Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:34
-Telemetry age             : 00:00:34
-Δ time (since last report): 00:01:04
+Time since last play      : 00:00:52
+Telemetry age             : 00:00:52
+Δ time (since last report): 00:04:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1412,7 +1412,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-08 01:10:08Z → 2026-05-15 01:10:08Z
+Week window (UTC)         : 2026-05-08 01:15:05Z → 2026-05-15 01:15:05Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1422,23 +1422,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 01:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :  █      ▂▁         ▃▇▁  
-Heatmap (7d)              :  █      ▂▁         ▃▇▁  
+Heatmap (24h)             :  █      ▂▁         ▃▇▂  
+Heatmap (7d)              :  █      ▂▁         ▃▇▂  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:25:20
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:24:47
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(25) | jazz(18) | ambient jazz(8) | alternative metal(6) | nu metal(6) | smooth jazz(3)
-Top genres (7d)           : post-grunge(25) | jazz(18) | ambient jazz(8) | alternative metal(6) | nu metal(6) | smooth jazz(3)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(25) | jazz(18) | ambient jazz(8) | alternative metal(7) | nu metal(7) | smooth jazz(3)
+Top genres (7d)           : post-grunge(25) | jazz(18) | ambient jazz(8) | alternative metal(7) | nu metal(7) | smooth jazz(3)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-15 01:10:08Z
+Report generated (UTC)    : 2026-05-15 01:15:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

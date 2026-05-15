@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-05-15 01:10:08Z",
+  "report_generated_utc": "2026-05-15 01:15:05Z",
   "status": "PLAYING",
-  "last_track": "Earshot — Rotten Inside",
-  "last_played_utc": "2026-05-15 01:09:34Z",
+  "last_track": "Stone Sour — Through Glass",
+  "last_played_utc": "2026-05-15 01:14:13Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -849,6 +849,11 @@
       "post-grunge",
       "nu metal",
       "alternative metal"
+    ],
+    "49qiE8dj4JuNdpYGRPdKbF": [
+      "post-grunge",
+      "alternative metal",
+      "nu metal"
     ]
   }
 }
