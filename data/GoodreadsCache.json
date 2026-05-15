@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-15T01:08:08+00:00",
-    "last_successful_sync": "2026-05-15T01:08:08+00:00",
+    "last_attempted_sync": "2026-05-15T07:22:35+00:00",
+    "last_successful_sync": "2026-05-15T07:22:35+00:00",
     "error_message": ""
   },
   "sections": {
@@ -805,7 +805,7 @@
           "author": "Eknath Easwaran",
           "link": "https://www.goodreads.com/review/show/8008468117?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328759110l/6836655._SY75_.jpg",
-          "summary": "author: Eknath Easwaran name: Felipe Alfonso average rating: 4.40 book published: 2009 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
+          "summary": "author: Eknath Easwaran name: Felipe Alfonso average rating: 4.41 book published: 2009 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
           "guid": "https://www.goodreads.com/review/show/8008468117?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:28:00 -0700"
         },
