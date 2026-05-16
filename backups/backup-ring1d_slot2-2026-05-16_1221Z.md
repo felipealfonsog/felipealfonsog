@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-05-15_1237Z
+ snapshot_utc : 2026-05-16_1221Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -424,14 +424,14 @@ ICONOS INICIALES INLINE SVG1
 <br/>
 <div align="left"><sub><strong>Currently Reading</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8551382313?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386501012l/19285004._SY75_.jpg" width="40" height="60" alt="An Introduction to Zen Buddhism — D.T. Suzuki" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8551368666?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718804453l/215002572._SX50_.jpg" width="40" height="60" alt="Shobogenzo &quot;Zazengi&quot;- English edition — dogen kigen" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8551354385?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737133217l/223728231._SY75_.jpg" width="40" height="60" alt="Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8526670015?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661871273l/62114009._SX50_.jpg" width="40" height="60" alt="Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455651783?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732188901l/220887027._SY75_.jpg" width="40" height="60" alt="The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455648321?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619978145l/57920800._SX50_.jpg" width="40" height="60" alt="The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455634136?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633192138l/59131430._SX50_.jpg" width="40" height="60" alt="Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8455624520?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538363806l/42107422._SX50_.jpg" width="40" height="60" alt="The Autobiography of a Yogi — Paramahansa Yogananda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8399631886?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg" width="40" height="60" alt="PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8120974609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671814952l/75252034._SY75_.jpg" width="40" height="60" alt="Leviathan — Thomas Hobbes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8083185323?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg" width="40" height="60" alt="Aferrada a mi balsa — Gladys Díaz Armijo" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008450894?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg" width="40" height="60" alt="Man&#x27;s Search for Meaning — Viktor E. Frankl" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/7769852371?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708217705l/208826135._SY75_.jpg" width="40" height="60" alt="Dark Psychology, Manipulation, Psychological Warfare &amp; Body Language: Understand The Laws Of Human Behavior, How To Analyze People &amp; Skyrocket Emotional Intelligence — Lauren J. Abraham" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/7271836251?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1707229006l/207639752._SX50_.jpg" width="40" height="60" alt="The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/7248316358?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386243766l/19204186._SX50_.jpg" width="40" height="60" alt="Más allá del bien y del mal — Friedrich Nietzsche" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/5985050529?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415677308l/18774981._SY75_.jpg" width="40" height="60" alt="Waking Up: A Guide to Spirituality Without Religion — Sam Harris" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656668777?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347634422l/418425._SY75_.jpg" width="40" height="60" alt="Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/4990784941?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598099804l/55065122._SY75_.jpg" width="40" height="60" alt="Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008430837?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696085876l/133287809._SY75_.jpg" width="40" height="60" alt="The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2961526533?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549433350l/40672036._SY75_.jpg" width="40" height="60" alt="Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2793689234?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500809335l/32895535._SX50_.jpg" width="40" height="60" alt="Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2643854418?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460488034l/304583._SY75_.jpg" width="40" height="60" alt="Zen en el arte de escribir — Ray Bradbury" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8001340548?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747854608l/234653028._SY75_.jpg" width="40" height="60" alt="Gray Target: A Luke Ryder Novel (Luke Ryder Series Book 3) — J. Benedict" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/7769445617?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737223196l/223757824._SY75_.jpg" width="40" height="60" alt="Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/6560409677?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348757857l/83518._SX50_.jpg" width="40" height="60" alt="The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
 <div align="left"><sub><strong>Recently Read</strong></sub></div><br/><a href="https://www.goodreads.com/review/show/8560692951?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388206232l/76334._SY75_.jpg" width="40" height="60" alt="A New Earth: Awakening to Your Life&#x27;s Purpose — Eckhart Tolle" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8267390277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680973077l/126818200._SX50_.jpg" width="40" height="60" alt="Programming Perl (3rd Edition) — Larry Wall" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656643044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347658084l/514712._SY75_.jpg" width="40" height="60" alt="Mala onda — Alberto Fuguet" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2645704229?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767457l/241899._SY75_.jpg" width="40" height="60" alt="Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2603964044?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132490l/143877._SY75_.jpg" width="40" height="60" alt="Freedom from the Known — J. Krishnamurti" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668638609?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg" width="40" height="60" alt="In My Father&#x27;s Den — Maurice Gee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019191236?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417605511l/5936._SY75_.jpg" width="40" height="60" alt="The Poetry of Pablo Neruda — Pablo Neruda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019190402?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748708l/12742671._SY75_.jpg" width="40" height="60" alt="Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2656635039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY75_.jpg" width="40" height="60" alt="Cujo — Stephen King" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668694518?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731080929l/42683._SY75_.jpg" width="40" height="60" alt="On Writing — Ernest Hemingway" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019181335?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698848381l/197544752._SY75_.jpg" width="40" height="60" alt="Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668706571?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266678331l/2258939._SX50_.jpg" width="40" height="60" alt="PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019176816?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924160l/40541._SX50_.jpg" width="40" height="60" alt="PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668706225?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266959106l/2605122._SX50_.jpg" width="40" height="60" alt="Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019174098?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709427131l/8620024._SY75_.jpg" width="40" height="60" alt="Ebano — Ryszard Kapuściński" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019173181?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181634672l/1173584._SY75_.jpg" width="40" height="60" alt="MARY LAVELLE — Kate O&#x27;Brien" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019172354?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315409272l/1181999._SY75_.jpg" width="40" height="60" alt="Nosotras que nos queremos tanto — Marcela Serrano" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019170523?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314302973l/12436777._SY75_.jpg" width="40" height="60" alt="Donde mueren los valientes — Hernán Rivera Letelier" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8019165682?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348384442l/179699._SX50_.jpg" width="40" height="60" alt="Linear Algebra and Its Applications — Gilbert Strang" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008420597?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419013866l/23821271._SY75_.jpg" width="40" height="60" alt="Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014644253?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400889783l/22293792._SX50_.jpg" width="40" height="60" alt="Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014643826?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341028907l/15728956._SX50_.jpg" width="40" height="60" alt="Elementos de estadística descriptiva — Miguel Gómez Barrantes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014639786?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697481696l/160528789._SX50_.jpg" width="40" height="60" alt="Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014638288?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699051220l/6493084._SX50_.jpg" width="40" height="60" alt="Calculus — Purcell Rigdon Varberg" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014634512?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679160497l/104773898._SY75_.jpg" width="40" height="60" alt="CONVERSACIONES CON EL DEMONIO — Carl Goldberg" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2645667583?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440826168l/1155450._SY75_.jpg" width="40" height="60" alt="The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014632213?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605624873l/55922406._SX50_.jpg" width="40" height="60" alt="La vida, un enigma — Daisaku Ikeda" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2668711291?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126._SY75_.jpg" width="40" height="60" alt="The Count of Monte Cristo — Alexandre Dumas" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014628104?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596994605l/54863837._SX50_.jpg" width="40" height="60" alt="LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014627651?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670884110l/66003327._SX50_.jpg" width="40" height="60" alt="LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014627379?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544272861l/43174016._SX50_.jpg" width="40" height="60" alt="LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014620411?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415677371l/180116._SY75_.jpg" width="40" height="60" alt="Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014619477?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548908688l/40630101._SX50_.jpg" width="40" height="60" alt="Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014617774?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369395259l/184955._SY75_.jpg" width="40" height="60" alt="The Silva Mind Control Method — José Silva" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008451727?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1748892272l/66354._SY75_.jpg" width="40" height="60" alt="Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8014613848?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491038496l/7259023._SX50_.jpg" width="40" height="60" alt="De Sapos a Principes — Richard Bandler" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008545823?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678497945l/90541816._SY75_.jpg" width="40" height="60" alt="SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008516989?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421992256l/19937017._SY75_.jpg" width="40" height="60" alt="The Definitive Book of Body Language: The Hidden Meaning Behind People&#x27;s Gestures and Expressions — Allan Pease" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008515537?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348824141l/8697315._SX50_.jpg" width="40" height="60" alt="Psychology: The Science of Mind and Behaviour — Richard Gross" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008513012?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311990046l/573611._SY75_.jpg" width="40" height="60" alt="Evil: Inside Human Violence and Cruelty — Roy F. Baumeister" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008510985?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677847206l/51421505._SX50_.jpg" width="40" height="60" alt="Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008507909?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397061034l/6146129._SY75_.jpg" width="40" height="60" alt="The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008506913?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1253448017l/4146134._SX50_.jpg" width="40" height="60" alt="Understanding Psychology — Robert S. Feldman" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008504265?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757108780l/18288._SY75_.jpg" width="40" height="60" alt="Critique of Pure Reason — Immanuel Kant" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008502829?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SY75_.jpg" width="40" height="60" alt="Becoming — Michelle Obama" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008501473?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388185411l/26329._SY75_.jpg" width="40" height="60" alt="Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008499321?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697011746l/129268233._SX50_.jpg" width="40" height="60" alt="Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008497464?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456091964l/28186015._SX50_.jpg" width="40" height="60" alt="Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O&#x27;Neil" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008495891?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403181687l/17994._SY75_.jpg" width="40" height="60" alt="The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008494244?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718702955l/205548015._SY75_.jpg" width="40" height="60" alt="AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008493786?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586979124l/53184793._SX50_.jpg" width="40" height="60" alt="Cyber Minds: Insights on cybersecurity across the cloud, data, artificial intelligence, blockchain, and IoT to keep you cyber safe — Shira Rubinoff" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008487581?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639381842l/59384130._SX50_.jpg" width="40" height="60" alt="Mike Meyers&#x27; Comptia Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition — Mike Meyers" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008487100?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650240788l/60412682._SX50_.jpg" width="40" height="60" alt="Mike Meyers&#x27; CompTIA Network+ Certification Passport, Seventh Edition (Exam N10-008) — Mike Meyers" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008486188?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625601209l/55562057._SX50_.jpg" width="40" height="60" alt="Principles of Computer Security: CompTIA Security+ and Beyond Lab Manual (Exam SY0-601) — Jonathan S Weissman" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008482063?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348051222l/7634458._SX50_.jpg" width="40" height="60" alt="Principles of Computer Security, CompTIA Security+ and Beyond, with CD-ROM — William Arthur Conklin" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008476978?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482148126l/33479958._SX50_.jpg" width="40" height="60" alt="Principles of Data Science: Learn the techniques and math you need to start making sense of your data: Mathematical techniques and theory to succeed in data-driven industries — Sinan Özdemir" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008475902?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478536137l/32899495._SX50_.jpg" width="40" height="60" alt="Hands-On Machine Learning with Scikit-Learn and TensorFlow — Aurélien Géron" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008474120?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490810628l/24072897._SX50_.jpg" width="40" height="60" alt="Deep Learning — Ian Goodfellow" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008472095?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387741681l/108986._SX50_.jpg" width="40" height="60" alt="Introduction to Algorithms — Thomas H. Cormen" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008471026?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309287434l/38210._SX50_.jpg" width="40" height="60" alt="The Art of Happiness — Dalai Lama XIV" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008469342?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1769077152l/99944._SY75_.jpg" width="40" height="60" alt="The Bhagavad Gita — Krishna-Dwaipayana Vyasa" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008468117?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328759110l/6836655._SY75_.jpg" width="40" height="60" alt="Essence of the Upanishads: A Key to Indian Spirituality (Wisdom of India, 1) — Eknath Easwaran" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008466732?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/290882._SY75_.jpg" width="40" height="60" alt="The Upanishads — Anonymous" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008465152?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327908532l/10238._SY75_.jpg" width="40" height="60" alt="The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism — Fritjof Capra" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008464158?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388432490l/2761._SY75_.jpg" width="40" height="60" alt="The Denial of Death — Ernest Becker" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008463043?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624232683l/39704901._SY75_.jpg" width="40" height="60" alt="Homo Deus: A Brief History of Tomorrow — Yuval Noah Harari" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008461350?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703329310l/23692271._SY75_.jpg" width="40" height="60" alt="Sapiens: A Brief History of Humankind — Yuval Noah Harari" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008459566?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296875l/25666050._SY75_.jpg" width="40" height="60" alt="Algorithms to Live By: The Computer Science of Human Decisions — Brian Christian" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008458403?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377._SX50_.jpg" width="40" height="60" alt="Thinking, Fast and Slow — Daniel Kahneman" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008456479?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547125681l/24113._SY75_.jpg" width="40" height="60" alt="Gödel, Escher, Bach: An Eternal Golden Braid — Douglas R. Hofstadter" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008455123?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925655l/30289._SY75_.jpg" width="40" height="60" alt="The Republic — Plato" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008454039?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663694924l/62671466._SY75_.jpg" width="40" height="60" alt="Meditations on First Philosophy: Rene Descartes — René Descartes" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2643858005?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630683326l/10534._SY75_.jpg" width="40" height="60" alt="The Art of War — Sun Tzu" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/2643853524?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689947880l/6708._SY75_.jpg" width="40" height="60" alt="The Power of Now: A Guide to Spiritual Enlightenment — Eckhart Tolle" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><a href="https://www.goodreads.com/review/show/8008446066?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406841716l/22847327._SY75_.jpg" width="40" height="60" alt="Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche" style="display:inline-block;width:40px;height:60px;object-fit:cover;border-radius:4px;vertical-align:top;margin-right:4px;" /></a><br/>
-<br/><sub>SYNC: 2026-05-15T09:59:47+00:00 • LAST UPDATE: 2026-05-15T09:59:47+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
+<br/><sub>SYNC: 2026-05-16T09:39:00+00:00 • LAST UPDATE: 2026-05-16T09:39:00+00:00 • SOURCE: goodreads_rss</sub><br/><br/>
 <!-- GOODREADS:VISUAL_END -->
 
 <!-- GOODREADS:CLI_START -->
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-15T09:59:47+00:00 | last_update=2026-05-15T09:59:47+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-16T09:39:00+00:00 | last_update=2026-05-16T09:39:00+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -589,13 +589,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 70 ms
-TTFB................ 69 ms
+LATENCY............. 164 ms
+TTFB................ 163 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 51d
+TLS_EXPIRY.......... 50d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -624,7 +624,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-15T09:59:09Z
+LAST_PROBE_UTC...... 2026-05-16T09:38:46Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -665,18 +665,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : transit_corridor
-latitude       : -33.446893
-longitude      : -70.661993
-altitude       : 113 m
-gps_accuracy   : ±6.4 m
-heading        : 90°
-speed          : 0.6 km/h
-status         : stationary
+latitude       : -33.446693
+longitude      : -70.661627
+altitude       : 14 m
+gps_accuracy   : ±4.9 m
+heading        : 10°
+speed          : 6.9 km/h
+status         : walking
 phase          : morning
-local_time     : 08:30
+local_time     : 08:14
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-05-15 12:30:12 UTC
+updated_utc    : 2026-05-16 12:14:17 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -795,7 +795,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-15 10:09:02Z
+DSN snapshot (UTC)       : 2026-05-16 09:53:19Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -806,15 +806,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.40e9 km | 169.804 AU
-Heliocentric distance    : 170.566 AU
-Relative speed           : 27.857 km/s
+Earth distance           : 25.40e9 km | 169.808 AU
+Heliocentric distance    : 170.576 AU
+Relative speed           : 28.071 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:13
-Round-trip latency       : 47:04:26
+One-way light time       : 23:32:15
+Round-trip latency       : 47:04:30
 ------------------------------------------------------------
-Δ distance (since last)  : +143,990 km
-Mission age              : 48 years, 264 days
+Δ distance (since last)  : +334,184 km
+Mission age              : 48 years, 265 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -825,19 +825,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.447 AU
-Heliocentric distance    : 142.881 AU
-Relative speed           : 23.983 km/s
+Earth distance           : 21.31e9 km | 142.444 AU
+Heliocentric distance    : 142.890 AU
+Relative speed           : 24.084 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:42
-Round-trip latency       : 39:29:23
+One-way light time       : 19:44:40
+Round-trip latency       : 39:29:21
 ------------------------------------------------------------
-Δ distance (since last)  : -87,573 km
-Mission age              : 48 years, 280 days
+Δ distance (since last)  : -186,416 km
+Mission age              : 48 years, 281 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-15 10:09:04Z
+Report generated (UTC)   : 2026-05-16 09:53:22Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1389,17 +1389,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : 3 Doors Down — These Days
-Last played (UTC)         : 2026-05-15 02:01:17Z
+Last played               : Silverchair — Cicada
+Last played (UTC)         : 2026-05-16 02:36:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 08:07:35
-Telemetry age             : 08:07:35
-Δ time (since last report): 00:00:28
+Time since last play      : 07:16:10
+Telemetry age             : 07:16:10
+Δ time (since last report): 00:00:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1411,14 +1411,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 44
-Dominant artist           : 3 Doors Down
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 10
+Dominant artist           : Silverchair
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-08 10:08:51Z → 2026-05-15 10:08:51Z
+Week window (UTC)         : 2026-05-09 09:52:46Z → 2026-05-16 09:52:46Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1426,25 +1426,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 22:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :         ▃▁         ▃██▁ 
-Heatmap (7d)              :  ▃▁     ▃▁         ▃██▁ 
+Heatmap (24h)             :                       █ 
+Heatmap (7d)              :         ▁▁         ▃██▆ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:24:50
+Avg inter-play gap (7d)   : 00:46:05
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(37) | alternative metal(11) | nu metal(9) | ambient jazz(7)
-Top genres (7d)           : post-grunge(37) | alternative metal(11) | nu metal(9) | ambient jazz(7) | jazz(6) | smooth jazz(2)
+Top genres (24h)          : grunge(10) | post-grunge(10)
+Top genres (7d)           : post-grunge(47) | alternative metal(11) | grunge(10) | nu metal(9) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-15 10:08:51Z
+Report generated (UTC)    : 2026-05-16 09:52:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1802,9 +1802,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 15 May 2026
+From: 04 December 2023 - To: 16 May 2026
 
-Total Time       : 1,017 hrs 32 mins
+Total Time       : 1,017 hrs 42 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 8 mins
 Best day         : 2024-02-06 — 14 hrs 44 mins
@@ -1813,10 +1813,10 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          470 hrs 27 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  46.23 %
+Other          479 hrs 50 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.15 %
 Bash           168 hrs 21 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.54 %
-Python         139 hrs 8 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.67 %
-HTML           131 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
+Python         139 hrs 10 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.68 %
+HTML           131 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  12.90 %
 PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.69 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.94 %
 C              73 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.24 %
@@ -1826,35 +1826,35 @@ YAML           37 hrs 43 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            849 hrs 11 mins ●●●●●●●●●●●●●●●●●●●●●◔○○○○  83.45 %
-Linux          638 hrs 48 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.78 %
+Mac            858 hrs 43 mins ●●●●●●●●●●●●●●●●●●●●●◔○○○○  84.38 %
+Linux          638 hrs 48 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.77 %
 
 EDITORS
 -------
-VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.24 %
-Firefox        386 hrs 24 mins ●●●●●●●●●◔○○○○○○○○○○○○○○○○  37.97 %
-Vim            329 hrs 19 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.36 %
-Terminal       22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.21 %
-Spotify        17 hrs 23 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.71 %
+VS Code        653 hrs 37 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.23 %
+Firefox        390 hrs 2 mins ●●●●●●●●●◔○○○○○○○○○○○○○○○○  38.33 %
+Vim            329 hrs 23 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.37 %
+Terminal       23 hrs 6 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.27 %
+Spotify        18 hrs 8 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.78 %
+‎WhatsApp      13 hrs 20 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.18 %
 Acrobat        11 hrs 44 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.15 %
-‎WhatsApp      10 hrs 48 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.06 %
-Dia            10 hrs 12 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.00 %
-Antigravity    6 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
-FileZilla      5 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
-Termius        5 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.50 %
+Dia            10 hrs 54 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.07 %
+Termius        6 hrs 13 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.61 %
+Antigravity    6 hrs 6 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
+FileZilla      5 hrs 51 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
 
 CATEGORIES
 ----------
-Coding         1,084 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       382 hrs 51 mins ●●●●●●●●●◔○○○○○○○○○○○○○○○○  37.63 %
-Meeting        17 hrs 37 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.73 %
+Coding         1,087 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       386 hrs 30 mins ●●●●●●●●●◔○○○○○○○○○○○○○○○○  37.98 %
+Meeting        20 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.98 %
 Writing Docs   3 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 15/05/2026 11:43:59 UTC
+Last updated     : 16/05/2026 11:27:43 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2841,7 +2841,7 @@ All projects are distributed under their respective licenses as defined per repo
 -->
 
 
-<sub>[[Top Home]](#hi-there-)</sub>
+
 
 #
 <!-- 
@@ -2881,5 +2881,7 @@ All projects are distributed under their respective licenses as defined per repo
 <p align="center">
 <sub>⟁ ❀ ✡︎ ⚜︎ π ∴ .·.</sub>
 </p>
+
+<sub>[[Top Home]](#hi-there-)</sub>
 
 <a id="pinned-repositories"></a>
