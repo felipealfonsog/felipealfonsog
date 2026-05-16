@@ -1386,13 +1386,13 @@ Last played               : Silverchair — Cicada
 Last played (UTC)         : 2026-05-16 02:36:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — These Days → Silverchair — Cicada
-Δ last played (since last): 2026-05-15 02:01:17Z → 2026-05-16 02:36:37Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:55:30
-Telemetry age             : 01:55:30
-Δ time (since last report): 02:33:41
+Time since last play      : 01:56:25
+Telemetry age             : 01:56:25
+Δ time (since last report): 00:00:55
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1411,7 +1411,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-09 04:32:07Z → 2026-05-16 04:32:07Z
+Week window (UTC)         : 2026-05-09 04:33:01Z → 2026-05-16 04:33:01Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1437,7 +1437,7 @@ Top genres (24h)          : grunge(10) | post-grunge(10)
 Top genres (7d)           : post-grunge(47) | alternative metal(11) | grunge(10) | nu metal(9) | ambient jazz(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-16 04:32:07Z
+Report generated (UTC)    : 2026-05-16 04:33:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
