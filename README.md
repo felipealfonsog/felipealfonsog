@@ -1390,9 +1390,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 19:43:22
-Telemetry age             : 19:43:22
-Δ time (since last report): 00:02:59
+Time since last play      : 23:09:20
+Telemetry age             : 23:09:20
+Δ time (since last report): 03:25:59
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1404,14 +1404,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 37
+Tracks played (last 24h)  : 13
 Dominant artist           : 3 Doors Down
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-08 21:44:38Z → 2026-05-15 21:44:38Z
+Week window (UTC)         : 2026-05-09 01:10:36Z → 2026-05-16 01:10:36Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1419,9 +1419,9 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 21:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                    ▃██▁ 
+Heatmap (24h)             :                      █▁ 
 Heatmap (7d)              :  ▃▁     ▃▁         ▃██▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -1433,11 +1433,11 @@ Avg inter-play gap (7d)   : 00:24:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(37) | alternative metal(11) | nu metal(9)
+Top genres (24h)          : post-grunge(13) | alternative metal(5) | nu metal(3)
 Top genres (7d)           : post-grunge(37) | alternative metal(11) | nu metal(9) | ambient jazz(7) | jazz(6) | smooth jazz(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-15 21:44:38Z
+Report generated (UTC)    : 2026-05-16 01:10:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
