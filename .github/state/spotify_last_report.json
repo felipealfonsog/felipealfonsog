@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-05-16 01:10:36Z",
-  "status": "IDLE",
+  "report_generated_utc": "2026-05-16 01:58:26Z",
+  "status": "PLAYING",
   "last_track": "3 Doors Down — These Days",
   "last_played_utc": "2026-05-15 02:01:17Z",
-  "sitrep": "AMBER",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
