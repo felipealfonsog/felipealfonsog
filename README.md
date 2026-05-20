@@ -1382,17 +1382,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Faith No More — Smaller and Smaller
-Last played (UTC)         : 2026-05-20 07:10:41Z
+Last played               : Faith No More — Ricochet
+Last played (UTC)         : 2026-05-20 09:33:04Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Smaller and Smaller → Faith No More — Ricochet
+Δ last played (since last): 2026-05-20 07:10:41Z → 2026-05-20 09:33:04Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:25:43
-Telemetry age             : 00:25:43
-Δ time (since last report): 00:00:29
+Time since last play      : 00:55:02
+Telemetry age             : 00:55:02
+Δ time (since last report): 02:51:42
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1404,14 +1404,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
+Tracks played (last 24h)  : 10
 Dominant artist           : Faith No More
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-13 07:36:24Z → 2026-05-20 07:36:24Z
+Week window (UTC)         : 2026-05-13 10:28:05Z → 2026-05-20 10:28:05Z
 Total tracks played       : 50
 Dominant artist           : 3 Doors Down
 Cadence classification    : HIGH
@@ -1420,24 +1420,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
-Peak hour (7d)            : 20:00
-Heatmap (24h)             :   █▂                    
-Heatmap (7d)              :   ▄▁                ██▆ 
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :   █▂ ▁                  
+Heatmap (7d)              :   ▄▁ ▁              ▇█▆ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 02:35:42
+Sessions (24h)            : 2
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 02:38:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(9) | funk rock(9) | grunge(9) | rap metal(9)
-Top genres (7d)           : post-grunge(41) | alternative metal(20) | grunge(19) | funk rock(9) | nu metal(9) | rap metal(9)
+Top genres (24h)          : alternative metal(10) | funk rock(10) | grunge(10) | rap metal(10)
+Top genres (7d)           : post-grunge(40) | alternative metal(21) | grunge(20) | funk rock(10) | rap metal(10) | nu metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-20 07:36:24Z
+Report generated (UTC)    : 2026-05-20 10:28:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
