@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-21T01:15:34+00:00",
-    "last_successful_sync": "2026-05-21T01:15:34+00:00",
+    "last_attempted_sync": "2026-05-21T04:36:50+00:00",
+    "last_successful_sync": "2026-05-21T04:36:50+00:00",
     "error_message": ""
   },
   "sections": {
@@ -832,7 +832,7 @@
           "author": "Ernest Becker",
           "link": "https://www.goodreads.com/review/show/8008464158?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388432490l/2761._SY75_.jpg",
-          "summary": "author: Ernest Becker name: Felipe Alfonso average rating: 4.06 book published: 1973 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
+          "summary": "author: Ernest Becker name: Felipe Alfonso average rating: 4.05 book published: 1973 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
           "guid": "https://www.goodreads.com/review/show/8008464158?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:26:22 -0700"
         },
