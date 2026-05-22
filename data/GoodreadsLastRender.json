@@ -1,10 +1,10 @@
 {
   "meta": {
-    "rendered_at": "2026-05-22T14:24:00+00:00",
-    "render_mode": "option1=on|option2=off|option3_cli=on",
-    "rendered_visual": true,
+    "rendered_at": "2026-05-22T14:26:23+00:00",
+    "render_mode": "option1=off|option2=off|option3_cli=on",
+    "rendered_visual": false,
     "rendered_cli": true,
     "readme_changed": true,
-    "snapshot_hash": "c2b6c59694a24161409594fc0a92ab730339a86852be830a95586a98a328495a"
+    "snapshot_hash": "358fbeace143f838993b6cf3c2194b10fb32e034e80581b0a6966925429fc863"
   }
 }
