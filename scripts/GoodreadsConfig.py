@@ -51,12 +51,12 @@ RECENT_READ_LIMIT = 75
 # THREE OPTIONS
 # ============================================================
 # FALSE TO DISABLE ALL COVERS CARDS 
-OPTION1_COVERS_ONLY_ENABLED = True
+OPTION1_COVERS_ONLY_ENABLED = False
 OPTION2_CARD_TABLE_ENABLED = False
 OPTION3_CLI_ENABLED = True
 
 # IT SHOW ALL THE COVERS ANYWAY - FALSE TO DISABLE ALL
-PRESERVE_UNUSED_BLOCKS = True
+PRESERVE_UNUSED_BLOCKS = False
 
 
 # ============================================================
@@ -84,7 +84,7 @@ VISUAL_SECTION_BOTTOM_SPACER_PX = 20
 # ============================================================
 # OPTION 1: COVERS ONLY
 # ============================================================
-OPTION1_SHOW_COVERS = False
+OPTION1_SHOW_COVERS = True
 
 OPTION1_COVER_WIDTH = 40
 OPTION1_COVER_HEIGHT = 60
