@@ -22,7 +22,6 @@ env:
   AUDIT_KEEP_HISTORY: "true"
   AUDIT_WRITE_LATEST: "true"
 
-  # Seguridad
   AUDIT_INCLUDE_PRIVATE_REPOS: "false"
   AUDIT_MAX_SNIPPET_CHARS: "120"
 
@@ -38,8 +37,6 @@ jobs:
         env:
           AUDIT_TOKEN: ${{ secrets.AUDIT_TOKEN }}
         run: |
-          mkdir -p "$AUDIT_REPORT_DIR"
-
           python3 <<'PY'
           import os
           import re
@@ -56,6 +53,8 @@ jobs:
           WRITE_LATEST = os.environ.get("AUDIT_WRITE_LATEST", "true").lower() == "true"
           INCLUDE_PRIVATE = os.environ.get("AUDIT_INCLUDE_PRIVATE_REPOS", "false").lower() == "true"
           MAX_SNIPPET = int(os.environ.get("AUDIT_MAX_SNIPPET_CHARS", "120"))
+
+          os.makedirs(REPORT_DIR, exist_ok=True)
 
           now = datetime.now(timezone.utc)
           stamp = now.strftime("%Y-%m-%d-%H%M")
@@ -148,8 +147,8 @@ jobs:
               return clean
 
           def get_tree(owner, repo, branch):
-              branch = urllib.parse.quote(branch, safe="")
-              url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
+              branch_q = urllib.parse.quote(branch, safe="")
+              url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/{branch_q}?recursive=1"
               return request_json(url).get("tree", [])
 
           def get_file(owner, repo, path, ref):
@@ -179,7 +178,7 @@ jobs:
 
               try:
                   tree = get_tree(owner, name, branch)
-              except Exception as e:
+              except Exception:
                   failed_repos.append((name, "tree read failed"))
                   continue
 
@@ -295,29 +294,54 @@ jobs:
 
           content = "\n".join(md)
 
+          written = []
+
           if KEEP_HISTORY:
               with open(historical_path, "w", encoding="utf-8") as f:
                   f.write(content)
+              written.append(historical_path)
 
           if WRITE_LATEST:
               with open(latest_path, "w", encoding="utf-8") as f:
                   f.write(content)
+              written.append(latest_path)
 
           if not KEEP_HISTORY:
               with open(overwrite_path, "w", encoding="utf-8") as f:
                   f.write(content)
+              written.append(overwrite_path)
+
+          print("Generated audit reports:")
+          for path in written:
+              print(f"- {path}")
           PY
 
-      - name: Commit audit reports
+      - name: Verify generated reports
+        shell: bash
         run: |
+          set -e
+
+          echo "Audit report directory:"
+          ls -lah auditreports
+
+          echo ""
+          echo "Generated files:"
+          find auditreports -type f -maxdepth 1 -print
+
+      - name: Commit audit reports
+        shell: bash
+        run: |
+          set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet auditreports; then
-            echo "No audit report changes."
+          git add -A auditreports
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
             exit 0
           fi
 
-          git add auditreports
           git commit -m "Update secure audit reports"
           git push
