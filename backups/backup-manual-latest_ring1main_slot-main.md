@@ -268,16 +268,47 @@ ddddppdkbbbdbhddbbpbkddbdbbbbbddddqpqppqpdppq
 
 <!-- 
 ![Ensō](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg)
+[![Ensō](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg)](#)
+
 
 <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+<a href="#">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+</a>
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
 </p>
--->
+
+<p align="left">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+  </a>
+</p>
+
+
+
+
+-->
+
+
+
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+  </a>
 </p>
 
 > **[Ensō](https://en.wikipedia.org/wiki/Ens%C5%8D)** (円相) is a hand-drawn minimalist circle created with one or two fluid brushstrokes in the traditions of [Zen Buddhism](https://en.wikipedia.org/wiki/Zen) and Japanese calligraphy. It is one of the most recognizable symbols of Zen and is characterized by a minimalism deeply influenced by Zen philosophy and Japanese aesthetics.
