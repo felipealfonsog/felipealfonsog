@@ -234,7 +234,7 @@ This integration enables precise visual control, consistent styling, and a refin
 
 
 #
-
+<!-- 
 ```
 
 pdpdddpZqppddpdqpbqdkbbkdbpdbdbdbdpdddpdpdbdp
@@ -264,11 +264,21 @@ ddddppdkbbbdbhddbbpbkddbdbbbbbddddqpqppqpdppq
 
 
 ```
+-->
 
-> **Ensō** (円相) is a hand-drawn minimalist circle created with one or two fluid brushstrokes in the traditions of [Zen Buddhism](https://en.wikipedia.org/wiki/Zen) and Japanese calligraphy. It is one of the most recognizable symbols of Zen and is characterized by a minimalism deeply influenced by Zen philosophy and Japanese aesthetics.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+</p>
+
+> **[Ensō](https://en.wikipedia.org/wiki/Ens%C5%8D)** (円相) is a hand-drawn minimalist circle created with one or two fluid brushstrokes in the traditions of [Zen Buddhism](https://en.wikipedia.org/wiki/Zen) and Japanese calligraphy. It is one of the most recognizable symbols of Zen and is characterized by a minimalism deeply influenced by Zen philosophy and Japanese aesthetics.
+>
 > The ensō symbolizes absolute [enlightenment](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism), strength, elegance, the universe, the [Dharmadhātu](https://en.wikipedia.org/wiki/Dharmadhatu) (the totality of reality), and *[mu](https://en.wikipedia.org/wiki/Mu_(negative))* (emptiness or no-thingness). It is often understood as an expression of completeness, the boundless nature of existence, and the unity underlying all things.
+>
 > Traditionally painted in a single spontaneous gesture, the ensō cannot be altered once the brush leaves the paper. For this reason, each circle serves as a direct reflection of the artist's spirit, mind, and state of being at that exact moment.
+>
 > An empty circle also appears in the [Ten Ox-Herding Pictures](https://en.wikipedia.org/wiki/Ten_Bulls), a classic set of illustrations depicting the stages of Zen training and realization.
+> 
 
 #
 
