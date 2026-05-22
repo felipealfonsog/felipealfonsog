@@ -267,34 +267,34 @@ ddddppdkbbbdbhddbbpbkddbdbbbbbddddqpqppqpdppq
 -->
 
 <!-- 
-![Ensō](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg)
-[![Ensō](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg)](#)
+![Ensō](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso4-1.svg)
+[![Ensō](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso4-1.svg)](#)
 
 
-<img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+<img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso4-1.svg" alt="Ensō" width="220">
 <a href="#">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso4-1.svg" alt="Ensō" width="220">
 </a>
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso4-1.svg" alt="Ensō" width="220">
 </p>
 
 <p align="left">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso4-1.svg" alt="Ensō" width="220">
   </a>
 </p>
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+  <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso4-1.svg" alt="Ensō" width="220">
 </p>
 
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso4-1.svg" alt="Ensō" width="220">
   </a>
 </p>
 
@@ -307,7 +307,7 @@ ddddppdkbbbdbhddbbpbkddbdbbbbbddddqpqppqpdppq
 
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
+    <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso4-1.svg" alt="Ensō" width="220">
   </a>
 </p>
 
