@@ -266,6 +266,8 @@ ddddppdkbbbdbhddbbpbkddbdbbbbbddddqpqppqpdppq
 ```
 -->
 
+![Ensō](https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/enso.svg" alt="Ensō" width="220">
