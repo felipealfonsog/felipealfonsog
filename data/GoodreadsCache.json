@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-23T15:31:40+00:00",
-    "last_successful_sync": "2026-05-23T15:31:40+00:00",
+    "last_attempted_sync": "2026-05-23T18:30:58+00:00",
+    "last_successful_sync": "2026-05-23T18:30:58+00:00",
     "error_message": ""
   },
   "sections": {
@@ -165,7 +165,7 @@
           "author": "Jack Maguire",
           "link": "https://www.goodreads.com/review/show/2656668777?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347634422l/418425._SY75_.jpg",
-          "summary": "author: Jack Maguire name: Felipe Alfonso average rating: 3.97 book published: 2001 rating: 0 read at: 2025/10/20 date added: 2025/10/20 shelves: currently-reading, buddhism review:",
+          "summary": "author: Jack Maguire name: Felipe Alfonso average rating: 3.96 book published: 2001 rating: 0 read at: 2025/10/20 date added: 2025/10/20 shelves: currently-reading, buddhism review:",
           "guid": "https://www.goodreads.com/review/show/2656668777?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:15:19 -0700"
         },
