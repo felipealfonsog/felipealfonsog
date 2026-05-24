@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-24T04:34:52+00:00",
-    "last_successful_sync": "2026-05-24T04:34:52+00:00",
+    "last_attempted_sync": "2026-05-24T07:19:14+00:00",
+    "last_successful_sync": "2026-05-24T07:19:14+00:00",
     "error_message": ""
   },
   "sections": {
@@ -147,7 +147,7 @@
           "author": "Friedrich Nietzsche",
           "link": "https://www.goodreads.com/review/show/7248316358?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386243766l/19204186._SX50_.jpg",
-          "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 3.93 book published: 1886 rating: 0 read at: date added: 2025/10/20 shelves: currently-reading, philosophy review:",
+          "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 3.92 book published: 1886 rating: 0 read at: date added: 2025/10/20 shelves: currently-reading, philosophy review:",
           "guid": "https://www.goodreads.com/review/show/7248316358?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:18:02 -0700"
         },
