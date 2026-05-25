@@ -654,7 +654,8 @@ ICONOS INICIALES INLINE SVG1
 <!-- GNLZ:SITE_INTEL:START -->
 ```text
 probe@watchops:~$ telemetry-acquire gnlz.cl
-status: ok
+status: probe timeout
+using cached snapshot
 
 felipe@watchops:~$ gnlz-site-intel --target gnlz.cl --mode full
 
@@ -701,7 +702,7 @@ CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
 LAST_PROBE_UTC...... 2026-05-25T07:51:27Z
-DATA_STATE.......... LIVE
+DATA_STATE.......... CACHED
 PROBE_CONFIDENCE.... HIGH
 ```
 <!-- GNLZ:SITE_INTEL:END -->
