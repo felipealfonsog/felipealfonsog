@@ -507,7 +507,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-25T04:38:53+00:00 | last_update=2026-05-25T04:38:53+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-25T07:52:55+00:00 | last_update=2026-05-25T07:52:55+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. An Introduction to Zen Buddhism — D.T. Suzuki
