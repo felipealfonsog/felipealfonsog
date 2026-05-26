@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-26T01:11:26+00:00",
-    "last_successful_sync": "2026-05-26T01:11:26+00:00",
+    "last_attempted_sync": "2026-05-26T04:32:32+00:00",
+    "last_successful_sync": "2026-05-26T04:32:32+00:00",
     "error_message": ""
   },
   "sections": {
@@ -301,7 +301,7 @@
           "author": "Maurice Gee",
           "link": "https://www.goodreads.com/review/show/2668638609?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410575237l/706197._SY75_.jpg",
-          "summary": "author: Maurice Gee name: Felipe Alfonso average rating: 3.88 book published: 1972 rating: 5 read at: 2019/01/01 date added: 2025/12/07 shelves: favorites, fiction review: It’s absolutely tremendous — a delicate, vividly descriptive narrative that wraps you in its atmosphere. I could feel the air, the places, every subtle moment unfolding around me. I loved every second of it. I’m especially glad I read it while I was in New Zealand — it made the experience even more magical.",
+          "summary": "author: Maurice Gee name: Felipe Alfonso average rating: 3.87 book published: 1972 rating: 5 read at: 2019/01/01 date added: 2025/12/07 shelves: favorites, fiction review: It’s absolutely tremendous — a delicate, vividly descriptive narrative that wraps you in its atmosphere. I could feel the air, the places, every subtle moment unfolding around me. I loved every second of it. I’m especially glad I read it while I was in New Zealand — it made the experience even more magical.",
           "guid": "https://www.goodreads.com/review/show/2668638609?utm_medium=api&utm_source=rss",
           "pub_date": "Sun, 07 Dec 2025 17:21:04 -0800"
         },
