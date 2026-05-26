@@ -1466,16 +1466,16 @@ Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : Faith No More — Ricochet
-Last played (UTC)         : 2026-05-20 09:33:04Z
+Last played (UTC)         : 2026-05-20 07:35:52Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ last played (since last): 2026-05-20 09:33:04Z → 2026-05-20 07:35:52Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 145:04:34
-Telemetry age             : 145:04:34
-Δ time (since last report): 02:59:49
+Time since last play      : 149:47:58
+Telemetry age             : 149:47:58
+Δ time (since last report): 02:46:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1494,7 +1494,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-19 10:37:38Z → 2026-05-26 10:37:38Z
+Week window (UTC)         : 2026-05-19 13:23:50Z → 2026-05-26 13:23:50Z
 Total tracks played       : 10
 Dominant artist           : Faith No More
 Cadence classification    : LOW
@@ -1505,14 +1505,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 02:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :   █▂ ▁                  
+Heatmap (7d)              :   █▃                    
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:20:01
+Avg inter-play gap (7d)   : 00:07:00
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1520,7 +1520,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(10) | funk rock(10) | grunge(10) | rap metal(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-26 10:37:38Z
+Report generated (UTC)    : 2026-05-26 13:23:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
