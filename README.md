@@ -1475,7 +1475,7 @@ Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Time since last play      : N/A
 Telemetry age             : N/A
-Δ time (since last report): 00:00:15
+Δ time (since last report): 00:00:34
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1494,7 +1494,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-20 07:48:10Z → 2026-05-27 07:48:10Z
+Week window (UTC)         : 2026-05-20 07:48:44Z → 2026-05-27 07:48:44Z
 Total tracks played       : 0
 Dominant artist           : N/A
 Cadence classification    : NONE
@@ -1520,7 +1520,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : N/A
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-27 07:48:10Z
+Report generated (UTC)    : 2026-05-27 07:48:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
