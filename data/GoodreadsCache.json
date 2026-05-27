@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-27T13:29:33+00:00",
-    "last_successful_sync": "2026-05-27T13:29:33+00:00",
+    "last_attempted_sync": "2026-05-27T16:22:36+00:00",
+    "last_successful_sync": "2026-05-27T16:22:36+00:00",
     "error_message": ""
   },
   "sections": {
@@ -16,6 +16,24 @@
       "limit": 25,
       "item_count": 25,
       "books": [
+        {
+          "title": "La Ética a Nicómaco de Aristóteles",
+          "author": "Vicente Hernández Pedrero",
+          "link": "https://www.goodreads.com/review/show/8635882401?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610231781l/2909046._SY75_.jpg",
+          "summary": "author: Vicente Hernández Pedrero name: Felipe Alfonso average rating: 3.75 book published: rating: 5 read at: date added: 2026/05/27 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/8635882401?utm_medium=api&utm_source=rss",
+          "pub_date": "Wed, 27 May 2026 07:36:22 -0700"
+        },
+        {
+          "title": "Sobre la brevedad de la vida, el ocio y la felicidad",
+          "author": "Seneca",
+          "link": "https://www.goodreads.com/review/show/8635883857?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417682250l/23636776._SY75_.jpg",
+          "summary": "author: Seneca name: Felipe Alfonso average rating: 4.15 book published: 63 rating: 5 read at: date added: 2026/05/27 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/8635883857?utm_medium=api&utm_source=rss",
+          "pub_date": "Wed, 27 May 2026 07:35:45 -0700"
+        },
         {
           "title": "An Introduction to Zen Buddhism",
           "author": "D.T. Suzuki",
@@ -222,24 +240,6 @@
           "summary": "author: J. Benedict name: Felipe Alfonso average rating: 5.00 book published: rating: 0 read at: date added: 2025/10/17 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8001340548?utm_medium=api&utm_source=rss",
           "pub_date": "Fri, 17 Oct 2025 23:30:42 -0700"
-        },
-        {
-          "title": "Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health",
-          "author": "Murilo hammes",
-          "link": "https://www.goodreads.com/review/show/7769445617?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737223196l/223757824._SY75_.jpg",
-          "summary": "author: Murilo hammes name: Felipe Alfonso average rating: 4.00 book published: rating: 0 read at: 2025/08/24 date added: 2025/08/24 shelves: currently-reading review:",
-          "guid": "https://www.goodreads.com/review/show/7769445617?utm_medium=api&utm_source=rss",
-          "pub_date": "Sun, 24 Aug 2025 12:04:49 -0700"
-        },
-        {
-          "title": "The Singularity is Near: When Humans Transcend Biology",
-          "author": "Ray Kurzweil",
-          "link": "https://www.goodreads.com/review/show/6560409677?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348757857l/83518._SX50_.jpg",
-          "summary": "author: Ray Kurzweil name: Felipe Alfonso average rating: 3.92 book published: 2005 rating: 0 read at: date added: 2025/08/05 shelves: currently-reading review:",
-          "guid": "https://www.goodreads.com/review/show/6560409677?utm_medium=api&utm_source=rss",
-          "pub_date": "Tue, 05 Aug 2025 03:00:25 -0700"
         }
       ]
     },
@@ -251,6 +251,33 @@
       "limit": 75,
       "item_count": 75,
       "books": [
+        {
+          "title": "Critique of Pure Reason",
+          "author": "Immanuel Kant",
+          "link": "https://www.goodreads.com/review/show/8008504265?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757108780l/18288._SY75_.jpg",
+          "summary": "author: Immanuel Kant name: Felipe Alfonso average rating: 3.95 book published: 1781 rating: 5 read at: 2026/05/27 date added: 2026/05/27 shelves: philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008504265?utm_medium=api&utm_source=rss",
+          "pub_date": "Wed, 27 May 2026 07:38:21 -0700"
+        },
+        {
+          "title": "El ser y el tiempo",
+          "author": "Martin Heidegger",
+          "link": "https://www.goodreads.com/review/show/8635888754?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494538128l/633610._SY75_.jpg",
+          "summary": "author: Martin Heidegger name: Felipe Alfonso average rating: 4.27 book published: 1927 rating: 5 read at: 2026/05/27 date added: 2026/05/27 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8635888754?utm_medium=api&utm_source=rss",
+          "pub_date": "Wed, 27 May 2026 07:37:52 -0700"
+        },
+        {
+          "title": "El mito de Sísifo",
+          "author": "Albert Camus",
+          "link": "https://www.goodreads.com/review/show/8635887592?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648644264l/2704427._SY75_.jpg",
+          "summary": "author: Albert Camus name: Felipe Alfonso average rating: 4.11 book published: 1942 rating: 5 read at: 2026/05/27 date added: 2026/05/27 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8635887592?utm_medium=api&utm_source=rss",
+          "pub_date": "Wed, 27 May 2026 07:37:19 -0700"
+        },
         {
           "title": "A New Earth: Awakening to Your Life's Purpose",
           "author": "Eckhart Tolle",
@@ -639,15 +666,6 @@
           "pub_date": "Mon, 20 Oct 2025 19:43:44 -0700"
         },
         {
-          "title": "Critique of Pure Reason",
-          "author": "Immanuel Kant",
-          "link": "https://www.goodreads.com/review/show/8008504265?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757108780l/18288._SY75_.jpg",
-          "summary": "author: Immanuel Kant name: Felipe Alfonso average rating: 3.95 book published: 1781 rating: 0 read at: date added: 2025/10/20 shelves: philosophy review:",
-          "guid": "https://www.goodreads.com/review/show/8008504265?utm_medium=api&utm_source=rss",
-          "pub_date": "Mon, 20 Oct 2025 19:42:31 -0700"
-        },
-        {
           "title": "Becoming",
           "author": "Michelle Obama",
           "link": "https://www.goodreads.com/review/show/8008502829?utm_medium=api&utm_source=rss",
@@ -907,24 +925,6 @@
           "summary": "author: Sun Tzu name: Felipe Alfonso average rating: 3.97 book published: -500 rating: 5 read at: date added: 2025/10/20 shelves: philosophy review:",
           "guid": "https://www.goodreads.com/review/show/2643858005?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:21:55 -0700"
-        },
-        {
-          "title": "The Power of Now: A Guide to Spiritual Enlightenment",
-          "author": "Eckhart Tolle",
-          "link": "https://www.goodreads.com/review/show/2643853524?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689947880l/6708._SY75_.jpg",
-          "summary": "author: Eckhart Tolle name: Felipe Alfonso average rating: 4.16 book published: 1997 rating: 5 read at: 2018/01/01 date added: 2025/10/20 shelves: philosophy, buddhism, psychology review:",
-          "guid": "https://www.goodreads.com/review/show/2643853524?utm_medium=api&utm_source=rss",
-          "pub_date": "Mon, 20 Oct 2025 19:20:31 -0700"
-        },
-        {
-          "title": "Human, All-Too-Human by Friedrich Nietzsche",
-          "author": "Friedrich Nietzsche",
-          "link": "https://www.goodreads.com/review/show/8008446066?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406841716l/22847327._SY75_.jpg",
-          "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 4.00 book published: 1878 rating: 0 read at: date added: 2025/10/20 shelves: philosophy review:",
-          "guid": "https://www.goodreads.com/review/show/8008446066?utm_medium=api&utm_source=rss",
-          "pub_date": "Mon, 20 Oct 2025 19:19:05 -0700"
         }
       ]
     }
