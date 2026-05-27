@@ -1473,9 +1473,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:32:12
-Telemetry age             : 00:32:12
-Δ time (since last report): 00:00:45
+Time since last play      : 00:32:46
+Telemetry age             : 00:32:46
+Δ time (since last report): 00:00:34
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1494,7 +1494,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-20 16:34:49Z → 2026-05-27 16:34:49Z
+Week window (UTC)         : 2026-05-20 16:35:23Z → 2026-05-27 16:35:23Z
 Total tracks played       : 1
 Dominant artist           : millhope
 Cadence classification    : LOW
@@ -1520,7 +1520,7 @@ Top genres (24h)          : chillwave(1) | nu jazz(1)
 Top genres (7d)           : chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-27 16:34:49Z
+Report generated (UTC)    : 2026-05-27 16:35:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
