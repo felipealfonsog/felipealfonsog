@@ -1465,17 +1465,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : millhope — Illusion
-Last played (UTC)         : 2026-05-27 16:02:37Z
+Last played               : _BY.ALEXANDER, 070 Shake — TRUMPETS
+Last played (UTC)         : 2026-05-27 16:10:03Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : millhope — Illusion → _BY.ALEXANDER, 070 Shake — TRUMPETS
+Δ last played (since last): 2026-05-27 16:02:37Z → 2026-05-27 16:10:03Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:32:46
-Telemetry age             : 00:32:46
-Δ time (since last report): 00:00:34
+Time since last play      : 02:58:03
+Telemetry age             : 02:58:03
+Δ time (since last report): 02:32:43
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1487,16 +1487,16 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : millhope
+Tracks played (last 24h)  : 2
+Dominant artist           : _BY.ALEXANDER
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-20 16:35:23Z → 2026-05-27 16:35:23Z
-Total tracks played       : 1
-Dominant artist           : millhope
+Week window (UTC)         : 2026-05-20 19:08:05Z → 2026-05-27 19:08:05Z
+Total tracks played       : 2
+Dominant artist           : _BY.ALEXANDER
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1512,7 +1512,7 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 1
-Avg inter-play gap (7d)   : N/A
+Avg inter-play gap (7d)   : 00:07:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1520,7 +1520,7 @@ Top genres (24h)          : chillwave(1) | nu jazz(1)
 Top genres (7d)           : chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-27 16:35:23Z
+Report generated (UTC)    : 2026-05-27 19:08:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
