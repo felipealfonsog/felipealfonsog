@@ -1469,13 +1469,13 @@ Last played               : millhope — Illusion
 Last played (UTC)         : 2026-05-27 16:02:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : - → millhope — Illusion
-Δ last played (since last): N/A (first report)
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:31:27
-Telemetry age             : 00:31:27
-Δ time (since last report): 05:52:15
+Time since last play      : 00:32:12
+Telemetry age             : 00:32:12
+Δ time (since last report): 00:00:45
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1494,7 +1494,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-20 16:34:04Z → 2026-05-27 16:34:04Z
+Week window (UTC)         : 2026-05-20 16:34:49Z → 2026-05-27 16:34:49Z
 Total tracks played       : 1
 Dominant artist           : millhope
 Cadence classification    : LOW
@@ -1518,9 +1518,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : chillwave(1) | nu jazz(1)
 Top genres (7d)           : chillwave(1) | nu jazz(1)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-27 16:34:04Z
+Report generated (UTC)    : 2026-05-27 16:34:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
