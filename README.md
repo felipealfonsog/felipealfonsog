@@ -1469,13 +1469,13 @@ Last played               : -
 Last played (UTC)         : N/A
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Ricochet → -
-Δ last played (since last): 2026-05-20 07:35:52Z → 
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): N/A (first report)
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
 Time since last play      : N/A
 Telemetry age             : N/A
-Δ time (since last report): 02:55:02
+Δ time (since last report): 00:00:24
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1494,7 +1494,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-20 07:47:31Z → 2026-05-27 07:47:31Z
+Week window (UTC)         : 2026-05-20 07:47:55Z → 2026-05-27 07:47:55Z
 Total tracks played       : 0
 Dominant artist           : N/A
 Cadence classification    : NONE
@@ -1520,7 +1520,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : N/A
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-27 07:47:31Z
+Report generated (UTC)    : 2026-05-27 07:47:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
