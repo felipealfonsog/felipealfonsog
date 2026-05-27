@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-05-27 10:41:49Z",
+  "report_generated_utc": "2026-05-27 16:34:04Z",
   "status": "IDLE",
-  "last_track": "-",
-  "last_played_utc": "",
+  "last_track": "millhope — Illusion",
+  "last_played_utc": "2026-05-27 16:02:37Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -862,6 +862,10 @@
     "6pDRa5fS3myWSP0fpIUcNl": [
       "post-grunge",
       "alternative metal"
+    ],
+    "0YWFcW7XM2dCMNDcRM2yzK": [
+      "nu jazz",
+      "chillwave"
     ]
   }
 }

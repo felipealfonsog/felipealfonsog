@@ -1465,62 +1465,62 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : -
-Last played (UTC)         : N/A
+Last played               : millhope — Illusion
+Last played (UTC)         : 2026-05-27 16:02:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
+Δ track (since last)      : - → millhope — Illusion
 Δ last played (since last): N/A (first report)
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : N/A
-Telemetry age             : N/A
-Δ time (since last report): 00:00:28
+Time since last play      : 00:31:27
+Telemetry age             : 00:31:27
+Δ time (since last report): 05:52:15
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
 Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
-Data integrity            : DEGRADED
-Confidence level          : MEDIUM
+Data integrity            : OK
+Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : millhope
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-20 10:41:49Z → 2026-05-27 10:41:49Z
-Total tracks played       : 0
-Dominant artist           : N/A
-Cadence classification    : NONE
+Week window (UTC)         : 2026-05-20 16:34:04Z → 2026-05-27 16:34:04Z
+Total tracks played       : 1
+Dominant artist           : millhope
+Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : N/A
-Heatmap (24h)             : N/A
-Heatmap (7d)              : N/A
+Peak hour (24h)           : 12:00
+Peak hour (7d)            : 12:00
+Heatmap (24h)             :             █           
+Heatmap (7d)              :             █           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : N/A
+Sessions (24h)            : 1
+Sessions (7d)             : 1
 Avg inter-play gap (7d)   : N/A
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : N/A
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : chillwave(1) | nu jazz(1)
+Top genres (7d)           : chillwave(1) | nu jazz(1)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-27 10:41:49Z
+Report generated (UTC)    : 2026-05-27 16:34:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
