@@ -1465,25 +1465,25 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Faith No More — Ricochet
-Last played (UTC)         : 2026-05-20 07:35:52Z
+Last played               : -
+Last played (UTC)         : N/A
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Ricochet → -
+Δ last played (since last): 2026-05-20 07:35:52Z → 
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 165:16:37
-Telemetry age             : 165:16:37
-Δ time (since last report): 00:00:18
+Time since last play      : N/A
+Telemetry age             : N/A
+Δ time (since last report): 02:55:02
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
 Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
-Data integrity            : OK
-Confidence level          : HIGH
+Data integrity            : DEGRADED
+Confidence level          : MEDIUM
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
@@ -1494,33 +1494,33 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-20 04:52:29Z → 2026-05-27 04:52:29Z
-Total tracks played       : 10
-Dominant artist           : Faith No More
-Cadence classification    : LOW
+Week window (UTC)         : 2026-05-20 07:47:31Z → 2026-05-27 07:47:31Z
+Total tracks played       : 0
+Dominant artist           : N/A
+Cadence classification    : NONE
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
-Peak hour (7d)            : 02:00
+Peak hour (7d)            : N/A
 Heatmap (24h)             : N/A
-Heatmap (7d)              :   █▃                    
+Heatmap (7d)              : N/A
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:07:00
+Sessions (7d)             : N/A
+Avg inter-play gap (7d)   : N/A
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(10) | funk rock(10) | grunge(10) | rap metal(10)
+Top genres (7d)           : N/A
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-27 04:52:29Z
+Report generated (UTC)    : 2026-05-27 07:47:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
