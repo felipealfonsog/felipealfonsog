@@ -1473,9 +1473,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:51:48
-Telemetry age             : 05:51:48
-Δ time (since last report): 02:52:44
+Time since last play      : 05:53:14
+Telemetry age             : 05:53:14
+Δ time (since last report): 00:01:27
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1494,7 +1494,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-20 22:01:50Z → 2026-05-27 22:01:50Z
+Week window (UTC)         : 2026-05-20 22:03:17Z → 2026-05-27 22:03:17Z
 Total tracks played       : 2
 Dominant artist           : _BY.ALEXANDER
 Cadence classification    : LOW
@@ -1520,7 +1520,7 @@ Top genres (24h)          : chillwave(1) | nu jazz(1)
 Top genres (7d)           : chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-27 22:01:50Z
+Report generated (UTC)    : 2026-05-27 22:03:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
