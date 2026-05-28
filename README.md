@@ -507,7 +507,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-28T05:12:59+00:00 | last_update=2026-05-28T05:12:59+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-28T05:18:27+00:00 | last_update=2026-05-28T05:18:27+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=50 limit=50
 01. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
@@ -561,7 +561,7 @@ ICONOS INICIALES INLINE SVG1
 49. Oxford Spanish - English Dictionary — Oxford Dictionaries
 50. How to Slowly Kill Yourself and Others in America — Kiese Laymon
 
-[recent_read] shelf=read books=100 limit=120
+[recent_read] shelf=read books=100 limit=100
 01. Critique of Pure Reason — Immanuel Kant
 02. El ser y el tiempo — Martin Heidegger
 03. El mito de Sísifo — Albert Camus
