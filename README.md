@@ -1519,13 +1519,13 @@ Last played               : Faith No More — King for a Day
 Last played (UTC)         : 2026-05-28 02:58:10Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Take This Bottle → Faith No More — King for a Day
-Δ last played (since last): 2026-05-28 02:48:07Z → 2026-05-28 02:58:10Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 07:42:54
-Telemetry age             : 07:42:54
-Δ time (since last report): 02:58:29
+Time since last play      : 07:43:13
+Telemetry age             : 07:43:13
+Δ time (since last report): 00:00:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1544,7 +1544,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-21 10:41:04Z → 2026-05-28 10:41:04Z
+Week window (UTC)         : 2026-05-21 10:41:23Z → 2026-05-28 10:41:23Z
 Total tracks played       : 9
 Dominant artist           : Faith No More
 Cadence classification    : LOW
@@ -1570,7 +1570,7 @@ Top genres (24h)          : alternative metal(7) | funk rock(7) | grunge(7) | ra
 Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-28 10:41:04Z
+Report generated (UTC)    : 2026-05-28 10:41:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
