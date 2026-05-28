@@ -507,9 +507,9 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-28T04:34:43+00:00 | last_update=2026-05-28T04:34:43+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-28T05:10:39+00:00 | last_update=2026-05-28T05:10:39+00:00 | source=goodreads_rss
 
-[currently_reading] shelf=currently-reading books=25 limit=25
+[currently_reading] shelf=currently-reading books=50 limit=50
 01. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
 02. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
 03. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -535,6 +535,31 @@ ICONOS INICIALES INLINE SVG1
 23. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
 24. Zen en el arte de escribir — Ray Bradbury
 25. Gray Target: A Luke Ryder Novel (Luke Ryder Series Book 3) — J. Benedict
+26. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
+27. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
+28. Psychological Warfare: The Ultimate Guide to Understanding Human Behavior, Brainwashing, Propaganda, Deception, Negotiation, Dark Psychology, and Manipulation (Understanding Manipulation) — Neil Morton
+29. Quiet: The Power of Introverts in a World That Can't Stop Talking — Susan Cain
+30. The meaning of masonry — W.L. Wilmshurst
+31. Brave New World / 1984 / The Time Machine — George Orwell
+32. Speed Listening: the art of listening...faster — Dorian Hackett
+33. Story: ...and how to write one — Adam J Pestridge
+34. Down To The Needle — Mary Deal
+35. Human, All Too Human — Friedrich Nietzsche
+36. Las Meditaciones de Marco Aurelio: Filosofía Romana (Spanish Edition) — Marcus Aurelius
+37. The Art of Going SLOW: How to Simplify Your Life, Calm Your Mind, and Focus on What Truly Matters to You! (The Art Of Living Well Book 4) — Damon Zahariades
+38. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+39. An Impossible Life: A True Story of Hope and Mental Illness (The Impossible Series Book 1) — Rachael Siddoway
+40. 3x Speed Reading. Quick Reading, Memory and Memorizing Techniques, Learning to Triple Your Speed. — Giacomo Bruno
+41. Surrounded by Narcissists: How to Effectively Recognize, Avoid, and Defend Yourself Against Toxic People (and Not Lose Your Mind) — Thomas Erikson
+42. The Age of Spiritual Machines — Ray Kurzweil
+43. Surrounded by Idiots — Thomas Erikson
+44. The Lost Keys of Freemasonry — Manly P. Hall
+45. The Meaning of Masonry — W.L. Wilmshurst
+46. Confession of a Buddhist Atheist — Stephen Batchelor
+47. Invent and Wander: The Collected Writings of Jeff Bezos — Jeff Bezos
+48. BIPOLARIDAD COMO DON:Cómo transformar la inestabilidad emocional en una bendición (Spanish Edition) — Eduardo H. Grecco
+49. Oxford Spanish - English Dictionary — Oxford Dictionaries
+50. How to Slowly Kill Yourself and Others in America — Kiese Laymon
 
 [recent_read] shelf=read books=75 limit=75
 01. Critique of Pure Reason — Immanuel Kant
