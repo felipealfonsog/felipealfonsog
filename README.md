@@ -1469,13 +1469,13 @@ Last played               : Faith No More — Take This Bottle
 Last played (UTC)         : 2026-05-28 02:48:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : _BY.ALEXANDER, 070 Shake — TRUMPETS → Faith No More — Take This Bottle
-Δ last played (since last): 2026-05-27 16:10:03Z → 2026-05-28 02:48:07Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:00:25
-Telemetry age             : 02:00:25
-Δ time (since last report): 03:33:12
+Time since last play      : 02:01:00
+Telemetry age             : 02:01:00
+Δ time (since last report): 00:00:35
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1494,7 +1494,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-21 04:48:32Z → 2026-05-28 04:48:32Z
+Week window (UTC)         : 2026-05-21 04:49:07Z → 2026-05-28 04:49:07Z
 Total tracks played       : 8
 Dominant artist           : Faith No More
 Cadence classification    : LOW
@@ -1520,7 +1520,7 @@ Top genres (24h)          : alternative metal(6) | funk rock(6) | grunge(6) | ra
 Top genres (7d)           : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-28 04:48:32Z
+Report generated (UTC)    : 2026-05-28 04:49:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
