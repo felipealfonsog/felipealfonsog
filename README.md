@@ -1465,17 +1465,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : _BY.ALEXANDER, 070 Shake — TRUMPETS
-Last played (UTC)         : 2026-05-27 16:10:03Z
+Last played               : Faith No More — Take This Bottle
+Last played (UTC)         : 2026-05-28 02:48:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : _BY.ALEXANDER, 070 Shake — TRUMPETS → Faith No More — Take This Bottle
+Δ last played (since last): 2026-05-27 16:10:03Z → 2026-05-28 02:48:07Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:05:17
-Telemetry age             : 09:05:17
-Δ time (since last report): 00:00:17
+Time since last play      : 02:00:25
+Telemetry age             : 02:00:25
+Δ time (since last report): 03:33:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1487,40 +1487,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : _BY.ALEXANDER
+Tracks played (last 24h)  : 8
+Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-21 01:15:20Z → 2026-05-28 01:15:20Z
-Total tracks played       : 2
-Dominant artist           : _BY.ALEXANDER
+Week window (UTC)         : 2026-05-21 04:48:32Z → 2026-05-28 04:48:32Z
+Total tracks played       : 8
+Dominant artist           : Faith No More
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
-Peak hour (7d)            : 12:00
-Heatmap (24h)             :             █           
-Heatmap (7d)              :             █           
+Peak hour (24h)           : 22:00
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :             ▃         █ 
+Heatmap (7d)              :             ▃         █ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:07:25
+Sessions (24h)            : 2
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 01:32:13
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : chillwave(1) | nu jazz(1)
-Top genres (7d)           : chillwave(1) | nu jazz(1)
+Top genres (24h)          : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6) | chillwave(1) | nu jazz(1)
+Top genres (7d)           : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-28 01:15:20Z
+Report generated (UTC)    : 2026-05-28 04:48:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
