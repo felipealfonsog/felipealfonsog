@@ -507,7 +507,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-28T05:10:39+00:00 | last_update=2026-05-28T05:10:39+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-28T05:12:59+00:00 | last_update=2026-05-28T05:12:59+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=50 limit=50
 01. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
@@ -561,7 +561,7 @@ ICONOS INICIALES INLINE SVG1
 49. Oxford Spanish - English Dictionary — Oxford Dictionaries
 50. How to Slowly Kill Yourself and Others in America — Kiese Laymon
 
-[recent_read] shelf=read books=75 limit=75
+[recent_read] shelf=read books=100 limit=120
 01. Critique of Pure Reason — Immanuel Kant
 02. El ser y el tiempo — Martin Heidegger
 03. El mito de Sísifo — Albert Camus
@@ -637,6 +637,31 @@ ICONOS INICIALES INLINE SVG1
 73. The Republic — Plato
 74. Meditations on First Philosophy: Rene Descartes — René Descartes
 75. The Art of War — Sun Tzu
+76. The Power of Now: A Guide to Spiritual Enlightenment — Eckhart Tolle
+77. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
+78. Las meditaciones de Marco Aurelio — Marcus Aurelius
+79. The Lost Keys of Freemasonry (Also Includes: Freemasonry of the Ancient Egyptians / Masonic Orders of Fraternity) — Manly P. Hall
+80. The Meaning Of Masonry by W. L. Wilmshurst (2007-03-07) — W.L. Wilmhurst
+81. The Structure of Scientific Revolutions — Thomas S. Kuhn
+82. Brave New World and Brave New World Revisited — Aldous Huxley
+83. The War of Art — Steven Pressfield
+84. The Woman in the Window — A.J. Finn
+85. In My Father's Den — Maurice Gee
+86. El libro de Steve Jobs (Spanish Edition) — Brent Schlender
+87. What the Buddha Taught — Walpola Rahula
+88. What the Buddha Never Taught: A 'Behind the Robes" Account of Life in a Thai Forest Monastery — Tim Ward
+89. Being Digital — Nicholas Negroponte
+90. Ikigai esencial: La sabiduría milenaria japonesa que dará sentido a cada día de tu vida — Ken Mogi
+91. Dare: The New Way to End Anxiety and Stop Panic Attacks Fast — Barry McDonagh
+92. El fantasista — Hernán Rivera Letelier
+93. PHP for the World Wide Web (Visual QuickStart Guide) — Larry Ullman
+94. El libro de Steve Jobs — Brent Schlender
+95. American Desperado: My Life--From Mafia Soldier to Cocaine Cowboy to Secret Government Asset — Jon Roberts
+96. Writing Fiction: The Practical Guide from New York's Acclaimed Creative Writing School — Alexander Steele
+97. The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact — Edmond Lau
+98. Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python — Peter Bruce
+99. Superintelligence: Paths, Dangers, Strategies — Nick Bostrom
+100. Así Habló Zaratustra: obra filosófica alemana clásica (Spanish Edition) — Friedrich Nietzsche
 
 ```
 <!-- GOODREADS:CLI_END -->
