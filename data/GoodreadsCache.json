@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-28T01:07:51+00:00",
-    "last_successful_sync": "2026-05-28T01:07:51+00:00",
+    "last_attempted_sync": "2026-05-28T04:34:43+00:00",
+    "last_successful_sync": "2026-05-28T04:34:43+00:00",
     "error_message": ""
   },
   "sections": {
@@ -84,7 +84,7 @@
           "author": "Rizwan Virk",
           "link": "https://www.goodreads.com/review/show/8455648321?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619978145l/57920800._SX50_.jpg",
-          "summary": "author: Rizwan Virk name: Felipe Alfonso average rating: 3.98 book published: rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
+          "summary": "author: Rizwan Virk name: Felipe Alfonso average rating: 3.93 book published: rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8455648321?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 21 Mar 2026 08:20:21 -0700"
         },
