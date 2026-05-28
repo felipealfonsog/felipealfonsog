@@ -1515,17 +1515,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Faith No More — Take This Bottle
-Last played (UTC)         : 2026-05-28 02:48:07Z
+Last played               : Faith No More — King for a Day
+Last played (UTC)         : 2026-05-28 02:58:10Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Take This Bottle → Faith No More — King for a Day
+Δ last played (since last): 2026-05-28 02:48:07Z → 2026-05-28 02:58:10Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:54:28
-Telemetry age             : 04:54:28
-Δ time (since last report): 00:00:23
+Time since last play      : 07:42:54
+Telemetry age             : 07:42:54
+Δ time (since last report): 02:58:29
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1537,15 +1537,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
+Tracks played (last 24h)  : 9
 Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-21 07:42:35Z → 2026-05-28 07:42:35Z
-Total tracks played       : 8
+Week window (UTC)         : 2026-05-21 10:41:04Z → 2026-05-28 10:41:04Z
+Total tracks played       : 9
 Dominant artist           : Faith No More
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1554,23 +1554,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :             ▃         █ 
-Heatmap (7d)              :             ▃         █ 
+Heatmap (24h)             :             ▂         █ 
+Heatmap (7d)              :             ▂         █ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 01:32:13
+Avg inter-play gap (7d)   : 01:21:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6) | chillwave(1) | nu jazz(1)
-Top genres (7d)           : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6) | chillwave(1) | nu jazz(1)
+Top genres (24h)          : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
+Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-28 07:42:35Z
+Report generated (UTC)    : 2026-05-28 10:41:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
