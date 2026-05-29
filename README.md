@@ -507,7 +507,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-29T07:37:04+00:00 | last_update=2026-05-29T07:37:04+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-29T10:26:56+00:00 | last_update=2026-05-29T10:26:56+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=50 limit=50
 01. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
