@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-05-28_0720Z
+ snapshot_utc : 2026-05-29_0720Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -514,7 +514,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-28T05:18:27+00:00 | last_update=2026-05-28T05:18:27+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-29T01:17:14+00:00 | last_update=2026-05-29T01:17:14+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=50 limit=50
 01. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
@@ -722,13 +722,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 201 ms
-TTFB................ 200 ms
+LATENCY............. 242 ms
+TTFB................ 241 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 38d
+TLS_EXPIRY.......... 37d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -741,9 +741,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PARTIAL
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -757,7 +757,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-28T01:05:00Z
+LAST_PROBE_UTC...... 2026-05-29T04:36:03Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -797,19 +797,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443976
-longitude      : -70.651075
-altitude       : 50 m
-gps_accuracy   : ±8.5 m
-heading        : 348°
-speed          : 0.5 km/h
-status         : stationary
+location       : pedestrian_axis
+latitude       : -33.438102
+longitude      : -70.646751
+altitude       : 102 m
+gps_accuracy   : ±6.7 m
+heading        : 0°
+speed          : 0.0 km/h
+status         : low_movement
 phase          : overnight
 local_time     : 03:10
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-05-28 07:10:09 UTC
+updated_utc    : 2026-05-29 07:10:40 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -928,7 +928,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-28 01:15:34Z
+DSN snapshot (UTC)       : 2026-05-29 01:22:52Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -939,15 +939,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.875 AU
-Heliocentric distance    : 170.689 AU
-Relative speed           : 30.545 km/s
+Earth distance           : 25.41e9 km | 169.882 AU
+Heliocentric distance    : 170.699 AU
+Relative speed           : 30.757 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:49
-Round-trip latency       : 47:05:37
+One-way light time       : 23:32:52
+Round-trip latency       : 47:05:44
 ------------------------------------------------------------
-Δ distance (since last)  : +269,296 km
-Mission age              : 48 years, 277 days
+Δ distance (since last)  : +151,522 km
+Mission age              : 48 years, 278 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -958,19 +958,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.426 AU
-Heliocentric distance    : 142.991 AU
-Relative speed           : 25.421 km/s
+Earth distance           : 21.31e9 km | 142.425 AU
+Heliocentric distance    : 143.000 AU
+Relative speed           : 25.550 km/s
 ------------------------------------------------------------
 One-way light time       : 19:44:31
 Round-trip latency       : 39:29:02
 ------------------------------------------------------------
-Δ distance (since last)  : -28,130 km
-Mission age              : 48 years, 293 days
+Δ distance (since last)  : -11,727 km
+Mission age              : 48 years, 294 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-28 01:15:39Z
+Report generated (UTC)   : 2026-05-29 01:22:54Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1510,74 +1510,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Faith No More — Take This Bottle
-Last played (UTC)         : 2026-05-28 02:48:07Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : errorz0ne — Detached
+Last played               : Faith No More — King for a Day
+Last played (UTC)         : 2026-05-28 02:58:10Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 02:02:16
-Telemetry age             : 02:02:16
-Δ time (since last report): 00:01:04
+Time since last play      : 27:41:07
+Telemetry age             : 27:41:07
+Δ time (since last report): 01:47:38
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 8
-Dominant artist           : Faith No More
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-21 04:50:23Z → 2026-05-28 04:50:23Z
-Total tracks played       : 8
+Week window (UTC)         : 2026-05-22 06:39:16Z → 2026-05-29 06:39:16Z
+Total tracks played       : 9
 Dominant artist           : Faith No More
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 22:00
-Heatmap (24h)             :             ▃         █ 
-Heatmap (7d)              :             ▃         █ 
+Heatmap (24h)             : N/A
+Heatmap (7d)              :             ▂         █ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 01:32:13
+Avg inter-play gap (7d)   : 01:21:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6) | chillwave(1) | nu jazz(1)
-Top genres (7d)           : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6) | chillwave(1) | nu jazz(1)
+Top genres (24h)          : N/A
+Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-28 04:50:23Z
+Report generated (UTC)    : 2026-05-29 06:39:16Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1935,7 +1936,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 27 May 2026
+From: 04 December 2023 - To: 28 May 2026
 
 Total Time       : 1,028 hrs 27 mins
 Mostly coding in : Other
@@ -1946,7 +1947,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          554 hrs 53 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  53.95 %
+Other          555 hrs 4 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  53.97 %
 Bash           174 hrs 15 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.94 %
 Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.53 %
 HTML           135 hrs 48 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.21 %
@@ -1959,15 +1960,15 @@ YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            881 hrs 20 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  85.70 %
+Mac            881 hrs 31 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  85.71 %
 Linux          702 hrs        ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.26 %
 
 EDITORS
 -------
 VS Code        657 hrs 20 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.92 %
-Firefox        451 hrs 1 min  ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.85 %
+Firefox        451 hrs 2 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.86 %
 Vim            334 hrs 16 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.50 %
-Terminal       30 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.92 %
+Terminal       30 hrs 14 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.94 %
 Spotify        21 hrs 6 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.05 %
 Acrobat        13 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.34 %
 ‎WhatsApp      13 hrs 24 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
@@ -1979,15 +1980,15 @@ FileZilla      5 hrs 51 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,110 hrs 5 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       447 hrs 36 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.52 %
+Coding         1,110 hrs 15 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       447 hrs 37 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.52 %
 Meeting        22 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/05/2026 05:34:29 UTC
+Last updated     : 29/05/2026 05:37:05 UTC
 
 ```
 <!--END_SECTION:wakastats-->
