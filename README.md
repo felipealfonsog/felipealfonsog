@@ -1519,13 +1519,13 @@ Last played               : errorz0ne — Endless Cycle
 Last played (UTC)         : 2026-05-29 06:39:33Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — King for a Day → errorz0ne — Endless Cycle
-Δ last played (since last): 2026-05-28 02:58:10Z → 2026-05-29 06:39:33Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:01:01
-Telemetry age             : 01:01:01
-Δ time (since last report): 01:01:18
+Time since last play      : 01:01:45
+Telemetry age             : 01:01:45
+Δ time (since last report): 00:00:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1544,7 +1544,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-22 07:40:34Z → 2026-05-29 07:40:34Z
+Week window (UTC)         : 2026-05-22 07:41:17Z → 2026-05-29 07:41:17Z
 Total tracks played       : 11
 Dominant artist           : Faith No More
 Cadence classification    : LOW
@@ -1570,7 +1570,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-29 07:40:34Z
+Report generated (UTC)    : 2026-05-29 07:41:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
