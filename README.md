@@ -1503,67 +1503,66 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : errorz0ne — Detached
-Last played               : Faith No More — King for a Day
-Last played (UTC)         : 2026-05-28 02:58:10Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : errorz0ne — Endless Cycle
+Last played (UTC)         : 2026-05-29 06:39:33Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Faith No More — King for a Day → errorz0ne — Endless Cycle
+Δ last played (since last): 2026-05-28 02:58:10Z → 2026-05-29 06:39:33Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 27:41:07
-Telemetry age             : 27:41:07
-Δ time (since last report): 01:47:38
+Time since last play      : 01:01:01
+Telemetry age             : 01:01:01
+Δ time (since last report): 01:01:18
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 2
+Dominant artist           : errorz0ne
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-22 06:39:16Z → 2026-05-29 06:39:16Z
-Total tracks played       : 9
+Week window (UTC)         : 2026-05-22 07:40:34Z → 2026-05-29 07:40:34Z
+Total tracks played       : 11
 Dominant artist           : Faith No More
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 02:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :             ▂         █ 
+Heatmap (24h)             :   █                     
+Heatmap (7d)              :   ▂         ▂         █ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 01:21:57
+Sessions (24h)            : 1
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 03:51:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1571,7 +1570,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-29 06:39:16Z
+Report generated (UTC)    : 2026-05-29 07:40:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
