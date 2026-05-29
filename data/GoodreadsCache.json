@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-29T01:17:14+00:00",
-    "last_successful_sync": "2026-05-29T01:17:14+00:00",
+    "last_attempted_sync": "2026-05-29T07:37:04+00:00",
+    "last_successful_sync": "2026-05-29T07:37:04+00:00",
     "error_message": ""
   },
   "sections": {
@@ -1183,7 +1183,7 @@
           "author": "Manly P. Hall",
           "link": "https://www.goodreads.com/review/show/8008441390?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408313053l/412956._SY75_.jpg",
-          "summary": "author: Manly P. Hall name: Felipe Alfonso average rating: 4.16 book published: rating: 0 read at: date added: 2025/10/20 shelves: freemasonry review:",
+          "summary": "author: Manly P. Hall name: Felipe Alfonso average rating: 4.17 book published: rating: 0 read at: date added: 2025/10/20 shelves: freemasonry review:",
           "guid": "https://www.goodreads.com/review/show/8008441390?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:17:13 -0700"
         },
