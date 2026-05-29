@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-05-28_0038Z
+ snapshot_utc : 2026-05-29_0044Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -514,9 +514,9 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-05-27T21:40:37+00:00 | last_update=2026-05-27T21:40:37+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-05-28T21:45:32+00:00 | last_update=2026-05-28T21:45:32+00:00 | source=goodreads_rss
 
-[currently_reading] shelf=currently-reading books=25 limit=25
+[currently_reading] shelf=currently-reading books=50 limit=50
 01. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
 02. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
 03. An Introduction to Zen Buddhism — D.T. Suzuki
@@ -542,8 +542,33 @@ ICONOS INICIALES INLINE SVG1
 23. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
 24. Zen en el arte de escribir — Ray Bradbury
 25. Gray Target: A Luke Ryder Novel (Luke Ryder Series Book 3) — J. Benedict
+26. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
+27. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
+28. Psychological Warfare: The Ultimate Guide to Understanding Human Behavior, Brainwashing, Propaganda, Deception, Negotiation, Dark Psychology, and Manipulation (Understanding Manipulation) — Neil Morton
+29. Quiet: The Power of Introverts in a World That Can't Stop Talking — Susan Cain
+30. The meaning of masonry — W.L. Wilmshurst
+31. Brave New World / 1984 / The Time Machine — George Orwell
+32. Speed Listening: the art of listening...faster — Dorian Hackett
+33. Story: ...and how to write one — Adam J Pestridge
+34. Down To The Needle — Mary Deal
+35. Human, All Too Human — Friedrich Nietzsche
+36. Las Meditaciones de Marco Aurelio: Filosofía Romana (Spanish Edition) — Marcus Aurelius
+37. The Art of Going SLOW: How to Simplify Your Life, Calm Your Mind, and Focus on What Truly Matters to You! (The Art Of Living Well Book 4) — Damon Zahariades
+38. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+39. An Impossible Life: A True Story of Hope and Mental Illness (The Impossible Series Book 1) — Rachael Siddoway
+40. 3x Speed Reading. Quick Reading, Memory and Memorizing Techniques, Learning to Triple Your Speed. — Giacomo Bruno
+41. Surrounded by Narcissists: How to Effectively Recognize, Avoid, and Defend Yourself Against Toxic People (and Not Lose Your Mind) — Thomas Erikson
+42. The Age of Spiritual Machines — Ray Kurzweil
+43. Surrounded by Idiots — Thomas Erikson
+44. The Lost Keys of Freemasonry — Manly P. Hall
+45. The Meaning of Masonry — W.L. Wilmshurst
+46. Confession of a Buddhist Atheist — Stephen Batchelor
+47. Invent and Wander: The Collected Writings of Jeff Bezos — Jeff Bezos
+48. BIPOLARIDAD COMO DON:Cómo transformar la inestabilidad emocional en una bendición (Spanish Edition) — Eduardo H. Grecco
+49. Oxford Spanish - English Dictionary — Oxford Dictionaries
+50. How to Slowly Kill Yourself and Others in America — Kiese Laymon
 
-[recent_read] shelf=read books=75 limit=75
+[recent_read] shelf=read books=100 limit=100
 01. Critique of Pure Reason — Immanuel Kant
 02. El ser y el tiempo — Martin Heidegger
 03. El mito de Sísifo — Albert Camus
@@ -619,6 +644,31 @@ ICONOS INICIALES INLINE SVG1
 73. The Republic — Plato
 74. Meditations on First Philosophy: Rene Descartes — René Descartes
 75. The Art of War — Sun Tzu
+76. The Power of Now: A Guide to Spiritual Enlightenment — Eckhart Tolle
+77. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
+78. Las meditaciones de Marco Aurelio — Marcus Aurelius
+79. The Lost Keys of Freemasonry (Also Includes: Freemasonry of the Ancient Egyptians / Masonic Orders of Fraternity) — Manly P. Hall
+80. The Meaning Of Masonry by W. L. Wilmshurst (2007-03-07) — W.L. Wilmhurst
+81. The Structure of Scientific Revolutions — Thomas S. Kuhn
+82. Brave New World and Brave New World Revisited — Aldous Huxley
+83. The War of Art — Steven Pressfield
+84. The Woman in the Window — A.J. Finn
+85. In My Father's Den — Maurice Gee
+86. El libro de Steve Jobs (Spanish Edition) — Brent Schlender
+87. What the Buddha Taught — Walpola Rahula
+88. What the Buddha Never Taught: A 'Behind the Robes" Account of Life in a Thai Forest Monastery — Tim Ward
+89. Being Digital — Nicholas Negroponte
+90. Ikigai esencial: La sabiduría milenaria japonesa que dará sentido a cada día de tu vida — Ken Mogi
+91. Dare: The New Way to End Anxiety and Stop Panic Attacks Fast — Barry McDonagh
+92. El fantasista — Hernán Rivera Letelier
+93. PHP for the World Wide Web (Visual QuickStart Guide) — Larry Ullman
+94. El libro de Steve Jobs — Brent Schlender
+95. American Desperado: My Life--From Mafia Soldier to Cocaine Cowboy to Secret Government Asset — Jon Roberts
+96. Writing Fiction: The Practical Guide from New York's Acclaimed Creative Writing School — Alexander Steele
+97. The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact — Edmond Lau
+98. Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python — Peter Bruce
+99. Superintelligence: Paths, Dangers, Strategies — Nick Bostrom
+100. Así Habló Zaratustra: obra filosófica alemana clásica (Spanish Edition) — Friedrich Nietzsche
 
 ```
 <!-- GOODREADS:CLI_END -->
@@ -672,13 +722,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 153 ms
-TTFB................ 152 ms
+LATENCY............. 237 ms
+TTFB................ 236 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 39d
+TLS_EXPIRY.......... 38d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -707,7 +757,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 38 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-05-27T21:43:23Z
+LAST_PROBE_UTC...... 2026-05-28T19:03:48Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -748,18 +798,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.444709
-longitude      : -70.650967
-altitude       : 100 m
-gps_accuracy   : ±7.0 m
-heading        : 342°
-speed          : 3.1 km/h
-status         : in_transit
+latitude       : -33.444444
+longitude      : -70.650911
+altitude       : 70 m
+gps_accuracy   : ±4.7 m
+heading        : 6°
+speed          : 4.8 km/h
+status         : walking
 phase          : evening
-local_time     : 20:20
+local_time     : 20:23
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-05-28 00:20:16 UTC
+signal         : stable
+updated_utc    : 2026-05-29 00:23:41 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -878,7 +928,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-05-27 19:09:27Z
+DSN snapshot (UTC)       : 2026-05-28 22:03:07Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -889,15 +939,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.41e9 km | 169.873 AU
-Heliocentric distance    : 170.687 AU
-Relative speed           : 30.492 km/s
+Earth distance           : 25.41e9 km | 169.881 AU
+Heliocentric distance    : 170.698 AU
+Relative speed           : 30.728 km/s
 ------------------------------------------------------------
-One-way light time       : 23:32:48
-Round-trip latency       : 47:05:35
+One-way light time       : 23:32:52
+Round-trip latency       : 47:05:43
 ------------------------------------------------------------
-Δ distance (since last)  : +111,911 km
-Mission age              : 48 years, 276 days
+Δ distance (since last)  : +126,644 km
+Mission age              : 48 years, 277 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -908,19 +958,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.426 AU
-Heliocentric distance    : 142.989 AU
-Relative speed           : 25.389 km/s
+Earth distance           : 21.31e9 km | 142.425 AU
+Heliocentric distance    : 142.999 AU
+Relative speed           : 25.532 km/s
 ------------------------------------------------------------
 One-way light time       : 19:44:31
 Round-trip latency       : 39:29:02
 ------------------------------------------------------------
-Δ distance (since last)  : -12,220 km
-Mission age              : 48 years, 292 days
+Δ distance (since last)  : -10,202 km
+Mission age              : 48 years, 293 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-05-27 19:09:32Z
+Report generated (UTC)   : 2026-05-28 22:03:09Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1472,17 +1522,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : _BY.ALEXANDER, 070 Shake — TRUMPETS
-Last played (UTC)         : 2026-05-27 16:10:03Z
+Last played               : Faith No More — King for a Day
+Last played (UTC)         : 2026-05-28 02:58:10Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:53:51
-Telemetry age             : 05:53:51
-Δ time (since last report): 00:00:37
+Time since last play      : 19:04:18
+Telemetry age             : 19:04:18
+Δ time (since last report): 00:00:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1494,40 +1544,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : _BY.ALEXANDER
+Tracks played (last 24h)  : 7
+Dominant artist           : Faith No More
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-20 22:03:53Z → 2026-05-27 22:03:53Z
-Total tracks played       : 2
-Dominant artist           : _BY.ALEXANDER
+Week window (UTC)         : 2026-05-21 22:02:27Z → 2026-05-28 22:02:27Z
+Total tracks played       : 9
+Dominant artist           : Faith No More
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
-Peak hour (7d)            : 12:00
-Heatmap (24h)             :             █           
-Heatmap (7d)              :             █           
+Peak hour (24h)           : 22:00
+Peak hour (7d)            : 22:00
+Heatmap (24h)             :                       █ 
+Heatmap (7d)              :             ▂         █ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:07:25
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 01:21:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : chillwave(1) | nu jazz(1)
-Top genres (7d)           : chillwave(1) | nu jazz(1)
+Top genres (24h)          : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7)
+Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-27 22:03:53Z
+Report generated (UTC)    : 2026-05-28 22:02:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1885,7 +1935,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 27 May 2026
+From: 04 December 2023 - To: 28 May 2026
 
 Total Time       : 1,028 hrs 27 mins
 Mostly coding in : Other
@@ -1896,7 +1946,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          554 hrs 53 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  53.95 %
+Other          555 hrs 4 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  53.97 %
 Bash           174 hrs 15 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.94 %
 Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.53 %
 HTML           135 hrs 48 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.21 %
@@ -1909,15 +1959,15 @@ YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            881 hrs 20 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  85.70 %
+Mac            881 hrs 31 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  85.71 %
 Linux          702 hrs        ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.26 %
 
 EDITORS
 -------
 VS Code        657 hrs 20 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.92 %
-Firefox        451 hrs 1 min  ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.85 %
+Firefox        451 hrs 2 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.86 %
 Vim            334 hrs 16 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.50 %
-Terminal       30 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.92 %
+Terminal       30 hrs 14 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.94 %
 Spotify        21 hrs 6 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.05 %
 Acrobat        13 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.34 %
 ‎WhatsApp      13 hrs 24 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
@@ -1929,15 +1979,15 @@ FileZilla      5 hrs 51 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,110 hrs 5 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       447 hrs 36 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.52 %
+Coding         1,110 hrs 15 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       447 hrs 37 mins ●●●●●●●●●●●○○○○○○○○○○○○○○○  43.52 %
 Meeting        22 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 27/05/2026 22:38:40 UTC
+Last updated     : 28/05/2026 22:37:47 UTC
 
 ```
 <!--END_SECTION:wakastats-->
