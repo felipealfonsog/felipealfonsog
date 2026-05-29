@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-29T13:24:42+00:00",
-    "last_successful_sync": "2026-05-29T13:24:42+00:00",
+    "last_attempted_sync": "2026-05-29T16:23:03+00:00",
+    "last_successful_sync": "2026-05-29T16:23:03+00:00",
     "error_message": ""
   },
   "sections": {
@@ -913,7 +913,7 @@
           "author": "Walter Isaacson",
           "link": "https://www.goodreads.com/review/show/8008499321?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697011746l/129268233._SX50_.jpg",
-          "summary": "author: Walter Isaacson name: Felipe Alfonso average rating: 4.60 book published: 2011 rating: 0 read at: date added: 2025/10/20 shelves: favorites, biography review:",
+          "summary": "author: Walter Isaacson name: Felipe Alfonso average rating: 4.64 book published: 2011 rating: 0 read at: date added: 2025/10/20 shelves: favorites, biography review:",
           "guid": "https://www.goodreads.com/review/show/8008499321?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:40:51 -0700"
         },
