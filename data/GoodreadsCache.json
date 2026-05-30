@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-30T09:44:08+00:00",
-    "last_successful_sync": "2026-05-30T09:44:08+00:00",
+    "last_attempted_sync": "2026-05-30T12:38:56+00:00",
+    "last_successful_sync": "2026-05-30T12:38:56+00:00",
     "error_message": ""
   },
   "sections": {
@@ -102,7 +102,7 @@
           "author": "Paramahansa Yogananda",
           "link": "https://www.goodreads.com/review/show/8455624520?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538363806l/42107422._SX50_.jpg",
-          "summary": "author: Paramahansa Yogananda name: Felipe Alfonso average rating: 4.44 book published: 1946 rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
+          "summary": "author: Paramahansa Yogananda name: Felipe Alfonso average rating: 4.42 book published: 1946 rating: 0 read at: date added: 2026/03/21 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8455624520?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 21 Mar 2026 08:12:09 -0700"
         },
