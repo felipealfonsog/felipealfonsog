@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-05-30T12:38:56+00:00",
-    "last_successful_sync": "2026-05-30T12:38:56+00:00",
+    "last_attempted_sync": "2026-05-30T15:33:32+00:00",
+    "last_successful_sync": "2026-05-30T15:33:32+00:00",
     "error_message": ""
   },
   "sections": {
@@ -1228,7 +1228,7 @@
           "author": "A.J. Finn",
           "link": "https://www.goodreads.com/review/show/2891198427?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528225499l/40389527._SY75_.jpg",
-          "summary": "author: A.J. Finn name: Felipe Alfonso average rating: 3.94 book published: 2018 rating: 5 read at: date added: 2025/08/05 shelves: review:",
+          "summary": "author: A.J. Finn name: Felipe Alfonso average rating: 3.93 book published: 2018 rating: 5 read at: date added: 2025/08/05 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/2891198427?utm_medium=api&utm_source=rss",
           "pub_date": "Tue, 05 Aug 2025 02:59:45 -0700"
         },
