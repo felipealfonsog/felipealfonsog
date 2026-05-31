@@ -1516,16 +1516,16 @@ Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : Overgrown — Give Up
-Last played (UTC)         : 2026-05-29 10:01:43Z
+Last played (UTC)         : 2026-05-30 14:31:31Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ last played (since last): 2026-05-29 10:01:43Z → 2026-05-30 14:31:31Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 35:40:07
-Telemetry age             : 35:40:07
-Δ time (since last report): 00:00:21
+Time since last play      : 10:55:21
+Telemetry age             : 10:55:21
+Δ time (since last report): 03:45:02
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1537,32 +1537,32 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Overgrown
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-23 21:41:50Z → 2026-05-30 21:41:50Z
-Total tracks played       : 13
+Week window (UTC)         : 2026-05-24 01:26:51Z → 2026-05-31 01:26:51Z
+Total tracks played       : 14
 Dominant artist           : Faith No More
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :   ▂   ▂     ▂         █ 
+Heatmap (24h)             :           █             
+Heatmap (7d)              :   ▂   ▂   ▁ ▂         █ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 03:29:55
+Sessions (24h)            : 1
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 05:25:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1570,7 +1570,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-30 21:41:50Z
+Report generated (UTC)    : 2026-05-31 01:26:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
