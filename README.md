@@ -3005,9 +3005,11 @@ All projects are distributed under their respective licenses as defined per repo
 > <sub>Any unauthorized extraction, replication, or identity manipulation constitutes a violation of digital rights and will be addressed accordingly.</sub>  
 > <sub><i>(Disponible también en español según la Ley 19.628 de Chile.)</i></sub>
 
+<!-- 
 <p align="center">
 <sub>⟁ ❀ ✡︎ ⚜︎ π ∴ .·.</sub>
 </p>
+-->
 
 <sub>[[Top Home]](#hi-there-)</sub>
 
