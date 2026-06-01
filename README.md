@@ -1510,24 +1510,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
+Device type               : CastAudio
+Device name               : GNest-MerkleTree speaker
+Volume                    : 20%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume bar                : ▁▁
 ------------------------------------------------------------
-Now playing               : 404hell, Grimzlee — Static Faith
-Last played               : The Missing Peace — BLACKHOLESKATEPARK
-Last played (UTC)         : 2026-06-01 17:13:02Z
+Now playing               : Clover Post — Comeuppance
+Last played               : Garry Cooper Trio — Live Off The Juice
+Last played (UTC)         : 2026-06-01 19:54:52Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Der Riese — Aftertaste → The Missing Peace — BLACKHOLESKATEPARK
-Δ last played (since last): 2026-06-01 17:07:23Z → 2026-06-01 17:13:02Z
+Δ track (since last)      : The Missing Peace — BLACKHOLESKATEPARK → Garry Cooper Trio — Live Off The Juice
+Δ last played (since last): 2026-06-01 17:13:02Z → 2026-06-01 19:54:52Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:45
-Telemetry age             : 00:02:45
-Δ time (since last report): 00:08:12
+Time since last play      : 00:02:50
+Telemetry age             : 00:02:50
+Δ time (since last report): 02:41:56
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1539,40 +1539,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
+Tracks played (last 24h)  : 40
 Dominant artist           : Overgrown
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-25 17:15:46Z → 2026-06-01 17:15:46Z
-Total tracks played       : 28
+Week window (UTC)         : 2026-05-25 19:57:42Z → 2026-06-01 19:57:42Z
+Total tracks played       : 50
 Dominant artist           : Overgrown
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
-Peak hour (7d)            : 12:00
-Heatmap (24h)             :             ██      ▅▂  
-Heatmap (7d)              :   ▂   ▂   ▁ █▆      ▃▁█ 
+Peak hour (24h)           : 13:00
+Peak hour (7d)            : 13:00
+Heatmap (24h)             :             ▂█▅▂    ▁   
+Heatmap (7d)              :   ▁   ▁     ▂█▅▂    ▁ ▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 3
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:29:16
+Avg inter-play gap (7d)   : 02:18:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(4)
-Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | shoegaze(4) | chillwave(1)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : shoegaze(21) | jazz(2) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
+Top genres (7d)           : shoegaze(21) | alternative metal(6) | funk rock(5) | grunge(5) | rap metal(5) | jazz(2)
+Artist lookups (this run) : 10 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-01 17:15:46Z
+Report generated (UTC)    : 2026-06-01 19:57:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
