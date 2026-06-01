@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-06-01 19:57:42Z",
-  "status": "PLAYING",
-  "last_track": "Garry Cooper Trio — Live Off The Juice",
-  "last_played_utc": "2026-06-01 19:54:52Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-06-01 22:19:39Z",
+  "status": "IDLE",
+  "last_track": "Bruce Willmington & Co — Nowhere To Go",
+  "last_played_utc": "2026-06-01 20:29:28Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -898,6 +898,21 @@
       "rally house",
       "breakbeat"
     ],
-    "4w62sFccNCLUNYgX8tu2ub": []
+    "4w62sFccNCLUNYgX8tu2ub": [],
+    "0hY5GNx2g4D1ZtwrQRAY2y": [
+      "jazz"
+    ],
+    "2QTDEcFCA6jvoJwQsm3TpS": [
+      "jazz"
+    ],
+    "7A9b9YHKBRXfL43ICJhYUr": [
+      "jazz"
+    ],
+    "0HsfmmG8LqKOxS2LBIO9bM": [
+      "jazz"
+    ],
+    "2HaQQhL4YwnMEo6CHATOtx": [
+      "jazz"
+    ]
   }
 }

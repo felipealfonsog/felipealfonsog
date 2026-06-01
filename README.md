@@ -1504,49 +1504,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : CastAudio
-Device name               : GNest-MerkleTree speaker
-Volume                    : 20%
-Volume telemetry          : OK
-Volume bar                : ▁▁
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Clover Post — Comeuppance
-Last played               : Garry Cooper Trio — Live Off The Juice
-Last played (UTC)         : 2026-06-01 19:54:52Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Bruce Willmington & Co — Nowhere To Go
+Last played (UTC)         : 2026-06-01 20:29:28Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Missing Peace — BLACKHOLESKATEPARK → Garry Cooper Trio — Live Off The Juice
-Δ last played (since last): 2026-06-01 17:13:02Z → 2026-06-01 19:54:52Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Garry Cooper Trio — Live Off The Juice → Bruce Willmington & Co — Nowhere To Go
+Δ last played (since last): 2026-06-01 19:54:52Z → 2026-06-01 20:29:28Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:02:50
-Telemetry age             : 00:02:50
-Δ time (since last report): 02:41:56
+Time since last play      : 01:50:11
+Telemetry age             : 01:50:11
+Δ time (since last report): 02:21:57
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 40
+Tracks played (last 24h)  : 48
 Dominant artist           : Overgrown
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-25 19:57:42Z → 2026-06-01 19:57:42Z
+Week window (UTC)         : 2026-05-25 22:19:39Z → 2026-06-01 22:19:39Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -1556,23 +1555,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :             ▂█▅▂    ▁   
-Heatmap (7d)              :   ▁   ▁     ▂█▅▂    ▁ ▂ 
+Heatmap (24h)             :             ▂█▅▂▃   ▁   
+Heatmap (7d)              :             ▂█▅▂▃   ▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:18:58
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 01:40:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(21) | jazz(2) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
-Top genres (7d)           : shoegaze(21) | alternative metal(6) | funk rock(5) | grunge(5) | rap metal(5) | jazz(2)
-Artist lookups (this run) : 10 (cached)
+Top genres (24h)          : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
+Top genres (7d)           : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
+Artist lookups (this run) : 5 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-01 19:57:42Z
+Report generated (UTC)    : 2026-06-01 22:19:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
