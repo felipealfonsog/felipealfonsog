@@ -1516,18 +1516,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : never easy — photographs you kept
-Last played               : Der Riese — Aftertaste
-Last played (UTC)         : 2026-06-01 17:07:23Z
+Now playing               : 404hell, Grimzlee — Static Faith
+Last played               : The Missing Peace — BLACKHOLESKATEPARK
+Last played (UTC)         : 2026-06-01 17:13:02Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : DECAINE — DXH → Der Riese — Aftertaste
-Δ last played (since last): 2026-06-01 17:04:46Z → 2026-06-01 17:07:23Z
+Δ track (since last)      : Der Riese — Aftertaste → The Missing Peace — BLACKHOLESKATEPARK
+Δ last played (since last): 2026-06-01 17:07:23Z → 2026-06-01 17:13:02Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:12
-Telemetry age             : 00:00:12
-Δ time (since last report): 00:01:03
+Time since last play      : 00:02:45
+Telemetry age             : 00:02:45
+Δ time (since last report): 00:08:12
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1539,15 +1539,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
+Tracks played (last 24h)  : 14
 Dominant artist           : Overgrown
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-25 17:07:35Z → 2026-06-01 17:07:35Z
-Total tracks played       : 26
+Week window (UTC)         : 2026-05-25 17:15:46Z → 2026-06-01 17:15:46Z
+Total tracks played       : 28
 Dominant artist           : Overgrown
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1556,23 +1556,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 12:00
 Peak hour (7d)            : 12:00
-Heatmap (24h)             :             █▅      ▅▂  
-Heatmap (7d)              :   ▂   ▂   ▁ █▃      ▃▁█ 
+Heatmap (24h)             :             ██      ▅▂  
+Heatmap (7d)              :   ▂   ▂   ▁ █▆      ▃▁█ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:50:35
+Avg inter-play gap (7d)   : 04:29:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(2)
-Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | shoegaze(2) | chillwave(1)
+Top genres (24h)          : shoegaze(4)
+Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | shoegaze(4) | chillwave(1)
 Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-01 17:07:35Z
+Report generated (UTC)    : 2026-06-01 17:15:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
