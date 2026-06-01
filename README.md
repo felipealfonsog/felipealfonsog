@@ -1516,17 +1516,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Overgrown — Give Up
-Last played (UTC)         : 2026-05-30 14:31:31Z
+Last played               : Overgrown — With Me
+Last played (UTC)         : 2026-06-01 01:01:40Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Overgrown — Give Up → Overgrown — With Me
+Δ last played (since last): 2026-05-30 14:31:31Z → 2026-06-01 01:01:40Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 31:10:16
-Telemetry age             : 31:10:16
-Δ time (since last report): 00:00:45
+Time since last play      : 00:28:33
+Telemetry age             : 00:28:33
+Δ time (since last report): 03:48:26
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1538,32 +1538,32 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 4
+Dominant artist           : Overgrown
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-24 21:41:47Z → 2026-05-31 21:41:47Z
-Total tracks played       : 14
-Dominant artist           : Faith No More
-Cadence classification    : LOW
+Week window (UTC)         : 2026-05-25 01:30:12Z → 2026-06-01 01:30:12Z
+Total tracks played       : 18
+Dominant artist           : Overgrown
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 22:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :   ▂   ▂   ▁ ▂         █ 
+Heatmap (24h)             :                     █▃  
+Heatmap (7d)              :   ▂   ▂   ▁ ▂       ▃▁█ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 05:25:18
+Sessions (24h)            : 1
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 06:10:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1571,7 +1571,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-05-31 21:41:47Z
+Report generated (UTC)    : 2026-06-01 01:30:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
