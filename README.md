@@ -1520,13 +1520,13 @@ Last played               : Overgrown — With Me
 Last played (UTC)         : 2026-06-01 01:01:40Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Overgrown — Give Up → Overgrown — With Me
-Δ last played (since last): 2026-05-30 14:31:31Z → 2026-06-01 01:01:40Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:28:33
-Telemetry age             : 00:28:33
-Δ time (since last report): 03:48:26
+Time since last play      : 00:28:53
+Telemetry age             : 00:28:53
+Δ time (since last report): 00:00:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1545,7 +1545,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-25 01:30:12Z → 2026-06-01 01:30:12Z
+Week window (UTC)         : 2026-05-25 01:30:32Z → 2026-06-01 01:30:32Z
 Total tracks played       : 18
 Dominant artist           : Overgrown
 Cadence classification    : MEDIUM
@@ -1571,7 +1571,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(7) | funk rock(7) | grunge(7) | rap metal(7) | chillwave(1) | nu jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-01 01:30:12Z
+Report generated (UTC)    : 2026-06-01 01:30:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
