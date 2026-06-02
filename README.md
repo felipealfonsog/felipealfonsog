@@ -1520,13 +1520,13 @@ Last played               : Bruce Willmington & Co — Nowhere To Go
 Last played (UTC)         : 2026-06-01 20:29:28Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Garry Cooper Trio — Live Off The Juice → Bruce Willmington & Co — Nowhere To Go
-Δ last played (since last): 2026-06-01 19:54:52Z → 2026-06-01 20:29:28Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:50:11
-Telemetry age             : 01:50:11
-Δ time (since last report): 02:21:57
+Time since last play      : 04:58:55
+Telemetry age             : 04:58:55
+Δ time (since last report): 03:08:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1538,14 +1538,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 48
-Dominant artist           : Overgrown
+Tracks played (last 24h)  : 44
+Dominant artist           : never easy
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-25 22:19:39Z → 2026-06-01 22:19:39Z
+Week window (UTC)         : 2026-05-26 01:28:23Z → 2026-06-02 01:28:23Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -1555,13 +1555,13 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :             ▂█▅▂▃   ▁   
+Heatmap (24h)             :             ▂█▅▂▃       
 Heatmap (7d)              :             ▂█▅▂▃   ▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 5
 Avg inter-play gap (7d)   : 01:40:58
 ------------------------------------------------------------
@@ -1569,9 +1569,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
 Top genres (7d)           : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
-Artist lookups (this run) : 5 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-01 22:19:39Z
+Report generated (UTC)    : 2026-06-02 01:28:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
