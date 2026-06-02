@@ -508,9 +508,9 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-02T22:02:12+00:00 | last_update=2026-06-02T22:02:12+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-02T22:35:40+00:00 | last_update=2026-06-02T22:35:40+00:00 | source=goodreads_rss
 
-[currently_reading] shelf=currently-reading books=50 limit=50
+[currently_reading] shelf=currently-reading books=25 limit=25
 01. Human, All Too Human — Friedrich Nietzsche
 02. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
 03. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
@@ -536,33 +536,8 @@ ICONOS INICIALES INLINE SVG1
 23. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
 24. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
 25. Zen en el arte de escribir — Ray Bradbury
-26. Gray Target: A Luke Ryder Novel (Luke Ryder Series Book 3) — J. Benedict
-27. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
-28. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
-29. Psychological Warfare: The Ultimate Guide to Understanding Human Behavior, Brainwashing, Propaganda, Deception, Negotiation, Dark Psychology, and Manipulation (Understanding Manipulation) — Neil Morton
-30. Quiet: The Power of Introverts in a World That Can't Stop Talking — Susan Cain
-31. The meaning of masonry — W.L. Wilmshurst
-32. Brave New World / 1984 / The Time Machine — George Orwell
-33. Speed Listening: the art of listening...faster — Dorian Hackett
-34. Story: ...and how to write one — Adam J Pestridge
-35. Down To The Needle — Mary Deal
-36. Las Meditaciones de Marco Aurelio: Filosofía Romana (Spanish Edition) — Marcus Aurelius
-37. The Art of Going SLOW: How to Simplify Your Life, Calm Your Mind, and Focus on What Truly Matters to You! (The Art Of Living Well Book 4) — Damon Zahariades
-38. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
-39. An Impossible Life: A True Story of Hope and Mental Illness (The Impossible Series Book 1) — Rachael Siddoway
-40. 3x Speed Reading. Quick Reading, Memory and Memorizing Techniques, Learning to Triple Your Speed. — Giacomo Bruno
-41. Surrounded by Narcissists: How to Effectively Recognize, Avoid, and Defend Yourself Against Toxic People (and Not Lose Your Mind) — Thomas Erikson
-42. The Age of Spiritual Machines — Ray Kurzweil
-43. Surrounded by Idiots — Thomas Erikson
-44. The Lost Keys of Freemasonry — Manly P. Hall
-45. The Meaning of Masonry — W.L. Wilmshurst
-46. Confession of a Buddhist Atheist — Stephen Batchelor
-47. Invent and Wander: The Collected Writings of Jeff Bezos — Jeff Bezos
-48. BIPOLARIDAD COMO DON:Cómo transformar la inestabilidad emocional en una bendición (Spanish Edition) — Eduardo H. Grecco
-49. Oxford Spanish - English Dictionary — Oxford Dictionaries
-50. How to Slowly Kill Yourself and Others in America — Kiese Laymon
 
-[recent_read] shelf=read books=100 limit=100
+[recent_read] shelf=read books=50 limit=50
 01. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
 02. Critique of Pure Reason — Immanuel Kant
 03. El ser y el tiempo — Martin Heidegger
@@ -613,56 +588,6 @@ ICONOS INICIALES INLINE SVG1
 48. Becoming — Michelle Obama
 49. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
 50. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
-51. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
-52. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
-53. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
-54. Cyber Minds: Insights on cybersecurity across the cloud, data, artificial intelligence, blockchain, and IoT to keep you cyber safe — Shira Rubinoff
-55. Mike Meyers' Comptia Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition — Mike Meyers
-56. Mike Meyers' CompTIA Network+ Certification Passport, Seventh Edition (Exam N10-008) — Mike Meyers
-57. Principles of Computer Security: CompTIA Security+ and Beyond Lab Manual (Exam SY0-601) — Jonathan S Weissman
-58. Principles of Computer Security, CompTIA Security+ and Beyond, with CD-ROM — William Arthur Conklin
-59. Principles of Data Science: Learn the techniques and math you need to start making sense of your data: Mathematical techniques and theory to succeed in data-driven industries — Sinan Özdemir
-60. Hands-On Machine Learning with Scikit-Learn and TensorFlow — Aurélien Géron
-61. Deep Learning — Ian Goodfellow
-62. Introduction to Algorithms — Thomas H. Cormen
-63. The Art of Happiness — Dalai Lama XIV
-64. The Bhagavad Gita — Krishna-Dwaipayana Vyasa
-65. Essence of the Upanishads: A Key to Indian Spirituality (Wisdom of India, 1) — Eknath Easwaran
-66. The Upanishads — Anonymous
-67. The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism — Fritjof Capra
-68. The Denial of Death — Ernest Becker
-69. Homo Deus: A Brief History of Tomorrow — Yuval Noah Harari
-70. Sapiens: A Brief History of Humankind — Yuval Noah Harari
-71. Algorithms to Live By: The Computer Science of Human Decisions — Brian Christian
-72. Thinking, Fast and Slow — Daniel Kahneman
-73. Gödel, Escher, Bach: An Eternal Golden Braid — Douglas R. Hofstadter
-74. The Republic — Plato
-75. Meditations on First Philosophy: Rene Descartes — René Descartes
-76. The Art of War — Sun Tzu
-77. The Power of Now: A Guide to Spiritual Enlightenment — Eckhart Tolle
-78. Las meditaciones de Marco Aurelio — Marcus Aurelius
-79. The Lost Keys of Freemasonry (Also Includes: Freemasonry of the Ancient Egyptians / Masonic Orders of Fraternity) — Manly P. Hall
-80. The Meaning Of Masonry by W. L. Wilmshurst (2007-03-07) — W.L. Wilmhurst
-81. The Structure of Scientific Revolutions — Thomas S. Kuhn
-82. Brave New World and Brave New World Revisited — Aldous Huxley
-83. The War of Art — Steven Pressfield
-84. The Woman in the Window — A.J. Finn
-85. In My Father's Den — Maurice Gee
-86. El libro de Steve Jobs (Spanish Edition) — Brent Schlender
-87. What the Buddha Taught — Walpola Rahula
-88. What the Buddha Never Taught: A 'Behind the Robes" Account of Life in a Thai Forest Monastery — Tim Ward
-89. Being Digital — Nicholas Negroponte
-90. Ikigai esencial: La sabiduría milenaria japonesa que dará sentido a cada día de tu vida — Ken Mogi
-91. Dare: The New Way to End Anxiety and Stop Panic Attacks Fast — Barry McDonagh
-92. El fantasista — Hernán Rivera Letelier
-93. PHP for the World Wide Web (Visual QuickStart Guide) — Larry Ullman
-94. El libro de Steve Jobs — Brent Schlender
-95. American Desperado: My Life--From Mafia Soldier to Cocaine Cowboy to Secret Government Asset — Jon Roberts
-96. Writing Fiction: The Practical Guide from New York's Acclaimed Creative Writing School — Alexander Steele
-97. The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact — Edmond Lau
-98. Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python — Peter Bruce
-99. Superintelligence: Paths, Dangers, Strategies — Nick Bostrom
-100. Así Habló Zaratustra: obra filosófica alemana clásica (Spanish Edition) — Friedrich Nietzsche
 
 ```
 <!-- GOODREADS:CLI_END -->
