@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-06-02T01:22:02+00:00",
-    "last_successful_sync": "2026-06-02T01:22:02+00:00",
+    "last_attempted_sync": "2026-06-02T07:56:20+00:00",
+    "last_successful_sync": "2026-06-02T07:56:20+00:00",
     "error_message": ""
   },
   "sections": {
@@ -16,6 +16,15 @@
       "limit": 50,
       "item_count": 50,
       "books": [
+        {
+          "title": "Human, All Too Human",
+          "author": "Friedrich Nietzsche",
+          "link": "https://www.goodreads.com/review/show/7284773951?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517744404l/38344786._SY75_.jpg",
+          "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 4.30 book published: rating: 0 read at: date added: 2026/06/02 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/7284773951?utm_medium=api&utm_source=rss",
+          "pub_date": "Tue, 02 Jun 2026 00:43:39 -0700"
+        },
         {
           "title": "La Ética a Nicómaco de Aristóteles",
           "author": "Vicente Hernández Pedrero",
@@ -323,15 +332,6 @@
           "pub_date": "Thu, 06 Feb 2025 23:02:45 -0800"
         },
         {
-          "title": "Human, All Too Human",
-          "author": "Friedrich Nietzsche",
-          "link": "https://www.goodreads.com/review/show/7284773951?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517744404l/38344786._SY75_.jpg",
-          "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 4.30 book published: 1878 rating: 0 read at: date added: 2025/02/02 shelves: currently-reading review:",
-          "guid": "https://www.goodreads.com/review/show/7284773951?utm_medium=api&utm_source=rss",
-          "pub_date": "Sun, 02 Feb 2025 18:25:23 -0800"
-        },
-        {
           "title": "Las Meditaciones de Marco Aurelio: Filosofía Romana (Spanish Edition)",
           "author": "Marcus Aurelius",
           "link": "https://www.goodreads.com/review/show/7271590723?utm_medium=api&utm_source=rss",
@@ -476,6 +476,15 @@
       "limit": 100,
       "item_count": 100,
       "books": [
+        {
+          "title": "Human, All-Too-Human by Friedrich Nietzsche",
+          "author": "Friedrich Nietzsche",
+          "link": "https://www.goodreads.com/review/show/8008446066?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406841716l/22847327._SY75_.jpg",
+          "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 4.00 book published: rating: 0 read at: date added: 2026/06/02 shelves: philosophy review:",
+          "guid": "https://www.goodreads.com/review/show/8008446066?utm_medium=api&utm_source=rss",
+          "pub_date": "Tue, 02 Jun 2026 00:43:39 -0700"
+        },
         {
           "title": "Critique of Pure Reason",
           "author": "Immanuel Kant",
@@ -1159,15 +1168,6 @@
           "summary": "author: Eckhart Tolle name: Felipe Alfonso average rating: 4.16 book published: 1997 rating: 5 read at: 2018/01/01 date added: 2025/10/20 shelves: philosophy, buddhism, psychology review:",
           "guid": "https://www.goodreads.com/review/show/2643853524?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:20:31 -0700"
-        },
-        {
-          "title": "Human, All-Too-Human by Friedrich Nietzsche",
-          "author": "Friedrich Nietzsche",
-          "link": "https://www.goodreads.com/review/show/8008446066?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406841716l/22847327._SY75_.jpg",
-          "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 4.00 book published: 1878 rating: 0 read at: date added: 2025/10/20 shelves: philosophy review:",
-          "guid": "https://www.goodreads.com/review/show/8008446066?utm_medium=api&utm_source=rss",
-          "pub_date": "Mon, 20 Oct 2025 19:19:05 -0700"
         },
         {
           "title": "Las meditaciones de Marco Aurelio",
