@@ -1524,9 +1524,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 23:06:39
-Telemetry age             : 23:06:39
-Δ time (since last report): 00:00:55
+Time since last play      : 25:41:36
+Telemetry age             : 25:41:36
+Δ time (since last report): 02:34:58
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1538,14 +1538,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
-Dominant artist           : Songbird Trio
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-26 19:36:06Z → 2026-06-02 19:36:06Z
+Week window (UTC)         : 2026-05-26 22:11:04Z → 2026-06-02 22:11:04Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -1553,25 +1553,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 16:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :                ▆█       
+Heatmap (24h)             : N/A
 Heatmap (7d)              :             ▂█▅▂▃   ▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 5
 Avg inter-play gap (7d)   : 01:40:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(10) | shoegaze(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-02 19:36:06Z
+Report generated (UTC)    : 2026-06-02 22:11:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
