@@ -1524,9 +1524,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:26:38
-Telemetry age             : 20:26:38
-Δ time (since last report): 00:00:29
+Time since last play      : 20:27:08
+Telemetry age             : 20:27:08
+Δ time (since last report): 00:00:30
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1538,14 +1538,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 40
+Tracks played (last 24h)  : 39
 Dominant artist           : never easy
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-26 16:56:06Z → 2026-06-02 16:56:06Z
+Week window (UTC)         : 2026-05-26 16:56:35Z → 2026-06-02 16:56:35Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -1567,11 +1567,11 @@ Avg inter-play gap (7d)   : 01:40:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
+Top genres (24h)          : shoegaze(20) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
 Top genres (7d)           : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-02 16:56:06Z
+Report generated (UTC)    : 2026-06-02 16:56:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
