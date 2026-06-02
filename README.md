@@ -508,7 +508,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-02T07:56:20+00:00 | last_update=2026-06-02T07:56:20+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-02T10:40:20+00:00 | last_update=2026-06-02T10:40:20+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=50 limit=50
 01. Human, All Too Human — Friedrich Nietzsche
