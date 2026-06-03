@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-02_0738Z
+ snapshot_utc : 2026-06-03_0742Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -515,161 +515,86 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-02T01:22:02+00:00 | last_update=2026-06-02T01:22:02+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-03T04:38:31+00:00 | last_update=2026-06-03T04:38:31+00:00 | source=goodreads_rss
 
-[currently_reading] shelf=currently-reading books=50 limit=50
-01. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
-02. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
-03. An Introduction to Zen Buddhism — D.T. Suzuki
-04. Shobogenzo "Zazengi"- English edition — dogen kigen
-05. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
-06. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
-07. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
-08. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
-09. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
-10. The Autobiography of a Yogi — Paramahansa Yogananda
-11. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
-12. Leviathan — Thomas Hobbes
-13. Aferrada a mi balsa — Gladys Díaz Armijo
-14. Man's Search for Meaning — Viktor E. Frankl
-15. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
-16. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
-17. Más allá del bien y del mal — Friedrich Nietzsche
-18. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
-19. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
-20. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
-21. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
-22. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
-23. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
-24. Zen en el arte de escribir — Ray Bradbury
-25. Gray Target: A Luke Ryder Novel (Luke Ryder Series Book 3) — J. Benedict
-26. Passive Aggressive: The Gentle Violent One: How to Identify, Understand, and Overcome Human Behaviors That Sabotage Relationships, Emotional, and Mental Health — Murilo hammes
-27. The Singularity is Near: When Humans Transcend Biology — Ray Kurzweil
-28. Psychological Warfare: The Ultimate Guide to Understanding Human Behavior, Brainwashing, Propaganda, Deception, Negotiation, Dark Psychology, and Manipulation (Understanding Manipulation) — Neil Morton
-29. Quiet: The Power of Introverts in a World That Can't Stop Talking — Susan Cain
-30. The meaning of masonry — W.L. Wilmshurst
-31. Brave New World / 1984 / The Time Machine — George Orwell
-32. Speed Listening: the art of listening...faster — Dorian Hackett
-33. Story: ...and how to write one — Adam J Pestridge
-34. Down To The Needle — Mary Deal
-35. Human, All Too Human — Friedrich Nietzsche
-36. Las Meditaciones de Marco Aurelio: Filosofía Romana (Spanish Edition) — Marcus Aurelius
-37. The Art of Going SLOW: How to Simplify Your Life, Calm Your Mind, and Focus on What Truly Matters to You! (The Art Of Living Well Book 4) — Damon Zahariades
-38. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
-39. An Impossible Life: A True Story of Hope and Mental Illness (The Impossible Series Book 1) — Rachael Siddoway
-40. 3x Speed Reading. Quick Reading, Memory and Memorizing Techniques, Learning to Triple Your Speed. — Giacomo Bruno
-41. Surrounded by Narcissists: How to Effectively Recognize, Avoid, and Defend Yourself Against Toxic People (and Not Lose Your Mind) — Thomas Erikson
-42. The Age of Spiritual Machines — Ray Kurzweil
-43. Surrounded by Idiots — Thomas Erikson
-44. The Lost Keys of Freemasonry — Manly P. Hall
-45. The Meaning of Masonry — W.L. Wilmshurst
-46. Confession of a Buddhist Atheist — Stephen Batchelor
-47. Invent and Wander: The Collected Writings of Jeff Bezos — Jeff Bezos
-48. BIPOLARIDAD COMO DON:Cómo transformar la inestabilidad emocional en una bendición (Spanish Edition) — Eduardo H. Grecco
-49. Oxford Spanish - English Dictionary — Oxford Dictionaries
-50. How to Slowly Kill Yourself and Others in America — Kiese Laymon
+[currently_reading] shelf=currently-reading books=25 limit=25
+01. Human, All Too Human — Friedrich Nietzsche
+02. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
+03. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
+04. An Introduction to Zen Buddhism — D.T. Suzuki
+05. Shobogenzo "Zazengi"- English edition — dogen kigen
+06. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
+07. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+08. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+09. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+10. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+11. The Autobiography of a Yogi — Paramahansa Yogananda
+12. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
+13. Leviathan — Thomas Hobbes
+14. Aferrada a mi balsa — Gladys Díaz Armijo
+15. Man's Search for Meaning — Viktor E. Frankl
+16. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
+17. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
+18. Más allá del bien y del mal — Friedrich Nietzsche
+19. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
+20. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
+21. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
+22. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
+23. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
+24. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
+25. Zen en el arte de escribir — Ray Bradbury
 
-[recent_read] shelf=read books=100 limit=100
-01. Critique of Pure Reason — Immanuel Kant
-02. El ser y el tiempo — Martin Heidegger
-03. El mito de Sísifo — Albert Camus
-04. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
-05. Programming Perl (3rd Edition) — Larry Wall
-06. Mala onda — Alberto Fuguet
-07. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
-08. Freedom from the Known — J. Krishnamurti
-09. In My Father's Den — Maurice Gee
-10. The Poetry of Pablo Neruda — Pablo Neruda
-11. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
-12. Cujo — Stephen King
-13. On Writing — Ernest Hemingway
-14. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
-15. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky
-16. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
-17. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
-18. Ebano — Ryszard Kapuściński
-19. MARY LAVELLE — Kate O'Brien
-20. Nosotras que nos queremos tanto — Marcela Serrano
-21. Donde mueren los valientes — Hernán Rivera Letelier
-22. Linear Algebra and Its Applications — Gilbert Strang
-23. Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes
-24. Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort
-25. Elementos de estadística descriptiva — Miguel Gómez Barrantes
-26. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
-27. Calculus — Purcell Rigdon Varberg
-28. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
-29. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
-30. La vida, un enigma — Daisaku Ikeda
-31. The Count of Monte Cristo — Alexandre Dumas
-32. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
-33. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
-34. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
-35. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
-36. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
-37. The Silva Mind Control Method — José Silva
-38. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
-39. De Sapos a Principes — Richard Bandler
-40. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
-41. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
-42. Psychology: The Science of Mind and Behaviour — Richard Gross
-43. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
-44. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
-45. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
-46. Understanding Psychology — Robert S. Feldman
-47. Becoming — Michelle Obama
-48. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
-49. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
-50. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
-51. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
-52. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
-53. Cyber Minds: Insights on cybersecurity across the cloud, data, artificial intelligence, blockchain, and IoT to keep you cyber safe — Shira Rubinoff
-54. Mike Meyers' Comptia Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition — Mike Meyers
-55. Mike Meyers' CompTIA Network+ Certification Passport, Seventh Edition (Exam N10-008) — Mike Meyers
-56. Principles of Computer Security: CompTIA Security+ and Beyond Lab Manual (Exam SY0-601) — Jonathan S Weissman
-57. Principles of Computer Security, CompTIA Security+ and Beyond, with CD-ROM — William Arthur Conklin
-58. Principles of Data Science: Learn the techniques and math you need to start making sense of your data: Mathematical techniques and theory to succeed in data-driven industries — Sinan Özdemir
-59. Hands-On Machine Learning with Scikit-Learn and TensorFlow — Aurélien Géron
-60. Deep Learning — Ian Goodfellow
-61. Introduction to Algorithms — Thomas H. Cormen
-62. The Art of Happiness — Dalai Lama XIV
-63. The Bhagavad Gita — Krishna-Dwaipayana Vyasa
-64. Essence of the Upanishads: A Key to Indian Spirituality (Wisdom of India, 1) — Eknath Easwaran
-65. The Upanishads — Anonymous
-66. The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism — Fritjof Capra
-67. The Denial of Death — Ernest Becker
-68. Homo Deus: A Brief History of Tomorrow — Yuval Noah Harari
-69. Sapiens: A Brief History of Humankind — Yuval Noah Harari
-70. Algorithms to Live By: The Computer Science of Human Decisions — Brian Christian
-71. Thinking, Fast and Slow — Daniel Kahneman
-72. Gödel, Escher, Bach: An Eternal Golden Braid — Douglas R. Hofstadter
-73. The Republic — Plato
-74. Meditations on First Philosophy: Rene Descartes — René Descartes
-75. The Art of War — Sun Tzu
-76. The Power of Now: A Guide to Spiritual Enlightenment — Eckhart Tolle
-77. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
-78. Las meditaciones de Marco Aurelio — Marcus Aurelius
-79. The Lost Keys of Freemasonry (Also Includes: Freemasonry of the Ancient Egyptians / Masonic Orders of Fraternity) — Manly P. Hall
-80. The Meaning Of Masonry by W. L. Wilmshurst (2007-03-07) — W.L. Wilmhurst
-81. The Structure of Scientific Revolutions — Thomas S. Kuhn
-82. Brave New World and Brave New World Revisited — Aldous Huxley
-83. The War of Art — Steven Pressfield
-84. The Woman in the Window — A.J. Finn
-85. In My Father's Den — Maurice Gee
-86. El libro de Steve Jobs (Spanish Edition) — Brent Schlender
-87. What the Buddha Taught — Walpola Rahula
-88. What the Buddha Never Taught: A 'Behind the Robes" Account of Life in a Thai Forest Monastery — Tim Ward
-89. Being Digital — Nicholas Negroponte
-90. Ikigai esencial: La sabiduría milenaria japonesa que dará sentido a cada día de tu vida — Ken Mogi
-91. Dare: The New Way to End Anxiety and Stop Panic Attacks Fast — Barry McDonagh
-92. El fantasista — Hernán Rivera Letelier
-93. PHP for the World Wide Web (Visual QuickStart Guide) — Larry Ullman
-94. El libro de Steve Jobs — Brent Schlender
-95. American Desperado: My Life--From Mafia Soldier to Cocaine Cowboy to Secret Government Asset — Jon Roberts
-96. Writing Fiction: The Practical Guide from New York's Acclaimed Creative Writing School — Alexander Steele
-97. The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact — Edmond Lau
-98. Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python — Peter Bruce
-99. Superintelligence: Paths, Dangers, Strategies — Nick Bostrom
-100. Así Habló Zaratustra: obra filosófica alemana clásica (Spanish Edition) — Friedrich Nietzsche
+[recent_read] shelf=read books=50 limit=50
+01. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
+02. Critique of Pure Reason — Immanuel Kant
+03. El ser y el tiempo — Martin Heidegger
+04. El mito de Sísifo — Albert Camus
+05. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
+06. Programming Perl (3rd Edition) — Larry Wall
+07. Mala onda — Alberto Fuguet
+08. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
+09. Freedom from the Known — J. Krishnamurti
+10. In My Father's Den — Maurice Gee
+11. The Poetry of Pablo Neruda — Pablo Neruda
+12. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
+13. Cujo — Stephen King
+14. On Writing — Ernest Hemingway
+15. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
+16. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky
+17. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
+18. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
+19. Ebano — Ryszard Kapuściński
+20. MARY LAVELLE — Kate O'Brien
+21. Nosotras que nos queremos tanto — Marcela Serrano
+22. Donde mueren los valientes — Hernán Rivera Letelier
+23. Linear Algebra and Its Applications — Gilbert Strang
+24. Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes
+25. Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort
+26. Elementos de estadística descriptiva — Miguel Gómez Barrantes
+27. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
+28. Calculus — Purcell Rigdon Varberg
+29. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
+30. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
+31. La vida, un enigma — Daisaku Ikeda
+32. The Count of Monte Cristo — Alexandre Dumas
+33. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
+34. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
+35. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
+36. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
+37. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
+38. The Silva Mind Control Method — José Silva
+39. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
+40. De Sapos a Principes — Richard Bandler
+41. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
+42. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
+43. Psychology: The Science of Mind and Behaviour — Richard Gross
+44. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
+45. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
+46. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
+47. Understanding Psychology — Robert S. Feldman
+48. Becoming — Michelle Obama
+49. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
+50. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
 
 ```
 <!-- GOODREADS:CLI_END -->
@@ -723,13 +648,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 297 ms
-TTFB................ 296 ms
+LATENCY............. 193 ms
+TTFB................ 192 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 33d
+TLS_EXPIRY.......... 32d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -742,9 +667,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PASS
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -758,7 +683,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 30 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-02T04:37:32Z
+LAST_PROBE_UTC...... 2026-06-03T04:38:05Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -799,18 +724,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : pedestrian_axis
-latitude       : -33.438046
-longitude      : -70.647424
-altitude       : 138 m
-gps_accuracy   : ±7.2 m
-heading        : 208°
-speed          : 0.4 km/h
-status         : resting
+latitude       : -33.438056
+longitude      : -70.646928
+altitude       : 102 m
+gps_accuracy   : ±7.9 m
+heading        : 0°
+speed          : 0.1 km/h
+status         : stationary
 phase          : overnight
-local_time     : 03:28
+local_time     : 03:32
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-06-02 07:28:59 UTC
+updated_utc    : 2026-06-03 07:32:04 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -929,7 +854,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-02 01:28:41Z
+DSN snapshot (UTC)       : 2026-06-03 05:04:32Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -940,15 +865,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.914 AU
-Heliocentric distance    : 170.738 AU
-Relative speed           : 31.597 km/s
+Earth distance           : 25.42e9 km | 169.923 AU
+Heliocentric distance    : 170.749 AU
+Relative speed           : 31.837 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:08
-Round-trip latency       : 47:06:16
+One-way light time       : 23:33:13
+Round-trip latency       : 47:06:25
 ------------------------------------------------------------
-Δ distance (since last)  : +161,404 km
-Mission age              : 48 years, 282 days
+Δ distance (since last)  : +187,899 km
+Mission age              : 48 years, 283 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -960,18 +885,18 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.31e9 km | 142.424 AU
-Heliocentric distance    : 143.035 AU
-Relative speed           : 26.086 km/s
+Heliocentric distance    : 143.045 AU
+Relative speed           : 26.246 km/s
 ------------------------------------------------------------
 One-way light time       : 19:44:30
 Round-trip latency       : 39:29:01
 ------------------------------------------------------------
-Δ distance (since last)  : +2,093 km
-Mission age              : 48 years, 298 days
+Δ distance (since last)  : +6,740 km
+Mission age              : 48 years, 299 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-02 01:28:48Z
+Report generated (UTC)   : 2026-06-03 05:04:36Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1531,9 +1456,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 08:29:58
-Telemetry age             : 08:29:58
-Δ time (since last report): 00:00:53
+Time since last play      : 32:34:13
+Telemetry age             : 32:34:13
+Δ time (since last report): 00:00:37
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1545,14 +1470,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 44
-Dominant artist           : never easy
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-26 04:59:25Z → 2026-06-02 04:59:25Z
+Week window (UTC)         : 2026-05-27 05:03:40Z → 2026-06-03 05:03:40Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -1560,25 +1485,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 13:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :             ▂█▅▂▃       
+Heatmap (24h)             : N/A
 Heatmap (7d)              :             ▂█▅▂▃   ▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 5
 Avg inter-play gap (7d)   : 01:40:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-02 04:59:25Z
+Report generated (UTC)    : 2026-06-03 05:03:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1936,9 +1861,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 01 June 2026
+From: 04 December 2023 - To: 02 June 2026
 
-Total Time       : 1,029 hrs 30 mins
+Total Time       : 1,029 hrs 55 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 7 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1947,11 +1872,11 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          567 hrs 10 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.09 %
-Bash           174 hrs 22 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.94 %
+Other          570 hrs 25 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.39 %
+Bash           174 hrs 22 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.93 %
 Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.52 %
-HTML           135 hrs 48 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.19 %
-PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.57 %
+HTML           135 hrs 57 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.20 %
+PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.56 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.85 %
 C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.16 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.88 %
@@ -1960,35 +1885,35 @@ YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            894 hrs 40 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  86.90 %
-Linux          702 hrs        ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.19 %
+Mac            898 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  87.22 %
+Linux          702 hrs        ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.16 %
 
 EDITORS
 -------
-VS Code        657 hrs 20 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.85 %
-Firefox        459 hrs 22 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  44.62 %
-Vim            334 hrs 17 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.47 %
+VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.83 %
+Firefox        461 hrs 56 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  44.85 %
+Vim            334 hrs 20 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.46 %
 Terminal       32 hrs 49 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.19 %
-Spotify        21 hrs 7 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.05 %
+Spotify        21 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.06 %
 Acrobat        13 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.34 %
-‎WhatsApp      13 hrs 26 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
+‎WhatsApp      13 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Dia            10 hrs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.97 %
-Termius        7 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.68 %
-FileZilla      6 hrs 44 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.66 %
+Dia            10 hrs 32 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.02 %
+FileZilla      7 hrs 2 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.68 %
+Termius        7 hrs 1 min    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.68 %
 Antigravity    6 hrs 6 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
 
 CATEGORIES
 ----------
-Coding         1,115 hrs 1 min ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       455 hrs 57 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  44.29 %
-Meeting        22 hrs 11 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.16 %
+Coding         1,116 hrs 8 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       458 hrs 31 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  44.52 %
+Meeting        22 hrs 11 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 02/06/2026 05:45:07 UTC
+Last updated     : 03/06/2026 05:48:30 UTC
 
 ```
 <!--END_SECTION:wakastats-->
