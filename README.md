@@ -1429,74 +1429,75 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Henry Albert Trio — The French Quarter
-Last played (UTC)         : 2026-06-03 19:30:36Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Deftones — MX
+Last played               : Deftones — Headup
+Last played (UTC)         : 2026-06-03 21:10:22Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Henry Albert Trio — The French Quarter → Deftones — Headup
+Δ last played (since last): 2026-06-03 19:30:36Z → 2026-06-03 21:10:22Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 00:07:25
-Telemetry age             : 00:07:25
-Δ time (since last report): 00:00:26
+Time since last play      : 00:07:28
+Telemetry age             : 00:07:28
+Δ time (since last report): 01:39:49
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
-Dominant artist           : Overgrown
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 14
+Dominant artist           : Deftones
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-27 19:38:01Z → 2026-06-03 19:38:01Z
+Week window (UTC)         : 2026-05-27 21:17:50Z → 2026-06-03 21:17:50Z
 Total tracks played       : 50
-Dominant artist           : Overgrown
+Dominant artist           : Deftones
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
+Peak hour (24h)           : 16:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :             █  ▂        
-Heatmap (7d)              :             ▄█▅▃▃       
+Heatmap (24h)             :             ▅  ▃█▃      
+Heatmap (7d)              :             ▂█▆▄▇▁      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 3
 Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:21:24
+Avg inter-play gap (7d)   : 01:03:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(1) | post-grunge(1)
-Top genres (7d)           : shoegaze(21) | jazz(11) | nu metal(2) | post-grunge(2) | alternative metal(1) | breakbeat(1)
+Top genres (24h)          : alternative metal(8) | nu metal(8) | rap metal(8) | rock(8) | shoegaze(8) | jazz(2)
+Top genres (7d)           : shoegaze(27) | jazz(12) | nu metal(10) | alternative metal(9) | rap metal(8) | rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-03 19:38:01Z
+Report generated (UTC)    : 2026-06-03 21:17:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

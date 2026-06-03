@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-06-03 19:38:01Z",
-  "status": "IDLE",
-  "last_track": "Henry Albert Trio — The French Quarter",
-  "last_played_utc": "2026-06-03 19:30:36Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-06-03 21:17:50Z",
+  "status": "PLAYING",
+  "last_track": "Deftones — Headup",
+  "last_played_utc": "2026-06-03 21:10:22Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
