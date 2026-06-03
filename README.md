@@ -1445,13 +1445,13 @@ Last played               : 3 Doors Down — It's The Only One You've Got
 Last played (UTC)         : 2026-06-03 16:42:59Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Bruce Willmington & Co — Nowhere To Go → 3 Doors Down — It's The Only One You've Got
-Δ last played (since last): 2026-06-01 20:29:28Z → 2026-06-03 16:42:59Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:20:26
-Telemetry age             : 00:20:26
-Δ time (since last report): 03:00:08
+Time since last play      : 00:21:14
+Telemetry age             : 00:21:14
+Δ time (since last report): 00:00:48
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1470,7 +1470,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-27 17:03:25Z → 2026-06-03 17:03:25Z
+Week window (UTC)         : 2026-05-27 17:04:12Z → 2026-06-03 17:04:12Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -1496,7 +1496,7 @@ Top genres (24h)          : post-grunge(1)
 Top genres (7d)           : shoegaze(21) | jazz(10) | nu metal(2) | post-grunge(2) | alternative metal(1) | breakbeat(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-03 17:03:25Z
+Report generated (UTC)    : 2026-06-03 17:04:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
