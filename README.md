@@ -1854,9 +1854,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 02 June 2026
+From: 04 December 2023 - To: 03 June 2026
 
-Total Time       : 1,029 hrs 55 mins
+Total Time       : 1,032 hrs 22 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 7 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1865,48 +1865,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          570 hrs 25 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.39 %
-Bash           174 hrs 22 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.93 %
-Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.52 %
-HTML           135 hrs 57 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.20 %
-PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.56 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.85 %
-C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.16 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.88 %
-Text           38 hrs 49 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
-YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.69 %
+Other          574 hrs 29 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.65 %
+Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.11 %
+Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.48 %
+HTML           135 hrs 57 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
+PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.54 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.83 %
+C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.14 %
+C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.87 %
+Text           38 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
+YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.68 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            898 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  87.22 %
-Linux          702 hrs        ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.16 %
+Mac            899 hrs 28 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  87.13 %
+Linux          707 hrs 24 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.52 %
 
 EDITORS
 -------
-VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.83 %
-Firefox        461 hrs 56 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  44.85 %
-Vim            334 hrs 20 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.46 %
-Terminal       32 hrs 49 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.19 %
+VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.68 %
+Firefox        465 hrs 56 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.13 %
+Vim            336 hrs 46 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.62 %
+Terminal       32 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.18 %
 Spotify        21 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.06 %
-Acrobat        13 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.34 %
-‎WhatsApp      13 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
+Acrobat        13 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
+‎WhatsApp      13 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Dia            10 hrs 32 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.02 %
+Dia            10 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.03 %
 FileZilla      7 hrs 2 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.68 %
 Termius        7 hrs 1 min    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.68 %
 Antigravity    6 hrs 6 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
 
 CATEGORIES
 ----------
-Coding         1,116 hrs 8 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       458 hrs 31 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  44.52 %
+Coding         1,118 hrs 39 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       462 hrs 31 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  44.80 %
 Meeting        22 hrs 11 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 29 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 03/06/2026 05:48:30 UTC
+Last updated     : 03/06/2026 11:46:24 UTC
 
 ```
 <!--END_SECTION:wakastats-->
