@@ -228,7 +228,7 @@ jobs:
               content += section("OPERATING SYSTEMS", data.get("operating_systems", []), limit=MAX_OS, total_seconds=max(total,1))
 
           if SHOW_EDITORS:
-              content += section("EDITORS", data.get("editors", []), limit=MAX_EDITORS, total_seconds=max(total,1))
+              content += section("EDITORS - APPS", data.get("editors", []), limit=MAX_EDITORS, total_seconds=max(total,1))
 
           if SHOW_PROJECTS:
               content += section("PROJECTS", data.get("projects", []), limit=MAX_PROJECTS, total_seconds=max(total,1))
