@@ -1441,17 +1441,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Bruce Willmington & Co — Nowhere To Go
-Last played (UTC)         : 2026-06-01 20:29:28Z
+Last played               : 3 Doors Down — It's The Only One You've Got
+Last played (UTC)         : 2026-06-03 16:42:59Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Bruce Willmington & Co — Nowhere To Go → 3 Doors Down — It's The Only One You've Got
+Δ last played (since last): 2026-06-01 20:29:28Z → 2026-06-03 16:42:59Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 41:33:50
-Telemetry age             : 41:33:50
-Δ time (since last report): 00:00:31
+Time since last play      : 00:20:26
+Telemetry age             : 00:20:26
+Δ time (since last report): 03:00:08
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1463,14 +1463,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 4
+Dominant artist           : Overgrown
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-27 14:03:17Z → 2026-06-03 14:03:17Z
+Week window (UTC)         : 2026-05-27 17:03:25Z → 2026-06-03 17:03:25Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -1478,25 +1478,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 12:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :             ▂█▅▂▃   ▁   
+Heatmap (24h)             :             █           
+Heatmap (7d)              :             ▄█▅▂▃       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:40:58
+Sessions (24h)            : 1
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 01:18:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(21) | jazz(10) | nu metal(2) | alternative metal(1) | breakbeat(1) | breakcore(1)
+Top genres (24h)          : post-grunge(1)
+Top genres (7d)           : shoegaze(21) | jazz(10) | nu metal(2) | post-grunge(2) | alternative metal(1) | breakbeat(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-03 14:03:17Z
+Report generated (UTC)    : 2026-06-03 17:03:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
