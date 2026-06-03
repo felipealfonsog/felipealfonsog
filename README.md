@@ -911,6 +911,8 @@ Personal note: I was born shortly after Voyager 2 began its journey — a remind
 
 #
 
+<!-- 
+
 <details>
 <summary>▮ Strategic Cyber Intelligence & Counter-Terrorism Operations — <i>Restricted</i></summary>
 
@@ -931,7 +933,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 
 </details>
 
-
+-->
 
 
 
