@@ -1441,17 +1441,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : 3 Doors Down — It's The Only One You've Got
-Last played (UTC)         : 2026-06-03 16:42:59Z
+Last played               : Henry Albert Trio — The French Quarter
+Last played (UTC)         : 2026-06-03 19:30:36Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : 3 Doors Down — It's The Only One You've Got → Henry Albert Trio — The French Quarter
+Δ last played (since last): 2026-06-03 16:42:59Z → 2026-06-03 19:30:36Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:21:14
-Telemetry age             : 00:21:14
-Δ time (since last report): 00:00:48
+Time since last play      : 00:06:59
+Telemetry age             : 00:06:59
+Δ time (since last report): 02:33:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1463,14 +1463,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
+Tracks played (last 24h)  : 5
 Dominant artist           : Overgrown
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-27 17:04:12Z → 2026-06-03 17:04:12Z
+Week window (UTC)         : 2026-05-27 19:37:35Z → 2026-06-03 19:37:35Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -1480,23 +1480,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 12:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :             █           
-Heatmap (7d)              :             ▄█▅▂▃       
+Heatmap (24h)             :             █  ▂        
+Heatmap (7d)              :             ▄█▅▃▃       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 01:18:02
+Sessions (24h)            : 2
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 01:21:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(1)
-Top genres (7d)           : shoegaze(21) | jazz(10) | nu metal(2) | post-grunge(2) | alternative metal(1) | breakbeat(1)
+Top genres (24h)          : jazz(1) | post-grunge(1)
+Top genres (7d)           : shoegaze(21) | jazz(11) | nu metal(2) | post-grunge(2) | alternative metal(1) | breakbeat(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-03 17:04:12Z
+Report generated (UTC)    : 2026-06-03 19:37:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
