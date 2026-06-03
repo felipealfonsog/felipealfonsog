@@ -1445,13 +1445,13 @@ Last played               : Henry Albert Trio — The French Quarter
 Last played (UTC)         : 2026-06-03 19:30:36Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : 3 Doors Down — It's The Only One You've Got → Henry Albert Trio — The French Quarter
-Δ last played (since last): 2026-06-03 16:42:59Z → 2026-06-03 19:30:36Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:06:59
-Telemetry age             : 00:06:59
-Δ time (since last report): 02:33:23
+Time since last play      : 00:07:25
+Telemetry age             : 00:07:25
+Δ time (since last report): 00:00:26
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1470,7 +1470,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-27 19:37:35Z → 2026-06-03 19:37:35Z
+Week window (UTC)         : 2026-05-27 19:38:01Z → 2026-06-03 19:38:01Z
 Total tracks played       : 50
 Dominant artist           : Overgrown
 Cadence classification    : HIGH
@@ -1496,7 +1496,7 @@ Top genres (24h)          : jazz(1) | post-grunge(1)
 Top genres (7d)           : shoegaze(21) | jazz(11) | nu metal(2) | post-grunge(2) | alternative metal(1) | breakbeat(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-03 19:37:35Z
+Report generated (UTC)    : 2026-06-03 19:38:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
