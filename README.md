@@ -1452,9 +1452,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:13:38
-Telemetry age             : 02:13:38
-Δ time (since last report): 01:09:30
+Time since last play      : 04:23:09
+Telemetry age             : 04:23:09
+Δ time (since last report): 02:09:32
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1473,7 +1473,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-27 23:23:59Z → 2026-06-03 23:23:59Z
+Week window (UTC)         : 2026-05-28 01:33:31Z → 2026-06-04 01:33:31Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1499,7 +1499,7 @@ Top genres (24h)          : alternative metal(8) | nu metal(8) | rap metal(8) | 
 Top genres (7d)           : shoegaze(27) | jazz(12) | nu metal(10) | alternative metal(9) | rap metal(8) | rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-03 23:23:59Z
+Report generated (UTC)    : 2026-06-04 01:33:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
