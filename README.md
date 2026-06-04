@@ -1443,17 +1443,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Deftones — Headup
-Last played (UTC)         : 2026-06-03 21:10:22Z
+Last played               : 3 Doors Down — Your Arms Feel Like home
+Last played (UTC)         : 2026-06-04 15:04:53Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Deftones — Headup → 3 Doors Down — Your Arms Feel Like home
+Δ last played (since last): 2026-06-03 21:10:22Z → 2026-06-04 15:04:53Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 16:19:59
-Telemetry age             : 16:19:59
-Δ time (since last report): 00:00:30
+Time since last play      : 01:23:02
+Telemetry age             : 01:23:02
+Δ time (since last report): 02:57:35
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1465,14 +1465,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
+Tracks played (last 24h)  : 17
 Dominant artist           : Deftones
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-28 13:30:20Z → 2026-06-04 13:30:20Z
+Week window (UTC)         : 2026-05-28 16:27:55Z → 2026-06-04 16:27:55Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1481,24 +1481,24 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
-Peak hour (7d)            : 13:00
-Heatmap (24h)             :             ▅  ▃█▃      
-Heatmap (7d)              :             ▂█▆▄▇▁      
+Peak hour (7d)            : 16:00
+Heatmap (24h)             :           ▁▁▅  ▄█▃      
+Heatmap (7d)              :           ▁▁▂▇▆▅█▁      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:03:41
+Sessions (24h)            : 5
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 01:25:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(8) | nu metal(8) | rap metal(8) | rock(8) | shoegaze(8) | jazz(2)
-Top genres (7d)           : shoegaze(27) | jazz(12) | nu metal(10) | alternative metal(9) | rap metal(8) | rock(8)
+Top genres (24h)          : alternative metal(8) | nu metal(8) | rap metal(8) | rock(8) | shoegaze(8) | post-grunge(4)
+Top genres (7d)           : shoegaze(24) | jazz(12) | nu metal(10) | alternative metal(9) | rap metal(8) | rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-04 13:30:20Z
+Report generated (UTC)    : 2026-06-04 16:27:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
