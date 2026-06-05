@@ -5,15 +5,15 @@
   "country": "Chile",
   "zone_name": "Santiago Centro",
   "location_name": "pedestrian_axis",
-  "latitude": -33.43736826381376,
-  "longitude": -70.64664742390482,
-  "altitude_m": 51,
-  "gps_accuracy_m": 4.6,
-  "heading_deg": 257,
-  "speed_kmh": 7.4,
+  "latitude": -33.43766089920973,
+  "longitude": -70.64704800027167,
+  "altitude_m": 36,
+  "gps_accuracy_m": 4.7,
+  "heading_deg": 127,
+  "speed_kmh": 8.8,
   "status": "walking",
   "phase": "morning",
-  "local_time_str": "08:51",
+  "local_time_str": "11:58",
   "signal": "stable",
-  "updated_utc": "2026-06-05 12:51:46 UTC"
+  "updated_utc": "2026-06-05 15:58:00 UTC"
 }
