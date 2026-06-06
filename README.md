@@ -1448,13 +1448,13 @@ Last played               : Faith No More — Paths of Glory - 2016 Remaster
 Last played (UTC)         : 2026-06-06 22:35:26Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — She Loves Me Not - 2016 Remaster → Faith No More — Paths of Glory - 2016 Remaster
-Δ last played (since last): 2026-06-06 22:30:58Z → 2026-06-06 22:35:26Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:20
-Telemetry age             : 00:01:20
-Δ time (since last report): 00:04:09
+Time since last play      : 00:02:53
+Telemetry age             : 00:02:53
+Δ time (since last report): 00:01:33
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1473,7 +1473,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 22:36:46Z → 2026-06-06 22:36:46Z
+Week window (UTC)         : 2026-05-30 22:38:18Z → 2026-06-06 22:38:18Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1499,7 +1499,7 @@ Top genres (24h)          : alternative metal(5) | grunge(5) | funk rock(4) | ra
 Top genres (7d)           : shoegaze(18) | alternative metal(14) | rap metal(13) | jazz(12) | nu metal(10) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 22:36:46Z
+Report generated (UTC)    : 2026-06-06 22:38:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
