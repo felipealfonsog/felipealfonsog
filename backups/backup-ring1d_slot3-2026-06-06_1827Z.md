@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-05_1840Z
+ snapshot_utc : 2026-06-06_1827Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -515,7 +515,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-05T16:05:37+00:00 | last_update=2026-06-05T16:05:37+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-06T15:35:30+00:00 | last_update=2026-06-06T15:35:30+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. Human, All Too Human — Friedrich Nietzsche
@@ -648,13 +648,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 173 ms
-TTFB................ 172 ms
+LATENCY............. 201 ms
+TTFB................ 200 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 89d
+TLS_EXPIRY.......... 88d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -683,7 +683,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-05T16:03:55Z
+LAST_PROBE_UTC...... 2026-06-06T15:34:33Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -723,19 +723,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444071
-longitude      : -70.650289
-altitude       : 147 m
-gps_accuracy   : ±7.6 m
-heading        : 300°
-speed          : 0.8 km/h
-status         : stationary
+location       : transit_corridor
+latitude       : -33.446212
+longitude      : -70.662095
+altitude       : 58 m
+gps_accuracy   : ±3.6 m
+heading        : 33°
+speed          : 8.4 km/h
+status         : in_transit
 phase          : workday
-local_time     : 14:33
+local_time     : 14:21
 timezone       : America/Santiago
-signal         : strong
-updated_utc    : 2026-06-05 18:33:39 UTC
+signal         : stable
+updated_utc    : 2026-06-06 18:21:34 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -854,7 +854,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-05 13:26:42Z
+DSN snapshot (UTC)       : 2026-06-06 12:51:01Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -865,15 +865,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.944 AU
-Heliocentric distance    : 170.772 AU
-Relative speed           : 32.327 km/s
+Earth distance           : 25.42e9 km | 169.953 AU
+Heliocentric distance    : 170.782 AU
+Relative speed           : 32.530 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:23
-Round-trip latency       : 47:06:46
+One-way light time       : 23:33:27
+Round-trip latency       : 47:06:55
 ------------------------------------------------------------
-Δ distance (since last)  : +483,695 km
-Mission age              : 48 years, 285 days
+Δ distance (since last)  : +315,074 km
+Mission age              : 48 years, 286 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -885,18 +885,18 @@ Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
 Earth distance           : 21.31e9 km | 142.426 AU
-Heliocentric distance    : 143.065 AU
-Relative speed           : 26.580 km/s
+Heliocentric distance    : 143.074 AU
+Relative speed           : 26.722 km/s
 ------------------------------------------------------------
 One-way light time       : 19:44:31
-Round-trip latency       : 39:29:02
+Round-trip latency       : 39:29:03
 ------------------------------------------------------------
-Δ distance (since last)  : +37,678 km
-Mission age              : 48 years, 301 days
+Δ distance (since last)  : +30,308 km
+Mission age              : 48 years, 302 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-05 13:26:47Z
+Report generated (UTC)   : 2026-06-06 12:51:04Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1450,17 +1450,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : 3 Doors Down — Your Arms Feel Like home
-Last played (UTC)         : 2026-06-04 15:04:53Z
+Last played               : Helmet — I Know
+Last played (UTC)         : 2026-06-06 13:32:21Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 25:10:48
-Telemetry age             : 25:10:48
-Δ time (since last report): 00:00:17
+Time since last play      : 02:18:26
+Telemetry age             : 02:18:26
+Δ time (since last report): 00:01:10
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1472,14 +1472,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Helmet
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-29 16:15:40Z → 2026-06-05 16:15:40Z
+Week window (UTC)         : 2026-05-30 15:50:46Z → 2026-06-06 15:50:46Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1487,25 +1487,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :           ▁▁▂▇▆▅█▁      
+Heatmap (24h)             :          █              
+Heatmap (7d)              :          ▁▁▁▂▆▆▅█▁      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:25:24
+Sessions (24h)            : 1
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 02:22:13
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(24) | jazz(12) | nu metal(10) | alternative metal(9) | rap metal(8) | rock(8)
+Top genres (24h)          : alternative metal(1) | groove metal(1) | grunge(1) | noise rock(1) | post-hardcore(1)
+Top genres (7d)           : shoegaze(23) | jazz(12) | alternative metal(10) | nu metal(10) | rap metal(8) | rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-05 16:15:40Z
+Report generated (UTC)    : 2026-06-06 15:50:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1863,7 +1863,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 05 June 2026
+From: 04 December 2023 - To: 06 June 2026
 
 Total Time       : 1,032 hrs 36 mins
 Mostly coding in : Other
@@ -1915,7 +1915,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 05/06/2026 17:41:25 UTC
+Last updated     : 06/06/2026 17:32:06 UTC
 
 ```
 <!--END_SECTION:wakastats-->
