@@ -1448,13 +1448,13 @@ Last played               : Vincemp3 — There's a Reason You're Alone
 Last played (UTC)         : 2026-06-06 23:30:54Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : TOOL — Wings For Marie (Pt 1) → Vincemp3 — There's a Reason You're Alone
-Δ last played (since last): 2026-06-06 23:01:31Z → 2026-06-06 23:30:54Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:15
-Telemetry age             : 00:00:15
-Δ time (since last report): 00:24:34
+Time since last play      : 00:01:31
+Telemetry age             : 00:01:31
+Δ time (since last report): 00:01:16
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1473,7 +1473,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 23:31:09Z → 2026-06-06 23:31:09Z
+Week window (UTC)         : 2026-05-30 23:32:25Z → 2026-06-06 23:32:25Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1497,9 +1497,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(11) | metal(6) | progressive metal(6) | progressive rock(6) | grunge(5) | funk rock(4)
 Top genres (7d)           : alternative metal(20) | rap metal(13) | shoegaze(13) | jazz(12) | nu metal(9) | rock(9)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 23:31:09Z
+Report generated (UTC)    : 2026-06-06 23:32:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
