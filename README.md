@@ -1443,18 +1443,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Overgrown — Give Up
-Last played               : Helmet — I Know
-Last played (UTC)         : 2026-06-06 13:32:21Z
+Now playing               : Overgrown — With Me
+Last played               : Overgrown — Pieces
+Last played (UTC)         : 2026-06-06 22:07:53Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Helmet — I Know → Overgrown — Pieces
+Δ last played (since last): 2026-06-06 13:32:21Z → 2026-06-06 22:07:53Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 08:29:11
-Telemetry age             : 08:29:11
-Δ time (since last report): 00:17:27
+Time since last play      : 00:00:57
+Telemetry age             : 00:00:57
+Δ time (since last report): 00:07:19
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1466,14 +1466,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Helmet
+Tracks played (last 24h)  : 3
+Dominant artist           : Overgrown
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 22:01:31Z → 2026-06-06 22:01:31Z
+Week window (UTC)         : 2026-05-30 22:08:49Z → 2026-06-06 22:08:49Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1481,25 +1481,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 09:00
+Peak hour (24h)           : 18:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :          █              
-Heatmap (7d)              :          ▁▁▁▂▆▆▅█▂      
+Heatmap (24h)             :          ▄        █     
+Heatmap (7d)              :          ▁▁▁▂▄▆▅█▂▁     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:22:09
+Sessions (24h)            : 2
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 02:32:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(1) | groove metal(1) | grunge(1) | noise rock(1) | post-hardcore(1)
-Top genres (7d)           : shoegaze(23) | jazz(12) | alternative metal(11) | nu metal(11) | rap metal(9) | rock(9)
+Top genres (7d)           : shoegaze(22) | jazz(12) | alternative metal(11) | nu metal(11) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 22:01:31Z
+Report generated (UTC)    : 2026-06-06 22:08:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
