@@ -1448,13 +1448,13 @@ Last played               : Black Bile — L'Oratoire
 Last played (UTC)         : 2026-06-06 23:56:38Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Black Coast — SEX → Black Bile — L'Oratoire
-Δ last played (since last): 2026-06-06 23:33:34Z → 2026-06-06 23:56:38Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:52
-Telemetry age             : 00:01:52
-Δ time (since last report): 00:23:17
+Time since last play      : 00:02:24
+Telemetry age             : 00:02:24
+Δ time (since last report): 00:00:32
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1473,7 +1473,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 23:58:30Z → 2026-06-06 23:58:30Z
+Week window (UTC)         : 2026-05-30 23:59:01Z → 2026-06-06 23:59:01Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1497,9 +1497,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(11) | metal(6) | progressive metal(6) | progressive rock(6) | grunge(5) | funk rock(4)
 Top genres (7d)           : alternative metal(20) | rap metal(13) | shoegaze(13) | nu metal(10) | jazz(9) | rock(9)
-Artist lookups (this run) : 5 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 23:58:30Z
+Report generated (UTC)    : 2026-06-06 23:59:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
