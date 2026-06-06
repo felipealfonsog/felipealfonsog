@@ -1443,18 +1443,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Elephant Tree — Wasted
-Last played               : Black Coast — SEX
-Last played (UTC)         : 2026-06-06 23:33:34Z
+Now playing               : VIOLENT VIRA — God Complex
+Last played               : Black Bile — L'Oratoire
+Last played (UTC)         : 2026-06-06 23:56:38Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Vincemp3 — There's a Reason You're Alone → Black Coast — SEX
-Δ last played (since last): 2026-06-06 23:30:54Z → 2026-06-06 23:33:34Z
+Δ track (since last)      : Black Coast — SEX → Black Bile — L'Oratoire
+Δ last played (since last): 2026-06-06 23:33:34Z → 2026-06-06 23:56:38Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:01:39
-Telemetry age             : 00:01:39
-Δ time (since last report): 00:02:48
+Time since last play      : 00:01:52
+Telemetry age             : 00:01:52
+Δ time (since last report): 00:23:17
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1466,14 +1466,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
+Tracks played (last 24h)  : 25
 Dominant artist           : TOOL
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 23:35:13Z → 2026-06-06 23:35:13Z
+Week window (UTC)         : 2026-05-30 23:58:30Z → 2026-06-06 23:58:30Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1481,25 +1481,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
-Peak hour (7d)            : 16:00
-Heatmap (24h)             :          ▁        █▆    
-Heatmap (7d)              :          ▁▁▁▂ ▁▅█▂▆▅    
+Peak hour (24h)           : 19:00
+Peak hour (7d)            : 19:00
+Heatmap (24h)             :          ▁        ▆█    
+Heatmap (7d)              :          ▁▁▁▂  ▂▇▂▆█    
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:33:03
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 02:31:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(11) | metal(6) | progressive metal(6) | progressive rock(6) | grunge(5) | funk rock(4)
-Top genres (7d)           : alternative metal(20) | rap metal(13) | jazz(12) | shoegaze(12) | nu metal(10) | rock(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (7d)           : alternative metal(20) | rap metal(13) | shoegaze(13) | nu metal(10) | jazz(9) | rock(9)
+Artist lookups (this run) : 5 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 23:35:13Z
+Report generated (UTC)    : 2026-06-06 23:58:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

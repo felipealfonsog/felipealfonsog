@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-06-06 23:35:13Z",
+  "report_generated_utc": "2026-06-06 23:58:30Z",
   "status": "PLAYING",
-  "last_track": "Black Coast — SEX",
-  "last_played_utc": "2026-06-06 23:33:34Z",
+  "last_track": "Black Bile — L'Oratoire",
+  "last_played_utc": "2026-06-06 23:56:38Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -924,6 +924,29 @@
     "7dGJo4pcD2V6oG8kP0tJRR": [
       "rap",
       "hip hop"
+    ],
+    "4skBbkxAjVaqb2f2RBxpuM": [
+      "doom metal",
+      "sludge metal",
+      "drone metal"
+    ],
+    "0mvjzTZkF9DSy55SuaCtYk": [
+      "shoegaze"
+    ],
+    "3tLgC2hURdDjOQ5zheUW0R": [
+      "shoegaze"
+    ],
+    "7mhFqGccO5U4pn90mix9S1": [
+      "shoegaze",
+      "slowcore"
+    ],
+    "79z0Z8E5uY2Fc7HO4VGerm": [
+      "stoner rock",
+      "stoner metal",
+      "sludge metal",
+      "doom metal",
+      "space rock",
+      "psychedelic rock"
     ]
   }
 }
