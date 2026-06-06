@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-05_0729Z
+ snapshot_utc : 2026-06-06_0704Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -515,7 +515,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-05T04:36:37+00:00 | last_update=2026-06-05T04:36:37+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-06T04:29:15+00:00 | last_update=2026-06-06T04:29:15+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. Human, All Too Human — Friedrich Nietzsche
@@ -648,13 +648,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 357 ms
-TTFB................ 356 ms
+LATENCY............. 204 ms
+TTFB................ 202 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 30d
+TLS_EXPIRY.......... 88d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -667,9 +667,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PASS
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -683,7 +683,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-05T01:15:33Z
+LAST_PROBE_UTC...... 2026-06-06T04:28:59Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -724,18 +724,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.443759
-longitude      : -70.650880
-altitude       : 30 m
-gps_accuracy   : ±7.7 m
-heading        : 323°
-speed          : 0.4 km/h
-status         : low_movement
+latitude       : -33.444695
+longitude      : -70.650664
+altitude       : 75 m
+gps_accuracy   : ±4.7 m
+heading        : 24°
+speed          : 0.8 km/h
+status         : resting
 phase          : overnight
-local_time     : 03:20
+local_time     : 02:57
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-06-05 07:20:23 UTC
+updated_utc    : 2026-06-06 06:57:43 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -854,7 +854,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-05 04:52:50Z
+DSN snapshot (UTC)       : 2026-06-06 04:42:03Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -865,15 +865,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.941 AU
-Heliocentric distance    : 170.769 AU
-Relative speed           : 32.253 km/s
+Earth distance           : 25.42e9 km | 169.950 AU
+Heliocentric distance    : 170.778 AU
+Relative speed           : 32.459 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:21
-Round-trip latency       : 47:06:43
+One-way light time       : 23:33:26
+Round-trip latency       : 47:06:52
 ------------------------------------------------------------
-Δ distance (since last)  : +194,463 km
-Mission age              : 48 years, 285 days
+Δ distance (since last)  : +194,723 km
+Mission age              : 48 years, 286 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -884,19 +884,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.425 AU
-Heliocentric distance    : 143.062 AU
-Relative speed           : 26.529 km/s
+Earth distance           : 21.31e9 km | 142.426 AU
+Heliocentric distance    : 143.071 AU
+Relative speed           : 26.672 km/s
 ------------------------------------------------------------
 One-way light time       : 19:44:31
-Round-trip latency       : 39:29:02
+Round-trip latency       : 39:29:03
 ------------------------------------------------------------
-Δ distance (since last)  : +14,270 km
-Mission age              : 48 years, 301 days
+Δ distance (since last)  : +17,729 km
+Mission age              : 48 years, 302 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-05 04:52:52Z
+Report generated (UTC)   : 2026-06-06 04:42:06Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1458,9 +1458,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:47:10
-Telemetry age             : 13:47:10
-Δ time (since last report): 00:00:22
+Time since last play      : 37:36:55
+Telemetry age             : 37:36:55
+Δ time (since last report): 00:00:38
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1472,14 +1472,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : 3 Doors Down
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-29 04:52:02Z → 2026-06-05 04:52:02Z
+Week window (UTC)         : 2026-05-30 04:41:48Z → 2026-06-06 04:41:48Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1487,25 +1487,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :           ██            
+Heatmap (24h)             : N/A
 Heatmap (7d)              :           ▁▁▂▇▆▅█▁      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 7
 Avg inter-play gap (7d)   : 01:25:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(2)
+Top genres (24h)          : N/A
 Top genres (7d)           : shoegaze(24) | jazz(12) | nu metal(10) | alternative metal(9) | rap metal(8) | rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-05 04:52:02Z
+Report generated (UTC)    : 2026-06-06 04:41:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1863,7 +1863,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 04 June 2026
+From: 04 December 2023 - To: 05 June 2026
 
 Total Time       : 1,032 hrs 36 mins
 Mostly coding in : Other
@@ -1915,7 +1915,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 05/06/2026 05:42:38 UTC
+Last updated     : 06/06/2026 05:26:45 UTC
 
 ```
 <!--END_SECTION:wakastats-->
