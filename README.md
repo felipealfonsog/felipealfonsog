@@ -1443,18 +1443,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Faith No More — Evidence
-Last played               : Faith No More — Paths of Glory - 2016 Remaster
-Last played (UTC)         : 2026-06-06 22:35:26Z
+Now playing               : TOOL — 10,000 Days (Wings Pt 2)
+Last played               : TOOL — Wings For Marie (Pt 1)
+Last played (UTC)         : 2026-06-06 23:01:31Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Paths of Glory - 2016 Remaster → TOOL — Wings For Marie (Pt 1)
+Δ last played (since last): 2026-06-06 22:35:26Z → 2026-06-06 23:01:31Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:53
-Telemetry age             : 00:02:53
-Δ time (since last report): 00:01:33
+Time since last play      : 00:00:22
+Telemetry age             : 00:00:22
+Δ time (since last report): 00:23:35
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1466,14 +1466,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
+Tracks played (last 24h)  : 12
 Dominant artist           : Faith No More
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 22:38:18Z → 2026-06-06 22:38:18Z
+Week window (UTC)         : 2026-05-30 23:01:52Z → 2026-06-06 23:01:52Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1483,23 +1483,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :          ▁        █     
-Heatmap (7d)              :          ▁▁▁▂▁▆▅█▂▅     
+Heatmap (24h)             :          ▁        █▁    
+Heatmap (7d)              :          ▁▁▁▂ ▅▅█▂▆▁    
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:32:35
+Avg inter-play gap (7d)   : 02:32:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(5) | grunge(5) | funk rock(4) | rap metal(4) | groove metal(1) | noise rock(1)
-Top genres (7d)           : shoegaze(18) | alternative metal(14) | rap metal(13) | jazz(12) | nu metal(10) | rock(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(8) | grunge(5) | funk rock(4) | rap metal(4) | metal(3) | progressive metal(3)
+Top genres (7d)           : alternative metal(17) | shoegaze(15) | rap metal(13) | jazz(12) | nu metal(10) | rock(9)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 22:38:18Z
+Report generated (UTC)    : 2026-06-06 23:01:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
