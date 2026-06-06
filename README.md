@@ -1448,13 +1448,13 @@ Last played               : Overgrown — Pieces
 Last played (UTC)         : 2026-06-06 22:07:53Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Helmet — I Know → Overgrown — Pieces
-Δ last played (since last): 2026-06-06 13:32:21Z → 2026-06-06 22:07:53Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:57
-Telemetry age             : 00:00:57
-Δ time (since last report): 00:07:19
+Time since last play      : 00:02:03
+Telemetry age             : 00:02:03
+Δ time (since last report): 00:01:07
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1473,7 +1473,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 22:08:49Z → 2026-06-06 22:08:49Z
+Week window (UTC)         : 2026-05-30 22:09:56Z → 2026-06-06 22:09:56Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1499,7 +1499,7 @@ Top genres (24h)          : alternative metal(1) | groove metal(1) | grunge(1) |
 Top genres (7d)           : shoegaze(22) | jazz(12) | alternative metal(11) | nu metal(11) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 22:08:49Z
+Report generated (UTC)    : 2026-06-06 22:09:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
