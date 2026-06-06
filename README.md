@@ -1431,34 +1431,35 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
+Now playing               : Overgrown — Give Up
 Last played               : Helmet — I Know
 Last played (UTC)         : 2026-06-06 13:32:21Z
-Last activity type        : NO_ACTIVE_SESSION
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 08:11:44
-Telemetry age             : 08:11:44
-Δ time (since last report): 00:00:28
+Time since last play      : 08:29:11
+Telemetry age             : 08:29:11
+Δ time (since last report): 00:17:27
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1472,7 +1473,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 21:44:05Z → 2026-06-06 21:44:05Z
+Week window (UTC)         : 2026-05-30 22:01:31Z → 2026-06-06 22:01:31Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1483,22 +1484,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 16:00
 Heatmap (24h)             :          █              
-Heatmap (7d)              :          ▁▁▁▂▆▆▅█▁      
+Heatmap (7d)              :          ▁▁▁▂▆▆▅█▂      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:22:13
+Avg inter-play gap (7d)   : 02:22:09
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(1) | groove metal(1) | grunge(1) | noise rock(1) | post-hardcore(1)
-Top genres (7d)           : shoegaze(23) | jazz(12) | alternative metal(10) | nu metal(10) | rap metal(8) | rock(8)
+Top genres (7d)           : shoegaze(23) | jazz(12) | alternative metal(11) | nu metal(11) | rap metal(9) | rock(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 21:44:05Z
+Report generated (UTC)    : 2026-06-06 22:01:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
