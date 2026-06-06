@@ -1443,17 +1443,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : 3 Doors Down — Your Arms Feel Like home
-Last played (UTC)         : 2026-06-04 15:04:53Z
+Last played               : Helmet — I Know
+Last played (UTC)         : 2026-06-06 13:32:21Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : 3 Doors Down — Your Arms Feel Like home → Helmet — I Know
+Δ last played (since last): 2026-06-04 15:04:53Z → 2026-06-06 13:32:21Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 45:45:02
-Telemetry age             : 45:45:02
-Δ time (since last report): 00:00:46
+Time since last play      : 02:16:34
+Telemetry age             : 02:16:34
+Δ time (since last report): 02:59:01
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1465,14 +1465,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Helmet
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 12:49:54Z → 2026-06-06 12:49:54Z
+Week window (UTC)         : 2026-05-30 15:48:54Z → 2026-06-06 15:48:54Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1480,25 +1480,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :           ▁▁▂▇▆▅█▁      
+Heatmap (24h)             :          █              
+Heatmap (7d)              :          ▁▁▁▂▆▆▅█▁      
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:25:24
+Sessions (24h)            : 1
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 02:22:13
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(24) | jazz(12) | nu metal(10) | alternative metal(9) | rap metal(8) | rock(8)
+Top genres (24h)          : alternative metal(1) | groove metal(1) | grunge(1) | noise rock(1) | post-hardcore(1)
+Top genres (7d)           : shoegaze(23) | jazz(12) | alternative metal(10) | nu metal(10) | rap metal(8) | rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 12:49:54Z
+Report generated (UTC)    : 2026-06-06 15:48:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
