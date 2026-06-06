@@ -1448,13 +1448,13 @@ Last played               : TOOL — Wings For Marie (Pt 1)
 Last played (UTC)         : 2026-06-06 23:01:31Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Paths of Glory - 2016 Remaster → TOOL — Wings For Marie (Pt 1)
-Δ last played (since last): 2026-06-06 22:35:26Z → 2026-06-06 23:01:31Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:22
-Telemetry age             : 00:00:22
-Δ time (since last report): 00:23:35
+Time since last play      : 00:02:18
+Telemetry age             : 00:02:18
+Δ time (since last report): 00:01:57
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1473,7 +1473,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 23:01:52Z → 2026-06-06 23:01:52Z
+Week window (UTC)         : 2026-05-30 23:03:49Z → 2026-06-06 23:03:49Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1497,9 +1497,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(8) | grunge(5) | funk rock(4) | rap metal(4) | metal(3) | progressive metal(3)
 Top genres (7d)           : alternative metal(17) | shoegaze(15) | rap metal(13) | jazz(12) | nu metal(10) | rock(9)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 23:01:52Z
+Report generated (UTC)    : 2026-06-06 23:03:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
