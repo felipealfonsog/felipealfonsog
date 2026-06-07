@@ -1443,17 +1443,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Faith No More — Stripsearch - 2016 Remaster
-Last played (UTC)         : 2026-06-07 02:49:55Z
+Last played               : Faith No More — Last Cup of Sorrow - 2016 Remaster
+Last played (UTC)         : 2026-06-07 03:13:30Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Stripsearch - 2016 Remaster → Faith No More — Last Cup of Sorrow - 2016 Remaster
+Δ last played (since last): 2026-06-07 02:49:55Z → 2026-06-07 03:13:30Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:07:16
-Telemetry age             : 02:07:16
-Δ time (since last report): 00:01:01
+Time since last play      : 04:29:32
+Telemetry age             : 04:29:32
+Δ time (since last report): 02:45:51
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1472,7 +1472,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-31 04:57:11Z → 2026-06-07 04:57:11Z
+Week window (UTC)         : 2026-05-31 07:43:02Z → 2026-06-07 07:43:02Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1482,23 +1482,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :          ▁        ▅██▃▂ 
-Heatmap (7d)              :          ▁        ▅██▃▂ 
+Heatmap (24h)             :                   ▅██▃▂▁
+Heatmap (7d)              :                   ▅██▃▂▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:16:17
+Sessions (24h)            : 2
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 00:06:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(15) | jazz(14) | grunge(9) | funk rock(8) | rap metal(8) | progressive metal(7)
-Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(9) | funk rock(8) | rap metal(8) | progressive metal(7)
+Top genres (24h)          : alternative metal(15) | jazz(14) | funk rock(9) | grunge(9) | rap metal(9) | progressive metal(7)
+Top genres (7d)           : alternative metal(15) | jazz(14) | funk rock(9) | grunge(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-07 04:57:11Z
+Report generated (UTC)    : 2026-06-07 07:43:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
