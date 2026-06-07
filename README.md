@@ -1443,17 +1443,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Bernhard Cohen — Molly's theme
-Last played (UTC)         : 2026-06-07 01:27:36Z
+Last played               : Faith No More — Stripsearch - 2016 Remaster
+Last played (UTC)         : 2026-06-07 02:49:55Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The North Sea Trio — Imagination → Bernhard Cohen — Molly's theme
-Δ last played (since last): 2026-06-07 01:14:50Z → 2026-06-07 01:27:36Z
+Δ track (since last)      : Bernhard Cohen — Molly's theme → Faith No More — Stripsearch - 2016 Remaster
+Δ last played (since last): 2026-06-07 01:27:36Z → 2026-06-07 02:49:55Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:23
-Telemetry age             : 00:00:23
-Δ time (since last report): 00:00:17
+Time since last play      : 02:05:39
+Telemetry age             : 02:05:39
+Δ time (since last report): 03:27:35
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1465,16 +1465,16 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 46
-Dominant artist           : TOOL
+Tracks played (last 24h)  : 50
+Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-31 01:27:59Z → 2026-06-07 01:27:59Z
+Week window (UTC)         : 2026-05-31 04:55:34Z → 2026-06-07 04:55:34Z
 Total tracks played       : 50
-Dominant artist           : TOOL
+Dominant artist           : Faith No More
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1482,23 +1482,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :          ▁        ▅██▃  
-Heatmap (7d)              :          ▁▁▁     ▁▅██▃  
+Heatmap (24h)             :          ▁        ▅██▃▂ 
+Heatmap (7d)              :          ▁        ▅██▃▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:33:25
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:16:17
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(14) | alternative metal(11) | progressive metal(7) | progressive rock(7) | metal(6) | grunge(5)
-Top genres (7d)           : jazz(14) | alternative metal(13) | progressive metal(7) | progressive rock(7) | shoegaze(7) | metal(6)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : alternative metal(15) | jazz(14) | grunge(9) | funk rock(8) | rap metal(8) | progressive metal(7)
+Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(9) | funk rock(8) | rap metal(8) | progressive metal(7)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-07 01:27:59Z
+Report generated (UTC)    : 2026-06-07 04:55:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
