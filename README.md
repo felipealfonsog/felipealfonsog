@@ -1447,13 +1447,13 @@ Last played               : Faith No More — Last Cup of Sorrow - 2016 Remaster
 Last played (UTC)         : 2026-06-07 03:13:30Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Stripsearch - 2016 Remaster → Faith No More — Last Cup of Sorrow - 2016 Remaster
-Δ last played (since last): 2026-06-07 02:49:55Z → 2026-06-07 03:13:30Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:29:32
-Telemetry age             : 04:29:32
-Δ time (since last report): 02:45:51
+Time since last play      : 07:00:53
+Telemetry age             : 07:00:53
+Δ time (since last report): 02:31:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1472,7 +1472,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-31 07:43:02Z → 2026-06-07 07:43:02Z
+Week window (UTC)         : 2026-05-31 10:14:23Z → 2026-06-07 10:14:23Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1498,7 +1498,7 @@ Top genres (24h)          : alternative metal(15) | jazz(14) | funk rock(9) | gr
 Top genres (7d)           : alternative metal(15) | jazz(14) | funk rock(9) | grunge(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-07 07:43:02Z
+Report generated (UTC)    : 2026-06-07 10:14:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
