@@ -1431,51 +1431,50 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : GAUPA — Elden
-Last played               : VIOLENT VIRA — God Complex
-Last played (UTC)         : 2026-06-06 23:59:34Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : The North Sea Trio — Imagination
+Last played (UTC)         : 2026-06-07 01:14:50Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Black Bile — L'Oratoire → VIOLENT VIRA — God Complex
-Δ last played (since last): 2026-06-06 23:56:38Z → 2026-06-06 23:59:34Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : VIOLENT VIRA — God Complex → The North Sea Trio — Imagination
+Δ last played (since last): 2026-06-06 23:59:34Z → 2026-06-07 01:14:50Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:03:14
-Telemetry age             : 00:03:14
-Δ time (since last report): 00:03:47
+Time since last play      : 00:12:52
+Telemetry age             : 00:12:52
+Δ time (since last report): 01:24:54
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 26
+Tracks played (last 24h)  : 45
 Dominant artist           : TOOL
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-31 00:02:48Z → 2026-06-07 00:02:48Z
+Week window (UTC)         : 2026-05-31 01:27:42Z → 2026-06-07 01:27:42Z
 Total tracks played       : 50
-Dominant artist           : Deftones
+Dominant artist           : TOOL
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1483,23 +1482,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :          ▁        ▅█    
-Heatmap (7d)              :          ▁▁▁▂  ▂▆▂▅█    
+Heatmap (24h)             :          ▁        ▅██▂  
+Heatmap (7d)              :          ▁▁▁     ▂▅██▂  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:31:43
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 01:33:17
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(11) | metal(6) | progressive metal(6) | progressive rock(6) | grunge(5) | funk rock(4)
-Top genres (7d)           : alternative metal(20) | rap metal(13) | shoegaze(13) | nu metal(10) | rock(9) | jazz(8)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : jazz(13) | alternative metal(11) | progressive metal(7) | progressive rock(7) | metal(6) | grunge(5)
+Top genres (7d)           : alternative metal(14) | jazz(13) | shoegaze(8) | progressive metal(7) | progressive rock(7) | rap metal(7)
+Artist lookups (this run) : 14 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-07 00:02:48Z
+Report generated (UTC)    : 2026-06-07 01:27:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

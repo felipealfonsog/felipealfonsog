@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-06-07 00:02:48Z",
-  "status": "PLAYING",
-  "last_track": "VIOLENT VIRA — God Complex",
-  "last_played_utc": "2026-06-06 23:59:34Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-06-07 01:27:42Z",
+  "status": "IDLE",
+  "last_track": "The North Sea Trio — Imagination",
+  "last_played_utc": "2026-06-07 01:14:50Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -948,6 +948,57 @@
       "space rock",
       "psychedelic rock"
     ],
-    "298H8XdYsBHii98wfAZT1S": []
+    "298H8XdYsBHii98wfAZT1S": [],
+    "1aalpsSEZpG1wLuLvXcCco": [
+      "jazz"
+    ],
+    "7fHixSSo2DvBypEXNKjgBl": [
+      "jazz"
+    ],
+    "72pfIIbH2JQbShGyx4c7ri": [
+      "jazz",
+      "smooth jazz"
+    ],
+    "2p01LeKL4qyvQ5xKWs9S40": [
+      "jazz"
+    ],
+    "2i25BOgCBeXtPKKpj3I0NJ": [
+      "jazz"
+    ],
+    "2Al01GKqZ47q0irdqBXMQr": [
+      "jazz"
+    ],
+    "5IDJIXonrrl2nVcd4LZTQf": [
+      "jazz"
+    ],
+    "10yIBprceJrz7GP0BkENlg": [
+      "jazz"
+    ],
+    "5YyVZ8kxK9sRVEg1pBh1PV": [
+      "jazz"
+    ],
+    "4gefXT9y8hdGtxBmkHN2HA": [],
+    "7zsTHkJCBtSjcg1Ptl8FDD": [
+      "jazz"
+    ],
+    "7jWdMH4K9omZ4z2UkGkz6N": [
+      "shoegaze"
+    ],
+    "6nlUvNHe3PxYDLR3FyYz2H": [
+      "stoner rock",
+      "stoner metal",
+      "space rock",
+      "sludge metal",
+      "doom metal",
+      "psychedelic rock",
+      "drone metal"
+    ],
+    "2xODNufQxAtc0gmDIhsjkg": [
+      "stoner rock",
+      "stoner metal",
+      "sludge metal",
+      "doom metal",
+      "space rock"
+    ]
   }
 }
