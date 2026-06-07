@@ -1443,17 +1443,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : The North Sea Trio — Imagination
-Last played (UTC)         : 2026-06-07 01:14:50Z
+Last played               : Bernhard Cohen — Molly's theme
+Last played (UTC)         : 2026-06-07 01:27:36Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : VIOLENT VIRA — God Complex → The North Sea Trio — Imagination
-Δ last played (since last): 2026-06-06 23:59:34Z → 2026-06-07 01:14:50Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : The North Sea Trio — Imagination → Bernhard Cohen — Molly's theme
+Δ last played (since last): 2026-06-07 01:14:50Z → 2026-06-07 01:27:36Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:12:52
-Telemetry age             : 00:12:52
-Δ time (since last report): 01:24:54
+Time since last play      : 00:00:23
+Telemetry age             : 00:00:23
+Δ time (since last report): 00:00:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1465,14 +1465,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 45
+Tracks played (last 24h)  : 46
 Dominant artist           : TOOL
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-31 01:27:42Z → 2026-06-07 01:27:42Z
+Week window (UTC)         : 2026-05-31 01:27:59Z → 2026-06-07 01:27:59Z
 Total tracks played       : 50
 Dominant artist           : TOOL
 Cadence classification    : HIGH
@@ -1482,23 +1482,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :          ▁        ▅██▂  
-Heatmap (7d)              :          ▁▁▁     ▂▅██▂  
+Heatmap (24h)             :          ▁        ▅██▃  
+Heatmap (7d)              :          ▁▁▁     ▁▅██▃  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:33:17
+Avg inter-play gap (7d)   : 01:33:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(13) | alternative metal(11) | progressive metal(7) | progressive rock(7) | metal(6) | grunge(5)
-Top genres (7d)           : alternative metal(14) | jazz(13) | shoegaze(8) | progressive metal(7) | progressive rock(7) | rap metal(7)
-Artist lookups (this run) : 14 (cached)
+Top genres (24h)          : jazz(14) | alternative metal(11) | progressive metal(7) | progressive rock(7) | metal(6) | grunge(5)
+Top genres (7d)           : jazz(14) | alternative metal(13) | progressive metal(7) | progressive rock(7) | shoegaze(7) | metal(6)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-07 01:27:42Z
+Report generated (UTC)    : 2026-06-07 01:27:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
