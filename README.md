@@ -1443,18 +1443,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : VIOLENT VIRA — God Complex
-Last played               : Black Bile — L'Oratoire
-Last played (UTC)         : 2026-06-06 23:56:38Z
+Now playing               : GAUPA — Elden
+Last played               : VIOLENT VIRA — God Complex
+Last played (UTC)         : 2026-06-06 23:59:34Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Black Bile — L'Oratoire → VIOLENT VIRA — God Complex
+Δ last played (since last): 2026-06-06 23:56:38Z → 2026-06-06 23:59:34Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:24
-Telemetry age             : 00:02:24
-Δ time (since last report): 00:00:32
+Time since last play      : 00:03:14
+Telemetry age             : 00:03:14
+Δ time (since last report): 00:03:47
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1466,14 +1466,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
+Tracks played (last 24h)  : 26
 Dominant artist           : TOOL
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-30 23:59:01Z → 2026-06-06 23:59:01Z
+Week window (UTC)         : 2026-05-31 00:02:48Z → 2026-06-07 00:02:48Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1483,23 +1483,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :          ▁        ▆█    
-Heatmap (7d)              :          ▁▁▁▂  ▂▇▂▆█    
+Heatmap (24h)             :          ▁        ▅█    
+Heatmap (7d)              :          ▁▁▁▂  ▂▆▂▅█    
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:31:44
+Avg inter-play gap (7d)   : 02:31:43
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(11) | metal(6) | progressive metal(6) | progressive rock(6) | grunge(5) | funk rock(4)
-Top genres (7d)           : alternative metal(20) | rap metal(13) | shoegaze(13) | nu metal(10) | jazz(9) | rock(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (7d)           : alternative metal(20) | rap metal(13) | shoegaze(13) | nu metal(10) | rock(9) | jazz(8)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-06 23:59:01Z
+Report generated (UTC)    : 2026-06-07 00:02:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

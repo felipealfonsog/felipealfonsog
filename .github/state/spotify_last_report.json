@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-06-06 23:59:01Z",
+  "report_generated_utc": "2026-06-07 00:02:48Z",
   "status": "PLAYING",
-  "last_track": "Black Bile — L'Oratoire",
-  "last_played_utc": "2026-06-06 23:56:38Z",
+  "last_track": "VIOLENT VIRA — God Complex",
+  "last_played_utc": "2026-06-06 23:59:34Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -947,6 +947,7 @@
       "doom metal",
       "space rock",
       "psychedelic rock"
-    ]
+    ],
+    "298H8XdYsBHii98wfAZT1S": []
   }
 }
