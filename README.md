@@ -1447,13 +1447,13 @@ Last played               : Pearl Jam — Black
 Last played (UTC)         : 2026-06-08 06:37:50Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Last Cup of Sorrow - 2016 Remaster → Pearl Jam — Black
-Δ last played (since last): 2026-06-07 03:13:30Z → 2026-06-08 06:37:50Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:29:35
-Telemetry age             : 01:29:35
-Δ time (since last report): 03:08:22
+Time since last play      : 04:24:36
+Telemetry age             : 04:24:36
+Δ time (since last report): 02:55:02
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1472,7 +1472,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-01 08:07:24Z → 2026-06-08 08:07:24Z
+Week window (UTC)         : 2026-06-01 11:02:25Z → 2026-06-08 11:02:25Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1498,7 +1498,7 @@ Top genres (24h)          : grunge(2) | post-grunge(2) | rock(2)
 Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-08 08:07:24Z
+Report generated (UTC)    : 2026-06-08 11:02:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
