@@ -1443,17 +1443,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Faith No More — Last Cup of Sorrow - 2016 Remaster
-Last played (UTC)         : 2026-06-07 03:13:30Z
+Last played               : Pearl Jam — Black
+Last played (UTC)         : 2026-06-08 06:37:50Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Last Cup of Sorrow - 2016 Remaster → Pearl Jam — Black
+Δ last played (since last): 2026-06-07 03:13:30Z → 2026-06-08 06:37:50Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 25:45:34
-Telemetry age             : 25:45:34
-Δ time (since last report): 00:00:33
+Time since last play      : 01:29:35
+Telemetry age             : 01:29:35
+Δ time (since last report): 03:08:22
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1465,14 +1465,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 2
+Dominant artist           : Pearl Jam
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-01 04:59:03Z → 2026-06-08 04:59:03Z
+Week window (UTC)         : 2026-06-01 08:07:24Z → 2026-06-08 08:07:24Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1480,25 +1480,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 00:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :                   ▅██▃▂▁
+Heatmap (24h)             : █ █                     
+Heatmap (7d)              : ▁ ▁               ▄██▃▂▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:06:20
+Sessions (24h)            : 2
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 00:39:45
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(15) | jazz(14) | funk rock(9) | grunge(9) | rap metal(9) | progressive metal(7)
+Top genres (24h)          : grunge(2) | post-grunge(2) | rock(2)
+Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-08 04:59:03Z
+Report generated (UTC)    : 2026-06-08 08:07:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
