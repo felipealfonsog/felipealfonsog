@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-07_0044Z
+ snapshot_utc : 2026-06-08_0046Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -515,7 +515,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-06T21:29:54+00:00 | last_update=2026-06-06T21:29:54+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-07T21:33:18+00:00 | last_update=2026-06-07T21:33:18+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. Human, All Too Human — Friedrich Nietzsche
@@ -648,13 +648,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 201 ms
-TTFB................ 200 ms
+LATENCY............. 149 ms
+TTFB................ 147 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 88d
+TLS_EXPIRY.......... 87d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -683,7 +683,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-06T15:34:33Z
+LAST_PROBE_UTC...... 2026-06-07T18:37:46Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -724,18 +724,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : transit_corridor
-latitude       : -33.446191
-longitude      : -70.661682
-altitude       : 32 m
-gps_accuracy   : ±8.1 m
-heading        : 286°
-speed          : 4.7 km/h
-status         : walking
+latitude       : -33.445995
+longitude      : -70.661303
+altitude       : 144 m
+gps_accuracy   : ±7.5 m
+heading        : 340°
+speed          : 2.2 km/h
+status         : in_transit
 phase          : evening
-local_time     : 20:22
+local_time     : 20:24
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-06-07 00:22:57 UTC
+updated_utc    : 2026-06-08 00:24:51 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -854,7 +854,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-06 12:51:01Z
+DSN snapshot (UTC)       : 2026-06-07 21:47:23Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -865,15 +865,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.42e9 km | 169.953 AU
-Heliocentric distance    : 170.782 AU
-Relative speed           : 32.530 km/s
+Earth distance           : 25.43e9 km | 169.966 AU
+Heliocentric distance    : 170.795 AU
+Relative speed           : 32.814 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:27
-Round-trip latency       : 47:06:55
+One-way light time       : 23:33:34
+Round-trip latency       : 47:07:08
 ------------------------------------------------------------
-Δ distance (since last)  : +315,074 km
-Mission age              : 48 years, 286 days
+Δ distance (since last)  : +178,236 km
+Mission age              : 48 years, 287 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -884,19 +884,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.426 AU
-Heliocentric distance    : 143.074 AU
-Relative speed           : 26.722 km/s
+Earth distance           : 21.31e9 km | 142.428 AU
+Heliocentric distance    : 143.085 AU
+Relative speed           : 26.924 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:31
-Round-trip latency       : 39:29:03
+One-way light time       : 19:44:32
+Round-trip latency       : 39:29:04
 ------------------------------------------------------------
-Δ distance (since last)  : +30,308 km
-Mission age              : 48 years, 302 days
+Δ distance (since last)  : +21,410 km
+Mission age              : 48 years, 303 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-06 12:51:04Z
+Report generated (UTC)   : 2026-06-07 21:47:28Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1438,51 +1438,50 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : GAUPA — Elden
-Last played               : VIOLENT VIRA — God Complex
-Last played (UTC)         : 2026-06-06 23:59:34Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Faith No More — Last Cup of Sorrow - 2016 Remaster
+Last played (UTC)         : 2026-06-07 03:13:30Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Black Bile — L'Oratoire → VIOLENT VIRA — God Complex
-Δ last played (since last): 2026-06-06 23:56:38Z → 2026-06-06 23:59:34Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:14
-Telemetry age             : 00:03:14
-Δ time (since last report): 00:03:47
+Time since last play      : 18:33:29
+Telemetry age             : 18:33:29
+Δ time (since last report): 00:00:36
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 26
-Dominant artist           : TOOL
+Tracks played (last 24h)  : 50
+Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-05-31 00:02:48Z → 2026-06-07 00:02:48Z
+Week window (UTC)         : 2026-05-31 21:46:59Z → 2026-06-07 21:46:59Z
 Total tracks played       : 50
-Dominant artist           : Deftones
+Dominant artist           : Faith No More
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1490,23 +1489,23 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 19:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :          ▁        ▅█    
-Heatmap (7d)              :          ▁▁▁▂  ▂▆▂▅█    
+Heatmap (24h)             :                   ▅██▃▂▁
+Heatmap (7d)              :                   ▅██▃▂▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 02:31:43
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 00:06:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(11) | metal(6) | progressive metal(6) | progressive rock(6) | grunge(5) | funk rock(4)
-Top genres (7d)           : alternative metal(20) | rap metal(13) | shoegaze(13) | nu metal(10) | rock(9) | jazz(8)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : alternative metal(15) | jazz(14) | funk rock(9) | grunge(9) | rap metal(9) | progressive metal(7)
+Top genres (7d)           : alternative metal(15) | jazz(14) | funk rock(9) | grunge(9) | rap metal(9) | progressive metal(7)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-07 00:02:48Z
+Report generated (UTC)    : 2026-06-07 21:46:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1864,9 +1863,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 06 June 2026
+From: 04 December 2023 - To: 07 June 2026
 
-Total Time       : 1,032 hrs 36 mins
+Total Time       : 1,032 hrs 43 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 7 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1875,12 +1874,12 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          578 hrs 32 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.03 %
+Other          584 hrs 29 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.60 %
 Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.11 %
 Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.48 %
 HTML           135 hrs 57 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
 PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.53 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.83 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.82 %
 C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.14 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.87 %
 Text           38 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
@@ -1888,35 +1887,35 @@ YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            903 hrs 44 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  87.52 %
-Linux          707 hrs 24 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.51 %
+Mac            909 hrs 48 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  88.10 %
+Linux          707 hrs 24 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.50 %
 
 EDITORS - APPS
 --------------
-VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.67 %
-Firefox        467 hrs 56 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.32 %
+VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.66 %
+Firefox        468 hrs 38 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.38 %
 Vim            336 hrs 46 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.61 %
-Terminal       32 hrs 53 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.19 %
-Spotify        21 hrs 25 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.08 %
+Terminal       33 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.29 %
+Spotify        21 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.11 %
+Dia            14 hrs 17 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.38 %
 Acrobat        13 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
 ‎WhatsApp      13 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Dia            10 hrs 40 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.03 %
-Termius        8 hrs 48 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
-FileZilla      7 hrs 9 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.69 %
-Antigravity    6 hrs 6 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.59 %
+Termius        8 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
+FileZilla      7 hrs 12 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.70 %
+Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
 
 CATEGORIES
 ----------
-Coding         1,120 hrs 51 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       464 hrs 31 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  44.99 %
+Coding         1,126 hrs 11 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       465 hrs 13 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.05 %
 Meeting        22 hrs 11 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
-Writing Docs   3 hrs 33 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.34 %
+Writing Docs   3 hrs 36 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 06/06/2026 22:29:53 UTC
+Last updated     : 07/06/2026 22:30:01 UTC
 
 ```
 <!--END_SECTION:wakastats-->
