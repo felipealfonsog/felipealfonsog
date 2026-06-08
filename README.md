@@ -1451,9 +1451,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:15:14
-Telemetry age             : 22:15:14
-Δ time (since last report): 00:00:15
+Time since last play      : 25:45:02
+Telemetry age             : 25:45:02
+Δ time (since last report): 03:29:49
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1465,14 +1465,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
-Dominant artist           : Faith No More
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-01 01:28:43Z → 2026-06-08 01:28:43Z
+Week window (UTC)         : 2026-06-01 04:58:31Z → 2026-06-08 04:58:31Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1480,25 +1480,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 19:00
-Heatmap (24h)             :                       █▂
+Heatmap (24h)             : N/A
 Heatmap (7d)              :                   ▅██▃▂▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 2
 Avg inter-play gap (7d)   : 00:06:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(5) | funk rock(5) | grunge(5) | rap metal(5)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(15) | jazz(14) | funk rock(9) | grunge(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-08 01:28:43Z
+Report generated (UTC)    : 2026-06-08 04:58:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
