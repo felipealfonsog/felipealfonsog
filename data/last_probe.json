@@ -3,8 +3,8 @@
   "profile": "FULL-SPECTRUM",
   "status": "ONLINE",
   "http": "200 OK",
-  "latency_ms": 207,
-  "ttfb_ms": 206,
+  "latency_ms": 168,
+  "ttfb_ms": 167,
   "uptime": {
     "uptime_24h": "100.000%",
     "uptime_7d": "99.987%",
@@ -39,7 +39,7 @@
   "cache_signal": "UNKNOWN",
   "content_length": "43 KB",
   "anomaly_signal": "NONE",
-  "last_probe_utc": "2026-06-09T10:21:17Z",
+  "last_probe_utc": "2026-06-09T13:13:34Z",
   "data_state": "LIVE",
   "probe_confidence": "HIGH",
   "http_protocol": "http/1.1",
@@ -49,9 +49,9 @@
   "ipv4": "104.21.56.223",
   "ipv6": "2606:4700:3034::ac43:9c22",
   "rdns": null,
-  "tor_browser_compat": "FAIL",
+  "tor_browser_compat": "PASS",
   "tor_fetch_mode": "SOCKS5",
-  "tor_exit_result": "TIMEOUT_OR_DENY",
+  "tor_exit_result": "SUCCESS",
   "onion_status": "NOT_PRESENT",
   "onion_location": "ABSENT"
 }
