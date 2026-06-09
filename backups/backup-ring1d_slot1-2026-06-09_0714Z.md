@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-08_0742Z
+ snapshot_utc : 2026-06-09_0714Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -515,7 +515,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-08T04:39:18+00:00 | last_update=2026-06-08T04:39:18+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-09T04:32:23+00:00 | last_update=2026-06-09T04:32:23+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. Human, All Too Human — Friedrich Nietzsche
@@ -648,8 +648,8 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 223 ms
-TTFB................ 222 ms
+LATENCY............. 188 ms
+TTFB................ 187 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -667,9 +667,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PASS
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -683,7 +683,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-08T04:38:58Z
+LAST_PROBE_UTC...... 2026-06-09T01:10:01Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -724,18 +724,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : residential_sector
-latitude       : -33.442445
-longitude      : -70.653565
-altitude       : 97 m
-gps_accuracy   : ±8.1 m
-heading        : 72°
-speed          : 0.7 km/h
-status         : stationary
+latitude       : -33.441774
+longitude      : -70.653786
+altitude       : 157 m
+gps_accuracy   : ±6.4 m
+heading        : 36°
+speed          : 0.3 km/h
+status         : low_movement
 phase          : overnight
-local_time     : 03:30
+local_time     : 03:05
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-06-08 07:30:23 UTC
+updated_utc    : 2026-06-09 07:05:38 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -854,7 +854,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-08 04:59:47Z
+DSN snapshot (UTC)       : 2026-06-09 04:48:28Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -865,15 +865,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 169.969 AU
-Heliocentric distance    : 170.798 AU
-Relative speed           : 32.876 km/s
+Earth distance           : 25.43e9 km | 169.979 AU
+Heliocentric distance    : 170.808 AU
+Relative speed           : 33.081 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:35
-Round-trip latency       : 47:07:11
+One-way light time       : 23:33:40
+Round-trip latency       : 47:07:20
 ------------------------------------------------------------
-Δ distance (since last)  : +212,770 km
-Mission age              : 48 years, 288 days
+Δ distance (since last)  : +215,839 km
+Mission age              : 48 years, 289 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -884,19 +884,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.428 AU
-Heliocentric distance    : 143.088 AU
-Relative speed           : 26.968 km/s
+Earth distance           : 21.31e9 km | 142.430 AU
+Heliocentric distance    : 143.097 AU
+Relative speed           : 27.117 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:32
-Round-trip latency       : 39:29:05
+One-way light time       : 19:44:33
+Round-trip latency       : 39:29:06
 ------------------------------------------------------------
-Δ distance (since last)  : +26,559 km
-Mission age              : 48 years, 304 days
+Δ distance (since last)  : +30,363 km
+Mission age              : 48 years, 305 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-08 04:59:51Z
+Report generated (UTC)   : 2026-06-09 04:48:30Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1450,17 +1450,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Faith No More — Last Cup of Sorrow - 2016 Remaster
-Last played (UTC)         : 2026-06-07 03:13:30Z
+Last played               : Pearl Jam — Black
+Last played (UTC)         : 2026-06-08 06:37:50Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 25:45:34
-Telemetry age             : 25:45:34
-Δ time (since last report): 00:00:33
+Time since last play      : 22:10:04
+Telemetry age             : 22:10:04
+Δ time (since last report): 00:00:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1472,14 +1472,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Pearl Jam
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-01 04:59:03Z → 2026-06-08 04:59:03Z
+Week window (UTC)         : 2026-06-02 04:47:54Z → 2026-06-09 04:47:54Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1487,25 +1487,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 02:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :                   ▅██▃▂▁
+Heatmap (24h)             :   █                     
+Heatmap (7d)              : ▁ ▁               ▄██▃▂▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:06:20
+Sessions (24h)            : 1
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 00:39:45
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(15) | jazz(14) | funk rock(9) | grunge(9) | rap metal(9) | progressive metal(7)
+Top genres (24h)          : grunge(1) | post-grunge(1) | rock(1)
+Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-08 04:59:03Z
+Report generated (UTC)    : 2026-06-09 04:47:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1863,7 +1863,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 07 June 2026
+From: 04 December 2023 - To: 08 June 2026
 
 Total Time       : 1,032 hrs 43 mins
 Mostly coding in : Other
@@ -1874,7 +1874,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          584 hrs 29 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.60 %
+Other          586 hrs 7 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.76 %
 Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.11 %
 Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.48 %
 HTML           135 hrs 57 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
@@ -1887,17 +1887,17 @@ YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            909 hrs 48 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  88.10 %
-Linux          707 hrs 24 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.50 %
+Mac            911 hrs 7 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  88.22 %
+Linux          707 hrs 43 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.53 %
 
 EDITORS - APPS
 --------------
 VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.66 %
-Firefox        468 hrs 38 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.38 %
+Firefox        468 hrs 54 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.40 %
 Vim            336 hrs 46 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.61 %
 Terminal       33 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.29 %
 Spotify        21 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.11 %
-Dia            14 hrs 17 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.38 %
+Dia            15 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.51 %
 Acrobat        13 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
 ‎WhatsApp      13 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
@@ -1907,15 +1907,15 @@ Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,126 hrs 11 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       465 hrs 13 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.05 %
+Coding         1,127 hrs 29 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       465 hrs 33 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.08 %
 Meeting        22 hrs 11 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 36 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 08/06/2026 05:46:18 UTC
+Last updated     : 09/06/2026 05:32:36 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2784,6 +2784,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell  •  ⭐ 4
 
 ### 🕒 Recently Active Projects
+- [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
+  🧬 Python · Shell  •  ⭐ 5
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML  •  ⭐ 2
 - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
@@ -2796,8 +2798,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Perl · CSS  •  ⭐ 1
 - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
   🧬 Python · Shell · Nix  •  ⭐ 1
-- [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
-  🧬 Python · Shell  •  ⭐ 4
 - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): An automated tool for reconnecting to WiFi networks using ConnMan. It ensures continuous internet connectivity by reconnecting to the last connected network or the next available one.
   🧬 Python · Shell  •  ⭐ 2
 
