@@ -641,8 +641,8 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 286 ms
-TTFB................ 285 ms
+LATENCY............. 208 ms
+TTFB................ 207 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -676,7 +676,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-10T16:20:47Z
+LAST_PROBE_UTC...... 2026-06-10T19:05:34Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
