@@ -162,7 +162,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [<img src="https://img.shields.io/badge/WakaTime_Telemetry/Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime)
 [<img src="https://img.shields.io/badge/Spotify_Telemetry/Stats-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=1DB954&color=1DB954&logoWidth=20" height="19"/>](#spotify)
-[<img src="https://img.shields.io/badge/Goodreads-Book_Profile-553B08?style=plastic&logo=goodreads&logoColor=white&labelColor=553B08&color=553B08&logoWidth=20" height="19"/>](#goodreads)
+[<img src="https://img.shields.io/badge/Goodreads-Reading_Profile-553B08?style=plastic&logo=goodreads&logoColor=white&labelColor=553B08&color=553B08&logoWidth=20" height="19"/>](#goodreads)
 [<img src="https://img.shields.io/badge/Voyager_Telemetry_NASA%2FJPL-0B3D91?style=plastic&logo=nasa&logoColor=white&labelColor=0B3D91&color=0B3D91&logoWidth=20" height="19"/>](#voyager-telemetry)
 
 
@@ -1454,9 +1454,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 84:41:18
-Telemetry age             : 84:41:18
-Δ time (since last report): 00:00:15
+Time since last play      : 87:27:19
+Telemetry age             : 87:27:19
+Δ time (since last report): 00:00:48
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1475,7 +1475,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-04 19:19:08Z → 2026-06-11 19:19:08Z
+Week window (UTC)         : 2026-06-04 22:05:09Z → 2026-06-11 22:05:09Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1501,7 +1501,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-11 19:19:08Z
+Report generated (UTC)    : 2026-06-11 22:05:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
