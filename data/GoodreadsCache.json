@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-06-11T16:28:30+00:00",
-    "last_successful_sync": "2026-06-11T16:28:30+00:00",
+    "last_attempted_sync": "2026-06-11T19:15:21+00:00",
+    "last_successful_sync": "2026-06-11T19:15:21+00:00",
     "error_message": ""
   },
   "sections": {
@@ -427,7 +427,7 @@
           "author": "Kate O'Brien",
           "link": "https://www.goodreads.com/review/show/8019173181?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181634672l/1173584._SY75_.jpg",
-          "summary": "author: Kate O'Brien name: Felipe Alfonso average rating: 3.85 book published: rating: 5 read at: date added: 2025/10/25 shelves: review:",
+          "summary": "author: Kate O'Brien name: Felipe Alfonso average rating: 3.86 book published: rating: 5 read at: date added: 2025/10/25 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/8019173181?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Oct 2025 05:53:53 -0700"
         },
