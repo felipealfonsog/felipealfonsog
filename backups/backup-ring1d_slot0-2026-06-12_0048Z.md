@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-11_0045Z
+ snapshot_utc : 2026-06-12_0048Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -169,6 +169,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [<img src="https://img.shields.io/badge/WakaTime_Telemetry/Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime)
 [<img src="https://img.shields.io/badge/Spotify_Telemetry/Stats-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=1DB954&color=1DB954&logoWidth=20" height="19"/>](#spotify)
+[<img src="https://img.shields.io/badge/Goodreads-Reading_Profile-553B08?style=plastic&logo=goodreads&logoColor=white&labelColor=553B08&color=553B08&logoWidth=20" height="19"/>](#goodreads)
 [<img src="https://img.shields.io/badge/Voyager_Telemetry_NASA%2FJPL-0B3D91?style=plastic&logo=nasa&logoColor=white&labelColor=0B3D91&color=0B3D91&logoWidth=20" height="19"/>](#voyager-telemetry)
 
 
@@ -503,6 +504,8 @@ ICONOS INICIALES INLINE SVG1
 
 -->
 
+<a id="goodreads"></a>
+
 <details open>
 <summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
 
@@ -515,7 +518,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-10T21:45:12+00:00 | last_update=2026-06-10T21:45:12+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-11T21:47:43+00:00 | last_update=2026-06-11T21:47:43+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. Human, All Too Human — Friedrich Nietzsche
@@ -648,13 +651,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 208 ms
-TTFB................ 207 ms
+LATENCY............. 374 ms
+TTFB................ 373 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 84d
+TLS_EXPIRY.......... 83d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -683,7 +686,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-10T19:05:34Z
+LAST_PROBE_UTC...... 2026-06-11T21:46:11Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -723,19 +726,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443815
-longitude      : -70.651135
-altitude       : 26 m
-gps_accuracy   : ±4.3 m
-heading        : 168°
-speed          : 0.6 km/h
-status         : stationary
+location       : transit_corridor
+latitude       : -33.446459
+longitude      : -70.661538
+altitude       : 131 m
+gps_accuracy   : ±6.0 m
+heading        : 149°
+speed          : 4.0 km/h
+status         : in_transit
 phase          : evening
-local_time     : 20:28
+local_time     : 20:27
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-06-11 00:28:37 UTC
+updated_utc    : 2026-06-12 00:27:59 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -854,7 +857,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-10 19:17:01Z
+DSN snapshot (UTC)       : 2026-06-11 19:19:22Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -865,15 +868,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 169.995 AU
-Heliocentric distance    : 170.823 AU
-Relative speed           : 33.410 km/s
+Earth distance           : 25.43e9 km | 170.006 AU
+Heliocentric distance    : 170.833 AU
+Relative speed           : 33.614 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:48
-Round-trip latency       : 47:07:37
+One-way light time       : 23:33:54
+Round-trip latency       : 47:07:47
 ------------------------------------------------------------
-Δ distance (since last)  : +172,666 km
-Mission age              : 48 years, 290 days
+Δ distance (since last)  : +367,007 km
+Mission age              : 48 years, 291 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -884,19 +887,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.432 AU
-Heliocentric distance    : 143.111 AU
-Relative speed           : 27.359 km/s
+Earth distance           : 21.31e9 km | 142.434 AU
+Heliocentric distance    : 143.119 AU
+Relative speed           : 27.512 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:34
-Round-trip latency       : 39:29:09
+One-way light time       : 19:44:35
+Round-trip latency       : 39:29:10
 ------------------------------------------------------------
-Δ distance (since last)  : +28,568 km
-Mission age              : 48 years, 306 days
+Δ distance (since last)  : +65,797 km
+Mission age              : 48 years, 307 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-10 19:17:05Z
+Report generated (UTC)   : 2026-06-11 19:19:28Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1458,9 +1461,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 63:27:53
-Telemetry age             : 63:27:53
-Δ time (since last report): 00:01:06
+Time since last play      : 87:27:19
+Telemetry age             : 87:27:19
+Δ time (since last report): 00:00:48
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1479,7 +1482,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-03 22:05:43Z → 2026-06-10 22:05:43Z
+Week window (UTC)         : 2026-06-04 22:05:09Z → 2026-06-11 22:05:09Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1505,7 +1508,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-10 22:05:43Z
+Report generated (UTC)    : 2026-06-11 22:05:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1863,9 +1866,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 10 June 2026
+From: 04 December 2023 - To: 11 June 2026
 
-Total Time       : 1,032 hrs 43 mins
+Total Time       : 1,032 hrs 46 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 7 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1874,10 +1877,10 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          586 hrs 7 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.76 %
+Other          586 hrs 15 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.76 %
 Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.11 %
 Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.48 %
-HTML           135 hrs 57 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
+HTML           135 hrs 57 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
 PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.53 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.82 %
 C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.14 %
@@ -1887,13 +1890,13 @@ YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            911 hrs 7 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  88.22 %
+Mac            911 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  88.24 %
 Linux          707 hrs 43 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.53 %
 
 EDITORS - APPS
 --------------
 VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.66 %
-Firefox        468 hrs 54 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.40 %
+Firefox        468 hrs 59 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.41 %
 Vim            336 hrs 46 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.61 %
 Terminal       33 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.29 %
 Spotify        21 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.11 %
@@ -1907,15 +1910,15 @@ Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,127 hrs 29 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       465 hrs 33 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.08 %
+Coding         1,127 hrs 30 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       465 hrs 43 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.09 %
 Meeting        22 hrs 11 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 36 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 10/06/2026 22:42:33 UTC
+Last updated     : 11/06/2026 22:41:58 UTC
 
 ```
 <!--END_SECTION:wakastats-->
