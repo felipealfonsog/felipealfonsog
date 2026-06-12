@@ -182,6 +182,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 [<img src="https://img.shields.io/badge/-onion_access-7D4698?style=plastic&logo=torproject&logoColor=white&labelColor=7D4698&logoWidth=20" height="19"/>](http://ookod2olxzttlvvvrtqqsjsg7mgiuhcypeyjize42y5ii4rsduxzafid.onion/)
+[<img src="https://img.shields.io/badge/WordPress-Blog-21759B?style=plastic&logo=wordpress&logoColor=white&labelColor=21759B&color=21759B&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/blog/)
 
 [![Operating from freeshell.de — lightweight UNIX infrastructure node.](https://img.shields.io/badge/freeshell.de-lightweight%20UNIX%20infrastructure-000000?style=plastic&logo=linux&logoColor=ffffff)](https://freeshell.de)
 [![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat.](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat.-2563eb?style=plastic&logo=databricks&logoColor=ffffff)](https://dash.domain.digitalplat.org/signup?ref=OrSbjKtQYH)
@@ -512,7 +513,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-12T01:23:34+00:00 | last_update=2026-06-12T01:23:34+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-12T04:37:40+00:00 | last_update=2026-06-12T04:37:40+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. Human, All Too Human — Friedrich Nietzsche
@@ -645,13 +646,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 256 ms
-TTFB................ 255 ms
+LATENCY............. 317 ms
+TTFB................ 316 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 83d
+TLS_EXPIRY.......... 82d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -680,7 +681,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-12T01:20:51Z
+LAST_PROBE_UTC...... 2026-06-12T04:37:18Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -720,19 +721,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446459
-longitude      : -70.661538
-altitude       : 131 m
-gps_accuracy   : ±6.0 m
-heading        : 149°
-speed          : 4.0 km/h
-status         : in_transit
-phase          : evening
-local_time     : 20:27
+location       : urban_sector
+latitude       : -33.444441
+longitude      : -70.650366
+altitude       : 64 m
+gps_accuracy   : ±7.7 m
+heading        : 0°
+speed          : 0.1 km/h
+status         : low_movement
+phase          : overnight
+local_time     : 00:28
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-06-12 00:27:59 UTC
+signal         : nominal
+updated_utc    : 2026-06-12 04:28:08 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -1455,9 +1456,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 90:53:00
-Telemetry age             : 90:53:00
-Δ time (since last report): 00:00:31
+Time since last play      : 94:22:07
+Telemetry age             : 94:22:07
+Δ time (since last report): 00:00:37
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1476,7 +1477,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-05 01:30:49Z → 2026-06-12 01:30:49Z
+Week window (UTC)         : 2026-06-05 04:59:56Z → 2026-06-12 04:59:56Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1502,7 +1503,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-12 01:30:49Z
+Report generated (UTC)    : 2026-06-12 04:59:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1912,7 +1913,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 12/06/2026 03:22:03 UTC
+Last updated     : 12/06/2026 05:45:12 UTC
 
 ```
 <!--END_SECTION:wakastats-->
