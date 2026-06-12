@@ -1449,17 +1449,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pearl Jam — Black
-Last played (UTC)         : 2026-06-08 06:37:50Z
+Last played               : Red In Summer — Wither
+Last played (UTC)         : 2026-06-11 20:58:32Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Pearl Jam — Black → Red In Summer — Wither
+Δ last played (since last): 2026-06-08 06:37:50Z → 2026-06-11 20:58:32Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 97:21:52
-Telemetry age             : 97:21:52
-Δ time (since last report): 00:00:19
+Time since last play      : 13:49:28
+Telemetry age             : 13:49:28
+Δ time (since last report): 02:48:18
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1471,14 +1471,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Red In Summer
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-05 07:59:42Z → 2026-06-12 07:59:42Z
+Week window (UTC)         : 2026-06-05 10:47:59Z → 2026-06-12 10:47:59Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1486,25 +1486,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 16:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁ ▁               ▄██▃▂▁
+Heatmap (24h)             :                 █       
+Heatmap (7d)              : ▁ ▁             ▁ ▄██▃▂▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:39:45
+Sessions (24h)            : 1
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 02:25:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
+Top genres (24h)          : metalcore(1)
 Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-12 07:59:42Z
+Report generated (UTC)    : 2026-06-12 10:47:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
