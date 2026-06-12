@@ -73,7 +73,7 @@ Beyond engineering, I explore philosophy, I study constantly [**Zen**](https://e
 
 Beyond engineering, I explore philosophy and contemplative traditions through rigorous study and long-term practice. I study [**Zen**](https://en.wikipedia.org/wiki/Zen) Buddhism deeply as both a philosophical and existential discipline, maintaining a committed [**Zazen**](https://en.wikipedia.org/wiki/Zazen) practice centered on introspection, presence, silence, and direct observation of consciousness and reality. I also explore themes related to consciousness, symbolism, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth through reflective study and disciplined inner work. I enjoy reading and writing ([**Goodreads**](https://goodreads.com/felipealfonsog)), playing [**bass guitar**](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [**BJJ**](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)), listening to music ([**Spotify**](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [**PETA**](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [**Agrupación Nacional de Boy Scouts de Chile**](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
-Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
+Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
 
 Integrity, transparency, and coherence shape both my work and my personal journey. I act with purpose—where values meet impact—and I seek truth in the silence that moves us forward.
 
@@ -511,7 +511,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-11T21:47:43+00:00 | last_update=2026-06-11T21:47:43+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-12T01:23:34+00:00 | last_update=2026-06-12T01:23:34+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. Human, All Too Human — Friedrich Nietzsche
@@ -644,8 +644,8 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 374 ms
-TTFB................ 373 ms
+LATENCY............. 256 ms
+TTFB................ 255 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -679,7 +679,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-11T21:46:11Z
+LAST_PROBE_UTC...... 2026-06-12T01:20:51Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -720,18 +720,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : transit_corridor
-latitude       : -33.446780
-longitude      : -70.661835
-altitude       : 65 m
-gps_accuracy   : ±6.2 m
-heading        : 172°
-speed          : 3.5 km/h
-status         : meeting
-phase          : workday
-local_time     : 17:37
+latitude       : -33.446459
+longitude      : -70.661538
+altitude       : 131 m
+gps_accuracy   : ±6.0 m
+heading        : 149°
+speed          : 4.0 km/h
+status         : in_transit
+phase          : evening
+local_time     : 20:27
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-06-11 21:37:43 UTC
+updated_utc    : 2026-06-12 00:27:59 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -1454,9 +1454,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 87:27:19
-Telemetry age             : 87:27:19
-Δ time (since last report): 00:00:48
+Time since last play      : 90:53:00
+Telemetry age             : 90:53:00
+Δ time (since last report): 00:00:31
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1475,7 +1475,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-04 22:05:09Z → 2026-06-11 22:05:09Z
+Week window (UTC)         : 2026-06-05 01:30:49Z → 2026-06-12 01:30:49Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1501,7 +1501,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-11 22:05:09Z
+Report generated (UTC)    : 2026-06-12 01:30:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1911,7 +1911,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 11/06/2026 21:48:24 UTC
+Last updated     : 12/06/2026 03:22:03 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2781,7 +2781,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 ### 🕒 Recently Active Projects
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
-  🧬 Python · Shell  •  ⭐ 5
+  🧬 Python · Shell  •  ⭐ 6
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML  •  ⭐ 2
 - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
