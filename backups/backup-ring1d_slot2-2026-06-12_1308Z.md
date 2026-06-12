@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-11_1317Z
+ snapshot_utc : 2026-06-12_1308Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -29,7 +29,8 @@ Integrity, transparency, and coherence guide both my work and my personal path. 
 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
 -->
-I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—driven by continuous learning, independent research, professional certifications, and long-term exploration across systems, cybersecurity, and emerging technologies. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
+
+I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [**Santiago**](https://en.wikipedia.org/wiki/Santiago), [**Chile**](https://en.wikipedia.org/wiki/Chile), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—driven by continuous learning, independent research, professional certifications, and long-term exploration across systems, cybersecurity, and emerging technologies. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
 
 <!--
 UNIX-born engineering ethos.  
@@ -80,7 +81,7 @@ Beyond engineering, I explore philosophy, I study constantly [**Zen**](https://e
 
 Beyond engineering, I explore philosophy and contemplative traditions through rigorous study and long-term practice. I study [**Zen**](https://en.wikipedia.org/wiki/Zen) Buddhism deeply as both a philosophical and existential discipline, maintaining a committed [**Zazen**](https://en.wikipedia.org/wiki/Zazen) practice centered on introspection, presence, silence, and direct observation of consciousness and reality. I also explore themes related to consciousness, symbolism, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth through reflective study and disciplined inner work. I enjoy reading and writing ([**Goodreads**](https://goodreads.com/felipealfonsog)), playing [**bass guitar**](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [**BJJ**](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)), listening to music ([**Spotify**](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [**PETA**](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [**Agrupación Nacional de Boy Scouts de Chile**](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
-Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
+Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
 
 Integrity, transparency, and coherence shape both my work and my personal journey. I act with purpose—where values meet impact—and I seek truth in the silence that moves us forward.
 
@@ -169,6 +170,7 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
 [<img src="https://img.shields.io/badge/WakaTime_Telemetry/Stats-000000?style=plastic&logo=wakatime&logoColor=white&labelColor=000000&color=000000&logoWidth=20" height="19"/>](#wakatime)
 [<img src="https://img.shields.io/badge/Spotify_Telemetry/Stats-1DB954?style=plastic&logo=spotify&logoColor=white&labelColor=1DB954&color=1DB954&logoWidth=20" height="19"/>](#spotify)
+[<img src="https://img.shields.io/badge/Goodreads-Reading_Profile-553B08?style=plastic&logo=goodreads&logoColor=white&labelColor=553B08&color=553B08&logoWidth=20" height="19"/>](#goodreads)
 [<img src="https://img.shields.io/badge/Voyager_Telemetry_NASA%2FJPL-0B3D91?style=plastic&logo=nasa&logoColor=white&labelColor=0B3D91&color=0B3D91&logoWidth=20" height="19"/>](#voyager-telemetry)
 
 
@@ -186,7 +188,9 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/-felipe.gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.qzz.io/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
+[<img src="https://img.shields.io/badge/WordPress-Blog-21759B?style=plastic&logo=wordpress&logoColor=white&labelColor=21759B&color=21759B&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/blog/)
 [<img src="https://img.shields.io/badge/-onion_access-7D4698?style=plastic&logo=torproject&logoColor=white&labelColor=7D4698&logoWidth=20" height="19"/>](http://ookod2olxzttlvvvrtqqsjsg7mgiuhcypeyjize42y5ii4rsduxzafid.onion/)
+
 
 [![Operating from freeshell.de — lightweight UNIX infrastructure node.](https://img.shields.io/badge/freeshell.de-lightweight%20UNIX%20infrastructure-000000?style=plastic&logo=linux&logoColor=ffffff)](https://freeshell.de)
 [![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat.](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat.-2563eb?style=plastic&logo=databricks&logoColor=ffffff)](https://dash.domain.digitalplat.org/signup?ref=OrSbjKtQYH)
@@ -503,6 +507,8 @@ ICONOS INICIALES INLINE SVG1
 
 -->
 
+<a id="goodreads"></a>
+
 <details open>
 <summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
 
@@ -515,34 +521,34 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-11T10:38:08+00:00 | last_update=2026-06-11T10:38:08+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-12T10:37:11+00:00 | last_update=2026-06-12T10:37:11+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
-01. Human, All Too Human — Friedrich Nietzsche
-02. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
-03. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
-04. An Introduction to Zen Buddhism — D.T. Suzuki
-05. Shobogenzo "Zazengi"- English edition — dogen kigen
-06. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
-07. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
-08. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
-09. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
-10. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
-11. The Autobiography of a Yogi — Paramahansa Yogananda
-12. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
-13. Leviathan — Thomas Hobbes
-14. Aferrada a mi balsa — Gladys Díaz Armijo
-15. Man's Search for Meaning — Viktor E. Frankl
-16. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
-17. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
-18. Más allá del bien y del mal — Friedrich Nietzsche
-19. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
-20. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
-21. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
-22. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
-23. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
-24. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
-25. Zen en el arte de escribir — Ray Bradbury
+01. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+02. Human, All Too Human — Friedrich Nietzsche
+03. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
+04. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
+05. An Introduction to Zen Buddhism — D.T. Suzuki
+06. Shobogenzo "Zazengi"- English edition — dogen kigen
+07. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
+08. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+09. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+10. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+11. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+12. The Autobiography of a Yogi — Paramahansa Yogananda
+13. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
+14. Leviathan — Thomas Hobbes
+15. Aferrada a mi balsa — Gladys Díaz Armijo
+16. Man's Search for Meaning — Viktor E. Frankl
+17. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
+18. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
+19. Más allá del bien y del mal — Friedrich Nietzsche
+20. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
+21. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
+22. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
+23. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
+24. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
+25. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
 
 [recent_read] shelf=read books=50 limit=50
 01. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
@@ -648,13 +654,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 82 ms
-TTFB................ 81 ms
+LATENCY............. 156 ms
+TTFB................ 155 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 83d
+TLS_EXPIRY.......... 82d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -683,7 +689,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-11T10:37:29Z
+LAST_PROBE_UTC...... 2026-06-12T07:52:40Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -723,19 +729,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443808
-longitude      : -70.650535
-altitude       : 11 m
-gps_accuracy   : ±6.8 m
-heading        : 116°
-speed          : 0.6 km/h
+location       : pedestrian_axis
+latitude       : -33.437689
+longitude      : -70.646563
+altitude       : 91 m
+gps_accuracy   : ±3.7 m
+heading        : 224°
+speed          : 0.4 km/h
 status         : stationary
 phase          : morning
-local_time     : 09:07
+local_time     : 08:58
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-06-11 13:07:24 UTC
+updated_utc    : 2026-06-12 12:58:49 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -854,7 +860,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-11 10:57:39Z
+DSN snapshot (UTC)       : 2026-06-11 19:19:22Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -865,14 +871,14 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 170.002 AU
-Heliocentric distance    : 170.830 AU
-Relative speed           : 33.543 km/s
+Earth distance           : 25.43e9 km | 170.006 AU
+Heliocentric distance    : 170.833 AU
+Relative speed           : 33.614 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:52
-Round-trip latency       : 47:07:43
+One-way light time       : 23:33:54
+Round-trip latency       : 47:07:47
 ------------------------------------------------------------
-Δ distance (since last)  : +187,201 km
+Δ distance (since last)  : +367,007 km
 Mission age              : 48 years, 291 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -884,19 +890,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.433 AU
-Heliocentric distance    : 143.116 AU
-Relative speed           : 27.459 km/s
+Earth distance           : 21.31e9 km | 142.434 AU
+Heliocentric distance    : 143.119 AU
+Relative speed           : 27.512 km/s
 ------------------------------------------------------------
 One-way light time       : 19:44:35
 Round-trip latency       : 39:29:10
 ------------------------------------------------------------
-Δ distance (since last)  : +32,766 km
+Δ distance (since last)  : +65,797 km
 Mission age              : 48 years, 307 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-11 10:57:44Z
+Report generated (UTC)   : 2026-06-11 19:19:28Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1450,17 +1456,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pearl Jam — Black
-Last played (UTC)         : 2026-06-08 06:37:50Z
+Last played               : Red In Summer — Wither
+Last played (UTC)         : 2026-06-11 20:58:32Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 76:19:24
-Telemetry age             : 76:19:24
-Δ time (since last report): 00:00:27
+Time since last play      : 13:51:17
+Telemetry age             : 13:51:17
+Δ time (since last report): 00:00:51
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1472,14 +1478,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Red In Summer
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-04 10:57:13Z → 2026-06-11 10:57:13Z
+Week window (UTC)         : 2026-06-05 10:49:48Z → 2026-06-12 10:49:48Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1487,25 +1493,25 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 16:00
 Peak hour (7d)            : 19:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁ ▁               ▄██▃▂▁
+Heatmap (24h)             :                 █       
+Heatmap (7d)              : ▁ ▁             ▁ ▄██▃▂▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:39:45
+Sessions (24h)            : 1
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 02:25:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
+Top genres (24h)          : metalcore(1)
 Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-11 10:57:13Z
+Report generated (UTC)    : 2026-06-12 10:49:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1863,9 +1869,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 June 2026
+From: 04 December 2023 - To: 12 June 2026
 
-Total Time       : 1,032 hrs 46 mins
+Total Time       : 1,033 hrs 12 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 7 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1874,48 +1880,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          586 hrs 15 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.76 %
-Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.11 %
-Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.48 %
+Other          589 hrs 38 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.07 %
+Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.10 %
+Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.47 %
 HTML           135 hrs 57 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
 PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.53 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.82 %
 C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.14 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.87 %
 Text           38 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
-YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.68 %
+YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.67 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            911 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  88.24 %
-Linux          707 hrs 43 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.53 %
+Mac            915 hrs 6 mins ●●●●●●●●●●●●●●●●●●●●●●●○○○  88.57 %
+Linux          707 hrs 43 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.50 %
 
 EDITORS - APPS
 --------------
-VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.66 %
-Firefox        468 hrs 59 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.41 %
-Vim            336 hrs 46 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.61 %
-Terminal       33 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.29 %
+VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.63 %
+Firefox        472 hrs 31 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.73 %
+Vim            336 hrs 46 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.60 %
+Terminal       34 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.31 %
 Spotify        21 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.11 %
 Dia            15 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.51 %
 Acrobat        13 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
-‎WhatsApp      13 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
+‎WhatsApp      13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
 Termius        8 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
-FileZilla      7 hrs 12 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.70 %
+FileZilla      7 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.70 %
 Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
 
 CATEGORIES
 ----------
-Coding         1,127 hrs 30 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       465 hrs 43 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.09 %
-Meeting        22 hrs 11 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
+Coding         1,127 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       469 hrs 19 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.42 %
+Meeting        22 hrs 13 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 36 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 11/06/2026 11:40:31 UTC
+Last updated     : 12/06/2026 11:24:56 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2785,7 +2791,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 ### 🕒 Recently Active Projects
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
-  🧬 Python · Shell  •  ⭐ 5
+  🧬 Python · Shell  •  ⭐ 6
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML  •  ⭐ 2
 - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
