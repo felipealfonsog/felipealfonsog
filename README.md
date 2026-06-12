@@ -1453,13 +1453,13 @@ Last played               : Red In Summer — Wither
 Last played (UTC)         : 2026-06-11 20:58:32Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Pearl Jam — Black → Red In Summer — Wither
-Δ last played (since last): 2026-06-08 06:37:50Z → 2026-06-11 20:58:32Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:49:28
-Telemetry age             : 13:49:28
-Δ time (since last report): 02:48:18
+Time since last play      : 13:50:09
+Telemetry age             : 13:50:09
+Δ time (since last report): 00:00:42
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1478,7 +1478,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-05 10:47:59Z → 2026-06-12 10:47:59Z
+Week window (UTC)         : 2026-06-05 10:48:41Z → 2026-06-12 10:48:41Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1504,7 +1504,7 @@ Top genres (24h)          : metalcore(1)
 Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-12 10:47:59Z
+Report generated (UTC)    : 2026-06-12 10:48:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
