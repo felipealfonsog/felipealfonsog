@@ -514,34 +514,34 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-12T07:54:09+00:00 | last_update=2026-06-12T07:54:09+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-12T10:37:11+00:00 | last_update=2026-06-12T10:37:11+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
-01. Human, All Too Human — Friedrich Nietzsche
-02. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
-03. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
-04. An Introduction to Zen Buddhism — D.T. Suzuki
-05. Shobogenzo "Zazengi"- English edition — dogen kigen
-06. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
-07. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
-08. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
-09. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
-10. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
-11. The Autobiography of a Yogi — Paramahansa Yogananda
-12. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
-13. Leviathan — Thomas Hobbes
-14. Aferrada a mi balsa — Gladys Díaz Armijo
-15. Man's Search for Meaning — Viktor E. Frankl
-16. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
-17. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
-18. Más allá del bien y del mal — Friedrich Nietzsche
-19. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
-20. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
-21. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
-22. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
-23. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
-24. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
-25. Zen en el arte de escribir — Ray Bradbury
+01. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+02. Human, All Too Human — Friedrich Nietzsche
+03. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
+04. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
+05. An Introduction to Zen Buddhism — D.T. Suzuki
+06. Shobogenzo "Zazengi"- English edition — dogen kigen
+07. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
+08. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+09. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+10. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+11. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+12. The Autobiography of a Yogi — Paramahansa Yogananda
+13. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
+14. Leviathan — Thomas Hobbes
+15. Aferrada a mi balsa — Gladys Díaz Armijo
+16. Man's Search for Meaning — Viktor E. Frankl
+17. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
+18. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
+19. Más allá del bien y del mal — Friedrich Nietzsche
+20. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
+21. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
+22. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
+23. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
+24. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
+25. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
 
 [recent_read] shelf=read books=50 limit=50
 01. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche

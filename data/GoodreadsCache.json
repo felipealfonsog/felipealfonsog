@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-06-12T07:54:09+00:00",
-    "last_successful_sync": "2026-06-12T07:54:09+00:00",
+    "last_attempted_sync": "2026-06-12T10:37:11+00:00",
+    "last_successful_sync": "2026-06-12T10:37:11+00:00",
     "error_message": ""
   },
   "sections": {
@@ -16,6 +16,15 @@
       "limit": 25,
       "item_count": 25,
       "books": [
+        {
+          "title": "Más allá del bien y del mal: Edición enriquecida. (Spanish Edition)",
+          "author": "Friedrich Nietzsche",
+          "link": "https://www.goodreads.com/review/show/7248316915?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719755048l/201945566._SY75_.jpg",
+          "summary": "author: Friedrich Nietzsche name: Felipe Alfonso average rating: 0.0 book published: 1886 rating: 0 read at: date added: 2026/06/12 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/7248316915?utm_medium=api&utm_source=rss",
+          "pub_date": "Fri, 12 Jun 2026 01:01:09 -0700"
+        },
         {
           "title": "Human, All Too Human",
           "author": "Friedrich Nietzsche",
@@ -231,15 +240,6 @@
           "summary": "author: Robert Wright name: Felipe Alfonso average rating: 4.00 book published: 2017 rating: 5 read at: 2025/10/20 date added: 2025/10/20 shelves: buddhism, favorites, currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/2793689234?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:12:03 -0700"
-        },
-        {
-          "title": "Zen en el arte de escribir",
-          "author": "Ray Bradbury",
-          "link": "https://www.goodreads.com/review/show/2643854418?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460488034l/304583._SY75_.jpg",
-          "summary": "author: Ray Bradbury name: Felipe Alfonso average rating: 4.14 book published: 1973 rating: 5 read at: 2025/10/20 date added: 2025/10/20 shelves: currently-reading review:",
-          "guid": "https://www.goodreads.com/review/show/2643854418?utm_medium=api&utm_source=rss",
-          "pub_date": "Mon, 20 Oct 2025 19:11:29 -0700"
         }
       ]
     },
