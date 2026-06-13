@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-12_0738Z
+ snapshot_utc : 2026-06-13_0719Z
  ring_days    : 1
  slot         : 1/4
  period_hours : 6
@@ -521,34 +521,34 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-12T04:37:40+00:00 | last_update=2026-06-12T04:37:40+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-13T04:37:06+00:00 | last_update=2026-06-13T04:37:06+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
-01. Human, All Too Human — Friedrich Nietzsche
-02. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
-03. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
-04. An Introduction to Zen Buddhism — D.T. Suzuki
-05. Shobogenzo "Zazengi"- English edition — dogen kigen
-06. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
-07. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
-08. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
-09. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
-10. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
-11. The Autobiography of a Yogi — Paramahansa Yogananda
-12. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
-13. Leviathan — Thomas Hobbes
-14. Aferrada a mi balsa — Gladys Díaz Armijo
-15. Man's Search for Meaning — Viktor E. Frankl
-16. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
-17. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
-18. Más allá del bien y del mal — Friedrich Nietzsche
-19. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
-20. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
-21. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
-22. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
-23. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
-24. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
-25. Zen en el arte de escribir — Ray Bradbury
+01. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+02. Human, All Too Human — Friedrich Nietzsche
+03. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
+04. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
+05. An Introduction to Zen Buddhism — D.T. Suzuki
+06. Shobogenzo "Zazengi"- English edition — dogen kigen
+07. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
+08. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+09. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+10. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+11. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+12. The Autobiography of a Yogi — Paramahansa Yogananda
+13. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
+14. Leviathan — Thomas Hobbes
+15. Aferrada a mi balsa — Gladys Díaz Armijo
+16. Man's Search for Meaning — Viktor E. Frankl
+17. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
+18. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
+19. Más allá del bien y del mal — Friedrich Nietzsche
+20. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
+21. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
+22. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
+23. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
+24. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
+25. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
 
 [recent_read] shelf=read books=50 limit=50
 01. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
@@ -654,8 +654,8 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 317 ms
-TTFB................ 316 ms
+LATENCY............. 193 ms
+TTFB................ 192 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -689,7 +689,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 43 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-12T04:37:18Z
+LAST_PROBE_UTC...... 2026-06-13T01:18:22Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -729,19 +729,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444466
-longitude      : -70.650213
-altitude       : 107 m
-gps_accuracy   : ±7.8 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : low_movement
+location       : pedestrian_axis
+latitude       : -33.438038
+longitude      : -70.646526
+altitude       : 130 m
+gps_accuracy   : ±5.5 m
+heading        : 241°
+speed          : 0.2 km/h
+status         : resting
 phase          : overnight
-local_time     : 03:28
+local_time     : 03:11
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-06-12 07:28:19 UTC
+signal         : nominal
+updated_utc    : 2026-06-13 07:11:29 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -860,7 +860,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-11 19:19:22Z
+DSN snapshot (UTC)       : 2026-06-12 21:59:20Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -871,15 +871,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.43e9 km | 170.006 AU
-Heliocentric distance    : 170.833 AU
-Relative speed           : 33.614 km/s
+Earth distance           : 25.43e9 km | 170.017 AU
+Heliocentric distance    : 170.844 AU
+Relative speed           : 33.839 km/s
 ------------------------------------------------------------
-One-way light time       : 23:33:54
-Round-trip latency       : 47:07:47
+One-way light time       : 23:34:00
+Round-trip latency       : 47:07:59
 ------------------------------------------------------------
-Δ distance (since last)  : +367,007 km
-Mission age              : 48 years, 291 days
+Δ distance (since last)  : +195,605 km
+Mission age              : 48 years, 292 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -890,19 +890,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.434 AU
-Heliocentric distance    : 143.119 AU
-Relative speed           : 27.512 km/s
+Earth distance           : 21.31e9 km | 142.436 AU
+Heliocentric distance    : 143.129 AU
+Relative speed           : 27.682 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:35
-Round-trip latency       : 39:29:10
+One-way light time       : 19:44:36
+Round-trip latency       : 39:29:13
 ------------------------------------------------------------
-Δ distance (since last)  : +65,797 km
-Mission age              : 48 years, 307 days
+Δ distance (since last)  : +38,318 km
+Mission age              : 48 years, 308 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-11 19:19:28Z
+Report generated (UTC)   : 2026-06-12 21:59:22Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1456,17 +1456,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Pearl Jam — Black
-Last played (UTC)         : 2026-06-08 06:37:50Z
+Last played               : Red In Summer — Wither
+Last played (UTC)         : 2026-06-11 20:58:32Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 94:22:07
-Telemetry age             : 94:22:07
-Δ time (since last report): 00:00:37
+Time since last play      : 31:56:35
+Telemetry age             : 31:56:35
+Δ time (since last report): 00:00:41
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1485,7 +1485,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-05 04:59:56Z → 2026-06-12 04:59:56Z
+Week window (UTC)         : 2026-06-06 04:55:06Z → 2026-06-13 04:55:06Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1496,14 +1496,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 19:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁ ▁               ▄██▃▂▁
+Heatmap (7d)              : ▁ ▁             ▁ ▄██▃▂▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 00:39:45
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 02:25:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1511,7 +1511,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(15) | jazz(14) | grunge(11) | funk rock(9) | rap metal(9) | progressive metal(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-12 04:59:56Z
+Report generated (UTC)    : 2026-06-13 04:55:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1869,9 +1869,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 June 2026
+From: 04 December 2023 - To: 12 June 2026
 
-Total Time       : 1,032 hrs 46 mins
+Total Time       : 1,033 hrs 12 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 7 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1880,48 +1880,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          586 hrs 15 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.76 %
-Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.11 %
-Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.48 %
+Other          589 hrs 38 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.07 %
+Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.10 %
+Python         139 hrs 11 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.47 %
 HTML           135 hrs 57 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
 PHP            108 hrs 46 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.53 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.82 %
 C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.14 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.87 %
 Text           38 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
-YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.68 %
+YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.67 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            911 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●◔○○○  88.24 %
-Linux          707 hrs 43 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.53 %
+Mac            915 hrs 6 mins ●●●●●●●●●●●●●●●●●●●●●●●○○○  88.57 %
+Linux          707 hrs 43 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.50 %
 
 EDITORS - APPS
 --------------
-VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.66 %
-Firefox        468 hrs 59 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.41 %
-Vim            336 hrs 46 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.61 %
-Terminal       33 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.29 %
+VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.63 %
+Firefox        472 hrs 31 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.73 %
+Vim            336 hrs 46 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.60 %
+Terminal       34 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.31 %
 Spotify        21 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.11 %
 Dia            15 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.51 %
 Acrobat        13 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
-‎WhatsApp      13 hrs 27 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
+‎WhatsApp      13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
 Termius        8 hrs 49 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
-FileZilla      7 hrs 12 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.70 %
+FileZilla      7 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.70 %
 Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
 
 CATEGORIES
 ----------
-Coding         1,127 hrs 30 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       465 hrs 43 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.09 %
-Meeting        22 hrs 11 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
+Coding         1,127 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       469 hrs 19 mins ●●●●●●●●●●●◔○○○○○○○○○○○○○○  45.42 %
+Meeting        22 hrs 13 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 36 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 12/06/2026 05:45:12 UTC
+Last updated     : 13/06/2026 05:40:35 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -1983,22 +1983,22 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/ClaudiaRojasSoto">
-        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/clsource">
         <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/ClaudiaRojasSoto">
+        <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/ClaudiaRojasSoto">Claudia  P. R. Soto</a>
       </sub>
     </li>
     <br>
