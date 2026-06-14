@@ -514,7 +514,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-14T12:53:22+00:00 | last_update=2026-06-14T12:53:22+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-14T15:40:38+00:00 | last_update=2026-06-14T15:40:38+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
