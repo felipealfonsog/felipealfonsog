@@ -1457,9 +1457,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 76:34:18
-Telemetry age             : 76:34:18
-Δ time (since last report): 03:42:29
+Time since last play      : 76:34:37
+Telemetry age             : 76:34:37
+Δ time (since last report): 00:00:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1478,7 +1478,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-08 01:32:49Z → 2026-06-15 01:32:49Z
+Week window (UTC)         : 2026-06-08 01:33:09Z → 2026-06-15 01:33:09Z
 Total tracks played       : 3
 Dominant artist           : Pearl Jam
 Cadence classification    : LOW
@@ -1504,7 +1504,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : grunge(2) | post-grunge(2) | rock(2) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-15 01:32:49Z
+Report generated (UTC)    : 2026-06-15 01:33:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
