@@ -1457,9 +1457,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 76:34:37
-Telemetry age             : 76:34:37
-Δ time (since last report): 00:00:20
+Time since last play      : 80:03:46
+Telemetry age             : 80:03:46
+Δ time (since last report): 03:29:09
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1478,33 +1478,33 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-08 01:33:09Z → 2026-06-15 01:33:09Z
-Total tracks played       : 3
-Dominant artist           : Pearl Jam
+Week window (UTC)         : 2026-06-08 05:02:18Z → 2026-06-15 05:02:18Z
+Total tracks played       : 2
+Dominant artist           : Red In Summer
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
-Peak hour (7d)            : 00:00
+Peak hour (7d)            : 02:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : █ █             █       
+Heatmap (7d)              :   █             █       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 44:10:01
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 86:20:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : grunge(2) | post-grunge(2) | rock(2) | metalcore(1)
+Top genres (7d)           : grunge(1) | metalcore(1) | post-grunge(1) | rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-15 01:33:09Z
+Report generated (UTC)    : 2026-06-15 05:02:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
