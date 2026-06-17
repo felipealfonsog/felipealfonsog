@@ -1981,7 +1981,7 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       </a>
       <br>
       <sub>
-      <a href="https://github.com/Blandskron">Blandskron</a>
+      <a href="https://github.com/Blandskron">Bastian Landskron</a>
       </sub>
     </li>
     <br>
