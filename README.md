@@ -1457,9 +1457,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 128:04:28
-Telemetry age             : 128:04:28
-Δ time (since last report): 00:00:17
+Time since last play      : 128:05:33
+Telemetry age             : 128:05:33
+Δ time (since last report): 00:01:05
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1478,7 +1478,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-10 05:03:00Z → 2026-06-17 05:03:00Z
+Week window (UTC)         : 2026-06-10 05:04:05Z → 2026-06-17 05:04:05Z
 Total tracks played       : 1
 Dominant artist           : Red In Summer
 Cadence classification    : LOW
@@ -1504,7 +1504,7 @@ Top genres (24h)          : N/A
 Top genres (7d)           : metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-17 05:03:00Z
+Report generated (UTC)    : 2026-06-17 05:04:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
