@@ -1453,13 +1453,13 @@ Last played               : Public Enemy — Can't Truss It
 Last played (UTC)         : 2026-06-18 06:03:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Red In Summer — Wither → Public Enemy — Can't Truss It
-Δ last played (since last): 2026-06-11 20:58:32Z → 2026-06-18 06:03:47Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:00:03
-Telemetry age             : 02:00:03
-Δ time (since last report): 03:05:07
+Time since last play      : 02:01:15
+Telemetry age             : 02:01:15
+Δ time (since last report): 00:01:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1478,7 +1478,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-11 08:03:49Z → 2026-06-18 08:03:49Z
+Week window (UTC)         : 2026-06-11 08:05:01Z → 2026-06-18 08:05:01Z
 Total tracks played       : 7
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
@@ -1502,9 +1502,9 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
 Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5) | metalcore(1)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-18 08:03:49Z
+Report generated (UTC)    : 2026-06-18 08:05:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
