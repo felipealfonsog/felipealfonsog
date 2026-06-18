@@ -1457,9 +1457,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 13:07:42
-Telemetry age             : 13:07:42
-Δ time (since last report): 00:00:21
+Time since last play      : 16:00:01
+Telemetry age             : 16:00:01
+Δ time (since last report): 02:52:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1478,8 +1478,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-11 19:11:28Z → 2026-06-18 19:11:28Z
-Total tracks played       : 7
+Week window (UTC)         : 2026-06-11 22:03:48Z → 2026-06-18 22:03:48Z
+Total tracks played       : 6
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1489,22 +1489,22 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 01:00
 Peak hour (7d)            : 01:00
 Heatmap (24h)             :  █▂                     
-Heatmap (7d)              :  █▂             ▂       
+Heatmap (7d)              :  █▂                     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 25:30:53
+Sessions (7d)             : 1
+Avg inter-play gap (7d)   : 00:04:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
-Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5) | metalcore(1)
+Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-18 19:11:28Z
+Report generated (UTC)    : 2026-06-18 22:03:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
