@@ -1457,9 +1457,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:29:26
-Telemetry age             : 10:29:26
-Δ time (since last report): 02:59:33
+Time since last play      : 10:30:27
+Telemetry age             : 10:30:27
+Δ time (since last report): 00:01:02
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1478,7 +1478,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-11 16:33:12Z → 2026-06-18 16:33:12Z
+Week window (UTC)         : 2026-06-11 16:34:14Z → 2026-06-18 16:34:14Z
 Total tracks played       : 7
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
@@ -1504,7 +1504,7 @@ Top genres (24h)          : east coast hip hop(5) | hardcore hip hop(5) | hip ho
 Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5) | metalcore(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-18 16:33:12Z
+Report generated (UTC)    : 2026-06-18 16:34:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
