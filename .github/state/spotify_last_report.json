@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-06-18 04:58:43Z",
+  "report_generated_utc": "2026-06-18 08:03:49Z",
   "status": "IDLE",
-  "last_track": "Red In Summer — Wither",
-  "last_played_utc": "2026-06-11 20:58:32Z",
+  "last_track": "Public Enemy — Can't Truss It",
+  "last_played_utc": "2026-06-18 06:03:47Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1002,6 +1002,13 @@
     ],
     "4KU3igTxJsnJrxcOF2oC6f": [
       "jazz"
-    ]
+    ],
+    "6Mo9PoU6svvhgEum7wh2Nd": [
+      "old school hip hop",
+      "east coast hip hop",
+      "hip hop",
+      "hardcore hip hop"
+    ],
+    "0A9uRZJDela9CKhMJ1ELqO": []
   }
 }

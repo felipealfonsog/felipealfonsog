@@ -1449,17 +1449,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Red In Summer — Wither
-Last played (UTC)         : 2026-06-11 20:58:32Z
+Last played               : Public Enemy — Can't Truss It
+Last played (UTC)         : 2026-06-18 06:03:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Red In Summer — Wither → Public Enemy — Can't Truss It
+Δ last played (since last): 2026-06-11 20:58:32Z → 2026-06-18 06:03:47Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 152:00:12
-Telemetry age             : 152:00:12
-Δ time (since last report): 00:00:22
+Time since last play      : 02:00:03
+Telemetry age             : 02:00:03
+Δ time (since last report): 03:05:07
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1471,40 +1471,40 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 6
+Dominant artist           : Public Enemy
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-11 04:58:43Z → 2026-06-18 04:58:43Z
-Total tracks played       : 1
-Dominant artist           : Red In Summer
+Week window (UTC)         : 2026-06-11 08:03:49Z → 2026-06-18 08:03:49Z
+Total tracks played       : 7
+Dominant artist           : Public Enemy
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 16:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :                 █       
+Peak hour (24h)           : 01:00
+Peak hour (7d)            : 01:00
+Heatmap (24h)             :  █▂                     
+Heatmap (7d)              :  █▂             ▂       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 1
-Avg inter-play gap (7d)   : N/A
+Sessions (24h)            : 1
+Sessions (7d)             : 2
+Avg inter-play gap (7d)   : 25:30:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : metalcore(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
+Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5) | metalcore(1)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-18 04:58:43Z
+Report generated (UTC)    : 2026-06-18 08:03:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
