@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-18_1848Z
+ snapshot_utc : 2026-06-19_1836Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -521,7 +521,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-18T16:15:05+00:00 | last_update=2026-06-18T16:15:05+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-19T16:06:23+00:00 | last_update=2026-06-19T16:06:23+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
 01. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
@@ -654,13 +654,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 324 ms
-TTFB................ 283 ms
+LATENCY............. 229 ms
+TTFB................ 227 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 76d
+TLS_EXPIRY.......... 75d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -687,9 +687,9 @@ VIEWS_7D............ 6882
 UNIQUES_24H......... 402
 BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
-CONTENT_LENGTH...... 63 KB
+CONTENT_LENGTH...... 42 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-18T13:24:54Z
+LAST_PROBE_UTC...... 2026-06-19T16:05:26Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -729,19 +729,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444517
-longitude      : -70.650114
-altitude       : 32 m
-gps_accuracy   : ±4.2 m
-heading        : 26°
-speed          : 0.4 km/h
-status         : stationary
+location       : transit_corridor
+latitude       : -33.446831
+longitude      : -70.662157
+altitude       : 91 m
+gps_accuracy   : ±7.4 m
+heading        : 269°
+speed          : 2.5 km/h
+status         : meeting
 phase          : workday
-local_time     : 14:42
+local_time     : 14:30
 timezone       : America/Santiago
 signal         : strong
-updated_utc    : 2026-06-18 18:42:46 UTC
+updated_utc    : 2026-06-19 18:30:14 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -860,7 +860,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-18 16:35:44Z
+DSN snapshot (UTC)       : 2026-06-19 10:57:28Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -871,15 +871,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.44e9 km | 170.084 AU
-Heliocentric distance    : 170.900 AU
-Relative speed           : 34.976 km/s
+Earth distance           : 25.45e9 km | 170.093 AU
+Heliocentric distance    : 170.908 AU
+Relative speed           : 35.122 km/s
 ------------------------------------------------------------
-One-way light time       : 23:34:33
-Round-trip latency       : 47:09:05
+One-way light time       : 23:34:37
+Round-trip latency       : 47:09:15
 ------------------------------------------------------------
-Δ distance (since last)  : +227,675 km
-Mission age              : 48 years, 298 days
+Δ distance (since last)  : +206,636 km
+Mission age              : 48 years, 299 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -890,19 +890,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.452 AU
-Heliocentric distance    : 143.179 AU
-Relative speed           : 28.575 km/s
+Earth distance           : 21.31e9 km | 142.454 AU
+Heliocentric distance    : 143.186 AU
+Relative speed           : 28.693 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:44
-Round-trip latency       : 39:29:28
+One-way light time       : 19:44:45
+Round-trip latency       : 39:29:31
 ------------------------------------------------------------
-Δ distance (since last)  : +61,572 km
-Mission age              : 48 years, 314 days
+Δ distance (since last)  : +57,761 km
+Mission age              : 48 years, 315 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-18 16:35:47Z
+Report generated (UTC)   : 2026-06-19 10:57:29Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1464,9 +1464,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:30:45
-Telemetry age             : 10:30:45
-Δ time (since last report): 00:00:18
+Time since last play      : 34:15:30
+Telemetry age             : 34:15:30
+Δ time (since last report): 00:00:47
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1478,40 +1478,46 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
-Dominant artist           : Public Enemy
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-11 16:34:32Z → 2026-06-18 16:34:32Z
-Total tracks played       : 7
+Week window (UTC)         : 2026-06-12 16:19:17Z → 2026-06-19 16:19:17Z
+Total tracks played       : 6
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :  █▂                     
-Heatmap (7d)              :  █▂             ▂       
+Heatmap (24h)             : N/A
+Heatmap (7d)              :  █▂                     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 25:30:53
+Sessions (24h)            : N/A
+Sessions (7d)             : 1
+Avg inter-play gap (7d)   : 00:04:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
-Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5) | metalcore(1)
+Top genres (24h)          : N/A
+Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-18 16:34:32Z
+AUTHORIZATION WATCH
+------------------------------------------------------------
+Refresh token state       : PASSING
+User action required      : NO
+Secret to update          : NONE
+------------------------------------------------------------
+Report generated (UTC)    : 2026-06-19 16:19:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1549,7 +1555,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 <br>
 
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Profile](https://img.shields.io/badge/Spotify-%20Profile-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428)
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Profile](https://img.shields.io/badge/Spotify-%20Profile-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify OAuth](https://img.shields.io/badge/Spotify-OAuth%20Console-1DB954?logo=spotify&logoColor=white)](https://developer.spotify.com/)
 
 
 #
@@ -1869,9 +1875,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 18 June 2026
+From: 04 December 2023 - To: 19 June 2026
 
-Total Time       : 1,034 hrs 35 mins
+Total Time       : 1,034 hrs 44 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 6 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1880,7 +1886,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          608 hrs 53 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.85 %
+Other          611 hrs 38 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.11 %
 Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.08 %
 Python         139 hrs 11 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.45 %
 HTML           136 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
@@ -1888,40 +1894,40 @@ PHP            109 hrs 7 mins ●●◔○○○○○○○○○○○○○�
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.81 %
 C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.13 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.86 %
-Text           38 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
+Text           38 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.76 %
 YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.67 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            935 hrs 30 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  90.42 %
-Linux          707 hrs 58 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.43 %
+Mac            938 hrs 23 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  90.69 %
+Linux          707 hrs 58 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.42 %
 
 EDITORS - APPS
 --------------
 VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.54 %
-Firefox        490 hrs 4 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.37 %
-Vim            337 hrs 20 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.61 %
-Terminal       34 hrs 38 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.35 %
+Firefox        492 hrs 25 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.59 %
+Vim            337 hrs 20 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.60 %
+Terminal       34 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.35 %
 Spotify        21 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.11 %
 Dia            15 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.51 %
 Acrobat        13 hrs 50 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.34 %
 ‎WhatsApp      13 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
-TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.17 %
-Termius        9 hrs 19 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.90 %
-FileZilla      7 hrs 45 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.75 %
+TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
+Termius        9 hrs 35 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.93 %
+FileZilla      7 hrs 53 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.76 %
 Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
 
 CATEGORIES
 ----------
-Coding         1,130 hrs 31 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       486 hrs 52 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.06 %
+Coding         1,131 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       489 hrs 13 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.28 %
 Meeting        22 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
-Writing Docs   3 hrs 48 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
+Writing Docs   3 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 18/06/2026 18:04:42 UTC
+Last updated     : 19/06/2026 17:42:46 UTC
 
 ```
 <!--END_SECTION:wakastats-->
