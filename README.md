@@ -1457,28 +1457,34 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 23:00:01
-Telemetry age             : 23:00:01
-Δ time (since last report): 00:00:37
+Time since last play      : 24:08:48
+Telemetry age             : 24:08:48
+Δ time (since last report): 01:08:48
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
 Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
+AUTHORIZATION WATCH
+------------------------------------------------------------
+Refresh token state       : PASSING
+User action required      : NO
+Secret to update          : NONE
+------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
-Dominant artist           : Public Enemy
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-12 05:03:47Z → 2026-06-19 05:03:47Z
+Week window (UTC)         : 2026-06-12 06:12:35Z → 2026-06-19 06:12:35Z
 Total tracks played       : 6
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
@@ -1486,25 +1492,25 @@ Cadence classification    : LOW
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :  █▂                     
+Heatmap (24h)             : N/A
 Heatmap (7d)              :  █▂                     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 1
 Avg inter-play gap (7d)   : 00:04:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
+Top genres (24h)          : N/A
 Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-19 05:03:47Z
+Report generated (UTC)    : 2026-06-19 06:12:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
