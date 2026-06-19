@@ -193,13 +193,13 @@ def replace_auth_watch_block(
     if pattern.search(report):
         return pattern.sub(new_block, report, count=1)
 
-    # Fallback: insert before DATA INTEGRITY if older reports do not yet contain the block.
-    marker = "Data integrity            :"
+    # Fallback: insert near the end, immediately before the final timestamp line.
+    marker = "Report generated (UTC)"
     idx = report.find(marker)
     if idx >= 0:
         return report[:idx] + new_block + "\n" + report[idx:]
 
-    return report.rstrip() + "\n------------------------------------------------------------\n" + new_block
+    return report.rstrip() + "\n" + new_block
 
 def build_auth_failsafe_report(reason: str, detail: str = ""):
     state = load_state()
@@ -231,18 +231,18 @@ def build_auth_failsafe_report(reason: str, detail: str = ""):
     out.append("Last played               : N/A")
     out.append("Last activity type        : AUTHORIZATION_REQUIRED")
     out.append("------------------------------------------------------------")
-    out.append(build_auth_watch_block(
-        "REAUTH REQUIRED",
-        "YES",
-        "SPOTIFY_REFRESH_TOKEN",
-        None,
-    ))
     out.append(f"API response class        : {reason}")
     out.append("API condition             : DEGRADED")
     out.append("Data integrity            : DEGRADED")
     out.append("Confidence level          : MEDIUM")
     out.append("------------------------------------------------------------")
     out.append(f"Failure detail            : {detail or 'N/A'}")
+    out.append(build_auth_watch_block(
+        "REAUTH REQUIRED",
+        "YES",
+        "SPOTIFY_REFRESH_TOKEN",
+        None,
+    ))
     out.append(f"Report generated (UTC)    : {now_s}")
     return "\n".join(out)
 
@@ -893,8 +893,6 @@ def build_report():
 
         out.append("------------------------------------------------------------")
 
-    out.append(build_auth_watch_block("PASSING", "NO", "NONE"))
-
     if SHOW_INTEGRITY_BLOCK:
         out.append(f"Data integrity            : {integrity}")
         out.append(f"Confidence level          : {confidence}")
@@ -947,6 +945,7 @@ def build_report():
         out.append(f"Artist lookups (this run) : {artist_lookup_counter['n']} (cached)")
         out.append("------------------------------------------------------------")
 
+    out.append(build_auth_watch_block("PASSING", "NO", "NONE"))
     out.append(f"Report generated (UTC)    : {now_s}")
 
     report = "\n".join(out)
