@@ -648,7 +648,7 @@ PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
 LATENCY............. 181 ms
-TTFB................ 179 ms
+TTFB................ 180 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -682,7 +682,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 42 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-19T04:38:59Z
+LAST_PROBE_UTC...... 2026-06-19T08:08:20Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
