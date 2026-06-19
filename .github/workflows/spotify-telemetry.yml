@@ -40,7 +40,7 @@ jobs:
           python-version: "3.11"
 
       # ------------------------------------------------------------
-      # Update telemetry
+      # Update telemetry (script debe ser idempotente)
       # ------------------------------------------------------------
       - name: Update Spotify telemetry block
         env:
@@ -66,6 +66,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Ajusta paths si tu script toca otros archivos
           git add README.md .github/state/spotify_last_report.json 2>/dev/null || true
           git add README.md 2>/dev/null || true
 
@@ -78,7 +79,7 @@ jobs:
           git push
 
       # ------------------------------------------------------------
-      # Optional debug artifact
+      # Optional debug artifact (if your script writes it)
       # ------------------------------------------------------------
       - name: Upload Spotify debug (optional)
         if: always()
