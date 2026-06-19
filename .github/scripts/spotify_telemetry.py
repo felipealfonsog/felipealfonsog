@@ -133,9 +133,18 @@ def dlog(msg: str):
     if os.environ.get("GITHUB_ACTIONS", "").lower() == "true":
         print(f"[SPOTIFY_DEBUG] {msg}", file=sys.stderr)
 
+class SpotifyAuthError(Exception):
+    def __init__(self, reason: str, detail: str = ""):
+        self.reason = reason
+        self.detail = detail
+        super().__init__(f"{reason}: {detail}")
+
 def spotify_access_token():
     if not (CLIENT_ID and CLIENT_SECRET and REFRESH_TOKEN):
-        raise RuntimeError("Missing Spotify secrets: SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / SPOTIFY_REFRESH_TOKEN")
+        raise SpotifyAuthError(
+            "SPOTIFY_SECRETS_MISSING",
+            "Missing Spotify secrets: SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / SPOTIFY_REFRESH_TOKEN",
+        )
 
     auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
     body = urllib.parse.urlencode({
@@ -143,23 +152,59 @@ def spotify_access_token():
         "refresh_token": REFRESH_TOKEN,
     }).encode("utf-8")
 
-    code, _, payload = http_json(
-        AUTH_URL,
-        headers={
-            "Authorization": f"Basic {auth}",
-            "Content-Type": "application/x-www-form-urlencoded",
-        },
-        data=body,
-        timeout=25
-    )
+    try:
+        code, _, payload = http_json(
+            AUTH_URL,
+            headers={
+                "Authorization": f"Basic {auth}",
+                "Content-Type": "application/x-www-form-urlencoded",
+            },
+            data=body,
+            timeout=25
+        )
+    except urllib.error.HTTPError as e:
+        raw = e.read().decode("utf-8", "replace")
+        try:
+            payload = json.loads(raw) if raw.strip() else {}
+        except Exception:
+            payload = {"raw": raw}
+
+        if isinstance(payload, dict) and payload.get("error") == "invalid_grant":
+            raise SpotifyAuthError(
+                "SPOTIFY_REAUTH_REQUIRED",
+                "Refresh token expired or invalid"
+            )
+
+        raise SpotifyAuthError(
+            "SPOTIFY_TOKEN_REFRESH_FAILED",
+            f"HTTP {e.code}: {payload}"
+        )
+    except Exception as e:
+        raise SpotifyAuthError(
+            "SPOTIFY_TOKEN_REFRESH_FAILED",
+            str(e)
+        )
 
     if code >= 400 or not payload:
-        raise RuntimeError(f"Spotify token refresh failed (HTTP {code}): {payload}")
+        raise SpotifyAuthError(
+            "SPOTIFY_TOKEN_REFRESH_FAILED",
+            f"HTTP {code}: {payload}"
+        )
+
+    if isinstance(payload, dict) and payload.get("error") == "invalid_grant":
+        raise SpotifyAuthError(
+            "SPOTIFY_REAUTH_REQUIRED",
+            "Refresh token expired or invalid"
+        )
 
     token = payload.get("access_token")
     scope = payload.get("scope") or ""
+
     if not token:
-        raise RuntimeError(f"No access_token in token response: {payload}")
+        raise SpotifyAuthError(
+            "SPOTIFY_TOKEN_REFRESH_FAILED",
+            f"No access_token in token response: {payload}"
+        )
 
     return token, scope
 
@@ -364,6 +409,67 @@ def volume_bar(percent: int | None) -> str:
         else:
             out.append(" ")
     return "".join(out).rstrip() or "-"
+
+# =============================================================================
+# Failsafe report
+# =============================================================================
+
+def build_auth_failsafe_report(reason: str, detail: str = ""):
+    now_s = utc_iso(utc_now())
+
+    out = []
+    out.append("SPOTIFY TELEMETRY — CLI FEED (Spotify ©)")
+    out.append("------------------------------------------------------------")
+    out.append("Telemetry source          : Spotify Developer Platform — Playback Telemetry ©")
+    out.append("Acquisition mode          : OAuth2 / automated workflow")
+    out.append("Snapshot type             : Authorization failsafe state")
+    out.append(f"Observation window        : {fmt_hms(OBS_WINDOW_SECONDS)}")
+    out.append("------------------------------------------------------------")
+    out.append("Playback state            : OFFLINE (authorization unavailable)")
+    out.append("Status                    : IDLE")
+    out.append("SITREP                    : AMBER")
+    out.append("------------------------------------------------------------")
+    out.append("PLAYBACK DEVICE (Spotify)")
+    out.append("------------------------------------------------------------")
+    out.append("Device type               : N/A")
+    if SHOW_DEVICE_NAME:
+        out.append("Device name               : N/A")
+    out.append("Volume                    : N/A")
+    out.append("Volume telemetry          : AUTHORIZATION_REQUIRED")
+    out.append("------------------------------------------------------------")
+    out.append("Now playing               : N/A")
+    out.append("Last played               : N/A")
+    out.append("Last played (UTC)         : N/A")
+    out.append("Last activity type        : AUTHORIZATION_REQUIRED")
+    out.append("------------------------------------------------------------")
+    out.append("Time since last play      : N/A")
+    out.append("Telemetry age             : N/A")
+    out.append("Δ time (since last report): N/A")
+    out.append("------------------------------------------------------------")
+    out.append(f"API response class        : {reason}")
+    out.append("API condition             : DEGRADED")
+    out.append("Authorization scope       : N/A")
+    out.append("Player endpoint           : AUTHORIZATION_REQUIRED")
+    out.append("------------------------------------------------------------")
+    out.append("Data integrity            : DEGRADED")
+    out.append("Confidence level          : MEDIUM")
+    out.append("------------------------------------------------------------")
+    out.append(f"Failure detail            : {detail or 'N/A'}")
+    out.append(f"Report generated (UTC)    : {now_s}")
+
+    if WRITE_STATE_FILE:
+        mutable_state = load_state()
+        mutable_state.update({
+            "report_generated_utc": now_s,
+            "status": "IDLE",
+            "last_track": "N/A",
+            "last_played_utc": "",
+            "sitrep": "AMBER",
+            "auth_condition": reason,
+        })
+        save_state(mutable_state)
+
+    return "\n".join(out)
 
 # =============================================================================
 # Main telemetry build
@@ -821,8 +927,18 @@ def build_report():
     return "\n".join(out)
 
 def main():
-    report = build_report()
-    rewrite_readme_block(report)
+    try:
+        report = build_report()
+        rewrite_readme_block(report)
+    except SpotifyAuthError as e:
+        print(f"Spotify auth failsafe: {e.reason} — {e.detail}", file=sys.stderr)
+
+        if FAIL_SAFE_DO_NOT_BREAK_README:
+            report = build_auth_failsafe_report(e.reason, e.detail)
+            rewrite_readme_block(report)
+            sys.exit(0)
+
+        raise
 
 if __name__ == "__main__":
     try:
