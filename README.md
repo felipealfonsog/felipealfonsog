@@ -1457,20 +1457,14 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 24:08:48
-Telemetry age             : 24:08:48
-Δ time (since last report): 01:08:48
+Time since last play      : 24:21:07
+Telemetry age             : 24:21:07
+Δ time (since last report): 00:12:19
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
 Player endpoint           : 204 NO CONTENT
-------------------------------------------------------------
-AUTHORIZATION WATCH
-------------------------------------------------------------
-Refresh token state       : PASSING
-User action required      : NO
-Secret to update          : NONE
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1484,7 +1478,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-12 06:12:35Z → 2026-06-19 06:12:35Z
+Week window (UTC)         : 2026-06-12 06:24:54Z → 2026-06-19 06:24:54Z
 Total tracks played       : 6
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
@@ -1510,7 +1504,13 @@ Top genres (24h)          : N/A
 Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-19 06:12:35Z
+AUTHORIZATION WATCH
+------------------------------------------------------------
+Refresh token state       : PASSING
+User action required      : NO
+Secret to update          : NONE
+------------------------------------------------------------
+Report generated (UTC)    : 2026-06-19 06:24:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
