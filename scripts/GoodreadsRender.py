@@ -15,6 +15,13 @@ from GoodreadsUtils import (
 )
 
 
+SECTION_ORDER = [
+    ("currently_reading", "VISUAL_CURRENTLY_READING_TITLE"),
+    ("want_to_read", "VISUAL_WANT_TO_READ_TITLE"),
+    ("recent_read", "VISUAL_RECENT_READ_TITLE"),
+]
+
+
 # ============================================================
 # HELPERS
 # ============================================================
@@ -29,6 +36,9 @@ def resolve_section_limit_from_snapshot(section: dict[str, Any], fallback_name: 
 
     if fallback_name == "currently_reading":
         return config.CURRENTLY_READING_LIMIT
+
+    if fallback_name == "want_to_read":
+        return config.WANT_TO_READ_LIMIT
 
     if fallback_name == "recent_read":
         return config.RECENT_READ_LIMIT
@@ -89,6 +99,10 @@ def build_cli_meta_line(snapshot: dict[str, Any]) -> str:
         parts.append(f"source={meta.get('source', '')}")
 
     return " | ".join(parts)
+
+
+def section_enabled(section: dict[str, Any]) -> bool:
+    return bool(section.get("enabled", False))
 
 
 # ============================================================
@@ -154,10 +168,9 @@ def render_option1_cover(book: dict[str, Any]) -> str:
 def render_option1_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
     books = section.get("books", [])
 
-    if not section.get("enabled", False):
+    if not section_enabled(section):
         return ""
 
-    # Un solo salto real entre subtítulo y covers
     header = (
         f'<div align="{html_escape(config.VISUAL_SECTION_HEADER_ALIGN)}">'
         f'<sub><strong>{html_escape(section_title)}</strong></sub>'
@@ -169,8 +182,6 @@ def render_option1_section(section: dict[str, Any], section_name: str, section_t
         return header + f'<sub>{html_escape(config.VISUAL_EMPTY_MESSAGE)}</sub><br/>'
 
     covers_html = "".join(render_option1_cover(book) for book in books)
-
-    # Un solo salto al final de la sección
     return header + covers_html + "<br/>"
 
 
@@ -252,7 +263,7 @@ def render_option2_cell(book: dict[str, Any]) -> str:
 def render_option2_section(section: dict[str, Any], section_name: str, section_title: str) -> str:
     books = section.get("books", [])
 
-    if not section.get("enabled", False):
+    if not section_enabled(section):
         return ""
 
     header = (
@@ -299,17 +310,18 @@ def render_option2_section(section: dict[str, Any], section_name: str, section_t
 # ============================================================
 
 def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
-    if not config.SHOW_VISUAL_FOOTER_META:
+    if not getattr(config, "SHOW_VISUAL_FOOTER_META", True):
         return ""
 
     meta_line = build_visual_footer_meta_line(snapshot)
     if not meta_line:
         return ""
 
-    if config.VISUAL_FOOTER_META_USE_SUB:
+    if getattr(config, "VISUAL_FOOTER_META_USE_SUB", True):
         meta_line = f"<br/><sub>{meta_line}</sub>"
 
     return meta_line + "<br/><br/>"
+
 
 # ============================================================
 # VISUAL BLOCK
@@ -317,9 +329,6 @@ def render_visual_footer_meta(snapshot: dict[str, Any]) -> str:
 
 def render_visual_block(snapshot: dict[str, Any]) -> str:
     sections = snapshot.get("sections", {})
-    current_section = sections.get("currently_reading", {})
-    recent_section = sections.get("recent_read", {})
-
     lines: list[str] = []
 
     if getattr(config, "VISUAL_TITLE_USE_SMALL", True):
@@ -330,47 +339,25 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
     if getattr(config, "VISUAL_SHOW_DESCRIPTION", True) and str(config.VISUAL_BLOCK_DESCRIPTION).strip():
         lines.append(f'<sub>{html_escape(config.VISUAL_BLOCK_DESCRIPTION)}</sub>')
 
-    # Un solo salto antes del contenido visual
     lines.append("<br/>")
 
-    current_html = ""
-    recent_html = ""
+    rendered_any_section = False
 
-    if config.SHOW_CURRENTLY_READING_SECTION:
+    for section_id, title_attr in SECTION_ORDER:
+        section = sections.get(section_id, {})
+        section_title = str(getattr(config, title_attr))
+        section_html = ""
+
         if getattr(config, "OPTION2_CARD_TABLE_ENABLED", False):
-            current_html = render_option2_section(
-                current_section,
-                "currently_reading",
-                config.VISUAL_CURRENTLY_READING_TITLE,
-            )
+            section_html = render_option2_section(section, section_id, section_title)
         elif getattr(config, "OPTION1_COVERS_ONLY_ENABLED", True):
-            current_html = render_option1_section(
-                current_section,
-                "currently_reading",
-                config.VISUAL_CURRENTLY_READING_TITLE,
-            )
+            section_html = render_option1_section(section, section_id, section_title)
 
-    if config.SHOW_RECENT_READ_SECTION:
-        if getattr(config, "OPTION2_CARD_TABLE_ENABLED", False):
-            recent_html = render_option2_section(
-                recent_section,
-                "recent_read",
-                config.VISUAL_RECENT_READ_TITLE,
-            )
-        elif getattr(config, "OPTION1_COVERS_ONLY_ENABLED", True):
-            recent_html = render_option1_section(
-                recent_section,
-                "recent_read",
-                config.VISUAL_RECENT_READ_TITLE,
-            )
+        if section_html:
+            rendered_any_section = True
+            lines.append(section_html)
 
-    if current_html:
-        lines.append(current_html)
-
-    if recent_html:
-        lines.append(recent_html)
-
-    if not current_html and not recent_html:
+    if not rendered_any_section:
         lines.append(config.VISUAL_EMPTY_MESSAGE)
 
     footer_meta = render_visual_footer_meta(snapshot)
@@ -387,7 +374,7 @@ def render_visual_block(snapshot: dict[str, Any]) -> str:
 def render_cli_section(section: dict[str, Any], section_name: str, label: str) -> list[str]:
     lines: list[str] = []
 
-    if not section.get("enabled", False):
+    if not section_enabled(section):
         return lines
 
     books = section.get("books", [])
@@ -459,23 +446,8 @@ def render_cli_block(snapshot: dict[str, Any]) -> str:
     if getattr(config, "CLI_DIVIDER", True):
         lines.append("")
 
-    if config.SHOW_CURRENTLY_READING_SECTION:
-        lines.extend(
-            render_cli_section(
-                sections.get("currently_reading", {}),
-                "currently_reading",
-                "currently_reading",
-            )
-        )
-
-    if config.SHOW_RECENT_READ_SECTION:
-        lines.extend(
-            render_cli_section(
-                sections.get("recent_read", {}),
-                "recent_read",
-                "recent_read",
-            )
-        )
+    for section_id, _title_attr in SECTION_ORDER:
+        lines.extend(render_cli_section(sections.get(section_id, {}), section_id, section_id))
 
     if len(lines) <= 4:
         lines.append(config.CLI_EMPTY_MESSAGE)
@@ -517,6 +489,45 @@ def write_render_metadata(
     )
 
 
+def build_empty_snapshot() -> dict[str, Any]:
+    return {
+        "meta": {
+            "source": config.SOURCE_LABEL,
+            "status": "no_snapshot",
+            "fetch_mode": "none",
+            "last_attempted_sync": "",
+            "last_successful_sync": "",
+            "error_message": "No cache file present.",
+        },
+        "sections": {
+            "currently_reading": {
+                "enabled": config.SHOW_CURRENTLY_READING_SECTION,
+                "title": config.VISUAL_CURRENTLY_READING_TITLE,
+                "shelf": config.CURRENTLY_READING_SHELF,
+                "limit": config.CURRENTLY_READING_LIMIT,
+                "item_count": 0,
+                "books": [],
+            },
+            "want_to_read": {
+                "enabled": config.SHOW_WANT_TO_READ_SECTION,
+                "title": config.VISUAL_WANT_TO_READ_TITLE,
+                "shelf": config.WANT_TO_READ_SHELF,
+                "limit": config.WANT_TO_READ_LIMIT,
+                "item_count": 0,
+                "books": [],
+            },
+            "recent_read": {
+                "enabled": config.SHOW_RECENT_READ_SECTION,
+                "title": config.VISUAL_RECENT_READ_TITLE,
+                "shelf": config.RECENT_READ_SHELF,
+                "limit": config.RECENT_READ_LIMIT,
+                "item_count": 0,
+                "books": [],
+            },
+        },
+    }
+
+
 # ============================================================
 # MAIN
 # ============================================================
@@ -526,34 +537,7 @@ def main() -> int:
 
     snapshot = read_json(config.CACHE_PATH)
     if snapshot is None:
-        snapshot = {
-            "meta": {
-                "source": config.SOURCE_LABEL,
-                "status": "no_snapshot",
-                "fetch_mode": "none",
-                "last_attempted_sync": "",
-                "last_successful_sync": "",
-                "error_message": "No cache file present.",
-            },
-            "sections": {
-                "currently_reading": {
-                    "enabled": config.SHOW_CURRENTLY_READING_SECTION,
-                    "title": config.VISUAL_CURRENTLY_READING_TITLE,
-                    "shelf": config.CURRENTLY_READING_SHELF,
-                    "limit": config.CURRENTLY_READING_LIMIT,
-                    "item_count": 0,
-                    "books": [],
-                },
-                "recent_read": {
-                    "enabled": config.SHOW_RECENT_READ_SECTION,
-                    "title": config.VISUAL_RECENT_READ_TITLE,
-                    "shelf": config.RECENT_READ_SHELF,
-                    "limit": config.RECENT_READ_LIMIT,
-                    "item_count": 0,
-                    "books": [],
-                },
-            },
-        }
+        snapshot = build_empty_snapshot()
 
     readme = read_text(config.README_PATH)
 
