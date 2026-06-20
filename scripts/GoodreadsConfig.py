@@ -44,12 +44,12 @@ WANT_TO_READ_SHELF = "to-read"
 # ============================================================
 # If USE_GLOBAL_SECTION_LIMIT = True, all shelves use GLOBAL_SECTION_LIMIT.
 # If False, each shelf uses its own limit below.
-GLOBAL_SECTION_LIMIT = 15
+GLOBAL_SECTION_LIMIT = 30
 USE_GLOBAL_SECTION_LIMIT = False
 
-CURRENTLY_READING_LIMIT = 15
-RECENT_READ_LIMIT = 15
-WANT_TO_READ_LIMIT = 15
+CURRENTLY_READING_LIMIT = 30
+RECENT_READ_LIMIT = 50
+WANT_TO_READ_LIMIT = 30
 
 
 # ============================================================
