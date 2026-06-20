@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-06-20T10:07:09+00:00",
-    "last_successful_sync": "2026-06-20T10:07:09+00:00",
+    "last_attempted_sync": "2026-06-20T10:48:03+00:00",
+    "last_successful_sync": "2026-06-20T10:48:03+00:00",
     "error_message": ""
   },
   "sections": {
@@ -577,6 +577,15 @@
       "item_count": 50,
       "books": [
         {
+          "title": "Programming Perl",
+          "author": "Tom Christiansen",
+          "link": "https://www.goodreads.com/review/show/8701324639?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328835945l/154155._SX50_.jpg",
+          "summary": "author: Tom Christiansen name: Felipe Alfonso average rating: 4.07 book published: 1991 rating: 0 read at: date added: 2026/06/20 shelves: review:",
+          "guid": "https://www.goodreads.com/review/show/8701324639?utm_medium=api&utm_source=rss",
+          "pub_date": "Sat, 20 Jun 2026 03:05:10 -0700"
+        },
+        {
           "title": "Human, All-Too-Human by Friedrich Nietzsche",
           "author": "Friedrich Nietzsche",
           "link": "https://www.goodreads.com/review/show/8008446066?utm_medium=api&utm_source=rss",
@@ -1016,15 +1025,6 @@
           "summary": "author: Simon Singh name: Felipe Alfonso average rating: 4.30 book published: 1999 rating: 0 read at: date added: 2025/10/20 shelves: cybersecurity, engineering, cryptography review:",
           "guid": "https://www.goodreads.com/review/show/8008495891?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:39:25 -0700"
-        },
-        {
-          "title": "AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability",
-          "author": "Iqbal H. Sarker",
-          "link": "https://www.goodreads.com/review/show/8008494244?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718702955l/205548015._SY75_.jpg",
-          "summary": "author: Iqbal H. Sarker name: Felipe Alfonso average rating: 4.00 book published: rating: 0 read at: date added: 2025/10/20 shelves: cybersecurity, engineering review:",
-          "guid": "https://www.goodreads.com/review/show/8008494244?utm_medium=api&utm_source=rss",
-          "pub_date": "Mon, 20 Oct 2025 19:38:34 -0700"
         }
       ]
     }

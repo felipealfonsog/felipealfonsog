@@ -518,7 +518,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-20T10:07:09+00:00 | last_update=2026-06-20T10:07:09+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-20T10:48:03+00:00 | last_update=2026-06-20T10:48:03+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
@@ -585,56 +585,56 @@ ICONOS INICIALES INLINE SVG1
 30. Deep Work: Rules for Focused Success in a Distracted World — Cal Newport
 
 [recent_read] shelf=read books=50 limit=50
-01. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
-02. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
-03. Programming Perl (3rd Edition) — Larry Wall
-04. Mala onda — Alberto Fuguet
-05. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
-06. Freedom from the Known — J. Krishnamurti
-07. In My Father's Den — Maurice Gee
-08. The Poetry of Pablo Neruda — Pablo Neruda
-09. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
-10. Cujo — Stephen King
-11. On Writing — Ernest Hemingway
-12. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
-13. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky
-14. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
-15. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
-16. Ebano — Ryszard Kapuściński
-17. MARY LAVELLE — Kate O'Brien
-18. Nosotras que nos queremos tanto — Marcela Serrano
-19. Donde mueren los valientes — Hernán Rivera Letelier
-20. Linear Algebra and Its Applications — Gilbert Strang
-21. Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes
-22. Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort
-23. Elementos de estadística descriptiva — Miguel Gómez Barrantes
-24. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
-25. Calculus — Purcell Rigdon Varberg
-26. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
-27. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
-28. La vida, un enigma — Daisaku Ikeda
-29. The Count of Monte Cristo — Alexandre Dumas
-30. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
-31. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
-32. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
-33. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
-34. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
-35. The Silva Mind Control Method — José Silva
-36. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
-37. De Sapos a Principes — Richard Bandler
-38. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
-39. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
-40. Psychology: The Science of Mind and Behaviour — Richard Gross
-41. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
-42. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
-43. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
-44. Understanding Psychology — Robert S. Feldman
-45. Becoming — Michelle Obama
-46. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
-47. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
-48. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
-49. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
-50. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
+01. Programming Perl — Tom Christiansen
+02. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
+03. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
+04. Programming Perl (3rd Edition) — Larry Wall
+05. Mala onda — Alberto Fuguet
+06. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
+07. Freedom from the Known — J. Krishnamurti
+08. In My Father's Den — Maurice Gee
+09. The Poetry of Pablo Neruda — Pablo Neruda
+10. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
+11. Cujo — Stephen King
+12. On Writing — Ernest Hemingway
+13. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
+14. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky
+15. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
+16. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
+17. Ebano — Ryszard Kapuściński
+18. MARY LAVELLE — Kate O'Brien
+19. Nosotras que nos queremos tanto — Marcela Serrano
+20. Donde mueren los valientes — Hernán Rivera Letelier
+21. Linear Algebra and Its Applications — Gilbert Strang
+22. Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes
+23. Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort
+24. Elementos de estadística descriptiva — Miguel Gómez Barrantes
+25. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
+26. Calculus — Purcell Rigdon Varberg
+27. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
+28. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
+29. La vida, un enigma — Daisaku Ikeda
+30. The Count of Monte Cristo — Alexandre Dumas
+31. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
+32. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
+33. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
+34. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
+35. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
+36. The Silva Mind Control Method — José Silva
+37. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
+38. De Sapos a Principes — Richard Bandler
+39. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
+40. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
+41. Psychology: The Science of Mind and Behaviour — Richard Gross
+42. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
+43. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
+44. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
+45. Understanding Psychology — Robert S. Feldman
+46. Becoming — Michelle Obama
+47. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
+48. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
+49. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
+50. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
 
 ```
 <!-- GOODREADS:CLI_END -->
