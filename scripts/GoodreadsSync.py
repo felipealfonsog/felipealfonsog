@@ -17,17 +17,51 @@ from GoodreadsUtils import (
 )
 
 
+SECTION_DEFINITIONS = [
+    {
+        "id": "currently_reading",
+        "enabled_attr": "SHOW_CURRENTLY_READING_SECTION",
+        "title_attr": "VISUAL_CURRENTLY_READING_TITLE",
+        "shelf_attr": "CURRENTLY_READING_SHELF",
+        "limit_attr": "CURRENTLY_READING_LIMIT",
+    },
+    {
+        "id": "want_to_read",
+        "enabled_attr": "SHOW_WANT_TO_READ_SECTION",
+        "title_attr": "VISUAL_WANT_TO_READ_TITLE",
+        "shelf_attr": "WANT_TO_READ_SHELF",
+        "limit_attr": "WANT_TO_READ_LIMIT",
+    },
+    {
+        "id": "recent_read",
+        "enabled_attr": "SHOW_RECENT_READ_SECTION",
+        "title_attr": "VISUAL_RECENT_READ_TITLE",
+        "shelf_attr": "RECENT_READ_SHELF",
+        "limit_attr": "RECENT_READ_LIMIT",
+    },
+]
+
+
 def resolve_section_limit(section_name: str) -> int:
     if config.USE_GLOBAL_SECTION_LIMIT:
         return config.GLOBAL_SECTION_LIMIT
 
-    if section_name == "currently_reading":
-        return config.CURRENTLY_READING_LIMIT
-
-    if section_name == "recent_read":
-        return config.RECENT_READ_LIMIT
+    for section_def in SECTION_DEFINITIONS:
+        if section_def["id"] == section_name:
+            return int(getattr(config, section_def["limit_attr"]))
 
     return config.GLOBAL_SECTION_LIMIT
+
+
+def get_section_config(section_def: dict[str, str]) -> dict[str, Any]:
+    section_id = section_def["id"]
+    return {
+        "id": section_id,
+        "enabled": bool(getattr(config, section_def["enabled_attr"], False)),
+        "title": str(getattr(config, section_def["title_attr"])),
+        "shelf": str(getattr(config, section_def["shelf_attr"])),
+        "limit": resolve_section_limit(section_id),
+    }
 
 
 def build_rss_url(shelf: str) -> str:
@@ -150,20 +184,15 @@ def parse_rss_items(xml_text: str) -> list[dict[str, Any]]:
         if not author:
             author = extract_author_from_description(description_raw)
 
-        cover = extract_cover_from_description(description_raw)
-        summary = extract_summary_from_description(description_raw)
-        guid = sanitize_text(item.findtext("guid", default=""))
-        pub_date = sanitize_text(item.findtext("pubDate", default=""))
-
         books.append(
             {
                 "title": title,
                 "author": author,
                 "link": link,
-                "cover": cover,
-                "summary": summary,
-                "guid": guid,
-                "pub_date": pub_date,
+                "cover": extract_cover_from_description(description_raw),
+                "summary": extract_summary_from_description(description_raw),
+                "guid": sanitize_text(item.findtext("guid", default="")),
+                "pub_date": sanitize_text(item.findtext("pubDate", default="")),
             }
         )
 
@@ -227,26 +256,21 @@ def fetch_section(section_name: str, shelf: str) -> dict[str, Any]:
 
 
 def build_empty_sections_snapshot() -> dict[str, Any]:
-    return {
-        "currently_reading": {
-            "enabled": config.SHOW_CURRENTLY_READING_SECTION,
-            "title": config.VISUAL_CURRENTLY_READING_TITLE,
-            "shelf": config.CURRENTLY_READING_SHELF,
+    sections: dict[str, Any] = {}
+
+    for section_def in SECTION_DEFINITIONS:
+        section_cfg = get_section_config(section_def)
+        sections[section_cfg["id"]] = {
+            "enabled": section_cfg["enabled"],
+            "title": section_cfg["title"],
+            "shelf": section_cfg["shelf"],
             "source_url": "",
-            "limit": resolve_section_limit("currently_reading"),
+            "limit": section_cfg["limit"],
             "item_count": 0,
             "books": [],
-        },
-        "recent_read": {
-            "enabled": config.SHOW_RECENT_READ_SECTION,
-            "title": config.VISUAL_RECENT_READ_TITLE,
-            "shelf": config.RECENT_READ_SHELF,
-            "source_url": "",
-            "limit": resolve_section_limit("recent_read"),
-            "item_count": 0,
-            "books": [],
-        },
-    }
+        }
+
+    return sections
 
 
 def build_failure_snapshot(previous_cache: dict[str, Any] | None, error_message: str) -> dict[str, Any]:
@@ -284,47 +308,30 @@ def main() -> int:
     try:
         sections: dict[str, Any] = {}
 
-        if config.SHOW_CURRENTLY_READING_SECTION:
-            current = fetch_section(
-                section_name="currently_reading",
-                shelf=config.CURRENTLY_READING_SHELF,
-            )
-            sections["currently_reading"] = {
-                "enabled": True,
-                "title": config.VISUAL_CURRENTLY_READING_TITLE,
-                **current,
-            }
-        else:
-            sections["currently_reading"] = {
-                "enabled": False,
-                "title": config.VISUAL_CURRENTLY_READING_TITLE,
-                "shelf": config.CURRENTLY_READING_SHELF,
-                "source_url": "",
-                "limit": resolve_section_limit("currently_reading"),
-                "item_count": 0,
-                "books": [],
-            }
+        for section_def in SECTION_DEFINITIONS:
+            section_cfg = get_section_config(section_def)
+            section_id = section_cfg["id"]
 
-        if config.SHOW_RECENT_READ_SECTION:
-            recent = fetch_section(
-                section_name="recent_read",
-                shelf=config.RECENT_READ_SHELF,
-            )
-            sections["recent_read"] = {
-                "enabled": True,
-                "title": config.VISUAL_RECENT_READ_TITLE,
-                **recent,
-            }
-        else:
-            sections["recent_read"] = {
-                "enabled": False,
-                "title": config.VISUAL_RECENT_READ_TITLE,
-                "shelf": config.RECENT_READ_SHELF,
-                "source_url": "",
-                "limit": resolve_section_limit("recent_read"),
-                "item_count": 0,
-                "books": [],
-            }
+            if section_cfg["enabled"]:
+                fetched = fetch_section(
+                    section_name=section_id,
+                    shelf=section_cfg["shelf"],
+                )
+                sections[section_id] = {
+                    "enabled": True,
+                    "title": section_cfg["title"],
+                    **fetched,
+                }
+            else:
+                sections[section_id] = {
+                    "enabled": False,
+                    "title": section_cfg["title"],
+                    "shelf": section_cfg["shelf"],
+                    "source_url": "",
+                    "limit": section_cfg["limit"],
+                    "item_count": 0,
+                    "books": [],
+                }
 
         valid_count = 0
         required_enabled_sections = 0
