@@ -514,9 +514,9 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-20T09:00:05+00:00 | last_update=2026-06-20T09:00:05+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-20T09:02:08+00:00 | last_update=2026-06-20T09:02:08+00:00 | source=goodreads_rss
 
-[currently_reading] shelf=currently-reading books=25 limit=25
+[currently_reading] shelf=currently-reading books=30 limit=30
 01. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
 02. Del inconveniente de haber nacido — Emil M. Cioran
 03. El ser y el tiempo — Martin Heidegger
@@ -542,6 +542,11 @@ ICONOS INICIALES INLINE SVG1
 23. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
 24. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
 25. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+26. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+27. The Autobiography of a Yogi — Paramahansa Yogananda
+28. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
+29. Leviathan — Thomas Hobbes
+30. Aferrada a mi balsa — Gladys Díaz Armijo
 
 [recent_read] shelf=read books=50 limit=50
 01. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
