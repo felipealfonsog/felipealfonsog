@@ -514,9 +514,9 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-20T09:24:01+00:00 | last_update=2026-06-20T09:24:01+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-20T09:25:58+00:00 | last_update=2026-06-20T09:25:58+00:00 | source=goodreads_rss
 
-[currently_reading] shelf=currently-reading books=15 limit=15
+[currently_reading] shelf=currently-reading books=30 limit=30
 01. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
 02. Del inconveniente de haber nacido — Emil M. Cioran
 03. El ser y el tiempo — Martin Heidegger
@@ -532,8 +532,23 @@ ICONOS INICIALES INLINE SVG1
 13. El mito de Sísifo — Albert Camus
 14. Sobre la Brevedad de la Vida - Sobre la Felicidad: Séneca (Colección Filosofia) (Spanish Edition) — Seneca
 15. SOBRE LA BREVEDAD DE LA VIDA (Spanish Edition) — Lucio Séneca
+16. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+17. Human, All Too Human — Friedrich Nietzsche
+18. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
+19. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
+20. An Introduction to Zen Buddhism — D.T. Suzuki
+21. Shobogenzo "Zazengi"- English edition — dogen kigen
+22. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
+23. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+24. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+25. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+26. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+27. The Autobiography of a Yogi — Paramahansa Yogananda
+28. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
+29. Leviathan — Thomas Hobbes
+30. Aferrada a mi balsa — Gladys Díaz Armijo
 
-[want_to_read] shelf=to-read books=15 limit=15
+[want_to_read] shelf=to-read books=30 limit=30
 01. The Stranger — Albert Camus
 02. Bolívar según Chávez: ensayo de una tendencia (Spanish Edition) — Gilberto Aranda
 03. GABRIELA MISTRAL Y SU DESCONOCIDA HISTORIA ESPIRITUAL (Spanish Edition) — Sergio Salinas Cañas
@@ -549,8 +564,23 @@ ICONOS INICIALES INLINE SVG1
 13. The History of Jazz — Ted Gioia
 14. An Introduction to Genetic Algorithms (Complex Adaptive Systems) — Melanie Mitchell
 15. The Art of Computer Programming, Volume 4, Fascicle 0: Introduction to Combinatorial Algorithms and Boolean Functions — Donald Ervin Knuth
+16. Gödel, Escher, Bach: An Eternal Golden Braid — Suha Lkharita
+17. Eckhart Tolle Lessons: Learn to Access The Power of Now (The Power of Now, Eckhart Tolle) — Quick Reads
+18. Summary and Analysis of Waking Up: A Guide to Spirituality without Religion By Sam Harris — Acesprint
+19. Summary of “Why Buddhism is True” by Robert Wright — QuickRead
+20. Summary of Digital Minimalism Cal Newport - Choosing a Focused Life in a Noisy World — DMPublishers
+21. Stay True — Hua Hsu
+22. The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery — Brianna Wiest
+23. The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness — Ichiro Kishimi
+24. Machine Learning for Absolute Beginners: A Plain English Introduction (Third Edition) (Learn Machine Learning for Beginners) — Oliver Theobald
+25. Essentialism: The Disciplined Pursuit of Less - The Two-Million-Copy Bestseller — Greg McKeown
+26. Database Internals: A deep-dive into how distributed data systems work — Alex Petrov
+27. Anxiety Rx: A New Prescription for Anxiety Relief from the Doctor Who Created It — Russell Kennedy
+28. Les Traités et le poème: traduit et présenté par Gwendoline Jarczyk et Pierre-Jean Labarrière (French Edition) — Meister Eckhart
+29. No Rules Rules: Netflix and the Culture of Reinvention — Reed Hastings
+30. Deep Work: Rules for Focused Success in a Distracted World — Cal Newport
 
-[recent_read] shelf=read books=15 limit=15
+[recent_read] shelf=read books=50 limit=50
 01. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
 02. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
 03. Programming Perl (3rd Edition) — Larry Wall
@@ -566,6 +596,41 @@ ICONOS INICIALES INLINE SVG1
 13. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky
 14. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
 15. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
+16. Ebano — Ryszard Kapuściński
+17. MARY LAVELLE — Kate O'Brien
+18. Nosotras que nos queremos tanto — Marcela Serrano
+19. Donde mueren los valientes — Hernán Rivera Letelier
+20. Linear Algebra and Its Applications — Gilbert Strang
+21. Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes
+22. Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort
+23. Elementos de estadística descriptiva — Miguel Gómez Barrantes
+24. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
+25. Calculus — Purcell Rigdon Varberg
+26. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
+27. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
+28. La vida, un enigma — Daisaku Ikeda
+29. The Count of Monte Cristo — Alexandre Dumas
+30. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
+31. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
+32. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
+33. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
+34. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
+35. The Silva Mind Control Method — José Silva
+36. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
+37. De Sapos a Principes — Richard Bandler
+38. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
+39. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
+40. Psychology: The Science of Mind and Behaviour — Richard Gross
+41. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
+42. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
+43. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
+44. Understanding Psychology — Robert S. Feldman
+45. Becoming — Michelle Obama
+46. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
+47. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
+48. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
+49. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
+50. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
 
 ```
 <!-- GOODREADS:CLI_END -->
