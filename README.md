@@ -504,8 +504,6 @@ ICONOS INICIALES INLINE SVG1
 
 <details open>
 <summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
-  
-<br>
 
 [![Follow on Goodreads](https://img.shields.io/badge/Follow%20on-Goodreads-553B08?logo=goodreads&logoColor=white)](https://www.goodreads.com/felipealfonsog)
 
