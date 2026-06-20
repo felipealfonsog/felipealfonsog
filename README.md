@@ -514,86 +514,86 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-20T07:34:32+00:00 | last_update=2026-06-20T07:34:32+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-20T09:00:05+00:00 | last_update=2026-06-20T09:00:05+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=25 limit=25
-01. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
-02. Human, All Too Human — Friedrich Nietzsche
-03. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
-04. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
-05. An Introduction to Zen Buddhism — D.T. Suzuki
-06. Shobogenzo "Zazengi"- English edition — dogen kigen
-07. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
-08. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
-09. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
-10. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
-11. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
-12. The Autobiography of a Yogi — Paramahansa Yogananda
-13. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
-14. Leviathan — Thomas Hobbes
-15. Aferrada a mi balsa — Gladys Díaz Armijo
-16. Man's Search for Meaning — Viktor E. Frankl
-17. Dark Psychology, Manipulation, Psychological Warfare & Body Language: Understand The Laws Of Human Behavior, How To Analyze People & Skyrocket Emotional Intelligence — Lauren J. Abraham
-18. The Dictionary of Freemasonry (Illustrated): The Science, Philosophy, Legends, Myths and Symbols of Freemasons from A to Z — Albert G. MacKey
-19. Más allá del bien y del mal — Friedrich Nietzsche
-20. Waking Up: A Guide to Spirituality Without Religion — Sam Harris
-21. Essential Buddhism: A Complete Guide to Beliefs and Practices — Jack Maguire
-22. Lógica Digital Ternaria: Un tratado sobre lógica ternaria para procesamiento de información digital (Spanish Edition) — Ángel Villalobos
-23. The Structure of Scientific Revolutions by Thomas S. Kuhn (1970-04-01) — Thomas S. Kuhn
-24. Digital Minimalism: Choosing a Focused Life in a Noisy World — Cal Newport
-25. Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment — Robert Wright
+01. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
+02. Del inconveniente de haber nacido — Emil M. Cioran
+03. El ser y el tiempo — Martin Heidegger
+04. Critique of Pure Reason — Immanuel Kant
+05. Libro del desasosiego — Fernando Pessoa
+06. Las partículas elementales — Michel Houellebecq
+07. Casos reales — Yasmina Reza
+08. Pensamientos (Spanish Edition) — Blaise Pascal
+09. Silogismos da amargura (Portuguese Edition) — Emil M. Cioran
+10. Gulliver's Travels — Jonathan Swift
+11. El mundo como voluntad y representación (Vol. 1) (Spanish Edition) — Arthur Schopenhauer
+12. Ética a Nicómaco — Aristotle
+13. El mito de Sísifo — Albert Camus
+14. Sobre la Brevedad de la Vida - Sobre la Felicidad: Séneca (Colección Filosofia) (Spanish Edition) — Seneca
+15. SOBRE LA BREVEDAD DE LA VIDA (Spanish Edition) — Lucio Séneca
+16. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+17. Human, All Too Human — Friedrich Nietzsche
+18. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
+19. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
+20. An Introduction to Zen Buddhism — D.T. Suzuki
+21. Shobogenzo "Zazengi"- English edition — dogen kigen
+22. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
+23. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+24. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+25. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
 
 [recent_read] shelf=read books=50 limit=50
 01. Human, All-Too-Human by Friedrich Nietzsche — Friedrich Nietzsche
-02. Critique of Pure Reason — Immanuel Kant
-03. El ser y el tiempo — Martin Heidegger
-04. El mito de Sísifo — Albert Camus
-05. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
-06. Programming Perl (3rd Edition) — Larry Wall
-07. Mala onda — Alberto Fuguet
-08. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
-09. Freedom from the Known — J. Krishnamurti
-10. In My Father's Den — Maurice Gee
-11. The Poetry of Pablo Neruda — Pablo Neruda
-12. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
-13. Cujo — Stephen King
-14. On Writing — Ernest Hemingway
-15. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
-16. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky
-17. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
-18. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
-19. Ebano — Ryszard Kapuściński
-20. MARY LAVELLE — Kate O'Brien
-21. Nosotras que nos queremos tanto — Marcela Serrano
-22. Donde mueren los valientes — Hernán Rivera Letelier
-23. Linear Algebra and Its Applications — Gilbert Strang
-24. Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes
-25. Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort
-26. Elementos de estadística descriptiva — Miguel Gómez Barrantes
-27. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
-28. Calculus — Purcell Rigdon Varberg
-29. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
-30. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
-31. La vida, un enigma — Daisaku Ikeda
-32. The Count of Monte Cristo — Alexandre Dumas
-33. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
-34. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
-35. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
-36. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
-37. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
-38. The Silva Mind Control Method — José Silva
-39. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
-40. De Sapos a Principes — Richard Bandler
-41. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
-42. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
-43. Psychology: The Science of Mind and Behaviour — Richard Gross
-44. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
-45. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
-46. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
-47. Understanding Psychology — Robert S. Feldman
-48. Becoming — Michelle Obama
-49. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
-50. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
+02. A New Earth: Awakening to Your Life's Purpose — Eckhart Tolle
+03. Programming Perl (3rd Edition) — Larry Wall
+04. Mala onda — Alberto Fuguet
+05. Old Path White Clouds: Walking in the Footsteps of the Buddha — Thich Nhat Hanh
+06. Freedom from the Known — J. Krishnamurti
+07. In My Father's Den — Maurice Gee
+08. The Poetry of Pablo Neruda — Pablo Neruda
+09. Scenes from Provincial Life: Boyhood, Youth, Summertime — J.M. Coetzee
+10. Cujo — Stephen King
+11. On Writing — Ernest Hemingway
+12. Más Allá de la Tristeza: Entendiendo y Superando la Depresión (Spanish Edition) — Victor Chavez
+13. PROYECTOS WEB: Espanol, Manual Users, Manuales Users (Spanish Edition) — Mariano Makedonsky
+14. PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide — Larry Ullman
+15. Ajax Web 2.0: Espanol, Manual Users, Manuales Users (Spanish Edition) — Francisco Minera
+16. Ebano — Ryszard Kapuściński
+17. MARY LAVELLE — Kate O'Brien
+18. Nosotras que nos queremos tanto — Marcela Serrano
+19. Donde mueren los valientes — Hernán Rivera Letelier
+20. Linear Algebra and Its Applications — Gilbert Strang
+21. Waking Up: A Guide to Spirituality Without Religion By Sam Harris - Book Summary: BOOK SUMMARY by GetFlashNotes — BOOK SUMMARY by GetFlashNotes
+22. Estadística Descriptiva e Inferencial - Esquemas de Teoría y Problemas Resueltos (Spanish Edition) — Mercedes Orus Lacort
+23. Elementos de estadística descriptiva — Miguel Gómez Barrantes
+24. Programacion En C/c++java Y Uml. El Precio Es En Dolares — IGNACIO ZAHONERO MARTINEZ LUIS JOYANES AGUILAR
+25. Calculus — Purcell Rigdon Varberg
+26. CONVERSACIONES CON EL DEMONIO — Carl Goldberg
+27. The Way to Freedom: Core Teachings of Tibetan Buddhism — Dalai Lama XIV
+28. La vida, un enigma — Daisaku Ikeda
+29. The Count of Monte Cristo — Alexandre Dumas
+30. LECTURA SUPERDOTADA X2: Ejercicios de lectura veloz para un aprendizaje acelerado (Nivel) — Sociedad Celestial
+31. LECTURA SUPERDOTADA 2: Ejercicios de lectura veloz para un aprendizaje acelerado — Heavenly Society
+32. LECTURA SUPERDOTADA: Ejercicios de lectura veloz para un rápido aprendisaje (Nivel nº 1) — Heavenly Society
+33. Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! — Anthony Robbins
+34. Walking Meditation: Easy Steps to Mindfulness — Thich Nhat Hanh
+35. The Silva Mind Control Method — José Silva
+36. Flow: The Psychology of Optimal Experience — Mihály Csíkszentmihályi
+37. De Sapos a Principes — Richard Bandler
+38. SUMMARY: The Structure of Scientific Revolutions (UNOFFICIAL SUMMARY: Lesson from Thomas S. Kuhn) — Powerful Insights
+39. The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions — Allan Pease
+40. Psychology: The Science of Mind and Behaviour — Richard Gross
+41. Evil: Inside Human Violence and Cruelty — Roy F. Baumeister
+42. Manipulation: The Dark Side of Human Nature, Mind Games, and Psychopathology — Joshua Coopers
+43. The Angry Smile: The Psychology of Passive-Aggressive Behavior in Families, Schools, and Workplaces — Nicholas James Long
+44. Understanding Psychology — Robert S. Feldman
+45. Becoming — Michelle Obama
+46. Emotional Intelligence: Why It Can Matter More Than IQ — Daniel Goleman
+47. Steve Jobs by Walter Isaacson (2011-10-24) — Walter Isaacson
+48. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy — Cathy O'Neil
+49. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography — Simon Singh
+50. AI-Driven Cybersecurity and Threat Intelligence: Cyber Automation, Intelligent Decision-Making and Explainability — Iqbal H. Sarker
 
 ```
 <!-- GOODREADS:CLI_END -->
