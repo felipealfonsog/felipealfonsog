@@ -518,7 +518,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-20T09:25:58+00:00 | last_update=2026-06-20T09:25:58+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-20T10:07:09+00:00 | last_update=2026-06-20T10:07:09+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
