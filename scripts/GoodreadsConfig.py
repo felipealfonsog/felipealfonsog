@@ -40,10 +40,10 @@ RECENT_READ_SHELF = "read"
 # ============================================================
 # SECTION LIMITS
 # ============================================================
-GLOBAL_SECTION_LIMIT = 25
+GLOBAL_SECTION_LIMIT = 30
 USE_GLOBAL_SECTION_LIMIT = False
 
-CURRENTLY_READING_LIMIT = 25
+CURRENTLY_READING_LIMIT = 30
 RECENT_READ_LIMIT = 50
 
 
