@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Public Enemy — Can't Truss It
-Last played (UTC)         : 2026-06-18 06:03:47Z
+Last played               : Daft Punk — Da Funk
+Last played (UTC)         : 2026-06-20 12:50:11Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Public Enemy — Can't Truss It → Daft Punk — Da Funk
+Δ last played (since last): 2026-06-18 06:03:47Z → 2026-06-20 12:50:11Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 52:15:20
-Telemetry age             : 52:15:20
-Δ time (since last report): 00:00:33
+Time since last play      : 00:07:45
+Telemetry age             : 00:07:45
+Δ time (since last report): 02:38:50
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,38 +1512,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 5
+Dominant artist           : Daft Punk
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-13 10:19:06Z → 2026-06-20 10:19:06Z
-Total tracks played       : 6
+Week window (UTC)         : 2026-06-13 12:57:56Z → 2026-06-20 12:57:56Z
+Total tracks played       : 11
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 08:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  █▂                     
+Heatmap (24h)             :         █               
+Heatmap (7d)              :  █▂     █               
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:04:03
+Sessions (24h)            : 2
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 05:30:40
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : electronic(4) | east coast hip hop(3) | alternative dance(2) | big beat(2) | breakbeat(2) | electro(2)
+Top genres (7d)           : east coast hip hop(8) | hardcore hip hop(6) | hip hop(6) | old school hip hop(6) | electronic(4) | alternative dance(2)
+Artist lookups (this run) : 5 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-20 10:19:06Z
+Report generated (UTC)    : 2026-06-20 12:57:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
