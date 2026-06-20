@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Daft Punk — Da Funk
-Last played (UTC)         : 2026-06-20 12:50:11Z
+Last played               : The Chemical Brothers, Q-Tip — Go
+Last played (UTC)         : 2026-06-20 12:52:13Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Daft Punk — Da Funk → The Chemical Brothers, Q-Tip — Go
+Δ last played (since last): 2026-06-20 12:50:11Z → 2026-06-20 12:52:13Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:08:38
-Telemetry age             : 00:08:38
-Δ time (since last report): 00:00:35
+Time since last play      : 03:02:34
+Telemetry age             : 03:02:34
+Δ time (since last report): 02:55:59
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,15 +1512,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
-Dominant artist           : Daft Punk
+Tracks played (last 24h)  : 6
+Dominant artist           : The Chemical Brothers
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-13 12:58:48Z → 2026-06-20 12:58:48Z
-Total tracks played       : 11
+Week window (UTC)         : 2026-06-13 15:54:46Z → 2026-06-20 15:54:46Z
+Total tracks played       : 12
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1528,21 +1528,21 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
-Peak hour (7d)            : 01:00
+Peak hour (7d)            : 08:00
 Heatmap (24h)             :         █               
-Heatmap (7d)              :  █▂     █               
+Heatmap (7d)              :  ▇▁     █               
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 05:30:40
+Avg inter-play gap (7d)   : 05:00:48
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : electronic(4) | east coast hip hop(3) | alternative dance(2) | big beat(2) | breakbeat(2) | electro(2)
-Top genres (7d)           : east coast hip hop(8) | hardcore hip hop(6) | hip hop(6) | old school hip hop(6) | electronic(4) | alternative dance(2)
+Top genres (24h)          : electronic(5) | east coast hip hop(4) | alternative dance(3) | big beat(3) | breakbeat(3) | electro(2)
+Top genres (7d)           : east coast hip hop(9) | hardcore hip hop(6) | hip hop(6) | old school hip hop(6) | electronic(5) | alternative dance(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-20 12:58:48Z
+Report generated (UTC)    : 2026-06-20 15:54:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
