@@ -15,7 +15,7 @@ LAST_RENDER_PATH = DATA_DIR / "GoodreadsLastRender.json"
 # NETWORK
 # ============================================================
 REQUEST_TIMEOUT = 20
-USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/14.1; +https://github.com/felipealfonsog)"
+USER_AGENT = "Mozilla/5.0 (compatible; GoodreadsTelemetry/15.1; +https://github.com/felipealfonsog)"
 
 
 # ============================================================
@@ -32,30 +32,39 @@ GOODREADS_RSS_URL_TEMPLATE = (
 # ============================================================
 SHOW_CURRENTLY_READING_SECTION = True
 SHOW_RECENT_READ_SECTION = True
+SHOW_WANT_TO_READ_SECTION = True
 
 CURRENTLY_READING_SHELF = "currently-reading"
 RECENT_READ_SHELF = "read"
+WANT_TO_READ_SHELF = "to-read"
 
 
 # ============================================================
 # SECTION LIMITS
 # ============================================================
-GLOBAL_SECTION_LIMIT = 30
+# If USE_GLOBAL_SECTION_LIMIT = True, all shelves use GLOBAL_SECTION_LIMIT.
+# If False, each shelf uses its own limit below.
+GLOBAL_SECTION_LIMIT = 15
 USE_GLOBAL_SECTION_LIMIT = False
 
-CURRENTLY_READING_LIMIT = 30
-RECENT_READ_LIMIT = 50
+CURRENTLY_READING_LIMIT = 15
+RECENT_READ_LIMIT = 15
+WANT_TO_READ_LIMIT = 15
 
 
 # ============================================================
 # THREE OPTIONS
 # ============================================================
-# FALSE TO DISABLE ALL COVERS CARDS 
+# OPTION 1: covers-only visual block.
 OPTION1_COVERS_ONLY_ENABLED = False
+
+# OPTION 2: old card-table visual block. Disabled by default.
 OPTION2_CARD_TABLE_ENABLED = False
+
+# OPTION 3: CLI telemetry block.
 OPTION3_CLI_ENABLED = True
 
-# IT SHOW ALL THE COVERS ANYWAY - FALSE TO DISABLE ALL
+# If False, disabled README blocks are emptied between markers.
 PRESERVE_UNUSED_BLOCKS = False
 
 
@@ -64,18 +73,19 @@ PRESERVE_UNUSED_BLOCKS = False
 # ============================================================
 VISUAL_BLOCK_TITLE = "Goodreads Reading Data"
 VISUAL_BLOCK_DESCRIPTION = (
-    "A compact reading snapshot showing what I am currently reading "
-    "and the latest books I have recently finished on Goodreads."
+    "A compact reading snapshot showing what I am currently reading, "
+    "what I want to read, and the latest books I have recently finished on Goodreads."
 )
 
 VISUAL_CURRENTLY_READING_TITLE = "Currently Reading"
+VISUAL_WANT_TO_READ_TITLE = "Want to Read"
 VISUAL_RECENT_READ_TITLE = "Recently Read"
 
 VISUAL_TITLE_USE_SMALL = True
 VISUAL_SHOW_DESCRIPTION = True
 VISUAL_SECTION_HEADER_ALIGN = "left"
 
-# Header / section spacing
+# Header / section spacing. Kept for old visual modes.
 VISUAL_SECTION_TOP_SPACER_PX = 16
 VISUAL_SECTION_SPACER_PX = 14
 VISUAL_SECTION_BOTTOM_SPACER_PX = 20
@@ -90,8 +100,8 @@ OPTION1_COVER_WIDTH = 40
 OPTION1_COVER_HEIGHT = 60
 OPTION1_COVER_OBJECT_FIT = "cover"
 
+# Kept for compatibility; current Option 1 renderer uses a continuous line.
 OPTION1_ITEMS_PER_ROW = 6
-
 OPTION1_COVERS_GAP_SPACES = " "
 OPTION1_COVERS_ROW_BREAK = "<br/>"
 
