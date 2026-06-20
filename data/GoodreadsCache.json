@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-06-20T12:50:27+00:00",
-    "last_successful_sync": "2026-06-20T12:50:27+00:00",
+    "last_attempted_sync": "2026-06-20T15:40:28+00:00",
+    "last_successful_sync": "2026-06-20T15:40:28+00:00",
     "error_message": ""
   },
   "sections": {
@@ -16,6 +16,15 @@
       "limit": 30,
       "item_count": 30,
       "books": [
+        {
+          "title": "Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition)",
+          "author": "Sergio Salinas Cañas",
+          "link": "https://www.goodreads.com/review/show/8526670015?utm_medium=api&utm_source=rss",
+          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661871273l/62114009._SX50_.jpg",
+          "summary": "author: Sergio Salinas Cañas name: Felipe Alfonso average rating: 4.50 book published: rating: 5 read at: date added: 2026/06/20 shelves: currently-reading review:",
+          "guid": "https://www.goodreads.com/review/show/8526670015?utm_medium=api&utm_source=rss",
+          "pub_date": "Sat, 20 Jun 2026 06:37:40 -0700"
+        },
         {
           "title": "The Conspiracy Against the Human Race: A Contrivance of Horror",
           "author": "Thomas Ligotti",
@@ -213,15 +222,6 @@
           "summary": "author: Jeri Takimoto name: Felipe Alfonso average rating: 0.0 book published: rating: 0 read at: date added: 2026/04/25 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8551354385?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 25 Apr 2026 15:36:12 -0700"
-        },
-        {
-          "title": "Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition)",
-          "author": "Sergio Salinas Cañas",
-          "link": "https://www.goodreads.com/review/show/8526670015?utm_medium=api&utm_source=rss",
-          "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661871273l/62114009._SX50_.jpg",
-          "summary": "author: Sergio Salinas Cañas name: Felipe Alfonso average rating: 4.00 book published: rating: 0 read at: date added: 2026/04/16 shelves: currently-reading review:",
-          "guid": "https://www.goodreads.com/review/show/8526670015?utm_medium=api&utm_source=rss",
-          "pub_date": "Thu, 16 Apr 2026 03:48:25 -0700"
         },
         {
           "title": "The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game",

@@ -518,32 +518,32 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-20T12:50:27+00:00 | last_update=2026-06-20T12:50:27+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-20T15:40:28+00:00 | last_update=2026-06-20T15:40:28+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
-01. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
-02. Del inconveniente de haber nacido — Emil M. Cioran
-03. El ser y el tiempo — Martin Heidegger
-04. Critique of Pure Reason — Immanuel Kant
-05. Libro del desasosiego — Fernando Pessoa
-06. Las partículas elementales — Michel Houellebecq
-07. Casos reales — Yasmina Reza
-08. Pensamientos (Spanish Edition) — Blaise Pascal
-09. Silogismos da amargura (Portuguese Edition) — Emil M. Cioran
-10. Gulliver's Travels — Jonathan Swift
-11. El mundo como voluntad y representación (Vol. 1) (Spanish Edition) — Arthur Schopenhauer
-12. Ética a Nicómaco — Aristotle
-13. El mito de Sísifo — Albert Camus
-14. Sobre la Brevedad de la Vida - Sobre la Felicidad: Séneca (Colección Filosofia) (Spanish Edition) — Seneca
-15. SOBRE LA BREVEDAD DE LA VIDA (Spanish Edition) — Lucio Séneca
-16. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
-17. Human, All Too Human — Friedrich Nietzsche
-18. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
-19. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
-20. An Introduction to Zen Buddhism — D.T. Suzuki
-21. Shobogenzo "Zazengi"- English edition — dogen kigen
-22. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
-23. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+02. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
+03. Del inconveniente de haber nacido — Emil M. Cioran
+04. El ser y el tiempo — Martin Heidegger
+05. Critique of Pure Reason — Immanuel Kant
+06. Libro del desasosiego — Fernando Pessoa
+07. Las partículas elementales — Michel Houellebecq
+08. Casos reales — Yasmina Reza
+09. Pensamientos (Spanish Edition) — Blaise Pascal
+10. Silogismos da amargura (Portuguese Edition) — Emil M. Cioran
+11. Gulliver's Travels — Jonathan Swift
+12. El mundo como voluntad y representación (Vol. 1) (Spanish Edition) — Arthur Schopenhauer
+13. Ética a Nicómaco — Aristotle
+14. El mito de Sísifo — Albert Camus
+15. Sobre la Brevedad de la Vida - Sobre la Felicidad: Séneca (Colección Filosofia) (Spanish Edition) — Seneca
+16. SOBRE LA BREVEDAD DE LA VIDA (Spanish Edition) — Lucio Séneca
+17. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+18. Human, All Too Human — Friedrich Nietzsche
+19. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
+20. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
+21. An Introduction to Zen Buddhism — D.T. Suzuki
+22. Shobogenzo "Zazengi"- English edition — dogen kigen
+23. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
 24. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
 25. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
 26. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
