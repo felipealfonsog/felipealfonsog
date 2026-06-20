@@ -505,6 +505,7 @@ ICONOS INICIALES INLINE SVG1
 <details open>
 <summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
 
+[![Follow on Goodreads](https://img.shields.io/badge/Follow%20on-Goodreads-553B08?logo=goodreads&logoColor=white)](https://www.goodreads.com/felipealfonsog)
 
 <!-- GOODREADS:VISUAL_START -->
 
@@ -652,7 +653,7 @@ ICONOS INICIALES INLINE SVG1
 > <sub>*Goodreads Reading Intelligence — operational-style telemetry layer generated from <a href="https://www.goodreads.com/">Goodreads</a> shelf ingestion, RSS parsing, structured normalization, and resilient snapshot validation.</sub><br>
 > <sub>Book entries, metadata fields, cover extraction, and cache continuity markers are updated automatically every 3 hours through GitHub Actions, retaining the last valid snapshot if the upstream source becomes unavailable or returns invalid data.</sub>
 
-[![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml) [![Follow on Goodreads](https://img.shields.io/badge/Follow%20on-Goodreads-553B08?logo=goodreads&logoColor=white)](https://www.goodreads.com/felipealfonsog)
+[![Goodreads Widget](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/GoodreadsWidget.yml) 
 
 #
 
