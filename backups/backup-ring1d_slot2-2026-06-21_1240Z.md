@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-20_1237Z
+ snapshot_utc : 2026-06-21_1240Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -525,32 +525,32 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-20T10:48:03+00:00 | last_update=2026-06-20T10:48:03+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-21T07:53:35+00:00 | last_update=2026-06-21T07:53:35+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
-01. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
-02. Del inconveniente de haber nacido — Emil M. Cioran
-03. El ser y el tiempo — Martin Heidegger
-04. Critique of Pure Reason — Immanuel Kant
-05. Libro del desasosiego — Fernando Pessoa
-06. Las partículas elementales — Michel Houellebecq
-07. Casos reales — Yasmina Reza
-08. Pensamientos (Spanish Edition) — Blaise Pascal
-09. Silogismos da amargura (Portuguese Edition) — Emil M. Cioran
-10. Gulliver's Travels — Jonathan Swift
-11. El mundo como voluntad y representación (Vol. 1) (Spanish Edition) — Arthur Schopenhauer
-12. Ética a Nicómaco — Aristotle
-13. El mito de Sísifo — Albert Camus
-14. Sobre la Brevedad de la Vida - Sobre la Felicidad: Séneca (Colección Filosofia) (Spanish Edition) — Seneca
-15. SOBRE LA BREVEDAD DE LA VIDA (Spanish Edition) — Lucio Séneca
-16. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
-17. Human, All Too Human — Friedrich Nietzsche
-18. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
-19. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
-20. An Introduction to Zen Buddhism — D.T. Suzuki
-21. Shobogenzo "Zazengi"- English edition — dogen kigen
-22. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
-23. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+02. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
+03. Del inconveniente de haber nacido — Emil M. Cioran
+04. El ser y el tiempo — Martin Heidegger
+05. Critique of Pure Reason — Immanuel Kant
+06. Libro del desasosiego — Fernando Pessoa
+07. Las partículas elementales — Michel Houellebecq
+08. Casos reales — Yasmina Reza
+09. Pensamientos (Spanish Edition) — Blaise Pascal
+10. Silogismos da amargura (Portuguese Edition) — Emil M. Cioran
+11. Gulliver's Travels — Jonathan Swift
+12. El mundo como voluntad y representación (Vol. 1) (Spanish Edition) — Arthur Schopenhauer
+13. Ética a Nicómaco — Aristotle
+14. El mito de Sísifo — Albert Camus
+15. Sobre la Brevedad de la Vida - Sobre la Felicidad: Séneca (Colección Filosofia) (Spanish Edition) — Seneca
+16. SOBRE LA BREVEDAD DE LA VIDA (Spanish Edition) — Lucio Séneca
+17. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+18. Human, All Too Human — Friedrich Nietzsche
+19. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
+20. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
+21. An Introduction to Zen Buddhism — D.T. Suzuki
+22. Shobogenzo "Zazengi"- English edition — dogen kigen
+23. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
 24. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
 25. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
 26. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
@@ -695,13 +695,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 174 ms
-TTFB................ 173 ms
+LATENCY............. 212 ms
+TTFB................ 211 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 74d
+TLS_EXPIRY.......... 73d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -728,9 +728,9 @@ VIEWS_7D............ 6882
 UNIQUES_24H......... 402
 BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
-CONTENT_LENGTH...... 42 KB
+CONTENT_LENGTH...... 44 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-20T10:06:16Z
+LAST_PROBE_UTC...... 2026-06-21T10:19:40Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -770,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446565
-longitude      : -70.662244
-altitude       : 65 m
-gps_accuracy   : ±7.2 m
-heading        : 138°
-speed          : 0.4 km/h
-status         : stationary
+location       : pedestrian_axis
+latitude       : -33.438121
+longitude      : -70.646602
+altitude       : 149 m
+gps_accuracy   : ±5.5 m
+heading        : 165°
+speed          : 3.6 km/h
+status         : in_transit
 phase          : morning
-local_time     : 08:28
+local_time     : 08:32
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-06-20 12:28:55 UTC
+signal         : nominal
+updated_utc    : 2026-06-21 12:32:49 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-20 04:51:21Z
+DSN snapshot (UTC)       : 2026-06-21 08:04:51Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.45e9 km | 170.103 AU
-Heliocentric distance    : 170.915 AU
-Relative speed           : 35.263 km/s
+Earth distance           : 25.45e9 km | 170.117 AU
+Heliocentric distance    : 170.926 AU
+Relative speed           : 35.475 km/s
 ------------------------------------------------------------
-One-way light time       : 23:34:42
-Round-trip latency       : 47:09:24
+One-way light time       : 23:34:49
+Round-trip latency       : 47:09:38
 ------------------------------------------------------------
-Δ distance (since last)  : +1.389e6 km
-Mission age              : 48 years, 300 days
+Δ distance (since last)  : +237,763 km
+Mission age              : 48 years, 301 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.457 AU
-Heliocentric distance    : 143.192 AU
-Relative speed           : 28.809 km/s
+Earth distance           : 21.31e9 km | 142.461 AU
+Heliocentric distance    : 143.202 AU
+Relative speed           : 28.985 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:47
-Round-trip latency       : 39:29:33
+One-way light time       : 19:44:49
+Round-trip latency       : 39:29:38
 ------------------------------------------------------------
-Δ distance (since last)  : +395,314 km
-Mission age              : 48 years, 316 days
+Δ distance (since last)  : +71,528 km
+Mission age              : 48 years, 317 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-20 04:51:25Z
+Report generated (UTC)   : 2026-06-21 08:04:55Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1497,17 +1497,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Public Enemy — Can't Truss It
-Last played (UTC)         : 2026-06-18 06:03:47Z
+Last played               : The Chemical Brothers, Q-Tip — Go
+Last played (UTC)         : 2026-06-21 05:21:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 52:15:20
-Telemetry age             : 52:15:20
-Δ time (since last report): 00:00:33
+Time since last play      : 05:13:54
+Telemetry age             : 05:13:54
+Δ time (since last report): 00:00:35
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,37 +1519,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 7
+Dominant artist           : The Chemical Brothers
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-13 10:19:06Z → 2026-06-20 10:19:06Z
-Total tracks played       : 6
+Week window (UTC)         : 2026-06-14 10:35:01Z → 2026-06-21 10:35:01Z
+Total tracks played       : 13
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 08:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  █▂                     
+Heatmap (24h)             :  ▁      █               
+Heatmap (7d)              :  █▁     █               
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 1
-Avg inter-play gap (7d)   : 00:04:03
+Sessions (24h)            : 3
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 05:58:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : east coast hip hop(5) | hardcore hip hop(5) | hip hop(5) | old school hip hop(5)
+Top genres (24h)          : electronic(6) | east coast hip hop(5) | alternative dance(4) | big beat(4) | breakbeat(4) | electro(2)
+Top genres (7d)           : east coast hip hop(10) | electronic(6) | hardcore hip hop(6) | hip hop(6) | old school hip hop(6) | alternative dance(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1558,7 +1558,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-20 10:19:06Z
+Report generated (UTC)    : 2026-06-21 10:35:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1916,9 +1916,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 20 June 2026
+From: 04 December 2023 - To: 21 June 2026
 
-Total Time       : 1,035 hrs 49 mins
+Total Time       : 1,036 hrs 25 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 6 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1927,48 +1927,48 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          613 hrs 48 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.26 %
-Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.06 %
-Python         140 hrs 7 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.53 %
-HTML           136 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
-PHP            109 hrs 7 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.54 %
+Other          617 hrs 25 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.57 %
+Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.05 %
+Python         140 hrs 23 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.55 %
+HTML           136 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.15 %
+PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.53 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.80 %
-C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.12 %
+C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.11 %
 C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.86 %
 Text           38 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.76 %
 YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.66 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            941 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  90.91 %
-Linux          707 hrs 58 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.35 %
+Mac            945 hrs 50 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  91.26 %
+Linux          707 hrs 59 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.31 %
 
 EDITORS - APPS
 --------------
-VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.47 %
-Firefox        494 hrs 50 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.77 %
-Vim            337 hrs 20 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.57 %
-Terminal       34 hrs 51 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.37 %
+VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.43 %
+Firefox        498 hrs 5 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  48.06 %
+Vim            337 hrs 21 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.55 %
+Terminal       34 hrs 56 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.37 %
 Spotify        21 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.10 %
-Dia            15 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.51 %
+Dia            15 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.50 %
 Acrobat        13 hrs 50 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.34 %
 ‎WhatsApp      13 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Termius        9 hrs 35 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.93 %
-FileZilla      7 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.76 %
+Termius        9 hrs 48 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.95 %
+FileZilla      8 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.82 %
 Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
 
 CATEGORIES
 ----------
-Coding         1,131 hrs 49 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       491 hrs 39 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.47 %
+Coding         1,132 hrs 47 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       494 hrs 54 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.75 %
 Meeting        22 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 20/06/2026 11:43:33 UTC
+Last updated     : 21/06/2026 11:09:46 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2050,12 +2050,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/clsource">
-        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
+      <a href="https://github.com/Francesco601">
+        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/clsource">Camilo</a>
+      <a href="https://github.com/Francesco601">Francesco Franco</a>
       </sub>
     </li>
     <br>
