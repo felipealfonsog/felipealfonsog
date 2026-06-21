@@ -1491,16 +1491,16 @@ Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : The Chemical Brothers, Q-Tip — Go
-Last played (UTC)         : 2026-06-20 12:52:13Z
+Last played (UTC)         : 2026-06-21 05:21:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ last played (since last): 2026-06-20 12:52:13Z → 2026-06-21 05:21:07Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 16:12:00
-Telemetry age             : 16:12:00
-Δ time (since last report): 00:00:37
+Time since last play      : 02:41:14
+Telemetry age             : 02:41:14
+Δ time (since last report): 02:58:09
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,15 +1512,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
+Tracks played (last 24h)  : 7
 Dominant artist           : The Chemical Brothers
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-14 05:04:12Z → 2026-06-21 05:04:12Z
-Total tracks played       : 12
+Week window (UTC)         : 2026-06-14 08:02:20Z → 2026-06-21 08:02:20Z
+Total tracks played       : 13
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
 ------------------------------------------------------------
@@ -1528,21 +1528,21 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
-Peak hour (7d)            : 08:00
-Heatmap (24h)             :         █               
-Heatmap (7d)              :  ▇▁     █               
+Peak hour (7d)            : 01:00
+Heatmap (24h)             :  ▁      █               
+Heatmap (7d)              :  █▁     █               
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 05:00:48
+Sessions (24h)            : 3
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 05:58:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : electronic(5) | east coast hip hop(4) | alternative dance(3) | big beat(3) | breakbeat(3) | electro(2)
-Top genres (7d)           : east coast hip hop(9) | hardcore hip hop(6) | hip hop(6) | old school hip hop(6) | electronic(5) | alternative dance(3)
+Top genres (24h)          : electronic(6) | east coast hip hop(5) | alternative dance(4) | big beat(4) | breakbeat(4) | electro(2)
+Top genres (7d)           : east coast hip hop(10) | electronic(6) | hardcore hip hop(6) | hip hop(6) | old school hip hop(6) | alternative dance(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-21 05:04:12Z
+Report generated (UTC)    : 2026-06-21 08:02:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
