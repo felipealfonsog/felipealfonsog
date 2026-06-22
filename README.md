@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 29:55:56
-Telemetry age             : 29:55:56
-Δ time (since last report): 00:00:53
+Time since last play      : 29:56:46
+Telemetry age             : 29:56:46
+Δ time (since last report): 00:00:51
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-15 11:17:02Z → 2026-06-22 11:17:02Z
+Week window (UTC)         : 2026-06-15 11:17:52Z → 2026-06-22 11:17:52Z
 Total tracks played       : 13
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-22 11:17:02Z
+Report generated (UTC)    : 2026-06-22 11:17:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
