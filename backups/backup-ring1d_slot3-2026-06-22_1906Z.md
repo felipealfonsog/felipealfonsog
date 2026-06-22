@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-21_1832Z
+ snapshot_utc : 2026-06-22_1906Z
  ring_days    : 1
  slot         : 3/4
  period_hours : 6
@@ -525,7 +525,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-21T15:41:29+00:00 | last_update=2026-06-21T15:41:29+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-22T16:38:54+00:00 | last_update=2026-06-22T16:38:54+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -695,13 +695,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 151 ms
-TTFB................ 150 ms
+LATENCY............. 235 ms
+TTFB................ 234 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 73d
+TLS_EXPIRY.......... 72d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -730,7 +730,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 44 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-21T15:41:08Z
+LAST_PROBE_UTC...... 2026-06-22T14:06:57Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -771,18 +771,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : transit_corridor
-latitude       : -33.446084
-longitude      : -70.662056
-altitude       : 108 m
-gps_accuracy   : ±3.5 m
-heading        : 99°
-speed          : 0.9 km/h
-status         : walking
+latitude       : -33.446212
+longitude      : -70.661700
+altitude       : 49 m
+gps_accuracy   : ±4.9 m
+heading        : 104°
+speed          : 0.5 km/h
+status         : stationary
 phase          : workday
-local_time     : 14:25
+local_time     : 15:01
 timezone       : America/Santiago
-signal         : strong
-updated_utc    : 2026-06-21 18:25:49 UTC
+signal         : nominal
+updated_utc    : 2026-06-22 19:01:53 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-21 16:03:39Z
+DSN snapshot (UTC)       : 2026-06-22 14:14:52Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.45e9 km | 170.121 AU
-Heliocentric distance    : 170.929 AU
-Relative speed           : 35.538 km/s
+Earth distance           : 25.45e9 km | 170.133 AU
+Heliocentric distance    : 170.938 AU
+Relative speed           : 35.709 km/s
 ------------------------------------------------------------
-One-way light time       : 23:34:51
-Round-trip latency       : 47:09:43
+One-way light time       : 23:34:57
+Round-trip latency       : 47:09:55
 ------------------------------------------------------------
-Δ distance (since last)  : +638,854 km
-Mission age              : 48 years, 301 days
+Δ distance (since last)  : +240,391 km
+Mission age              : 48 years, 302 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.31e9 km | 142.463 AU
-Heliocentric distance    : 143.205 AU
-Relative speed           : 29.036 km/s
+Earth distance           : 21.31e9 km | 142.466 AU
+Heliocentric distance    : 143.213 AU
+Relative speed           : 29.180 km/s
 ------------------------------------------------------------
-One-way light time       : 19:44:49
-Round-trip latency       : 39:29:39
+One-way light time       : 19:44:51
+Round-trip latency       : 39:29:43
 ------------------------------------------------------------
-Δ distance (since last)  : +193,806 km
-Mission age              : 48 years, 317 days
+Δ distance (since last)  : +75,619 km
+Mission age              : 48 years, 318 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-21 16:03:43Z
+Report generated (UTC)   : 2026-06-22 14:14:57Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,9 +1505,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:42:23
-Telemetry age             : 10:42:23
-Δ time (since last report): 00:00:33
+Time since last play      : 35:44:36
+Telemetry age             : 35:44:36
+Δ time (since last report): 00:00:36
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,14 +1519,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : The Chemical Brothers
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-14 16:03:29Z → 2026-06-21 16:03:29Z
+Week window (UTC)         : 2026-06-15 17:05:43Z → 2026-06-22 17:05:43Z
 Total tracks played       : 13
 Dominant artist           : Public Enemy
 Cadence classification    : LOW
@@ -1534,21 +1534,21 @@ Cadence classification    : LOW
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :  █                      
+Heatmap (24h)             : N/A
 Heatmap (7d)              :  █▁     █               
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 4
 Avg inter-play gap (7d)   : 05:58:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative dance(1) | big beat(1) | breakbeat(1) | east coast hip hop(1) | electronic(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : east coast hip hop(10) | electronic(6) | hardcore hip hop(6) | hip hop(6) | old school hip hop(6) | alternative dance(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1558,7 +1558,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-21 16:03:29Z
+Report generated (UTC)    : 2026-06-22 17:05:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1916,7 +1916,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 21 June 2026
+From: 04 December 2023 - To: 22 June 2026
 
 Total Time       : 1,036 hrs 25 mins
 Mostly coding in : Other
@@ -1927,7 +1927,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          617 hrs 25 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.57 %
+Other          618 hrs 31 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  59.68 %
 Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.05 %
 Python         140 hrs 23 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.55 %
 HTML           136 hrs 17 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.15 %
@@ -1940,13 +1940,13 @@ YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            945 hrs 50 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  91.26 %
+Mac            946 hrs 56 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  91.37 %
 Linux          707 hrs 59 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.31 %
 
 EDITORS - APPS
 --------------
 VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.43 %
-Firefox        498 hrs 5 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  48.06 %
+Firefox        498 hrs 51 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.13 %
 Vim            337 hrs 21 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.55 %
 Terminal       34 hrs 56 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.37 %
 Spotify        21 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.10 %
@@ -1960,15 +1960,15 @@ Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,132 hrs 47 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       494 hrs 54 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.75 %
+Coding         1,133 hrs 7 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       495 hrs 40 mins ●●●●●●●●●●●●○○○○○○○○○○○○○○  47.83 %
 Meeting        22 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.15 %
 Writing Docs   3 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 21/06/2026 17:37:50 UTC
+Last updated     : 22/06/2026 18:27:33 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2050,12 +2050,12 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Francesco601">
-        <img src="https://avatars2.githubusercontent.com/u/130352141" style="width:30px; height:30px;" alt="Francesco601"/>
+      <a href="https://github.com/clsource">
+        <img src="https://avatars2.githubusercontent.com/u/292738" style="width:30px; height:30px;" alt="clsource"/>
       </a>
       <br>
       <sub>
-      <a href="https://github.com/Francesco601">Francesco Franco</a>
+      <a href="https://github.com/clsource">Camilo</a>
       </sub>
     </li>
     <br>
