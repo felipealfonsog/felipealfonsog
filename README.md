@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : The Chemical Brothers, Q-Tip — Go
-Last played (UTC)         : 2026-06-21 05:21:07Z
+Last played               : The Chemical Brothers — Hey Boy Hey Girl
+Last played (UTC)         : 2026-06-24 01:07:55Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : The Chemical Brothers, Q-Tip — Go → The Chemical Brothers — Hey Boy Hey Girl
+Δ last played (since last): 2026-06-21 05:21:07Z → 2026-06-24 01:07:55Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 64:32:16
-Telemetry age             : 64:32:16
-Δ time (since last report): 00:00:40
+Time since last play      : 00:08:17
+Telemetry age             : 00:08:17
+Δ time (since last report): 03:22:49
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,37 +1512,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 4
+Dominant artist           : The Chemical Brothers
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-16 21:53:23Z → 2026-06-23 21:53:23Z
-Total tracks played       : 13
-Dominant artist           : Public Enemy
-Cadence classification    : LOW
+Week window (UTC)         : 2026-06-17 01:16:12Z → 2026-06-24 01:16:12Z
+Total tracks played       : 17
+Dominant artist           : The Chemical Brothers
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  █▁     █               
+Heatmap (24h)             :                     █▃  
+Heatmap (7d)              :  █▁     █           ▄▁  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 05:58:08
+Sessions (24h)            : 1
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 08:42:47
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : east coast hip hop(10) | electronic(6) | hardcore hip hop(6) | hip hop(6) | old school hip hop(6) | alternative dance(4)
+Top genres (24h)          : alternative dance(4) | big beat(4) | breakbeat(4) | electronic(4) | east coast hip hop(3)
+Top genres (7d)           : east coast hip hop(13) | electronic(10) | alternative dance(8) | big beat(8) | breakbeat(8) | hardcore hip hop(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-23 21:53:23Z
+Report generated (UTC)    : 2026-06-24 01:16:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
