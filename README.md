@@ -1494,13 +1494,13 @@ Last played               : Seether — Fine Again - Full Band Acoustic
 Last played (UTC)         : 2026-06-24 14:55:52Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Seether — Driven Under → Seether — Fine Again - Full Band Acoustic
-Δ last played (since last): 2026-06-24 14:42:37Z → 2026-06-24 14:55:52Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:10:00
-Telemetry age             : 01:10:00
-Δ time (since last report): 01:13:26
+Time since last play      : 01:10:50
+Telemetry age             : 01:10:50
+Δ time (since last report): 00:00:50
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-17 16:05:52Z → 2026-06-24 16:05:52Z
+Week window (UTC)         : 2026-06-17 16:06:41Z → 2026-06-24 16:06:41Z
 Total tracks played       : 43
 Dominant artist           : The Chemical Brothers
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative dance(19) | big beat(19) | breakbeat(19) | electronic(19) | east coast hip hop(8) | alternative metal(5)
 Top genres (7d)           : electronic(25) | alternative dance(23) | big beat(23) | breakbeat(23) | east coast hip hop(18) | hip hop(7)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-24 16:05:52Z
+Report generated (UTC)    : 2026-06-24 16:06:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
