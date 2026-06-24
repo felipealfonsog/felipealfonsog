@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : The Chemical Brothers — Just Bang
-Last played (UTC)         : 2026-06-24 04:43:52Z
+Last played               : The Chemical Brothers — Reflexion
+Last played (UTC)         : 2026-06-24 04:46:35Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : The Chemical Brothers — Just Bang → The Chemical Brothers — Reflexion
+Δ last played (since last): 2026-06-24 04:43:52Z → 2026-06-24 04:46:35Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:14
-Telemetry age             : 00:03:14
-Δ time (since last report): 00:01:57
+Time since last play      : 00:01:33
+Telemetry age             : 00:01:33
+Δ time (since last report): 00:01:03
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,15 +1512,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
+Tracks played (last 24h)  : 11
 Dominant artist           : The Chemical Brothers
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-17 04:47:05Z → 2026-06-24 04:47:05Z
-Total tracks played       : 23
+Week window (UTC)         : 2026-06-17 04:48:08Z → 2026-06-24 04:48:08Z
+Total tracks played       : 24
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1528,21 +1528,21 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 00:00
-Peak hour (7d)            : 01:00
-Heatmap (24h)             : █                   ▅▃  
-Heatmap (7d)              : ▇█▁     █           ▄▃  
+Peak hour (7d)            : 00:00
+Heatmap (24h)             : █                   ▄▃  
+Heatmap (7d)              : ██▁     █           ▄▃  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 06:30:01
+Avg inter-play gap (7d)   : 06:13:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative dance(9) | big beat(9) | breakbeat(9) | electronic(9) | east coast hip hop(4)
-Top genres (7d)           : electronic(15) | east coast hip hop(14) | alternative dance(13) | big beat(13) | breakbeat(13) | hardcore hip hop(6)
+Top genres (24h)          : alternative dance(10) | big beat(10) | breakbeat(10) | electronic(10) | east coast hip hop(4)
+Top genres (7d)           : electronic(16) | alternative dance(14) | big beat(14) | breakbeat(14) | east coast hip hop(14) | hardcore hip hop(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-24 04:47:05Z
+Report generated (UTC)    : 2026-06-24 04:48:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
