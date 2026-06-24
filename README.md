@@ -1494,13 +1494,13 @@ Last played               : Eminem — When I'm Gone
 Last played (UTC)         : 2026-06-24 08:35:00Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Chemical Brothers, Q-Tip — Go → Eminem — When I'm Gone
-Δ last played (since last): 2026-06-24 05:17:18Z → 2026-06-24 08:35:00Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:52:11
-Telemetry age             : 01:52:11
-Δ time (since last report): 02:50:27
+Time since last play      : 01:52:26
+Telemetry age             : 01:52:26
+Δ time (since last report): 00:00:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-17 10:27:10Z → 2026-06-24 10:27:10Z
+Week window (UTC)         : 2026-06-17 10:27:26Z → 2026-06-24 10:27:26Z
 Total tracks played       : 33
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative dance(18) | big beat(18) | breakbeat(18) | electronic(18) | east coast hip hop(7) | britpop(2)
 Top genres (7d)           : electronic(24) | alternative dance(22) | big beat(22) | breakbeat(22) | east coast hip hop(17) | hip hop(7)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-24 10:27:10Z
+Report generated (UTC)    : 2026-06-24 10:27:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
