@@ -1478,35 +1478,34 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : The Chemical Brothers — Reflexion
+Now playing               : N/A
 Last played               : The Chemical Brothers — Just Bang
 Last played (UTC)         : 2026-06-24 04:43:52Z
-Last activity type        : PLAYBACK_ACTIVE
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Chemical Brothers — Hey Boy Hey Girl → The Chemical Brothers — Just Bang
-Δ last played (since last): 2026-06-24 01:07:55Z → 2026-06-24 04:43:52Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:01:17
-Telemetry age             : 00:01:17
-Δ time (since last report): 03:28:13
+Time since last play      : 00:03:14
+Telemetry age             : 00:03:14
+Δ time (since last report): 00:01:57
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
@@ -1520,7 +1519,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-17 04:45:09Z → 2026-06-24 04:45:09Z
+Week window (UTC)         : 2026-06-17 04:47:05Z → 2026-06-24 04:47:05Z
 Total tracks played       : 23
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
@@ -1552,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-24 04:45:09Z
+Report generated (UTC)    : 2026-06-24 04:47:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
