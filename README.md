@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Eminem — When I'm Gone
-Last played (UTC)         : 2026-06-24 08:35:00Z
+Last played               : 20 Watt Tombstone — Chosen Few
+Last played (UTC)         : 2026-06-24 11:59:38Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Eminem — When I'm Gone → 20 Watt Tombstone — Chosen Few
+Δ last played (since last): 2026-06-24 08:35:00Z → 2026-06-24 11:59:38Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:53:10
-Telemetry age             : 01:53:10
-Δ time (since last report): 00:00:44
+Time since last play      : 01:07:43
+Telemetry age             : 01:07:43
+Δ time (since last report): 02:39:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,15 +1512,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 20
+Tracks played (last 24h)  : 22
 Dominant artist           : The Chemical Brothers
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-17 10:28:09Z → 2026-06-24 10:28:09Z
-Total tracks played       : 33
+Week window (UTC)         : 2026-06-17 13:07:20Z → 2026-06-24 13:07:20Z
+Total tracks played       : 35
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1529,21 +1529,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 00:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             : █▁ ▄▇               ▄▃  
-Heatmap (7d)              : ▇█▁▃▆   ▇           ▃▂  
+Heatmap (24h)             : █▁ ▄▇  ▃            ▄▃  
+Heatmap (7d)              : ▇█▁▃▆  ▂▇           ▃▂  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 04:35:22
+Sessions (24h)            : 5
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 04:25:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative dance(18) | big beat(18) | breakbeat(18) | electronic(18) | east coast hip hop(7) | britpop(2)
-Top genres (7d)           : electronic(24) | alternative dance(22) | big beat(22) | breakbeat(22) | east coast hip hop(17) | hip hop(7)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative dance(19) | big beat(19) | breakbeat(19) | electronic(19) | east coast hip hop(8) | britpop(2)
+Top genres (7d)           : electronic(25) | alternative dance(23) | big beat(23) | breakbeat(23) | east coast hip hop(18) | hip hop(7)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-24 10:28:09Z
+Report generated (UTC)    : 2026-06-24 13:07:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
