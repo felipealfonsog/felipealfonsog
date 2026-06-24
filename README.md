@@ -1478,50 +1478,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Prime Circle — Hello
-Last played               : Seether — Driven Under
-Last played (UTC)         : 2026-06-24 14:42:37Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Seether — Fine Again - Full Band Acoustic
+Last played (UTC)         : 2026-06-24 14:55:52Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : 20 Watt Tombstone — Chosen Few → Seether — Driven Under
-Δ last played (since last): 2026-06-24 11:59:38Z → 2026-06-24 14:42:37Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Seether — Driven Under → Seether — Fine Again - Full Band Acoustic
+Δ last played (since last): 2026-06-24 14:42:37Z → 2026-06-24 14:55:52Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:09:50
-Telemetry age             : 00:09:50
-Δ time (since last report): 01:43:42
+Time since last play      : 01:10:00
+Telemetry age             : 01:10:00
+Δ time (since last report): 01:13:26
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 27
+Tracks played (last 24h)  : 30
 Dominant artist           : The Chemical Brothers
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-17 14:52:26Z → 2026-06-24 14:52:26Z
-Total tracks played       : 40
+Week window (UTC)         : 2026-06-17 16:05:52Z → 2026-06-24 16:05:52Z
+Total tracks played       : 43
 Dominant artist           : The Chemical Brothers
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1530,21 +1529,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 00:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             : █▁ ▄▇  ▃ ▃▄         ▄▃  
-Heatmap (7d)              : ▇█▁▃▆  ▂▇▂▃         ▃▂  
+Heatmap (24h)             : █▁ ▄▇  ▃ ▃█         ▄▃  
+Heatmap (7d)              : ▇█▁▃▆  ▂▇▂▇         ▃▂  
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 6
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:55:22
+Avg inter-play gap (7d)   : 03:38:52
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative dance(19) | big beat(19) | breakbeat(19) | electronic(19) | east coast hip hop(8) | alternative metal(3)
+Top genres (24h)          : alternative dance(19) | big beat(19) | breakbeat(19) | electronic(19) | east coast hip hop(8) | alternative metal(5)
 Top genres (7d)           : electronic(25) | alternative dance(23) | big beat(23) | breakbeat(23) | east coast hip hop(18) | hip hop(7)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-24 14:52:26Z
+Report generated (UTC)    : 2026-06-24 16:05:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
