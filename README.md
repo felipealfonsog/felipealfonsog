@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Seether — Fine Again - Full Band Acoustic
-Last played (UTC)         : 2026-06-24 14:55:52Z
+Last played               : Prime Circle — Hello
+Last played (UTC)         : 2026-06-25 02:03:20Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Seether — Fine Again - Full Band Acoustic → Prime Circle — Hello
+Δ last played (since last): 2026-06-24 14:55:52Z → 2026-06-25 02:03:20Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:25:57
-Telemetry age             : 10:25:57
-Δ time (since last report): 00:00:59
+Time since last play      : 02:43:32
+Telemetry age             : 02:43:32
+Δ time (since last report): 03:25:04
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,36 +1512,36 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
+Tracks played (last 24h)  : 20
 Dominant artist           : The Chemical Brothers
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 01:21:48Z → 2026-06-25 01:21:48Z
-Total tracks played       : 43
+Week window (UTC)         : 2026-06-18 04:46:51Z → 2026-06-25 04:46:51Z
+Total tracks played       : 44
 Dominant artist           : The Chemical Brothers
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 00:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             : █▁ ▄▇  ▃ ▃█             
-Heatmap (7d)              : ▇█▁▃▆  ▂▇▂▇         ▃▂  
+Heatmap (24h)             :  ▁ ▄▇  ▃ ▃█           ▁ 
+Heatmap (7d)              : ▇█▁▃▆  ▂▇▂▇         ▃▂▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:38:52
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:49:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative dance(14) | big beat(14) | breakbeat(14) | electronic(14) | alternative metal(5) | east coast hip hop(5)
+Top genres (24h)          : alternative dance(9) | big beat(9) | breakbeat(9) | electronic(9) | alternative metal(5) | post-grunge(5)
 Top genres (7d)           : electronic(25) | alternative dance(23) | big beat(23) | breakbeat(23) | east coast hip hop(18) | hip hop(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 01:21:48Z
+Report generated (UTC)    : 2026-06-25 04:46:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
