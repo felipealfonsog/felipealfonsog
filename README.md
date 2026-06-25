@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Seether — Your Bore
-Last played (UTC)         : 2026-06-25 10:12:48Z
+Last played               : The Smooth Sounds — How long has this been going on
+Last played (UTC)         : 2026-06-25 11:47:27Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Seether — Your Bore → The Smooth Sounds — How long has this been going on
+Δ last played (since last): 2026-06-25 10:12:48Z → 2026-06-25 11:47:27Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:10:16
-Telemetry age             : 00:10:16
-Δ time (since last report): 00:00:55
+Time since last play      : 01:19:39
+Telemetry age             : 01:19:39
+Δ time (since last report): 02:44:03
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 30
+Tracks played (last 24h)  : 35
 Dominant artist           : Seether
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 10:23:03Z → 2026-06-25 10:23:03Z
+Week window (UTC)         : 2026-06-18 13:07:06Z → 2026-06-25 13:07:06Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1529,21 +1529,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :      █▂▁ ▁▃             
-Heatmap (7d)              : ▃  ▂▂█▂▁ ▁▃         ▂▁  
+Heatmap (24h)             :      █▂▃ ▁▃             
+Heatmap (7d)              : ▂  ▂▂█▂▄ ▁▃             
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 00:41:13
+Avg inter-play gap (7d)   : 00:38:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(24) | post-grunge(24) | rock(24) | blues rock(3) | modern blues(3) | alternative dance(1)
-Top genres (7d)           : alternative metal(24) | post-grunge(24) | rock(24) | alternative dance(19) | big beat(19) | breakbeat(19)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(25) | post-grunge(25) | rock(25) | jazz(6) | blues rock(2) | french jazz(2)
+Top genres (7d)           : alternative metal(25) | post-grunge(25) | rock(25) | alternative dance(13) | big beat(13) | breakbeat(13)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 10:23:03Z
+Report generated (UTC)    : 2026-06-25 13:07:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
