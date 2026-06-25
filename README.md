@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:44:16
-Telemetry age             : 02:44:16
-Δ time (since last report): 00:00:45
+Time since last play      : 05:31:11
+Telemetry age             : 05:31:11
+Δ time (since last report): 02:46:55
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,37 +1512,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 20
+Tracks played (last 24h)  : 19
 Dominant artist           : The Chemical Brothers
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 04:47:36Z → 2026-06-25 04:47:36Z
-Total tracks played       : 44
+Week window (UTC)         : 2026-06-18 07:34:31Z → 2026-06-25 07:34:31Z
+Total tracks played       : 38
 Dominant artist           : The Chemical Brothers
-Cadence classification    : HIGH
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
-Peak hour (7d)            : 01:00
-Heatmap (24h)             :  ▁ ▄▇  ▃ ▃█           ▁ 
-Heatmap (7d)              : ▇█▁▃▆  ▂▇▂▇         ▃▂▁ 
+Peak hour (7d)            : 00:00
+Heatmap (24h)             :    ▄▇  ▃ ▃█           ▁ 
+Heatmap (7d)              : █▃ ▄▇  ▃█▃█         ▄▃▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 03:49:18
+Sessions (24h)            : 4
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:58:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative dance(9) | big beat(9) | breakbeat(9) | electronic(9) | alternative metal(5) | post-grunge(5)
-Top genres (7d)           : electronic(25) | alternative dance(23) | big beat(23) | breakbeat(23) | east coast hip hop(18) | hip hop(7)
+Top genres (24h)          : alternative dance(8) | big beat(8) | breakbeat(8) | electronic(8) | alternative metal(5) | post-grunge(5)
+Top genres (7d)           : electronic(25) | alternative dance(23) | big beat(23) | breakbeat(23) | east coast hip hop(13) | alternative metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 04:47:36Z
+Report generated (UTC)    : 2026-06-25 07:34:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
