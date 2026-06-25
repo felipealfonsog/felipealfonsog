@@ -1494,13 +1494,13 @@ Last played               : Hans Ulrik — A Nightingale Sang In Berkeley Square
 Last played (UTC)         : 2026-06-25 13:47:12Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Smooth Sounds — How long has this been going on → Hans Ulrik — A Nightingale Sang In Berkeley Square
-Δ last played (since last): 2026-06-25 11:47:27Z → 2026-06-25 13:47:12Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:22:26
-Telemetry age             : 02:22:26
-Δ time (since last report): 03:01:32
+Time since last play      : 02:23:11
+Telemetry age             : 02:23:11
+Δ time (since last report): 00:00:46
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 16:09:37Z → 2026-06-25 16:09:37Z
+Week window (UTC)         : 2026-06-18 16:10:22Z → 2026-06-25 16:10:22Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(22) | post-grunge(20) | rock(20) | jazz(11) | avant-garde(2) | french jazz(2)
 Top genres (7d)           : alternative metal(27) | post-grunge(25) | rock(25) | jazz(11) | alternative dance(7) | big beat(7)
-Artist lookups (this run) : 6 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 16:09:37Z
+Report generated (UTC)    : 2026-06-25 16:10:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
