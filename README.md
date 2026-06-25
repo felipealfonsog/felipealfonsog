@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Seether — Needles
-Last played               : Seether — Fine Again
-Last played (UTC)         : 2026-06-25 09:51:21Z
+Now playing               : Seether — Driven Under
+Last played               : Seether — Needles
+Last played (UTC)         : 2026-06-25 09:54:47Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Seether — Driven Under → Seether — Fine Again
-Δ last played (since last): 2026-06-25 09:08:32Z → 2026-06-25 09:51:21Z
+Δ track (since last)      : Seether — Fine Again → Seether — Needles
+Δ last played (since last): 2026-06-25 09:51:21Z → 2026-06-25 09:54:47Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:06
-Telemetry age             : 00:03:06
-Δ time (since last report): 00:45:12
+Time since last play      : 00:00:57
+Telemetry age             : 00:00:57
+Δ time (since last report): 00:01:18
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,14 +1513,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
+Tracks played (last 24h)  : 26
 Dominant artist           : Seether
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 09:54:26Z → 2026-06-25 09:54:26Z
+Week window (UTC)         : 2026-06-18 09:55:44Z → 2026-06-25 09:55:44Z
 Total tracks played       : 50
 Dominant artist           : The Chemical Brothers
 Cadence classification    : HIGH
@@ -1538,12 +1538,12 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 02:23:17
+Avg inter-play gap (7d)   : 02:23:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(19) | post-grunge(19) | rock(19) | blues rock(3) | modern blues(3) | alternative dance(1)
-Top genres (7d)           : electronic(24) | alternative dance(22) | big beat(22) | breakbeat(22) | alternative metal(19) | post-grunge(19)
+Top genres (24h)          : alternative metal(20) | post-grunge(20) | rock(20) | blues rock(3) | modern blues(3) | alternative dance(1)
+Top genres (7d)           : electronic(23) | alternative dance(22) | big beat(22) | breakbeat(22) | alternative metal(20) | post-grunge(20)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 09:54:26Z
+Report generated (UTC)    : 2026-06-25 09:55:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
