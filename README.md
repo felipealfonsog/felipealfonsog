@@ -1494,13 +1494,13 @@ Last played               : Seether — Your Bore
 Last played (UTC)         : 2026-06-25 10:12:48Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Seether — Needles → Seether — Your Bore
-Δ last played (since last): 2026-06-25 09:54:47Z → 2026-06-25 10:12:48Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:09:22
-Telemetry age             : 00:09:22
-Δ time (since last report): 00:26:26
+Time since last play      : 00:10:16
+Telemetry age             : 00:10:16
+Δ time (since last report): 00:00:55
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 10:22:09Z → 2026-06-25 10:22:09Z
+Week window (UTC)         : 2026-06-18 10:23:03Z → 2026-06-25 10:23:03Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 10:22:09Z
+Report generated (UTC)    : 2026-06-25 10:23:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
