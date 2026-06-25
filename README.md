@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Hans Ulrik — A Nightingale Sang In Berkeley Square
-Last played (UTC)         : 2026-06-25 13:47:12Z
+Last played               : Greg Spero, Robert "Sput" Searight, MonoNeon — Let's try
+Last played (UTC)         : 2026-06-25 16:40:50Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Hans Ulrik — A Nightingale Sang In Berkeley Square → Greg Spero, Robert "Sput" Searight, MonoNeon — Let's try
+Δ last played (since last): 2026-06-25 13:47:12Z → 2026-06-25 16:40:50Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:23:46
-Telemetry age             : 02:23:46
-Δ time (since last report): 00:00:36
+Time since last play      : 02:22:32
+Telemetry age             : 02:22:32
+Δ time (since last report): 02:52:24
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 33
+Tracks played (last 24h)  : 36
 Dominant artist           : Seether
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 16:10:58Z → 2026-06-25 16:10:58Z
+Week window (UTC)         : 2026-06-18 19:03:22Z → 2026-06-25 19:03:22Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1529,21 +1529,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :      █▂▃ ▃              
-Heatmap (7d)              :    ▁▂█▂▄ ▄▃             
+Heatmap (24h)             :      █▂▃ ▃  ▂           
+Heatmap (7d)              :     ▂█▂▄ ▄▃ ▂           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 00:36:39
+Sessions (24h)            : 5
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 00:39:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(22) | post-grunge(20) | rock(20) | jazz(11) | avant-garde(2) | french jazz(2)
-Top genres (7d)           : alternative metal(27) | post-grunge(25) | rock(25) | jazz(11) | alternative dance(7) | big beat(7)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(22) | post-grunge(20) | rock(20) | jazz(14) | avant-garde(2) | bebop(2)
+Top genres (7d)           : alternative metal(27) | post-grunge(25) | rock(25) | jazz(14) | alternative dance(4) | big beat(4)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 16:10:58Z
+Report generated (UTC)    : 2026-06-25 19:03:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
