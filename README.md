@@ -1494,13 +1494,13 @@ Last played               : The Smooth Sounds — How long has this been going o
 Last played (UTC)         : 2026-06-25 11:47:27Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Seether — Your Bore → The Smooth Sounds — How long has this been going on
-Δ last played (since last): 2026-06-25 10:12:48Z → 2026-06-25 11:47:27Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:19:39
-Telemetry age             : 01:19:39
-Δ time (since last report): 02:44:03
+Time since last play      : 01:20:02
+Telemetry age             : 01:20:02
+Δ time (since last report): 00:00:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 13:07:06Z → 2026-06-25 13:07:06Z
+Week window (UTC)         : 2026-06-18 13:07:28Z → 2026-06-25 13:07:28Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(25) | post-grunge(25) | rock(25) | jazz(6) | blues rock(2) | french jazz(2)
 Top genres (7d)           : alternative metal(25) | post-grunge(25) | rock(25) | alternative dance(13) | big beat(13) | breakbeat(13)
-Artist lookups (this run) : 4 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 13:07:06Z
+Report generated (UTC)    : 2026-06-25 13:07:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
