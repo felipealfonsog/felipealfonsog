@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Seether — Pride
-Last played               : Seether — Driven Under
-Last played (UTC)         : 2026-06-25 09:08:32Z
+Now playing               : Seether — Needles
+Last played               : Seether — Fine Again
+Last played (UTC)         : 2026-06-25 09:51:21Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Prime Circle — Hello → Seether — Driven Under
-Δ last played (since last): 2026-06-25 02:03:20Z → 2026-06-25 09:08:32Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Seether — Driven Under → Seether — Fine Again
+Δ last played (since last): 2026-06-25 09:08:32Z → 2026-06-25 09:51:21Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:43
-Telemetry age             : 00:00:43
-Δ time (since last report): 01:32:10
+Time since last play      : 00:03:06
+Telemetry age             : 00:03:06
+Δ time (since last report): 00:45:12
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,37 +1513,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
+Tracks played (last 24h)  : 25
 Dominant artist           : Seether
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 09:09:15Z → 2026-06-25 09:09:15Z
-Total tracks played       : 41
+Week window (UTC)         : 2026-06-18 09:54:26Z → 2026-06-25 09:54:26Z
+Total tracks played       : 50
 Dominant artist           : The Chemical Brothers
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
-Peak hour (7d)            : 00:00
-Heatmap (24h)             :      ▄ ▃ ▃█           ▁ 
-Heatmap (7d)              : █▃ ▄▇▄ ▃█▃█         ▄▃▁ 
+Peak hour (24h)           : 05:00
+Peak hour (7d)            : 05:00
+Heatmap (24h)             :      █ ▁ ▁▃           ▁ 
+Heatmap (7d)              : ▃▁ ▂▃█ ▁▂▁▃         ▂▁▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:55:20
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:23:17
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(8) | post-grunge(8) | rock(8) | blues rock(3) | modern blues(3) | alternative dance(1)
-Top genres (7d)           : electronic(25) | alternative dance(23) | big beat(23) | breakbeat(23) | east coast hip hop(13) | alternative metal(8)
+Top genres (24h)          : alternative metal(19) | post-grunge(19) | rock(19) | blues rock(3) | modern blues(3) | alternative dance(1)
+Top genres (7d)           : electronic(24) | alternative dance(22) | big beat(22) | breakbeat(22) | alternative metal(19) | post-grunge(19)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 09:09:15Z
+Report generated (UTC)    : 2026-06-25 09:54:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
