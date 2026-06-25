@@ -1494,13 +1494,13 @@ Last played               : Prime Circle — Hello
 Last played (UTC)         : 2026-06-25 02:03:20Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Seether — Fine Again - Full Band Acoustic → Prime Circle — Hello
-Δ last played (since last): 2026-06-24 14:55:52Z → 2026-06-25 02:03:20Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:43:32
-Telemetry age             : 02:43:32
-Δ time (since last report): 03:25:04
+Time since last play      : 02:44:16
+Telemetry age             : 02:44:16
+Δ time (since last report): 00:00:45
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 04:46:51Z → 2026-06-25 04:46:51Z
+Week window (UTC)         : 2026-06-18 04:47:36Z → 2026-06-25 04:47:36Z
 Total tracks played       : 44
 Dominant artist           : The Chemical Brothers
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 04:46:51Z
+Report generated (UTC)    : 2026-06-25 04:47:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
