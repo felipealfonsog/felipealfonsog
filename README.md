@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:20:02
-Telemetry age             : 01:20:02
-Δ time (since last report): 00:00:23
+Time since last play      : 01:20:40
+Telemetry age             : 01:20:40
+Δ time (since last report): 00:00:39
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 13:07:28Z → 2026-06-25 13:07:28Z
+Week window (UTC)         : 2026-06-18 13:08:06Z → 2026-06-25 13:08:06Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 13:07:28Z
+Report generated (UTC)    : 2026-06-25 13:08:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
