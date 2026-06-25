@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:31:11
-Telemetry age             : 05:31:11
-Δ time (since last report): 02:46:55
+Time since last play      : 05:32:31
+Telemetry age             : 05:32:31
+Δ time (since last report): 00:01:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
+Tracks played (last 24h)  : 18
 Dominant artist           : The Chemical Brothers
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-18 07:34:31Z → 2026-06-25 07:34:31Z
+Week window (UTC)         : 2026-06-18 07:35:51Z → 2026-06-25 07:35:51Z
 Total tracks played       : 38
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
@@ -1529,7 +1529,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 00:00
-Heatmap (24h)             :    ▄▇  ▃ ▃█           ▁ 
+Heatmap (24h)             :    ▃▇  ▃ ▃█           ▁ 
 Heatmap (7d)              : █▃ ▄▇  ▃█▃█         ▄▃▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -1541,7 +1541,7 @@ Avg inter-play gap (7d)   : 02:58:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative dance(8) | big beat(8) | breakbeat(8) | electronic(8) | alternative metal(5) | post-grunge(5)
+Top genres (24h)          : alternative dance(7) | big beat(7) | breakbeat(7) | electronic(7) | alternative metal(5) | post-grunge(5)
 Top genres (7d)           : electronic(25) | alternative dance(23) | big beat(23) | breakbeat(23) | east coast hip hop(13) | alternative metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-25 07:34:31Z
+Report generated (UTC)    : 2026-06-25 07:35:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
