@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-06-26T01:16:18+00:00",
-    "last_successful_sync": "2026-06-26T01:16:18+00:00",
+    "last_attempted_sync": "2026-06-26T07:33:37+00:00",
+    "last_successful_sync": "2026-06-26T07:33:37+00:00",
     "error_message": ""
   },
   "sections": {
@@ -282,7 +282,7 @@
           "author": "Gladys Díaz Armijo",
           "link": "https://www.goodreads.com/review/show/8083185323?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759348117l/242290714._SY75_.jpg",
-          "summary": "author: Gladys Díaz Armijo name: Felipe Alfonso average rating: 4.86 book published: 2025 rating: 5 read at: date added: 2025/11/18 shelves: currently-reading review:",
+          "summary": "author: Gladys Díaz Armijo name: Felipe Alfonso average rating: 4.88 book published: 2025 rating: 5 read at: date added: 2025/11/18 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8083185323?utm_medium=api&utm_source=rss",
           "pub_date": "Tue, 18 Nov 2025 22:48:05 -0800"
         }
