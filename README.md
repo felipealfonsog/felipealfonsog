@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 08:43:20
-Telemetry age             : 08:43:20
-Δ time (since last report): 00:00:42
+Time since last play      : 12:07:52
+Telemetry age             : 12:07:52
+Δ time (since last report): 03:24:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 36
+Tracks played (last 24h)  : 35
 Dominant artist           : Seether
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-19 01:24:09Z → 2026-06-26 01:24:09Z
+Week window (UTC)         : 2026-06-19 04:48:42Z → 2026-06-26 04:48:42Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1535,7 +1535,7 @@ Heatmap (7d)              :     ▂█▂▄ ▄▃ ▂
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 4
 Sessions (7d)             : 8
 Avg inter-play gap (7d)   : 00:39:42
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-26 01:24:09Z
+Report generated (UTC)    : 2026-06-26 04:48:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
