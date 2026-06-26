@@ -1494,13 +1494,13 @@ Last played               : Jerome Sabbagh — Every Now and Then
 Last played (UTC)         : 2026-06-26 17:50:14Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : I Prevail, Amira Elfeky — Paradise → Jerome Sabbagh — Every Now and Then
-Δ last played (since last): 2026-06-26 07:07:24Z → 2026-06-26 17:50:14Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:09:20
-Telemetry age             : 01:09:20
-Δ time (since last report): 02:51:47
+Time since last play      : 01:10:01
+Telemetry age             : 01:10:01
+Δ time (since last report): 00:00:41
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-19 18:59:34Z → 2026-06-26 18:59:34Z
+Week window (UTC)         : 2026-06-19 19:00:14Z → 2026-06-26 19:00:14Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(4) | big band(2) | soul jazz(2) | cool jazz(1) | hard bop(1) | jazz funk(1)
 Top genres (7d)           : alternative metal(27) | post-grunge(25) | rock(25) | jazz(18) | cool jazz(3) | hard bop(3)
-Artist lookups (this run) : 6 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-26 18:59:34Z
+Report generated (UTC)    : 2026-06-26 19:00:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
