@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : I Prevail, Amira Elfeky — Paradise
-Last played (UTC)         : 2026-06-26 07:07:24Z
+Last played               : Jerome Sabbagh — Every Now and Then
+Last played (UTC)         : 2026-06-26 17:50:14Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : I Prevail, Amira Elfeky — Paradise → Jerome Sabbagh — Every Now and Then
+Δ last played (since last): 2026-06-26 07:07:24Z → 2026-06-26 17:50:14Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:00:24
-Telemetry age             : 09:00:24
-Δ time (since last report): 00:00:24
+Time since last play      : 01:09:20
+Telemetry age             : 01:09:20
+Δ time (since last report): 02:51:47
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : John Coltrane Quartet
+Tracks played (last 24h)  : 6
+Dominant artist           : Mark Buselli
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-19 16:07:47Z → 2026-06-26 16:07:47Z
+Week window (UTC)         : 2026-06-19 18:59:34Z → 2026-06-26 18:59:34Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1527,23 +1527,23 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
+Peak hour (24h)           : 13:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :    ▃        █           
-Heatmap (7d)              :     ▂█▂▄ ▄▃ ▂           
+Heatmap (24h)             :    ▂         █          
+Heatmap (7d)              :      █▂▃ ▄▃ ▂▂          
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 00:57:22
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 01:03:52
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(3) | bebop(2) | cool jazz(2) | free jazz(2) | hard bop(2) | jazz ballads(2)
-Top genres (7d)           : alternative metal(27) | post-grunge(25) | rock(25) | jazz(14) | alternative dance(3) | big beat(3)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(4) | big band(2) | soul jazz(2) | cool jazz(1) | hard bop(1) | jazz funk(1)
+Top genres (7d)           : alternative metal(27) | post-grunge(25) | rock(25) | jazz(18) | cool jazz(3) | hard bop(3)
+Artist lookups (this run) : 6 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-26 16:07:47Z
+Report generated (UTC)    : 2026-06-26 18:59:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
