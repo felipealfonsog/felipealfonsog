@@ -1494,13 +1494,13 @@ Last played               : I Prevail, Amira Elfeky — Paradise
 Last played (UTC)         : 2026-06-26 07:07:24Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Greg Spero, Robert "Sput" Searight, MonoNeon — Let's try → I Prevail, Amira Elfeky — Paradise
-Δ last played (since last): 2026-06-25 16:40:50Z → 2026-06-26 07:07:24Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:19:54
-Telemetry age             : 03:19:54
-Δ time (since last report): 02:48:21
+Time since last play      : 03:20:25
+Telemetry age             : 03:20:25
+Δ time (since last report): 00:00:31
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-19 10:27:18Z → 2026-06-26 10:27:18Z
+Week window (UTC)         : 2026-06-19 10:27:48Z → 2026-06-26 10:27:48Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(14) | alternative metal(2) | avant-garde(2) | bebop(2) | cool jazz(2) | free jazz(2)
 Top genres (7d)           : alternative metal(27) | post-grunge(25) | rock(25) | jazz(14) | alternative dance(3) | big beat(3)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-26 10:27:18Z
+Report generated (UTC)    : 2026-06-26 10:27:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
