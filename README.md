@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:20:58
-Telemetry age             : 03:20:58
-Δ time (since last report): 00:00:34
+Time since last play      : 05:56:57
+Telemetry age             : 05:56:57
+Δ time (since last report): 02:35:59
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
+Tracks played (last 24h)  : 10
 Dominant artist           : John Coltrane Quartet
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-19 10:28:22Z → 2026-06-26 10:28:22Z
+Week window (UTC)         : 2026-06-19 13:04:20Z → 2026-06-26 13:04:20Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1527,21 +1527,21 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :    ▁   █ █  ▄           
+Heatmap (24h)             :    ▁     █  ▄           
 Heatmap (7d)              :     ▂█▂▄ ▄▃ ▂           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : 3
 Sessions (7d)             : 9
 Avg inter-play gap (7d)   : 00:57:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(14) | alternative metal(2) | avant-garde(2) | bebop(2) | cool jazz(2) | free jazz(2)
+Top genres (24h)          : jazz(8) | alternative metal(2) | avant-garde(2) | bebop(2) | cool jazz(2) | free jazz(2)
 Top genres (7d)           : alternative metal(27) | post-grunge(25) | rock(25) | jazz(14) | alternative dance(3) | big beat(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-26 10:28:22Z
+Report generated (UTC)    : 2026-06-26 13:04:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
