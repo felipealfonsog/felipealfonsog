@@ -1484,24 +1484,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
+Device type               : CastAudio
+Device name               : GNest-MerkleTree speaker
+Volume                    : 29%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume bar                : ▁▁▂
 ------------------------------------------------------------
-Now playing               : Faith No More — The Gentle Art of Making Enemies
-Last played               : Faith No More — Evidence
-Last played (UTC)         : 2026-06-27 09:13:36Z
+Now playing               : Faith No More — Zombie Eaters
+Last played               : Faith No More — I Started a Joke - Digging the Grave B-Side; 2016 Remaster
+Last played (UTC)         : 2026-06-27 09:57:45Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Faith No More — Evidence → Faith No More — I Started a Joke - Digging the Grave B-Side; 2016 Remaster
+Δ last played (since last): 2026-06-27 09:13:36Z → 2026-06-27 09:57:45Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:09
-Telemetry age             : 00:02:09
-Δ time (since last report): 00:02:00
+Time since last play      : 00:02:21
+Telemetry age             : 00:02:21
+Δ time (since last report): 00:44:22
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,37 +1513,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 13
+Tracks played (last 24h)  : 24
 Dominant artist           : Faith No More
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 09:15:44Z → 2026-06-27 09:15:44Z
+Week window (UTC)         : 2026-06-20 10:00:05Z → 2026-06-27 10:00:05Z
 Total tracks played       : 50
-Dominant artist           : Seether
+Dominant artist           : Faith No More
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 04:00
+Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     █▅       █          
-Heatmap (7d)              :     ▂█▂▃ ▃  ▁▂          
+Heatmap (24h)             :     ▃█       ▃          
+Heatmap (7d)              :     ▂█▂▂ ▂  ▁▂          
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:07:33
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 00:59:07
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(8) | funk rock(7) | grunge(7) | rap metal(7) | jazz(4) | big band(2)
-Top genres (7d)           : alternative metal(30) | post-grunge(20) | rock(20) | jazz(18) | funk rock(7) | grunge(7)
+Top genres (24h)          : alternative metal(19) | funk rock(18) | grunge(18) | rap metal(18) | jazz(4) | big band(2)
+Top genres (7d)           : alternative metal(31) | funk rock(18) | grunge(18) | jazz(18) | rap metal(18) | post-grunge(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 09:15:44Z
+Report generated (UTC)    : 2026-06-27 10:00:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
