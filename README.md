@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:50:33
-Telemetry age             : 10:50:33
-Δ time (since last report): 00:00:42
+Time since last play      : 13:36:02
+Telemetry age             : 13:36:02
+Δ time (since last report): 02:45:29
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
+Tracks played (last 24h)  : 5
 Dominant artist           : Mark Buselli
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 04:40:47Z → 2026-06-27 04:40:47Z
+Week window (UTC)         : 2026-06-20 07:26:15Z → 2026-06-27 07:26:15Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1529,13 +1529,13 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :    ▂         █          
+Heatmap (24h)             :              █          
 Heatmap (7d)              :      █▂▃ ▄▃ ▂▂          
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 8
 Avg inter-play gap (7d)   : 01:03:52
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 04:40:47Z
+Report generated (UTC)    : 2026-06-27 07:26:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
