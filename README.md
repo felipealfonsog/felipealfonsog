@@ -1494,13 +1494,13 @@ Last played               : Massive Attack, Horace Andy — Man Next Door
 Last played (UTC)         : 2026-06-27 11:35:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Massive Attack, Sarah Jay Hawley — Dissolved Girl → Massive Attack, Horace Andy — Man Next Door
-Δ last played (since last): 2026-06-27 11:29:11Z → 2026-06-27 11:35:07Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:14:05
-Telemetry age             : 01:14:05
-Δ time (since last report): 01:19:13
+Time since last play      : 01:15:06
+Telemetry age             : 01:15:06
+Δ time (since last report): 00:01:01
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 12:49:12Z → 2026-06-27 12:49:12Z
+Week window (UTC)         : 2026-06-20 12:50:12Z → 2026-06-27 12:50:12Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 12:49:12Z
+Report generated (UTC)    : 2026-06-27 12:50:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
