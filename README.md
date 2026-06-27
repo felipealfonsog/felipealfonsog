@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Seether — Fine Again
+Now playing               : All Them Witches — Blood And Sand / Milk And Endless Waters - Live
 Last played               : Radiohead — Fake Plastic Trees
 Last played (UTC)         : 2026-06-27 23:36:06Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Radiohead — High and Dry → Radiohead — Fake Plastic Trees
-Δ last played (since last): 2026-06-27 23:31:15Z → 2026-06-27 23:36:06Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:01
-Telemetry age             : 00:05:01
-Δ time (since last report): 00:07:46
+Time since last play      : 00:18:09
+Telemetry age             : 00:18:09
+Δ time (since last report): 00:13:08
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 23:41:07Z → 2026-06-27 23:41:07Z
+Week window (UTC)         : 2026-06-20 23:54:15Z → 2026-06-27 23:54:15Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 23:41:07Z
+Report generated (UTC)    : 2026-06-27 23:54:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
