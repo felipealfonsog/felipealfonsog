@@ -1478,48 +1478,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Backwater Township — Going Out West
-Last played (UTC)         : 2026-06-27 14:24:31Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Alice In Chains — Nutshell - Live at the Majestic Theatre, Brooklyn, NY - April 1996
+Last played               : Tomahawk — God Hates a Coward
+Last played (UTC)         : 2026-06-27 22:15:41Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Backwater Township — Going Out West → Tomahawk — God Hates a Coward
+Δ last played (since last): 2026-06-27 14:24:31Z → 2026-06-27 22:15:41Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 07:18:29
-Telemetry age             : 07:18:29
-Δ time (since last report): 00:00:46
+Time since last play      : 00:06:21
+Telemetry age             : 00:06:21
+Δ time (since last report): 00:39:03
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 36
+Tracks played (last 24h)  : 37
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 21:42:59Z → 2026-06-27 21:42:59Z
+Week window (UTC)         : 2026-06-20 22:22:01Z → 2026-06-27 22:22:01Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1529,19 +1530,19 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▃█▃▃▁ ▂             
-Heatmap (7d)              :    ▁▃█▃▃▁▃▂ ▂▃          
+Heatmap (24h)             :     ▃█▃▃▁ ▂       ▁     
+Heatmap (7d)              :    ▁▃█▃▃▁▂▂ ▂▃    ▁     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 00:59:36
+Sessions (24h)            : 5
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 01:09:13
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(26) | funk rock(25) | grunge(25) | rap metal(25) | downtempo(4) | trip hop(4)
+Top genres (24h)          : alternative metal(27) | funk rock(25) | grunge(25) | rap metal(25) | downtempo(4) | trip hop(4)
 Top genres (7d)           : alternative metal(28) | funk rock(25) | grunge(25) | rap metal(25) | jazz(12) | jazz ballads(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 21:42:59Z
+Report generated (UTC)    : 2026-06-27 22:22:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
