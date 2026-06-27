@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Nutshell - Live at the Majestic Theatre, Brooklyn, NY - April 1996
-Last played               : Tomahawk — God Hates a Coward
-Last played (UTC)         : 2026-06-27 22:15:41Z
+Now playing               : Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996
+Last played               : Alice In Chains — Brother - Live at the Majestic Theatre, Brooklyn, NY - April 1996
+Last played (UTC)         : 2026-06-27 22:30:50Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Backwater Township — Going Out West → Tomahawk — God Hates a Coward
-Δ last played (since last): 2026-06-27 14:24:31Z → 2026-06-27 22:15:41Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Tomahawk — God Hates a Coward → Alice In Chains — Brother - Live at the Majestic Theatre, Brooklyn, NY - April 1996
+Δ last played (since last): 2026-06-27 22:15:41Z → 2026-06-27 22:30:50Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:06:21
-Telemetry age             : 00:06:21
-Δ time (since last report): 00:39:03
+Time since last play      : 00:02:12
+Telemetry age             : 00:02:12
+Δ time (since last report): 00:11:01
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,14 +1513,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 37
+Tracks played (last 24h)  : 39
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 22:22:01Z → 2026-06-27 22:22:01Z
+Week window (UTC)         : 2026-06-20 22:33:01Z → 2026-06-27 22:33:01Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1530,20 +1530,20 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▃█▃▃▁ ▂       ▁     
-Heatmap (7d)              :    ▁▃█▃▃▁▂▂ ▂▃    ▁     
+Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂     
+Heatmap (7d)              :    ▁▃█▃▃▁▁▂ ▂▃    ▂     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 01:09:13
+Avg inter-play gap (7d)   : 01:09:29
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(27) | funk rock(25) | grunge(25) | rap metal(25) | downtempo(4) | trip hop(4)
-Top genres (7d)           : alternative metal(28) | funk rock(25) | grunge(25) | rap metal(25) | jazz(12) | jazz ballads(5)
+Top genres (24h)          : alternative metal(27) | grunge(27) | funk rock(25) | rap metal(25) | downtempo(4) | trip hop(4)
+Top genres (7d)           : alternative metal(27) | grunge(27) | funk rock(25) | rap metal(25) | jazz(10) | jazz ballads(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 22:22:01Z
+Report generated (UTC)    : 2026-06-27 22:33:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
