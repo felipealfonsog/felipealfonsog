@@ -1495,13 +1495,13 @@ Last played               : Faith No More — I Started a Joke - Digging the Gra
 Last played (UTC)         : 2026-06-27 09:57:45Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Evidence → Faith No More — I Started a Joke - Digging the Grave B-Side; 2016 Remaster
-Δ last played (since last): 2026-06-27 09:13:36Z → 2026-06-27 09:57:45Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:21
-Telemetry age             : 00:02:21
-Δ time (since last report): 00:44:22
+Time since last play      : 00:05:48
+Telemetry age             : 00:05:48
+Δ time (since last report): 00:03:28
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 10:00:05Z → 2026-06-27 10:00:05Z
+Week window (UTC)         : 2026-06-20 10:03:32Z → 2026-06-27 10:03:32Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 10:00:05Z
+Report generated (UTC)    : 2026-06-27 10:03:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
