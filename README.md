@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Down In A Hole - Live at the Majestic Theatre, Brooklyn, NY - April 1996
+Now playing               : Staind — It's Been Awhile
 Last played               : Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996
 Last played (UTC)         : 2026-06-27 22:35:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Brother - Live at the Majestic Theatre, Brooklyn, NY - April 1996 → Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996
-Δ last played (since last): 2026-06-27 22:30:50Z → 2026-06-27 22:35:28Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:02
-Telemetry age             : 00:02:02
-Δ time (since last report): 00:04:29
+Time since last play      : 00:11:20
+Telemetry age             : 00:11:20
+Δ time (since last report): 00:09:19
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 22:37:29Z → 2026-06-27 22:37:29Z
+Week window (UTC)         : 2026-06-20 22:46:47Z → 2026-06-27 22:46:47Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 22:37:29Z
+Report generated (UTC)    : 2026-06-27 22:46:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
