@@ -1490,7 +1490,7 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Staind — It's Been Awhile
+Now playing               : Staind — Right Here
 Last played               : Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996
 Last played (UTC)         : 2026-06-27 22:35:28Z
 Last activity type        : PLAYBACK_ACTIVE
@@ -1499,9 +1499,9 @@ Last activity type        : PLAYBACK_ACTIVE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:11:20
-Telemetry age             : 00:11:20
-Δ time (since last report): 00:09:19
+Time since last play      : 00:23:19
+Telemetry age             : 00:23:19
+Δ time (since last report): 00:12:00
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 22:46:47Z → 2026-06-27 22:46:47Z
+Week window (UTC)         : 2026-06-20 22:58:47Z → 2026-06-27 22:58:47Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 22:46:47Z
+Report generated (UTC)    : 2026-06-27 22:58:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
