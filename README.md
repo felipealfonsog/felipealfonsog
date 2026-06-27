@@ -1478,49 +1478,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Massive Attack, Horace Andy — Man Next Door
-Last played               : Massive Attack, Sarah Jay Hawley — Dissolved Girl
-Last played (UTC)         : 2026-06-27 11:29:11Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Massive Attack, Horace Andy — Man Next Door
+Last played (UTC)         : 2026-06-27 11:35:07Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Massive Attack, Horace Andy — Angel → Massive Attack, Sarah Jay Hawley — Dissolved Girl
-Δ last played (since last): 2026-06-27 11:22:42Z → 2026-06-27 11:29:11Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Massive Attack, Sarah Jay Hawley — Dissolved Girl → Massive Attack, Horace Andy — Man Next Door
+Δ last played (since last): 2026-06-27 11:29:11Z → 2026-06-27 11:35:07Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:48
-Telemetry age             : 00:00:48
-Δ time (since last report): 00:05:47
+Time since last play      : 01:14:05
+Telemetry age             : 01:14:05
+Δ time (since last report): 01:19:13
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 34
+Tracks played (last 24h)  : 36
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 11:29:59Z → 2026-06-27 11:29:59Z
+Week window (UTC)         : 2026-06-20 12:49:12Z → 2026-06-27 12:49:12Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1530,7 +1529,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▃█▃▂     ▃          
+Heatmap (24h)             :     ▃█▃▃     ▃          
 Heatmap (7d)              :    ▁▃█▃▆ ▃  ▂▃          
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -1538,13 +1537,13 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 00:58:37
+Avg inter-play gap (7d)   : 00:58:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(25) | funk rock(24) | grunge(24) | rap metal(24) | jazz(4) | alternative dance(2)
-Top genres (7d)           : alternative metal(27) | funk rock(24) | grunge(24) | rap metal(24) | jazz(18) | avant-garde(3)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : alternative metal(26) | funk rock(25) | grunge(25) | rap metal(25) | jazz(4) | downtempo(3)
+Top genres (7d)           : alternative metal(28) | funk rock(25) | grunge(25) | rap metal(25) | jazz(16) | avant-garde(3)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 11:29:59Z
+Report generated (UTC)    : 2026-06-27 12:49:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
