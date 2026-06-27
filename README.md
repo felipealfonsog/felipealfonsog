@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Staind — Believe
-Last played               : Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996
-Last played (UTC)         : 2026-06-27 22:35:28Z
+Now playing               : Radiohead — Everything In Its Right Place
+Last played               : Staind — Raining Again
+Last played (UTC)         : 2026-06-27 23:11:10Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996 → Staind — Raining Again
+Δ last played (since last): 2026-06-27 22:35:28Z → 2026-06-27 23:11:10Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:29:52
-Telemetry age             : 00:29:52
-Δ time (since last report): 00:06:33
+Time since last play      : 00:03:55
+Telemetry age             : 00:03:55
+Δ time (since last report): 00:09:45
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,14 +1513,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 40
+Tracks played (last 24h)  : 41
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 23:05:20Z → 2026-06-27 23:05:20Z
+Week window (UTC)         : 2026-06-20 23:15:04Z → 2026-06-27 23:15:04Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1530,20 +1530,20 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂     
-Heatmap (7d)              :    ▁▃█▃▃▁▁▂ ▂▃    ▂     
+Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂▁    
+Heatmap (7d)              :    ▁▃█▃▃▁ ▂ ▂▃    ▂▁    
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 6
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 01:09:33
+Avg inter-play gap (7d)   : 01:06:45
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(28) | alternative metal(27) | funk rock(25) | rap metal(25) | downtempo(4) | trip hop(4)
-Top genres (7d)           : grunge(28) | alternative metal(27) | funk rock(25) | rap metal(25) | jazz(9) | jazz ballads(5)
+Top genres (24h)          : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | downtempo(4) | post-grunge(4)
+Top genres (7d)           : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | jazz(8) | jazz ballads(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 23:05:20Z
+Report generated (UTC)    : 2026-06-27 23:15:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
