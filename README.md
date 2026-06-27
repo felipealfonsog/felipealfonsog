@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Radiohead — High and Dry
-Last played               : Staind — Raining Again
-Last played (UTC)         : 2026-06-27 23:11:10Z
+Now playing               : Radiohead — Fake Plastic Trees
+Last played               : Radiohead — High and Dry
+Last played (UTC)         : 2026-06-27 23:31:15Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Staind — Raining Again → Radiohead — High and Dry
+Δ last played (since last): 2026-06-27 23:11:10Z → 2026-06-27 23:31:15Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:18:05
-Telemetry age             : 00:18:05
-Δ time (since last report): 00:14:11
+Time since last play      : 00:02:07
+Telemetry age             : 00:02:07
+Δ time (since last report): 00:04:08
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,14 +1513,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 41
+Tracks played (last 24h)  : 42
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 23:29:14Z → 2026-06-27 23:29:14Z
+Week window (UTC)         : 2026-06-20 23:33:21Z → 2026-06-27 23:33:21Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1531,20 +1531,20 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
 Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂▁    
-Heatmap (7d)              :    ▁▃█▃▃▁ ▂ ▂▃    ▂▁    
+Heatmap (7d)              :    ▁▃█▃▃▁ ▂ ▁▃    ▂▁    
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 6
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 01:06:45
+Avg inter-play gap (7d)   : 01:07:10
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | downtempo(4) | post-grunge(4)
-Top genres (7d)           : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | jazz(8) | jazz ballads(5)
-Artist lookups (this run) : 0 (cached)
+Top genres (7d)           : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | jazz(7) | downtempo(4)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 23:29:14Z
+Report generated (UTC)    : 2026-06-27 23:33:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
