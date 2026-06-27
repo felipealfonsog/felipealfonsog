@@ -1495,13 +1495,13 @@ Last played               : Faith No More — Evidence
 Last played (UTC)         : 2026-06-27 09:13:36Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Jerome Sabbagh — Every Now and Then → Faith No More — Evidence
-Δ last played (since last): 2026-06-26 17:50:14Z → 2026-06-27 09:13:36Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:09
-Telemetry age             : 00:00:09
-Δ time (since last report): 01:46:48
+Time since last play      : 00:02:09
+Telemetry age             : 00:02:09
+Δ time (since last report): 00:02:00
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 09:13:45Z → 2026-06-27 09:13:45Z
+Week window (UTC)         : 2026-06-20 09:15:44Z → 2026-06-27 09:15:44Z
 Total tracks played       : 50
 Dominant artist           : Seether
 Cadence classification    : HIGH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 09:13:45Z
+Report generated (UTC)    : 2026-06-27 09:15:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
