@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996
-Last played               : Alice In Chains — Brother - Live at the Majestic Theatre, Brooklyn, NY - April 1996
-Last played (UTC)         : 2026-06-27 22:30:50Z
+Now playing               : Alice In Chains — Down In A Hole - Live at the Majestic Theatre, Brooklyn, NY - April 1996
+Last played               : Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996
+Last played (UTC)         : 2026-06-27 22:35:28Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Tomahawk — God Hates a Coward → Alice In Chains — Brother - Live at the Majestic Theatre, Brooklyn, NY - April 1996
-Δ last played (since last): 2026-06-27 22:15:41Z → 2026-06-27 22:30:50Z
+Δ track (since last)      : Alice In Chains — Brother - Live at the Majestic Theatre, Brooklyn, NY - April 1996 → Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996
+Δ last played (since last): 2026-06-27 22:30:50Z → 2026-06-27 22:35:28Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:12
-Telemetry age             : 00:02:12
-Δ time (since last report): 00:11:01
+Time since last play      : 00:02:02
+Telemetry age             : 00:02:02
+Δ time (since last report): 00:04:29
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,14 +1513,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 39
+Tracks played (last 24h)  : 40
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 22:33:01Z → 2026-06-27 22:33:01Z
+Week window (UTC)         : 2026-06-20 22:37:29Z → 2026-06-27 22:37:29Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1538,12 +1538,12 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 01:09:29
+Avg inter-play gap (7d)   : 01:09:33
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(27) | grunge(27) | funk rock(25) | rap metal(25) | downtempo(4) | trip hop(4)
-Top genres (7d)           : alternative metal(27) | grunge(27) | funk rock(25) | rap metal(25) | jazz(10) | jazz ballads(5)
+Top genres (24h)          : grunge(28) | alternative metal(27) | funk rock(25) | rap metal(25) | downtempo(4) | trip hop(4)
+Top genres (7d)           : grunge(28) | alternative metal(27) | funk rock(25) | rap metal(25) | jazz(9) | jazz ballads(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 22:33:01Z
+Report generated (UTC)    : 2026-06-27 22:37:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
