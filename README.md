@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Amy Cervini — Bye Bye Country Boy
-Last played               : Massive Attack, Elizabeth Fraser — Black Milk
-Last played (UTC)         : 2026-06-27 12:01:52Z
+Now playing               : Adam Nussbaum, A.G.N.Z. — My Maia
+Last played               : Terry Gibbs — Hey Jim - Live
+Last played (UTC)         : 2026-06-27 14:01:36Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Massive Attack, Horace Andy — Man Next Door → Massive Attack, Elizabeth Fraser — Black Milk
-Δ last played (since last): 2026-06-27 11:35:07Z → 2026-06-27 12:01:52Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Massive Attack, Elizabeth Fraser — Black Milk → Terry Gibbs — Hey Jim - Live
+Δ last played (since last): 2026-06-27 12:01:52Z → 2026-06-27 14:01:36Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:55:42
-Telemetry age             : 01:55:42
-Δ time (since last report): 01:06:37
+Time since last play      : 00:09:58
+Telemetry age             : 00:09:58
+Δ time (since last report): 00:14:01
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,14 +1513,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 37
+Tracks played (last 24h)  : 38
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 13:57:33Z → 2026-06-27 13:57:33Z
+Week window (UTC)         : 2026-06-20 14:11:34Z → 2026-06-27 14:11:34Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1530,21 +1530,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▃█▃▃▁    ▃          
-Heatmap (7d)              :    ▁▃█▃▅▁▃  ▂▃          
+Heatmap (24h)             :     ▃█▃▃▁ ▁  ▃          
+Heatmap (7d)              :    ▁▃█▃▅▁▃▁ ▂▃          
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 00:59:11
+Sessions (24h)            : 5
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 01:01:33
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(26) | funk rock(25) | grunge(25) | rap metal(25) | downtempo(4) | jazz(4)
-Top genres (7d)           : alternative metal(28) | funk rock(25) | grunge(25) | rap metal(25) | jazz(15) | downtempo(4)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(26) | funk rock(25) | grunge(25) | rap metal(25) | jazz(5) | downtempo(4)
+Top genres (7d)           : alternative metal(28) | funk rock(25) | grunge(25) | rap metal(25) | jazz(15) | cool jazz(4)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 13:57:33Z
+Report generated (UTC)    : 2026-06-27 14:11:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
