@@ -1495,13 +1495,13 @@ Last played               : Faith No More — Zombie Eaters
 Last played (UTC)         : 2026-06-27 10:03:46Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — I Started a Joke - Digging the Grave B-Side; 2016 Remaster → Faith No More — Zombie Eaters
-Δ last played (since last): 2026-06-27 09:57:45Z → 2026-06-27 10:03:46Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:14
-Telemetry age             : 00:00:14
-Δ time (since last report): 00:00:28
+Time since last play      : 00:01:19
+Telemetry age             : 00:01:19
+Δ time (since last report): 00:01:06
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 10:03:59Z → 2026-06-27 10:03:59Z
+Week window (UTC)         : 2026-06-20 10:05:05Z → 2026-06-27 10:05:05Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 10:03:59Z
+Report generated (UTC)    : 2026-06-27 10:05:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
