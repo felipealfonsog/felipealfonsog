@@ -1494,13 +1494,13 @@ Last played               : Backwater Township — Going Out West
 Last played (UTC)         : 2026-06-27 14:24:31Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Terry Gibbs — Hey Jim - Live → Backwater Township — Going Out West
-Δ last played (since last): 2026-06-27 14:01:36Z → 2026-06-27 14:24:31Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:23:26
-Telemetry age             : 01:23:26
-Δ time (since last report): 01:36:23
+Time since last play      : 01:24:18
+Telemetry age             : 01:24:18
+Δ time (since last report): 00:00:53
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 15:47:56Z → 2026-06-27 15:47:56Z
+Week window (UTC)         : 2026-06-20 15:48:48Z → 2026-06-27 15:48:48Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(26) | funk rock(25) | grunge(25) | rap metal(25) | jazz(5) | downtempo(4)
 Top genres (7d)           : alternative metal(28) | funk rock(25) | grunge(25) | rap metal(25) | jazz(12) | jazz ballads(5)
-Artist lookups (this run) : 7 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 15:47:56Z
+Report generated (UTC)    : 2026-06-27 15:48:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
