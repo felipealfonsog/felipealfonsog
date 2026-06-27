@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Massive Attack, Horace Andy — Angel
-Last played               : The Chemical Brothers — Hey Boy Hey Girl
-Last played (UTC)         : 2026-06-27 11:09:19Z
+Now playing               : Massive Attack, Sarah Jay Hawley — Dissolved Girl
+Last played               : Massive Attack, Horace Andy — Angel
+Last played (UTC)         : 2026-06-27 11:22:42Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Faith No More — Zombie Eaters → The Chemical Brothers — Hey Boy Hey Girl
-Δ last played (since last): 2026-06-27 10:03:46Z → 2026-06-27 11:09:19Z
+Δ track (since last)      : The Chemical Brothers — Hey Boy Hey Girl → Massive Attack, Horace Andy — Angel
+Δ last played (since last): 2026-06-27 11:09:19Z → 2026-06-27 11:22:42Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:10:58
-Telemetry age             : 00:10:58
-Δ time (since last report): 01:14:34
+Time since last play      : 00:01:30
+Telemetry age             : 00:01:30
+Δ time (since last report): 00:03:55
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,14 +1513,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 32
+Tracks played (last 24h)  : 33
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 11:20:17Z → 2026-06-27 11:20:17Z
+Week window (UTC)         : 2026-06-20 11:24:12Z → 2026-06-27 11:24:12Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1530,21 +1530,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▃█▃▁     ▃          
-Heatmap (7d)              :    ▁▃█▅▅ ▃  ▂▃          
+Heatmap (24h)             :     ▃█▃▂     ▃          
+Heatmap (7d)              :    ▁▃█▄▅ ▃  ▂▃          
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 00:59:56
+Avg inter-play gap (7d)   : 01:00:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(25) | funk rock(24) | grunge(24) | rap metal(24) | jazz(4) | alternative dance(2)
-Top genres (7d)           : alternative metal(29) | funk rock(24) | grunge(24) | rap metal(24) | jazz(18) | avant-garde(3)
-Artist lookups (this run) : 0 (cached)
+Top genres (7d)           : alternative metal(28) | funk rock(24) | grunge(24) | rap metal(24) | jazz(18) | avant-garde(3)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 11:20:17Z
+Report generated (UTC)    : 2026-06-27 11:24:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
