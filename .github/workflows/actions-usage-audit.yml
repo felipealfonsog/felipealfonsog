@@ -1,0 +1,41 @@
+name: Actions Usage Audit
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Start date, YYYY-MM-DD"
+        required: true
+        default: "2026-06-01"
+      until:
+        description: "End date, YYYY-MM-DD"
+        required: true
+        default: "2026-06-30"
+
+permissions:
+  actions: read
+  contents: read
+
+jobs:
+  audit:
+    name: Audit GitHub Actions usage
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run usage audit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/github_actions_usage_report.py \
+            --repo "${{ github.repository }}" \
+ NORMAL  actions-usage-audit.yml                                                                                          yaml  utf-8[unix]  2% ㏑:1/49☰℅ :1 
+"actions-usage-audit.yml" 49L, 1167B
