@@ -1,0 +1,56 @@
+name: Billing Usage Audit
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Year"
+        required: true
+        default: "2026"
+      month:
+        description: "Month"
+        required: true
+        default: "6"
+      username:
+        description: "GitHub username"
+        required: true
+        default: "felipealfonsog"
+      repository:
+        description: "Repository owner/name"
+        required: true
+        default: "felipealfonsog/felipealfonsog"
+
+permissions:
+  contents: read
+
+jobs:
+  billing-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run billing usage audit
+        env:
+          GH_BILLING_TOKEN: ${{ secrets.GH_BILLING_TOKEN }}
+        run: |
+          python scripts/github_billing_usage_audit.py \
+            --username "${{ inputs.username }}" \
+            --repository "${{ inputs.repository }}" \
+            --year "${{ inputs.year }}" \
+            --month "${{ inputs.month }}" \
+            --out-dir billing-usage-report
+
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: billing-usage-report
+          path: billing-usage-report/
+          retention-days: 14
