@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Radiohead — Everything In Its Right Place
+Now playing               : Radiohead — High and Dry
 Last played               : Staind — Raining Again
 Last played (UTC)         : 2026-06-27 23:11:10Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Alice In Chains — Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996 → Staind — Raining Again
-Δ last played (since last): 2026-06-27 22:35:28Z → 2026-06-27 23:11:10Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:55
-Telemetry age             : 00:03:55
-Δ time (since last report): 00:09:45
+Time since last play      : 00:18:05
+Telemetry age             : 00:18:05
+Δ time (since last report): 00:14:11
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-20 23:15:04Z → 2026-06-27 23:15:04Z
+Week window (UTC)         : 2026-06-20 23:29:14Z → 2026-06-27 23:29:14Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-27 23:15:04Z
+Report generated (UTC)    : 2026-06-27 23:29:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
