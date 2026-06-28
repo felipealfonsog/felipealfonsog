@@ -1478,49 +1478,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Seether, Amy Lee — Broken
-Last played               : All Them Witches — Blood And Sand / Milk And Endless Waters - Live
-Last played (UTC)         : 2026-06-28 00:22:06Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Seether, Amy Lee — Broken
+Last played (UTC)         : 2026-06-28 00:38:40Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Radiohead — Fake Plastic Trees → All Them Witches — Blood And Sand / Milk And Endless Waters - Live
-Δ last played (since last): 2026-06-27 23:36:06Z → 2026-06-28 00:22:06Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : All Them Witches — Blood And Sand / Milk And Endless Waters - Live → Seether, Amy Lee — Broken
+Δ last played (since last): 2026-06-28 00:22:06Z → 2026-06-28 00:38:40Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:12:53
-Telemetry age             : 00:12:53
-Δ time (since last report): 00:24:13
+Time since last play      : 00:46:41
+Telemetry age             : 00:46:41
+Δ time (since last report): 00:50:23
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 45
+Tracks played (last 24h)  : 46
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-21 00:34:58Z → 2026-06-28 00:34:58Z
+Week window (UTC)         : 2026-06-21 01:25:21Z → 2026-06-28 01:25:21Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1530,20 +1529,20 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂▂▁   
-Heatmap (7d)              :     ▃█▃▃▁ ▂  ▃    ▂▂▁   
+Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂▂▂   
+Heatmap (7d)              :     ▃█▃▃▁ ▂  ▂    ▂▂▂   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 7
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 00:37:36
+Avg inter-play gap (7d)   : 00:37:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | downtempo(4) | post-grunge(4)
-Top genres (7d)           : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | downtempo(4)
+Top genres (24h)          : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | post-grunge(5) | downtempo(4)
+Top genres (7d)           : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | post-grunge(5)
 Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1552,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-28 00:34:58Z
+Report generated (UTC)    : 2026-06-28 01:25:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
