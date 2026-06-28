@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : All Them Witches — Blood And Sand / Milk And Endless Waters - Live
-Last played               : Radiohead — Fake Plastic Trees
-Last played (UTC)         : 2026-06-27 23:36:06Z
+Now playing               : Seether, Amy Lee — Broken
+Last played               : All Them Witches — Blood And Sand / Milk And Endless Waters - Live
+Last played (UTC)         : 2026-06-28 00:22:06Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Radiohead — Fake Plastic Trees → All Them Witches — Blood And Sand / Milk And Endless Waters - Live
+Δ last played (since last): 2026-06-27 23:36:06Z → 2026-06-28 00:22:06Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:34:40
-Telemetry age             : 00:34:40
-Δ time (since last report): 00:10:37
+Time since last play      : 00:12:53
+Telemetry age             : 00:12:53
+Δ time (since last report): 00:24:13
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,14 +1513,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 43
+Tracks played (last 24h)  : 45
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-21 00:10:46Z → 2026-06-28 00:10:46Z
+Week window (UTC)         : 2026-06-21 00:34:58Z → 2026-06-28 00:34:58Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1530,21 +1530,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂▂    
-Heatmap (7d)              :    ▁▃█▃▃▁ ▂ ▁▃    ▂▂    
+Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂▂▁   
+Heatmap (7d)              :     ▃█▃▃▁ ▂  ▃    ▂▂▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 6
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 01:07:15
+Sessions (24h)            : 7
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 00:37:36
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | downtempo(4) | post-grunge(4)
-Top genres (7d)           : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | jazz(6) | downtempo(4)
-Artist lookups (this run) : 0 (cached)
+Top genres (7d)           : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | downtempo(4)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-28 00:10:46Z
+Report generated (UTC)    : 2026-06-28 00:34:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
