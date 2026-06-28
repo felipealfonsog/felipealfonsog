@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-27_0041Z
+ snapshot_utc : 2026-06-28_0042Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -525,7 +525,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-26T21:36:18+00:00 | last_update=2026-06-26T21:36:18+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-27T21:30:33+00:00 | last_update=2026-06-27T21:30:33+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -695,13 +695,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 224 ms
-TTFB................ 223 ms
+LATENCY............. 219 ms
+TTFB................ 217 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 68d
+TLS_EXPIRY.......... 67d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -730,7 +730,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 45 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-26T18:47:01Z
+LAST_PROBE_UTC...... 2026-06-27T21:29:49Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -770,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437614
-longitude      : -70.646834
-altitude       : 16 m
-gps_accuracy   : ±6.4 m
-heading        : 340°
-speed          : 4.4 km/h
-status         : in_transit
+location       : transit_corridor
+latitude       : -33.447035
+longitude      : -70.661784
+altitude       : 63 m
+gps_accuracy   : ±6.0 m
+heading        : 237°
+speed          : 0.7 km/h
+status         : stationary
 phase          : evening
-local_time     : 20:23
+local_time     : 20:21
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-06-27 00:23:18 UTC
+signal         : nominal
+updated_utc    : 2026-06-28 00:21:27 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-26 19:00:45Z
+DSN snapshot (UTC)       : 2026-06-27 21:43:27Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.46e9 km | 170.190 AU
-Heliocentric distance    : 170.979 AU
-Relative speed           : 36.473 km/s
+Earth distance           : 25.46e9 km | 170.206 AU
+Heliocentric distance    : 170.990 AU
+Relative speed           : 36.672 km/s
 ------------------------------------------------------------
-One-way light time       : 23:35:26
-Round-trip latency       : 47:10:51
+One-way light time       : 23:35:34
+Round-trip latency       : 47:11:07
 ------------------------------------------------------------
-Δ distance (since last)  : +1.233e6 km
-Mission age              : 48 years, 306 days
+Δ distance (since last)  : +786,892 km
+Mission age              : 48 years, 307 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.485 AU
-Heliocentric distance    : 143.250 AU
-Relative speed           : 29.837 km/s
+Earth distance           : 21.32e9 km | 142.491 AU
+Heliocentric distance    : 143.259 AU
+Relative speed           : 30.013 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:01
-Round-trip latency       : 39:30:02
+One-way light time       : 19:45:04
+Round-trip latency       : 39:30:08
 ------------------------------------------------------------
-Δ distance (since last)  : +438,046 km
-Mission age              : 48 years, 322 days
+Δ distance (since last)  : +288,786 km
+Mission age              : 48 years, 323 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-26 19:00:48Z
+Report generated (UTC)   : 2026-06-27 21:43:29Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1485,72 +1485,73 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Jerome Sabbagh — Every Now and Then
-Last played (UTC)         : 2026-06-26 17:50:14Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Seether, Amy Lee — Broken
+Last played               : All Them Witches — Blood And Sand / Milk And Endless Waters - Live
+Last played (UTC)         : 2026-06-28 00:22:06Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Radiohead — Fake Plastic Trees → All Them Witches — Blood And Sand / Milk And Endless Waters - Live
+Δ last played (since last): 2026-06-27 23:36:06Z → 2026-06-28 00:22:06Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:59:06
-Telemetry age             : 03:59:06
-Δ time (since last report): 00:00:21
+Time since last play      : 00:12:53
+Telemetry age             : 00:12:53
+Δ time (since last report): 00:24:13
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
-Dominant artist           : Mark Buselli
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 45
+Dominant artist           : Faith No More
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-19 21:49:20Z → 2026-06-26 21:49:20Z
+Week window (UTC)         : 2026-06-21 00:34:58Z → 2026-06-28 00:34:58Z
 Total tracks played       : 50
-Dominant artist           : Seether
+Dominant artist           : Faith No More
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 13:00
+Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :    ▂         █          
-Heatmap (7d)              :      █▂▃ ▄▃ ▂▂          
+Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂▂▁   
+Heatmap (7d)              :     ▃█▃▃▁ ▂  ▃    ▂▂▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 7
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:03:52
+Avg inter-play gap (7d)   : 00:37:36
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(4) | big band(2) | soul jazz(2) | cool jazz(1) | hard bop(1) | jazz funk(1)
-Top genres (7d)           : alternative metal(27) | post-grunge(25) | rock(25) | jazz(18) | cool jazz(3) | hard bop(3)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | downtempo(4) | post-grunge(4)
+Top genres (7d)           : alternative metal(28) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | downtempo(4)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1558,7 +1559,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-26 21:49:20Z
+Report generated (UTC)    : 2026-06-28 00:34:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1916,7 +1917,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 26 June 2026
+From: 04 December 2023 - To: 27 June 2026
 
 Total Time       : 1,037 hrs 17 mins
 Mostly coding in : Other
@@ -1968,7 +1969,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 26/06/2026 22:33:20 UTC
+Last updated     : 27/06/2026 22:29:04 UTC
 
 ```
 <!--END_SECTION:wakastats-->
