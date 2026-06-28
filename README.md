@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:36:22
-Telemetry age             : 09:36:22
-Δ time (since last report): 00:00:52
+Time since last play      : 12:11:19
+Telemetry age             : 12:11:19
+Δ time (since last report): 02:34:58
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
-Dominant artist           : Massive Attack
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 15
+Dominant artist           : Alice In Chains
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-21 10:15:01Z → 2026-06-28 10:15:01Z
+Week window (UTC)         : 2026-06-21 12:49:59Z → 2026-06-28 12:49:59Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1527,21 +1527,21 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :       ▄█▁ ▇       ▅▄▄   
+Heatmap (24h)             :           █       ▆▅▅   
 Heatmap (7d)              :     ▃█▃▃▁ ▃  ▂    ▂▂▂   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 7
+Sessions (24h)            : 4
 Sessions (7d)             : 8
 Avg inter-play gap (7d)   : 00:37:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(7) | grunge(7) | post-grunge(5) | downtempo(4) | funk rock(4) | rap metal(4)
+Top genres (24h)          : post-grunge(5) | alternative metal(3) | grunge(3) | jazz ballads(3) | alternative rock(2) | art rock(2)
 Top genres (7d)           : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | post-grunge(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-28 10:15:01Z
+Report generated (UTC)    : 2026-06-28 12:49:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
