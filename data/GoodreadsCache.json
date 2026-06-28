@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-06-28T15:34:29+00:00",
-    "last_successful_sync": "2026-06-28T15:34:29+00:00",
+    "last_attempted_sync": "2026-06-28T18:35:45+00:00",
+    "last_successful_sync": "2026-06-28T18:35:45+00:00",
     "error_message": ""
   },
   "sections": {
@@ -147,7 +147,7 @@
           "author": "Seneca",
           "link": "https://www.goodreads.com/review/show/8701258617?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681503946l/131830655._SY75_.jpg",
-          "summary": "author: Seneca name: Felipe Alfonso average rating: 3.81 book published: rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
+          "summary": "author: Seneca name: Felipe Alfonso average rating: 3.82 book published: rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8701258617?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 20 Jun 2026 01:54:33 -0700"
         },
@@ -183,7 +183,7 @@
           "author": "Vicente Hernández Pedrero",
           "link": "https://www.goodreads.com/review/show/8635882401?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610231781l/2909046._SY75_.jpg",
-          "summary": "author: Vicente Hernández Pedrero name: Felipe Alfonso average rating: 3.75 book published: rating: 5 read at: date added: 2026/05/27 shelves: currently-reading review:",
+          "summary": "author: Vicente Hernández Pedrero name: Felipe Alfonso average rating: 3.80 book published: rating: 5 read at: date added: 2026/05/27 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8635882401?utm_medium=api&utm_source=rss",
           "pub_date": "Wed, 27 May 2026 07:36:22 -0700"
         },
