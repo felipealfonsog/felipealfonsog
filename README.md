@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:47:32
-Telemetry age             : 00:47:32
-Δ time (since last report): 00:00:51
+Time since last play      : 04:14:54
+Telemetry age             : 04:14:54
+Δ time (since last report): 03:27:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 46
+Tracks played (last 24h)  : 47
 Dominant artist           : Faith No More
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-21 01:26:11Z → 2026-06-28 01:26:11Z
+Week window (UTC)         : 2026-06-21 04:53:33Z → 2026-06-28 04:53:33Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1529,8 +1529,8 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▃█▃▃▁ ▂       ▂▂▂   
-Heatmap (7d)              :     ▃█▃▃▁ ▂  ▂    ▂▂▂   
+Heatmap (24h)             :     ▃█▃▃▁ ▃       ▂▂▂   
+Heatmap (7d)              :     ▃█▃▃▁ ▃  ▂    ▂▂▂   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | post-grunge(5) | downtempo(4)
 Top genres (7d)           : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | post-grunge(5)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-28 01:26:11Z
+Report generated (UTC)    : 2026-06-28 04:53:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
