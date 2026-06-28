@@ -1494,13 +1494,13 @@ Last played               : Seether, Amy Lee — Broken
 Last played (UTC)         : 2026-06-28 00:38:40Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : All Them Witches — Blood And Sand / Milk And Endless Waters - Live → Seether, Amy Lee — Broken
-Δ last played (since last): 2026-06-28 00:22:06Z → 2026-06-28 00:38:40Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:46:41
-Telemetry age             : 00:46:41
-Δ time (since last report): 00:50:23
+Time since last play      : 00:47:32
+Telemetry age             : 00:47:32
+Δ time (since last report): 00:00:51
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-21 01:25:21Z → 2026-06-28 01:25:21Z
+Week window (UTC)         : 2026-06-21 01:26:11Z → 2026-06-28 01:26:11Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | post-grunge(5) | downtempo(4)
 Top genres (7d)           : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | post-grunge(5)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-28 01:25:21Z
+Report generated (UTC)    : 2026-06-28 01:26:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
