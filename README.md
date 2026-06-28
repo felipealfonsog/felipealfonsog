@@ -1490,7 +1490,7 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : All Them Witches — Blood And Sand / Milk And Endless Waters
+Now playing               : All Them Witches — Blood And Sand / Milk And Endless Waters - Live
 Last played               : Radiohead — Fake Plastic Trees
 Last played (UTC)         : 2026-06-27 23:36:06Z
 Last activity type        : PLAYBACK_ACTIVE
@@ -1499,9 +1499,9 @@ Last activity type        : PLAYBACK_ACTIVE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:24:04
-Telemetry age             : 00:24:04
-Δ time (since last report): 00:05:55
+Time since last play      : 00:34:40
+Telemetry age             : 00:34:40
+Δ time (since last report): 00:10:37
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-21 00:00:09Z → 2026-06-28 00:00:09Z
+Week window (UTC)         : 2026-06-21 00:10:46Z → 2026-06-28 00:10:46Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-28 00:00:09Z
+Report generated (UTC)    : 2026-06-28 00:10:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
