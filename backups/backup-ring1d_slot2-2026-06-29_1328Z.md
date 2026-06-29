@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-06-28_1229Z
+ snapshot_utc : 2026-06-29_1328Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -525,7 +525,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-06-28T10:05:37+00:00 | last_update=2026-06-28T10:05:37+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-06-29T10:44:40+00:00 | last_update=2026-06-29T10:44:40+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -695,13 +695,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 190 ms
-TTFB................ 189 ms
+LATENCY............. 92 ms
+TTFB................ 91 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 66d
+TLS_EXPIRY.......... 65d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -730,7 +730,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 45 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-06-28T10:04:32Z
+LAST_PROBE_UTC...... 2026-06-29T10:43:48Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -770,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446448
-longitude      : -70.661847
-altitude       : 15 m
-gps_accuracy   : ±4.0 m
-heading        : 81°
-speed          : 0.3 km/h
-status         : stationary
+location       : urban_sector
+latitude       : -33.444042
+longitude      : -70.650583
+altitude       : 66 m
+gps_accuracy   : ±8.3 m
+heading        : 23°
+speed          : 6.7 km/h
+status         : in_transit
 phase          : morning
-local_time     : 08:21
+local_time     : 09:18
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-06-28 12:21:17 UTC
+signal         : stable
+updated_utc    : 2026-06-29 13:18:47 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-06-28 10:15:12Z
+DSN snapshot (UTC)       : 2026-06-29 11:05:29Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.46e9 km | 170.213 AU
-Heliocentric distance    : 170.995 AU
-Relative speed           : 36.764 km/s
+Earth distance           : 25.47e9 km | 170.228 AU
+Heliocentric distance    : 171.005 AU
+Relative speed           : 36.947 km/s
 ------------------------------------------------------------
-One-way light time       : 23:35:37
-Round-trip latency       : 47:11:15
+One-way light time       : 23:35:45
+Round-trip latency       : 47:11:30
 ------------------------------------------------------------
-Δ distance (since last)  : +231,584 km
-Mission age              : 48 years, 308 days
+Δ distance (since last)  : +267,084 km
+Mission age              : 48 years, 309 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.494 AU
-Heliocentric distance    : 143.264 AU
-Relative speed           : 30.095 km/s
+Earth distance           : 21.32e9 km | 142.500 AU
+Heliocentric distance    : 143.273 AU
+Relative speed           : 30.259 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:05
-Round-trip latency       : 39:30:10
+One-way light time       : 19:45:08
+Round-trip latency       : 39:30:16
 ------------------------------------------------------------
-Δ distance (since last)  : +86,421 km
-Mission age              : 48 years, 324 days
+Δ distance (since last)  : +102,218 km
+Mission age              : 48 years, 325 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-06-28 10:15:17Z
+Report generated (UTC)   : 2026-06-29 11:05:30Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,9 +1505,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:36:22
-Telemetry age             : 09:36:22
-Δ time (since last report): 00:00:52
+Time since last play      : 34:26:21
+Telemetry age             : 34:26:21
+Δ time (since last report): 00:00:48
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,14 +1519,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
-Dominant artist           : Massive Attack
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-21 10:15:01Z → 2026-06-28 10:15:01Z
+Week window (UTC)         : 2026-06-22 11:05:01Z → 2026-06-29 11:05:01Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1534,21 +1534,21 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :       ▄█▁ ▇       ▅▄▄   
+Heatmap (24h)             : N/A
 Heatmap (7d)              :     ▃█▃▃▁ ▃  ▂    ▂▂▂   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 7
+Sessions (24h)            : N/A
 Sessions (7d)             : 8
 Avg inter-play gap (7d)   : 00:37:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(7) | grunge(7) | post-grunge(5) | downtempo(4) | funk rock(4) | rap metal(4)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | post-grunge(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1558,7 +1558,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-06-28 10:15:01Z
+Report generated (UTC)    : 2026-06-29 11:05:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1916,7 +1916,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 28 June 2026
+From: 04 December 2023 - To: 29 June 2026
 
 Total Time       : 1,037 hrs 54 mins
 Mostly coding in : Other
@@ -1968,7 +1968,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/06/2026 11:38:49 UTC
+Last updated     : 29/06/2026 11:47:20 UTC
 
 ```
 <!--END_SECTION:wakastats-->
