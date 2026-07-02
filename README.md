@@ -1494,13 +1494,13 @@ Last played               : Seether — Fine Again
 Last played (UTC)         : 2026-07-02 00:32:36Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Will Vinson — Perfectly Out of Place → Seether — Fine Again
-Δ last played (since last): 2026-07-02 00:26:53Z → 2026-07-02 00:32:36Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 21:56:02
-Telemetry age             : 21:56:02
-Δ time (since last report): 02:32:32
+Time since last play      : 21:57:16
+Telemetry age             : 21:57:16
+Δ time (since last report): 00:01:15
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-25 22:28:37Z → 2026-07-02 22:28:37Z
+Week window (UTC)         : 2026-06-25 22:29:51Z → 2026-07-02 22:29:51Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-02 22:28:37Z
+Report generated (UTC)    : 2026-07-02 22:29:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
