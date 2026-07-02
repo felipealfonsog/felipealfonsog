@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:10:37
-Telemetry age             : 09:10:37
-Δ time (since last report): 00:00:32
+Time since last play      : 14:03:30
+Telemetry age             : 14:03:30
+Δ time (since last report): 04:52:53
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-25 09:37:30Z → 2026-07-02 09:37:30Z
+Week window (UTC)         : 2026-06-25 14:30:22Z → 2026-07-02 14:30:22Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-02 09:37:30Z
+Report generated (UTC)    : 2026-07-02 14:30:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
