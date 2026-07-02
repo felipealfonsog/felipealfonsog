@@ -1494,13 +1494,13 @@ Last played               : Will Vinson — Perfectly Out of Place
 Last played (UTC)         : 2026-07-02 00:26:53Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Seether, Amy Lee — Broken → Will Vinson — Perfectly Out of Place
-Δ last played (since last): 2026-06-28 00:38:40Z → 2026-07-02 00:26:53Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:53:33
-Telemetry age             : 00:53:33
-Δ time (since last report): 03:26:25
+Time since last play      : 00:54:06
+Telemetry age             : 00:54:06
+Δ time (since last report): 00:00:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-25 01:20:26Z → 2026-07-02 01:20:26Z
+Week window (UTC)         : 2026-06-25 01:20:59Z → 2026-07-02 01:20:59Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(1)
 Top genres (7d)           : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | post-grunge(5)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-02 01:20:26Z
+Report generated (UTC)    : 2026-07-02 01:20:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
