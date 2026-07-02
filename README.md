@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Will Vinson — Perfectly Out of Place
-Last played (UTC)         : 2026-07-02 00:26:53Z
+Last played               : Seether — Fine Again
+Last played (UTC)         : 2026-07-02 00:32:36Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Will Vinson — Perfectly Out of Place → Seether — Fine Again
+Δ last played (since last): 2026-07-02 00:26:53Z → 2026-07-02 00:32:36Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 19:29:14
-Telemetry age             : 19:29:14
-Δ time (since last report): 00:02:18
+Time since last play      : 21:56:02
+Telemetry age             : 21:56:02
+Δ time (since last report): 02:32:32
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Will Vinson
+Tracks played (last 24h)  : 2
+Dominant artist           : Seether
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-25 19:56:06Z → 2026-07-02 19:56:06Z
+Week window (UTC)         : 2026-06-25 22:28:37Z → 2026-07-02 22:28:37Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1530,19 +1530,19 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 05:00
 Heatmap (24h)             :                     █   
-Heatmap (7d)              :     ▃█▃▃▁ ▃  ▁    ▂▂▂   
+Heatmap (7d)              :     ▃█▃▃▁ ▃  ▁    ▂▂▃   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:35:05
+Avg inter-play gap (7d)   : 02:35:09
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(1)
-Top genres (7d)           : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | post-grunge(5)
+Top genres (24h)          : alternative metal(1) | jazz(1) | post-grunge(1) | rock(1)
+Top genres (7d)           : alternative metal(30) | grunge(28) | funk rock(25) | rap metal(25) | post-grunge(6) | downtempo(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-02 19:56:06Z
+Report generated (UTC)    : 2026-07-02 22:28:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
