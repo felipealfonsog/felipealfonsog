@@ -1494,13 +1494,13 @@ Last played               : Massimo Faraò, Emanuele Cisi, Nicola Barbon, Robert
 Last played (UTC)         : 2026-07-03 03:41:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Seether — Fine Again → Massimo Faraò, Emanuele Cisi, Nicola Barbon, Roberto Bobo Facchinetti — Hope #2
-Δ last played (since last): 2026-07-02 00:32:36Z → 2026-07-03 03:41:07Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:30:01
-Telemetry age             : 00:30:01
-Δ time (since last report): 05:40:33
+Time since last play      : 00:31:06
+Telemetry age             : 00:31:06
+Δ time (since last report): 00:01:06
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-26 04:11:07Z → 2026-07-03 04:11:07Z
+Week window (UTC)         : 2026-06-26 04:12:13Z → 2026-07-03 04:12:13Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(3) | jazz ballads(1)
 Top genres (7d)           : alternative metal(30) | grunge(28) | funk rock(25) | rap metal(25) | post-grunge(6) | jazz(5)
-Artist lookups (this run) : 4 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-03 04:11:07Z
+Report generated (UTC)    : 2026-07-03 04:12:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
