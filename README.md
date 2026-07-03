@@ -1494,13 +1494,13 @@ Last played               : Tomahawk — God Hates a Coward
 Last played (UTC)         : 2026-07-03 07:02:34Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Massimo Faraò, Emanuele Cisi, Nicola Barbon, Roberto Bobo Facchinetti — Hope #2 → Tomahawk — God Hates a Coward
-Δ last played (since last): 2026-07-03 03:41:07Z → 2026-07-03 07:02:34Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:33:59
-Telemetry age             : 02:33:59
-Δ time (since last report): 05:23:45
+Time since last play      : 02:34:55
+Telemetry age             : 02:34:55
+Δ time (since last report): 00:00:57
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-26 09:36:32Z → 2026-07-03 09:36:32Z
+Week window (UTC)         : 2026-06-26 09:37:28Z → 2026-07-03 09:37:28Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-03 09:36:32Z
+Report generated (UTC)    : 2026-07-03 09:37:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
