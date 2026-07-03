@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Massimo Faraò, Emanuele Cisi, Nicola Barbon, Roberto Bobo Facchinetti — Hope #2
-Last played (UTC)         : 2026-07-03 03:41:07Z
+Last played               : Tomahawk — God Hates a Coward
+Last played (UTC)         : 2026-07-03 07:02:34Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Massimo Faraò, Emanuele Cisi, Nicola Barbon, Roberto Bobo Facchinetti — Hope #2 → Tomahawk — God Hates a Coward
+Δ last played (since last): 2026-07-03 03:41:07Z → 2026-07-03 07:02:34Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:31:41
-Telemetry age             : 00:31:41
-Δ time (since last report): 00:00:35
+Time since last play      : 02:33:59
+Telemetry age             : 02:33:59
+Δ time (since last report): 05:23:45
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Massimo Faraò
+Tracks played (last 24h)  : 2
+Dominant artist           : Tomahawk
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-26 04:12:48Z → 2026-07-03 04:12:48Z
+Week window (UTC)         : 2026-06-26 09:36:32Z → 2026-07-03 09:36:32Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1527,22 +1527,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 23:00
+Peak hour (24h)           : 03:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :                        █
-Heatmap (7d)              :     ▃█▃▃▁ ▃       ▂▂▃  ▁
+Heatmap (24h)             :    █                   █
+Heatmap (7d)              :    ▁▂█▃▃▁ ▃       ▂▂▃  ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:50:19
+Sessions (24h)            : 2
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 02:54:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(3) | jazz ballads(1)
-Top genres (7d)           : alternative metal(30) | grunge(28) | funk rock(25) | rap metal(25) | post-grunge(6) | jazz(5)
+Top genres (24h)          : jazz(3) | alternative metal(1) | avant-garde(1) | jazz ballads(1) | noise rock(1)
+Top genres (7d)           : alternative metal(30) | grunge(27) | funk rock(24) | rap metal(24) | post-grunge(6) | jazz(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-03 04:12:48Z
+Report generated (UTC)    : 2026-07-03 09:36:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
