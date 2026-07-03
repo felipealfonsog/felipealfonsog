@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-07-02_0042Z
+ snapshot_utc : 2026-07-03_0231Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -525,7 +525,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-01T21:38:23+00:00 | last_update=2026-07-01T21:38:23+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-02T16:56:45+00:00 | last_update=2026-07-02T16:56:45+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -695,13 +695,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 330 ms
-TTFB................ 329 ms
+LATENCY............. 242 ms
+TTFB................ 241 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 63d
+TLS_EXPIRY.......... 62d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -730,7 +730,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 45 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-01T18:49:24Z
+LAST_PROBE_UTC...... 2026-07-02T22:13:37Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -770,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444631
-longitude      : -70.650241
-altitude       : 156 m
-gps_accuracy   : ±6.6 m
-heading        : 84°
-speed          : 4.2 km/h
-status         : in_transit
+location       : transit_corridor
+latitude       : -33.446355
+longitude      : -70.662174
+altitude       : 144 m
+gps_accuracy   : ±5.0 m
+heading        : 353°
+speed          : 0.8 km/h
+status         : stationary
 phase          : evening
-local_time     : 20:23
+local_time     : 21:29
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-07-02 00:23:41 UTC
+updated_utc    : 2026-07-03 01:29:26 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-01 19:04:23Z
+DSN snapshot (UTC)       : 2026-07-02 22:30:59Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.47e9 km | 170.263 AU
-Heliocentric distance    : 171.028 AU
-Relative speed           : 37.354 km/s
+Earth distance           : 25.47e9 km | 170.281 AU
+Heliocentric distance    : 171.039 AU
+Relative speed           : 37.551 km/s
 ------------------------------------------------------------
-One-way light time       : 23:36:02
-Round-trip latency       : 47:12:04
+One-way light time       : 23:36:11
+Round-trip latency       : 47:12:22
 ------------------------------------------------------------
-Δ distance (since last)  : +542,818 km
-Mission age              : 48 years, 311 days
+Δ distance (since last)  : +247,357 km
+Mission age              : 48 years, 312 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.32e9 km | 142.513 AU
-Heliocentric distance    : 143.293 AU
-Relative speed           : 30.631 km/s
+Earth distance           : 21.32e9 km | 142.520 AU
+Heliocentric distance    : 143.303 AU
+Relative speed           : 30.814 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:15
-Round-trip latency       : 39:30:30
+One-way light time       : 19:45:18
+Round-trip latency       : 39:30:37
 ------------------------------------------------------------
-Δ distance (since last)  : +218,844 km
-Mission age              : 48 years, 327 days
+Δ distance (since last)  : +102,329 km
+Mission age              : 48 years, 328 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-01 19:04:25Z
+Report generated (UTC)   : 2026-07-02 22:31:02Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1497,17 +1497,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Seether, Amy Lee — Broken
-Last played (UTC)         : 2026-06-28 00:38:40Z
+Last played               : Seether — Fine Again
+Last played (UTC)         : 2026-07-02 00:32:36Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 93:15:22
-Telemetry age             : 93:15:22
-Δ time (since last report): 00:00:41
+Time since last play      : 21:58:00
+Telemetry age             : 21:58:00
+Δ time (since last report): 00:00:45
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,14 +1519,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 2
+Dominant artist           : Seether
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-24 21:54:01Z → 2026-07-01 21:54:01Z
+Week window (UTC)         : 2026-06-25 22:30:35Z → 2026-07-02 22:30:35Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1534,22 +1534,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▃█▃▃▁ ▃  ▂    ▂▂▂   
+Heatmap (24h)             :                     █   
+Heatmap (7d)              :     ▃█▃▃▁ ▃  ▁    ▂▂▃   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 00:37:53
+Sessions (24h)            : 1
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 02:35:09
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(29) | grunge(28) | funk rock(25) | rap metal(25) | jazz(5) | post-grunge(5)
+Top genres (24h)          : alternative metal(1) | jazz(1) | post-grunge(1) | rock(1)
+Top genres (7d)           : alternative metal(30) | grunge(28) | funk rock(25) | rap metal(25) | post-grunge(6) | downtempo(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1558,7 +1558,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-01 21:54:01Z
+Report generated (UTC)    : 2026-07-02 22:30:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1916,9 +1916,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 01 July 2026
+From: 04 December 2023 - To: 02 July 2026
 
-Total Time       : 1,038 hrs 5 mins
+Total Time       : 1,038 hrs 8 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 6 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1927,10 +1927,10 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          636 hrs 25 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.31 %
+Other          636 hrs 44 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.33 %
 Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.02 %
 Python         140 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.56 %
-HTML           136 hrs 40 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
+HTML           136 hrs 44 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
 PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.51 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.78 %
 C              73 hrs 43 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.10 %
@@ -1940,35 +1940,35 @@ YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            966 hrs 30 mins ●●●●●●●●●●●●●●●●●●●●●●●●○○  93.10 %
+Mac            966 hrs 53 mins ●●●●●●●●●●●●●●●●●●●●●●●●○○  93.14 %
 Linux          707 hrs 59 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.20 %
 
 EDITORS - APPS
 --------------
 VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.33 %
-Firefox        506 hrs 43 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.81 %
+Firefox        507 hrs 3 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.84 %
 Vim            337 hrs 21 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.50 %
-Terminal       38 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
+Terminal       38 hrs 44 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
 Spotify        25 hrs 22 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.44 %
 Dia            15 hrs 59 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.54 %
 Acrobat        13 hrs 50 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
 ‎WhatsApp      13 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.30 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Termius        9 hrs 56 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
+Termius        9 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
 FileZilla      8 hrs 39 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.83 %
 Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
 
 CATEGORIES
 ----------
-Coding         1,142 hrs 52 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       503 hrs 35 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.51 %
+Coding         1,142 hrs 55 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       503 hrs 54 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  48.54 %
 Meeting        22 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.14 %
 Writing Docs   5 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.56 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 01/07/2026 22:36:07 UTC
+Last updated     : 02/07/2026 22:14:07 UTC
 
 ```
 <!--END_SECTION:wakastats-->
