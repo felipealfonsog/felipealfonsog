@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Seether — Fine Again
-Last played (UTC)         : 2026-07-02 00:32:36Z
+Last played               : Massimo Faraò, Emanuele Cisi, Nicola Barbon, Roberto Bobo Facchinetti — Hope #2
+Last played (UTC)         : 2026-07-03 03:41:07Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Seether — Fine Again → Massimo Faraò, Emanuele Cisi, Nicola Barbon, Roberto Bobo Facchinetti — Hope #2
+Δ last played (since last): 2026-07-02 00:32:36Z → 2026-07-03 03:41:07Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 21:58:00
-Telemetry age             : 21:58:00
-Δ time (since last report): 00:00:45
+Time since last play      : 00:30:01
+Telemetry age             : 00:30:01
+Δ time (since last report): 05:40:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : Seether
+Tracks played (last 24h)  : 1
+Dominant artist           : Massimo Faraò
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-25 22:30:35Z → 2026-07-02 22:30:35Z
+Week window (UTC)         : 2026-06-26 04:11:07Z → 2026-07-03 04:11:07Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1527,23 +1527,23 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 23:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :                     █   
-Heatmap (7d)              :     ▃█▃▃▁ ▃  ▁    ▂▂▃   
+Heatmap (24h)             :                        █
+Heatmap (7d)              :     ▃█▃▃▁ ▃       ▂▂▃  ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 9
-Avg inter-play gap (7d)   : 02:35:09
+Avg inter-play gap (7d)   : 02:50:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | jazz(1) | post-grunge(1) | rock(1)
-Top genres (7d)           : alternative metal(30) | grunge(28) | funk rock(25) | rap metal(25) | post-grunge(6) | downtempo(4)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(3) | jazz ballads(1)
+Top genres (7d)           : alternative metal(30) | grunge(28) | funk rock(25) | rap metal(25) | post-grunge(6) | jazz(5)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-02 22:30:35Z
+Report generated (UTC)    : 2026-07-03 04:11:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
