@@ -1494,13 +1494,13 @@ Last played               : The Ebbing Tides — You Know Its Me
 Last played (UTC)         : 2026-07-04 16:52:13Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tomahawk — God Hates a Coward → The Ebbing Tides — You Know Its Me
-Δ last played (since last): 2026-07-03 07:02:34Z → 2026-07-04 16:52:13Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:47:08
-Telemetry age             : 02:47:08
-Δ time (since last report): 03:10:40
+Time since last play      : 02:48:07
+Telemetry age             : 02:48:07
+Δ time (since last report): 00:01:00
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-27 19:39:20Z → 2026-07-04 19:39:20Z
+Week window (UTC)         : 2026-06-27 19:40:20Z → 2026-07-04 19:40:20Z
 Total tracks played       : 15
 Dominant artist           : Alice In Chains
 Cadence classification    : MEDIUM
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(1)
 Top genres (7d)           : post-grunge(6) | alternative metal(5) | jazz(5) | grunge(3) | alternative rock(2) | art rock(2)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-04 19:39:20Z
+Report generated (UTC)    : 2026-07-04 19:40:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
