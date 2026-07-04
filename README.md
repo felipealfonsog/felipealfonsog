@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Tomahawk — God Hates a Coward
-Last played (UTC)         : 2026-07-03 07:02:34Z
+Last played               : The Ebbing Tides — You Know Its Me
+Last played (UTC)         : 2026-07-04 16:52:13Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Tomahawk — God Hates a Coward → The Ebbing Tides — You Know Its Me
+Δ last played (since last): 2026-07-03 07:02:34Z → 2026-07-04 16:52:13Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 33:26:08
-Telemetry age             : 33:26:08
-Δ time (since last report): 00:10:01
+Time since last play      : 02:47:08
+Telemetry age             : 02:47:08
+Δ time (since last report): 03:10:40
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,38 +1512,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : The Ebbing Tides
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-27 16:28:41Z → 2026-07-04 16:28:41Z
-Total tracks played       : 14
+Week window (UTC)         : 2026-06-27 19:39:20Z → 2026-07-04 19:39:20Z
+Total tracks played       : 15
 Dominant artist           : Alice In Chains
-Cadence classification    : LOW
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 12:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :    ▂              ▆▅█  ▂
+Heatmap (24h)             :             █           
+Heatmap (7d)              :    ▂        ▂     ▆▅█  ▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 09:54:23
+Sessions (24h)            : 1
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 11:36:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : post-grunge(6) | alternative metal(5) | jazz(4) | grunge(3) | alternative rock(2) | art rock(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(1)
+Top genres (7d)           : post-grunge(6) | alternative metal(5) | jazz(5) | grunge(3) | alternative rock(2) | art rock(2)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-04 16:28:41Z
+Report generated (UTC)    : 2026-07-04 19:39:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
