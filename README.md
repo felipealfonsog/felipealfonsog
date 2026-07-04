@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 27:59:07
-Telemetry age             : 27:59:07
-Δ time (since last report): 00:00:21
+Time since last play      : 27:59:46
+Telemetry age             : 27:59:46
+Δ time (since last report): 00:00:40
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-27 11:01:40Z → 2026-07-04 11:01:40Z
+Week window (UTC)         : 2026-06-27 11:02:20Z → 2026-07-04 11:02:20Z
 Total tracks played       : 26
 Dominant artist           : Massive Attack
 Cadence classification    : MEDIUM
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-04 11:01:40Z
+Report generated (UTC)    : 2026-07-04 11:02:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
