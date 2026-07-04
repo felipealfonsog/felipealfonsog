@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 15:25:58
-Telemetry age             : 15:25:58
-Δ time (since last report): 00:00:41
+Time since last play      : 21:01:46
+Telemetry age             : 21:01:46
+Δ time (since last report): 05:35:49
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 1
 Dominant artist           : Tomahawk
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-26 22:28:31Z → 2026-07-03 22:28:31Z
+Week window (UTC)         : 2026-06-27 04:04:19Z → 2026-07-04 04:04:19Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1529,19 +1529,19 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :    █                   █
+Heatmap (24h)             :    █                    
 Heatmap (7d)              :    ▁▂█▃▃▁ ▃       ▂▂▃  ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 10
 Avg inter-play gap (7d)   : 02:54:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(3) | alternative metal(1) | avant-garde(1) | jazz ballads(1) | noise rock(1)
+Top genres (24h)          : alternative metal(1) | avant-garde(1) | noise rock(1)
 Top genres (7d)           : alternative metal(30) | grunge(27) | funk rock(24) | rap metal(24) | post-grunge(6) | jazz(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-03 22:28:31Z
+Report generated (UTC)    : 2026-07-04 04:04:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
