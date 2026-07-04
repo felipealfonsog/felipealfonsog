@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:20:54
-Telemetry age             : 05:20:54
-Δ time (since last report): 02:32:23
+Time since last play      : 05:21:38
+Telemetry age             : 05:21:38
+Δ time (since last report): 00:00:45
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-27 22:13:06Z → 2026-07-04 22:13:06Z
+Week window (UTC)         : 2026-06-27 22:13:51Z → 2026-07-04 22:13:51Z
 Total tracks played       : 15
 Dominant artist           : Alice In Chains
 Cadence classification    : MEDIUM
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-04 22:13:06Z
+Report generated (UTC)    : 2026-07-04 22:13:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
