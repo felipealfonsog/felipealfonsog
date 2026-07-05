@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 11:41:56
-Telemetry age             : 11:41:56
-Δ time (since last report): 00:02:24
+Time since last play      : 11:42:27
+Telemetry age             : 11:42:27
+Δ time (since last report): 00:00:31
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-28 04:34:09Z → 2026-07-05 04:34:09Z
+Week window (UTC)         : 2026-06-28 04:34:40Z → 2026-07-05 04:34:40Z
 Total tracks played       : 5
 Dominant artist           : The Ebbing Tides
 Cadence classification    : LOW
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-05 04:34:09Z
+Report generated (UTC)    : 2026-07-05 04:34:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
