@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:07:11
-Telemetry age             : 09:07:11
-Δ time (since last report): 00:00:22
+Time since last play      : 12:21:05
+Telemetry age             : 12:21:05
+Δ time (since last report): 03:13:54
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 1
 Dominant artist           : James Jackson Jazz Trio
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-28 16:29:59Z → 2026-07-05 16:29:59Z
+Week window (UTC)         : 2026-06-28 19:43:52Z → 2026-07-05 19:43:52Z
 Total tracks played       : 6
 Dominant artist           : James Jackson Jazz Trio
 Cadence classification    : LOW
@@ -1529,19 +1529,19 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :    █        █           
+Heatmap (24h)             :    █                    
 Heatmap (7d)              :    █        ▄       █  ▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 5
 Avg inter-play gap (7d)   : 15:47:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(2) | ambient jazz(1)
+Top genres (24h)          : ambient jazz(1) | jazz(1)
 Top genres (7d)           : jazz(6) | alternative metal(2) | ambient jazz(1) | avant-garde(1) | jazz ballads(1) | noise rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-05 16:29:59Z
+Report generated (UTC)    : 2026-07-05 19:43:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
