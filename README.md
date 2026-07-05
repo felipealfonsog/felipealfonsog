@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:22:32
-Telemetry age             : 05:22:32
-Δ time (since last report): 00:00:29
+Time since last play      : 11:39:32
+Telemetry age             : 11:39:32
+Δ time (since last report): 06:17:00
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,10 +1519,10 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-27 22:14:45Z → 2026-07-04 22:14:45Z
-Total tracks played       : 15
-Dominant artist           : Alice In Chains
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-06-28 04:31:45Z → 2026-07-05 04:31:45Z
+Total tracks played       : 5
+Dominant artist           : The Ebbing Tides
+Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1530,19 +1530,19 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 12:00
 Peak hour (7d)            : 20:00
 Heatmap (24h)             :             █           
-Heatmap (7d)              :    ▂        ▂     ▆▅█  ▂
+Heatmap (7d)              :    ▄        ▄       █  ▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 11:36:54
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 16:06:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(1)
-Top genres (7d)           : post-grunge(6) | alternative metal(5) | jazz(5) | grunge(3) | alternative rock(2) | art rock(2)
+Top genres (7d)           : jazz(5) | alternative metal(2) | avant-garde(1) | jazz ballads(1) | noise rock(1) | post-grunge(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-04 22:14:45Z
+Report generated (UTC)    : 2026-07-05 04:31:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
