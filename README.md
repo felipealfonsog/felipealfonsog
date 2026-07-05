@@ -1494,13 +1494,13 @@ Last played               : James Jackson Jazz Trio — Ludlow
 Last played (UTC)         : 2026-07-05 07:22:48Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Ebbing Tides — You Know Its Me → James Jackson Jazz Trio — Ludlow
-Δ last played (since last): 2026-07-04 16:52:13Z → 2026-07-05 07:22:48Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:00:39
-Telemetry age             : 02:00:39
-Δ time (since last report): 04:48:47
+Time since last play      : 02:01:22
+Telemetry age             : 02:01:22
+Δ time (since last report): 00:00:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-28 09:23:26Z → 2026-07-05 09:23:26Z
+Week window (UTC)         : 2026-06-28 09:24:09Z → 2026-07-05 09:24:09Z
 Total tracks played       : 6
 Dominant artist           : James Jackson Jazz Trio
 Cadence classification    : LOW
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-05 09:23:26Z
+Report generated (UTC)    : 2026-07-05 09:24:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
