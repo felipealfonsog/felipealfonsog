@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : The Ebbing Tides — You Know Its Me
-Last played (UTC)         : 2026-07-04 16:52:13Z
+Last played               : James Jackson Jazz Trio — Ludlow
+Last played (UTC)         : 2026-07-05 07:22:48Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : The Ebbing Tides — You Know Its Me → James Jackson Jazz Trio — Ludlow
+Δ last played (since last): 2026-07-04 16:52:13Z → 2026-07-05 07:22:48Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 11:42:27
-Telemetry age             : 11:42:27
-Δ time (since last report): 00:00:31
+Time since last play      : 02:00:39
+Telemetry age             : 02:00:39
+Δ time (since last report): 04:48:47
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,37 +1512,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : The Ebbing Tides
+Tracks played (last 24h)  : 2
+Dominant artist           : James Jackson Jazz Trio
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-28 04:34:40Z → 2026-07-05 04:34:40Z
-Total tracks played       : 5
-Dominant artist           : The Ebbing Tides
+Week window (UTC)         : 2026-06-28 09:23:26Z → 2026-07-05 09:23:26Z
+Total tracks played       : 6
+Dominant artist           : James Jackson Jazz Trio
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
-Peak hour (7d)            : 20:00
-Heatmap (24h)             :             █           
-Heatmap (7d)              :    ▄        ▄       █  ▄
+Peak hour (24h)           : 03:00
+Peak hour (7d)            : 03:00
+Heatmap (24h)             :    █        █           
+Heatmap (7d)              :    █        ▄       █  ▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 16:06:20
+Sessions (24h)            : 2
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 15:47:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(1)
-Top genres (7d)           : jazz(5) | alternative metal(2) | avant-garde(1) | jazz ballads(1) | noise rock(1) | post-grunge(1)
+Top genres (24h)          : jazz(2) | ambient jazz(1)
+Top genres (7d)           : jazz(6) | alternative metal(2) | ambient jazz(1) | avant-garde(1) | jazz ballads(1) | noise rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-05 04:34:40Z
+Report generated (UTC)    : 2026-07-05 09:23:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
