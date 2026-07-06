@@ -1491,16 +1491,16 @@ Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : James Jackson Jazz Trio — Ludlow
-Last played (UTC)         : 2026-07-05 07:22:48Z
+Last played (UTC)         : 2026-07-06 04:36:11Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ last played (since last): 2026-07-05 07:22:48Z → 2026-07-06 04:36:11Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 14:53:26
-Telemetry age             : 14:53:26
-Δ time (since last report): 00:00:27
+Time since last play      : 00:05:18
+Telemetry age             : 00:05:18
+Δ time (since last report): 06:25:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,37 +1512,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 2
 Dominant artist           : James Jackson Jazz Trio
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-28 22:16:13Z → 2026-07-05 22:16:13Z
-Total tracks played       : 6
+Week window (UTC)         : 2026-06-29 04:41:29Z → 2026-07-06 04:41:29Z
+Total tracks played       : 7
 Dominant artist           : James Jackson Jazz Trio
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
+Peak hour (24h)           : 00:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :    █                    
-Heatmap (7d)              :    █        ▄       █  ▄
+Heatmap (24h)             : █  █                    
+Heatmap (7d)              : ▄  █        ▄       █  ▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 15:47:11
+Sessions (24h)            : 2
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 16:41:33
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(1) | jazz(1)
-Top genres (7d)           : jazz(6) | alternative metal(2) | ambient jazz(1) | avant-garde(1) | jazz ballads(1) | noise rock(1)
+Top genres (24h)          : ambient jazz(2) | jazz(2)
+Top genres (7d)           : jazz(7) | alternative metal(2) | ambient jazz(2) | avant-garde(1) | jazz ballads(1) | noise rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-05 22:16:13Z
+Report generated (UTC)    : 2026-07-06 04:41:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
