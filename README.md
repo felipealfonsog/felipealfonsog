@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:08:39
-Telemetry age             : 00:08:39
-Δ time (since last report): 00:03:21
+Time since last play      : 00:09:26
+Telemetry age             : 00:09:26
+Δ time (since last report): 00:00:47
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-29 04:44:50Z → 2026-07-06 04:44:50Z
+Week window (UTC)         : 2026-06-29 04:45:36Z → 2026-07-06 04:45:36Z
 Total tracks played       : 7
 Dominant artist           : James Jackson Jazz Trio
 Cadence classification    : LOW
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-06 04:44:50Z
+Report generated (UTC)    : 2026-07-06 04:45:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
