@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:12:02
-Telemetry age             : 22:12:02
-Δ time (since last report): 02:14:08
+Time since last play      : 22:12:42
+Telemetry age             : 22:12:42
+Δ time (since last report): 00:00:40
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-30 22:32:15Z → 2026-07-07 22:32:15Z
+Week window (UTC)         : 2026-06-30 22:32:54Z → 2026-07-07 22:32:54Z
 Total tracks played       : 9
 Dominant artist           : U2
 Cadence classification    : LOW
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-07 22:32:15Z
+Report generated (UTC)    : 2026-07-07 22:32:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
