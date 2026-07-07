@@ -1494,13 +1494,13 @@ Last played               : U2 — In A Life
 Last played (UTC)         : 2026-07-06 05:38:14Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : James Jackson Jazz Trio — Ludlow → U2 — In A Life
-Δ last played (since last): 2026-07-06 04:36:11Z → 2026-07-06 05:38:14Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:39:51
-Telemetry age             : 22:39:51
-Δ time (since last report): 05:37:44
+Time since last play      : 22:48:58
+Telemetry age             : 22:48:58
+Δ time (since last report): 00:09:08
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-30 04:18:04Z → 2026-07-07 04:18:04Z
+Week window (UTC)         : 2026-06-30 04:27:11Z → 2026-07-07 04:27:11Z
 Total tracks played       : 8
 Dominant artist           : James Jackson Jazz Trio
 Cadence classification    : LOW
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : ambient jazz(1) | jazz(1) | rock(1)
 Top genres (7d)           : jazz(7) | alternative metal(2) | ambient jazz(2) | rock(2) | avant-garde(1) | jazz ballads(1)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-07 04:18:04Z
+Report generated (UTC)    : 2026-07-07 04:27:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
