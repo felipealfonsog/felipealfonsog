@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-07-07T14:54:35+00:00",
-    "last_successful_sync": "2026-07-07T14:54:35+00:00",
+    "last_attempted_sync": "2026-07-07T17:23:20+00:00",
+    "last_successful_sync": "2026-07-07T17:23:20+00:00",
     "error_message": ""
   },
   "sections": {
@@ -129,7 +129,7 @@
           "author": "Aristotle",
           "link": "https://www.goodreads.com/review/show/8701259484?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385584052l/19007688._SY75_.jpg",
-          "summary": "author: Aristotle name: Felipe Alfonso average rating: 4.56 book published: -350 rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
+          "summary": "author: Aristotle name: Felipe Alfonso average rating: 4.58 book published: -350 rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8701259484?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 20 Jun 2026 01:55:12 -0700"
         },
