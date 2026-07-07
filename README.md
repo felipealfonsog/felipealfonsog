@@ -1491,16 +1491,16 @@ Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : U2 — In A Life
-Last played (UTC)         : 2026-07-06 05:38:14Z
+Last played (UTC)         : 2026-07-07 00:20:13Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ last played (since last): 2026-07-06 05:38:14Z → 2026-07-07 00:20:13Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:49:17
-Telemetry age             : 22:49:17
-Δ time (since last report): 00:00:20
+Time since last play      : 09:41:23
+Telemetry age             : 09:41:23
+Δ time (since last report): 05:34:05
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,37 +1512,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 1
 Dominant artist           : U2
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-30 04:27:31Z → 2026-07-07 04:27:31Z
-Total tracks played       : 8
-Dominant artist           : James Jackson Jazz Trio
+Week window (UTC)         : 2026-06-30 10:01:36Z → 2026-07-07 10:01:36Z
+Total tracks played       : 9
+Dominant artist           : U2
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 00:00
-Peak hour (7d)            : 03:00
-Heatmap (24h)             : ██                      
-Heatmap (7d)              : ▄▄ █        ▄       █  ▄
+Peak hour (24h)           : 20:00
+Peak hour (7d)            : 20:00
+Heatmap (24h)             :                     █   
+Heatmap (7d)              : ▃▃ ▅        ▃       █  ▃
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 14:27:20
+Sessions (24h)            : 1
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 14:59:10
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(1) | jazz(1) | rock(1)
-Top genres (7d)           : jazz(7) | alternative metal(2) | ambient jazz(2) | rock(2) | avant-garde(1) | jazz ballads(1)
+Top genres (24h)          : rock(1)
+Top genres (7d)           : jazz(7) | rock(3) | alternative metal(2) | ambient jazz(2) | avant-garde(1) | jazz ballads(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-07 04:27:31Z
+Report generated (UTC)    : 2026-07-07 10:01:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
