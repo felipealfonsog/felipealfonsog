@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-07-07T17:23:20+00:00",
-    "last_successful_sync": "2026-07-07T17:23:20+00:00",
+    "last_attempted_sync": "2026-07-07T22:17:16+00:00",
+    "last_successful_sync": "2026-07-07T22:17:16+00:00",
     "error_message": ""
   },
   "sections": {
@@ -30,7 +30,7 @@
           "author": "Thomas Ligotti",
           "link": "https://www.goodreads.com/review/show/8701259843?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521580403l/39333049._SX50_.jpg",
-          "summary": "author: Thomas Ligotti name: Felipe Alfonso average rating: 4.06 book published: 2011 rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
+          "summary": "author: Thomas Ligotti name: Felipe Alfonso average rating: 4.05 book published: 2011 rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8701259843?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 20 Jun 2026 01:57:56 -0700"
         },
