@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-07-07T04:07:49+00:00",
-    "last_successful_sync": "2026-07-07T04:07:49+00:00",
+    "last_attempted_sync": "2026-07-07T09:55:48+00:00",
+    "last_successful_sync": "2026-07-07T09:55:48+00:00",
     "error_message": ""
   },
   "sections": {
@@ -977,7 +977,7 @@
           "author": "Robert S. Feldman",
           "link": "https://www.goodreads.com/review/show/8008506913?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1253448017l/4146134._SX50_.jpg",
-          "summary": "author: Robert S. Feldman name: Felipe Alfonso average rating: 3.94 book published: 1987 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
+          "summary": "author: Robert S. Feldman name: Felipe Alfonso average rating: 3.93 book published: 1987 rating: 0 read at: date added: 2025/10/20 shelves: psychology review:",
           "guid": "https://www.goodreads.com/review/show/8008506913?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:43:44 -0700"
         },
