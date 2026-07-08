@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : U2 — In A Life
-Last played (UTC)         : 2026-07-07 00:20:13Z
+Last played               : The Chemical Brothers, Q-Tip — Go
+Last played (UTC)         : 2026-07-08 03:24:31Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : U2 — In A Life → The Chemical Brothers, Q-Tip — Go
+Δ last played (since last): 2026-07-07 00:20:13Z → 2026-07-08 03:24:31Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 22:13:07
-Telemetry age             : 22:13:07
-Δ time (since last report): 00:00:26
+Time since last play      : 00:23:01
+Telemetry age             : 00:23:01
+Δ time (since last report): 05:14:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,37 +1512,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : U2
+Tracks played (last 24h)  : 2
+Dominant artist           : The Chemical Brothers
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-06-30 22:33:20Z → 2026-07-07 22:33:20Z
-Total tracks played       : 9
-Dominant artist           : U2
+Week window (UTC)         : 2026-07-01 03:47:31Z → 2026-07-08 03:47:31Z
+Total tracks played       : 11
+Dominant artist           : The Chemical Brothers
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 21:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                     █   
-Heatmap (7d)              : ▃▃ ▅        ▃       █  ▃
+Heatmap (24h)             :                      █ █
+Heatmap (7d)              : ▃▃ ▅        ▃       █▃ ▅
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 14:59:10
+Sessions (24h)            : 2
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 14:41:46
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : rock(1)
-Top genres (7d)           : jazz(7) | rock(3) | alternative metal(2) | ambient jazz(2) | avant-garde(1) | jazz ballads(1)
+Top genres (24h)          : alternative dance(2) | big beat(2) | breakbeat(2) | east coast hip hop(2) | electronic(2)
+Top genres (7d)           : jazz(7) | rock(3) | alternative dance(2) | alternative metal(2) | ambient jazz(2) | big beat(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-07 22:33:20Z
+Report generated (UTC)    : 2026-07-08 03:47:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
