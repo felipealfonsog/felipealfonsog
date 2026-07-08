@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-07-07T22:17:16+00:00",
-    "last_successful_sync": "2026-07-07T22:17:16+00:00",
+    "last_attempted_sync": "2026-07-08T03:32:55+00:00",
+    "last_successful_sync": "2026-07-08T03:32:55+00:00",
     "error_message": ""
   },
   "sections": {
@@ -887,7 +887,7 @@
           "author": "Thich Nhat Hanh",
           "link": "https://www.goodreads.com/review/show/8014619477?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548908688l/40630101._SX50_.jpg",
-          "summary": "author: Thich Nhat Hanh name: Felipe Alfonso average rating: 4.04 book published: rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "summary": "author: Thich Nhat Hanh name: Felipe Alfonso average rating: 4.05 book published: rating: 5 read at: date added: 2025/10/23 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/8014619477?utm_medium=api&utm_source=rss",
           "pub_date": "Thu, 23 Oct 2025 06:42:35 -0700"
         },
