@@ -1494,13 +1494,13 @@ Last played               : Fredrik Kronkvist — Sincerity
 Last played (UTC)         : 2026-07-08 05:06:04Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Chemical Brothers, Q-Tip — Go → Fredrik Kronkvist — Sincerity
-Δ last played (since last): 2026-07-08 03:24:31Z → 2026-07-08 05:06:04Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:39:00
-Telemetry age             : 03:39:00
-Δ time (since last report): 04:54:58
+Time since last play      : 03:40:44
+Telemetry age             : 03:40:44
+Δ time (since last report): 00:01:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-01 08:45:04Z → 2026-07-08 08:45:04Z
+Week window (UTC)         : 2026-07-01 08:46:47Z → 2026-07-08 08:46:47Z
 Total tracks played       : 15
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3) | jazz(3)
 Top genres (7d)           : jazz(10) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-08 08:45:04Z
+Report generated (UTC)    : 2026-07-08 08:46:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
