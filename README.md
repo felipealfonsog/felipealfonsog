@@ -1494,13 +1494,13 @@ Last played               : Jordan VanHemert Quintet — Autumn Song
 Last played (UTC)         : 2026-07-09 20:00:21Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : SLEEP CLUB — Dweller → Jordan VanHemert Quintet — Autumn Song
-Δ last played (since last): 2026-07-09 19:24:34Z → 2026-07-09 20:00:21Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:43:51
-Telemetry age             : 02:43:51
-Δ time (since last report): 02:34:04
+Time since last play      : 02:44:12
+Telemetry age             : 02:44:12
+Δ time (since last report): 00:00:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-02 22:44:12Z → 2026-07-09 22:44:12Z
+Week window (UTC)         : 2026-07-02 22:44:33Z → 2026-07-09 22:44:33Z
 Total tracks played       : 18
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(2) | afro-cuban jazz(1) | free jazz(1) | hard bop(1) | jazz(1) | latin jazz(1)
 Top genres (7d)           : jazz(10) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-09 22:44:12Z
+Report generated (UTC)    : 2026-07-09 22:44:33Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
