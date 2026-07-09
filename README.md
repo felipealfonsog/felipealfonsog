@@ -1494,13 +1494,13 @@ Last played               : Scarlet House — CHERISH
 Last played (UTC)         : 2026-07-09 09:00:14Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Michel Post — First Swim → Scarlet House — CHERISH
-Δ last played (since last): 2026-07-09 08:50:39Z → 2026-07-09 09:00:14Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:58:26
-Telemetry age             : 00:58:26
-Δ time (since last report): 01:04:15
+Time since last play      : 06:34:58
+Telemetry age             : 06:34:58
+Δ time (since last report): 05:36:32
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-02 09:58:40Z → 2026-07-09 09:58:40Z
+Week window (UTC)         : 2026-07-02 15:35:12Z → 2026-07-09 15:35:12Z
 Total tracks played       : 16
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : afro-cuban jazz(1) | free jazz(1) | hard bop(1) | jazz(1) | latin jazz(1) | shoegaze(1)
 Top genres (7d)           : jazz(10) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
-Artist lookups (this run) : 4 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-09 09:58:40Z
+Report generated (UTC)    : 2026-07-09 15:35:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
