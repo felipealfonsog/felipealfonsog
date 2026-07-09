@@ -1478,73 +1478,72 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Mike Janzen Trio — Beauty
-Last played               : Michel Post — First Swim
-Last played (UTC)         : 2026-07-09 08:50:39Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Scarlet House — CHERISH
+Last played (UTC)         : 2026-07-09 09:00:14Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Michel Post — First Swim → Scarlet House — CHERISH
+Δ last played (since last): 2026-07-09 08:50:39Z → 2026-07-09 09:00:14Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:03:47
-Telemetry age             : 00:03:47
-Δ time (since last report): 00:01:29
+Time since last play      : 00:58:26
+Telemetry age             : 00:58:26
+Δ time (since last report): 01:04:15
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Michel Post
+Tracks played (last 24h)  : 3
+Dominant artist           : Scarlet House
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-02 08:54:25Z → 2026-07-09 08:54:25Z
-Total tracks played       : 14
+Week window (UTC)         : 2026-07-02 09:58:40Z → 2026-07-09 09:58:40Z
+Total tracks played       : 16
 Dominant artist           : The Chemical Brothers
-Cadence classification    : LOW
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 00:00
-Heatmap (24h)             :     █                   
-Heatmap (7d)              : █▄ ▄▂       ▂       ▂▂ ▄
+Heatmap (24h)             :     █▄                  
+Heatmap (7d)              : █▄ ▄▄▂      ▂       ▂▂ ▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 11:28:26
+Avg inter-play gap (7d)   : 09:57:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : jazz(9) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : afro-cuban jazz(1) | free jazz(1) | hard bop(1) | jazz(1) | latin jazz(1) | shoegaze(1)
+Top genres (7d)           : jazz(10) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-09 08:54:25Z
+Report generated (UTC)    : 2026-07-09 09:58:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
