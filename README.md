@@ -688,8 +688,8 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 310 ms
-TTFB................ 309 ms
+LATENCY............. 171 ms
+TTFB................ 170 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -707,9 +707,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PASS
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -723,7 +723,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 45 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-09T15:27:10Z
+LAST_PROBE_UTC...... 2026-07-09T19:56:24Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
