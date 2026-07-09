@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : SLEEP CLUB — Dweller
-Last played (UTC)         : 2026-07-09 19:24:34Z
+Last played               : Jordan VanHemert Quintet — Autumn Song
+Last played (UTC)         : 2026-07-09 20:00:21Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : SLEEP CLUB — Dweller → Jordan VanHemert Quintet — Autumn Song
+Δ last played (since last): 2026-07-09 19:24:34Z → 2026-07-09 20:00:21Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:45:34
-Telemetry age             : 00:45:34
-Δ time (since last report): 00:00:29
+Time since last play      : 02:43:51
+Telemetry age             : 02:43:51
+Δ time (since last report): 02:34:04
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,15 +1512,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : SLEEP CLUB
+Tracks played (last 24h)  : 5
+Dominant artist           : Jordan VanHemert Quintet
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-02 20:10:08Z → 2026-07-09 20:10:08Z
-Total tracks played       : 17
+Week window (UTC)         : 2026-07-02 22:44:12Z → 2026-07-09 22:44:12Z
+Total tracks played       : 18
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1529,21 +1529,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 00:00
-Heatmap (24h)             :     █▄         ▄        
-Heatmap (7d)              : █▄ ▄▄▂      ▂  ▂    ▂▂ ▄
+Heatmap (24h)             :     █▄         ▄▄       
+Heatmap (7d)              : █▄ ▄▄▂      ▂  ▂▂   ▂▂ ▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 09:58:58
+Sessions (24h)            : 3
+Sessions (7d)             : 13
+Avg inter-play gap (7d)   : 09:25:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(2) | afro-cuban jazz(1) | free jazz(1) | hard bop(1) | jazz(1) | latin jazz(1)
 Top genres (7d)           : jazz(10) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-09 20:10:08Z
+Report generated (UTC)    : 2026-07-09 22:44:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
