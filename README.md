@@ -1494,13 +1494,13 @@ Last played               : SLEEP CLUB — Dweller
 Last played (UTC)         : 2026-07-09 19:24:34Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Scarlet House — CHERISH → SLEEP CLUB — Dweller
-Δ last played (since last): 2026-07-09 09:00:14Z → 2026-07-09 19:24:34Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:41:44
-Telemetry age             : 00:41:44
-Δ time (since last report): 04:28:10
+Time since last play      : 00:45:05
+Telemetry age             : 00:45:05
+Δ time (since last report): 00:03:22
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-02 20:06:17Z → 2026-07-09 20:06:17Z
+Week window (UTC)         : 2026-07-02 20:09:39Z → 2026-07-09 20:09:39Z
 Total tracks played       : 17
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-09 20:06:17Z
+Report generated (UTC)    : 2026-07-09 20:09:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
