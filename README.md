@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:44:12
-Telemetry age             : 02:44:12
-Δ time (since last report): 00:00:21
+Time since last play      : 02:44:37
+Telemetry age             : 02:44:37
+Δ time (since last report): 00:00:25
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-02 22:44:33Z → 2026-07-09 22:44:33Z
+Week window (UTC)         : 2026-07-02 22:44:58Z → 2026-07-09 22:44:58Z
 Total tracks played       : 18
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-09 22:44:33Z
+Report generated (UTC)    : 2026-07-09 22:44:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
