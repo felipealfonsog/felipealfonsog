@@ -1478,72 +1478,72 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
+Playback state            : ONLINE (idle session)
 Status                    : IDLE
 SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
+Device type               : Smartphone
+Device name               : iPhone
 Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Fredrik Kronkvist — Sincerity
-Last played (UTC)         : 2026-07-08 05:06:04Z
-Last activity type        : NO_ACTIVE_SESSION
+Last played               : Michel Post — First Swim
+Last played (UTC)         : 2026-07-09 08:50:39Z
+Last activity type        : PLAYBACK_INACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Fredrik Kronkvist — Sincerity → Michel Post — First Swim
+Δ last played (since last): 2026-07-08 05:06:04Z → 2026-07-09 08:50:39Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 23:19:03
-Telemetry age             : 23:19:03
-Δ time (since last report): 00:08:18
+Time since last play      : 00:02:18
+Telemetry age             : 00:02:18
+Δ time (since last report): 04:27:51
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
-Dominant artist           : Fredrik Kronkvist
+Tracks played (last 24h)  : 1
+Dominant artist           : Michel Post
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-02 04:25:06Z → 2026-07-09 04:25:06Z
-Total tracks played       : 13
+Week window (UTC)         : 2026-07-02 08:52:57Z → 2026-07-09 08:52:57Z
+Total tracks played       : 14
 Dominant artist           : The Chemical Brothers
 Cadence classification    : LOW
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 00:00
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 00:00
-Heatmap (24h)             : █▄                      
-Heatmap (7d)              : █▄ ▄        ▂       ▂▂ ▄
+Heatmap (24h)             :     █                   
+Heatmap (7d)              : █▄ ▄▂       ▂       ▂▂ ▄
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 10:07:05
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 11:28:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(3) | jazz funk(2) | free jazz(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : jazz(9) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-09 04:25:06Z
+Report generated (UTC)    : 2026-07-09 08:52:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
