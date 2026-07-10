@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:44:37
-Telemetry age             : 02:44:37
-Δ time (since last report): 00:00:25
+Time since last play      : 08:17:05
+Telemetry age             : 08:17:05
+Δ time (since last report): 05:32:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,8 +1519,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-02 22:44:58Z → 2026-07-09 22:44:58Z
-Total tracks played       : 18
+Week window (UTC)         : 2026-07-03 04:17:26Z → 2026-07-10 04:17:26Z
+Total tracks played       : 17
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1530,19 +1530,19 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 04:00
 Peak hour (7d)            : 00:00
 Heatmap (24h)             :     █▄         ▄▄       
-Heatmap (7d)              : █▄ ▄▄▂      ▂  ▂▂   ▂▂ ▄
+Heatmap (7d)              : █▄ ▄▄▂      ▂  ▂▂   ▂▂ ▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 09:25:50
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 09:48:37
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : shoegaze(2) | afro-cuban jazz(1) | free jazz(1) | hard bop(1) | jazz(1) | latin jazz(1)
-Top genres (7d)           : jazz(10) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
+Top genres (7d)           : jazz(7) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-09 22:44:58Z
+Report generated (UTC)    : 2026-07-10 04:17:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
