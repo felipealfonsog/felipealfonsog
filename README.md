@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 08:27:16
-Telemetry age             : 08:27:16
-Δ time (since last report): 00:00:33
+Time since last play      : 13:53:32
+Telemetry age             : 13:53:32
+Δ time (since last report): 05:26:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,36 +1512,36 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
+Tracks played (last 24h)  : 2
 Dominant artist           : Jordan VanHemert Quintet
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-03 04:27:36Z → 2026-07-10 04:27:36Z
-Total tracks played       : 17
+Week window (UTC)         : 2026-07-03 09:53:53Z → 2026-07-10 09:53:53Z
+Total tracks played       : 16
 Dominant artist           : The Chemical Brothers
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 04:00
+Peak hour (24h)           : 15:00
 Peak hour (7d)            : 00:00
-Heatmap (24h)             :     █▄         ▄▄       
-Heatmap (7d)              : █▄ ▄▄▂      ▂  ▂▂   ▂▂ ▂
+Heatmap (24h)             :                ██       
+Heatmap (7d)              : █▄ ▂▄▂      ▂  ▂▂   ▂▂ ▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 09:48:37
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 08:12:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(2) | afro-cuban jazz(1) | free jazz(1) | hard bop(1) | jazz(1) | latin jazz(1)
+Top genres (24h)          : shoegaze(1)
 Top genres (7d)           : jazz(7) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-10 04:27:36Z
+Report generated (UTC)    : 2026-07-10 09:53:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
