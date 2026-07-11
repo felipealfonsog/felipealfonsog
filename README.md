@@ -1494,13 +1494,13 @@ Last played               : Garbage — Push It - 2018 Remaster
 Last played (UTC)         : 2026-07-11 06:46:02Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : The Breeders — Cannonball → Garbage — Push It - 2018 Remaster
-Δ last played (since last): 2026-07-11 06:11:03Z → 2026-07-11 06:46:02Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:29:21
-Telemetry age             : 01:29:21
-Δ time (since last report): 01:36:44
+Time since last play      : 01:29:59
+Telemetry age             : 01:29:59
+Δ time (since last report): 00:00:39
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 08:15:22Z → 2026-07-11 08:15:22Z
+Week window (UTC)         : 2026-07-04 08:16:01Z → 2026-07-11 08:16:01Z
 Total tracks played       : 48
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | nu metal(9) | rock(9)
 Top genres (7d)           : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | rock(11) | shoegaze(11)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 08:15:22Z
+Report generated (UTC)    : 2026-07-11 08:16:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
