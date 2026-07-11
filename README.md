@@ -1490,18 +1490,18 @@ Volume                    : 44%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃
 ------------------------------------------------------------
-Now playing               : Deftones — Rx Queen
-Last played               : Deftones — Elite
-Last played (UTC)         : 2026-07-11 01:00:41Z
+Now playing               : Deftones — Teenager
+Last played               : Deftones — Street Carp
+Last played (UTC)         : 2026-07-11 01:07:52Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Jordan VanHemert Quintet — Autumn Song → Deftones — Elite
-Δ last played (since last): 2026-07-09 20:00:21Z → 2026-07-11 01:00:41Z
+Δ track (since last)      : Deftones — Elite → Deftones — Street Carp
+Δ last played (since last): 2026-07-11 01:00:41Z → 2026-07-11 01:07:52Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:04:06
-Telemetry age             : 00:04:06
-Δ time (since last report): 02:14:41
+Time since last play      : 00:00:35
+Telemetry age             : 00:00:35
+Δ time (since last report): 00:03:40
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,15 +1513,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
+Tracks played (last 24h)  : 21
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 01:04:47Z → 2026-07-11 01:04:47Z
-Total tracks played       : 35
+Week window (UTC)         : 2026-07-04 01:08:26Z → 2026-07-11 01:08:26Z
+Total tracks played       : 37
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1530,21 +1530,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                   ▁▃█▁  
-Heatmap (7d)              : ▂▁ ▁▁▁      ▁  ▁▁ ▁▃█▁ ▁
+Heatmap (24h)             :                   ▁▃█▂  
+Heatmap (7d)              : ▂▁ ▁▁▁      ▁  ▁▁ ▁▃█▂ ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 04:28:29
+Avg inter-play gap (7d)   : 04:13:46
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(10) | post-grunge(10) | alternative metal(6) | nu metal(6) | rap metal(6) | rock(6)
-Top genres (7d)           : grunge(10) | post-grunge(10) | rock(8) | shoegaze(8) | jazz(7) | alternative metal(6)
-Artist lookups (this run) : 3 (cached)
+Top genres (24h)          : grunge(10) | post-grunge(10) | alternative metal(8) | nu metal(8) | rap metal(8) | rock(8)
+Top genres (7d)           : grunge(10) | post-grunge(10) | rock(10) | shoegaze(10) | alternative metal(8) | nu metal(8)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 01:04:47Z
+Report generated (UTC)    : 2026-07-11 01:08:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
