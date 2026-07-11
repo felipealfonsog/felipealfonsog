@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:26:45
-Telemetry age             : 09:26:45
-Δ time (since last report): 00:00:18
+Time since last play      : 12:48:02
+Telemetry age             : 12:48:02
+Δ time (since last report): 03:21:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,8 +1519,8 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 16:12:47Z → 2026-07-11 16:12:47Z
-Total tracks played       : 48
+Week window (UTC)         : 2026-07-04 19:34:04Z → 2026-07-11 19:34:04Z
+Total tracks played       : 47
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1530,14 +1530,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
 Heatmap (24h)             :  ▁▂               ▁▃█▅▁▁
-Heatmap (7d)              : ▂▂▂▁▁▁      ▁  ▁▁ ▁▃█▅▁▁
+Heatmap (7d)              : ▂▂▂▁▁▁         ▁▁ ▁▃█▅▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 6
-Sessions (7d)             : 17
-Avg inter-play gap (7d)   : 03:21:34
+Sessions (7d)             : 16
+Avg inter-play gap (7d)   : 03:07:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 16:12:47Z
+Report generated (UTC)    : 2026-07-11 19:34:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
