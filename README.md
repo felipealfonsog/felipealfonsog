@@ -1484,24 +1484,24 @@ SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
+Device type               : CastAudio
+Device name               : GNest-MerkleTree speaker
+Volume                    : 44%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume bar                : ▁▁▂▃▃
 ------------------------------------------------------------
-Now playing               : Tycho — Awake
-Last played               : Jordan VanHemert Quintet — Autumn Song
-Last played (UTC)         : 2026-07-09 20:00:21Z
+Now playing               : Deftones — Rx Queen
+Last played               : Deftones — Elite
+Last played (UTC)         : 2026-07-11 01:00:41Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Jordan VanHemert Quintet — Autumn Song → Deftones — Elite
+Δ last played (since last): 2026-07-09 20:00:21Z → 2026-07-11 01:00:41Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 26:49:45
-Telemetry age             : 26:49:45
-Δ time (since last report): 00:22:15
+Time since last play      : 00:04:06
+Telemetry age             : 00:04:06
+Δ time (since last report): 02:14:41
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,38 +1513,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 19
+Dominant artist           : Silverchair
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-03 22:50:06Z → 2026-07-10 22:50:06Z
-Total tracks played       : 16
-Dominant artist           : The Chemical Brothers
+Week window (UTC)         : 2026-07-04 01:04:47Z → 2026-07-11 01:04:47Z
+Total tracks played       : 35
+Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 00:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : █▄ ▂▄▂      ▂  ▂▂   ▂▂ ▂
+Peak hour (24h)           : 20:00
+Peak hour (7d)            : 20:00
+Heatmap (24h)             :                   ▁▃█▁  
+Heatmap (7d)              : ▂▁ ▁▁▁      ▁  ▁▁ ▁▃█▁ ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 08:12:32
+Sessions (24h)            : 2
+Sessions (7d)             : 13
+Avg inter-play gap (7d)   : 04:28:29
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : jazz(7) | alternative dance(3) | big beat(3) | breakbeat(3) | east coast hip hop(3) | electronic(3)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : grunge(10) | post-grunge(10) | alternative metal(6) | nu metal(6) | rap metal(6) | rock(6)
+Top genres (7d)           : grunge(10) | post-grunge(10) | rock(8) | shoegaze(8) | jazz(7) | alternative metal(6)
+Artist lookups (this run) : 3 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-10 22:50:06Z
+Report generated (UTC)    : 2026-07-11 01:04:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
