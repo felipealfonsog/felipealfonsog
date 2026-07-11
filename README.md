@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Jimmie's Chicken Shack — High
+Now playing               : L7, Michael Barbiero — Andres
 Last played               : The Breeders — Cannonball
 Last played (UTC)         : 2026-07-11 06:11:03Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Local H — Eddie Vedder → The Breeders — Cannonball
-Δ last played (since last): 2026-07-11 03:26:59Z → 2026-07-11 06:11:03Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:21:21
-Telemetry age             : 00:21:21
-Δ time (since last report): 02:44:50
+Time since last play      : 00:27:37
+Telemetry age             : 00:27:37
+Δ time (since last report): 00:06:17
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 06:32:23Z → 2026-07-11 06:32:23Z
+Week window (UTC)         : 2026-07-04 06:38:39Z → 2026-07-11 06:38:39Z
 Total tracks played       : 46
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1544,7 +1544,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | nu metal(9) | rock(9)
 Top genres (7d)           : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | rock(11) | shoegaze(11)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 06:32:23Z
+Report generated (UTC)    : 2026-07-11 06:38:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
