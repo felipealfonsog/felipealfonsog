@@ -1490,18 +1490,18 @@ Volume                    : 44%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃
 ------------------------------------------------------------
-Now playing               : Deftones — Teenager
-Last played               : Deftones — Street Carp
-Last played (UTC)         : 2026-07-11 01:07:52Z
+Now playing               : Deftones — Knife Prty
+Last played               : Deftones — Teenager
+Last played (UTC)         : 2026-07-11 01:11:13Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Deftones — Elite → Deftones — Street Carp
-Δ last played (since last): 2026-07-11 01:00:41Z → 2026-07-11 01:07:52Z
+Δ track (since last)      : Deftones — Street Carp → Deftones — Teenager
+Δ last played (since last): 2026-07-11 01:07:52Z → 2026-07-11 01:11:13Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:35
-Telemetry age             : 00:00:35
-Δ time (since last report): 00:03:40
+Time since last play      : 00:00:52
+Telemetry age             : 00:00:52
+Δ time (since last report): 00:03:39
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,15 +1513,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 21
+Tracks played (last 24h)  : 22
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 01:08:26Z → 2026-07-11 01:08:26Z
-Total tracks played       : 37
+Week window (UTC)         : 2026-07-04 01:12:04Z → 2026-07-11 01:12:04Z
+Total tracks played       : 38
 Dominant artist           : Silverchair
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1530,20 +1530,20 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                   ▁▃█▂  
-Heatmap (7d)              : ▂▁ ▁▁▁      ▁  ▁▁ ▁▃█▂ ▁
+Heatmap (24h)             :                   ▁▃█▃  
+Heatmap (7d)              : ▂▁ ▁▁▁      ▁  ▁▁ ▁▃█▃ ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 04:13:46
+Avg inter-play gap (7d)   : 04:07:00
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(10) | post-grunge(10) | alternative metal(8) | nu metal(8) | rap metal(8) | rock(8)
-Top genres (7d)           : grunge(10) | post-grunge(10) | rock(10) | shoegaze(10) | alternative metal(8) | nu metal(8)
+Top genres (24h)          : grunge(10) | post-grunge(10) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
+Top genres (7d)           : rock(11) | shoegaze(11) | grunge(10) | post-grunge(10) | alternative metal(9) | nu metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 01:08:26Z
+Report generated (UTC)    : 2026-07-11 01:12:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
