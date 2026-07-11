@@ -1494,13 +1494,13 @@ Last played               : Local H — Eddie Vedder
 Last played (UTC)         : 2026-07-11 03:26:59Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Deftones — Teenager → Local H — Eddie Vedder
-Δ last played (since last): 2026-07-11 01:11:13Z → 2026-07-11 03:26:59Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:17:46
-Telemetry age             : 00:17:46
-Δ time (since last report): 02:32:41
+Time since last play      : 00:19:27
+Telemetry age             : 00:19:27
+Δ time (since last report): 00:01:42
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 03:44:44Z → 2026-07-11 03:44:44Z
+Week window (UTC)         : 2026-07-04 03:46:25Z → 2026-07-11 03:46:25Z
 Total tracks played       : 44
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(16) | alternative metal(13) | rap metal(13) | post-grunge(12) | nu metal(9) | rock(9)
 Top genres (7d)           : grunge(16) | alternative metal(13) | rap metal(13) | post-grunge(12) | rock(11) | shoegaze(11)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 03:44:44Z
+Report generated (UTC)    : 2026-07-11 03:46:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
