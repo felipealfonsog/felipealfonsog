@@ -1478,50 +1478,49 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : L7, Michael Barbiero — Andres
-Last played               : The Breeders — Cannonball
-Last played (UTC)         : 2026-07-11 06:11:03Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Garbage — Push It - 2018 Remaster
+Last played (UTC)         : 2026-07-11 06:46:02Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : The Breeders — Cannonball → Garbage — Push It - 2018 Remaster
+Δ last played (since last): 2026-07-11 06:11:03Z → 2026-07-11 06:46:02Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:27:37
-Telemetry age             : 00:27:37
-Δ time (since last report): 00:06:17
+Time since last play      : 01:29:21
+Telemetry age             : 01:29:21
+Δ time (since last report): 01:36:44
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 30
+Tracks played (last 24h)  : 32
 Dominant artist           : Silverchair
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 06:38:39Z → 2026-07-11 06:38:39Z
-Total tracks played       : 46
+Week window (UTC)         : 2026-07-04 08:15:22Z → 2026-07-11 08:15:22Z
+Total tracks played       : 48
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1530,21 +1529,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :  ▁▁               ▁▃█▅▁▁
-Heatmap (7d)              : ▂▂▁▁▁▁      ▁  ▁▁ ▁▃█▅▁▁
+Heatmap (24h)             :  ▁▂               ▁▃█▅▁▁
+Heatmap (7d)              : ▂▂▂▁▁▁      ▁  ▁▁ ▁▃█▅▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
-Sessions (7d)             : 16
-Avg inter-play gap (7d)   : 03:29:45
+Sessions (24h)            : 6
+Sessions (7d)             : 17
+Avg inter-play gap (7d)   : 03:21:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | nu metal(9) | rock(9)
 Top genres (7d)           : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | rock(11) | shoegaze(11)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 06:38:39Z
+Report generated (UTC)    : 2026-07-11 08:15:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
