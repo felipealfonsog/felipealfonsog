@@ -1478,73 +1478,72 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : CastAudio
-Device name               : GNest-MerkleTree speaker
-Volume                    : 44%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Deftones — Knife Prty
-Last played               : Deftones — Teenager
-Last played (UTC)         : 2026-07-11 01:11:13Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Local H — Eddie Vedder
+Last played (UTC)         : 2026-07-11 03:26:59Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Deftones — Street Carp → Deftones — Teenager
-Δ last played (since last): 2026-07-11 01:07:52Z → 2026-07-11 01:11:13Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Deftones — Teenager → Local H — Eddie Vedder
+Δ last played (since last): 2026-07-11 01:11:13Z → 2026-07-11 03:26:59Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 00:00:52
-Telemetry age             : 00:00:52
-Δ time (since last report): 00:03:39
+Time since last play      : 00:17:46
+Telemetry age             : 00:17:46
+Δ time (since last report): 02:32:41
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
+Tracks played (last 24h)  : 28
 Dominant artist           : Silverchair
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 01:12:04Z → 2026-07-11 01:12:04Z
-Total tracks played       : 38
+Week window (UTC)         : 2026-07-04 03:44:44Z → 2026-07-11 03:44:44Z
+Total tracks played       : 44
 Dominant artist           : Silverchair
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                   ▁▃█▃  
-Heatmap (7d)              : ▂▁ ▁▁▁      ▁  ▁▁ ▁▃█▃ ▁
+Heatmap (24h)             :                   ▁▃█▅▁▁
+Heatmap (7d)              : ▂▁ ▁▁▁      ▁  ▁▁ ▁▃█▅▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 04:07:00
+Sessions (24h)            : 4
+Sessions (7d)             : 15
+Avg inter-play gap (7d)   : 03:35:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(10) | post-grunge(10) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
-Top genres (7d)           : rock(11) | shoegaze(11) | grunge(10) | post-grunge(10) | alternative metal(9) | nu metal(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : grunge(16) | alternative metal(13) | rap metal(13) | post-grunge(12) | nu metal(9) | rock(9)
+Top genres (7d)           : grunge(16) | alternative metal(13) | rap metal(13) | post-grunge(12) | rock(11) | shoegaze(11)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 01:12:04Z
+Report generated (UTC)    : 2026-07-11 03:44:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
