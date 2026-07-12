@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-07-11_1308Z
+ snapshot_utc : 2026-07-12_1309Z
  ring_days    : 1
  slot         : 2/4
  period_hours : 6
@@ -525,7 +525,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-11T10:20:51+00:00 | last_update=2026-07-11T10:20:51+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-12T10:39:09+00:00 | last_update=2026-07-12T10:39:09+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -695,13 +695,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 235 ms
-TTFB................ 234 ms
+LATENCY............. 171 ms
+TTFB................ 169 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 54d
+TLS_EXPIRY.......... 52d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -714,9 +714,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PASS
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -730,7 +730,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 45 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-11T03:26:35Z
+LAST_PROBE_UTC...... 2026-07-12T08:27:24Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -770,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444268
-longitude      : -70.650358
-altitude       : 115 m
-gps_accuracy   : ±8.6 m
-heading        : 114°
-speed          : 3.9 km/h
-status         : walking
+location       : pedestrian_axis
+latitude       : -33.437918
+longitude      : -70.646606
+altitude       : 85 m
+gps_accuracy   : ±7.4 m
+heading        : 30°
+speed          : 4.2 km/h
+status         : in_transit
 phase          : morning
-local_time     : 08:45
+local_time     : 08:47
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-07-11 12:45:31 UTC
+signal         : stable
+updated_utc    : 2026-07-12 12:47:07 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-10 22:28:06Z
+DSN snapshot (UTC)       : 2026-07-12 10:46:49Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.49e9 km | 170.410 AU
-Heliocentric distance    : 171.117 AU
-Relative speed           : 38.881 km/s
+Earth distance           : 25.50e9 km | 170.436 AU
+Heliocentric distance    : 171.132 AU
+Relative speed           : 39.120 km/s
 ------------------------------------------------------------
-One-way light time       : 23:37:16
-Round-trip latency       : 47:14:31
+One-way light time       : 23:37:28
+Round-trip latency       : 47:14:57
 ------------------------------------------------------------
-Δ distance (since last)  : +272,371 km
-Mission age              : 48 years, 320 days
+Δ distance (since last)  : +724,698 km
+Mission age              : 48 years, 322 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.33e9 km | 142.579 AU
-Heliocentric distance    : 143.372 AU
-Relative speed           : 32.103 km/s
+Earth distance           : 21.33e9 km | 142.591 AU
+Heliocentric distance    : 143.386 AU
+Relative speed           : 32.345 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:47
-Round-trip latency       : 39:31:35
+One-way light time       : 19:45:54
+Round-trip latency       : 39:31:47
 ------------------------------------------------------------
-Δ distance (since last)  : +130,278 km
-Mission age              : 48 years, 336 days
+Δ distance (since last)  : +354,441 km
+Mission age              : 48 years, 338 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-10 22:28:09Z
+Report generated (UTC)   : 2026-07-12 10:46:51Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,9 +1505,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:50:24
-Telemetry age             : 03:50:24
-Δ time (since last report): 00:00:20
+Time since last play      : 28:00:32
+Telemetry age             : 28:00:32
+Δ time (since last report): 00:00:31
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,36 +1519,36 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 32
-Dominant artist           : Silverchair
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 10:36:25Z → 2026-07-11 10:36:25Z
-Total tracks played       : 48
+Week window (UTC)         : 2026-07-05 10:46:34Z → 2026-07-12 10:46:34Z
+Total tracks played       : 46
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :  ▁▂               ▁▃█▅▁▁
-Heatmap (7d)              : ▂▂▂▁▁▁      ▁  ▁▁ ▁▃█▅▁▁
+Heatmap (24h)             : N/A
+Heatmap (7d)              : ▂▂▂ ▁▁         ▁▁ ▁▃█▅▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 6
-Sessions (7d)             : 17
-Avg inter-play gap (7d)   : 03:21:34
+Sessions (24h)            : N/A
+Sessions (7d)             : 15
+Avg inter-play gap (7d)   : 02:42:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | nu metal(9) | rock(9)
+Top genres (24h)          : N/A
 Top genres (7d)           : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | rock(11) | shoegaze(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1558,7 +1558,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 10:36:25Z
+Report generated (UTC)    : 2026-07-12 10:46:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1916,7 +1916,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 July 2026
+From: 04 December 2023 - To: 12 July 2026
 
 Total Time       : 1,039 hrs 4 mins
 Mostly coding in : Other
@@ -1968,7 +1968,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 11/07/2026 11:12:16 UTC
+Last updated     : 12/07/2026 11:17:27 UTC
 
 ```
 <!--END_SECTION:wakastats-->
