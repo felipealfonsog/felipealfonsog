@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-07-11_0209Z
+ snapshot_utc : 2026-07-12_0214Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -525,7 +525,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-10T19:44:12+00:00 | last_update=2026-07-10T19:44:12+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-11T21:56:15+00:00 | last_update=2026-07-11T21:56:15+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -695,13 +695,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 250 ms
-TTFB................ 249 ms
+LATENCY............. 186 ms
+TTFB................ 184 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 54d
+TLS_EXPIRY.......... 53d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -730,7 +730,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 45 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-10T19:43:28Z
+LAST_PROBE_UTC...... 2026-07-11T19:15:03Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -770,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446921
-longitude      : -70.662019
-altitude       : 125 m
-gps_accuracy   : ±6.2 m
-heading        : 231°
-speed          : 0.7 km/h
-status         : stationary
+location       : residential_sector
+latitude       : -33.441658
+longitude      : -70.653929
+altitude       : 77 m
+gps_accuracy   : ±3.9 m
+heading        : 278°
+speed          : 6.4 km/h
+status         : in_transit
 phase          : evening
-local_time     : 21:19
+local_time     : 21:21
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-07-11 01:19:25 UTC
+updated_utc    : 2026-07-12 01:21:19 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-10 22:28:06Z
+DSN snapshot (UTC)       : 2026-07-11 19:35:48Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.49e9 km | 170.410 AU
-Heliocentric distance    : 171.117 AU
-Relative speed           : 38.881 km/s
+Earth distance           : 25.50e9 km | 170.425 AU
+Heliocentric distance    : 171.126 AU
+Relative speed           : 39.020 km/s
 ------------------------------------------------------------
-One-way light time       : 23:37:16
-Round-trip latency       : 47:14:31
+One-way light time       : 23:37:23
+Round-trip latency       : 47:14:46
 ------------------------------------------------------------
-Δ distance (since last)  : +272,371 km
-Mission age              : 48 years, 320 days
+Δ distance (since last)  : +603,547 km
+Mission age              : 48 years, 321 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.33e9 km | 142.579 AU
-Heliocentric distance    : 143.372 AU
-Relative speed           : 32.103 km/s
+Earth distance           : 21.33e9 km | 142.586 AU
+Heliocentric distance    : 143.380 AU
+Relative speed           : 32.244 km/s
 ------------------------------------------------------------
-One-way light time       : 19:45:47
-Round-trip latency       : 39:31:35
+One-way light time       : 19:45:51
+Round-trip latency       : 39:31:42
 ------------------------------------------------------------
-Δ distance (since last)  : +130,278 km
-Mission age              : 48 years, 336 days
+Δ distance (since last)  : +291,556 km
+Mission age              : 48 years, 337 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-10 22:28:09Z
+Report generated (UTC)   : 2026-07-11 19:35:51Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1485,72 +1485,71 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : CastAudio
-Device name               : GNest-MerkleTree speaker
-Volume                    : 44%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Deftones — Knife Prty
-Last played               : Deftones — Teenager
-Last played (UTC)         : 2026-07-11 01:11:13Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Garbage — Push It - 2018 Remaster
+Last played (UTC)         : 2026-07-11 06:46:02Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Deftones — Street Carp → Deftones — Teenager
-Δ last played (since last): 2026-07-11 01:07:52Z → 2026-07-11 01:11:13Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:00:52
-Telemetry age             : 00:00:52
-Δ time (since last report): 00:03:39
+Time since last play      : 15:24:28
+Telemetry age             : 15:24:28
+Δ time (since last report): 00:00:39
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
+Tracks played (last 24h)  : 32
 Dominant artist           : Silverchair
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-04 01:12:04Z → 2026-07-11 01:12:04Z
-Total tracks played       : 38
+Week window (UTC)         : 2026-07-04 22:10:30Z → 2026-07-11 22:10:30Z
+Total tracks played       : 47
 Dominant artist           : Silverchair
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                   ▁▃█▃  
-Heatmap (7d)              : ▂▁ ▁▁▁      ▁  ▁▁ ▁▃█▃ ▁
+Heatmap (24h)             :  ▁▂               ▁▃█▅▁▁
+Heatmap (7d)              : ▂▂▂▁▁▁         ▁▁ ▁▃█▅▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 04:07:00
+Sessions (24h)            : 6
+Sessions (7d)             : 16
+Avg inter-play gap (7d)   : 03:07:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(10) | post-grunge(10) | alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
-Top genres (7d)           : rock(11) | shoegaze(11) | grunge(10) | post-grunge(10) | alternative metal(9) | nu metal(9)
+Top genres (24h)          : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | nu metal(9) | rock(9)
+Top genres (7d)           : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | rock(11) | shoegaze(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1559,7 +1558,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-11 01:12:04Z
+Report generated (UTC)    : 2026-07-11 22:10:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1917,7 +1916,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 10 July 2026
+From: 04 December 2023 - To: 11 July 2026
 
 Total Time       : 1,039 hrs 4 mins
 Mostly coding in : Other
@@ -1969,7 +1968,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 10/07/2026 22:11:17 UTC
+Last updated     : 11/07/2026 22:00:47 UTC
 
 ```
 <!--END_SECTION:wakastats-->
