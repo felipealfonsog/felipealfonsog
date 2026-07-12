@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 25:47:17
-Telemetry age             : 25:47:17
-Δ time (since last report): 00:01:19
+Time since last play      : 25:47:47
+Telemetry age             : 25:47:47
+Δ time (since last report): 00:00:31
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-05 08:33:18Z → 2026-07-12 08:33:18Z
+Week window (UTC)         : 2026-07-05 08:33:49Z → 2026-07-12 08:33:49Z
 Total tracks played       : 46
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-12 08:33:18Z
+Report generated (UTC)    : 2026-07-12 08:33:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
