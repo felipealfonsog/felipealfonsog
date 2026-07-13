@@ -1494,13 +1494,13 @@ Last played               : John Chin, Lawrence Leathers, Spencer Murphy, Stacy 
 Last played (UTC)         : 2026-07-13 06:14:25Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Garbage — Queer - 2015 Remaster → John Chin, Lawrence Leathers, Spencer Murphy, Stacy Dillard, Tivon Pennicott — Edda
-Δ last played (since last): 2026-07-11 09:51:37Z → 2026-07-13 06:14:25Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:34:00
-Telemetry age             : 03:34:00
-Δ time (since last report): 05:43:21
+Time since last play      : 03:35:16
+Telemetry age             : 03:35:16
+Δ time (since last report): 00:01:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-06 09:48:25Z → 2026-07-13 09:48:25Z
+Week window (UTC)         : 2026-07-06 09:49:41Z → 2026-07-13 09:49:41Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(8) | hard bop(4) | free jazz(3) | vocal jazz(2) | afro-cuban jazz(1) | alternative metal(1)
 Top genres (7d)           : grunge(17) | alternative metal(14) | post-grunge(13) | rap metal(13) | shoegaze(11) | jazz(9)
-Artist lookups (this run) : 22 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-13 09:48:25Z
+Report generated (UTC)    : 2026-07-13 09:49:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
