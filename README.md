@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Garbage — Push It - 2018 Remaster
-Last played (UTC)         : 2026-07-11 06:46:02Z
+Last played               : Garbage — Queer - 2015 Remaster
+Last played (UTC)         : 2026-07-11 09:51:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Garbage — Push It - 2018 Remaster → Garbage — Queer - 2015 Remaster
+Δ last played (since last): 2026-07-11 06:46:02Z → 2026-07-11 09:51:37Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 39:24:18
-Telemetry age             : 39:24:18
-Δ time (since last report): 00:00:31
+Time since last play      : 42:10:55
+Telemetry age             : 42:10:55
+Δ time (since last report): 05:52:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,8 +1519,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-05 22:10:19Z → 2026-07-12 22:10:19Z
-Total tracks played       : 46
+Week window (UTC)         : 2026-07-06 04:02:31Z → 2026-07-13 04:02:31Z
+Total tracks played       : 47
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1536,8 +1536,8 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 15
-Avg inter-play gap (7d)   : 02:42:53
+Sessions (7d)             : 16
+Avg inter-play gap (7d)   : 02:43:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-12 22:10:19Z
+Report generated (UTC)    : 2026-07-13 04:02:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
