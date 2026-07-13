@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-07-12T19:16:04+00:00",
-    "last_successful_sync": "2026-07-12T19:16:04+00:00",
+    "last_attempted_sync": "2026-07-13T00:30:13+00:00",
+    "last_successful_sync": "2026-07-13T00:30:13+00:00",
     "error_message": ""
   },
   "sections": {
@@ -968,7 +968,7 @@
           "author": "Nicholas James Long",
           "link": "https://www.goodreads.com/review/show/8008507909?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397061034l/6146129._SY75_.jpg",
-          "summary": "author: Nicholas James Long name: Felipe Alfonso average rating: 4.24 book published: 2001 rating: 0 read at: date added: 2025/10/20 shelves: philosophy, behavior review:",
+          "summary": "author: Nicholas James Long name: Felipe Alfonso average rating: 4.25 book published: 2001 rating: 0 read at: date added: 2025/10/20 shelves: philosophy, behavior review:",
           "guid": "https://www.goodreads.com/review/show/8008507909?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:44:29 -0700"
         },
