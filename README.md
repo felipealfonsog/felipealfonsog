@@ -1494,13 +1494,13 @@ Last played               : Garbage — Queer - 2015 Remaster
 Last played (UTC)         : 2026-07-11 09:51:37Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Garbage — Push It - 2018 Remaster → Garbage — Queer - 2015 Remaster
-Δ last played (since last): 2026-07-11 06:46:02Z → 2026-07-11 09:51:37Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 42:10:55
-Telemetry age             : 42:10:55
-Δ time (since last report): 05:52:13
+Time since last play      : 42:12:50
+Telemetry age             : 42:12:50
+Δ time (since last report): 00:01:56
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-06 04:02:31Z → 2026-07-13 04:02:31Z
+Week window (UTC)         : 2026-07-06 04:04:26Z → 2026-07-13 04:04:26Z
 Total tracks played       : 47
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-13 04:02:31Z
+Report generated (UTC)    : 2026-07-13 04:04:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
