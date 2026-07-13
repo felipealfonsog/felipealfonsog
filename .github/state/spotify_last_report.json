@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-07-13 04:05:04Z",
+  "report_generated_utc": "2026-07-13 09:48:25Z",
   "status": "IDLE",
-  "last_track": "Garbage — Queer - 2015 Remaster",
-  "last_played_utc": "2026-07-11 09:51:37Z",
+  "last_track": "John Chin, Lawrence Leathers, Spencer Murphy, Stacy Dillard, Tivon Pennicott — Edda",
+  "last_played_utc": "2026-07-13 06:14:25Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1232,8 +1232,66 @@
       "riot grrrl",
       "alternative rock"
     ],
-    "6S0GHTqz5sxK5f9HtLXn9q": []
+    "6S0GHTqz5sxK5f9HtLXn9q": [],
+    "1ixbDzSoXoP26q6TkB3yHU": [
+      "hard bop"
+    ],
+    "3q4xoIkF5RpmoEKYBZnuqc": [],
+    "3DlKL0zvm5GHYPsZ77sNoa": [],
+    "2w8ffbcj9vl57I9avQS006": [
+      "free jazz"
+    ],
+    "3LDls2CFYVVqX9BUKnklCa": [],
+    "2ZkSgdOFVt7wF4Ah361rIn": [],
+    "5KAUw2OYL148tw5Nd3Ymfn": [
+      "vocal jazz",
+      "ambient jazz"
+    ],
+    "4KpdczOJ1a0WTx1KQz4Lwu": [],
+    "6JxNcAZGFjQ4ISi6n270lS": [],
+    "1eAt5Qjg9RPfYAhxl723YW": [
+      "jazz"
+    ],
+    "6WPu073KUfyLXE41VEW9Ik": [
+      "jazz"
+    ],
+    "3DF0ClNOUuvS3gh8V8sRJH": [
+      "mpb",
+      "samba",
+      "bossa nova",
+      "brazilian jazz"
+    ],
+    "2JgSc66Kcvl1pko9jI5K91": [
+      "latin jazz",
+      "big band",
+      "afro-cuban jazz",
+      "jazz"
+    ],
+    "0Cn4yjRG7JFC5DhZfnEYzz": [
+      "jazz"
+    ],
+    "1rWaPwUXLx3KlTmOcO66L2": [
+      "jazz"
+    ],
+    "1pjHY4vNthS2YoK8R4Ty0G": [
+      "jazz"
+    ],
+    "6bdkZsFJke5IhwIe7MEK8Y": [],
+    "0ahtSggrsy1v2oJuKfmzGm": [
+      "vocal jazz",
+      "jazz"
+    ],
+    "66FAsYgofjwbhgGXMzZyzP": [
+      "gnawa",
+      "jazz",
+      "hard bop"
+    ],
+    "60Qtnm46ynKnGaaMjOjogW": [],
+    "1vZJd7wBzo5sEEJrleK9gv": [],
+    "5RhBiUBi4RSDlKzGOh0T7r": [
+      "jazz ballads"
+    ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nPlayback state            : OFFLINE (no active session)\nStatus                    : IDLE\nSITREP                    : AMBER\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : N/A\nDevice name               : N/A\nVolume                    : N/A\nVolume telemetry          : NO ACTIVE SESSION\n------------------------------------------------------------\nNow playing               : N/A\nLast played               : Garbage — Queer - 2015 Remaster\nLast played (UTC)         : 2026-07-11 09:51:37Z\nLast activity type        : NO_ACTIVE_SESSION\n------------------------------------------------------------\nΔ track (since last)      : NO CHANGE\nΔ last played (since last): NO CHANGE\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 42:13:27\nTelemetry age             : 42:13:27\nΔ time (since last report): 00:00:38\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-06 04:05:04Z → 2026-07-13 04:05:04Z\nTotal tracks played       : 47\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 20:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              : ▂▂▂ ▁▁         ▁▁ ▁▃█▅▁▁\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 16\nAvg inter-play gap (7d)   : 02:43:23\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | rock(11) | shoegaze(11)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-13 04:05:04Z",
-  "last_successful_report_utc": "2026-07-13 04:05:04Z"
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nPlayback state            : OFFLINE (no active session)\nStatus                    : IDLE\nSITREP                    : AMBER\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : N/A\nDevice name               : N/A\nVolume                    : N/A\nVolume telemetry          : NO ACTIVE SESSION\n------------------------------------------------------------\nNow playing               : N/A\nLast played               : John Chin, Lawrence Leathers, Spencer Murphy, Stacy Dillard, Tivon Pennicott — Edda\nLast played (UTC)         : 2026-07-13 06:14:25Z\nLast activity type        : NO_ACTIVE_SESSION\n------------------------------------------------------------\nΔ track (since last)      : Garbage — Queer - 2015 Remaster → John Chin, Lawrence Leathers, Spencer Murphy, Stacy Dillard, Tivon Pennicott — Edda\nΔ last played (since last): 2026-07-11 09:51:37Z → 2026-07-13 06:14:25Z\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 03:34:00\nTelemetry age             : 03:34:00\nΔ time (since last report): 05:43:21\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 13\nDominant artist           : John Chin\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-06 09:48:25Z → 2026-07-13 09:48:25Z\nTotal tracks played       : 50\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 01:00\nPeak hour (7d)            : 20:00\nHeatmap (24h)             : ▁█▄                     \nHeatmap (7d)              : ▁▆▅ ▁▁         ▁▁ ▁▃█▅▁▁\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 2\nSessions (7d)             : 12\nAvg inter-play gap (7d)   : 01:54:15\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(8) | hard bop(4) | free jazz(3) | vocal jazz(2) | afro-cuban jazz(1) | alternative metal(1)\nTop genres (7d)           : grunge(17) | alternative metal(14) | post-grunge(13) | rap metal(13) | shoegaze(11) | jazz(9)\nArtist lookups (this run) : 22 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-13 09:48:25Z",
+  "last_successful_report_utc": "2026-07-13 09:48:25Z"
 }

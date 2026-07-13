@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Garbage — Queer - 2015 Remaster
-Last played (UTC)         : 2026-07-11 09:51:37Z
+Last played               : John Chin, Lawrence Leathers, Spencer Murphy, Stacy Dillard, Tivon Pennicott — Edda
+Last played (UTC)         : 2026-07-13 06:14:25Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Garbage — Queer - 2015 Remaster → John Chin, Lawrence Leathers, Spencer Murphy, Stacy Dillard, Tivon Pennicott — Edda
+Δ last played (since last): 2026-07-11 09:51:37Z → 2026-07-13 06:14:25Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 42:13:27
-Telemetry age             : 42:13:27
-Δ time (since last report): 00:00:38
+Time since last play      : 03:34:00
+Telemetry age             : 03:34:00
+Δ time (since last report): 05:43:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,38 +1512,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 13
+Dominant artist           : John Chin
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-06 04:05:04Z → 2026-07-13 04:05:04Z
-Total tracks played       : 47
+Week window (UTC)         : 2026-07-06 09:48:25Z → 2026-07-13 09:48:25Z
+Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 01:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▂▂▂ ▁▁         ▁▁ ▁▃█▅▁▁
+Heatmap (24h)             : ▁█▄                     
+Heatmap (7d)              : ▁▆▅ ▁▁         ▁▁ ▁▃█▅▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 16
-Avg inter-play gap (7d)   : 02:43:23
+Sessions (24h)            : 2
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 01:54:15
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(17) | alternative metal(13) | post-grunge(13) | rap metal(13) | rock(11) | shoegaze(11)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(8) | hard bop(4) | free jazz(3) | vocal jazz(2) | afro-cuban jazz(1) | alternative metal(1)
+Top genres (7d)           : grunge(17) | alternative metal(14) | post-grunge(13) | rap metal(13) | shoegaze(11) | jazz(9)
+Artist lookups (this run) : 22 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-13 04:05:04Z
+Report generated (UTC)    : 2026-07-13 09:48:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
