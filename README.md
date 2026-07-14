@@ -1494,13 +1494,13 @@ Last played               : Forward Jazz Series — Homeland
 Last played (UTC)         : 2026-07-14 07:57:01Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Queens of the Stone Age — Go With The Flow → Forward Jazz Series — Homeland
-Δ last played (since last): 2026-07-14 00:43:34Z → 2026-07-14 07:57:01Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:31:50
-Telemetry age             : 00:31:50
-Δ time (since last report): 04:48:12
+Time since last play      : 00:33:14
+Telemetry age             : 00:33:14
+Δ time (since last report): 00:01:25
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-07 08:28:50Z → 2026-07-14 08:28:50Z
+Week window (UTC)         : 2026-07-07 08:30:14Z → 2026-07-14 08:30:14Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(14) | hard bop(11) | bebop(9) | cool jazz(9) | jazz ballads(8) | free jazz(5)
 Top genres (7d)           : jazz(22) | hard bop(15) | alternative metal(14) | grunge(12) | post-grunge(11) | rap metal(10)
-Artist lookups (this run) : 14 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-14 08:28:50Z
+Report generated (UTC)    : 2026-07-14 08:30:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
