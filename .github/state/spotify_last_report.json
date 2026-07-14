@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-07-14 03:40:39Z",
+  "report_generated_utc": "2026-07-14 08:28:50Z",
   "status": "IDLE",
-  "last_track": "Queens of the Stone Age — Go With The Flow",
-  "last_played_utc": "2026-07-14 00:43:34Z",
+  "last_track": "Forward Jazz Series — Homeland",
+  "last_played_utc": "2026-07-14 07:57:01Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1294,8 +1294,80 @@
     "4pejUc4iciQfgdX6OKulQn": [
       "stoner rock",
       "alternative rock"
+    ],
+    "6g5FKA0bGBfPxzuz6OvGEA": [],
+    "1VEzN9lxvG6KPR3QQGsebR": [
+      "hard bop",
+      "jazz",
+      "bebop",
+      "jazz ballads",
+      "cool jazz"
+    ],
+    "5ZATfKurLqflrBhv2FLht5": [
+      "hard bop",
+      "jazz",
+      "bebop",
+      "cool jazz",
+      "soul jazz",
+      "jazz ballads"
+    ],
+    "7xwlN7fhoOwNgDmRTwYZOa": [
+      "bebop",
+      "hard bop",
+      "cool jazz",
+      "jazz",
+      "french jazz",
+      "big band"
+    ],
+    "0vKbTTNdtagd8xiERj6Szb": [
+      "cool jazz",
+      "jazz ballads",
+      "jazz",
+      "bebop",
+      "hard bop"
+    ],
+    "1sP0KjKWioXmkh9vUKb1fP": [
+      "jazz",
+      "free jazz",
+      "ambient jazz"
+    ],
+    "58Ieh2itn2s2DnnTA3mwTE": [
+      "free jazz",
+      "jazz",
+      "ambient jazz"
+    ],
+    "4F7Q5NV6h5TSwCainz8S5A": [
+      "jazz",
+      "big band",
+      "swing music",
+      "cool jazz",
+      "jazz ballads"
+    ],
+    "71Ur25Abq58vksqJINpGdx": [
+      "jazz",
+      "hard bop",
+      "cool jazz",
+      "jazz ballads",
+      "bebop"
+    ],
+    "0wHlC8tumVxWRyxKutlQUm": [
+      "jazz"
+    ],
+    "5CSkWcdoRvgBQDwJTZZstJ": [
+      "jazz",
+      "hard bop"
+    ],
+    "7q46e1hkWTUN1IWHzYb40p": [
+      "hard bop",
+      "jazz"
+    ],
+    "4UAdAgxnybF0chEX9FXX9m": [
+      "bebop"
+    ],
+    "4bj8k1TAVycxbk0zCHtpTR": [
+      "hard bop"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nPlayback state            : OFFLINE (no active session)\nStatus                    : IDLE\nSITREP                    : AMBER\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : N/A\nDevice name               : N/A\nVolume                    : N/A\nVolume telemetry          : NO ACTIVE SESSION\n------------------------------------------------------------\nNow playing               : N/A\nLast played               : Queens of the Stone Age — Go With The Flow\nLast played (UTC)         : 2026-07-14 00:43:34Z\nLast activity type        : NO_ACTIVE_SESSION\n------------------------------------------------------------\nΔ track (since last)      : NO CHANGE\nΔ last played (since last): NO CHANGE\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 02:57:06\nTelemetry age             : 02:57:06\nΔ time (since last report): 00:00:45\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 15\nDominant artist           : John Chin\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-07 03:40:39Z → 2026-07-14 03:40:39Z\nTotal tracks played       : 50\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 01:00\nPeak hour (7d)            : 20:00\nHeatmap (24h)             : ▁█▄                 ▂   \nHeatmap (7d)              : ▁▅▄  ▁         ▁▁ ▁▃█▄▁▁\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 4\nSessions (7d)             : 13\nAvg inter-play gap (7d)   : 02:04:04\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(8) | hard bop(4) | free jazz(3) | alternative rock(2) | stoner rock(2) | vocal jazz(2)\nTop genres (7d)           : grunge(17) | alternative metal(14) | post-grunge(13) | rap metal(13) | shoegaze(10) | nu metal(9)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-14 03:40:39Z",
-  "last_successful_report_utc": "2026-07-14 03:40:39Z"
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nPlayback state            : OFFLINE (no active session)\nStatus                    : IDLE\nSITREP                    : AMBER\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : N/A\nDevice name               : N/A\nVolume                    : N/A\nVolume telemetry          : NO ACTIVE SESSION\n------------------------------------------------------------\nNow playing               : N/A\nLast played               : Forward Jazz Series — Homeland\nLast played (UTC)         : 2026-07-14 07:57:01Z\nLast activity type        : NO_ACTIVE_SESSION\n------------------------------------------------------------\nΔ track (since last)      : Queens of the Stone Age — Go With The Flow → Forward Jazz Series — Homeland\nΔ last played (since last): 2026-07-14 00:43:34Z → 2026-07-14 07:57:01Z\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 00:31:50\nTelemetry age             : 00:31:50\nΔ time (since last report): 04:48:12\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 16\nDominant artist           : Forward Jazz Series\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-07 08:28:50Z → 2026-07-14 08:28:50Z\nTotal tracks played       : 50\nDominant artist           : Deftones\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 03:00\nPeak hour (7d)            : 02:00\nHeatmap (24h)             :   ▄█                ▂▁  \nHeatmap (7d)              : ▁▇█▇ ▁              ▆▆▁▁\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 4\nSessions (7d)             : 12\nAvg inter-play gap (7d)   : 01:37:11\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(14) | hard bop(11) | bebop(9) | cool jazz(9) | jazz ballads(8) | free jazz(5)\nTop genres (7d)           : jazz(22) | hard bop(15) | alternative metal(14) | grunge(12) | post-grunge(11) | rap metal(10)\nArtist lookups (this run) : 14 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-14 08:28:50Z",
+  "last_successful_report_utc": "2026-07-14 08:28:50Z"
 }

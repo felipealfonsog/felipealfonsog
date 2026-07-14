@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Queens of the Stone Age — Go With The Flow
-Last played (UTC)         : 2026-07-14 00:43:34Z
+Last played               : Forward Jazz Series — Homeland
+Last played (UTC)         : 2026-07-14 07:57:01Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Queens of the Stone Age — Go With The Flow → Forward Jazz Series — Homeland
+Δ last played (since last): 2026-07-14 00:43:34Z → 2026-07-14 07:57:01Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:57:06
-Telemetry age             : 02:57:06
-Δ time (since last report): 00:00:45
+Time since last play      : 00:31:50
+Telemetry age             : 00:31:50
+Δ time (since last report): 04:48:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,38 +1512,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 15
-Dominant artist           : John Chin
+Tracks played (last 24h)  : 16
+Dominant artist           : Forward Jazz Series
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-07 03:40:39Z → 2026-07-14 03:40:39Z
+Week window (UTC)         : 2026-07-07 08:28:50Z → 2026-07-14 08:28:50Z
 Total tracks played       : 50
-Dominant artist           : Silverchair
+Dominant artist           : Deftones
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
-Peak hour (7d)            : 20:00
-Heatmap (24h)             : ▁█▄                 ▂   
-Heatmap (7d)              : ▁▅▄  ▁         ▁▁ ▁▃█▄▁▁
+Peak hour (24h)           : 03:00
+Peak hour (7d)            : 02:00
+Heatmap (24h)             :   ▄█                ▂▁  
+Heatmap (7d)              : ▁▇█▇ ▁              ▆▆▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 02:04:04
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 01:37:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(8) | hard bop(4) | free jazz(3) | alternative rock(2) | stoner rock(2) | vocal jazz(2)
-Top genres (7d)           : grunge(17) | alternative metal(14) | post-grunge(13) | rap metal(13) | shoegaze(10) | nu metal(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(14) | hard bop(11) | bebop(9) | cool jazz(9) | jazz ballads(8) | free jazz(5)
+Top genres (7d)           : jazz(22) | hard bop(15) | alternative metal(14) | grunge(12) | post-grunge(11) | rap metal(10)
+Artist lookups (this run) : 14 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-14 03:40:39Z
+Report generated (UTC)    : 2026-07-14 08:28:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
