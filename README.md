@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 14:19:15
-Telemetry age             : 14:19:15
-Δ time (since last report): 00:01:40
+Time since last play      : 14:19:45
+Telemetry age             : 14:19:45
+Δ time (since last report): 00:00:31
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-07 22:16:15Z → 2026-07-14 22:16:15Z
+Week window (UTC)         : 2026-07-07 22:16:45Z → 2026-07-14 22:16:45Z
 Total tracks played       : 50
 Dominant artist           : Deftones
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-14 22:16:15Z
+Report generated (UTC)    : 2026-07-14 22:16:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
