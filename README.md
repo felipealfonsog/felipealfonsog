@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : John Chin, Lawrence Leathers, Spencer Murphy, Stacy Dillard, Tivon Pennicott — Edda
-Last played (UTC)         : 2026-07-13 06:14:25Z
+Last played               : Queens of the Stone Age — Go With The Flow
+Last played (UTC)         : 2026-07-14 00:43:34Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : John Chin, Lawrence Leathers, Spencer Murphy, Stacy Dillard, Tivon Pennicott — Edda → Queens of the Stone Age — Go With The Flow
+Δ last played (since last): 2026-07-13 06:14:25Z → 2026-07-14 00:43:34Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 15:59:43
-Telemetry age             : 15:59:43
-Δ time (since last report): 00:00:25
+Time since last play      : 02:54:31
+Telemetry age             : 02:54:31
+Δ time (since last report): 05:23:58
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 13
+Tracks played (last 24h)  : 15
 Dominant artist           : John Chin
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-06 22:14:07Z → 2026-07-13 22:14:07Z
+Week window (UTC)         : 2026-07-07 03:38:05Z → 2026-07-14 03:38:05Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1529,21 +1529,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 01:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             : ▁█▄                     
-Heatmap (7d)              : ▁▆▅ ▁▁         ▁▁ ▁▃█▅▁▁
+Heatmap (24h)             : ▁█▄                 ▂   
+Heatmap (7d)              : ▁▅▄  ▁         ▁▁ ▁▃█▄▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 01:54:15
+Sessions (24h)            : 4
+Sessions (7d)             : 13
+Avg inter-play gap (7d)   : 02:04:04
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(8) | hard bop(4) | free jazz(3) | vocal jazz(2) | afro-cuban jazz(1) | alternative metal(1)
-Top genres (7d)           : grunge(17) | alternative metal(14) | post-grunge(13) | rap metal(13) | shoegaze(11) | jazz(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(8) | hard bop(4) | free jazz(3) | alternative rock(2) | stoner rock(2) | vocal jazz(2)
+Top genres (7d)           : grunge(17) | alternative metal(14) | post-grunge(13) | rap metal(13) | shoegaze(10) | nu metal(9)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-13 22:14:07Z
+Report generated (UTC)    : 2026-07-14 03:38:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
