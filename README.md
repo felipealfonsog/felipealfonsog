@@ -1494,13 +1494,13 @@ Last played               : Queens of the Stone Age — Go With The Flow
 Last played (UTC)         : 2026-07-14 00:43:34Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : John Chin, Lawrence Leathers, Spencer Murphy, Stacy Dillard, Tivon Pennicott — Edda → Queens of the Stone Age — Go With The Flow
-Δ last played (since last): 2026-07-13 06:14:25Z → 2026-07-14 00:43:34Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:54:31
-Telemetry age             : 02:54:31
-Δ time (since last report): 05:23:58
+Time since last play      : 02:55:56
+Telemetry age             : 02:55:56
+Δ time (since last report): 00:01:25
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-07 03:38:05Z → 2026-07-14 03:38:05Z
+Week window (UTC)         : 2026-07-07 03:39:29Z → 2026-07-14 03:39:29Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(8) | hard bop(4) | free jazz(3) | alternative rock(2) | stoner rock(2) | vocal jazz(2)
 Top genres (7d)           : grunge(17) | alternative metal(14) | post-grunge(13) | rap metal(13) | shoegaze(10) | nu metal(9)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-14 03:38:05Z
+Report generated (UTC)    : 2026-07-14 03:39:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
