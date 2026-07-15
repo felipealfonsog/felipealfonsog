@@ -1490,18 +1490,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Tomasz Stanko Quintet — Terminal 7
+Now playing               : Tomasz Stanko Quartet — Trista
 Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-07-15 02:38:22Z
+Last played (UTC)         : 2026-07-15 06:28:32Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : IDLE → PLAYING
+Δ last played (since last): 2026-07-15 02:38:22Z → 2026-07-15 06:28:32Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:34:56
-Telemetry age             : 01:34:56
-Δ time (since last report): 00:32:53
+Time since last play      : 00:00:17
+Telemetry age             : 00:00:17
+Δ time (since last report): 02:15:31
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1513,14 +1513,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 28
+Tracks played (last 24h)  : 37
 Dominant artist           : Tomasz Stanko Quintet
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-08 04:13:18Z → 2026-07-15 04:13:18Z
+Week window (UTC)         : 2026-07-08 06:28:49Z → 2026-07-15 06:28:49Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1529,21 +1529,21 @@ LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
-Peak hour (7d)            : 02:00
-Heatmap (24h)             :   ▄█               ▂▆▄▁ 
-Heatmap (7d)              : ▁▇█▇ ▁             ▁▇▄▁▁
+Peak hour (7d)            : 01:00
+Heatmap (24h)             : ▂▅▄█               ▂▆▄▁ 
+Heatmap (7d)              : ▁█▆▆               ▁▆▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 01:56:34
+Sessions (24h)            : 6
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 01:00:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(27) | free jazz(17) | ambient jazz(13) | hard bop(13) | bebop(11) | cool jazz(11)
-Top genres (7d)           : jazz(35) | free jazz(20) | hard bop(17) | ambient jazz(14) | bebop(11) | cool jazz(11)
+Top genres (24h)          : jazz(36) | free jazz(26) | ambient jazz(21) | hard bop(14) | bebop(12) | cool jazz(12)
+Top genres (7d)           : jazz(44) | free jazz(29) | ambient jazz(22) | hard bop(18) | bebop(12) | cool jazz(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-15 04:13:18Z
+Report generated (UTC)    : 2026-07-15 06:28:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
