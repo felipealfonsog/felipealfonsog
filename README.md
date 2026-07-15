@@ -1495,13 +1495,13 @@ Last played               : Tomasz Stanko Quintet — Terminal 7
 Last played (UTC)         : 2026-07-15 00:57:27Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Forward Jazz Series — Homeland → Tomasz Stanko Quintet — Terminal 7
-Δ last played (since last): 2026-07-14 07:57:01Z → 2026-07-15 00:57:27Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:02:04
-Telemetry age             : 00:02:04
-Δ time (since last report): 02:42:46
+Time since last play      : 00:05:08
+Telemetry age             : 00:05:08
+Δ time (since last report): 00:03:05
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1520,7 +1520,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-08 00:59:30Z → 2026-07-15 00:59:30Z
+Week window (UTC)         : 2026-07-08 01:02:35Z → 2026-07-15 01:02:35Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1544,7 +1544,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(21) | hard bop(13) | bebop(11) | cool jazz(11) | free jazz(11) | jazz ballads(9)
 Top genres (7d)           : jazz(29) | hard bop(17) | free jazz(14) | bebop(11) | cool jazz(11) | jazz ballads(10)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1552,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-15 00:59:30Z
+Report generated (UTC)    : 2026-07-15 01:02:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
