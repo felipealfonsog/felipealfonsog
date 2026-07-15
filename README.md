@@ -1478,50 +1478,51 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : CastAudio
+Device name               : GNest-MerkleTree speaker
+Volume                    : 54%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Forward Jazz Series — Homeland
-Last played (UTC)         : 2026-07-14 07:57:01Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Tomasz Stanko Quintet — Terminal 7
+Last played               : Tomasz Stanko Quintet — Terminal 7
+Last played (UTC)         : 2026-07-15 00:57:27Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Forward Jazz Series — Homeland → Tomasz Stanko Quintet — Terminal 7
+Δ last played (since last): 2026-07-14 07:57:01Z → 2026-07-15 00:57:27Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 14:19:45
-Telemetry age             : 14:19:45
-Δ time (since last report): 00:00:31
+Time since last play      : 00:02:04
+Telemetry age             : 00:02:04
+Δ time (since last report): 02:42:46
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
-Dominant artist           : Forward Jazz Series
+Tracks played (last 24h)  : 23
+Dominant artist           : Tomasz Stanko Quintet
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-07 22:16:45Z → 2026-07-14 22:16:45Z
+Week window (UTC)         : 2026-07-08 00:59:30Z → 2026-07-15 00:59:30Z
 Total tracks played       : 50
-Dominant artist           : Deftones
+Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1529,21 +1530,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 02:00
-Heatmap (24h)             :   ▄█                ▂▁  
-Heatmap (7d)              : ▁▇█▇ ▁              ▆▆▁▁
+Heatmap (24h)             :   ▄█               ▂▆▁  
+Heatmap (7d)              : ▁▇█▇ ▁             ▁▇▄▁▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 01:37:11
+Sessions (7d)             : 14
+Avg inter-play gap (7d)   : 01:57:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(14) | hard bop(11) | bebop(9) | cool jazz(9) | jazz ballads(8) | free jazz(5)
-Top genres (7d)           : jazz(22) | hard bop(15) | alternative metal(14) | grunge(12) | post-grunge(11) | rap metal(10)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(21) | hard bop(13) | bebop(11) | cool jazz(11) | free jazz(11) | jazz ballads(9)
+Top genres (7d)           : jazz(29) | hard bop(17) | free jazz(14) | bebop(11) | cool jazz(11) | jazz ballads(10)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1552,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-14 22:16:45Z
+Report generated (UTC)    : 2026-07-15 00:59:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
