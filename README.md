@@ -672,7 +672,7 @@ ICONOS INICIALES INLINE SVG1
 -->
 
 <details open>
-<summary><strong>🛰️ GNLZ.CL SITE OPERATIONS INTELLIGENCE</strong> — updated automatically at regular intervals • full-spectrum profile active • last valid snapshot retained on probe failure)*</summary>
+<summary><strong>🛰️ GNLZ.CL SITE OPERATIONS INTELLIGENCE</strong> — updated automatically at regular intervals • full-spectrum profile active • last valid snapshot retained on probe failure.*</summary>
 
 <!-- GNLZ:SITE_INTEL:START -->
 ```text
@@ -754,7 +754,7 @@ PROBE_CONFIDENCE.... HIGH
 
 
 <details open>
-<summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically at regular intervals • city-local profile active)*</summary>
+<summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically at regular intervals • city-local profile active.*</summary>
 
   
 <!-- telemetry-presence:start -->
