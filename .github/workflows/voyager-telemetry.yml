@@ -1,9 +1,15 @@
 name: Voyager Telemetry (CLI style)
 
+
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "23 */3 * * *"
+    # Previous baseline: every 3 hours (8 runs/day)
+    # - cron: "23 */3 * * *"
+
+    # Current baseline: every 6 hours (4 runs/day)
+    - cron: "23 */6 * * *"
 
 permissions:
   contents: write
