@@ -754,7 +754,7 @@ PROBE_CONFIDENCE.... HIGH
 
 
 <details open>
-<summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • city-local profile active)*</summary>
+<summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically at regular intervals • city-local profile active)*</summary>
 
   
 <!-- telemetry-presence:start -->
@@ -790,7 +790,7 @@ updated_utc    : 2026-07-16 08:03:40 UTC
 #
 
 <details open>
-<summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • Chile: America/Santiago UTC−3/UTC−4)*</summary>
+<summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically at regular intervals • Chile: America/Santiago UTC−3/UTC−4)*</summary>
 
 <!--
 <br>
