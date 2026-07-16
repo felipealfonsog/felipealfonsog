@@ -8,7 +8,6 @@ on:
 
   # Current baseline: every 12 hours (2 runs/day)
   - cron: "35 */12 * * *"
-
   
 permissions:
   contents: write
