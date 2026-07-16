@@ -1,8 +1,8 @@
 <!--
- snapshot_utc : 2026-07-16_0804Z
+ snapshot_utc : 2026-07-16_1412Z
  ring_days    : 1
- slot         : 1/4
- period_hours : 6
+ slot         : 1/2
+ period_hours : 12
 -->
 
 <!-- 
@@ -510,7 +510,7 @@ ICONOS INICIALES INLINE SVG1
 <a id="goodreads"></a>
 
 <details open>
-<summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
+<summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically at regular intervals • shelf telemetry active • last valid snapshot retained on source failure.*</summary>
 
 <br>
 
@@ -679,7 +679,7 @@ ICONOS INICIALES INLINE SVG1
 -->
 
 <details open>
-<summary><strong>🛰️ GNLZ.CL SITE OPERATIONS INTELLIGENCE</strong> — updated automatically every 3 hours (00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC • full-spectrum profile active • last valid snapshot retained on probe failure)*</summary>
+<summary><strong>🛰️ GNLZ.CL SITE OPERATIONS INTELLIGENCE</strong> — updated automatically at regular intervals • full-spectrum profile active • last valid snapshot retained on probe failure.*</summary>
 
 <!-- GNLZ:SITE_INTEL:START -->
 ```text
@@ -761,7 +761,7 @@ PROBE_CONFIDENCE.... HIGH
 
 
 <details open>
-<summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • city-local profile active)*</summary>
+<summary><strong>🛰️ TELEMETRY PRESENCE</strong> — updated automatically at regular intervals • city-local profile active.*</summary>
 
   
 <!-- telemetry-presence:start -->
@@ -770,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444642
-longitude      : -70.650898
-altitude       : 39 m
-gps_accuracy   : ±8.5 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : low_movement
-phase          : overnight
-local_time     : 04:03
+location       : residential_sector
+latitude       : -33.441655
+longitude      : -70.654090
+altitude       : 103 m
+gps_accuracy   : ±4.2 m
+heading        : 9°
+speed          : 6.6 km/h
+status         : in_transit
+phase          : morning
+local_time     : 09:20
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-07-16 08:03:40 UTC
+signal         : nominal
+updated_utc    : 2026-07-16 13:20:25 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -797,7 +797,7 @@ updated_utc    : 2026-07-16 08:03:40 UTC
 #
 
 <details open>
-<summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC • Chile: America/Santiago UTC−3/UTC−4)*</summary>
+<summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically at regular intervals • Chile: America/Santiago UTC−3/UTC−4.*</summary>
 
 <!--
 <br>
@@ -995,7 +995,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 
 
 <details open>
-<summary>:star2: 🛰️ <strong>Latest Threat Intelligence from AlienVault OTX</strong> – updated automatically every 5 hours.*</summary>
+<summary>:star2: 🛰️ <strong>Latest Threat Intelligence from AlienVault OTX</strong> – updated automatically at regular intervals.*</summary>
 <br>
   
 <!-- OTX-START -->
@@ -1498,16 +1498,16 @@ Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-07-15 07:02:59Z
+Last played (UTC)         : 2026-07-15 09:09:51Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:40:40
-Telemetry age             : 20:40:40
-Δ time (since last report): 00:01:05
+Time since last play      : 26:04:08
+Telemetry age             : 26:04:08
+Δ time (since last report): 02:37:07
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,14 +1519,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
-Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-09 03:43:39Z → 2026-07-16 03:43:39Z
+Week window (UTC)         : 2026-07-09 11:13:58Z → 2026-07-16 11:13:58Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1534,22 +1534,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 02:00
-Heatmap (24h)             : ▃█▄▁                    
-Heatmap (7d)              : ▁▇█▇               ▁▇▄▁ 
+Heatmap (24h)             : N/A
+Heatmap (7d)              : ▁▆█▇ ▁             ▁▇▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 01:00:24
+Sessions (24h)            : N/A
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 01:02:42
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : free jazz(12) | jazz(12) | ambient jazz(11) | bebop(1) | cool jazz(1) | hard bop(1)
-Top genres (7d)           : jazz(42) | free jazz(32) | ambient jazz(25) | hard bop(17) | bebop(12) | cool jazz(12)
+Top genres (24h)          : N/A
+Top genres (7d)           : jazz(42) | free jazz(33) | ambient jazz(26) | hard bop(17) | bebop(12) | cool jazz(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1558,7 +1558,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-16 03:43:39Z
+Report generated (UTC)    : 2026-07-16 11:13:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1968,7 +1968,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 16/07/2026 07:45:12 UTC
+Last updated     : 16/07/2026 13:40:08 UTC
 
 ```
 <!--END_SECTION:wakastats-->
