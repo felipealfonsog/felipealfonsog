@@ -988,7 +988,7 @@ Due to the nature of this domain, all operational specifics, methodologies, and 
 
 
 <details open>
-<summary>:star2: 🛰️ <strong>Latest Threat Intelligence from AlienVault OTX</strong> – updated automatically every 5 hours.*</summary>
+<summary>:star2: 🛰️ <strong>Latest Threat Intelligence from AlienVault OTX</strong> – updated automatically at regular intervals.*</summary>
 <br>
   
 <!-- OTX-START -->
