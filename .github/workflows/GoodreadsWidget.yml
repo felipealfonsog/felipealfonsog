@@ -3,8 +3,12 @@ name: Goodreads Widget
 on:
   workflow_dispatch:
   schedule:
-    - cron: "3 */3 * * *"
+  # Previous baseline: every 3 hours (8 runs/day)
+  # - cron: "3 */3 * * *"
 
+  # Current baseline: every 6 hours (4 runs/day)
+  - cron: "3 */6 * * *"
+  
 concurrency:
   group: goodreads-widget
   cancel-in-progress: false
