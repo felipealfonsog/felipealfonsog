@@ -2,7 +2,12 @@ name: GNLZ Site Intel
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    # Previous baseline: every 3 hours (8 runs/day)
+    # - cron: "0 */3 * * *"
+
+    # Current baseline: once per day at 03:00 UTC
+    - cron: "0 3 * * *"
+
   workflow_dispatch:
 
 permissions:
