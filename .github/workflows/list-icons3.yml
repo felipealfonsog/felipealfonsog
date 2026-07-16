@@ -3,8 +3,12 @@ name: List-icons3
 on:
   workflow_dispatch:
   schedule:
-    - cron: "29 */6 * * *"
+  # Previous baseline: every 6 hours (4 runs/day)
+  # - cron: "29 */6 * * *"
 
+  # Current baseline: every 12 hours (2 runs/day)
+  - cron: "29 */12 * * *"
+  
 permissions:
   contents: write
 
