@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-07-16T07:58:22+00:00",
-    "last_successful_sync": "2026-07-16T07:58:22+00:00",
+    "last_attempted_sync": "2026-07-16T14:15:06+00:00",
+    "last_successful_sync": "2026-07-16T14:15:06+00:00",
     "error_message": ""
   },
   "sections": {
@@ -499,7 +499,7 @@
           "author": "Ichiro Kishimi",
           "link": "https://www.goodreads.com/review/show/6449802806?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545421684l/43306206._SY75_.jpg",
-          "summary": "author: Ichiro Kishimi name: Felipe Alfonso average rating: 3.86 book published: 2013 rating: 0 read at: date added: 2024/04/22 shelves: to-read review:",
+          "summary": "author: Ichiro Kishimi name: Felipe Alfonso average rating: 3.85 book published: 2013 rating: 0 read at: date added: 2024/04/22 shelves: to-read review:",
           "guid": "https://www.goodreads.com/review/show/6449802806?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 22 Apr 2024 21:35:27 -0700"
         },
