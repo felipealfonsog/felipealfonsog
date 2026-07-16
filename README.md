@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 31:34:46
-Telemetry age             : 31:34:46
-Δ time (since last report): 02:17:28
+Time since last play      : 37:08:01
+Telemetry age             : 37:08:01
+Δ time (since last report): 05:33:16
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-09 16:44:36Z → 2026-07-16 16:44:36Z
+Week window (UTC)         : 2026-07-09 22:17:51Z → 2026-07-16 22:17:51Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-16 16:44:36Z
+Report generated (UTC)    : 2026-07-16 22:17:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
