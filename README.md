@@ -790,7 +790,7 @@ updated_utc    : 2026-07-16 08:03:40 UTC
 #
 
 <details open>
-<summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically at regular intervals • Chile: America/Santiago UTC−3/UTC−4)*</summary>
+<summary><strong>🛰️ TIME DISCIPLINE / SITREP</strong> — updated automatically at regular intervals • Chile: America/Santiago UTC−3/UTC−4.*</summary>
 
 <!--
 <br>
