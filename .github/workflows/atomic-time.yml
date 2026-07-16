@@ -2,9 +2,15 @@ name: Time Discipline SITREP (UTC/NIST)
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */6 * * *"
 
+  schedule:
+    # Previous baseline: every 6 hours (4 runs/day)
+    # - cron: "0 */6 * * *"
+
+    # Current baseline: every 12 hours (2 runs/day)
+    - cron: "0 */12 * * *"
+
+    
 permissions:
   contents: write
 
