@@ -1,0 +1,40 @@
+name: Update Recent Repos
+
+on:
+  push:
+    paths:
+      - .github/workflows/listrepos.yml
+      - src/generate_listrepos.py
+      - README.md
+      - LISTINGREPOS.md
+
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install requests library
+        run: pip install requests
+
+      - name: Generate README.md with repos
+        run: python src/generate_listrepos.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "f.alfonso@res-ear.ch"
+          git config --global user.name "Felipe"
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet || (git add README.md LISTINGREPOS.md && git commit -m "Update README.md and LISTINGREPOS.md with recent repos" && git push)
