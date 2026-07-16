@@ -503,7 +503,7 @@ ICONOS INICIALES INLINE SVG1
 <a id="goodreads"></a>
 
 <details open>
-<summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically every 3 hours (00:03, 03:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03 UTC • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
+<summary><strong>📚 GOODREADS READING DATA</strong> — updated automatically at regular intervals • shelf telemetry active • last valid snapshot retained on source failure)*</summary>
 
 <br>
 
