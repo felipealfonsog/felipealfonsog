@@ -1,12 +1,24 @@
 name: Get Top Followers
 
 on:
-  push:
-    branches:
-      - master
+  # ------------------------------------------------------------------
+  # Disabled to reduce unnecessary GitHub Actions executions.
+  # This workflow only needs periodic updates and manual execution.
+  #
+  # If automatic execution on every push is ever needed again,
+  # simply uncomment the following block.
+  # ------------------------------------------------------------------
+  # push:
+  #   branches:
+  #     - master
+
   schedule:
+    # Previous schedule (17 runs/day):
     # - cron: '0 0-4,10-15,17-22 * * *'
+
+    # Current baseline (every 6 hours = 4 runs/day)
     - cron: '0 */6 * * *'
+
   workflow_dispatch:
 
 permissions:
@@ -85,6 +97,7 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add README.md
           git commit -m "chore: update top followers"
 
