@@ -11,8 +11,7 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
-permissions:
-  contents: write
+  workflow_dispatch:
 
 jobs:
   update-repos:
@@ -20,17 +19,15 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v2
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v2
         with:
-          python-version: "3.12"
+          python-version: "3.x"
 
       - name: Install requests library
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+        run: pip install requests
 
       - name: Generate README.md with repos
         run: python src/generate_listrepos.py
@@ -43,8 +40,4 @@ jobs:
       - name: Check for changes
         id: git-check
         run: |
-          git diff --quiet || (
-            git add README.md LISTINGREPOS.md &&
-            git commit -m "Update README.md and LISTINGREPOS.md with recent repos" &&
-            git push
-          )
+          git diff --quiet || (git add README.md LISTINGREPOS.md && git commit -m "Update README.md and LISTINGREPOS.md with recent repos" && git push)
