@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-07-15_0158Z
+ snapshot_utc : 2026-07-16_0208Z
  ring_days    : 1
  slot         : 0/4
  period_hours : 6
@@ -525,7 +525,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-14T16:20:50+00:00 | last_update=2026-07-14T16:20:50+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-15T13:59:30+00:00 | last_update=2026-07-15T13:59:30+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -695,13 +695,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 126 ms
-TTFB................ 125 ms
+LATENCY............. 129 ms
+TTFB................ 128 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 50d
+TLS_EXPIRY.......... 49d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -714,9 +714,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PASS
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -730,7 +730,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 45 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-14T22:04:27Z
+LAST_PROBE_UTC...... 2026-07-15T19:23:05Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -770,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444620
-longitude      : -70.651055
-altitude       : 136 m
-gps_accuracy   : ±5.0 m
-heading        : 291°
-speed          : 4.7 km/h
-status         : walking
+location       : pedestrian_axis
+latitude       : -33.437410
+longitude      : -70.647051
+altitude       : 142 m
+gps_accuracy   : ±4.0 m
+heading        : 161°
+speed          : 0.3 km/h
+status         : stationary
 phase          : evening
-local_time     : 21:08
+local_time     : 21:18
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-07-15 01:08:53 UTC
+updated_utc    : 2026-07-16 01:18:06 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-14 22:25:46Z
+DSN snapshot (UTC)       : 2026-07-15 22:25:06Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.50e9 km | 170.480 AU
-Heliocentric distance    : 171.156 AU
-Relative speed           : 39.501 km/s
+Earth distance           : 25.51e9 km | 170.498 AU
+Heliocentric distance    : 171.166 AU
+Relative speed           : 39.650 km/s
 ------------------------------------------------------------
-One-way light time       : 23:37:50
-Round-trip latency       : 47:15:41
+One-way light time       : 23:37:59
+Round-trip latency       : 47:15:58
 ------------------------------------------------------------
-Δ distance (since last)  : +290,523 km
-Mission age              : 48 years, 324 days
+Δ distance (since last)  : +915,338 km
+Mission age              : 48 years, 325 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.33e9 km | 142.613 AU
-Heliocentric distance    : 143.407 AU
-Relative speed           : 32.739 km/s
+Earth distance           : 21.34e9 km | 142.622 AU
+Heliocentric distance    : 143.416 AU
+Relative speed           : 32.895 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:05
-Round-trip latency       : 39:32:09
+One-way light time       : 19:46:09
+Round-trip latency       : 39:32:18
 ------------------------------------------------------------
-Δ distance (since last)  : +147,594 km
-Mission age              : 48 years, 340 days
+Δ distance (since last)  : +470,852 km
+Mission age              : 48 years, 341 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-14 22:25:49Z
+Report generated (UTC)   : 2026-07-15 22:25:11Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1485,49 +1485,48 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : CastAudio
-Device name               : GNest-MerkleTree speaker
-Volume                    : 54%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄
+Device type               : N/A
+Device name               : N/A
+Volume                    : N/A
+Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
-Now playing               : Tomasz Stanko Quintet — Terminal 7
+Now playing               : N/A
 Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-07-15 00:57:27Z
-Last activity type        : PLAYBACK_ACTIVE
+Last played (UTC)         : 2026-07-15 07:02:59Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:08
-Telemetry age             : 00:05:08
-Δ time (since last report): 00:03:05
+Time since last play      : 15:13:41
+Telemetry age             : 15:13:41
+Δ time (since last report): 00:00:28
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 23
+Tracks played (last 24h)  : 27
 Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-08 01:02:35Z → 2026-07-15 01:02:35Z
+Week window (UTC)         : 2026-07-08 22:16:40Z → 2026-07-15 22:16:40Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1535,22 +1534,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 02:00
-Heatmap (24h)             :   ▄█               ▂▆▁  
-Heatmap (7d)              : ▁▇█▇ ▁             ▁▇▄▁▁
+Heatmap (24h)             : ▂▇▃▁               ▂█▆▁ 
+Heatmap (7d)              : ▁▇█▇               ▁▇▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 14
-Avg inter-play gap (7d)   : 01:57:16
+Sessions (24h)            : 5
+Sessions (7d)             : 10
+Avg inter-play gap (7d)   : 01:00:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(21) | hard bop(13) | bebop(11) | cool jazz(11) | free jazz(11) | jazz ballads(9)
-Top genres (7d)           : jazz(29) | hard bop(17) | free jazz(14) | bebop(11) | cool jazz(11) | jazz ballads(10)
+Top genres (24h)          : jazz(25) | free jazz(24) | ambient jazz(22) | bebop(3) | cool jazz(3) | hard bop(3)
+Top genres (7d)           : jazz(42) | free jazz(32) | ambient jazz(25) | hard bop(17) | bebop(12) | cool jazz(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1559,7 +1558,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-15 01:02:35Z
+Report generated (UTC)    : 2026-07-15 22:16:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1917,9 +1916,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 14 July 2026
+From: 04 December 2023 - To: 15 July 2026
 
-Total Time       : 1,039 hrs 32 mins
+Total Time       : 1,039 hrs 56 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 5 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1928,32 +1927,32 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          661 hrs 58 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.68 %
-Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  17.00 %
-Python         140 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.55 %
-HTML           137 hrs 54 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.27 %
+Other          666 hrs 11 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.06 %
+Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.99 %
+Python         140 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.54 %
+HTML           137 hrs 54 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.26 %
 PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.50 %
 Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.77 %
-C              73 hrs 51 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.10 %
-C++            39 hrs 59 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.85 %
+C              74 hrs 11 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.13 %
+C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.85 %
 Text           39 hrs 40 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
 YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.65 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            988 hrs 3 mins ●●●●●●●●●●●●●●●●●●●●●●●●◔○  95.05 %
-Linux          713 hrs 27 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.63 %
+Mac            992 hrs 37 mins ●●●●●●●●●●●●●●●●●●●●●●●●◔○  95.45 %
+Linux          713 hrs 30 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.61 %
 
 EDITORS - APPS
 --------------
-VS Code        657 hrs 25 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.24 %
-Firefox        522 hrs 44 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  50.29 %
-Vim            337 hrs 32 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.47 %
+VS Code        657 hrs 26 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.22 %
+Firefox        523 hrs 7 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  50.30 %
+Vim            337 hrs 55 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.49 %
 Terminal       38 hrs 56 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
-Spotify        25 hrs 38 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
+Spotify        25 hrs 39 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
+Termius        18 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.79 %
 ‎WhatsApp      17 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.64 %
 Dia            16 hrs 33 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.59 %
-Termius        14 hrs 46 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.42 %
 Acrobat        13 hrs 50 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
 FileZilla      8 hrs 46 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.84 %
@@ -1961,15 +1960,15 @@ Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,149 hrs 49 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       519 hrs 39 mins ●●●●●●●●●●●●◔○○○○○○○○○○○○○  49.99 %
+Coding         1,154 hrs 3 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       520 hrs 3 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  50.01 %
 Meeting        25 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.48 %
 Writing Docs   6 hrs 12 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 14/07/2026 22:05:07 UTC
+Last updated     : 15/07/2026 22:08:10 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2838,6 +2837,8 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell  •  ⭐ 4
 
 ### 🕒 Recently Active Projects
+- [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
+  🧬 Python · Shell · Nix  •  ⭐ 1
 - [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
   🧬 Python · Shell  •  ⭐ 6
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
@@ -2850,8 +2851,6 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 JavaScript · CSS · Shell  •  ⭐ 54
 - [PerlMemoPad](https://github.com/openvelora/PerlMemoPad): PerlMemoPad is a project focused on developing a mini-weblog using Perl and MySQL. With PerlMemoPad, users can easily publish and manage their notes and other content.
   🧬 Perl · CSS  •  ⭐ 1
-- [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
-  🧬 Python · Shell · Nix  •  ⭐ 1
 - [AutoReconnect](https://github.com/felipealfonsog/AutoReconnect): An automated tool for reconnecting to WiFi networks using ConnMan. It ensures continuous internet connectivity by reconnecting to the last connected network or the next available one.
   🧬 Python · Shell  •  ⭐ 2
 
