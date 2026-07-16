@@ -3,8 +3,11 @@ name: Waka Stats (CLI style)
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0-4,10-15,17-22 * * *'
+  # Previous schedule (17 runs/day):
+  # - cron: '0 0-4,10-15,17-22 * * *'
 
+  # Current baseline (every 6 hours = 4 runs/day)
+  - cron: '0 */6 * * *'
 permissions:
   contents: write
 
