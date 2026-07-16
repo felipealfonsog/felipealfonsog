@@ -1,8 +1,8 @@
 <!--
- snapshot_utc : 2026-07-16_0208Z
+ snapshot_utc : 2026-07-16_0807Z
  ring_days    : 1
- slot         : 0/4
- period_hours : 6
+ slot         : 0/2
+ period_hours : 12
 -->
 
 <!-- 
@@ -525,7 +525,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-15T13:59:30+00:00 | last_update=2026-07-15T13:59:30+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-16T07:58:22+00:00 | last_update=2026-07-16T07:58:22+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -695,13 +695,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 129 ms
-TTFB................ 128 ms
+LATENCY............. 222 ms
+TTFB................ 221 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 49d
+TLS_EXPIRY.......... 48d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -714,9 +714,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PASS
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -730,7 +730,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 45 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-15T19:23:05Z
+LAST_PROBE_UTC...... 2026-07-16T07:49:21Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -770,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437410
-longitude      : -70.647051
-altitude       : 142 m
-gps_accuracy   : ±4.0 m
-heading        : 161°
-speed          : 0.3 km/h
-status         : stationary
-phase          : evening
-local_time     : 21:18
+location       : urban_sector
+latitude       : -33.444642
+longitude      : -70.650898
+altitude       : 39 m
+gps_accuracy   : ±8.5 m
+heading        : 0°
+speed          : 0.1 km/h
+status         : low_movement
+phase          : overnight
+local_time     : 04:03
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-07-16 01:18:06 UTC
+updated_utc    : 2026-07-16 08:03:40 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-15 22:25:06Z
+DSN snapshot (UTC)       : 2026-07-16 07:54:15Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.51e9 km | 170.498 AU
-Heliocentric distance    : 171.166 AU
-Relative speed           : 39.650 km/s
+Earth distance           : 25.51e9 km | 170.505 AU
+Heliocentric distance    : 171.170 AU
+Relative speed           : 39.708 km/s
 ------------------------------------------------------------
-One-way light time       : 23:37:59
-Round-trip latency       : 47:15:58
+One-way light time       : 23:38:03
+Round-trip latency       : 47:16:06
 ------------------------------------------------------------
-Δ distance (since last)  : +915,338 km
-Mission age              : 48 years, 325 days
+Δ distance (since last)  : +1.067e6 km
+Mission age              : 48 years, 326 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.622 AU
-Heliocentric distance    : 143.416 AU
-Relative speed           : 32.895 km/s
+Earth distance           : 21.34e9 km | 142.626 AU
+Heliocentric distance    : 143.419 AU
+Relative speed           : 32.956 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:09
-Round-trip latency       : 39:32:18
+One-way light time       : 19:46:11
+Round-trip latency       : 39:32:22
 ------------------------------------------------------------
-Δ distance (since last)  : +470,852 km
-Mission age              : 48 years, 341 days
+Δ distance (since last)  : +551,689 km
+Mission age              : 48 years, 342 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-15 22:25:11Z
+Report generated (UTC)   : 2026-07-16 07:54:17Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,9 +1505,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 15:13:41
-Telemetry age             : 15:13:41
-Δ time (since last report): 00:00:28
+Time since last play      : 20:40:40
+Telemetry age             : 20:40:40
+Δ time (since last report): 00:01:05
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,14 +1519,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 27
+Tracks played (last 24h)  : 12
 Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-08 22:16:40Z → 2026-07-15 22:16:40Z
+Week window (UTC)         : 2026-07-09 03:43:39Z → 2026-07-16 03:43:39Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1534,21 +1534,21 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 01:00
 Peak hour (7d)            : 02:00
-Heatmap (24h)             : ▂▇▃▁               ▂█▆▁ 
+Heatmap (24h)             : ▃█▄▁                    
 Heatmap (7d)              : ▁▇█▇               ▁▇▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 2
 Sessions (7d)             : 10
 Avg inter-play gap (7d)   : 01:00:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(25) | free jazz(24) | ambient jazz(22) | bebop(3) | cool jazz(3) | hard bop(3)
+Top genres (24h)          : free jazz(12) | jazz(12) | ambient jazz(11) | bebop(1) | cool jazz(1) | hard bop(1)
 Top genres (7d)           : jazz(42) | free jazz(32) | ambient jazz(25) | hard bop(17) | bebop(12) | cool jazz(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1558,7 +1558,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-15 22:16:40Z
+Report generated (UTC)    : 2026-07-16 03:43:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1968,7 +1968,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 15/07/2026 22:08:10 UTC
+Last updated     : 16/07/2026 07:45:12 UTC
 
 ```
 <!--END_SECTION:wakastats-->
