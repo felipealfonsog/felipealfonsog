@@ -1494,13 +1494,13 @@ Last played               : 1000mods — Liquid Sleep
 Last played (UTC)         : 2026-07-17 02:00:26Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → 1000mods — Liquid Sleep
-Δ last played (since last): 2026-07-15 09:09:51Z → 2026-07-17 02:00:26Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:41:52
-Telemetry age             : 01:41:52
-Δ time (since last report): 05:24:27
+Time since last play      : 08:58:45
+Telemetry age             : 08:58:45
+Δ time (since last report): 07:16:53
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-10 03:42:18Z → 2026-07-17 03:42:18Z
+Week window (UTC)         : 2026-07-10 10:59:10Z → 2026-07-17 10:59:10Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : doom metal(1) | psychedelic rock(1) | sludge metal(1) | space rock(1) | stoner metal(1) | stoner rock(1)
 Top genres (7d)           : jazz(42) | free jazz(33) | ambient jazz(26) | hard bop(17) | bebop(12) | cool jazz(12)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-17 03:42:18Z
+Report generated (UTC)    : 2026-07-17 10:59:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
