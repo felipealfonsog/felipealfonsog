@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-07-15 09:09:51Z
+Last played               : 1000mods — Liquid Sleep
+Last played (UTC)         : 2026-07-17 02:00:26Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → 1000mods — Liquid Sleep
+Δ last played (since last): 2026-07-15 09:09:51Z → 2026-07-17 02:00:26Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 37:08:01
-Telemetry age             : 37:08:01
-Δ time (since last report): 05:33:16
+Time since last play      : 01:41:52
+Telemetry age             : 01:41:52
+Δ time (since last report): 05:24:27
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : 1000mods
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-09 22:17:51Z → 2026-07-16 22:17:51Z
+Week window (UTC)         : 2026-07-10 03:42:18Z → 2026-07-17 03:42:18Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1527,23 +1527,23 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 22:00
 Peak hour (7d)            : 02:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁▆█▇ ▁             ▁▇▄▁ 
+Heatmap (24h)             :                       █ 
+Heatmap (7d)              : ▁▅█▇ ▁             ▁▇▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 01:02:42
+Sessions (24h)            : 1
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 01:52:40
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
+Top genres (24h)          : doom metal(1) | psychedelic rock(1) | sludge metal(1) | space rock(1) | stoner metal(1) | stoner rock(1)
 Top genres (7d)           : jazz(42) | free jazz(33) | ambient jazz(26) | hard bop(17) | bebop(12) | cool jazz(12)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-16 22:17:51Z
+Report generated (UTC)    : 2026-07-17 03:42:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
