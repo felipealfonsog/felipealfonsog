@@ -1494,13 +1494,13 @@ Last played               : Temple Of The Dog — Hunger Strike
 Last played (UTC)         : 2026-07-18 11:26:28Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Holywatr — Pure Leaf → Temple Of The Dog — Hunger Strike
-Δ last played (since last): 2026-07-18 06:21:20Z → 2026-07-18 11:26:28Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 08:09:50
-Telemetry age             : 08:09:50
-Δ time (since last report): 03:22:39
+Time since last play      : 10:43:42
+Telemetry age             : 10:43:42
+Δ time (since last report): 02:33:52
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-11 19:36:18Z → 2026-07-18 19:36:18Z
+Week window (UTC)         : 2026-07-11 22:10:10Z → 2026-07-18 22:10:10Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(14) | post-grunge(10) | jazz(8) | bebop(6) | cool jazz(6) | hard bop(6)
 Top genres (7d)           : jazz(35) | free jazz(30) | ambient jazz(26) | grunge(14) | post-grunge(10) | bebop(9)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-18 19:36:18Z
+Report generated (UTC)    : 2026-07-18 22:10:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
