@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:08:23
-Telemetry age             : 20:08:23
-Δ time (since last report): 05:32:18
+Time since last play      : 25:37:29
+Telemetry age             : 25:37:29
+Δ time (since last report): 05:29:07
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : 1000mods
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-10 22:08:48Z → 2026-07-17 22:08:48Z
+Week window (UTC)         : 2026-07-11 03:37:55Z → 2026-07-18 03:37:55Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1527,21 +1527,21 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 02:00
-Heatmap (24h)             :                       █ 
+Heatmap (24h)             : N/A
 Heatmap (7d)              : ▁▅█▇ ▁             ▁▇▄▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 12
 Avg inter-play gap (7d)   : 01:52:40
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : doom metal(1) | psychedelic rock(1) | sludge metal(1) | space rock(1) | stoner metal(1) | stoner rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : jazz(42) | free jazz(33) | ambient jazz(26) | hard bop(17) | bebop(12) | cool jazz(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-17 22:08:48Z
+Report generated (UTC)    : 2026-07-18 03:37:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
