@@ -1494,13 +1494,13 @@ Last played               : Holywatr — Pure Leaf
 Last played (UTC)         : 2026-07-18 06:21:20Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → Holywatr — Pure Leaf
-Δ last played (since last): 2026-07-18 05:59:06Z → 2026-07-18 06:21:20Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:50:27
-Telemetry age             : 01:50:27
-Δ time (since last report): 02:11:20
+Time since last play      : 04:21:57
+Telemetry age             : 04:21:57
+Δ time (since last report): 02:31:30
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-11 08:11:47Z → 2026-07-18 08:11:47Z
+Week window (UTC)         : 2026-07-11 10:43:17Z → 2026-07-18 10:43:17Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-18 08:11:47Z
+Report generated (UTC)    : 2026-07-18 10:43:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
