@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Holywatr — Pure Leaf
-Last played (UTC)         : 2026-07-18 06:21:20Z
+Last played               : Temple Of The Dog — Hunger Strike
+Last played (UTC)         : 2026-07-18 11:26:28Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Holywatr — Pure Leaf → Temple Of The Dog — Hunger Strike
+Δ last played (since last): 2026-07-18 06:21:20Z → 2026-07-18 11:26:28Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 09:52:20
-Telemetry age             : 09:52:20
-Δ time (since last report): 02:20:15
+Time since last play      : 08:09:50
+Telemetry age             : 08:09:50
+Δ time (since last report): 03:22:39
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
-Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 19
+Dominant artist           : Chris Cornell
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-11 16:13:39Z → 2026-07-18 16:13:39Z
+Week window (UTC)         : 2026-07-11 19:36:18Z → 2026-07-18 19:36:18Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1527,23 +1527,23 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 02:00
-Peak hour (7d)            : 02:00
-Heatmap (24h)             :  ▂█                     
-Heatmap (7d)              : ▁▅█▇ ▁             ▁▆▄▂ 
+Peak hour (24h)           : 07:00
+Peak hour (7d)            : 07:00
+Heatmap (24h)             :  ▁▃    █                
+Heatmap (7d)              : ▁▄▅▁ ▁ █           ▁▄▃▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 02:04:27
+Sessions (24h)            : 2
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:01:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(8) | bebop(6) | cool jazz(6) | hard bop(6) | jazz ballads(5) | free jazz(4)
-Top genres (7d)           : jazz(49) | free jazz(35) | ambient jazz(28) | hard bop(20) | bebop(18) | cool jazz(18)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : grunge(14) | post-grunge(10) | jazz(8) | bebop(6) | cool jazz(6) | hard bop(6)
+Top genres (7d)           : jazz(35) | free jazz(30) | ambient jazz(26) | grunge(14) | post-grunge(10) | bebop(9)
+Artist lookups (this run) : 3 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-18 16:13:39Z
+Report generated (UTC)    : 2026-07-18 19:36:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
