@@ -1498,9 +1498,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 16:33:30
-Telemetry age             : 16:33:30
-Δ time (since last report): 05:49:48
+Time since last play      : 21:10:40
+Telemetry age             : 21:10:40
+Δ time (since last report): 04:37:10
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
+Tracks played (last 24h)  : 13
 Dominant artist           : Chris Cornell
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-12 03:59:58Z → 2026-07-19 03:59:58Z
+Week window (UTC)         : 2026-07-12 08:37:08Z → 2026-07-19 08:37:08Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1529,19 +1529,19 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :  ▁▃    █                
+Heatmap (24h)             :        █                
 Heatmap (7d)              : ▁▄▅▁ ▁ █           ▁▄▃▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 02:01:50
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(14) | post-grunge(10) | jazz(8) | bebop(6) | cool jazz(6) | hard bop(6)
+Top genres (24h)          : grunge(13) | post-grunge(9) | funk rock(4) | hard rock(2)
 Top genres (7d)           : jazz(35) | free jazz(30) | ambient jazz(26) | grunge(14) | post-grunge(10) | bebop(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-19 03:59:58Z
+Report generated (UTC)    : 2026-07-19 08:37:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
