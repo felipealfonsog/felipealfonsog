@@ -1490,17 +1490,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Temple Of The Dog — Hunger Strike
-Last played (UTC)         : 2026-07-18 11:26:28Z
+Last played               : Filter — Spent - Remastered Version 2025
+Last played (UTC)         : 2026-07-20 16:08:39Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Temple Of The Dog — Hunger Strike → Filter — Spent - Remastered Version 2025
+Δ last played (since last): 2026-07-18 11:26:28Z → 2026-07-20 16:08:39Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 56:33:21
-Telemetry age             : 56:33:21
-Δ time (since last report): 03:12:51
+Time since last play      : 06:07:29
+Telemetry age             : 06:07:29
+Δ time (since last report): 02:16:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1512,14 +1512,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Filter
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-13 19:59:48Z → 2026-07-20 19:59:48Z
+Week window (UTC)         : 2026-07-13 22:16:08Z → 2026-07-20 22:16:08Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1527,23 +1527,23 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 12:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁▄▅▁ ▁ █           ▁▄▃▂ 
+Heatmap (24h)             :             █           
+Heatmap (7d)              : ▁▄▅▁ ▁ █    ▁      ▁▄▃▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
+Sessions (24h)            : 1
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:01:50
+Avg inter-play gap (7d)   : 02:47:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : jazz(35) | free jazz(30) | ambient jazz(26) | grunge(14) | post-grunge(10) | bebop(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : industrial(1) | industrial metal(1) | industrial rock(1) | post-grunge(1)
+Top genres (7d)           : jazz(35) | free jazz(30) | ambient jazz(26) | grunge(14) | post-grunge(11) | bebop(9)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-20 19:59:48Z
+Report generated (UTC)    : 2026-07-20 22:16:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
