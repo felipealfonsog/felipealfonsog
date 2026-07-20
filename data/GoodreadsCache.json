@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-07-20T14:28:05+00:00",
-    "last_successful_sync": "2026-07-20T14:28:05+00:00",
+    "last_attempted_sync": "2026-07-20T19:53:44+00:00",
+    "last_successful_sync": "2026-07-20T19:53:44+00:00",
     "error_message": ""
   },
   "sections": {
@@ -264,7 +264,7 @@
           "author": "Robert Morton",
           "link": "https://www.goodreads.com/review/show/8399631886?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg",
-          "summary": "author: Robert Morton name: Felipe Alfonso average rating: 4.50 book published: rating: 0 read at: date added: 2026/02/28 shelves: currently-reading review:",
+          "summary": "author: Robert Morton name: Felipe Alfonso average rating: 4.43 book published: rating: 0 read at: date added: 2026/02/28 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8399631886?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 28 Feb 2026 20:50:44 -0800"
         },
