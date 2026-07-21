@@ -23,7 +23,12 @@ Integrity, transparency, and coherence guide both my work and my personal path. 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
 -->
 
+<!-- 
+
 I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [**Santiago**](https://en.wikipedia.org/wiki/Santiago), [**Chile**](https://en.wikipedia.org/wiki/Chile), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—driven by continuous learning, independent research, professional certifications, and long-term exploration across systems, cybersecurity, and emerging technologies. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
+-->
+
+I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [**Santiago**](https://en.wikipedia.org/wiki/Santiago), [**Chile**](https://en.wikipedia.org/wiki/Chile), with extensive experience in [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Distributed Systems**](https://en.wikipedia.org/wiki/Distributed_computing), [**Site Reliability Engineering (SRE)**](https://en.wikipedia.org/wiki/Site_reliability_engineering), [**Complex Systems Engineering**](https://en.wikipedia.org/wiki/Systems_engineering), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Strategic Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counterterrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), [**Open Source Software (OSS) Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), and [**Research & Development (R&D)**](https://en.wikipedia.org/wiki/Research_and_development). My work focuses on designing secure, resilient, scalable, and high-performance systems by combining systems architecture, distributed systems engineering, site reliability engineering, complex systems engineering, and strategic cybersecurity. I continuously expand my expertise through independent research, postgraduate education, professional certifications, and long-term exploration across computer science, cyber intelligence, and emerging technologies. I actively contribute to the [**GitHub Community**](https://github.com/community) by maintaining open-source projects and promoting open collaboration, software quality, and continuous technical improvement.
 
 <!--
 UNIX-born engineering ethos.  
@@ -518,7 +523,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-16T07:58:22+00:00 | last_update=2026-07-16T07:58:22+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-21T08:41:35+00:00 | last_update=2026-07-21T08:41:35+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -688,13 +693,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 222 ms
-TTFB................ 221 ms
+LATENCY............. 209 ms
+TTFB................ 209 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 48d
+TLS_EXPIRY.......... 43d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -721,9 +726,9 @@ VIEWS_7D............ 6882
 UNIQUES_24H......... 402
 BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
-CONTENT_LENGTH...... 45 KB
+CONTENT_LENGTH...... 47 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-16T07:49:21Z
+LAST_PROBE_UTC...... 2026-07-21T05:56:28Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -764,18 +769,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.444642
-longitude      : -70.650898
-altitude       : 39 m
-gps_accuracy   : ±8.5 m
+latitude       : -33.444658
+longitude      : -70.650208
+altitude       : 131 m
+gps_accuracy   : ±7.8 m
 heading        : 0°
-speed          : 0.1 km/h
+speed          : 0.0 km/h
 status         : low_movement
 phase          : overnight
-local_time     : 04:03
+local_time     : 04:07
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-07-16 08:03:40 UTC
+updated_utc    : 2026-07-21 08:07:54 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -894,7 +899,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-16 07:54:15Z
+DSN snapshot (UTC)       : 2026-07-21 09:04:13Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -905,15 +910,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.51e9 km | 170.505 AU
-Heliocentric distance    : 171.170 AU
-Relative speed           : 39.708 km/s
+Earth distance           : 25.52e9 km | 170.599 AU
+Heliocentric distance    : 171.219 AU
+Relative speed           : 40.415 km/s
 ------------------------------------------------------------
-One-way light time       : 23:38:03
-Round-trip latency       : 47:16:06
+One-way light time       : 23:38:50
+Round-trip latency       : 47:17:39
 ------------------------------------------------------------
-Δ distance (since last)  : +1.067e6 km
-Mission age              : 48 years, 326 days
+Δ distance (since last)  : +619,357 km
+Mission age              : 48 years, 331 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -924,19 +929,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.626 AU
-Heliocentric distance    : 143.419 AU
-Relative speed           : 32.956 km/s
+Earth distance           : 21.34e9 km | 142.676 AU
+Heliocentric distance    : 143.463 AU
+Relative speed           : 33.726 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:11
-Round-trip latency       : 39:32:22
+One-way light time       : 19:46:36
+Round-trip latency       : 39:33:12
 ------------------------------------------------------------
-Δ distance (since last)  : +551,689 km
-Mission age              : 48 years, 342 days
+Δ distance (since last)  : +342,167 km
+Mission age              : 48 years, 347 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-16 07:54:17Z
+Report generated (UTC)   : 2026-07-21 09:04:19Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1490,17 +1495,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-07-15 09:09:51Z
+Last played               : Filter — Spent - Remastered Version 2025
+Last played (UTC)         : 2026-07-20 16:08:39Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-07-15 07:02:59Z → 2026-07-15 09:09:51Z
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 23:27:01
-Telemetry age             : 23:27:01
-Δ time (since last report): 04:53:13
+Time since last play      : 16:56:24
+Telemetry age             : 16:56:24
+Δ time (since last report): 05:13:52
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1513,13 +1518,13 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 1
-Dominant artist           : Tomasz Stanko Quintet
+Dominant artist           : Filter
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-09 08:36:52Z → 2026-07-16 08:36:52Z
+Week window (UTC)         : 2026-07-14 09:05:03Z → 2026-07-21 09:05:03Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1527,22 +1532,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 05:00
-Peak hour (7d)            : 02:00
-Heatmap (24h)             :      █                  
-Heatmap (7d)              : ▁▆█▇ ▁             ▁▇▄▁ 
+Peak hour (24h)           : 12:00
+Peak hour (7d)            : 07:00
+Heatmap (24h)             :             █           
+Heatmap (7d)              : ▁▄▅▁ ▁ █    ▁      ▁▄▃▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 01:02:42
+Avg inter-play gap (7d)   : 02:47:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
-Top genres (7d)           : jazz(42) | free jazz(33) | ambient jazz(26) | hard bop(17) | bebop(12) | cool jazz(12)
+Top genres (24h)          : industrial(1) | industrial metal(1) | industrial rock(1) | post-grunge(1)
+Top genres (7d)           : jazz(35) | free jazz(30) | ambient jazz(26) | grunge(14) | post-grunge(11) | bebop(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1551,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-16 08:36:52Z
+Report generated (UTC)    : 2026-07-21 09:05:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1909,9 +1914,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 15 July 2026
+From: 04 December 2023 - To: 20 July 2026
 
-Total Time       : 1,039 hrs 56 mins
+Total Time       : 1,043 hrs 4 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 5 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1920,48 +1925,49 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          666 hrs 11 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.06 %
-Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.99 %
-Python         140 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.54 %
-HTML           137 hrs 54 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.26 %
-PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.50 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.77 %
-C              74 hrs 11 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.13 %
-C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.85 %
-Text           39 hrs 40 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
-YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.65 %
+Other          681 hrs 49 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.37 %
+Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.94 %
+Python         140 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.50 %
+HTML           138 hrs 5 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.24 %
+PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.46 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.75 %
+C              76 hrs 25 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.33 %
+C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.83 %
+Text           39 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
+YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.64 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            992 hrs 37 mins ●●●●●●●●●●●●●●●●●●●●●●●●◔○  95.45 %
-Linux          713 hrs 30 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.61 %
+Mac            1,011 hrs 23 mins ●●●●●●●●●●●●●●●●●●●●●●●●●○  96.96 %
+Linux          713 hrs 30 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.40 %
 
 EDITORS - APPS
 --------------
-VS Code        657 hrs 26 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.22 %
-Firefox        523 hrs 7 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  50.30 %
-Vim            337 hrs 55 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.49 %
-Terminal       38 hrs 56 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
-Spotify        25 hrs 39 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
-Termius        18 hrs 36 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.79 %
+VS Code        658 hrs 12 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.10 %
+Firefox        538 hrs 1 min  ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.58 %
+Vim            337 hrs 55 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.40 %
+Terminal       38 hrs 56 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
+Spotify        25 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
+Termius        21 hrs 29 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.06 %
 ‎WhatsApp      17 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.64 %
 Dia            16 hrs 33 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.59 %
 Acrobat        13 hrs 50 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
 TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-FileZilla      8 hrs 46 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.84 %
+FileZilla      8 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
 Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
 
 CATEGORIES
 ----------
-Coding         1,154 hrs 3 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       520 hrs 3 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  50.01 %
-Meeting        25 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.48 %
-Writing Docs   6 hrs 12 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
+Coding         1,157 hrs 1 min ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       534 hrs 57 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.29 %
+Meeting        25 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
+Writing Docs   6 hrs 13 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
+AI Coding      54 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 16/07/2026 07:45:12 UTC
+Last updated     : 21/07/2026 08:19:31 UTC
 
 ```
 <!--END_SECTION:wakastats-->
