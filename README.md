@@ -1494,13 +1494,13 @@ Last played               : Filter — Spent - Remastered Version 2025
 Last played (UTC)         : 2026-07-20 16:08:39Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Temple Of The Dog — Hunger Strike → Filter — Spent - Remastered Version 2025
-Δ last played (since last): 2026-07-18 11:26:28Z → 2026-07-20 16:08:39Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:07:29
-Telemetry age             : 06:07:29
-Δ time (since last report): 02:16:20
+Time since last play      : 11:42:32
+Telemetry age             : 11:42:32
+Δ time (since last report): 05:35:03
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,7 +1519,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-13 22:16:08Z → 2026-07-20 22:16:08Z
+Week window (UTC)         : 2026-07-14 03:51:11Z → 2026-07-21 03:51:11Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1543,7 +1543,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : industrial(1) | industrial metal(1) | industrial rock(1) | post-grunge(1)
 Top genres (7d)           : jazz(35) | free jazz(30) | ambient jazz(26) | grunge(14) | post-grunge(11) | bebop(9)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1551,7 +1551,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-20 22:16:08Z
+Report generated (UTC)    : 2026-07-21 03:51:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
