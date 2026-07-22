@@ -1503,9 +1503,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 35:43:00
-Telemetry age             : 35:43:00
-Δ time (since last report): 05:37:32
+Time since last play      : 43:13:28
+Telemetry age             : 43:13:28
+Δ time (since last report): 07:30:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1524,9 +1524,9 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-15 03:51:39Z → 2026-07-22 03:51:39Z
-Total tracks played       : 35
-Dominant artist           : Tomasz Stanko Quintet
+Week window (UTC)         : 2026-07-15 11:22:06Z → 2026-07-22 11:22:06Z
+Total tracks played       : 22
+Dominant artist           : Chris Cornell
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1535,19 +1535,19 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 07:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁▄▅▁ ▁ █    ▁         ▁ 
+Heatmap (7d)              :  ▁▃    █    ▁         ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:52:40
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 04:06:06
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : jazz(22) | free jazz(18) | ambient jazz(15) | grunge(14) | post-grunge(11) | bebop(7)
+Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1556,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-22 03:51:39Z
+Report generated (UTC)    : 2026-07-22 11:22:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
