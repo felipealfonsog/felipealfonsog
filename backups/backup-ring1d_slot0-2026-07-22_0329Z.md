@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-07-21_0331Z
+ snapshot_utc : 2026-07-22_0329Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -30,7 +30,12 @@ Integrity, transparency, and coherence guide both my work and my personal path. 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). ⟁ ❀
 -->
 
+<!-- 
+
 I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [**Santiago**](https://en.wikipedia.org/wiki/Santiago), [**Chile**](https://en.wikipedia.org/wiki/Chile), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—driven by continuous learning, independent research, professional certifications, and long-term exploration across systems, cybersecurity, and emerging technologies. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
+-->
+
+I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [**Santiago**](https://en.wikipedia.org/wiki/Santiago), [**Chile**](https://en.wikipedia.org/wiki/Chile), with extensive experience in [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Distributed Systems**](https://en.wikipedia.org/wiki/Distributed_computing), [**Site Reliability Engineering (SRE)**](https://en.wikipedia.org/wiki/Site_reliability_engineering), [**Complex Systems Engineering**](https://en.wikipedia.org/wiki/Systems_engineering), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Strategic Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counterterrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), [**Open Source Software (OSS) Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), and [**Research & Development (R&D)**](https://en.wikipedia.org/wiki/Research_and_development). My work focuses on designing secure, resilient, scalable, and high-performance systems by combining systems architecture, distributed systems engineering, site reliability engineering, complex systems engineering, and strategic cybersecurity. I continuously expand my expertise through independent research, postgraduate education, professional certifications, and long-term exploration across computer science, cyber intelligence, and emerging technologies. I actively contribute to the [**GitHub Community**](https://github.com/community) by maintaining open-source projects and promoting open collaboration, software quality, and continuous technical improvement.
 
 <!--
 UNIX-born engineering ethos.  
@@ -525,7 +530,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-20T19:53:44+00:00 | last_update=2026-07-20T19:53:44+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-21T19:45:27+00:00 | last_update=2026-07-21T19:45:27+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -695,13 +700,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 173 ms
-TTFB................ 172 ms
+LATENCY............. 209 ms
+TTFB................ 209 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 44d
+TLS_EXPIRY.......... 43d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -730,7 +735,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 47 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-20T06:22:57Z
+LAST_PROBE_UTC...... 2026-07-21T05:56:28Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -770,19 +775,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444424
-longitude      : -70.650577
-altitude       : 18 m
-gps_accuracy   : ±6.6 m
-heading        : 175°
-speed          : 0.3 km/h
-status         : in_transit
+location       : residential_sector
+latitude       : -33.442431
+longitude      : -70.654272
+altitude       : 26 m
+gps_accuracy   : ±7.3 m
+heading        : 301°
+speed          : 0.9 km/h
+status         : walking
 phase          : evening
-local_time     : 21:45
+local_time     : 21:44
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-07-21 01:45:50 UTC
+signal         : stable
+updated_utc    : 2026-07-22 01:44:42 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -901,7 +906,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-20 19:56:28Z
+DSN snapshot (UTC)       : 2026-07-21 19:55:14Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -912,15 +917,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.52e9 km | 170.588 AU
-Heliocentric distance    : 171.213 AU
-Relative speed           : 40.342 km/s
+Earth distance           : 25.52e9 km | 170.607 AU
+Heliocentric distance    : 171.223 AU
+Relative speed           : 40.476 km/s
 ------------------------------------------------------------
-One-way light time       : 23:38:44
-Round-trip latency       : 47:17:29
+One-way light time       : 23:38:54
+Round-trip latency       : 47:17:48
 ------------------------------------------------------------
-Δ distance (since last)  : +633,871 km
-Mission age              : 48 years, 330 days
+Δ distance (since last)  : +649,629 km
+Mission age              : 48 years, 331 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -931,19 +936,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.670 AU
-Heliocentric distance    : 143.458 AU
-Relative speed           : 33.644 km/s
+Earth distance           : 21.34e9 km | 142.681 AU
+Heliocentric distance    : 143.467 AU
+Relative speed           : 33.793 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:33
-Round-trip latency       : 39:33:06
+One-way light time       : 19:46:38
+Round-trip latency       : 39:33:17
 ------------------------------------------------------------
-Δ distance (since last)  : +347,856 km
-Mission age              : 48 years, 346 days
+Δ distance (since last)  : +360,825 km
+Mission age              : 48 years, 347 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-20 19:58:58Z
+Report generated (UTC)   : 2026-07-21 19:55:19Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1501,13 +1506,13 @@ Last played               : Filter — Spent - Remastered Version 2025
 Last played (UTC)         : 2026-07-20 16:08:39Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Temple Of The Dog — Hunger Strike → Filter — Spent - Remastered Version 2025
-Δ last played (since last): 2026-07-18 11:26:28Z → 2026-07-20 16:08:39Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:07:29
-Telemetry age             : 06:07:29
-Δ time (since last report): 02:16:20
+Time since last play      : 30:05:29
+Telemetry age             : 30:05:29
+Δ time (since last report): 02:18:30
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1519,14 +1524,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Filter
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-13 22:16:08Z → 2026-07-20 22:16:08Z
+Week window (UTC)         : 2026-07-14 22:14:07Z → 2026-07-21 22:14:07Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1534,23 +1539,23 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :             █           
+Heatmap (24h)             : N/A
 Heatmap (7d)              : ▁▄▅▁ ▁ █    ▁      ▁▄▃▂ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 02:47:23
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : industrial(1) | industrial metal(1) | industrial rock(1) | post-grunge(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : jazz(35) | free jazz(30) | ambient jazz(26) | grunge(14) | post-grunge(11) | bebop(9)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1558,7 +1563,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-20 22:16:08Z
+Report generated (UTC)    : 2026-07-21 22:14:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1916,7 +1921,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 20 July 2026
+From: 04 December 2023 - To: 21 July 2026
 
 Total Time       : 1,043 hrs 4 mins
 Mostly coding in : Other
@@ -1969,7 +1974,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 21/07/2026 02:10:57 UTC
+Last updated     : 22/07/2026 02:08:47 UTC
 
 ```
 <!--END_SECTION:wakastats-->
