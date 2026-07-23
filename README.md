@@ -1499,13 +1499,13 @@ Last played               : Shabaka and the Ancestors — Joyous
 Last played (UTC)         : 2026-07-23 06:54:43Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Filter — Spent - Remastered Version 2025 → Shabaka and the Ancestors — Joyous
-Δ last played (since last): 2026-07-20 16:08:39Z → 2026-07-23 06:54:43Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:53:18
-Telemetry age             : 01:53:18
-Δ time (since last report): 04:58:52
+Time since last play      : 04:27:01
+Telemetry age             : 04:27:01
+Δ time (since last report): 02:33:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1524,7 +1524,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-16 08:48:00Z → 2026-07-23 08:48:00Z
+Week window (UTC)         : 2026-07-16 11:21:44Z → 2026-07-23 11:21:44Z
 Total tracks played       : 23
 Dominant artist           : Chris Cornell
 Cadence classification    : MEDIUM
@@ -1548,7 +1548,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : experimental jazz(1) | free jazz(1) | indie jazz(1) | jazz(1) | nu jazz(1)
 Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(10) | bebop(6) | cool jazz(6) | free jazz(6)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1556,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-23 08:48:00Z
+Report generated (UTC)    : 2026-07-23 11:21:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
