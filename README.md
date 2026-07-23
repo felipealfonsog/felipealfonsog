@@ -1495,17 +1495,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Filter — Spent - Remastered Version 2025
-Last played (UTC)         : 2026-07-20 16:08:39Z
+Last played               : Shabaka and the Ancestors — Joyous
+Last played (UTC)         : 2026-07-23 06:54:43Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Filter — Spent - Remastered Version 2025 → Shabaka and the Ancestors — Joyous
+Δ last played (since last): 2026-07-20 16:08:39Z → 2026-07-23 06:54:43Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 59:40:30
-Telemetry age             : 59:40:30
-Δ time (since last report): 05:21:01
+Time since last play      : 01:53:18
+Telemetry age             : 01:53:18
+Δ time (since last report): 04:58:52
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1517,38 +1517,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Shabaka and the Ancestors
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-16 03:49:09Z → 2026-07-23 03:49:09Z
-Total tracks played       : 22
+Week window (UTC)         : 2026-07-16 08:48:00Z → 2026-07-23 08:48:00Z
+Total tracks played       : 23
 Dominant artist           : Chris Cornell
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 02:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  ▁▃    █    ▁         ▁ 
+Heatmap (24h)             :   █                     
+Heatmap (7d)              :  ▁▄    █    ▁         ▁ 
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 04:06:06
+Sessions (24h)            : 1
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 06:46:06
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : experimental jazz(1) | free jazz(1) | indie jazz(1) | jazz(1) | nu jazz(1)
+Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(10) | bebop(6) | cool jazz(6) | free jazz(6)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1556,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-23 03:49:09Z
+Report generated (UTC)    : 2026-07-23 08:48:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
