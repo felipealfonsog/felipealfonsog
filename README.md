@@ -1499,13 +1499,13 @@ Last played               : Tony Allen — Politely
 Last played (UTC)         : 2026-07-24 04:11:08Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Shabaka and the Ancestors — Joyous → Tony Allen — Politely
-Δ last played (since last): 2026-07-23 06:54:43Z → 2026-07-24 04:11:08Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 04:35:28
-Telemetry age             : 04:35:28
-Δ time (since last report): 04:57:39
+Time since last play      : 07:03:01
+Telemetry age             : 07:03:01
+Δ time (since last report): 02:27:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1524,7 +1524,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-17 08:46:36Z → 2026-07-24 08:46:36Z
+Week window (UTC)         : 2026-07-17 11:14:09Z → 2026-07-24 11:14:09Z
 Total tracks played       : 22
 Dominant artist           : Chris Cornell
 Cadence classification    : MEDIUM
@@ -1548,7 +1548,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : afrobeat(1)
 Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1556,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-24 08:46:36Z
+Report generated (UTC)    : 2026-07-24 11:14:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
