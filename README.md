@@ -1495,17 +1495,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Shabaka and the Ancestors — Joyous
-Last played (UTC)         : 2026-07-23 06:54:43Z
+Last played               : Tony Allen — Politely
+Last played (UTC)         : 2026-07-24 04:11:08Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Shabaka and the Ancestors — Joyous → Tony Allen — Politely
+Δ last played (since last): 2026-07-23 06:54:43Z → 2026-07-24 04:11:08Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:54:15
-Telemetry age             : 20:54:15
-Δ time (since last report): 05:30:56
+Time since last play      : 04:35:28
+Telemetry age             : 04:35:28
+Δ time (since last report): 04:57:39
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1518,37 +1518,37 @@ Confidence level          : HIGH
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
 Tracks played (last 24h)  : 1
-Dominant artist           : Shabaka and the Ancestors
+Dominant artist           : Tony Allen
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-17 03:48:57Z → 2026-07-24 03:48:57Z
-Total tracks played       : 21
+Week window (UTC)         : 2026-07-17 08:46:36Z → 2026-07-24 08:46:36Z
+Total tracks played       : 22
 Dominant artist           : Chris Cornell
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 02:00
+Peak hour (24h)           : 00:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :   █                     
-Heatmap (7d)              :  ▁▄    █    ▁           
+Heatmap (24h)             : █                       
+Heatmap (7d)              : ▁▁▄    █    ▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 06:02:47
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 06:46:17
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : experimental jazz(1) | free jazz(1) | indie jazz(1) | jazz(1) | nu jazz(1)
+Top genres (24h)          : afrobeat(1)
 Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
-Artist lookups (this run) : 0 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1556,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-24 03:48:57Z
+Report generated (UTC)    : 2026-07-24 08:46:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
