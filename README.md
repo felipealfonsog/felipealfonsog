@@ -1503,9 +1503,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 15:23:20
-Telemetry age             : 15:23:20
-Δ time (since last report): 02:28:06
+Time since last play      : 20:54:15
+Telemetry age             : 20:54:15
+Δ time (since last report): 05:30:56
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1524,8 +1524,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-16 22:18:02Z → 2026-07-23 22:18:02Z
-Total tracks played       : 23
+Week window (UTC)         : 2026-07-17 03:48:57Z → 2026-07-24 03:48:57Z
+Total tracks played       : 21
 Dominant artist           : Chris Cornell
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1535,19 +1535,19 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 07:00
 Heatmap (24h)             :   █                     
-Heatmap (7d)              :  ▁▄    █    ▁         ▁ 
+Heatmap (7d)              :  ▁▄    █    ▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 06:46:06
+Sessions (7d)             : 4
+Avg inter-play gap (7d)   : 06:02:47
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : experimental jazz(1) | free jazz(1) | indie jazz(1) | jazz(1) | nu jazz(1)
-Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(10) | bebop(6) | cool jazz(6) | free jazz(6)
+Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1556,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-23 22:18:02Z
+Report generated (UTC)    : 2026-07-24 03:48:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
