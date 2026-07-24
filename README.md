@@ -1495,17 +1495,17 @@ Volume                    : N/A
 Volume telemetry          : NO ACTIVE SESSION
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Tony Allen — Politely
-Last played (UTC)         : 2026-07-24 04:11:08Z
+Last played               : Downface — Bring Me Down
+Last played (UTC)         : 2026-07-24 14:13:45Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Tony Allen — Politely → Downface — Bring Me Down
+Δ last played (since last): 2026-07-24 04:11:08Z → 2026-07-24 14:13:45Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 07:03:01
-Telemetry age             : 07:03:01
-Δ time (since last report): 02:27:33
+Time since last play      : 02:45:41
+Telemetry age             : 02:45:41
+Δ time (since last report): 05:45:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1517,38 +1517,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Tony Allen
+Tracks played (last 24h)  : 4
+Dominant artist           : Downface
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-17 11:14:09Z → 2026-07-24 11:14:09Z
-Total tracks played       : 22
+Week window (UTC)         : 2026-07-17 16:59:25Z → 2026-07-24 16:59:25Z
+Total tracks played       : 25
 Dominant artist           : Chris Cornell
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 00:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : █                       
-Heatmap (7d)              : ▁▁▄    █    ▁           
+Heatmap (24h)             : ▄     ▄   █             
+Heatmap (7d)              : ▁▁▄   ▁█  ▁ ▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 06:46:17
+Sessions (24h)            : 3
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 06:20:37
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : afrobeat(1)
-Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(2) | afrobeat(1) | classic rock(1) | grunge(1) | industrial(1) | industrial metal(1)
+Top genres (7d)           : grunge(15) | post-grunge(13) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1556,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-24 11:14:09Z
+Report generated (UTC)    : 2026-07-24 16:59:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
