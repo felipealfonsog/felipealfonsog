@@ -1503,9 +1503,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:36:57
-Telemetry age             : 05:36:57
-Δ time (since last report): 02:51:17
+Time since last play      : 08:16:21
+Telemetry age             : 08:16:21
+Δ time (since last report): 02:39:24
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1524,7 +1524,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-17 19:50:42Z → 2026-07-24 19:50:42Z
+Week window (UTC)         : 2026-07-17 22:30:06Z → 2026-07-24 22:30:06Z
 Total tracks played       : 25
 Dominant artist           : Chris Cornell
 Cadence classification    : MEDIUM
@@ -1556,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-24 19:50:42Z
+Report generated (UTC)    : 2026-07-24 22:30:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
