@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-07-24T14:04:56+00:00",
-    "last_successful_sync": "2026-07-24T14:04:56+00:00",
+    "last_attempted_sync": "2026-07-24T19:42:14+00:00",
+    "last_successful_sync": "2026-07-24T19:42:14+00:00",
     "error_message": ""
   },
   "sections": {
@@ -84,7 +84,7 @@
           "author": "Yasmina Reza",
           "link": "https://www.goodreads.com/review/show/8701260680?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1762189159l/243412126._SY75_.jpg",
-          "summary": "author: Yasmina Reza name: Felipe Alfonso average rating: 2.83 book published: rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
+          "summary": "author: Yasmina Reza name: Felipe Alfonso average rating: 2.80 book published: rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8701260680?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 20 Jun 2026 01:56:28 -0700"
         },
