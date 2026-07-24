@@ -1499,13 +1499,13 @@ Last played               : Downface — Bring Me Down
 Last played (UTC)         : 2026-07-24 14:13:45Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tony Allen — Politely → Downface — Bring Me Down
-Δ last played (since last): 2026-07-24 04:11:08Z → 2026-07-24 14:13:45Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:45:41
-Telemetry age             : 02:45:41
-Δ time (since last report): 05:45:17
+Time since last play      : 05:36:57
+Telemetry age             : 05:36:57
+Δ time (since last report): 02:51:17
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1524,7 +1524,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-17 16:59:25Z → 2026-07-24 16:59:25Z
+Week window (UTC)         : 2026-07-17 19:50:42Z → 2026-07-24 19:50:42Z
 Total tracks played       : 25
 Dominant artist           : Chris Cornell
 Cadence classification    : MEDIUM
@@ -1548,7 +1548,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(2) | afrobeat(1) | classic rock(1) | grunge(1) | industrial(1) | industrial metal(1)
 Top genres (7d)           : grunge(15) | post-grunge(13) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1556,7 +1556,7 @@ Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-24 16:59:25Z
+Report generated (UTC)    : 2026-07-24 19:50:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
