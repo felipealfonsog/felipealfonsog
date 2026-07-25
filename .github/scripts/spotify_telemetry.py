@@ -28,6 +28,7 @@ SHOW_INTEGRITY_BLOCK      = True
 SHOW_DAILY_SITREP         = True
 SHOW_WEEKLY_SUMMARY       = True
 SHOW_RECENT_HISTORY       = True
+SHOW_HISTORICAL_SNAPSHOT = True
 
 # ---- Device privacy / details ----
 SHOW_DEVICE_NAME          = True   # device type stays ON
@@ -90,6 +91,7 @@ LAST_DEVICE_TYPE_STATE_KEY = "last_known_device_type"
 LAST_DEVICE_NAME_STATE_KEY = "last_known_device_name"
 LAST_VOLUME_STATE_KEY = "last_known_volume_percent"
 LAST_VOLUME_TELEMETRY_STATE_KEY = "last_known_volume_telemetry"
+HISTORICAL_SNAPSHOT_STATE_KEY = "historical_listening_snapshot"
 
 # =============================================================================
 # Helpers
@@ -166,20 +168,28 @@ def build_auth_watch_block(
     secret_to_update: str = "NONE",
     last_good_utc: str | None = None,
 ):
+    client_id_state = "CONFIGURED" if CLIENT_ID else "MISSING"
+    client_secret_state = (
+        "CONFIGURED" if CLIENT_SECRET else "NOT SET (PKCE OPTIONAL)"
+    )
     out = []
     out.append("AUTHORIZATION WATCH")
     out.append("------------------------------------------------------------")
+    out.append(f"Client ID state           : {client_id_state}")
+    out.append(f"Client secret state       : {client_secret_state}")
     out.append(f"Refresh token state       : {refresh_token_state}")
     out.append(f"User action required      : {user_action_required}")
     out.append(f"Secret to update          : {secret_to_update}")
+    out.append("Recovery repository       : felipealfonsog/felipealfonsog.github.io")
     out.append("Recovery workflow         : update-spotify-callback.yml")
-    out.append("Callback page             : spotify-callback.html")
+    out.append("Callback page             : https://felipealfonsog.github.io/spotify-callback.html")
     if str(user_action_required).upper() == "YES":
         out.append("Recovery step 1           : Run Update Spotify Callback")
-        out.append("Recovery step 2           : Open callback page on GitHub Pages")
-        out.append("Recovery step 3           : Authorize Spotify and copy token")
-        out.append("Recovery step 4           : Update SPOTIFY_REFRESH_TOKEN")
-        out.append("Recovery step 5           : Run Spotify Telemetry")
+        out.append("Recovery step 2           : Enter Spotify Client ID")
+        out.append("Recovery step 3           : Open callback page")
+        out.append("Recovery step 4           : Authorize Spotify and copy token")
+        out.append("Recovery step 5           : Update SPOTIFY_REFRESH_TOKEN")
+        out.append("Recovery step 6           : Run Spotify Telemetry")
     else:
         out.append("Recovery procedure        : NOT REQUIRED")
     if last_good_utc:
@@ -223,12 +233,24 @@ def build_auth_failsafe_report(reason: str, detail: str = ""):
     last_report = state.get(LAST_SUCCESSFUL_REPORT_KEY) or ""
     last_good_utc = state.get(LAST_SUCCESSFUL_REPORT_UTC_KEY) or state.get("report_generated_utc") or "N/A"
 
+    if reason == "SPOTIFY_SECRETS_MISSING":
+        missing_secrets = []
+        if not CLIENT_ID:
+            missing_secrets.append("SPOTIFY_CLIENT_ID")
+        if not REFRESH_TOKEN:
+            missing_secrets.append("SPOTIFY_REFRESH_TOKEN")
+        secret_to_update = " | ".join(missing_secrets) or "VERIFY OAUTH SECRETS"
+    elif reason == "SPOTIFY_REFRESH_TOKEN":
+        secret_to_update = "SPOTIFY_REFRESH_TOKEN"
+    else:
+        secret_to_update = "VERIFY SPOTIFY OAUTH SECRETS"
+
     if last_report:
         return replace_auth_watch_block(
             last_report,
             "REAUTH REQUIRED",
             "YES",
-            "SPOTIFY_REFRESH_TOKEN",
+            secret_to_update,
             last_good_utc,
         )
 
@@ -257,7 +279,7 @@ def build_auth_failsafe_report(reason: str, detail: str = ""):
     out.append(build_auth_watch_block(
         "REAUTH REQUIRED",
         "YES",
-        "SPOTIFY_REFRESH_TOKEN",
+        secret_to_update,
         None,
     ))
     out.append(f"Report generated (UTC)    : {now_s}")
@@ -896,6 +918,48 @@ def build_report():
         sessions_7d, avg_gap = infer_sessions(played_times_7d)
         avg_session_gap_7d = fmt_hms(avg_gap) if avg_gap is not None else "N/A"
 
+    genre_top_24h = topk(genre_24h, 6)
+    genre_top_7d = topk(genre_7d, 6)
+
+    current_historical_snapshot = {
+        "captured_utc": now_s,
+        "week_window_utc": f"{utc_iso(week_window_start)} → {now_s}",
+        "tracks_24h": daily_tracks,
+        "tracks_7d": weekly_total,
+        "dominant_artist_24h": dominant_artist_24h or "N/A",
+        "dominant_artist_7d": dominant_artist_week or "N/A",
+        "listening_pattern_24h": daily_pattern or "N/A",
+        "activity_status_24h": daily_status or "N/A",
+        "cadence_7d": cadence or "N/A",
+        "local_timezone": LOCAL_TIMEZONE,
+        "peak_hour_24h": peak_hour(hour_hist_24h),
+        "peak_hour_7d": peak_hour(hour_hist_7d),
+        "heatmap_24h": heatmap_line(hour_hist_24h),
+        "heatmap_7d": heatmap_line(hour_hist_7d),
+        "sessions_24h": sessions_24h or "N/A",
+        "sessions_7d": sessions_7d or "N/A",
+        "avg_inter_play_gap_7d": avg_session_gap_7d,
+        "top_genres_24h": (
+            " | ".join(f"{genre}({count})" for genre, count in genre_top_24h)
+            if genre_top_24h
+            else "N/A"
+        ),
+        "top_genres_7d": (
+            " | ".join(f"{genre}({count})" for genre, count in genre_top_7d)
+            if genre_top_7d
+            else "N/A"
+        ),
+    }
+    if recent_ok:
+        historical_snapshot = current_historical_snapshot
+    else:
+        previous_snapshot = prev.get(HISTORICAL_SNAPSHOT_STATE_KEY)
+        historical_snapshot = (
+            previous_snapshot
+            if isinstance(previous_snapshot, dict) and previous_snapshot
+            else current_historical_snapshot
+        )
+
     api_ok = (player_http in (200, 204)) and api_ok_current and recent_ok
     sitrep = classify_sitrep(status, playback_state, api_ok)
 
@@ -961,6 +1025,7 @@ def build_report():
         out.append("RECENT PLAYBACK HISTORY")
         out.append("------------------------------------------------------------")
         out.append(f"Last track played         : {historical_last_track}")
+        out.append("------------------------------------------------------------")
         for index in range(RECENT_HISTORY_LIMIT):
             if index < len(recent_history):
                 entry = recent_history[index]
@@ -970,10 +1035,20 @@ def build_report():
                 )
             else:
                 value = "N/A"
-            out.append(f"Recent track #{index + 1:<11}: {value}")
+            label = f"Recent track #{index + 1}"
+            out.append(f"{label:<27}: {value}")
+        out.append("------------------------------------------------------------")
         out.append(f"Last known device         : {historical_device}")
         out.append(f"Last known volume         : {historical_volume}")
         out.append(f"Volume telemetry          : {last_known_volume_telemetry}")
+        if (
+            SHOW_VOLUME_BAR
+            and last_known_volume_percent is not None
+        ):
+            out.append(
+                "Volume bar                : "
+                + volume_bar(int(last_known_volume_percent))
+            )
         out.append(f"Last played (UTC)         : {historical_last_played_utc}")
         out.append("------------------------------------------------------------")
         out.append("LISTENING HOURS (recent playback)")
@@ -983,6 +1058,89 @@ def build_report():
         out.append(f"Heatmap (recent)          : {heatmap_line(recent_hour_hist)}")
         out.append("------------------------------------------------------------")
 
+    if SHOW_HISTORICAL_SNAPSHOT:
+        out.append("HISTORICAL LISTENING SNAPSHOT")
+        out.append("------------------------------------------------------------")
+        out.append(
+            f"Snapshot captured (UTC)   : "
+            f"{historical_snapshot.get('captured_utc', 'N/A')}"
+        )
+        out.append(
+            f"Week window (UTC)         : "
+            f"{historical_snapshot.get('week_window_utc', 'N/A')}"
+        )
+        out.append(
+            f"Tracks played (last 24h)  : "
+            f"{historical_snapshot.get('tracks_24h', 'N/A')}"
+        )
+        out.append(
+            f"Total tracks played (7d)  : "
+            f"{historical_snapshot.get('tracks_7d', 'N/A')}"
+        )
+        out.append(
+            f"Dominant artist (24h)     : "
+            f"{historical_snapshot.get('dominant_artist_24h', 'N/A')}"
+        )
+        out.append(
+            f"Dominant artist (7d)      : "
+            f"{historical_snapshot.get('dominant_artist_7d', 'N/A')}"
+        )
+        out.append(
+            f"Listening pattern (24h)   : "
+            f"{historical_snapshot.get('listening_pattern_24h', 'N/A')}"
+        )
+        out.append(
+            f"Activity status (24h)     : "
+            f"{historical_snapshot.get('activity_status_24h', 'N/A')}"
+        )
+        out.append(
+            f"Cadence classification    : "
+            f"{historical_snapshot.get('cadence_7d', 'N/A')}"
+        )
+        out.append("------------------------------------------------------------")
+        out.append(
+            f"Local timezone            : "
+            f"{historical_snapshot.get('local_timezone', LOCAL_TIMEZONE)}"
+        )
+        out.append(
+            f"Peak hour (24h)           : "
+            f"{historical_snapshot.get('peak_hour_24h', 'N/A')}"
+        )
+        out.append(
+            f"Peak hour (7d)            : "
+            f"{historical_snapshot.get('peak_hour_7d', 'N/A')}"
+        )
+        out.append(
+            f"Heatmap (24h)             : "
+            f"{historical_snapshot.get('heatmap_24h', 'N/A')}"
+        )
+        out.append(
+            f"Heatmap (7d)              : "
+            f"{historical_snapshot.get('heatmap_7d', 'N/A')}"
+        )
+        out.append("------------------------------------------------------------")
+        out.append(
+            f"Sessions (24h)            : "
+            f"{historical_snapshot.get('sessions_24h', 'N/A')}"
+        )
+        out.append(
+            f"Sessions (7d)             : "
+            f"{historical_snapshot.get('sessions_7d', 'N/A')}"
+        )
+        out.append(
+            f"Avg inter-play gap (7d)   : "
+            f"{historical_snapshot.get('avg_inter_play_gap_7d', 'N/A')}"
+        )
+        out.append(
+            f"Top genres (24h)          : "
+            f"{historical_snapshot.get('top_genres_24h', 'N/A')}"
+        )
+        out.append(
+            f"Top genres (7d)           : "
+            f"{historical_snapshot.get('top_genres_7d', 'N/A')}"
+        )
+        out.append("------------------------------------------------------------")
+
     if SHOW_STATUS_BLOCK:
         out.append(f"Playback state            : {playback_state}")
         out.append(f"Status                    : {status}")
@@ -990,16 +1148,44 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_DEVICE_BLOCK:
+        if has_active_session:
+            display_device_type = device_type or "N/A"
+            display_device_name = device_name or "N/A"
+            display_volume = vol_str
+            display_volume_telemetry = vol_tel
+            display_volume_bar = vol_bar
+        else:
+            display_device_type = last_known_device_type or "N/A"
+            display_device_name = last_known_device_name or "N/A"
+            display_volume = (
+                f"{int(last_known_volume_percent)}%"
+                if last_known_volume_percent is not None
+                else "N/A"
+            )
+            display_volume_telemetry = last_known_volume_telemetry
+            display_volume_bar = (
+                volume_bar(int(last_known_volume_percent))
+                if (
+                    SHOW_VOLUME_BAR
+                    and last_known_volume_percent is not None
+                )
+                else "-"
+            )
+
         out.append("PLAYBACK DEVICE (Spotify)")
         out.append("------------------------------------------------------------")
-        out.append(f"Device type               : {device_type or 'N/A'}")
+        out.append(f"Device type               : {display_device_type}")
         if SHOW_DEVICE_NAME:
-            out.append(f"Device name               : {device_name or 'N/A'}")
+            out.append(f"Device name               : {display_device_name}")
 
-        out.append(f"Volume                    : {vol_str}")
-        out.append(f"Volume telemetry          : {vol_tel}")
-        if SHOW_VOLUME_BAR and vol_bar and vol_bar != "-":
-            out.append(f"Volume bar                : {vol_bar}")
+        out.append(f"Volume                    : {display_volume}")
+        out.append(f"Volume telemetry          : {display_volume_telemetry}")
+        if (
+            SHOW_VOLUME_BAR
+            and display_volume_bar
+            and display_volume_bar != "-"
+        ):
+            out.append(f"Volume bar                : {display_volume_bar}")
         out.append("------------------------------------------------------------")
 
     if SHOW_TRACK_BLOCK:
@@ -1090,10 +1276,8 @@ def build_report():
     if SHOW_GENRE_INTEL:
         out.append("GENRE INTEL (inferred)")
         out.append("------------------------------------------------------------")
-        t24 = topk(genre_24h, 6)
-        t7  = topk(genre_7d,  6)
-        out.append("Top genres (24h)          : " + (" | ".join([f"{g}({c})" for g, c in t24]) if t24 else "N/A"))
-        out.append("Top genres (7d)           : " + (" | ".join([f"{g}({c})" for g, c in t7])  if t7 else "N/A"))
+        out.append("Top genres (24h)          : " + (" | ".join([f"{g}({c})" for g, c in genre_top_24h]) if genre_top_24h else "N/A"))
+        out.append("Top genres (7d)           : " + (" | ".join([f"{g}({c})" for g, c in genre_top_7d])  if genre_top_7d else "N/A"))
         out.append(f"Artist lookups (this run) : {artist_lookup_counter['n']} (cached)")
         out.append("------------------------------------------------------------")
 
@@ -1114,6 +1298,7 @@ def build_report():
             LAST_DEVICE_NAME_STATE_KEY: last_known_device_name,
             LAST_VOLUME_STATE_KEY: last_known_volume_percent,
             LAST_VOLUME_TELEMETRY_STATE_KEY: last_known_volume_telemetry,
+            HISTORICAL_SNAPSHOT_STATE_KEY: historical_snapshot,
             LAST_SUCCESSFUL_REPORT_KEY: report,
             LAST_SUCCESSFUL_REPORT_UTC_KEY: now_s,
         })
