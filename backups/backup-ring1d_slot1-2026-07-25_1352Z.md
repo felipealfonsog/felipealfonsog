@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-07-24_1402Z
+ snapshot_utc : 2026-07-25_1352Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -530,7 +530,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-24T08:38:46+00:00 | last_update=2026-07-24T08:38:46+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-25T08:20:20+00:00 | last_update=2026-07-25T08:20:20+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -700,13 +700,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 224 ms
-TTFB................ 223 ms
+LATENCY............. 218 ms
+TTFB................ 217 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 40d
+TLS_EXPIRY.......... 39d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -735,7 +735,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 47 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-24T05:55:14Z
+LAST_PROBE_UTC...... 2026-07-25T05:48:00Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -775,19 +775,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.441663
-longitude      : -70.653669
-altitude       : 68 m
-gps_accuracy   : ±8.7 m
-heading        : 150°
-speed          : 3.4 km/h
-status         : in_transit
+location       : transit_corridor
+latitude       : -33.446642
+longitude      : -70.661531
+altitude       : 110 m
+gps_accuracy   : ±5.4 m
+heading        : 331°
+speed          : 5.1 km/h
+status         : walking
 phase          : morning
-local_time     : 09:17
+local_time     : 09:01
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-07-24 13:17:27 UTC
+signal         : nominal
+updated_utc    : 2026-07-25 13:01:22 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -906,7 +906,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-24 08:45:18Z
+DSN snapshot (UTC)       : 2026-07-25 03:42:28Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -917,15 +917,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.53e9 km | 170.656 AU
-Heliocentric distance    : 171.248 AU
-Relative speed           : 40.808 km/s
+Earth distance           : 25.53e9 km | 170.672 AU
+Heliocentric distance    : 171.256 AU
+Relative speed           : 40.909 km/s
 ------------------------------------------------------------
-One-way light time       : 23:39:18
-Round-trip latency       : 47:18:37
+One-way light time       : 23:39:26
+Round-trip latency       : 47:18:52
 ------------------------------------------------------------
-Δ distance (since last)  : +603,625 km
-Mission age              : 48 years, 334 days
+Δ distance (since last)  : +962,001 km
+Mission age              : 48 years, 335 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -936,19 +936,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.708 AU
-Heliocentric distance    : 143.489 AU
-Relative speed           : 34.170 km/s
+Earth distance           : 21.35e9 km | 142.717 AU
+Heliocentric distance    : 143.496 AU
+Relative speed           : 34.287 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:52
-Round-trip latency       : 39:33:44
+One-way light time       : 19:46:57
+Round-trip latency       : 39:33:53
 ------------------------------------------------------------
-Δ distance (since last)  : +345,321 km
-Mission age              : 48 years, 350 days
+Δ distance (since last)  : +554,845 km
+Mission age              : 48 years, 351 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-24 08:45:23Z
+Report generated (UTC)   : 2026-07-25 03:42:32Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1490,29 +1490,96 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
+RECENT PLAYBACK HISTORY
+------------------------------------------------------------
+Last track played         : Tomasz Stanko Quintet — Terminal 7
+------------------------------------------------------------
+Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-25 08:39:00 -04
+Recent track #2            : Days Of The New — Shelf In The Room | 2026-07-25 08:33:14 -04
+Recent track #3            : Mammal Hands — In the Treetops | 2026-07-25 08:04:10 -04
+Recent track #4            : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework | 2026-07-25 08:01:14 -04
+Recent track #5            : Shabaka and the Ancestors — Mzwandile | 2026-07-25 07:56:40 -04
+Recent track #6            : Manu Katché — Number One | 2026-07-25 07:43:08 -04
+Recent track #7            : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
+Recent track #8            : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
+Recent track #9            : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
+Recent track #10           : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
+Recent track #11           : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
+Recent track #12           : Matthew Halsall, The Gondwana Orchestra — Patterns | 2026-07-25 07:07:05 -04
+Recent track #13           : Nubya Garcia — Fly Free | 2026-07-25 06:57:21 -04
+Recent track #14           : Ill Considered — Building Bridges | 2026-07-25 06:45:09 -04
+Recent track #15           : Sons Of Kemet — My Queen Is Anna Julia Cooper | 2026-07-25 06:35:43 -04
+Recent track #16           : Ill Considered — Dawn Lit Metropolis | 2026-07-25 06:11:20 -04
+Recent track #17           : Nubya Garcia — Once | 2026-07-25 06:07:04 -04
+Recent track #18           : Matthew Halsall — Mary Emma Louise | 2026-07-25 05:46:39 -04
+Recent track #19           : Ill Considered — Unwritten Rules | 2026-07-25 05:39:13 -04
+Recent track #20           : Matthew Halsall — The Move - Special Edition | 2026-07-25 05:25:44 -04
+Recent track #21           : Tony Allen — Moanin' | 2026-07-25 05:17:32 -04
+Recent track #22           : Tony Allen — Politely | 2026-07-25 05:05:37 -04
+Recent track #23           : Shabaka and the Ancestors — Joyous | 2026-07-25 04:58:55 -04
+Recent track #24           : John Coltrane — Alabama | 2026-07-25 04:48:21 -04
+Recent track #25           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-25 04:34:42 -04
+------------------------------------------------------------
+Last known device         : iPhone (Smartphone)
+Last known volume         : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Last played (UTC)         : 2026-07-25 12:39:00Z
+------------------------------------------------------------
+LISTENING HOURS (recent playback)
+------------------------------------------------------------
+Local timezone            : America/Santiago
+Peak hour (recent)        : 07:00
+Heatmap (recent)          :     ▃▅▅█▄               
+------------------------------------------------------------
+HISTORICAL LISTENING SNAPSHOT
+------------------------------------------------------------
+Snapshot captured (UTC)   : 2026-07-25 13:01:11Z
+Week window (UTC)         : 2026-07-18 13:01:11Z → 2026-07-25 13:01:11Z
+Tracks played (last 24h)  : 28
+Total tracks played (7d)  : 32
+Dominant artist (24h)     : Matthew Halsall
+Dominant artist (7d)      : Shabaka and the Ancestors
+Listening pattern (24h)   : Sustained operational tempo
+Activity status (24h)     : HIGH
+Cadence classification    : MEDIUM
+------------------------------------------------------------
+Local timezone            : America/Santiago
+Peak hour (24h)           : 07:00
+Peak hour (7d)            : 07:00
+Heatmap (24h)             :     ▃▅▅█▄ ▂▁            
+Heatmap (7d)              : ▁ ▁ ▃▅▆█▄ ▂▁▁           
+------------------------------------------------------------
+Sessions (24h)            : 4
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:45:30
+Top genres (24h)          : jazz(21) | nu jazz(20) | indie jazz(18) | ambient jazz(14) | experimental jazz(12) | free jazz(9)
+Top genres (7d)           : jazz(22) | nu jazz(21) | indie jazz(19) | ambient jazz(14) | experimental jazz(13) | free jazz(10)
+------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
 SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Tony Allen — Politely
-Last played (UTC)         : 2026-07-24 04:11:08Z
+Last played               : Tomasz Stanko Quintet — Terminal 7
+Last played (UTC)         : 2026-07-25 12:39:00Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Mammal Hands — In the Treetops → Tomasz Stanko Quintet — Terminal 7
+Δ last played (since last): 2026-07-25 12:04:10Z → 2026-07-25 12:39:00Z
+Δ status (since last)     : PLAYING → IDLE
 ------------------------------------------------------------
-Time since last play      : 07:03:01
-Telemetry age             : 07:03:01
-Δ time (since last report): 02:27:33
+Time since last play      : 00:22:12
+Telemetry age             : 00:22:12
+Δ time (since last report): 00:49:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1524,46 +1591,52 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Tony Allen
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 28
+Dominant artist           : Matthew Halsall
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-17 11:14:09Z → 2026-07-24 11:14:09Z
-Total tracks played       : 22
-Dominant artist           : Chris Cornell
+Week window (UTC)         : 2026-07-18 13:01:11Z → 2026-07-25 13:01:11Z
+Total tracks played       : 32
+Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 00:00
+Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : █                       
-Heatmap (7d)              : ▁▁▄    █    ▁           
+Heatmap (24h)             :     ▃▅▅█▄ ▂▁            
+Heatmap (7d)              : ▁ ▁ ▃▅▆█▄ ▂▁▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 06:46:17
+Sessions (24h)            : 4
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:45:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : afrobeat(1)
-Top genres (7d)           : grunge(14) | post-grunge(11) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
+Top genres (24h)          : jazz(21) | nu jazz(20) | indie jazz(18) | ambient jazz(14) | experimental jazz(12) | free jazz(9)
+Top genres (7d)           : jazz(22) | nu jazz(21) | indie jazz(19) | ambient jazz(14) | experimental jazz(13) | free jazz(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
+Client ID state           : CONFIGURED
+Client secret state       : CONFIGURED
 Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
+Recovery repository       : felipealfonsog/felipealfonsog.github.io
+Recovery workflow         : update-spotify-callback.yml
+Callback page             : https://felipealfonsog.github.io/spotify-callback.html
+Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-24 11:14:09Z
+Report generated (UTC)    : 2026-07-25 13:01:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1601,7 +1674,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 <br>
 
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Profile](https://img.shields.io/badge/Spotify-%20Profile-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify OAuth](https://img.shields.io/badge/Spotify-OAuth%20Console-1DB954?logo=spotify&logoColor=white)](https://developer.spotify.com/)
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Profile](https://img.shields.io/badge/Spotify-%20Profile-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify OAuth](https://img.shields.io/badge/Spotify-OAuth%20Console-1DB954?logo=spotify&logoColor=white)](https://developer.spotify.com/) [![Spotify OAuth Callback](https://img.shields.io/badge/Spotify-OAuth%20Callback-1DB954?logo=spotify&logoColor=white)](https://felipealfonsog.github.io/spotify-callback.html)
 
 
 #
@@ -1921,7 +1994,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 24 July 2026
+From: 04 December 2023 - To: 25 July 2026
 
 Total Time       : 1,044 hrs 2 mins
 Mostly coding in : Other
@@ -1974,7 +2047,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 24/07/2026 13:26:27 UTC
+Last updated     : 25/07/2026 13:14:28 UTC
 
 ```
 <!--END_SECTION:wakastats-->
