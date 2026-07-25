@@ -1555,8 +1555,6 @@ AUTHORIZATION WATCH
 Refresh token state       : REAUTH REQUIRED
 User action required      : YES
 Secret to update          : SPOTIFY_REFRESH_TOKEN
-Authorization failure     : SPOTIFY_REFRESH_TOKEN
-Failure detail            : Refresh token expired, revoked, invalid, or issued for another Client ID
 Last good telemetry UTC   : 2026-07-25 03:43:13Z
 ------------------------------------------------------------
 Report generated (UTC)    : 2026-07-25 03:43:13Z
