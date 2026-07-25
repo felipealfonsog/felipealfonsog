@@ -56,7 +56,9 @@ DEBUG_DUMP_PAYLOADS  = False   # keep False (privacy)
 SESSION_GAP_MINUTES       = 25
 MAX_RECENT_ITEMS          = 50
 MAX_ARTIST_LOOKUPS        = 80
-RECENT_HISTORY_LIMIT      = 5
+
+# TOGGLE — cantidad de canciones recientes mostradas y guardadas (1-50)
+RECENT_HISTORY_LIMIT      = 15
 
 # ---- Volume formatting ----
 SHOW_VOLUME_BAR           = True
