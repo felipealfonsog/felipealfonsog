@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-07-25 12:02:09Z",
+  "report_generated_utc": "2026-07-25 12:07:22Z",
   "status": "PLAYING",
-  "last_track": "Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework",
-  "last_played_utc": "2026-07-25 12:01:14Z",
+  "last_track": "Mammal Hands — In the Treetops",
+  "last_played_utc": "2026-07-25 12:04:10Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1490,9 +1490,15 @@
       "jazz fusion"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework\n------------------------------------------------------------\nRecent track #1            : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework | 2026-07-25 08:01:14 -04\nRecent track #2            : Shabaka and the Ancestors — Mzwandile | 2026-07-25 07:56:40 -04\nRecent track #3            : Manu Katché — Number One | 2026-07-25 07:43:08 -04\nRecent track #4            : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04\nRecent track #5            : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04\n------------------------------------------------------------\nLast known device         : iPhone (Smartphone)\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nLast played (UTC)         : 2026-07-25 12:01:14Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 07:00\nHeatmap (recent)          :        █▂               \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-07-25 12:02:09Z\nWeek window (UTC)         : 2026-07-18 12:02:09Z → 2026-07-25 12:02:09Z\nTracks played (last 24h)  : 25\nTotal tracks played (7d)  : 29\nDominant artist (24h)     : Matthew Halsall\nDominant artist (7d)      : Shabaka and the Ancestors\nListening pattern (24h)   : Sustained operational tempo\nActivity status (24h)     : HIGH\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 07:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             :     ▃▅▅█▁ ▂▁            \nHeatmap (7d)              : ▁ ▁ ▃▅▆█▁ ▂▁▁           \n------------------------------------------------------------\nSessions (24h)            : 3\nSessions (7d)             : 7\nAvg inter-play gap (7d)   : 04:08:18\nTop genres (24h)          : jazz(19) | nu jazz(19) | indie jazz(17) | ambient jazz(12) | experimental jazz(11) | free jazz(8)\nTop genres (7d)           : jazz(20) | nu jazz(20) | indie jazz(18) | ambient jazz(12) | experimental jazz(12) | free jazz(9)\n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nNow playing               : Mammal Hands — In the Treetops\nLast played               : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework\nLast played (UTC)         : 2026-07-25 12:01:14Z\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nΔ track (since last)      : Matthew Halsall — Breathless (Bonus Track) - Special Edition → Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework\nΔ last played (since last): 2026-07-25 11:36:57Z → 2026-07-25 12:01:14Z\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 00:00:56\nTelemetry age             : 00:00:56\nΔ time (since last report): 00:19:31\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 25\nDominant artist           : Matthew Halsall\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-18 12:02:09Z → 2026-07-25 12:02:09Z\nTotal tracks played       : 29\nDominant artist           : Shabaka and the Ancestors\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 07:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             :     ▃▅▅█▁ ▂▁            \nHeatmap (7d)              : ▁ ▁ ▃▅▆█▁ ▂▁▁           \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 7\nAvg inter-play gap (7d)   : 04:08:18\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(19) | nu jazz(19) | indie jazz(17) | ambient jazz(12) | experimental jazz(11) | free jazz(8)\nTop genres (7d)           : jazz(20) | nu jazz(20) | indie jazz(18) | ambient jazz(12) | experimental jazz(12) | free jazz(9)\nArtist lookups (this run) : 3 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-25 12:02:09Z",
-  "last_successful_report_utc": "2026-07-25 12:02:09Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Mammal Hands — In the Treetops\n------------------------------------------------------------\nRecent track #1            : Mammal Hands — In the Treetops | 2026-07-25 08:04:10 -04\nRecent track #2            : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework | 2026-07-25 08:01:14 -04\nRecent track #3            : Shabaka and the Ancestors — Mzwandile | 2026-07-25 07:56:40 -04\nRecent track #4            : Manu Katché — Number One | 2026-07-25 07:43:08 -04\nRecent track #5            : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04\nRecent track #6            : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04\nRecent track #7            : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04\nRecent track #8            : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04\nRecent track #9            : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04\nRecent track #10           : Matthew Halsall, The Gondwana Orchestra — Patterns | 2026-07-25 07:07:05 -04\nRecent track #11           : Nubya Garcia — Fly Free | 2026-07-25 06:57:21 -04\nRecent track #12           : Ill Considered — Building Bridges | 2026-07-25 06:45:09 -04\nRecent track #13           : Sons Of Kemet — My Queen Is Anna Julia Cooper | 2026-07-25 06:35:43 -04\nRecent track #14           : Ill Considered — Dawn Lit Metropolis | 2026-07-25 06:11:20 -04\nRecent track #15           : Nubya Garcia — Once | 2026-07-25 06:07:04 -04\n------------------------------------------------------------\nLast known device         : iPhone (Smartphone)\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nLast played (UTC)         : 2026-07-25 12:04:10Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 07:00\nHeatmap (recent)          :       ▅█▂               \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-07-25 12:07:22Z\nWeek window (UTC)         : 2026-07-18 12:07:22Z → 2026-07-25 12:07:22Z\nTracks played (last 24h)  : 26\nTotal tracks played (7d)  : 30\nDominant artist (24h)     : Matthew Halsall\nDominant artist (7d)      : Shabaka and the Ancestors\nListening pattern (24h)   : Sustained operational tempo\nActivity status (24h)     : HIGH\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 07:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             :     ▃▅▅█▂ ▂▁            \nHeatmap (7d)              : ▁ ▁ ▃▅▆█▂ ▂▁▁           \n------------------------------------------------------------\nSessions (24h)            : 3\nSessions (7d)             : 7\nAvg inter-play gap (7d)   : 03:59:51\nTop genres (24h)          : jazz(20) | nu jazz(20) | indie jazz(18) | ambient jazz(13) | experimental jazz(12) | free jazz(8)\nTop genres (7d)           : jazz(21) | nu jazz(21) | indie jazz(19) | ambient jazz(13) | experimental jazz(13) | free jazz(9)\n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nNow playing               : Ill Considered — Incantation\nLast played               : Mammal Hands — In the Treetops\nLast played (UTC)         : 2026-07-25 12:04:10Z\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nΔ track (since last)      : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework → Mammal Hands — In the Treetops\nΔ last played (since last): 2026-07-25 12:01:14Z → 2026-07-25 12:04:10Z\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 00:03:13\nTelemetry age             : 00:03:13\nΔ time (since last report): 00:05:14\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 26\nDominant artist           : Matthew Halsall\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-18 12:07:22Z → 2026-07-25 12:07:22Z\nTotal tracks played       : 30\nDominant artist           : Shabaka and the Ancestors\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 07:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             :     ▃▅▅█▂ ▂▁            \nHeatmap (7d)              : ▁ ▁ ▃▅▆█▂ ▂▁▁           \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 7\nAvg inter-play gap (7d)   : 03:59:51\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(20) | nu jazz(20) | indie jazz(18) | ambient jazz(13) | experimental jazz(12) | free jazz(8)\nTop genres (7d)           : jazz(21) | nu jazz(21) | indie jazz(19) | ambient jazz(13) | experimental jazz(13) | free jazz(9)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-25 12:07:22Z",
+  "last_successful_report_utc": "2026-07-25 12:07:22Z",
   "recent_playback_history": [
+    {
+      "track": "Mammal Hands — In the Treetops",
+      "played_at_utc": "2026-07-25 12:04:10Z",
+      "played_at_local": "2026-07-25 08:04:10 -04",
+      "local_hour": 8
+    },
     {
       "track": "Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework",
       "played_at_utc": "2026-07-25 12:01:14Z",
@@ -1522,6 +1528,60 @@
       "played_at_utc": "2026-07-25 11:29:56Z",
       "played_at_local": "2026-07-25 07:29:56 -04",
       "local_hour": 7
+    },
+    {
+      "track": "Mammal Hands — Mansions of Millions of Years",
+      "played_at_utc": "2026-07-25 11:25:42Z",
+      "played_at_local": "2026-07-25 07:25:42 -04",
+      "local_hour": 7
+    },
+    {
+      "track": "Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "played_at_utc": "2026-07-25 11:19:34Z",
+      "played_at_local": "2026-07-25 07:19:34 -04",
+      "local_hour": 7
+    },
+    {
+      "track": "Shabaka and the Ancestors — Go My Heart, Go To Heaven",
+      "played_at_utc": "2026-07-25 11:15:01Z",
+      "played_at_local": "2026-07-25 07:15:01 -04",
+      "local_hour": 7
+    },
+    {
+      "track": "Matthew Halsall, The Gondwana Orchestra — Patterns",
+      "played_at_utc": "2026-07-25 11:07:05Z",
+      "played_at_local": "2026-07-25 07:07:05 -04",
+      "local_hour": 7
+    },
+    {
+      "track": "Nubya Garcia — Fly Free",
+      "played_at_utc": "2026-07-25 10:57:21Z",
+      "played_at_local": "2026-07-25 06:57:21 -04",
+      "local_hour": 6
+    },
+    {
+      "track": "Ill Considered — Building Bridges",
+      "played_at_utc": "2026-07-25 10:45:09Z",
+      "played_at_local": "2026-07-25 06:45:09 -04",
+      "local_hour": 6
+    },
+    {
+      "track": "Sons Of Kemet — My Queen Is Anna Julia Cooper",
+      "played_at_utc": "2026-07-25 10:35:43Z",
+      "played_at_local": "2026-07-25 06:35:43 -04",
+      "local_hour": 6
+    },
+    {
+      "track": "Ill Considered — Dawn Lit Metropolis",
+      "played_at_utc": "2026-07-25 10:11:20Z",
+      "played_at_local": "2026-07-25 06:11:20 -04",
+      "local_hour": 6
+    },
+    {
+      "track": "Nubya Garcia — Once",
+      "played_at_utc": "2026-07-25 10:07:04Z",
+      "played_at_local": "2026-07-25 06:07:04 -04",
+      "local_hour": 6
     }
   ],
   "last_known_device_type": "Smartphone",
@@ -1529,10 +1589,10 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-07-25 12:02:09Z",
-    "week_window_utc": "2026-07-18 12:02:09Z → 2026-07-25 12:02:09Z",
-    "tracks_24h": 25,
-    "tracks_7d": 29,
+    "captured_utc": "2026-07-25 12:07:22Z",
+    "week_window_utc": "2026-07-18 12:07:22Z → 2026-07-25 12:07:22Z",
+    "tracks_24h": 26,
+    "tracks_7d": 30,
     "dominant_artist_24h": "Matthew Halsall",
     "dominant_artist_7d": "Shabaka and the Ancestors",
     "listening_pattern_24h": "Sustained operational tempo",
@@ -1541,12 +1601,12 @@
     "local_timezone": "America/Santiago",
     "peak_hour_24h": "07:00",
     "peak_hour_7d": "07:00",
-    "heatmap_24h": "    ▃▅▅█▁ ▂▁            ",
-    "heatmap_7d": "▁ ▁ ▃▅▆█▁ ▂▁▁           ",
+    "heatmap_24h": "    ▃▅▅█▂ ▂▁            ",
+    "heatmap_7d": "▁ ▁ ▃▅▆█▂ ▂▁▁           ",
     "sessions_24h": 3,
     "sessions_7d": 7,
-    "avg_inter_play_gap_7d": "04:08:18",
-    "top_genres_24h": "jazz(19) | nu jazz(19) | indie jazz(17) | ambient jazz(12) | experimental jazz(11) | free jazz(8)",
-    "top_genres_7d": "jazz(20) | nu jazz(20) | indie jazz(18) | ambient jazz(12) | experimental jazz(12) | free jazz(9)"
+    "avg_inter_play_gap_7d": "03:59:51",
+    "top_genres_24h": "jazz(20) | nu jazz(20) | indie jazz(18) | ambient jazz(13) | experimental jazz(12) | free jazz(8)",
+    "top_genres_7d": "jazz(21) | nu jazz(21) | indie jazz(19) | ambient jazz(13) | experimental jazz(13) | free jazz(9)"
   }
 }
