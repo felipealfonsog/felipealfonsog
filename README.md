@@ -1552,9 +1552,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
-Refresh token state       : PASSING
-User action required      : NO
-Secret to update          : NONE
+Refresh token state       : REAUTH REQUIRED
+User action required      : YES
+Secret to update          : SPOTIFY_REFRESH_TOKEN
+Last good telemetry UTC   : 2026-07-25 03:43:13Z
 ------------------------------------------------------------
 Report generated (UTC)    : 2026-07-25 03:43:13Z
 ```
