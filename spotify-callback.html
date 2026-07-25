@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta
+    http-equiv="Content-Security-Policy"
+    content="default-src 'none'; connect-src https://accounts.spotify.com; script-src 'unsafe-inline'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'"
+  >
+  <title>Spotify OAuth Callback</title>
+
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+        "Liberation Mono", monospace;
+      background: #080a09;
+      color: #e8eee9;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background:
+        radial-gradient(circle at top, #12311f 0, transparent 42%),
+        #080a09;
+    }
+
+    main {
+      width: min(760px, 100%);
+      padding: 28px;
+      border: 1px solid #294032;
+      border-radius: 14px;
+      background: rgba(13, 17, 14, 0.96);
+      box-shadow: 0 24px 80px rgba(0, 0, 0, 0.42);
+    }
+
+    h1,
+    h2 {
+      margin-top: 0;
+    }
+
+    h1 {
+      color: #1ed760;
+      font-size: clamp(1.45rem, 4vw, 2rem);
+    }
+
+    h2 {
+      margin-top: 26px;
+      font-size: 1rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    p,
+    label {
+      line-height: 1.55;
+    }
+
+    label {
+      display: block;
+      margin-top: 20px;
+      color: #bac7bd;
+    }
+
+    input,
+    textarea,
+    button {
+      width: 100%;
+      margin-top: 8px;
+      border-radius: 8px;
+      font: inherit;
+    }
+
+    input,
+    textarea {
+      padding: 12px;
+      border: 1px solid #385140;
+      background: #090c0a;
+      color: #f1f7f2;
+    }
+
+    textarea {
+      min-height: 150px;
+      resize: vertical;
+      overflow-wrap: anywhere;
+    }
+
+    button {
+      padding: 13px 16px;
+      border: 0;
+      background: #1ed760;
+      color: #041007;
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #3be477;
+    }
+
+    button:disabled {
+      cursor: not-allowed;
+      opacity: 0.55;
+    }
+
+    code {
+      overflow-wrap: anywhere;
+      color: #61e98d;
+    }
+
+    .notice {
+      padding: 12px 14px;
+      border-left: 3px solid #1ed760;
+      background: #101a13;
+      color: #c8d5ca;
+    }
+
+    .status {
+      min-height: 1.6em;
+      margin-bottom: 0;
+    }
+
+    .success {
+      color: #61e98d;
+    }
+
+    .error {
+      color: #ff7a7a;
+    }
+
+    .muted {
+      color: #8f9c92;
+      font-size: 0.88rem;
+    }
+
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <h1>Spotify OAuth Callback</h1>
+
+    <p class="notice">
+      Reusable PKCE authorization utility. It never requests a Client Secret,
+      never writes tokens to GitHub, and uses no third-party scripts.
+    </p>
+
+    <h2>Registered callback</h2>
+    <p><code id="redirect-uri"></code></p>
+
+    <section id="authorization-section">
+      <button id="authorize-button" type="button">
+        Authorize with Spotify
+      </button>
+
+      <p class="muted">
+        Client ID status: <strong id="client-id-status"></strong>.
+        This public identifier is managed by the repository workflow.
+      </p>
+    </section>
+
+    <section id="token-section" class="hidden">
+      <h2 class="success">Authorization completed</h2>
+
+      <label for="refresh-token">SPOTIFY_REFRESH_TOKEN</label>
+      <textarea
+        id="refresh-token"
+        readonly
+        autocomplete="off"
+        spellcheck="false"
+      ></textarea>
+
+      <button id="copy-button" type="button">
+        Copy and clear refresh token
+      </button>
+
+      <p class="muted">
+        The token is held only in this page's memory and will be erased
+        automatically after two minutes, when copied, or when the page closes.
+      </p>
+    </section>
+
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+  </main>
+
+  <script>
+    "use strict";
+
+    const AUTHORIZE_URL = "https://accounts.spotify.com/authorize";
+    const TOKEN_URL = "https://accounts.spotify.com/api/token";
+    const SPOTIFY_CLIENT_ID = "__SPOTIFY_CLIENT_ID__"; // managed-by-update-spotify-callback
+    const TOKEN_CLEAR_DELAY_MS = 2 * 60 * 1000;
+    const SESSION_KEYS = {
+      verifier: "spotify_oauth_code_verifier",
+      state: "spotify_oauth_state"
+    };
+    const SCOPES = [
+      "user-read-playback-state",
+      "user-read-currently-playing",
+      "user-read-recently-played"
+    ];
+
+    const redirectUri =
+      window.location.origin + window.location.pathname;
+
+    const redirectElement = document.getElementById("redirect-uri");
+    const clientIdStatusElement =
+      document.getElementById("client-id-status");
+    const authorizeButton = document.getElementById("authorize-button");
+    const authorizationSection =
+      document.getElementById("authorization-section");
+    const tokenSection = document.getElementById("token-section");
+    const refreshTokenElement =
+      document.getElementById("refresh-token");
+    const copyButton = document.getElementById("copy-button");
+    const statusElement = document.getElementById("status");
+
+    let clearTimer = null;
+    redirectElement.textContent = redirectUri;
+    clientIdStatusElement.textContent =
+      SPOTIFY_CLIENT_ID === "__SPOTIFY_CLIENT_ID__"
+        ? "NOT CONFIGURED"
+        : "CONFIGURED";
+
+    function setStatus(message, kind = "") {
+      statusElement.textContent = message;
+      statusElement.className = `status ${kind}`.trim();
+    }
+
+    function clearSessionData() {
+      Object.values(SESSION_KEYS).forEach(key =>
+        sessionStorage.removeItem(key)
+      );
+    }
+
+    function clearSensitiveView(message = "Token cleared from this page.") {
+      refreshTokenElement.value = "";
+      tokenSection.classList.add("hidden");
+
+      if (clearTimer !== null) {
+        window.clearTimeout(clearTimer);
+        clearTimer = null;
+      }
+
+      setStatus(message, "success");
+    }
+
+    function randomString(length) {
+      const alphabet =
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-._~";
+      const random = new Uint8Array(length);
+      crypto.getRandomValues(random);
+
+      return Array.from(
+        random,
+        value => alphabet[value % alphabet.length]
+      ).join("");
+    }
+
+    function base64UrlEncode(buffer) {
+      const bytes = new Uint8Array(buffer);
+      let binary = "";
+
+      for (const byte of bytes) {
+        binary += String.fromCharCode(byte);
+      }
+
+      return btoa(binary)
+        .replace(/\+/g, "-")
+        .replace(/\//g, "_")
+        .replace(/=+$/, "");
+    }
+
+    async function createCodeChallenge(verifier) {
+      const bytes = new TextEncoder().encode(verifier);
+      const digest = await crypto.subtle.digest("SHA-256", bytes);
+      return base64UrlEncode(digest);
+    }
+
+    async function beginAuthorization() {
+      if (SPOTIFY_CLIENT_ID === "__SPOTIFY_CLIENT_ID__") {
+        setStatus(
+          "Client ID is not configured. Run update-spotify-callback.yml.",
+          "error"
+        );
+        return;
+      }
+
+      authorizeButton.disabled = true;
+      setStatus("Preparing secure Spotify authorization…");
+
+      const verifier = randomString(96);
+      const challenge = await createCodeChallenge(verifier);
+      const state = randomString(48);
+
+      sessionStorage.setItem(SESSION_KEYS.verifier, verifier);
+      sessionStorage.setItem(SESSION_KEYS.state, state);
+
+      const query = new URLSearchParams({
+        client_id: SPOTIFY_CLIENT_ID,
+        response_type: "code",
+        redirect_uri: redirectUri,
+        scope: SCOPES.join(" "),
+        code_challenge_method: "S256",
+        code_challenge: challenge,
+        state,
+        show_dialog: "true"
+      });
+
+      window.location.assign(`${AUTHORIZE_URL}?${query.toString()}`);
+    }
+
+    async function exchangeAuthorizationCode() {
+      const query = new URLSearchParams(window.location.search);
+      const code = query.get("code");
+      const returnedState = query.get("state");
+      const spotifyError = query.get("error");
+
+      if (!code && !spotifyError) {
+        return;
+      }
+
+      window.history.replaceState(
+        {},
+        document.title,
+        window.location.pathname
+      );
+
+      if (spotifyError) {
+        clearSessionData();
+        throw new Error(`Spotify authorization failed: ${spotifyError}`);
+      }
+
+      const verifier = sessionStorage.getItem(SESSION_KEYS.verifier);
+      const expectedState = sessionStorage.getItem(SESSION_KEYS.state);
+
+      if (!verifier || !expectedState) {
+        clearSessionData();
+        throw new Error(
+          "Authorization session expired. Start authorization again."
+        );
+      }
+
+      if (
+        !returnedState ||
+        !secretsEqual(returnedState, expectedState)
+      ) {
+        clearSessionData();
+        throw new Error("OAuth state validation failed.");
+      }
+
+      setStatus("Exchanging authorization code with Spotify…");
+
+      const response = await fetch(TOKEN_URL, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        body: new URLSearchParams({
+          client_id: SPOTIFY_CLIENT_ID,
+          grant_type: "authorization_code",
+          code,
+          redirect_uri: redirectUri,
+          code_verifier: verifier
+        })
+      });
+
+      const payload = await response.json();
+      clearSessionData();
+
+      if (!response.ok) {
+        throw new Error(
+          payload.error_description ||
+          payload.error ||
+          "Spotify token exchange failed."
+        );
+      }
+
+      if (!payload.refresh_token) {
+        throw new Error("Spotify returned no refresh token.");
+      }
+
+      refreshTokenElement.value = payload.refresh_token;
+      authorizationSection.classList.add("hidden");
+      tokenSection.classList.remove("hidden");
+      setStatus(
+        "Refresh token generated. Copy it into the GitHub Actions secret.",
+        "success"
+      );
+
+      clearTimer = window.setTimeout(
+        () => clearSensitiveView("Token expired from this page's memory."),
+        TOKEN_CLEAR_DELAY_MS
+      );
+    }
+
+    function secretsEqual(left, right) {
+      if (left.length !== right.length) {
+        return false;
+      }
+
+      let difference = 0;
+      for (let index = 0; index < left.length; index += 1) {
+        difference |=
+          left.charCodeAt(index) ^ right.charCodeAt(index);
+      }
+      return difference === 0;
+    }
+
+    async function copyAndClearToken() {
+      const token = refreshTokenElement.value;
+      if (!token) {
+        setStatus("No refresh token is available.", "error");
+        return;
+      }
+
+      await navigator.clipboard.writeText(token);
+      clearSensitiveView(
+        "Refresh token copied and erased from the page. Save it now in GitHub."
+      );
+    }
+
+    function showError(error) {
+      authorizeButton.disabled = false;
+      setStatus(error.message || String(error), "error");
+    }
+
+    authorizeButton.addEventListener("click", () => {
+      beginAuthorization().catch(showError);
+    });
+
+    copyButton.addEventListener("click", () => {
+      copyAndClearToken().catch(showError);
+    });
+
+    window.addEventListener("pagehide", () => {
+      refreshTokenElement.value = "";
+    });
+
+    exchangeAuthorizationCode().catch(showError);
+  </script>
+</body>
+</html>
