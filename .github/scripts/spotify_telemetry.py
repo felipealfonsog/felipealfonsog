@@ -165,6 +165,8 @@ def build_auth_watch_block(
     user_action_required: str,
     secret_to_update: str = "NONE",
     last_good_utc: str | None = None,
+    failure_reason: str | None = None,
+    failure_detail: str | None = None,
 ):
     out = []
     out.append("AUTHORIZATION WATCH")
@@ -172,6 +174,10 @@ def build_auth_watch_block(
     out.append(f"Refresh token state       : {refresh_token_state}")
     out.append(f"User action required      : {user_action_required}")
     out.append(f"Secret to update          : {secret_to_update}")
+    if failure_reason:
+        out.append(f"Authorization failure     : {failure_reason}")
+    if failure_detail:
+        out.append(f"Failure detail            : {failure_detail}")
     if last_good_utc:
         out.append(f"Last good telemetry UTC   : {last_good_utc}")
     out.append("------------------------------------------------------------")
@@ -183,12 +189,16 @@ def replace_auth_watch_block(
     user_action_required: str,
     secret_to_update: str = "NONE",
     last_good_utc: str | None = None,
+    failure_reason: str | None = None,
+    failure_detail: str | None = None,
 ):
     new_block = build_auth_watch_block(
         refresh_token_state,
         user_action_required,
         secret_to_update,
         last_good_utc,
+        failure_reason,
+        failure_detail,
     )
     pattern = re.compile(
         r"AUTHORIZATION WATCH\n"
@@ -208,18 +218,59 @@ def replace_auth_watch_block(
 
     return report.rstrip() + "\n" + new_block
 
+def auth_failure_watch_values(reason: str, detail: str):
+    if reason == "SPOTIFY_REAUTH_REQUIRED":
+        return (
+            "REAUTH REQUIRED",
+            "YES",
+            "SPOTIFY_REFRESH_TOKEN",
+        )
+
+    if reason == "SPOTIFY_CLIENT_CREDENTIALS_INVALID":
+        return (
+            "CLIENT CREDENTIALS INVALID",
+            "YES",
+            "SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET",
+        )
+
+    if reason == "SPOTIFY_SECRETS_MISSING":
+        missing = []
+        if not CLIENT_ID:
+            missing.append("SPOTIFY_CLIENT_ID")
+        if not CLIENT_SECRET:
+            missing.append("SPOTIFY_CLIENT_SECRET")
+        if not REFRESH_TOKEN:
+            missing.append("SPOTIFY_REFRESH_TOKEN")
+        return (
+            "CONFIGURATION INCOMPLETE",
+            "YES",
+            " / ".join(missing) if missing else "SPOTIFY ACTION SECRETS",
+        )
+
+    return (
+        "TOKEN REFRESH ERROR",
+        "YES",
+        "REVIEW ACTION LOG",
+    )
+
 def build_auth_failsafe_report(reason: str, detail: str = ""):
     state = load_state()
     last_report = state.get(LAST_SUCCESSFUL_REPORT_KEY) or ""
     last_good_utc = state.get(LAST_SUCCESSFUL_REPORT_UTC_KEY) or state.get("report_generated_utc") or "N/A"
+    token_state, user_action, secret_to_update = auth_failure_watch_values(
+        reason,
+        detail,
+    )
 
     if last_report:
         return replace_auth_watch_block(
             last_report,
-            "REAUTH REQUIRED",
-            "YES",
-            "SPOTIFY_REFRESH_TOKEN",
+            token_state,
+            user_action,
+            secret_to_update,
             last_good_utc,
+            reason,
+            detail or None,
         )
 
     now_s = utc_iso(utc_now())
@@ -245,10 +296,12 @@ def build_auth_failsafe_report(reason: str, detail: str = ""):
     out.append("------------------------------------------------------------")
     out.append(f"Failure detail            : {detail or 'N/A'}")
     out.append(build_auth_watch_block(
-        "REAUTH REQUIRED",
-        "YES",
-        "SPOTIFY_REFRESH_TOKEN",
+        token_state,
+        user_action,
+        secret_to_update,
         None,
+        reason,
+        detail or None,
     ))
     out.append(f"Report generated (UTC)    : {now_s}")
     return "\n".join(out)
@@ -287,6 +340,12 @@ def spotify_access_token():
             raise SpotifyAuthError(
                 "SPOTIFY_REAUTH_REQUIRED",
                 "Refresh token expired or invalid",
+            )
+
+        if payload.get("error") == "invalid_client" or e.code == 401:
+            raise SpotifyAuthError(
+                "SPOTIFY_CLIENT_CREDENTIALS_INVALID",
+                "Spotify rejected the Client ID / Client Secret pair",
             )
 
         raise SpotifyAuthError(
@@ -1093,6 +1152,12 @@ def main():
         rewrite_readme_block(report)
     except SpotifyAuthError as e:
         print(f"Spotify auth failsafe: {e.reason} — {e.detail}", file=sys.stderr)
+        if os.environ.get("GITHUB_ACTIONS", "").lower() == "true":
+            print(
+                f"::warning title=Spotify authorization requires attention::"
+                f"{e.reason} — {e.detail}",
+                file=sys.stderr,
+            )
         if FAIL_SAFE_DO_NOT_BREAK_README:
             report = build_auth_failsafe_report(e.reason, e.detail)
             rewrite_readme_block(report)
