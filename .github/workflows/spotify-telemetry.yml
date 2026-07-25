@@ -1,52 +1,70 @@
-name: Update Spotify Callback
+name: Spotify Telemetry (CLI feed)
+# v2.9
 
 on:
   workflow_dispatch:
-    inputs:
-      spotify_client_id:
-        description: "Spotify Client ID (public identifier)"
-        required: true
-        type: string
-      spotify_redirect_uri:
-        description: "Exact published GitHub Pages URL of spotify-callback.html"
-        required: true
-        type: string
+  schedule:
+    # Cada 3 horas, minuto 23 — 8 ejecuciones diarias
+    - cron: "23 */3 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-spotify-callback
+  group: spotify-telemetry
   cancel-in-progress: false
 
 jobs:
-  update:
+  telemetry:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Update callback OAuth configuration
+      - name: Update Spotify telemetry block
         env:
-          SPOTIFY_PUBLIC_CLIENT_ID: ${{ inputs.spotify_client_id }}
-          SPOTIFY_PUBLIC_REDIRECT_URI: ${{ inputs.spotify_redirect_uri }}
-        run: python3 .github/scripts/update_spotify_callback.py
-
-      - name: Commit callback if changed
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
-          if git diff --quiet -- spotify-callback.html; then
-            echo "No callback changes."
+          set -euo pipefail
+          python3 .github/scripts/spotify_telemetry.py
+
+      - name: Commit and push telemetry if changed
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet; then
+            echo "No telemetry changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add spotify-callback.html
-          git commit -m "chore: update Spotify callback OAuth configuration"
+
+          git add README.md
+          git add .github/state/spotify_last_report.json 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "Nothing staged."
+            exit 0
+          fi
+
+          git commit -m "chore: update Spotify telemetry (CLI feed)"
           git push
+
+      - name: Upload Spotify debug
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: spotify-debug
+          path: .github/state/spotify_debug.json
+          if-no-files-found: ignore
