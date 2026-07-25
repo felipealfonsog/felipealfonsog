@@ -58,7 +58,7 @@ MAX_RECENT_ITEMS          = 50
 MAX_ARTIST_LOOKUPS        = 80
 
 # TOGGLE — cantidad de canciones recientes mostradas y guardadas (1-50)
-RECENT_HISTORY_LIMIT      = 15
+RECENT_HISTORY_LIMIT      = 25
 
 # ---- Volume formatting ----
 SHOW_VOLUME_BAR           = True
