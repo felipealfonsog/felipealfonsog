@@ -1527,8 +1527,8 @@ Heatmap (recent)          :     ▃▅▅█▄
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-25 13:01:11Z
-Week window (UTC)         : 2026-07-18 13:01:11Z → 2026-07-25 13:01:11Z
+Snapshot captured (UTC)   : 2026-07-25 14:04:51Z
+Week window (UTC)         : 2026-07-18 14:04:51Z → 2026-07-25 14:04:51Z
 Tracks played (last 24h)  : 28
 Total tracks played (7d)  : 32
 Dominant artist (24h)     : Matthew Halsall
@@ -1566,13 +1566,13 @@ Last played               : Tomasz Stanko Quintet — Terminal 7
 Last played (UTC)         : 2026-07-25 12:39:00Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Mammal Hands — In the Treetops → Tomasz Stanko Quintet — Terminal 7
-Δ last played (since last): 2026-07-25 12:04:10Z → 2026-07-25 12:39:00Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:22:12
-Telemetry age             : 00:22:12
-Δ time (since last report): 00:49:44
+Time since last play      : 01:25:51
+Telemetry age             : 01:25:51
+Δ time (since last report): 01:03:40
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-18 13:01:11Z → 2026-07-25 13:01:11Z
+Week window (UTC)         : 2026-07-18 14:04:51Z → 2026-07-25 14:04:51Z
 Total tracks played       : 32
 Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-25 13:01:11Z
+Report generated (UTC)    : 2026-07-25 14:04:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
