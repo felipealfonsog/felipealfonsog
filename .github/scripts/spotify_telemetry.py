@@ -27,6 +27,7 @@ SHOW_API_BLOCK            = True
 SHOW_INTEGRITY_BLOCK      = True
 SHOW_DAILY_SITREP         = True
 SHOW_WEEKLY_SUMMARY       = True
+SHOW_RECENT_HISTORY       = True
 
 # ---- Device privacy / details ----
 SHOW_DEVICE_NAME          = True   # device type stays ON
@@ -54,6 +55,7 @@ DEBUG_DUMP_PAYLOADS  = False   # keep False (privacy)
 SESSION_GAP_MINUTES       = 25
 MAX_RECENT_ITEMS          = 50
 MAX_ARTIST_LOOKUPS        = 80
+RECENT_HISTORY_LIMIT      = 5
 
 # ---- Volume formatting ----
 SHOW_VOLUME_BAR           = True
@@ -83,6 +85,11 @@ DEBUG_FILE    = os.path.join(STATE_DIR, "spotify_debug.json")
 ARTIST_CACHE_KEY = "artist_genre_cache"
 LAST_SUCCESSFUL_REPORT_KEY = "last_successful_report"
 LAST_SUCCESSFUL_REPORT_UTC_KEY = "last_successful_report_utc"
+RECENT_HISTORY_STATE_KEY = "recent_playback_history"
+LAST_DEVICE_TYPE_STATE_KEY = "last_known_device_type"
+LAST_DEVICE_NAME_STATE_KEY = "last_known_device_name"
+LAST_VOLUME_STATE_KEY = "last_known_volume_percent"
+LAST_VOLUME_TELEMETRY_STATE_KEY = "last_known_volume_telemetry"
 
 # =============================================================================
 # Helpers
@@ -472,6 +479,43 @@ def heatmap_line(hist):
         out.append(chars[clamp(idx, 0, len(chars)-1)])
     return "".join(out)
 
+def recent_history_from_payload(payload: dict, limit: int = RECENT_HISTORY_LIMIT):
+    history = []
+    if not isinstance(payload, dict):
+        return history
+
+    for item in payload.get("items") or []:
+        track = parse_track_item(item.get("track") or {})
+        played_at = item.get("played_at") or ""
+        played_dt = parse_iso_z(played_at)
+        if not track or not played_dt:
+            continue
+
+        history.append({
+            "track": f"{track['artist']} — {track['title']}",
+            "played_at_utc": utc_iso(played_dt),
+            "played_at_local": played_dt.astimezone(local_tz()).strftime("%Y-%m-%d %H:%M:%S %Z"),
+            "local_hour": played_dt.astimezone(local_tz()).hour,
+        })
+        if len(history) >= limit:
+            break
+
+    return history
+
+def recent_history_heatmap(history: list):
+    hist = [0] * 24
+    for entry in history:
+        try:
+            hour = int(entry.get("local_hour"))
+        except (TypeError, ValueError):
+            played_dt = parse_iso_z(entry.get("played_at_utc") or "")
+            if not played_dt:
+                continue
+            hour = played_dt.astimezone(local_tz()).hour
+        if 0 <= hour <= 23:
+            hist[hour] += 1
+    return hist
+
 def infer_sessions(dts):
     if not dts:
         return 0, None
@@ -637,8 +681,13 @@ def build_report():
 
     last_track_name = "-"
     last_played_utc = ""
+    recent_history = []
     if recent_ok:
         items = recent_payload.get("items") or []
+        recent_history = recent_history_from_payload(
+            recent_payload,
+            RECENT_HISTORY_LIMIT,
+        )
         if items:
             it0 = items[0]
             played_at = it0.get("played_at") or ""
@@ -651,6 +700,30 @@ def build_report():
                 dtp = parse_iso_z(last_played_utc)
                 if dtp:
                     last_played_utc = utc_iso(dtp)
+
+    # Preserve the last valid recent-playback snapshot when Spotify returns no
+    # usable recent history during this run.
+    if not recent_history:
+        previous_history = prev.get(RECENT_HISTORY_STATE_KEY) or []
+        if isinstance(previous_history, list):
+            recent_history = previous_history[:RECENT_HISTORY_LIMIT]
+
+    recent_hour_hist = recent_history_heatmap(recent_history)
+
+    # Spotify does not expose a per-track device history. These fields therefore
+    # represent the last device/volume captured while /me/player exposed them.
+    if has_active_session:
+        last_known_device_type = device_type or "N/A"
+        last_known_device_name = device_name or "N/A"
+        last_known_volume_percent = volume_percent
+        last_known_volume_telemetry = volume_telemetry
+    else:
+        last_known_device_type = prev.get(LAST_DEVICE_TYPE_STATE_KEY) or "N/A"
+        last_known_device_name = prev.get(LAST_DEVICE_NAME_STATE_KEY) or "N/A"
+        last_known_volume_percent = prev.get(LAST_VOLUME_STATE_KEY)
+        last_known_volume_telemetry = (
+            prev.get(LAST_VOLUME_TELEMETRY_STATE_KEY) or "N/A"
+        )
 
     # time since last play
     time_since_last_play = "N/A"
@@ -831,6 +904,51 @@ def build_report():
         out.append(f"Observation window        : {fmt_hms(OBS_WINDOW_SECONDS)}")
         out.append("------------------------------------------------------------")
 
+    if SHOW_RECENT_HISTORY:
+        historical_last_track = (
+            recent_history[0].get("track", "N/A")
+            if recent_history
+            else "N/A"
+        )
+        historical_last_played_utc = (
+            recent_history[0].get("played_at_utc", "N/A")
+            if recent_history
+            else (last_played_utc or "N/A")
+        )
+        historical_device = last_known_device_type
+        if SHOW_DEVICE_NAME and last_known_device_name not in ("", "N/A"):
+            historical_device = f"{last_known_device_name} ({last_known_device_type})"
+        historical_volume = (
+            f"{int(last_known_volume_percent)}%"
+            if last_known_volume_percent is not None
+            else "N/A"
+        )
+
+        out.append("RECENT PLAYBACK HISTORY")
+        out.append("------------------------------------------------------------")
+        out.append(f"Last track played         : {historical_last_track}")
+        for index in range(RECENT_HISTORY_LIMIT):
+            if index < len(recent_history):
+                entry = recent_history[index]
+                value = (
+                    f"{entry.get('track', 'N/A')} | "
+                    f"{entry.get('played_at_local', 'N/A')}"
+                )
+            else:
+                value = "N/A"
+            out.append(f"Recent track #{index + 1:<11}: {value}")
+        out.append(f"Last known device         : {historical_device}")
+        out.append(f"Last known volume         : {historical_volume}")
+        out.append(f"Volume telemetry          : {last_known_volume_telemetry}")
+        out.append(f"Last played (UTC)         : {historical_last_played_utc}")
+        out.append("------------------------------------------------------------")
+        out.append("LISTENING HOURS (recent playback)")
+        out.append("------------------------------------------------------------")
+        out.append(f"Local timezone            : {LOCAL_TIMEZONE}")
+        out.append(f"Peak hour (recent)        : {peak_hour(recent_hour_hist)}")
+        out.append(f"Heatmap (recent)          : {heatmap_line(recent_hour_hist)}")
+        out.append("------------------------------------------------------------")
+
     if SHOW_STATUS_BLOCK:
         out.append(f"Playback state            : {playback_state}")
         out.append(f"Status                    : {status}")
@@ -957,6 +1075,11 @@ def build_report():
             "last_track": last_track_name,
             "last_played_utc": last_played_utc,
             "sitrep": sitrep,
+            RECENT_HISTORY_STATE_KEY: recent_history,
+            LAST_DEVICE_TYPE_STATE_KEY: last_known_device_type,
+            LAST_DEVICE_NAME_STATE_KEY: last_known_device_name,
+            LAST_VOLUME_STATE_KEY: last_known_volume_percent,
+            LAST_VOLUME_TELEMETRY_STATE_KEY: last_known_volume_telemetry,
             LAST_SUCCESSFUL_REPORT_KEY: report,
             LAST_SUCCESSFUL_REPORT_UTC_KEY: now_s,
         })
