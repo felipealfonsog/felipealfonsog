@@ -96,7 +96,7 @@ LAST_DEVICE_NAME_STATE_KEY = "last_known_device_name"
 LAST_VOLUME_STATE_KEY = "last_known_volume_percent"
 LAST_VOLUME_TELEMETRY_STATE_KEY = "last_known_volume_telemetry"
 
-REAUTH_REDIRECT_URI = "http://127.0.0.1:8888/callback"
+REAUTH_REDIRECT_URI = "http://127.0.0.1:8765/callback"
 REAUTH_SCOPES = (
     "user-read-playback-state",
     "user-read-currently-playing",
@@ -231,7 +231,7 @@ def replace_auth_watch_block(
     return report.rstrip() + "\n" + new_block
 
 def auth_failure_watch_values(reason: str, detail: str):
-    if reason == "SPOTIFY_REAUTH_REQUIRED":
+    if reason == "SPOTIFY_REFRESH_TOKEN":
         return (
             "REAUTH REQUIRED",
             "YES",
@@ -414,7 +414,7 @@ def spotify_access_token():
 
     if errors and all(error == "invalid_grant" for error in errors):
         raise SpotifyAuthError(
-            "SPOTIFY_REAUTH_REQUIRED",
+            "SPOTIFY_REFRESH_TOKEN",
             "Refresh token expired, revoked, invalid, or issued for another Client ID",
         )
 
@@ -1267,7 +1267,7 @@ def spotify_reauthorize():
     authorization_url = f"https://accounts.spotify.com/authorize?{query}"
 
     server = http.server.ThreadingHTTPServer(
-        ("127.0.0.1", 8888),
+        ("127.0.0.1", 8765),
         SpotifyReauthCallback,
     )
     server.timeout = 1
