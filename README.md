@@ -1485,22 +1485,49 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Matthew Halsall — Breathless (Bonus Track) - Special Edition
-Recent track #1          : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
-Recent track #2          : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
-Recent track #3          : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
-Recent track #4          : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
-Recent track #5          : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
+Last track played         : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework
+------------------------------------------------------------
+Recent track #1            : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework | 2026-07-25 08:01:14 -04
+Recent track #2            : Shabaka and the Ancestors — Mzwandile | 2026-07-25 07:56:40 -04
+Recent track #3            : Manu Katché — Number One | 2026-07-25 07:43:08 -04
+Recent track #4            : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
+Recent track #5            : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
+------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
 Volume telemetry          : OK
-Last played (UTC)         : 2026-07-25 11:36:57Z
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Last played (UTC)         : 2026-07-25 12:01:14Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 07:00
-Heatmap (recent)          :        █                
+Heatmap (recent)          :        █▂               
+------------------------------------------------------------
+HISTORICAL LISTENING SNAPSHOT
+------------------------------------------------------------
+Snapshot captured (UTC)   : 2026-07-25 12:02:09Z
+Week window (UTC)         : 2026-07-18 12:02:09Z → 2026-07-25 12:02:09Z
+Tracks played (last 24h)  : 25
+Total tracks played (7d)  : 29
+Dominant artist (24h)     : Matthew Halsall
+Dominant artist (7d)      : Shabaka and the Ancestors
+Listening pattern (24h)   : Sustained operational tempo
+Activity status (24h)     : HIGH
+Cadence classification    : MEDIUM
+------------------------------------------------------------
+Local timezone            : America/Santiago
+Peak hour (24h)           : 07:00
+Peak hour (7d)            : 07:00
+Heatmap (24h)             :     ▃▅▅█▁ ▂▁            
+Heatmap (7d)              : ▁ ▁ ▃▅▆█▁ ▂▁▁           
+------------------------------------------------------------
+Sessions (24h)            : 3
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 04:08:18
+Top genres (24h)          : jazz(19) | nu jazz(19) | indie jazz(17) | ambient jazz(12) | experimental jazz(11) | free jazz(8)
+Top genres (7d)           : jazz(20) | nu jazz(20) | indie jazz(18) | ambient jazz(12) | experimental jazz(12) | free jazz(9)
 ------------------------------------------------------------
 Playback state            : ONLINE (active session)
 Status                    : PLAYING
@@ -1514,18 +1541,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Manu Katché — Number One
-Last played               : Matthew Halsall — Breathless (Bonus Track) - Special Edition
-Last played (UTC)         : 2026-07-25 11:36:57Z
+Now playing               : Mammal Hands — In the Treetops
+Last played               : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework
+Last played (UTC)         : 2026-07-25 12:01:14Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Downface — Bring Me Down → Matthew Halsall — Breathless (Bonus Track) - Special Edition
-Δ last played (since last): 2026-07-24 14:13:45Z → 2026-07-25 11:36:57Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Matthew Halsall — Breathless (Bonus Track) - Special Edition → Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework
+Δ last played (since last): 2026-07-25 11:36:57Z → 2026-07-25 12:01:14Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:42
-Telemetry age             : 00:05:42
-Δ time (since last report): 07:59:26
+Time since last play      : 00:00:56
+Telemetry age             : 00:00:56
+Δ time (since last report): 00:19:31
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1537,49 +1564,52 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
+Tracks played (last 24h)  : 25
 Dominant artist           : Matthew Halsall
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-18 11:42:39Z → 2026-07-25 11:42:39Z
-Total tracks played       : 26
-Dominant artist           : Matthew Halsall
+Week window (UTC)         : 2026-07-18 12:02:09Z → 2026-07-25 12:02:09Z
+Total tracks played       : 29
+Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
-Peak hour (7d)            : 06:00
-Heatmap (24h)             :     ▄▇▇█  ▃▁            
-Heatmap (7d)              : ▁ ▁ ▄▇██  ▃▁▁           
+Peak hour (7d)            : 07:00
+Heatmap (24h)             :     ▃▅▅█▁ ▂▁            
+Heatmap (7d)              : ▁ ▁ ▃▅▆█▁ ▂▁▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:37:08
+Avg inter-play gap (7d)   : 04:08:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(17) | nu jazz(16) | indie jazz(15) | ambient jazz(11) | experimental jazz(9) | free jazz(7)
-Top genres (7d)           : jazz(18) | nu jazz(17) | indie jazz(16) | ambient jazz(11) | experimental jazz(10) | free jazz(8)
-Artist lookups (this run) : 9 (cached)
+Top genres (24h)          : jazz(19) | nu jazz(19) | indie jazz(17) | ambient jazz(12) | experimental jazz(11) | free jazz(8)
+Top genres (7d)           : jazz(20) | nu jazz(20) | indie jazz(18) | ambient jazz(12) | experimental jazz(12) | free jazz(9)
+Artist lookups (this run) : 3 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
+Client ID state           : CONFIGURED
+Client secret state       : CONFIGURED
 Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
+Recovery repository       : felipealfonsog/felipealfonsog.github.io
 Recovery workflow         : update-spotify-callback.yml
-Callback page             : spotify-callback.html
+Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-25 11:42:39Z
+Report generated (UTC)    : 2026-07-25 12:02:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
