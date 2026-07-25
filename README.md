@@ -1502,6 +1502,16 @@ Recent track #12           : Ill Considered — Building Bridges | 2026-07-25 06
 Recent track #13           : Sons Of Kemet — My Queen Is Anna Julia Cooper | 2026-07-25 06:35:43 -04
 Recent track #14           : Ill Considered — Dawn Lit Metropolis | 2026-07-25 06:11:20 -04
 Recent track #15           : Nubya Garcia — Once | 2026-07-25 06:07:04 -04
+Recent track #16           : Matthew Halsall — Mary Emma Louise | 2026-07-25 05:46:39 -04
+Recent track #17           : Ill Considered — Unwritten Rules | 2026-07-25 05:39:13 -04
+Recent track #18           : Matthew Halsall — The Move - Special Edition | 2026-07-25 05:25:44 -04
+Recent track #19           : Tony Allen — Moanin' | 2026-07-25 05:17:32 -04
+Recent track #20           : Tony Allen — Politely | 2026-07-25 05:05:37 -04
+Recent track #21           : Shabaka and the Ancestors — Joyous | 2026-07-25 04:58:55 -04
+Recent track #22           : John Coltrane — Alabama | 2026-07-25 04:48:21 -04
+Recent track #23           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-25 04:34:42 -04
+Recent track #24           : Filter — Jurassitol | 2026-07-24 11:31:57 -04
+Recent track #25           : Downface — Bring Me Down | 2026-07-24 10:13:45 -04
 ------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
@@ -1513,12 +1523,12 @@ LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 07:00
-Heatmap (recent)          :       ▅█▂               
+Heatmap (recent)          :     ▃▅▅█▂ ▁▁            
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-25 12:07:22Z
-Week window (UTC)         : 2026-07-18 12:07:22Z → 2026-07-25 12:07:22Z
+Snapshot captured (UTC)   : 2026-07-25 12:11:28Z
+Week window (UTC)         : 2026-07-18 12:11:28Z → 2026-07-25 12:11:28Z
 Tracks played (last 24h)  : 26
 Total tracks played (7d)  : 30
 Dominant artist (24h)     : Matthew Halsall
@@ -1551,18 +1561,18 @@ Volume                    : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : Ill Considered — Incantation
+Now playing               : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings)
 Last played               : Mammal Hands — In the Treetops
 Last played (UTC)         : 2026-07-25 12:04:10Z
 Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework → Mammal Hands — In the Treetops
-Δ last played (since last): 2026-07-25 12:01:14Z → 2026-07-25 12:04:10Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:03:13
-Telemetry age             : 00:03:13
-Δ time (since last report): 00:05:14
+Time since last play      : 00:07:19
+Telemetry age             : 00:07:19
+Δ time (since last report): 00:04:07
 ------------------------------------------------------------
 API response class        : 200 OK
 API condition             : NORMAL
@@ -1581,7 +1591,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-18 12:07:22Z → 2026-07-25 12:07:22Z
+Week window (UTC)         : 2026-07-18 12:11:28Z → 2026-07-25 12:11:28Z
 Total tracks played       : 30
 Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
@@ -1619,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-25 12:07:22Z
+Report generated (UTC)    : 2026-07-25 12:11:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
