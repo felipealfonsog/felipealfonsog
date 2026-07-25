@@ -2,18 +2,13 @@
 # .github/scripts/spotify_telemetry.py
 
 import base64
-import getpass
-import http.server
 import json
 import os
 import re
-import secrets
 import sys
-import threading
 import urllib.parse
 import urllib.request
 import urllib.error
-import webbrowser
 from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
 
@@ -32,7 +27,6 @@ SHOW_API_BLOCK            = True
 SHOW_INTEGRITY_BLOCK      = True
 SHOW_DAILY_SITREP         = True
 SHOW_WEEKLY_SUMMARY       = True
-SHOW_RECENT_HISTORY       = True
 
 # ---- Device privacy / details ----
 SHOW_DEVICE_NAME          = True   # device type stays ON
@@ -60,7 +54,6 @@ DEBUG_DUMP_PAYLOADS  = False   # keep False (privacy)
 SESSION_GAP_MINUTES       = 25
 MAX_RECENT_ITEMS          = 50
 MAX_ARTIST_LOOKUPS        = 80
-RECENT_HISTORY_LIMIT      = 5
 
 # ---- Volume formatting ----
 SHOW_VOLUME_BAR           = True
@@ -90,18 +83,6 @@ DEBUG_FILE    = os.path.join(STATE_DIR, "spotify_debug.json")
 ARTIST_CACHE_KEY = "artist_genre_cache"
 LAST_SUCCESSFUL_REPORT_KEY = "last_successful_report"
 LAST_SUCCESSFUL_REPORT_UTC_KEY = "last_successful_report_utc"
-RECENT_HISTORY_STATE_KEY = "recent_playback_history"
-LAST_DEVICE_TYPE_STATE_KEY = "last_known_device_type"
-LAST_DEVICE_NAME_STATE_KEY = "last_known_device_name"
-LAST_VOLUME_STATE_KEY = "last_known_volume_percent"
-LAST_VOLUME_TELEMETRY_STATE_KEY = "last_known_volume_telemetry"
-
-REAUTH_REDIRECT_URI = "http://127.0.0.1:8765/callback"
-REAUTH_SCOPES = (
-    "user-read-playback-state",
-    "user-read-currently-playing",
-    "user-read-recently-played",
-)
 
 # =============================================================================
 # Helpers
@@ -177,8 +158,6 @@ def build_auth_watch_block(
     user_action_required: str,
     secret_to_update: str = "NONE",
     last_good_utc: str | None = None,
-    failure_reason: str | None = None,
-    failure_detail: str | None = None,
 ):
     out = []
     out.append("AUTHORIZATION WATCH")
@@ -186,10 +165,6 @@ def build_auth_watch_block(
     out.append(f"Refresh token state       : {refresh_token_state}")
     out.append(f"User action required      : {user_action_required}")
     out.append(f"Secret to update          : {secret_to_update}")
-    if failure_reason:
-        out.append(f"Authorization failure     : {failure_reason}")
-    if failure_detail:
-        out.append(f"Failure detail            : {failure_detail}")
     if last_good_utc:
         out.append(f"Last good telemetry UTC   : {last_good_utc}")
     out.append("------------------------------------------------------------")
@@ -201,16 +176,12 @@ def replace_auth_watch_block(
     user_action_required: str,
     secret_to_update: str = "NONE",
     last_good_utc: str | None = None,
-    failure_reason: str | None = None,
-    failure_detail: str | None = None,
 ):
     new_block = build_auth_watch_block(
         refresh_token_state,
         user_action_required,
         secret_to_update,
         last_good_utc,
-        failure_reason,
-        failure_detail,
     )
     pattern = re.compile(
         r"AUTHORIZATION WATCH\n"
@@ -230,59 +201,18 @@ def replace_auth_watch_block(
 
     return report.rstrip() + "\n" + new_block
 
-def auth_failure_watch_values(reason: str, detail: str):
-    if reason == "SPOTIFY_REFRESH_TOKEN":
-        return (
-            "REAUTH REQUIRED",
-            "YES",
-            "SPOTIFY_REFRESH_TOKEN",
-        )
-
-    if reason == "SPOTIFY_CLIENT_CREDENTIALS_INVALID":
-        return (
-            "CLIENT CREDENTIALS INVALID",
-            "YES",
-            "SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET",
-        )
-
-    if reason == "SPOTIFY_SECRETS_MISSING":
-        missing = []
-        if not CLIENT_ID:
-            missing.append("SPOTIFY_CLIENT_ID")
-        if not CLIENT_SECRET:
-            missing.append("SPOTIFY_CLIENT_SECRET")
-        if not REFRESH_TOKEN:
-            missing.append("SPOTIFY_REFRESH_TOKEN")
-        return (
-            "CONFIGURATION INCOMPLETE",
-            "YES",
-            " / ".join(missing) if missing else "SPOTIFY ACTION SECRETS",
-        )
-
-    return (
-        "TOKEN REFRESH ERROR",
-        "YES",
-        "REVIEW ACTION LOG",
-    )
-
 def build_auth_failsafe_report(reason: str, detail: str = ""):
     state = load_state()
     last_report = state.get(LAST_SUCCESSFUL_REPORT_KEY) or ""
     last_good_utc = state.get(LAST_SUCCESSFUL_REPORT_UTC_KEY) or state.get("report_generated_utc") or "N/A"
-    token_state, user_action, secret_to_update = auth_failure_watch_values(
-        reason,
-        detail,
-    )
 
     if last_report:
         return replace_auth_watch_block(
             last_report,
-            token_state,
-            user_action,
-            secret_to_update,
+            "REAUTH REQUIRED",
+            "YES",
+            "SPOTIFY_REFRESH_TOKEN",
             last_good_utc,
-            reason,
-            detail or None,
         )
 
     now_s = utc_iso(utc_now())
@@ -308,22 +238,34 @@ def build_auth_failsafe_report(reason: str, detail: str = ""):
     out.append("------------------------------------------------------------")
     out.append(f"Failure detail            : {detail or 'N/A'}")
     out.append(build_auth_watch_block(
-        token_state,
-        user_action,
-        secret_to_update,
+        "REAUTH REQUIRED",
+        "YES",
+        "SPOTIFY_REFRESH_TOKEN",
         None,
-        reason,
-        detail or None,
     ))
     out.append(f"Report generated (UTC)    : {now_s}")
     return "\n".join(out)
 
-def request_spotify_token(headers: dict, form: dict):
-    body = urllib.parse.urlencode(form).encode("utf-8")
+def spotify_access_token():
+    if not (CLIENT_ID and CLIENT_SECRET and REFRESH_TOKEN):
+        raise SpotifyAuthError(
+            "SPOTIFY_SECRETS_MISSING",
+            "Missing Spotify secrets: SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / SPOTIFY_REFRESH_TOKEN",
+        )
+
+    auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
+    body = urllib.parse.urlencode({
+        "grant_type": "refresh_token",
+        "refresh_token": REFRESH_TOKEN,
+    }).encode("utf-8")
+
     try:
         code, _, payload = http_json(
             AUTH_URL,
-            headers=headers,
+            headers={
+                "Authorization": f"Basic {auth}",
+                "Content-Type": "application/x-www-form-urlencoded",
+            },
             data=body,
             timeout=25
         )
@@ -333,104 +275,44 @@ def request_spotify_token(headers: dict, form: dict):
             payload = json.loads(raw) if raw.strip() else {}
         except Exception:
             payload = {"raw": raw}
-        return e.code, payload
+
+        if payload.get("error") == "invalid_grant":
+            raise SpotifyAuthError(
+                "SPOTIFY_REAUTH_REQUIRED",
+                "Refresh token expired or invalid",
+            )
+
+        raise SpotifyAuthError(
+            "SPOTIFY_TOKEN_REFRESH_FAILED",
+            f"HTTP {e.code}: {payload}",
+        )
     except Exception as e:
         raise SpotifyAuthError(
             "SPOTIFY_TOKEN_REFRESH_FAILED",
             str(e),
         )
-    return code, payload
 
-def token_from_response(code: int, payload):
-    if code >= 400 or not isinstance(payload, dict):
-        return None
+    if code >= 400 or not payload:
+        raise SpotifyAuthError(
+            "SPOTIFY_TOKEN_REFRESH_FAILED",
+            f"HTTP {code}: {payload}",
+        )
+
+    if payload.get("error") == "invalid_grant":
+        raise SpotifyAuthError(
+            "SPOTIFY_REAUTH_REQUIRED",
+            "Refresh token expired or invalid",
+        )
+
     token = payload.get("access_token")
+    scope = payload.get("scope") or ""
     if not token:
-        return None
-    return token, payload.get("scope") or ""
-
-def spotify_access_token():
-    if not (CLIENT_ID and REFRESH_TOKEN):
         raise SpotifyAuthError(
-            "SPOTIFY_SECRETS_MISSING",
-            "Missing Spotify secrets: SPOTIFY_CLIENT_ID / SPOTIFY_REFRESH_TOKEN",
+            "SPOTIFY_TOKEN_REFRESH_FAILED",
+            f"No access_token in token response: {payload}",
         )
 
-    attempts = []
-
-    # Authorization Code flow: confidential client authenticated with Basic.
-    if CLIENT_SECRET:
-        auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
-        code, payload = request_spotify_token(
-            headers={
-                "Authorization": f"Basic {auth}",
-                "Content-Type": "application/x-www-form-urlencoded",
-            },
-            form={
-                "grant_type": "refresh_token",
-                "refresh_token": REFRESH_TOKEN,
-            },
-        )
-        token_result = token_from_response(code, payload)
-        if token_result:
-            dlog("Token refresh mode=AUTHORIZATION_CODE")
-            return token_result
-        attempts.append(("AUTHORIZATION_CODE", code, payload))
-
-    # Authorization Code with PKCE: public client sends client_id in the body
-    # and does not authenticate with a Client Secret.
-    code, payload = request_spotify_token(
-        headers={
-            "Content-Type": "application/x-www-form-urlencoded",
-        },
-        form={
-            "grant_type": "refresh_token",
-            "refresh_token": REFRESH_TOKEN,
-            "client_id": CLIENT_ID,
-        },
-    )
-    token_result = token_from_response(code, payload)
-    if token_result:
-        dlog("Token refresh mode=PKCE")
-        return token_result
-    attempts.append(("PKCE", code, payload))
-
-    errors = [
-        payload.get("error")
-        for _, _, payload in attempts
-        if isinstance(payload, dict)
-    ]
-    descriptions = [
-        payload.get("error_description")
-        for _, _, payload in attempts
-        if isinstance(payload, dict) and payload.get("error_description")
-    ]
-
-    if "invalid_client" in errors and "invalid_grant" not in errors:
-        raise SpotifyAuthError(
-            "SPOTIFY_CLIENT_CREDENTIALS_INVALID",
-            descriptions[0] if descriptions else "Spotify rejected the client credentials",
-        )
-
-    if errors and all(error == "invalid_grant" for error in errors):
-        raise SpotifyAuthError(
-            "SPOTIFY_REFRESH_TOKEN",
-            "Refresh token expired, revoked, invalid, or issued for another Client ID",
-        )
-
-    safe_attempts = [
-        {
-            "mode": mode,
-            "http": code,
-            "error": payload.get("error") if isinstance(payload, dict) else None,
-            "description": payload.get("error_description") if isinstance(payload, dict) else None,
-        }
-        for mode, code, payload in attempts
-    ]
-    raise SpotifyAuthError(
-        "SPOTIFY_TOKEN_REFRESH_FAILED",
-        json.dumps(safe_attempts, ensure_ascii=False),
-    )
+    return token, scope
 
 def fetch_json_endpoint(url: str, token: str, timeout: int = 15):
     req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}"})
@@ -589,43 +471,6 @@ def heatmap_line(hist):
         idx = int(round((v / m) * (len(chars)-1)))
         out.append(chars[clamp(idx, 0, len(chars)-1)])
     return "".join(out)
-
-def recent_history_from_payload(payload: dict, limit: int = RECENT_HISTORY_LIMIT):
-    history = []
-    if not isinstance(payload, dict):
-        return history
-
-    for item in payload.get("items") or []:
-        track = parse_track_item(item.get("track") or {})
-        played_at = item.get("played_at") or ""
-        played_dt = parse_iso_z(played_at)
-        if not track or not played_dt:
-            continue
-
-        history.append({
-            "track": f"{track['artist']} — {track['title']}",
-            "played_at_utc": utc_iso(played_dt),
-            "played_at_local": played_dt.astimezone(local_tz()).strftime("%Y-%m-%d %H:%M:%S %Z"),
-            "local_hour": played_dt.astimezone(local_tz()).hour,
-        })
-        if len(history) >= limit:
-            break
-
-    return history
-
-def recent_history_heatmap(history: list):
-    hist = [0] * 24
-    for entry in history:
-        try:
-            hour = int(entry.get("local_hour"))
-        except (TypeError, ValueError):
-            played_dt = parse_iso_z(entry.get("played_at_utc") or "")
-            if not played_dt:
-                continue
-            hour = played_dt.astimezone(local_tz()).hour
-        if 0 <= hour <= 23:
-            hist[hour] += 1
-    return hist
 
 def infer_sessions(dts):
     if not dts:
@@ -792,13 +637,8 @@ def build_report():
 
     last_track_name = "-"
     last_played_utc = ""
-    recent_history = []
     if recent_ok:
         items = recent_payload.get("items") or []
-        recent_history = recent_history_from_payload(
-            recent_payload,
-            RECENT_HISTORY_LIMIT,
-        )
         if items:
             it0 = items[0]
             played_at = it0.get("played_at") or ""
@@ -811,30 +651,6 @@ def build_report():
                 dtp = parse_iso_z(last_played_utc)
                 if dtp:
                     last_played_utc = utc_iso(dtp)
-
-    # Preserve the last valid recent-playback snapshot when Spotify returns no
-    # usable recent history during this run.
-    if not recent_history:
-        previous_history = prev.get(RECENT_HISTORY_STATE_KEY) or []
-        if isinstance(previous_history, list):
-            recent_history = previous_history[:RECENT_HISTORY_LIMIT]
-
-    recent_hour_hist = recent_history_heatmap(recent_history)
-
-    # Spotify does not expose a per-track device history. These fields therefore
-    # represent the last device/volume captured while /me/player exposed them.
-    if has_active_session:
-        last_known_device_type = device_type or "N/A"
-        last_known_device_name = device_name or "N/A"
-        last_known_volume_percent = volume_percent
-        last_known_volume_telemetry = volume_telemetry
-    else:
-        last_known_device_type = prev.get(LAST_DEVICE_TYPE_STATE_KEY) or "N/A"
-        last_known_device_name = prev.get(LAST_DEVICE_NAME_STATE_KEY) or "N/A"
-        last_known_volume_percent = prev.get(LAST_VOLUME_STATE_KEY)
-        last_known_volume_telemetry = (
-            prev.get(LAST_VOLUME_TELEMETRY_STATE_KEY) or "N/A"
-        )
 
     # time since last play
     time_since_last_play = "N/A"
@@ -1015,51 +831,6 @@ def build_report():
         out.append(f"Observation window        : {fmt_hms(OBS_WINDOW_SECONDS)}")
         out.append("------------------------------------------------------------")
 
-    if SHOW_RECENT_HISTORY:
-        historical_last_track = (
-            recent_history[0].get("track", "N/A")
-            if recent_history
-            else "N/A"
-        )
-        historical_last_played_utc = (
-            recent_history[0].get("played_at_utc", "N/A")
-            if recent_history
-            else (last_played_utc or "N/A")
-        )
-        historical_device = last_known_device_type
-        if SHOW_DEVICE_NAME and last_known_device_name not in ("", "N/A"):
-            historical_device = f"{last_known_device_name} ({last_known_device_type})"
-        historical_volume = (
-            f"{int(last_known_volume_percent)}%"
-            if last_known_volume_percent is not None
-            else "N/A"
-        )
-
-        out.append("RECENT PLAYBACK HISTORY")
-        out.append("------------------------------------------------------------")
-        out.append(f"Last track played         : {historical_last_track}")
-        for index in range(RECENT_HISTORY_LIMIT):
-            if index < len(recent_history):
-                entry = recent_history[index]
-                value = (
-                    f"{entry.get('track', 'N/A')} | "
-                    f"{entry.get('played_at_local', 'N/A')}"
-                )
-            else:
-                value = "N/A"
-            out.append(f"Recent track #{index + 1:<11}: {value}")
-        out.append(f"Last known device         : {historical_device}")
-        out.append(f"Last known volume         : {historical_volume}")
-        out.append(f"Volume telemetry          : {last_known_volume_telemetry}")
-        out.append(f"Last played (UTC)         : {historical_last_played_utc}")
-        out.append("------------------------------------------------------------")
-        out.append("LISTENING HOURS (recent playback)")
-        out.append("------------------------------------------------------------")
-        out.append(f"Local timezone            : {LOCAL_TIMEZONE}")
-        out.append(f"Peak hour (recent)        : {peak_hour(recent_hour_hist)}")
-        out.append(f"Heatmap (recent)          : {heatmap_line(recent_hour_hist)}")
-        out.append("------------------------------------------------------------")
-
     if SHOW_STATUS_BLOCK:
         out.append(f"Playback state            : {playback_state}")
         out.append(f"Status                    : {status}")
@@ -1186,11 +957,6 @@ def build_report():
             "last_track": last_track_name,
             "last_played_utc": last_played_utc,
             "sitrep": sitrep,
-            RECENT_HISTORY_STATE_KEY: recent_history,
-            LAST_DEVICE_TYPE_STATE_KEY: last_known_device_type,
-            LAST_DEVICE_NAME_STATE_KEY: last_known_device_name,
-            LAST_VOLUME_STATE_KEY: last_known_volume_percent,
-            LAST_VOLUME_TELEMETRY_STATE_KEY: last_known_volume_telemetry,
             LAST_SUCCESSFUL_REPORT_KEY: report,
             LAST_SUCCESSFUL_REPORT_UTC_KEY: now_s,
         })
@@ -1198,134 +964,12 @@ def build_report():
 
     return report
 
-class SpotifyReauthCallback(http.server.BaseHTTPRequestHandler):
-    expected_state = ""
-    authorization_code = None
-    callback_error = None
-    completed = threading.Event()
-
-    def do_GET(self):
-        parsed = urllib.parse.urlparse(self.path)
-        params = urllib.parse.parse_qs(parsed.query)
-
-        if parsed.path != "/callback":
-            self.send_response(404)
-            self.end_headers()
-            return
-
-        returned_state = (params.get("state") or [""])[0]
-        if not secrets.compare_digest(returned_state, self.expected_state):
-            self.callback_error = "OAuth state mismatch"
-        elif params.get("error"):
-            self.callback_error = (params.get("error") or ["unknown_error"])[0]
-        else:
-            self.authorization_code = (params.get("code") or [""])[0] or None
-            if not self.authorization_code:
-                self.callback_error = "Spotify returned no authorization code"
-
-        success = self.authorization_code is not None
-        html = (
-            "<h2>Spotify authorization completed.</h2>"
-            "<p>Return to the terminal.</p>"
-            if success
-            else
-            "<h2>Spotify authorization failed.</h2>"
-            f"<p>{self.callback_error}</p>"
-        ).encode("utf-8")
-        self.send_response(200 if success else 400)
-        self.send_header("Content-Type", "text/html; charset=utf-8")
-        self.send_header("Content-Length", str(len(html)))
-        self.end_headers()
-        self.wfile.write(html)
-        self.completed.set()
-
-    def log_message(self, _format, *_args):
-        return
-
-def spotify_reauthorize():
-    print("Spotify telemetry reauthorization")
-    print(f"Required Spotify dashboard redirect URI: {REAUTH_REDIRECT_URI}")
-    client_id = input("Spotify Client ID: ").strip()
-    client_secret = getpass.getpass("Spotify Client Secret: ").strip()
-    if not client_id or not client_secret:
-        raise RuntimeError("Client ID and Client Secret are required")
-
-    state = secrets.token_urlsafe(32)
-    SpotifyReauthCallback.expected_state = state
-    SpotifyReauthCallback.authorization_code = None
-    SpotifyReauthCallback.callback_error = None
-    SpotifyReauthCallback.completed.clear()
-
-    query = urllib.parse.urlencode({
-        "client_id": client_id,
-        "response_type": "code",
-        "redirect_uri": REAUTH_REDIRECT_URI,
-        "scope": " ".join(REAUTH_SCOPES),
-        "state": state,
-        "show_dialog": "true",
-    })
-    authorization_url = f"https://accounts.spotify.com/authorize?{query}"
-
-    server = http.server.ThreadingHTTPServer(
-        ("127.0.0.1", 8765),
-        SpotifyReauthCallback,
-    )
-    server.timeout = 1
-    print("\nOpening Spotify authorization...")
-    print(f"If the browser does not open, visit:\n{authorization_url}\n")
-    webbrowser.open(authorization_url)
-
-    while not SpotifyReauthCallback.completed.is_set():
-        server.handle_request()
-    server.server_close()
-
-    if SpotifyReauthCallback.callback_error:
-        raise RuntimeError(SpotifyReauthCallback.callback_error)
-    code = SpotifyReauthCallback.authorization_code
-    if not code:
-        raise RuntimeError("No authorization code received")
-
-    auth = base64.b64encode(
-        f"{client_id}:{client_secret}".encode("utf-8")
-    ).decode("ascii")
-    token_code, payload = request_spotify_token(
-        headers={
-            "Authorization": f"Basic {auth}",
-            "Content-Type": "application/x-www-form-urlencoded",
-        },
-        form={
-            "grant_type": "authorization_code",
-            "code": code,
-            "redirect_uri": REAUTH_REDIRECT_URI,
-        },
-    )
-    if token_code >= 400 or not isinstance(payload, dict):
-        raise RuntimeError(
-            f"Spotify authorization exchange failed (HTTP {token_code}): {payload}"
-        )
-
-    refresh_token = payload.get("refresh_token")
-    if not refresh_token:
-        raise RuntimeError(f"Spotify returned no refresh_token: {payload}")
-
-    print("\nAuthorization successful.")
-    print("Set GitHub Actions secret SPOTIFY_REFRESH_TOKEN to this value:\n")
-    print(refresh_token)
-    print("\nDo not commit or share this value.")
-    return 0
-
 def main():
     try:
         report = build_report()
         rewrite_readme_block(report)
     except SpotifyAuthError as e:
         print(f"Spotify auth failsafe: {e.reason} — {e.detail}", file=sys.stderr)
-        if os.environ.get("GITHUB_ACTIONS", "").lower() == "true":
-            print(
-                f"::warning title=Spotify authorization requires attention::"
-                f"{e.reason} — {e.detail}",
-                file=sys.stderr,
-            )
         if FAIL_SAFE_DO_NOT_BREAK_README:
             report = build_auth_failsafe_report(e.reason, e.detail)
             rewrite_readme_block(report)
@@ -1333,13 +977,6 @@ def main():
         raise
 
 if __name__ == "__main__":
-    if "--reauthorize" in sys.argv:
-        try:
-            raise SystemExit(spotify_reauthorize())
-        except Exception as e:
-            print(f"Reauthorization failed: {type(e).__name__}: {e}", file=sys.stderr)
-            raise SystemExit(1)
-
     try:
         main()
     except Exception as e:
