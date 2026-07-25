@@ -2,13 +2,18 @@
 # .github/scripts/spotify_telemetry.py
 
 import base64
+import getpass
+import http.server
 import json
 import os
 import re
+import secrets
 import sys
+import threading
 import urllib.parse
 import urllib.request
 import urllib.error
+import webbrowser
 from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
 
@@ -90,6 +95,13 @@ LAST_DEVICE_TYPE_STATE_KEY = "last_known_device_type"
 LAST_DEVICE_NAME_STATE_KEY = "last_known_device_name"
 LAST_VOLUME_STATE_KEY = "last_known_volume_percent"
 LAST_VOLUME_TELEMETRY_STATE_KEY = "last_known_volume_telemetry"
+
+REAUTH_REDIRECT_URI = "http://127.0.0.1:8888/callback"
+REAUTH_SCOPES = (
+    "user-read-playback-state",
+    "user-read-currently-playing",
+    "user-read-recently-played",
+)
 
 # =============================================================================
 # Helpers
@@ -1186,6 +1198,122 @@ def build_report():
 
     return report
 
+class SpotifyReauthCallback(http.server.BaseHTTPRequestHandler):
+    expected_state = ""
+    authorization_code = None
+    callback_error = None
+    completed = threading.Event()
+
+    def do_GET(self):
+        parsed = urllib.parse.urlparse(self.path)
+        params = urllib.parse.parse_qs(parsed.query)
+
+        if parsed.path != "/callback":
+            self.send_response(404)
+            self.end_headers()
+            return
+
+        returned_state = (params.get("state") or [""])[0]
+        if not secrets.compare_digest(returned_state, self.expected_state):
+            self.callback_error = "OAuth state mismatch"
+        elif params.get("error"):
+            self.callback_error = (params.get("error") or ["unknown_error"])[0]
+        else:
+            self.authorization_code = (params.get("code") or [""])[0] or None
+            if not self.authorization_code:
+                self.callback_error = "Spotify returned no authorization code"
+
+        success = self.authorization_code is not None
+        html = (
+            "<h2>Spotify authorization completed.</h2>"
+            "<p>Return to the terminal.</p>"
+            if success
+            else
+            "<h2>Spotify authorization failed.</h2>"
+            f"<p>{self.callback_error}</p>"
+        ).encode("utf-8")
+        self.send_response(200 if success else 400)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.send_header("Content-Length", str(len(html)))
+        self.end_headers()
+        self.wfile.write(html)
+        self.completed.set()
+
+    def log_message(self, _format, *_args):
+        return
+
+def spotify_reauthorize():
+    print("Spotify telemetry reauthorization")
+    print(f"Required Spotify dashboard redirect URI: {REAUTH_REDIRECT_URI}")
+    client_id = input("Spotify Client ID: ").strip()
+    client_secret = getpass.getpass("Spotify Client Secret: ").strip()
+    if not client_id or not client_secret:
+        raise RuntimeError("Client ID and Client Secret are required")
+
+    state = secrets.token_urlsafe(32)
+    SpotifyReauthCallback.expected_state = state
+    SpotifyReauthCallback.authorization_code = None
+    SpotifyReauthCallback.callback_error = None
+    SpotifyReauthCallback.completed.clear()
+
+    query = urllib.parse.urlencode({
+        "client_id": client_id,
+        "response_type": "code",
+        "redirect_uri": REAUTH_REDIRECT_URI,
+        "scope": " ".join(REAUTH_SCOPES),
+        "state": state,
+        "show_dialog": "true",
+    })
+    authorization_url = f"https://accounts.spotify.com/authorize?{query}"
+
+    server = http.server.ThreadingHTTPServer(
+        ("127.0.0.1", 8888),
+        SpotifyReauthCallback,
+    )
+    server.timeout = 1
+    print("\nOpening Spotify authorization...")
+    print(f"If the browser does not open, visit:\n{authorization_url}\n")
+    webbrowser.open(authorization_url)
+
+    while not SpotifyReauthCallback.completed.is_set():
+        server.handle_request()
+    server.server_close()
+
+    if SpotifyReauthCallback.callback_error:
+        raise RuntimeError(SpotifyReauthCallback.callback_error)
+    code = SpotifyReauthCallback.authorization_code
+    if not code:
+        raise RuntimeError("No authorization code received")
+
+    auth = base64.b64encode(
+        f"{client_id}:{client_secret}".encode("utf-8")
+    ).decode("ascii")
+    token_code, payload = request_spotify_token(
+        headers={
+            "Authorization": f"Basic {auth}",
+            "Content-Type": "application/x-www-form-urlencoded",
+        },
+        form={
+            "grant_type": "authorization_code",
+            "code": code,
+            "redirect_uri": REAUTH_REDIRECT_URI,
+        },
+    )
+    if token_code >= 400 or not isinstance(payload, dict):
+        raise RuntimeError(
+            f"Spotify authorization exchange failed (HTTP {token_code}): {payload}"
+        )
+
+    refresh_token = payload.get("refresh_token")
+    if not refresh_token:
+        raise RuntimeError(f"Spotify returned no refresh_token: {payload}")
+
+    print("\nAuthorization successful.")
+    print("Set GitHub Actions secret SPOTIFY_REFRESH_TOKEN to this value:\n")
+    print(refresh_token)
+    print("\nDo not commit or share this value.")
+    return 0
+
 def main():
     try:
         report = build_report()
@@ -1205,6 +1333,13 @@ def main():
         raise
 
 if __name__ == "__main__":
+    if "--reauthorize" in sys.argv:
+        try:
+            raise SystemExit(spotify_reauthorize())
+        except Exception as e:
+            print(f"Reauthorization failed: {type(e).__name__}: {e}", file=sys.stderr)
+            raise SystemExit(1)
+
     try:
         main()
     except Exception as e:
