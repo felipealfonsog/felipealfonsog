@@ -1527,8 +1527,8 @@ Heatmap (recent)          :      ▅▅█▅ ▁▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-25 16:13:44Z
-Week window (UTC)         : 2026-07-18 16:13:44Z → 2026-07-25 16:13:44Z
+Snapshot captured (UTC)   : 2026-07-25 19:37:20Z
+Week window (UTC)         : 2026-07-18 19:37:20Z → 2026-07-25 19:37:20Z
 Tracks played (last 24h)  : 28
 Total tracks played (7d)  : 35
 Dominant artist (24h)     : Matthew Halsall
@@ -1566,13 +1566,13 @@ Last played               : Manu Katché — Number One
 Last played (UTC)         : 2026-07-25 15:09:22Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → Manu Katché — Number One
-Δ last played (since last): 2026-07-25 12:39:00Z → 2026-07-25 15:09:22Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:04:23
-Telemetry age             : 01:04:23
-Δ time (since last report): 02:08:54
+Time since last play      : 04:27:59
+Telemetry age             : 04:27:59
+Δ time (since last report): 03:23:37
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-18 16:13:44Z → 2026-07-25 16:13:44Z
+Week window (UTC)         : 2026-07-18 19:37:20Z → 2026-07-25 19:37:20Z
 Total tracks played       : 35
 Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
@@ -1615,7 +1615,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(23) | nu jazz(20) | indie jazz(18) | ambient jazz(14) | experimental jazz(12) | free jazz(9)
 Top genres (7d)           : jazz(24) | nu jazz(21) | indie jazz(19) | ambient jazz(14) | experimental jazz(13) | free jazz(10)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-25 16:13:44Z
+Report generated (UTC)    : 2026-07-25 19:37:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
