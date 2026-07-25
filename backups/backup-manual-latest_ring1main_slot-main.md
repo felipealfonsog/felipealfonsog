@@ -523,7 +523,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-21T08:41:35+00:00 | last_update=2026-07-21T08:41:35+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-25T08:20:20+00:00 | last_update=2026-07-25T08:20:20+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -693,13 +693,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 209 ms
-TTFB................ 209 ms
+LATENCY............. 218 ms
+TTFB................ 217 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 43d
+TLS_EXPIRY.......... 39d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -728,7 +728,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 47 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-21T05:56:28Z
+LAST_PROBE_UTC...... 2026-07-25T05:48:00Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -769,18 +769,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.444658
-longitude      : -70.650208
-altitude       : 131 m
-gps_accuracy   : ±7.8 m
-heading        : 0°
-speed          : 0.0 km/h
-status         : low_movement
+latitude       : -33.444363
+longitude      : -70.650322
+altitude       : 31 m
+gps_accuracy   : ±4.4 m
+heading        : 300°
+speed          : 0.4 km/h
+status         : stationary
 phase          : overnight
-local_time     : 04:07
+local_time     : 03:50
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-07-21 08:07:54 UTC
+signal         : nominal
+updated_utc    : 2026-07-25 07:50:44 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -899,7 +899,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-21 09:04:13Z
+DSN snapshot (UTC)       : 2026-07-25 03:42:28Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -910,15 +910,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.52e9 km | 170.599 AU
-Heliocentric distance    : 171.219 AU
-Relative speed           : 40.415 km/s
+Earth distance           : 25.53e9 km | 170.672 AU
+Heliocentric distance    : 171.256 AU
+Relative speed           : 40.909 km/s
 ------------------------------------------------------------
-One-way light time       : 23:38:50
-Round-trip latency       : 47:17:39
+One-way light time       : 23:39:26
+Round-trip latency       : 47:18:52
 ------------------------------------------------------------
-Δ distance (since last)  : +619,357 km
-Mission age              : 48 years, 331 days
+Δ distance (since last)  : +962,001 km
+Mission age              : 48 years, 335 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -929,19 +929,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.34e9 km | 142.676 AU
-Heliocentric distance    : 143.463 AU
-Relative speed           : 33.726 km/s
+Earth distance           : 21.35e9 km | 142.717 AU
+Heliocentric distance    : 143.496 AU
+Relative speed           : 34.287 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:36
-Round-trip latency       : 39:33:12
+One-way light time       : 19:46:57
+Round-trip latency       : 39:33:53
 ------------------------------------------------------------
-Δ distance (since last)  : +342,167 km
-Mission age              : 48 years, 347 days
+Δ distance (since last)  : +554,845 km
+Mission age              : 48 years, 351 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-21 09:04:19Z
+Report generated (UTC)   : 2026-07-25 03:42:32Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1483,80 +1483,103 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+RECENT PLAYBACK HISTORY
+------------------------------------------------------------
+Last track played         : Matthew Halsall — Breathless (Bonus Track) - Special Edition
+Recent track #1          : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
+Recent track #2          : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
+Recent track #3          : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
+Recent track #4          : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
+Recent track #5          : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
+Last known device         : iPhone (Smartphone)
+Last known volume         : 100%
+Volume telemetry          : OK
+Last played (UTC)         : 2026-07-25 11:36:57Z
+------------------------------------------------------------
+LISTENING HOURS (recent playback)
+------------------------------------------------------------
+Local timezone            : America/Santiago
+Peak hour (recent)        : 07:00
+Heatmap (recent)          :        █                
+------------------------------------------------------------
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Filter — Spent - Remastered Version 2025
-Last played (UTC)         : 2026-07-20 16:08:39Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Manu Katché — Number One
+Last played               : Matthew Halsall — Breathless (Bonus Track) - Special Edition
+Last played (UTC)         : 2026-07-25 11:36:57Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Downface — Bring Me Down → Matthew Halsall — Breathless (Bonus Track) - Special Edition
+Δ last played (since last): 2026-07-24 14:13:45Z → 2026-07-25 11:36:57Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 16:56:24
-Telemetry age             : 16:56:24
-Δ time (since last report): 05:13:52
+Time since last play      : 00:05:42
+Telemetry age             : 00:05:42
+Δ time (since last report): 07:59:26
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Filter
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 22
+Dominant artist           : Matthew Halsall
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-14 09:05:03Z → 2026-07-21 09:05:03Z
-Total tracks played       : 50
-Dominant artist           : Tomasz Stanko Quintet
-Cadence classification    : HIGH
+Week window (UTC)         : 2026-07-18 11:42:39Z → 2026-07-25 11:42:39Z
+Total tracks played       : 26
+Dominant artist           : Matthew Halsall
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
-Peak hour (7d)            : 07:00
-Heatmap (24h)             :             █           
-Heatmap (7d)              : ▁▄▅▁ ▁ █    ▁      ▁▄▃▂ 
+Peak hour (24h)           : 07:00
+Peak hour (7d)            : 06:00
+Heatmap (24h)             :     ▄▇▇█  ▃▁            
+Heatmap (7d)              : ▁ ▁ ▄▇██  ▃▁▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:47:23
+Sessions (24h)            : 3
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 04:37:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : industrial(1) | industrial metal(1) | industrial rock(1) | post-grunge(1)
-Top genres (7d)           : jazz(35) | free jazz(30) | ambient jazz(26) | grunge(14) | post-grunge(11) | bebop(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(17) | nu jazz(16) | indie jazz(15) | ambient jazz(11) | experimental jazz(9) | free jazz(7)
+Top genres (7d)           : jazz(18) | nu jazz(17) | indie jazz(16) | ambient jazz(11) | experimental jazz(10) | free jazz(8)
+Artist lookups (this run) : 9 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
 Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
+Recovery workflow         : update-spotify-callback.yml
+Callback page             : spotify-callback.html
+Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-21 09:05:03Z
+Report generated (UTC)    : 2026-07-25 11:42:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1594,7 +1617,7 @@ Data may contain discrepancies or inaccuracies due to limitations, caching, or t
 
 <br>
 
-[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Profile](https://img.shields.io/badge/Spotify-%20Profile-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify OAuth](https://img.shields.io/badge/Spotify-OAuth%20Console-1DB954?logo=spotify&logoColor=white)](https://developer.spotify.com/)
+[![Run Spotify Telemetry](https://img.shields.io/badge/Run-Spotify%20Telemetry-1DB954?logo=spotify&logoColor=white)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml) [![Spotify Telemetry (CLI feed)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-telemetry.yml/badge.svg)](#) [![Spotify Profile](https://img.shields.io/badge/Spotify-%20Profile-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify OAuth](https://img.shields.io/badge/Spotify-OAuth%20Console-1DB954?logo=spotify&logoColor=white)](https://developer.spotify.com/) [![Spotify OAuth Callback](https://img.shields.io/badge/Spotify-OAuth%20Callback-1DB954?logo=spotify&logoColor=white)](https://felipealfonsog.github.io/spotify-callback.html)
 
 
 #
@@ -1914,60 +1937,60 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 20 July 2026
+From: 04 December 2023 - To: 24 July 2026
 
-Total Time       : 1,043 hrs 4 mins
+Total Time       : 1,044 hrs 2 mins
 Mostly coding in : Other
-Daily average    : 1 hrs 5 mins
+Daily average    : 1 hrs 4 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          681 hrs 49 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.37 %
-Bash           176 hrs 41 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.94 %
-Python         140 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.50 %
-HTML           138 hrs 5 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.24 %
-PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.46 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.75 %
-C              76 hrs 25 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.33 %
+Other          693 hrs 14 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.40 %
+Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.92 %
+Python         140 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.49 %
+HTML           138 hrs 3 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
+PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.45 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.74 %
+C              76 hrs 25 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.32 %
 C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.83 %
-Text           39 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
+Text           39 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.80 %
 YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.64 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,011 hrs 23 mins ●●●●●●●●●●●●●●●●●●●●●●●●●○  96.96 %
-Linux          713 hrs 30 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.40 %
+Mac            1,020 hrs 19 mins ●●●●●●●●●●●●●●●●●●●●●●●●●○  97.73 %
+Linux          713 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.34 %
 
 EDITORS - APPS
 --------------
-VS Code        658 hrs 12 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.10 %
-Firefox        538 hrs 1 min  ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.58 %
-Vim            337 hrs 55 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.40 %
-Terminal       38 hrs 56 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
-Spotify        25 hrs 42 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
-Termius        21 hrs 29 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.06 %
-‎WhatsApp      17 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.64 %
-Dia            16 hrs 33 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.59 %
-Acrobat        13 hrs 50 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
-TeXstudio      12 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-FileZilla      8 hrs 52 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
-Antigravity    6 hrs 14 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
+VS Code        658 hrs 27 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.07 %
+Firefox        541 hrs 10 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.84 %
+Vim            337 hrs 54 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.36 %
+Terminal       38 hrs 58 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
+Spotify        25 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.46 %
+Termius        21 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.08 %
+‎WhatsApp      17 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.63 %
+Dia            16 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.59 %
+Acrobat        13 hrs 51 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
+TeXstudio      13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.29 %
+FileZilla      8 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
+TextMate       6 hrs 43 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.64 %
 
 CATEGORIES
 ----------
-Coding         1,157 hrs 1 min ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       534 hrs 57 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.29 %
+Coding         1,160 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       538 hrs 6 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.54 %
 Meeting        25 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
-Writing Docs   6 hrs 13 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
-AI Coding      54 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.09 %
+Writing Docs   11 hrs 11 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.07 %
+AI Coding      1 hr 32 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.15 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 21/07/2026 08:19:31 UTC
+Last updated     : 25/07/2026 07:59:37 UTC
 
 ```
 <!--END_SECTION:wakastats-->
