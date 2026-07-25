@@ -306,26 +306,12 @@ def build_auth_failsafe_report(reason: str, detail: str = ""):
     out.append(f"Report generated (UTC)    : {now_s}")
     return "\n".join(out)
 
-def spotify_access_token():
-    if not (CLIENT_ID and CLIENT_SECRET and REFRESH_TOKEN):
-        raise SpotifyAuthError(
-            "SPOTIFY_SECRETS_MISSING",
-            "Missing Spotify secrets: SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / SPOTIFY_REFRESH_TOKEN",
-        )
-
-    auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
-    body = urllib.parse.urlencode({
-        "grant_type": "refresh_token",
-        "refresh_token": REFRESH_TOKEN,
-    }).encode("utf-8")
-
+def request_spotify_token(headers: dict, form: dict):
+    body = urllib.parse.urlencode(form).encode("utf-8")
     try:
         code, _, payload = http_json(
             AUTH_URL,
-            headers={
-                "Authorization": f"Basic {auth}",
-                "Content-Type": "application/x-www-form-urlencoded",
-            },
+            headers=headers,
             data=body,
             timeout=25
         )
@@ -335,50 +321,104 @@ def spotify_access_token():
             payload = json.loads(raw) if raw.strip() else {}
         except Exception:
             payload = {"raw": raw}
-
-        if payload.get("error") == "invalid_grant":
-            raise SpotifyAuthError(
-                "SPOTIFY_REAUTH_REQUIRED",
-                "Refresh token expired or invalid",
-            )
-
-        if payload.get("error") == "invalid_client" or e.code == 401:
-            raise SpotifyAuthError(
-                "SPOTIFY_CLIENT_CREDENTIALS_INVALID",
-                "Spotify rejected the Client ID / Client Secret pair",
-            )
-
-        raise SpotifyAuthError(
-            "SPOTIFY_TOKEN_REFRESH_FAILED",
-            f"HTTP {e.code}: {payload}",
-        )
+        return e.code, payload
     except Exception as e:
         raise SpotifyAuthError(
             "SPOTIFY_TOKEN_REFRESH_FAILED",
             str(e),
         )
+    return code, payload
 
-    if code >= 400 or not payload:
+def token_from_response(code: int, payload):
+    if code >= 400 or not isinstance(payload, dict):
+        return None
+    token = payload.get("access_token")
+    if not token:
+        return None
+    return token, payload.get("scope") or ""
+
+def spotify_access_token():
+    if not (CLIENT_ID and REFRESH_TOKEN):
         raise SpotifyAuthError(
-            "SPOTIFY_TOKEN_REFRESH_FAILED",
-            f"HTTP {code}: {payload}",
+            "SPOTIFY_SECRETS_MISSING",
+            "Missing Spotify secrets: SPOTIFY_CLIENT_ID / SPOTIFY_REFRESH_TOKEN",
         )
 
-    if payload.get("error") == "invalid_grant":
+    attempts = []
+
+    # Authorization Code flow: confidential client authenticated with Basic.
+    if CLIENT_SECRET:
+        auth = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
+        code, payload = request_spotify_token(
+            headers={
+                "Authorization": f"Basic {auth}",
+                "Content-Type": "application/x-www-form-urlencoded",
+            },
+            form={
+                "grant_type": "refresh_token",
+                "refresh_token": REFRESH_TOKEN,
+            },
+        )
+        token_result = token_from_response(code, payload)
+        if token_result:
+            dlog("Token refresh mode=AUTHORIZATION_CODE")
+            return token_result
+        attempts.append(("AUTHORIZATION_CODE", code, payload))
+
+    # Authorization Code with PKCE: public client sends client_id in the body
+    # and does not authenticate with a Client Secret.
+    code, payload = request_spotify_token(
+        headers={
+            "Content-Type": "application/x-www-form-urlencoded",
+        },
+        form={
+            "grant_type": "refresh_token",
+            "refresh_token": REFRESH_TOKEN,
+            "client_id": CLIENT_ID,
+        },
+    )
+    token_result = token_from_response(code, payload)
+    if token_result:
+        dlog("Token refresh mode=PKCE")
+        return token_result
+    attempts.append(("PKCE", code, payload))
+
+    errors = [
+        payload.get("error")
+        for _, _, payload in attempts
+        if isinstance(payload, dict)
+    ]
+    descriptions = [
+        payload.get("error_description")
+        for _, _, payload in attempts
+        if isinstance(payload, dict) and payload.get("error_description")
+    ]
+
+    if "invalid_client" in errors and "invalid_grant" not in errors:
+        raise SpotifyAuthError(
+            "SPOTIFY_CLIENT_CREDENTIALS_INVALID",
+            descriptions[0] if descriptions else "Spotify rejected the client credentials",
+        )
+
+    if errors and all(error == "invalid_grant" for error in errors):
         raise SpotifyAuthError(
             "SPOTIFY_REAUTH_REQUIRED",
-            "Refresh token expired or invalid",
+            "Refresh token expired, revoked, invalid, or issued for another Client ID",
         )
 
-    token = payload.get("access_token")
-    scope = payload.get("scope") or ""
-    if not token:
-        raise SpotifyAuthError(
-            "SPOTIFY_TOKEN_REFRESH_FAILED",
-            f"No access_token in token response: {payload}",
-        )
-
-    return token, scope
+    safe_attempts = [
+        {
+            "mode": mode,
+            "http": code,
+            "error": payload.get("error") if isinstance(payload, dict) else None,
+            "description": payload.get("error_description") if isinstance(payload, dict) else None,
+        }
+        for mode, code, payload in attempts
+    ]
+    raise SpotifyAuthError(
+        "SPOTIFY_TOKEN_REFRESH_FAILED",
+        json.dumps(safe_attempts, ensure_ascii=False),
+    )
 
 def fetch_json_endpoint(url: str, token: str, timeout: int = 15):
     req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}"})
