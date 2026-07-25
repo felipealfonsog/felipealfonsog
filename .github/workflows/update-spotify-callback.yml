@@ -1,0 +1,47 @@
+name: Update Spotify Callback
+
+on:
+  workflow_dispatch:
+    inputs:
+      spotify_client_id:
+        description: "Spotify Client ID (public identifier)"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-spotify-callback
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update callback Client ID
+        env:
+          SPOTIFY_PUBLIC_CLIENT_ID: ${{ inputs.spotify_client_id }}
+        run: python3 .github/scripts/update_spotify_callback.py
+
+      - name: Commit callback if changed
+        run: |
+          if git diff --quiet -- spotify-callback.html; then
+            echo "No callback changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add spotify-callback.html
+          git commit -m "chore: update Spotify callback Client ID"
+          git push
