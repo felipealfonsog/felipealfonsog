@@ -1483,88 +1483,103 @@ Acquisition mode          : OAuth2 / automated workflow
 Snapshot type             : Last-known playback state
 Observation window        : 00:30:00
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+RECENT PLAYBACK HISTORY
+------------------------------------------------------------
+Last track played         : Matthew Halsall — Breathless (Bonus Track) - Special Edition
+Recent track #1          : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
+Recent track #2          : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
+Recent track #3          : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
+Recent track #4          : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
+Recent track #5          : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
+Last known device         : iPhone (Smartphone)
+Last known volume         : 100%
+Volume telemetry          : OK
+Last played (UTC)         : 2026-07-25 11:36:57Z
+------------------------------------------------------------
+LISTENING HOURS (recent playback)
+------------------------------------------------------------
+Local timezone            : America/Santiago
+Peak hour (recent)        : 07:00
+Heatmap (recent)          :        █                
+------------------------------------------------------------
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : N/A
-Device name               : N/A
-Volume                    : N/A
-Volume telemetry          : NO ACTIVE SESSION
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
+Volume telemetry          : OK
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Downface — Bring Me Down
-Last played (UTC)         : 2026-07-24 14:13:45Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Manu Katché — Number One
+Last played               : Matthew Halsall — Breathless (Bonus Track) - Special Edition
+Last played (UTC)         : 2026-07-25 11:36:57Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Downface — Bring Me Down → Matthew Halsall — Breathless (Bonus Track) - Special Edition
+Δ last played (since last): 2026-07-24 14:13:45Z → 2026-07-25 11:36:57Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 13:29:29
-Telemetry age             : 13:29:29
-Δ time (since last report): 05:13:08
+Time since last play      : 00:05:42
+Telemetry age             : 00:05:42
+Δ time (since last report): 07:59:26
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : Downface
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 22
+Dominant artist           : Matthew Halsall
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-18 03:43:13Z → 2026-07-25 03:43:13Z
-Total tracks played       : 25
-Dominant artist           : Chris Cornell
+Week window (UTC)         : 2026-07-18 11:42:39Z → 2026-07-25 11:42:39Z
+Total tracks played       : 26
+Dominant artist           : Matthew Halsall
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
-Peak hour (7d)            : 07:00
-Heatmap (24h)             : ▄     ▄   █             
-Heatmap (7d)              : ▁▁▄   ▁█  ▁ ▁           
+Peak hour (24h)           : 07:00
+Peak hour (7d)            : 06:00
+Heatmap (24h)             :     ▄▇▇█  ▃▁            
+Heatmap (7d)              : ▁ ▁ ▄▇██  ▃▁▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 06:20:37
+Avg inter-play gap (7d)   : 04:37:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(2) | afrobeat(1) | classic rock(1) | grunge(1) | industrial(1) | industrial metal(1)
-Top genres (7d)           : grunge(15) | post-grunge(13) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(17) | nu jazz(16) | indie jazz(15) | ambient jazz(11) | experimental jazz(9) | free jazz(7)
+Top genres (7d)           : jazz(18) | nu jazz(17) | indie jazz(16) | ambient jazz(11) | experimental jazz(10) | free jazz(8)
+Artist lookups (this run) : 9 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
-Refresh token state       : REAUTH REQUIRED
-User action required      : YES
-Secret to update          : SPOTIFY_REFRESH_TOKEN
+Refresh token state       : PASSING
+User action required      : NO
+Secret to update          : NONE
 Recovery workflow         : update-spotify-callback.yml
 Callback page             : spotify-callback.html
-Recovery step 1           : Run Update Spotify Callback
-Recovery step 2           : Open callback page on GitHub Pages
-Recovery step 3           : Authorize Spotify and copy token
-Recovery step 4           : Update SPOTIFY_REFRESH_TOKEN
-Recovery step 5           : Run Spotify Telemetry
-Last good telemetry UTC   : 2026-07-25 03:43:13Z
+Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-25 03:43:13Z
+Report generated (UTC)    : 2026-07-25 11:42:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

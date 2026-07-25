@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-07-25 03:43:13Z",
-  "status": "IDLE",
-  "last_track": "Downface — Bring Me Down",
-  "last_played_utc": "2026-07-24 14:13:45Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-07-25 11:42:39Z",
+  "status": "PLAYING",
+  "last_track": "Matthew Halsall — Breathless (Bonus Track) - Special Edition",
+  "last_played_utc": "2026-07-25 11:36:57Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -1417,8 +1417,101 @@
     "22bE4uQ6baNwSHPVcDxLCe": [
       "classic rock",
       "rock"
+    ],
+    "0Cioop2zjxXxtcPUme7R46": [
+      "ambient jazz",
+      "jazz",
+      "nu jazz",
+      "indie jazz"
+    ],
+    "19f2JXwlRU26376TCKmp6L": [
+      "nu jazz",
+      "ambient jazz",
+      "experimental jazz",
+      "jazz",
+      "jazz fusion",
+      "indie jazz"
+    ],
+    "497rp5TEzJffeBnUT0BeE1": [
+      "ambient jazz",
+      "nu jazz",
+      "indie jazz",
+      "experimental jazz",
+      "jazz"
+    ],
+    "2rspptKP0lPBdlJJAJHqht": [
+      "nu jazz",
+      "indie jazz",
+      "jazz fusion"
+    ],
+    "2lrCkW8oiUfuiouUjVvM1o": [
+      "jazz funk",
+      "experimental hip hop",
+      "experimental jazz"
+    ],
+    "19yM7q6cq3QGb7V67Czgm8": [
+      "ambient jazz",
+      "jazz",
+      "nu jazz"
+    ],
+    "6O5k8LLRfDK8v9jj1GazAQ": [
+      "nu jazz",
+      "jazz",
+      "jazz funk",
+      "indie jazz"
+    ],
+    "2nSY0EIzz3eM6Y6Pc7VXkO": [
+      "experimental jazz",
+      "nu jazz",
+      "free jazz",
+      "ambient jazz",
+      "jazz",
+      "indie jazz",
+      "jazz fusion"
+    ],
+    "3pvRbmrqOyFxB2Eext4Dki": [
+      "experimental jazz",
+      "nu jazz",
+      "jazz",
+      "indie jazz"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nPlayback state            : OFFLINE (no active session)\nStatus                    : IDLE\nSITREP                    : AMBER\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : N/A\nDevice name               : N/A\nVolume                    : N/A\nVolume telemetry          : NO ACTIVE SESSION\n------------------------------------------------------------\nNow playing               : N/A\nLast played               : Downface — Bring Me Down\nLast played (UTC)         : 2026-07-24 14:13:45Z\nLast activity type        : NO_ACTIVE_SESSION\n------------------------------------------------------------\nΔ track (since last)      : NO CHANGE\nΔ last played (since last): NO CHANGE\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 13:29:29\nTelemetry age             : 13:29:29\nΔ time (since last report): 05:13:08\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 4\nDominant artist           : Downface\nListening pattern         : Light activity\nDaily activity status     : LOW\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-18 03:43:13Z → 2026-07-25 03:43:13Z\nTotal tracks played       : 25\nDominant artist           : Chris Cornell\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 10:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             : ▄     ▄   █             \nHeatmap (7d)              : ▁▁▄   ▁█  ▁ ▁           \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 7\nAvg inter-play gap (7d)   : 06:20:37\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : post-grunge(2) | afrobeat(1) | classic rock(1) | grunge(1) | industrial(1) | industrial metal(1)\nTop genres (7d)           : grunge(15) | post-grunge(13) | jazz(9) | bebop(6) | cool jazz(6) | hard bop(6)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-25 03:43:13Z",
-  "last_successful_report_utc": "2026-07-25 03:43:13Z"
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Matthew Halsall — Breathless (Bonus Track) - Special Edition\nRecent track #1          : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04\nRecent track #2          : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04\nRecent track #3          : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04\nRecent track #4          : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04\nRecent track #5          : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04\nLast known device         : iPhone (Smartphone)\nLast known volume         : 100%\nVolume telemetry          : OK\nLast played (UTC)         : 2026-07-25 11:36:57Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 07:00\nHeatmap (recent)          :        █                \n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nNow playing               : Manu Katché — Number One\nLast played               : Matthew Halsall — Breathless (Bonus Track) - Special Edition\nLast played (UTC)         : 2026-07-25 11:36:57Z\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nΔ track (since last)      : Downface — Bring Me Down → Matthew Halsall — Breathless (Bonus Track) - Special Edition\nΔ last played (since last): 2026-07-24 14:13:45Z → 2026-07-25 11:36:57Z\nΔ status (since last)     : IDLE → PLAYING\n------------------------------------------------------------\nTime since last play      : 00:05:42\nTelemetry age             : 00:05:42\nΔ time (since last report): 07:59:26\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 22\nDominant artist           : Matthew Halsall\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-18 11:42:39Z → 2026-07-25 11:42:39Z\nTotal tracks played       : 26\nDominant artist           : Matthew Halsall\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 07:00\nPeak hour (7d)            : 06:00\nHeatmap (24h)             :     ▄▇▇█  ▃▁            \nHeatmap (7d)              : ▁ ▁ ▄▇██  ▃▁▁           \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 7\nAvg inter-play gap (7d)   : 04:37:08\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(17) | nu jazz(16) | indie jazz(15) | ambient jazz(11) | experimental jazz(9) | free jazz(7)\nTop genres (7d)           : jazz(18) | nu jazz(17) | indie jazz(16) | ambient jazz(11) | experimental jazz(10) | free jazz(8)\nArtist lookups (this run) : 9 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-25 11:42:39Z",
+  "last_successful_report_utc": "2026-07-25 11:42:39Z",
+  "recent_playback_history": [
+    {
+      "track": "Matthew Halsall — Breathless (Bonus Track) - Special Edition",
+      "played_at_utc": "2026-07-25 11:36:57Z",
+      "played_at_local": "2026-07-25 07:36:57 -04",
+      "local_hour": 7
+    },
+    {
+      "track": "GoGo Penguin — Murmuration",
+      "played_at_utc": "2026-07-25 11:29:56Z",
+      "played_at_local": "2026-07-25 07:29:56 -04",
+      "local_hour": 7
+    },
+    {
+      "track": "Mammal Hands — Mansions of Millions of Years",
+      "played_at_utc": "2026-07-25 11:25:42Z",
+      "played_at_local": "2026-07-25 07:25:42 -04",
+      "local_hour": 7
+    },
+    {
+      "track": "Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "played_at_utc": "2026-07-25 11:19:34Z",
+      "played_at_local": "2026-07-25 07:19:34 -04",
+      "local_hour": 7
+    },
+    {
+      "track": "Shabaka and the Ancestors — Go My Heart, Go To Heaven",
+      "played_at_utc": "2026-07-25 11:15:01Z",
+      "played_at_local": "2026-07-25 07:15:01 -04",
+      "local_hour": 7
+    }
+  ],
+  "last_known_device_type": "Smartphone",
+  "last_known_device_name": "iPhone",
+  "last_known_volume_percent": 100,
+  "last_known_volume_telemetry": "OK"
 }
