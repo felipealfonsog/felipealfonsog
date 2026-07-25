@@ -1555,6 +1555,13 @@ AUTHORIZATION WATCH
 Refresh token state       : REAUTH REQUIRED
 User action required      : YES
 Secret to update          : SPOTIFY_REFRESH_TOKEN
+Recovery workflow         : update-spotify-callback.yml
+Callback page             : spotify-callback.html
+Recovery step 1           : Run Update Spotify Callback
+Recovery step 2           : Open callback page on GitHub Pages
+Recovery step 3           : Authorize Spotify and copy token
+Recovery step 4           : Update SPOTIFY_REFRESH_TOKEN
+Recovery step 5           : Run Spotify Telemetry
 Last good telemetry UTC   : 2026-07-25 03:43:13Z
 ------------------------------------------------------------
 Report generated (UTC)    : 2026-07-25 03:43:13Z
