@@ -1527,8 +1527,8 @@ Heatmap (recent)          :      ▅▅█▅ ▁▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-25 22:12:38Z
-Week window (UTC)         : 2026-07-18 22:12:38Z → 2026-07-25 22:12:38Z
+Snapshot captured (UTC)   : 2026-07-26 03:59:22Z
+Week window (UTC)         : 2026-07-19 03:59:22Z → 2026-07-26 03:59:22Z
 Tracks played (last 24h)  : 28
 Total tracks played (7d)  : 35
 Dominant artist (24h)     : Matthew Halsall
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 07:03:16
-Telemetry age             : 07:03:16
-Δ time (since last report): 02:35:18
+Time since last play      : 12:50:00
+Telemetry age             : 12:50:00
+Δ time (since last report): 05:46:44
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-18 22:12:38Z → 2026-07-25 22:12:38Z
+Week window (UTC)         : 2026-07-19 03:59:22Z → 2026-07-26 03:59:22Z
 Total tracks played       : 35
 Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-25 22:12:38Z
+Report generated (UTC)    : 2026-07-26 03:59:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
