@@ -1527,26 +1527,26 @@ Heatmap (recent)          :      ▅▅█▅ ▁▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-26 10:55:03Z
-Week window (UTC)         : 2026-07-19 10:55:03Z → 2026-07-26 10:55:03Z
-Tracks played (last 24h)  : 17
+Snapshot captured (UTC)   : 2026-07-26 16:16:00Z
+Week window (UTC)         : 2026-07-19 16:16:00Z → 2026-07-26 16:16:00Z
+Tracks played (last 24h)  : 1
 Total tracks played (7d)  : 36
 Dominant artist (24h)     : Tomasz Stanko Quintet
 Dominant artist (7d)      : Shabaka and the Ancestors
-Listening pattern (24h)   : Regular cadence
-Activity status (24h)     : MEDIUM
+Listening pattern (24h)   : Light activity
+Activity status (24h)     : LOW
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : 05:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :      ▁▁█▅ ▁▁            
+Heatmap (24h)             :      █                  
 Heatmap (7d)              : ▁ ▁ ▃▆▆█▅ ▃▂▁           
 ------------------------------------------------------------
-Sessions (24h)            : 5
+Sessions (24h)            : 1
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 03:55:28
-Top genres (24h)          : jazz(14) | nu jazz(12) | indie jazz(10) | ambient jazz(9) | experimental jazz(7) | jazz fusion(5)
+Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
 Top genres (7d)           : jazz(25) | nu jazz(21) | indie jazz(19) | ambient jazz(15) | experimental jazz(13) | free jazz(11)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
@@ -1566,13 +1566,13 @@ Last played               : Tomasz Stanko Quintet — Terminal 7
 Last played (UTC)         : 2026-07-26 09:30:09Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Manu Katché — Number One → Tomasz Stanko Quintet — Terminal 7
-Δ last played (since last): 2026-07-25 15:09:22Z → 2026-07-26 09:30:09Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:24:54
-Telemetry age             : 01:24:54
-Δ time (since last report): 06:55:41
+Time since last play      : 06:45:51
+Telemetry age             : 06:45:51
+Δ time (since last report): 05:20:57
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,14 +1584,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
+Tracks played (last 24h)  : 1
 Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-19 10:55:03Z → 2026-07-26 10:55:03Z
+Week window (UTC)         : 2026-07-19 16:16:00Z → 2026-07-26 16:16:00Z
 Total tracks played       : 36
 Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
@@ -1599,21 +1599,21 @@ Cadence classification    : MEDIUM
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : 05:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :      ▁▁█▅ ▁▁            
+Heatmap (24h)             :      █                  
 Heatmap (7d)              : ▁ ▁ ▃▆▆█▅ ▃▂▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 1
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 03:55:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(14) | nu jazz(12) | indie jazz(10) | ambient jazz(9) | experimental jazz(7) | jazz fusion(5)
+Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
 Top genres (7d)           : jazz(25) | nu jazz(21) | indie jazz(19) | ambient jazz(15) | experimental jazz(13) | free jazz(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-26 10:55:03Z
+Report generated (UTC)    : 2026-07-26 16:16:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
