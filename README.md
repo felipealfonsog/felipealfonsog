@@ -1527,8 +1527,8 @@ Heatmap (recent)          :      ▅▅█▅ ▁▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-26 19:38:01Z
-Week window (UTC)         : 2026-07-19 19:38:01Z → 2026-07-26 19:38:01Z
+Snapshot captured (UTC)   : 2026-07-26 22:15:22Z
+Week window (UTC)         : 2026-07-19 22:15:22Z → 2026-07-26 22:15:22Z
 Tracks played (last 24h)  : 1
 Total tracks played (7d)  : 36
 Dominant artist (24h)     : Tomasz Stanko Quintet
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:07:52
-Telemetry age             : 10:07:52
-Δ time (since last report): 03:22:01
+Time since last play      : 12:45:13
+Telemetry age             : 12:45:13
+Δ time (since last report): 02:37:21
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-19 19:38:01Z → 2026-07-26 19:38:01Z
+Week window (UTC)         : 2026-07-19 22:15:22Z → 2026-07-26 22:15:22Z
 Total tracks played       : 36
 Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-26 19:38:01Z
+Report generated (UTC)    : 2026-07-26 22:15:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
