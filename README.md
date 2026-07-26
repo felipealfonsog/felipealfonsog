@@ -1485,39 +1485,39 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Manu Katché — Number One
+Last track played         : Tomasz Stanko Quintet — Terminal 7
 ------------------------------------------------------------
-Recent track #1            : Manu Katché — Number One | 2026-07-25 11:09:22 -04
-Recent track #2            : Screaming Trees — Halo of Ashes | 2026-07-25 10:32:32 -04
-Recent track #3            : Kamasi Washington — Truth | 2026-07-25 08:42:00 -04
-Recent track #4            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-25 08:39:00 -04
-Recent track #5            : Days Of The New — Shelf In The Room | 2026-07-25 08:33:14 -04
-Recent track #6            : Mammal Hands — In the Treetops | 2026-07-25 08:04:10 -04
-Recent track #7            : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework | 2026-07-25 08:01:14 -04
-Recent track #8            : Shabaka and the Ancestors — Mzwandile | 2026-07-25 07:56:40 -04
-Recent track #9            : Manu Katché — Number One | 2026-07-25 07:43:08 -04
-Recent track #10           : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
-Recent track #11           : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
-Recent track #12           : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
-Recent track #13           : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
-Recent track #14           : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
-Recent track #15           : Matthew Halsall, The Gondwana Orchestra — Patterns | 2026-07-25 07:07:05 -04
-Recent track #16           : Nubya Garcia — Fly Free | 2026-07-25 06:57:21 -04
-Recent track #17           : Ill Considered — Building Bridges | 2026-07-25 06:45:09 -04
-Recent track #18           : Sons Of Kemet — My Queen Is Anna Julia Cooper | 2026-07-25 06:35:43 -04
-Recent track #19           : Ill Considered — Dawn Lit Metropolis | 2026-07-25 06:11:20 -04
-Recent track #20           : Nubya Garcia — Once | 2026-07-25 06:07:04 -04
-Recent track #21           : Matthew Halsall — Mary Emma Louise | 2026-07-25 05:46:39 -04
-Recent track #22           : Ill Considered — Unwritten Rules | 2026-07-25 05:39:13 -04
-Recent track #23           : Matthew Halsall — The Move - Special Edition | 2026-07-25 05:25:44 -04
-Recent track #24           : Tony Allen — Moanin' | 2026-07-25 05:17:32 -04
-Recent track #25           : Tony Allen — Politely | 2026-07-25 05:05:37 -04
+Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-26 05:30:09 -04
+Recent track #2            : Manu Katché — Number One | 2026-07-25 11:09:22 -04
+Recent track #3            : Screaming Trees — Halo of Ashes | 2026-07-25 10:32:32 -04
+Recent track #4            : Kamasi Washington — Truth | 2026-07-25 08:42:00 -04
+Recent track #5            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-25 08:39:00 -04
+Recent track #6            : Days Of The New — Shelf In The Room | 2026-07-25 08:33:14 -04
+Recent track #7            : Mammal Hands — In the Treetops | 2026-07-25 08:04:10 -04
+Recent track #8            : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework | 2026-07-25 08:01:14 -04
+Recent track #9            : Shabaka and the Ancestors — Mzwandile | 2026-07-25 07:56:40 -04
+Recent track #10           : Manu Katché — Number One | 2026-07-25 07:43:08 -04
+Recent track #11           : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
+Recent track #12           : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
+Recent track #13           : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
+Recent track #14           : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
+Recent track #15           : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
+Recent track #16           : Matthew Halsall, The Gondwana Orchestra — Patterns | 2026-07-25 07:07:05 -04
+Recent track #17           : Nubya Garcia — Fly Free | 2026-07-25 06:57:21 -04
+Recent track #18           : Ill Considered — Building Bridges | 2026-07-25 06:45:09 -04
+Recent track #19           : Sons Of Kemet — My Queen Is Anna Julia Cooper | 2026-07-25 06:35:43 -04
+Recent track #20           : Ill Considered — Dawn Lit Metropolis | 2026-07-25 06:11:20 -04
+Recent track #21           : Nubya Garcia — Once | 2026-07-25 06:07:04 -04
+Recent track #22           : Matthew Halsall — Mary Emma Louise | 2026-07-25 05:46:39 -04
+Recent track #23           : Ill Considered — Unwritten Rules | 2026-07-25 05:39:13 -04
+Recent track #24           : Matthew Halsall — The Move - Special Edition | 2026-07-25 05:25:44 -04
+Recent track #25           : Tony Allen — Moanin' | 2026-07-25 05:17:32 -04
 ------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Last played (UTC)         : 2026-07-25 15:09:22Z
+Last played (UTC)         : 2026-07-26 09:30:09Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
@@ -1527,27 +1527,27 @@ Heatmap (recent)          :      ▅▅█▅ ▁▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-26 03:59:22Z
-Week window (UTC)         : 2026-07-19 03:59:22Z → 2026-07-26 03:59:22Z
-Tracks played (last 24h)  : 28
-Total tracks played (7d)  : 35
-Dominant artist (24h)     : Matthew Halsall
+Snapshot captured (UTC)   : 2026-07-26 10:55:03Z
+Week window (UTC)         : 2026-07-19 10:55:03Z → 2026-07-26 10:55:03Z
+Tracks played (last 24h)  : 17
+Total tracks played (7d)  : 36
+Dominant artist (24h)     : Tomasz Stanko Quintet
 Dominant artist (7d)      : Shabaka and the Ancestors
-Listening pattern (24h)   : Sustained operational tempo
-Activity status (24h)     : HIGH
+Listening pattern (24h)   : Regular cadence
+Activity status (24h)     : MEDIUM
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :     ▃▅▅█▅ ▁▁            
-Heatmap (7d)              : ▁ ▁ ▃▅▆█▅ ▃▂▁           
+Heatmap (24h)             :      ▁▁█▅ ▁▁            
+Heatmap (7d)              : ▁ ▁ ▃▆▆█▅ ▃▂▁           
 ------------------------------------------------------------
-Sessions (24h)            : 4
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:30:01
-Top genres (24h)          : jazz(23) | nu jazz(20) | indie jazz(18) | ambient jazz(14) | experimental jazz(12) | free jazz(9)
-Top genres (7d)           : jazz(24) | nu jazz(21) | indie jazz(19) | ambient jazz(14) | experimental jazz(13) | free jazz(10)
+Sessions (24h)            : 5
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:55:28
+Top genres (24h)          : jazz(14) | nu jazz(12) | indie jazz(10) | ambient jazz(9) | experimental jazz(7) | jazz fusion(5)
+Top genres (7d)           : jazz(25) | nu jazz(21) | indie jazz(19) | ambient jazz(15) | experimental jazz(13) | free jazz(11)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Manu Katché — Number One
-Last played (UTC)         : 2026-07-25 15:09:22Z
+Last played               : Tomasz Stanko Quintet — Terminal 7
+Last played (UTC)         : 2026-07-26 09:30:09Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Manu Katché — Number One → Tomasz Stanko Quintet — Terminal 7
+Δ last played (since last): 2026-07-25 15:09:22Z → 2026-07-26 09:30:09Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 12:50:00
-Telemetry age             : 12:50:00
-Δ time (since last report): 05:46:44
+Time since last play      : 01:24:54
+Telemetry age             : 01:24:54
+Δ time (since last report): 06:55:41
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,15 +1584,15 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 28
-Dominant artist           : Matthew Halsall
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 17
+Dominant artist           : Tomasz Stanko Quintet
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-19 03:59:22Z → 2026-07-26 03:59:22Z
-Total tracks played       : 35
+Week window (UTC)         : 2026-07-19 10:55:03Z → 2026-07-26 10:55:03Z
+Total tracks played       : 36
 Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1601,20 +1601,20 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :     ▃▅▅█▅ ▁▁            
-Heatmap (7d)              : ▁ ▁ ▃▅▆█▅ ▃▂▁           
+Heatmap (24h)             :      ▁▁█▅ ▁▁            
+Heatmap (7d)              : ▁ ▁ ▃▆▆█▅ ▃▂▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
-Sessions (7d)             : 10
-Avg inter-play gap (7d)   : 03:30:01
+Sessions (24h)            : 5
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 03:55:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(23) | nu jazz(20) | indie jazz(18) | ambient jazz(14) | experimental jazz(12) | free jazz(9)
-Top genres (7d)           : jazz(24) | nu jazz(21) | indie jazz(19) | ambient jazz(14) | experimental jazz(13) | free jazz(10)
+Top genres (24h)          : jazz(14) | nu jazz(12) | indie jazz(10) | ambient jazz(9) | experimental jazz(7) | jazz fusion(5)
+Top genres (7d)           : jazz(25) | nu jazz(21) | indie jazz(19) | ambient jazz(15) | experimental jazz(13) | free jazz(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-26 03:59:22Z
+Report generated (UTC)    : 2026-07-26 10:55:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
