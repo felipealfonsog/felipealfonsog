@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-07-26_1345Z
+ snapshot_utc : 2026-07-27_1453Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -530,7 +530,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-26T08:37:25+00:00 | last_update=2026-07-26T08:37:25+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-27T10:05:42+00:00 | last_update=2026-07-27T10:05:42+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -700,13 +700,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 171 ms
-TTFB................ 170 ms
+LATENCY............. 191 ms
+TTFB................ 190 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 38d
+TLS_EXPIRY.......... 37d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -735,7 +735,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 47 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-26T06:11:16Z
+LAST_PROBE_UTC...... 2026-07-27T06:36:18Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -775,19 +775,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437259
-longitude      : -70.647228
-altitude       : 49 m
-gps_accuracy   : ±5.6 m
-heading        : 78°
-speed          : 0.8 km/h
-status         : in_transit
+location       : residential_sector
+latitude       : -33.441993
+longitude      : -70.654406
+altitude       : 33 m
+gps_accuracy   : ±7.2 m
+heading        : 175°
+speed          : 0.2 km/h
+status         : stationary
 phase          : morning
-local_time     : 08:58
+local_time     : 10:10
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-07-26 12:58:14 UTC
+updated_utc    : 2026-07-27 14:10:21 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -906,7 +906,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-26 08:40:58Z
+DSN snapshot (UTC)       : 2026-07-27 10:11:31Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -917,15 +917,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.54e9 km | 170.695 AU
-Heliocentric distance    : 171.267 AU
-Relative speed           : 41.060 km/s
+Earth distance           : 25.54e9 km | 170.717 AU
+Heliocentric distance    : 171.278 AU
+Relative speed           : 41.192 km/s
 ------------------------------------------------------------
-One-way light time       : 23:39:38
-Round-trip latency       : 47:19:16
+One-way light time       : 23:39:48
+Round-trip latency       : 47:19:37
 ------------------------------------------------------------
-Δ distance (since last)  : +574,658 km
-Mission age              : 48 years, 336 days
+Δ distance (since last)  : +758,044 km
+Mission age              : 48 years, 337 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -936,19 +936,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.731 AU
-Heliocentric distance    : 143.507 AU
-Relative speed           : 34.464 km/s
+Earth distance           : 21.35e9 km | 142.744 AU
+Heliocentric distance    : 143.516 AU
+Relative speed           : 34.619 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:04
-Round-trip latency       : 39:34:07
+One-way light time       : 19:47:10
+Round-trip latency       : 39:34:20
 ------------------------------------------------------------
-Δ distance (since last)  : +336,095 km
-Mission age              : 48 years, 352 days
+Δ distance (since last)  : +448,266 km
+Mission age              : 48 years, 353 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-26 08:41:03Z
+Report generated (UTC)   : 2026-07-27 10:11:35Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1534,26 +1534,26 @@ Heatmap (recent)          :      ▅▅█▅ ▁▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-26 10:55:03Z
-Week window (UTC)         : 2026-07-19 10:55:03Z → 2026-07-26 10:55:03Z
-Tracks played (last 24h)  : 17
+Snapshot captured (UTC)   : 2026-07-27 04:05:59Z
+Week window (UTC)         : 2026-07-20 04:05:59Z → 2026-07-27 04:05:59Z
+Tracks played (last 24h)  : 1
 Total tracks played (7d)  : 36
 Dominant artist (24h)     : Tomasz Stanko Quintet
 Dominant artist (7d)      : Shabaka and the Ancestors
-Listening pattern (24h)   : Regular cadence
-Activity status (24h)     : MEDIUM
+Listening pattern (24h)   : Light activity
+Activity status (24h)     : LOW
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : 05:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :      ▁▁█▅ ▁▁            
+Heatmap (24h)             :      █                  
 Heatmap (7d)              : ▁ ▁ ▃▆▆█▅ ▃▂▁           
 ------------------------------------------------------------
-Sessions (24h)            : 5
+Sessions (24h)            : 1
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 03:55:28
-Top genres (24h)          : jazz(14) | nu jazz(12) | indie jazz(10) | ambient jazz(9) | experimental jazz(7) | jazz fusion(5)
+Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
 Top genres (7d)           : jazz(25) | nu jazz(21) | indie jazz(19) | ambient jazz(15) | experimental jazz(13) | free jazz(11)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
@@ -1573,13 +1573,13 @@ Last played               : Tomasz Stanko Quintet — Terminal 7
 Last played (UTC)         : 2026-07-26 09:30:09Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Manu Katché — Number One → Tomasz Stanko Quintet — Terminal 7
-Δ last played (since last): 2026-07-25 15:09:22Z → 2026-07-26 09:30:09Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:24:54
-Telemetry age             : 01:24:54
-Δ time (since last report): 06:55:41
+Time since last play      : 18:35:50
+Telemetry age             : 18:35:50
+Δ time (since last report): 05:50:37
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,14 +1591,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
+Tracks played (last 24h)  : 1
 Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-19 10:55:03Z → 2026-07-26 10:55:03Z
+Week window (UTC)         : 2026-07-20 04:05:59Z → 2026-07-27 04:05:59Z
 Total tracks played       : 36
 Dominant artist           : Shabaka and the Ancestors
 Cadence classification    : MEDIUM
@@ -1606,21 +1606,21 @@ Cadence classification    : MEDIUM
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : 05:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :      ▁▁█▅ ▁▁            
+Heatmap (24h)             :      █                  
 Heatmap (7d)              : ▁ ▁ ▃▆▆█▅ ▃▂▁           
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 1
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 03:55:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(14) | nu jazz(12) | indie jazz(10) | ambient jazz(9) | experimental jazz(7) | jazz fusion(5)
+Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
 Top genres (7d)           : jazz(25) | nu jazz(21) | indie jazz(19) | ambient jazz(15) | experimental jazz(13) | free jazz(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1636,7 +1636,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-26 10:55:03Z
+Report generated (UTC)    : 2026-07-27 04:05:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1994,7 +1994,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 26 July 2026
+From: 04 December 2023 - To: 27 July 2026
 
 Total Time       : 1,045 hrs 55 mins
 Mostly coding in : Other
@@ -2047,7 +2047,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 26/07/2026 13:09:39 UTC
+Last updated     : 27/07/2026 14:21:51 UTC
 
 ```
 <!--END_SECTION:wakastats-->
