@@ -1527,10 +1527,10 @@ Heatmap (recent)          :      ▁▄█▄ ▁▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-27 15:17:25Z
-Week window (UTC)         : 2026-07-20 15:17:25Z → 2026-07-27 15:17:25Z
+Snapshot captured (UTC)   : 2026-07-27 17:12:20Z
+Week window (UTC)         : 2026-07-20 17:12:20Z → 2026-07-27 17:12:20Z
 Tracks played (last 24h)  : 3
-Total tracks played (7d)  : 39
+Total tracks played (7d)  : 38
 Dominant artist (24h)     : Tomasz Stanko Quintet
 Dominant artist (7d)      : Tomasz Stanko Quintet
 Listening pattern (24h)   : Light activity
@@ -1541,11 +1541,11 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
 Heatmap (24h)             :        █                
-Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁▁           
+Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁            
 ------------------------------------------------------------
 Sessions (24h)            : 1
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 04:18:37
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:43:49
 Top genres (24h)          : ambient jazz(2) | free jazz(2) | jazz(2)
 Top genres (7d)           : jazz(27) | nu jazz(21) | indie jazz(19) | ambient jazz(17) | experimental jazz(13) | free jazz(13)
 ------------------------------------------------------------
@@ -1567,12 +1567,12 @@ Last played (UTC)         : 2026-07-27 11:56:03Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-07-26 09:30:09Z → 2026-07-27 11:56:03Z
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:21:22
-Telemetry age             : 03:21:22
-Δ time (since last report): 11:11:26
+Time since last play      : 05:16:18
+Telemetry age             : 05:16:18
+Δ time (since last report): 01:54:56
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,8 +1591,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-20 15:17:25Z → 2026-07-27 15:17:25Z
-Total tracks played       : 39
+Week window (UTC)         : 2026-07-20 17:12:20Z → 2026-07-27 17:12:20Z
+Total tracks played       : 38
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1602,14 +1602,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
 Heatmap (24h)             :        █                
-Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁▁           
+Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁            
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 12
-Avg inter-play gap (7d)   : 04:18:37
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:43:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-27 15:17:25Z
+Report generated (UTC)    : 2026-07-27 17:12:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
