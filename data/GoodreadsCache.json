@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-07-28T08:48:05+00:00",
-    "last_successful_sync": "2026-07-28T08:48:05+00:00",
+    "last_attempted_sync": "2026-07-28T14:29:35+00:00",
+    "last_successful_sync": "2026-07-28T14:29:35+00:00",
     "error_message": ""
   },
   "sections": {
@@ -409,7 +409,7 @@
           "author": "Ted Gioia",
           "link": "https://www.goodreads.com/review/show/8008546862?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348549243l/177539._SX50_.jpg",
-          "summary": "author: Ted Gioia name: Felipe Alfonso average rating: 4.04 book published: 1997 rating: 0 read at: date added: 2025/10/20 shelves: to-read review:",
+          "summary": "author: Ted Gioia name: Felipe Alfonso average rating: 4.05 book published: 1997 rating: 0 read at: date added: 2025/10/20 shelves: to-read review:",
           "guid": "https://www.goodreads.com/review/show/8008546862?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 20:00:23 -0700"
         },
@@ -824,7 +824,7 @@
           "author": "Dalai Lama XIV",
           "link": "https://www.goodreads.com/review/show/2645667583?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440826168l/1155450._SY75_.jpg",
-          "summary": "author: Dalai Lama XIV name: Felipe Alfonso average rating: 3.93 book published: 1994 rating: 5 read at: 2018/01/01 date added: 2025/10/23 shelves: review:",
+          "summary": "author: Dalai Lama XIV name: Felipe Alfonso average rating: 3.94 book published: 1994 rating: 5 read at: 2018/01/01 date added: 2025/10/23 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/2645667583?utm_medium=api&utm_source=rss",
           "pub_date": "Thu, 23 Oct 2025 06:49:31 -0700"
         },
