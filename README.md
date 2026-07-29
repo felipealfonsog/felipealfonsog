@@ -1527,8 +1527,8 @@ Heatmap (recent)          :   ▆█▆
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-29 09:13:00Z
-Week window (UTC)         : 2026-07-22 09:13:00Z → 2026-07-29 09:13:00Z
+Snapshot captured (UTC)   : 2026-07-29 11:35:37Z
+Week window (UTC)         : 2026-07-22 11:35:37Z → 2026-07-29 11:35:37Z
 Tracks played (last 24h)  : 29
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Tomasz Stanko Quintet
@@ -1566,13 +1566,13 @@ Last played               : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien 
 Last played (UTC)         : 2026-07-29 08:51:21Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door
-Δ last played (since last): 2026-07-28 00:13:55Z → 2026-07-29 08:51:21Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:21:40
-Telemetry age             : 00:21:40
-Δ time (since last report): 05:28:36
+Time since last play      : 02:44:17
+Telemetry age             : 02:44:17
+Δ time (since last report): 02:22:38
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-22 09:13:00Z → 2026-07-29 09:13:00Z
+Week window (UTC)         : 2026-07-22 11:35:37Z → 2026-07-29 11:35:37Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1615,7 +1615,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : ambient jazz(38) | jazz(36) | free jazz(14) | experimental jazz(4) | jazz fusion(4) | nu jazz(3)
 Top genres (7d)           : jazz(53) | ambient jazz(51) | free jazz(22) | nu jazz(14) | experimental jazz(11) | indie jazz(10)
-Artist lookups (this run) : 23 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-29 09:13:00Z
+Report generated (UTC)    : 2026-07-29 11:35:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
