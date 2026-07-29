@@ -1485,51 +1485,51 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Thelonious Monk — Straight, No Chaser
+Last track played         : Matthew Halsall — Song for Charlie - Special Edition
 ------------------------------------------------------------
-Recent track #1            : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04
-Recent track #2            : Duke Ellington, John Coltrane — My Little Brown Book | 2026-07-29 09:36:28 -04
-Recent track #3            : Forward Jazz Series — Homeland (Incidentals) | 2026-07-29 09:31:06 -04
-Recent track #4            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:18:06 -04
-Recent track #5            : Forward Jazz Series — Homeland (Series) | 2026-07-29 09:12:36 -04
-Recent track #6            : Tomasz Stanko Quartet — Trista | 2026-07-29 09:10:41 -04
-Recent track #7            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:02:10 -04
-Recent track #8            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 08:56:24 -04
-Recent track #9            : Colin Vallon, Patrice Moret, Julian Sartorius — Sisyphe | 2026-07-29 08:50:27 -04
-Recent track #10           : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door | 2026-07-29 04:51:21 -04
-Recent track #11           : Tomasz Stanko Quartet — II (Suspended Variations) | 2026-07-29 04:43:32 -04
-Recent track #12           : Manu Katché — Song For Her | 2026-07-29 04:35:12 -04
-Recent track #13           : Marcin Wasilewski, Slawomir Kurkiewicz, Michal Miskiewicz — Night Train To You | 2026-07-29 04:28:51 -04
-Recent track #14           : Nils Petter Molvær — Framework 2 | 2026-07-29 04:18:14 -04
-Recent track #15           : Tord Gustavsen Trio — Kirken, den er et gammelt hus | 2026-07-29 04:14:57 -04
-Recent track #16           : Mammal Hands — Three Good Things | 2026-07-29 04:09:48 -04
-Recent track #17           : Tomasz Stanko Quartet — Kattorna | 2026-07-29 04:04:01 -04
-Recent track #18           : Manu Katché — November 99 | 2026-07-29 03:57:35 -04
-Recent track #19           : Markus Stockhausen, Ferenc Snétberger, Arild Anderson — Gio | 2026-07-29 03:51:41 -04
-Recent track #20           : Trygve Seim, Andreas Utnem — Kyrie | 2026-07-29 03:42:44 -04
-Recent track #21           : Mathias Eick — Children | 2026-07-29 03:38:23 -04
-Recent track #22           : Jakob Bro, Palle Mikkelborg, Thomas Morgan, Jon Christensen — Strands | 2026-07-29 03:32:44 -04
-Recent track #23           : Tomasz Stanko Quartet — Song For Ania | 2026-07-29 03:28:03 -04
-Recent track #24           : Manu Katché, Tore Brunborg, Jason Rebello, Pino Palladino — Swing Piece | 2026-07-29 03:20:27 -04
-Recent track #25           : Nils Petter Molvær — On Stream | 2026-07-29 03:15:41 -04
+Recent track #1            : Matthew Halsall — Song for Charlie - Special Edition | 2026-07-29 16:35:18 -04
+Recent track #2            : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:24:17 -04
+Recent track #3            : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:20:32 -04
+Recent track #4            : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04
+Recent track #5            : Duke Ellington, John Coltrane — My Little Brown Book | 2026-07-29 09:36:28 -04
+Recent track #6            : Forward Jazz Series — Homeland (Incidentals) | 2026-07-29 09:31:06 -04
+Recent track #7            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:18:06 -04
+Recent track #8            : Forward Jazz Series — Homeland (Series) | 2026-07-29 09:12:36 -04
+Recent track #9            : Tomasz Stanko Quartet — Trista | 2026-07-29 09:10:41 -04
+Recent track #10           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:02:10 -04
+Recent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 08:56:24 -04
+Recent track #12           : Colin Vallon, Patrice Moret, Julian Sartorius — Sisyphe | 2026-07-29 08:50:27 -04
+Recent track #13           : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door | 2026-07-29 04:51:21 -04
+Recent track #14           : Tomasz Stanko Quartet — II (Suspended Variations) | 2026-07-29 04:43:32 -04
+Recent track #15           : Manu Katché — Song For Her | 2026-07-29 04:35:12 -04
+Recent track #16           : Marcin Wasilewski, Slawomir Kurkiewicz, Michal Miskiewicz — Night Train To You | 2026-07-29 04:28:51 -04
+Recent track #17           : Nils Petter Molvær — Framework 2 | 2026-07-29 04:18:14 -04
+Recent track #18           : Tord Gustavsen Trio — Kirken, den er et gammelt hus | 2026-07-29 04:14:57 -04
+Recent track #19           : Mammal Hands — Three Good Things | 2026-07-29 04:09:48 -04
+Recent track #20           : Tomasz Stanko Quartet — Kattorna | 2026-07-29 04:04:01 -04
+Recent track #21           : Manu Katché — November 99 | 2026-07-29 03:57:35 -04
+Recent track #22           : Markus Stockhausen, Ferenc Snétberger, Arild Anderson — Gio | 2026-07-29 03:51:41 -04
+Recent track #23           : Trygve Seim, Andreas Utnem — Kyrie | 2026-07-29 03:42:44 -04
+Recent track #24           : Mathias Eick — Children | 2026-07-29 03:38:23 -04
+Recent track #25           : Jakob Bro, Palle Mikkelborg, Thomas Morgan, Jon Christensen — Strands | 2026-07-29 03:32:44 -04
 ------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Last played (UTC)         : 2026-07-29 16:18:26Z
+Last played (UTC)         : 2026-07-29 20:35:18Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 03:00
-Heatmap (recent)          :    ██   ▂▆  ▁           
+Peak hour (recent)        : 04:00
+Heatmap (recent)          :    ▅█   ▂▆  ▁   ▃       
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-29 19:47:26Z
-Week window (UTC)         : 2026-07-22 19:47:26Z → 2026-07-29 19:47:26Z
-Tracks played (last 24h)  : 38
+Snapshot captured (UTC)   : 2026-07-29 22:15:53Z
+Week window (UTC)         : 2026-07-22 22:15:53Z → 2026-07-29 22:15:53Z
+Tracks played (last 24h)  : 41
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Tomasz Stanko Quintet
 Dominant artist (7d)      : Tomasz Stanko Quintet
@@ -1540,14 +1540,14 @@ Cadence classification    : HIGH
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :  ▂▇█▆   ▂▅  ▁           
-Heatmap (7d)              :  ▂▇█▆▁▁▂▄▅▁▁▁▁      ▁   
+Heatmap (24h)             :  ▂▇█▆   ▂▅  ▁   ▂       
+Heatmap (7d)              :  ▂▇█▆▁▁▂▂▅▁▁▁▁  ▂   ▁   
 ------------------------------------------------------------
-Sessions (24h)            : 3
+Sessions (24h)            : 4
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:02:09
-Top genres (24h)          : ambient jazz(44) | jazz(43) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | cool jazz(3)
-Top genres (7d)           : jazz(52) | ambient jazz(51) | free jazz(28) | jazz fusion(5) | experimental jazz(4) | cool jazz(3)
+Avg inter-play gap (7d)   : 02:04:57
+Top genres (24h)          : ambient jazz(45) | jazz(44) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | nu jazz(4)
+Top genres (7d)           : ambient jazz(51) | jazz(51) | free jazz(27) | jazz fusion(5) | experimental jazz(4) | nu jazz(4)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Thelonious Monk — Straight, No Chaser
-Last played (UTC)         : 2026-07-29 16:18:26Z
+Last played               : Matthew Halsall — Song for Charlie - Special Edition
+Last played (UTC)         : 2026-07-29 20:35:18Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Thelonious Monk — Straight, No Chaser → Matthew Halsall — Song for Charlie - Special Edition
+Δ last played (since last): 2026-07-29 16:18:26Z → 2026-07-29 20:35:18Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:29:00
-Telemetry age             : 03:29:00
-Δ time (since last report): 03:07:27
+Time since last play      : 01:40:36
+Telemetry age             : 01:40:36
+Δ time (since last report): 02:28:28
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,14 +1584,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 38
+Tracks played (last 24h)  : 41
 Dominant artist           : Tomasz Stanko Quintet
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-22 19:47:26Z → 2026-07-29 19:47:26Z
+Week window (UTC)         : 2026-07-22 22:15:53Z → 2026-07-29 22:15:53Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1601,20 +1601,20 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :  ▂▇█▆   ▂▅  ▁           
-Heatmap (7d)              :  ▂▇█▆▁▁▂▄▅▁▁▁▁      ▁   
+Heatmap (24h)             :  ▂▇█▆   ▂▅  ▁   ▂       
+Heatmap (7d)              :  ▂▇█▆▁▁▂▂▅▁▁▁▁  ▂   ▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 4
 Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:02:09
+Avg inter-play gap (7d)   : 02:04:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(44) | jazz(43) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | cool jazz(3)
-Top genres (7d)           : jazz(52) | ambient jazz(51) | free jazz(28) | jazz fusion(5) | experimental jazz(4) | cool jazz(3)
+Top genres (24h)          : ambient jazz(45) | jazz(44) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | nu jazz(4)
+Top genres (7d)           : ambient jazz(51) | jazz(51) | free jazz(27) | jazz fusion(5) | experimental jazz(4) | nu jazz(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-29 19:47:26Z
+Report generated (UTC)    : 2026-07-29 22:15:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
