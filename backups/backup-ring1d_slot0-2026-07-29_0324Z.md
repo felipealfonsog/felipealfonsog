@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-07-28_0322Z
+ snapshot_utc : 2026-07-29_0324Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -530,7 +530,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-27T19:47:44+00:00 | last_update=2026-07-27T19:47:44+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-07-28T19:46:32+00:00 | last_update=2026-07-28T19:46:32+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -700,13 +700,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 191 ms
-TTFB................ 190 ms
+LATENCY............. 257 ms
+TTFB................ 255 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 37d
+TLS_EXPIRY.......... 36d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -735,7 +735,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 47 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-27T06:36:18Z
+LAST_PROBE_UTC...... 2026-07-28T05:53:44Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -775,19 +775,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444211
-longitude      : -70.650095
+location       : transit_corridor
+latitude       : -33.446668
+longitude      : -70.661836
 altitude       : 128 m
-gps_accuracy   : ±4.0 m
-heading        : 198°
-speed          : 0.4 km/h
-status         : stationary
+gps_accuracy   : ±6.3 m
+heading        : 164°
+speed          : 5.8 km/h
+status         : walking
 phase          : evening
-local_time     : 21:41
+local_time     : 21:42
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-07-28 01:41:30 UTC
+signal         : nominal
+updated_utc    : 2026-07-29 01:42:54 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -906,7 +906,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-27 19:58:16Z
+DSN snapshot (UTC)       : 2026-07-28 14:42:39Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -917,15 +917,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.54e9 km | 170.725 AU
-Heliocentric distance    : 171.282 AU
-Relative speed           : 41.242 km/s
+Earth distance           : 25.54e9 km | 170.741 AU
+Heliocentric distance    : 171.289 AU
+Relative speed           : 41.336 km/s
 ------------------------------------------------------------
-One-way light time       : 23:39:53
-Round-trip latency       : 47:19:45
+One-way light time       : 23:40:00
+Round-trip latency       : 47:20:01
 ------------------------------------------------------------
-Δ distance (since last)  : +1.222e6 km
-Mission age              : 48 years, 337 days
+Δ distance (since last)  : +700,175 km
+Mission age              : 48 years, 338 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -936,19 +936,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.748 AU
-Heliocentric distance    : 143.519 AU
-Relative speed           : 34.678 km/s
+Earth distance           : 21.36e9 km | 142.758 AU
+Heliocentric distance    : 143.526 AU
+Relative speed           : 34.792 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:12
-Round-trip latency       : 39:34:24
+One-way light time       : 19:47:17
+Round-trip latency       : 39:34:34
 ------------------------------------------------------------
-Δ distance (since last)  : +725,310 km
-Mission age              : 48 years, 353 days
+Δ distance (since last)  : +419,260 km
+Mission age              : 48 years, 354 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-27 19:58:23Z
+Report generated (UTC)   : 2026-07-28 14:42:41Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1494,67 +1494,67 @@ RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
 Last track played         : Tomasz Stanko Quintet — Terminal 7
 ------------------------------------------------------------
-Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-27 07:56:03 -04
-Recent track #2            : Forward Jazz Series — Homeland (Series) | 2026-07-27 07:50:33 -04
-Recent track #3            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-27 07:41:59 -04
-Recent track #4            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-26 05:30:09 -04
-Recent track #5            : Manu Katché — Number One | 2026-07-25 11:09:22 -04
-Recent track #6            : Screaming Trees — Halo of Ashes | 2026-07-25 10:32:32 -04
-Recent track #7            : Kamasi Washington — Truth | 2026-07-25 08:42:00 -04
-Recent track #8            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-25 08:39:00 -04
-Recent track #9            : Days Of The New — Shelf In The Room | 2026-07-25 08:33:14 -04
-Recent track #10           : Mammal Hands — In the Treetops | 2026-07-25 08:04:10 -04
-Recent track #11           : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework | 2026-07-25 08:01:14 -04
-Recent track #12           : Shabaka and the Ancestors — Mzwandile | 2026-07-25 07:56:40 -04
-Recent track #13           : Manu Katché — Number One | 2026-07-25 07:43:08 -04
-Recent track #14           : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
-Recent track #15           : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
-Recent track #16           : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
-Recent track #17           : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
-Recent track #18           : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
-Recent track #19           : Matthew Halsall, The Gondwana Orchestra — Patterns | 2026-07-25 07:07:05 -04
-Recent track #20           : Nubya Garcia — Fly Free | 2026-07-25 06:57:21 -04
-Recent track #21           : Ill Considered — Building Bridges | 2026-07-25 06:45:09 -04
-Recent track #22           : Sons Of Kemet — My Queen Is Anna Julia Cooper | 2026-07-25 06:35:43 -04
-Recent track #23           : Ill Considered — Dawn Lit Metropolis | 2026-07-25 06:11:20 -04
-Recent track #24           : Nubya Garcia — Once | 2026-07-25 06:07:04 -04
-Recent track #25           : Matthew Halsall — Mary Emma Louise | 2026-07-25 05:46:39 -04
+Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-27 20:13:55 -04
+Recent track #2            : Tomasz Stanko Quartet — Trista | 2026-07-27 13:20:11 -04
+Recent track #3            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-27 07:56:03 -04
+Recent track #4            : Forward Jazz Series — Homeland (Series) | 2026-07-27 07:50:33 -04
+Recent track #5            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-27 07:41:59 -04
+Recent track #6            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-26 05:30:09 -04
+Recent track #7            : Manu Katché — Number One | 2026-07-25 11:09:22 -04
+Recent track #8            : Screaming Trees — Halo of Ashes | 2026-07-25 10:32:32 -04
+Recent track #9            : Kamasi Washington — Truth | 2026-07-25 08:42:00 -04
+Recent track #10           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-25 08:39:00 -04
+Recent track #11           : Days Of The New — Shelf In The Room | 2026-07-25 08:33:14 -04
+Recent track #12           : Mammal Hands — In the Treetops | 2026-07-25 08:04:10 -04
+Recent track #13           : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework | 2026-07-25 08:01:14 -04
+Recent track #14           : Shabaka and the Ancestors — Mzwandile | 2026-07-25 07:56:40 -04
+Recent track #15           : Manu Katché — Number One | 2026-07-25 07:43:08 -04
+Recent track #16           : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
+Recent track #17           : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
+Recent track #18           : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
+Recent track #19           : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
+Recent track #20           : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
+Recent track #21           : Matthew Halsall, The Gondwana Orchestra — Patterns | 2026-07-25 07:07:05 -04
+Recent track #22           : Nubya Garcia — Fly Free | 2026-07-25 06:57:21 -04
+Recent track #23           : Ill Considered — Building Bridges | 2026-07-25 06:45:09 -04
+Recent track #24           : Sons Of Kemet — My Queen Is Anna Julia Cooper | 2026-07-25 06:35:43 -04
+Recent track #25           : Ill Considered — Dawn Lit Metropolis | 2026-07-25 06:11:20 -04
 ------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Last played (UTC)         : 2026-07-27 11:56:03Z
+Last played (UTC)         : 2026-07-28 00:13:55Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 07:00
-Heatmap (recent)          :      ▁▄█▄ ▁▁            
+Heatmap (recent)          :      ▁▃█▄ ▁▁ ▁      ▁   
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-27 22:29:02Z
-Week window (UTC)         : 2026-07-20 22:29:02Z → 2026-07-27 22:29:02Z
-Tracks played (last 24h)  : 3
-Total tracks played (7d)  : 38
+Snapshot captured (UTC)   : 2026-07-28 22:18:59Z
+Week window (UTC)         : 2026-07-21 22:18:59Z → 2026-07-28 22:18:59Z
+Tracks played (last 24h)  : 1
+Total tracks played (7d)  : 40
 Dominant artist (24h)     : Tomasz Stanko Quintet
 Dominant artist (7d)      : Tomasz Stanko Quintet
 Listening pattern (24h)   : Light activity
 Activity status (24h)     : LOW
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :        █                
-Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁            
+Heatmap (24h)             :                     █   
+Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁ ▁      ▁   
 ------------------------------------------------------------
 Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:43:49
-Top genres (24h)          : ambient jazz(2) | free jazz(2) | jazz(2)
-Top genres (7d)           : jazz(27) | nu jazz(21) | indie jazz(19) | ambient jazz(17) | experimental jazz(13) | free jazz(13)
+Sessions (7d)             : 13
+Avg inter-play gap (7d)   : 02:54:20
+Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
+Top genres (7d)           : jazz(29) | nu jazz(21) | ambient jazz(19) | indie jazz(19) | free jazz(15) | experimental jazz(13)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1570,16 +1570,16 @@ Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-07-27 11:56:03Z
+Last played (UTC)         : 2026-07-28 00:13:55Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:32:59
-Telemetry age             : 10:32:59
-Δ time (since last report): 02:30:51
+Time since last play      : 22:05:04
+Telemetry age             : 22:05:04
+Δ time (since last report): 02:23:42
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,37 +1591,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 1
 Dominant artist           : Tomasz Stanko Quintet
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-20 22:29:02Z → 2026-07-27 22:29:02Z
-Total tracks played       : 38
+Week window (UTC)         : 2026-07-21 22:18:59Z → 2026-07-28 22:18:59Z
+Total tracks played       : 40
 Dominant artist           : Tomasz Stanko Quintet
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :        █                
-Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁            
+Heatmap (24h)             :                     █   
+Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁ ▁      ▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:43:49
+Sessions (7d)             : 13
+Avg inter-play gap (7d)   : 02:54:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(2) | free jazz(2) | jazz(2)
-Top genres (7d)           : jazz(27) | nu jazz(21) | indie jazz(19) | ambient jazz(17) | experimental jazz(13) | free jazz(13)
+Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
+Top genres (7d)           : jazz(29) | nu jazz(21) | ambient jazz(19) | indie jazz(19) | free jazz(15) | experimental jazz(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1636,7 +1636,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-27 22:29:02Z
+Report generated (UTC)    : 2026-07-28 22:18:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1994,7 +1994,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 27 July 2026
+From: 04 December 2023 - To: 28 July 2026
 
 Total Time       : 1,045 hrs 55 mins
 Mostly coding in : Other
@@ -2005,7 +2005,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          695 hrs 50 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.53 %
+Other          696 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.55 %
 Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.89 %
 Python         141 hrs 42 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.55 %
 HTML           138 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
@@ -2018,13 +2018,13 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,024 hrs 47 mins ●●●●●●●●●●●●●●●●●●●●●●●●●○  97.98 %
+Mac            1,025 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●○  98.00 %
 Linux          713 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.22 %
 
 EDITORS - APPS
 --------------
 VS Code        659 hrs 35 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.06 %
-Firefox        544 hrs 12 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  52.03 %
+Firefox        544 hrs 23 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  52.05 %
 Vim            337 hrs 54 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.31 %
 Terminal       38 hrs 58 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
 Spotify        25 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.46 %
@@ -2034,12 +2034,12 @@ Dia            16 hrs 35 mins ○○○○○○○○○○○○○○○○�
 Acrobat        13 hrs 51 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.32 %
 TeXstudio      13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.29 %
 FileZilla      8 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
-TextMate       6 hrs 46 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.65 %
+TextMate       6 hrs 47 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.65 %
 
 CATEGORIES
 ----------
-Coding         1,160 hrs 40 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       541 hrs 7 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.74 %
+Coding         1,160 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       541 hrs 18 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.75 %
 Meeting        25 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
 Writing Docs   11 hrs 11 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.07 %
 AI Coding      2 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
@@ -2047,7 +2047,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 28/07/2026 02:04:31 UTC
+Last updated     : 29/07/2026 02:07:40 UTC
 
 ```
 <!--END_SECTION:wakastats-->
