@@ -1527,8 +1527,8 @@ Heatmap (recent)          :    ██   ▂▆  ▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-29 16:39:59Z
-Week window (UTC)         : 2026-07-22 16:39:59Z → 2026-07-29 16:39:59Z
+Snapshot captured (UTC)   : 2026-07-29 19:47:26Z
+Week window (UTC)         : 2026-07-22 19:47:26Z → 2026-07-29 19:47:26Z
 Tracks played (last 24h)  : 38
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Tomasz Stanko Quintet
@@ -1566,13 +1566,13 @@ Last played               : Thelonious Monk — Straight, No Chaser
 Last played (UTC)         : 2026-07-29 16:18:26Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door → Thelonious Monk — Straight, No Chaser
-Δ last played (since last): 2026-07-29 08:51:21Z → 2026-07-29 16:18:26Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:21:34
-Telemetry age             : 00:21:34
-Δ time (since last report): 05:04:23
+Time since last play      : 03:29:00
+Telemetry age             : 03:29:00
+Δ time (since last report): 03:07:27
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-22 16:39:59Z → 2026-07-29 16:39:59Z
+Week window (UTC)         : 2026-07-22 19:47:26Z → 2026-07-29 19:47:26Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1615,7 +1615,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : ambient jazz(44) | jazz(43) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | cool jazz(3)
 Top genres (7d)           : jazz(52) | ambient jazz(51) | free jazz(28) | jazz fusion(5) | experimental jazz(4) | cool jazz(3)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-29 16:39:59Z
+Report generated (UTC)    : 2026-07-29 19:47:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
