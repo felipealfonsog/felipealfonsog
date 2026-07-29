@@ -1485,69 +1485,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Tomasz Stanko Quintet — Terminal 7
+Last track played         : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door
 ------------------------------------------------------------
-Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-27 20:13:55 -04
-Recent track #2            : Tomasz Stanko Quartet — Trista | 2026-07-27 13:20:11 -04
-Recent track #3            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-27 07:56:03 -04
-Recent track #4            : Forward Jazz Series — Homeland (Series) | 2026-07-27 07:50:33 -04
-Recent track #5            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-27 07:41:59 -04
-Recent track #6            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-26 05:30:09 -04
-Recent track #7            : Manu Katché — Number One | 2026-07-25 11:09:22 -04
-Recent track #8            : Screaming Trees — Halo of Ashes | 2026-07-25 10:32:32 -04
-Recent track #9            : Kamasi Washington — Truth | 2026-07-25 08:42:00 -04
-Recent track #10           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-25 08:39:00 -04
-Recent track #11           : Days Of The New — Shelf In The Room | 2026-07-25 08:33:14 -04
-Recent track #12           : Mammal Hands — In the Treetops | 2026-07-25 08:04:10 -04
-Recent track #13           : Snazzback, Ishmael Ensemble — Flump - Ishmael Ensemble Rework | 2026-07-25 08:01:14 -04
-Recent track #14           : Shabaka and the Ancestors — Mzwandile | 2026-07-25 07:56:40 -04
-Recent track #15           : Manu Katché — Number One | 2026-07-25 07:43:08 -04
-Recent track #16           : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
-Recent track #17           : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
-Recent track #18           : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
-Recent track #19           : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
-Recent track #20           : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
-Recent track #21           : Matthew Halsall, The Gondwana Orchestra — Patterns | 2026-07-25 07:07:05 -04
-Recent track #22           : Nubya Garcia — Fly Free | 2026-07-25 06:57:21 -04
-Recent track #23           : Ill Considered — Building Bridges | 2026-07-25 06:45:09 -04
-Recent track #24           : Sons Of Kemet — My Queen Is Anna Julia Cooper | 2026-07-25 06:35:43 -04
-Recent track #25           : Ill Considered — Dawn Lit Metropolis | 2026-07-25 06:11:20 -04
+Recent track #1            : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door | 2026-07-29 04:51:21 -04
+Recent track #2            : Tomasz Stanko Quartet — II (Suspended Variations) | 2026-07-29 04:43:32 -04
+Recent track #3            : Manu Katché — Song For Her | 2026-07-29 04:35:12 -04
+Recent track #4            : Marcin Wasilewski, Slawomir Kurkiewicz, Michal Miskiewicz — Night Train To You | 2026-07-29 04:28:51 -04
+Recent track #5            : Nils Petter Molvær — Framework 2 | 2026-07-29 04:18:14 -04
+Recent track #6            : Tord Gustavsen Trio — Kirken, den er et gammelt hus | 2026-07-29 04:14:57 -04
+Recent track #7            : Mammal Hands — Three Good Things | 2026-07-29 04:09:48 -04
+Recent track #8            : Tomasz Stanko Quartet — Kattorna | 2026-07-29 04:04:01 -04
+Recent track #9            : Manu Katché — November 99 | 2026-07-29 03:57:35 -04
+Recent track #10           : Markus Stockhausen, Ferenc Snétberger, Arild Anderson — Gio | 2026-07-29 03:51:41 -04
+Recent track #11           : Trygve Seim, Andreas Utnem — Kyrie | 2026-07-29 03:42:44 -04
+Recent track #12           : Mathias Eick — Children | 2026-07-29 03:38:23 -04
+Recent track #13           : Jakob Bro, Palle Mikkelborg, Thomas Morgan, Jon Christensen — Strands | 2026-07-29 03:32:44 -04
+Recent track #14           : Tomasz Stanko Quartet — Song For Ania | 2026-07-29 03:28:03 -04
+Recent track #15           : Manu Katché, Tore Brunborg, Jason Rebello, Pino Palladino — Swing Piece | 2026-07-29 03:20:27 -04
+Recent track #16           : Nils Petter Molvær — On Stream | 2026-07-29 03:15:41 -04
+Recent track #17           : Marcin Wasilewski Trio, Joakim Milder — Sudovian Dance | 2026-07-29 03:10:43 -04
+Recent track #18           : Tomasz Stanko Quintet — Etiuda Baletowa No. 3 | 2026-07-29 03:04:19 -04
+Recent track #19           : Tomasz Stanko Quintet — Last Song | 2026-07-29 02:58:29 -04
+Recent track #20           : Tomasz Stanko Quintet — May Sun | 2026-07-29 02:54:30 -04
+Recent track #21           : Tomasz Stanko Quintet — Dirge For Europe | 2026-07-29 02:51:43 -04
+Recent track #22           : Tomasz Stanko Quintet — Samba Nova | 2026-07-29 02:46:14 -04
+Recent track #23           : Tomasz Stanko Quintet — Amsterdam Avenue | 2026-07-29 02:36:50 -04
+Recent track #24           : Tomasz Stanko Quintet — Grand Central | 2026-07-29 02:30:39 -04
+Recent track #25           : Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch | 2026-07-29 02:24:13 -04
 ------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Last played (UTC)         : 2026-07-28 00:13:55Z
+Last played (UTC)         : 2026-07-29 08:51:21Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 07:00
-Heatmap (recent)          :      ▁▃█▄ ▁▁ ▁      ▁   
+Peak hour (recent)        : 03:00
+Heatmap (recent)          :   ▆█▆                   
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-29 03:44:25Z
-Week window (UTC)         : 2026-07-22 03:44:25Z → 2026-07-29 03:44:25Z
-Tracks played (last 24h)  : 0
-Total tracks played (7d)  : 40
-Dominant artist (24h)     : N/A
+Snapshot captured (UTC)   : 2026-07-29 09:13:00Z
+Week window (UTC)         : 2026-07-22 09:13:00Z → 2026-07-29 09:13:00Z
+Tracks played (last 24h)  : 29
+Total tracks played (7d)  : 50
+Dominant artist (24h)     : Tomasz Stanko Quintet
 Dominant artist (7d)      : Tomasz Stanko Quintet
-Listening pattern (24h)   : No activity
-Activity status (24h)     : NONE
+Listening pattern (24h)   : Sustained operational tempo
+Activity status (24h)     : HIGH
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 03:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁ ▁      ▁   
+Heatmap (24h)             :  ▂▇█▆                   
+Heatmap (7d)              :  ▁▇▇▆▁ █▄ ▁▁ ▁      ▁   
 ------------------------------------------------------------
-Sessions (24h)            : N/A
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 02:54:20
-Top genres (24h)          : N/A
-Top genres (7d)           : jazz(29) | nu jazz(21) | ambient jazz(19) | indie jazz(19) | free jazz(15) | experimental jazz(13)
+Sessions (24h)            : 1
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 01:54:47
+Top genres (24h)          : ambient jazz(38) | jazz(36) | free jazz(14) | experimental jazz(4) | jazz fusion(4) | nu jazz(3)
+Top genres (7d)           : jazz(53) | ambient jazz(51) | free jazz(22) | nu jazz(14) | experimental jazz(11) | indie jazz(10)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-07-28 00:13:55Z
+Last played               : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door
+Last played (UTC)         : 2026-07-29 08:51:21Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door
+Δ last played (since last): 2026-07-28 00:13:55Z → 2026-07-29 08:51:21Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 27:30:31
-Telemetry age             : 27:30:31
-Δ time (since last report): 05:25:27
+Time since last play      : 00:21:40
+Telemetry age             : 00:21:40
+Δ time (since last report): 05:28:36
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,38 +1584,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 29
+Dominant artist           : Tomasz Stanko Quintet
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-22 03:44:25Z → 2026-07-29 03:44:25Z
-Total tracks played       : 40
+Week window (UTC)         : 2026-07-22 09:13:00Z → 2026-07-29 09:13:00Z
+Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 03:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁ ▁ ▂▄▄█▄ ▂▁ ▁      ▁   
+Heatmap (24h)             :  ▂▇█▆                   
+Heatmap (7d)              :  ▁▇▇▆▁ █▄ ▁▁ ▁      ▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 02:54:20
+Sessions (24h)            : 1
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 01:54:47
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : jazz(29) | nu jazz(21) | ambient jazz(19) | indie jazz(19) | free jazz(15) | experimental jazz(13)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : ambient jazz(38) | jazz(36) | free jazz(14) | experimental jazz(4) | jazz fusion(4) | nu jazz(3)
+Top genres (7d)           : jazz(53) | ambient jazz(51) | free jazz(22) | nu jazz(14) | experimental jazz(11) | indie jazz(10)
+Artist lookups (this run) : 23 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-29 03:44:25Z
+Report generated (UTC)    : 2026-07-29 09:13:00Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
