@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-07-29 11:35:37Z",
+  "report_generated_utc": "2026-07-29 16:39:59Z",
   "status": "IDLE",
-  "last_track": "Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door",
-  "last_played_utc": "2026-07-29 08:51:21Z",
+  "last_track": "Thelonious Monk — Straight, No Chaser",
+  "last_played_utc": "2026-07-29 16:18:26Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1583,11 +1583,76 @@
     "6qlsVWkkxnqeu0ysL9qDjx": [
       "ambient jazz",
       "jazz"
+    ],
+    "6JxElGpNj4ntaonkrLkG8N": [
+      "ambient jazz"
+    ],
+    "0MTZfu5gIOffmUnu7hmrg1": [
+      "ambient jazz"
+    ],
+    "6uZnp5qm39fcS98jofdiHz": [
+      "electroacoustic",
+      "experimental",
+      "free jazz"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door\n------------------------------------------------------------\nRecent track #1            : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door | 2026-07-29 04:51:21 -04\nRecent track #2            : Tomasz Stanko Quartet — II (Suspended Variations) | 2026-07-29 04:43:32 -04\nRecent track #3            : Manu Katché — Song For Her | 2026-07-29 04:35:12 -04\nRecent track #4            : Marcin Wasilewski, Slawomir Kurkiewicz, Michal Miskiewicz — Night Train To You | 2026-07-29 04:28:51 -04\nRecent track #5            : Nils Petter Molvær — Framework 2 | 2026-07-29 04:18:14 -04\nRecent track #6            : Tord Gustavsen Trio — Kirken, den er et gammelt hus | 2026-07-29 04:14:57 -04\nRecent track #7            : Mammal Hands — Three Good Things | 2026-07-29 04:09:48 -04\nRecent track #8            : Tomasz Stanko Quartet — Kattorna | 2026-07-29 04:04:01 -04\nRecent track #9            : Manu Katché — November 99 | 2026-07-29 03:57:35 -04\nRecent track #10           : Markus Stockhausen, Ferenc Snétberger, Arild Anderson — Gio | 2026-07-29 03:51:41 -04\nRecent track #11           : Trygve Seim, Andreas Utnem — Kyrie | 2026-07-29 03:42:44 -04\nRecent track #12           : Mathias Eick — Children | 2026-07-29 03:38:23 -04\nRecent track #13           : Jakob Bro, Palle Mikkelborg, Thomas Morgan, Jon Christensen — Strands | 2026-07-29 03:32:44 -04\nRecent track #14           : Tomasz Stanko Quartet — Song For Ania | 2026-07-29 03:28:03 -04\nRecent track #15           : Manu Katché, Tore Brunborg, Jason Rebello, Pino Palladino — Swing Piece | 2026-07-29 03:20:27 -04\nRecent track #16           : Nils Petter Molvær — On Stream | 2026-07-29 03:15:41 -04\nRecent track #17           : Marcin Wasilewski Trio, Joakim Milder — Sudovian Dance | 2026-07-29 03:10:43 -04\nRecent track #18           : Tomasz Stanko Quintet — Etiuda Baletowa No. 3 | 2026-07-29 03:04:19 -04\nRecent track #19           : Tomasz Stanko Quintet — Last Song | 2026-07-29 02:58:29 -04\nRecent track #20           : Tomasz Stanko Quintet — May Sun | 2026-07-29 02:54:30 -04\nRecent track #21           : Tomasz Stanko Quintet — Dirge For Europe | 2026-07-29 02:51:43 -04\nRecent track #22           : Tomasz Stanko Quintet — Samba Nova | 2026-07-29 02:46:14 -04\nRecent track #23           : Tomasz Stanko Quintet — Amsterdam Avenue | 2026-07-29 02:36:50 -04\nRecent track #24           : Tomasz Stanko Quintet — Grand Central | 2026-07-29 02:30:39 -04\nRecent track #25           : Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch | 2026-07-29 02:24:13 -04\n------------------------------------------------------------\nLast known device         : iPhone (Smartphone)\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nLast played (UTC)         : 2026-07-29 08:51:21Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 03:00\nHeatmap (recent)          :   ▆█▆                   \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-07-29 11:35:37Z\nWeek window (UTC)         : 2026-07-22 11:35:37Z → 2026-07-29 11:35:37Z\nTracks played (last 24h)  : 29\nTotal tracks played (7d)  : 50\nDominant artist (24h)     : Tomasz Stanko Quintet\nDominant artist (7d)      : Tomasz Stanko Quintet\nListening pattern (24h)   : Sustained operational tempo\nActivity status (24h)     : HIGH\nCadence classification    : HIGH\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 03:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             :  ▂▇█▆                   \nHeatmap (7d)              :  ▁▇▇▆▁ █▄ ▁▁ ▁      ▁   \n------------------------------------------------------------\nSessions (24h)            : 1\nSessions (7d)             : 9\nAvg inter-play gap (7d)   : 01:54:47\nTop genres (24h)          : ambient jazz(38) | jazz(36) | free jazz(14) | experimental jazz(4) | jazz fusion(4) | nu jazz(3)\nTop genres (7d)           : jazz(53) | ambient jazz(51) | free jazz(22) | nu jazz(14) | experimental jazz(11) | indie jazz(10)\n------------------------------------------------------------\nPlayback state            : OFFLINE (no active session)\nStatus                    : IDLE\nSITREP                    : AMBER\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nNow playing               : N/A\nLast played               : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door\nLast played (UTC)         : 2026-07-29 08:51:21Z\nLast activity type        : NO_ACTIVE_SESSION\n------------------------------------------------------------\nΔ track (since last)      : NO CHANGE\nΔ last played (since last): NO CHANGE\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 02:44:17\nTelemetry age             : 02:44:17\nΔ time (since last report): 02:22:38\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 29\nDominant artist           : Tomasz Stanko Quintet\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-22 11:35:37Z → 2026-07-29 11:35:37Z\nTotal tracks played       : 50\nDominant artist           : Tomasz Stanko Quintet\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 03:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             :  ▂▇█▆                   \nHeatmap (7d)              :  ▁▇▇▆▁ █▄ ▁▁ ▁      ▁   \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 9\nAvg inter-play gap (7d)   : 01:54:47\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : ambient jazz(38) | jazz(36) | free jazz(14) | experimental jazz(4) | jazz fusion(4) | nu jazz(3)\nTop genres (7d)           : jazz(53) | ambient jazz(51) | free jazz(22) | nu jazz(14) | experimental jazz(11) | indie jazz(10)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-29 11:35:37Z",
-  "last_successful_report_utc": "2026-07-29 11:35:37Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Thelonious Monk — Straight, No Chaser\n------------------------------------------------------------\nRecent track #1            : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04\nRecent track #2            : Duke Ellington, John Coltrane — My Little Brown Book | 2026-07-29 09:36:28 -04\nRecent track #3            : Forward Jazz Series — Homeland (Incidentals) | 2026-07-29 09:31:06 -04\nRecent track #4            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:18:06 -04\nRecent track #5            : Forward Jazz Series — Homeland (Series) | 2026-07-29 09:12:36 -04\nRecent track #6            : Tomasz Stanko Quartet — Trista | 2026-07-29 09:10:41 -04\nRecent track #7            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:02:10 -04\nRecent track #8            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 08:56:24 -04\nRecent track #9            : Colin Vallon, Patrice Moret, Julian Sartorius — Sisyphe | 2026-07-29 08:50:27 -04\nRecent track #10           : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door | 2026-07-29 04:51:21 -04\nRecent track #11           : Tomasz Stanko Quartet — II (Suspended Variations) | 2026-07-29 04:43:32 -04\nRecent track #12           : Manu Katché — Song For Her | 2026-07-29 04:35:12 -04\nRecent track #13           : Marcin Wasilewski, Slawomir Kurkiewicz, Michal Miskiewicz — Night Train To You | 2026-07-29 04:28:51 -04\nRecent track #14           : Nils Petter Molvær — Framework 2 | 2026-07-29 04:18:14 -04\nRecent track #15           : Tord Gustavsen Trio — Kirken, den er et gammelt hus | 2026-07-29 04:14:57 -04\nRecent track #16           : Mammal Hands — Three Good Things | 2026-07-29 04:09:48 -04\nRecent track #17           : Tomasz Stanko Quartet — Kattorna | 2026-07-29 04:04:01 -04\nRecent track #18           : Manu Katché — November 99 | 2026-07-29 03:57:35 -04\nRecent track #19           : Markus Stockhausen, Ferenc Snétberger, Arild Anderson — Gio | 2026-07-29 03:51:41 -04\nRecent track #20           : Trygve Seim, Andreas Utnem — Kyrie | 2026-07-29 03:42:44 -04\nRecent track #21           : Mathias Eick — Children | 2026-07-29 03:38:23 -04\nRecent track #22           : Jakob Bro, Palle Mikkelborg, Thomas Morgan, Jon Christensen — Strands | 2026-07-29 03:32:44 -04\nRecent track #23           : Tomasz Stanko Quartet — Song For Ania | 2026-07-29 03:28:03 -04\nRecent track #24           : Manu Katché, Tore Brunborg, Jason Rebello, Pino Palladino — Swing Piece | 2026-07-29 03:20:27 -04\nRecent track #25           : Nils Petter Molvær — On Stream | 2026-07-29 03:15:41 -04\n------------------------------------------------------------\nLast known device         : iPhone (Smartphone)\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nLast played (UTC)         : 2026-07-29 16:18:26Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 03:00\nHeatmap (recent)          :    ██   ▂▆  ▁           \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-07-29 16:39:59Z\nWeek window (UTC)         : 2026-07-22 16:39:59Z → 2026-07-29 16:39:59Z\nTracks played (last 24h)  : 38\nTotal tracks played (7d)  : 50\nDominant artist (24h)     : Tomasz Stanko Quintet\nDominant artist (7d)      : Tomasz Stanko Quintet\nListening pattern (24h)   : Sustained operational tempo\nActivity status (24h)     : HIGH\nCadence classification    : HIGH\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 03:00\nPeak hour (7d)            : 03:00\nHeatmap (24h)             :  ▂▇█▆   ▂▅  ▁           \nHeatmap (7d)              :  ▂▇█▆▁▁▂▄▅▁▁▁▁      ▁   \n------------------------------------------------------------\nSessions (24h)            : 3\nSessions (7d)             : 11\nAvg inter-play gap (7d)   : 02:02:09\nTop genres (24h)          : ambient jazz(44) | jazz(43) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | cool jazz(3)\nTop genres (7d)           : jazz(52) | ambient jazz(51) | free jazz(28) | jazz fusion(5) | experimental jazz(4) | cool jazz(3)\n------------------------------------------------------------\nPlayback state            : OFFLINE (no active session)\nStatus                    : IDLE\nSITREP                    : AMBER\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nNow playing               : N/A\nLast played               : Thelonious Monk — Straight, No Chaser\nLast played (UTC)         : 2026-07-29 16:18:26Z\nLast activity type        : NO_ACTIVE_SESSION\n------------------------------------------------------------\nΔ track (since last)      : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door → Thelonious Monk — Straight, No Chaser\nΔ last played (since last): 2026-07-29 08:51:21Z → 2026-07-29 16:18:26Z\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 00:21:34\nTelemetry age             : 00:21:34\nΔ time (since last report): 05:04:23\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 38\nDominant artist           : Tomasz Stanko Quintet\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-22 16:39:59Z → 2026-07-29 16:39:59Z\nTotal tracks played       : 50\nDominant artist           : Tomasz Stanko Quintet\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 03:00\nPeak hour (7d)            : 03:00\nHeatmap (24h)             :  ▂▇█▆   ▂▅  ▁           \nHeatmap (7d)              :  ▂▇█▆▁▁▂▄▅▁▁▁▁      ▁   \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 11\nAvg inter-play gap (7d)   : 02:02:09\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : ambient jazz(44) | jazz(43) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | cool jazz(3)\nTop genres (7d)           : jazz(52) | ambient jazz(51) | free jazz(28) | jazz fusion(5) | experimental jazz(4) | cool jazz(3)\nArtist lookups (this run) : 3 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-07-29 16:39:59Z",
+  "last_successful_report_utc": "2026-07-29 16:39:59Z",
   "recent_playback_history": [
+    {
+      "track": "Thelonious Monk — Straight, No Chaser",
+      "played_at_utc": "2026-07-29 16:18:26Z",
+      "played_at_local": "2026-07-29 12:18:26 -04",
+      "local_hour": 12
+    },
+    {
+      "track": "Duke Ellington, John Coltrane — My Little Brown Book",
+      "played_at_utc": "2026-07-29 13:36:28Z",
+      "played_at_local": "2026-07-29 09:36:28 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Forward Jazz Series — Homeland (Incidentals)",
+      "played_at_utc": "2026-07-29 13:31:06Z",
+      "played_at_local": "2026-07-29 09:31:06 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "played_at_utc": "2026-07-29 13:18:06Z",
+      "played_at_local": "2026-07-29 09:18:06 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Forward Jazz Series — Homeland (Series)",
+      "played_at_utc": "2026-07-29 13:12:36Z",
+      "played_at_local": "2026-07-29 09:12:36 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "played_at_utc": "2026-07-29 13:10:41Z",
+      "played_at_local": "2026-07-29 09:10:41 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "played_at_utc": "2026-07-29 13:02:10Z",
+      "played_at_local": "2026-07-29 09:02:10 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "played_at_utc": "2026-07-29 12:56:24Z",
+      "played_at_local": "2026-07-29 08:56:24 -04",
+      "local_hour": 8
+    },
+    {
+      "track": "Colin Vallon, Patrice Moret, Julian Sartorius — Sisyphe",
+      "played_at_utc": "2026-07-29 12:50:27Z",
+      "played_at_local": "2026-07-29 08:50:27 -04",
+      "local_hour": 8
+    },
     {
       "track": "Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door",
       "played_at_utc": "2026-07-29 08:51:21Z",
@@ -1683,60 +1748,6 @@
       "played_at_utc": "2026-07-29 07:15:41Z",
       "played_at_local": "2026-07-29 03:15:41 -04",
       "local_hour": 3
-    },
-    {
-      "track": "Marcin Wasilewski Trio, Joakim Milder — Sudovian Dance",
-      "played_at_utc": "2026-07-29 07:10:43Z",
-      "played_at_local": "2026-07-29 03:10:43 -04",
-      "local_hour": 3
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Etiuda Baletowa No. 3",
-      "played_at_utc": "2026-07-29 07:04:19Z",
-      "played_at_local": "2026-07-29 03:04:19 -04",
-      "local_hour": 3
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Last Song",
-      "played_at_utc": "2026-07-29 06:58:29Z",
-      "played_at_local": "2026-07-29 02:58:29 -04",
-      "local_hour": 2
-    },
-    {
-      "track": "Tomasz Stanko Quintet — May Sun",
-      "played_at_utc": "2026-07-29 06:54:30Z",
-      "played_at_local": "2026-07-29 02:54:30 -04",
-      "local_hour": 2
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Dirge For Europe",
-      "played_at_utc": "2026-07-29 06:51:43Z",
-      "played_at_local": "2026-07-29 02:51:43 -04",
-      "local_hour": 2
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Samba Nova",
-      "played_at_utc": "2026-07-29 06:46:14Z",
-      "played_at_local": "2026-07-29 02:46:14 -04",
-      "local_hour": 2
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Amsterdam Avenue",
-      "played_at_utc": "2026-07-29 06:36:50Z",
-      "played_at_local": "2026-07-29 02:36:50 -04",
-      "local_hour": 2
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Grand Central",
-      "played_at_utc": "2026-07-29 06:30:39Z",
-      "played_at_local": "2026-07-29 02:30:39 -04",
-      "local_hour": 2
-    },
-    {
-      "track": "Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch",
-      "played_at_utc": "2026-07-29 06:24:13Z",
-      "played_at_local": "2026-07-29 02:24:13 -04",
-      "local_hour": 2
     }
   ],
   "last_known_device_type": "Smartphone",
@@ -1744,9 +1755,9 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-07-29 11:35:37Z",
-    "week_window_utc": "2026-07-22 11:35:37Z → 2026-07-29 11:35:37Z",
-    "tracks_24h": 29,
+    "captured_utc": "2026-07-29 16:39:59Z",
+    "week_window_utc": "2026-07-22 16:39:59Z → 2026-07-29 16:39:59Z",
+    "tracks_24h": 38,
     "tracks_7d": 50,
     "dominant_artist_24h": "Tomasz Stanko Quintet",
     "dominant_artist_7d": "Tomasz Stanko Quintet",
@@ -1755,13 +1766,13 @@
     "cadence_7d": "HIGH",
     "local_timezone": "America/Santiago",
     "peak_hour_24h": "03:00",
-    "peak_hour_7d": "07:00",
-    "heatmap_24h": " ▂▇█▆                   ",
-    "heatmap_7d": " ▁▇▇▆▁ █▄ ▁▁ ▁      ▁   ",
-    "sessions_24h": 1,
-    "sessions_7d": 9,
-    "avg_inter_play_gap_7d": "01:54:47",
-    "top_genres_24h": "ambient jazz(38) | jazz(36) | free jazz(14) | experimental jazz(4) | jazz fusion(4) | nu jazz(3)",
-    "top_genres_7d": "jazz(53) | ambient jazz(51) | free jazz(22) | nu jazz(14) | experimental jazz(11) | indie jazz(10)"
+    "peak_hour_7d": "03:00",
+    "heatmap_24h": " ▂▇█▆   ▂▅  ▁           ",
+    "heatmap_7d": " ▂▇█▆▁▁▂▄▅▁▁▁▁      ▁   ",
+    "sessions_24h": 3,
+    "sessions_7d": 11,
+    "avg_inter_play_gap_7d": "02:02:09",
+    "top_genres_24h": "ambient jazz(44) | jazz(43) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | cool jazz(3)",
+    "top_genres_7d": "jazz(52) | ambient jazz(51) | free jazz(28) | jazz fusion(5) | experimental jazz(4) | cool jazz(3)"
   }
 }
