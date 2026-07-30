@@ -1527,8 +1527,8 @@ Heatmap (recent)          :    ▅█   ▂▆  ▁   ▃
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-29 22:15:53Z
-Week window (UTC)         : 2026-07-22 22:15:53Z → 2026-07-29 22:15:53Z
+Snapshot captured (UTC)   : 2026-07-30 03:33:25Z
+Week window (UTC)         : 2026-07-23 03:33:25Z → 2026-07-30 03:33:25Z
 Tracks played (last 24h)  : 41
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Tomasz Stanko Quintet
@@ -1566,13 +1566,13 @@ Last played               : Matthew Halsall — Song for Charlie - Special Editi
 Last played (UTC)         : 2026-07-29 20:35:18Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Thelonious Monk — Straight, No Chaser → Matthew Halsall — Song for Charlie - Special Edition
-Δ last played (since last): 2026-07-29 16:18:26Z → 2026-07-29 20:35:18Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:40:36
-Telemetry age             : 01:40:36
-Δ time (since last report): 02:28:28
+Time since last play      : 06:58:07
+Telemetry age             : 06:58:07
+Δ time (since last report): 05:17:32
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-22 22:15:53Z → 2026-07-29 22:15:53Z
+Week window (UTC)         : 2026-07-23 03:33:25Z → 2026-07-30 03:33:25Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-29 22:15:53Z
+Report generated (UTC)    : 2026-07-30 03:33:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
