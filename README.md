@@ -1527,8 +1527,8 @@ Heatmap (recent)          :    ▅█   ▂▆  ▁   ▃
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-30 16:51:52Z
-Week window (UTC)         : 2026-07-23 16:51:52Z → 2026-07-30 16:51:52Z
+Snapshot captured (UTC)   : 2026-07-30 19:55:23Z
+Week window (UTC)         : 2026-07-23 19:55:23Z → 2026-07-30 19:55:23Z
 Tracks played (last 24h)  : 3
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Forward Jazz Series
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:16:35
-Telemetry age             : 20:16:35
-Δ time (since last report): 02:16:01
+Time since last play      : 23:20:06
+Telemetry age             : 23:20:06
+Δ time (since last report): 03:03:32
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-23 16:51:52Z → 2026-07-30 16:51:52Z
+Week window (UTC)         : 2026-07-23 19:55:23Z → 2026-07-30 19:55:23Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-30 16:51:52Z
+Report generated (UTC)    : 2026-07-30 19:55:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
