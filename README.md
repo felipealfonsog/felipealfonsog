@@ -1527,26 +1527,26 @@ Heatmap (recent)          :    ▅█   ▂▆  ▁   ▃
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-30 03:33:25Z
-Week window (UTC)         : 2026-07-23 03:33:25Z → 2026-07-30 03:33:25Z
-Tracks played (last 24h)  : 41
+Snapshot captured (UTC)   : 2026-07-30 09:05:59Z
+Week window (UTC)         : 2026-07-23 09:05:59Z → 2026-07-30 09:05:59Z
+Tracks played (last 24h)  : 12
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : Tomasz Stanko Quintet
+Dominant artist (24h)     : Forward Jazz Series
 Dominant artist (7d)      : Tomasz Stanko Quintet
-Listening pattern (24h)   : Sustained operational tempo
-Activity status (24h)     : HIGH
+Listening pattern (24h)   : Regular cadence
+Activity status (24h)     : MEDIUM
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :  ▂▇█▆   ▂▅  ▁   ▂       
+Heatmap (24h)             :         ▃█  ▁   ▄       
 Heatmap (7d)              :  ▂▇█▆▁▁▂▂▅▁▁▁▁  ▂   ▁   
 ------------------------------------------------------------
-Sessions (24h)            : 4
+Sessions (24h)            : 3
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 02:04:57
-Top genres (24h)          : ambient jazz(45) | jazz(44) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | nu jazz(4)
+Top genres (24h)          : jazz(8) | ambient jazz(7) | free jazz(7) | cool jazz(3) | bebop(2) | hard bop(2)
 Top genres (7d)           : ambient jazz(51) | jazz(51) | free jazz(27) | jazz fusion(5) | experimental jazz(4) | nu jazz(4)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:58:07
-Telemetry age             : 06:58:07
-Δ time (since last report): 05:17:32
+Time since last play      : 12:30:41
+Telemetry age             : 12:30:41
+Δ time (since last report): 05:32:34
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,14 +1584,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 41
-Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 12
+Dominant artist           : Forward Jazz Series
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-23 03:33:25Z → 2026-07-30 03:33:25Z
+Week window (UTC)         : 2026-07-23 09:05:59Z → 2026-07-30 09:05:59Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1599,21 +1599,21 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
+Peak hour (24h)           : 09:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :  ▂▇█▆   ▂▅  ▁   ▂       
+Heatmap (24h)             :         ▃█  ▁   ▄       
 Heatmap (7d)              :  ▂▇█▆▁▁▂▂▅▁▁▁▁  ▂   ▁   
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : 3
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 02:04:57
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(45) | jazz(44) | free jazz(21) | experimental jazz(4) | jazz fusion(4) | nu jazz(4)
+Top genres (24h)          : jazz(8) | ambient jazz(7) | free jazz(7) | cool jazz(3) | bebop(2) | hard bop(2)
 Top genres (7d)           : ambient jazz(51) | jazz(51) | free jazz(27) | jazz fusion(5) | experimental jazz(4) | nu jazz(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-30 03:33:25Z
+Report generated (UTC)    : 2026-07-30 09:05:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
