@@ -1527,8 +1527,8 @@ Heatmap (recent)          :  █▇▁    ▁▇  ▁   ▃
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-31 09:19:19Z
-Week window (UTC)         : 2026-07-24 09:19:19Z → 2026-07-31 09:19:19Z
+Snapshot captured (UTC)   : 2026-07-31 11:36:37Z
+Week window (UTC)         : 2026-07-24 11:36:37Z → 2026-07-31 11:36:37Z
 Tracks played (last 24h)  : 14
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Faith No More
@@ -1566,13 +1566,13 @@ Last played               : Faith No More — The Gentle Art of Making Enemies
 Last played (UTC)         : 2026-07-31 07:32:13Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Matthew Halsall — Song for Charlie - Special Edition → Faith No More — The Gentle Art of Making Enemies
-Δ last played (since last): 2026-07-29 20:35:18Z → 2026-07-31 07:32:13Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:47:07
-Telemetry age             : 01:47:07
-Δ time (since last report): 05:25:24
+Time since last play      : 04:04:24
+Telemetry age             : 04:04:24
+Δ time (since last report): 02:17:18
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-24 09:19:19Z → 2026-07-31 09:19:19Z
+Week window (UTC)         : 2026-07-24 11:36:37Z → 2026-07-31 11:36:37Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1615,7 +1615,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(14) | alternative metal(7) | funk rock(7) | post-grunge(7) | rap metal(7)
 Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(17) | grunge(14) | alternative metal(7) | funk rock(7)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-31 09:19:19Z
+Report generated (UTC)    : 2026-07-31 11:36:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
