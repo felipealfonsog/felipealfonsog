@@ -1485,69 +1485,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Matthew Halsall — Song for Charlie - Special Edition
+Last track played         : Faith No More — The Gentle Art of Making Enemies
 ------------------------------------------------------------
-Recent track #1            : Matthew Halsall — Song for Charlie - Special Edition | 2026-07-29 16:35:18 -04
-Recent track #2            : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:24:17 -04
-Recent track #3            : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:20:32 -04
-Recent track #4            : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04
-Recent track #5            : Duke Ellington, John Coltrane — My Little Brown Book | 2026-07-29 09:36:28 -04
-Recent track #6            : Forward Jazz Series — Homeland (Incidentals) | 2026-07-29 09:31:06 -04
-Recent track #7            : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:18:06 -04
-Recent track #8            : Forward Jazz Series — Homeland (Series) | 2026-07-29 09:12:36 -04
-Recent track #9            : Tomasz Stanko Quartet — Trista | 2026-07-29 09:10:41 -04
-Recent track #10           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:02:10 -04
-Recent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 08:56:24 -04
-Recent track #12           : Colin Vallon, Patrice Moret, Julian Sartorius — Sisyphe | 2026-07-29 08:50:27 -04
-Recent track #13           : Mathias Eick, Jon Balke, Audun Kleive, Audun Erlien — The Door | 2026-07-29 04:51:21 -04
-Recent track #14           : Tomasz Stanko Quartet — II (Suspended Variations) | 2026-07-29 04:43:32 -04
-Recent track #15           : Manu Katché — Song For Her | 2026-07-29 04:35:12 -04
-Recent track #16           : Marcin Wasilewski, Slawomir Kurkiewicz, Michal Miskiewicz — Night Train To You | 2026-07-29 04:28:51 -04
-Recent track #17           : Nils Petter Molvær — Framework 2 | 2026-07-29 04:18:14 -04
-Recent track #18           : Tord Gustavsen Trio — Kirken, den er et gammelt hus | 2026-07-29 04:14:57 -04
-Recent track #19           : Mammal Hands — Three Good Things | 2026-07-29 04:09:48 -04
-Recent track #20           : Tomasz Stanko Quartet — Kattorna | 2026-07-29 04:04:01 -04
-Recent track #21           : Manu Katché — November 99 | 2026-07-29 03:57:35 -04
-Recent track #22           : Markus Stockhausen, Ferenc Snétberger, Arild Anderson — Gio | 2026-07-29 03:51:41 -04
-Recent track #23           : Trygve Seim, Andreas Utnem — Kyrie | 2026-07-29 03:42:44 -04
-Recent track #24           : Mathias Eick — Children | 2026-07-29 03:38:23 -04
-Recent track #25           : Jakob Bro, Palle Mikkelborg, Thomas Morgan, Jon Christensen — Strands | 2026-07-29 03:32:44 -04
+Recent track #1            : Faith No More — The Gentle Art of Making Enemies | 2026-07-31 03:32:13 -04
+Recent track #2            : Faith No More — Evidence - 2016 Remaster | 2026-07-31 02:29:45 -04
+Recent track #3            : Faith No More — Last Cup of Sorrow - 2016 Remaster | 2026-07-31 02:24:51 -04
+Recent track #4            : Faith No More — Falling to Pieces | 2026-07-31 02:20:33 -04
+Recent track #5            : Faith No More — Midlife Crisis | 2026-07-31 02:15:18 -04
+Recent track #6            : Faith No More — We Care a Lot | 2026-07-31 02:10:58 -04
+Recent track #7            : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-07-31 02:06:55 -04
+Recent track #8            : Candlebox — Miss You | 2026-07-31 01:59:10 -04
+Recent track #9            : Candlebox — Sometimes | 2026-07-31 01:54:02 -04
+Recent track #10           : Candlebox — You | 2026-07-31 01:48:51 -04
+Recent track #11           : Candlebox — Simple Lessons | 2026-07-31 01:43:53 -04
+Recent track #12           : Candlebox — Breathe Me In | 2026-07-31 01:41:00 -04
+Recent track #13           : Candlebox — 10,000 Horses | 2026-07-31 01:35:46 -04
+Recent track #14           : Candlebox — Far Behind | 2026-07-31 01:30:36 -04
+Recent track #15           : Matthew Halsall — Song for Charlie - Special Edition | 2026-07-29 16:35:18 -04
+Recent track #16           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:24:17 -04
+Recent track #17           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:20:32 -04
+Recent track #18           : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04
+Recent track #19           : Duke Ellington, John Coltrane — My Little Brown Book | 2026-07-29 09:36:28 -04
+Recent track #20           : Forward Jazz Series — Homeland (Incidentals) | 2026-07-29 09:31:06 -04
+Recent track #21           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:18:06 -04
+Recent track #22           : Forward Jazz Series — Homeland (Series) | 2026-07-29 09:12:36 -04
+Recent track #23           : Tomasz Stanko Quartet — Trista | 2026-07-29 09:10:41 -04
+Recent track #24           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:02:10 -04
+Recent track #25           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 08:56:24 -04
 ------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Last played (UTC)         : 2026-07-29 20:35:18Z
+Last played (UTC)         : 2026-07-31 07:32:13Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 04:00
-Heatmap (recent)          :    ▅█   ▂▆  ▁   ▃       
+Peak hour (recent)        : 01:00
+Heatmap (recent)          :  █▇▁    ▁▇  ▁   ▃       
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-07-31 03:53:56Z
-Week window (UTC)         : 2026-07-24 03:53:56Z → 2026-07-31 03:53:56Z
-Tracks played (last 24h)  : 0
+Snapshot captured (UTC)   : 2026-07-31 09:19:19Z
+Week window (UTC)         : 2026-07-24 09:19:19Z → 2026-07-31 09:19:19Z
+Tracks played (last 24h)  : 14
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : N/A
+Dominant artist (24h)     : Faith No More
 Dominant artist (7d)      : Tomasz Stanko Quintet
-Listening pattern (24h)   : No activity
-Activity status (24h)     : NONE
+Listening pattern (24h)   : Regular cadence
+Activity status (24h)     : MEDIUM
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 03:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  ▂▇█▆▁▁▂▂▅▁▁▁▁  ▂   ▁   
+Peak hour (24h)           : 01:00
+Peak hour (7d)            : 02:00
+Heatmap (24h)             :  █▇▁                    
+Heatmap (7d)              :  ▅█▇▅   ▁▄  ▁   ▂       
 ------------------------------------------------------------
-Sessions (24h)            : N/A
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:04:57
-Top genres (24h)          : N/A
-Top genres (7d)           : ambient jazz(51) | jazz(51) | free jazz(27) | jazz fusion(5) | experimental jazz(4) | nu jazz(4)
+Sessions (24h)            : 2
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 01:00:02
+Top genres (24h)          : grunge(14) | alternative metal(7) | funk rock(7) | post-grunge(7) | rap metal(7)
+Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(17) | grunge(14) | alternative metal(7) | funk rock(7)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Matthew Halsall — Song for Charlie - Special Edition
-Last played (UTC)         : 2026-07-29 20:35:18Z
+Last played               : Faith No More — The Gentle Art of Making Enemies
+Last played (UTC)         : 2026-07-31 07:32:13Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Matthew Halsall — Song for Charlie - Special Edition → Faith No More — The Gentle Art of Making Enemies
+Δ last played (since last): 2026-07-29 20:35:18Z → 2026-07-31 07:32:13Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 31:18:39
-Telemetry age             : 31:18:39
-Δ time (since last report): 05:24:41
+Time since last play      : 01:47:07
+Telemetry age             : 01:47:07
+Δ time (since last report): 05:25:24
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,14 +1584,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 14
+Dominant artist           : Faith No More
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-24 03:53:56Z → 2026-07-31 03:53:56Z
+Week window (UTC)         : 2026-07-24 09:19:19Z → 2026-07-31 09:19:19Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1599,23 +1599,23 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 03:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  ▂▇█▆▁▁▂▂▅▁▁▁▁  ▂   ▁   
+Peak hour (24h)           : 01:00
+Peak hour (7d)            : 02:00
+Heatmap (24h)             :  █▇▁                    
+Heatmap (7d)              :  ▅█▇▅   ▁▄  ▁   ▂       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:04:57
+Sessions (24h)            : 2
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 01:00:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : ambient jazz(51) | jazz(51) | free jazz(27) | jazz fusion(5) | experimental jazz(4) | nu jazz(4)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : grunge(14) | alternative metal(7) | funk rock(7) | post-grunge(7) | rap metal(7)
+Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(17) | grunge(14) | alternative metal(7) | funk rock(7)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-31 03:53:56Z
+Report generated (UTC)    : 2026-07-31 09:19:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
