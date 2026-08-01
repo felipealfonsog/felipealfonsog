@@ -1527,26 +1527,26 @@ Heatmap (recent)          :  █▇▁    ▁▇  ▁   ▃
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-01 03:54:00Z
-Week window (UTC)         : 2026-07-25 03:54:00Z → 2026-08-01 03:54:00Z
-Tracks played (last 24h)  : 14
+Snapshot captured (UTC)   : 2026-08-01 08:35:41Z
+Week window (UTC)         : 2026-07-25 08:35:41Z → 2026-08-01 08:35:41Z
+Tracks played (last 24h)  : 0
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : Faith No More
+Dominant artist (24h)     : N/A
 Dominant artist (7d)      : Tomasz Stanko Quintet
-Listening pattern (24h)   : Regular cadence
-Activity status (24h)     : MEDIUM
+Listening pattern (24h)   : No activity
+Activity status (24h)     : NONE
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 02:00
-Heatmap (24h)             :  █▇▁                    
+Heatmap (24h)             : N/A
 Heatmap (7d)              :  ▅█▇▅   ▁▄  ▁   ▂       
 ------------------------------------------------------------
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 6
 Avg inter-play gap (7d)   : 01:00:02
-Top genres (24h)          : grunge(14) | alternative metal(7) | funk rock(7) | post-grunge(7) | rap metal(7)
+Top genres (24h)          : N/A
 Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(17) | grunge(14) | alternative metal(7) | funk rock(7)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:21:48
-Telemetry age             : 20:21:48
-Δ time (since last report): 05:37:06
+Time since last play      : 25:03:29
+Telemetry age             : 25:03:29
+Δ time (since last report): 04:41:42
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,14 +1584,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
-Dominant artist           : Faith No More
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-25 03:54:00Z → 2026-08-01 03:54:00Z
+Week window (UTC)         : 2026-07-25 08:35:41Z → 2026-08-01 08:35:41Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1599,21 +1599,21 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 02:00
-Heatmap (24h)             :  █▇▁                    
+Heatmap (24h)             : N/A
 Heatmap (7d)              :  ▅█▇▅   ▁▄  ▁   ▂       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 6
 Avg inter-play gap (7d)   : 01:00:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(14) | alternative metal(7) | funk rock(7) | post-grunge(7) | rap metal(7)
+Top genres (24h)          : N/A
 Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(17) | grunge(14) | alternative metal(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-01 03:54:00Z
+Report generated (UTC)    : 2026-08-01 08:35:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
