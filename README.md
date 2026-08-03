@@ -1527,8 +1527,8 @@ Heatmap (recent)          :  █▇▁    ▁▇  ▁   ▃
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-03 03:58:28Z
-Week window (UTC)         : 2026-07-27 03:58:28Z → 2026-08-03 03:58:28Z
+Snapshot captured (UTC)   : 2026-08-03 10:08:13Z
+Week window (UTC)         : 2026-07-27 10:08:13Z → 2026-08-03 10:08:13Z
 Tracks played (last 24h)  : 0
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : N/A
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 68:26:15
-Telemetry age             : 68:26:15
-Δ time (since last report): 05:45:13
+Time since last play      : 74:36:00
+Telemetry age             : 74:36:00
+Δ time (since last report): 06:09:45
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-27 03:58:28Z → 2026-08-03 03:58:28Z
+Week window (UTC)         : 2026-07-27 10:08:13Z → 2026-08-03 10:08:13Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-03 03:58:28Z
+Report generated (UTC)    : 2026-08-03 10:08:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
