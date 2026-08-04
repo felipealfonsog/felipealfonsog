@@ -1527,8 +1527,8 @@ Heatmap (recent)          :  █▄▁    ▁   ▁   ▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-04 09:12:08Z
-Week window (UTC)         : 2026-07-28 09:12:08Z → 2026-08-04 09:12:08Z
+Snapshot captured (UTC)   : 2026-08-04 11:35:07Z
+Week window (UTC)         : 2026-07-28 11:35:07Z → 2026-08-04 11:35:07Z
 Tracks played (last 24h)  : 7
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Forward Jazz Series
@@ -1566,13 +1566,13 @@ Last played               : Forward Jazz Series — Homeland
 Last played (UTC)         : 2026-08-04 05:50:29Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Matthew Halsall — Song for Charlie - Special Edition → Forward Jazz Series — Homeland
-Δ last played (since last): 2026-08-03 12:12:46Z → 2026-08-04 05:50:29Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:21:39
-Telemetry age             : 03:21:39
-Δ time (since last report): 05:30:20
+Time since last play      : 05:44:39
+Telemetry age             : 05:44:39
+Δ time (since last report): 02:23:00
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-28 09:12:08Z → 2026-08-04 09:12:08Z
+Week window (UTC)         : 2026-07-28 11:35:07Z → 2026-08-04 11:35:07Z
 Total tracks played       : 50
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-04 09:12:08Z
+Report generated (UTC)    : 2026-08-04 11:35:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
