@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-08-03_0341Z
+ snapshot_utc : 2026-08-04_0326Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -530,7 +530,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-08-02T19:23:18+00:00 | last_update=2026-08-02T19:23:18+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-08-03T19:50:13+00:00 | last_update=2026-08-03T19:50:13+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -700,13 +700,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 278 ms
-TTFB................ 277 ms
+LATENCY............. 224 ms
+TTFB................ 223 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 31d
+TLS_EXPIRY.......... 30d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -735,7 +735,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 47 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-08-02T06:07:59Z
+LAST_PROBE_UTC...... 2026-08-03T06:29:51Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -775,19 +775,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437488
-longitude      : -70.646495
-altitude       : 76 m
-gps_accuracy   : ±4.2 m
-heading        : 49°
-speed          : 1.6 km/h
+location       : transit_corridor
+latitude       : -33.446435
+longitude      : -70.662051
+altitude       : 147 m
+gps_accuracy   : ±5.0 m
+heading        : 53°
+speed          : 6.0 km/h
 status         : walking
 phase          : evening
-local_time     : 21:52
+local_time     : 21:27
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-08-03 01:52:30 UTC
+updated_utc    : 2026-08-04 01:27:19 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -906,7 +906,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-08-02 19:38:10Z
+DSN snapshot (UTC)       : 2026-08-03 20:01:29Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -917,15 +917,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.56e9 km | 170.848 AU
-Heliocentric distance    : 171.340 AU
-Relative speed           : 41.941 km/s
+Earth distance           : 25.56e9 km | 170.869 AU
+Heliocentric distance    : 171.350 AU
+Relative speed           : 42.054 km/s
 ------------------------------------------------------------
-One-way light time       : 23:40:54
-Round-trip latency       : 47:21:48
+One-way light time       : 23:41:04
+Round-trip latency       : 47:22:09
 ------------------------------------------------------------
-Δ distance (since last)  : +733,352 km
-Mission age              : 48 years, 343 days
+Δ distance (since last)  : +615,683 km
+Mission age              : 48 years, 344 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -936,19 +936,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.37e9 km | 142.824 AU
-Heliocentric distance    : 143.571 AU
-Relative speed           : 35.540 km/s
+Earth distance           : 21.37e9 km | 142.837 AU
+Heliocentric distance    : 143.580 AU
+Relative speed           : 35.684 km/s
 ------------------------------------------------------------
-One-way light time       : 19:47:50
-Round-trip latency       : 39:35:40
+One-way light time       : 19:47:57
+Round-trip latency       : 39:35:53
 ------------------------------------------------------------
-Δ distance (since last)  : +462,206 km
-Mission age              : 48 years, 359 days
+Δ distance (since last)  : +391,812 km
+Mission age              : 48 years, 360 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-08-02 19:38:16Z
+Report generated (UTC)   : 2026-08-03 20:01:32Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1492,39 +1492,39 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Faith No More — The Gentle Art of Making Enemies
+Last track played         : Matthew Halsall — Song for Charlie - Special Edition
 ------------------------------------------------------------
-Recent track #1            : Faith No More — The Gentle Art of Making Enemies | 2026-07-31 03:32:13 -04
-Recent track #2            : Faith No More — Evidence - 2016 Remaster | 2026-07-31 02:29:45 -04
-Recent track #3            : Faith No More — Last Cup of Sorrow - 2016 Remaster | 2026-07-31 02:24:51 -04
-Recent track #4            : Faith No More — Falling to Pieces | 2026-07-31 02:20:33 -04
-Recent track #5            : Faith No More — Midlife Crisis | 2026-07-31 02:15:18 -04
-Recent track #6            : Faith No More — We Care a Lot | 2026-07-31 02:10:58 -04
-Recent track #7            : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-07-31 02:06:55 -04
-Recent track #8            : Candlebox — Miss You | 2026-07-31 01:59:10 -04
-Recent track #9            : Candlebox — Sometimes | 2026-07-31 01:54:02 -04
-Recent track #10           : Candlebox — You | 2026-07-31 01:48:51 -04
-Recent track #11           : Candlebox — Simple Lessons | 2026-07-31 01:43:53 -04
-Recent track #12           : Candlebox — Breathe Me In | 2026-07-31 01:41:00 -04
-Recent track #13           : Candlebox — 10,000 Horses | 2026-07-31 01:35:46 -04
-Recent track #14           : Candlebox — Far Behind | 2026-07-31 01:30:36 -04
-Recent track #15           : Matthew Halsall — Song for Charlie - Special Edition | 2026-07-29 16:35:18 -04
-Recent track #16           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:24:17 -04
-Recent track #17           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:20:32 -04
-Recent track #18           : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04
-Recent track #19           : Duke Ellington, John Coltrane — My Little Brown Book | 2026-07-29 09:36:28 -04
-Recent track #20           : Forward Jazz Series — Homeland (Incidentals) | 2026-07-29 09:31:06 -04
-Recent track #21           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:18:06 -04
-Recent track #22           : Forward Jazz Series — Homeland (Series) | 2026-07-29 09:12:36 -04
-Recent track #23           : Tomasz Stanko Quartet — Trista | 2026-07-29 09:10:41 -04
-Recent track #24           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:02:10 -04
-Recent track #25           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 08:56:24 -04
+Recent track #1            : Matthew Halsall — Song for Charlie - Special Edition | 2026-08-03 08:12:46 -04
+Recent track #2            : Faith No More — The Gentle Art of Making Enemies | 2026-07-31 03:32:13 -04
+Recent track #3            : Faith No More — Evidence - 2016 Remaster | 2026-07-31 02:29:45 -04
+Recent track #4            : Faith No More — Last Cup of Sorrow - 2016 Remaster | 2026-07-31 02:24:51 -04
+Recent track #5            : Faith No More — Falling to Pieces | 2026-07-31 02:20:33 -04
+Recent track #6            : Faith No More — Midlife Crisis | 2026-07-31 02:15:18 -04
+Recent track #7            : Faith No More — We Care a Lot | 2026-07-31 02:10:58 -04
+Recent track #8            : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-07-31 02:06:55 -04
+Recent track #9            : Candlebox — Miss You | 2026-07-31 01:59:10 -04
+Recent track #10           : Candlebox — Sometimes | 2026-07-31 01:54:02 -04
+Recent track #11           : Candlebox — You | 2026-07-31 01:48:51 -04
+Recent track #12           : Candlebox — Simple Lessons | 2026-07-31 01:43:53 -04
+Recent track #13           : Candlebox — Breathe Me In | 2026-07-31 01:41:00 -04
+Recent track #14           : Candlebox — 10,000 Horses | 2026-07-31 01:35:46 -04
+Recent track #15           : Candlebox — Far Behind | 2026-07-31 01:30:36 -04
+Recent track #16           : Matthew Halsall — Song for Charlie - Special Edition | 2026-07-29 16:35:18 -04
+Recent track #17           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:24:17 -04
+Recent track #18           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:20:32 -04
+Recent track #19           : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04
+Recent track #20           : Duke Ellington, John Coltrane — My Little Brown Book | 2026-07-29 09:36:28 -04
+Recent track #21           : Forward Jazz Series — Homeland (Incidentals) | 2026-07-29 09:31:06 -04
+Recent track #22           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:18:06 -04
+Recent track #23           : Forward Jazz Series — Homeland (Series) | 2026-07-29 09:12:36 -04
+Recent track #24           : Tomasz Stanko Quartet — Trista | 2026-07-29 09:10:41 -04
+Recent track #25           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:02:10 -04
 ------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Last played (UTC)         : 2026-07-31 07:32:13Z
+Last played (UTC)         : 2026-08-03 12:12:46Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
@@ -1534,27 +1534,27 @@ Heatmap (recent)          :  █▇▁    ▁▇  ▁   ▃
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-02 22:13:15Z
-Week window (UTC)         : 2026-07-26 22:13:15Z → 2026-08-02 22:13:15Z
-Tracks played (last 24h)  : 0
+Snapshot captured (UTC)   : 2026-08-03 22:28:19Z
+Week window (UTC)         : 2026-07-27 22:28:19Z → 2026-08-03 22:28:19Z
+Tracks played (last 24h)  : 1
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : N/A
+Dominant artist (24h)     : Matthew Halsall
 Dominant artist (7d)      : Tomasz Stanko Quintet
-Listening pattern (24h)   : No activity
-Activity status (24h)     : NONE
+Listening pattern (24h)   : Light activity
+Activity status (24h)     : LOW
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 08:00
 Peak hour (7d)            : 02:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  ▅█▇▅   ▁▄  ▁   ▂       
+Heatmap (24h)             :         █               
+Heatmap (7d)              :  ▅██▆   ▂▄  ▁   ▂       
 ------------------------------------------------------------
-Sessions (24h)            : N/A
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 01:00:02
-Top genres (24h)          : N/A
-Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(17) | grunge(14) | alternative metal(7) | funk rock(7)
+Sessions (24h)            : 1
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 02:33:48
+Top genres (24h)          : ambient jazz(1) | indie jazz(1) | jazz(1) | nu jazz(1)
+Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(16) | grunge(14) | alternative metal(7) | funk rock(7)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1569,17 +1569,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Faith No More — The Gentle Art of Making Enemies
-Last played (UTC)         : 2026-07-31 07:32:13Z
+Last played               : Matthew Halsall — Song for Charlie - Special Edition
+Last played (UTC)         : 2026-08-03 12:12:46Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 62:41:02
-Telemetry age             : 62:41:02
-Δ time (since last report): 02:35:43
+Time since last play      : 10:15:33
+Telemetry age             : 10:15:33
+Δ time (since last report): 02:27:05
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,14 +1591,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Matthew Halsall
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-26 22:13:15Z → 2026-08-02 22:13:15Z
+Week window (UTC)         : 2026-07-27 22:28:19Z → 2026-08-03 22:28:19Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1606,22 +1606,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 08:00
 Peak hour (7d)            : 02:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  ▅█▇▅   ▁▄  ▁   ▂       
+Heatmap (24h)             :         █               
+Heatmap (7d)              :  ▅██▆   ▂▄  ▁   ▂       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 01:00:02
+Sessions (24h)            : 1
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 02:33:48
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(17) | grunge(14) | alternative metal(7) | funk rock(7)
+Top genres (24h)          : ambient jazz(1) | indie jazz(1) | jazz(1) | nu jazz(1)
+Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(16) | grunge(14) | alternative metal(7) | funk rock(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1636,7 +1636,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-02 22:13:15Z
+Report generated (UTC)    : 2026-08-03 22:28:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1994,7 +1994,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 02 August 2026
+From: 04 December 2023 - To: 03 August 2026
 
 Total Time       : 1,046 hrs
 Mostly coding in : Other
@@ -2047,7 +2047,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 03/08/2026 02:22:57 UTC
+Last updated     : 04/08/2026 02:03:00 UTC
 
 ```
 <!--END_SECTION:wakastats-->
