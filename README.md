@@ -1485,69 +1485,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Matthew Halsall — Song for Charlie - Special Edition
+Last track played         : Forward Jazz Series — Homeland
 ------------------------------------------------------------
-Recent track #1            : Matthew Halsall — Song for Charlie - Special Edition | 2026-08-03 08:12:46 -04
-Recent track #2            : Faith No More — The Gentle Art of Making Enemies | 2026-07-31 03:32:13 -04
-Recent track #3            : Faith No More — Evidence - 2016 Remaster | 2026-07-31 02:29:45 -04
-Recent track #4            : Faith No More — Last Cup of Sorrow - 2016 Remaster | 2026-07-31 02:24:51 -04
-Recent track #5            : Faith No More — Falling to Pieces | 2026-07-31 02:20:33 -04
-Recent track #6            : Faith No More — Midlife Crisis | 2026-07-31 02:15:18 -04
-Recent track #7            : Faith No More — We Care a Lot | 2026-07-31 02:10:58 -04
-Recent track #8            : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-07-31 02:06:55 -04
-Recent track #9            : Candlebox — Miss You | 2026-07-31 01:59:10 -04
-Recent track #10           : Candlebox — Sometimes | 2026-07-31 01:54:02 -04
-Recent track #11           : Candlebox — You | 2026-07-31 01:48:51 -04
-Recent track #12           : Candlebox — Simple Lessons | 2026-07-31 01:43:53 -04
-Recent track #13           : Candlebox — Breathe Me In | 2026-07-31 01:41:00 -04
-Recent track #14           : Candlebox — 10,000 Horses | 2026-07-31 01:35:46 -04
-Recent track #15           : Candlebox — Far Behind | 2026-07-31 01:30:36 -04
-Recent track #16           : Matthew Halsall — Song for Charlie - Special Edition | 2026-07-29 16:35:18 -04
-Recent track #17           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:24:17 -04
-Recent track #18           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:20:32 -04
-Recent track #19           : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04
-Recent track #20           : Duke Ellington, John Coltrane — My Little Brown Book | 2026-07-29 09:36:28 -04
-Recent track #21           : Forward Jazz Series — Homeland (Incidentals) | 2026-07-29 09:31:06 -04
-Recent track #22           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:18:06 -04
-Recent track #23           : Forward Jazz Series — Homeland (Series) | 2026-07-29 09:12:36 -04
-Recent track #24           : Tomasz Stanko Quartet — Trista | 2026-07-29 09:10:41 -04
-Recent track #25           : Tomasz Stanko Quintet — Terminal 7 | 2026-07-29 09:02:10 -04
+Recent track #1            : Forward Jazz Series — Homeland | 2026-08-04 01:50:29 -04
+Recent track #2            : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-04 01:43:54 -04
+Recent track #3            : John Coltrane — Blue World | 2026-08-04 01:42:05 -04
+Recent track #4            : Tomasz Stanko Quartet — Trista | 2026-08-04 01:36:01 -04
+Recent track #5            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-04 01:31:24 -04
+Recent track #6            : Forward Jazz Series — Homeland (Series) | 2026-08-04 01:25:58 -04
+Recent track #7            : Matthew Halsall — Song for Charlie - Special Edition | 2026-08-03 08:12:46 -04
+Recent track #8            : Faith No More — The Gentle Art of Making Enemies | 2026-07-31 03:32:13 -04
+Recent track #9            : Faith No More — Evidence - 2016 Remaster | 2026-07-31 02:29:45 -04
+Recent track #10           : Faith No More — Last Cup of Sorrow - 2016 Remaster | 2026-07-31 02:24:51 -04
+Recent track #11           : Faith No More — Falling to Pieces | 2026-07-31 02:20:33 -04
+Recent track #12           : Faith No More — Midlife Crisis | 2026-07-31 02:15:18 -04
+Recent track #13           : Faith No More — We Care a Lot | 2026-07-31 02:10:58 -04
+Recent track #14           : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-07-31 02:06:55 -04
+Recent track #15           : Candlebox — Miss You | 2026-07-31 01:59:10 -04
+Recent track #16           : Candlebox — Sometimes | 2026-07-31 01:54:02 -04
+Recent track #17           : Candlebox — You | 2026-07-31 01:48:51 -04
+Recent track #18           : Candlebox — Simple Lessons | 2026-07-31 01:43:53 -04
+Recent track #19           : Candlebox — Breathe Me In | 2026-07-31 01:41:00 -04
+Recent track #20           : Candlebox — 10,000 Horses | 2026-07-31 01:35:46 -04
+Recent track #21           : Candlebox — Far Behind | 2026-07-31 01:30:36 -04
+Recent track #22           : Matthew Halsall — Song for Charlie - Special Edition | 2026-07-29 16:35:18 -04
+Recent track #23           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:24:17 -04
+Recent track #24           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:20:32 -04
+Recent track #25           : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04
 ------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Last played (UTC)         : 2026-08-03 12:12:46Z
+Last played (UTC)         : 2026-08-04 05:50:29Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 01:00
-Heatmap (recent)          :  █▇▁    ▁▇  ▁   ▃       
+Heatmap (recent)          :  █▄▁    ▁   ▁   ▂       
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-04 03:41:48Z
-Week window (UTC)         : 2026-07-28 03:41:48Z → 2026-08-04 03:41:48Z
-Tracks played (last 24h)  : 1
+Snapshot captured (UTC)   : 2026-08-04 09:12:08Z
+Week window (UTC)         : 2026-07-28 09:12:08Z → 2026-08-04 09:12:08Z
+Tracks played (last 24h)  : 7
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : Matthew Halsall
-Dominant artist (7d)      : Tomasz Stanko Quintet
+Dominant artist (24h)     : Forward Jazz Series
+Dominant artist (7d)      : Faith No More
 Listening pattern (24h)   : Light activity
 Activity status (24h)     : LOW
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
-Peak hour (7d)            : 02:00
-Heatmap (24h)             :         █               
-Heatmap (7d)              :  ▅██▆   ▂▄  ▁   ▂       
+Peak hour (24h)           : 01:00
+Peak hour (7d)            : 01:00
+Heatmap (24h)             :  █      ▁               
+Heatmap (7d)              :  █▄▆▅   ▂▄  ▁   ▂       
 ------------------------------------------------------------
-Sessions (24h)            : 1
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:33:48
-Top genres (24h)          : ambient jazz(1) | indie jazz(1) | jazz(1) | nu jazz(1)
-Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(16) | grunge(14) | alternative metal(7) | funk rock(7)
+Sessions (24h)            : 2
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 02:54:41
+Top genres (24h)          : jazz(9) | bebop(6) | cool jazz(6) | hard bop(6) | jazz ballads(5) | free jazz(4)
+Top genres (7d)           : jazz(42) | ambient jazz(37) | free jazz(14) | grunge(14) | cool jazz(9) | bebop(8)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Matthew Halsall — Song for Charlie - Special Edition
-Last played (UTC)         : 2026-08-03 12:12:46Z
+Last played               : Forward Jazz Series — Homeland
+Last played (UTC)         : 2026-08-04 05:50:29Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Matthew Halsall — Song for Charlie - Special Edition → Forward Jazz Series — Homeland
+Δ last played (since last): 2026-08-03 12:12:46Z → 2026-08-04 05:50:29Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 15:29:03
-Telemetry age             : 15:29:03
-Δ time (since last report): 05:13:30
+Time since last play      : 03:21:39
+Telemetry age             : 03:21:39
+Δ time (since last report): 05:30:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,37 +1584,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Matthew Halsall
+Tracks played (last 24h)  : 7
+Dominant artist           : Forward Jazz Series
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-28 03:41:48Z → 2026-08-04 03:41:48Z
+Week window (UTC)         : 2026-07-28 09:12:08Z → 2026-08-04 09:12:08Z
 Total tracks played       : 50
-Dominant artist           : Tomasz Stanko Quintet
+Dominant artist           : Faith No More
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
-Peak hour (7d)            : 02:00
-Heatmap (24h)             :         █               
-Heatmap (7d)              :  ▅██▆   ▂▄  ▁   ▂       
+Peak hour (24h)           : 01:00
+Peak hour (7d)            : 01:00
+Heatmap (24h)             :  █      ▁               
+Heatmap (7d)              :  █▄▆▅   ▂▄  ▁   ▂       
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 02:33:48
+Sessions (24h)            : 2
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 02:54:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(1) | indie jazz(1) | jazz(1) | nu jazz(1)
-Top genres (7d)           : ambient jazz(41) | jazz(40) | free jazz(16) | grunge(14) | alternative metal(7) | funk rock(7)
+Top genres (24h)          : jazz(9) | bebop(6) | cool jazz(6) | hard bop(6) | jazz ballads(5) | free jazz(4)
+Top genres (7d)           : jazz(42) | ambient jazz(37) | free jazz(14) | grunge(14) | cool jazz(9) | bebop(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-04 03:41:48Z
+Report generated (UTC)    : 2026-08-04 09:12:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
