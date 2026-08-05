@@ -1527,8 +1527,8 @@ Heatmap (recent)          :  █▄▁    ▁   ▁   ▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-05 09:09:23Z
-Week window (UTC)         : 2026-07-29 09:09:23Z → 2026-08-05 09:09:23Z
+Snapshot captured (UTC)   : 2026-08-05 11:31:52Z
+Week window (UTC)         : 2026-07-29 11:31:52Z → 2026-08-05 11:31:52Z
 Tracks played (last 24h)  : 0
 Total tracks played (7d)  : 33
 Dominant artist (24h)     : N/A
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 27:18:54
-Telemetry age             : 27:18:54
-Δ time (since last report): 05:32:03
+Time since last play      : 29:41:23
+Telemetry age             : 29:41:23
+Δ time (since last report): 02:22:29
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-29 09:09:23Z → 2026-08-05 09:09:23Z
+Week window (UTC)         : 2026-07-29 11:31:52Z → 2026-08-05 11:31:52Z
 Total tracks played       : 33
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-05 09:09:23Z
+Report generated (UTC)    : 2026-08-05 11:31:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
