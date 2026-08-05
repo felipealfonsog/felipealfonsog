@@ -1527,12 +1527,12 @@ Heatmap (recent)          :  ▆▃▁    ▂▅█
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-05 19:57:40Z
-Week window (UTC)         : 2026-07-29 19:57:40Z → 2026-08-05 19:57:40Z
+Snapshot captured (UTC)   : 2026-08-05 22:29:13Z
+Week window (UTC)         : 2026-07-29 22:29:13Z → 2026-08-05 22:29:13Z
 Tracks played (last 24h)  : 14
-Total tracks played (7d)  : 38
+Total tracks played (7d)  : 35
 Dominant artist (24h)     : Forward Jazz Series
-Dominant artist (7d)      : Forward Jazz Series
+Dominant artist (7d)      : Faith No More
 Listening pattern (24h)   : Regular cadence
 Activity status (24h)     : MEDIUM
 Cadence classification    : MEDIUM
@@ -1541,13 +1541,13 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 01:00
 Heatmap (24h)             :         ▁▅█             
-Heatmap (7d)              :  █▄▁    ▁▃▅     ▂       
+Heatmap (7d)              :  █▄▁    ▁▃▅             
 ------------------------------------------------------------
 Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:23:35
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 03:48:19
 Top genres (24h)          : jazz(15) | cool jazz(12) | bebop(11) | hard bop(11) | jazz ballads(9) | free jazz(7)
-Top genres (7d)           : jazz(25) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
+Top genres (7d)           : jazz(24) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:04:17
-Telemetry age             : 05:04:17
-Δ time (since last report): 03:03:04
+Time since last play      : 07:35:50
+Telemetry age             : 07:35:50
+Δ time (since last report): 02:31:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,9 +1591,9 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-29 19:57:40Z → 2026-08-05 19:57:40Z
-Total tracks played       : 38
-Dominant artist           : Forward Jazz Series
+Week window (UTC)         : 2026-07-29 22:29:13Z → 2026-08-05 22:29:13Z
+Total tracks played       : 35
+Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1602,19 +1602,19 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 01:00
 Heatmap (24h)             :         ▁▅█             
-Heatmap (7d)              :  █▄▁    ▁▃▅     ▂       
+Heatmap (7d)              :  █▄▁    ▁▃▅             
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:23:35
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 03:48:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(15) | cool jazz(12) | bebop(11) | hard bop(11) | jazz ballads(9) | free jazz(7)
-Top genres (7d)           : jazz(25) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
+Top genres (7d)           : jazz(24) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-05 19:57:40Z
+Report generated (UTC)    : 2026-08-05 22:29:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
