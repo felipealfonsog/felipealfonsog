@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-08-05 11:31:52Z",
-  "status": "IDLE",
-  "last_track": "Forward Jazz Series — Homeland",
-  "last_played_utc": "2026-08-04 05:50:29Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-08-05 14:37:02Z",
+  "status": "PLAYING",
+  "last_track": "Miles Davis Quintet — Tune Up",
+  "last_played_utc": "2026-08-05 14:36:37Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -1598,11 +1598,98 @@
     "3R6c2tWDBeYB1GncjLMn9n": [
       "grunge",
       "post-grunge"
+    ],
+    "4hV3aU0WKvFaiX5ugXP5hp": [
+      "phonk",
+      "brazilian phonk",
+      "brazilian funk"
+    ],
+    "1wfXG5GrswaEiXW6NJYRrp": [
+      "brazilian funk",
+      "funk bruxaria"
+    ],
+    "3u99zL3s2LRwthWOSvSueO": [
+      "brazilian funk"
+    ],
+    "1APqNiQUA2XpwLEbywSWmZ": [
+      "brazilian funk"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Forward Jazz Series — Homeland\n------------------------------------------------------------\nRecent track #1            : Forward Jazz Series — Homeland | 2026-08-04 01:50:29 -04\nRecent track #2            : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-04 01:43:54 -04\nRecent track #3            : John Coltrane — Blue World | 2026-08-04 01:42:05 -04\nRecent track #4            : Tomasz Stanko Quartet — Trista | 2026-08-04 01:36:01 -04\nRecent track #5            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-04 01:31:24 -04\nRecent track #6            : Forward Jazz Series — Homeland (Series) | 2026-08-04 01:25:58 -04\nRecent track #7            : Matthew Halsall — Song for Charlie - Special Edition | 2026-08-03 08:12:46 -04\nRecent track #8            : Faith No More — The Gentle Art of Making Enemies | 2026-07-31 03:32:13 -04\nRecent track #9            : Faith No More — Evidence - 2016 Remaster | 2026-07-31 02:29:45 -04\nRecent track #10           : Faith No More — Last Cup of Sorrow - 2016 Remaster | 2026-07-31 02:24:51 -04\nRecent track #11           : Faith No More — Falling to Pieces | 2026-07-31 02:20:33 -04\nRecent track #12           : Faith No More — Midlife Crisis | 2026-07-31 02:15:18 -04\nRecent track #13           : Faith No More — We Care a Lot | 2026-07-31 02:10:58 -04\nRecent track #14           : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-07-31 02:06:55 -04\nRecent track #15           : Candlebox — Miss You | 2026-07-31 01:59:10 -04\nRecent track #16           : Candlebox — Sometimes | 2026-07-31 01:54:02 -04\nRecent track #17           : Candlebox — You | 2026-07-31 01:48:51 -04\nRecent track #18           : Candlebox — Simple Lessons | 2026-07-31 01:43:53 -04\nRecent track #19           : Candlebox — Breathe Me In | 2026-07-31 01:41:00 -04\nRecent track #20           : Candlebox — 10,000 Horses | 2026-07-31 01:35:46 -04\nRecent track #21           : Candlebox — Far Behind | 2026-07-31 01:30:36 -04\nRecent track #22           : Matthew Halsall — Song for Charlie - Special Edition | 2026-07-29 16:35:18 -04\nRecent track #23           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:24:17 -04\nRecent track #24           : Forward Jazz Series — Homeland (Series) | 2026-07-29 16:20:32 -04\nRecent track #25           : Thelonious Monk — Straight, No Chaser | 2026-07-29 12:18:26 -04\n------------------------------------------------------------\nLast known device         : iPhone (Smartphone)\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nLast played (UTC)         : 2026-08-04 05:50:29Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 01:00\nHeatmap (recent)          :  █▄▁    ▁   ▁   ▂       \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-08-05 11:31:52Z\nWeek window (UTC)         : 2026-07-29 11:31:52Z → 2026-08-05 11:31:52Z\nTracks played (last 24h)  : 0\nTotal tracks played (7d)  : 33\nDominant artist (24h)     : N/A\nDominant artist (7d)      : Faith No More\nListening pattern (24h)   : No activity\nActivity status (24h)     : NONE\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 01:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              :  █▄▁    ▂▄  ▁   ▂       \n------------------------------------------------------------\nSessions (24h)            : N/A\nSessions (7d)             : 7\nAvg inter-play gap (7d)   : 04:16:53\nTop genres (24h)          : N/A\nTop genres (7d)           : jazz(17) | grunge(14) | free jazz(11) | ambient jazz(10) | cool jazz(9) | bebop(8)\n------------------------------------------------------------\nPlayback state            : OFFLINE (no active session)\nStatus                    : IDLE\nSITREP                    : AMBER\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nNow playing               : N/A\nLast played               : Forward Jazz Series — Homeland\nLast played (UTC)         : 2026-08-04 05:50:29Z\nLast activity type        : NO_ACTIVE_SESSION\n------------------------------------------------------------\nΔ track (since last)      : NO CHANGE\nΔ last played (since last): NO CHANGE\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 29:41:23\nTelemetry age             : 29:41:23\nΔ time (since last report): 02:22:29\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-29 11:31:52Z → 2026-08-05 11:31:52Z\nTotal tracks played       : 33\nDominant artist           : Faith No More\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 01:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              :  █▄▁    ▂▄  ▁   ▂       \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 7\nAvg inter-play gap (7d)   : 04:16:53\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : jazz(17) | grunge(14) | free jazz(11) | ambient jazz(10) | cool jazz(9) | bebop(8)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-05 11:31:52Z",
-  "last_successful_report_utc": "2026-08-05 11:31:52Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Miles Davis Quintet — Tune Up\n------------------------------------------------------------\nRecent track #1            : Miles Davis Quintet — Tune Up | 2026-08-05 10:36:37 -04\nRecent track #2            : Kamasi Washington — Truth | 2026-08-05 10:30:56 -04\nRecent track #3            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-05 10:17:24 -04\nRecent track #4            : Thelonious Monk — Straight No Chaser | 2026-08-05 10:11:25 -04\nRecent track #5            : Forward Jazz Series — Homeland | 2026-08-05 10:08:27 -04\nRecent track #6            : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-05 10:04:03 -04\nRecent track #7            : John Coltrane — Blue World | 2026-08-05 09:59:02 -04\nRecent track #8            : Tomasz Stanko Quartet — Trista | 2026-08-05 09:52:53 -04\nRecent track #9            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-05 09:48:13 -04\nRecent track #10           : Forward Jazz Series — Homeland (Series) | 2026-08-05 09:42:42 -04\nRecent track #11           : MC MN, DJ Felipe Original, Club Marconex Records, Tropa da W&S — Que Se Foda é Tudo Puta | 2026-08-05 09:04:58 -04\nRecent track #12           : Thelonious Monk — Straight No Chaser | 2026-08-05 08:55:52 -04\nRecent track #13           : Forward Jazz Series — Homeland | 2026-08-04 01:50:29 -04\nRecent track #14           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-04 01:43:54 -04\nRecent track #15           : John Coltrane — Blue World | 2026-08-04 01:42:05 -04\nRecent track #16           : Tomasz Stanko Quartet — Trista | 2026-08-04 01:36:01 -04\nRecent track #17           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-04 01:31:24 -04\nRecent track #18           : Forward Jazz Series — Homeland (Series) | 2026-08-04 01:25:58 -04\nRecent track #19           : Matthew Halsall — Song for Charlie - Special Edition | 2026-08-03 08:12:46 -04\nRecent track #20           : Faith No More — The Gentle Art of Making Enemies | 2026-07-31 03:32:13 -04\nRecent track #21           : Faith No More — Evidence - 2016 Remaster | 2026-07-31 02:29:45 -04\nRecent track #22           : Faith No More — Last Cup of Sorrow - 2016 Remaster | 2026-07-31 02:24:51 -04\nRecent track #23           : Faith No More — Falling to Pieces | 2026-07-31 02:20:33 -04\nRecent track #24           : Faith No More — Midlife Crisis | 2026-07-31 02:15:18 -04\nRecent track #25           : Faith No More — We Care a Lot | 2026-07-31 02:10:58 -04\n------------------------------------------------------------\nLast known device         : GNest-MerkleTree speaker (CastAudio)\nLast known volume         : 31%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃\nLast played (UTC)         : 2026-08-05 14:36:37Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 01:00\nHeatmap (recent)          :  █▇▁    ▃▇█             \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-08-05 14:37:02Z\nWeek window (UTC)         : 2026-07-29 14:37:02Z → 2026-08-05 14:37:02Z\nTracks played (last 24h)  : 12\nTotal tracks played (7d)  : 37\nDominant artist (24h)     : Miles Davis Quintet\nDominant artist (7d)      : Faith No More\nListening pattern (24h)   : Regular cadence\nActivity status (24h)     : MEDIUM\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 10:00\nPeak hour (7d)            : 01:00\nHeatmap (24h)             :         ▁▇█             \nHeatmap (7d)              :  █▄▁    ▁▃▄ ▁   ▂       \n------------------------------------------------------------\nSessions (24h)            : 2\nSessions (7d)             : 8\nAvg inter-play gap (7d)   : 04:37:10\nTop genres (24h)          : jazz(13) | bebop(10) | cool jazz(10) | hard bop(10) | jazz ballads(7) | free jazz(6)\nTop genres (7d)           : jazz(24) | bebop(17) | cool jazz(17) | hard bop(17) | grunge(14) | jazz ballads(12)\n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : CastAudio\nDevice name               : GNest-MerkleTree speaker\nVolume                    : 31%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃\n------------------------------------------------------------\nNow playing               : Forward Jazz Series — Homeland (Incidentals)\nLast played               : Miles Davis Quintet — Tune Up\nLast played (UTC)         : 2026-08-05 14:36:37Z\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nΔ track (since last)      : Forward Jazz Series — Homeland → Miles Davis Quintet — Tune Up\nΔ last played (since last): 2026-08-04 05:50:29Z → 2026-08-05 14:36:37Z\nΔ status (since last)     : IDLE → PLAYING\n------------------------------------------------------------\nTime since last play      : 00:00:25\nTelemetry age             : 00:00:25\nΔ time (since last report): 03:05:10\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 12\nDominant artist           : Miles Davis Quintet\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-29 14:37:02Z → 2026-08-05 14:37:02Z\nTotal tracks played       : 37\nDominant artist           : Faith No More\nCadence classification    : MEDIUM\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 10:00\nPeak hour (7d)            : 01:00\nHeatmap (24h)             :         ▁▇█             \nHeatmap (7d)              :  █▄▁    ▁▃▄ ▁   ▂       \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 2\nSessions (7d)             : 8\nAvg inter-play gap (7d)   : 04:37:10\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(13) | bebop(10) | cool jazz(10) | hard bop(10) | jazz ballads(7) | free jazz(6)\nTop genres (7d)           : jazz(24) | bebop(17) | cool jazz(17) | hard bop(17) | grunge(14) | jazz ballads(12)\nArtist lookups (this run) : 4 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-05 14:37:02Z",
+  "last_successful_report_utc": "2026-08-05 14:37:02Z",
   "recent_playback_history": [
+    {
+      "track": "Miles Davis Quintet — Tune Up",
+      "played_at_utc": "2026-08-05 14:36:37Z",
+      "played_at_local": "2026-08-05 10:36:37 -04",
+      "local_hour": 10
+    },
+    {
+      "track": "Kamasi Washington — Truth",
+      "played_at_utc": "2026-08-05 14:30:56Z",
+      "played_at_local": "2026-08-05 10:30:56 -04",
+      "local_hour": 10
+    },
+    {
+      "track": "Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007",
+      "played_at_utc": "2026-08-05 14:17:24Z",
+      "played_at_local": "2026-08-05 10:17:24 -04",
+      "local_hour": 10
+    },
+    {
+      "track": "Thelonious Monk — Straight No Chaser",
+      "played_at_utc": "2026-08-05 14:11:25Z",
+      "played_at_local": "2026-08-05 10:11:25 -04",
+      "local_hour": 10
+    },
+    {
+      "track": "Forward Jazz Series — Homeland",
+      "played_at_utc": "2026-08-05 14:08:27Z",
+      "played_at_local": "2026-08-05 10:08:27 -04",
+      "local_hour": 10
+    },
+    {
+      "track": "Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008",
+      "played_at_utc": "2026-08-05 14:04:03Z",
+      "played_at_local": "2026-08-05 10:04:03 -04",
+      "local_hour": 10
+    },
+    {
+      "track": "John Coltrane — Blue World",
+      "played_at_utc": "2026-08-05 13:59:02Z",
+      "played_at_local": "2026-08-05 09:59:02 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "played_at_utc": "2026-08-05 13:52:53Z",
+      "played_at_local": "2026-08-05 09:52:53 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "played_at_utc": "2026-08-05 13:48:13Z",
+      "played_at_local": "2026-08-05 09:48:13 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Forward Jazz Series — Homeland (Series)",
+      "played_at_utc": "2026-08-05 13:42:42Z",
+      "played_at_local": "2026-08-05 09:42:42 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "MC MN, DJ Felipe Original, Club Marconex Records, Tropa da W&S — Que Se Foda é Tudo Puta",
+      "played_at_utc": "2026-08-05 13:04:58Z",
+      "played_at_local": "2026-08-05 09:04:58 -04",
+      "local_hour": 9
+    },
+    {
+      "track": "Thelonious Monk — Straight No Chaser",
+      "played_at_utc": "2026-08-05 12:55:52Z",
+      "played_at_local": "2026-08-05 08:55:52 -04",
+      "local_hour": 8
+    },
     {
       "track": "Forward Jazz Series — Homeland",
       "played_at_utc": "2026-08-04 05:50:29Z",
@@ -1680,103 +1767,31 @@
       "played_at_utc": "2026-07-31 06:10:58Z",
       "played_at_local": "2026-07-31 02:10:58 -04",
       "local_hour": 2
-    },
-    {
-      "track": "Faith No More — Ashes to Ashes - 2016 Remaster",
-      "played_at_utc": "2026-07-31 06:06:55Z",
-      "played_at_local": "2026-07-31 02:06:55 -04",
-      "local_hour": 2
-    },
-    {
-      "track": "Candlebox — Miss You",
-      "played_at_utc": "2026-07-31 05:59:10Z",
-      "played_at_local": "2026-07-31 01:59:10 -04",
-      "local_hour": 1
-    },
-    {
-      "track": "Candlebox — Sometimes",
-      "played_at_utc": "2026-07-31 05:54:02Z",
-      "played_at_local": "2026-07-31 01:54:02 -04",
-      "local_hour": 1
-    },
-    {
-      "track": "Candlebox — You",
-      "played_at_utc": "2026-07-31 05:48:51Z",
-      "played_at_local": "2026-07-31 01:48:51 -04",
-      "local_hour": 1
-    },
-    {
-      "track": "Candlebox — Simple Lessons",
-      "played_at_utc": "2026-07-31 05:43:53Z",
-      "played_at_local": "2026-07-31 01:43:53 -04",
-      "local_hour": 1
-    },
-    {
-      "track": "Candlebox — Breathe Me In",
-      "played_at_utc": "2026-07-31 05:41:00Z",
-      "played_at_local": "2026-07-31 01:41:00 -04",
-      "local_hour": 1
-    },
-    {
-      "track": "Candlebox — 10,000 Horses",
-      "played_at_utc": "2026-07-31 05:35:46Z",
-      "played_at_local": "2026-07-31 01:35:46 -04",
-      "local_hour": 1
-    },
-    {
-      "track": "Candlebox — Far Behind",
-      "played_at_utc": "2026-07-31 05:30:36Z",
-      "played_at_local": "2026-07-31 01:30:36 -04",
-      "local_hour": 1
-    },
-    {
-      "track": "Matthew Halsall — Song for Charlie - Special Edition",
-      "played_at_utc": "2026-07-29 20:35:18Z",
-      "played_at_local": "2026-07-29 16:35:18 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Forward Jazz Series — Homeland (Series)",
-      "played_at_utc": "2026-07-29 20:24:17Z",
-      "played_at_local": "2026-07-29 16:24:17 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Forward Jazz Series — Homeland (Series)",
-      "played_at_utc": "2026-07-29 20:20:32Z",
-      "played_at_local": "2026-07-29 16:20:32 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Thelonious Monk — Straight, No Chaser",
-      "played_at_utc": "2026-07-29 16:18:26Z",
-      "played_at_local": "2026-07-29 12:18:26 -04",
-      "local_hour": 12
     }
   ],
-  "last_known_device_type": "Smartphone",
-  "last_known_device_name": "iPhone",
-  "last_known_volume_percent": 100,
+  "last_known_device_type": "CastAudio",
+  "last_known_device_name": "GNest-MerkleTree speaker",
+  "last_known_volume_percent": 31,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-08-05 11:31:52Z",
-    "week_window_utc": "2026-07-29 11:31:52Z → 2026-08-05 11:31:52Z",
-    "tracks_24h": 0,
-    "tracks_7d": 33,
-    "dominant_artist_24h": "N/A",
+    "captured_utc": "2026-08-05 14:37:02Z",
+    "week_window_utc": "2026-07-29 14:37:02Z → 2026-08-05 14:37:02Z",
+    "tracks_24h": 12,
+    "tracks_7d": 37,
+    "dominant_artist_24h": "Miles Davis Quintet",
     "dominant_artist_7d": "Faith No More",
-    "listening_pattern_24h": "No activity",
-    "activity_status_24h": "NONE",
+    "listening_pattern_24h": "Regular cadence",
+    "activity_status_24h": "MEDIUM",
     "cadence_7d": "MEDIUM",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "N/A",
+    "peak_hour_24h": "10:00",
     "peak_hour_7d": "01:00",
-    "heatmap_24h": "N/A",
-    "heatmap_7d": " █▄▁    ▂▄  ▁   ▂       ",
-    "sessions_24h": "N/A",
-    "sessions_7d": 7,
-    "avg_inter_play_gap_7d": "04:16:53",
-    "top_genres_24h": "N/A",
-    "top_genres_7d": "jazz(17) | grunge(14) | free jazz(11) | ambient jazz(10) | cool jazz(9) | bebop(8)"
+    "heatmap_24h": "        ▁▇█             ",
+    "heatmap_7d": " █▄▁    ▁▃▄ ▁   ▂       ",
+    "sessions_24h": 2,
+    "sessions_7d": 8,
+    "avg_inter_play_gap_7d": "04:37:10",
+    "top_genres_24h": "jazz(13) | bebop(10) | cool jazz(10) | hard bop(10) | jazz ballads(7) | free jazz(6)",
+    "top_genres_7d": "jazz(24) | bebop(17) | cool jazz(17) | hard bop(17) | grunge(14) | jazz ballads(12)"
   }
 }
