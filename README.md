@@ -1527,8 +1527,8 @@ Heatmap (recent)          :  ▆▃▁    ▂▅█
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-05 16:54:36Z
-Week window (UTC)         : 2026-07-29 16:54:36Z → 2026-08-05 16:54:36Z
+Snapshot captured (UTC)   : 2026-08-05 19:57:40Z
+Week window (UTC)         : 2026-07-29 19:57:40Z → 2026-08-05 19:57:40Z
 Tracks played (last 24h)  : 14
 Total tracks played (7d)  : 38
 Dominant artist (24h)     : Forward Jazz Series
@@ -1566,13 +1566,13 @@ Last played               : Duke Ellington, John Coltrane — My Little Brown Bo
 Last played (UTC)         : 2026-08-05 14:53:23Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Miles Davis Quintet — Tune Up → Duke Ellington, John Coltrane — My Little Brown Book
-Δ last played (since last): 2026-08-05 14:36:37Z → 2026-08-05 14:53:23Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:01:14
-Telemetry age             : 02:01:14
-Δ time (since last report): 02:17:35
+Time since last play      : 05:04:17
+Telemetry age             : 05:04:17
+Δ time (since last report): 03:03:04
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-29 16:54:36Z → 2026-08-05 16:54:36Z
+Week window (UTC)         : 2026-07-29 19:57:40Z → 2026-08-05 19:57:40Z
 Total tracks played       : 38
 Dominant artist           : Forward Jazz Series
 Cadence classification    : MEDIUM
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-05 16:54:36Z
+Report generated (UTC)    : 2026-08-05 19:57:40Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
