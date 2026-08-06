@@ -1527,8 +1527,8 @@ Heatmap (recent)          :  ▆▃▁    ▂▅█
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-06 09:09:20Z
-Week window (UTC)         : 2026-07-30 09:09:20Z → 2026-08-06 09:09:20Z
+Snapshot captured (UTC)   : 2026-08-06 11:34:50Z
+Week window (UTC)         : 2026-07-30 11:34:50Z → 2026-08-06 11:34:50Z
 Tracks played (last 24h)  : 14
 Total tracks played (7d)  : 35
 Dominant artist (24h)     : Forward Jazz Series
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 18:15:58
-Telemetry age             : 18:15:58
-Δ time (since last report): 05:26:23
+Time since last play      : 20:41:27
+Telemetry age             : 20:41:27
+Δ time (since last report): 02:25:30
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-30 09:09:20Z → 2026-08-06 09:09:20Z
+Week window (UTC)         : 2026-07-30 11:34:50Z → 2026-08-06 11:34:50Z
 Total tracks played       : 35
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-06 09:09:20Z
+Report generated (UTC)    : 2026-08-06 11:34:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
