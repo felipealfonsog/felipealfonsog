@@ -1527,26 +1527,26 @@ Heatmap (recent)          :  ▆▃▁    ▂▅█
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-06 11:34:50Z
-Week window (UTC)         : 2026-07-30 11:34:50Z → 2026-08-06 11:34:50Z
-Tracks played (last 24h)  : 14
+Snapshot captured (UTC)   : 2026-08-06 14:37:56Z
+Week window (UTC)         : 2026-07-30 14:37:56Z → 2026-08-06 14:37:56Z
+Tracks played (last 24h)  : 2
 Total tracks played (7d)  : 35
-Dominant artist (24h)     : Forward Jazz Series
+Dominant artist (24h)     : Duke Ellington
 Dominant artist (7d)      : Faith No More
-Listening pattern (24h)   : Regular cadence
-Activity status (24h)     : MEDIUM
+Listening pattern (24h)   : Light activity
+Activity status (24h)     : LOW
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :         ▁▅█             
+Heatmap (24h)             :           █             
 Heatmap (7d)              :  █▄▁    ▁▃▅             
 ------------------------------------------------------------
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 6
 Avg inter-play gap (7d)   : 03:48:19
-Top genres (24h)          : jazz(15) | cool jazz(12) | bebop(11) | hard bop(11) | jazz ballads(9) | free jazz(7)
+Top genres (24h)          : cool jazz(2) | jazz(2) | jazz ballads(2) | bebop(1) | big band(1) | free jazz(1)
 Top genres (7d)           : jazz(24) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:41:27
-Telemetry age             : 20:41:27
-Δ time (since last report): 02:25:30
+Time since last play      : 23:44:33
+Telemetry age             : 23:44:33
+Δ time (since last report): 03:03:06
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,14 +1584,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
-Dominant artist           : Forward Jazz Series
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 2
+Dominant artist           : Duke Ellington
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-30 11:34:50Z → 2026-08-06 11:34:50Z
+Week window (UTC)         : 2026-07-30 14:37:56Z → 2026-08-06 14:37:56Z
 Total tracks played       : 35
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
@@ -1601,19 +1601,19 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :         ▁▅█             
+Heatmap (24h)             :           █             
 Heatmap (7d)              :  █▄▁    ▁▃▅             
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 6
 Avg inter-play gap (7d)   : 03:48:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(15) | cool jazz(12) | bebop(11) | hard bop(11) | jazz ballads(9) | free jazz(7)
+Top genres (24h)          : cool jazz(2) | jazz(2) | jazz ballads(2) | bebop(1) | big band(1) | free jazz(1)
 Top genres (7d)           : jazz(24) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-06 11:34:50Z
+Report generated (UTC)    : 2026-08-06 14:37:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
