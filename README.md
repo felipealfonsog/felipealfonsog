@@ -1527,25 +1527,25 @@ Heatmap (recent)          :           ▄      ▃█
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-07 05:05:56Z
-Week window (UTC)         : 2026-07-31 05:05:56Z → 2026-08-07 05:05:56Z
+Snapshot captured (UTC)   : 2026-08-07 07:45:16Z
+Week window (UTC)         : 2026-07-31 07:45:16Z → 2026-08-07 07:45:16Z
 Tracks played (last 24h)  : 18
-Total tracks played (7d)  : 50
+Total tracks played (7d)  : 39
 Dominant artist (24h)     : cloudyfield
 Dominant artist (7d)      : cloudyfield
 Listening pattern (24h)   : Regular cadence
 Activity status (24h)     : MEDIUM
-Cadence classification    : HIGH
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
 Heatmap (24h)             :                  ▃█     
-Heatmap (7d)              :  ▆▄▁    ▁▃▅      ▃█     
+Heatmap (7d)              :  ▄      ▁▃▅      ▃█     
 ------------------------------------------------------------
 Sessions (24h)            : 2
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:17:19
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 02:10:32
 Top genres (24h)          : jazz(9) | shoegaze(9) | bebop(6) | cool jazz(6) | hard bop(6) | free jazz(5)
 Top genres (7d)           : jazz(33) | cool jazz(24) | bebop(23) | hard bop(23) | jazz ballads(19) | free jazz(16)
 ------------------------------------------------------------
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 06:13:09
-Telemetry age             : 06:13:09
-Δ time (since last report): 01:47:01
+Time since last play      : 08:52:29
+Telemetry age             : 08:52:29
+Δ time (since last report): 02:39:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,10 +1591,10 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-31 05:05:56Z → 2026-08-07 05:05:56Z
-Total tracks played       : 50
+Week window (UTC)         : 2026-07-31 07:45:16Z → 2026-08-07 07:45:16Z
+Total tracks played       : 39
 Dominant artist           : cloudyfield
-Cadence classification    : HIGH
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1602,14 +1602,14 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
 Heatmap (24h)             :                  ▃█     
-Heatmap (7d)              :  ▆▄▁    ▁▃▅      ▃█     
+Heatmap (7d)              :  ▄      ▁▃▅      ▃█     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 03:17:19
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 02:10:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-07 05:05:56Z
+Report generated (UTC)    : 2026-08-07 07:45:16Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
