@@ -1485,69 +1485,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Duke Ellington, John Coltrane — My Little Brown Book
+Last track played         : Kansas Smitty's — Dreamlane
 ------------------------------------------------------------
-Recent track #1            : Duke Ellington, John Coltrane — My Little Brown Book | 2026-08-05 10:53:23 -04
-Recent track #2            : Forward Jazz Series — Homeland (Incidentals) | 2026-08-05 10:40:58 -04
-Recent track #3            : Miles Davis Quintet — Tune Up | 2026-08-05 10:36:37 -04
-Recent track #4            : Kamasi Washington — Truth | 2026-08-05 10:30:56 -04
-Recent track #5            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-05 10:17:24 -04
-Recent track #6            : Thelonious Monk — Straight No Chaser | 2026-08-05 10:11:25 -04
-Recent track #7            : Forward Jazz Series — Homeland | 2026-08-05 10:08:27 -04
-Recent track #8            : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-05 10:04:03 -04
-Recent track #9            : John Coltrane — Blue World | 2026-08-05 09:59:02 -04
-Recent track #10           : Tomasz Stanko Quartet — Trista | 2026-08-05 09:52:53 -04
-Recent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-05 09:48:13 -04
-Recent track #12           : Forward Jazz Series — Homeland (Series) | 2026-08-05 09:42:42 -04
-Recent track #13           : MC MN, DJ Felipe Original, Club Marconex Records, Tropa da W&S — Que Se Foda é Tudo Puta | 2026-08-05 09:04:58 -04
-Recent track #14           : Thelonious Monk — Straight No Chaser | 2026-08-05 08:55:52 -04
-Recent track #15           : Forward Jazz Series — Homeland | 2026-08-04 01:50:29 -04
-Recent track #16           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-04 01:43:54 -04
-Recent track #17           : John Coltrane — Blue World | 2026-08-04 01:42:05 -04
-Recent track #18           : Tomasz Stanko Quartet — Trista | 2026-08-04 01:36:01 -04
-Recent track #19           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-04 01:31:24 -04
-Recent track #20           : Forward Jazz Series — Homeland (Series) | 2026-08-04 01:25:58 -04
-Recent track #21           : Matthew Halsall — Song for Charlie - Special Edition | 2026-08-03 08:12:46 -04
-Recent track #22           : Faith No More — The Gentle Art of Making Enemies | 2026-07-31 03:32:13 -04
-Recent track #23           : Faith No More — Evidence - 2016 Remaster | 2026-07-31 02:29:45 -04
-Recent track #24           : Faith No More — Last Cup of Sorrow - 2016 Remaster | 2026-07-31 02:24:51 -04
-Recent track #25           : Faith No More — Falling to Pieces | 2026-07-31 02:20:33 -04
+Recent track #1            : Kansas Smitty's — Dreamlane | 2026-08-06 18:52:47 -04
+Recent track #2            : cloudyfield — in your head | 2026-08-06 18:21:58 -04
+Recent track #3            : cloudyfield — in your head | 2026-08-06 18:21:40 -04
+Recent track #4            : cloudyfield — in your head | 2026-08-06 18:21:38 -04
+Recent track #5            : cloudyfield — in your head | 2026-08-06 18:21:32 -04
+Recent track #6            : cloudyfield — in your head | 2026-08-06 18:21:27 -04
+Recent track #7            : cloudyfield — in your head | 2026-08-06 18:21:24 -04
+Recent track #8            : cloudyfield — in your head | 2026-08-06 18:21:20 -04
+Recent track #9            : cloudyfield — in your head | 2026-08-06 18:21:16 -04
+Recent track #10           : cloudyfield — in your head | 2026-08-06 18:21:11 -04
+Recent track #11           : The Doors — Break on Through (To the Other Side) | 2026-08-06 18:17:02 -04
+Recent track #12           : The Doors — People Are Strange | 2026-08-06 18:14:43 -04
+Recent track #13           : Forward Jazz Series — Homeland | 2026-08-06 18:02:34 -04
+Recent track #14           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-06 17:58:16 -04
+Recent track #15           : John Coltrane — Blue World | 2026-08-06 17:53:21 -04
+Recent track #16           : Tomasz Stanko Quartet — Trista | 2026-08-06 17:47:18 -04
+Recent track #17           : Tomasz Stanko Quartet — Trista | 2026-08-06 17:33:47 -04
+Recent track #18           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-06 17:32:08 -04
+Recent track #19           : Duke Ellington, John Coltrane — My Little Brown Book | 2026-08-05 10:53:23 -04
+Recent track #20           : Forward Jazz Series — Homeland (Incidentals) | 2026-08-05 10:40:58 -04
+Recent track #21           : Miles Davis Quintet — Tune Up | 2026-08-05 10:36:37 -04
+Recent track #22           : Kamasi Washington — Truth | 2026-08-05 10:30:56 -04
+Recent track #23           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-05 10:17:24 -04
+Recent track #24           : Thelonious Monk — Straight No Chaser | 2026-08-05 10:11:25 -04
+Recent track #25           : Forward Jazz Series — Homeland | 2026-08-05 10:08:27 -04
 ------------------------------------------------------------
 Last known device         : GNest-MerkleTree speaker (CastAudio)
 Last known volume         : 31%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃
-Last played (UTC)         : 2026-08-05 14:53:23Z
+Last played (UTC)         : 2026-08-06 22:52:47Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 10:00
-Heatmap (recent)          :  ▆▃▁    ▂▅█             
+Peak hour (recent)        : 18:00
+Heatmap (recent)          :           ▄      ▃█     
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-06 14:37:56Z
-Week window (UTC)         : 2026-07-30 14:37:56Z → 2026-08-06 14:37:56Z
-Tracks played (last 24h)  : 2
-Total tracks played (7d)  : 35
-Dominant artist (24h)     : Duke Ellington
-Dominant artist (7d)      : Faith No More
-Listening pattern (24h)   : Light activity
-Activity status (24h)     : LOW
-Cadence classification    : MEDIUM
+Snapshot captured (UTC)   : 2026-08-07 00:17:49Z
+Week window (UTC)         : 2026-07-31 00:17:49Z → 2026-08-07 00:17:49Z
+Tracks played (last 24h)  : 18
+Total tracks played (7d)  : 50
+Dominant artist (24h)     : cloudyfield
+Dominant artist (7d)      : cloudyfield
+Listening pattern (24h)   : Regular cadence
+Activity status (24h)     : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
-Peak hour (7d)            : 01:00
-Heatmap (24h)             :           █             
-Heatmap (7d)              :  █▄▁    ▁▃▅             
+Peak hour (24h)           : 18:00
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :                  ▃█     
+Heatmap (7d)              :  ▆▄▁    ▁▃▅      ▃█     
 ------------------------------------------------------------
-Sessions (24h)            : 1
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 03:48:19
-Top genres (24h)          : cool jazz(2) | jazz(2) | jazz ballads(2) | bebop(1) | big band(1) | free jazz(1)
-Top genres (7d)           : jazz(24) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
+Sessions (24h)            : 2
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:17:19
+Top genres (24h)          : jazz(9) | shoegaze(9) | bebop(6) | cool jazz(6) | hard bop(6) | free jazz(5)
+Top genres (7d)           : jazz(33) | cool jazz(24) | bebop(23) | hard bop(23) | jazz ballads(19) | free jazz(16)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Duke Ellington, John Coltrane — My Little Brown Book
-Last played (UTC)         : 2026-08-05 14:53:23Z
+Last played               : Kansas Smitty's — Dreamlane
+Last played (UTC)         : 2026-08-06 22:52:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Duke Ellington, John Coltrane — My Little Brown Book → Kansas Smitty's — Dreamlane
+Δ last played (since last): 2026-08-05 14:53:23Z → 2026-08-06 22:52:47Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 23:44:33
-Telemetry age             : 23:44:33
-Δ time (since last report): 03:03:06
+Time since last play      : 01:25:02
+Telemetry age             : 01:25:02
+Δ time (since last report): 09:39:53
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,38 +1584,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : Duke Ellington
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 18
+Dominant artist           : cloudyfield
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-30 14:37:56Z → 2026-08-06 14:37:56Z
-Total tracks played       : 35
-Dominant artist           : Faith No More
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-07-31 00:17:49Z → 2026-08-07 00:17:49Z
+Total tracks played       : 50
+Dominant artist           : cloudyfield
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
-Peak hour (7d)            : 01:00
-Heatmap (24h)             :           █             
-Heatmap (7d)              :  █▄▁    ▁▃▅             
+Peak hour (24h)           : 18:00
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :                  ▃█     
+Heatmap (7d)              :  ▆▄▁    ▁▃▅      ▃█     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 03:48:19
+Sessions (24h)            : 2
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:17:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : cool jazz(2) | jazz(2) | jazz ballads(2) | bebop(1) | big band(1) | free jazz(1)
-Top genres (7d)           : jazz(24) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(9) | shoegaze(9) | bebop(6) | cool jazz(6) | hard bop(6) | free jazz(5)
+Top genres (7d)           : jazz(33) | cool jazz(24) | bebop(23) | hard bop(23) | jazz ballads(19) | free jazz(16)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-06 14:37:56Z
+Report generated (UTC)    : 2026-08-07 00:17:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
