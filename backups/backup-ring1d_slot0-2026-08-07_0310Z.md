@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-08-06_0323Z
+ snapshot_utc : 2026-08-07_0310Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -530,7 +530,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-08-05T19:48:43+00:00 | last_update=2026-08-05T19:48:43+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-08-07T00:10:55+00:00 | last_update=2026-08-07T00:10:55+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -700,13 +700,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 203 ms
-TTFB................ 202 ms
+LATENCY............. 185 ms
+TTFB................ 184 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 88d
+TLS_EXPIRY.......... 87d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -719,9 +719,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PASS
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -735,7 +735,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 47 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-08-05T05:52:06Z
+LAST_PROBE_UTC...... 2026-08-06T05:55:33Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -776,18 +776,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : pedestrian_axis
-latitude       : -33.438190
-longitude      : -70.646726
-altitude       : 10 m
-gps_accuracy   : ±4.1 m
+latitude       : -33.437826
+longitude      : -70.646520
+altitude       : 72 m
+gps_accuracy   : ±7.3 m
 heading        : 0°
 speed          : 0.1 km/h
-status         : stationary
-phase          : evening
-local_time     : 21:41
+status         : low_movement
+phase          : overnight
+local_time     : 22:07
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-08-06 01:41:10 UTC
+updated_utc    : 2026-08-07 02:07:30 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -906,7 +906,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-08-05 19:58:03Z
+DSN snapshot (UTC)       : 2026-08-07 00:18:01Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -917,15 +917,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.57e9 km | 170.912 AU
-Heliocentric distance    : 171.369 AU
-Relative speed           : 42.270 km/s
+Earth distance           : 25.57e9 km | 170.937 AU
+Heliocentric distance    : 171.381 AU
+Relative speed           : 42.393 km/s
 ------------------------------------------------------------
-One-way light time       : 23:41:26
-Round-trip latency       : 47:22:51
+One-way light time       : 23:41:38
+Round-trip latency       : 47:23:17
 ------------------------------------------------------------
-Δ distance (since last)  : +1.439e6 km
-Mission age              : 48 years, 346 days
+Δ distance (since last)  : +1.295e6 km
+Mission age              : 48 years, 348 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -936,19 +936,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.37e9 km | 142.865 AU
-Heliocentric distance    : 143.597 AU
-Relative speed           : 35.966 km/s
+Earth distance           : 21.37e9 km | 142.881 AU
+Heliocentric distance    : 143.608 AU
+Relative speed           : 36.131 km/s
 ------------------------------------------------------------
-One-way light time       : 19:48:10
-Round-trip latency       : 39:36:20
+One-way light time       : 19:48:18
+Round-trip latency       : 39:36:37
 ------------------------------------------------------------
-Δ distance (since last)  : +931,499 km
-Mission age              : 48 years, 362 days
+Δ distance (since last)  : +847,639 km
+Mission age              : 48 years, 364 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-08-05 19:58:07Z
+Report generated (UTC)   : 2026-08-07 00:18:03Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1492,69 +1492,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Duke Ellington, John Coltrane — My Little Brown Book
+Last track played         : Kansas Smitty's — Dreamlane
 ------------------------------------------------------------
-Recent track #1            : Duke Ellington, John Coltrane — My Little Brown Book | 2026-08-05 10:53:23 -04
-Recent track #2            : Forward Jazz Series — Homeland (Incidentals) | 2026-08-05 10:40:58 -04
-Recent track #3            : Miles Davis Quintet — Tune Up | 2026-08-05 10:36:37 -04
-Recent track #4            : Kamasi Washington — Truth | 2026-08-05 10:30:56 -04
-Recent track #5            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-05 10:17:24 -04
-Recent track #6            : Thelonious Monk — Straight No Chaser | 2026-08-05 10:11:25 -04
-Recent track #7            : Forward Jazz Series — Homeland | 2026-08-05 10:08:27 -04
-Recent track #8            : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-05 10:04:03 -04
-Recent track #9            : John Coltrane — Blue World | 2026-08-05 09:59:02 -04
-Recent track #10           : Tomasz Stanko Quartet — Trista | 2026-08-05 09:52:53 -04
-Recent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-05 09:48:13 -04
-Recent track #12           : Forward Jazz Series — Homeland (Series) | 2026-08-05 09:42:42 -04
-Recent track #13           : MC MN, DJ Felipe Original, Club Marconex Records, Tropa da W&S — Que Se Foda é Tudo Puta | 2026-08-05 09:04:58 -04
-Recent track #14           : Thelonious Monk — Straight No Chaser | 2026-08-05 08:55:52 -04
-Recent track #15           : Forward Jazz Series — Homeland | 2026-08-04 01:50:29 -04
-Recent track #16           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-04 01:43:54 -04
-Recent track #17           : John Coltrane — Blue World | 2026-08-04 01:42:05 -04
-Recent track #18           : Tomasz Stanko Quartet — Trista | 2026-08-04 01:36:01 -04
-Recent track #19           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-04 01:31:24 -04
-Recent track #20           : Forward Jazz Series — Homeland (Series) | 2026-08-04 01:25:58 -04
-Recent track #21           : Matthew Halsall — Song for Charlie - Special Edition | 2026-08-03 08:12:46 -04
-Recent track #22           : Faith No More — The Gentle Art of Making Enemies | 2026-07-31 03:32:13 -04
-Recent track #23           : Faith No More — Evidence - 2016 Remaster | 2026-07-31 02:29:45 -04
-Recent track #24           : Faith No More — Last Cup of Sorrow - 2016 Remaster | 2026-07-31 02:24:51 -04
-Recent track #25           : Faith No More — Falling to Pieces | 2026-07-31 02:20:33 -04
+Recent track #1            : Kansas Smitty's — Dreamlane | 2026-08-06 18:52:47 -04
+Recent track #2            : cloudyfield — in your head | 2026-08-06 18:21:58 -04
+Recent track #3            : cloudyfield — in your head | 2026-08-06 18:21:40 -04
+Recent track #4            : cloudyfield — in your head | 2026-08-06 18:21:38 -04
+Recent track #5            : cloudyfield — in your head | 2026-08-06 18:21:32 -04
+Recent track #6            : cloudyfield — in your head | 2026-08-06 18:21:27 -04
+Recent track #7            : cloudyfield — in your head | 2026-08-06 18:21:24 -04
+Recent track #8            : cloudyfield — in your head | 2026-08-06 18:21:20 -04
+Recent track #9            : cloudyfield — in your head | 2026-08-06 18:21:16 -04
+Recent track #10           : cloudyfield — in your head | 2026-08-06 18:21:11 -04
+Recent track #11           : The Doors — Break on Through (To the Other Side) | 2026-08-06 18:17:02 -04
+Recent track #12           : The Doors — People Are Strange | 2026-08-06 18:14:43 -04
+Recent track #13           : Forward Jazz Series — Homeland | 2026-08-06 18:02:34 -04
+Recent track #14           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-06 17:58:16 -04
+Recent track #15           : John Coltrane — Blue World | 2026-08-06 17:53:21 -04
+Recent track #16           : Tomasz Stanko Quartet — Trista | 2026-08-06 17:47:18 -04
+Recent track #17           : Tomasz Stanko Quartet — Trista | 2026-08-06 17:33:47 -04
+Recent track #18           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-06 17:32:08 -04
+Recent track #19           : Duke Ellington, John Coltrane — My Little Brown Book | 2026-08-05 10:53:23 -04
+Recent track #20           : Forward Jazz Series — Homeland (Incidentals) | 2026-08-05 10:40:58 -04
+Recent track #21           : Miles Davis Quintet — Tune Up | 2026-08-05 10:36:37 -04
+Recent track #22           : Kamasi Washington — Truth | 2026-08-05 10:30:56 -04
+Recent track #23           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-05 10:17:24 -04
+Recent track #24           : Thelonious Monk — Straight No Chaser | 2026-08-05 10:11:25 -04
+Recent track #25           : Forward Jazz Series — Homeland | 2026-08-05 10:08:27 -04
 ------------------------------------------------------------
 Last known device         : GNest-MerkleTree speaker (CastAudio)
 Last known volume         : 31%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃
-Last played (UTC)         : 2026-08-05 14:53:23Z
+Last played (UTC)         : 2026-08-06 22:52:47Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 10:00
-Heatmap (recent)          :  ▆▃▁    ▂▅█             
+Peak hour (recent)        : 18:00
+Heatmap (recent)          :           ▄      ▃█     
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-05 22:29:13Z
-Week window (UTC)         : 2026-07-29 22:29:13Z → 2026-08-05 22:29:13Z
-Tracks played (last 24h)  : 14
-Total tracks played (7d)  : 35
-Dominant artist (24h)     : Forward Jazz Series
-Dominant artist (7d)      : Faith No More
+Snapshot captured (UTC)   : 2026-08-07 00:17:49Z
+Week window (UTC)         : 2026-07-31 00:17:49Z → 2026-08-07 00:17:49Z
+Tracks played (last 24h)  : 18
+Total tracks played (7d)  : 50
+Dominant artist (24h)     : cloudyfield
+Dominant artist (7d)      : cloudyfield
 Listening pattern (24h)   : Regular cadence
 Activity status (24h)     : MEDIUM
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
-Peak hour (7d)            : 01:00
-Heatmap (24h)             :         ▁▅█             
-Heatmap (7d)              :  █▄▁    ▁▃▅             
+Peak hour (24h)           : 18:00
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :                  ▃█     
+Heatmap (7d)              :  ▆▄▁    ▁▃▅      ▃█     
 ------------------------------------------------------------
 Sessions (24h)            : 2
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 03:48:19
-Top genres (24h)          : jazz(15) | cool jazz(12) | bebop(11) | hard bop(11) | jazz ballads(9) | free jazz(7)
-Top genres (7d)           : jazz(24) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:17:19
+Top genres (24h)          : jazz(9) | shoegaze(9) | bebop(6) | cool jazz(6) | hard bop(6) | free jazz(5)
+Top genres (7d)           : jazz(33) | cool jazz(24) | bebop(23) | hard bop(23) | jazz ballads(19) | free jazz(16)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1569,17 +1569,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Duke Ellington, John Coltrane — My Little Brown Book
-Last played (UTC)         : 2026-08-05 14:53:23Z
+Last played               : Kansas Smitty's — Dreamlane
+Last played (UTC)         : 2026-08-06 22:52:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Duke Ellington, John Coltrane — My Little Brown Book → Kansas Smitty's — Dreamlane
+Δ last played (since last): 2026-08-05 14:53:23Z → 2026-08-06 22:52:47Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 07:35:50
-Telemetry age             : 07:35:50
-Δ time (since last report): 02:31:33
+Time since last play      : 01:25:02
+Telemetry age             : 01:25:02
+Δ time (since last report): 09:39:53
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,38 +1591,38 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
-Dominant artist           : Forward Jazz Series
+Tracks played (last 24h)  : 18
+Dominant artist           : cloudyfield
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-29 22:29:13Z → 2026-08-05 22:29:13Z
-Total tracks played       : 35
-Dominant artist           : Faith No More
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-07-31 00:17:49Z → 2026-08-07 00:17:49Z
+Total tracks played       : 50
+Dominant artist           : cloudyfield
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 10:00
-Peak hour (7d)            : 01:00
-Heatmap (24h)             :         ▁▅█             
-Heatmap (7d)              :  █▄▁    ▁▃▅             
+Peak hour (24h)           : 18:00
+Peak hour (7d)            : 18:00
+Heatmap (24h)             :                  ▃█     
+Heatmap (7d)              :  ▆▄▁    ▁▃▅      ▃█     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 03:48:19
+Sessions (7d)             : 8
+Avg inter-play gap (7d)   : 03:17:19
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(15) | cool jazz(12) | bebop(11) | hard bop(11) | jazz ballads(9) | free jazz(7)
-Top genres (7d)           : jazz(24) | cool jazz(18) | bebop(17) | hard bop(17) | grunge(14) | jazz ballads(14)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : jazz(9) | shoegaze(9) | bebop(6) | cool jazz(6) | hard bop(6) | free jazz(5)
+Top genres (7d)           : jazz(33) | cool jazz(24) | bebop(23) | hard bop(23) | jazz ballads(19) | free jazz(16)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1636,7 +1636,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-05 22:29:13Z
+Report generated (UTC)    : 2026-08-07 00:17:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1994,9 +1994,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 05 August 2026
+From: 04 December 2023 - To: 06 August 2026
 
-Total Time       : 1,046 hrs
+Total Time       : 1,049 hrs 15 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 4 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -2005,49 +2005,49 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          711 hrs 14 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.00 %
-Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.89 %
-Python         141 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.56 %
-HTML           138 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
-PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.43 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.73 %
-C              76 hrs 25 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.31 %
-C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
-Text           39 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
-YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.65 %
+Other          720 hrs 29 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.67 %
+Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.84 %
+Python         141 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.51 %
+HTML           138 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
+PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.40 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.70 %
+C              76 hrs 25 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.28 %
+C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
+Text           39 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.78 %
+YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.63 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,038 hrs 46 mins ●●●●●●●●●●●●●●●●●●●●●●●●●◔  99.31 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.36 %
+Mac            1,051 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.15 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 35 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.06 %
-Firefox        549 hrs 33 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  52.54 %
-Vim            337 hrs 54 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.30 %
-Terminal       38 hrs 58 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
-Spotify        26 hrs 26 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.53 %
-Termius        24 hrs 2 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.30 %
-Dia            20 hrs 5 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.92 %
-‎WhatsApp      17 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.63 %
-Acrobat        14 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.38 %
-TeXstudio      13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.29 %
+VS Code        659 hrs 35 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.86 %
+Firefox        551 hrs 20 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  52.55 %
+Vim            337 hrs 54 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.20 %
+Terminal       39 hrs 1 min   ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.72 %
+Spotify        26 hrs 29 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.52 %
+Termius        24 hrs 2 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.29 %
+Dia            20 hrs 5 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.91 %
+‎WhatsApp      17 hrs 45 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.69 %
+Pages          15 hrs 56 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.52 %
+Acrobat        14 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.38 %
+TeXstudio      13 hrs 42 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
 FileZilla      8 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
-Pages          8 hrs 20 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.80 %
 
 CATEGORIES
 ----------
-Coding         1,170 hrs 44 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       546 hrs 30 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  52.25 %
-Meeting        25 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
-Writing Docs   11 hrs 12 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.07 %
+Coding         1,178 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       548 hrs 17 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  52.25 %
+Meeting        26 hrs 29 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.52 %
+Writing Docs   13 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.25 %
 AI Coding      2 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 06/08/2026 02:06:10 UTC
+Last updated     : 07/08/2026 02:25:20 UTC
 
 ```
 <!--END_SECTION:wakastats-->
