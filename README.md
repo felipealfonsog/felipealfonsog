@@ -1527,8 +1527,8 @@ Heatmap (recent)          :           ▄      ▃█
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-07 00:17:49Z
-Week window (UTC)         : 2026-07-31 00:17:49Z → 2026-08-07 00:17:49Z
+Snapshot captured (UTC)   : 2026-08-07 03:18:55Z
+Week window (UTC)         : 2026-07-31 03:18:55Z → 2026-08-07 03:18:55Z
 Tracks played (last 24h)  : 18
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : cloudyfield
@@ -1566,13 +1566,13 @@ Last played               : Kansas Smitty's — Dreamlane
 Last played (UTC)         : 2026-08-06 22:52:47Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Duke Ellington, John Coltrane — My Little Brown Book → Kansas Smitty's — Dreamlane
-Δ last played (since last): 2026-08-05 14:53:23Z → 2026-08-06 22:52:47Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:25:02
-Telemetry age             : 01:25:02
-Δ time (since last report): 09:39:53
+Time since last play      : 04:26:08
+Telemetry age             : 04:26:08
+Δ time (since last report): 03:01:06
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-31 00:17:49Z → 2026-08-07 00:17:49Z
+Week window (UTC)         : 2026-07-31 03:18:55Z → 2026-08-07 03:18:55Z
 Total tracks played       : 50
 Dominant artist           : cloudyfield
 Cadence classification    : HIGH
@@ -1615,7 +1615,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(9) | shoegaze(9) | bebop(6) | cool jazz(6) | hard bop(6) | free jazz(5)
 Top genres (7d)           : jazz(33) | cool jazz(24) | bebop(23) | hard bop(23) | jazz ballads(19) | free jazz(16)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-07 00:17:49Z
+Report generated (UTC)    : 2026-08-07 03:18:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
