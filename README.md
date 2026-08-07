@@ -1485,69 +1485,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Kansas Smitty's — Dreamlane
+Last track played         : Thelonious Monk — Straight No Chaser
 ------------------------------------------------------------
-Recent track #1            : Kansas Smitty's — Dreamlane | 2026-08-06 18:52:47 -04
-Recent track #2            : cloudyfield — in your head | 2026-08-06 18:21:58 -04
-Recent track #3            : cloudyfield — in your head | 2026-08-06 18:21:40 -04
-Recent track #4            : cloudyfield — in your head | 2026-08-06 18:21:38 -04
-Recent track #5            : cloudyfield — in your head | 2026-08-06 18:21:32 -04
-Recent track #6            : cloudyfield — in your head | 2026-08-06 18:21:27 -04
-Recent track #7            : cloudyfield — in your head | 2026-08-06 18:21:24 -04
-Recent track #8            : cloudyfield — in your head | 2026-08-06 18:21:20 -04
-Recent track #9            : cloudyfield — in your head | 2026-08-06 18:21:16 -04
-Recent track #10           : cloudyfield — in your head | 2026-08-06 18:21:11 -04
-Recent track #11           : The Doors — Break on Through (To the Other Side) | 2026-08-06 18:17:02 -04
-Recent track #12           : The Doors — People Are Strange | 2026-08-06 18:14:43 -04
-Recent track #13           : Forward Jazz Series — Homeland | 2026-08-06 18:02:34 -04
-Recent track #14           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-06 17:58:16 -04
-Recent track #15           : John Coltrane — Blue World | 2026-08-06 17:53:21 -04
-Recent track #16           : Tomasz Stanko Quartet — Trista | 2026-08-06 17:47:18 -04
-Recent track #17           : Tomasz Stanko Quartet — Trista | 2026-08-06 17:33:47 -04
-Recent track #18           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-06 17:32:08 -04
-Recent track #19           : Duke Ellington, John Coltrane — My Little Brown Book | 2026-08-05 10:53:23 -04
-Recent track #20           : Forward Jazz Series — Homeland (Incidentals) | 2026-08-05 10:40:58 -04
-Recent track #21           : Miles Davis Quintet — Tune Up | 2026-08-05 10:36:37 -04
-Recent track #22           : Kamasi Washington — Truth | 2026-08-05 10:30:56 -04
-Recent track #23           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-05 10:17:24 -04
-Recent track #24           : Thelonious Monk — Straight No Chaser | 2026-08-05 10:11:25 -04
-Recent track #25           : Forward Jazz Series — Homeland | 2026-08-05 10:08:27 -04
+Recent track #1            : Thelonious Monk — Straight No Chaser | 2026-08-07 11:38:32 -04
+Recent track #2            : Forward Jazz Series — Homeland | 2026-08-07 11:35:40 -04
+Recent track #3            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 11:28:42 -04
+Recent track #4            : Forward Jazz Series — Homeland (Series) | 2026-08-07 11:23:17 -04
+Recent track #5            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 11:10:56 -04
+Recent track #6            : Forward Jazz Series — Homeland (Series) | 2026-08-07 11:05:31 -04
+Recent track #7            : Kansas Smitty's — Dreamlane | 2026-08-06 18:52:47 -04
+Recent track #8            : cloudyfield — in your head | 2026-08-06 18:21:58 -04
+Recent track #9            : cloudyfield — in your head | 2026-08-06 18:21:40 -04
+Recent track #10           : cloudyfield — in your head | 2026-08-06 18:21:38 -04
+Recent track #11           : cloudyfield — in your head | 2026-08-06 18:21:32 -04
+Recent track #12           : cloudyfield — in your head | 2026-08-06 18:21:27 -04
+Recent track #13           : cloudyfield — in your head | 2026-08-06 18:21:24 -04
+Recent track #14           : cloudyfield — in your head | 2026-08-06 18:21:20 -04
+Recent track #15           : cloudyfield — in your head | 2026-08-06 18:21:16 -04
+Recent track #16           : cloudyfield — in your head | 2026-08-06 18:21:11 -04
+Recent track #17           : The Doors — Break on Through (To the Other Side) | 2026-08-06 18:17:02 -04
+Recent track #18           : The Doors — People Are Strange | 2026-08-06 18:14:43 -04
+Recent track #19           : Forward Jazz Series — Homeland | 2026-08-06 18:02:34 -04
+Recent track #20           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-06 17:58:16 -04
+Recent track #21           : John Coltrane — Blue World | 2026-08-06 17:53:21 -04
+Recent track #22           : Tomasz Stanko Quartet — Trista | 2026-08-06 17:47:18 -04
+Recent track #23           : Tomasz Stanko Quartet — Trista | 2026-08-06 17:33:47 -04
+Recent track #24           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-06 17:32:08 -04
+Recent track #25           : Duke Ellington, John Coltrane — My Little Brown Book | 2026-08-05 10:53:23 -04
 ------------------------------------------------------------
 Last known device         : GNest-MerkleTree speaker (CastAudio)
 Last known volume         : 31%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃
-Last played (UTC)         : 2026-08-06 22:52:47Z
+Last played (UTC)         : 2026-08-07 15:38:32Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 18:00
-Heatmap (recent)          :           ▄      ▃█     
+Heatmap (recent)          :           ▁▄     ▃█     
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-07 13:41:47Z
-Week window (UTC)         : 2026-07-31 13:41:47Z → 2026-08-07 13:41:47Z
-Tracks played (last 24h)  : 18
-Total tracks played (7d)  : 39
+Snapshot captured (UTC)   : 2026-08-07 16:11:46Z
+Week window (UTC)         : 2026-07-31 16:11:46Z → 2026-08-07 16:11:46Z
+Tracks played (last 24h)  : 24
+Total tracks played (7d)  : 45
 Dominant artist (24h)     : cloudyfield
-Dominant artist (7d)      : cloudyfield
+Dominant artist (7d)      : Forward Jazz Series
 Listening pattern (24h)   : Regular cadence
 Activity status (24h)     : MEDIUM
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :                  ▃█     
-Heatmap (7d)              :  ▄      ▁▃▅      ▃█     
+Heatmap (24h)             :            ▄     ▃█     
+Heatmap (7d)              :  ▄      ▁▃▅▄     ▃█     
 ------------------------------------------------------------
-Sessions (24h)            : 2
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 02:10:32
-Top genres (24h)          : jazz(9) | shoegaze(9) | bebop(6) | cool jazz(6) | hard bop(6) | free jazz(5)
-Top genres (7d)           : jazz(33) | cool jazz(24) | bebop(23) | hard bop(23) | jazz ballads(19) | free jazz(16)
+Sessions (24h)            : 3
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 02:15:35
+Top genres (24h)          : jazz(12) | shoegaze(9) | free jazz(8) | bebop(7) | cool jazz(7) | hard bop(7)
+Top genres (7d)           : jazz(36) | cool jazz(25) | bebop(24) | hard bop(24) | free jazz(19) | jazz ballads(19)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Kansas Smitty's — Dreamlane
-Last played (UTC)         : 2026-08-06 22:52:47Z
+Last played               : Thelonious Monk — Straight No Chaser
+Last played (UTC)         : 2026-08-07 15:38:32Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Kansas Smitty's — Dreamlane → Thelonious Monk — Straight No Chaser
+Δ last played (since last): 2026-08-06 22:52:47Z → 2026-08-07 15:38:32Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 14:49:01
-Telemetry age             : 14:49:01
-Δ time (since last report): 03:28:29
+Time since last play      : 00:33:14
+Telemetry age             : 00:33:14
+Δ time (since last report): 02:29:59
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,37 +1584,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 18
+Tracks played (last 24h)  : 24
 Dominant artist           : cloudyfield
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-31 13:41:47Z → 2026-08-07 13:41:47Z
-Total tracks played       : 39
-Dominant artist           : cloudyfield
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-07-31 16:11:46Z → 2026-08-07 16:11:46Z
+Total tracks played       : 45
+Dominant artist           : Forward Jazz Series
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :                  ▃█     
-Heatmap (7d)              :  ▄      ▁▃▅      ▃█     
+Heatmap (24h)             :            ▄     ▃█     
+Heatmap (7d)              :  ▄      ▁▃▅▄     ▃█     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 6
-Avg inter-play gap (7d)   : 02:10:32
+Sessions (24h)            : 3
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 02:15:35
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(9) | shoegaze(9) | bebop(6) | cool jazz(6) | hard bop(6) | free jazz(5)
-Top genres (7d)           : jazz(33) | cool jazz(24) | bebop(23) | hard bop(23) | jazz ballads(19) | free jazz(16)
+Top genres (24h)          : jazz(12) | shoegaze(9) | free jazz(8) | bebop(7) | cool jazz(7) | hard bop(7)
+Top genres (7d)           : jazz(36) | cool jazz(25) | bebop(24) | hard bop(24) | free jazz(19) | jazz ballads(19)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-07 13:41:47Z
+Report generated (UTC)    : 2026-08-07 16:11:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
