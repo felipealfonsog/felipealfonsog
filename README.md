@@ -1527,8 +1527,8 @@ Heatmap (recent)          :           ▄      ▃█
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-07 07:45:16Z
-Week window (UTC)         : 2026-07-31 07:45:16Z → 2026-08-07 07:45:16Z
+Snapshot captured (UTC)   : 2026-08-07 10:13:19Z
+Week window (UTC)         : 2026-07-31 10:13:19Z → 2026-08-07 10:13:19Z
 Tracks played (last 24h)  : 18
 Total tracks played (7d)  : 39
 Dominant artist (24h)     : cloudyfield
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 08:52:29
-Telemetry age             : 08:52:29
-Δ time (since last report): 02:39:20
+Time since last play      : 11:20:32
+Telemetry age             : 11:20:32
+Δ time (since last report): 02:28:03
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-31 07:45:16Z → 2026-08-07 07:45:16Z
+Week window (UTC)         : 2026-07-31 10:13:19Z → 2026-08-07 10:13:19Z
 Total tracks played       : 39
 Dominant artist           : cloudyfield
 Cadence classification    : MEDIUM
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-07 07:45:16Z
+Report generated (UTC)    : 2026-08-07 10:13:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
