@@ -1485,54 +1485,54 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Tomasz Stanko Quintet — Terminal 7
+Last track played         : Silverchair — The Greatest View
 ------------------------------------------------------------
-Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 14:14:36 -04
-Recent track #2            : The Doors — People Are Strange | 2026-08-07 14:00:44 -04
-Recent track #3            : The Doors — Roadhouse Blues | 2026-08-07 13:58:33 -04
-Recent track #4            : The Doors — Riders on the Storm | 2026-08-07 13:54:28 -04
-Recent track #5            : John Coltrane — Blue World | 2026-08-07 13:46:55 -04
-Recent track #6            : Tomasz Stanko Quartet — Trista | 2026-08-07 12:34:50 -04
-Recent track #7            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 12:30:16 -04
-Recent track #8            : Forward Jazz Series — Homeland (Series) | 2026-08-07 12:24:51 -04
-Recent track #9            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-07 12:23:00 -04
-Recent track #10           : Thelonious Monk — Straight No Chaser | 2026-08-07 11:38:32 -04
-Recent track #11           : Forward Jazz Series — Homeland | 2026-08-07 11:35:40 -04
-Recent track #12           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 11:28:42 -04
-Recent track #13           : Forward Jazz Series — Homeland (Series) | 2026-08-07 11:23:17 -04
-Recent track #14           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 11:10:56 -04
-Recent track #15           : Forward Jazz Series — Homeland (Series) | 2026-08-07 11:05:31 -04
-Recent track #16           : Kansas Smitty's — Dreamlane | 2026-08-06 18:52:47 -04
-Recent track #17           : cloudyfield — in your head | 2026-08-06 18:21:58 -04
-Recent track #18           : cloudyfield — in your head | 2026-08-06 18:21:40 -04
-Recent track #19           : cloudyfield — in your head | 2026-08-06 18:21:38 -04
-Recent track #20           : cloudyfield — in your head | 2026-08-06 18:21:32 -04
-Recent track #21           : cloudyfield — in your head | 2026-08-06 18:21:27 -04
-Recent track #22           : cloudyfield — in your head | 2026-08-06 18:21:24 -04
-Recent track #23           : cloudyfield — in your head | 2026-08-06 18:21:20 -04
-Recent track #24           : cloudyfield — in your head | 2026-08-06 18:21:16 -04
-Recent track #25           : cloudyfield — in your head | 2026-08-06 18:21:11 -04
+Recent track #1            : Silverchair — The Greatest View | 2026-08-07 17:54:02 -04
+Recent track #2            : Silverchair — Abuse Me | 2026-08-07 17:49:59 -04
+Recent track #3            : Silverchair — Israel's Son | 2026-08-07 17:45:59 -04
+Recent track #4            : Silverchair — Freak | 2026-08-07 17:40:13 -04
+Recent track #5            : Silverchair — Tomorrow | 2026-08-07 17:36:26 -04
+Recent track #6            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 15:25:15 -04
+Recent track #7            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 14:14:36 -04
+Recent track #8            : The Doors — People Are Strange | 2026-08-07 14:00:44 -04
+Recent track #9            : The Doors — Roadhouse Blues | 2026-08-07 13:58:33 -04
+Recent track #10           : The Doors — Riders on the Storm | 2026-08-07 13:54:28 -04
+Recent track #11           : John Coltrane — Blue World | 2026-08-07 13:46:55 -04
+Recent track #12           : Tomasz Stanko Quartet — Trista | 2026-08-07 12:34:50 -04
+Recent track #13           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 12:30:16 -04
+Recent track #14           : Forward Jazz Series — Homeland (Series) | 2026-08-07 12:24:51 -04
+Recent track #15           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-07 12:23:00 -04
+Recent track #16           : Thelonious Monk — Straight No Chaser | 2026-08-07 11:38:32 -04
+Recent track #17           : Forward Jazz Series — Homeland | 2026-08-07 11:35:40 -04
+Recent track #18           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 11:28:42 -04
+Recent track #19           : Forward Jazz Series — Homeland (Series) | 2026-08-07 11:23:17 -04
+Recent track #20           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 11:10:56 -04
+Recent track #21           : Forward Jazz Series — Homeland (Series) | 2026-08-07 11:05:31 -04
+Recent track #22           : Kansas Smitty's — Dreamlane | 2026-08-06 18:52:47 -04
+Recent track #23           : cloudyfield — in your head | 2026-08-06 18:21:58 -04
+Recent track #24           : cloudyfield — in your head | 2026-08-06 18:21:40 -04
+Recent track #25           : cloudyfield — in your head | 2026-08-06 18:21:38 -04
 ------------------------------------------------------------
 Last known device         : GNest-MerkleTree speaker (CastAudio)
-Last known volume         : 31%
+Last known volume         : 29%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃
-Last played (UTC)         : 2026-08-07 18:14:36Z
+Volume bar                : ▁▁▂
+Last played (UTC)         : 2026-08-07 21:54:02Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 18:00
-Heatmap (recent)          :            ▅▃▂▂   █     
+Peak hour (recent)        : 11:00
+Heatmap (recent)          :            █▅▄▃▁ ▇▅     
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-07 19:18:46Z
-Week window (UTC)         : 2026-07-31 19:18:46Z → 2026-08-07 19:18:46Z
-Tracks played (last 24h)  : 33
+Snapshot captured (UTC)   : 2026-08-07 21:57:45Z
+Week window (UTC)         : 2026-07-31 21:57:45Z → 2026-08-07 21:57:45Z
+Tracks played (last 24h)  : 35
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : cloudyfield
-Dominant artist (7d)      : Forward Jazz Series
+Dominant artist (7d)      : cloudyfield
 Listening pattern (24h)   : Sustained operational tempo
 Activity status (24h)     : HIGH
 Cadence classification    : HIGH
@@ -1540,60 +1540,60 @@ Cadence classification    : HIGH
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :            ▄▂▂▁  ▃█     
-Heatmap (7d)              :  ▂      ▁▃▅▄▂▂▁  ▃█     
+Heatmap (24h)             :            ▄▂▂▁▁ ▄█     
+Heatmap (7d)              :          ▂▅▄▂▂▁▁ ▆█     
 ------------------------------------------------------------
-Sessions (24h)            : 5
+Sessions (24h)            : 7
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:43:31
-Top genres (24h)          : jazz(17) | free jazz(12) | bebop(9) | cool jazz(9) | hard bop(9) | shoegaze(9)
-Top genres (7d)           : jazz(38) | cool jazz(27) | bebop(26) | hard bop(26) | free jazz(21) | jazz ballads(21)
+Avg inter-play gap (7d)   : 01:08:41
+Top genres (24h)          : jazz(14) | free jazz(9) | shoegaze(9) | bebop(8) | cool jazz(8) | hard bop(8)
+Top genres (7d)           : jazz(32) | cool jazz(20) | bebop(19) | free jazz(19) | hard bop(19) | jazz ballads(16)
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
 Device type               : CastAudio
 Device name               : GNest-MerkleTree speaker
-Volume                    : 31%
+Volume                    : 29%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃
+Volume bar                : ▁▁▂
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-08-07 18:14:36Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Silverchair — Suicidal Dream
+Last played               : Silverchair — The Greatest View
+Last played (UTC)         : 2026-08-07 21:54:02Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : Thelonious Monk — Straight No Chaser → Tomasz Stanko Quintet — Terminal 7
-Δ last played (since last): 2026-08-07 15:38:32Z → 2026-08-07 18:14:36Z
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → Silverchair — The Greatest View
+Δ last played (since last): 2026-08-07 18:14:36Z → 2026-08-07 21:54:02Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 01:04:10
-Telemetry age             : 01:04:10
-Δ time (since last report): 03:07:00
+Time since last play      : 00:03:43
+Telemetry age             : 00:03:43
+Δ time (since last report): 02:38:59
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 33
+Tracks played (last 24h)  : 35
 Dominant artist           : cloudyfield
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-31 19:18:46Z → 2026-08-07 19:18:46Z
+Week window (UTC)         : 2026-07-31 21:57:45Z → 2026-08-07 21:57:45Z
 Total tracks played       : 50
-Dominant artist           : Forward Jazz Series
+Dominant artist           : cloudyfield
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
@@ -1601,20 +1601,20 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 18:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :            ▄▂▂▁  ▃█     
-Heatmap (7d)              :  ▂      ▁▃▅▄▂▂▁  ▃█     
+Heatmap (24h)             :            ▄▂▂▁▁ ▄█     
+Heatmap (7d)              :          ▂▅▄▂▂▁▁ ▆█     
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 7
 Sessions (7d)             : 8
-Avg inter-play gap (7d)   : 01:43:31
+Avg inter-play gap (7d)   : 01:08:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(17) | free jazz(12) | bebop(9) | cool jazz(9) | hard bop(9) | shoegaze(9)
-Top genres (7d)           : jazz(38) | cool jazz(27) | bebop(26) | hard bop(26) | free jazz(21) | jazz ballads(21)
+Top genres (24h)          : jazz(14) | free jazz(9) | shoegaze(9) | bebop(8) | cool jazz(8) | hard bop(8)
+Top genres (7d)           : jazz(32) | cool jazz(20) | bebop(19) | free jazz(19) | hard bop(19) | jazz ballads(16)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-07 19:18:46Z
+Report generated (UTC)    : 2026-08-07 21:57:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
