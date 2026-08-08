@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-08-07 21:57:45Z",
+  "report_generated_utc": "2026-08-08 02:23:46Z",
   "status": "PLAYING",
-  "last_track": "Silverchair — The Greatest View",
-  "last_played_utc": "2026-08-07 21:54:02Z",
+  "last_track": "A Perfect Circle — Judith (Live)",
+  "last_played_utc": "2026-08-08 02:23:02Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1621,185 +1621,203 @@
       "psychedelic rock",
       "classic rock",
       "acid rock"
+    ],
+    "4DFhHyjvGYa9wxdHUjtDkc": [
+      "alternative metal",
+      "progressive metal"
+    ],
+    "37394IP6uhnjIpsawpMu4l": [
+      "metalcore",
+      "metal"
+    ],
+    "6KO6G41BBLTDNYOLefWTMU": [
+      "nu metal",
+      "christian rock",
+      "rap metal",
+      "rap rock",
+      "alternative metal"
+    ],
+    "0EyuKHE1AeE9lWUF8mzKVp": [
+      "post-grunge"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Silverchair — The Greatest View\n------------------------------------------------------------\nRecent track #1            : Silverchair — The Greatest View | 2026-08-07 17:54:02 -04\nRecent track #2            : Silverchair — Abuse Me | 2026-08-07 17:49:59 -04\nRecent track #3            : Silverchair — Israel's Son | 2026-08-07 17:45:59 -04\nRecent track #4            : Silverchair — Freak | 2026-08-07 17:40:13 -04\nRecent track #5            : Silverchair — Tomorrow | 2026-08-07 17:36:26 -04\nRecent track #6            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 15:25:15 -04\nRecent track #7            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 14:14:36 -04\nRecent track #8            : The Doors — People Are Strange | 2026-08-07 14:00:44 -04\nRecent track #9            : The Doors — Roadhouse Blues | 2026-08-07 13:58:33 -04\nRecent track #10           : The Doors — Riders on the Storm | 2026-08-07 13:54:28 -04\nRecent track #11           : John Coltrane — Blue World | 2026-08-07 13:46:55 -04\nRecent track #12           : Tomasz Stanko Quartet — Trista | 2026-08-07 12:34:50 -04\nRecent track #13           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 12:30:16 -04\nRecent track #14           : Forward Jazz Series — Homeland (Series) | 2026-08-07 12:24:51 -04\nRecent track #15           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-07 12:23:00 -04\nRecent track #16           : Thelonious Monk — Straight No Chaser | 2026-08-07 11:38:32 -04\nRecent track #17           : Forward Jazz Series — Homeland | 2026-08-07 11:35:40 -04\nRecent track #18           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 11:28:42 -04\nRecent track #19           : Forward Jazz Series — Homeland (Series) | 2026-08-07 11:23:17 -04\nRecent track #20           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-07 11:10:56 -04\nRecent track #21           : Forward Jazz Series — Homeland (Series) | 2026-08-07 11:05:31 -04\nRecent track #22           : Kansas Smitty's — Dreamlane | 2026-08-06 18:52:47 -04\nRecent track #23           : cloudyfield — in your head | 2026-08-06 18:21:58 -04\nRecent track #24           : cloudyfield — in your head | 2026-08-06 18:21:40 -04\nRecent track #25           : cloudyfield — in your head | 2026-08-06 18:21:38 -04\n------------------------------------------------------------\nLast known device         : GNest-MerkleTree speaker (CastAudio)\nLast known volume         : 29%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂\nLast played (UTC)         : 2026-08-07 21:54:02Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 11:00\nHeatmap (recent)          :            █▅▄▃▁ ▇▅     \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-08-07 21:57:45Z\nWeek window (UTC)         : 2026-07-31 21:57:45Z → 2026-08-07 21:57:45Z\nTracks played (last 24h)  : 35\nTotal tracks played (7d)  : 50\nDominant artist (24h)     : cloudyfield\nDominant artist (7d)      : cloudyfield\nListening pattern (24h)   : Sustained operational tempo\nActivity status (24h)     : HIGH\nCadence classification    : HIGH\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 18:00\nPeak hour (7d)            : 18:00\nHeatmap (24h)             :            ▄▂▂▁▁ ▄█     \nHeatmap (7d)              :          ▂▅▄▂▂▁▁ ▆█     \n------------------------------------------------------------\nSessions (24h)            : 7\nSessions (7d)             : 8\nAvg inter-play gap (7d)   : 01:08:41\nTop genres (24h)          : jazz(14) | free jazz(9) | shoegaze(9) | bebop(8) | cool jazz(8) | hard bop(8)\nTop genres (7d)           : jazz(32) | cool jazz(20) | bebop(19) | free jazz(19) | hard bop(19) | jazz ballads(16)\n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : CastAudio\nDevice name               : GNest-MerkleTree speaker\nVolume                    : 29%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂\n------------------------------------------------------------\nNow playing               : Silverchair — Suicidal Dream\nLast played               : Silverchair — The Greatest View\nLast played (UTC)         : 2026-08-07 21:54:02Z\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nΔ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → Silverchair — The Greatest View\nΔ last played (since last): 2026-08-07 18:14:36Z → 2026-08-07 21:54:02Z\nΔ status (since last)     : IDLE → PLAYING\n------------------------------------------------------------\nTime since last play      : 00:03:43\nTelemetry age             : 00:03:43\nΔ time (since last report): 02:38:59\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 35\nDominant artist           : cloudyfield\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-07-31 21:57:45Z → 2026-08-07 21:57:45Z\nTotal tracks played       : 50\nDominant artist           : cloudyfield\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 18:00\nPeak hour (7d)            : 18:00\nHeatmap (24h)             :            ▄▂▂▁▁ ▄█     \nHeatmap (7d)              :          ▂▅▄▂▂▁▁ ▆█     \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 7\nSessions (7d)             : 8\nAvg inter-play gap (7d)   : 01:08:41\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(14) | free jazz(9) | shoegaze(9) | bebop(8) | cool jazz(8) | hard bop(8)\nTop genres (7d)           : jazz(32) | cool jazz(20) | bebop(19) | free jazz(19) | hard bop(19) | jazz ballads(16)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-07 21:57:45Z",
-  "last_successful_report_utc": "2026-08-07 21:57:45Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : A Perfect Circle — Judith (Live)\n------------------------------------------------------------\nRecent track #1            : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04\nRecent track #2            : Seether — Careless Whisper | 2026-08-07 22:18:48 -04\nRecent track #3            : Linkin Park — By Myself - Live In Texas | 2026-08-07 22:13:54 -04\nRecent track #4            : Killswitch Engage — The End of Heartache | 2026-08-07 22:09:51 -04\nRecent track #5            : Stone Sour — Say You'll Haunt Me | 2026-08-07 22:04:57 -04\nRecent track #6            : P.O.D. — Goodbye for Now | 2026-08-07 22:00:36 -04\nRecent track #7            : A Perfect Circle — Passive | 2026-08-07 21:56:08 -04\nRecent track #8            : 3 Doors Down — Ticket To Heaven | 2026-08-07 21:52:01 -04\nRecent track #9            : Linkin Park — Don't Stay - Live In Texas | 2026-08-07 21:48:38 -04\nRecent track #10           : Chevelle — Letter from a Thief | 2026-08-07 21:45:22 -04\nRecent track #11           : Fuel — Hemorrhage (In My Hands) - Acoustic Version | 2026-08-07 21:39:06 -04\nRecent track #12           : A Perfect Circle — The Outsider (Live) | 2026-08-07 21:35:18 -04\nRecent track #13           : 3 Doors Down — Changes | 2026-08-07 21:30:59 -04\nRecent track #14           : Linkin Park — With You - Live In Texas | 2026-08-07 21:27:06 -04\nRecent track #15           : Linkin Park — One Step Closer - Live | 2026-08-07 21:23:50 -04\nRecent track #16           : Linkin Park — In the End - Live | 2026-08-07 21:19:37 -04\nRecent track #17           : Linkin Park — Crawling - Live | 2026-08-07 21:16:05 -04\nRecent track #18           : Linkin Park — Numb - Live | 2026-08-07 21:12:32 -04\nRecent track #19           : Linkin Park — P5hng Me A*wy - Live | 2026-08-07 21:09:25 -04\nRecent track #20           : Linkin Park — From the Inside - Live | 2026-08-07 21:04:20 -04\nRecent track #21           : Linkin Park — Faint - Live | 2026-08-07 21:01:15 -04\nRecent track #22           : Linkin Park — Runaway - Live | 2026-08-07 20:58:28 -04\nRecent track #23           : Linkin Park — Points of Authority - Live | 2026-08-07 20:55:16 -04\nRecent track #24           : Linkin Park — Papercut - Live | 2026-08-07 20:51:51 -04\nRecent track #25           : Linkin Park — Lying from You - Live | 2026-08-07 20:48:45 -04\n------------------------------------------------------------\nLast known device         : Felipe’s MacBook Air Silicon (Computer)\nLast known volume         : 65%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅\nLast played (UTC)         : 2026-08-08 02:23:02Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 21:00\nHeatmap (recent)          :                     ▂█▃ \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-08-08 02:23:46Z\nWeek window (UTC)         : 2026-08-01 02:23:46Z → 2026-08-08 02:23:46Z\nTracks played (last 24h)  : 50\nTotal tracks played (7d)  : 50\nDominant artist (24h)     : Linkin Park\nDominant artist (7d)      : Linkin Park\nListening pattern (24h)   : Sustained operational tempo\nActivity status (24h)     : HIGH\nCadence classification    : HIGH\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 20:00\nPeak hour (7d)            : 20:00\nHeatmap (24h)             :                    ▅█▇▃ \nHeatmap (7d)              :                    ▅█▇▃ \n------------------------------------------------------------\nSessions (24h)            : 1\nSessions (7d)             : 1\nAvg inter-play gap (7d)   : 00:03:54\nTop genres (24h)          : alternative metal(38) | nu metal(34) | rap metal(32) | rock(32) | post-grunge(14) | grunge(8)\nTop genres (7d)           : alternative metal(38) | nu metal(34) | rap metal(32) | rock(32) | post-grunge(14) | grunge(8)\n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Computer\nDevice name               : Felipe’s MacBook Air Silicon\nVolume                    : 65%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅\n------------------------------------------------------------\nNow playing               : Drowning Pool — Turn So Cold\nLast played               : A Perfect Circle — Judith (Live)\nLast played (UTC)         : 2026-08-08 02:23:02Z\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nΔ track (since last)      : Silverchair — The Greatest View → A Perfect Circle — Judith (Live)\nΔ last played (since last): 2026-08-07 21:54:02Z → 2026-08-08 02:23:02Z\nΔ status (since last)     : NO CHANGE\n------------------------------------------------------------\nTime since last play      : 00:00:44\nTelemetry age             : 00:00:44\nΔ time (since last report): 04:26:01\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 50\nDominant artist           : Linkin Park\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-01 02:23:46Z → 2026-08-08 02:23:46Z\nTotal tracks played       : 50\nDominant artist           : Linkin Park\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 20:00\nPeak hour (7d)            : 20:00\nHeatmap (24h)             :                    ▅█▇▃ \nHeatmap (7d)              :                    ▅█▇▃ \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 1\nAvg inter-play gap (7d)   : 00:03:54\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : alternative metal(38) | nu metal(34) | rap metal(32) | rock(32) | post-grunge(14) | grunge(8)\nTop genres (7d)           : alternative metal(38) | nu metal(34) | rap metal(32) | rock(32) | post-grunge(14) | grunge(8)\nArtist lookups (this run) : 4 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-08 02:23:46Z",
+  "last_successful_report_utc": "2026-08-08 02:23:46Z",
   "recent_playback_history": [
     {
-      "track": "Silverchair — The Greatest View",
-      "played_at_utc": "2026-08-07 21:54:02Z",
-      "played_at_local": "2026-08-07 17:54:02 -04",
-      "local_hour": 17
+      "track": "A Perfect Circle — Judith (Live)",
+      "played_at_utc": "2026-08-08 02:23:02Z",
+      "played_at_local": "2026-08-07 22:23:02 -04",
+      "local_hour": 22
     },
     {
-      "track": "Silverchair — Abuse Me",
-      "played_at_utc": "2026-08-07 21:49:59Z",
-      "played_at_local": "2026-08-07 17:49:59 -04",
-      "local_hour": 17
+      "track": "Seether — Careless Whisper",
+      "played_at_utc": "2026-08-08 02:18:48Z",
+      "played_at_local": "2026-08-07 22:18:48 -04",
+      "local_hour": 22
     },
     {
-      "track": "Silverchair — Israel's Son",
-      "played_at_utc": "2026-08-07 21:45:59Z",
-      "played_at_local": "2026-08-07 17:45:59 -04",
-      "local_hour": 17
+      "track": "Linkin Park — By Myself - Live In Texas",
+      "played_at_utc": "2026-08-08 02:13:54Z",
+      "played_at_local": "2026-08-07 22:13:54 -04",
+      "local_hour": 22
     },
     {
-      "track": "Silverchair — Freak",
-      "played_at_utc": "2026-08-07 21:40:13Z",
-      "played_at_local": "2026-08-07 17:40:13 -04",
-      "local_hour": 17
+      "track": "Killswitch Engage — The End of Heartache",
+      "played_at_utc": "2026-08-08 02:09:51Z",
+      "played_at_local": "2026-08-07 22:09:51 -04",
+      "local_hour": 22
     },
     {
-      "track": "Silverchair — Tomorrow",
-      "played_at_utc": "2026-08-07 21:36:26Z",
-      "played_at_local": "2026-08-07 17:36:26 -04",
-      "local_hour": 17
+      "track": "Stone Sour — Say You'll Haunt Me",
+      "played_at_utc": "2026-08-08 02:04:57Z",
+      "played_at_local": "2026-08-07 22:04:57 -04",
+      "local_hour": 22
     },
     {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "played_at_utc": "2026-08-07 19:25:15Z",
-      "played_at_local": "2026-08-07 15:25:15 -04",
-      "local_hour": 15
+      "track": "P.O.D. — Goodbye for Now",
+      "played_at_utc": "2026-08-08 02:00:36Z",
+      "played_at_local": "2026-08-07 22:00:36 -04",
+      "local_hour": 22
     },
     {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "played_at_utc": "2026-08-07 18:14:36Z",
-      "played_at_local": "2026-08-07 14:14:36 -04",
-      "local_hour": 14
+      "track": "A Perfect Circle — Passive",
+      "played_at_utc": "2026-08-08 01:56:08Z",
+      "played_at_local": "2026-08-07 21:56:08 -04",
+      "local_hour": 21
     },
     {
-      "track": "The Doors — People Are Strange",
-      "played_at_utc": "2026-08-07 18:00:44Z",
-      "played_at_local": "2026-08-07 14:00:44 -04",
-      "local_hour": 14
+      "track": "3 Doors Down — Ticket To Heaven",
+      "played_at_utc": "2026-08-08 01:52:01Z",
+      "played_at_local": "2026-08-07 21:52:01 -04",
+      "local_hour": 21
     },
     {
-      "track": "The Doors — Roadhouse Blues",
-      "played_at_utc": "2026-08-07 17:58:33Z",
-      "played_at_local": "2026-08-07 13:58:33 -04",
-      "local_hour": 13
+      "track": "Linkin Park — Don't Stay - Live In Texas",
+      "played_at_utc": "2026-08-08 01:48:38Z",
+      "played_at_local": "2026-08-07 21:48:38 -04",
+      "local_hour": 21
     },
     {
-      "track": "The Doors — Riders on the Storm",
-      "played_at_utc": "2026-08-07 17:54:28Z",
-      "played_at_local": "2026-08-07 13:54:28 -04",
-      "local_hour": 13
+      "track": "Chevelle — Letter from a Thief",
+      "played_at_utc": "2026-08-08 01:45:22Z",
+      "played_at_local": "2026-08-07 21:45:22 -04",
+      "local_hour": 21
     },
     {
-      "track": "John Coltrane — Blue World",
-      "played_at_utc": "2026-08-07 17:46:55Z",
-      "played_at_local": "2026-08-07 13:46:55 -04",
-      "local_hour": 13
+      "track": "Fuel — Hemorrhage (In My Hands) - Acoustic Version",
+      "played_at_utc": "2026-08-08 01:39:06Z",
+      "played_at_local": "2026-08-07 21:39:06 -04",
+      "local_hour": 21
     },
     {
-      "track": "Tomasz Stanko Quartet — Trista",
-      "played_at_utc": "2026-08-07 16:34:50Z",
-      "played_at_local": "2026-08-07 12:34:50 -04",
-      "local_hour": 12
+      "track": "A Perfect Circle — The Outsider (Live)",
+      "played_at_utc": "2026-08-08 01:35:18Z",
+      "played_at_local": "2026-08-07 21:35:18 -04",
+      "local_hour": 21
     },
     {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "played_at_utc": "2026-08-07 16:30:16Z",
-      "played_at_local": "2026-08-07 12:30:16 -04",
-      "local_hour": 12
+      "track": "3 Doors Down — Changes",
+      "played_at_utc": "2026-08-08 01:30:59Z",
+      "played_at_local": "2026-08-07 21:30:59 -04",
+      "local_hour": 21
     },
     {
-      "track": "Forward Jazz Series — Homeland (Series)",
-      "played_at_utc": "2026-08-07 16:24:51Z",
-      "played_at_local": "2026-08-07 12:24:51 -04",
-      "local_hour": 12
+      "track": "Linkin Park — With You - Live In Texas",
+      "played_at_utc": "2026-08-08 01:27:06Z",
+      "played_at_local": "2026-08-07 21:27:06 -04",
+      "local_hour": 21
     },
     {
-      "track": "Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007",
-      "played_at_utc": "2026-08-07 16:23:00Z",
-      "played_at_local": "2026-08-07 12:23:00 -04",
-      "local_hour": 12
+      "track": "Linkin Park — One Step Closer - Live",
+      "played_at_utc": "2026-08-08 01:23:50Z",
+      "played_at_local": "2026-08-07 21:23:50 -04",
+      "local_hour": 21
     },
     {
-      "track": "Thelonious Monk — Straight No Chaser",
-      "played_at_utc": "2026-08-07 15:38:32Z",
-      "played_at_local": "2026-08-07 11:38:32 -04",
-      "local_hour": 11
+      "track": "Linkin Park — In the End - Live",
+      "played_at_utc": "2026-08-08 01:19:37Z",
+      "played_at_local": "2026-08-07 21:19:37 -04",
+      "local_hour": 21
     },
     {
-      "track": "Forward Jazz Series — Homeland",
-      "played_at_utc": "2026-08-07 15:35:40Z",
-      "played_at_local": "2026-08-07 11:35:40 -04",
-      "local_hour": 11
+      "track": "Linkin Park — Crawling - Live",
+      "played_at_utc": "2026-08-08 01:16:05Z",
+      "played_at_local": "2026-08-07 21:16:05 -04",
+      "local_hour": 21
     },
     {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "played_at_utc": "2026-08-07 15:28:42Z",
-      "played_at_local": "2026-08-07 11:28:42 -04",
-      "local_hour": 11
+      "track": "Linkin Park — Numb - Live",
+      "played_at_utc": "2026-08-08 01:12:32Z",
+      "played_at_local": "2026-08-07 21:12:32 -04",
+      "local_hour": 21
     },
     {
-      "track": "Forward Jazz Series — Homeland (Series)",
-      "played_at_utc": "2026-08-07 15:23:17Z",
-      "played_at_local": "2026-08-07 11:23:17 -04",
-      "local_hour": 11
+      "track": "Linkin Park — P5hng Me A*wy - Live",
+      "played_at_utc": "2026-08-08 01:09:25Z",
+      "played_at_local": "2026-08-07 21:09:25 -04",
+      "local_hour": 21
     },
     {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "played_at_utc": "2026-08-07 15:10:56Z",
-      "played_at_local": "2026-08-07 11:10:56 -04",
-      "local_hour": 11
+      "track": "Linkin Park — From the Inside - Live",
+      "played_at_utc": "2026-08-08 01:04:20Z",
+      "played_at_local": "2026-08-07 21:04:20 -04",
+      "local_hour": 21
     },
     {
-      "track": "Forward Jazz Series — Homeland (Series)",
-      "played_at_utc": "2026-08-07 15:05:31Z",
-      "played_at_local": "2026-08-07 11:05:31 -04",
-      "local_hour": 11
+      "track": "Linkin Park — Faint - Live",
+      "played_at_utc": "2026-08-08 01:01:15Z",
+      "played_at_local": "2026-08-07 21:01:15 -04",
+      "local_hour": 21
     },
     {
-      "track": "Kansas Smitty's — Dreamlane",
-      "played_at_utc": "2026-08-06 22:52:47Z",
-      "played_at_local": "2026-08-06 18:52:47 -04",
-      "local_hour": 18
+      "track": "Linkin Park — Runaway - Live",
+      "played_at_utc": "2026-08-08 00:58:28Z",
+      "played_at_local": "2026-08-07 20:58:28 -04",
+      "local_hour": 20
     },
     {
-      "track": "cloudyfield — in your head",
-      "played_at_utc": "2026-08-06 22:21:58Z",
-      "played_at_local": "2026-08-06 18:21:58 -04",
-      "local_hour": 18
+      "track": "Linkin Park — Points of Authority - Live",
+      "played_at_utc": "2026-08-08 00:55:16Z",
+      "played_at_local": "2026-08-07 20:55:16 -04",
+      "local_hour": 20
     },
     {
-      "track": "cloudyfield — in your head",
-      "played_at_utc": "2026-08-06 22:21:40Z",
-      "played_at_local": "2026-08-06 18:21:40 -04",
-      "local_hour": 18
+      "track": "Linkin Park — Papercut - Live",
+      "played_at_utc": "2026-08-08 00:51:51Z",
+      "played_at_local": "2026-08-07 20:51:51 -04",
+      "local_hour": 20
     },
     {
-      "track": "cloudyfield — in your head",
-      "played_at_utc": "2026-08-06 22:21:38Z",
-      "played_at_local": "2026-08-06 18:21:38 -04",
-      "local_hour": 18
+      "track": "Linkin Park — Lying from You - Live",
+      "played_at_utc": "2026-08-08 00:48:45Z",
+      "played_at_local": "2026-08-07 20:48:45 -04",
+      "local_hour": 20
     }
   ],
-  "last_known_device_type": "CastAudio",
-  "last_known_device_name": "GNest-MerkleTree speaker",
-  "last_known_volume_percent": 29,
+  "last_known_device_type": "Computer",
+  "last_known_device_name": "Felipe’s MacBook Air Silicon",
+  "last_known_volume_percent": 65,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-08-07 21:57:45Z",
-    "week_window_utc": "2026-07-31 21:57:45Z → 2026-08-07 21:57:45Z",
-    "tracks_24h": 35,
+    "captured_utc": "2026-08-08 02:23:46Z",
+    "week_window_utc": "2026-08-01 02:23:46Z → 2026-08-08 02:23:46Z",
+    "tracks_24h": 50,
     "tracks_7d": 50,
-    "dominant_artist_24h": "cloudyfield",
-    "dominant_artist_7d": "cloudyfield",
+    "dominant_artist_24h": "Linkin Park",
+    "dominant_artist_7d": "Linkin Park",
     "listening_pattern_24h": "Sustained operational tempo",
     "activity_status_24h": "HIGH",
     "cadence_7d": "HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "18:00",
-    "peak_hour_7d": "18:00",
-    "heatmap_24h": "           ▄▂▂▁▁ ▄█     ",
-    "heatmap_7d": "         ▂▅▄▂▂▁▁ ▆█     ",
-    "sessions_24h": 7,
-    "sessions_7d": 8,
-    "avg_inter_play_gap_7d": "01:08:41",
-    "top_genres_24h": "jazz(14) | free jazz(9) | shoegaze(9) | bebop(8) | cool jazz(8) | hard bop(8)",
-    "top_genres_7d": "jazz(32) | cool jazz(20) | bebop(19) | free jazz(19) | hard bop(19) | jazz ballads(16)"
+    "peak_hour_24h": "20:00",
+    "peak_hour_7d": "20:00",
+    "heatmap_24h": "                   ▅█▇▃ ",
+    "heatmap_7d": "                   ▅█▇▃ ",
+    "sessions_24h": 1,
+    "sessions_7d": 1,
+    "avg_inter_play_gap_7d": "00:03:54",
+    "top_genres_24h": "alternative metal(38) | nu metal(34) | rap metal(32) | rock(32) | post-grunge(14) | grunge(8)",
+    "top_genres_7d": "alternative metal(38) | nu metal(34) | rap metal(32) | rock(32) | post-grunge(14) | grunge(8)"
   }
 }
