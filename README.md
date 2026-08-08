@@ -1485,50 +1485,50 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Forward Jazz Series — Homeland (Series)
+Last track played         : Tomasz Stanko Quintet — Terminal 7
 ------------------------------------------------------------
-Recent track #1            : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
-Recent track #2            : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
-Recent track #3            : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
-Recent track #4            : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
-Recent track #5            : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
-Recent track #6            : Linkin Park — By Myself - Live In Texas | 2026-08-07 22:13:54 -04
-Recent track #7            : Killswitch Engage — The End of Heartache | 2026-08-07 22:09:51 -04
-Recent track #8            : Stone Sour — Say You'll Haunt Me | 2026-08-07 22:04:57 -04
-Recent track #9            : P.O.D. — Goodbye for Now | 2026-08-07 22:00:36 -04
-Recent track #10           : A Perfect Circle — Passive | 2026-08-07 21:56:08 -04
-Recent track #11           : 3 Doors Down — Ticket To Heaven | 2026-08-07 21:52:01 -04
-Recent track #12           : Linkin Park — Don't Stay - Live In Texas | 2026-08-07 21:48:38 -04
-Recent track #13           : Chevelle — Letter from a Thief | 2026-08-07 21:45:22 -04
-Recent track #14           : Fuel — Hemorrhage (In My Hands) - Acoustic Version | 2026-08-07 21:39:06 -04
-Recent track #15           : A Perfect Circle — The Outsider (Live) | 2026-08-07 21:35:18 -04
-Recent track #16           : 3 Doors Down — Changes | 2026-08-07 21:30:59 -04
-Recent track #17           : Linkin Park — With You - Live In Texas | 2026-08-07 21:27:06 -04
-Recent track #18           : Linkin Park — One Step Closer - Live | 2026-08-07 21:23:50 -04
-Recent track #19           : Linkin Park — In the End - Live | 2026-08-07 21:19:37 -04
-Recent track #20           : Linkin Park — Crawling - Live | 2026-08-07 21:16:05 -04
-Recent track #21           : Linkin Park — Numb - Live | 2026-08-07 21:12:32 -04
-Recent track #22           : Linkin Park — P5hng Me A*wy - Live | 2026-08-07 21:09:25 -04
-Recent track #23           : Linkin Park — From the Inside - Live | 2026-08-07 21:04:20 -04
-Recent track #24           : Linkin Park — Faint - Live | 2026-08-07 21:01:15 -04
-Recent track #25           : Linkin Park — Runaway - Live | 2026-08-07 20:58:28 -04
+Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
+Recent track #2            : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
+Recent track #3            : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
+Recent track #4            : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
+Recent track #5            : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
+Recent track #6            : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
+Recent track #7            : Linkin Park — By Myself - Live In Texas | 2026-08-07 22:13:54 -04
+Recent track #8            : Killswitch Engage — The End of Heartache | 2026-08-07 22:09:51 -04
+Recent track #9            : Stone Sour — Say You'll Haunt Me | 2026-08-07 22:04:57 -04
+Recent track #10           : P.O.D. — Goodbye for Now | 2026-08-07 22:00:36 -04
+Recent track #11           : A Perfect Circle — Passive | 2026-08-07 21:56:08 -04
+Recent track #12           : 3 Doors Down — Ticket To Heaven | 2026-08-07 21:52:01 -04
+Recent track #13           : Linkin Park — Don't Stay - Live In Texas | 2026-08-07 21:48:38 -04
+Recent track #14           : Chevelle — Letter from a Thief | 2026-08-07 21:45:22 -04
+Recent track #15           : Fuel — Hemorrhage (In My Hands) - Acoustic Version | 2026-08-07 21:39:06 -04
+Recent track #16           : A Perfect Circle — The Outsider (Live) | 2026-08-07 21:35:18 -04
+Recent track #17           : 3 Doors Down — Changes | 2026-08-07 21:30:59 -04
+Recent track #18           : Linkin Park — With You - Live In Texas | 2026-08-07 21:27:06 -04
+Recent track #19           : Linkin Park — One Step Closer - Live | 2026-08-07 21:23:50 -04
+Recent track #20           : Linkin Park — In the End - Live | 2026-08-07 21:19:37 -04
+Recent track #21           : Linkin Park — Crawling - Live | 2026-08-07 21:16:05 -04
+Recent track #22           : Linkin Park — Numb - Live | 2026-08-07 21:12:32 -04
+Recent track #23           : Linkin Park — P5hng Me A*wy - Live | 2026-08-07 21:09:25 -04
+Recent track #24           : Linkin Park — From the Inside - Live | 2026-08-07 21:04:20 -04
+Recent track #25           : Linkin Park — Faint - Live | 2026-08-07 21:01:15 -04
 ------------------------------------------------------------
 Last known device         : Felipe’s MacBook Air Silicon (Computer)
 Last known volume         : 65%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
-Last played (UTC)         : 2026-08-08 03:24:40Z
+Last played (UTC)         : 2026-08-08 08:00:57Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 21:00
-Heatmap (recent)          :                     ▁█▄▁
+Heatmap (recent)          :     ▁                █▄▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-08 04:30:47Z
-Week window (UTC)         : 2026-08-01 04:30:47Z → 2026-08-08 04:30:47Z
+Snapshot captured (UTC)   : 2026-08-08 09:56:29Z
+Week window (UTC)         : 2026-08-01 09:56:29Z → 2026-08-08 09:56:29Z
 Tracks played (last 24h)  : 50
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Linkin Park
@@ -1540,14 +1540,14 @@ Cadence classification    : HIGH
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                    ▄█▇▃▁
-Heatmap (7d)              :                    ▄█▇▃▁
+Heatmap (24h)             :                    ▃█▇▃▁
+Heatmap (7d)              :                    ▃█▇▃▁
 ------------------------------------------------------------
-Sessions (24h)            : 2
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:04:55
-Top genres (24h)          : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(11) | grunge(5)
-Top genres (7d)           : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(11) | grunge(5)
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:10:28
+Top genres (24h)          : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(10) | grunge(4)
+Top genres (7d)           : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(10) | grunge(4)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Forward Jazz Series — Homeland (Series)
-Last played (UTC)         : 2026-08-08 03:24:40Z
+Last played               : Tomasz Stanko Quintet — Terminal 7
+Last played (UTC)         : 2026-08-08 08:00:57Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : A Perfect Circle — Judith (Live) → Forward Jazz Series — Homeland (Series)
-Δ last played (since last): 2026-08-08 02:23:02Z → 2026-08-08 03:24:40Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : Forward Jazz Series — Homeland (Series) → Tomasz Stanko Quintet — Terminal 7
+Δ last played (since last): 2026-08-08 03:24:40Z → 2026-08-08 08:00:57Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:06:08
-Telemetry age             : 01:06:08
-Δ time (since last report): 02:07:02
+Time since last play      : 01:55:33
+Telemetry age             : 01:55:33
+Δ time (since last report): 05:25:43
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-01 04:30:47Z → 2026-08-08 04:30:47Z
+Week window (UTC)         : 2026-08-01 09:56:29Z → 2026-08-08 09:56:29Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1601,21 +1601,21 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                    ▄█▇▃▁
-Heatmap (7d)              :                    ▄█▇▃▁
+Heatmap (24h)             :                    ▃█▇▃▁
+Heatmap (7d)              :                    ▃█▇▃▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 2
-Avg inter-play gap (7d)   : 00:04:55
+Sessions (24h)            : 3
+Sessions (7d)             : 3
+Avg inter-play gap (7d)   : 00:10:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(11) | grunge(5)
-Top genres (7d)           : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(11) | grunge(5)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(10) | grunge(4)
+Top genres (7d)           : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(10) | grunge(4)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-08 04:30:47Z
+Report generated (UTC)    : 2026-08-08 09:56:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
