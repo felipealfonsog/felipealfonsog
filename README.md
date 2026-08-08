@@ -1527,8 +1527,8 @@ Heatmap (recent)          :     ▁                █▄▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-08 09:56:29Z
-Week window (UTC)         : 2026-08-01 09:56:29Z → 2026-08-08 09:56:29Z
+Snapshot captured (UTC)   : 2026-08-08 13:14:51Z
+Week window (UTC)         : 2026-08-01 13:14:51Z → 2026-08-08 13:14:51Z
 Tracks played (last 24h)  : 50
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Linkin Park
@@ -1566,13 +1566,13 @@ Last played               : Tomasz Stanko Quintet — Terminal 7
 Last played (UTC)         : 2026-08-08 08:00:57Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Forward Jazz Series — Homeland (Series) → Tomasz Stanko Quintet — Terminal 7
-Δ last played (since last): 2026-08-08 03:24:40Z → 2026-08-08 08:00:57Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:55:33
-Telemetry age             : 01:55:33
-Δ time (since last report): 05:25:43
+Time since last play      : 05:13:55
+Telemetry age             : 05:13:55
+Δ time (since last report): 03:18:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-01 09:56:29Z → 2026-08-08 09:56:29Z
+Week window (UTC)         : 2026-08-01 13:14:51Z → 2026-08-08 13:14:51Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-08 09:56:29Z
+Report generated (UTC)    : 2026-08-08 13:14:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
