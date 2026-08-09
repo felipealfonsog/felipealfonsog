@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-08-08T18:51:53+00:00",
-    "last_successful_sync": "2026-08-08T18:51:53+00:00",
+    "last_attempted_sync": "2026-08-09T02:22:56+00:00",
+    "last_successful_sync": "2026-08-09T02:22:56+00:00",
     "error_message": ""
   },
   "sections": {
@@ -264,7 +264,7 @@
           "author": "Robert Morton",
           "link": "https://www.goodreads.com/review/show/8399631886?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757442943l/241420965._SY75_.jpg",
-          "summary": "author: Robert Morton name: Felipe Alfonso average rating: 4.43 book published: rating: 0 read at: date added: 2026/02/28 shelves: currently-reading review:",
+          "summary": "author: Robert Morton name: Felipe Alfonso average rating: 4.50 book published: rating: 0 read at: date added: 2026/02/28 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8399631886?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 28 Feb 2026 20:50:44 -0800"
         },
@@ -409,7 +409,7 @@
           "author": "Ted Gioia",
           "link": "https://www.goodreads.com/review/show/8008546862?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348549243l/177539._SX50_.jpg",
-          "summary": "author: Ted Gioia name: Felipe Alfonso average rating: 4.05 book published: 1997 rating: 0 read at: date added: 2025/10/20 shelves: to-read review:",
+          "summary": "author: Ted Gioia name: Felipe Alfonso average rating: 4.04 book published: 1997 rating: 0 read at: date added: 2025/10/20 shelves: to-read review:",
           "guid": "https://www.goodreads.com/review/show/8008546862?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 20:00:23 -0700"
         },
