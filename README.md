@@ -1527,8 +1527,8 @@ Heatmap (recent)          :     ▁                █▄▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-09 04:39:32Z
-Week window (UTC)         : 2026-08-02 04:39:32Z → 2026-08-09 04:39:32Z
+Snapshot captured (UTC)   : 2026-08-09 07:25:54Z
+Week window (UTC)         : 2026-08-02 07:25:54Z → 2026-08-09 07:25:54Z
 Tracks played (last 24h)  : 2
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Tomasz Stanko Quintet
@@ -1567,12 +1567,12 @@ Last played (UTC)         : 2026-08-08 08:01:19Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-08-08 08:00:57Z → 2026-08-08 08:01:19Z
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 20:38:14
-Telemetry age             : 20:38:14
-Δ time (since last report): 06:51:17
+Time since last play      : 23:24:35
+Telemetry age             : 23:24:35
+Δ time (since last report): 02:46:22
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-02 04:39:32Z → 2026-08-09 04:39:32Z
+Week window (UTC)         : 2026-08-02 07:25:54Z → 2026-08-09 07:25:54Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-09 04:39:32Z
+Report generated (UTC)    : 2026-08-09 07:25:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
