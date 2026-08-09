@@ -1527,8 +1527,8 @@ Heatmap (recent)          :     ▁                █▄▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-09 15:49:37Z
-Week window (UTC)         : 2026-08-02 15:49:37Z → 2026-08-09 15:49:37Z
+Snapshot captured (UTC)   : 2026-08-09 19:04:17Z
+Week window (UTC)         : 2026-08-02 19:04:17Z → 2026-08-09 19:04:17Z
 Tracks played (last 24h)  : 0
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : N/A
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 31:48:18
-Telemetry age             : 31:48:18
-Δ time (since last report): 05:50:30
+Time since last play      : 35:02:58
+Telemetry age             : 35:02:58
+Δ time (since last report): 03:14:40
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-02 15:49:37Z → 2026-08-09 15:49:37Z
+Week window (UTC)         : 2026-08-02 19:04:17Z → 2026-08-09 19:04:17Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-09 15:49:37Z
+Report generated (UTC)    : 2026-08-09 19:04:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
