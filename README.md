@@ -1485,69 +1485,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Tomasz Stanko Quartet — Trista
+Last track played         : Miles Davis Quintet — Tune Up
 ------------------------------------------------------------
-Recent track #1            : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
-Recent track #2            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
-Recent track #3            : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
-Recent track #4            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
-Recent track #5            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
-Recent track #6            : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
-Recent track #7            : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
-Recent track #8            : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
-Recent track #9            : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
-Recent track #10           : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
-Recent track #11           : Linkin Park — By Myself - Live In Texas | 2026-08-07 22:13:54 -04
-Recent track #12           : Killswitch Engage — The End of Heartache | 2026-08-07 22:09:51 -04
-Recent track #13           : Stone Sour — Say You'll Haunt Me | 2026-08-07 22:04:57 -04
-Recent track #14           : P.O.D. — Goodbye for Now | 2026-08-07 22:00:36 -04
-Recent track #15           : A Perfect Circle — Passive | 2026-08-07 21:56:08 -04
-Recent track #16           : 3 Doors Down — Ticket To Heaven | 2026-08-07 21:52:01 -04
-Recent track #17           : Linkin Park — Don't Stay - Live In Texas | 2026-08-07 21:48:38 -04
-Recent track #18           : Chevelle — Letter from a Thief | 2026-08-07 21:45:22 -04
-Recent track #19           : Fuel — Hemorrhage (In My Hands) - Acoustic Version | 2026-08-07 21:39:06 -04
-Recent track #20           : A Perfect Circle — The Outsider (Live) | 2026-08-07 21:35:18 -04
-Recent track #21           : 3 Doors Down — Changes | 2026-08-07 21:30:59 -04
-Recent track #22           : Linkin Park — With You - Live In Texas | 2026-08-07 21:27:06 -04
-Recent track #23           : Linkin Park — One Step Closer - Live | 2026-08-07 21:23:50 -04
-Recent track #24           : Linkin Park — In the End - Live | 2026-08-07 21:19:37 -04
-Recent track #25           : Linkin Park — Crawling - Live | 2026-08-07 21:16:05 -04
+Recent track #1            : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
+Recent track #2            : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
+Recent track #3            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
+Recent track #4            : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
+Recent track #5            : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
+Recent track #6            : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
+Recent track #7            : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
+Recent track #8            : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
+Recent track #9            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
+Recent track #10           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
+Recent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
+Recent track #12           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
+Recent track #13           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
+Recent track #14           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
+Recent track #15           : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
+Recent track #16           : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
+Recent track #17           : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
+Recent track #18           : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
+Recent track #19           : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
+Recent track #20           : Linkin Park — By Myself - Live In Texas | 2026-08-07 22:13:54 -04
+Recent track #21           : Killswitch Engage — The End of Heartache | 2026-08-07 22:09:51 -04
+Recent track #22           : Stone Sour — Say You'll Haunt Me | 2026-08-07 22:04:57 -04
+Recent track #23           : P.O.D. — Goodbye for Now | 2026-08-07 22:00:36 -04
+Recent track #24           : A Perfect Circle — Passive | 2026-08-07 21:56:08 -04
+Recent track #25           : 3 Doors Down — Ticket To Heaven | 2026-08-07 21:52:01 -04
 ------------------------------------------------------------
 Last known device         : Felipe’s MacBook Air Silicon (Computer)
 Last known volume         : 65%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
-Last played (UTC)         : 2026-08-10 17:31:43Z
+Last played (UTC)         : 2026-08-10 21:13:26Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 21:00
-Heatmap (recent)          :     ▁        ▂       █▅▁
+Peak hour (recent)        : 16:00
+Heatmap (recent)          :     ▂        ▃  █▂   ▂█▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-10 19:19:31Z
-Week window (UTC)         : 2026-08-03 19:19:31Z → 2026-08-10 19:19:31Z
-Tracks played (last 24h)  : 3
+Snapshot captured (UTC)   : 2026-08-10 22:00:41Z
+Week window (UTC)         : 2026-08-03 22:00:41Z → 2026-08-10 22:00:41Z
+Tracks played (last 24h)  : 12
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : Tomasz Stanko Quartet
+Dominant artist (24h)     : Miles Davis Quintet
 Dominant artist (7d)      : Linkin Park
-Listening pattern (24h)   : Light activity
-Activity status (24h)     : LOW
+Listening pattern (24h)   : Regular cadence
+Activity status (24h)     : MEDIUM
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 13:00
-Peak hour (7d)            : 20:00
-Heatmap (24h)             :              █          
-Heatmap (7d)              :     ▁        ▁     ▁█▇▃▁
+Peak hour (24h)           : 16:00
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :              ▃  █▂      
+Heatmap (7d)              :     ▁        ▂  ▄▁  ▆█▄▁
 ------------------------------------------------------------
-Sessions (24h)            : 1
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 01:20:23
-Top genres (24h)          : ambient jazz(2) | free jazz(2) | jazz(2)
-Top genres (7d)           : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(6) | ambient jazz(4)
+Sessions (24h)            : 2
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 01:24:20
+Top genres (24h)          : jazz(14) | bebop(9) | cool jazz(9) | hard bop(9) | free jazz(7) | jazz ballads(7)
+Top genres (7d)           : alternative metal(31) | nu metal(27) | rap metal(25) | rock(23) | jazz(16) | bebop(9)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Tomasz Stanko Quartet — Trista
-Last played (UTC)         : 2026-08-10 17:31:43Z
+Last played               : Miles Davis Quintet — Tune Up
+Last played (UTC)         : 2026-08-10 21:13:26Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → Tomasz Stanko Quartet — Trista
-Δ last played (since last): 2026-08-08 08:01:19Z → 2026-08-10 17:31:43Z
+Δ track (since last)      : Tomasz Stanko Quartet — Trista → Miles Davis Quintet — Tune Up
+Δ last played (since last): 2026-08-10 17:31:43Z → 2026-08-10 21:13:26Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:47:48
-Telemetry age             : 01:47:48
-Δ time (since last report): 03:08:26
+Time since last play      : 00:47:16
+Telemetry age             : 00:47:16
+Δ time (since last report): 02:41:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,14 +1584,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
-Dominant artist           : Tomasz Stanko Quartet
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 12
+Dominant artist           : Miles Davis Quintet
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-03 19:19:31Z → 2026-08-10 19:19:31Z
+Week window (UTC)         : 2026-08-03 22:00:41Z → 2026-08-10 22:00:41Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1599,22 +1599,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 13:00
-Peak hour (7d)            : 20:00
-Heatmap (24h)             :              █          
-Heatmap (7d)              :     ▁        ▁     ▁█▇▃▁
+Peak hour (24h)           : 16:00
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :              ▃  █▂      
+Heatmap (7d)              :     ▁        ▂  ▄▁  ▆█▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 4
-Avg inter-play gap (7d)   : 01:20:23
+Sessions (24h)            : 2
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 01:24:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(2) | free jazz(2) | jazz(2)
-Top genres (7d)           : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(6) | ambient jazz(4)
+Top genres (24h)          : jazz(14) | bebop(9) | cool jazz(9) | hard bop(9) | free jazz(7) | jazz ballads(7)
+Top genres (7d)           : alternative metal(31) | nu metal(27) | rap metal(25) | rock(23) | jazz(16) | bebop(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-10 19:19:31Z
+Report generated (UTC)    : 2026-08-10 22:00:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
