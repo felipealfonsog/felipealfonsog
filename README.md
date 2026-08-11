@@ -1485,53 +1485,53 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Miles Davis Quintet — Tune Up
+Last track played         : Silverchair — Suicidal Dream
 ------------------------------------------------------------
-Recent track #1            : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
-Recent track #2            : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
-Recent track #3            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
-Recent track #4            : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
-Recent track #5            : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
-Recent track #6            : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
-Recent track #7            : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
-Recent track #8            : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
-Recent track #9            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
-Recent track #10           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
-Recent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
-Recent track #12           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
-Recent track #13           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
-Recent track #14           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
-Recent track #15           : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
-Recent track #16           : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
-Recent track #17           : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
-Recent track #18           : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
-Recent track #19           : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
-Recent track #20           : Linkin Park — By Myself - Live In Texas | 2026-08-07 22:13:54 -04
-Recent track #21           : Killswitch Engage — The End of Heartache | 2026-08-07 22:09:51 -04
-Recent track #22           : Stone Sour — Say You'll Haunt Me | 2026-08-07 22:04:57 -04
-Recent track #23           : P.O.D. — Goodbye for Now | 2026-08-07 22:00:36 -04
-Recent track #24           : A Perfect Circle — Passive | 2026-08-07 21:56:08 -04
-Recent track #25           : 3 Doors Down — Ticket To Heaven | 2026-08-07 21:52:01 -04
+Recent track #1            : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04
+Recent track #2            : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04
+Recent track #3            : Silverchair — Shade | 2026-08-10 20:44:11 -04
+Recent track #4            : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04
+Recent track #5            : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
+Recent track #6            : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
+Recent track #7            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
+Recent track #8            : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
+Recent track #9            : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
+Recent track #10           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
+Recent track #11           : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
+Recent track #12           : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
+Recent track #13           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
+Recent track #14           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
+Recent track #15           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
+Recent track #16           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
+Recent track #17           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
+Recent track #18           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
+Recent track #19           : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
+Recent track #20           : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
+Recent track #21           : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
+Recent track #22           : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
+Recent track #23           : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
+Recent track #24           : Linkin Park — By Myself - Live In Texas | 2026-08-07 22:13:54 -04
+Recent track #25           : Killswitch Engage — The End of Heartache | 2026-08-07 22:09:51 -04
 ------------------------------------------------------------
 Last known device         : Felipe’s MacBook Air Silicon (Computer)
 Last known volume         : 65%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
-Last played (UTC)         : 2026-08-10 21:13:26Z
+Last played (UTC)         : 2026-08-11 01:07:51Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 16:00
-Heatmap (recent)          :     ▂        ▃  █▂   ▂█▂
+Heatmap (recent)          :     ▂        ▃  █▂  ▃▁▆▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-10 22:00:41Z
-Week window (UTC)         : 2026-08-03 22:00:41Z → 2026-08-10 22:00:41Z
-Tracks played (last 24h)  : 12
+Snapshot captured (UTC)   : 2026-08-11 02:30:13Z
+Week window (UTC)         : 2026-08-04 02:30:13Z → 2026-08-11 02:30:13Z
+Tracks played (last 24h)  : 16
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : Miles Davis Quintet
+Dominant artist (24h)     : Silverchair
 Dominant artist (7d)      : Linkin Park
 Listening pattern (24h)   : Regular cadence
 Activity status (24h)     : MEDIUM
@@ -1540,14 +1540,14 @@ Cadence classification    : HIGH
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :              ▃  █▂      
+Heatmap (24h)             :              ▃  █▂  ▃▁  
 Heatmap (7d)              :     ▁        ▂  ▄▁  ▆█▄▁
 ------------------------------------------------------------
-Sessions (24h)            : 2
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:24:20
+Sessions (24h)            : 3
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 01:28:53
 Top genres (24h)          : jazz(14) | bebop(9) | cool jazz(9) | hard bop(9) | free jazz(7) | jazz ballads(7)
-Top genres (7d)           : alternative metal(31) | nu metal(27) | rap metal(25) | rock(23) | jazz(16) | bebop(9)
+Top genres (7d)           : alternative metal(27) | nu metal(23) | rap metal(21) | rock(19) | jazz(16) | bebop(9)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1562,17 +1562,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Miles Davis Quintet — Tune Up
-Last played (UTC)         : 2026-08-10 21:13:26Z
+Last played               : Silverchair — Suicidal Dream
+Last played (UTC)         : 2026-08-11 01:07:51Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tomasz Stanko Quartet — Trista → Miles Davis Quintet — Tune Up
-Δ last played (since last): 2026-08-10 17:31:43Z → 2026-08-10 21:13:26Z
+Δ track (since last)      : Miles Davis Quintet — Tune Up → Silverchair — Suicidal Dream
+Δ last played (since last): 2026-08-10 21:13:26Z → 2026-08-11 01:07:51Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:47:16
-Telemetry age             : 00:47:16
-Δ time (since last report): 02:41:11
+Time since last play      : 01:22:23
+Telemetry age             : 01:22:23
+Δ time (since last report): 04:29:33
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1584,14 +1584,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
-Dominant artist           : Miles Davis Quintet
+Tracks played (last 24h)  : 16
+Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-03 22:00:41Z → 2026-08-10 22:00:41Z
+Week window (UTC)         : 2026-08-04 02:30:13Z → 2026-08-11 02:30:13Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1601,20 +1601,20 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :              ▃  █▂      
+Heatmap (24h)             :              ▃  █▂  ▃▁  
 Heatmap (7d)              :     ▁        ▂  ▄▁  ▆█▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 5
-Avg inter-play gap (7d)   : 01:24:20
+Sessions (24h)            : 3
+Sessions (7d)             : 6
+Avg inter-play gap (7d)   : 01:28:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(14) | bebop(9) | cool jazz(9) | hard bop(9) | free jazz(7) | jazz ballads(7)
-Top genres (7d)           : alternative metal(31) | nu metal(27) | rap metal(25) | rock(23) | jazz(16) | bebop(9)
+Top genres (7d)           : alternative metal(27) | nu metal(23) | rap metal(21) | rock(19) | jazz(16) | bebop(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-10 22:00:41Z
+Report generated (UTC)    : 2026-08-11 02:30:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
