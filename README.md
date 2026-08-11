@@ -1527,8 +1527,8 @@ Heatmap (recent)          :     ▂        ▃  █▂  ▃▁▆▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-11 02:30:13Z
-Week window (UTC)         : 2026-08-04 02:30:13Z → 2026-08-11 02:30:13Z
+Snapshot captured (UTC)   : 2026-08-11 04:42:49Z
+Week window (UTC)         : 2026-08-04 04:42:49Z → 2026-08-11 04:42:49Z
 Tracks played (last 24h)  : 16
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Silverchair
@@ -1566,13 +1566,13 @@ Last played               : Silverchair — Suicidal Dream
 Last played (UTC)         : 2026-08-11 01:07:51Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Miles Davis Quintet — Tune Up → Silverchair — Suicidal Dream
-Δ last played (since last): 2026-08-10 21:13:26Z → 2026-08-11 01:07:51Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:22:23
-Telemetry age             : 01:22:23
-Δ time (since last report): 04:29:33
+Time since last play      : 03:34:58
+Telemetry age             : 03:34:58
+Δ time (since last report): 02:12:36
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-04 02:30:13Z → 2026-08-11 02:30:13Z
+Week window (UTC)         : 2026-08-04 04:42:49Z → 2026-08-11 04:42:49Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-11 02:30:13Z
+Report generated (UTC)    : 2026-08-11 04:42:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
