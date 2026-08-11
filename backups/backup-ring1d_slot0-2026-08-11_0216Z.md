@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-08-10_0223Z
+ snapshot_utc : 2026-08-11_0216Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -530,7 +530,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-08-09T18:54:22+00:00 | last_update=2026-08-09T18:54:22+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-08-10T19:09:31+00:00 | last_update=2026-08-10T19:09:31+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -700,13 +700,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. DEGRADED
 HTTP................ 403 Forbidden
-LATENCY............. 85 ms
-TTFB................ 84 ms
+LATENCY............. 55 ms
+TTFB................ 54 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 84d
+TLS_EXPIRY.......... 83d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -735,7 +735,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-08-09T04:22:21Z
+LAST_PROBE_UTC...... 2026-08-10T04:43:31Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -776,18 +776,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : residential_sector
-latitude       : -33.441667
-longitude      : -70.653580
-altitude       : 112 m
-gps_accuracy   : ±5.0 m
-heading        : 189°
-speed          : 4.9 km/h
-status         : walking
+latitude       : -33.441772
+longitude      : -70.653799
+altitude       : 140 m
+gps_accuracy   : ±5.8 m
+heading        : 193°
+speed          : 0.2 km/h
+status         : stationary
 phase          : evening
 local_time     : 20:58
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-08-10 00:58:35 UTC
+signal         : nominal
+updated_utc    : 2026-08-11 00:58:05 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -906,7 +906,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-08-09 19:05:09Z
+DSN snapshot (UTC)       : 2026-08-10 19:22:24Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -917,15 +917,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.58e9 km | 170.997 AU
-Heliocentric distance    : 171.408 AU
-Relative speed           : 42.672 km/s
+Earth distance           : 25.58e9 km | 171.019 AU
+Heliocentric distance    : 171.418 AU
+Relative speed           : 42.769 km/s
 ------------------------------------------------------------
-One-way light time       : 23:42:08
-Round-trip latency       : 47:24:17
+One-way light time       : 23:42:19
+Round-trip latency       : 47:24:39
 ------------------------------------------------------------
-Δ distance (since last)  : +787,728 km
-Mission age              : 48 years, 350 days
+Δ distance (since last)  : +762,331 km
+Mission age              : 48 years, 351 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -936,19 +936,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.38e9 km | 142.921 AU
-Heliocentric distance    : 143.632 AU
-Relative speed           : 36.513 km/s
+Earth distance           : 21.38e9 km | 142.936 AU
+Heliocentric distance    : 143.641 AU
+Relative speed           : 36.649 km/s
 ------------------------------------------------------------
-One-way light time       : 19:48:38
-Round-trip latency       : 39:37:17
+One-way light time       : 19:48:46
+Round-trip latency       : 39:37:32
 ------------------------------------------------------------
-Δ distance (since last)  : +528,447 km
-Mission age              : 49 years, 1 days
+Δ distance (since last)  : +515,836 km
+Mission age              : 49 years, 2 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-08-09 19:05:14Z
+Report generated (UTC)   : 2026-08-10 19:22:29Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1492,69 +1492,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Tomasz Stanko Quintet — Terminal 7
+Last track played         : Miles Davis Quintet — Tune Up
 ------------------------------------------------------------
-Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
-Recent track #2            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
-Recent track #3            : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
-Recent track #4            : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
-Recent track #5            : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
-Recent track #6            : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
-Recent track #7            : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
-Recent track #8            : Linkin Park — By Myself - Live In Texas | 2026-08-07 22:13:54 -04
-Recent track #9            : Killswitch Engage — The End of Heartache | 2026-08-07 22:09:51 -04
-Recent track #10           : Stone Sour — Say You'll Haunt Me | 2026-08-07 22:04:57 -04
-Recent track #11           : P.O.D. — Goodbye for Now | 2026-08-07 22:00:36 -04
-Recent track #12           : A Perfect Circle — Passive | 2026-08-07 21:56:08 -04
-Recent track #13           : 3 Doors Down — Ticket To Heaven | 2026-08-07 21:52:01 -04
-Recent track #14           : Linkin Park — Don't Stay - Live In Texas | 2026-08-07 21:48:38 -04
-Recent track #15           : Chevelle — Letter from a Thief | 2026-08-07 21:45:22 -04
-Recent track #16           : Fuel — Hemorrhage (In My Hands) - Acoustic Version | 2026-08-07 21:39:06 -04
-Recent track #17           : A Perfect Circle — The Outsider (Live) | 2026-08-07 21:35:18 -04
-Recent track #18           : 3 Doors Down — Changes | 2026-08-07 21:30:59 -04
-Recent track #19           : Linkin Park — With You - Live In Texas | 2026-08-07 21:27:06 -04
-Recent track #20           : Linkin Park — One Step Closer - Live | 2026-08-07 21:23:50 -04
-Recent track #21           : Linkin Park — In the End - Live | 2026-08-07 21:19:37 -04
-Recent track #22           : Linkin Park — Crawling - Live | 2026-08-07 21:16:05 -04
-Recent track #23           : Linkin Park — Numb - Live | 2026-08-07 21:12:32 -04
-Recent track #24           : Linkin Park — P5hng Me A*wy - Live | 2026-08-07 21:09:25 -04
-Recent track #25           : Linkin Park — From the Inside - Live | 2026-08-07 21:04:20 -04
+Recent track #1            : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
+Recent track #2            : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
+Recent track #3            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
+Recent track #4            : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
+Recent track #5            : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
+Recent track #6            : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
+Recent track #7            : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
+Recent track #8            : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
+Recent track #9            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
+Recent track #10           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
+Recent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
+Recent track #12           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
+Recent track #13           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
+Recent track #14           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
+Recent track #15           : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
+Recent track #16           : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
+Recent track #17           : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
+Recent track #18           : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
+Recent track #19           : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
+Recent track #20           : Linkin Park — By Myself - Live In Texas | 2026-08-07 22:13:54 -04
+Recent track #21           : Killswitch Engage — The End of Heartache | 2026-08-07 22:09:51 -04
+Recent track #22           : Stone Sour — Say You'll Haunt Me | 2026-08-07 22:04:57 -04
+Recent track #23           : P.O.D. — Goodbye for Now | 2026-08-07 22:00:36 -04
+Recent track #24           : A Perfect Circle — Passive | 2026-08-07 21:56:08 -04
+Recent track #25           : 3 Doors Down — Ticket To Heaven | 2026-08-07 21:52:01 -04
 ------------------------------------------------------------
 Last known device         : Felipe’s MacBook Air Silicon (Computer)
 Last known volume         : 65%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
-Last played (UTC)         : 2026-08-08 08:01:19Z
+Last played (UTC)         : 2026-08-10 21:13:26Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 21:00
-Heatmap (recent)          :     ▁                █▄▁
+Peak hour (recent)        : 16:00
+Heatmap (recent)          :     ▂        ▃  █▂   ▂█▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-09 21:50:27Z
-Week window (UTC)         : 2026-08-02 21:50:27Z → 2026-08-09 21:50:27Z
-Tracks played (last 24h)  : 0
+Snapshot captured (UTC)   : 2026-08-10 22:00:41Z
+Week window (UTC)         : 2026-08-03 22:00:41Z → 2026-08-10 22:00:41Z
+Tracks played (last 24h)  : 12
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : N/A
+Dominant artist (24h)     : Miles Davis Quintet
 Dominant artist (7d)      : Linkin Park
-Listening pattern (24h)   : No activity
-Activity status (24h)     : NONE
+Listening pattern (24h)   : Regular cadence
+Activity status (24h)     : MEDIUM
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 20:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▁              ▃█▇▃▁
+Peak hour (24h)           : 16:00
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :              ▃  █▂      
+Heatmap (7d)              :     ▁        ▂  ▄▁  ▆█▄▁
 ------------------------------------------------------------
-Sessions (24h)            : N/A
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:10:25
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(9) | grunge(3)
+Sessions (24h)            : 2
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 01:24:20
+Top genres (24h)          : jazz(14) | bebop(9) | cool jazz(9) | hard bop(9) | free jazz(7) | jazz ballads(7)
+Top genres (7d)           : alternative metal(31) | nu metal(27) | rap metal(25) | rock(23) | jazz(16) | bebop(9)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1569,17 +1569,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-08-08 08:01:19Z
+Last played               : Miles Davis Quintet — Tune Up
+Last played (UTC)         : 2026-08-10 21:13:26Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Tomasz Stanko Quartet — Trista → Miles Davis Quintet — Tune Up
+Δ last played (since last): 2026-08-10 17:31:43Z → 2026-08-10 21:13:26Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 37:49:08
-Telemetry age             : 37:49:08
-Δ time (since last report): 02:46:10
+Time since last play      : 00:47:16
+Telemetry age             : 00:47:16
+Δ time (since last report): 02:41:11
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,14 +1591,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 12
+Dominant artist           : Miles Davis Quintet
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-02 21:50:27Z → 2026-08-09 21:50:27Z
+Week window (UTC)         : 2026-08-03 22:00:41Z → 2026-08-10 22:00:41Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1606,22 +1606,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 20:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▁              ▃█▇▃▁
+Peak hour (24h)           : 16:00
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :              ▃  █▂      
+Heatmap (7d)              :     ▁        ▂  ▄▁  ▆█▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 3
-Avg inter-play gap (7d)   : 00:10:25
+Sessions (24h)            : 2
+Sessions (7d)             : 5
+Avg inter-play gap (7d)   : 01:24:20
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(40) | nu metal(36) | rap metal(34) | rock(32) | post-grunge(9) | grunge(3)
+Top genres (24h)          : jazz(14) | bebop(9) | cool jazz(9) | hard bop(9) | free jazz(7) | jazz ballads(7)
+Top genres (7d)           : alternative metal(31) | nu metal(27) | rap metal(25) | rock(23) | jazz(16) | bebop(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1636,7 +1636,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-09 21:50:27Z
+Report generated (UTC)    : 2026-08-10 22:00:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1994,7 +1994,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 09 August 2026
+From: 04 December 2023 - To: 10 August 2026
 
 Total Time       : 1,049 hrs 36 mins
 Mostly coding in : Other
@@ -2047,7 +2047,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 10/08/2026 01:19:26 UTC
+Last updated     : 11/08/2026 01:17:27 UTC
 
 ```
 <!--END_SECTION:wakastats-->
