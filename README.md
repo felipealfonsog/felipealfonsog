@@ -179,11 +179,13 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://custom-icon-badges.demolab.com/badge/Nostr-6f42c1?style=plastic&logo=nostr-logo&logoColor=ffffff" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2) [<img src="https://img.shields.io/badge/-soundcloud-FF5500?style=plastic&logo=soundcloud&logoColor=white&labelColor=FF5500&logoWidth=20" height="19"/>](https://soundcloud.com/felipealfonsog) [<img src="https://custom-icon-badges.demolab.com/badge/InsightTimer-69ACAC?style=plastic&logo=insighttimer&logoColor=ffffff" height="19"/>](https://insighttimer.com/daiunjoshin) [<img src="https://custom-icon-badges.demolab.com/badge/7Cups_Listener-F5F7FA?style=plastic&logo=7cups&logoColor=ffffff" height="19"/>](https://www.7cups.com/@felipealfonsog)
 
 
+<!--
 
-
-[<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.qzz.io/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.qzz.io/)
+-->
+
+[<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 [<img src="https://img.shields.io/badge/WordPress-Blog-21759B?style=plastic&logo=wordpress&logoColor=white&labelColor=21759B&color=21759B&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/blog/)
