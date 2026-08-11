@@ -179,11 +179,13 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://custom-icon-badges.demolab.com/badge/Nostr-6f42c1?style=plastic&logo=nostr-logo&logoColor=ffffff" height="19"/>](https://primal.net/p/npub103p4pdyuerlaxl5xd966wgtc5vtnfr9mphjf5epf4uul5005z3lqs252n2) [<img src="https://img.shields.io/badge/-soundcloud-FF5500?style=plastic&logo=soundcloud&logoColor=white&labelColor=FF5500&logoWidth=20" height="19"/>](https://soundcloud.com/felipealfonsog) [<img src="https://custom-icon-badges.demolab.com/badge/InsightTimer-69ACAC?style=plastic&logo=insighttimer&logoColor=ffffff" height="19"/>](https://insighttimer.com/daiunjoshin) [<img src="https://custom-icon-badges.demolab.com/badge/7Cups_Listener-F5F7FA?style=plastic&logo=7cups&logoColor=ffffff" height="19"/>](https://www.7cups.com/@felipealfonsog)
 
 
+<!--
 
-
-[<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.qzz.io/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.qzz.io/)
+-->
+
+[<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
 [<img src="https://img.shields.io/badge/WordPress-Blog-21759B?style=plastic&logo=wordpress&logoColor=white&labelColor=21759B&color=21759B&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/blog/)
@@ -523,7 +525,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-07-25T08:20:20+00:00 | last_update=2026-07-25T08:20:20+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-08-11T19:14:59+00:00 | last_update=2026-08-11T19:14:59+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -691,22 +693,22 @@ GNLZ.CL :: SITE OPERATIONS INTELLIGENCE
 
 TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
-STATUS.............. ONLINE
-HTTP................ 200 OK
-LATENCY............. 218 ms
-TTFB................ 217 ms
+STATUS.............. DEGRADED
+HTTP................ 403 Forbidden
+LATENCY............. 127 ms
+TTFB................ 126 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 39d
+TLS_EXPIRY.......... 82d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
 ASN_HINT............ CLOUDFLARE
 HEADER_HYGIENE...... PARTIAL
-HSTS................ PASS
-CSP................. MISS
+HSTS................ MISS
+CSP................. PASS
 XFO................. PASS
 REFPOL.............. PASS
 PERMPOL............. PASS
@@ -726,9 +728,9 @@ VIEWS_7D............ 6882
 UNIQUES_24H......... 402
 BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
-CONTENT_LENGTH...... 47 KB
+CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-07-25T05:48:00Z
+LAST_PROBE_UTC...... 2026-08-11T04:25:00Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -768,19 +770,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444363
-longitude      : -70.650322
-altitude       : 31 m
-gps_accuracy   : ±4.4 m
-heading        : 300°
-speed          : 0.4 km/h
-status         : stationary
-phase          : overnight
-local_time     : 03:50
+location       : transit_corridor
+latitude       : -33.446972
+longitude      : -70.661520
+altitude       : 11 m
+gps_accuracy   : ±7.6 m
+heading        : 112°
+speed          : 7.1 km/h
+status         : walking
+phase          : workday
+local_time     : 14:46
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-07-25 07:50:44 UTC
+updated_utc    : 2026-08-11 18:46:43 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -899,7 +901,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-07-25 03:42:28Z
+DSN snapshot (UTC)       : 2026-08-11 19:28:07Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -910,15 +912,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.53e9 km | 170.672 AU
-Heliocentric distance    : 171.256 AU
-Relative speed           : 40.909 km/s
+Earth distance           : 25.59e9 km | 171.042 AU
+Heliocentric distance    : 171.428 AU
+Relative speed           : 42.861 km/s
 ------------------------------------------------------------
-One-way light time       : 23:39:26
-Round-trip latency       : 47:18:52
+One-way light time       : 23:42:31
+Round-trip latency       : 47:25:01
 ------------------------------------------------------------
-Δ distance (since last)  : +962,001 km
-Mission age              : 48 years, 335 days
+Δ distance (since last)  : +784,612 km
+Mission age              : 48 years, 352 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -929,19 +931,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.35e9 km | 142.717 AU
-Heliocentric distance    : 143.496 AU
-Relative speed           : 34.287 km/s
+Earth distance           : 21.39e9 km | 142.951 AU
+Heliocentric distance    : 143.649 AU
+Relative speed           : 36.783 km/s
 ------------------------------------------------------------
-One-way light time       : 19:46:57
-Round-trip latency       : 39:33:53
+One-way light time       : 19:48:53
+Round-trip latency       : 39:37:47
 ------------------------------------------------------------
-Δ distance (since last)  : +554,845 km
-Mission age              : 48 years, 351 days
+Δ distance (since last)  : +535,380 km
+Mission age              : 49 years, 3 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-07-25 03:42:32Z
+Report generated (UTC)   : 2026-08-11 19:28:12Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1485,101 +1487,151 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Matthew Halsall — Breathless (Bonus Track) - Special Edition
-Recent track #1          : Matthew Halsall — Breathless (Bonus Track) - Special Edition | 2026-07-25 07:36:57 -04
-Recent track #2          : GoGo Penguin — Murmuration | 2026-07-25 07:29:56 -04
-Recent track #3          : Mammal Hands — Mansions of Millions of Years | 2026-07-25 07:25:42 -04
-Recent track #4          : Yussef Dayes, Shabaka Hutchings — Raisins Under the Sun (feat. Shabaka Hutchings) | 2026-07-25 07:19:34 -04
-Recent track #5          : Shabaka and the Ancestors — Go My Heart, Go To Heaven | 2026-07-25 07:15:01 -04
-Last known device         : iPhone (Smartphone)
-Last known volume         : 100%
+Last track played         : Tomasz Stanko Quintet — Terminal 7
+------------------------------------------------------------
+Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04
+Recent track #2            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04
+Recent track #3            : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04
+Recent track #4            : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04
+Recent track #5            : Silverchair — Shade | 2026-08-10 20:44:11 -04
+Recent track #6            : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04
+Recent track #7            : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
+Recent track #8            : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
+Recent track #9            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
+Recent track #10           : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
+Recent track #11           : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
+Recent track #12           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
+Recent track #13           : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
+Recent track #14           : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
+Recent track #15           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
+Recent track #16           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
+Recent track #17           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
+Recent track #18           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
+Recent track #19           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
+Recent track #20           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
+Recent track #21           : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
+Recent track #22           : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
+Recent track #23           : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
+Recent track #24           : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
+Recent track #25           : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
+------------------------------------------------------------
+Last known device         : Felipe’s MacBook Air Silicon (Computer)
+Last known volume         : 65%
 Volume telemetry          : OK
-Last played (UTC)         : 2026-07-25 11:36:57Z
+Volume bar                : ▁▁▂▃▃▄▅▅
+Last played (UTC)         : 2026-08-11 19:57:08Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 07:00
-Heatmap (recent)          :        █                
+Peak hour (recent)        : 16:00
+Heatmap (recent)          :     ▂        ▃ ▂█▂  ▃▁▃▂
 ------------------------------------------------------------
-Playback state            : ONLINE (active session)
-Status                    : PLAYING
-SITREP                    : GREEN
+HISTORICAL LISTENING SNAPSHOT
+------------------------------------------------------------
+Snapshot captured (UTC)   : 2026-08-11 22:07:35Z
+Week window (UTC)         : 2026-08-04 22:07:35Z → 2026-08-11 22:07:35Z
+Tracks played (last 24h)  : 6
+Total tracks played (7d)  : 50
+Dominant artist (24h)     : Silverchair
+Dominant artist (7d)      : Linkin Park
+Listening pattern (24h)   : Light activity
+Activity status (24h)     : LOW
+Cadence classification    : HIGH
+------------------------------------------------------------
+Local timezone            : America/Santiago
+Peak hour (24h)           : 20:00
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :                ▅    █▃  
+Heatmap (7d)              :     ▁        ▂ ▁▄▁  ▄█▄▁
+------------------------------------------------------------
+Sessions (24h)            : 2
+Sessions (7d)             : 7
+Avg inter-play gap (7d)   : 01:51:49
+Top genres (24h)          : grunge(3) | post-grunge(3) | ambient jazz(2) | free jazz(2) | jazz(2)
+Top genres (7d)           : alternative metal(25) | nu metal(21) | rap metal(19) | jazz(18) | rock(17) | free jazz(11)
+------------------------------------------------------------
+Playback state            : OFFLINE (no active session)
+Status                    : IDLE
+SITREP                    : AMBER
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Smartphone
-Device name               : iPhone
-Volume                    : 100%
+Device type               : Computer
+Device name               : Felipe’s MacBook Air Silicon
+Volume                    : 65%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Volume bar                : ▁▁▂▃▃▄▅▅
 ------------------------------------------------------------
-Now playing               : Manu Katché — Number One
-Last played               : Matthew Halsall — Breathless (Bonus Track) - Special Edition
-Last played (UTC)         : 2026-07-25 11:36:57Z
-Last activity type        : PLAYBACK_ACTIVE
+Now playing               : N/A
+Last played               : Tomasz Stanko Quintet — Terminal 7
+Last played (UTC)         : 2026-08-11 19:57:08Z
+Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Downface — Bring Me Down → Matthew Halsall — Breathless (Bonus Track) - Special Edition
-Δ last played (since last): 2026-07-24 14:13:45Z → 2026-07-25 11:36:57Z
-Δ status (since last)     : IDLE → PLAYING
+Δ track (since last)      : Silverchair — Suicidal Dream → Tomasz Stanko Quintet — Terminal 7
+Δ last played (since last): 2026-08-11 01:07:51Z → 2026-08-11 19:57:08Z
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:05:42
-Telemetry age             : 00:05:42
-Δ time (since last report): 07:59:26
+Time since last play      : 02:10:27
+Telemetry age             : 02:10:27
+Δ time (since last report): 05:55:08
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
-Dominant artist           : Matthew Halsall
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 6
+Dominant artist           : Silverchair
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-07-18 11:42:39Z → 2026-07-25 11:42:39Z
-Total tracks played       : 26
-Dominant artist           : Matthew Halsall
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-08-04 22:07:35Z → 2026-08-11 22:07:35Z
+Total tracks played       : 50
+Dominant artist           : Linkin Park
+Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
-Peak hour (7d)            : 06:00
-Heatmap (24h)             :     ▄▇▇█  ▃▁            
-Heatmap (7d)              : ▁ ▁ ▄▇██  ▃▁▁           
+Peak hour (24h)           : 20:00
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :                ▅    █▃  
+Heatmap (7d)              :     ▁        ▂ ▁▄▁  ▄█▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 04:37:08
+Avg inter-play gap (7d)   : 01:51:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(17) | nu jazz(16) | indie jazz(15) | ambient jazz(11) | experimental jazz(9) | free jazz(7)
-Top genres (7d)           : jazz(18) | nu jazz(17) | indie jazz(16) | ambient jazz(11) | experimental jazz(10) | free jazz(8)
-Artist lookups (this run) : 9 (cached)
+Top genres (24h)          : grunge(3) | post-grunge(3) | ambient jazz(2) | free jazz(2) | jazz(2)
+Top genres (7d)           : alternative metal(25) | nu metal(21) | rap metal(19) | jazz(18) | rock(17) | free jazz(11)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
+Client ID state           : CONFIGURED
+Client secret state       : CONFIGURED
 Refresh token state       : PASSING
 User action required      : NO
 Secret to update          : NONE
+Recovery repository       : felipealfonsog/felipealfonsog.github.io
 Recovery workflow         : update-spotify-callback.yml
-Callback page             : spotify-callback.html
+Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-07-25 11:42:39Z
+Report generated (UTC)    : 2026-08-11 22:07:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1937,9 +1989,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 24 July 2026
+From: 04 December 2023 - To: 11 August 2026
 
-Total Time       : 1,044 hrs 2 mins
+Total Time       : 1,049 hrs 36 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 4 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -1948,49 +2000,49 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          693 hrs 14 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.40 %
-Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.92 %
-Python         140 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.49 %
-HTML           138 hrs 3 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
-PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.45 %
-Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.74 %
-C              76 hrs 25 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.32 %
-C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.83 %
-Text           39 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.80 %
-YAML           37 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.64 %
+Other          738 hrs 7 mins ●●●●●●●●●●●●●●●●●●○○○○○○○○  70.32 %
+Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.84 %
+Python         141 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.51 %
+HTML           138 hrs 14 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
+PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.40 %
+Markdown       80 hrs 48 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   7.70 %
+C              76 hrs 25 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.28 %
+C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.81 %
+Text           39 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.78 %
+YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.63 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,020 hrs 19 mins ●●●●●●●●●●●●●●●●●●●●●●●●●○  97.73 %
-Linux          713 hrs 32 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.34 %
+Mac            1,069 hrs 16 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.12 %
 
 EDITORS - APPS
 --------------
-VS Code        658 hrs 27 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.07 %
-Firefox        541 hrs 10 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.84 %
-Vim            337 hrs 54 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.36 %
-Terminal       38 hrs 58 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
-Spotify        25 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.46 %
-Termius        21 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.08 %
-‎WhatsApp      17 hrs 3 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.63 %
-Dia            16 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.59 %
-Acrobat        13 hrs 51 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.33 %
-TeXstudio      13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.29 %
-FileZilla      8 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
-TextMate       6 hrs 43 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.64 %
+VS Code        659 hrs 35 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.84 %
+Firefox        561 hrs 6 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.46 %
+Vim            337 hrs 54 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.19 %
+Terminal       39 hrs 35 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
+Spotify        31 hrs 12 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.97 %
+Termius        24 hrs 2 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.29 %
+Dia            20 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.92 %
+‎WhatsApp      18 hrs 8 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.73 %
+Pages          15 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.52 %
+Acrobat        14 hrs 31 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.38 %
+TeXstudio      13 hrs 42 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
+FileZilla      8 hrs 56 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
 
 CATEGORIES
 ----------
-Coding         1,160 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       538 hrs 6 mins ●●●●●●●●●●●●●○○○○○○○○○○○○○  51.54 %
-Meeting        25 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
-Writing Docs   11 hrs 11 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.07 %
-AI Coding      1 hr 32 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.15 %
+Coding         1,186 hrs 43 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       558 hrs 3 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.17 %
+Meeting        26 hrs 53 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.56 %
+Writing Docs   13 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.25 %
+AI Coding      2 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 25/07/2026 07:59:37 UTC
+Last updated     : 11/08/2026 18:55:44 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2832,7 +2884,7 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 
 ### ⭐ Featured (Pinned)
 - [TermPDFViewer](https://github.com/felipealfonsog/TermPDFViewer): "TermPDF Viewer" is an open-source PDF file viewer designed to run in the terminal on Linux and macOS. It enables users to navigate and explore PDF files directly from the command line, providing an interactive and lightweight experience.
-  🧬 Python · Shell · C  •  ⭐ 26
+  🧬 Python · Shell · C  •  ⭐ 27
 - [Upd8All](https://github.com/felipealfonsog/Upd8All): Upd8All: Simplify package updates on Arch Linux with one command. Supports Pacman, Yay, and Homebrew. Automatically handles superuser privileges and notifies about important updates.
   🧬 Python · Shell  •  ⭐ 6
 - [NovaNav](https://github.com/felipealfonsog/NovaNav): NovaNav: Lightweight browser, delivering fast, distraction-free browsing experience. It offers essential browsing functionalities while focusing on simplicity and efficiency.
