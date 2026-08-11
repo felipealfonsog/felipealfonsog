@@ -1527,8 +1527,8 @@ Heatmap (recent)          :     ▂        ▃  █▂  ▃▁▆▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-11 04:42:49Z
-Week window (UTC)         : 2026-08-04 04:42:49Z → 2026-08-11 04:42:49Z
+Snapshot captured (UTC)   : 2026-08-11 07:40:19Z
+Week window (UTC)         : 2026-08-04 07:40:19Z → 2026-08-11 07:40:19Z
 Tracks played (last 24h)  : 16
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Silverchair
@@ -1570,9 +1570,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 03:34:58
-Telemetry age             : 03:34:58
-Δ time (since last report): 02:12:36
+Time since last play      : 06:32:28
+Telemetry age             : 06:32:28
+Δ time (since last report): 02:57:30
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1591,7 +1591,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-04 04:42:49Z → 2026-08-11 04:42:49Z
+Week window (UTC)         : 2026-08-04 07:40:19Z → 2026-08-11 07:40:19Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1629,7 +1629,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-11 04:42:49Z
+Report generated (UTC)    : 2026-08-11 07:40:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
