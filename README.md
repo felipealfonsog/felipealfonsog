@@ -1529,8 +1529,8 @@ Heatmap (recent)          :    ▁▂        ▃ ▂█▂▁▁▃▁ ▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-12 07:55:19Z
-Week window (UTC)         : 2026-08-05 07:55:19Z → 2026-08-12 07:55:19Z
+Snapshot captured (UTC)   : 2026-08-12 10:28:38Z
+Week window (UTC)         : 2026-08-05 10:28:38Z → 2026-08-12 10:28:38Z
 Tracks played (last 24h)  : 5
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Tomasz Stanko Quintet
@@ -1568,13 +1568,13 @@ Last played               : The Skinner Brothers — NOTHING ON ME
 Last played (UTC)         : 2026-08-12 07:19:53Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → The Skinner Brothers — NOTHING ON ME
-Δ last played (since last): 2026-08-11 23:34:44Z → 2026-08-12 07:19:53Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:35:26
-Telemetry age             : 00:35:26
-Δ time (since last report): 02:47:43
+Time since last play      : 03:08:46
+Telemetry age             : 03:08:46
+Δ time (since last report): 02:33:20
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1593,7 +1593,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-05 07:55:19Z → 2026-08-12 07:55:19Z
+Week window (UTC)         : 2026-08-05 10:28:38Z → 2026-08-12 10:28:38Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1617,7 +1617,7 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : ambient jazz(4) | free jazz(4) | jazz(4)
 Top genres (7d)           : alternative metal(22) | jazz(20) | nu metal(18) | rap metal(16) | rock(14) | free jazz(13)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
 ------------------------------------------------------------
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-12 07:55:19Z
+Report generated (UTC)    : 2026-08-12 10:28:38Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
