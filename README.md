@@ -1489,67 +1489,67 @@ RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
 Last track played         : Tomasz Stanko Quintet — Terminal 7
 ------------------------------------------------------------
-Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04
-Recent track #2            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04
-Recent track #3            : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04
-Recent track #4            : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04
-Recent track #5            : Silverchair — Shade | 2026-08-10 20:44:11 -04
-Recent track #6            : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04
-Recent track #7            : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
-Recent track #8            : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
-Recent track #9            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
-Recent track #10           : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
-Recent track #11           : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
-Recent track #12           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
-Recent track #13           : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
-Recent track #14           : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
-Recent track #15           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
-Recent track #16           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
-Recent track #17           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
-Recent track #18           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
-Recent track #19           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
-Recent track #20           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
-Recent track #21           : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
-Recent track #22           : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
-Recent track #23           : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
-Recent track #24           : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
-Recent track #25           : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
+Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 19:34:44 -04
+Recent track #2            : Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch | 2026-08-11 18:02:19 -04
+Recent track #3            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04
+Recent track #4            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04
+Recent track #5            : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04
+Recent track #6            : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04
+Recent track #7            : Silverchair — Shade | 2026-08-10 20:44:11 -04
+Recent track #8            : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04
+Recent track #9            : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
+Recent track #10           : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
+Recent track #11           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
+Recent track #12           : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
+Recent track #13           : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
+Recent track #14           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
+Recent track #15           : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
+Recent track #16           : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
+Recent track #17           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
+Recent track #18           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
+Recent track #19           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
+Recent track #20           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
+Recent track #21           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
+Recent track #22           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
+Recent track #23           : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
+Recent track #24           : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
+Recent track #25           : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
 ------------------------------------------------------------
 Last known device         : Felipe’s MacBook Air Silicon (Computer)
 Last known volume         : 65%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
-Last played (UTC)         : 2026-08-11 19:57:08Z
+Last played (UTC)         : 2026-08-11 23:34:44Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 16:00
-Heatmap (recent)          :     ▂        ▃ ▂█▂  ▃▁▃▂
+Heatmap (recent)          :     ▂        ▃ ▂█▂▁▁▃▁▁▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-11 22:07:35Z
-Week window (UTC)         : 2026-08-04 22:07:35Z → 2026-08-11 22:07:35Z
-Tracks played (last 24h)  : 6
+Snapshot captured (UTC)   : 2026-08-12 02:47:27Z
+Week window (UTC)         : 2026-08-05 02:47:27Z → 2026-08-12 02:47:27Z
+Tracks played (last 24h)  : 4
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : Silverchair
+Dominant artist (24h)     : Tomasz Stanko Quintet
 Dominant artist (7d)      : Linkin Park
 Listening pattern (24h)   : Light activity
 Activity status (24h)     : LOW
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 15:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :                ▅    █▃  
+Heatmap (24h)             :                █  ▄▄    
 Heatmap (7d)              :     ▁        ▂ ▁▄▁  ▄█▄▁
 ------------------------------------------------------------
-Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:51:49
-Top genres (24h)          : grunge(3) | post-grunge(3) | ambient jazz(2) | free jazz(2) | jazz(2)
-Top genres (7d)           : alternative metal(25) | nu metal(21) | rap metal(19) | jazz(18) | rock(17) | free jazz(11)
+Sessions (24h)            : 3
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 01:56:02
+Top genres (24h)          : ambient jazz(4) | free jazz(4) | jazz(4)
+Top genres (7d)           : alternative metal(23) | jazz(20) | nu metal(19) | rap metal(17) | rock(15) | free jazz(13)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1565,16 +1565,16 @@ Volume bar                : ▁▁▂▃▃▄▅▅
 ------------------------------------------------------------
 Now playing               : N/A
 Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-08-11 19:57:08Z
+Last played (UTC)         : 2026-08-11 23:34:44Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Suicidal Dream → Tomasz Stanko Quintet — Terminal 7
-Δ last played (since last): 2026-08-11 01:07:51Z → 2026-08-11 19:57:08Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): 2026-08-11 19:57:08Z → 2026-08-11 23:34:44Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:10:27
-Telemetry age             : 02:10:27
-Δ time (since last report): 05:55:08
+Time since last play      : 03:12:43
+Telemetry age             : 03:12:43
+Δ time (since last report): 04:39:52
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1586,14 +1586,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 4
+Dominant artist           : Tomasz Stanko Quintet
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-04 22:07:35Z → 2026-08-11 22:07:35Z
+Week window (UTC)         : 2026-08-05 02:47:27Z → 2026-08-12 02:47:27Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1601,22 +1601,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 15:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :                ▅    █▃  
+Heatmap (24h)             :                █  ▄▄    
 Heatmap (7d)              :     ▁        ▂ ▁▄▁  ▄█▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:51:49
+Sessions (24h)            : 3
+Sessions (7d)             : 9
+Avg inter-play gap (7d)   : 01:56:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(3) | post-grunge(3) | ambient jazz(2) | free jazz(2) | jazz(2)
-Top genres (7d)           : alternative metal(25) | nu metal(21) | rap metal(19) | jazz(18) | rock(17) | free jazz(11)
+Top genres (24h)          : ambient jazz(4) | free jazz(4) | jazz(4)
+Top genres (7d)           : alternative metal(23) | jazz(20) | nu metal(19) | rap metal(17) | rock(15) | free jazz(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-11 22:07:35Z
+Report generated (UTC)    : 2026-08-12 02:47:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
