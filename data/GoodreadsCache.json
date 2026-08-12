@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-08-12T02:36:46+00:00",
-    "last_successful_sync": "2026-08-12T02:36:46+00:00",
+    "last_attempted_sync": "2026-08-12T07:45:26+00:00",
+    "last_successful_sync": "2026-08-12T07:45:26+00:00",
     "error_message": ""
   },
   "sections": {
@@ -896,7 +896,7 @@
           "author": "José Silva",
           "link": "https://www.goodreads.com/review/show/8014617774?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369395259l/184955._SY75_.jpg",
-          "summary": "author: José Silva name: Felipe Alfonso average rating: 3.89 book published: 1977 rating: 5 read at: date added: 2025/10/23 shelves: review:",
+          "summary": "author: José Silva name: Felipe Alfonso average rating: 3.88 book published: 1977 rating: 5 read at: date added: 2025/10/23 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/8014617774?utm_medium=api&utm_source=rss",
           "pub_date": "Thu, 23 Oct 2025 06:41:49 -0700"
         },
