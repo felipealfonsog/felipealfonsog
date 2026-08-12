@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-08-11T19:14:59+00:00",
-    "last_successful_sync": "2026-08-11T19:14:59+00:00",
+    "last_attempted_sync": "2026-08-12T02:36:46+00:00",
+    "last_successful_sync": "2026-08-12T02:36:46+00:00",
     "error_message": ""
   },
   "sections": {
@@ -84,7 +84,7 @@
           "author": "Yasmina Reza",
           "link": "https://www.goodreads.com/review/show/8701260680?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1762189159l/243412126._SY75_.jpg",
-          "summary": "author: Yasmina Reza name: Felipe Alfonso average rating: 2.87 book published: rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
+          "summary": "author: Yasmina Reza name: Felipe Alfonso average rating: 2.86 book published: rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8701260680?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 20 Jun 2026 01:56:28 -0700"
         },
@@ -409,7 +409,7 @@
           "author": "Ted Gioia",
           "link": "https://www.goodreads.com/review/show/8008546862?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348549243l/177539._SX50_.jpg",
-          "summary": "author: Ted Gioia name: Felipe Alfonso average rating: 4.04 book published: 1997 rating: 0 read at: date added: 2025/10/20 shelves: to-read review:",
+          "summary": "author: Ted Gioia name: Felipe Alfonso average rating: 4.05 book published: 1997 rating: 0 read at: date added: 2025/10/20 shelves: to-read review:",
           "guid": "https://www.goodreads.com/review/show/8008546862?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 20:00:23 -0700"
         },
