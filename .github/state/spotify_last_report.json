@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-08-13 16:11:52Z",
-  "status": "PLAYING",
-  "last_track": "Tomasz Stanko Quintet — Terminal 7",
-  "last_played_utc": "2026-08-13 16:08:36Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-08-13 19:28:16Z",
+  "status": "IDLE",
+  "last_track": "Silverchair — Shade",
+  "last_played_utc": "2026-08-13 18:31:15Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -1648,9 +1648,57 @@
     ],
     "4PY51S3HuOMhnZA0Sx8FRN": []
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Tomasz Stanko Quintet — Terminal 7\n------------------------------------------------------------\nRecent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:08:36 -04\nRecent track #2            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:01:13 -04\nRecent track #3            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 11:54:14 -04\nRecent track #4            : Forward Jazz Series — Homeland (Series) | 2026-08-13 11:48:49 -04\nRecent track #5            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:26:59 -04\nRecent track #6            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:02:09 -04\nRecent track #7            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 03:19:53 -04\nRecent track #8            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 19:34:44 -04\nRecent track #9            : Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch | 2026-08-11 18:02:19 -04\nRecent track #10           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04\nRecent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04\nRecent track #12           : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04\nRecent track #13           : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04\nRecent track #14           : Silverchair — Shade | 2026-08-10 20:44:11 -04\nRecent track #15           : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04\nRecent track #16           : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04\nRecent track #17           : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04\nRecent track #18           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04\nRecent track #19           : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04\nRecent track #20           : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04\nRecent track #21           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04\nRecent track #22           : John Coltrane — Blue World | 2026-08-10 16:36:18 -04\nRecent track #23           : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04\nRecent track #24           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04\nRecent track #25           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04\n------------------------------------------------------------\nLast known device         : iPhone (Smartphone)\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nLast played (UTC)         : 2026-08-13 16:08:36Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 16:00\nHeatmap (recent)          :    ▁       ▂▂▁ ▂█▅▁▁▃▁  \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-08-13 16:11:52Z\nWeek window (UTC)         : 2026-08-06 16:11:52Z → 2026-08-13 16:11:52Z\nTracks played (last 24h)  : 6\nTotal tracks played (7d)  : 50\nDominant artist (24h)     : Tomasz Stanko Quintet\nDominant artist (7d)      : Tomasz Stanko Quintet\nListening pattern (24h)   : Light activity\nActivity status (24h)     : LOW\nCadence classification    : HIGH\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 11:00\nPeak hour (7d)            : 21:00\nHeatmap (24h)             :            ██    █      \nHeatmap (7d)              :    ▁▁      ▁▁▂ ▁▄▂▁▁▂█▄▁\n------------------------------------------------------------\nSessions (24h)            : 2\nSessions (7d)             : 12\nAvg inter-play gap (7d)   : 02:45:14\nTop genres (24h)          : ambient jazz(3) | free jazz(3) | jazz(3)\nTop genres (7d)           : jazz(23) | alternative metal(16) | free jazz(16) | ambient jazz(13) | nu metal(12) | rap metal(10)\n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nNow playing               : Tomasz Stanko Quartet — Trista\nLast played               : Tomasz Stanko Quintet — Terminal 7\nLast played (UTC)         : 2026-08-13 16:08:36Z\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nΔ track (since last)      : The Skinner Brothers — NOTHING ON ME → Tomasz Stanko Quintet — Terminal 7\nΔ last played (since last): 2026-08-12 21:26:59Z → 2026-08-13 16:08:36Z\nΔ status (since last)     : IDLE → PLAYING\n------------------------------------------------------------\nTime since last play      : 00:03:17\nTelemetry age             : 00:03:17\nΔ time (since last report): 02:20:36\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 6\nDominant artist           : Tomasz Stanko Quintet\nListening pattern         : Light activity\nDaily activity status     : LOW\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-06 16:11:52Z → 2026-08-13 16:11:52Z\nTotal tracks played       : 50\nDominant artist           : Tomasz Stanko Quintet\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 11:00\nPeak hour (7d)            : 21:00\nHeatmap (24h)             :            ██    █      \nHeatmap (7d)              :    ▁▁      ▁▁▂ ▁▄▂▁▁▂█▄▁\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 2\nSessions (7d)             : 12\nAvg inter-play gap (7d)   : 02:45:14\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : ambient jazz(3) | free jazz(3) | jazz(3)\nTop genres (7d)           : jazz(23) | alternative metal(16) | free jazz(16) | ambient jazz(13) | nu metal(12) | rap metal(10)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-13 16:11:52Z",
-  "last_successful_report_utc": "2026-08-13 16:11:52Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Silverchair — Shade\n------------------------------------------------------------\nRecent track #1            : Silverchair — Shade | 2026-08-13 14:31:15 -04\nRecent track #2            : Silverchair — Shade | 2026-08-13 14:23:51 -04\nRecent track #3            : Silverchair — Without You | 2026-08-13 14:15:12 -04\nRecent track #4            : Silverchair — Slave | 2026-08-13 14:09:57 -04\nRecent track #5            : Silverchair — Slave | 2026-08-13 13:48:08 -04\nRecent track #6            : Silverchair — Shade | 2026-08-13 12:23:38 -04\nRecent track #7            : Forward Jazz Series — Homeland | 2026-08-13 12:18:18 -04\nRecent track #8            : Tomasz Stanko Quartet — Trista | 2026-08-13 12:13:12 -04\nRecent track #9            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:08:36 -04\nRecent track #10           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:01:13 -04\nRecent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 11:54:14 -04\nRecent track #12           : Forward Jazz Series — Homeland (Series) | 2026-08-13 11:48:49 -04\nRecent track #13           : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:26:59 -04\nRecent track #14           : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:02:09 -04\nRecent track #15           : The Skinner Brothers — NOTHING ON ME | 2026-08-12 03:19:53 -04\nRecent track #16           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 19:34:44 -04\nRecent track #17           : Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch | 2026-08-11 18:02:19 -04\nRecent track #18           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04\nRecent track #19           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04\nRecent track #20           : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04\nRecent track #21           : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04\nRecent track #22           : Silverchair — Shade | 2026-08-10 20:44:11 -04\nRecent track #23           : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04\nRecent track #24           : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04\nRecent track #25           : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04\n------------------------------------------------------------\nLast known device         : iPhone (Smartphone)\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nLast played (UTC)         : 2026-08-13 18:31:15Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 12:00\nHeatmap (recent)          :    ▂       ▃█▂▆▃ ▆▂▂▅▂  \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-08-13 19:28:16Z\nWeek window (UTC)         : 2026-08-06 19:28:16Z → 2026-08-13 19:28:16Z\nTracks played (last 24h)  : 14\nTotal tracks played (7d)  : 50\nDominant artist (24h)     : Silverchair\nDominant artist (7d)      : Tomasz Stanko Quintet\nListening pattern (24h)   : Regular cadence\nActivity status (24h)     : MEDIUM\nCadence classification    : HIGH\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 12:00\nPeak hour (7d)            : 16:00\nHeatmap (24h)             :            ▃█▂▆  ▃      \nHeatmap (7d)              :    ▁▂      ▂▆▅▅▂█▅▁▁▃▆█▂\n------------------------------------------------------------\nSessions (24h)            : 3\nSessions (7d)             : 13\nAvg inter-play gap (7d)   : 02:47:28\nTop genres (24h)          : grunge(6) | post-grunge(6) | ambient jazz(4) | free jazz(4) | jazz(4)\nTop genres (7d)           : jazz(24) | free jazz(17) | ambient jazz(14) | post-grunge(13) | alternative metal(10) | bebop(9)\n------------------------------------------------------------\nPlayback state            : OFFLINE (no active session)\nStatus                    : IDLE\nSITREP                    : AMBER\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nNow playing               : N/A\nLast played               : Silverchair — Shade\nLast played (UTC)         : 2026-08-13 18:31:15Z\nLast activity type        : NO_ACTIVE_SESSION\n------------------------------------------------------------\nΔ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → Silverchair — Shade\nΔ last played (since last): 2026-08-13 16:08:36Z → 2026-08-13 18:31:15Z\nΔ status (since last)     : PLAYING → IDLE\n------------------------------------------------------------\nTime since last play      : 00:57:02\nTelemetry age             : 00:57:02\nΔ time (since last report): 03:16:25\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 14\nDominant artist           : Silverchair\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-06 19:28:16Z → 2026-08-13 19:28:16Z\nTotal tracks played       : 50\nDominant artist           : Tomasz Stanko Quintet\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 12:00\nPeak hour (7d)            : 16:00\nHeatmap (24h)             :            ▃█▂▆  ▃      \nHeatmap (7d)              :    ▁▂      ▂▆▅▅▂█▅▁▁▃▆█▂\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 13\nAvg inter-play gap (7d)   : 02:47:28\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(6) | post-grunge(6) | ambient jazz(4) | free jazz(4) | jazz(4)\nTop genres (7d)           : jazz(24) | free jazz(17) | ambient jazz(14) | post-grunge(13) | alternative metal(10) | bebop(9)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-13 19:28:16Z",
+  "last_successful_report_utc": "2026-08-13 19:28:16Z",
   "recent_playback_history": [
+    {
+      "track": "Silverchair — Shade",
+      "played_at_utc": "2026-08-13 18:31:15Z",
+      "played_at_local": "2026-08-13 14:31:15 -04",
+      "local_hour": 14
+    },
+    {
+      "track": "Silverchair — Shade",
+      "played_at_utc": "2026-08-13 18:23:51Z",
+      "played_at_local": "2026-08-13 14:23:51 -04",
+      "local_hour": 14
+    },
+    {
+      "track": "Silverchair — Without You",
+      "played_at_utc": "2026-08-13 18:15:12Z",
+      "played_at_local": "2026-08-13 14:15:12 -04",
+      "local_hour": 14
+    },
+    {
+      "track": "Silverchair — Slave",
+      "played_at_utc": "2026-08-13 18:09:57Z",
+      "played_at_local": "2026-08-13 14:09:57 -04",
+      "local_hour": 14
+    },
+    {
+      "track": "Silverchair — Slave",
+      "played_at_utc": "2026-08-13 17:48:08Z",
+      "played_at_local": "2026-08-13 13:48:08 -04",
+      "local_hour": 13
+    },
+    {
+      "track": "Silverchair — Shade",
+      "played_at_utc": "2026-08-13 16:23:38Z",
+      "played_at_local": "2026-08-13 12:23:38 -04",
+      "local_hour": 12
+    },
+    {
+      "track": "Forward Jazz Series — Homeland",
+      "played_at_utc": "2026-08-13 16:18:18Z",
+      "played_at_local": "2026-08-13 12:18:18 -04",
+      "local_hour": 12
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "played_at_utc": "2026-08-13 16:13:12Z",
+      "played_at_local": "2026-08-13 12:13:12 -04",
+      "local_hour": 12
+    },
     {
       "track": "Tomasz Stanko Quintet — Terminal 7",
       "played_at_utc": "2026-08-13 16:08:36Z",
@@ -1752,54 +1800,6 @@
       "played_at_utc": "2026-08-10 21:07:49Z",
       "played_at_local": "2026-08-10 17:07:49 -04",
       "local_hour": 17
-    },
-    {
-      "track": "Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007",
-      "played_at_utc": "2026-08-10 20:54:22Z",
-      "played_at_local": "2026-08-10 16:54:22 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Thelonious Monk — Straight No Chaser",
-      "played_at_utc": "2026-08-10 20:48:28Z",
-      "played_at_local": "2026-08-10 16:48:28 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Forward Jazz Series — Homeland",
-      "played_at_utc": "2026-08-10 20:45:34Z",
-      "played_at_local": "2026-08-10 16:45:34 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008",
-      "played_at_utc": "2026-08-10 20:41:14Z",
-      "played_at_local": "2026-08-10 16:41:14 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "John Coltrane — Blue World",
-      "played_at_utc": "2026-08-10 20:36:18Z",
-      "played_at_local": "2026-08-10 16:36:18 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Tomasz Stanko Quartet — Trista",
-      "played_at_utc": "2026-08-10 20:30:14Z",
-      "played_at_local": "2026-08-10 16:30:14 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "played_at_utc": "2026-08-10 20:25:38Z",
-      "played_at_local": "2026-08-10 16:25:38 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Tomasz Stanko Quartet — Trista",
-      "played_at_utc": "2026-08-10 17:31:43Z",
-      "played_at_local": "2026-08-10 13:31:43 -04",
-      "local_hour": 13
     }
   ],
   "last_known_device_type": "Smartphone",
@@ -1807,24 +1807,24 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-08-13 16:11:52Z",
-    "week_window_utc": "2026-08-06 16:11:52Z → 2026-08-13 16:11:52Z",
-    "tracks_24h": 6,
+    "captured_utc": "2026-08-13 19:28:16Z",
+    "week_window_utc": "2026-08-06 19:28:16Z → 2026-08-13 19:28:16Z",
+    "tracks_24h": 14,
     "tracks_7d": 50,
-    "dominant_artist_24h": "Tomasz Stanko Quintet",
+    "dominant_artist_24h": "Silverchair",
     "dominant_artist_7d": "Tomasz Stanko Quintet",
-    "listening_pattern_24h": "Light activity",
-    "activity_status_24h": "LOW",
+    "listening_pattern_24h": "Regular cadence",
+    "activity_status_24h": "MEDIUM",
     "cadence_7d": "HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "11:00",
-    "peak_hour_7d": "21:00",
-    "heatmap_24h": "           ██    █      ",
-    "heatmap_7d": "   ▁▁      ▁▁▂ ▁▄▂▁▁▂█▄▁",
-    "sessions_24h": 2,
-    "sessions_7d": 12,
-    "avg_inter_play_gap_7d": "02:45:14",
-    "top_genres_24h": "ambient jazz(3) | free jazz(3) | jazz(3)",
-    "top_genres_7d": "jazz(23) | alternative metal(16) | free jazz(16) | ambient jazz(13) | nu metal(12) | rap metal(10)"
+    "peak_hour_24h": "12:00",
+    "peak_hour_7d": "16:00",
+    "heatmap_24h": "           ▃█▂▆  ▃      ",
+    "heatmap_7d": "   ▁▂      ▂▆▅▅▂█▅▁▁▃▆█▂",
+    "sessions_24h": 3,
+    "sessions_7d": 13,
+    "avg_inter_play_gap_7d": "02:47:28",
+    "top_genres_24h": "grunge(6) | post-grunge(6) | ambient jazz(4) | free jazz(4) | jazz(4)",
+    "top_genres_7d": "jazz(24) | free jazz(17) | ambient jazz(14) | post-grunge(13) | alternative metal(10) | bebop(9)"
   }
 }
