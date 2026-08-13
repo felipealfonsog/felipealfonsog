@@ -1529,9 +1529,9 @@ Heatmap (recent)          :    ▂       ▃█▂▆▃ ▆▂▂▅▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-13 19:28:16Z
-Week window (UTC)         : 2026-08-06 19:28:16Z → 2026-08-13 19:28:16Z
-Tracks played (last 24h)  : 14
+Snapshot captured (UTC)   : 2026-08-13 22:05:43Z
+Week window (UTC)         : 2026-08-06 22:05:43Z → 2026-08-13 22:05:43Z
+Tracks played (last 24h)  : 12
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Silverchair
 Dominant artist (7d)      : Tomasz Stanko Quintet
@@ -1542,10 +1542,10 @@ Cadence classification    : HIGH
 Local timezone            : America/Santiago
 Peak hour (24h)           : 12:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :            ▃█▂▆  ▃      
+Heatmap (24h)             :            ▃█▂▆         
 Heatmap (7d)              :    ▁▂      ▂▆▅▅▂█▅▁▁▃▆█▂
 ------------------------------------------------------------
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 13
 Avg inter-play gap (7d)   : 02:47:28
 Top genres (24h)          : grunge(6) | post-grunge(6) | ambient jazz(4) | free jazz(4) | jazz(4)
@@ -1568,13 +1568,13 @@ Last played               : Silverchair — Shade
 Last played (UTC)         : 2026-08-13 18:31:15Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Tomasz Stanko Quintet — Terminal 7 → Silverchair — Shade
-Δ last played (since last): 2026-08-13 16:08:36Z → 2026-08-13 18:31:15Z
-Δ status (since last)     : PLAYING → IDLE
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
+Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 00:57:02
-Telemetry age             : 00:57:02
-Δ time (since last report): 03:16:25
+Time since last play      : 03:34:28
+Telemetry age             : 03:34:28
+Δ time (since last report): 02:37:27
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1586,14 +1586,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
+Tracks played (last 24h)  : 12
 Dominant artist           : Silverchair
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-06 19:28:16Z → 2026-08-13 19:28:16Z
+Week window (UTC)         : 2026-08-06 22:05:43Z → 2026-08-13 22:05:43Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1603,13 +1603,13 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 12:00
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :            ▃█▂▆  ▃      
+Heatmap (24h)             :            ▃█▂▆         
 Heatmap (7d)              :    ▁▂      ▂▆▅▅▂█▅▁▁▃▆█▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 13
 Avg inter-play gap (7d)   : 02:47:28
 ------------------------------------------------------------
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-13 19:28:16Z
+Report generated (UTC)    : 2026-08-13 22:05:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
