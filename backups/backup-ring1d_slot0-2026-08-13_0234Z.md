@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-08-12_0232Z
+ snapshot_utc : 2026-08-13_0234Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -532,7 +532,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-08-11T19:14:59+00:00 | last_update=2026-08-11T19:14:59+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-08-12T19:14:53+00:00 | last_update=2026-08-12T19:14:53+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
@@ -702,13 +702,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. DEGRADED
 HTTP................ 403 Forbidden
-LATENCY............. 127 ms
-TTFB................ 126 ms
+LATENCY............. 177 ms
+TTFB................ 176 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 82d
+TLS_EXPIRY.......... 81d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -737,7 +737,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-08-11T04:25:00Z
+LAST_PROBE_UTC...... 2026-08-12T04:52:41Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -777,19 +777,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.447003
-longitude      : -70.661559
-altitude       : 73 m
-gps_accuracy   : ±4.1 m
-heading        : 0°
-speed          : 0.0 km/h
-status         : stationary
+location       : urban_sector
+latitude       : -33.444123
+longitude      : -70.650301
+altitude       : 77 m
+gps_accuracy   : ±8.0 m
+heading        : 117°
+speed          : 6.0 km/h
+status         : in_transit
 phase          : evening
-local_time     : 21:04
+local_time     : 21:05
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-08-12 01:04:34 UTC
+updated_utc    : 2026-08-13 01:05:38 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -908,7 +908,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-08-11 19:28:07Z
+DSN snapshot (UTC)       : 2026-08-12 19:29:56Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -919,15 +919,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.59e9 km | 171.042 AU
-Heliocentric distance    : 171.428 AU
-Relative speed           : 42.861 km/s
+Earth distance           : 25.59e9 km | 171.064 AU
+Heliocentric distance    : 171.438 AU
+Relative speed           : 42.951 km/s
 ------------------------------------------------------------
-One-way light time       : 23:42:31
-Round-trip latency       : 47:25:01
+One-way light time       : 23:42:42
+Round-trip latency       : 47:25:23
 ------------------------------------------------------------
-Δ distance (since last)  : +784,612 km
-Mission age              : 48 years, 352 days
+Δ distance (since last)  : +781,587 km
+Mission age              : 48 years, 353 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -938,19 +938,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.39e9 km | 142.951 AU
-Heliocentric distance    : 143.649 AU
-Relative speed           : 36.783 km/s
+Earth distance           : 21.39e9 km | 142.966 AU
+Heliocentric distance    : 143.658 AU
+Relative speed           : 36.913 km/s
 ------------------------------------------------------------
-One-way light time       : 19:48:53
-Round-trip latency       : 39:37:47
+One-way light time       : 19:49:01
+Round-trip latency       : 39:38:02
 ------------------------------------------------------------
-Δ distance (since last)  : +535,380 km
-Mission age              : 49 years, 3 days
+Δ distance (since last)  : +537,751 km
+Mission age              : 49 years, 4 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-08-11 19:28:12Z
+Report generated (UTC)   : 2026-08-12 19:30:00Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1494,69 +1494,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Tomasz Stanko Quintet — Terminal 7
+Last track played         : The Skinner Brothers — NOTHING ON ME
 ------------------------------------------------------------
-Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04
-Recent track #2            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04
-Recent track #3            : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04
-Recent track #4            : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04
-Recent track #5            : Silverchair — Shade | 2026-08-10 20:44:11 -04
-Recent track #6            : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04
-Recent track #7            : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
-Recent track #8            : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
-Recent track #9            : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
-Recent track #10           : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
-Recent track #11           : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
-Recent track #12           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
-Recent track #13           : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
-Recent track #14           : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
-Recent track #15           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
-Recent track #16           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
-Recent track #17           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
-Recent track #18           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
-Recent track #19           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
-Recent track #20           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
-Recent track #21           : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
-Recent track #22           : Limp Bizkit — Boiler | 2026-08-07 23:14:54 -04
-Recent track #23           : Drowning Pool — Turn So Cold | 2026-08-07 22:26:37 -04
-Recent track #24           : A Perfect Circle — Judith (Live) | 2026-08-07 22:23:02 -04
-Recent track #25           : Seether — Careless Whisper | 2026-08-07 22:18:48 -04
+Recent track #1            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:02:09 -04
+Recent track #2            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 03:19:53 -04
+Recent track #3            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 19:34:44 -04
+Recent track #4            : Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch | 2026-08-11 18:02:19 -04
+Recent track #5            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04
+Recent track #6            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04
+Recent track #7            : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04
+Recent track #8            : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04
+Recent track #9            : Silverchair — Shade | 2026-08-10 20:44:11 -04
+Recent track #10           : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04
+Recent track #11           : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
+Recent track #12           : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
+Recent track #13           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
+Recent track #14           : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
+Recent track #15           : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
+Recent track #16           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
+Recent track #17           : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
+Recent track #18           : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
+Recent track #19           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
+Recent track #20           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
+Recent track #21           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
+Recent track #22           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
+Recent track #23           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
+Recent track #24           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
+Recent track #25           : Forward Jazz Series — Homeland (Series) | 2026-08-07 23:24:40 -04
 ------------------------------------------------------------
 Last known device         : Felipe’s MacBook Air Silicon (Computer)
 Last known volume         : 65%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
-Last played (UTC)         : 2026-08-11 19:57:08Z
+Last played (UTC)         : 2026-08-12 21:02:09Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 16:00
-Heatmap (recent)          :     ▂        ▃ ▂█▂  ▃▁▃▂
+Heatmap (recent)          :    ▁▂        ▃ ▂█▃▁▁▃▁ ▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-11 22:07:35Z
-Week window (UTC)         : 2026-08-04 22:07:35Z → 2026-08-11 22:07:35Z
-Tracks played (last 24h)  : 6
+Snapshot captured (UTC)   : 2026-08-12 22:05:42Z
+Week window (UTC)         : 2026-08-05 22:05:42Z → 2026-08-12 22:05:42Z
+Tracks played (last 24h)  : 3
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : Silverchair
+Dominant artist (24h)     : The Skinner Brothers
 Dominant artist (7d)      : Linkin Park
 Listening pattern (24h)   : Light activity
 Activity status (24h)     : LOW
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 03:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :                ▅    █▃  
-Heatmap (7d)              :     ▁        ▂ ▁▄▁  ▄█▄▁
+Heatmap (24h)             :    █             █ █    
+Heatmap (7d)              :     ▁        ▂ ▁▄▂  ▂█▄▁
 ------------------------------------------------------------
-Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:51:49
-Top genres (24h)          : grunge(3) | post-grunge(3) | ambient jazz(2) | free jazz(2) | jazz(2)
-Top genres (7d)           : alternative metal(25) | nu metal(21) | rap metal(19) | jazz(18) | rock(17) | free jazz(11)
+Sessions (24h)            : 3
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:22:11
+Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
+Top genres (7d)           : alternative metal(21) | jazz(20) | nu metal(17) | rap metal(15) | free jazz(13) | rock(13)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1571,17 +1571,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Tomasz Stanko Quintet — Terminal 7
-Last played (UTC)         : 2026-08-11 19:57:08Z
+Last played               : The Skinner Brothers — NOTHING ON ME
+Last played (UTC)         : 2026-08-12 21:02:09Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Suicidal Dream → Tomasz Stanko Quintet — Terminal 7
-Δ last played (since last): 2026-08-11 01:07:51Z → 2026-08-11 19:57:08Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): 2026-08-12 07:19:53Z → 2026-08-12 21:02:09Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 02:10:27
-Telemetry age             : 02:10:27
-Δ time (since last report): 05:55:08
+Time since last play      : 01:03:33
+Telemetry age             : 01:03:33
+Δ time (since last report): 02:35:55
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1593,14 +1593,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
-Dominant artist           : Silverchair
+Tracks played (last 24h)  : 3
+Dominant artist           : The Skinner Brothers
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-04 22:07:35Z → 2026-08-11 22:07:35Z
+Week window (UTC)         : 2026-08-05 22:05:42Z → 2026-08-12 22:05:42Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1608,22 +1608,22 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 03:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :                ▅    █▃  
-Heatmap (7d)              :     ▁        ▂ ▁▄▁  ▄█▄▁
+Heatmap (24h)             :    █             █ █    
+Heatmap (7d)              :     ▁        ▂ ▁▄▂  ▂█▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap (7d)   : 01:51:49
+Sessions (24h)            : 3
+Sessions (7d)             : 11
+Avg inter-play gap (7d)   : 02:22:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(3) | post-grunge(3) | ambient jazz(2) | free jazz(2) | jazz(2)
-Top genres (7d)           : alternative metal(25) | nu metal(21) | rap metal(19) | jazz(18) | rock(17) | free jazz(11)
+Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
+Top genres (7d)           : alternative metal(21) | jazz(20) | nu metal(17) | rap metal(15) | free jazz(13) | rock(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1638,7 +1638,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-11 22:07:35Z
+Report generated (UTC)    : 2026-08-12 22:05:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -1996,9 +1996,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 August 2026
+From: 04 December 2023 - To: 12 August 2026
 
-Total Time       : 1,049 hrs 36 mins
+Total Time       : 1,049 hrs 43 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 4 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -2007,8 +2007,8 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          738 hrs 7 mins ●●●●●●●●●●●●●●●●●●○○○○○○○○  70.32 %
-Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.84 %
+Other          743 hrs 28 mins ●●●●●●●●●●●●●●●●●●○○○○○○○○  70.83 %
+Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.83 %
 Python         141 hrs 48 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.51 %
 HTML           138 hrs 14 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.17 %
 PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.40 %
@@ -2020,36 +2020,36 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,069 hrs 16 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,074 hrs 44 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.12 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 35 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.84 %
-Firefox        561 hrs 6 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.46 %
+VS Code        659 hrs 35 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.83 %
+Firefox        561 hrs 57 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.53 %
 Vim            337 hrs 54 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.19 %
-Terminal       39 hrs 35 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
-Spotify        31 hrs 12 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.97 %
+Terminal       43 hrs 41 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.16 %
+Spotify        31 hrs 14 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.98 %
 Termius        24 hrs 2 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.29 %
-Dia            20 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.92 %
+Dia            20 hrs 25 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.95 %
 ‎WhatsApp      18 hrs 8 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.73 %
 Pages          15 hrs 58 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.52 %
 Acrobat        14 hrs 31 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.38 %
 TeXstudio      13 hrs 42 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
-FileZilla      8 hrs 56 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.85 %
+FileZilla      9 hrs 3 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.86 %
 
 CATEGORIES
 ----------
-Coding         1,186 hrs 43 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       558 hrs 3 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.17 %
+Coding         1,191 hrs 19 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       558 hrs 54 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.24 %
 Meeting        26 hrs 53 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.56 %
-Writing Docs   13 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.25 %
+Writing Docs   13 hrs 7 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.25 %
 AI Coding      2 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 12/08/2026 01:26:03 UTC
+Last updated     : 13/08/2026 01:27:43 UTC
 
 ```
 <!--END_SECTION:wakastats-->
