@@ -1529,8 +1529,8 @@ Heatmap (recent)          :    ▁▂        ▃ ▂█▅▁▁▃▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-13 07:56:29Z
-Week window (UTC)         : 2026-08-06 07:56:29Z → 2026-08-13 07:56:29Z
+Snapshot captured (UTC)   : 2026-08-13 10:29:59Z
+Week window (UTC)         : 2026-08-06 10:29:59Z → 2026-08-13 10:29:59Z
 Tracks played (last 24h)  : 2
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : The Skinner Brothers
@@ -1569,12 +1569,12 @@ Last played (UTC)         : 2026-08-12 21:26:59Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-08-12 21:02:09Z → 2026-08-12 21:26:59Z
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 10:29:30
-Telemetry age             : 10:29:30
-Δ time (since last report): 02:46:12
+Time since last play      : 13:03:00
+Telemetry age             : 13:03:00
+Δ time (since last report): 02:33:30
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1593,7 +1593,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-06 07:56:29Z → 2026-08-13 07:56:29Z
+Week window (UTC)         : 2026-08-06 10:29:59Z → 2026-08-13 10:29:59Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-13 07:56:29Z
+Report generated (UTC)    : 2026-08-13 10:29:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
