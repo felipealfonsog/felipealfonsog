@@ -1529,9 +1529,9 @@ Heatmap (recent)          :    ▁▂        ▃ ▂█▃▁▁▃▁ ▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-12 22:05:42Z
-Week window (UTC)         : 2026-08-05 22:05:42Z → 2026-08-12 22:05:42Z
-Tracks played (last 24h)  : 3
+Snapshot captured (UTC)   : 2026-08-13 03:02:05Z
+Week window (UTC)         : 2026-08-06 03:02:05Z → 2026-08-13 03:02:05Z
+Tracks played (last 24h)  : 2
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : The Skinner Brothers
 Dominant artist (7d)      : Linkin Park
@@ -1542,13 +1542,13 @@ Cadence classification    : HIGH
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :    █             █ █    
+Heatmap (24h)             :    █             █      
 Heatmap (7d)              :     ▁        ▂ ▁▄▂  ▂█▄▁
 ------------------------------------------------------------
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 02:22:11
-Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(21) | jazz(20) | nu metal(17) | rap metal(15) | free jazz(13) | rock(13)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
@@ -1569,12 +1569,12 @@ Last played (UTC)         : 2026-08-12 21:02:09Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
 Δ track (since last)      : NO CHANGE
-Δ last played (since last): 2026-08-12 07:19:53Z → 2026-08-12 21:02:09Z
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:03:33
-Telemetry age             : 01:03:33
-Δ time (since last report): 02:35:55
+Time since last play      : 05:59:56
+Telemetry age             : 05:59:56
+Δ time (since last report): 04:56:23
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1586,14 +1586,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 2
 Dominant artist           : The Skinner Brothers
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-05 22:05:42Z → 2026-08-12 22:05:42Z
+Week window (UTC)         : 2026-08-06 03:02:05Z → 2026-08-13 03:02:05Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1603,19 +1603,19 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :    █             █ █    
+Heatmap (24h)             :    █             █      
 Heatmap (7d)              :     ▁        ▂ ▁▄▂  ▂█▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 11
 Avg inter-play gap (7d)   : 02:22:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(21) | jazz(20) | nu metal(17) | rap metal(15) | free jazz(13) | rock(13)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-12 22:05:42Z
+Report generated (UTC)    : 2026-08-13 03:02:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
