@@ -1487,136 +1487,136 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : The Skinner Brothers — NOTHING ON ME
+Last track played         : Tomasz Stanko Quintet — Terminal 7
 ------------------------------------------------------------
-Recent track #1            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:26:59 -04
-Recent track #2            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:02:09 -04
-Recent track #3            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 03:19:53 -04
-Recent track #4            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 19:34:44 -04
-Recent track #5            : Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch | 2026-08-11 18:02:19 -04
-Recent track #6            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04
-Recent track #7            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04
-Recent track #8            : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04
-Recent track #9            : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04
-Recent track #10           : Silverchair — Shade | 2026-08-10 20:44:11 -04
-Recent track #11           : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04
-Recent track #12           : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
-Recent track #13           : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
-Recent track #14           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
-Recent track #15           : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
-Recent track #16           : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
-Recent track #17           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
-Recent track #18           : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
-Recent track #19           : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
-Recent track #20           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
-Recent track #21           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
-Recent track #22           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 13:27:06 -04
-Recent track #23           : Forward Jazz Series — Homeland (Series) | 2026-08-10 13:21:40 -04
-Recent track #24           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:01:19 -04
-Recent track #25           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-08 04:00:57 -04
+Recent track #1            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:08:36 -04
+Recent track #2            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:01:13 -04
+Recent track #3            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 11:54:14 -04
+Recent track #4            : Forward Jazz Series — Homeland (Series) | 2026-08-13 11:48:49 -04
+Recent track #5            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:26:59 -04
+Recent track #6            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:02:09 -04
+Recent track #7            : The Skinner Brothers — NOTHING ON ME | 2026-08-12 03:19:53 -04
+Recent track #8            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 19:34:44 -04
+Recent track #9            : Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch | 2026-08-11 18:02:19 -04
+Recent track #10           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04
+Recent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04
+Recent track #12           : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04
+Recent track #13           : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04
+Recent track #14           : Silverchair — Shade | 2026-08-10 20:44:11 -04
+Recent track #15           : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04
+Recent track #16           : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
+Recent track #17           : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
+Recent track #18           : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-08-10 16:54:22 -04
+Recent track #19           : Thelonious Monk — Straight No Chaser | 2026-08-10 16:48:28 -04
+Recent track #20           : Forward Jazz Series — Homeland | 2026-08-10 16:45:34 -04
+Recent track #21           : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-08-10 16:41:14 -04
+Recent track #22           : John Coltrane — Blue World | 2026-08-10 16:36:18 -04
+Recent track #23           : Tomasz Stanko Quartet — Trista | 2026-08-10 16:30:14 -04
+Recent track #24           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-10 16:25:38 -04
+Recent track #25           : Tomasz Stanko Quartet — Trista | 2026-08-10 13:31:43 -04
 ------------------------------------------------------------
-Last known device         : Felipe’s MacBook Air Silicon (Computer)
-Last known volume         : 65%
+Last known device         : iPhone (Smartphone)
+Last known volume         : 100%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅
-Last played (UTC)         : 2026-08-12 21:26:59Z
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
+Last played (UTC)         : 2026-08-13 16:08:36Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (recent)        : 16:00
-Heatmap (recent)          :    ▁▂        ▃ ▂█▅▁▁▃▁  
+Heatmap (recent)          :    ▁       ▂▂▁ ▂█▅▁▁▃▁  
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-13 13:51:17Z
-Week window (UTC)         : 2026-08-06 13:51:17Z → 2026-08-13 13:51:17Z
-Tracks played (last 24h)  : 2
+Snapshot captured (UTC)   : 2026-08-13 16:11:52Z
+Week window (UTC)         : 2026-08-06 16:11:52Z → 2026-08-13 16:11:52Z
+Tracks played (last 24h)  : 6
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : The Skinner Brothers
-Dominant artist (7d)      : Linkin Park
+Dominant artist (24h)     : Tomasz Stanko Quintet
+Dominant artist (7d)      : Tomasz Stanko Quintet
 Listening pattern (24h)   : Light activity
 Activity status (24h)     : LOW
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 17:00
+Peak hour (24h)           : 11:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :                  █      
-Heatmap (7d)              :     ▁        ▂ ▁▄▂  ▂█▄▁
+Heatmap (24h)             :            ██    █      
+Heatmap (7d)              :    ▁▁      ▁▁▂ ▁▄▂▁▁▂█▄▁
 ------------------------------------------------------------
-Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:22:37
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(20) | jazz(20) | nu metal(16) | rap metal(14) | free jazz(13) | rock(12)
+Sessions (24h)            : 2
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 02:45:14
+Top genres (24h)          : ambient jazz(3) | free jazz(3) | jazz(3)
+Top genres (7d)           : jazz(23) | alternative metal(16) | free jazz(16) | ambient jazz(13) | nu metal(12) | rap metal(10)
 ------------------------------------------------------------
-Playback state            : OFFLINE (no active session)
-Status                    : IDLE
-SITREP                    : AMBER
+Playback state            : ONLINE (active session)
+Status                    : PLAYING
+SITREP                    : GREEN
 ------------------------------------------------------------
 PLAYBACK DEVICE (Spotify)
 ------------------------------------------------------------
-Device type               : Computer
-Device name               : Felipe’s MacBook Air Silicon
-Volume                    : 65%
+Device type               : Smartphone
+Device name               : iPhone
+Volume                    : 100%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
-Now playing               : N/A
-Last played               : The Skinner Brothers — NOTHING ON ME
-Last played (UTC)         : 2026-08-12 21:26:59Z
-Last activity type        : NO_ACTIVE_SESSION
+Now playing               : Tomasz Stanko Quartet — Trista
+Last played               : Tomasz Stanko Quintet — Terminal 7
+Last played (UTC)         : 2026-08-13 16:08:36Z
+Last activity type        : PLAYBACK_ACTIVE
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
-Δ status (since last)     : NO CHANGE
+Δ track (since last)      : The Skinner Brothers — NOTHING ON ME → Tomasz Stanko Quintet — Terminal 7
+Δ last played (since last): 2026-08-12 21:26:59Z → 2026-08-13 16:08:36Z
+Δ status (since last)     : IDLE → PLAYING
 ------------------------------------------------------------
-Time since last play      : 16:24:18
-Telemetry age             : 16:24:18
-Δ time (since last report): 03:21:18
+Time since last play      : 00:03:17
+Telemetry age             : 00:03:17
+Δ time (since last report): 02:20:36
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 Data integrity            : OK
 Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : The Skinner Brothers
+Tracks played (last 24h)  : 6
+Dominant artist           : Tomasz Stanko Quintet
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-06 13:51:17Z → 2026-08-13 13:51:17Z
+Week window (UTC)         : 2026-08-06 16:11:52Z → 2026-08-13 16:11:52Z
 Total tracks played       : 50
-Dominant artist           : Linkin Park
+Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 17:00
+Peak hour (24h)           : 11:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :                  █      
-Heatmap (7d)              :     ▁        ▂ ▁▄▂  ▂█▄▁
+Heatmap (24h)             :            ██    █      
+Heatmap (7d)              :    ▁▁      ▁▁▂ ▁▄▂▁▁▂█▄▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap (7d)   : 02:22:37
+Sessions (24h)            : 2
+Sessions (7d)             : 12
+Avg inter-play gap (7d)   : 02:45:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(20) | jazz(20) | nu metal(16) | rap metal(14) | free jazz(13) | rock(12)
+Top genres (24h)          : ambient jazz(3) | free jazz(3) | jazz(3)
+Top genres (7d)           : jazz(23) | alternative metal(16) | free jazz(16) | ambient jazz(13) | nu metal(12) | rap metal(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-13 13:51:17Z
+Report generated (UTC)    : 2026-08-13 16:11:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
