@@ -1529,8 +1529,8 @@ Heatmap (recent)          :    ▁▂        ▃ ▂█▃▁▁▃▁ ▁
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-13 03:02:05Z
-Week window (UTC)         : 2026-08-06 03:02:05Z → 2026-08-13 03:02:05Z
+Snapshot captured (UTC)   : 2026-08-13 05:10:17Z
+Week window (UTC)         : 2026-08-06 05:10:17Z → 2026-08-13 05:10:17Z
 Tracks played (last 24h)  : 2
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : The Skinner Brothers
@@ -1572,9 +1572,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 05:59:56
-Telemetry age             : 05:59:56
-Δ time (since last report): 04:56:23
+Time since last play      : 08:08:08
+Telemetry age             : 08:08:08
+Δ time (since last report): 02:08:12
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1593,7 +1593,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-06 03:02:05Z → 2026-08-13 03:02:05Z
+Week window (UTC)         : 2026-08-06 05:10:17Z → 2026-08-13 05:10:17Z
 Total tracks played       : 50
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-13 03:02:05Z
+Report generated (UTC)    : 2026-08-13 05:10:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
