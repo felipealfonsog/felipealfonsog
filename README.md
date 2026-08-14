@@ -1529,26 +1529,26 @@ Heatmap (recent)          :    ▂       ▃█▂▆▃ ▆▂▂▅▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-14 16:07:38Z
-Week window (UTC)         : 2026-08-07 16:07:38Z → 2026-08-14 16:07:38Z
-Tracks played (last 24h)  : 9
+Snapshot captured (UTC)   : 2026-08-14 19:16:51Z
+Week window (UTC)         : 2026-08-07 19:16:51Z → 2026-08-14 19:16:51Z
+Tracks played (last 24h)  : 0
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : Silverchair
+Dominant artist (24h)     : N/A
 Dominant artist (7d)      : Tomasz Stanko Quintet
-Listening pattern (24h)   : Light activity
-Activity status (24h)     : LOW
+Listening pattern (24h)   : No activity
+Activity status (24h)     : NONE
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :             █▂█         
+Heatmap (24h)             : N/A
 Heatmap (7d)              :    ▁▂      ▂▆▅▅▂█▅▁▁▃▆█▂
 ------------------------------------------------------------
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 13
 Avg inter-play gap (7d)   : 02:47:28
-Top genres (24h)          : grunge(6) | post-grunge(6) | ambient jazz(2) | free jazz(2) | jazz(2)
+Top genres (24h)          : N/A
 Top genres (7d)           : jazz(24) | free jazz(17) | ambient jazz(14) | post-grunge(13) | alternative metal(10) | bebop(9)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
@@ -1572,9 +1572,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 21:36:24
-Telemetry age             : 21:36:24
-Δ time (since last report): 02:20:36
+Time since last play      : 24:45:36
+Telemetry age             : 24:45:36
+Δ time (since last report): 03:09:13
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1586,14 +1586,14 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
-Dominant artist           : Silverchair
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-07 16:07:38Z → 2026-08-14 16:07:38Z
+Week window (UTC)         : 2026-08-07 19:16:51Z → 2026-08-14 19:16:51Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1601,21 +1601,21 @@ Cadence classification    : HIGH
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 16:00
-Heatmap (24h)             :             █▂█         
+Heatmap (24h)             : N/A
 Heatmap (7d)              :    ▁▂      ▂▆▅▅▂█▅▁▁▃▆█▂
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 13
 Avg inter-play gap (7d)   : 02:47:28
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(6) | post-grunge(6) | ambient jazz(2) | free jazz(2) | jazz(2)
+Top genres (24h)          : N/A
 Top genres (7d)           : jazz(24) | free jazz(17) | ambient jazz(14) | post-grunge(13) | alternative metal(10) | bebop(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-14 16:07:38Z
+Report generated (UTC)    : 2026-08-14 19:16:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
