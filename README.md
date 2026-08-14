@@ -1529,8 +1529,8 @@ Heatmap (recent)          :    ▂       ▃█▂▆▃ ▆▂▂▅▂
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-14 10:19:38Z
-Week window (UTC)         : 2026-08-07 10:19:38Z → 2026-08-14 10:19:38Z
+Snapshot captured (UTC)   : 2026-08-14 13:47:03Z
+Week window (UTC)         : 2026-08-07 13:47:03Z → 2026-08-14 13:47:03Z
 Tracks played (last 24h)  : 12
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Silverchair
@@ -1572,9 +1572,9 @@ Last activity type        : NO_ACTIVE_SESSION
 Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 15:48:23
-Telemetry age             : 15:48:23
-Δ time (since last report): 02:26:26
+Time since last play      : 19:15:49
+Telemetry age             : 19:15:49
+Δ time (since last report): 03:27:26
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1593,7 +1593,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-07 10:19:38Z → 2026-08-14 10:19:38Z
+Week window (UTC)         : 2026-08-07 13:47:03Z → 2026-08-14 13:47:03Z
 Total tracks played       : 50
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : HIGH
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-14 10:19:38Z
+Report generated (UTC)    : 2026-08-14 13:47:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
