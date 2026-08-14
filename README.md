@@ -1487,69 +1487,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Last track played         : Silverchair — Shade
+Last track played         : Silverchair — Cicada
 ------------------------------------------------------------
-Recent track #1            : Silverchair — Shade | 2026-08-13 14:31:15 -04
-Recent track #2            : Silverchair — Shade | 2026-08-13 14:23:51 -04
-Recent track #3            : Silverchair — Without You | 2026-08-13 14:15:12 -04
-Recent track #4            : Silverchair — Slave | 2026-08-13 14:09:57 -04
-Recent track #5            : Silverchair — Slave | 2026-08-13 13:48:08 -04
-Recent track #6            : Silverchair — Shade | 2026-08-13 12:23:38 -04
-Recent track #7            : Forward Jazz Series — Homeland | 2026-08-13 12:18:18 -04
-Recent track #8            : Tomasz Stanko Quartet — Trista | 2026-08-13 12:13:12 -04
-Recent track #9            : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:08:36 -04
-Recent track #10           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:01:13 -04
-Recent track #11           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 11:54:14 -04
-Recent track #12           : Forward Jazz Series — Homeland (Series) | 2026-08-13 11:48:49 -04
-Recent track #13           : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:26:59 -04
-Recent track #14           : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:02:09 -04
-Recent track #15           : The Skinner Brothers — NOTHING ON ME | 2026-08-12 03:19:53 -04
-Recent track #16           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 19:34:44 -04
-Recent track #17           : Tomasz Stanko Quintet — The Dark Eyes Of Martha Hirsch | 2026-08-11 18:02:19 -04
-Recent track #18           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:57:08 -04
-Recent track #19           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-11 15:41:01 -04
-Recent track #20           : Silverchair — Suicidal Dream | 2026-08-10 21:07:51 -04
-Recent track #21           : Silverchair — Tomorrow | 2026-08-10 20:48:38 -04
-Recent track #22           : Silverchair — Shade | 2026-08-10 20:44:11 -04
-Recent track #23           : Forward Jazz Series — Homeland (Incidentals) | 2026-08-10 20:40:07 -04
-Recent track #24           : Miles Davis Quintet — Tune Up | 2026-08-10 17:13:26 -04
-Recent track #25           : Kamasi Washington — Truth | 2026-08-10 17:07:49 -04
+Recent track #1            : Silverchair — Cicada | 2026-08-14 17:36:23 -04
+Recent track #2            : Silverchair — Undecided | 2026-08-14 17:31:08 -04
+Recent track #3            : Silverchair — Madman | 2026-08-14 17:26:31 -04
+Recent track #4            : Silverchair — Suicidal Dream | 2026-08-14 17:23:46 -04
+Recent track #5            : Silverchair — Undecided | 2026-08-14 17:17:20 -04
+Recent track #6            : Silverchair — Madman | 2026-08-14 17:12:44 -04
+Recent track #7            : Silverchair — Suicidal Dream | 2026-08-14 17:10:00 -04
+Recent track #8            : Silverchair — Leave Me Out | 2026-08-14 17:06:47 -04
+Recent track #9            : Silverchair — Shade | 2026-08-14 17:03:44 -04
+Recent track #10           : Silverchair — Leave Me Out | 2026-08-14 16:59:19 -04
+Recent track #11           : Silverchair — Shade | 2026-08-14 15:34:55 -04
+Recent track #12           : Silverchair — Leave Me Out | 2026-08-13 14:42:42 -04
+Recent track #13           : Silverchair — Shade | 2026-08-13 14:31:15 -04
+Recent track #14           : Silverchair — Shade | 2026-08-13 14:23:51 -04
+Recent track #15           : Silverchair — Without You | 2026-08-13 14:15:12 -04
+Recent track #16           : Silverchair — Slave | 2026-08-13 14:09:57 -04
+Recent track #17           : Silverchair — Slave | 2026-08-13 13:48:08 -04
+Recent track #18           : Silverchair — Shade | 2026-08-13 12:23:38 -04
+Recent track #19           : Forward Jazz Series — Homeland | 2026-08-13 12:18:18 -04
+Recent track #20           : Tomasz Stanko Quartet — Trista | 2026-08-13 12:13:12 -04
+Recent track #21           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:08:36 -04
+Recent track #22           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 12:01:13 -04
+Recent track #23           : Tomasz Stanko Quintet — Terminal 7 | 2026-08-13 11:54:14 -04
+Recent track #24           : Forward Jazz Series — Homeland (Series) | 2026-08-13 11:48:49 -04
+Recent track #25           : The Skinner Brothers — NOTHING ON ME | 2026-08-12 17:26:59 -04
 ------------------------------------------------------------
 Last known device         : iPhone (Smartphone)
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Last played (UTC)         : 2026-08-13 18:31:15Z
+Last played (UTC)         : 2026-08-14 21:36:23Z
 ------------------------------------------------------------
 LISTENING HOURS (recent playback)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (recent)        : 12:00
-Heatmap (recent)          :    ▂       ▃█▂▆▃ ▆▂▂▅▂  
+Peak hour (recent)        : 17:00
+Heatmap (recent)          :            ▂▄▁▄▁▁█      
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-14 19:16:51Z
-Week window (UTC)         : 2026-08-07 19:16:51Z → 2026-08-14 19:16:51Z
-Tracks played (last 24h)  : 0
+Snapshot captured (UTC)   : 2026-08-14 21:43:19Z
+Week window (UTC)         : 2026-08-07 21:43:19Z → 2026-08-14 21:43:19Z
+Tracks played (last 24h)  : 11
 Total tracks played (7d)  : 50
-Dominant artist (24h)     : N/A
-Dominant artist (7d)      : Tomasz Stanko Quintet
-Listening pattern (24h)   : No activity
-Activity status (24h)     : NONE
+Dominant artist (24h)     : Silverchair
+Dominant artist (7d)      : Silverchair
+Listening pattern (24h)   : Regular cadence
+Activity status (24h)     : MEDIUM
 Cadence classification    : HIGH
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 16:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :    ▁▂      ▂▆▅▅▂█▅▁▁▃▆█▂
+Peak hour (24h)           : 17:00
+Peak hour (7d)            : 17:00
+Heatmap (24h)             :                ▁▁█      
+Heatmap (7d)              :    ▁▁      ▁▃▂▃▂▅█▁▁▂▁ ▁
 ------------------------------------------------------------
-Sessions (24h)            : N/A
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 02:47:28
-Top genres (24h)          : N/A
-Top genres (7d)           : jazz(24) | free jazz(17) | ambient jazz(14) | post-grunge(13) | alternative metal(10) | bebop(9)
+Sessions (24h)            : 2
+Sessions (7d)             : 14
+Avg inter-play gap (7d)   : 03:18:36
+Top genres (24h)          : grunge(11) | post-grunge(11)
+Top genres (7d)           : jazz(24) | grunge(21) | post-grunge(21) | free jazz(17) | ambient jazz(14) | bebop(9)
 ------------------------------------------------------------
 Playback state            : OFFLINE (no active session)
 Status                    : IDLE
@@ -1564,17 +1564,17 @@ Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
 ------------------------------------------------------------
 Now playing               : N/A
-Last played               : Silverchair — Shade
-Last played (UTC)         : 2026-08-13 18:31:15Z
+Last played               : Silverchair — Cicada
+Last played (UTC)         : 2026-08-14 21:36:23Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : NO CHANGE
-Δ last played (since last): NO CHANGE
+Δ track (since last)      : Silverchair — Shade → Silverchair — Cicada
+Δ last played (since last): 2026-08-13 18:31:15Z → 2026-08-14 21:36:23Z
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 24:45:36
-Telemetry age             : 24:45:36
-Δ time (since last report): 03:09:13
+Time since last play      : 00:06:57
+Telemetry age             : 00:06:57
+Δ time (since last report): 02:26:29
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1586,37 +1586,37 @@ Confidence level          : HIGH
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 11
+Dominant artist           : Silverchair
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-07 19:16:51Z → 2026-08-14 19:16:51Z
+Week window (UTC)         : 2026-08-07 21:43:19Z → 2026-08-14 21:43:19Z
 Total tracks played       : 50
-Dominant artist           : Tomasz Stanko Quintet
+Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 16:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :    ▁▂      ▂▆▅▅▂█▅▁▁▃▆█▂
+Peak hour (24h)           : 17:00
+Peak hour (7d)            : 17:00
+Heatmap (24h)             :                ▁▁█      
+Heatmap (7d)              :    ▁▁      ▁▃▂▃▂▅█▁▁▂▁ ▁
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 13
-Avg inter-play gap (7d)   : 02:47:28
+Sessions (24h)            : 2
+Sessions (7d)             : 14
+Avg inter-play gap (7d)   : 03:18:36
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : jazz(24) | free jazz(17) | ambient jazz(14) | post-grunge(13) | alternative metal(10) | bebop(9)
+Top genres (24h)          : grunge(11) | post-grunge(11)
+Top genres (7d)           : jazz(24) | grunge(21) | post-grunge(21) | free jazz(17) | ambient jazz(14) | bebop(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 AUTHORIZATION WATCH
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-14 19:16:51Z
+Report generated (UTC)    : 2026-08-14 21:43:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
