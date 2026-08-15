@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-15 10:43:33Z",
+  "updated_utc": "2026-08-15 13:02:32Z",
   "events": [
+    {
+      "track": "All Them Witches — Hold Up, Say What?",
+      "artist": "All Them Witches",
+      "title": "Hold Up, Say What?",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:3mCRtyxGMEYV2IHywJZGdd",
+      "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-15 10:55:33Z",
+      "played_at_local": "2026-08-15 06:55:33 -04",
+      "local_hour": 6,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "All Them Witches — Aethernet",
       "artist": "All Them Witches",
