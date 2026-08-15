@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-15 08:15:13Z
 Played at (local)         : 2026-08-15 04:15:13 -04
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 00:06:15
+Time since play           : 00:09:16
 Gap from previous play    : 00:05:21
 ------------------------------------------------------------
 Previous song             : All Them Witches — Everest - Live
@@ -1558,7 +1558,7 @@ Last known device name    : iPhone
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-08-15 08:21:27Z
+Context observed (UTC)    : 2026-08-15 08:24:28Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
@@ -1625,7 +1625,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-08 08:21:27Z → 2026-08-15 08:21:27Z
+Week window (UTC)         : 2026-08-08 08:24:28Z → 2026-08-15 08:24:28Z
 Tracks played (7d)        : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1645,10 +1645,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : All Them Witches — Everest - Live → All Them Witches — Bulls - Live
-Playback timestamp Δ      : 2026-08-15 08:09:52Z → 2026-08-15 08:15:13Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 00:10:25
+Telemetry interval        : 00:03:02
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1685,7 +1685,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-15 08:21:27Z
+Report generated (UTC)    : 2026-08-15 08:24:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
