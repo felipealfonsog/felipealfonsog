@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-08-15 07:00:03Z",
+  "report_generated_utc": "2026-08-15 07:24:22Z",
   "status": "PLAYING",
-  "last_track": "Silverchair — One Way Mule",
-  "last_played_utc": "2026-08-15 06:47:14Z",
+  "last_track": "Days Of The New — Where I Stand",
+  "last_played_utc": "2026-08-15 07:19:37Z",
   "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1646,160 +1646,268 @@
       "rap metal",
       "metal"
     ],
-    "4PY51S3HuOMhnZA0Sx8FRN": []
+    "4PY51S3HuOMhnZA0Sx8FRN": [],
+    "6sM2JCBjZprP7JLMTZZSxX": [
+      "shoegaze",
+      "space rock",
+      "post-hardcore"
+    ],
+    "3HmMT81W29LjSKNjl1Iy1s": [
+      "speed metal"
+    ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Last-known playback state\nObservation window        : 00:30:00\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nLast track played         : Silverchair — One Way Mule\n------------------------------------------------------------\nRecent track #1            : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04\nRecent track #2            : Silverchair — Madman | 2026-08-15 02:36:50 -04\nRecent track #3            : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04\nRecent track #4            : Silverchair — Cicada | 2026-08-15 02:30:48 -04\nRecent track #5            : Silverchair — Undecided | 2026-08-14 20:41:44 -04\nRecent track #6            : Silverchair — Madman | 2026-08-14 20:37:07 -04\nRecent track #7            : Silverchair — Suicidal Dream | 2026-08-14 20:34:24 -04\nRecent track #8            : Silverchair — Leave Me Out | 2026-08-14 20:31:11 -04\nRecent track #9            : Silverchair — Shade | 2026-08-14 20:28:08 -04\nRecent track #10           : Silverchair — Pure Massacre | 2026-08-14 20:24:06 -04\nRecent track #11           : Silverchair — Tomorrow | 2026-08-14 20:08:57 -04\nRecent track #12           : Silverchair — Israel's Son | 2026-08-14 20:04:30 -04\nRecent track #13           : Silverchair — Israel's Son | 2026-08-14 19:57:55 -04\nRecent track #14           : Silverchair — Findaway | 2026-08-14 17:44:39 -04\nRecent track #15           : Silverchair — Cicada | 2026-08-14 17:36:23 -04\nRecent track #16           : Silverchair — Undecided | 2026-08-14 17:31:08 -04\nRecent track #17           : Silverchair — Madman | 2026-08-14 17:26:31 -04\nRecent track #18           : Silverchair — Suicidal Dream | 2026-08-14 17:23:46 -04\nRecent track #19           : Silverchair — Undecided | 2026-08-14 17:17:20 -04\nRecent track #20           : Silverchair — Madman | 2026-08-14 17:12:44 -04\nRecent track #21           : Silverchair — Suicidal Dream | 2026-08-14 17:10:00 -04\nRecent track #22           : Silverchair — Leave Me Out | 2026-08-14 17:06:47 -04\nRecent track #23           : Silverchair — Shade | 2026-08-14 17:03:44 -04\nRecent track #24           : Silverchair — Leave Me Out | 2026-08-14 16:59:19 -04\nRecent track #25           : Silverchair — Shade | 2026-08-14 15:34:55 -04\n------------------------------------------------------------\nLast known device         : iPhone (Smartphone)\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nLast played (UTC)         : 2026-08-15 06:47:14Z\n------------------------------------------------------------\nLISTENING HOURS (recent playback)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (recent)        : 17:00\nHeatmap (recent)          :   ▃            ▁▁█ ▁▆   \n------------------------------------------------------------\nHISTORICAL LISTENING SNAPSHOT\n------------------------------------------------------------\nSnapshot captured (UTC)   : 2026-08-15 07:00:03Z\nWeek window (UTC)         : 2026-08-08 07:00:03Z → 2026-08-15 07:00:03Z\nTracks played (last 24h)  : 25\nTotal tracks played (7d)  : 50\nDominant artist (24h)     : Silverchair\nDominant artist (7d)      : Silverchair\nListening pattern (24h)   : Sustained operational tempo\nActivity status (24h)     : HIGH\nCadence classification    : HIGH\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 17:00\nPeak hour (7d)            : 17:00\nHeatmap (24h)             :   ▃            ▁▁█ ▁▆   \nHeatmap (7d)              :   ▂▁       ▁▃▁▃▂▁█▁▁▇▁  \n------------------------------------------------------------\nSessions (24h)            : 4\nSessions (7d)             : 13\nAvg inter-play gap (7d)   : 02:09:16\nTop genres (24h)          : grunge(25) | post-grunge(25)\nTop genres (7d)           : grunge(35) | post-grunge(35) | jazz(9) | ambient jazz(8) | free jazz(8) | bebop(1)\n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nNow playing               : Shihad — You Again - Remastered\nLast played               : Silverchair — One Way Mule\nLast played (UTC)         : 2026-08-15 06:47:14Z\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nΔ track (since last)      : Silverchair — Undecided → Silverchair — One Way Mule\nΔ last played (since last): 2026-08-15 00:41:44Z → 2026-08-15 06:47:14Z\nΔ status (since last)     : IDLE → PLAYING\n------------------------------------------------------------\nTime since last play      : 00:12:49\nTelemetry age             : 00:12:49\nΔ time (since last report): 03:03:32\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 25\nDominant artist           : Silverchair\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-08 07:00:03Z → 2026-08-15 07:00:03Z\nTotal tracks played       : 50\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 17:00\nPeak hour (7d)            : 17:00\nHeatmap (24h)             :   ▃            ▁▁█ ▁▆   \nHeatmap (7d)              :   ▂▁       ▁▃▁▃▂▁█▁▁▇▁  \n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 4\nSessions (7d)             : 13\nAvg inter-play gap (7d)   : 02:09:16\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(25) | post-grunge(25)\nTop genres (7d)           : grunge(35) | post-grunge(35) | jazz(9) | ambient jazz(8) | free jazz(8) | bebop(1)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-15 07:00:03Z",
-  "last_successful_report_utc": "2026-08-15 07:00:03Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Live + historical playback telemetry\nObservation window        : 00:30:00\n------------------------------------------------------------\nCURRENT PLAYBACK STATE\n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\nNow playing               : All Them Witches — Blood And Sand / Milk And Endless Waters - Live\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nRecent track #1           : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04\nRecent track #2           : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04\nRecent track #3           : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04\nRecent track #4           : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04\nRecent track #5           : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04\nRecent track #6           : Silverchair — Madman | 2026-08-15 02:36:50 -04\nRecent track #7           : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04\nRecent track #8           : Silverchair — Cicada | 2026-08-15 02:30:48 -04\nRecent track #9           : Silverchair — Undecided | 2026-08-14 20:41:44 -04\nRecent track #10          : Silverchair — Madman | 2026-08-14 20:37:07 -04\nRecent track #11          : Silverchair — Suicidal Dream | 2026-08-14 20:34:24 -04\nRecent track #12          : Silverchair — Leave Me Out | 2026-08-14 20:31:11 -04\nRecent track #13          : Silverchair — Shade | 2026-08-14 20:28:08 -04\nRecent track #14          : Silverchair — Pure Massacre | 2026-08-14 20:24:06 -04\nRecent track #15          : Silverchair — Tomorrow | 2026-08-14 20:08:57 -04\nRecent track #16          : Silverchair — Israel's Son | 2026-08-14 20:04:30 -04\nRecent track #17          : Silverchair — Israel's Son | 2026-08-14 19:57:55 -04\nRecent track #18          : Silverchair — Findaway | 2026-08-14 17:44:39 -04\nRecent track #19          : Silverchair — Cicada | 2026-08-14 17:36:23 -04\nRecent track #20          : Silverchair — Undecided | 2026-08-14 17:31:08 -04\nRecent track #21          : Silverchair — Madman | 2026-08-14 17:26:31 -04\nRecent track #22          : Silverchair — Suicidal Dream | 2026-08-14 17:23:46 -04\nRecent track #23          : Silverchair — Undecided | 2026-08-14 17:17:20 -04\nRecent track #24          : Silverchair — Madman | 2026-08-14 17:12:44 -04\nRecent track #25          : Silverchair — Suicidal Dream | 2026-08-14 17:10:00 -04\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice state              : CURRENT\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nLAST PLAYBACK CONTEXT\n------------------------------------------------------------\nLast played               : Days Of The New — Where I Stand\nLast played (UTC)         : 2026-08-15 07:19:37Z\nLast played (local)       : 2026-08-15 03:19:37 -04\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS\n------------------------------------------------------------\nObserved events           : 50\nUnique tracks             : 22\nUnique artists            : 8\nReplay ratio              : ██████████░░░░░░░░  56.0%\nArtist diversity          : ███░░░░░░░░░░░░░░░  16.0%\nDominant artist           : Silverchair\nDominant artist share     : ████████████░░░░░░  66.0%\nArtist switch ratio       : ████░░░░░░░░░░░░░░  20.4%\nLongest artist streak     : Silverchair × 32\n------------------------------------------------------------\nDAYPART DISTRIBUTION (sample)\n------------------------------------------------------------\nNight      00–06           : ███░░░░░░░░░░░░░░░   18.0%\nMorning    06–12           : █░░░░░░░░░░░░░░░░░    4.0%\nAfternoon  12–18           : ██████████░░░░░░░░   54.0%\nEvening    18–24           : ████░░░░░░░░░░░░░░   24.0%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (sample)\n------------------------------------------------------------\nSample first play         : 2026-08-11 01:07:51Z\nSample last play          : 2026-08-15 07:19:37Z\nObserved time span        : 102:11:46\nMean inter-play gap       : 02:05:08\nMedian inter-play gap     : 00:06:35\nLongest inactivity gap    : 24:52:13\nListening intensity       : 0.49 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 17:00\nPeak hour (7d sample)     : 17:00\nHeatmap (24h)             :   ▃▃           ▁▁█ ▁▆   \nHeatmap (7d sample)       :   ▃▃       ▁▃▁▃▂▁█▁▁▅▁  \n------------------------------------------------------------\nWEEK ACTIVITY (API sample)\n------------------------------------------------------------\nActivity (Mon→Sun)        :  ▂▁▅█▃ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (API sample)\n------------------------------------------------------------\nMon                       :                      █  \nTue                       :                █  ▄▄    \nWed                       :    ▄             █      \nThu                       :            ▃█▂█         \nFri                       :                ▁▁█ ▁▆   \nSat                       :   ██                    \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 29\nDominant artist           : Silverchair\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY (API sample)\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-08 07:24:22Z → 2026-08-15 07:24:22Z\nEvents observed           : 50\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 4\nSessions (7d sample)      : 12\nAvg inter-play gap        : 02:05:08\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(26) | post-grunge(26) | post-hardcore(2) | shoegaze(2) | space rock(2) | speed metal(1)\nTop genres (7d sample)    : grunge(34) | post-grunge(34) | ambient jazz(8) | free jazz(8) | jazz(8) | post-hardcore(2)\nArtist lookups (this run) : 2 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Silverchair — One Way Mule → Days Of The New — Where I Stand\nPlayback timestamp Δ      : 2026-08-15 06:47:14Z → 2026-08-15 07:19:37Z\nState transition          : NO CHANGE\nTelemetry interval        : 00:24:20\n------------------------------------------------------------\nTEMPORAL FRESHNESS\n------------------------------------------------------------\nTime since last play      : 00:04:46\nTelemetry age             : 00:04:46\n------------------------------------------------------------\nDATA COVERAGE\n------------------------------------------------------------\nRecent API sample         : 50 events\nSample capacity           : 50/50 (100.0%)\nOldest sampled event      : 2026-08-10 21:07:51 -04\nNewest sampled event      : 2026-08-15 03:19:37 -04\nCoverage mode             : SPOTIFY RECENT-PLAYBACK WINDOW\n7d metrics scope          : SAMPLE-BOUNDED (max 50 events)\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-15 07:24:22Z",
+  "last_successful_report_utc": "2026-08-15 07:24:22Z",
   "recent_playback_history": [
     {
+      "track": "Days Of The New — Where I Stand",
+      "artist": "Days Of The New",
+      "title": "Where I Stand",
+      "uri": "spotify:track:5rrb7jvZ3AIknpVLOfRxpx",
+      "played_at_utc": "2026-08-15 07:19:37Z",
+      "played_at_local": "2026-08-15 03:19:37 -04",
+      "local_hour": 3,
+      "weekday": 5
+    },
+    {
+      "track": "Hum — Iron Clad Lou",
+      "artist": "Hum",
+      "title": "Iron Clad Lou",
+      "uri": "spotify:track:5z9Z8pKeQkyigKgXmonAS8",
+      "played_at_utc": "2026-08-15 07:13:45Z",
+      "played_at_local": "2026-08-15 03:13:45 -04",
+      "local_hour": 3,
+      "weekday": 5
+    },
+    {
+      "track": "Hum — Iron Clad Lou",
+      "artist": "Hum",
+      "title": "Iron Clad Lou",
+      "uri": "spotify:track:5z9Z8pKeQkyigKgXmonAS8",
+      "played_at_utc": "2026-08-15 07:07:31Z",
+      "played_at_local": "2026-08-15 03:07:31 -04",
+      "local_hour": 3,
+      "weekday": 5
+    },
+    {
+      "track": "Shihad — You Again - Remastered",
+      "artist": "Shihad",
+      "title": "You Again - Remastered",
+      "uri": "spotify:track:2UnYtWQVDW9khTWTAnuEhU",
+      "played_at_utc": "2026-08-15 07:00:35Z",
+      "played_at_local": "2026-08-15 03:00:35 -04",
+      "local_hour": 3,
+      "weekday": 5
+    },
+    {
       "track": "Silverchair — One Way Mule",
+      "artist": "Silverchair",
+      "title": "One Way Mule",
+      "uri": "spotify:track:6WfuJb0HmIzA45sBFZ9j3F",
       "played_at_utc": "2026-08-15 06:47:14Z",
       "played_at_local": "2026-08-15 02:47:14 -04",
-      "local_hour": 2
+      "local_hour": 2,
+      "weekday": 5
     },
     {
       "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
       "played_at_utc": "2026-08-15 06:36:50Z",
       "played_at_local": "2026-08-15 02:36:50 -04",
-      "local_hour": 2
+      "local_hour": 2,
+      "weekday": 5
     },
     {
       "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
       "played_at_utc": "2026-08-15 06:34:07Z",
       "played_at_local": "2026-08-15 02:34:07 -04",
-      "local_hour": 2
+      "local_hour": 2,
+      "weekday": 5
     },
     {
       "track": "Silverchair — Cicada",
+      "artist": "Silverchair",
+      "title": "Cicada",
+      "uri": "spotify:track:6mJdEWVOaCayMo8eaSl3Xw",
       "played_at_utc": "2026-08-15 06:30:48Z",
       "played_at_local": "2026-08-15 02:30:48 -04",
-      "local_hour": 2
+      "local_hour": 2,
+      "weekday": 5
     },
     {
       "track": "Silverchair — Undecided",
+      "artist": "Silverchair",
+      "title": "Undecided",
+      "uri": "spotify:track:3Yhi0Tz3zAD5Q7OUekXsdz",
       "played_at_utc": "2026-08-15 00:41:44Z",
       "played_at_local": "2026-08-14 20:41:44 -04",
-      "local_hour": 20
+      "local_hour": 20,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
       "played_at_utc": "2026-08-15 00:37:07Z",
       "played_at_local": "2026-08-14 20:37:07 -04",
-      "local_hour": 20
+      "local_hour": 20,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
       "played_at_utc": "2026-08-15 00:34:24Z",
       "played_at_local": "2026-08-14 20:34:24 -04",
-      "local_hour": 20
+      "local_hour": 20,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Leave Me Out",
+      "artist": "Silverchair",
+      "title": "Leave Me Out",
+      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
       "played_at_utc": "2026-08-15 00:31:11Z",
       "played_at_local": "2026-08-14 20:31:11 -04",
-      "local_hour": 20
+      "local_hour": 20,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Shade",
+      "artist": "Silverchair",
+      "title": "Shade",
+      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
       "played_at_utc": "2026-08-15 00:28:08Z",
       "played_at_local": "2026-08-14 20:28:08 -04",
-      "local_hour": 20
+      "local_hour": 20,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Pure Massacre",
+      "artist": "Silverchair",
+      "title": "Pure Massacre",
+      "uri": "spotify:track:7qCIP5KHYy9HuXbEEWzmC7",
       "played_at_utc": "2026-08-15 00:24:06Z",
       "played_at_local": "2026-08-14 20:24:06 -04",
-      "local_hour": 20
+      "local_hour": 20,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Tomorrow",
+      "artist": "Silverchair",
+      "title": "Tomorrow",
+      "uri": "spotify:track:24tO365YW6lcZr1hN4Ukzj",
       "played_at_utc": "2026-08-15 00:08:57Z",
       "played_at_local": "2026-08-14 20:08:57 -04",
-      "local_hour": 20
+      "local_hour": 20,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
       "played_at_utc": "2026-08-15 00:04:30Z",
       "played_at_local": "2026-08-14 20:04:30 -04",
-      "local_hour": 20
+      "local_hour": 20,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
       "played_at_utc": "2026-08-14 23:57:55Z",
       "played_at_local": "2026-08-14 19:57:55 -04",
-      "local_hour": 19
+      "local_hour": 19,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Findaway",
+      "artist": "Silverchair",
+      "title": "Findaway",
+      "uri": "spotify:track:6pcyozjE7GDIbf4oN8ctLe",
       "played_at_utc": "2026-08-14 21:44:39Z",
       "played_at_local": "2026-08-14 17:44:39 -04",
-      "local_hour": 17
+      "local_hour": 17,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Cicada",
+      "artist": "Silverchair",
+      "title": "Cicada",
+      "uri": "spotify:track:6mJdEWVOaCayMo8eaSl3Xw",
       "played_at_utc": "2026-08-14 21:36:23Z",
       "played_at_local": "2026-08-14 17:36:23 -04",
-      "local_hour": 17
+      "local_hour": 17,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Undecided",
+      "artist": "Silverchair",
+      "title": "Undecided",
+      "uri": "spotify:track:3Yhi0Tz3zAD5Q7OUekXsdz",
       "played_at_utc": "2026-08-14 21:31:08Z",
       "played_at_local": "2026-08-14 17:31:08 -04",
-      "local_hour": 17
+      "local_hour": 17,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
       "played_at_utc": "2026-08-14 21:26:31Z",
       "played_at_local": "2026-08-14 17:26:31 -04",
-      "local_hour": 17
+      "local_hour": 17,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
       "played_at_utc": "2026-08-14 21:23:46Z",
       "played_at_local": "2026-08-14 17:23:46 -04",
-      "local_hour": 17
+      "local_hour": 17,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Undecided",
+      "artist": "Silverchair",
+      "title": "Undecided",
+      "uri": "spotify:track:3Yhi0Tz3zAD5Q7OUekXsdz",
       "played_at_utc": "2026-08-14 21:17:20Z",
       "played_at_local": "2026-08-14 17:17:20 -04",
-      "local_hour": 17
+      "local_hour": 17,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
       "played_at_utc": "2026-08-14 21:12:44Z",
       "played_at_local": "2026-08-14 17:12:44 -04",
-      "local_hour": 17
+      "local_hour": 17,
+      "weekday": 4
     },
     {
       "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
       "played_at_utc": "2026-08-14 21:10:00Z",
       "played_at_local": "2026-08-14 17:10:00 -04",
-      "local_hour": 17
-    },
-    {
-      "track": "Silverchair — Leave Me Out",
-      "played_at_utc": "2026-08-14 21:06:47Z",
-      "played_at_local": "2026-08-14 17:06:47 -04",
-      "local_hour": 17
-    },
-    {
-      "track": "Silverchair — Shade",
-      "played_at_utc": "2026-08-14 21:03:44Z",
-      "played_at_local": "2026-08-14 17:03:44 -04",
-      "local_hour": 17
-    },
-    {
-      "track": "Silverchair — Leave Me Out",
-      "played_at_utc": "2026-08-14 20:59:19Z",
-      "played_at_local": "2026-08-14 16:59:19 -04",
-      "local_hour": 16
-    },
-    {
-      "track": "Silverchair — Shade",
-      "played_at_utc": "2026-08-14 19:34:55Z",
-      "played_at_local": "2026-08-14 15:34:55 -04",
-      "local_hour": 15
+      "local_hour": 17,
+      "weekday": 4
     }
   ],
   "last_known_device_type": "Smartphone",
@@ -1807,9 +1915,9 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-08-15 07:00:03Z",
-    "week_window_utc": "2026-08-08 07:00:03Z → 2026-08-15 07:00:03Z",
-    "tracks_24h": 25,
+    "captured_utc": "2026-08-15 07:24:22Z",
+    "week_window_utc": "2026-08-08 07:24:22Z → 2026-08-15 07:24:22Z",
+    "tracks_24h": 29,
     "tracks_7d": 50,
     "dominant_artist_24h": "Silverchair",
     "dominant_artist_7d": "Silverchair",
@@ -1819,12 +1927,12 @@
     "local_timezone": "America/Santiago",
     "peak_hour_24h": "17:00",
     "peak_hour_7d": "17:00",
-    "heatmap_24h": "  ▃            ▁▁█ ▁▆   ",
-    "heatmap_7d": "  ▂▁       ▁▃▁▃▂▁█▁▁▇▁  ",
+    "heatmap_24h": "  ▃▃           ▁▁█ ▁▆   ",
+    "heatmap_7d": "  ▃▃       ▁▃▁▃▂▁█▁▁▅▁  ",
     "sessions_24h": 4,
-    "sessions_7d": 13,
-    "avg_inter_play_gap_7d": "02:09:16",
-    "top_genres_24h": "grunge(25) | post-grunge(25)",
-    "top_genres_7d": "grunge(35) | post-grunge(35) | jazz(9) | ambient jazz(8) | free jazz(8) | bebop(1)"
+    "sessions_7d": 12,
+    "avg_inter_play_gap_7d": "02:05:08",
+    "top_genres_24h": "grunge(26) | post-grunge(26) | post-hardcore(2) | shoegaze(2) | space rock(2) | speed metal(1)",
+    "top_genres_7d": "grunge(34) | post-grunge(34) | ambient jazz(8) | free jazz(8) | jazz(8) | post-hardcore(2)"
   }
 }
