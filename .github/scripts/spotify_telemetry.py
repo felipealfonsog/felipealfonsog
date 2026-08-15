@@ -69,7 +69,7 @@ MAX_RECENT_ITEMS          = 50
 MAX_ARTIST_LOOKUPS        = 80
 
 # Cantidad de canciones recientes mostradas/guardadas (1-50)
-RECENT_HISTORY_LIMIT      = 25
+RECENT_HISTORY_LIMIT      = 41
 
 # ---- ASCII/Unicode visual analytics ----
 ANALYTICS_BAR_WIDTH       = 18
