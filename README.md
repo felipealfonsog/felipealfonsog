@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-15 08:15:13Z
 Played at (local)         : 2026-08-15 04:15:13 -04
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 00:22:31
+Time since play           : 00:33:31
 Gap from previous play    : 00:05:21
 ------------------------------------------------------------
 Previous song             : All Them Witches — Everest - Live
@@ -1635,7 +1635,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-08 08:37:44Z → 2026-08-15 08:37:44Z
+Week window (UTC)         : 2026-08-08 08:48:44Z → 2026-08-15 08:48:44Z
 Tracks played (7d)        : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1657,8 +1657,8 @@ CHANGE TELEMETRY
 ------------------------------------------------------------
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
-State transition          : PLAYING → IDLE
-Telemetry interval        : 00:13:16
+State transition          : NO CHANGE
+Telemetry interval        : 00:11:00
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-15 08:37:44Z
+Report generated (UTC)    : 2026-08-15 08:48:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
