@@ -1487,53 +1487,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : All Them Witches — The Marriage Of Coyote Woman - Live
+Track                     : All Them Witches — Everest - Live
 Artist                    : All Them Witches
-Title                     : The Marriage Of Coyote Woman - Live
+Title                     : Everest - Live
 Album                     : Live On The Internet
-Spotify URI               : spotify:track:7FZXmhPrcBD0beJoHicxLP
-Spotify URL               : https://open.spotify.com/track/7FZXmhPrcBD0beJoHicxLP
+Spotify URI               : spotify:track:3v855fEuovgsxeR4IeKDVo
+Spotify URL               : https://open.spotify.com/track/3v855fEuovgsxeR4IeKDVo
 ------------------------------------------------------------
-Played at (UTC)           : 2026-08-15 07:54:19Z
-Played at (local)         : 2026-08-15 03:54:19 -04
-Local hour                : 03:00
+Played at (UTC)           : 2026-08-15 08:09:52Z
+Played at (local)         : 2026-08-15 04:09:52 -04
+Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 00:08:13
-Gap from previous play    : 00:05:47
+Time since play           : 00:01:11
+Gap from previous play    : 00:02:37
 ------------------------------------------------------------
-Previous song             : All Them Witches — 3-5-7 - Live
+Previous song             : All Them Witches — Enemy of My Enemy - Live
 Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 5
+Artist plays (retained)   : 8
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04
-Previous track #2         : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04
-Previous track #3         : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04
-Previous track #4         : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04
-Previous track #5         : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04
-Previous track #6         : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04
-Previous track #7         : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04
-Previous track #8         : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04
-Previous track #9         : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04
-Previous track #10        : Silverchair — Madman | 2026-08-15 02:36:50 -04
-Previous track #11        : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04
-Previous track #12        : Silverchair — Cicada | 2026-08-15 02:30:48 -04
-Previous track #13        : Silverchair — Undecided | 2026-08-14 20:41:44 -04
-Previous track #14        : Silverchair — Madman | 2026-08-14 20:37:07 -04
-Previous track #15        : Silverchair — Suicidal Dream | 2026-08-14 20:34:24 -04
-Previous track #16        : Silverchair — Leave Me Out | 2026-08-14 20:31:11 -04
-Previous track #17        : Silverchair — Shade | 2026-08-14 20:28:08 -04
-Previous track #18        : Silverchair — Pure Massacre | 2026-08-14 20:24:06 -04
-Previous track #19        : Silverchair — Tomorrow | 2026-08-14 20:08:57 -04
-Previous track #20        : Silverchair — Israel's Son | 2026-08-14 20:04:30 -04
-Previous track #21        : Silverchair — Israel's Son | 2026-08-14 19:57:55 -04
-Previous track #22        : Silverchair — Findaway | 2026-08-14 17:44:39 -04
-Previous track #23        : Silverchair — Cicada | 2026-08-14 17:36:23 -04
-Previous track #24        : Silverchair — Undecided | 2026-08-14 17:31:08 -04
+Previous track #1         : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04
+Previous track #2         : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04
+Previous track #3         : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04
+Previous track #4         : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04
+Previous track #5         : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04
+Previous track #6         : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04
+Previous track #7         : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04
+Previous track #8         : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04
+Previous track #9         : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04
+Previous track #10        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04
+Previous track #11        : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04
+Previous track #12        : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04
+Previous track #13        : Silverchair — Madman | 2026-08-15 02:36:50 -04
+Previous track #14        : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04
+Previous track #15        : Silverchair — Cicada | 2026-08-15 02:30:48 -04
+Previous track #16        : Silverchair — Undecided | 2026-08-14 20:41:44 -04
+Previous track #17        : Silverchair — Madman | 2026-08-14 20:37:07 -04
+Previous track #18        : Silverchair — Suicidal Dream | 2026-08-14 20:34:24 -04
+Previous track #19        : Silverchair — Leave Me Out | 2026-08-14 20:31:11 -04
+Previous track #20        : Silverchair — Shade | 2026-08-14 20:28:08 -04
+Previous track #21        : Silverchair — Pure Massacre | 2026-08-14 20:24:06 -04
+Previous track #22        : Silverchair — Tomorrow | 2026-08-14 20:08:57 -04
+Previous track #23        : Silverchair — Israel's Son | 2026-08-14 20:04:30 -04
+Previous track #24        : Silverchair — Israel's Son | 2026-08-14 19:57:55 -04
+Previous track #25        : Silverchair — Findaway | 2026-08-14 17:44:39 -04
+Previous track #26        : Silverchair — Cicada | 2026-08-14 17:36:23 -04
+Previous track #27        : Silverchair — Undecided | 2026-08-14 17:31:08 -04
+Previous track #28        : Silverchair — Madman | 2026-08-14 17:26:31 -04
+Previous track #29        : Silverchair — Suicidal Dream | 2026-08-14 17:23:46 -04
+Previous track #30        : Silverchair — Undecided | 2026-08-14 17:17:20 -04
+Previous track #31        : Silverchair — Madman | 2026-08-14 17:12:44 -04
+Previous track #32        : Silverchair — Suicidal Dream | 2026-08-14 17:10:00 -04
+Previous track #33        : Silverchair — Leave Me Out | 2026-08-14 17:06:47 -04
+Previous track #34        : Silverchair — Shade | 2026-08-14 17:03:44 -04
+Previous track #35        : Silverchair — Leave Me Out | 2026-08-14 16:59:19 -04
+Previous track #36        : Silverchair — Shade | 2026-08-14 15:34:55 -04
+Previous track #37        : Silverchair — Leave Me Out | 2026-08-13 14:42:42 -04
+Previous track #38        : Silverchair — Shade | 2026-08-13 14:31:15 -04
+Previous track #39        : Silverchair — Shade | 2026-08-13 14:23:51 -04
+Previous track #40        : Silverchair — Without You | 2026-08-13 14:15:12 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1542,74 +1558,74 @@ Last known device name    : iPhone
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-08-15 08:02:32Z
+Context observed (UTC)    : 2026-08-15 08:11:03Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
 Observed events           : 50
-Unique tracks             : 26
-Unique artists            : 9
-Replay ratio              : █████████░░░░░░░░░  48.0%
-Artist diversity          : ███░░░░░░░░░░░░░░░  18.0%
+Unique tracks             : 28
+Unique artists            : 8
+Replay ratio              : ████████░░░░░░░░░░  44.0%
+Artist diversity          : ███░░░░░░░░░░░░░░░  16.0%
 Dominant artist           : Silverchair
 Dominant artist share     : ████████████░░░░░░  64.0%
-Artist switch ratio       : ███░░░░░░░░░░░░░░░  18.4%
+Artist switch ratio       : ███░░░░░░░░░░░░░░░  16.3%
 Longest artist streak     : Silverchair × 32
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █████░░░░░░░░░░░░░   28.0%
+Night      00–06           : ██████░░░░░░░░░░░░   32.0%
 Morning    06–12           : █░░░░░░░░░░░░░░░░░    4.0%
-Afternoon  12–18           : █████████░░░░░░░░░   50.0%
+Afternoon  12–18           : ████████░░░░░░░░░░   46.0%
 Evening    18–24           : ███░░░░░░░░░░░░░░░   18.0%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)  : 2026-08-12 07:19:53Z
-History last play (7d)   : 2026-08-15 07:54:19Z
-Observed time span        : 72:34:26
-Mean inter-play gap       : 01:28:52
-Median inter-play gap     : 00:05:52
+History first play (7d)  : 2026-08-13 15:48:49Z
+History last play (7d)   : 2026-08-15 08:09:52Z
+Observed time span        : 40:21:03
+Mean inter-play gap       : 00:49:25
+Median inter-play gap     : 00:05:25
 Longest inactivity gap    : 24:52:13
-Listening intensity       : 0.69 tracks/hour
+Listening intensity       : 1.24 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 17:00
 Peak hour (7d)            : 17:00
-Heatmap (24h)             :   ▃▇           ▁▁█ ▁▆   
-Heatmap (7d)               :   ▃▇       ▁▃▁▃▁▁█ ▁▅   
+Heatmap (24h)             :   ▃▇▂          ▁▁█ ▁▆   
+Heatmap (7d)               :   ▃▇▂      ▂▄▁▄▁▁█ ▁▆   
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▁▅█▅ 
+Activity (Mon→Sun)        :    ▅█▆ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :                           ▁▅█▅
+Activity trend (30d)      :                            ▅█▆
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :                         
 Tue                       :                         
-Wed                       :    ▄             █      
+Wed                       :                         
 Thu                       :            ▃█▂█         
 Fri                       :                ▁▁█ ▁▆   
-Sat                       :   ▄█                    
+Sat                       :   ▄█▃                   
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 34
+Tracks played (last 24h)  : 37
 Dominant artist           : Silverchair
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-08 08:02:32Z → 2026-08-15 08:02:32Z
+Week window (UTC)         : 2026-08-08 08:11:03Z → 2026-08-15 08:11:03Z
 Tracks played (7d)       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1618,28 +1634,28 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
-Sessions (7d)             : 8
-Avg inter-play gap        : 01:28:52
+Sessions (7d)             : 6
+Avg inter-play gap        : 00:49:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(26) | post-grunge(26) | space rock(7) | blues rock(5) | neo-psychedelic(5) | psychedelic rock(5)
-Top genres (7d)           : grunge(33) | post-grunge(33) | space rock(7) | blues rock(5) | neo-psychedelic(5) | psychedelic rock(5)
+Top genres (24h)          : grunge(26) | post-grunge(26) | space rock(10) | blues rock(8) | neo-psychedelic(8) | psychedelic rock(8)
+Top genres (7d)           : grunge(33) | post-grunge(33) | space rock(10) | blues rock(8) | neo-psychedelic(8) | psychedelic rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : All Them Witches — 3-5-7 - Live → All Them Witches — The Marriage Of Coyote Woman - Live
-Playback timestamp Δ      : 2026-08-15 07:48:32Z → 2026-08-15 07:54:19Z
+Track transition          : All Them Witches — The Marriage Of Coyote Woman - Live → All Them Witches — Everest - Live
+Playback timestamp Δ      : 2026-08-15 07:54:19Z → 2026-08-15 08:09:52Z
 State transition          : NO CHANGE
-Telemetry interval        : 00:13:29
+Telemetry interval        : 00:08:31
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 50
-Oldest retained event     : 2026-08-12 03:19:53 -04
-Newest retained event     : 2026-08-15 03:54:19 -04
-Events (24h)              : 34
+Oldest retained event     : 2026-08-13 11:48:49 -04
+Newest retained event     : 2026-08-15 04:09:52 -04
+Events (24h)              : 37
 Events (7d)               : 50
 Events (30d)              : 50
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1669,7 +1685,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-15 08:02:32Z
+Report generated (UTC)    : 2026-08-15 08:11:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
