@@ -22,7 +22,7 @@ from zoneinfo import ZoneInfo
 
 # ---- Master blocks (README output sections) ----
 SHOW_HEADER_META          = True
-SHOW_STATUS_BLOCK         = True
+SHOW_LAST_PLAYED_SONG    = True
 SHOW_DEVICE_BLOCK         = True
 SHOW_RECENT_HISTORY       = True
 SHOW_BEHAVIOUR_ANALYTICS  = True
@@ -1266,35 +1266,101 @@ def build_report():
         out.append(f"Observation window        : {fmt_hms(OBS_WINDOW_SECONDS)}")
         out.append("------------------------------------------------------------")
 
-    if SHOW_STATUS_BLOCK:
-        out.append("LIVE PLAYBACK (current signal only)")
+    if SHOW_LAST_PLAYED_SONG:
+        out.append("LAST PLAYED SONG")
         out.append("------------------------------------------------------------")
-        if is_playing:
-            observed_local = now.astimezone(local_tz()).strftime("%Y-%m-%d %H:%M:%S %Z")
-            out.append("Live state                : PLAYING")
-            out.append(f"Now playing               : {now_track_name}")
-            out.append(f"Observed (local)          : {observed_local}")
-            out.append(f"Device                    : {device_name if SHOW_DEVICE_NAME else device_type}")
-            out.append(f"Volume                    : {f'{int(volume_percent)}%' if volume_percent is not None else 'N/A'}")
-            out.append(f"Volume telemetry          : {volume_telemetry}")
+        if recent_history:
+            first = recent_history[0]
+            previous = recent_history[1] if len(recent_history) > 1 else None
+
+            first_dt = parse_iso_z(first.get("played_at_utc") or "")
+            previous_dt = (
+                parse_iso_z(previous.get("played_at_utc") or "")
+                if previous else None
+            )
+            gap_from_previous = (
+                (first_dt - previous_dt).total_seconds()
+                if first_dt and previous_dt else None
+            )
+
+            local_hour = first.get("local_hour")
+            try:
+                local_hour = int(local_hour)
+            except (TypeError, ValueError):
+                local_hour = (
+                    first_dt.astimezone(local_tz()).hour
+                    if first_dt else None
+                )
+
+            daypart = (
+                daypart_for_hour(local_hour)
+                if local_hour is not None else "N/A"
+            )
+
+            track_uri = first.get("uri") or "N/A"
+            track_url = first.get("url") or "N/A"
+            artist_name = first.get("artist") or "N/A"
+            title_name = first.get("title") or "N/A"
+            album_name = first.get("album") or "N/A"
+
+            same_artist_as_previous = "N/A"
+            same_track_as_previous = "N/A"
+            previous_track_name = "N/A"
+            if previous:
+                previous_track_name = previous.get("track") or "N/A"
+                same_artist_as_previous = (
+                    "YES"
+                    if (previous.get("artist") or "") == (first.get("artist") or "")
+                    else "NO"
+                )
+                same_track_as_previous = (
+                    "YES"
+                    if (previous.get("uri") or previous.get("track"))
+                    == (first.get("uri") or first.get("track"))
+                    else "NO"
+                )
+
+            retained_track_plays = sum(
+                1
+                for entry in all_history
+                if (entry.get("uri") or entry.get("track"))
+                == (first.get("uri") or first.get("track"))
+            )
+            retained_artist_plays = sum(
+                1
+                for entry in all_history
+                if (entry.get("artist") or "") == artist_name
+            )
+
+            out.append(f"Track                     : {first.get('track', 'N/A')}")
+            out.append(f"Artist                    : {artist_name}")
+            out.append(f"Title                     : {title_name}")
+            out.append(f"Album                     : {album_name}")
+            out.append(f"Spotify URI               : {track_uri}")
+            out.append(f"Spotify URL               : {track_url}")
+            out.append("------------------------------------------------------------")
+            out.append(f"Played at (UTC)           : {first.get('played_at_utc', 'N/A')}")
+            out.append(f"Played at (local)         : {first.get('played_at_local', 'N/A')}")
+            out.append(f"Local hour                : {f'{local_hour:02d}:00' if local_hour is not None else 'N/A'}")
+            out.append(f"Daypart                   : {daypart}")
+            out.append(f"Time since play           : {time_since_last_play}")
+            out.append(f"Gap from previous play    : {fmt_hms(gap_from_previous) if gap_from_previous is not None else 'N/A'}")
+            out.append("------------------------------------------------------------")
+            out.append(f"Previous song             : {previous_track_name}")
+            out.append(f"Same artist as previous   : {same_artist_as_previous}")
+            out.append(f"Same track as previous    : {same_track_as_previous}")
+            out.append(f"Track plays (retained)    : {retained_track_plays}")
+            out.append(f"Artist plays (retained)   : {retained_artist_plays}")
+            out.append("Historical source         : Spotify recently-played + persistent journal")
         else:
-            out.append("Live state                : INACTIVE")
+            out.append("Track                     : N/A")
+            out.append("Played at (UTC)           : N/A")
+            out.append("Played at (local)         : N/A")
+            out.append("Time since play           : N/A")
         out.append("------------------------------------------------------------")
 
     if SHOW_RECENT_HISTORY:
         out.append("RECENT PLAYBACK HISTORY")
-        out.append("------------------------------------------------------------")
-        if recent_history:
-            first = recent_history[0]
-            out.append(f"Last track played         : {first.get('track', 'N/A')}")
-            out.append(f"Last played (UTC)         : {first.get('played_at_utc', 'N/A')}")
-            out.append(f"Last played (local)       : {first.get('played_at_local', 'N/A')}")
-            out.append(f"Time since last play      : {time_since_last_play}")
-        else:
-            out.append("Last track played         : N/A")
-            out.append("Last played (UTC)         : N/A")
-            out.append("Last played (local)       : N/A")
-            out.append("Time since last play      : N/A")
         out.append("------------------------------------------------------------")
         for index in range(1, RECENT_HISTORY_LIMIT):
             if index < len(recent_history):
