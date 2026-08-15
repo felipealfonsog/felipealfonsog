@@ -1,0 +1,1938 @@
+{
+  "report_generated_utc": "2026-08-15 07:24:22Z",
+  "status": "PLAYING",
+  "last_track": "Days Of The New — Where I Stand",
+  "last_played_utc": "2026-08-15 07:19:37Z",
+  "sitrep": "GREEN",
+  "artist_genre_cache": {
+    "2MvVPVskst6WSd1JWA5311": [
+      "jazz"
+    ],
+    "1PjLk33ZP5fgTFpbgN5kJL": [
+      "jazz"
+    ],
+    "1R3a9JWK2lSTjSr2Dw9Qay": [
+      "jazz"
+    ],
+    "7LMuoHwZv9P0PPSO1DWaLZ": [
+      "jazz"
+    ],
+    "5RktRZOHbkKduKINbyTHNC": [
+      "jazz"
+    ],
+    "4vmN5DgVFk2GDBHDu1ZJeb": [
+      "jazz"
+    ],
+    "4v25mHy55qBXJ4WZg3O7UV": [
+      "jazz"
+    ],
+    "2RfscHz3ooemLWvQslMeqm": [
+      "jazz"
+    ],
+    "6olE6TJLqED3rqDCT0FyPh": [
+      "grunge",
+      "rock"
+    ],
+    "1V9tvIpFfMl1cFJjxJKAre": [
+      "latin rock"
+    ],
+    "3YcBF2ttyueytpXtEzn1Za": [
+      "nu metal",
+      "funk rock",
+      "alternative metal",
+      "alternative rock"
+    ],
+    "4SL7KeObcdWbpCRzEKlhCJ": [
+      "jazz"
+    ],
+    "7lLtsVLpDbuhSvr5UE6HIU": [
+      "jazz"
+    ],
+    "0UaQ3qnMEuBWsPnbKWJo8V": [],
+    "65SoHM1qvoOmpiIBxWGAk1": [
+      "jazz"
+    ],
+    "3ZOpJEdIEoBxNv0MWG5FB0": [
+      "jazz"
+    ],
+    "2UIgtE5XCEu7BYtjaY8wsh": [
+      "jazz"
+    ],
+    "4YpT7UESRRyut4Ftzxynx8": [
+      "jazz"
+    ],
+    "367gr33lVFc1VegXQjwfFa": [
+      "jazz"
+    ],
+    "4ICOVaHa5cPigwgMb9opB5": [
+      "jazz"
+    ],
+    "1Ry53E1vatWPQYpL9DXlQn": [
+      "jazz"
+    ],
+    "3hu0bCz2XTFEEL3WYjo0fs": [
+      "jazz"
+    ],
+    "0Tq1tUZV3Vw3CUvNwIjxpm": [
+      "jazz"
+    ],
+    "2XVJkKNBPA834yV4NKISBw": [
+      "jazz"
+    ],
+    "1Lbuv3aiWkUkCnw0okZ4Fh": [
+      "jazz"
+    ],
+    "6raCh9DUKDTErUk5QmRYzX": [
+      "jazz"
+    ],
+    "51GnoV2CNj0pAcxWvCcQM2": [
+      "bossa nova"
+    ],
+    "08hb6f203kyAPrQkV3LlFZ": [
+      "jazz"
+    ],
+    "4zNremLzDLV4qylYjP0nR2": [
+      "jazz"
+    ],
+    "4jN7TcBXppAcw0mc7yn9xR": [
+      "shoegaze"
+    ],
+    "315Th53dV868sSv3jYt8UO": [
+      "progressive metal"
+    ],
+    "30gmLXY17vQ2muy2MQubWn": [],
+    "28Ps4MXmGKNVn1NVlSwvs8": [
+      "post-grunge",
+      "grunge"
+    ],
+    "2il2sBjwdjQzy5vQdNO8j4": [
+      "progressive metal",
+      "progressive rock"
+    ],
+    "3vS55FlehYb41hwlCx3D3b": [
+      "metalcore"
+    ],
+    "4dQ9qqKO52Uk4E8IBDeGU5": [],
+    "7ldF71EX4P9odISH5LQdAt": [],
+    "6J0fSOjMF8fnWGC9eNu4lD": [
+      "progressive rock",
+      "progressive metal"
+    ],
+    "1LsefiT2Up3mCWD00LN8ck": [],
+    "2dyLnwsbDsTfxa6qPi7LjF": [
+      "trip hop"
+    ],
+    "3t9TpVDaCUbGOWvRC3YREx": [
+      "garage rock",
+      "shoegaze"
+    ],
+    "0c2BiwHVoqkMGrkKPqbRcG": [
+      "progressive metal",
+      "progressive rock"
+    ],
+    "4GjDSR8X4PWmaUXIP0pVnf": [],
+    "0AWeVlo9qXjhPmLflKqikp": [],
+    "3cNtvAs3DPIj46Z5BOU4fD": [],
+    "7oVJJLGKobRGYm59sp7TVD": [],
+    "3tHRRcfndZ65xaKjpazGtA": [
+      "space rock",
+      "stoner metal"
+    ],
+    "4xRdcudb8V909KuVer6gko": [
+      "psychedelic rock",
+      "stoner rock",
+      "space rock"
+    ],
+    "7uCjD9El3RQM1Y8xA94O8f": [],
+    "2tmKg669vSH9NCEdnz4Y6s": [
+      "space rock",
+      "stoner rock",
+      "stoner metal",
+      "psychedelic rock",
+      "sludge metal",
+      "doom metal"
+    ],
+    "1dFOyNJR6px6zWvJVA8DIa": [
+      "progressive metal",
+      "progressive rock",
+      "drone metal"
+    ],
+    "43VZcpziN2RTPNRbrdMgAT": [],
+    "4UBpP2sze65wUMCyUGLe80": [
+      "stoner rock",
+      "space rock"
+    ],
+    "7wog7Uyk4FsbXcilG0FzUA": [],
+    "6cO7GKXtnHxzX3prlNraDR": [],
+    "7yYuEhmPsIxsYHTDou8lRg": [
+      "post-grunge"
+    ],
+    "06D0YfeNZgBA7XWQ79Y42R": [
+      "stoner rock",
+      "space rock",
+      "stoner metal",
+      "sludge metal",
+      "psychedelic rock",
+      "doom metal"
+    ],
+    "0yacjrFvJqylCSuaEsOPct": [
+      "sludge metal",
+      "stoner metal"
+    ],
+    "5arHpA9wRZ30zAMowP0DZM": [
+      "post-grunge"
+    ],
+    "3b20140Z72jsTR17KF3gr0": [
+      "shoegaze"
+    ],
+    "5rkinygmPZhjy01QTp8ClO": [
+      "progressive metal",
+      "progressive rock",
+      "space rock"
+    ],
+    "4EeOMEii7KuoUrVVG3PIhV": [
+      "progressive metal",
+      "progressive rock",
+      "industrial rock"
+    ],
+    "58HjcrZgkKUaldPPK7BuDX": [
+      "stoner rock",
+      "space rock",
+      "stoner metal",
+      "psychedelic rock",
+      "sludge metal"
+    ],
+    "4DRfQMDNaWz3Edl6qEUPjb": [],
+    "2SpwKpFCOpBPjAZOFSzIq4": [],
+    "2ELNNrlpVbK0zFGoaeWgV0": [],
+    "6CQw6qt1rxEUH5aNQnCzta": [],
+    "7oa0Gil7KNv4FPRp1W81KF": [
+      "post-grunge",
+      "grunge"
+    ],
+    "4msm1QtpV7zMReePhbEQ6H": [
+      "progressive metal",
+      "progressive rock",
+      "djent"
+    ],
+    "6NrThvqZoulRBvlQL1z2VT": [
+      "progressive metal",
+      "djent",
+      "progressive rock"
+    ],
+    "34tMOIrSHh3Dx4yXisW61r": [
+      "stoner rock",
+      "space rock"
+    ],
+    "6kZT85q6DjfMiwOvsxtdbi": [],
+    "61mgUeLTwkSrJc8v5ZOyTG": [],
+    "5aPmVMXo8U49rOsPZYdXxp": [
+      "shoegaze"
+    ],
+    "00gOHpiyGX2hk8A0CokPHA": [],
+    "2X5hnnUWzn3V6rgniBPVxo": [],
+    "5ioOCIkpBfV9Z8Zm5DP4vH": [
+      "post-rock"
+    ],
+    "5CqA8vd6Y4q59zUhHYlte1": [
+      "doom metal"
+    ],
+    "0uSxv4QGSU82gKXbh840LN": [],
+    "5qJg8wCDfasUO8hFVQORfi": [],
+    "3szC2sXLPdKUSxFmwHRhtA": [
+      "metalcore"
+    ],
+    "0WntOHafZUdpxI70EQbdGZ": [],
+    "2WYRpt6JRt60c73VtbHvla": [],
+    "7hXW1IT2hugSTjgIsLSx1c": [
+      "progressive metal"
+    ],
+    "31qAwyo9zIW6EdVjuavAH9": [],
+    "165xm8aLeHmfgAw5wWwcRw": [
+      "alternative metal"
+    ],
+    "1QXwIgp7aA3JT7WIyaAcur": [
+      "shoegaze"
+    ],
+    "6Z4kwq0LOaYQW2CqudoOIk": [
+      "shoegaze"
+    ],
+    "6N29twfYpFP41MiqaJuCDW": [
+      "shoegaze"
+    ],
+    "5LWqvtfUtbjgzQKOWk24Lz": [
+      "shoegaze"
+    ],
+    "3Qr5Z948M0BpkrKDFTRwv1": [
+      "shoegaze"
+    ],
+    "30dxyV2Ax6tiLYdaIFmm2x": [
+      "shoegaze"
+    ],
+    "0As6xQo66nhBhaXqOftXiJ": [
+      "shoegaze"
+    ],
+    "3DXXd9XpwDjZASkeAZkUFm": [],
+    "2xAMuwc0kfFedUVWO9fOQl": [
+      "shoegaze"
+    ],
+    "2QMOEU6pGuMSQg2aqZv3C9": [],
+    "3992qm16HTlVo3TXmegC4h": [],
+    "5KDIH2gF0VpelTqyQS7udb": [
+      "post-grunge",
+      "nu metal",
+      "alternative metal"
+    ],
+    "64tNsm6TnZe2zpcMVMOoHL": [
+      "grunge",
+      "post-grunge"
+    ],
+    "0H4CAIX0p57Mmu3UyvcNe3": [
+      "shoegaze"
+    ],
+    "17QFJD1kvdfFzwZPMd6uCg": [
+      "shoegaze"
+    ],
+    "27nXPtM8ein7WkzysU641i": [
+      "shoegaze"
+    ],
+    "3F2at4eIx4GXByVo0hGJaX": [],
+    "6yBtoVjaVbLRaxnxlepboB": [],
+    "5NvrRBcK6hRuboOL0CtZXU": [
+      "latin indie",
+      "latin alternative"
+    ],
+    "6tZQIzF77kkI25EJxmO8K6": [],
+    "2cjwLVLbN1d5WaMZg5Em2g": [
+      "shoegaze"
+    ],
+    "4cQiVRDyg34QUEs9uFW6Sj": [
+      "shoegaze"
+    ],
+    "0uJyNCq9wsxk5FEJuJwstL": [],
+    "5CFu4OVGdPS91iuzYp6rgI": [],
+    "3n6Lqlv3RXqll1A6Y5NwU7": [
+      "shoegaze"
+    ],
+    "1u3p06hNORVVO5kCOaUGv8": [],
+    "7C1PsvnkxaknD9vK1jPHnx": [
+      "shoegaze"
+    ],
+    "5yjLh3Ue9pXmTfUH6WVlgd": [
+      "metalcore"
+    ],
+    "2kk54T90g7cdFeMjjeABHJ": [],
+    "5J0ehnVK9YOBGWOwE022ar": [
+      "shoegaze"
+    ],
+    "76YHUJWHU2wgGBZjIg3itT": [
+      "shoegaze"
+    ],
+    "1Bz7JYqdlG394tjNShtqAV": [
+      "shoegaze"
+    ],
+    "4zSTzXCcRTdxjnfHJ32XMP": [],
+    "18wXu2rWY2oPRBgg9vMhup": [
+      "shoegaze"
+    ],
+    "2Q0rAyTIfdTUwDt8jpEpv0": [
+      "shoegaze"
+    ],
+    "0muUUrVzG2eMabJN2UHtZB": [],
+    "57VFYrmiB0eCM2qXZmV96N": [
+      "stoner rock",
+      "stoner metal",
+      "sludge metal",
+      "doom metal",
+      "space rock"
+    ],
+    "6B5c4sch27tWHAGdarpPaW": [
+      "post-grunge",
+      "alternative metal",
+      "rock"
+    ],
+    "14pVkFUHDL207LzLHtSA18": [
+      "groove metal",
+      "metal",
+      "thrash metal",
+      "heavy metal"
+    ],
+    "6XyY86QOPPrYVGvF9ch6wz": [
+      "nu metal",
+      "rap metal",
+      "rock",
+      "alternative metal"
+    ],
+    "0H0fZAyMbBJIOPfjK2BxZx": [],
+    "5xUf6j4upBrXZPg6AI4MRK": [
+      "grunge",
+      "post-grunge",
+      "hard rock"
+    ],
+    "4nhRSSUxbE3wHY1DpWtCg0": [],
+    "5WimSm0vfp2fbXuoJKSncx": [],
+    "2VDZoCBGjxbHJbnzSX5nP6": [
+      "trap metal"
+    ],
+    "6FXMGgJwohJLUSr5nVlf9X": [
+      "trip hop",
+      "downtempo"
+    ],
+    "791Z3924aa619hZ3xsOJEx": [],
+    "6hhA8TKRNryM8FNzqCqdDO": [
+      "trip hop",
+      "downtempo"
+    ],
+    "6sKLLGj7SqbP2qDBdEOoZ6": [
+      "trip hop",
+      "downtempo"
+    ],
+    "6liAMWkVf5LH7YR9yfFy1Y": [
+      "trip hop",
+      "downtempo"
+    ],
+    "6bWxFw65IEJzBYjx3SxUXd": [
+      "trip hop",
+      "downtempo"
+    ],
+    "14H7ag1wpQOsPPQJOD6Dqr": [
+      "trip hop",
+      "downtempo"
+    ],
+    "5338nAeek8WVCOPNnT7Qv2": [
+      "trip hop",
+      "downtempo"
+    ],
+    "5CE2IfdYZEQGIDsfiRm8SI": [
+      "trip hop",
+      "plunderphonics",
+      "downtempo"
+    ],
+    "1fm9SUMjPmHgti3dnfYzD7": [],
+    "1m0B9ak05G0jqDY4ACLhQu": [
+      "sludge metal",
+      "stoner metal",
+      "stoner rock",
+      "groove metal",
+      "doom metal",
+      "metal"
+    ],
+    "4fE4Bf0MM6lMJpHiHniPuW": [
+      "groove metal",
+      "metal"
+    ],
+    "3xtIpqzIOfQUxKce8BU4Ka": [
+      "sludge metal",
+      "stoner metal",
+      "doom metal",
+      "groove metal",
+      "drone metal"
+    ],
+    "0zfT626RwO6zN3RDYeRit5": [
+      "groove metal",
+      "metal",
+      "heavy metal"
+    ],
+    "7ozkOJRZcDU9B3DlmZKS9s": [
+      "groove metal"
+    ],
+    "0qB0cTENhSUc0feov5qbg0": [
+      "alternative metal",
+      "noise rock",
+      "post-hardcore",
+      "grunge",
+      "groove metal"
+    ],
+    "4iudEcmuPlYNdbP3e1bdn1": [
+      "grunge",
+      "post-grunge"
+    ],
+    "15DYcBNS0c6bfsoezOIzT3": [
+      "shoegaze",
+      "post-grunge",
+      "alternative metal",
+      "nu metal"
+    ],
+    "2R57sY41L9XvGPiIgHOaYq": [],
+    "6Ghvu1VvMGScGpOUJBAHNH": [
+      "nu metal",
+      "alternative metal",
+      "rap metal",
+      "shoegaze",
+      "rock"
+    ],
+    "0QAniQzJE1imU3UB3e9hMu": [],
+    "77wDHdaIObnkMG6hMO2wXX": [],
+    "2XWP1prJQm6CLoHKAqXCEz": [
+      "jazz"
+    ],
+    "6ezFSYpcIHmJfQ0ZrGQmyh": [
+      "jazz",
+      "ambient jazz"
+    ],
+    "29EE6iBb3i7sWjsz410xbV": [
+      "jazz",
+      "ambient jazz"
+    ],
+    "3EJ5w7wMNM0ZVOKFBaRp4J": [
+      "jazz"
+    ],
+    "0oeLogVOTRyRb8h43KVlXm": [
+      "jazz"
+    ],
+    "2deWXMlH853VExXZNmSe5o": [
+      "jazz"
+    ],
+    "7c7414LKkYnuDPlkrwDg9a": [
+      "jazz"
+    ],
+    "3j1aerNPNVeAjD4GgI3xJQ": [
+      "jazz"
+    ],
+    "3dz5vxw8WxPgcbD2HIVN5D": [
+      "jazz"
+    ],
+    "2MV5ORkK9NtSHyy4WbwY80": [
+      "jazz",
+      "ambient jazz",
+      "brazilian jazz"
+    ],
+    "4OSxWbYWRbUZzmkKS6PRM4": [
+      "jazz"
+    ],
+    "10fF7C0hOnj8V3lDxH6PQH": [],
+    "4z6j0Z8eFGwMjlJFDAmV2M": [
+      "jazz"
+    ],
+    "1QO8UVy5AHBqOWgHWEYywf": [
+      "jazz"
+    ],
+    "2eavYRUaMRGntKuDbZDaee": [],
+    "1S08oiBCDKPErHKaJ42YAG": [
+      "jazz"
+    ],
+    "3Ukr3Ufjg8ygRJv7Ww887f": [
+      "grunge",
+      "post-grunge"
+    ],
+    "2UazAtjfzqBF0Nho2awK4z": [
+      "grunge",
+      "alternative rock",
+      "post-grunge",
+      "rock"
+    ],
+    "165ZgPlLkK7bf5bDoFc6Sb": [
+      "nu metal",
+      "rap metal",
+      "alternative metal",
+      "rap rock"
+    ],
+    "56dO9zeHKuU5Gvfc2kxHNw": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge"
+    ],
+    "3dXaa6jwM7B52GZpaJEIr5": [
+      "post-grunge"
+    ],
+    "0L8ExT028jH3ddEcZwqJJ5": [
+      "funk rock",
+      "alternative rock",
+      "rock"
+    ],
+    "1Ffb6ejR6Fe5IamqA5oRUF": [
+      "metalcore",
+      "emo",
+      "rock",
+      "screamo",
+      "post-hardcore"
+    ],
+    "502ZZTWlqgS1Ht62ewubEJ": [],
+    "5bf6yYgHODBW5EreBZshpX": [],
+    "0GmGQmKKOK16cPu1wYINzn": [],
+    "7CaUk9xCxdXAmmqQn3PLR7": [
+      "underground hip hop",
+      "west coast hip hop",
+      "jazz rap"
+    ],
+    "6glaZ3qSwdXqln8g8JpYzr": [],
+    "6deZN1bslXzeGvOLaLMOIF": [
+      "post-grunge",
+      "rock"
+    ],
+    "2ziB7fzrXBoh1HUPS6sVFn": [
+      "grunge",
+      "post-grunge",
+      "alternative metal"
+    ],
+    "2xiIXseIJcq3nG7C8fHeBj": [
+      "post-grunge",
+      "rock"
+    ],
+    "4DWX7u8BV0vZIQSpJQQDWU": [
+      "post-grunge",
+      "alternative metal",
+      "hard rock"
+    ],
+    "3TOqt5oJwL9BE2NG9MEwDa": [
+      "metal",
+      "nu metal",
+      "alternative metal",
+      "rap metal",
+      "hard rock"
+    ],
+    "4Op2pnzbOze0T6HSejf6dL": [
+      "nu metal"
+    ],
+    "78La3UNTjYIUPI0gVjRdIF": [
+      "nu metal",
+      "rap metal",
+      "alternative metal"
+    ],
+    "79HVlXcLQYQJTbDVWeARcC": [
+      "shoegaze"
+    ],
+    "38vNZvHEjUU9XlzlV43H9T": [
+      "shoegaze"
+    ],
+    "6GbCJZrI318Ybm8mY36Of5": [
+      "funk rock",
+      "alternative metal",
+      "rap metal",
+      "grunge"
+    ],
+    "4iRZAbYvBqnxrbs6K25aJ7": [
+      "jazz",
+      "cool jazz"
+    ],
+    "0kbYTNQb4Pb1rPbbaF0pT4": [
+      "jazz",
+      "cool jazz",
+      "hard bop",
+      "bebop",
+      "jazz fusion",
+      "jazz ballads",
+      "free jazz"
+    ],
+    "2hGh5VOeeqimQFxqXvfCUf": [
+      "jazz",
+      "hard bop",
+      "free jazz",
+      "bebop",
+      "jazz ballads",
+      "cool jazz"
+    ],
+    "4jXfFzeP66Zy67HM2mvIIF": [
+      "jazz",
+      "cool jazz",
+      "jazz ballads",
+      "bebop",
+      "hard bop"
+    ],
+    "1HbW4t0XEnxdOAqUD6Ntlr": [],
+    "13NmOYYfvONNZ9mn2qn8P2": [
+      "math rock"
+    ],
+    "5R09pajxQjiwdUH6Fw4yM5": [],
+    "0Xl5J6iOgiQHFqgri7TF8j": [
+      "funk rock"
+    ],
+    "7aRGzyzEWC50FDDzdNFMtF": [
+      "funk rock",
+      "funk"
+    ],
+    "2sLMYvxNmHIYNx6re1WUM2": [
+      "neo-psychedelic"
+    ],
+    "79h56VcePe4n1k0DCuQpX7": [],
+    "66kb7d5jDmTkMSs1XcOXTQ": [
+      "stoner rock",
+      "neo-psychedelic",
+      "psychedelic rock",
+      "space rock",
+      "stoner metal"
+    ],
+    "2scavaz2jGMWRFULHoe5je": [
+      "ambient folk"
+    ],
+    "2zJr4pLOMsOmlPj6XB0owT": [
+      "jazz fusion"
+    ],
+    "3bPcnmJ1Lk6fQlhxGV3Apx": [
+      "neo-psychedelic",
+      "psychedelic rock"
+    ],
+    "0x9HCT7ZZlOEfLSVCDi5SO": [
+      "stoner rock",
+      "space rock",
+      "stoner metal",
+      "psychedelic rock",
+      "neo-psychedelic",
+      "sludge metal"
+    ],
+    "1LTFJvVvRw7ghAyThxYmnF": [],
+    "0ZPqGxW2iwZz7vGJWzuTUi": [
+      "retro soul"
+    ],
+    "0iHb0mCbqZTYeb4y9Pirrd": [
+      "grunge",
+      "post-grunge"
+    ],
+    "5sPKdpazPYfN2NfvBwc1mF": [
+      "nu metal",
+      "rap metal"
+    ],
+    "5RMXXAoAm0xKC6hEovLyOr": [
+      "space rock",
+      "stoner rock",
+      "psychedelic rock"
+    ],
+    "2kO6zjt4a1OIqxOERhliEX": [
+      "gothic metal",
+      "symphonic metal",
+      "doom metal",
+      "gothic rock",
+      "progressive metal"
+    ],
+    "6D02iVU7zm1eL77nHiBX2o": [],
+    "0Wehs7ZKqo4s5X8WuwhQyx": [
+      "blues"
+    ],
+    "2rblp9fJo16ZPTcKDtlmKW": [],
+    "35Uu85Pq33mK8x1jYqsHY2": [
+      "nu metal",
+      "alternative metal",
+      "rap metal",
+      "hard rock"
+    ],
+    "1w5Kfo2jwwIPruYS2UWh56": [
+      "grunge",
+      "rock",
+      "post-grunge"
+    ],
+    "38BaarFdCwCpVmw0rXB2tu": [
+      "dark ambient",
+      "ambient"
+    ],
+    "4KPgZSnwlJl4LnUDb09mCw": [],
+    "12Zk1DFhCbHY6v3xep2ZjI": [],
+    "6hlOIO10E4jSJWnyp2JXnr": [
+      "boom bap"
+    ],
+    "5lnQetmw5xW1Y1FVKA07Az": [
+      "lo-fi house"
+    ],
+    "3FtKKNslTacsC8L0GymuMR": [
+      "lo-fi house"
+    ],
+    "5VW7PyWYrxkuWlzSxic7N2": [
+      "drift phonk",
+      "phonk"
+    ],
+    "2d0hyoQ5ynDBnkvAbJKORj": [
+      "rap metal",
+      "rap rock",
+      "alternative metal",
+      "nu metal"
+    ],
+    "6TnlohrPbZ8D0JvJp9S1t8": [
+      "nu metal",
+      "rap metal",
+      "alternative metal",
+      "funk rock"
+    ],
+    "2DLFxNQLAhejsOlcJLS0Ws": [
+      "nu metal",
+      "rap metal",
+      "alternative metal"
+    ],
+    "4qXIYIWo6wRsN0lZxvgH6S": [
+      "latin rock",
+      "rock en español",
+      "latin alternative"
+    ],
+    "4Hisv12GBxgMUsB2eBW5jy": [
+      "smooth jazz",
+      "jazz",
+      "cool jazz"
+    ],
+    "6NS4Qt4ISw27NC9tIN9jgg": [
+      "smooth jazz",
+      "jazz"
+    ],
+    "6RAJ9Jyvs0fR96ybRd44wk": [
+      "christian jazz",
+      "gospel",
+      "smooth jazz"
+    ],
+    "2RTUTCvo6onsAnheUk3aL9": [
+      "post-grunge"
+    ],
+    "43sZBwHjahUvgbx1WNIkIz": [
+      "post-grunge"
+    ],
+    "485uL27bPomh29R4JmQehQ": [
+      "classic rock"
+    ],
+    "7z19cN47vHnay3CoShIp1b": [
+      "jazz"
+    ],
+    "0lEDIqg3LH3JQ9YoFMJAIn": [
+      "jazz",
+      "smooth jazz"
+    ],
+    "3tUSGipRrxvpmZgUc13rd4": [
+      "jazz"
+    ],
+    "4TOpL8dUMkZ1oydrBsfuWf": [
+      "jazz",
+      "smooth jazz"
+    ],
+    "3w12mAdbXsNTiBc4xhM0OV": [
+      "jazz"
+    ],
+    "3HwmLSofJhnA1bdPIREqAj": [
+      "bossa nova",
+      "jazz"
+    ],
+    "7b5QwOkTlJ9LVWJfofwAWV": [
+      "jazz"
+    ],
+    "0CEZunfWhz5PyHlTNJwC2S": [
+      "jazz"
+    ],
+    "1EQvOf7PPTDB3s0q1y9eD1": [
+      "jazz"
+    ],
+    "0A1I0z7snq8RVRDjVA5qzE": [
+      "jazz"
+    ],
+    "4S6bYPPOxQPs9hSnUBbGBN": [
+      "jazz",
+      "smooth jazz"
+    ],
+    "2VQmB7dgKLHJve0htcYfiQ": [
+      "jazz",
+      "ambient jazz"
+    ],
+    "0Rk4ZISv9eXs3Thg7rco7h": [
+      "jazz"
+    ],
+    "6e2ZpZDumV9AabK9rxpIUg": [
+      "jazz"
+    ],
+    "1Pee2ETMZW5ZH3mVgdrf4A": [
+      "jazz"
+    ],
+    "0hdiMvtIodxDuDN6Wq9Ibe": [
+      "jazz"
+    ],
+    "1cafBOjzIL3KVKL6dzXr6d": [
+      "ambient jazz"
+    ],
+    "6eeYhqOX2cpsiHY6gVuvPA": [
+      "nu metal",
+      "alternative metal",
+      "post-grunge"
+    ],
+    "7nxzGBaGRmWGaxsIxmy6Nx": [
+      "post-grunge"
+    ],
+    "0539gq2LM2VDs01rp8gnGz": [
+      "post-grunge"
+    ],
+    "30I8GIK3UqVyAg58557mdJ": [],
+    "5V5NZ8y72BgxpB6rN4XxtI": [
+      "post-grunge"
+    ],
+    "0Gw3a3BkWLwsMLFbOBmo6Q": [
+      "post-grunge",
+      "nu metal",
+      "alternative metal"
+    ],
+    "49qiE8dj4JuNdpYGRPdKbF": [
+      "post-grunge",
+      "alternative metal",
+      "nu metal"
+    ],
+    "0REMf7H0VP6DwfZ9MbuWph": [
+      "post-grunge",
+      "alternative metal"
+    ],
+    "6pDRa5fS3myWSP0fpIUcNl": [
+      "post-grunge",
+      "alternative metal"
+    ],
+    "0YWFcW7XM2dCMNDcRM2yzK": [
+      "nu jazz",
+      "chillwave"
+    ],
+    "2LHx2kxmr3UsQyKhf5jDvm": [
+      "shoegaze"
+    ],
+    "6zD2qVfXePi51hwDMHrtZA": [],
+    "0KrIglGa8mR0IrwsGvZlvq": [
+      "shoegaze"
+    ],
+    "3cgKynIVkHB5ZWckvrDE3Q": [
+      "jazz"
+    ],
+    "47zz7sob9NUcODy0BTDvKx": [],
+    "07vIjPsHGECsJMpj2aJZ7j": [],
+    "0NBe4HGx3FYEnU5fGt1I9L": [
+      "shoegaze"
+    ],
+    "2yq3r3qk8S4F1A1Qbjl95R": [],
+    "1eiXeaeF8NsBtJDqqtAO5p": [],
+    "3QWUxLJqRsyGpjdKo4xeJN": [
+      "shoegaze"
+    ],
+    "13pYXGtaLO9d06VrXX4Aw0": [
+      "shoegaze",
+      "dream pop",
+      "riot grrrl"
+    ],
+    "2kP6vFV9kUXMN3qJ5WENWM": [
+      "breakcore",
+      "jungle",
+      "rally house",
+      "breakbeat"
+    ],
+    "4w62sFccNCLUNYgX8tu2ub": [],
+    "0hY5GNx2g4D1ZtwrQRAY2y": [
+      "jazz"
+    ],
+    "2QTDEcFCA6jvoJwQsm3TpS": [
+      "jazz"
+    ],
+    "7A9b9YHKBRXfL43ICJhYUr": [
+      "jazz"
+    ],
+    "0HsfmmG8LqKOxS2LBIO9bM": [
+      "jazz"
+    ],
+    "2HaQQhL4YwnMEo6CHATOtx": [
+      "jazz"
+    ],
+    "2yEwvVSSSUkcLeSTNyHKh8": [
+      "progressive metal",
+      "alternative metal",
+      "progressive rock",
+      "metal"
+    ],
+    "5prQ5rRXnqhkW8GfOmXqEn": [],
+    "7dGJo4pcD2V6oG8kP0tJRR": [
+      "rap",
+      "hip hop"
+    ],
+    "4skBbkxAjVaqb2f2RBxpuM": [
+      "doom metal",
+      "sludge metal",
+      "drone metal"
+    ],
+    "0mvjzTZkF9DSy55SuaCtYk": [
+      "shoegaze"
+    ],
+    "3tLgC2hURdDjOQ5zheUW0R": [
+      "shoegaze"
+    ],
+    "7mhFqGccO5U4pn90mix9S1": [
+      "shoegaze",
+      "slowcore"
+    ],
+    "79z0Z8E5uY2Fc7HO4VGerm": [
+      "stoner rock",
+      "stoner metal",
+      "sludge metal",
+      "doom metal",
+      "space rock",
+      "psychedelic rock"
+    ],
+    "298H8XdYsBHii98wfAZT1S": [],
+    "1aalpsSEZpG1wLuLvXcCco": [
+      "jazz"
+    ],
+    "7fHixSSo2DvBypEXNKjgBl": [
+      "jazz"
+    ],
+    "72pfIIbH2JQbShGyx4c7ri": [
+      "jazz",
+      "smooth jazz"
+    ],
+    "2p01LeKL4qyvQ5xKWs9S40": [
+      "jazz"
+    ],
+    "2i25BOgCBeXtPKKpj3I0NJ": [
+      "jazz"
+    ],
+    "2Al01GKqZ47q0irdqBXMQr": [
+      "jazz"
+    ],
+    "5IDJIXonrrl2nVcd4LZTQf": [
+      "jazz"
+    ],
+    "10yIBprceJrz7GP0BkENlg": [
+      "jazz"
+    ],
+    "5YyVZ8kxK9sRVEg1pBh1PV": [
+      "jazz"
+    ],
+    "4gefXT9y8hdGtxBmkHN2HA": [],
+    "7zsTHkJCBtSjcg1Ptl8FDD": [
+      "jazz"
+    ],
+    "7jWdMH4K9omZ4z2UkGkz6N": [
+      "shoegaze"
+    ],
+    "6nlUvNHe3PxYDLR3FyYz2H": [
+      "stoner rock",
+      "stoner metal",
+      "space rock",
+      "sludge metal",
+      "doom metal",
+      "psychedelic rock",
+      "drone metal"
+    ],
+    "2xODNufQxAtc0gmDIhsjkg": [
+      "stoner rock",
+      "stoner metal",
+      "sludge metal",
+      "doom metal",
+      "space rock"
+    ],
+    "4KU3igTxJsnJrxcOF2oC6f": [
+      "jazz"
+    ],
+    "6Mo9PoU6svvhgEum7wh2Nd": [
+      "old school hip hop",
+      "east coast hip hop",
+      "hip hop",
+      "hardcore hip hop"
+    ],
+    "0A9uRZJDela9CKhMJ1ELqO": [],
+    "4tZwfgrHOc3mvqYlEYSvVi": [
+      "french house",
+      "electronic",
+      "electro"
+    ],
+    "1GhPHrq36VKCY3ucVaZCfo": [
+      "big beat",
+      "alternative dance",
+      "electronic",
+      "breakbeat"
+    ],
+    "3ZotbHeyVQKxQCPDJuQ4SU": [
+      "east coast hip hop"
+    ],
+    "3ML85bvNeLUHa32Hq704qn": [],
+    "1vCWHaC5f2uS3yhpwWbIA6": [
+      "edm"
+    ],
+    "6IRQd80VHepXiTXdmBzk6l": [
+      "britpop"
+    ],
+    "4QydkamDuA2eBx2F9UYDTQ": [
+      "blues rock",
+      "stoner rock",
+      "modern blues"
+    ],
+    "40N10exWtaCVUtBMftQn3t": [
+      "blues rock",
+      "modern blues"
+    ],
+    "0RMNX6QHahkZ0S1fFUYSnL": [
+      "blues rock",
+      "modern blues",
+      "southern gothic",
+      "blues"
+    ],
+    "2ZVouz4dTMifmRDJLVfySB": [],
+    "4Z8nV1Gr7Lv05JRKvsNhW8": [
+      "jazz"
+    ],
+    "0l6Jx03I9oWTgtg3ZtxqRS": [
+      "jazz"
+    ],
+    "7nXyULtoL8k7wP9l6kg8Ef": [
+      "french jazz",
+      "vocal jazz",
+      "jazz",
+      "jazz pop"
+    ],
+    "2P1puQXmG48EVLBrHbum1J": [
+      "vocal jazz",
+      "french jazz",
+      "jazz"
+    ],
+    "1SdvVqfeIalD1XCYMO9HsF": [
+      "jazz",
+      "latin jazz"
+    ],
+    "18AQ9nxWckf5yw7XuEvten": [
+      "jazz"
+    ],
+    "2FfWqpDJg7emSdQljKfwHM": [
+      "jazz"
+    ],
+    "5ogiJjZ8hHhrOtJ1HYRybb": [],
+    "0nj9mNAWNNAdvarZTKho6H": [],
+    "6yyZgcrQ10gThrJxzqogiP": [
+      "avant-garde",
+      "alternative metal",
+      "noise rock"
+    ],
+    "0zimAUeLZD9gEVSEgc9RRd": [
+      "nu jazz",
+      "jazz fusion",
+      "jazz funk",
+      "jazz"
+    ],
+    "0o5bweAbSBmSkksYXrgKS8": [
+      "nu jazz",
+      "experimental jazz"
+    ],
+    "3IuEuLez19teZSN32Pf70j": [],
+    "67PZTxaHKMZBFRUh8wIzCy": [
+      "jazz",
+      "jazz ballads",
+      "cool jazz",
+      "hard bop",
+      "free jazz",
+      "bebop"
+    ],
+    "3Uobr6LgQpBbk6k4QGAb3V": [
+      "metalcore",
+      "metal"
+    ],
+    "5QyGCDcadoRovdmVqEu8JT": [
+      "jazz"
+    ],
+    "6boJQbk0vIkkeTy4Fow62V": [
+      "vocal jazz"
+    ],
+    "5ArqvMflDEhxdqW8sBBQUQ": [
+      "jazz funk",
+      "jazz fusion",
+      "jazz"
+    ],
+    "5ACxPOI9gR3l0cyy2dvkHv": [
+      "jazz"
+    ],
+    "6gc6oo3u2f7SqTd4mhe81O": [
+      "jazz",
+      "cool jazz",
+      "hard bop"
+    ],
+    "35HRFtwr5tdU22aNXsmraH": [
+      "big band",
+      "soul jazz"
+    ],
+    "2ieAXAuLe6qQ3RJsqCxpoC": [
+      "roots reggae",
+      "dub",
+      "reggae",
+      "rocksteady",
+      "lovers rock",
+      "ragga"
+    ],
+    "0egMJiOtObjio7Y9H12r2V": [],
+    "4vc7AQ05GYmIYTzly9xjbp": [
+      "big band",
+      "jazz",
+      "cool jazz",
+      "bebop",
+      "exotica",
+      "hard bop",
+      "jazz ballads"
+    ],
+    "78cOwgRLRNwg7qmFZkcdKJ": [],
+    "6cTMHyzDXKMkY8bDtSevD6": [],
+    "2kb3JuQI50OOvH0a6HB1jM": [],
+    "1xaqaDqGwDtVAKexpC4NwG": [],
+    "2yzTBNWC2oYud1uy2PJRni": [],
+    "1ymZAHNSJ5rvzjW01iwQRi": [
+      "jazz fusion",
+      "jazz ballads"
+    ],
+    "40yIbIWx8RJBHWWnVf6Cal": [
+      "jazz ballads",
+      "jazz fusion"
+    ],
+    "4Z8W4fKeB5YxbusRsdQVPb": [
+      "art rock",
+      "alternative rock"
+    ],
+    "29Wmfm1CojrjQ3aQP0FI65": [
+      "stoner rock",
+      "stoner metal",
+      "neo-psychedelic",
+      "psychedelic rock",
+      "space rock",
+      "sludge metal",
+      "blues rock"
+    ],
+    "0fGVuq5ed21pM7iWwTcMyk": [],
+    "303QrIrO6RruzUXkxQ5iAk": [
+      "hard bop"
+    ],
+    "39xJEa28eWbVz5f3FSZLp5": [
+      "jazz"
+    ],
+    "04qLma4TvriHyGJ0YlK6XI": [
+      "jazz"
+    ],
+    "0gKld6kU40FNrQECM7WXzn": [
+      "jazz ballads",
+      "jazz"
+    ],
+    "2HeWIvHGcrKkN5dab3lMnL": [
+      "jazz"
+    ],
+    "5s1zZW6PDPTqwtBRXCKAIz": [],
+    "4WW6fT5v4jH5eHqCn9myM3": [
+      "jazz"
+    ],
+    "51Blml2LZPmy7TTiAg47vQ": [
+      "rock"
+    ],
+    "7Ej5Shrvcy7tE83A9Dmxrb": [
+      "jazz",
+      "jazz funk"
+    ],
+    "3OaIGXcN9CnCX6etIGVf8G": [
+      "free jazz",
+      "jazz"
+    ],
+    "4wrGgYuYoLF1cTp9t2t5G4": [],
+    "5e09vxGJza9YFmRVvCiFKB": [
+      "afro-cuban jazz",
+      "latin jazz"
+    ],
+    "08t8fsEfRI7HSt2MlW2OTX": [
+      "free jazz",
+      "hard bop",
+      "jazz"
+    ],
+    "6CSTRXry9VJNTJBSjSIXP4": [],
+    "46m3GOKmDHDzuyehz2SuJV": [],
+    "3L02I3F82gscUng14aZOw9": [],
+    "5oOhM2DFWab8XhSdQiITry": [
+      "chillwave",
+      "downtempo",
+      "idm",
+      "ambient"
+    ],
+    "6h7Y3QR7IjzAD05Qw5QYO4": [],
+    "4nQMRc0j45XcB0g0SioPw5": [],
+    "415JrPfN7ukaTu8JV8BLE8": [
+      "grunge",
+      "post-grunge"
+    ],
+    "1xgFexIwrf2QjbU0buCNnp": [
+      "riot grrrl",
+      "alternative rock"
+    ],
+    "6S0GHTqz5sxK5f9HtLXn9q": [],
+    "1ixbDzSoXoP26q6TkB3yHU": [
+      "hard bop"
+    ],
+    "3q4xoIkF5RpmoEKYBZnuqc": [],
+    "3DlKL0zvm5GHYPsZ77sNoa": [],
+    "2w8ffbcj9vl57I9avQS006": [
+      "free jazz"
+    ],
+    "3LDls2CFYVVqX9BUKnklCa": [],
+    "2ZkSgdOFVt7wF4Ah361rIn": [],
+    "5KAUw2OYL148tw5Nd3Ymfn": [
+      "vocal jazz",
+      "ambient jazz"
+    ],
+    "4KpdczOJ1a0WTx1KQz4Lwu": [],
+    "6JxNcAZGFjQ4ISi6n270lS": [],
+    "1eAt5Qjg9RPfYAhxl723YW": [
+      "jazz"
+    ],
+    "6WPu073KUfyLXE41VEW9Ik": [
+      "jazz"
+    ],
+    "3DF0ClNOUuvS3gh8V8sRJH": [
+      "mpb",
+      "samba",
+      "bossa nova",
+      "brazilian jazz"
+    ],
+    "2JgSc66Kcvl1pko9jI5K91": [
+      "latin jazz",
+      "big band",
+      "afro-cuban jazz",
+      "jazz"
+    ],
+    "0Cn4yjRG7JFC5DhZfnEYzz": [
+      "jazz"
+    ],
+    "1rWaPwUXLx3KlTmOcO66L2": [
+      "jazz"
+    ],
+    "1pjHY4vNthS2YoK8R4Ty0G": [
+      "jazz"
+    ],
+    "6bdkZsFJke5IhwIe7MEK8Y": [],
+    "0ahtSggrsy1v2oJuKfmzGm": [
+      "vocal jazz",
+      "jazz"
+    ],
+    "66FAsYgofjwbhgGXMzZyzP": [
+      "gnawa",
+      "jazz",
+      "hard bop"
+    ],
+    "60Qtnm46ynKnGaaMjOjogW": [],
+    "1vZJd7wBzo5sEEJrleK9gv": [],
+    "5RhBiUBi4RSDlKzGOh0T7r": [
+      "jazz ballads"
+    ],
+    "4pejUc4iciQfgdX6OKulQn": [
+      "stoner rock",
+      "alternative rock"
+    ],
+    "6g5FKA0bGBfPxzuz6OvGEA": [],
+    "1VEzN9lxvG6KPR3QQGsebR": [
+      "hard bop",
+      "jazz",
+      "bebop",
+      "jazz ballads",
+      "cool jazz"
+    ],
+    "5ZATfKurLqflrBhv2FLht5": [
+      "hard bop",
+      "jazz",
+      "bebop",
+      "cool jazz",
+      "soul jazz",
+      "jazz ballads"
+    ],
+    "7xwlN7fhoOwNgDmRTwYZOa": [
+      "bebop",
+      "hard bop",
+      "cool jazz",
+      "jazz",
+      "french jazz",
+      "big band"
+    ],
+    "0vKbTTNdtagd8xiERj6Szb": [
+      "cool jazz",
+      "jazz ballads",
+      "jazz",
+      "bebop",
+      "hard bop"
+    ],
+    "1sP0KjKWioXmkh9vUKb1fP": [
+      "jazz",
+      "free jazz",
+      "ambient jazz"
+    ],
+    "58Ieh2itn2s2DnnTA3mwTE": [
+      "free jazz",
+      "jazz",
+      "ambient jazz"
+    ],
+    "4F7Q5NV6h5TSwCainz8S5A": [
+      "jazz",
+      "big band",
+      "swing music",
+      "cool jazz",
+      "jazz ballads"
+    ],
+    "71Ur25Abq58vksqJINpGdx": [
+      "jazz",
+      "hard bop",
+      "cool jazz",
+      "jazz ballads",
+      "bebop"
+    ],
+    "0wHlC8tumVxWRyxKutlQUm": [
+      "jazz"
+    ],
+    "5CSkWcdoRvgBQDwJTZZstJ": [
+      "jazz",
+      "hard bop"
+    ],
+    "7q46e1hkWTUN1IWHzYb40p": [
+      "hard bop",
+      "jazz"
+    ],
+    "4UAdAgxnybF0chEX9FXX9m": [
+      "bebop"
+    ],
+    "4bj8k1TAVycxbk0zCHtpTR": [
+      "hard bop"
+    ],
+    "4PDpGtF16XpqvXxsrFwQnN": [
+      "jazz",
+      "bebop",
+      "hard bop",
+      "cool jazz",
+      "free jazz"
+    ],
+    "7EgAHTw2PMP7a1tAEtue89": [
+      "stoner rock",
+      "stoner metal",
+      "space rock",
+      "sludge metal",
+      "psychedelic rock",
+      "doom metal"
+    ],
+    "0XHiH53dHrvbwfjYM7en7I": [
+      "grunge"
+    ],
+    "3XR64HmFo4OvexUUNW7TP0": [
+      "grunge",
+      "post-grunge",
+      "funk rock"
+    ],
+    "07jc1IMGtecDZzOL9cP50t": [
+      "grunge",
+      "post-grunge"
+    ],
+    "01WjpKiWVNurV5hjIadB8C": [
+      "industrial rock",
+      "post-grunge",
+      "industrial metal",
+      "industrial"
+    ],
+    "5RSOkfm0B0WR4IBbVUtYXk": [
+      "nu jazz",
+      "free jazz",
+      "jazz",
+      "indie jazz",
+      "experimental jazz"
+    ],
+    "6JpZEemWmunccsrHXFUOgi": [
+      "afrobeat"
+    ],
+    "5mhzOmngdC4RpOGjerls6D": [
+      "grunge",
+      "post-grunge"
+    ],
+    "22bE4uQ6baNwSHPVcDxLCe": [
+      "classic rock",
+      "rock"
+    ],
+    "0Cioop2zjxXxtcPUme7R46": [
+      "ambient jazz",
+      "jazz",
+      "nu jazz",
+      "indie jazz"
+    ],
+    "19f2JXwlRU26376TCKmp6L": [
+      "nu jazz",
+      "ambient jazz",
+      "experimental jazz",
+      "jazz",
+      "jazz fusion",
+      "indie jazz"
+    ],
+    "497rp5TEzJffeBnUT0BeE1": [
+      "ambient jazz",
+      "nu jazz",
+      "indie jazz",
+      "experimental jazz",
+      "jazz"
+    ],
+    "2rspptKP0lPBdlJJAJHqht": [
+      "nu jazz",
+      "indie jazz",
+      "jazz fusion"
+    ],
+    "2lrCkW8oiUfuiouUjVvM1o": [
+      "jazz funk",
+      "experimental hip hop",
+      "experimental jazz"
+    ],
+    "19yM7q6cq3QGb7V67Czgm8": [
+      "ambient jazz",
+      "jazz",
+      "nu jazz"
+    ],
+    "6O5k8LLRfDK8v9jj1GazAQ": [
+      "nu jazz",
+      "jazz",
+      "jazz funk",
+      "indie jazz"
+    ],
+    "2nSY0EIzz3eM6Y6Pc7VXkO": [
+      "experimental jazz",
+      "nu jazz",
+      "free jazz",
+      "ambient jazz",
+      "jazz",
+      "indie jazz",
+      "jazz fusion"
+    ],
+    "3pvRbmrqOyFxB2Eext4Dki": [
+      "experimental jazz",
+      "nu jazz",
+      "jazz",
+      "indie jazz"
+    ],
+    "3bD0qDLbGmvMvbaP8vHr9e": [
+      "nu jazz",
+      "indie jazz",
+      "jazz fusion"
+    ],
+    "6LiMIy9kwdQAfMrBInyUvY": [
+      "experimental jazz",
+      "nu jazz",
+      "ambient jazz"
+    ],
+    "4HVFb71ZSXO6nRMk2pdPsy": [
+      "jazz",
+      "jazz fusion"
+    ],
+    "6HQYnRM4OzToCYPpVBInuU": [
+      "jazz"
+    ],
+    "6emZIO62oAXpIGiplDApwJ": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "1rFjt7CpwkXN6SB7PjKviq": [
+      "electroacoustic",
+      "ambient jazz",
+      "musique concrète"
+    ],
+    "7vLSlwyxgwz4SCqkkTtMaq": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "3PqrFVZBgt9aojin43n6eN": [
+      "ambient jazz"
+    ],
+    "2OR51iG3dgqkVJF42L8EZF": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "43J6c67BjlcVv0jEJAjUwR": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "2waNvIVUzVXYJvA3SrdBrT": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "2r1f1zkIjuQ7ETeJHsXpsc": [
+      "nu jazz",
+      "ambient jazz",
+      "experimental jazz",
+      "jazz"
+    ],
+    "3aTJxwDLCqCNvjrG7USP1a": [
+      "jazz",
+      "ambient jazz"
+    ],
+    "6t6xNnF7XUwekwigQ3hGHl": [
+      "musique concrète",
+      "contemporary classical",
+      "ambient jazz",
+      "avant-garde",
+      "electroacoustic",
+      "experimental jazz"
+    ],
+    "6bvisqMXl4uJ0o0KsiNH2X": [
+      "ambient jazz"
+    ],
+    "6aJZGXU8kgqwz5giiKIYbD": [
+      "ambient jazz"
+    ],
+    "4puHZxpgNVKxk6ydFviSM8": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "1sYOQXsSt51IqWu4a75slm": [
+      "ambient jazz"
+    ],
+    "6slrkfC61k7yWM5Hl5USES": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "1BanDVpS18UOTBMdv5VgEy": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "6txzCcsy6ZKKKQLHmE3Y9L": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "5Li0fvh4kEJOWbLYWfNrPr": [
+      "jazz",
+      "ambient jazz",
+      "jazz fusion"
+    ],
+    "5TqxBHPsl5JnkRqPiZALxh": [
+      "jazz",
+      "ambient jazz"
+    ],
+    "4PIzKycsT391AaQ4m3fiQo": [
+      "jazz"
+    ],
+    "5vjTuHApbJQOo9L3Ro2KM8": [],
+    "2UGL8QDKTSVXMqZqQR8DRL": [
+      "jazz",
+      "ambient jazz"
+    ],
+    "6qlsVWkkxnqeu0ysL9qDjx": [
+      "ambient jazz",
+      "jazz"
+    ],
+    "6JxElGpNj4ntaonkrLkG8N": [
+      "ambient jazz"
+    ],
+    "0MTZfu5gIOffmUnu7hmrg1": [
+      "ambient jazz"
+    ],
+    "6uZnp5qm39fcS98jofdiHz": [
+      "electroacoustic",
+      "experimental",
+      "free jazz"
+    ],
+    "3R6c2tWDBeYB1GncjLMn9n": [
+      "grunge",
+      "post-grunge"
+    ],
+    "4hV3aU0WKvFaiX5ugXP5hp": [
+      "phonk",
+      "brazilian phonk",
+      "brazilian funk"
+    ],
+    "1wfXG5GrswaEiXW6NJYRrp": [
+      "brazilian funk",
+      "funk bruxaria"
+    ],
+    "3u99zL3s2LRwthWOSvSueO": [
+      "brazilian funk"
+    ],
+    "1APqNiQUA2XpwLEbywSWmZ": [
+      "brazilian funk"
+    ],
+    "7t02NhXZ77sXywJ3XghI7C": [
+      "christmas"
+    ],
+    "22WZ7M8sxp5THdruNY3gXt": [
+      "psychedelic rock",
+      "classic rock",
+      "acid rock"
+    ],
+    "4DFhHyjvGYa9wxdHUjtDkc": [
+      "alternative metal",
+      "progressive metal"
+    ],
+    "37394IP6uhnjIpsawpMu4l": [
+      "metalcore",
+      "metal"
+    ],
+    "6KO6G41BBLTDNYOLefWTMU": [
+      "nu metal",
+      "christian rock",
+      "rap metal",
+      "rap rock",
+      "alternative metal"
+    ],
+    "0EyuKHE1AeE9lWUF8mzKVp": [
+      "post-grunge"
+    ],
+    "1E4r4z7ivGUcSAnCbINJ9v": [
+      "nu metal",
+      "alternative metal",
+      "rap metal",
+      "metal"
+    ],
+    "4PY51S3HuOMhnZA0Sx8FRN": [],
+    "6sM2JCBjZprP7JLMTZZSxX": [
+      "shoegaze",
+      "space rock",
+      "post-hardcore"
+    ],
+    "3HmMT81W29LjSKNjl1Iy1s": [
+      "speed metal"
+    ]
+  },
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Live + historical playback telemetry\nObservation window        : 00:30:00\n------------------------------------------------------------\nCURRENT PLAYBACK STATE\n------------------------------------------------------------\nPlayback state            : ONLINE (active session)\nStatus                    : PLAYING\nSITREP                    : GREEN\nNow playing               : All Them Witches — Blood And Sand / Milk And Endless Waters - Live\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nRecent track #1           : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04\nRecent track #2           : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04\nRecent track #3           : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04\nRecent track #4           : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04\nRecent track #5           : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04\nRecent track #6           : Silverchair — Madman | 2026-08-15 02:36:50 -04\nRecent track #7           : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04\nRecent track #8           : Silverchair — Cicada | 2026-08-15 02:30:48 -04\nRecent track #9           : Silverchair — Undecided | 2026-08-14 20:41:44 -04\nRecent track #10          : Silverchair — Madman | 2026-08-14 20:37:07 -04\nRecent track #11          : Silverchair — Suicidal Dream | 2026-08-14 20:34:24 -04\nRecent track #12          : Silverchair — Leave Me Out | 2026-08-14 20:31:11 -04\nRecent track #13          : Silverchair — Shade | 2026-08-14 20:28:08 -04\nRecent track #14          : Silverchair — Pure Massacre | 2026-08-14 20:24:06 -04\nRecent track #15          : Silverchair — Tomorrow | 2026-08-14 20:08:57 -04\nRecent track #16          : Silverchair — Israel's Son | 2026-08-14 20:04:30 -04\nRecent track #17          : Silverchair — Israel's Son | 2026-08-14 19:57:55 -04\nRecent track #18          : Silverchair — Findaway | 2026-08-14 17:44:39 -04\nRecent track #19          : Silverchair — Cicada | 2026-08-14 17:36:23 -04\nRecent track #20          : Silverchair — Undecided | 2026-08-14 17:31:08 -04\nRecent track #21          : Silverchair — Madman | 2026-08-14 17:26:31 -04\nRecent track #22          : Silverchair — Suicidal Dream | 2026-08-14 17:23:46 -04\nRecent track #23          : Silverchair — Undecided | 2026-08-14 17:17:20 -04\nRecent track #24          : Silverchair — Madman | 2026-08-14 17:12:44 -04\nRecent track #25          : Silverchair — Suicidal Dream | 2026-08-14 17:10:00 -04\n------------------------------------------------------------\nPLAYBACK DEVICE (Spotify)\n------------------------------------------------------------\nDevice state              : CURRENT\nDevice type               : Smartphone\nDevice name               : iPhone\nVolume                    : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\n------------------------------------------------------------\nLAST PLAYBACK CONTEXT\n------------------------------------------------------------\nLast played               : Days Of The New — Where I Stand\nLast played (UTC)         : 2026-08-15 07:19:37Z\nLast played (local)       : 2026-08-15 03:19:37 -04\nLast activity type        : PLAYBACK_ACTIVE\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS\n------------------------------------------------------------\nObserved events           : 50\nUnique tracks             : 22\nUnique artists            : 8\nReplay ratio              : ██████████░░░░░░░░  56.0%\nArtist diversity          : ███░░░░░░░░░░░░░░░  16.0%\nDominant artist           : Silverchair\nDominant artist share     : ████████████░░░░░░  66.0%\nArtist switch ratio       : ████░░░░░░░░░░░░░░  20.4%\nLongest artist streak     : Silverchair × 32\n------------------------------------------------------------\nDAYPART DISTRIBUTION (sample)\n------------------------------------------------------------\nNight      00–06           : ███░░░░░░░░░░░░░░░   18.0%\nMorning    06–12           : █░░░░░░░░░░░░░░░░░    4.0%\nAfternoon  12–18           : ██████████░░░░░░░░   54.0%\nEvening    18–24           : ████░░░░░░░░░░░░░░   24.0%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (sample)\n------------------------------------------------------------\nSample first play         : 2026-08-11 01:07:51Z\nSample last play          : 2026-08-15 07:19:37Z\nObserved time span        : 102:11:46\nMean inter-play gap       : 02:05:08\nMedian inter-play gap     : 00:06:35\nLongest inactivity gap    : 24:52:13\nListening intensity       : 0.49 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 17:00\nPeak hour (7d sample)     : 17:00\nHeatmap (24h)             :   ▃▃           ▁▁█ ▁▆   \nHeatmap (7d sample)       :   ▃▃       ▁▃▁▃▂▁█▁▁▅▁  \n------------------------------------------------------------\nWEEK ACTIVITY (API sample)\n------------------------------------------------------------\nActivity (Mon→Sun)        :  ▂▁▅█▃ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (API sample)\n------------------------------------------------------------\nMon                       :                      █  \nTue                       :                █  ▄▄    \nWed                       :    ▄             █      \nThu                       :            ▃█▂█         \nFri                       :                ▁▁█ ▁▆   \nSat                       :   ██                    \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 29\nDominant artist           : Silverchair\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY (API sample)\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-08 07:24:22Z → 2026-08-15 07:24:22Z\nEvents observed           : 50\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 4\nSessions (7d sample)      : 12\nAvg inter-play gap        : 02:05:08\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(26) | post-grunge(26) | post-hardcore(2) | shoegaze(2) | space rock(2) | speed metal(1)\nTop genres (7d sample)    : grunge(34) | post-grunge(34) | ambient jazz(8) | free jazz(8) | jazz(8) | post-hardcore(2)\nArtist lookups (this run) : 2 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Silverchair — One Way Mule → Days Of The New — Where I Stand\nPlayback timestamp Δ      : 2026-08-15 06:47:14Z → 2026-08-15 07:19:37Z\nState transition          : NO CHANGE\nTelemetry interval        : 00:24:20\n------------------------------------------------------------\nTEMPORAL FRESHNESS\n------------------------------------------------------------\nTime since last play      : 00:04:46\nTelemetry age             : 00:04:46\n------------------------------------------------------------\nDATA COVERAGE\n------------------------------------------------------------\nRecent API sample         : 50 events\nSample capacity           : 50/50 (100.0%)\nOldest sampled event      : 2026-08-10 21:07:51 -04\nNewest sampled event      : 2026-08-15 03:19:37 -04\nCoverage mode             : SPOTIFY RECENT-PLAYBACK WINDOW\n7d metrics scope          : SAMPLE-BOUNDED (max 50 events)\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-15 07:24:22Z",
+  "last_successful_report_utc": "2026-08-15 07:24:22Z",
+  "recent_playback_history": [
+    {
+      "track": "Days Of The New — Where I Stand",
+      "artist": "Days Of The New",
+      "title": "Where I Stand",
+      "uri": "spotify:track:5rrb7jvZ3AIknpVLOfRxpx",
+      "played_at_utc": "2026-08-15 07:19:37Z",
+      "played_at_local": "2026-08-15 03:19:37 -04",
+      "local_hour": 3,
+      "weekday": 5
+    },
+    {
+      "track": "Hum — Iron Clad Lou",
+      "artist": "Hum",
+      "title": "Iron Clad Lou",
+      "uri": "spotify:track:5z9Z8pKeQkyigKgXmonAS8",
+      "played_at_utc": "2026-08-15 07:13:45Z",
+      "played_at_local": "2026-08-15 03:13:45 -04",
+      "local_hour": 3,
+      "weekday": 5
+    },
+    {
+      "track": "Hum — Iron Clad Lou",
+      "artist": "Hum",
+      "title": "Iron Clad Lou",
+      "uri": "spotify:track:5z9Z8pKeQkyigKgXmonAS8",
+      "played_at_utc": "2026-08-15 07:07:31Z",
+      "played_at_local": "2026-08-15 03:07:31 -04",
+      "local_hour": 3,
+      "weekday": 5
+    },
+    {
+      "track": "Shihad — You Again - Remastered",
+      "artist": "Shihad",
+      "title": "You Again - Remastered",
+      "uri": "spotify:track:2UnYtWQVDW9khTWTAnuEhU",
+      "played_at_utc": "2026-08-15 07:00:35Z",
+      "played_at_local": "2026-08-15 03:00:35 -04",
+      "local_hour": 3,
+      "weekday": 5
+    },
+    {
+      "track": "Silverchair — One Way Mule",
+      "artist": "Silverchair",
+      "title": "One Way Mule",
+      "uri": "spotify:track:6WfuJb0HmIzA45sBFZ9j3F",
+      "played_at_utc": "2026-08-15 06:47:14Z",
+      "played_at_local": "2026-08-15 02:47:14 -04",
+      "local_hour": 2,
+      "weekday": 5
+    },
+    {
+      "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
+      "played_at_utc": "2026-08-15 06:36:50Z",
+      "played_at_local": "2026-08-15 02:36:50 -04",
+      "local_hour": 2,
+      "weekday": 5
+    },
+    {
+      "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
+      "played_at_utc": "2026-08-15 06:34:07Z",
+      "played_at_local": "2026-08-15 02:34:07 -04",
+      "local_hour": 2,
+      "weekday": 5
+    },
+    {
+      "track": "Silverchair — Cicada",
+      "artist": "Silverchair",
+      "title": "Cicada",
+      "uri": "spotify:track:6mJdEWVOaCayMo8eaSl3Xw",
+      "played_at_utc": "2026-08-15 06:30:48Z",
+      "played_at_local": "2026-08-15 02:30:48 -04",
+      "local_hour": 2,
+      "weekday": 5
+    },
+    {
+      "track": "Silverchair — Undecided",
+      "artist": "Silverchair",
+      "title": "Undecided",
+      "uri": "spotify:track:3Yhi0Tz3zAD5Q7OUekXsdz",
+      "played_at_utc": "2026-08-15 00:41:44Z",
+      "played_at_local": "2026-08-14 20:41:44 -04",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
+      "played_at_utc": "2026-08-15 00:37:07Z",
+      "played_at_local": "2026-08-14 20:37:07 -04",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
+      "played_at_utc": "2026-08-15 00:34:24Z",
+      "played_at_local": "2026-08-14 20:34:24 -04",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Leave Me Out",
+      "artist": "Silverchair",
+      "title": "Leave Me Out",
+      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
+      "played_at_utc": "2026-08-15 00:31:11Z",
+      "played_at_local": "2026-08-14 20:31:11 -04",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Shade",
+      "artist": "Silverchair",
+      "title": "Shade",
+      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
+      "played_at_utc": "2026-08-15 00:28:08Z",
+      "played_at_local": "2026-08-14 20:28:08 -04",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Pure Massacre",
+      "artist": "Silverchair",
+      "title": "Pure Massacre",
+      "uri": "spotify:track:7qCIP5KHYy9HuXbEEWzmC7",
+      "played_at_utc": "2026-08-15 00:24:06Z",
+      "played_at_local": "2026-08-14 20:24:06 -04",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Tomorrow",
+      "artist": "Silverchair",
+      "title": "Tomorrow",
+      "uri": "spotify:track:24tO365YW6lcZr1hN4Ukzj",
+      "played_at_utc": "2026-08-15 00:08:57Z",
+      "played_at_local": "2026-08-14 20:08:57 -04",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
+      "played_at_utc": "2026-08-15 00:04:30Z",
+      "played_at_local": "2026-08-14 20:04:30 -04",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
+      "played_at_utc": "2026-08-14 23:57:55Z",
+      "played_at_local": "2026-08-14 19:57:55 -04",
+      "local_hour": 19,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Findaway",
+      "artist": "Silverchair",
+      "title": "Findaway",
+      "uri": "spotify:track:6pcyozjE7GDIbf4oN8ctLe",
+      "played_at_utc": "2026-08-14 21:44:39Z",
+      "played_at_local": "2026-08-14 17:44:39 -04",
+      "local_hour": 17,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Cicada",
+      "artist": "Silverchair",
+      "title": "Cicada",
+      "uri": "spotify:track:6mJdEWVOaCayMo8eaSl3Xw",
+      "played_at_utc": "2026-08-14 21:36:23Z",
+      "played_at_local": "2026-08-14 17:36:23 -04",
+      "local_hour": 17,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Undecided",
+      "artist": "Silverchair",
+      "title": "Undecided",
+      "uri": "spotify:track:3Yhi0Tz3zAD5Q7OUekXsdz",
+      "played_at_utc": "2026-08-14 21:31:08Z",
+      "played_at_local": "2026-08-14 17:31:08 -04",
+      "local_hour": 17,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
+      "played_at_utc": "2026-08-14 21:26:31Z",
+      "played_at_local": "2026-08-14 17:26:31 -04",
+      "local_hour": 17,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
+      "played_at_utc": "2026-08-14 21:23:46Z",
+      "played_at_local": "2026-08-14 17:23:46 -04",
+      "local_hour": 17,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Undecided",
+      "artist": "Silverchair",
+      "title": "Undecided",
+      "uri": "spotify:track:3Yhi0Tz3zAD5Q7OUekXsdz",
+      "played_at_utc": "2026-08-14 21:17:20Z",
+      "played_at_local": "2026-08-14 17:17:20 -04",
+      "local_hour": 17,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
+      "played_at_utc": "2026-08-14 21:12:44Z",
+      "played_at_local": "2026-08-14 17:12:44 -04",
+      "local_hour": 17,
+      "weekday": 4
+    },
+    {
+      "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
+      "played_at_utc": "2026-08-14 21:10:00Z",
+      "played_at_local": "2026-08-14 17:10:00 -04",
+      "local_hour": 17,
+      "weekday": 4
+    }
+  ],
+  "last_known_device_type": "Smartphone",
+  "last_known_device_name": "iPhone",
+  "last_known_volume_percent": 100,
+  "last_known_volume_telemetry": "OK",
+  "historical_listening_snapshot": {
+    "captured_utc": "2026-08-15 07:24:22Z",
+    "week_window_utc": "2026-08-08 07:24:22Z → 2026-08-15 07:24:22Z",
+    "tracks_24h": 29,
+    "tracks_7d": 50,
+    "dominant_artist_24h": "Silverchair",
+    "dominant_artist_7d": "Silverchair",
+    "listening_pattern_24h": "Sustained operational tempo",
+    "activity_status_24h": "HIGH",
+    "cadence_7d": "HIGH",
+    "local_timezone": "America/Santiago",
+    "peak_hour_24h": "17:00",
+    "peak_hour_7d": "17:00",
+    "heatmap_24h": "  ▃▃           ▁▁█ ▁▆   ",
+    "heatmap_7d": "  ▃▃       ▁▃▁▃▂▁█▁▁▅▁  ",
+    "sessions_24h": 4,
+    "sessions_7d": 12,
+    "avg_inter_play_gap_7d": "02:05:08",
+    "top_genres_24h": "grunge(26) | post-grunge(26) | post-hardcore(2) | shoegaze(2) | space rock(2) | speed metal(1)",
+    "top_genres_7d": "grunge(34) | post-grunge(34) | ambient jazz(8) | free jazz(8) | jazz(8) | post-hardcore(2)"
+  }
+}
