@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-15 10:55:33Z
 Played at (local)         : 2026-08-15 06:55:33 -04
 Local hour                : 06:00
 Daypart                   : MORNING
-Time since play           : 07:55:24
+Time since play           : 09:47:37
 Gap from previous play    : 01:21:20
 ------------------------------------------------------------
 Previous song             : All Them Witches — Aethernet
@@ -1605,7 +1605,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 17:00
 Peak hour (7d)            : 17:00
-Heatmap (24h)             :   ▃▇▄▇▁        ▁▁█ ▁▆   
+Heatmap (24h)             :   ▃▇▄▇▁         ▁█ ▁▆   
 Heatmap (7d)              :   ▃▇▄▇▁    ▁▄▁▄▁▁█ ▁▆   
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1628,14 +1628,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 49
+Tracks played (last 24h)  : 48
 Dominant artist           : Silverchair
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-08 18:50:57Z → 2026-08-15 18:50:57Z
+Week window (UTC)         : 2026-08-08 20:43:10Z → 2026-08-15 20:43:10Z
 Tracks played (7d)        : 61
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1643,13 +1643,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 6
+Sessions (24h)            : 5
 Sessions (7d)             : 8
 Avg inter-play gap        : 00:43:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(27) | post-grunge(27) | space rock(20) | sludge metal(19) | stoner metal(19) | stoner rock(19)
+Top genres (24h)          : grunge(26) | post-grunge(26) | space rock(20) | sludge metal(19) | stoner metal(19) | stoner rock(19)
 Top genres (7d)           : grunge(34) | post-grunge(34) | space rock(20) | sludge metal(19) | stoner metal(19) | stoner rock(19)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1658,14 +1658,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 02:05:25
+Telemetry interval        : 01:52:13
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 61
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-15 06:55:33 -04
-Events (24h)              : 49
+Events (24h)              : 48
 Events (7d)               : 61
 Events (30d)              : 61
 Playlist contexts retained: 9
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-15 18:50:57Z
+Report generated (UTC)    : 2026-08-15 20:43:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
