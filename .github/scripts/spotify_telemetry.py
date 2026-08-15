@@ -4,7 +4,6 @@
 
 import base64
 import json
-import math
 import os
 import re
 import statistics
@@ -390,27 +389,47 @@ def replace_auth_watch_block(
 def build_auth_failsafe_report(reason: str, detail: str = ""):
     state = load_state()
     last_report = state.get(LAST_SUCCESSFUL_REPORT_KEY) or ""
-    last_good_utc = state.get(LAST_SUCCESSFUL_REPORT_UTC_KEY) or state.get("report_generated_utc") or "N/A"
+    last_good_utc = (
+        state.get(LAST_SUCCESSFUL_REPORT_UTC_KEY)
+        or state.get("report_generated_utc")
+        or "N/A"
+    )
 
+    # Distinguish a true credential/refresh-token problem from a temporary
+    # Spotify authorization service failure. Only the former requires user
+    # intervention. A transient failure must not tell the user to rotate a
+    # perfectly valid secret.
     if reason == "SPOTIFY_SECRETS_MISSING":
         missing_secrets = []
         if not CLIENT_ID:
             missing_secrets.append("SPOTIFY_CLIENT_ID")
         if not REFRESH_TOKEN:
             missing_secrets.append("SPOTIFY_REFRESH_TOKEN")
+
+        refresh_token_state = "CONFIGURATION REQUIRED"
+        user_action_required = "YES"
         secret_to_update = " | ".join(missing_secrets) or "VERIFY OAUTH SECRETS"
+
     elif reason == "SPOTIFY_REFRESH_TOKEN":
+        refresh_token_state = "REAUTH REQUIRED"
+        user_action_required = "YES"
         secret_to_update = "SPOTIFY_REFRESH_TOKEN"
+
     else:
-        secret_to_update = "VERIFY SPOTIFY OAUTH SECRETS"
+        # Includes SPOTIFY_TOKEN_REFRESH_FAILED: timeout, temporary Spotify
+        # account-service failure, transport error, unexpected response, etc.
+        refresh_token_state = "TEMPORARY FAILURE"
+        user_action_required = "NO"
+        secret_to_update = "NONE"
 
     # Preserve the full last successful historical telemetry and replace only
-    # the auth status. This is the core continuity behaviour.
+    # AUTHORIZATION WATCH. This keeps the last known listening history visible
+    # while clearly reporting the current authorization condition.
     if last_report:
         return replace_auth_watch_block(
             last_report,
-            "REAUTH REQUIRED",
-            "YES",
+            refresh_token_state,
+            user_action_required,
             secret_to_update,
             last_good_utc,
         )
@@ -435,7 +454,14 @@ def build_auth_failsafe_report(reason: str, detail: str = ""):
     out.append("Confidence level          : MEDIUM")
     out.append("------------------------------------------------------------")
     out.append(f"Failure detail            : {detail or 'N/A'}")
-    out.append(build_auth_watch_block("REAUTH REQUIRED", "YES", secret_to_update, None))
+    out.append(
+        build_auth_watch_block(
+            refresh_token_state,
+            user_action_required,
+            secret_to_update,
+            None,
+        )
+    )
     out.append(f"Report generated (UTC)    : {now_s}")
     return "\n".join(out)
 
@@ -1428,8 +1454,8 @@ def build_report():
     if SHOW_TEMPORAL_ANALYTICS:
         out.append("TEMPORAL PLAYBACK ANALYSIS (7d history)")
         out.append("------------------------------------------------------------")
-        out.append(f"History first play (7d)  : {utc_iso(sample_first) if sample_first else 'N/A'}")
-        out.append(f"History last play (7d)   : {utc_iso(sample_last) if sample_last else 'N/A'}")
+        out.append(f"History first play (7d)   : {utc_iso(sample_first) if sample_first else 'N/A'}")
+        out.append(f"History last play (7d)    : {utc_iso(sample_last) if sample_last else 'N/A'}")
         out.append(f"Observed time span        : {fmt_hms(observed_span) if observed_span is not None else 'N/A'}")
         out.append(f"Mean inter-play gap       : {fmt_hms(mean_gap) if mean_gap is not None else 'N/A'}")
         out.append(f"Median inter-play gap     : {fmt_hms(median_gap) if median_gap is not None else 'N/A'}")
@@ -1444,7 +1470,7 @@ def build_report():
         out.append(f"Peak hour (24h)           : {peak_hour(hour_hist_24h)}")
         out.append(f"Peak hour (7d)            : {peak_hour(hour_hist_7d)}")
         out.append(f"Heatmap (24h)             : {heatmap_line(hour_hist_24h)}")
-        out.append(f"Heatmap (7d)               : {heatmap_line(hour_hist_7d)}")
+        out.append(f"Heatmap (7d)              : {heatmap_line(hour_hist_7d)}")
         out.append("------------------------------------------------------------")
 
     if SHOW_WEEK_ACTIVITY:
@@ -1477,7 +1503,7 @@ def build_report():
         out.append("WEEKLY CADENCE SUMMARY")
         out.append("------------------------------------------------------------")
         out.append(f"Week window (UTC)         : {utc_iso(week_window_start)} → {now_s}")
-        out.append(f"Tracks played (7d)       : {weekly_total if weekly_total is not None else 'N/A'}")
+        out.append(f"Tracks played (7d)        : {weekly_total if weekly_total is not None else 'N/A'}")
         out.append(f"Dominant artist           : {dominant_artist_week or 'N/A'}")
         out.append(f"Cadence classification    : {cadence or 'N/A'}")
         out.append("------------------------------------------------------------")
