@@ -1,8 +1,62 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-15 09:20:12Z",
+  "updated_utc": "2026-08-15 10:43:33Z",
   "events": [
+    {
+      "track": "All Them Witches — Aethernet",
+      "artist": "All Them Witches",
+      "title": "Aethernet",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:6CLkdeLmJx2BuVQsnO6vCW",
+      "url": "https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-15 09:34:13Z",
+      "played_at_local": "2026-08-15 05:34:13 -04",
+      "local_hour": 5,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Culling Line",
+      "artist": "All Them Witches",
+      "title": "Culling Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
+      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-15 09:29:14Z",
+      "played_at_local": "2026-08-15 05:29:14 -04",
+      "local_hour": 5,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-15 09:25:10Z",
+      "played_at_local": "2026-08-15 05:25:10 -04",
+      "local_hour": 5,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "All Them Witches — Red Rocking Chair",
       "artist": "All Them Witches",
@@ -1058,6 +1112,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-08-15 10:43:33Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-08-15 09:20:12Z",
       "is_playing": true,

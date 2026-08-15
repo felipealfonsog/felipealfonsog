@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-08-15 09:20:12Z",
-  "status": "PLAYING",
-  "last_track": "All Them Witches — Red Rocking Chair",
-  "last_played_utc": "2026-08-15 09:18:22Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-08-15 10:43:33Z",
+  "status": "IDLE",
+  "last_track": "All Them Witches — Aethernet",
+  "last_played_utc": "2026-08-15 09:34:13Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -1656,9 +1656,63 @@
       "speed metal"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : All Them Witches — Red Rocking Chair\nArtist                    : All Them Witches\nTitle                     : Red Rocking Chair\nAlbum                     : House Of Mirrors\nSpotify URI               : spotify:track:0ah8xqlKZLVN69XJVVONur\nSpotify URL               : https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-08-15 09:18:22Z\nPlayed at (local)         : 2026-08-15 05:18:22 -04\nLocal hour                : 05:00\nDaypart                   : NIGHT\nTime since play           : 00:01:51\nGap from previous play    : 00:06:19\n------------------------------------------------------------\nPrevious song             : All Them Witches — Red Rocking Chair\nSame artist as previous   : YES\nSame track as previous    : YES\nTrack plays (retained)    : 4\nArtist plays (retained)   : 14\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04\nPrevious track #2         : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04\nPrevious track #3         : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04\nPrevious track #4         : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04\nPrevious track #5         : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04\nPrevious track #6         : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04\nPrevious track #7         : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04\nPrevious track #8         : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04\nPrevious track #9         : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04\nPrevious track #10        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04\nPrevious track #11        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04\nPrevious track #12        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04\nPrevious track #13        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04\nPrevious track #14        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04\nPrevious track #15        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04\nPrevious track #16        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04\nPrevious track #17        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04\nPrevious track #18        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04\nPrevious track #19        : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04\nPrevious track #20        : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04\nPrevious track #21        : Silverchair — Madman | 2026-08-15 02:36:50 -04\nPrevious track #22        : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04\nPrevious track #23        : Silverchair — Cicada | 2026-08-15 02:30:48 -04\nPrevious track #24        : Silverchair — Undecided | 2026-08-14 20:41:44 -04\nPrevious track #25        : Silverchair — Madman | 2026-08-14 20:37:07 -04\nPrevious track #26        : Silverchair — Suicidal Dream | 2026-08-14 20:34:24 -04\nPrevious track #27        : Silverchair — Leave Me Out | 2026-08-14 20:31:11 -04\nPrevious track #28        : Silverchair — Shade | 2026-08-14 20:28:08 -04\nPrevious track #29        : Silverchair — Pure Massacre | 2026-08-14 20:24:06 -04\nPrevious track #30        : Silverchair — Tomorrow | 2026-08-14 20:08:57 -04\nPrevious track #31        : Silverchair — Israel's Son | 2026-08-14 20:04:30 -04\nPrevious track #32        : Silverchair — Israel's Son | 2026-08-14 19:57:55 -04\nPrevious track #33        : Silverchair — Findaway | 2026-08-14 17:44:39 -04\nPrevious track #34        : Silverchair — Cicada | 2026-08-14 17:36:23 -04\nPrevious track #35        : Silverchair — Undecided | 2026-08-14 17:31:08 -04\nPrevious track #36        : Silverchair — Madman | 2026-08-14 17:26:31 -04\nPrevious track #37        : Silverchair — Suicidal Dream | 2026-08-14 17:23:46 -04\nPrevious track #38        : Silverchair — Undecided | 2026-08-14 17:17:20 -04\nPrevious track #39        : Silverchair — Madman | 2026-08-14 17:12:44 -04\nPrevious track #40        : Silverchair — Suicidal Dream | 2026-08-14 17:10:00 -04\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-08-13 14:15:12 -04\nTrack observed in context : Silverchair — Without You\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO2vS1wY\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vS1wY\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-08-15 09:20:12Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 57\nUnique tracks             : 32\nUnique artists            : 9\nReplay ratio              : ████████░░░░░░░░░░  43.9%\nArtist diversity          : ███░░░░░░░░░░░░░░░  15.8%\nDominant artist           : Silverchair\nDominant artist share     : ██████████░░░░░░░░  57.9%\nArtist switch ratio       : ███░░░░░░░░░░░░░░░  17.9%\nLongest artist streak     : Silverchair × 32\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ████████░░░░░░░░░░   42.1%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    1.8%\nAfternoon  12–18           : ███████░░░░░░░░░░░   40.4%\nEvening    18–24           : ███░░░░░░░░░░░░░░░   15.8%\nDominant period           : NIGHT\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-08-13 15:54:14Z\nHistory last play (7d)    : 2026-08-15 09:18:22Z\nObserved time span        : 41:24:08\nMean inter-play gap       : 00:44:22\nMedian inter-play gap     : 00:05:34\nLongest inactivity gap    : 24:52:13\nListening intensity       : 1.38 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 17:00\nPeak hour (7d)            : 17:00\nHeatmap (24h)             :   ▃▇▄▅         ▁▁█ ▁▆   \nHeatmap (7d)              :   ▃▇▄▅     ▁▄▁▄▁▁█ ▁▆   \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :    ▄▇█ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :                            ▄▇█\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :                         \nThu                       :            ▂█▂█         \nFri                       :                ▁▁█ ▁▆   \nSat                       :   ▄█▄▅                  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 45\nDominant artist           : Silverchair\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-08 09:20:12Z → 2026-08-15 09:20:12Z\nTracks played (7d)        : 57\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 5\nSessions (7d)             : 7\nAvg inter-play gap        : 00:44:22\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(27) | post-grunge(27) | space rock(16) | sludge metal(15) | stoner metal(15) | stoner rock(15)\nTop genres (7d)           : grunge(34) | post-grunge(34) | space rock(16) | sludge metal(15) | stoner metal(15) | stoner rock(15)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : All Them Witches — Bulls - Live → All Them Witches — Red Rocking Chair\nPlayback timestamp Δ      : 2026-08-15 08:15:13Z → 2026-08-15 09:18:22Z\nState transition          : IDLE → PLAYING\nTelemetry interval        : 00:31:29\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 57\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-08-15 05:18:22 -04\nEvents (24h)              : 45\nEvents (7d)               : 57\nEvents (30d)              : 57\nPlaylist contexts retained: 9\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-15 09:20:12Z",
-  "last_successful_report_utc": "2026-08-15 09:20:12Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : All Them Witches — Aethernet\nArtist                    : All Them Witches\nTitle                     : Aethernet\nAlbum                     : House Of Mirrors\nSpotify URI               : spotify:track:6CLkdeLmJx2BuVQsnO6vCW\nSpotify URL               : https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-08-15 09:34:13Z\nPlayed at (local)         : 2026-08-15 05:34:13 -04\nLocal hour                : 05:00\nDaypart                   : NIGHT\nTime since play           : 01:09:20\nGap from previous play    : 00:04:59\n------------------------------------------------------------\nPrevious song             : All Them Witches — Culling Line\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 17\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04\nPrevious track #2         : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04\nPrevious track #3         : All Them Witches — Red Rocking Chair | 2026-08-15 05:18:22 -04\nPrevious track #4         : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04\nPrevious track #5         : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04\nPrevious track #6         : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04\nPrevious track #7         : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04\nPrevious track #8         : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04\nPrevious track #9         : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04\nPrevious track #10        : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04\nPrevious track #11        : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04\nPrevious track #12        : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04\nPrevious track #13        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04\nPrevious track #14        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04\nPrevious track #15        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04\nPrevious track #16        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04\nPrevious track #17        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04\nPrevious track #18        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04\nPrevious track #19        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04\nPrevious track #20        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04\nPrevious track #21        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04\nPrevious track #22        : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04\nPrevious track #23        : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04\nPrevious track #24        : Silverchair — Madman | 2026-08-15 02:36:50 -04\nPrevious track #25        : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04\nPrevious track #26        : Silverchair — Cicada | 2026-08-15 02:30:48 -04\nPrevious track #27        : Silverchair — Undecided | 2026-08-14 20:41:44 -04\nPrevious track #28        : Silverchair — Madman | 2026-08-14 20:37:07 -04\nPrevious track #29        : Silverchair — Suicidal Dream | 2026-08-14 20:34:24 -04\nPrevious track #30        : Silverchair — Leave Me Out | 2026-08-14 20:31:11 -04\nPrevious track #31        : Silverchair — Shade | 2026-08-14 20:28:08 -04\nPrevious track #32        : Silverchair — Pure Massacre | 2026-08-14 20:24:06 -04\nPrevious track #33        : Silverchair — Tomorrow | 2026-08-14 20:08:57 -04\nPrevious track #34        : Silverchair — Israel's Son | 2026-08-14 20:04:30 -04\nPrevious track #35        : Silverchair — Israel's Son | 2026-08-14 19:57:55 -04\nPrevious track #36        : Silverchair — Findaway | 2026-08-14 17:44:39 -04\nPrevious track #37        : Silverchair — Cicada | 2026-08-14 17:36:23 -04\nPrevious track #38        : Silverchair — Undecided | 2026-08-14 17:31:08 -04\nPrevious track #39        : Silverchair — Madman | 2026-08-14 17:26:31 -04\nPrevious track #40        : Silverchair — Suicidal Dream | 2026-08-14 17:23:46 -04\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-08-13 14:15:12 -04\nTrack observed in context : Silverchair — Without You\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO2vS1wY\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vS1wY\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-08-15 09:20:12Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 60\nUnique tracks             : 34\nUnique artists            : 9\nReplay ratio              : ████████░░░░░░░░░░  43.3%\nArtist diversity          : ███░░░░░░░░░░░░░░░  15.0%\nDominant artist           : Silverchair\nDominant artist share     : ██████████░░░░░░░░  55.0%\nArtist switch ratio       : ███░░░░░░░░░░░░░░░  16.9%\nLongest artist streak     : Silverchair × 32\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ████████░░░░░░░░░░   45.0%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    1.7%\nAfternoon  12–18           : ███████░░░░░░░░░░░   38.3%\nEvening    18–24           : ███░░░░░░░░░░░░░░░   15.0%\nDominant period           : NIGHT\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-08-13 15:54:14Z\nHistory last play (7d)    : 2026-08-15 09:34:13Z\nObserved time span        : 41:39:59\nMean inter-play gap       : 00:42:22\nMedian inter-play gap     : 00:05:21\nLongest inactivity gap    : 24:52:13\nListening intensity       : 1.44 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 17:00\nPeak hour (7d)            : 17:00\nHeatmap (24h)             :   ▃▇▄▇         ▁▁█ ▁▆   \nHeatmap (7d)              :   ▃▇▄▇     ▁▄▁▄▁▁█ ▁▆   \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :    ▄▆█ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :                            ▄▆█\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :                         \nThu                       :            ▂█▂█         \nFri                       :                ▁▁█ ▁▆   \nSat                       :   ▄█▄█                  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 48\nDominant artist           : Silverchair\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-08 10:43:33Z → 2026-08-15 10:43:33Z\nTracks played (7d)        : 60\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 5\nSessions (7d)             : 7\nAvg inter-play gap        : 00:42:22\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(27) | post-grunge(27) | space rock(19) | sludge metal(18) | stoner metal(18) | stoner rock(18)\nTop genres (7d)           : grunge(34) | post-grunge(34) | space rock(19) | sludge metal(18) | stoner metal(18) | stoner rock(18)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : All Them Witches — Red Rocking Chair → All Them Witches — Aethernet\nPlayback timestamp Δ      : 2026-08-15 09:18:22Z → 2026-08-15 09:34:13Z\nState transition          : PLAYING → IDLE\nTelemetry interval        : 01:23:21\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 60\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-08-15 05:34:13 -04\nEvents (24h)              : 48\nEvents (7d)               : 60\nEvents (30d)              : 60\nPlaylist contexts retained: 9\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-15 10:43:33Z",
+  "last_successful_report_utc": "2026-08-15 10:43:33Z",
   "recent_playback_history": [
+    {
+      "track": "All Them Witches — Aethernet",
+      "artist": "All Them Witches",
+      "title": "Aethernet",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:6CLkdeLmJx2BuVQsnO6vCW",
+      "url": "https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-15 09:34:13Z",
+      "played_at_local": "2026-08-15 05:34:13 -04",
+      "local_hour": 5,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Culling Line",
+      "artist": "All Them Witches",
+      "title": "Culling Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
+      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-15 09:29:14Z",
+      "played_at_local": "2026-08-15 05:29:14 -04",
+      "local_hour": 5,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-15 09:25:10Z",
+      "played_at_local": "2026-08-15 05:25:10 -04",
+      "local_hour": 5,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "All Them Witches — Red Rocking Chair",
       "artist": "All Them Witches",
@@ -2333,60 +2387,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
       "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Undecided",
-      "artist": "Silverchair",
-      "title": "Undecided",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:3Yhi0Tz3zAD5Q7OUekXsdz",
-      "url": "https://open.spotify.com/track/3Yhi0Tz3zAD5Q7OUekXsdz",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-08-14 21:17:20Z",
-      "played_at_local": "2026-08-14 17:17:20 -04",
-      "local_hour": 17,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Madman",
-      "artist": "Silverchair",
-      "title": "Madman",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
-      "url": "https://open.spotify.com/track/66BwWfwHYkoGSi6iUUj98I",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-08-14 21:12:44Z",
-      "played_at_local": "2026-08-14 17:12:44 -04",
-      "local_hour": 17,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Suicidal Dream",
-      "artist": "Silverchair",
-      "title": "Suicidal Dream",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
-      "url": "https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-08-14 21:10:00Z",
-      "played_at_local": "2026-08-14 17:10:00 -04",
-      "local_hour": 17,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
     }
   ],
   "last_known_device_type": "Smartphone",
@@ -2394,10 +2394,10 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-08-15 09:20:12Z",
-    "week_window_utc": "2026-08-08 09:20:12Z → 2026-08-15 09:20:12Z",
-    "tracks_24h": 45,
-    "tracks_7d": 57,
+    "captured_utc": "2026-08-15 10:43:33Z",
+    "week_window_utc": "2026-08-08 10:43:33Z → 2026-08-15 10:43:33Z",
+    "tracks_24h": 48,
+    "tracks_7d": 60,
     "dominant_artist_24h": "Silverchair",
     "dominant_artist_7d": "Silverchair",
     "listening_pattern_24h": "Sustained operational tempo",
@@ -2406,13 +2406,13 @@
     "local_timezone": "America/Santiago",
     "peak_hour_24h": "17:00",
     "peak_hour_7d": "17:00",
-    "heatmap_24h": "  ▃▇▄▅         ▁▁█ ▁▆   ",
-    "heatmap_7d": "  ▃▇▄▅     ▁▄▁▄▁▁█ ▁▆   ",
+    "heatmap_24h": "  ▃▇▄▇         ▁▁█ ▁▆   ",
+    "heatmap_7d": "  ▃▇▄▇     ▁▄▁▄▁▁█ ▁▆   ",
     "sessions_24h": 5,
     "sessions_7d": 7,
-    "avg_inter_play_gap_7d": "00:44:22",
-    "top_genres_24h": "grunge(27) | post-grunge(27) | space rock(16) | sludge metal(15) | stoner metal(15) | stoner rock(15)",
-    "top_genres_7d": "grunge(34) | post-grunge(34) | space rock(16) | sludge metal(15) | stoner metal(15) | stoner rock(15)"
+    "avg_inter_play_gap_7d": "00:42:22",
+    "top_genres_24h": "grunge(27) | post-grunge(27) | space rock(19) | sludge metal(18) | stoner metal(18) | stoner rock(18)",
+    "top_genres_7d": "grunge(34) | post-grunge(34) | space rock(19) | sludge metal(18) | stoner metal(18) | stoner rock(18)"
   },
   "last_known_device_captured_utc": "2026-08-15 09:20:12Z"
 }
