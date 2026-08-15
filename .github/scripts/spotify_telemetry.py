@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # .github/scripts/spotify_telemetry.py
-# v3.0 — consolidated historical telemetry + behavioural analytics
+# v4.0 — persistent historical telemetry + past-oriented analytics
 
 import base64
 import json
@@ -24,14 +24,12 @@ from zoneinfo import ZoneInfo
 SHOW_HEADER_META          = True
 SHOW_STATUS_BLOCK         = True
 SHOW_DEVICE_BLOCK         = True
-SHOW_TRACK_BLOCK          = True
 SHOW_RECENT_HISTORY       = True
 SHOW_BEHAVIOUR_ANALYTICS  = True
 SHOW_DAYPART_ANALYTICS    = True
 SHOW_TEMPORAL_ANALYTICS   = True
 SHOW_DATA_COVERAGE        = True
 SHOW_DELTAS_BLOCK         = True
-SHOW_TIME_BLOCK           = True
 SHOW_API_BLOCK            = True
 SHOW_INTEGRITY_BLOCK      = True
 SHOW_DAILY_SITREP         = True
@@ -97,6 +95,7 @@ MARKER_END    = "<!-- SPOTIFY_TEL:END -->"
 
 STATE_DIR     = ".github/state"
 STATE_FILE    = os.path.join(STATE_DIR, "spotify_last_report.json")
+HISTORY_FILE  = os.path.join(STATE_DIR, "spotify_listening_history.json")
 DEBUG_FILE    = os.path.join(STATE_DIR, "spotify_debug.json")
 
 ARTIST_CACHE_KEY = "artist_genre_cache"
@@ -108,6 +107,8 @@ LAST_DEVICE_NAME_STATE_KEY = "last_known_device_name"
 LAST_VOLUME_STATE_KEY = "last_known_volume_percent"
 LAST_VOLUME_TELEMETRY_STATE_KEY = "last_known_volume_telemetry"
 HISTORICAL_SNAPSHOT_STATE_KEY = "historical_listening_snapshot"
+LAST_DEVICE_CAPTURED_UTC_KEY = "last_known_device_captured_utc"
+HISTORY_SCHEMA_VERSION = 1
 
 # =============================================================================
 # Helpers
@@ -193,6 +194,133 @@ def save_state(obj: dict):
     os.makedirs(STATE_DIR, exist_ok=True)
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
+
+
+def load_history_store():
+    try:
+        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+            obj = json.load(f)
+        if not isinstance(obj, dict):
+            raise ValueError("history root is not an object")
+    except Exception:
+        obj = {}
+    obj.setdefault("schema_version", HISTORY_SCHEMA_VERSION)
+    obj.setdefault("created_utc", None)
+    obj.setdefault("updated_utc", None)
+    obj.setdefault("events", [])
+    obj.setdefault("playback_context", [])
+    return obj
+
+
+def save_history_store(obj: dict):
+    os.makedirs(STATE_DIR, exist_ok=True)
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+
+
+def history_event_key(entry: dict):
+    return (
+        entry.get("played_at_utc") or "",
+        entry.get("uri") or entry.get("track") or "",
+    )
+
+
+def merge_history_events(store: dict, new_events: list[dict], now_s: str):
+    existing = store.get("events") or []
+    merged = {}
+    for entry in existing + new_events:
+        if not isinstance(entry, dict):
+            continue
+        key = history_event_key(entry)
+        if not key[0]:
+            continue
+        merged[key] = entry
+    events = sorted(
+        merged.values(),
+        key=lambda e: parse_iso_z(e.get("played_at_utc") or "")
+        or datetime.min.replace(tzinfo=timezone.utc),
+        reverse=True,
+    )
+    store["events"] = events
+    store["schema_version"] = HISTORY_SCHEMA_VERSION
+    store["created_utc"] = store.get("created_utc") or now_s
+    store["updated_utc"] = now_s
+    return events
+
+
+def append_playback_context(store: dict, snapshot: dict):
+    contexts = store.get("playback_context") or []
+    # Preserve every materially distinct observed context while avoiding
+    # identical snapshots produced by consecutive scheduled runs.
+    signature_fields = (
+        "is_playing", "track", "device_type", "device_name",
+        "volume_percent", "volume_telemetry", "playback_state",
+    )
+    previous = contexts[0] if contexts else None
+    changed = not previous or any(
+        previous.get(k) != snapshot.get(k) for k in signature_fields
+    )
+    if changed:
+        contexts.insert(0, snapshot)
+    store["playback_context"] = contexts
+    return contexts
+
+
+def filter_history_window(events: list[dict], cutoff: datetime):
+    out = []
+    for entry in events:
+        dt = parse_iso_z(entry.get("played_at_utc") or "")
+        if dt and dt >= cutoff:
+            out.append(entry)
+    return out
+
+
+def hour_hist_from_history(events: list[dict]):
+    hist = [0] * 24
+    for entry in events:
+        dt = parse_iso_z(entry.get("played_at_utc") or "")
+        if not dt:
+            continue
+        hist[dt.astimezone(local_tz()).hour] += 1
+    return hist
+
+
+def week_activity_from_history(events: list[dict]):
+    counts = [0] * 7
+    for entry in events:
+        dt = parse_iso_z(entry.get("played_at_utc") or "")
+        if dt:
+            counts[dt.astimezone(local_tz()).weekday()] += 1
+    return counts
+
+
+def weekly_hour_matrix_from_history(events: list[dict]):
+    matrix = [[0] * 24 for _ in range(7)]
+    for entry in events:
+        dt = parse_iso_z(entry.get("played_at_utc") or "")
+        if not dt:
+            continue
+        local_dt = dt.astimezone(local_tz())
+        matrix[local_dt.weekday()][local_dt.hour] += 1
+    return matrix
+
+
+def daily_activity_series(events: list[dict], days: int, now: datetime):
+    if days <= 0:
+        return []
+    tz = local_tz()
+    today = now.astimezone(tz).date()
+    start = today - timedelta(days=days - 1)
+    counts = [0] * days
+    for entry in events:
+        dt = parse_iso_z(entry.get("played_at_utc") or "")
+        if not dt:
+            continue
+        day = dt.astimezone(tz).date()
+        offset = (day - start).days
+        if 0 <= offset < days:
+            counts[offset] += 1
+    return counts
 
 
 def build_auth_watch_block(
@@ -603,7 +731,10 @@ def recent_history_from_payload(payload: dict, limit: int = RECENT_HISTORY_LIMIT
             "track": f"{track['artist']} — {track['title']}",
             "artist": track["artist"],
             "title": track["title"],
+            "album": track.get("album") or "",
             "uri": track.get("uri") or "",
+            "url": track.get("url") or "",
+            "artist_ids": track.get("artist_ids") or [],
             "played_at_utc": utc_iso(played_dt),
             "played_at_local": local_dt.strftime("%Y-%m-%d %H:%M:%S %Z"),
             "local_hour": local_dt.hour,
@@ -889,41 +1020,52 @@ def build_report():
     recent_code, recent_payload = fetch_recently_played(token, limit=MAX_RECENT_ITEMS)
     recent_ok = recent_code == 200 and isinstance(recent_payload, dict)
 
-    last_track_name = "-"
-    last_played_utc = ""
-    recent_history = []
-    items = []
-    if recent_ok:
-        items = recent_payload.get("items") or []
-        recent_history = recent_history_from_payload(recent_payload, RECENT_HISTORY_LIMIT)
-        if items:
-            it0 = items[0]
-            played_at = it0.get("played_at") or ""
-            tr = it0.get("track") or {}
-            last_track_obj = parse_track_item(tr)
-            if last_track_obj:
-                last_track_name = f"{last_track_obj['artist']} — {last_track_obj['title']}"
-            last_played_utc = played_at.replace(".000Z", "Z") if played_at else ""
-            if last_played_utc and last_played_utc.endswith("Z"):
-                dtp = parse_iso_z(last_played_utc)
-                if dtp:
-                    last_played_utc = utc_iso(dtp)
+    # -------------------------------------------------------------------------
+    # Persistent listening history
+    # Spotify exposes only a recent-playback window. Every run merges newly
+    # observed plays into our own journal so 24h/7d/30d analytics are based on
+    # retained history, not only the latest API window.
+    # -------------------------------------------------------------------------
+    history_store = load_history_store()
+    api_history = (
+        recent_history_from_payload(recent_payload, MAX_RECENT_ITEMS)
+        if recent_ok else []
+    )
+    all_history = merge_history_events(history_store, api_history, now_s)
+    recent_history = all_history[:RECENT_HISTORY_LIMIT]
 
-    if not recent_history:
-        previous_history = prev.get(RECENT_HISTORY_STATE_KEY) or []
-        if isinstance(previous_history, list):
-            recent_history = previous_history[:RECENT_HISTORY_LIMIT]
+    # Keep a lightweight history of observed player/device contexts. Spotify
+    # does not provide per-track historical device/volume information.
+    context_snapshot = {
+        "captured_utc": now_s,
+        "is_playing": bool(is_playing),
+        "track": now_track_name if is_playing else None,
+        "playback_state": playback_state,
+        "device_type": device_type if has_active_session else None,
+        "device_name": device_name if has_active_session else None,
+        "volume_percent": volume_percent if has_active_session else None,
+        "volume_telemetry": volume_telemetry,
+    }
+    append_playback_context(history_store, context_snapshot)
 
+    last_track_name = recent_history[0].get("track", "-") if recent_history else "-"
+    last_played_utc = recent_history[0].get("played_at_utc", "") if recent_history else ""
+    last_played_local = recent_history[0].get("played_at_local", "N/A") if recent_history else "N/A"
+
+    # Last observed playback context is persisted independently from whether a
+    # live session exists at this exact run.
     if has_active_session:
         last_known_device_type = device_type or "N/A"
         last_known_device_name = device_name or "N/A"
         last_known_volume_percent = volume_percent
         last_known_volume_telemetry = volume_telemetry
+        last_known_device_captured_utc = now_s
     else:
         last_known_device_type = prev.get(LAST_DEVICE_TYPE_STATE_KEY) or "N/A"
         last_known_device_name = prev.get(LAST_DEVICE_NAME_STATE_KEY) or "N/A"
         last_known_volume_percent = prev.get(LAST_VOLUME_STATE_KEY)
         last_known_volume_telemetry = prev.get(LAST_VOLUME_TELEMETRY_STATE_KEY) or "N/A"
+        last_known_device_captured_utc = prev.get(LAST_DEVICE_CAPTURED_UTC_KEY) or "N/A"
 
     time_since_last_play = "N/A"
     telemetry_age = "N/A"
@@ -954,100 +1096,56 @@ def build_report():
     tz = local_tz()
     cutoff_24h = now - timedelta(hours=24)
     cutoff_7d = now - timedelta(days=7)
+    cutoff_30d = now - timedelta(days=30)
 
-    genre_24h = []
-    genre_7d = []
-    artist_lookup_counter = {"n": 0}
+    history_24h = filter_history_window(all_history, cutoff_24h)
+    history_7d = filter_history_window(all_history, cutoff_7d)
+    history_30d = filter_history_window(all_history, cutoff_30d)
 
-    hour_hist_24h = [0] * 24
-    hour_hist_7d = [0] * 24
-    played_times_24h = []
-    played_times_7d = []
+    hour_hist_24h = hour_hist_from_history(history_24h)
+    hour_hist_7d = hour_hist_from_history(history_7d)
+    hour_hist_30d = hour_hist_from_history(history_30d)
 
-    daily_tracks = None
-    dominant_artist_24h = None
-    daily_pattern = None
-    daily_status = None
+    played_times_24h = [
+        dt for dt in (parse_iso_z(e.get("played_at_utc") or "") for e in history_24h) if dt
+    ]
+    played_times_7d = [
+        dt for dt in (parse_iso_z(e.get("played_at_utc") or "") for e in history_7d) if dt
+    ]
 
-    weekly_total = None
-    dominant_artist_week = None
-    cadence = None
-    week_window_start = now - timedelta(days=7)
+    daily_tracks = len(history_24h)
+    weekly_total = len(history_7d)
 
-    if recent_ok:
-        cnt24 = 0
-        cnt7 = 0
-        artist_counts_24h = {}
-        artist_counts_7d = {}
+    artist_counts_24h = Counter(e.get("artist") or "Unknown artist" for e in history_24h)
+    artist_counts_7d = Counter(e.get("artist") or "Unknown artist" for e in history_7d)
+    dominant_artist_24h = artist_counts_24h.most_common(1)[0][0] if artist_counts_24h else None
+    dominant_artist_week = artist_counts_7d.most_common(1)[0][0] if artist_counts_7d else None
 
-        for it in items:
-            pa = it.get("played_at") or ""
-            dtp = parse_iso_z(pa)
-            if not dtp:
-                continue
+    if daily_tracks >= 25:
+        daily_status = "HIGH"
+        daily_pattern = "Sustained operational tempo"
+    elif daily_tracks >= 10:
+        daily_status = "MEDIUM"
+        daily_pattern = "Regular cadence"
+    elif daily_tracks >= 1:
+        daily_status = "LOW"
+        daily_pattern = "Light activity"
+    else:
+        daily_status = "NONE"
+        daily_pattern = "No activity"
 
-            local_hour = dtp.astimezone(tz).hour
+    if weekly_total >= 80:
+        cadence = "VERY HIGH"
+    elif weekly_total >= 40:
+        cadence = "HIGH"
+    elif weekly_total >= 15:
+        cadence = "MEDIUM"
+    elif weekly_total >= 1:
+        cadence = "LOW"
+    else:
+        cadence = "NONE"
 
-            if dtp >= cutoff_7d:
-                hour_hist_7d[local_hour] += 1
-                played_times_7d.append(dtp)
-                cnt7 += 1
-
-            if dtp >= cutoff_24h:
-                hour_hist_24h[local_hour] += 1
-                played_times_24h.append(dtp)
-                cnt24 += 1
-
-            tr = it.get("track") or {}
-            artists = tr.get("artists") or []
-            a0 = (artists[0].get("name") if artists else "") or ""
-
-            if dtp >= cutoff_24h and a0:
-                artist_counts_24h[a0] = artist_counts_24h.get(a0, 0) + 1
-            if dtp >= cutoff_7d and a0:
-                artist_counts_7d[a0] = artist_counts_7d.get(a0, 0) + 1
-
-            if SHOW_GENRE_INTEL:
-                parsed = parse_track_item(tr)
-                if parsed:
-                    for aid in parsed.get("artist_ids") or []:
-                        g = get_artist_genres(token, aid, mutable_state, artist_lookup_counter)
-                        if dtp >= cutoff_24h:
-                            genre_24h.extend(g)
-                        if dtp >= cutoff_7d:
-                            genre_7d.extend(g)
-
-        if SHOW_DAILY_SITREP:
-            daily_tracks = cnt24
-            if artist_counts_24h:
-                dominant_artist_24h = max(artist_counts_24h.items(), key=lambda x: x[1])[0]
-            if cnt24 >= 25:
-                daily_status = "HIGH"
-                daily_pattern = "Sustained operational tempo"
-            elif cnt24 >= 10:
-                daily_status = "MEDIUM"
-                daily_pattern = "Regular cadence"
-            elif cnt24 >= 1:
-                daily_status = "LOW"
-                daily_pattern = "Light activity"
-            else:
-                daily_status = "NONE"
-                daily_pattern = "No activity"
-
-        if SHOW_WEEKLY_SUMMARY:
-            weekly_total = cnt7
-            if artist_counts_7d:
-                dominant_artist_week = max(artist_counts_7d.items(), key=lambda x: x[1])[0]
-            if cnt7 >= 80:
-                cadence = "VERY HIGH"
-            elif cnt7 >= 40:
-                cadence = "HIGH"
-            elif cnt7 >= 15:
-                cadence = "MEDIUM"
-            elif cnt7 >= 1:
-                cadence = "LOW"
-            else:
-                cadence = "NONE"
+    week_window_start = cutoff_7d
 
     sessions_24h = 0
     sessions_7d = 0
@@ -1057,19 +1155,32 @@ def build_report():
         sessions_7d, avg_gap = infer_sessions(played_times_7d)
         avg_session_gap_7d = fmt_hms(avg_gap) if avg_gap is not None else "N/A"
 
+    # Genre intelligence is derived from persistent events and cached artist IDs.
+    genre_24h = []
+    genre_7d = []
+    artist_lookup_counter = {"n": 0}
+    if SHOW_GENRE_INTEL:
+        for entry in history_7d:
+            dtp = parse_iso_z(entry.get("played_at_utc") or "")
+            for aid in entry.get("artist_ids") or []:
+                genres = get_artist_genres(token, aid, mutable_state, artist_lookup_counter)
+                if dtp and dtp >= cutoff_24h:
+                    genre_24h.extend(genres)
+                genre_7d.extend(genres)
+
     genre_top_24h = topk(genre_24h, 6)
     genre_top_7d = topk(genre_7d, 6)
 
-    current_historical_snapshot = {
+    historical_snapshot = {
         "captured_utc": now_s,
         "week_window_utc": f"{utc_iso(week_window_start)} → {now_s}",
         "tracks_24h": daily_tracks,
         "tracks_7d": weekly_total,
         "dominant_artist_24h": dominant_artist_24h or "N/A",
         "dominant_artist_7d": dominant_artist_week or "N/A",
-        "listening_pattern_24h": daily_pattern or "N/A",
-        "activity_status_24h": daily_status or "N/A",
-        "cadence_7d": cadence or "N/A",
+        "listening_pattern_24h": daily_pattern,
+        "activity_status_24h": daily_status,
+        "cadence_7d": cadence,
         "local_timezone": LOCAL_TIMEZONE,
         "peak_hour_24h": peak_hour(hour_hist_24h),
         "peak_hour_7d": peak_hour(hour_hist_7d),
@@ -1081,11 +1192,6 @@ def build_report():
         "top_genres_24h": " | ".join(f"{g}({c})" for g, c in genre_top_24h) if genre_top_24h else "N/A",
         "top_genres_7d": " | ".join(f"{g}({c})" for g, c in genre_top_7d) if genre_top_7d else "N/A",
     }
-    if recent_ok:
-        historical_snapshot = current_historical_snapshot
-    else:
-        previous_snapshot = prev.get(HISTORICAL_SNAPSHOT_STATE_KEY)
-        historical_snapshot = previous_snapshot if isinstance(previous_snapshot, dict) and previous_snapshot else current_historical_snapshot
 
     api_ok = (player_http in (200, 204)) and api_ok_current and recent_ok
     sitrep = classify_sitrep(status, playback_state, api_ok)
@@ -1117,9 +1223,9 @@ def build_report():
             vol_tel = "OK"
 
     # -------------------------------------------------------------------------
-    # Consolidated analytics built from the API sample (up to 50 recent events)
+    # Historical analytics from the persistent journal
     # -------------------------------------------------------------------------
-    analytics_history = recent_history_from_payload(recent_payload, MAX_RECENT_ITEMS) if recent_ok else recent_history
+    analytics_history = history_7d
     behaviour = behavioural_metrics(analytics_history)
 
     analytics_dts = [
@@ -1138,11 +1244,16 @@ def build_report():
 
     _, daypart_pct, dominant_daypart = daypart_distribution(analytics_dts)
 
-    week_activity = week_activity_from_items(items) if recent_ok else [0] * 7
-    week_matrix = weekly_hour_matrix_from_items(items) if recent_ok else [[0] * 24 for _ in range(7)]
+    week_activity = week_activity_from_history(history_7d)
+    week_matrix = weekly_hour_matrix_from_history(history_7d)
+    activity_30d = daily_activity_series(history_30d, 30, now)
 
-    sample_capacity_used = len(items) if recent_ok else len(analytics_history)
-    sample_capacity_pct = (sample_capacity_used / MAX_RECENT_ITEMS) * 100 if MAX_RECENT_ITEMS else 0.0
+    history_total = len(all_history)
+    history_oldest_dt = None
+    history_newest_dt = None
+    if all_history:
+        history_newest_dt = parse_iso_z(all_history[0].get("played_at_utc") or "")
+        history_oldest_dt = parse_iso_z(all_history[-1].get("played_at_utc") or "")
 
     out = []
     out.append("SPOTIFY TELEMETRY — CLI FEED (Spotify ©)")
@@ -1151,75 +1262,73 @@ def build_report():
     if SHOW_HEADER_META:
         out.append("Telemetry source          : Spotify Developer Platform — Playback Telemetry ©")
         out.append("Acquisition mode          : OAuth2 / automated workflow")
-        out.append("Snapshot type             : Live + historical playback telemetry")
+        out.append("Snapshot type             : Historical playback telemetry + live signal")
         out.append(f"Observation window        : {fmt_hms(OBS_WINDOW_SECONDS)}")
         out.append("------------------------------------------------------------")
 
     if SHOW_STATUS_BLOCK:
-        out.append("CURRENT PLAYBACK STATE")
+        out.append("LIVE PLAYBACK (current signal only)")
         out.append("------------------------------------------------------------")
-        out.append(f"Playback state            : {playback_state}")
-        out.append(f"Status                    : {status}")
-        out.append(f"SITREP                    : {sitrep}")
-        out.append(f"Now playing               : {now_track_name}")
+        if is_playing:
+            observed_local = now.astimezone(local_tz()).strftime("%Y-%m-%d %H:%M:%S %Z")
+            out.append("Live state                : PLAYING")
+            out.append(f"Now playing               : {now_track_name}")
+            out.append(f"Observed (local)          : {observed_local}")
+            out.append(f"Device                    : {device_name if SHOW_DEVICE_NAME else device_type}")
+            out.append(f"Volume                    : {f'{int(volume_percent)}%' if volume_percent is not None else 'N/A'}")
+            out.append(f"Volume telemetry          : {volume_telemetry}")
+        else:
+            out.append("Live state                : INACTIVE")
         out.append("------------------------------------------------------------")
 
     if SHOW_RECENT_HISTORY:
         out.append("RECENT PLAYBACK HISTORY")
         out.append("------------------------------------------------------------")
-        for index in range(RECENT_HISTORY_LIMIT):
+        if recent_history:
+            first = recent_history[0]
+            out.append(f"Last track played         : {first.get('track', 'N/A')}")
+            out.append(f"Last played (UTC)         : {first.get('played_at_utc', 'N/A')}")
+            out.append(f"Last played (local)       : {first.get('played_at_local', 'N/A')}")
+            out.append(f"Time since last play      : {time_since_last_play}")
+        else:
+            out.append("Last track played         : N/A")
+            out.append("Last played (UTC)         : N/A")
+            out.append("Last played (local)       : N/A")
+            out.append("Time since last play      : N/A")
+        out.append("------------------------------------------------------------")
+        for index in range(1, RECENT_HISTORY_LIMIT):
             if index < len(recent_history):
                 entry = recent_history[index]
                 value = f"{entry.get('track', 'N/A')} | {entry.get('played_at_local', 'N/A')}"
             else:
                 value = "N/A"
-            out.append(f"Recent track #{index + 1:<2}          : {value}")
+            out.append(f"Previous track #{index:<2}        : {value}")
         out.append("------------------------------------------------------------")
 
     if SHOW_DEVICE_BLOCK:
-        if has_active_session:
-            display_device_type = device_type or "N/A"
-            display_device_name = device_name or "N/A"
-            display_volume = vol_str
-            display_volume_telemetry = vol_tel
-            display_volume_bar = vol_bar
-            device_state = "CURRENT"
-        else:
-            display_device_type = last_known_device_type or "N/A"
-            display_device_name = last_known_device_name or "N/A"
-            display_volume = f"{int(last_known_volume_percent)}%" if last_known_volume_percent is not None else "N/A"
-            display_volume_telemetry = last_known_volume_telemetry
-            display_volume_bar = volume_bar(int(last_known_volume_percent)) if (SHOW_VOLUME_BAR and last_known_volume_percent is not None) else "-"
-            device_state = "LAST KNOWN"
-
-        out.append("PLAYBACK DEVICE (Spotify)")
+        display_volume = (
+            f"{int(last_known_volume_percent)}%"
+            if last_known_volume_percent is not None else "N/A"
+        )
+        display_volume_bar = (
+            volume_bar(int(last_known_volume_percent))
+            if SHOW_VOLUME_BAR and last_known_volume_percent is not None
+            else "-"
+        )
+        out.append("LAST KNOWN PLAYBACK CONTEXT")
         out.append("------------------------------------------------------------")
-        out.append(f"Device state              : {device_state}")
-        out.append(f"Device type               : {display_device_type}")
+        out.append(f"Last known device type    : {last_known_device_type or 'N/A'}")
         if SHOW_DEVICE_NAME:
-            out.append(f"Device name               : {display_device_name}")
-        out.append(f"Volume                    : {display_volume}")
-        out.append(f"Volume telemetry          : {display_volume_telemetry}")
+            out.append(f"Last known device name    : {last_known_device_name or 'N/A'}")
+        out.append(f"Last known volume         : {display_volume}")
+        out.append(f"Volume telemetry          : {last_known_volume_telemetry}")
         if SHOW_VOLUME_BAR and display_volume_bar and display_volume_bar != "-":
             out.append(f"Volume bar                : {display_volume_bar}")
-        out.append("------------------------------------------------------------")
-
-    if SHOW_TRACK_BLOCK:
-        last_local = "N/A"
-        if last_played_utc:
-            dtp = parse_iso_z(last_played_utc)
-            if dtp:
-                last_local = dtp.astimezone(local_tz()).strftime("%Y-%m-%d %H:%M:%S %Z")
-        out.append("LAST PLAYBACK CONTEXT")
-        out.append("------------------------------------------------------------")
-        out.append(f"Last played               : {last_track_name}")
-        out.append(f"Last played (UTC)         : {last_played_utc or 'N/A'}")
-        out.append(f"Last played (local)       : {last_local}")
-        out.append(f"Last activity type        : {last_activity_type}")
+        out.append(f"Context observed (UTC)    : {last_known_device_captured_utc}")
         out.append("------------------------------------------------------------")
 
     if SHOW_BEHAVIOUR_ANALYTICS:
-        out.append("PLAYBACK BEHAVIOUR ANALYTICS")
+        out.append("PLAYBACK BEHAVIOUR ANALYTICS (7d history)")
         out.append("------------------------------------------------------------")
         out.append(f"Observed events           : {behaviour['observed']}")
         out.append(f"Unique tracks             : {behaviour['unique_tracks']}")
@@ -1237,7 +1346,7 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_DAYPART_ANALYTICS:
-        out.append("DAYPART DISTRIBUTION (sample)")
+        out.append("DAYPART DISTRIBUTION (7d history)")
         out.append("------------------------------------------------------------")
         for key, label in [
             ("NIGHT", "Night      00–06"),
@@ -1251,10 +1360,10 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_TEMPORAL_ANALYTICS:
-        out.append("TEMPORAL PLAYBACK ANALYSIS (sample)")
+        out.append("TEMPORAL PLAYBACK ANALYSIS (7d history)")
         out.append("------------------------------------------------------------")
-        out.append(f"Sample first play         : {utc_iso(sample_first) if sample_first else 'N/A'}")
-        out.append(f"Sample last play          : {utc_iso(sample_last) if sample_last else 'N/A'}")
+        out.append(f"History first play (7d)  : {utc_iso(sample_first) if sample_first else 'N/A'}")
+        out.append(f"History last play (7d)   : {utc_iso(sample_last) if sample_last else 'N/A'}")
         out.append(f"Observed time span        : {fmt_hms(observed_span) if observed_span is not None else 'N/A'}")
         out.append(f"Mean inter-play gap       : {fmt_hms(mean_gap) if mean_gap is not None else 'N/A'}")
         out.append(f"Median inter-play gap     : {fmt_hms(median_gap) if median_gap is not None else 'N/A'}")
@@ -1267,20 +1376,22 @@ def build_report():
         out.append("------------------------------------------------------------")
         out.append(f"Local timezone            : {LOCAL_TIMEZONE}")
         out.append(f"Peak hour (24h)           : {peak_hour(hour_hist_24h)}")
-        out.append(f"Peak hour (7d sample)     : {peak_hour(hour_hist_7d)}")
+        out.append(f"Peak hour (7d)            : {peak_hour(hour_hist_7d)}")
         out.append(f"Heatmap (24h)             : {heatmap_line(hour_hist_24h)}")
-        out.append(f"Heatmap (7d sample)       : {heatmap_line(hour_hist_7d)}")
+        out.append(f"Heatmap (7d)               : {heatmap_line(hour_hist_7d)}")
         out.append("------------------------------------------------------------")
 
     if SHOW_WEEK_ACTIVITY:
-        out.append("WEEK ACTIVITY (API sample)")
+        out.append("WEEK ACTIVITY (7d history)")
         out.append("------------------------------------------------------------")
         out.append(f"Activity (Mon→Sun)        : {heatmap_line(week_activity)}")
         out.append("Day order                 : Mon Tue Wed Thu Fri Sat Sun")
+        out.append("Activity trend (30d)      : " + heatmap_line(activity_30d))
+        out.append("Trend order               : oldest → newest")
         out.append("------------------------------------------------------------")
 
     if SHOW_WEEKLY_HOUR_MATRIX:
-        out.append("WEEKLY HOUR MATRIX (API sample)")
+        out.append("WEEKLY HOUR MATRIX (7d history)")
         out.append("------------------------------------------------------------")
         for idx, day in enumerate(["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]):
             out.append(f"{day}                       : {matrix_heatmap_row(week_matrix[idx])}")
@@ -1297,10 +1408,10 @@ def build_report():
         out.append("------------------------------------------------------------")
 
     if SHOW_WEEKLY_SUMMARY:
-        out.append("WEEKLY CADENCE SUMMARY (API sample)")
+        out.append("WEEKLY CADENCE SUMMARY")
         out.append("------------------------------------------------------------")
         out.append(f"Week window (UTC)         : {utc_iso(week_window_start)} → {now_s}")
-        out.append(f"Events observed           : {weekly_total if weekly_total is not None else 'N/A'}")
+        out.append(f"Tracks played (7d)       : {weekly_total if weekly_total is not None else 'N/A'}")
         out.append(f"Dominant artist           : {dominant_artist_week or 'N/A'}")
         out.append(f"Cadence classification    : {cadence or 'N/A'}")
         out.append("------------------------------------------------------------")
@@ -1310,7 +1421,7 @@ def build_report():
         out.append("------------------------------------------------------------")
         out.append(f"Session gap threshold     : {SESSION_GAP_MINUTES} minutes")
         out.append(f"Sessions (24h)            : {sessions_24h if sessions_24h else 'N/A'}")
-        out.append(f"Sessions (7d sample)      : {sessions_7d if sessions_7d else 'N/A'}")
+        out.append(f"Sessions (7d)             : {sessions_7d if sessions_7d else 'N/A'}")
         out.append(f"Avg inter-play gap        : {avg_session_gap_7d}")
         out.append("------------------------------------------------------------")
 
@@ -1318,7 +1429,7 @@ def build_report():
         out.append("GENRE INTEL (inferred)")
         out.append("------------------------------------------------------------")
         out.append("Top genres (24h)          : " + (" | ".join([f"{g}({c})" for g, c in genre_top_24h]) if genre_top_24h else "N/A"))
-        out.append("Top genres (7d sample)    : " + (" | ".join([f"{g}({c})" for g, c in genre_top_7d]) if genre_top_7d else "N/A"))
+        out.append("Top genres (7d)           : " + (" | ".join([f"{g}({c})" for g, c in genre_top_7d]) if genre_top_7d else "N/A"))
         out.append(f"Artist lookups (this run) : {artist_lookup_counter['n']} (cached)")
         out.append("------------------------------------------------------------")
 
@@ -1331,28 +1442,23 @@ def build_report():
         out.append(f"Telemetry interval        : {d_time}")
         out.append("------------------------------------------------------------")
 
-    if SHOW_TIME_BLOCK:
-        out.append("TEMPORAL FRESHNESS")
-        out.append("------------------------------------------------------------")
-        out.append(f"Time since last play      : {time_since_last_play}")
-        out.append(f"Telemetry age             : {telemetry_age}")
-        out.append("------------------------------------------------------------")
-
     if SHOW_DATA_COVERAGE:
-        oldest_sample_local = "N/A"
-        newest_sample_local = "N/A"
-        if sample_first:
-            oldest_sample_local = sample_first.astimezone(local_tz()).strftime("%Y-%m-%d %H:%M:%S %Z")
-        if sample_last:
-            newest_sample_local = sample_last.astimezone(local_tz()).strftime("%Y-%m-%d %H:%M:%S %Z")
-        out.append("DATA COVERAGE")
+        oldest_history_local = "N/A"
+        newest_history_local = "N/A"
+        if history_oldest_dt:
+            oldest_history_local = history_oldest_dt.astimezone(local_tz()).strftime("%Y-%m-%d %H:%M:%S %Z")
+        if history_newest_dt:
+            newest_history_local = history_newest_dt.astimezone(local_tz()).strftime("%Y-%m-%d %H:%M:%S %Z")
+        out.append("HISTORICAL DATA COVERAGE")
         out.append("------------------------------------------------------------")
-        out.append(f"Recent API sample         : {sample_capacity_used} events")
-        out.append(f"Sample capacity           : {sample_capacity_used}/{MAX_RECENT_ITEMS} ({sample_capacity_pct:.1f}%)")
-        out.append(f"Oldest sampled event      : {oldest_sample_local}")
-        out.append(f"Newest sampled event      : {newest_sample_local}")
-        out.append("Coverage mode             : SPOTIFY RECENT-PLAYBACK WINDOW")
-        out.append("7d metrics scope          : SAMPLE-BOUNDED (max 50 events)")
+        out.append(f"Events retained           : {history_total}")
+        out.append(f"Oldest retained event     : {oldest_history_local}")
+        out.append(f"Newest retained event     : {newest_history_local}")
+        out.append(f"Events (24h)              : {len(history_24h)}")
+        out.append(f"Events (7d)               : {len(history_7d)}")
+        out.append(f"Events (30d)              : {len(history_30d)}")
+        out.append("Storage mode              : PERSISTENT LOCAL JOURNAL")
+        out.append("Deduplication             : played_at + track URI")
         out.append("------------------------------------------------------------")
 
     if SHOW_API_BLOCK:
@@ -1410,11 +1516,13 @@ def build_report():
             LAST_DEVICE_NAME_STATE_KEY: last_known_device_name,
             LAST_VOLUME_STATE_KEY: last_known_volume_percent,
             LAST_VOLUME_TELEMETRY_STATE_KEY: last_known_volume_telemetry,
+            LAST_DEVICE_CAPTURED_UTC_KEY: last_known_device_captured_utc,
             HISTORICAL_SNAPSHOT_STATE_KEY: historical_snapshot,
             LAST_SUCCESSFUL_REPORT_KEY: report,
             LAST_SUCCESSFUL_REPORT_UTC_KEY: now_s,
         })
         save_state(mutable_state)
+        save_history_store(history_store)
 
     return report
 
