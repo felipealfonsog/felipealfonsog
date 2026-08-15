@@ -1529,8 +1529,8 @@ Heatmap (recent)          :               ▃▁▁█ ▁▆
 ------------------------------------------------------------
 HISTORICAL LISTENING SNAPSHOT
 ------------------------------------------------------------
-Snapshot captured (UTC)   : 2026-08-15 01:52:09Z
-Week window (UTC)         : 2026-08-08 01:52:09Z → 2026-08-15 01:52:09Z
+Snapshot captured (UTC)   : 2026-08-15 03:56:31Z
+Week window (UTC)         : 2026-08-08 03:56:31Z → 2026-08-15 03:56:31Z
 Tracks played (last 24h)  : 21
 Total tracks played (7d)  : 50
 Dominant artist (24h)     : Silverchair
@@ -1568,13 +1568,13 @@ Last played               : Silverchair — Undecided
 Last played (UTC)         : 2026-08-15 00:41:44Z
 Last activity type        : NO_ACTIVE_SESSION
 ------------------------------------------------------------
-Δ track (since last)      : Silverchair — Cicada → Silverchair — Undecided
-Δ last played (since last): 2026-08-14 21:36:23Z → 2026-08-15 00:41:44Z
+Δ track (since last)      : NO CHANGE
+Δ last played (since last): NO CHANGE
 Δ status (since last)     : NO CHANGE
 ------------------------------------------------------------
-Time since last play      : 01:10:26
-Telemetry age             : 01:10:26
-Δ time (since last report): 04:08:51
+Time since last play      : 03:14:47
+Telemetry age             : 03:14:47
+Δ time (since last report): 02:04:22
 ------------------------------------------------------------
 API response class        : 204 NO CONTENT
 API condition             : NORMAL
@@ -1593,7 +1593,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-08 01:52:09Z → 2026-08-15 01:52:09Z
+Week window (UTC)         : 2026-08-08 03:56:31Z → 2026-08-15 03:56:31Z
 Total tracks played       : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1631,7 +1631,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-15 01:52:09Z
+Report generated (UTC)    : 2026-08-15 03:56:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
