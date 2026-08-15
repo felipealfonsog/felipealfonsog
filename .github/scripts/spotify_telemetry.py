@@ -33,6 +33,7 @@ SHOW_API_BLOCK            = True
 SHOW_INTEGRITY_BLOCK      = True
 SHOW_DAILY_SITREP         = True
 SHOW_WEEKLY_SUMMARY       = True
+SHOW_PLAYLIST_HISTORY      = True
 
 # Historical snapshot remains persisted internally for fail-safe continuity,
 # but is intentionally not rendered because it duplicated several blocks.
@@ -69,6 +70,9 @@ MAX_ARTIST_LOOKUPS        = 80
 
 # Cantidad de canciones recientes mostradas/guardadas (1-50)
 RECENT_HISTORY_LIMIT      = 41
+
+# Cantidad de playlists recientes (cambios de contexto) mostradas
+PLAYLIST_HISTORY_LIMIT    = 10
 
 # ---- ASCII/Unicode visual analytics ----
 ANALYTICS_BAR_WIDTH       = 18
@@ -108,6 +112,7 @@ LAST_VOLUME_TELEMETRY_STATE_KEY = "last_known_volume_telemetry"
 HISTORICAL_SNAPSHOT_STATE_KEY = "historical_listening_snapshot"
 LAST_DEVICE_CAPTURED_UTC_KEY = "last_known_device_captured_utc"
 HISTORY_SCHEMA_VERSION = 1
+PLAYLIST_CACHE_KEY = "playlist_cache"
 
 # =============================================================================
 # Helpers
@@ -208,6 +213,7 @@ def load_history_store():
     obj.setdefault("updated_utc", None)
     obj.setdefault("events", [])
     obj.setdefault("playback_context", [])
+    obj.setdefault(PLAYLIST_CACHE_KEY, {})
     return obj
 
 
@@ -576,6 +582,109 @@ def fetch_recently_played(token: str, limit: int = 50):
     return code, payload
 
 
+def spotify_id_from_uri(uri: str, expected_type: str | None = None):
+    parts = (uri or "").split(":")
+    if len(parts) != 3 or parts[0] != "spotify":
+        return None
+    if expected_type and parts[1] != expected_type:
+        return None
+    return parts[2] or None
+
+
+def fetch_playlist_metadata(token: str, playlist_id: str):
+    if not playlist_id:
+        return None
+    url = f"https://api.spotify.com/v1/playlists/{playlist_id}?fields=id,name,uri,external_urls"
+    try:
+        code, _, payload = http_json(
+            url,
+            headers={"Authorization": f"Bearer {token}"},
+            timeout=20,
+        )
+    except Exception:
+        return None
+    if code != 200 or not isinstance(payload, dict):
+        return None
+    return {
+        "id": payload.get("id") or playlist_id,
+        "name": payload.get("name") or "",
+        "uri": payload.get("uri") or f"spotify:playlist:{playlist_id}",
+        "url": (payload.get("external_urls") or {}).get("spotify") or "",
+    }
+
+
+def resolve_playlist_context(token: str, context: dict | None, history_store: dict):
+    if not isinstance(context, dict) or context.get("type") != "playlist":
+        return None
+
+    uri = context.get("uri") or ""
+    playlist_id = spotify_id_from_uri(uri, "playlist")
+    if not playlist_id:
+        href = context.get("href") or ""
+        if "/playlists/" in href:
+            playlist_id = href.rstrip("/").split("/")[-1].split("?")[0]
+
+    cache = history_store.setdefault(PLAYLIST_CACHE_KEY, {})
+    cached = cache.get(playlist_id) if playlist_id else None
+    if isinstance(cached, dict) and cached.get("name"):
+        return {
+            "context_type": "playlist",
+            "playlist_id": cached.get("id") or playlist_id,
+            "playlist_name": cached.get("name") or "N/A",
+            "playlist_uri": cached.get("uri") or uri,
+            "playlist_url": cached.get("url") or (context.get("external_urls") or {}).get("spotify") or "",
+        }
+
+    meta = fetch_playlist_metadata(token, playlist_id) if playlist_id else None
+    if meta:
+        cache[playlist_id] = meta
+        return {
+            "context_type": "playlist",
+            "playlist_id": meta.get("id") or playlist_id,
+            "playlist_name": meta.get("name") or "N/A",
+            "playlist_uri": meta.get("uri") or uri,
+            "playlist_url": meta.get("url") or (context.get("external_urls") or {}).get("spotify") or "",
+        }
+
+    # Preserve the context even when Spotify does not expose the playlist
+    # metadata to this app/user. This avoids inventing a playlist name.
+    return {
+        "context_type": "playlist",
+        "playlist_id": playlist_id or "",
+        "playlist_name": "N/A",
+        "playlist_uri": uri,
+        "playlist_url": (context.get("external_urls") or {}).get("spotify") or "",
+    }
+
+
+def playlist_history_from_events(events: list[dict], limit: int = PLAYLIST_HISTORY_LIMIT):
+    result = []
+    previous_key = None
+    for entry in events:
+        if entry.get("context_type") != "playlist":
+            continue
+        key = entry.get("playlist_id") or entry.get("playlist_uri") or entry.get("playlist_name")
+        if not key:
+            continue
+        # One playlist may generate many consecutive track events. Treat that
+        # sequence as one historical playlist context instead of repeating it.
+        if key == previous_key:
+            continue
+        previous_key = key
+        result.append({
+            "name": entry.get("playlist_name") or "N/A",
+            "id": entry.get("playlist_id") or "",
+            "uri": entry.get("playlist_uri") or "",
+            "url": entry.get("playlist_url") or "",
+            "observed_utc": entry.get("played_at_utc") or "N/A",
+            "observed_local": entry.get("played_at_local") or "N/A",
+            "track": entry.get("track") or "N/A",
+        })
+        if len(result) >= limit:
+            break
+    return result
+
+
 def parse_track_item(track_obj: dict):
     if not track_obj:
         return None
@@ -740,7 +849,7 @@ def daypart_distribution(dts: list[datetime]):
     return counts, pct, dominant
 
 
-def recent_history_from_payload(payload: dict, limit: int = RECENT_HISTORY_LIMIT):
+def recent_history_from_payload(payload: dict, limit: int = RECENT_HISTORY_LIMIT, token: str | None = None, history_store: dict | None = None):
     history = []
     if not isinstance(payload, dict):
         return history
@@ -753,7 +862,7 @@ def recent_history_from_payload(payload: dict, limit: int = RECENT_HISTORY_LIMIT
             continue
 
         local_dt = played_dt.astimezone(local_tz())
-        history.append({
+        entry = {
             "track": f"{track['artist']} — {track['title']}",
             "artist": track["artist"],
             "title": track["title"],
@@ -765,7 +874,19 @@ def recent_history_from_payload(payload: dict, limit: int = RECENT_HISTORY_LIMIT
             "played_at_local": local_dt.strftime("%Y-%m-%d %H:%M:%S %Z"),
             "local_hour": local_dt.hour,
             "weekday": local_dt.weekday(),
-        })
+        }
+
+        context = item.get("context") if isinstance(item, dict) else None
+        if isinstance(context, dict):
+            entry["context_type"] = context.get("type") or ""
+            entry["context_uri"] = context.get("uri") or ""
+            entry["context_url"] = (context.get("external_urls") or {}).get("spotify") or ""
+            if token and history_store and context.get("type") == "playlist":
+                playlist = resolve_playlist_context(token, context, history_store)
+                if playlist:
+                    entry.update(playlist)
+
+        history.append(entry)
         if len(history) >= limit:
             break
 
@@ -1054,11 +1175,17 @@ def build_report():
     # -------------------------------------------------------------------------
     history_store = load_history_store()
     api_history = (
-        recent_history_from_payload(recent_payload, MAX_RECENT_ITEMS)
+        recent_history_from_payload(
+            recent_payload,
+            MAX_RECENT_ITEMS,
+            token=token,
+            history_store=history_store,
+        )
         if recent_ok else []
     )
     all_history = merge_history_events(history_store, api_history, now_s)
     recent_history = all_history[:RECENT_HISTORY_LIMIT]
+    playlist_history = playlist_history_from_events(all_history, PLAYLIST_HISTORY_LIMIT)
 
     # Keep a lightweight history of observed player/device contexts. Spotify
     # does not provide per-track historical device/volume information.
@@ -1397,6 +1524,30 @@ def build_report():
             out.append(f"Previous track #{index:<2}        : {value}")
         out.append("------------------------------------------------------------")
 
+    if SHOW_PLAYLIST_HISTORY:
+        out.append("LAST KNOWN PLAYLISTS")
+        out.append("------------------------------------------------------------")
+        if playlist_history:
+            latest_playlist = playlist_history[0]
+            out.append(f"Last playlist             : {latest_playlist.get('name', 'N/A')}")
+            out.append(f"Context observed (local)  : {latest_playlist.get('observed_local', 'N/A')}")
+            out.append(f"Track observed in context : {latest_playlist.get('track', 'N/A')}")
+            if latest_playlist.get("uri"):
+                out.append(f"Spotify playlist URI      : {latest_playlist.get('uri')}")
+            if latest_playlist.get("url"):
+                out.append(f"Spotify playlist URL      : {latest_playlist.get('url')}")
+            out.append("------------------------------------------------------------")
+            for index, playlist in enumerate(playlist_history[1:], start=1):
+                value = (
+                    f"{playlist.get('name', 'N/A')} | "
+                    f"{playlist.get('observed_local', 'N/A')}"
+                )
+                out.append(f"Previous playlist #{index:<2}     : {value}")
+        else:
+            out.append("Last playlist             : N/A")
+            out.append("Historical context        : No playlist context retained yet")
+        out.append("------------------------------------------------------------")
+
     if SHOW_DEVICE_BLOCK:
         display_volume = (
             f"{int(last_known_volume_percent)}%"
@@ -1549,6 +1700,7 @@ def build_report():
         out.append(f"Events (24h)              : {len(history_24h)}")
         out.append(f"Events (7d)               : {len(history_7d)}")
         out.append(f"Events (30d)              : {len(history_30d)}")
+        out.append(f"Playlist contexts retained: {sum(1 for e in all_history if e.get('context_type') == 'playlist')}")
         out.append("Storage mode              : PERSISTENT LOCAL JOURNAL")
         out.append("Deduplication             : played_at + track URI")
         out.append("------------------------------------------------------------")
