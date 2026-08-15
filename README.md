@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-15 10:55:33Z
 Played at (local)         : 2026-08-15 06:55:33 -04
 Local hour                : 06:00
 Daypart                   : MORNING
-Time since play           : 03:47:30
+Time since play           : 05:49:59
 Gap from previous play    : 01:21:20
 ------------------------------------------------------------
 Previous song             : All Them Witches — Aethernet
@@ -1635,7 +1635,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-08 14:43:02Z → 2026-08-15 14:43:02Z
+Week window (UTC)         : 2026-08-08 16:45:32Z → 2026-08-15 16:45:32Z
 Tracks played (7d)        : 61
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1658,7 +1658,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:40:31
+Telemetry interval        : 02:02:30
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-15 14:43:02Z
+Report generated (UTC)    : 2026-08-15 16:45:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
