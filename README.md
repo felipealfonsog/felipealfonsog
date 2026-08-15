@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-15 10:55:33Z
 Played at (local)         : 2026-08-15 06:55:33 -04
 Local hour                : 06:00
 Daypart                   : MORNING
-Time since play           : 02:07:00
+Time since play           : 03:47:30
 Gap from previous play    : 01:21:20
 ------------------------------------------------------------
 Previous song             : All Them Witches — Aethernet
@@ -1635,7 +1635,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-08 13:02:32Z → 2026-08-15 13:02:32Z
+Week window (UTC)         : 2026-08-08 14:43:02Z → 2026-08-15 14:43:02Z
 Tracks played (7d)        : 61
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1655,10 +1655,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : All Them Witches — Aethernet → All Them Witches — Hold Up, Say What?
-Playback timestamp Δ      : 2026-08-15 09:34:13Z → 2026-08-15 10:55:33Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 02:19:00
+Telemetry interval        : 01:40:31
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-15 13:02:32Z
+Report generated (UTC)    : 2026-08-15 14:43:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
