@@ -1,11 +1,12 @@
 name: Spotify Telemetry (CLI feed)
-# v2.9
+# v3.0
 
 on:
   workflow_dispatch:
   schedule:
-    # Cada 3 horas, minuto 23 — 8 ejecuciones diarias
-    - cron: "23 */3 * * *"
+    # Cada 2 horas, minuto 23 — 12 ejecuciones diarias
+    # Optimizado para captura y persistencia de telemetría histórica
+    - cron: "23 */2 * * *"
 
 permissions:
   contents: write
@@ -50,8 +51,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # README telemetry + persistent telemetry state/history
           git add README.md
           git add .github/state/spotify_last_report.json 2>/dev/null || true
+          git add .github/state/spotify_listening_history.json 2>/dev/null || true
 
           if git diff --cached --quiet; then
             echo "Nothing staged."
@@ -61,8 +64,9 @@ jobs:
           git commit -m "chore: update Spotify telemetry (CLI feed)"
           git push
 
-      - name: Upload Spotify debug
-        if: always()
+      # Debug artifact is only retained when the workflow fails.
+      - name: Upload Spotify debug on failure
+        if: failure()
         uses: actions/upload-artifact@v4
         with:
           name: spotify-debug
