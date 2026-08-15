@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-15 08:15:13Z
 Played at (local)         : 2026-08-15 04:15:13 -04
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 00:09:16
+Time since play           : 00:22:31
 Gap from previous play    : 00:05:21
 ------------------------------------------------------------
 Previous song             : All Them Witches — Everest - Live
@@ -1550,6 +1550,16 @@ Previous track #37        : Silverchair — Shade | 2026-08-14 15:34:55 -04
 Previous track #38        : Silverchair — Leave Me Out | 2026-08-13 14:42:42 -04
 Previous track #39        : Silverchair — Shade | 2026-08-13 14:31:15 -04
 Previous track #40        : Silverchair — Shade | 2026-08-13 14:23:51 -04
+------------------------------------------------------------
+LAST KNOWN PLAYLISTS
+------------------------------------------------------------
+Last playlist             : N/A
+Context observed (local)  : 2026-08-13 14:15:12 -04
+Track observed in context : Silverchair — Without You
+Spotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO2vS1wY
+Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vS1wY
+------------------------------------------------------------
+Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1625,7 +1635,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-08 08:24:28Z → 2026-08-15 08:24:28Z
+Week window (UTC)         : 2026-08-08 08:37:44Z → 2026-08-15 08:37:44Z
 Tracks played (7d)        : 50
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1647,8 +1657,8 @@ CHANGE TELEMETRY
 ------------------------------------------------------------
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
-State transition          : NO CHANGE
-Telemetry interval        : 00:03:02
+State transition          : PLAYING → IDLE
+Telemetry interval        : 00:13:16
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1658,15 +1668,16 @@ Newest retained event     : 2026-08-15 04:15:13 -04
 Events (24h)              : 38
 Events (7d)               : 50
 Events (30d)              : 50
+Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1685,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-15 08:24:28Z
+Report generated (UTC)    : 2026-08-15 08:37:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
