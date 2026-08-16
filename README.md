@@ -1487,69 +1487,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : All Them Witches — Hold Up, Say What?
+Track                     : All Them Witches — Turn On The Light
 Artist                    : All Them Witches
-Title                     : Hold Up, Say What?
+Title                     : Turn On The Light
 Album                     : House Of Mirrors
-Spotify URI               : spotify:track:3mCRtyxGMEYV2IHywJZGdd
-Spotify URL               : https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd
+Spotify URI               : spotify:track:30KvzNMHttB23DqYkbQmj4
+Spotify URL               : https://open.spotify.com/track/30KvzNMHttB23DqYkbQmj4
 ------------------------------------------------------------
-Played at (UTC)           : 2026-08-15 10:55:33Z
-Played at (local)         : 2026-08-15 06:55:33 -04
-Local hour                : 06:00
-Daypart                   : MORNING
-Time since play           : 17:57:50
-Gap from previous play    : 01:21:20
+Played at (UTC)           : 2026-08-16 06:10:36Z
+Played at (local)         : 2026-08-16 02:10:36 -04
+Local hour                : 02:00
+Daypart                   : NIGHT
+Time since play           : 00:53:51
+Gap from previous play    : 00:04:29
 ------------------------------------------------------------
-Previous song             : All Them Witches — Aethernet
+Previous song             : All Them Witches — Starting Line
 Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 18
+Artist plays (retained)   : 31
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04
-Previous track #2         : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04
-Previous track #3         : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04
-Previous track #4         : All Them Witches — Red Rocking Chair | 2026-08-15 05:18:22 -04
-Previous track #5         : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04
-Previous track #6         : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04
-Previous track #7         : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04
-Previous track #8         : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04
-Previous track #9         : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04
-Previous track #10        : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04
-Previous track #11        : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04
-Previous track #12        : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04
-Previous track #13        : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04
-Previous track #14        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04
-Previous track #15        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04
-Previous track #16        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04
-Previous track #17        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04
-Previous track #18        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04
-Previous track #19        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04
-Previous track #20        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04
-Previous track #21        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04
-Previous track #22        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04
-Previous track #23        : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04
-Previous track #24        : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04
-Previous track #25        : Silverchair — Madman | 2026-08-15 02:36:50 -04
-Previous track #26        : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04
-Previous track #27        : Silverchair — Cicada | 2026-08-15 02:30:48 -04
-Previous track #28        : Silverchair — Undecided | 2026-08-14 20:41:44 -04
-Previous track #29        : Silverchair — Madman | 2026-08-14 20:37:07 -04
-Previous track #30        : Silverchair — Suicidal Dream | 2026-08-14 20:34:24 -04
-Previous track #31        : Silverchair — Leave Me Out | 2026-08-14 20:31:11 -04
-Previous track #32        : Silverchair — Shade | 2026-08-14 20:28:08 -04
-Previous track #33        : Silverchair — Pure Massacre | 2026-08-14 20:24:06 -04
-Previous track #34        : Silverchair — Tomorrow | 2026-08-14 20:08:57 -04
-Previous track #35        : Silverchair — Israel's Son | 2026-08-14 20:04:30 -04
-Previous track #36        : Silverchair — Israel's Son | 2026-08-14 19:57:55 -04
-Previous track #37        : Silverchair — Findaway | 2026-08-14 17:44:39 -04
-Previous track #38        : Silverchair — Cicada | 2026-08-14 17:36:23 -04
-Previous track #39        : Silverchair — Undecided | 2026-08-14 17:31:08 -04
-Previous track #40        : Silverchair — Madman | 2026-08-14 17:26:31 -04
+Previous track #1         : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04
+Previous track #2         : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04
+Previous track #3         : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04
+Previous track #4         : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04
+Previous track #5         : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04
+Previous track #6         : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04
+Previous track #7         : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04
+Previous track #8         : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04
+Previous track #9         : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04
+Previous track #10        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04
+Previous track #11        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04
+Previous track #12        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04
+Previous track #13        : All Them Witches — Hold Up, Say What? | 2026-08-15 06:55:33 -04
+Previous track #14        : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04
+Previous track #15        : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04
+Previous track #16        : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04
+Previous track #17        : All Them Witches — Red Rocking Chair | 2026-08-15 05:18:22 -04
+Previous track #18        : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04
+Previous track #19        : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04
+Previous track #20        : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04
+Previous track #21        : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04
+Previous track #22        : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04
+Previous track #23        : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04
+Previous track #24        : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04
+Previous track #25        : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04
+Previous track #26        : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04
+Previous track #27        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04
+Previous track #28        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04
+Previous track #29        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04
+Previous track #30        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04
+Previous track #31        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04
+Previous track #32        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04
+Previous track #33        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04
+Previous track #34        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04
+Previous track #35        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04
+Previous track #36        : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04
+Previous track #37        : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04
+Previous track #38        : Silverchair — Madman | 2026-08-15 02:36:50 -04
+Previous track #39        : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04
+Previous track #40        : Silverchair — Cicada | 2026-08-15 02:30:48 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1572,47 +1572,47 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 61
-Unique tracks             : 35
+Observed events           : 74
+Unique tracks             : 38
 Unique artists            : 9
-Replay ratio              : ████████░░░░░░░░░░  42.6%
-Artist diversity          : ███░░░░░░░░░░░░░░░  14.8%
+Replay ratio              : █████████░░░░░░░░░  48.6%
+Artist diversity          : ██░░░░░░░░░░░░░░░░  12.2%
 Dominant artist           : Silverchair
-Dominant artist share     : ██████████░░░░░░░░  54.1%
-Artist switch ratio       : ███░░░░░░░░░░░░░░░  16.7%
+Dominant artist share     : ████████░░░░░░░░░░  44.6%
+Artist switch ratio       : ██░░░░░░░░░░░░░░░░  13.7%
 Longest artist streak     : Silverchair × 32
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ████████░░░░░░░░░░   44.3%
-Morning    06–12           : █░░░░░░░░░░░░░░░░░    3.3%
-Afternoon  12–18           : ███████░░░░░░░░░░░   37.7%
-Evening    18–24           : ███░░░░░░░░░░░░░░░   14.8%
+Night      00–06           : ██████████░░░░░░░░   54.1%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.7%
+Afternoon  12–18           : ██████░░░░░░░░░░░░   31.1%
+Evening    18–24           : ██░░░░░░░░░░░░░░░░   12.2%
 Dominant period           : NIGHT
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-08-13 15:54:14Z
-History last play (7d)    : 2026-08-15 10:55:33Z
-Observed time span        : 43:01:19
-Mean inter-play gap       : 00:43:01
-Median inter-play gap     : 00:05:34
+History last play (7d)    : 2026-08-16 06:10:36Z
+Observed time span        : 62:16:22
+Mean inter-play gap       : 00:51:11
+Median inter-play gap     : 00:05:06
 Longest inactivity gap    : 24:52:13
-Listening intensity       : 1.42 tracks/hour
+Listening intensity       : 1.19 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
-Peak hour (7d)            : 17:00
-Heatmap (24h)             :   ▄█▄█▁                 
-Heatmap (7d)              :   ▃▇▄▇▁    ▁▄▁▄▁▁█ ▁▆   
+Peak hour (24h)           : 01:00
+Peak hour (7d)            : 01:00
+Heatmap (24h)             :  █▂▆▄▇▁                 
+Heatmap (7d)              :  █▆▇▄▇▁    ▁▄▁▄▁▁█ ▁▆   
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :    ▃▆█ 
+Activity (Mon→Sun)        :    ▃▆█▄
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :                           ▃▆█ 
+Activity trend (30d)      :                           ▃▆█▄
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1623,51 +1623,51 @@ Wed                       :
 Thu                       :            ▂█▂█         
 Fri                       :                ▁▁█ ▁▆   
 Sat                       :   ▄█▄█▁                 
-Sun                       :                         
+Sun                       :  █▂                     
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 28
+Tracks played (last 24h)  : 36
 Dominant artist           : All Them Witches
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-09 04:53:22Z → 2026-08-16 04:53:22Z
-Tracks played (7d)        : 61
+Week window (UTC)         : 2026-08-09 07:04:26Z → 2026-08-16 07:04:26Z
+Tracks played (7d)        : 74
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 8
-Avg inter-play gap        : 00:43:01
+Sessions (24h)            : 4
+Sessions (7d)             : 9
+Avg inter-play gap        : 00:51:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : space rock(20) | sludge metal(19) | stoner metal(19) | stoner rock(19) | blues rock(18) | neo-psychedelic(18)
-Top genres (7d)           : grunge(34) | post-grunge(34) | space rock(20) | sludge metal(19) | stoner metal(19) | stoner rock(19)
+Top genres (24h)          : space rock(33) | sludge metal(32) | stoner metal(32) | stoner rock(32) | blues rock(31) | neo-psychedelic(31)
+Top genres (7d)           : grunge(34) | post-grunge(34) | space rock(33) | sludge metal(32) | stoner metal(32) | stoner rock(32)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : All Them Witches — Hold Up, Say What? → All Them Witches — Turn On The Light
+Playback timestamp Δ      : 2026-08-15 10:55:33Z → 2026-08-16 06:10:36Z
 State transition          : NO CHANGE
-Telemetry interval        : 01:37:37
+Telemetry interval        : 02:11:05
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 61
+Events retained           : 74
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-08-15 06:55:33 -04
-Events (24h)              : 28
-Events (7d)               : 61
-Events (30d)              : 61
+Newest retained event     : 2026-08-16 02:10:36 -04
+Events (24h)              : 36
+Events (7d)               : 74
+Events (30d)              : 74
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-16 04:53:22Z
+Report generated (UTC)    : 2026-08-16 07:04:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

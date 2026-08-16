@@ -1,8 +1,242 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-16 04:53:22Z",
+  "updated_utc": "2026-08-16 07:04:26Z",
   "events": [
+    {
+      "track": "All Them Witches — Turn On The Light",
+      "artist": "All Them Witches",
+      "title": "Turn On The Light",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:30KvzNMHttB23DqYkbQmj4",
+      "url": "https://open.spotify.com/track/30KvzNMHttB23DqYkbQmj4",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 06:10:36Z",
+      "played_at_local": "2026-08-16 02:10:36 -04",
+      "local_hour": 2,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Starting Line",
+      "artist": "All Them Witches",
+      "title": "Starting Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:1ttPBlJzyj2eHSuLqzrs5F",
+      "url": "https://open.spotify.com/track/1ttPBlJzyj2eHSuLqzrs5F",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 06:06:07Z",
+      "played_at_local": "2026-08-16 02:06:07 -04",
+      "local_hour": 2,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Go-getter",
+      "artist": "All Them Witches",
+      "title": "Go-getter",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:11FcqPgzMR4MPkjZuO99rJ",
+      "url": "https://open.spotify.com/track/11FcqPgzMR4MPkjZuO99rJ",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 06:02:16Z",
+      "played_at_local": "2026-08-16 02:02:16 -04",
+      "local_hour": 2,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Hold Up, Say What?",
+      "artist": "All Them Witches",
+      "title": "Hold Up, Say What?",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:3mCRtyxGMEYV2IHywJZGdd",
+      "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:59:42Z",
+      "played_at_local": "2026-08-16 01:59:42 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Aethernet",
+      "artist": "All Them Witches",
+      "title": "Aethernet",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:6CLkdeLmJx2BuVQsnO6vCW",
+      "url": "https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:55:37Z",
+      "played_at_local": "2026-08-16 01:55:37 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Culling Line",
+      "artist": "All Them Witches",
+      "title": "Culling Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
+      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:50:39Z",
+      "played_at_local": "2026-08-16 01:50:39 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:46:35Z",
+      "played_at_local": "2026-08-16 01:46:35 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Starting Line",
+      "artist": "All Them Witches",
+      "title": "Starting Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:1ttPBlJzyj2eHSuLqzrs5F",
+      "url": "https://open.spotify.com/track/1ttPBlJzyj2eHSuLqzrs5F",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:39:54Z",
+      "played_at_local": "2026-08-16 01:39:54 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Go-getter",
+      "artist": "All Them Witches",
+      "title": "Go-getter",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:11FcqPgzMR4MPkjZuO99rJ",
+      "url": "https://open.spotify.com/track/11FcqPgzMR4MPkjZuO99rJ",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:36:02Z",
+      "played_at_local": "2026-08-16 01:36:02 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Hold Up, Say What?",
+      "artist": "All Them Witches",
+      "title": "Hold Up, Say What?",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:3mCRtyxGMEYV2IHywJZGdd",
+      "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:33:28Z",
+      "played_at_local": "2026-08-16 01:33:28 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Aethernet",
+      "artist": "All Them Witches",
+      "title": "Aethernet",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:6CLkdeLmJx2BuVQsnO6vCW",
+      "url": "https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:29:24Z",
+      "played_at_local": "2026-08-16 01:29:24 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Culling Line",
+      "artist": "All Them Witches",
+      "title": "Culling Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
+      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:24:25Z",
+      "played_at_local": "2026-08-16 01:24:25 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-16 05:20:21Z",
+      "played_at_local": "2026-08-16 01:20:21 -04",
+      "local_hour": 1,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "All Them Witches — Hold Up, Say What?",
       "artist": "All Them Witches",
