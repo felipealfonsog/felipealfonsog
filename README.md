@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-15 10:55:33Z
 Played at (local)         : 2026-08-15 06:55:33 -04
 Local hour                : 06:00
 Daypart                   : MORNING
-Time since play           : 16:20:13
+Time since play           : 17:57:50
 Gap from previous play    : 01:21:20
 ------------------------------------------------------------
 Previous song             : All Them Witches — Aethernet
@@ -1612,7 +1612,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :    ▃▆█ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :                            ▃▆█
+Activity trend (30d)      :                           ▃▆█ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1635,7 +1635,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-09 03:15:46Z → 2026-08-16 03:15:46Z
+Week window (UTC)         : 2026-08-09 04:53:22Z → 2026-08-16 04:53:22Z
 Tracks played (7d)        : 61
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1658,7 +1658,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:15:37
+Telemetry interval        : 01:37:37
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-16 03:15:46Z
+Report generated (UTC)    : 2026-08-16 04:53:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
