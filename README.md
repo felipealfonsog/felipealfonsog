@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-16 06:10:36Z
 Played at (local)         : 2026-08-16 02:10:36 -04
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 22:51:42
+Time since play           : 25:16:32
 Gap from previous play    : 00:04:29
 ------------------------------------------------------------
 Previous song             : All Them Witches — Starting Line
@@ -1603,9 +1603,9 @@ Listening intensity       : 1.19 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :  █▂                     
+Heatmap (24h)             : N/A
 Heatmap (7d)              :  █▆▇▄▇▁    ▁▄▁▄▁▁█ ▁▆   
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1628,14 +1628,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 13
-Dominant artist           : All Them Witches
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-10 05:02:17Z → 2026-08-17 05:02:17Z
+Week window (UTC)         : 2026-08-10 07:27:08Z → 2026-08-17 07:27:08Z
 Tracks played (7d)        : 74
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1643,13 +1643,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 9
 Avg inter-play gap        : 00:51:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : blues rock(13) | neo-psychedelic(13) | psychedelic rock(13) | sludge metal(13) | space rock(13) | stoner metal(13)
+Top genres (24h)          : N/A
 Top genres (7d)           : grunge(34) | post-grunge(34) | space rock(33) | sludge metal(32) | stoner metal(32) | stoner rock(32)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1658,14 +1658,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:46:28
+Telemetry interval        : 02:24:51
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 74
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-16 02:10:36 -04
-Events (24h)              : 13
+Events (24h)              : 0
 Events (7d)               : 74
 Events (30d)              : 74
 Playlist contexts retained: 9
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-17 05:02:17Z
+Report generated (UTC)    : 2026-08-17 07:27:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
