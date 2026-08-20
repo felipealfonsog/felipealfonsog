@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-08-19_0143Z
+ snapshot_utc : 2026-08-20_0142Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -532,39 +532,39 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-08-18T18:51:28+00:00 | last_update=2026-08-18T18:51:28+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-08-19T18:48:25+00:00 | last_update=2026-08-19T18:48:25+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
-01. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
-02. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
-03. Del inconveniente de haber nacido — Emil M. Cioran
-04. El ser y el tiempo — Martin Heidegger
-05. Critique of Pure Reason — Immanuel Kant
-06. Libro del desasosiego — Fernando Pessoa
-07. Las partículas elementales — Michel Houellebecq
-08. Casos reales — Yasmina Reza
-09. Pensamientos (Spanish Edition) — Blaise Pascal
-10. Silogismos da amargura (Portuguese Edition) — Emil M. Cioran
-11. Gulliver's Travels — Jonathan Swift
-12. El mundo como voluntad y representación (Vol. 1) (Spanish Edition) — Arthur Schopenhauer
-13. Ética a Nicómaco — Aristotle
-14. El mito de Sísifo — Albert Camus
-15. Sobre la Brevedad de la Vida - Sobre la Felicidad: Séneca (Colección Filosofia) (Spanish Edition) — Seneca
-16. SOBRE LA BREVEDAD DE LA VIDA (Spanish Edition) — Lucio Séneca
-17. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
-18. Human, All Too Human — Friedrich Nietzsche
-19. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
-20. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
-21. An Introduction to Zen Buddhism — D.T. Suzuki
-22. Shobogenzo "Zazengi"- English edition — dogen kigen
-23. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
-24. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
-25. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
-26. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
-27. The Autobiography of a Yogi — Paramahansa Yogananda
-28. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
-29. Leviathan — Thomas Hobbes
-30. Aferrada a mi balsa — Gladys Díaz Armijo
+01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
+02. Seneca's Letters from a Stoic — Seneca
+03. Jaime Galté: El más grande médium de nuestra historia...maestro espiritual más allá del tiempo (Spanish Edition) — Sergio Salinas Cañas
+04. The Conspiracy Against the Human Race: A Contrivance of Horror — Thomas Ligotti
+05. Del inconveniente de haber nacido — Emil M. Cioran
+06. El ser y el tiempo — Martin Heidegger
+07. Critique of Pure Reason — Immanuel Kant
+08. Libro del desasosiego — Fernando Pessoa
+09. Las partículas elementales — Michel Houellebecq
+10. Casos reales — Yasmina Reza
+11. Pensamientos (Spanish Edition) — Blaise Pascal
+12. Silogismos da amargura (Portuguese Edition) — Emil M. Cioran
+13. Gulliver's Travels — Jonathan Swift
+14. El mundo como voluntad y representación (Vol. 1) (Spanish Edition) — Arthur Schopenhauer
+15. Ética a Nicómaco — Aristotle
+16. El mito de Sísifo — Albert Camus
+17. Sobre la Brevedad de la Vida - Sobre la Felicidad: Séneca (Colección Filosofia) (Spanish Edition) — Seneca
+18. SOBRE LA BREVEDAD DE LA VIDA (Spanish Edition) — Lucio Séneca
+19. Más allá del bien y del mal: Edición enriquecida. (Spanish Edition) — Friedrich Nietzsche
+20. Human, All Too Human — Friedrich Nietzsche
+21. La Ética a Nicómaco de Aristóteles — Vicente Hernández Pedrero
+22. Sobre la brevedad de la vida, el ocio y la felicidad — Seneca
+23. An Introduction to Zen Buddhism — D.T. Suzuki
+24. Shobogenzo "Zazengi"- English edition — dogen kigen
+25. Zen Essentials: Exploring Rinzai and Soto Traditions: 2 Books in One: Rinzai Zen for Beginners: Mindfulness, Koans, and the Art of Simplicity, Soto Zen for Beginners: Timeless Teachings for Modern... — Jeri Takimoto
+26. The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics, and Eastern Mystics All Agree We Are in a Video Game — Rizwan Virk
+27. The Simulated Multiverse: An MIT Computer Scientist Explores Parallel Universes, The Simulation Hypothesis, Quantum Computing and the Mandela Effect — Rizwan Virk
+28. Lectura rápida: Cómo leer un libro al día con más retención que nunca — Peter Hollins
+29. The Autobiography of a Yogi — Paramahansa Yogananda
+30. PAYBACK: A CIA Assassin Thriller of Betrayal and Revenge (COREY PEARSON- CIA SPYMASTER SERIES 3) — Robert Morton
 
 [want_to_read] shelf=to-read books=30 limit=30
 01. The Stranger — Albert Camus
@@ -702,13 +702,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. DEGRADED
 HTTP................ 403 Forbidden
-LATENCY............. 113 ms
-TTFB................ 112 ms
+LATENCY............. 151 ms
+TTFB................ 150 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 75d
+TLS_EXPIRY.......... 74d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -721,9 +721,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PASS
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -737,7 +737,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-08-18T03:50:46Z
+LAST_PROBE_UTC...... 2026-08-19T03:51:28Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -778,18 +778,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : residential_sector
-latitude       : -33.441426
-longitude      : -70.653667
-altitude       : 59 m
-gps_accuracy   : ±6.2 m
-heading        : 304°
-speed          : 5.0 km/h
-status         : in_transit
+latitude       : -33.442106
+longitude      : -70.654380
+altitude       : 108 m
+gps_accuracy   : ±8.6 m
+heading        : 152°
+speed          : 2.7 km/h
+status         : walking
 phase          : evening
 local_time     : 20:39
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-08-19 00:39:25 UTC
+updated_utc    : 2026-08-20 00:39:24 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -908,7 +908,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-08-18 18:59:40Z
+DSN snapshot (UTC)       : 2026-08-19 18:56:01Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -919,15 +919,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.61e9 km | 171.198 AU
-Heliocentric distance    : 171.496 AU
-Relative speed           : 43.423 km/s
+Earth distance           : 25.61e9 km | 171.221 AU
+Heliocentric distance    : 171.506 AU
+Relative speed           : 43.492 km/s
 ------------------------------------------------------------
-One-way light time       : 23:43:49
-Round-trip latency       : 47:27:37
+One-way light time       : 23:44:00
+Round-trip latency       : 47:28:00
 ------------------------------------------------------------
-Δ distance (since last)  : +823,034 km
-Mission age              : 48 years, 359 days
+Δ distance (since last)  : +816,516 km
+Mission age              : 48 years, 360 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -938,19 +938,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.40e9 km | 143.061 AU
-Heliocentric distance    : 143.710 AU
-Relative speed           : 37.654 km/s
+Earth distance           : 21.40e9 km | 143.078 AU
+Heliocentric distance    : 143.719 AU
+Relative speed           : 37.772 km/s
 ------------------------------------------------------------
-One-way light time       : 19:49:48
-Round-trip latency       : 39:39:37
+One-way light time       : 19:49:57
+Round-trip latency       : 39:39:53
 ------------------------------------------------------------
-Δ distance (since last)  : +593,639 km
-Mission age              : 49 years, 10 days
+Δ distance (since last)  : +593,406 km
+Mission age              : 49 years, 11 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-08-18 18:59:45Z
+Report generated (UTC)   : 2026-08-19 18:56:05Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,7 +1505,7 @@ Played at (UTC)           : 2026-08-16 06:10:36Z
 Played at (local)         : 2026-08-16 02:10:36 -04
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 64:34:16
+Time since play           : 88:35:12
 Gap from previous play    : 00:04:29
 ------------------------------------------------------------
 Previous song             : All Them Witches — Starting Line
@@ -1619,7 +1619,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :    ▃▆█▄
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :                         ▃▆█▄  
+Activity trend (30d)      :                        ▃▆█▄   
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1642,7 +1642,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-11 22:44:52Z → 2026-08-18 22:44:52Z
+Week window (UTC)         : 2026-08-12 22:45:47Z → 2026-08-19 22:45:47Z
 Tracks played (7d)        : 74
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1665,7 +1665,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 02:01:13
+Telemetry interval        : 01:56:38
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1703,7 +1703,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-18 22:44:52Z
+Report generated (UTC)    : 2026-08-19 22:45:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2061,7 +2061,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 18 August 2026
+From: 04 December 2023 - To: 19 August 2026
 
 Total Time       : 1,050 hrs 35 mins
 Mostly coding in : Other
@@ -2072,9 +2072,9 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          760 hrs 8 mins ●●●●●●●●●●●●●●●●●●◔○○○○○○○  72.35 %
+Other          761 hrs 54 mins ●●●●●●●●●●●●●●●●●●◔○○○○○○○  72.52 %
 Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.82 %
-Python         141 hrs 59 mins ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.52 %
+Python         142 hrs        ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.52 %
 HTML           138 hrs 14 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
 PHP            109 hrs 8 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.39 %
 Markdown       80 hrs 48 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.69 %
@@ -2085,36 +2085,36 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,092 hrs 15 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,094 hrs 2 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.06 %
 
 EDITORS - APPS
 --------------
 VS Code        659 hrs 35 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.78 %
-Firefox        567 hrs 26 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.01 %
+Firefox        568 hrs 1 min  ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.07 %
 Vim            337 hrs 55 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.17 %
 Terminal       43 hrs 44 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.16 %
 Spotify        37 hrs 51 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.60 %
 Termius        24 hrs 2 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.29 %
 Dia            20 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.97 %
 ‎WhatsApp      20 hrs 33 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.96 %
-Pages          17 hrs 37 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.68 %
-Acrobat        15 hrs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.43 %
+Pages          17 hrs 38 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.68 %
+Acrobat        16 hrs 10 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.54 %
 TeXstudio      13 hrs 42 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.31 %
 FileZilla      9 hrs 8 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.87 %
 
 CATEGORIES
 ----------
-Coding         1,200 hrs 57 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       564 hrs 23 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.72 %
+Coding         1,202 hrs 7 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       564 hrs 58 mins ●●●●●●●●●●●●●◔○○○○○○○○○○○○  53.78 %
 Meeting        29 hrs 17 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.79 %
-Writing Docs   13 hrs 7 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.25 %
+Writing Docs   13 hrs 8 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.25 %
 AI Coding      2 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 19/08/2026 00:56:51 UTC
+Last updated     : 20/08/2026 00:56:29 UTC
 
 ```
 <!--END_SECTION:wakastats-->
