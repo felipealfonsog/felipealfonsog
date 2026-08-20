@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-16 06:10:36Z
 Played at (local)         : 2026-08-16 02:10:36 -04
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 106:45:16
+Time since play           : 108:54:55
 Gap from previous play    : 00:04:29
 ------------------------------------------------------------
 Previous song             : All Them Witches — Starting Line
@@ -1572,33 +1572,33 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 68
-Unique tracks             : 35
+Observed events           : 62
+Unique tracks             : 33
 Unique artists            : 6
-Replay ratio              : █████████░░░░░░░░░  48.5%
-Artist diversity          : ██░░░░░░░░░░░░░░░░  8.8%
-Dominant artist           : Silverchair
-Dominant artist share     : ████████░░░░░░░░░░  47.1%
-Artist switch ratio       : ██░░░░░░░░░░░░░░░░  10.4%
-Longest artist streak     : Silverchair × 31
+Replay ratio              : ████████░░░░░░░░░░  46.8%
+Artist diversity          : ██░░░░░░░░░░░░░░░░  9.7%
+Dominant artist           : All Them Witches
+Dominant artist share     : █████████░░░░░░░░░  50.0%
+Artist switch ratio       : ██░░░░░░░░░░░░░░░░  11.5%
+Longest artist streak     : Silverchair × 25
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███████████░░░░░░░   58.8%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.5%
-Afternoon  12–18           : █████░░░░░░░░░░░░░   26.5%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░   13.2%
+Night      00–06           : ████████████░░░░░░   64.5%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.6%
+Afternoon  12–18           : ███░░░░░░░░░░░░░░░   19.4%
+Evening    18–24           : ███░░░░░░░░░░░░░░░   14.5%
 Dominant period           : NIGHT
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-13 17:48:08Z
+History first play (7d)   : 2026-08-14 19:34:55Z
 History last play (7d)    : 2026-08-16 06:10:36Z
-Observed time span        : 60:22:28
-Mean inter-play gap       : 00:54:04
-Median inter-play gap     : 00:04:59
-Longest inactivity gap    : 24:52:13
-Listening intensity       : 1.13 tracks/hour
+Observed time span        : 34:35:41
+Mean inter-play gap       : 00:34:02
+Median inter-play gap     : 00:04:37
+Longest inactivity gap    : 18:24:48
+Listening intensity       : 1.79 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1606,11 +1606,11 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 01:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :  █▆▇▄▇▁      ▁▄▁▁█ ▁▆   
+Heatmap (7d)              :  █▆▇▄▇▁        ▁▁█ ▁▆   
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :    ▂▆█▄
+Activity (Mon→Sun)        :     ▆█▄
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :                       ▃▆█▄    
 Trend order               : oldest → newest
@@ -1620,7 +1620,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                         
 Tue                       :                         
 Wed                       :                         
-Thu                       :              ▂█         
+Thu                       :                         
 Fri                       :                ▁▁█ ▁▆   
 Sat                       :   ▄█▄█▁                 
 Sun                       :  █▂                     
@@ -1635,22 +1635,22 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-13 16:55:52Z → 2026-08-20 16:55:52Z
-Tracks played (7d)        : 68
-Dominant artist           : Silverchair
+Week window (UTC)         : 2026-08-13 19:05:30Z → 2026-08-20 19:05:30Z
+Tracks played (7d)        : 62
+Dominant artist           : All Them Witches
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap        : 00:54:04
+Sessions (7d)             : 7
+Avg inter-play gap        : 00:34:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : grunge(33) | post-grunge(33) | space rock(33) | sludge metal(32) | stoner metal(32) | stoner rock(32)
+Top genres (7d)           : space rock(33) | sludge metal(32) | stoner metal(32) | stoner rock(32) | blues rock(31) | neo-psychedelic(31)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1658,7 +1658,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:56:50
+Telemetry interval        : 02:09:39
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1666,7 +1666,7 @@ Events retained           : 74
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-16 02:10:36 -04
 Events (24h)              : 0
-Events (7d)               : 68
+Events (7d)               : 62
 Events (30d)              : 74
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-20 16:55:52Z
+Report generated (UTC)    : 2026-08-20 19:05:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
