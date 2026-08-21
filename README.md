@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-16 06:10:36Z
 Played at (local)         : 2026-08-16 02:10:36 -04
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 118:47:06
+Time since play           : 121:01:37
 Gap from previous play    : 00:04:29
 ------------------------------------------------------------
 Previous song             : All Them Witches — Starting Line
@@ -1635,7 +1635,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-14 04:57:41Z → 2026-08-21 04:57:41Z
+Week window (UTC)         : 2026-08-14 07:12:13Z → 2026-08-21 07:12:13Z
 Tracks played (7d)        : 62
 Dominant artist           : All Them Witches
 Cadence classification    : HIGH
@@ -1658,7 +1658,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:31:47
+Telemetry interval        : 02:14:32
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-21 04:57:41Z
+Report generated (UTC)    : 2026-08-21 07:12:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
