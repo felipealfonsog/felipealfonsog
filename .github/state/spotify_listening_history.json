@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-22 08:51:55Z",
+  "updated_utc": "2026-08-22 10:43:57Z",
   "events": [
+    {
+      "track": "Knogjärn — Ingenting vackert",
+      "artist": "Knogjärn",
+      "title": "Ingenting vackert",
+      "album": "Stora och farliga",
+      "uri": "spotify:track:79sbw0Prh8ZD0m1qPWjivV",
+      "url": "https://open.spotify.com/track/79sbw0Prh8ZD0m1qPWjivV",
+      "artist_ids": [
+        "0sR0sGTiOykFU1JVXeHPJw"
+      ],
+      "played_at_utc": "2026-08-22 10:11:46Z",
+      "played_at_local": "2026-08-22 06:11:46 -04",
+      "local_hour": 6,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0sR0sGTiOykFU1JVXeHPJw",
+      "context_url": "https://open.spotify.com/artist/0sR0sGTiOykFU1JVXeHPJw"
+    },
+    {
+      "track": "All Them Witches — Culling Line",
+      "artist": "All Them Witches",
+      "title": "Culling Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
+      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-22 09:55:02Z",
+      "played_at_local": "2026-08-22 05:55:02 -04",
+      "local_hour": 5,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-08-22 09:50:58Z",
+      "played_at_local": "2026-08-22 05:50:58 -04",
+      "local_hour": 5,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "Wayside — Parallax Error",
+      "artist": "Wayside",
+      "title": "Parallax Error",
+      "album": "What Does Your Soul Look Like",
+      "uri": "spotify:track:09irnBrJrw8mVqFgCE23bp",
+      "url": "https://open.spotify.com/track/09irnBrJrw8mVqFgCE23bp",
+      "artist_ids": [
+        "30dxyV2Ax6tiLYdaIFmm2x"
+      ],
+      "played_at_utc": "2026-08-22 09:44:14Z",
+      "played_at_local": "2026-08-22 05:44:14 -04",
+      "local_hour": 5,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:30dxyV2Ax6tiLYdaIFmm2x",
+      "context_url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
+    },
     {
       "track": "All Them Witches — Turn On The Light",
       "artist": "All Them Witches",
