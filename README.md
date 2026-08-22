@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-16 06:10:36Z
 Played at (local)         : 2026-08-16 02:10:36 -04
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 142:43:06
+Time since play           : 144:53:41
 Gap from previous play    : 00:04:29
 ------------------------------------------------------------
 Previous song             : All Them Witches — Starting Line
@@ -1572,33 +1572,33 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 41
-Unique tracks             : 26
-Unique artists            : 6
-Replay ratio              : ███████░░░░░░░░░░░  36.6%
-Artist diversity          : ███░░░░░░░░░░░░░░░  14.6%
+Observed events           : 36
+Unique tracks             : 21
+Unique artists            : 5
+Replay ratio              : ████████░░░░░░░░░░  41.7%
+Artist diversity          : ██░░░░░░░░░░░░░░░░  13.9%
 Dominant artist           : All Them Witches
-Dominant artist share     : ██████████████░░░░  75.6%
-Artist switch ratio       : ███░░░░░░░░░░░░░░░  17.5%
+Dominant artist share     : ████████████████░░  86.1%
+Artist switch ratio       : ███░░░░░░░░░░░░░░░  14.3%
 Longest artist streak     : All Them Witches × 21
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██████████████████   97.6%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.4%
+Night      00–06           : █████████████████░   97.2%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.8%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
 Evening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%
 Dominant period           : NIGHT
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-15 06:30:48Z
+History first play (7d)   : 2026-08-15 07:07:31Z
 History last play (7d)    : 2026-08-16 06:10:36Z
-Observed time span        : 23:39:48
-Mean inter-play gap       : 00:35:30
+Observed time span        : 23:03:05
+Mean inter-play gap       : 00:39:31
 Median inter-play gap     : 00:04:58
 Longest inactivity gap    : 18:24:48
-Listening intensity       : 1.73 tracks/hour
+Listening intensity       : 1.56 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1606,11 +1606,11 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 01:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :  █▆▇▄▇▁                 
+Heatmap (7d)              :  █▂▆▄▇▁                 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :      █▄
+Activity (Mon→Sun)        :      █▅
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :                     ▃▆█▄      
 Trend order               : oldest → newest
@@ -1622,7 +1622,7 @@ Tue                       :
 Wed                       :                         
 Thu                       :                         
 Fri                       :                         
-Sat                       :   ▄█▄█▁                 
+Sat                       :    ▇▄█▁                 
 Sun                       :  █▂                     
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
@@ -1635,17 +1635,17 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-15 04:53:41Z → 2026-08-22 04:53:41Z
-Tracks played (7d)        : 41
+Week window (UTC)         : 2026-08-15 07:04:17Z → 2026-08-22 07:04:17Z
+Tracks played (7d)        : 36
 Dominant artist           : All Them Witches
-Cadence classification    : HIGH
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
 Sessions (7d)             : 4
-Avg inter-play gap        : 00:35:30
+Avg inter-play gap        : 00:39:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1658,7 +1658,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:42:47
+Telemetry interval        : 02:10:36
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1666,7 +1666,7 @@ Events retained           : 74
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-16 02:10:36 -04
 Events (24h)              : 0
-Events (7d)               : 41
+Events (7d)               : 36
 Events (30d)              : 74
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-22 04:53:41Z
+Report generated (UTC)    : 2026-08-22 07:04:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
