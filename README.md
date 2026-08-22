@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-22 10:11:46Z
 Played at (local)         : 2026-08-22 06:11:46 -04
 Local hour                : 06:00
 Daypart                   : MORNING
-Time since play           : 10:31:31
+Time since play           : 12:30:53
 Gap from previous play    : 00:16:44
 ------------------------------------------------------------
 Previous song             : All Them Witches — Culling Line
@@ -1635,7 +1635,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-15 20:43:16Z → 2026-08-22 20:43:16Z
+Week window (UTC)         : 2026-08-15 22:42:39Z → 2026-08-22 22:42:39Z
 Tracks played (7d)        : 17
 Dominant artist           : All Them Witches
 Cadence classification    : MEDIUM
@@ -1658,7 +1658,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:50:56
+Telemetry interval        : 01:59:23
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-22 20:43:16Z
+Report generated (UTC)    : 2026-08-22 22:42:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
