@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-08-22T12:55:09+00:00",
-    "last_successful_sync": "2026-08-22T12:55:09+00:00",
+    "last_attempted_sync": "2026-08-22T18:42:49+00:00",
+    "last_successful_sync": "2026-08-22T18:42:49+00:00",
     "error_message": ""
   },
   "sections": {
@@ -93,7 +93,7 @@
           "author": "Michel Houellebecq",
           "link": "https://www.goodreads.com/review/show/8701260997?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431157595l/25509383._SY75_.jpg",
-          "summary": "author: Michel Houellebecq name: Felipe Alfonso average rating: 4.07 book published: 1998 rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
+          "summary": "author: Michel Houellebecq name: Felipe Alfonso average rating: 4.05 book published: 1998 rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8701260997?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 20 Jun 2026 01:56:48 -0700"
         },
