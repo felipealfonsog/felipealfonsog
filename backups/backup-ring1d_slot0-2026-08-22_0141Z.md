@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-08-21_0147Z
+ snapshot_utc : 2026-08-22_0141Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -532,7 +532,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-08-20T18:54:21+00:00 | last_update=2026-08-20T18:54:21+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-08-21T18:50:27+00:00 | last_update=2026-08-21T18:50:27+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -702,13 +702,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. DEGRADED
 HTTP................ 403 Forbidden
-LATENCY............. 113 ms
-TTFB................ 112 ms
+LATENCY............. 34 ms
+TTFB................ 33 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 73d
+TLS_EXPIRY.......... 72d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -737,7 +737,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-08-20T03:51:19Z
+LAST_PROBE_UTC...... 2026-08-21T03:54:36Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -778,18 +778,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.444012
-longitude      : -70.650696
-altitude       : 158 m
-gps_accuracy   : ±7.7 m
-heading        : 9°
-speed          : 3.3 km/h
-status         : in_transit
+latitude       : -33.444614
+longitude      : -70.650977
+altitude       : 65 m
+gps_accuracy   : ±3.8 m
+heading        : 90°
+speed          : 0.2 km/h
+status         : stationary
 phase          : evening
-local_time     : 20:41
+local_time     : 20:39
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-08-21 00:41:49 UTC
+signal         : nominal
+updated_utc    : 2026-08-22 00:39:19 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -908,7 +908,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-08-20 19:03:51Z
+DSN snapshot (UTC)       : 2026-08-21 19:00:02Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -919,15 +919,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.62e9 km | 171.244 AU
-Heliocentric distance    : 171.515 AU
-Relative speed           : 43.560 km/s
+Earth distance           : 25.62e9 km | 171.267 AU
+Heliocentric distance    : 171.525 AU
+Relative speed           : 43.624 km/s
 ------------------------------------------------------------
-One-way light time       : 23:44:12
-Round-trip latency       : 47:28:23
+One-way light time       : 23:44:23
+Round-trip latency       : 47:28:46
 ------------------------------------------------------------
-Δ distance (since last)  : +831,242 km
-Mission age              : 48 years, 361 days
+Δ distance (since last)  : +826,782 km
+Mission age              : 48 years, 362 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -938,19 +938,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.41e9 km | 143.095 AU
-Heliocentric distance    : 143.727 AU
-Relative speed           : 37.889 km/s
+Earth distance           : 21.41e9 km | 143.112 AU
+Heliocentric distance    : 143.736 AU
+Relative speed           : 38.003 km/s
 ------------------------------------------------------------
-One-way light time       : 19:50:05
-Round-trip latency       : 39:40:10
+One-way light time       : 19:50:13
+Round-trip latency       : 39:40:27
 ------------------------------------------------------------
-Δ distance (since last)  : +608,655 km
-Mission age              : 49 years, 12 days
+Δ distance (since last)  : +609,877 km
+Mission age              : 49 years, 13 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-08-20 19:03:54Z
+Report generated (UTC)   : 2026-08-21 19:00:03Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,7 +1505,7 @@ Played at (UTC)           : 2026-08-16 06:10:36Z
 Played at (local)         : 2026-08-16 02:10:36 -04
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 112:38:19
+Time since play           : 136:34:54
 Gap from previous play    : 00:04:29
 ------------------------------------------------------------
 Previous song             : All Them Witches — Starting Line
@@ -1579,33 +1579,33 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 62
-Unique tracks             : 33
+Observed events           : 50
+Unique tracks             : 32
 Unique artists            : 6
-Replay ratio              : ████████░░░░░░░░░░  46.8%
-Artist diversity          : ██░░░░░░░░░░░░░░░░  9.7%
+Replay ratio              : ██████░░░░░░░░░░░░  36.0%
+Artist diversity          : ██░░░░░░░░░░░░░░░░  12.0%
 Dominant artist           : All Them Witches
-Dominant artist share     : █████████░░░░░░░░░  50.0%
-Artist switch ratio       : ██░░░░░░░░░░░░░░░░  11.5%
-Longest artist streak     : Silverchair × 25
+Dominant artist share     : ███████████░░░░░░░  62.0%
+Artist switch ratio       : ███░░░░░░░░░░░░░░░  14.3%
+Longest artist streak     : All Them Witches × 21
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ████████████░░░░░░   64.5%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.6%
-Afternoon  12–18           : ███░░░░░░░░░░░░░░░   19.4%
-Evening    18–24           : ███░░░░░░░░░░░░░░░   14.5%
+Night      00–06           : ██████████████░░░░   80.0%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.0%
+Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
+Evening    18–24           : ███░░░░░░░░░░░░░░░   18.0%
 Dominant period           : NIGHT
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-14 19:34:55Z
+History first play (7d)   : 2026-08-14 23:57:55Z
 History last play (7d)    : 2026-08-16 06:10:36Z
-Observed time span        : 34:35:41
-Mean inter-play gap       : 00:34:02
-Median inter-play gap     : 00:04:37
+Observed time span        : 30:12:41
+Mean inter-play gap       : 00:37:00
+Median inter-play gap     : 00:04:48
 Longest inactivity gap    : 18:24:48
-Listening intensity       : 1.79 tracks/hour
+Listening intensity       : 1.66 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1613,13 +1613,13 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 01:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :  █▆▇▄▇▁        ▁▁█ ▁▆   
+Heatmap (7d)              :  █▆▇▄▇▁            ▁▆   
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :     ▆█▄
+Activity (Mon→Sun)        :     ▃█▄
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :                       ▃▆█▄    
+Activity trend (30d)      :                      ▃▆█▄     
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1628,7 +1628,7 @@ Mon                       :
 Tue                       :                         
 Wed                       :                         
 Thu                       :                         
-Fri                       :                ▁▁█ ▁▆   
+Fri                       :                    ▁█   
 Sat                       :   ▄█▄█▁                 
 Sun                       :  █▂                     
 Hour axis                 : 00      06      12      18     23
@@ -1642,8 +1642,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-13 22:48:54Z → 2026-08-20 22:48:54Z
-Tracks played (7d)        : 62
+Week window (UTC)         : 2026-08-14 22:45:30Z → 2026-08-21 22:45:30Z
+Tracks played (7d)        : 50
 Dominant artist           : All Them Witches
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1651,8 +1651,8 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 7
-Avg inter-play gap        : 00:34:02
+Sessions (7d)             : 5
+Avg inter-play gap        : 00:37:00
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1665,7 +1665,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:58:20
+Telemetry interval        : 02:01:16
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1673,7 +1673,7 @@ Events retained           : 74
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-16 02:10:36 -04
 Events (24h)              : 0
-Events (7d)               : 62
+Events (7d)               : 50
 Events (30d)              : 74
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1703,7 +1703,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-20 22:48:54Z
+Report generated (UTC)    : 2026-08-21 22:45:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2061,7 +2061,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 20 August 2026
+From: 04 December 2023 - To: 21 August 2026
 
 Total Time       : 1,050 hrs 35 mins
 Mostly coding in : Other
@@ -2114,7 +2114,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 21/08/2026 01:00:22 UTC
+Last updated     : 22/08/2026 00:56:45 UTC
 
 ```
 <!--END_SECTION:wakastats-->
