@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-23 01:26:48Z
 Played at (local)         : 2026-08-22 21:26:48 -04
 Local hour                : 21:00
 Daypart                   : EVENING
-Time since play           : 05:39:33
+Time since play           : 07:25:55
 Gap from previous play    : 15:15:02
 ------------------------------------------------------------
 Previous song             : Knogjärn — Ingenting vackert
@@ -1636,7 +1636,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-16 07:06:20Z → 2026-08-23 07:06:20Z
+Week window (UTC)         : 2026-08-16 08:52:42Z → 2026-08-23 08:52:42Z
 Tracks played (7d)        : 5
 Dominant artist           : All Them Witches
 Cadence classification    : LOW
@@ -1659,7 +1659,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 02:10:40
+Telemetry interval        : 01:46:23
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-23 07:06:20Z
+Report generated (UTC)    : 2026-08-23 08:52:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
