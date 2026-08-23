@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-08-23 10:44:52Z",
+  "report_generated_utc": "2026-08-23 13:05:52Z",
   "status": "IDLE",
-  "last_track": "Alice In Chains — Rooster (2022 Remaster)",
-  "last_played_utc": "2026-08-23 01:26:48Z",
+  "last_track": "Loathe — Babylon...",
+  "last_played_utc": "2026-08-23 12:26:16Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1655,11 +1655,362 @@
     "3HmMT81W29LjSKNjl1Iy1s": [
       "speed metal"
     ],
-    "0sR0sGTiOykFU1JVXeHPJw": []
+    "0sR0sGTiOykFU1JVXeHPJw": [],
+    "4G9wSdX0klmoHfjm9i6DLd": [
+      "shoegaze"
+    ],
+    "0fXjvXTc3xf5JC6a6peB20": [],
+    "3gPZCcrc8KG2RuVl3rtbQ2": [],
+    "1IHjrY7ygKbmLVoUV1VcXc": [
+      "shoegaze",
+      "post-grunge"
+    ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Alice In Chains — Rooster (2022 Remaster)\nArtist                    : Alice In Chains\nTitle                     : Rooster (2022 Remaster)\nAlbum                     : Dirt (2022 Remaster)\nSpotify URI               : spotify:track:0wvIGFIgbyz4JNwQhZgTv2\nSpotify URL               : https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-08-23 01:26:48Z\nPlayed at (local)         : 2026-08-22 21:26:48 -04\nLocal hour                : 21:00\nDaypart                   : EVENING\nTime since play           : 09:18:04\nGap from previous play    : 15:15:02\n------------------------------------------------------------\nPrevious song             : Knogjärn — Ingenting vackert\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 1\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Knogjärn — Ingenting vackert | 2026-08-22 06:11:46 -04\nPrevious track #2         : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04\nPrevious track #3         : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04\nPrevious track #4         : Wayside — Parallax Error | 2026-08-22 05:44:14 -04\nPrevious track #5         : All Them Witches — Turn On The Light | 2026-08-16 02:10:36 -04\nPrevious track #6         : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04\nPrevious track #7         : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04\nPrevious track #8         : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04\nPrevious track #9         : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04\nPrevious track #10        : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04\nPrevious track #11        : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04\nPrevious track #12        : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04\nPrevious track #13        : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04\nPrevious track #14        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04\nPrevious track #15        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04\nPrevious track #16        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04\nPrevious track #17        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04\nPrevious track #18        : All Them Witches — Hold Up, Say What? | 2026-08-15 06:55:33 -04\nPrevious track #19        : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04\nPrevious track #20        : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04\nPrevious track #21        : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04\nPrevious track #22        : All Them Witches — Red Rocking Chair | 2026-08-15 05:18:22 -04\nPrevious track #23        : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04\nPrevious track #24        : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04\nPrevious track #25        : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04\nPrevious track #26        : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04\nPrevious track #27        : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04\nPrevious track #28        : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04\nPrevious track #29        : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04\nPrevious track #30        : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04\nPrevious track #31        : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04\nPrevious track #32        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04\nPrevious track #33        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04\nPrevious track #34        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04\nPrevious track #35        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04\nPrevious track #36        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04\nPrevious track #37        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04\nPrevious track #38        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04\nPrevious track #39        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04\nPrevious track #40        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-08-13 14:15:12 -04\nTrack observed in context : Silverchair — Without You\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO2vS1wY\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vS1wY\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-08-15 09:20:12Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 5\nUnique tracks             : 5\nUnique artists            : 4\nReplay ratio              : ░░░░░░░░░░░░░░░░░░  0.0%\nArtist diversity          : ██████████████░░░░  80.0%\nDominant artist           : All Them Witches\nDominant artist share     : ███████░░░░░░░░░░░  40.0%\nArtist switch ratio       : ██████████████░░░░  75.0%\nLongest artist streak     : All Them Witches × 2\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ███████████░░░░░░░   60.0%\nMorning    06–12           : ████░░░░░░░░░░░░░░   20.0%\nAfternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%\nEvening    18–24           : ████░░░░░░░░░░░░░░   20.0%\nDominant period           : NIGHT\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-08-22 09:44:14Z\nHistory last play (7d)    : 2026-08-23 01:26:48Z\nObserved time span        : 15:42:34\nMean inter-play gap       : 03:55:38\nMedian inter-play gap     : 00:11:44\nLongest inactivity gap    : 15:15:02\nListening intensity       : 0.32 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 21:00\nPeak hour (7d)            : 05:00\nHeatmap (24h)             :                      █  \nHeatmap (7d)              :      █▃              ▃  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :      █ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :                    ▃▆█▄     ▁ \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :                         \nThu                       :                         \nFri                       :                         \nSat                       :      █▃              ▃  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 1\nDominant artist           : Alice In Chains\nListening pattern         : Light activity\nDaily activity status     : LOW\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-16 10:44:52Z → 2026-08-23 10:44:52Z\nTracks played (7d)        : 5\nDominant artist           : All Them Witches\nCadence classification    : LOW\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 2\nAvg inter-play gap        : 03:55:38\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(1) | post-grunge(1)\nTop genres (7d)           : blues rock(2) | neo-psychedelic(2) | psychedelic rock(2) | sludge metal(2) | space rock(2) | stoner metal(2)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : NO CHANGE\nState transition          : NO CHANGE\nTelemetry interval        : 01:52:10\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 79\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-08-22 21:26:48 -04\nEvents (24h)              : 1\nEvents (7d)               : 5\nEvents (30d)              : 79\nPlaylist contexts retained: 9\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-23 10:44:52Z",
-  "last_successful_report_utc": "2026-08-23 10:44:52Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Loathe — Babylon...\nArtist                    : Loathe\nTitle                     : Babylon...\nAlbum                     : The Cold Sun\nSpotify URI               : spotify:track:08on2wzs5D8ccY4oRrMR7G\nSpotify URL               : https://open.spotify.com/track/08on2wzs5D8ccY4oRrMR7G\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-08-23 12:26:16Z\nPlayed at (local)         : 2026-08-23 08:26:16 -04\nLocal hour                : 08:00\nDaypart                   : MORNING\nTime since play           : 00:39:36\nGap from previous play    : 00:05:27\n------------------------------------------------------------\nPrevious song             : Grommet — Half in Red\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 1\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Grommet — Half in Red | 2026-08-23 08:20:49 -04\nPrevious track #2         : 10 Years — Waking Up | 2026-08-23 08:16:57 -04\nPrevious track #3         : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04\nPrevious track #4         : Submersed — Flicker | 2026-08-23 08:09:13 -04\nPrevious track #5         : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04\nPrevious track #6         : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04\nPrevious track #7         : Hum — Step into You | 2026-08-23 07:56:12 -04\nPrevious track #8         : Chevelle — It's No Good | 2026-08-23 07:51:15 -04\nPrevious track #9         : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04\nPrevious track #10        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04\nPrevious track #11        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04\nPrevious track #12        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04\nPrevious track #13        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04\nPrevious track #14        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04\nPrevious track #15        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04\nPrevious track #16        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04\nPrevious track #17        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04\nPrevious track #18        : Chevelle — The Red | 2026-08-23 07:08:00 -04\nPrevious track #19        : Alice In Chains — Rooster (2022 Remaster) | 2026-08-22 21:26:48 -04\nPrevious track #20        : Knogjärn — Ingenting vackert | 2026-08-22 06:11:46 -04\nPrevious track #21        : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04\nPrevious track #22        : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04\nPrevious track #23        : Wayside — Parallax Error | 2026-08-22 05:44:14 -04\nPrevious track #24        : All Them Witches — Turn On The Light | 2026-08-16 02:10:36 -04\nPrevious track #25        : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04\nPrevious track #26        : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04\nPrevious track #27        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04\nPrevious track #28        : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04\nPrevious track #29        : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04\nPrevious track #30        : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04\nPrevious track #31        : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04\nPrevious track #32        : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04\nPrevious track #33        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04\nPrevious track #34        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04\nPrevious track #35        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04\nPrevious track #36        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04\nPrevious track #37        : All Them Witches — Hold Up, Say What? | 2026-08-15 06:55:33 -04\nPrevious track #38        : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04\nPrevious track #39        : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04\nPrevious track #40        : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-08-13 14:15:12 -04\nTrack observed in context : Silverchair — Without You\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO2vS1wY\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO2vS1wY\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-08-15 09:20:12Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 24\nUnique tracks             : 23\nUnique artists            : 13\nReplay ratio              : █░░░░░░░░░░░░░░░░░  4.2%\nArtist diversity          : ██████████░░░░░░░░  54.2%\nDominant artist           : Chevelle\nDominant artist share     : ████████░░░░░░░░░░  45.8%\nArtist switch ratio       : █████████░░░░░░░░░  52.2%\nLongest artist streak     : Chevelle × 11\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ██░░░░░░░░░░░░░░░░   12.5%\nMorning    06–12           : ███████████████░░░   83.3%\nAfternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%\nEvening    18–24           : █░░░░░░░░░░░░░░░░░    4.2%\nDominant period           : MORNING\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-08-22 09:44:14Z\nHistory last play (7d)    : 2026-08-23 12:26:16Z\nObserved time span        : 26:42:02\nMean inter-play gap       : 01:09:39\nMedian inter-play gap     : 00:04:18\nLongest inactivity gap    : 15:15:02\nListening intensity       : 0.90 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 07:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             :        █▄            ▁  \nHeatmap (7d)              :      ▂▁█▄            ▁  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :      ▂█\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :                    ▃▆█▄     ▁▅\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :                         \nThu                       :                         \nFri                       :                         \nSat                       :      █▃              ▃  \nSun                       :        █▄               \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 20\nDominant artist           : Chevelle\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-16 13:05:52Z → 2026-08-23 13:05:52Z\nTracks played (7d)        : 24\nDominant artist           : Chevelle\nCadence classification    : MEDIUM\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 2\nSessions (7d)             : 3\nAvg inter-play gap        : 01:09:39\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : post-grunge(16) | alternative metal(13) | nu metal(11) | shoegaze(3) | grunge(1) | post-hardcore(1)\nTop genres (7d)           : post-grunge(16) | alternative metal(13) | nu metal(11) | shoegaze(4) | space rock(3) | blues rock(2)\nArtist lookups (this run) : 4 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Alice In Chains — Rooster (2022 Remaster) → Loathe — Babylon...\nPlayback timestamp Δ      : 2026-08-23 01:26:48Z → 2026-08-23 12:26:16Z\nState transition          : NO CHANGE\nTelemetry interval        : 02:21:00\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 98\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-08-23 08:26:16 -04\nEvents (24h)              : 20\nEvents (7d)               : 24\nEvents (30d)              : 98\nPlaylist contexts retained: 9\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-08-23 13:05:52Z",
+  "last_successful_report_utc": "2026-08-23 13:05:52Z",
   "recent_playback_history": [
+    {
+      "track": "Loathe — Babylon...",
+      "artist": "Loathe",
+      "title": "Babylon...",
+      "album": "The Cold Sun",
+      "uri": "spotify:track:08on2wzs5D8ccY4oRrMR7G",
+      "url": "https://open.spotify.com/track/08on2wzs5D8ccY4oRrMR7G",
+      "artist_ids": [
+        "4G9wSdX0klmoHfjm9i6DLd"
+      ],
+      "played_at_utc": "2026-08-23 12:26:16Z",
+      "played_at_local": "2026-08-23 08:26:16 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Grommet — Half in Red",
+      "artist": "Grommet",
+      "title": "Half in Red",
+      "album": "Half in Red",
+      "uri": "spotify:track:1xE5rYuxTSpRu0OCM4WHEU",
+      "url": "https://open.spotify.com/track/1xE5rYuxTSpRu0OCM4WHEU",
+      "artist_ids": [
+        "0fXjvXTc3xf5JC6a6peB20"
+      ],
+      "played_at_utc": "2026-08-23 12:20:49Z",
+      "played_at_local": "2026-08-23 08:20:49 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "10 Years — Waking Up",
+      "artist": "10 Years",
+      "title": "Waking Up",
+      "album": "The Autumn Effect",
+      "uri": "spotify:track:2Zw6tXIyHRHIerZnmt4f4S",
+      "url": "https://open.spotify.com/track/2Zw6tXIyHRHIerZnmt4f4S",
+      "artist_ids": [
+        "0REMf7H0VP6DwfZ9MbuWph"
+      ],
+      "played_at_utc": "2026-08-23 12:16:57Z",
+      "played_at_local": "2026-08-23 08:16:57 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Evans Blue — Eclipsed",
+      "artist": "Evans Blue",
+      "title": "Eclipsed",
+      "album": "The Melody And The Energetic Nature Of Volume",
+      "uri": "spotify:track:4y6EKSdTBFG1t00NIFV4lp",
+      "url": "https://open.spotify.com/track/4y6EKSdTBFG1t00NIFV4lp",
+      "artist_ids": [
+        "6pDRa5fS3myWSP0fpIUcNl"
+      ],
+      "played_at_utc": "2026-08-23 12:13:31Z",
+      "played_at_local": "2026-08-23 08:13:31 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Submersed — Flicker",
+      "artist": "Submersed",
+      "title": "Flicker",
+      "album": "In Due Time",
+      "uri": "spotify:track:10e6pjcRdRueOERvQ74PUt",
+      "url": "https://open.spotify.com/track/10e6pjcRdRueOERvQ74PUt",
+      "artist_ids": [
+        "0539gq2LM2VDs01rp8gnGz"
+      ],
+      "played_at_utc": "2026-08-23 12:09:13Z",
+      "played_at_local": "2026-08-23 08:09:13 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "✝✝✝ (Crosses) — Option",
+      "artist": "✝✝✝ (Crosses)",
+      "title": "Option",
+      "album": "††† (Crosses)",
+      "uri": "spotify:track:3rbs4YknbRTpNGI68IHb6C",
+      "url": "https://open.spotify.com/track/3rbs4YknbRTpNGI68IHb6C",
+      "artist_ids": [
+        "3gPZCcrc8KG2RuVl3rtbQ2"
+      ],
+      "played_at_utc": "2026-08-23 12:03:51Z",
+      "played_at_local": "2026-08-23 08:03:51 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Superheaven — I've Been Bored",
+      "artist": "Superheaven",
+      "title": "I've Been Bored",
+      "album": "Ours Is Chrome",
+      "uri": "spotify:track:5mQ1FMJvCHj0FGa4qrPqte",
+      "url": "https://open.spotify.com/track/5mQ1FMJvCHj0FGa4qrPqte",
+      "artist_ids": [
+        "1IHjrY7ygKbmLVoUV1VcXc"
+      ],
+      "played_at_utc": "2026-08-23 11:59:30Z",
+      "played_at_local": "2026-08-23 07:59:30 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Hum — Step into You",
+      "artist": "Hum",
+      "title": "Step into You",
+      "album": "Inlet",
+      "uri": "spotify:track:6CJEsReQ6bC8DAPTSrAWO7",
+      "url": "https://open.spotify.com/track/6CJEsReQ6bC8DAPTSrAWO7",
+      "artist_ids": [
+        "6sM2JCBjZprP7JLMTZZSxX"
+      ],
+      "played_at_utc": "2026-08-23 11:56:12Z",
+      "played_at_local": "2026-08-23 07:56:12 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — It's No Good",
+      "artist": "Chevelle",
+      "title": "It's No Good",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:7f1joPvxiISxqN6Vt8BJIz",
+      "url": "https://open.spotify.com/track/7f1joPvxiISxqN6Vt8BJIz",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:51:15Z",
+      "played_at_local": "2026-08-23 07:51:15 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Black Boys On Mopeds",
+      "artist": "Chevelle",
+      "title": "Black Boys On Mopeds",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:178X3g5K8PiSPEeKLREeLf",
+      "url": "https://open.spotify.com/track/178X3g5K8PiSPEeKLREeLf",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:47:16Z",
+      "played_at_local": "2026-08-23 07:47:16 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — (High) Visibility",
+      "artist": "Chevelle",
+      "title": "(High) Visibility",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:3i6IBKqiI7zke1ilNniYXQ",
+      "url": "https://open.spotify.com/track/3i6IBKqiI7zke1ilNniYXQ",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:43:49Z",
+      "played_at_local": "2026-08-23 07:43:49 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Until You're Reformed",
+      "artist": "Chevelle",
+      "title": "Until You're Reformed",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:2Vh2TzE3C8LJo0Q1XCbGzK",
+      "url": "https://open.spotify.com/track/2Vh2TzE3C8LJo0Q1XCbGzK",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:41:12Z",
+      "played_at_local": "2026-08-23 07:41:12 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — An Evening with El Diablo",
+      "artist": "Chevelle",
+      "title": "An Evening with El Diablo",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:5912VywSVB1xQaSGosKg0t",
+      "url": "https://open.spotify.com/track/5912VywSVB1xQaSGosKg0t",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:36:19Z",
+      "played_at_local": "2026-08-23 07:36:19 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — An Evening with El Diablo",
+      "artist": "Chevelle",
+      "title": "An Evening with El Diablo",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:5912VywSVB1xQaSGosKg0t",
+      "url": "https://open.spotify.com/track/5912VywSVB1xQaSGosKg0t",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:29:45Z",
+      "played_at_local": "2026-08-23 07:29:45 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Grab Thy Hand",
+      "artist": "Chevelle",
+      "title": "Grab Thy Hand",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:42pNX8mZefuDKb06aFFJ79",
+      "url": "https://open.spotify.com/track/42pNX8mZefuDKb06aFFJ79",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:24:02Z",
+      "played_at_local": "2026-08-23 07:24:02 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Forfeit",
+      "artist": "Chevelle",
+      "title": "Forfeit",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:6ptcVVRn97eAKqUy6kUVK5",
+      "url": "https://open.spotify.com/track/6ptcVVRn97eAKqUy6kUVK5",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:19:48Z",
+      "played_at_local": "2026-08-23 07:19:48 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Don't Fake This",
+      "artist": "Chevelle",
+      "title": "Don't Fake This",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:2Bcvh4zypRuH0cCTQzuV6B",
+      "url": "https://open.spotify.com/track/2Bcvh4zypRuH0cCTQzuV6B",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:15:49Z",
+      "played_at_local": "2026-08-23 07:15:49 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Wonder What's Next",
+      "artist": "Chevelle",
+      "title": "Wonder What's Next",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:7hOgnx2HOJ1KBdv0U0n1T3",
+      "url": "https://open.spotify.com/track/7hOgnx2HOJ1KBdv0U0n1T3",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:12:10Z",
+      "played_at_local": "2026-08-23 07:12:10 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — The Red",
+      "artist": "Chevelle",
+      "title": "The Red",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:08:00Z",
+      "played_at_local": "2026-08-23 07:08:00 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
     {
       "track": "Alice In Chains — Rooster (2022 Remaster)",
       "artist": "Alice In Chains",
@@ -2055,339 +2406,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
       "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Red Rocking Chair",
-      "artist": "All Them Witches",
-      "title": "Red Rocking Chair",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
-      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 09:18:22Z",
-      "played_at_local": "2026-08-15 05:18:22 -04",
-      "local_hour": 5,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Red Rocking Chair",
-      "artist": "All Them Witches",
-      "title": "Red Rocking Chair",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
-      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 09:12:03Z",
-      "played_at_local": "2026-08-15 05:12:03 -04",
-      "local_hour": 5,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Red Rocking Chair",
-      "artist": "All Them Witches",
-      "title": "Red Rocking Chair",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
-      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 09:05:25Z",
-      "played_at_local": "2026-08-15 05:05:25 -04",
-      "local_hour": 5,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "DOWN — Right Place, Wrong Time",
-      "artist": "DOWN",
-      "title": "Right Place, Wrong Time",
-      "album": "Right Place, Wrong Time",
-      "uri": "spotify:track:2KPLJVLvIaM50mpdjpMp9J",
-      "url": "https://open.spotify.com/track/2KPLJVLvIaM50mpdjpMp9J",
-      "artist_ids": [
-        "1m0B9ak05G0jqDY4ACLhQu"
-      ],
-      "played_at_utc": "2026-08-15 09:03:53Z",
-      "played_at_local": "2026-08-15 05:03:53 -04",
-      "local_hour": 5,
-      "weekday": 5
-    },
-    {
-      "track": "Silverchair — Mind Reader",
-      "artist": "Silverchair",
-      "title": "Mind Reader",
-      "album": "Mind Reader",
-      "uri": "spotify:track:5pD9BN6Y0dry8ozJtHb36x",
-      "url": "https://open.spotify.com/track/5pD9BN6Y0dry8ozJtHb36x",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-08-15 09:03:53Z",
-      "played_at_local": "2026-08-15 05:03:53 -04",
-      "local_hour": 5,
-      "weekday": 5
-    },
-    {
-      "track": "All Them Witches — Rats In Ruin",
-      "artist": "All Them Witches",
-      "title": "Rats In Ruin",
-      "album": "Rats In Ruin",
-      "uri": "spotify:track:2GMC1VN6bUnhoxEiWONUW4",
-      "url": "https://open.spotify.com/track/2GMC1VN6bUnhoxEiWONUW4",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 09:03:53Z",
-      "played_at_local": "2026-08-15 05:03:53 -04",
-      "local_hour": 5,
-      "weekday": 5
-    },
-    {
-      "track": "All Them Witches — Red Rocking Chair",
-      "artist": "All Them Witches",
-      "title": "Red Rocking Chair",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
-      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 08:25:32Z",
-      "played_at_local": "2026-08-15 04:25:32 -04",
-      "local_hour": 4,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Bulls - Live",
-      "artist": "All Them Witches",
-      "title": "Bulls - Live",
-      "album": "Live On The Internet",
-      "uri": "spotify:track:1cYTUXT3jaM34WJS8yPI6n",
-      "url": "https://open.spotify.com/track/1cYTUXT3jaM34WJS8yPI6n",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 08:15:13Z",
-      "played_at_local": "2026-08-15 04:15:13 -04",
-      "local_hour": 4,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:30temVLf4Rw7CcXYaPoqeN",
-      "context_url": "https://open.spotify.com/album/30temVLf4Rw7CcXYaPoqeN"
-    },
-    {
-      "track": "All Them Witches — Everest - Live",
-      "artist": "All Them Witches",
-      "title": "Everest - Live",
-      "album": "Live On The Internet",
-      "uri": "spotify:track:3v855fEuovgsxeR4IeKDVo",
-      "url": "https://open.spotify.com/track/3v855fEuovgsxeR4IeKDVo",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 08:09:52Z",
-      "played_at_local": "2026-08-15 04:09:52 -04",
-      "local_hour": 4,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:30temVLf4Rw7CcXYaPoqeN",
-      "context_url": "https://open.spotify.com/album/30temVLf4Rw7CcXYaPoqeN"
-    },
-    {
-      "track": "All Them Witches — Enemy of My Enemy - Live",
-      "artist": "All Them Witches",
-      "title": "Enemy of My Enemy - Live",
-      "album": "Live On The Internet",
-      "uri": "spotify:track:0vggURxPXruQlh3FiZ3Fzz",
-      "url": "https://open.spotify.com/track/0vggURxPXruQlh3FiZ3Fzz",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 08:07:15Z",
-      "played_at_local": "2026-08-15 04:07:15 -04",
-      "local_hour": 4,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:30temVLf4Rw7CcXYaPoqeN",
-      "context_url": "https://open.spotify.com/album/30temVLf4Rw7CcXYaPoqeN"
-    },
-    {
-      "track": "All Them Witches — Open Passageways - Live",
-      "artist": "All Them Witches",
-      "title": "Open Passageways - Live",
-      "album": "Live On The Internet",
-      "uri": "spotify:track:67N0m7LuwCJ5i4cTKMPzrS",
-      "url": "https://open.spotify.com/track/67N0m7LuwCJ5i4cTKMPzrS",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 08:03:42Z",
-      "played_at_local": "2026-08-15 04:03:42 -04",
-      "local_hour": 4,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:30temVLf4Rw7CcXYaPoqeN",
-      "context_url": "https://open.spotify.com/album/30temVLf4Rw7CcXYaPoqeN"
-    },
-    {
-      "track": "All Them Witches — The Marriage Of Coyote Woman - Live",
-      "artist": "All Them Witches",
-      "title": "The Marriage Of Coyote Woman - Live",
-      "album": "Live On The Internet",
-      "uri": "spotify:track:7FZXmhPrcBD0beJoHicxLP",
-      "url": "https://open.spotify.com/track/7FZXmhPrcBD0beJoHicxLP",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 07:54:19Z",
-      "played_at_local": "2026-08-15 03:54:19 -04",
-      "local_hour": 3,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:30temVLf4Rw7CcXYaPoqeN",
-      "context_url": "https://open.spotify.com/album/30temVLf4Rw7CcXYaPoqeN"
-    },
-    {
-      "track": "All Them Witches — 3-5-7 - Live",
-      "artist": "All Them Witches",
-      "title": "3-5-7 - Live",
-      "album": "Live On The Internet",
-      "uri": "spotify:track:4akbiEQKsoLFJXKPhiZVIt",
-      "url": "https://open.spotify.com/track/4akbiEQKsoLFJXKPhiZVIt",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 07:48:32Z",
-      "played_at_local": "2026-08-15 03:48:32 -04",
-      "local_hour": 3,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:30temVLf4Rw7CcXYaPoqeN",
-      "context_url": "https://open.spotify.com/album/30temVLf4Rw7CcXYaPoqeN"
-    },
-    {
-      "track": "All Them Witches — 1X1 - Live",
-      "artist": "All Them Witches",
-      "title": "1X1 - Live",
-      "album": "Live On The Internet",
-      "uri": "spotify:track:0W3EMa9IxN2Y7PXhxQXx3s",
-      "url": "https://open.spotify.com/track/0W3EMa9IxN2Y7PXhxQXx3s",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 07:44:50Z",
-      "played_at_local": "2026-08-15 03:44:50 -04",
-      "local_hour": 3,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:30temVLf4Rw7CcXYaPoqeN",
-      "context_url": "https://open.spotify.com/album/30temVLf4Rw7CcXYaPoqeN"
-    },
-    {
-      "track": "All Them Witches — Diamond - Live",
-      "artist": "All Them Witches",
-      "title": "Diamond - Live",
-      "album": "Live On The Internet",
-      "uri": "spotify:track:620wkpIm5Erbt3L1YcTKz7",
-      "url": "https://open.spotify.com/track/620wkpIm5Erbt3L1YcTKz7",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 07:40:02Z",
-      "played_at_local": "2026-08-15 03:40:02 -04",
-      "local_hour": 3,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:30temVLf4Rw7CcXYaPoqeN",
-      "context_url": "https://open.spotify.com/album/30temVLf4Rw7CcXYaPoqeN"
-    },
-    {
-      "track": "All Them Witches — Blood And Sand / Milk And Endless Waters - Live",
-      "artist": "All Them Witches",
-      "title": "Blood And Sand / Milk And Endless Waters - Live",
-      "album": "Live On The Internet",
-      "uri": "spotify:track:29JJH9fvsUPRObLXsK6G1H",
-      "url": "https://open.spotify.com/track/29JJH9fvsUPRObLXsK6G1H",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-08-15 07:32:36Z",
-      "played_at_local": "2026-08-15 03:32:36 -04",
-      "local_hour": 3,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:30temVLf4Rw7CcXYaPoqeN",
-      "context_url": "https://open.spotify.com/album/30temVLf4Rw7CcXYaPoqeN"
-    },
-    {
-      "track": "Days Of The New — Where I Stand",
-      "artist": "Days Of The New",
-      "title": "Where I Stand",
-      "album": "Days Of The New",
-      "uri": "spotify:track:5rrb7jvZ3AIknpVLOfRxpx",
-      "url": "https://open.spotify.com/track/5rrb7jvZ3AIknpVLOfRxpx",
-      "artist_ids": [
-        "07jc1IMGtecDZzOL9cP50t"
-      ],
-      "played_at_utc": "2026-08-15 07:19:37Z",
-      "played_at_local": "2026-08-15 03:19:37 -04",
-      "local_hour": 3,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Hum — Iron Clad Lou",
-      "artist": "Hum",
-      "title": "Iron Clad Lou",
-      "album": "Electra 2000",
-      "uri": "spotify:track:5z9Z8pKeQkyigKgXmonAS8",
-      "url": "https://open.spotify.com/track/5z9Z8pKeQkyigKgXmonAS8",
-      "artist_ids": [
-        "6sM2JCBjZprP7JLMTZZSxX"
-      ],
-      "played_at_utc": "2026-08-15 07:13:45Z",
-      "played_at_local": "2026-08-15 03:13:45 -04",
-      "local_hour": 3,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Hum — Iron Clad Lou",
-      "artist": "Hum",
-      "title": "Iron Clad Lou",
-      "album": "Electra 2000",
-      "uri": "spotify:track:5z9Z8pKeQkyigKgXmonAS8",
-      "url": "https://open.spotify.com/track/5z9Z8pKeQkyigKgXmonAS8",
-      "artist_ids": [
-        "6sM2JCBjZprP7JLMTZZSxX"
-      ],
-      "played_at_utc": "2026-08-15 07:07:31Z",
-      "played_at_local": "2026-08-15 03:07:31 -04",
-      "local_hour": 3,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
     }
   ],
   "last_known_device_type": "Smartphone",
@@ -2395,25 +2413,25 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-08-23 10:44:52Z",
-    "week_window_utc": "2026-08-16 10:44:52Z → 2026-08-23 10:44:52Z",
-    "tracks_24h": 1,
-    "tracks_7d": 5,
-    "dominant_artist_24h": "Alice In Chains",
-    "dominant_artist_7d": "All Them Witches",
-    "listening_pattern_24h": "Light activity",
-    "activity_status_24h": "LOW",
-    "cadence_7d": "LOW",
+    "captured_utc": "2026-08-23 13:05:52Z",
+    "week_window_utc": "2026-08-16 13:05:52Z → 2026-08-23 13:05:52Z",
+    "tracks_24h": 20,
+    "tracks_7d": 24,
+    "dominant_artist_24h": "Chevelle",
+    "dominant_artist_7d": "Chevelle",
+    "listening_pattern_24h": "Regular cadence",
+    "activity_status_24h": "MEDIUM",
+    "cadence_7d": "MEDIUM",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "21:00",
-    "peak_hour_7d": "05:00",
-    "heatmap_24h": "                     █  ",
-    "heatmap_7d": "     █▃              ▃  ",
-    "sessions_24h": 1,
-    "sessions_7d": 2,
-    "avg_inter_play_gap_7d": "03:55:38",
-    "top_genres_24h": "grunge(1) | post-grunge(1)",
-    "top_genres_7d": "blues rock(2) | neo-psychedelic(2) | psychedelic rock(2) | sludge metal(2) | space rock(2) | stoner metal(2)"
+    "peak_hour_24h": "07:00",
+    "peak_hour_7d": "07:00",
+    "heatmap_24h": "       █▄            ▁  ",
+    "heatmap_7d": "     ▂▁█▄            ▁  ",
+    "sessions_24h": 2,
+    "sessions_7d": 3,
+    "avg_inter_play_gap_7d": "01:09:39",
+    "top_genres_24h": "post-grunge(16) | alternative metal(13) | nu metal(11) | shoegaze(3) | grunge(1) | post-hardcore(1)",
+    "top_genres_7d": "post-grunge(16) | alternative metal(13) | nu metal(11) | shoegaze(4) | space rock(3) | blues rock(2)"
   },
   "last_known_device_captured_utc": "2026-08-15 09:20:12Z"
 }

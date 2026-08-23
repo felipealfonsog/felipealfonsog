@@ -1,8 +1,350 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-23 10:44:52Z",
+  "updated_utc": "2026-08-23 13:05:52Z",
   "events": [
+    {
+      "track": "Loathe — Babylon...",
+      "artist": "Loathe",
+      "title": "Babylon...",
+      "album": "The Cold Sun",
+      "uri": "spotify:track:08on2wzs5D8ccY4oRrMR7G",
+      "url": "https://open.spotify.com/track/08on2wzs5D8ccY4oRrMR7G",
+      "artist_ids": [
+        "4G9wSdX0klmoHfjm9i6DLd"
+      ],
+      "played_at_utc": "2026-08-23 12:26:16Z",
+      "played_at_local": "2026-08-23 08:26:16 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Grommet — Half in Red",
+      "artist": "Grommet",
+      "title": "Half in Red",
+      "album": "Half in Red",
+      "uri": "spotify:track:1xE5rYuxTSpRu0OCM4WHEU",
+      "url": "https://open.spotify.com/track/1xE5rYuxTSpRu0OCM4WHEU",
+      "artist_ids": [
+        "0fXjvXTc3xf5JC6a6peB20"
+      ],
+      "played_at_utc": "2026-08-23 12:20:49Z",
+      "played_at_local": "2026-08-23 08:20:49 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "10 Years — Waking Up",
+      "artist": "10 Years",
+      "title": "Waking Up",
+      "album": "The Autumn Effect",
+      "uri": "spotify:track:2Zw6tXIyHRHIerZnmt4f4S",
+      "url": "https://open.spotify.com/track/2Zw6tXIyHRHIerZnmt4f4S",
+      "artist_ids": [
+        "0REMf7H0VP6DwfZ9MbuWph"
+      ],
+      "played_at_utc": "2026-08-23 12:16:57Z",
+      "played_at_local": "2026-08-23 08:16:57 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Evans Blue — Eclipsed",
+      "artist": "Evans Blue",
+      "title": "Eclipsed",
+      "album": "The Melody And The Energetic Nature Of Volume",
+      "uri": "spotify:track:4y6EKSdTBFG1t00NIFV4lp",
+      "url": "https://open.spotify.com/track/4y6EKSdTBFG1t00NIFV4lp",
+      "artist_ids": [
+        "6pDRa5fS3myWSP0fpIUcNl"
+      ],
+      "played_at_utc": "2026-08-23 12:13:31Z",
+      "played_at_local": "2026-08-23 08:13:31 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Submersed — Flicker",
+      "artist": "Submersed",
+      "title": "Flicker",
+      "album": "In Due Time",
+      "uri": "spotify:track:10e6pjcRdRueOERvQ74PUt",
+      "url": "https://open.spotify.com/track/10e6pjcRdRueOERvQ74PUt",
+      "artist_ids": [
+        "0539gq2LM2VDs01rp8gnGz"
+      ],
+      "played_at_utc": "2026-08-23 12:09:13Z",
+      "played_at_local": "2026-08-23 08:09:13 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "✝✝✝ (Crosses) — Option",
+      "artist": "✝✝✝ (Crosses)",
+      "title": "Option",
+      "album": "††† (Crosses)",
+      "uri": "spotify:track:3rbs4YknbRTpNGI68IHb6C",
+      "url": "https://open.spotify.com/track/3rbs4YknbRTpNGI68IHb6C",
+      "artist_ids": [
+        "3gPZCcrc8KG2RuVl3rtbQ2"
+      ],
+      "played_at_utc": "2026-08-23 12:03:51Z",
+      "played_at_local": "2026-08-23 08:03:51 -04",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Superheaven — I've Been Bored",
+      "artist": "Superheaven",
+      "title": "I've Been Bored",
+      "album": "Ours Is Chrome",
+      "uri": "spotify:track:5mQ1FMJvCHj0FGa4qrPqte",
+      "url": "https://open.spotify.com/track/5mQ1FMJvCHj0FGa4qrPqte",
+      "artist_ids": [
+        "1IHjrY7ygKbmLVoUV1VcXc"
+      ],
+      "played_at_utc": "2026-08-23 11:59:30Z",
+      "played_at_local": "2026-08-23 07:59:30 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Hum — Step into You",
+      "artist": "Hum",
+      "title": "Step into You",
+      "album": "Inlet",
+      "uri": "spotify:track:6CJEsReQ6bC8DAPTSrAWO7",
+      "url": "https://open.spotify.com/track/6CJEsReQ6bC8DAPTSrAWO7",
+      "artist_ids": [
+        "6sM2JCBjZprP7JLMTZZSxX"
+      ],
+      "played_at_utc": "2026-08-23 11:56:12Z",
+      "played_at_local": "2026-08-23 07:56:12 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — It's No Good",
+      "artist": "Chevelle",
+      "title": "It's No Good",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:7f1joPvxiISxqN6Vt8BJIz",
+      "url": "https://open.spotify.com/track/7f1joPvxiISxqN6Vt8BJIz",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:51:15Z",
+      "played_at_local": "2026-08-23 07:51:15 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Black Boys On Mopeds",
+      "artist": "Chevelle",
+      "title": "Black Boys On Mopeds",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:178X3g5K8PiSPEeKLREeLf",
+      "url": "https://open.spotify.com/track/178X3g5K8PiSPEeKLREeLf",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:47:16Z",
+      "played_at_local": "2026-08-23 07:47:16 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — (High) Visibility",
+      "artist": "Chevelle",
+      "title": "(High) Visibility",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:3i6IBKqiI7zke1ilNniYXQ",
+      "url": "https://open.spotify.com/track/3i6IBKqiI7zke1ilNniYXQ",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:43:49Z",
+      "played_at_local": "2026-08-23 07:43:49 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Until You're Reformed",
+      "artist": "Chevelle",
+      "title": "Until You're Reformed",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:2Vh2TzE3C8LJo0Q1XCbGzK",
+      "url": "https://open.spotify.com/track/2Vh2TzE3C8LJo0Q1XCbGzK",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:41:12Z",
+      "played_at_local": "2026-08-23 07:41:12 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — An Evening with El Diablo",
+      "artist": "Chevelle",
+      "title": "An Evening with El Diablo",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:5912VywSVB1xQaSGosKg0t",
+      "url": "https://open.spotify.com/track/5912VywSVB1xQaSGosKg0t",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:36:19Z",
+      "played_at_local": "2026-08-23 07:36:19 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — An Evening with El Diablo",
+      "artist": "Chevelle",
+      "title": "An Evening with El Diablo",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:5912VywSVB1xQaSGosKg0t",
+      "url": "https://open.spotify.com/track/5912VywSVB1xQaSGosKg0t",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:29:45Z",
+      "played_at_local": "2026-08-23 07:29:45 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Grab Thy Hand",
+      "artist": "Chevelle",
+      "title": "Grab Thy Hand",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:42pNX8mZefuDKb06aFFJ79",
+      "url": "https://open.spotify.com/track/42pNX8mZefuDKb06aFFJ79",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:24:02Z",
+      "played_at_local": "2026-08-23 07:24:02 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Forfeit",
+      "artist": "Chevelle",
+      "title": "Forfeit",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:6ptcVVRn97eAKqUy6kUVK5",
+      "url": "https://open.spotify.com/track/6ptcVVRn97eAKqUy6kUVK5",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:19:48Z",
+      "played_at_local": "2026-08-23 07:19:48 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Don't Fake This",
+      "artist": "Chevelle",
+      "title": "Don't Fake This",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:2Bcvh4zypRuH0cCTQzuV6B",
+      "url": "https://open.spotify.com/track/2Bcvh4zypRuH0cCTQzuV6B",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:15:49Z",
+      "played_at_local": "2026-08-23 07:15:49 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — Wonder What's Next",
+      "artist": "Chevelle",
+      "title": "Wonder What's Next",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:7hOgnx2HOJ1KBdv0U0n1T3",
+      "url": "https://open.spotify.com/track/7hOgnx2HOJ1KBdv0U0n1T3",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:12:10Z",
+      "played_at_local": "2026-08-23 07:12:10 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — The Red",
+      "artist": "Chevelle",
+      "title": "The Red",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 11:08:00Z",
+      "played_at_local": "2026-08-23 07:08:00 -04",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
     {
       "track": "Alice In Chains — Rooster (2022 Remaster)",
       "artist": "Alice In Chains",

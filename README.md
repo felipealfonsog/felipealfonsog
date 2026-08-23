@@ -1488,21 +1488,21 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Alice In Chains — Rooster (2022 Remaster)
-Artist                    : Alice In Chains
-Title                     : Rooster (2022 Remaster)
-Album                     : Dirt (2022 Remaster)
-Spotify URI               : spotify:track:0wvIGFIgbyz4JNwQhZgTv2
-Spotify URL               : https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2
+Track                     : Loathe — Babylon...
+Artist                    : Loathe
+Title                     : Babylon...
+Album                     : The Cold Sun
+Spotify URI               : spotify:track:08on2wzs5D8ccY4oRrMR7G
+Spotify URL               : https://open.spotify.com/track/08on2wzs5D8ccY4oRrMR7G
 ------------------------------------------------------------
-Played at (UTC)           : 2026-08-23 01:26:48Z
-Played at (local)         : 2026-08-22 21:26:48 -04
-Local hour                : 21:00
-Daypart                   : EVENING
-Time since play           : 09:18:04
-Gap from previous play    : 15:15:02
+Played at (UTC)           : 2026-08-23 12:26:16Z
+Played at (local)         : 2026-08-23 08:26:16 -04
+Local hour                : 08:00
+Daypart                   : MORNING
+Time since play           : 00:39:36
+Gap from previous play    : 00:05:27
 ------------------------------------------------------------
-Previous song             : Knogjärn — Ingenting vackert
+Previous song             : Grommet — Half in Red
 Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
@@ -1511,46 +1511,46 @@ Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Knogjärn — Ingenting vackert | 2026-08-22 06:11:46 -04
-Previous track #2         : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04
-Previous track #3         : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04
-Previous track #4         : Wayside — Parallax Error | 2026-08-22 05:44:14 -04
-Previous track #5         : All Them Witches — Turn On The Light | 2026-08-16 02:10:36 -04
-Previous track #6         : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04
-Previous track #7         : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04
-Previous track #8         : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04
-Previous track #9         : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04
-Previous track #10        : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04
-Previous track #11        : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04
-Previous track #12        : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04
-Previous track #13        : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04
-Previous track #14        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04
-Previous track #15        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04
-Previous track #16        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04
-Previous track #17        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04
-Previous track #18        : All Them Witches — Hold Up, Say What? | 2026-08-15 06:55:33 -04
-Previous track #19        : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04
-Previous track #20        : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04
-Previous track #21        : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04
-Previous track #22        : All Them Witches — Red Rocking Chair | 2026-08-15 05:18:22 -04
-Previous track #23        : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04
-Previous track #24        : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04
-Previous track #25        : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04
-Previous track #26        : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04
-Previous track #27        : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04
-Previous track #28        : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04
-Previous track #29        : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04
-Previous track #30        : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04
-Previous track #31        : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04
-Previous track #32        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04
-Previous track #33        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04
-Previous track #34        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04
-Previous track #35        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04
-Previous track #36        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04
-Previous track #37        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04
-Previous track #38        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04
-Previous track #39        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04
-Previous track #40        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04
+Previous track #1         : Grommet — Half in Red | 2026-08-23 08:20:49 -04
+Previous track #2         : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
+Previous track #3         : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
+Previous track #4         : Submersed — Flicker | 2026-08-23 08:09:13 -04
+Previous track #5         : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
+Previous track #6         : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
+Previous track #7         : Hum — Step into You | 2026-08-23 07:56:12 -04
+Previous track #8         : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
+Previous track #9         : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
+Previous track #10        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
+Previous track #11        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
+Previous track #12        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04
+Previous track #13        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04
+Previous track #14        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04
+Previous track #15        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04
+Previous track #16        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04
+Previous track #17        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04
+Previous track #18        : Chevelle — The Red | 2026-08-23 07:08:00 -04
+Previous track #19        : Alice In Chains — Rooster (2022 Remaster) | 2026-08-22 21:26:48 -04
+Previous track #20        : Knogjärn — Ingenting vackert | 2026-08-22 06:11:46 -04
+Previous track #21        : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04
+Previous track #22        : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04
+Previous track #23        : Wayside — Parallax Error | 2026-08-22 05:44:14 -04
+Previous track #24        : All Them Witches — Turn On The Light | 2026-08-16 02:10:36 -04
+Previous track #25        : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04
+Previous track #26        : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04
+Previous track #27        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04
+Previous track #28        : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04
+Previous track #29        : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04
+Previous track #30        : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04
+Previous track #31        : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04
+Previous track #32        : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04
+Previous track #33        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04
+Previous track #34        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04
+Previous track #35        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04
+Previous track #36        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04
+Previous track #37        : All Them Witches — Hold Up, Say What? | 2026-08-15 06:55:33 -04
+Previous track #38        : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04
+Previous track #39        : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04
+Previous track #40        : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1573,47 +1573,47 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 5
-Unique tracks             : 5
-Unique artists            : 4
-Replay ratio              : ░░░░░░░░░░░░░░░░░░  0.0%
-Artist diversity          : ██████████████░░░░  80.0%
-Dominant artist           : All Them Witches
-Dominant artist share     : ███████░░░░░░░░░░░  40.0%
-Artist switch ratio       : ██████████████░░░░  75.0%
-Longest artist streak     : All Them Witches × 2
+Observed events           : 24
+Unique tracks             : 23
+Unique artists            : 13
+Replay ratio              : █░░░░░░░░░░░░░░░░░  4.2%
+Artist diversity          : ██████████░░░░░░░░  54.2%
+Dominant artist           : Chevelle
+Dominant artist share     : ████████░░░░░░░░░░  45.8%
+Artist switch ratio       : █████████░░░░░░░░░  52.2%
+Longest artist streak     : Chevelle × 11
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███████████░░░░░░░   60.0%
-Morning    06–12           : ████░░░░░░░░░░░░░░   20.0%
+Night      00–06           : ██░░░░░░░░░░░░░░░░   12.5%
+Morning    06–12           : ███████████████░░░   83.3%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ████░░░░░░░░░░░░░░   20.0%
-Dominant period           : NIGHT
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    4.2%
+Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-08-22 09:44:14Z
-History last play (7d)    : 2026-08-23 01:26:48Z
-Observed time span        : 15:42:34
-Mean inter-play gap       : 03:55:38
-Median inter-play gap     : 00:11:44
+History last play (7d)    : 2026-08-23 12:26:16Z
+Observed time span        : 26:42:02
+Mean inter-play gap       : 01:09:39
+Median inter-play gap     : 00:04:18
 Longest inactivity gap    : 15:15:02
-Listening intensity       : 0.32 tracks/hour
+Listening intensity       : 0.90 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 21:00
-Peak hour (7d)            : 05:00
-Heatmap (24h)             :                      █  
-Heatmap (7d)              :      █▃              ▃  
+Peak hour (24h)           : 07:00
+Peak hour (7d)            : 07:00
+Heatmap (24h)             :        █▄            ▁  
+Heatmap (7d)              :      ▂▁█▄            ▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :      █ 
+Activity (Mon→Sun)        :      ▂█
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :                    ▃▆█▄     ▁ 
+Activity trend (30d)      :                    ▃▆█▄     ▁▅
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1624,51 +1624,51 @@ Wed                       :
 Thu                       :                         
 Fri                       :                         
 Sat                       :      █▃              ▃  
-Sun                       :                         
+Sun                       :        █▄               
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Alice In Chains
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 20
+Dominant artist           : Chevelle
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-16 10:44:52Z → 2026-08-23 10:44:52Z
-Tracks played (7d)        : 5
-Dominant artist           : All Them Witches
-Cadence classification    : LOW
+Week window (UTC)         : 2026-08-16 13:05:52Z → 2026-08-23 13:05:52Z
+Tracks played (7d)        : 24
+Dominant artist           : Chevelle
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 2
-Avg inter-play gap        : 03:55:38
+Sessions (24h)            : 2
+Sessions (7d)             : 3
+Avg inter-play gap        : 01:09:39
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
-Top genres (7d)           : blues rock(2) | neo-psychedelic(2) | psychedelic rock(2) | sludge metal(2) | space rock(2) | stoner metal(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(16) | alternative metal(13) | nu metal(11) | shoegaze(3) | grunge(1) | post-hardcore(1)
+Top genres (7d)           : post-grunge(16) | alternative metal(13) | nu metal(11) | shoegaze(4) | space rock(3) | blues rock(2)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Alice In Chains — Rooster (2022 Remaster) → Loathe — Babylon...
+Playback timestamp Δ      : 2026-08-23 01:26:48Z → 2026-08-23 12:26:16Z
 State transition          : NO CHANGE
-Telemetry interval        : 01:52:10
+Telemetry interval        : 02:21:00
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 79
+Events retained           : 98
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-08-22 21:26:48 -04
-Events (24h)              : 1
-Events (7d)               : 5
-Events (30d)              : 79
+Newest retained event     : 2026-08-23 08:26:16 -04
+Events (24h)              : 20
+Events (7d)               : 24
+Events (30d)              : 98
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-23 10:44:52Z
+Report generated (UTC)    : 2026-08-23 13:05:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
