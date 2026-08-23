@@ -2055,7 +2055,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 22 August 2026
+From: 04 December 2023 - To: 23 August 2026
 
 Total Time       : 1,050 hrs 35 mins
 Mostly coding in : Other
@@ -2066,7 +2066,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          767 hrs 9 mins ●●●●●●●●●●●●●●●●●●◔○○○○○○○  73.02 %
+Other          771 hrs 30 mins ●●●●●●●●●●●●●●●●●●●○○○○○○○  73.44 %
 Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.82 %
 Python         142 hrs        ●●●◔○○○○○○○○○○○○○○○○○○○○○○  13.52 %
 HTML           138 hrs 14 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
@@ -2079,16 +2079,16 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,099 hrs 16 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,103 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●◔○○○○○○○○  68.06 %
 
 EDITORS - APPS
 --------------
 VS Code        659 hrs 35 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  62.78 %
-Firefox        572 hrs 48 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.52 %
+Firefox        575 hrs 25 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.77 %
 Vim            337 hrs 55 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  32.17 %
 Terminal       43 hrs 48 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.17 %
-Spotify        38 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.62 %
+Spotify        39 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
 Termius        24 hrs 2 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.29 %
 Dia            20 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.97 %
 ‎WhatsApp      20 hrs 36 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.96 %
@@ -2099,16 +2099,16 @@ FileZilla      9 hrs 8 mins   ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,202 hrs 31 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       569 hrs 45 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.23 %
+Coding         1,204 hrs 15 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       572 hrs 21 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  54.48 %
 Meeting        29 hrs 20 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.79 %
-Writing Docs   13 hrs 8 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.25 %
+Writing Docs   13 hrs 9 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.25 %
 AI Coding      2 hrs 57 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.28 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 23/08/2026 06:32:02 UTC
+Last updated     : 23/08/2026 12:29:03 UTC
 
 ```
 <!--END_SECTION:wakastats-->
