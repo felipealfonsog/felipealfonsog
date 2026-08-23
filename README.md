@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-23 12:26:16Z
 Played at (local)         : 2026-08-23 08:26:16 -04
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 00:39:36
+Time since play           : 02:18:06
 Gap from previous play    : 00:05:27
 ------------------------------------------------------------
 Previous song             : Grommet — Half in Red
@@ -1636,7 +1636,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-16 13:05:52Z → 2026-08-23 13:05:52Z
+Week window (UTC)         : 2026-08-16 14:44:21Z → 2026-08-23 14:44:21Z
 Tracks played (7d)        : 24
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1652,14 +1652,14 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(16) | alternative metal(13) | nu metal(11) | shoegaze(3) | grunge(1) | post-hardcore(1)
 Top genres (7d)           : post-grunge(16) | alternative metal(13) | nu metal(11) | shoegaze(4) | space rock(3) | blues rock(2)
-Artist lookups (this run) : 4 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Alice In Chains — Rooster (2022 Remaster) → Loathe — Babylon...
-Playback timestamp Δ      : 2026-08-23 01:26:48Z → 2026-08-23 12:26:16Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 02:21:00
+Telemetry interval        : 01:38:30
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-23 13:05:52Z
+Report generated (UTC)    : 2026-08-23 14:44:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
