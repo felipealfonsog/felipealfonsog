@@ -44,7 +44,7 @@ LINKS_JOIN_WITH = ""
 # FULL IMAGE MODE
 # ============================================================
 
-FULL_IMAGE_URL = "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons1inline-fullv3.png"
+FULL_IMAGE_URL = "https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons1inline-fullv4.png"
 
 FULL_IMAGE_LINK = "#"
 FULL_IMAGE_OPEN_IN_NEW_TAB = True
