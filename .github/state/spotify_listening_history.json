@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-23 14:44:21Z",
+  "updated_utc": "2026-08-23 16:46:06Z",
   "events": [
+    {
+      "track": "Chevelle — Still Running",
+      "artist": "Chevelle",
+      "title": "Still Running",
+      "album": "This Type Of Thinking (Could Do Us In)",
+      "uri": "spotify:track:5W4eJ7KPOmruHn8BJPnoaj",
+      "url": "https://open.spotify.com/track/5W4eJ7KPOmruHn8BJPnoaj",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-08-23 15:56:54Z",
+      "played_at_local": "2026-08-23 11:56:54 -04",
+      "local_hour": 11,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
     {
       "track": "Loathe — Babylon...",
       "artist": "Loathe",
