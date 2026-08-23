@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-22 22:42:39Z",
+  "updated_utc": "2026-08-23 02:02:39Z",
   "events": [
+    {
+      "track": "Alice In Chains — Rooster (2022 Remaster)",
+      "artist": "Alice In Chains",
+      "title": "Rooster (2022 Remaster)",
+      "album": "Dirt (2022 Remaster)",
+      "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2",
+      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2",
+      "artist_ids": [
+        "64tNsm6TnZe2zpcMVMOoHL"
+      ],
+      "played_at_utc": "2026-08-23 01:26:48Z",
+      "played_at_local": "2026-08-22 21:26:48 -04",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM",
+      "context_url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+    },
     {
       "track": "Knogjärn — Ingenting vackert",
       "artist": "Knogjärn",

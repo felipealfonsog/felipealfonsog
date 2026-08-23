@@ -1487,21 +1487,21 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Knogjärn — Ingenting vackert
-Artist                    : Knogjärn
-Title                     : Ingenting vackert
-Album                     : Stora och farliga
-Spotify URI               : spotify:track:79sbw0Prh8ZD0m1qPWjivV
-Spotify URL               : https://open.spotify.com/track/79sbw0Prh8ZD0m1qPWjivV
+Track                     : Alice In Chains — Rooster (2022 Remaster)
+Artist                    : Alice In Chains
+Title                     : Rooster (2022 Remaster)
+Album                     : Dirt (2022 Remaster)
+Spotify URI               : spotify:track:0wvIGFIgbyz4JNwQhZgTv2
+Spotify URL               : https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2
 ------------------------------------------------------------
-Played at (UTC)           : 2026-08-22 10:11:46Z
-Played at (local)         : 2026-08-22 06:11:46 -04
-Local hour                : 06:00
-Daypart                   : MORNING
-Time since play           : 12:30:53
-Gap from previous play    : 00:16:44
+Played at (UTC)           : 2026-08-23 01:26:48Z
+Played at (local)         : 2026-08-22 21:26:48 -04
+Local hour                : 21:00
+Daypart                   : EVENING
+Time since play           : 00:35:52
+Gap from previous play    : 15:15:02
 ------------------------------------------------------------
-Previous song             : All Them Witches — Culling Line
+Previous song             : Knogjärn — Ingenting vackert
 Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
@@ -1510,46 +1510,46 @@ Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04
-Previous track #2         : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04
-Previous track #3         : Wayside — Parallax Error | 2026-08-22 05:44:14 -04
-Previous track #4         : All Them Witches — Turn On The Light | 2026-08-16 02:10:36 -04
-Previous track #5         : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04
-Previous track #6         : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04
-Previous track #7         : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04
-Previous track #8         : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04
-Previous track #9         : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04
-Previous track #10        : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04
-Previous track #11        : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04
-Previous track #12        : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04
-Previous track #13        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04
-Previous track #14        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04
-Previous track #15        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04
-Previous track #16        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04
-Previous track #17        : All Them Witches — Hold Up, Say What? | 2026-08-15 06:55:33 -04
-Previous track #18        : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04
-Previous track #19        : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04
-Previous track #20        : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04
-Previous track #21        : All Them Witches — Red Rocking Chair | 2026-08-15 05:18:22 -04
-Previous track #22        : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04
-Previous track #23        : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04
-Previous track #24        : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04
-Previous track #25        : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04
-Previous track #26        : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04
-Previous track #27        : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04
-Previous track #28        : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04
-Previous track #29        : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04
-Previous track #30        : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04
-Previous track #31        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04
-Previous track #32        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04
-Previous track #33        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04
-Previous track #34        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04
-Previous track #35        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04
-Previous track #36        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04
-Previous track #37        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04
-Previous track #38        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04
-Previous track #39        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04
-Previous track #40        : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04
+Previous track #1         : Knogjärn — Ingenting vackert | 2026-08-22 06:11:46 -04
+Previous track #2         : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04
+Previous track #3         : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04
+Previous track #4         : Wayside — Parallax Error | 2026-08-22 05:44:14 -04
+Previous track #5         : All Them Witches — Turn On The Light | 2026-08-16 02:10:36 -04
+Previous track #6         : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04
+Previous track #7         : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04
+Previous track #8         : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04
+Previous track #9         : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04
+Previous track #10        : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04
+Previous track #11        : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04
+Previous track #12        : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04
+Previous track #13        : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04
+Previous track #14        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04
+Previous track #15        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04
+Previous track #16        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04
+Previous track #17        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04
+Previous track #18        : All Them Witches — Hold Up, Say What? | 2026-08-15 06:55:33 -04
+Previous track #19        : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04
+Previous track #20        : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04
+Previous track #21        : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04
+Previous track #22        : All Them Witches — Red Rocking Chair | 2026-08-15 05:18:22 -04
+Previous track #23        : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04
+Previous track #24        : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04
+Previous track #25        : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04
+Previous track #26        : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04
+Previous track #27        : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04
+Previous track #28        : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04
+Previous track #29        : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04
+Previous track #30        : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04
+Previous track #31        : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04
+Previous track #32        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04
+Previous track #33        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04
+Previous track #34        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04
+Previous track #35        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04
+Previous track #36        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04
+Previous track #37        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04
+Previous track #38        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04
+Previous track #39        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04
+Previous track #40        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1572,31 +1572,31 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 17
-Unique tracks             : 9
-Unique artists            : 3
-Replay ratio              : ████████░░░░░░░░░░  47.1%
-Artist diversity          : ███░░░░░░░░░░░░░░░  17.6%
+Observed events           : 18
+Unique tracks             : 10
+Unique artists            : 4
+Replay ratio              : ████████░░░░░░░░░░  44.4%
+Artist diversity          : ████░░░░░░░░░░░░░░  22.2%
 Dominant artist           : All Them Witches
-Dominant artist share     : ████████████████░░  88.2%
-Artist switch ratio       : ███░░░░░░░░░░░░░░░  18.8%
+Dominant artist share     : ███████████████░░░  83.3%
+Artist switch ratio       : ████░░░░░░░░░░░░░░  23.5%
 Longest artist streak     : All Them Witches × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █████████████████░   94.1%
-Morning    06–12           : █░░░░░░░░░░░░░░░░░    5.9%
+Night      00–06           : ████████████████░░   88.9%
+Morning    06–12           : █░░░░░░░░░░░░░░░░░    5.6%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    5.6%
 Dominant period           : NIGHT
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-08-16 05:20:21Z
-History last play (7d)    : 2026-08-22 10:11:46Z
-Observed time span        : 148:51:25
-Mean inter-play gap       : 09:18:13
-Median inter-play gap     : 00:04:04
+History last play (7d)    : 2026-08-23 01:26:48Z
+Observed time span        : 164:06:27
+Mean inter-play gap       : 09:39:12
+Median inter-play gap     : 00:04:05
 Longest inactivity gap    : 147:33:38
 Listening intensity       : 0.11 tracks/hour
 ------------------------------------------------------------
@@ -1605,12 +1605,12 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             :      █▃                 
-Heatmap (7d)              :  █▂  ▂▁                 
+Heatmap (24h)             :      █▃              ▃  
+Heatmap (7d)              :  █▂  ▂▁              ▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :      ▂█
+Activity (Mon→Sun)        :      ▃█
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :                     ▃▆█▄     ▁
 Trend order               : oldest → newest
@@ -1622,30 +1622,30 @@ Tue                       :
 Wed                       :                         
 Thu                       :                         
 Fri                       :                         
-Sat                       :      █▃                 
+Sat                       :      █▃              ▃  
 Sun                       :  █▂                     
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
+Tracks played (last 24h)  : 5
 Dominant artist           : All Them Witches
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-15 22:42:39Z → 2026-08-22 22:42:39Z
-Tracks played (7d)        : 17
+Week window (UTC)         : 2026-08-16 02:02:39Z → 2026-08-23 02:02:39Z
+Tracks played (7d)        : 18
 Dominant artist           : All Them Witches
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 2
-Avg inter-play gap        : 09:18:13
+Sessions (24h)            : 2
+Sessions (7d)             : 3
+Avg inter-play gap        : 09:39:12
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1655,19 +1655,19 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Knogjärn — Ingenting vackert → Alice In Chains — Rooster (2022 Remaster)
+Playback timestamp Δ      : 2026-08-22 10:11:46Z → 2026-08-23 01:26:48Z
 State transition          : NO CHANGE
-Telemetry interval        : 01:59:23
+Telemetry interval        : 03:20:01
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 78
+Events retained           : 79
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-08-22 06:11:46 -04
-Events (24h)              : 4
-Events (7d)               : 17
-Events (30d)              : 78
+Newest retained event     : 2026-08-22 21:26:48 -04
+Events (24h)              : 5
+Events (7d)               : 18
+Events (30d)              : 79
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-22 22:42:39Z
+Report generated (UTC)    : 2026-08-23 02:02:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
