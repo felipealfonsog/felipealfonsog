@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-23 01:26:48Z
 Played at (local)         : 2026-08-22 21:26:48 -04
 Local hour                : 21:00
 Daypart                   : EVENING
-Time since play           : 01:58:26
+Time since play           : 03:28:53
 Gap from previous play    : 15:15:02
 ------------------------------------------------------------
 Previous song             : Knogjärn — Ingenting vackert
@@ -1612,7 +1612,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :      ▃█
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :                     ▃▆█▄     ▁
+Activity trend (30d)      :                    ▃▆█▄     ▁ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1635,7 +1635,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-16 03:25:14Z → 2026-08-23 03:25:14Z
+Week window (UTC)         : 2026-08-16 04:55:41Z → 2026-08-23 04:55:41Z
 Tracks played (7d)        : 18
 Dominant artist           : All Them Witches
 Cadence classification    : MEDIUM
@@ -1658,7 +1658,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:22:35
+Telemetry interval        : 01:30:27
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-23 03:25:14Z
+Report generated (UTC)    : 2026-08-23 04:55:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
