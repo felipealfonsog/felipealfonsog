@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-23 01:26:48Z
 Played at (local)         : 2026-08-22 21:26:48 -04
 Local hour                : 21:00
 Daypart                   : EVENING
-Time since play           : 07:25:55
+Time since play           : 09:18:04
 Gap from previous play    : 15:15:02
 ------------------------------------------------------------
 Previous song             : Knogjärn — Ingenting vackert
@@ -1604,9 +1604,9 @@ Listening intensity       : 0.32 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 05:00
+Peak hour (24h)           : 21:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :      █▃              ▃  
+Heatmap (24h)             :                      █  
 Heatmap (7d)              :      █▃              ▃  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1629,14 +1629,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
-Dominant artist           : All Them Witches
+Tracks played (last 24h)  : 1
+Dominant artist           : Alice In Chains
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-16 08:52:42Z → 2026-08-23 08:52:42Z
+Week window (UTC)         : 2026-08-16 10:44:52Z → 2026-08-23 10:44:52Z
 Tracks played (7d)        : 5
 Dominant artist           : All Them Witches
 Cadence classification    : LOW
@@ -1644,13 +1644,13 @@ Cadence classification    : LOW
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 2
 Avg inter-play gap        : 03:55:38
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : blues rock(2) | neo-psychedelic(2) | psychedelic rock(2) | sludge metal(2) | space rock(2) | stoner metal(2)
+Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : blues rock(2) | neo-psychedelic(2) | psychedelic rock(2) | sludge metal(2) | space rock(2) | stoner metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1659,14 +1659,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:46:23
+Telemetry interval        : 01:52:10
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 79
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-22 21:26:48 -04
-Events (24h)              : 5
+Events (24h)              : 1
 Events (7d)               : 5
 Events (30d)              : 79
 Playlist contexts retained: 9
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-23 08:52:42Z
+Report generated (UTC)    : 2026-08-23 10:44:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
