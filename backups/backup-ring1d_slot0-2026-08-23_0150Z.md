@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-08-22_0141Z
+ snapshot_utc : 2026-08-23_0150Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -532,7 +532,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-08-21T18:50:27+00:00 | last_update=2026-08-21T18:50:27+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-08-22T18:42:49+00:00 | last_update=2026-08-22T18:42:49+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -702,13 +702,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. DEGRADED
 HTTP................ 403 Forbidden
-LATENCY............. 34 ms
-TTFB................ 33 ms
+LATENCY............. 108 ms
+TTFB................ 107 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 72d
+TLS_EXPIRY.......... 71d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -737,7 +737,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-08-21T03:54:36Z
+LAST_PROBE_UTC...... 2026-08-22T03:46:54Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -778,18 +778,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.444614
-longitude      : -70.650977
-altitude       : 65 m
-gps_accuracy   : ±3.8 m
-heading        : 90°
-speed          : 0.2 km/h
-status         : stationary
+latitude       : -33.444670
+longitude      : -70.650574
+altitude       : 70 m
+gps_accuracy   : ±5.7 m
+heading        : 224°
+speed          : 6.0 km/h
+status         : in_transit
 phase          : evening
-local_time     : 20:39
+local_time     : 20:42
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-08-22 00:39:19 UTC
+updated_utc    : 2026-08-23 00:42:04 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -908,7 +908,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-08-21 19:00:02Z
+DSN snapshot (UTC)       : 2026-08-22 18:51:10Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -919,15 +919,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.62e9 km | 171.267 AU
-Heliocentric distance    : 171.525 AU
-Relative speed           : 43.624 km/s
+Earth distance           : 25.62e9 km | 171.290 AU
+Heliocentric distance    : 171.535 AU
+Relative speed           : 43.686 km/s
 ------------------------------------------------------------
-One-way light time       : 23:44:23
-Round-trip latency       : 47:28:46
+One-way light time       : 23:44:34
+Round-trip latency       : 47:29:09
 ------------------------------------------------------------
-Δ distance (since last)  : +826,782 km
-Mission age              : 48 years, 362 days
+Δ distance (since last)  : +834,112 km
+Mission age              : 48 years, 363 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -938,19 +938,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.41e9 km | 143.112 AU
-Heliocentric distance    : 143.736 AU
-Relative speed           : 38.003 km/s
+Earth distance           : 21.41e9 km | 143.128 AU
+Heliocentric distance    : 143.745 AU
+Relative speed           : 38.116 km/s
 ------------------------------------------------------------
-One-way light time       : 19:50:13
-Round-trip latency       : 39:40:27
+One-way light time       : 19:50:22
+Round-trip latency       : 39:40:44
 ------------------------------------------------------------
-Δ distance (since last)  : +609,877 km
-Mission age              : 49 years, 13 days
+Δ distance (since last)  : +619,768 km
+Mission age              : 49 years, 14 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-08-21 19:00:03Z
+Report generated (UTC)   : 2026-08-22 18:51:13Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1494,69 +1494,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : All Them Witches — Turn On The Light
-Artist                    : All Them Witches
-Title                     : Turn On The Light
-Album                     : House Of Mirrors
-Spotify URI               : spotify:track:30KvzNMHttB23DqYkbQmj4
-Spotify URL               : https://open.spotify.com/track/30KvzNMHttB23DqYkbQmj4
+Track                     : Knogjärn — Ingenting vackert
+Artist                    : Knogjärn
+Title                     : Ingenting vackert
+Album                     : Stora och farliga
+Spotify URI               : spotify:track:79sbw0Prh8ZD0m1qPWjivV
+Spotify URL               : https://open.spotify.com/track/79sbw0Prh8ZD0m1qPWjivV
 ------------------------------------------------------------
-Played at (UTC)           : 2026-08-16 06:10:36Z
-Played at (local)         : 2026-08-16 02:10:36 -04
-Local hour                : 02:00
-Daypart                   : NIGHT
-Time since play           : 136:34:54
-Gap from previous play    : 00:04:29
+Played at (UTC)           : 2026-08-22 10:11:46Z
+Played at (local)         : 2026-08-22 06:11:46 -04
+Local hour                : 06:00
+Daypart                   : MORNING
+Time since play           : 12:30:53
+Gap from previous play    : 00:16:44
 ------------------------------------------------------------
-Previous song             : All Them Witches — Starting Line
-Same artist as previous   : YES
+Previous song             : All Them Witches — Culling Line
+Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 31
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04
-Previous track #2         : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04
-Previous track #3         : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04
-Previous track #4         : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04
-Previous track #5         : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04
-Previous track #6         : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04
-Previous track #7         : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04
-Previous track #8         : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04
-Previous track #9         : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04
-Previous track #10        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04
-Previous track #11        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04
-Previous track #12        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04
-Previous track #13        : All Them Witches — Hold Up, Say What? | 2026-08-15 06:55:33 -04
-Previous track #14        : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04
-Previous track #15        : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04
-Previous track #16        : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04
-Previous track #17        : All Them Witches — Red Rocking Chair | 2026-08-15 05:18:22 -04
-Previous track #18        : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04
-Previous track #19        : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04
-Previous track #20        : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04
-Previous track #21        : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04
-Previous track #22        : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04
-Previous track #23        : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04
-Previous track #24        : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04
-Previous track #25        : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04
-Previous track #26        : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04
-Previous track #27        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04
-Previous track #28        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04
-Previous track #29        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04
-Previous track #30        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04
-Previous track #31        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04
-Previous track #32        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04
-Previous track #33        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04
-Previous track #34        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04
-Previous track #35        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04
-Previous track #36        : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04
-Previous track #37        : Silverchair — One Way Mule | 2026-08-15 02:47:14 -04
-Previous track #38        : Silverchair — Madman | 2026-08-15 02:36:50 -04
-Previous track #39        : Silverchair — Suicidal Dream | 2026-08-15 02:34:07 -04
-Previous track #40        : Silverchair — Cicada | 2026-08-15 02:30:48 -04
+Previous track #1         : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04
+Previous track #2         : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04
+Previous track #3         : Wayside — Parallax Error | 2026-08-22 05:44:14 -04
+Previous track #4         : All Them Witches — Turn On The Light | 2026-08-16 02:10:36 -04
+Previous track #5         : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04
+Previous track #6         : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04
+Previous track #7         : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04
+Previous track #8         : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04
+Previous track #9         : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04
+Previous track #10        : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04
+Previous track #11        : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04
+Previous track #12        : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04
+Previous track #13        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04
+Previous track #14        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04
+Previous track #15        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04
+Previous track #16        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04
+Previous track #17        : All Them Witches — Hold Up, Say What? | 2026-08-15 06:55:33 -04
+Previous track #18        : All Them Witches — Aethernet | 2026-08-15 05:34:13 -04
+Previous track #19        : All Them Witches — Culling Line | 2026-08-15 05:29:14 -04
+Previous track #20        : All Them Witches — Red Rocking Chair | 2026-08-15 05:25:10 -04
+Previous track #21        : All Them Witches — Red Rocking Chair | 2026-08-15 05:18:22 -04
+Previous track #22        : All Them Witches — Red Rocking Chair | 2026-08-15 05:12:03 -04
+Previous track #23        : All Them Witches — Red Rocking Chair | 2026-08-15 05:05:25 -04
+Previous track #24        : DOWN — Right Place, Wrong Time | 2026-08-15 05:03:53 -04
+Previous track #25        : Silverchair — Mind Reader | 2026-08-15 05:03:53 -04
+Previous track #26        : All Them Witches — Rats In Ruin | 2026-08-15 05:03:53 -04
+Previous track #27        : All Them Witches — Red Rocking Chair | 2026-08-15 04:25:32 -04
+Previous track #28        : All Them Witches — Bulls - Live | 2026-08-15 04:15:13 -04
+Previous track #29        : All Them Witches — Everest - Live | 2026-08-15 04:09:52 -04
+Previous track #30        : All Them Witches — Enemy of My Enemy - Live | 2026-08-15 04:07:15 -04
+Previous track #31        : All Them Witches — Open Passageways - Live | 2026-08-15 04:03:42 -04
+Previous track #32        : All Them Witches — The Marriage Of Coyote Woman - Live | 2026-08-15 03:54:19 -04
+Previous track #33        : All Them Witches — 3-5-7 - Live | 2026-08-15 03:48:32 -04
+Previous track #34        : All Them Witches — 1X1 - Live | 2026-08-15 03:44:50 -04
+Previous track #35        : All Them Witches — Diamond - Live | 2026-08-15 03:40:02 -04
+Previous track #36        : All Them Witches — Blood And Sand / Milk And Endless Waters - Live | 2026-08-15 03:32:36 -04
+Previous track #37        : Days Of The New — Where I Stand | 2026-08-15 03:19:37 -04
+Previous track #38        : Hum — Iron Clad Lou | 2026-08-15 03:13:45 -04
+Previous track #39        : Hum — Iron Clad Lou | 2026-08-15 03:07:31 -04
+Previous track #40        : Shihad — You Again - Remastered | 2026-08-15 03:00:35 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1579,47 +1579,47 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 50
-Unique tracks             : 32
-Unique artists            : 6
-Replay ratio              : ██████░░░░░░░░░░░░  36.0%
-Artist diversity          : ██░░░░░░░░░░░░░░░░  12.0%
+Observed events           : 17
+Unique tracks             : 9
+Unique artists            : 3
+Replay ratio              : ████████░░░░░░░░░░  47.1%
+Artist diversity          : ███░░░░░░░░░░░░░░░  17.6%
 Dominant artist           : All Them Witches
-Dominant artist share     : ███████████░░░░░░░  62.0%
-Artist switch ratio       : ███░░░░░░░░░░░░░░░  14.3%
-Longest artist streak     : All Them Witches × 21
+Dominant artist share     : ████████████████░░  88.2%
+Artist switch ratio       : ███░░░░░░░░░░░░░░░  18.8%
+Longest artist streak     : All Them Witches × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██████████████░░░░   80.0%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.0%
+Night      00–06           : █████████████████░   94.1%
+Morning    06–12           : █░░░░░░░░░░░░░░░░░    5.9%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ███░░░░░░░░░░░░░░░   18.0%
+Evening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%
 Dominant period           : NIGHT
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-14 23:57:55Z
-History last play (7d)    : 2026-08-16 06:10:36Z
-Observed time span        : 30:12:41
-Mean inter-play gap       : 00:37:00
-Median inter-play gap     : 00:04:48
-Longest inactivity gap    : 18:24:48
-Listening intensity       : 1.66 tracks/hour
+History first play (7d)   : 2026-08-16 05:20:21Z
+History last play (7d)    : 2026-08-22 10:11:46Z
+Observed time span        : 148:51:25
+Mean inter-play gap       : 09:18:13
+Median inter-play gap     : 00:04:04
+Longest inactivity gap    : 147:33:38
+Listening intensity       : 0.11 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 05:00
 Peak hour (7d)            : 01:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :  █▆▇▄▇▁            ▁▆   
+Heatmap (24h)             :      █▃                 
+Heatmap (7d)              :  █▂  ▂▁                 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :     ▃█▄
+Activity (Mon→Sun)        :      ▂█
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :                      ▃▆█▄     
+Activity trend (30d)      :                     ▃▆█▄     ▁
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1628,36 +1628,36 @@ Mon                       :
 Tue                       :                         
 Wed                       :                         
 Thu                       :                         
-Fri                       :                    ▁█   
-Sat                       :   ▄█▄█▁                 
+Fri                       :                         
+Sat                       :      █▃                 
 Sun                       :  █▂                     
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 4
+Dominant artist           : All Them Witches
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-14 22:45:30Z → 2026-08-21 22:45:30Z
-Tracks played (7d)        : 50
+Week window (UTC)         : 2026-08-15 22:42:39Z → 2026-08-22 22:42:39Z
+Tracks played (7d)        : 17
 Dominant artist           : All Them Witches
-Cadence classification    : HIGH
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap        : 00:37:00
+Sessions (24h)            : 1
+Sessions (7d)             : 2
+Avg inter-play gap        : 09:18:13
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : space rock(33) | sludge metal(32) | stoner metal(32) | stoner rock(32) | blues rock(31) | neo-psychedelic(31)
+Top genres (24h)          : blues rock(2) | neo-psychedelic(2) | psychedelic rock(2) | sludge metal(2) | space rock(2) | stoner metal(2)
+Top genres (7d)           : blues rock(15) | neo-psychedelic(15) | psychedelic rock(15) | sludge metal(15) | space rock(15) | stoner metal(15)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1665,16 +1665,16 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 02:01:16
+Telemetry interval        : 01:59:23
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 74
+Events retained           : 78
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-08-16 02:10:36 -04
-Events (24h)              : 0
-Events (7d)               : 50
-Events (30d)              : 74
+Newest retained event     : 2026-08-22 06:11:46 -04
+Events (24h)              : 4
+Events (7d)               : 17
+Events (30d)              : 78
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1703,7 +1703,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-21 22:45:30Z
+Report generated (UTC)    : 2026-08-22 22:42:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2061,7 +2061,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 21 August 2026
+From: 04 December 2023 - To: 22 August 2026
 
 Total Time       : 1,050 hrs 35 mins
 Mostly coding in : Other
@@ -2114,7 +2114,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 22/08/2026 00:56:45 UTC
+Last updated     : 23/08/2026 01:00:55 UTC
 
 ```
 <!--END_SECTION:wakastats-->
