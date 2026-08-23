@@ -1498,7 +1498,7 @@ Played at (UTC)           : 2026-08-23 01:26:48Z
 Played at (local)         : 2026-08-22 21:26:48 -04
 Local hour                : 21:00
 Daypart                   : EVENING
-Time since play           : 00:35:52
+Time since play           : 01:58:26
 Gap from previous play    : 15:15:02
 ------------------------------------------------------------
 Previous song             : Knogjärn — Ingenting vackert
@@ -1635,7 +1635,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-16 02:02:39Z → 2026-08-23 02:02:39Z
+Week window (UTC)         : 2026-08-16 03:25:14Z → 2026-08-23 03:25:14Z
 Tracks played (7d)        : 18
 Dominant artist           : All Them Witches
 Cadence classification    : MEDIUM
@@ -1655,10 +1655,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Knogjärn — Ingenting vackert → Alice In Chains — Rooster (2022 Remaster)
-Playback timestamp Δ      : 2026-08-22 10:11:46Z → 2026-08-23 01:26:48Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:20:01
+Telemetry interval        : 01:22:35
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1696,7 +1696,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-23 02:02:39Z
+Report generated (UTC)    : 2026-08-23 03:25:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
