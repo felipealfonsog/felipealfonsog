@@ -7,7 +7,7 @@
 # - "full_image"
 # - "none"
 
-RENDER_MODE = "full_image"
+RENDER_MODE = "none"
 
 
 # ============================================================
