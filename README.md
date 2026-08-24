@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-23 15:56:54Z
 Played at (local)         : 2026-08-23 11:56:54 -04
 Local hour                : 11:00
 Daypart                   : MORNING
-Time since play           : 06:45:29
+Time since play           : 10:03:51
 Gap from previous play    : 03:30:38
 ------------------------------------------------------------
 Previous song             : Loathe — Babylon...
@@ -1606,7 +1606,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :        █▄  ▁         ▁  
+Heatmap (24h)             :        █▄  ▁            
 Heatmap (7d)              :      ▂▁█▄  ▁         ▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1629,14 +1629,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 21
+Tracks played (last 24h)  : 20
 Dominant artist           : Chevelle
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-16 22:42:22Z → 2026-08-23 22:42:22Z
+Week window (UTC)         : 2026-08-17 02:00:44Z → 2026-08-24 02:00:44Z
 Tracks played (7d)        : 25
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1644,13 +1644,13 @@ Cadence classification    : MEDIUM
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 4
 Avg inter-play gap        : 01:15:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(17) | alternative metal(14) | nu metal(12) | shoegaze(3) | grunge(1) | post-hardcore(1)
+Top genres (24h)          : post-grunge(16) | alternative metal(14) | nu metal(12) | shoegaze(3) | post-hardcore(1) | space rock(1)
 Top genres (7d)           : post-grunge(17) | alternative metal(14) | nu metal(12) | shoegaze(4) | space rock(3) | blues rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1659,14 +1659,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:58:57
+Telemetry interval        : 03:18:23
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 99
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-23 11:56:54 -04
-Events (24h)              : 21
+Events (24h)              : 20
 Events (7d)               : 25
 Events (30d)              : 99
 Playlist contexts retained: 9
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-23 22:42:22Z
+Report generated (UTC)    : 2026-08-24 02:00:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
