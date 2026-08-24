@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-23 15:56:54Z
 Played at (local)         : 2026-08-23 11:56:54 -04
 Local hour                : 11:00
 Daypart                   : MORNING
-Time since play           : 17:11:12
+Time since play           : 19:00:12
 Gap from previous play    : 03:30:38
 ------------------------------------------------------------
 Previous song             : Loathe — Babylon...
@@ -1636,7 +1636,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-17 09:08:05Z → 2026-08-24 09:08:05Z
+Week window (UTC)         : 2026-08-17 10:57:06Z → 2026-08-24 10:57:06Z
 Tracks played (7d)        : 25
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1659,7 +1659,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:35:27
+Telemetry interval        : 01:49:01
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-24 09:08:05Z
+Report generated (UTC)    : 2026-08-24 10:57:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
