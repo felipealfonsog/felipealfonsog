@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-25 09:34:32Z
 Played at (local)         : 2026-08-25 05:34:32 -04
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 01:19:56
+Time since play           : 03:41:22
 Gap from previous play    : 41:37:38
 ------------------------------------------------------------
 Previous song             : Chevelle — Still Running
@@ -1636,7 +1636,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-18 10:54:28Z → 2026-08-25 10:54:28Z
+Week window (UTC)         : 2026-08-18 13:15:53Z → 2026-08-25 13:15:53Z
 Tracks played (7d)        : 26
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1652,14 +1652,14 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : progressive metal(1) | progressive rock(1)
 Top genres (7d)           : post-grunge(17) | alternative metal(14) | nu metal(12) | shoegaze(4) | space rock(3) | blues rock(2)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Chevelle — Still Running → Hypnos — Viaje
-Playback timestamp Δ      : 2026-08-23 15:56:54Z → 2026-08-25 09:34:32Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:51:02
+Telemetry interval        : 02:21:26
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-25 10:54:28Z
+Report generated (UTC)    : 2026-08-25 13:15:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
