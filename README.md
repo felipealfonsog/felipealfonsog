@@ -526,7 +526,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-08-25T01:46:22+00:00 | last_update=2026-08-25T01:46:22+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-08-25T07:02:23+00:00 | last_update=2026-08-25T07:02:23+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
