@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-25 09:03:26Z",
+  "updated_utc": "2026-08-25 10:54:28Z",
   "events": [
+    {
+      "track": "Hypnos — Viaje",
+      "artist": "Hypnos",
+      "title": "Viaje",
+      "album": "ONIROS",
+      "uri": "spotify:track:1wodO5ByxzwzJ7DRSpq0pt",
+      "url": "https://open.spotify.com/track/1wodO5ByxzwzJ7DRSpq0pt",
+      "artist_ids": [
+        "5TtktPalEOmf99oVU8EmyM"
+      ],
+      "played_at_utc": "2026-08-25 09:34:32Z",
+      "played_at_local": "2026-08-25 05:34:32 -04",
+      "local_hour": 5,
+      "weekday": 1,
+      "context_type": "album",
+      "context_uri": "spotify:album:30hjvdNcYNXV6b8mfPnt2Z",
+      "context_url": "https://open.spotify.com/album/30hjvdNcYNXV6b8mfPnt2Z"
+    },
     {
       "track": "Chevelle — Still Running",
       "artist": "Chevelle",
