@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-25 09:34:32Z
 Played at (local)         : 2026-08-25 05:34:32 -04
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 32:34:50
+Time since play           : 34:37:35
 Gap from previous play    : 41:37:38
 ------------------------------------------------------------
 Previous song             : Chevelle — Still Running
@@ -1636,7 +1636,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-19 18:09:22Z → 2026-08-26 18:09:22Z
+Week window (UTC)         : 2026-08-19 20:12:06Z → 2026-08-26 20:12:06Z
 Tracks played (7d)        : 26
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1659,7 +1659,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 02:12:30
+Telemetry interval        : 02:02:45
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-26 18:09:22Z
+Report generated (UTC)    : 2026-08-26 20:12:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
