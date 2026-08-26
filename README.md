@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-25 09:34:32Z
 Played at (local)         : 2026-08-25 05:34:32 -04
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 23:31:51
+Time since play           : 25:20:13
 Gap from previous play    : 41:37:38
 ------------------------------------------------------------
 Previous song             : Chevelle — Still Running
@@ -1604,9 +1604,9 @@ Listening intensity       : 0.36 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 05:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :      █                  
+Heatmap (24h)             : N/A
 Heatmap (7d)              :      ▂▁█▄  ▁         ▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1629,14 +1629,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Hypnos
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-19 09:06:22Z → 2026-08-26 09:06:22Z
+Week window (UTC)         : 2026-08-19 10:54:44Z → 2026-08-26 10:54:44Z
 Tracks played (7d)        : 26
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1644,13 +1644,13 @@ Cadence classification    : MEDIUM
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 5
 Avg inter-play gap        : 02:52:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : progressive metal(1) | progressive rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : post-grunge(17) | alternative metal(14) | nu metal(12) | shoegaze(4) | space rock(3) | blues rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1659,14 +1659,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 01:53:24
+Telemetry interval        : 01:48:23
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 100
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-25 05:34:32 -04
-Events (24h)              : 1
+Events (24h)              : 0
 Events (7d)               : 26
 Events (30d)              : 100
 Playlist contexts retained: 9
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-26 09:06:22Z
+Report generated (UTC)    : 2026-08-26 10:54:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
