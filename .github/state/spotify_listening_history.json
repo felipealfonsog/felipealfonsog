@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-27 09:58:52Z",
+  "updated_utc": "2026-08-27 20:35:27Z",
   "events": [
+    {
+      "track": "Evanescence — All That I’m Living For",
+      "artist": "Evanescence",
+      "title": "All That I’m Living For",
+      "album": "The Open Door",
+      "uri": "spotify:track:4iDQezFTnOwgnrPYiqQ6TP",
+      "url": "https://open.spotify.com/track/4iDQezFTnOwgnrPYiqQ6TP",
+      "artist_ids": [
+        "5nGIFgo0shDenQYSE0Sn7c"
+      ],
+      "played_at_utc": "2026-08-25 14:28:20Z",
+      "played_at_local": "2026-08-25 10:28:20 -04",
+      "local_hour": 10,
+      "weekday": 1,
+      "context_type": "album",
+      "context_uri": "spotify:album:3lFQ9ihSNR5YD0yi0yTzdC",
+      "context_url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+    },
     {
       "track": "Hypnos — Viaje",
       "artist": "Hypnos",
