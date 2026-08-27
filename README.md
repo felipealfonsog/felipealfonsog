@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-25 09:34:32Z
 Played at (local)         : 2026-08-25 05:34:32 -04
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 38:09:40
+Time since play           : 48:24:21
 Gap from previous play    : 41:37:38
 ------------------------------------------------------------
 Previous song             : Chevelle — Still Running
@@ -1613,7 +1613,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :      ▂█
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :                 ▃▆█▄     ▁▆   
+Activity trend (30d)      :                ▃▆█▄     ▁▆    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1636,7 +1636,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-19 23:44:12Z → 2026-08-26 23:44:12Z
+Week window (UTC)         : 2026-08-20 09:58:52Z → 2026-08-27 09:58:52Z
 Tracks played (7d)        : 26
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1659,7 +1659,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:32:06
+Telemetry interval        : 10:14:41
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-26 23:44:12Z
+Report generated (UTC)    : 2026-08-27 09:58:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
