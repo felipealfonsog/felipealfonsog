@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-27 23:30:24Z
 Played at (local)         : 2026-08-27 19:30:24 -04
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 06:40:14
+Time since play           : 19:20:01
 Gap from previous play    : 57:02:04
 ------------------------------------------------------------
 Previous song             : Evanescence — All That I’m Living For
@@ -1636,7 +1636,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-21 06:10:38Z → 2026-08-28 06:10:38Z
+Week window (UTC)         : 2026-08-21 18:50:25Z → 2026-08-28 18:50:25Z
 Tracks played (7d)        : 28
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1656,10 +1656,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Evanescence — All That I’m Living For → All Them Witches — Red Rocking Chair
-Playback timestamp Δ      : 2026-08-25 14:28:20Z → 2026-08-27 23:30:24Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 09:35:11
+Telemetry interval        : 12:39:47
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-28 06:10:38Z
+Report generated (UTC)    : 2026-08-28 18:50:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
