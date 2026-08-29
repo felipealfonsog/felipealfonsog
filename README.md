@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-29 14:55:04Z
 Played at (local)         : 2026-08-29 10:55:04 -04
 Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 01:52:05
+Time since play           : 06:04:33
 Gap from previous play    : 00:04:50
 ------------------------------------------------------------
 Previous song             : The Black Angels — The First Vietnamese War
@@ -1636,7 +1636,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-22 16:47:08Z → 2026-08-29 16:47:08Z
+Week window (UTC)         : 2026-08-22 20:59:36Z → 2026-08-29 20:59:36Z
 Tracks played (7d)        : 38
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1652,14 +1652,14 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : neo-psychedelic(8) | psychedelic rock(8) | space rock(8) | stoner rock(8) | acid rock(7) | garage rock(7)
 Top genres (7d)           : post-grunge(18) | alternative metal(15) | nu metal(12) | space rock(10) | neo-psychedelic(9) | psychedelic rock(9)
-Artist lookups (this run) : 4 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : All Them Witches — Red Rocking Chair → The Black Angels — You On The Run
-Playback timestamp Δ      : 2026-08-27 23:30:24Z → 2026-08-29 14:55:04Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:36:10
+Telemetry interval        : 04:12:29
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-29 16:47:08Z
+Report generated (UTC)    : 2026-08-29 20:59:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
