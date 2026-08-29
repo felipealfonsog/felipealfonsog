@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-27 23:30:24Z
 Played at (local)         : 2026-08-27 19:30:24 -04
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 19:20:01
+Time since play           : 27:20:01
 Gap from previous play    : 57:02:04
 ------------------------------------------------------------
 Previous song             : Evanescence — All That I’m Living For
@@ -1604,9 +1604,9 @@ Listening intensity       : 0.21 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 19:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :                    █    
+Heatmap (24h)             : N/A
 Heatmap (7d)              :      ▂▁█▄ ▁▁       ▁ ▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1629,14 +1629,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : All Them Witches
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-21 18:50:25Z → 2026-08-28 18:50:25Z
+Week window (UTC)         : 2026-08-22 02:50:24Z → 2026-08-29 02:50:24Z
 Tracks played (7d)        : 28
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1644,13 +1644,13 @@ Cadence classification    : MEDIUM
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 7
 Avg inter-play gap        : 04:57:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : blues rock(1) | neo-psychedelic(1) | psychedelic rock(1) | sludge metal(1) | space rock(1) | stoner metal(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : post-grunge(17) | alternative metal(15) | nu metal(12) | shoegaze(4) | space rock(4) | blues rock(3)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1659,14 +1659,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 12:39:47
+Telemetry interval        : 08:00:00
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 102
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-27 19:30:24 -04
-Events (24h)              : 1
+Events (24h)              : 0
 Events (7d)               : 28
 Events (30d)              : 102
 Playlist contexts retained: 9
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-28 18:50:25Z
+Report generated (UTC)    : 2026-08-29 02:50:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
