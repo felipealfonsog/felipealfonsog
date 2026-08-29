@@ -1488,69 +1488,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : All Them Witches — Red Rocking Chair
-Artist                    : All Them Witches
-Title                     : Red Rocking Chair
-Album                     : House Of Mirrors
-Spotify URI               : spotify:track:0ah8xqlKZLVN69XJVVONur
-Spotify URL               : https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur
+Track                     : The Black Angels — You On The Run
+Artist                    : The Black Angels
+Title                     : You On The Run
+Album                     : Directions To See A Ghost
+Spotify URI               : spotify:track:234S3ilGURAYBqEoXUoUua
+Spotify URL               : https://open.spotify.com/track/234S3ilGURAYBqEoXUoUua
 ------------------------------------------------------------
-Played at (UTC)           : 2026-08-27 23:30:24Z
-Played at (local)         : 2026-08-27 19:30:24 -04
-Local hour                : 19:00
-Daypart                   : EVENING
-Time since play           : 35:40:35
-Gap from previous play    : 57:02:04
+Played at (UTC)           : 2026-08-29 14:55:04Z
+Played at (local)         : 2026-08-29 10:55:04 -04
+Local hour                : 10:00
+Daypart                   : MORNING
+Time since play           : 01:52:05
+Gap from previous play    : 00:04:50
 ------------------------------------------------------------
-Previous song             : Evanescence — All That I’m Living For
-Same artist as previous   : NO
+Previous song             : The Black Angels — The First Vietnamese War
+Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 9
-Artist plays (retained)   : 34
+Track plays (retained)    : 1
+Artist plays (retained)   : 7
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04
-Previous track #2         : Hypnos — Viaje | 2026-08-25 05:34:32 -04
-Previous track #3         : Chevelle — Still Running | 2026-08-23 11:56:54 -04
-Previous track #4         : Loathe — Babylon... | 2026-08-23 08:26:16 -04
-Previous track #5         : Grommet — Half in Red | 2026-08-23 08:20:49 -04
-Previous track #6         : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
-Previous track #7         : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
-Previous track #8         : Submersed — Flicker | 2026-08-23 08:09:13 -04
-Previous track #9         : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
-Previous track #10        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
-Previous track #11        : Hum — Step into You | 2026-08-23 07:56:12 -04
-Previous track #12        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
-Previous track #13        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
-Previous track #14        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
-Previous track #15        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
-Previous track #16        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04
-Previous track #17        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04
-Previous track #18        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04
-Previous track #19        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04
-Previous track #20        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04
-Previous track #21        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04
-Previous track #22        : Chevelle — The Red | 2026-08-23 07:08:00 -04
-Previous track #23        : Alice In Chains — Rooster (2022 Remaster) | 2026-08-22 21:26:48 -04
-Previous track #24        : Knogjärn — Ingenting vackert | 2026-08-22 06:11:46 -04
-Previous track #25        : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04
-Previous track #26        : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04
-Previous track #27        : Wayside — Parallax Error | 2026-08-22 05:44:14 -04
-Previous track #28        : All Them Witches — Turn On The Light | 2026-08-16 02:10:36 -04
-Previous track #29        : All Them Witches — Starting Line | 2026-08-16 02:06:07 -04
-Previous track #30        : All Them Witches — Go-getter | 2026-08-16 02:02:16 -04
-Previous track #31        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:59:42 -04
-Previous track #32        : All Them Witches — Aethernet | 2026-08-16 01:55:37 -04
-Previous track #33        : All Them Witches — Culling Line | 2026-08-16 01:50:39 -04
-Previous track #34        : All Them Witches — Red Rocking Chair | 2026-08-16 01:46:35 -04
-Previous track #35        : All Them Witches — Starting Line | 2026-08-16 01:39:54 -04
-Previous track #36        : All Them Witches — Go-getter | 2026-08-16 01:36:02 -04
-Previous track #37        : All Them Witches — Hold Up, Say What? | 2026-08-16 01:33:28 -04
-Previous track #38        : All Them Witches — Aethernet | 2026-08-16 01:29:24 -04
-Previous track #39        : All Them Witches — Culling Line | 2026-08-16 01:24:25 -04
-Previous track #40        : All Them Witches — Red Rocking Chair | 2026-08-16 01:20:21 -04
+Previous track #1         : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04
+Previous track #2         : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04
+Previous track #3         : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04
+Previous track #4         : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04
+Previous track #5         : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04
+Previous track #6         : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04
+Previous track #7         : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04
+Previous track #8         : The Black Angels — Currency | 2026-08-29 10:11:34 -04
+Previous track #9         : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04
+Previous track #10        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04
+Previous track #11        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04
+Previous track #12        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04
+Previous track #13        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04
+Previous track #14        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04
+Previous track #15        : Hypnos — Viaje | 2026-08-25 05:34:32 -04
+Previous track #16        : Chevelle — Still Running | 2026-08-23 11:56:54 -04
+Previous track #17        : Loathe — Babylon... | 2026-08-23 08:26:16 -04
+Previous track #18        : Grommet — Half in Red | 2026-08-23 08:20:49 -04
+Previous track #19        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
+Previous track #20        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
+Previous track #21        : Submersed — Flicker | 2026-08-23 08:09:13 -04
+Previous track #22        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
+Previous track #23        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
+Previous track #24        : Hum — Step into You | 2026-08-23 07:56:12 -04
+Previous track #25        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
+Previous track #26        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
+Previous track #27        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
+Previous track #28        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
+Previous track #29        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04
+Previous track #30        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04
+Previous track #31        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04
+Previous track #32        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04
+Previous track #33        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04
+Previous track #34        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04
+Previous track #35        : Chevelle — The Red | 2026-08-23 07:08:00 -04
+Previous track #36        : Alice In Chains — Rooster (2022 Remaster) | 2026-08-22 21:26:48 -04
+Previous track #37        : Alice In Chains — Rooster | 2026-08-22 20:23:15 -04
+Previous track #38        : Knogjärn — Ingenting vackert | 2026-08-22 06:11:46 -04
+Previous track #39        : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04
+Previous track #40        : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1573,47 +1573,47 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 24
-Unique tracks             : 23
-Unique artists            : 13
-Replay ratio              : █░░░░░░░░░░░░░░░░░  4.2%
-Artist diversity          : ██████████░░░░░░░░  54.2%
+Observed events           : 38
+Unique tracks             : 34
+Unique artists            : 17
+Replay ratio              : ██░░░░░░░░░░░░░░░░  10.5%
+Artist diversity          : ████████░░░░░░░░░░  44.7%
 Dominant artist           : Chevelle
-Dominant artist share     : █████████░░░░░░░░░  50.0%
-Artist switch ratio       : ██████████░░░░░░░░  56.5%
+Dominant artist share     : ██████░░░░░░░░░░░░  31.6%
+Artist switch ratio       : █████████░░░░░░░░░  51.4%
 Longest artist streak     : Chevelle × 11
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    4.2%
-Morning    06–12           : ████████████████░░   87.5%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    2.6%
+Morning    06–12           : ████████████████░░   89.5%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    8.3%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    7.9%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-23 01:26:48Z
-History last play (7d)    : 2026-08-27 23:30:24Z
-Observed time span        : 118:03:36
-Mean inter-play gap       : 05:07:59
-Median inter-play gap     : 00:04:21
+History first play (7d)   : 2026-08-23 00:23:15Z
+History last play (7d)    : 2026-08-29 14:55:04Z
+Observed time span        : 158:31:49
+Mean inter-play gap       : 04:17:05
+Median inter-play gap     : 00:04:50
 Longest inactivity gap    : 57:02:04
-Listening intensity       : 0.20 tracks/hour
+Listening intensity       : 0.24 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :      ▁ █▄ ▁▁       ▁ ▁  
+Heatmap (24h)             :          ▂█             
+Heatmap (7d)              :      ▁ █▄▂▇▁       ▁▁▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁    █
+Activity (Mon→Sun)        :  ▁   ▆█
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :              ▃▆█▄     ▁▆ ▁    
+Activity trend (30d)      :              ▃▆█▄     ▂▆ ▁   ▄
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1623,52 +1623,52 @@ Tue                       :      █    █
 Wed                       :                         
 Thu                       :                    █    
 Fri                       :                         
-Sat                       :                      █  
+Sat                       :          ▂█         ▁▁  
 Sun                       :        █▄  ▁            
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 13
+Dominant artist           : The Black Angels
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-22 11:10:59Z → 2026-08-29 11:10:59Z
-Tracks played (7d)        : 24
+Week window (UTC)         : 2026-08-22 16:47:08Z → 2026-08-29 16:47:08Z
+Tracks played (7d)        : 38
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 6
-Avg inter-play gap        : 05:07:59
+Sessions (24h)            : 1
+Sessions (7d)             : 8
+Avg inter-play gap        : 04:17:05
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : post-grunge(17) | alternative metal(15) | nu metal(12) | shoegaze(3) | space rock(2) | blues rock(1)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : neo-psychedelic(8) | psychedelic rock(8) | space rock(8) | stoner rock(8) | acid rock(7) | garage rock(7)
+Top genres (7d)           : post-grunge(18) | alternative metal(15) | nu metal(12) | space rock(10) | neo-psychedelic(9) | psychedelic rock(9)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : All Them Witches — Red Rocking Chair → The Black Angels — You On The Run
+Playback timestamp Δ      : 2026-08-27 23:30:24Z → 2026-08-29 14:55:04Z
 State transition          : NO CHANGE
-Telemetry interval        : 08:20:35
+Telemetry interval        : 05:36:10
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 102
+Events retained           : 116
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-08-27 19:30:24 -04
-Events (24h)              : 0
-Events (7d)               : 24
-Events (30d)              : 102
+Newest retained event     : 2026-08-29 10:55:04 -04
+Events (24h)              : 13
+Events (7d)               : 38
+Events (30d)              : 116
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-29 11:10:59Z
+Report generated (UTC)    : 2026-08-29 16:47:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

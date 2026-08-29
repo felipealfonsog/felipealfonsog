@@ -1,8 +1,242 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-29 11:10:59Z",
+  "updated_utc": "2026-08-29 16:47:08Z",
   "events": [
+    {
+      "track": "The Black Angels — You On The Run",
+      "artist": "The Black Angels",
+      "title": "You On The Run",
+      "album": "Directions To See A Ghost",
+      "uri": "spotify:track:234S3ilGURAYBqEoXUoUua",
+      "url": "https://open.spotify.com/track/234S3ilGURAYBqEoXUoUua",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-08-29 14:55:04Z",
+      "played_at_local": "2026-08-29 10:55:04 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — The First Vietnamese War",
+      "artist": "The Black Angels",
+      "title": "The First Vietnamese War",
+      "album": "Passover",
+      "uri": "spotify:track:7pKwlfZtq5kdLgWrLYUAXJ",
+      "url": "https://open.spotify.com/track/7pKwlfZtq5kdLgWrLYUAXJ",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-08-29 14:50:14Z",
+      "played_at_local": "2026-08-29 10:50:14 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Bad Vibrations",
+      "artist": "The Black Angels",
+      "title": "Bad Vibrations",
+      "album": "Phosphene Dream",
+      "uri": "spotify:track:2JUgnLUDU6AsbOMHIFTcqB",
+      "url": "https://open.spotify.com/track/2JUgnLUDU6AsbOMHIFTcqB",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-08-29 14:46:48Z",
+      "played_at_local": "2026-08-29 10:46:48 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Bloodhounds On My Trail",
+      "artist": "The Black Angels",
+      "title": "Bloodhounds On My Trail",
+      "album": "Passover",
+      "uri": "spotify:track:31S5KQarwHycVouLuRisCv",
+      "url": "https://open.spotify.com/track/31S5KQarwHycVouLuRisCv",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-08-29 14:42:25Z",
+      "played_at_local": "2026-08-29 10:42:25 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Black Grease",
+      "artist": "The Black Angels",
+      "title": "Black Grease",
+      "album": "Passover",
+      "uri": "spotify:track:2JGnH3D1ubBikQqGdlMURP",
+      "url": "https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-08-29 14:38:30Z",
+      "played_at_local": "2026-08-29 10:38:30 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Entrance Song",
+      "artist": "The Black Angels",
+      "title": "Entrance Song",
+      "album": "Phosphene Dream",
+      "uri": "spotify:track:0Bm4fjn2AeXeA1x12hoySt",
+      "url": "https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-08-29 14:34:01Z",
+      "played_at_local": "2026-08-29 10:34:01 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "My Jerusalem — Chrysalis",
+      "artist": "My Jerusalem",
+      "title": "Chrysalis",
+      "album": "A Little Death",
+      "uri": "spotify:track:5RrMWVKqCPlXsOKK8YgdbT",
+      "url": "https://open.spotify.com/track/5RrMWVKqCPlXsOKK8YgdbT",
+      "artist_ids": [
+        "5LQFmEz1hLLdTSSFiVBYLU"
+      ],
+      "played_at_utc": "2026-08-29 14:27:11Z",
+      "played_at_local": "2026-08-29 10:27:11 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Kyle Sumple — Misunderstood",
+      "artist": "Kyle Sumple",
+      "title": "Misunderstood",
+      "album": "Misunderstood",
+      "uri": "spotify:track:13e9uwMkuvqDlNAe8MO6MR",
+      "url": "https://open.spotify.com/track/13e9uwMkuvqDlNAe8MO6MR",
+      "artist_ids": [
+        "1SGL66Inl6fPFRtKyML9xQ"
+      ],
+      "played_at_utc": "2026-08-29 14:22:21Z",
+      "played_at_local": "2026-08-29 10:22:21 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "The Black Angels — Currency",
+      "artist": "The Black Angels",
+      "title": "Currency",
+      "album": "Death Song",
+      "uri": "spotify:track:7JdNPgckT1uePqebdWNtpH",
+      "url": "https://open.spotify.com/track/7JdNPgckT1uePqebdWNtpH",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-08-29 14:11:34Z",
+      "played_at_local": "2026-08-29 10:11:34 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Sleepy Sun — White Dove",
+      "artist": "Sleepy Sun",
+      "title": "White Dove",
+      "album": "Embrace",
+      "uri": "spotify:track:1mXGX3RhAoVHo2FuEP6IGY",
+      "url": "https://open.spotify.com/track/1mXGX3RhAoVHo2FuEP6IGY",
+      "artist_ids": [
+        "4CL0ezfJvQDkDmjMG7XrV0"
+      ],
+      "played_at_utc": "2026-08-29 14:06:20Z",
+      "played_at_local": "2026-08-29 10:06:20 -04",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Kyle Sumple — Misunderstood",
+      "artist": "Kyle Sumple",
+      "title": "Misunderstood",
+      "album": "Misunderstood",
+      "uri": "spotify:track:13e9uwMkuvqDlNAe8MO6MR",
+      "url": "https://open.spotify.com/track/13e9uwMkuvqDlNAe8MO6MR",
+      "artist_ids": [
+        "1SGL66Inl6fPFRtKyML9xQ"
+      ],
+      "played_at_utc": "2026-08-29 13:57:01Z",
+      "played_at_local": "2026-08-29 09:57:01 -04",
+      "local_hour": 9,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Kyle Sumple — Misunderstood",
+      "artist": "Kyle Sumple",
+      "title": "Misunderstood",
+      "album": "Misunderstood",
+      "uri": "spotify:track:13e9uwMkuvqDlNAe8MO6MR",
+      "url": "https://open.spotify.com/track/13e9uwMkuvqDlNAe8MO6MR",
+      "artist_ids": [
+        "1SGL66Inl6fPFRtKyML9xQ"
+      ],
+      "played_at_utc": "2026-08-29 13:53:40Z",
+      "played_at_local": "2026-08-29 09:53:40 -04",
+      "local_hour": 9,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Kyle Sumple — Misunderstood",
+      "artist": "Kyle Sumple",
+      "title": "Misunderstood",
+      "album": "Misunderstood",
+      "uri": "spotify:track:13e9uwMkuvqDlNAe8MO6MR",
+      "url": "https://open.spotify.com/track/13e9uwMkuvqDlNAe8MO6MR",
+      "artist_ids": [
+        "1SGL66Inl6fPFRtKyML9xQ"
+      ],
+      "played_at_utc": "2026-08-29 13:50:42Z",
+      "played_at_local": "2026-08-29 09:50:42 -04",
+      "local_hour": 9,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
     {
       "track": "All Them Witches — Red Rocking Chair",
       "artist": "All Them Witches",
@@ -430,6 +664,24 @@
       "played_at_utc": "2026-08-23 01:26:48Z",
       "played_at_local": "2026-08-22 21:26:48 -04",
       "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM",
+      "context_url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+    },
+    {
+      "track": "Alice In Chains — Rooster",
+      "artist": "Alice In Chains",
+      "title": "Rooster",
+      "album": "Rooster",
+      "uri": "spotify:track:4vhZBcyaRKKDAW8YW7YsTD",
+      "url": "https://open.spotify.com/track/4vhZBcyaRKKDAW8YW7YsTD",
+      "artist_ids": [
+        "64tNsm6TnZe2zpcMVMOoHL"
+      ],
+      "played_at_utc": "2026-08-23 00:23:15Z",
+      "played_at_local": "2026-08-22 20:23:15 -04",
+      "local_hour": 20,
       "weekday": 5,
       "context_type": "album",
       "context_uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM",
