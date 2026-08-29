@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-27 23:30:24Z
 Played at (local)         : 2026-08-27 19:30:24 -04
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 27:20:01
+Time since play           : 35:40:35
 Gap from previous play    : 57:02:04
 ------------------------------------------------------------
 Previous song             : Evanescence — All That I’m Living For
@@ -1573,33 +1573,33 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 28
-Unique tracks             : 26
-Unique artists            : 15
-Replay ratio              : █░░░░░░░░░░░░░░░░░  7.1%
-Artist diversity          : ██████████░░░░░░░░  53.6%
+Observed events           : 24
+Unique tracks             : 23
+Unique artists            : 13
+Replay ratio              : █░░░░░░░░░░░░░░░░░  4.2%
+Artist diversity          : ██████████░░░░░░░░  54.2%
 Dominant artist           : Chevelle
-Dominant artist share     : ████████░░░░░░░░░░  42.9%
-Artist switch ratio       : ███████████░░░░░░░  59.3%
+Dominant artist share     : █████████░░░░░░░░░  50.0%
+Artist switch ratio       : ██████████░░░░░░░░  56.5%
 Longest artist streak     : Chevelle × 11
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███░░░░░░░░░░░░░░░   14.3%
-Morning    06–12           : ██████████████░░░░   78.6%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    4.2%
+Morning    06–12           : ████████████████░░   87.5%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    7.1%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    8.3%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-22 09:44:14Z
+History first play (7d)   : 2026-08-23 01:26:48Z
 History last play (7d)    : 2026-08-27 23:30:24Z
-Observed time span        : 133:46:10
-Mean inter-play gap       : 04:57:16
-Median inter-play gap     : 00:04:53
+Observed time span        : 118:03:36
+Mean inter-play gap       : 05:07:59
+Median inter-play gap     : 00:04:21
 Longest inactivity gap    : 57:02:04
-Listening intensity       : 0.21 tracks/hour
+Listening intensity       : 0.20 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1607,13 +1607,13 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 07:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :      ▂▁█▄ ▁▁       ▁ ▁  
+Heatmap (7d)              :      ▁ █▄ ▁▁       ▁ ▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁   ▂█
+Activity (Mon→Sun)        :  ▁    █
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :               ▃▆█▄     ▁▆ ▁   
+Activity trend (30d)      :              ▃▆█▄     ▁▆ ▁    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1623,7 +1623,7 @@ Tue                       :      █    █
 Wed                       :                         
 Thu                       :                    █    
 Fri                       :                         
-Sat                       :      █▃              ▃  
+Sat                       :                      █  
 Sun                       :        █▄  ▁            
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
@@ -1636,8 +1636,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-22 02:50:24Z → 2026-08-29 02:50:24Z
-Tracks played (7d)        : 28
+Week window (UTC)         : 2026-08-22 11:10:59Z → 2026-08-29 11:10:59Z
+Tracks played (7d)        : 24
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1645,13 +1645,13 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 7
-Avg inter-play gap        : 04:57:16
+Sessions (7d)             : 6
+Avg inter-play gap        : 05:07:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : post-grunge(17) | alternative metal(15) | nu metal(12) | shoegaze(4) | space rock(4) | blues rock(3)
+Top genres (7d)           : post-grunge(17) | alternative metal(15) | nu metal(12) | shoegaze(3) | space rock(2) | blues rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1659,7 +1659,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 08:00:00
+Telemetry interval        : 08:20:35
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1667,7 +1667,7 @@ Events retained           : 102
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-27 19:30:24 -04
 Events (24h)              : 0
-Events (7d)               : 28
+Events (7d)               : 24
 Events (30d)              : 102
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-29 02:50:24Z
+Report generated (UTC)    : 2026-08-29 11:10:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
