@@ -1488,69 +1488,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : The Black Angels — You On The Run
+Track                     : The Black Angels — Manipulation
 Artist                    : The Black Angels
-Title                     : You On The Run
-Album                     : Directions To See A Ghost
-Spotify URI               : spotify:track:234S3ilGURAYBqEoXUoUua
-Spotify URL               : https://open.spotify.com/track/234S3ilGURAYBqEoXUoUua
+Title                     : Manipulation
+Album                     : Passover
+Spotify URI               : spotify:track:1Ns4Wso4kehGOQANNEAmOq
+Spotify URL               : https://open.spotify.com/track/1Ns4Wso4kehGOQANNEAmOq
 ------------------------------------------------------------
-Played at (UTC)           : 2026-08-29 14:55:04Z
-Played at (local)         : 2026-08-29 10:55:04 -04
-Local hour                : 10:00
-Daypart                   : MORNING
-Time since play           : 06:04:33
-Gap from previous play    : 00:04:50
+Played at (UTC)           : 2026-08-29 23:57:09Z
+Played at (local)         : 2026-08-29 19:57:09 -04
+Local hour                : 19:00
+Daypart                   : EVENING
+Time since play           : 00:28:49
+Gap from previous play    : 09:02:05
 ------------------------------------------------------------
-Previous song             : The Black Angels — The First Vietnamese War
+Previous song             : The Black Angels — You On The Run
 Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 7
+Artist plays (retained)   : 8
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04
-Previous track #2         : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04
-Previous track #3         : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04
-Previous track #4         : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04
-Previous track #5         : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04
-Previous track #6         : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04
-Previous track #7         : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04
-Previous track #8         : The Black Angels — Currency | 2026-08-29 10:11:34 -04
-Previous track #9         : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04
-Previous track #10        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04
-Previous track #11        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04
-Previous track #12        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04
-Previous track #13        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04
-Previous track #14        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04
-Previous track #15        : Hypnos — Viaje | 2026-08-25 05:34:32 -04
-Previous track #16        : Chevelle — Still Running | 2026-08-23 11:56:54 -04
-Previous track #17        : Loathe — Babylon... | 2026-08-23 08:26:16 -04
-Previous track #18        : Grommet — Half in Red | 2026-08-23 08:20:49 -04
-Previous track #19        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
-Previous track #20        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
-Previous track #21        : Submersed — Flicker | 2026-08-23 08:09:13 -04
-Previous track #22        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
-Previous track #23        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
-Previous track #24        : Hum — Step into You | 2026-08-23 07:56:12 -04
-Previous track #25        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
-Previous track #26        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
-Previous track #27        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
-Previous track #28        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
-Previous track #29        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04
-Previous track #30        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04
-Previous track #31        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04
-Previous track #32        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04
-Previous track #33        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04
-Previous track #34        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04
-Previous track #35        : Chevelle — The Red | 2026-08-23 07:08:00 -04
-Previous track #36        : Alice In Chains — Rooster (2022 Remaster) | 2026-08-22 21:26:48 -04
-Previous track #37        : Alice In Chains — Rooster | 2026-08-22 20:23:15 -04
-Previous track #38        : Knogjärn — Ingenting vackert | 2026-08-22 06:11:46 -04
-Previous track #39        : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04
-Previous track #40        : All Them Witches — Red Rocking Chair | 2026-08-22 05:50:58 -04
+Previous track #1         : The Black Angels — You On The Run | 2026-08-29 10:55:04 -04
+Previous track #2         : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04
+Previous track #3         : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04
+Previous track #4         : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04
+Previous track #5         : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04
+Previous track #6         : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04
+Previous track #7         : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04
+Previous track #8         : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04
+Previous track #9         : The Black Angels — Currency | 2026-08-29 10:11:34 -04
+Previous track #10        : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04
+Previous track #11        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04
+Previous track #12        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04
+Previous track #13        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04
+Previous track #14        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04
+Previous track #15        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04
+Previous track #16        : Hypnos — Viaje | 2026-08-25 05:34:32 -04
+Previous track #17        : Chevelle — Still Running | 2026-08-23 11:56:54 -04
+Previous track #18        : Loathe — Babylon... | 2026-08-23 08:26:16 -04
+Previous track #19        : Grommet — Half in Red | 2026-08-23 08:20:49 -04
+Previous track #20        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
+Previous track #21        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
+Previous track #22        : Submersed — Flicker | 2026-08-23 08:09:13 -04
+Previous track #23        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
+Previous track #24        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
+Previous track #25        : Hum — Step into You | 2026-08-23 07:56:12 -04
+Previous track #26        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
+Previous track #27        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
+Previous track #28        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
+Previous track #29        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
+Previous track #30        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04
+Previous track #31        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04
+Previous track #32        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04
+Previous track #33        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04
+Previous track #34        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04
+Previous track #35        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04
+Previous track #36        : Chevelle — The Red | 2026-08-23 07:08:00 -04
+Previous track #37        : Alice In Chains — Rooster (2022 Remaster) | 2026-08-22 21:26:48 -04
+Previous track #38        : Alice In Chains — Rooster | 2026-08-22 20:23:15 -04
+Previous track #39        : Knogjärn — Ingenting vackert | 2026-08-22 06:11:46 -04
+Previous track #40        : All Them Witches — Culling Line | 2026-08-22 05:55:02 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1593,21 +1593,21 @@ Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-23 00:23:15Z
-History last play (7d)    : 2026-08-29 14:55:04Z
-Observed time span        : 158:31:49
-Mean inter-play gap       : 04:17:05
+History first play (7d)   : 2026-08-23 01:26:48Z
+History last play (7d)    : 2026-08-29 23:57:09Z
+Observed time span        : 166:30:21
+Mean inter-play gap       : 04:30:01
 Median inter-play gap     : 00:04:50
 Longest inactivity gap    : 57:02:04
-Listening intensity       : 0.24 tracks/hour
+Listening intensity       : 0.23 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :          ▂█             
-Heatmap (7d)              :      ▁ █▄▂▇▁       ▁▁▁  
+Heatmap (24h)             :          ▂█        ▁    
+Heatmap (7d)              :      ▁ █▄▂▇▁       ▁ ▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
@@ -1623,20 +1623,20 @@ Tue                       :      █    █
 Wed                       :                         
 Thu                       :                    █    
 Fri                       :                         
-Sat                       :          ▂█         ▁▁  
+Sat                       :          ▂█        ▁ ▁  
 Sun                       :        █▄  ▁            
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 13
+Tracks played (last 24h)  : 14
 Dominant artist           : The Black Angels
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-22 20:59:36Z → 2026-08-29 20:59:36Z
+Week window (UTC)         : 2026-08-23 00:25:58Z → 2026-08-30 00:25:58Z
 Tracks played (7d)        : 38
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
@@ -1644,31 +1644,31 @@ Cadence classification    : MEDIUM
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : 2
 Sessions (7d)             : 8
-Avg inter-play gap        : 04:17:05
+Avg inter-play gap        : 04:30:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : neo-psychedelic(8) | psychedelic rock(8) | space rock(8) | stoner rock(8) | acid rock(7) | garage rock(7)
-Top genres (7d)           : post-grunge(18) | alternative metal(15) | nu metal(12) | space rock(10) | neo-psychedelic(9) | psychedelic rock(9)
+Top genres (24h)          : neo-psychedelic(9) | psychedelic rock(9) | space rock(9) | stoner rock(9) | acid rock(8) | garage rock(8)
+Top genres (7d)           : post-grunge(17) | alternative metal(15) | nu metal(12) | space rock(11) | neo-psychedelic(10) | psychedelic rock(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : The Black Angels — You On The Run → The Black Angels — Manipulation
+Playback timestamp Δ      : 2026-08-29 14:55:04Z → 2026-08-29 23:57:09Z
 State transition          : NO CHANGE
-Telemetry interval        : 04:12:29
+Telemetry interval        : 03:26:22
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 116
+Events retained           : 117
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-08-29 10:55:04 -04
-Events (24h)              : 13
+Newest retained event     : 2026-08-29 19:57:09 -04
+Events (24h)              : 14
 Events (7d)               : 38
-Events (30d)              : 116
+Events (30d)              : 117
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-29 20:59:36Z
+Report generated (UTC)    : 2026-08-30 00:25:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

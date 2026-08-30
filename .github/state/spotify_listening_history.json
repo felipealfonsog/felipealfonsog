@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-08-29 20:59:36Z",
+  "updated_utc": "2026-08-30 00:25:58Z",
   "events": [
+    {
+      "track": "The Black Angels — Manipulation",
+      "artist": "The Black Angels",
+      "title": "Manipulation",
+      "album": "Passover",
+      "uri": "spotify:track:1Ns4Wso4kehGOQANNEAmOq",
+      "url": "https://open.spotify.com/track/1Ns4Wso4kehGOQANNEAmOq",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-08-29 23:57:09Z",
+      "played_at_local": "2026-08-29 19:57:09 -04",
+      "local_hour": 19,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
     {
       "track": "The Black Angels — You On The Run",
       "artist": "The Black Angels",
