@@ -696,13 +696,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. DEGRADED
 HTTP................ 403 Forbidden
-LATENCY............. 165 ms
-TTFB................ 164 ms
+LATENCY............. 119 ms
+TTFB................ 118 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 63d
+TLS_EXPIRY.......... 62d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -731,7 +731,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-08-29T09:54:28Z
+LAST_PROBE_UTC...... 2026-08-30T09:05:24Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
