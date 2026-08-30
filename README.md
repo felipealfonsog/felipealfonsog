@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-30 11:35:55Z
 Played at (local)         : 2026-08-30 07:35:55 -04
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 06:29:28
+Time since play           : 09:37:57
 Gap from previous play    : 11:38:46
 ------------------------------------------------------------
 Previous song             : The Black Angels — Manipulation
@@ -1636,7 +1636,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-23 18:05:23Z → 2026-08-30 18:05:23Z
+Week window (UTC)         : 2026-08-23 21:13:52Z → 2026-08-30 21:13:52Z
 Tracks played (7d)        : 18
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
@@ -1659,7 +1659,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:13:37
+Telemetry interval        : 03:08:29
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-30 18:05:23Z
+Report generated (UTC)    : 2026-08-30 21:13:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
