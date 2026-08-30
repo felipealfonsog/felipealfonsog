@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-29 23:57:09Z
 Played at (local)         : 2026-08-29 19:57:09 -04
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 00:28:49
+Time since play           : 08:25:56
 Gap from previous play    : 09:02:05
 ------------------------------------------------------------
 Previous song             : The Black Angels — You On The Run
@@ -1573,33 +1573,33 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 38
-Unique tracks             : 34
-Unique artists            : 17
-Replay ratio              : ██░░░░░░░░░░░░░░░░  10.5%
-Artist diversity          : ████████░░░░░░░░░░  44.7%
+Observed events           : 37
+Unique tracks             : 33
+Unique artists            : 16
+Replay ratio              : ██░░░░░░░░░░░░░░░░  10.8%
+Artist diversity          : ████████░░░░░░░░░░  43.2%
 Dominant artist           : Chevelle
-Dominant artist share     : ██████░░░░░░░░░░░░  31.6%
-Artist switch ratio       : █████████░░░░░░░░░  51.4%
+Dominant artist share     : ██████░░░░░░░░░░░░  32.4%
+Artist switch ratio       : █████████░░░░░░░░░  50.0%
 Longest artist streak     : Chevelle × 11
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    2.6%
-Morning    06–12           : ████████████████░░   89.5%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    2.7%
+Morning    06–12           : █████████████████░   91.9%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    7.9%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    5.4%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-23 01:26:48Z
+History first play (7d)   : 2026-08-23 11:08:00Z
 History last play (7d)    : 2026-08-29 23:57:09Z
-Observed time span        : 166:30:21
-Mean inter-play gap       : 04:30:01
-Median inter-play gap     : 00:04:50
+Observed time span        : 156:49:09
+Mean inter-play gap       : 04:21:22
+Median inter-play gap     : 00:04:40
 Longest inactivity gap    : 57:02:04
-Listening intensity       : 0.23 tracks/hour
+Listening intensity       : 0.24 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1607,13 +1607,13 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 10:00
 Peak hour (7d)            : 07:00
 Heatmap (24h)             :          ▂█        ▁    
-Heatmap (7d)              :      ▁ █▄▂▇▁       ▁ ▁  
+Heatmap (7d)              :      ▁ █▄▂▇▁       ▁    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :  ▁   ▆█
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :              ▃▆█▄     ▂▆ ▁   ▄
+Activity trend (30d)      :             ▃▆█▄     ▂▆ ▁   ▄ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1623,7 +1623,7 @@ Tue                       :      █    █
 Wed                       :                         
 Thu                       :                    █    
 Fri                       :                         
-Sat                       :          ▂█        ▁ ▁  
+Sat                       :          ▂█        ▁    
 Sun                       :        █▄  ▁            
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
@@ -1636,8 +1636,8 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-23 00:25:58Z → 2026-08-30 00:25:58Z
-Tracks played (7d)        : 38
+Week window (UTC)         : 2026-08-23 08:23:04Z → 2026-08-30 08:23:04Z
+Tracks played (7d)        : 37
 Dominant artist           : Chevelle
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1645,21 +1645,21 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 8
-Avg inter-play gap        : 04:30:01
+Sessions (7d)             : 7
+Avg inter-play gap        : 04:21:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : neo-psychedelic(9) | psychedelic rock(9) | space rock(9) | stoner rock(9) | acid rock(8) | garage rock(8)
-Top genres (7d)           : post-grunge(17) | alternative metal(15) | nu metal(12) | space rock(11) | neo-psychedelic(10) | psychedelic rock(10)
+Top genres (7d)           : post-grunge(16) | alternative metal(15) | nu metal(12) | space rock(11) | neo-psychedelic(10) | psychedelic rock(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : The Black Angels — You On The Run → The Black Angels — Manipulation
-Playback timestamp Δ      : 2026-08-29 14:55:04Z → 2026-08-29 23:57:09Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:26:22
+Telemetry interval        : 07:57:07
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1667,7 +1667,7 @@ Events retained           : 117
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-29 19:57:09 -04
 Events (24h)              : 14
-Events (7d)               : 38
+Events (7d)               : 37
 Events (30d)              : 117
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-30 00:25:58Z
+Report generated (UTC)    : 2026-08-30 08:23:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
