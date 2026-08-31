@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-30 11:35:55Z
 Played at (local)         : 2026-08-30 07:35:55 -04
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 09:37:57
+Time since play           : 13:03:35
 Gap from previous play    : 11:38:46
 ------------------------------------------------------------
 Previous song             : The Black Angels — Manipulation
@@ -1606,7 +1606,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :        █           █    
+Heatmap (24h)             :        █                
 Heatmap (7d)              :      ▁ ▁ ▂█        ▁    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1629,14 +1629,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 1
 Dominant artist           : Kyle Sumple
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-23 21:13:52Z → 2026-08-30 21:13:52Z
+Week window (UTC)         : 2026-08-24 00:39:29Z → 2026-08-31 00:39:29Z
 Tracks played (7d)        : 18
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
@@ -1644,13 +1644,13 @@ Cadence classification    : MEDIUM
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 6
 Avg inter-play gap        : 07:10:40
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : acid rock(1) | garage rock(1) | neo-psychedelic(1) | psychedelic rock(1) | space rock(1) | stoner rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : neo-psychedelic(10) | psychedelic rock(10) | space rock(10) | stoner rock(10) | acid rock(8) | garage rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1659,14 +1659,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:08:29
+Telemetry interval        : 03:25:38
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 118
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-30 07:35:55 -04
-Events (24h)              : 2
+Events (24h)              : 1
 Events (7d)               : 18
 Events (30d)              : 118
 Playlist contexts retained: 9
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-30 21:13:52Z
+Report generated (UTC)    : 2026-08-31 00:39:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
