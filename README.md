@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-30 11:35:55Z
 Played at (local)         : 2026-08-30 07:35:55 -04
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 13:03:35
+Time since play           : 21:07:55
 Gap from previous play    : 11:38:46
 ------------------------------------------------------------
 Previous song             : The Black Angels — Manipulation
@@ -1613,7 +1613,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :  ▁ ▁ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :             ▃▆█▄     ▂▆ ▁   ▄ 
+Activity trend (30d)      :            ▃▆█▄     ▂▆ ▁   ▄  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1636,7 +1636,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-24 00:39:29Z → 2026-08-31 00:39:29Z
+Week window (UTC)         : 2026-08-24 08:43:50Z → 2026-08-31 08:43:50Z
 Tracks played (7d)        : 18
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
@@ -1659,7 +1659,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:25:38
+Telemetry interval        : 08:04:21
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-31 00:39:29Z
+Report generated (UTC)    : 2026-08-31 08:43:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
