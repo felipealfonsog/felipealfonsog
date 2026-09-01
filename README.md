@@ -2170,16 +2170,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Blandskron">
-        <img src="https://avatars2.githubusercontent.com/u/93203724" style="width:30px; height:30px;" alt="Blandskron"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Blandskron">Bastian Landskron</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
@@ -2196,6 +2186,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/NikolaiProgramist">
+        <img src="https://avatars2.githubusercontent.com/u/58512675" style="width:30px; height:30px;" alt="NikolaiProgramist"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/NikolaiProgramist">Nikolai</a>
       </sub>
     </li>
     <br>
