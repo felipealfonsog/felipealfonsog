@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-08-30 11:35:55Z
 Played at (local)         : 2026-08-30 07:35:55 -04
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 48:11:09
+Time since play           : 53:09:03
 Gap from previous play    : 11:38:46
 ------------------------------------------------------------
 Previous song             : The Black Angels — Manipulation
@@ -1573,33 +1573,33 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 17
-Unique tracks             : 13
-Unique artists            : 6
-Replay ratio              : ████░░░░░░░░░░░░░░  23.5%
-Artist diversity          : ██████░░░░░░░░░░░░  35.3%
+Observed events           : 16
+Unique tracks             : 12
+Unique artists            : 5
+Replay ratio              : ████░░░░░░░░░░░░░░  25.0%
+Artist diversity          : ██████░░░░░░░░░░░░  31.2%
 Dominant artist           : The Black Angels
-Dominant artist share     : ████████░░░░░░░░░░  47.1%
-Artist switch ratio       : █████████░░░░░░░░░  50.0%
+Dominant artist share     : █████████░░░░░░░░░  50.0%
+Artist switch ratio       : ████████░░░░░░░░░░  46.7%
 Longest artist streak     : The Black Angels × 7
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
 Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
-Morning    06–12           : ████████████████░░   88.2%
+Morning    06–12           : ████████████████░░   87.5%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░   11.8%
+Evening    18–24           : ██░░░░░░░░░░░░░░░░   12.5%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-25 14:28:20Z
+History first play (7d)   : 2026-08-27 23:30:24Z
 History last play (7d)    : 2026-08-30 11:35:55Z
-Observed time span        : 117:07:35
-Mean inter-play gap       : 07:19:13
-Median inter-play gap     : 00:05:02
-Longest inactivity gap    : 57:02:04
-Listening intensity       : 0.15 tracks/hour
+Observed time span        : 60:05:31
+Mean inter-play gap       : 04:00:22
+Median inter-play gap     : 00:04:50
+Longest inactivity gap    : 38:20:18
+Listening intensity       : 0.27 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1607,11 +1607,11 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 10:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :        ▁ ▂█        ▁    
+Heatmap (7d)              :        ▁ ▂█        ▂    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁ ▁ █▁
+Activity (Mon→Sun)        :    ▁ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :           ▃▆█▄     ▂▆ ▁   ▄   
 Trend order               : oldest → newest
@@ -1619,7 +1619,7 @@ Trend order               : oldest → newest
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :                         
-Tue                       :           █             
+Tue                       :                         
 Wed                       :                         
 Thu                       :                    █    
 Fri                       :                         
@@ -1636,8 +1636,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-25 11:47:04Z → 2026-09-01 11:47:04Z
-Tracks played (7d)        : 17
+Week window (UTC)         : 2026-08-25 16:44:57Z → 2026-09-01 16:44:57Z
+Tracks played (7d)        : 16
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1645,8 +1645,8 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap        : 07:19:13
+Sessions (7d)             : 4
+Avg inter-play gap        : 04:00:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1659,7 +1659,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:27:53
+Telemetry interval        : 04:57:54
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1667,7 +1667,7 @@ Events retained           : 118
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-30 07:35:55 -04
 Events (24h)              : 0
-Events (7d)               : 17
+Events (7d)               : 16
 Events (30d)              : 118
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1697,7 +1697,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-01 11:47:04Z
+Report generated (UTC)    : 2026-09-01 16:44:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
