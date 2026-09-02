@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-09-01_0449Z
+ snapshot_utc : 2026-09-02_0410Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -533,7 +533,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-08-31T22:45:24+00:00 | last_update=2026-08-31T22:45:24+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-09-01T20:57:34+00:00 | last_update=2026-09-01T20:57:34+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -703,13 +703,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. DEGRADED
 HTTP................ 403 Forbidden
-LATENCY............. 123 ms
-TTFB................ 122 ms
+LATENCY............. 121 ms
+TTFB................ 120 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 61d
+TLS_EXPIRY.......... 60d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -722,9 +722,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PASS
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -738,7 +738,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-08-31T09:34:12Z
+LAST_PROBE_UTC...... 2026-09-01T08:30:19Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -779,18 +779,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : residential_sector
-latitude       : -33.441635
-longitude      : -70.653464
-altitude       : 111 m
-gps_accuracy   : ±3.8 m
-heading        : 322°
-speed          : 0.2 km/h
-status         : resting
-phase          : overnight
-local_time     : 22:37
+latitude       : -33.442343
+longitude      : -70.653771
+altitude       : 151 m
+gps_accuracy   : ±4.0 m
+heading        : 321°
+speed          : 1.3 km/h
+status         : in_transit
+phase          : evening
+local_time     : 21:58
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-09-01 02:37:53 UTC
+updated_utc    : 2026-09-02 01:58:59 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -909,7 +909,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-08-31 22:54:39Z
+DSN snapshot (UTC)       : 2026-09-01 21:06:36Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -920,15 +920,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.66e9 km | 171.504 AU
-Heliocentric distance    : 171.624 AU
-Relative speed           : 44.157 km/s
+Earth distance           : 25.66e9 km | 171.526 AU
+Heliocentric distance    : 171.633 AU
+Relative speed           : 44.195 km/s
 ------------------------------------------------------------
-One-way light time       : 23:46:21
-Round-trip latency       : 47:32:43
+One-way light time       : 23:46:32
+Round-trip latency       : 47:33:04
 ------------------------------------------------------------
-Δ distance (since last)  : +1.304e6 km
-Mission age              : 49 years, 7 days
+Δ distance (since last)  : +644,360 km
+Mission age              : 49 years, 8 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -939,19 +939,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.44e9 km | 143.293 AU
-Heliocentric distance    : 143.824 AU
-Relative speed           : 39.095 km/s
+Earth distance           : 21.44e9 km | 143.310 AU
+Heliocentric distance    : 143.833 AU
+Relative speed           : 39.189 km/s
 ------------------------------------------------------------
-One-way light time       : 19:51:44
-Round-trip latency       : 39:43:28
+One-way light time       : 19:51:53
+Round-trip latency       : 39:43:45
 ------------------------------------------------------------
-Δ distance (since last)  : +1.032e6 km
-Mission age              : 49 years, 23 days
+Δ distance (since last)  : +513,694 km
+Mission age              : 49 years, 24 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-08-31 22:54:41Z
+Report generated (UTC)   : 2026-09-01 21:06:38Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1506,7 +1506,7 @@ Played at (UTC)           : 2026-08-30 11:35:55Z
 Played at (local)         : 2026-08-30 07:35:55 -04
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 35:19:25
+Time since play           : 60:43:42
 Gap from previous play    : 11:38:46
 ------------------------------------------------------------
 Previous song             : The Black Angels — Manipulation
@@ -1580,33 +1580,33 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 18
-Unique tracks             : 14
-Unique artists            : 7
-Replay ratio              : ████░░░░░░░░░░░░░░  22.2%
-Artist diversity          : ███████░░░░░░░░░░░  38.9%
+Observed events           : 16
+Unique tracks             : 12
+Unique artists            : 5
+Replay ratio              : ████░░░░░░░░░░░░░░  25.0%
+Artist diversity          : ██████░░░░░░░░░░░░  31.2%
 Dominant artist           : The Black Angels
-Dominant artist share     : ████████░░░░░░░░░░  44.4%
-Artist switch ratio       : ██████████░░░░░░░░  52.9%
+Dominant artist share     : █████████░░░░░░░░░  50.0%
+Artist switch ratio       : ████████░░░░░░░░░░  46.7%
 Longest artist streak     : The Black Angels × 7
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    5.6%
-Morning    06–12           : ███████████████░░░   83.3%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
+Morning    06–12           : ████████████████░░   87.5%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░   11.1%
+Evening    18–24           : ██░░░░░░░░░░░░░░░░   12.5%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-25 09:34:32Z
+History first play (7d)   : 2026-08-27 23:30:24Z
 History last play (7d)    : 2026-08-30 11:35:55Z
-Observed time span        : 122:01:23
-Mean inter-play gap       : 07:10:40
-Median inter-play gap     : 00:05:14
-Longest inactivity gap    : 57:02:04
-Listening intensity       : 0.15 tracks/hour
+Observed time span        : 60:05:31
+Mean inter-play gap       : 04:00:22
+Median inter-play gap     : 00:04:50
+Longest inactivity gap    : 38:20:18
+Listening intensity       : 0.27 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1614,19 +1614,19 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 10:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :      ▁ ▁ ▂█        ▁    
+Heatmap (7d)              :        ▁ ▂█        ▂    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁ ▁ █▁
+Activity (Mon→Sun)        :    ▁ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :            ▃▆█▄     ▂▆ ▁   ▄  
+Activity trend (30d)      :           ▃▆█▄     ▂▆ ▁   ▄   
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :                         
-Tue                       :      █    █             
+Tue                       :                         
 Wed                       :                         
 Thu                       :                    █    
 Fri                       :                         
@@ -1643,8 +1643,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-24 22:55:20Z → 2026-08-31 22:55:20Z
-Tracks played (7d)        : 18
+Week window (UTC)         : 2026-08-26 00:19:36Z → 2026-09-02 00:19:36Z
+Tracks played (7d)        : 16
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1652,8 +1652,8 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 6
-Avg inter-play gap        : 07:10:40
+Sessions (7d)             : 4
+Avg inter-play gap        : 04:00:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1666,7 +1666,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:16:23
+Telemetry interval        : 03:11:49
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1674,7 +1674,7 @@ Events retained           : 118
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-08-30 07:35:55 -04
 Events (24h)              : 0
-Events (7d)               : 18
+Events (7d)               : 16
 Events (30d)              : 118
 Playlist contexts retained: 9
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1704,7 +1704,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-08-31 22:55:20Z
+Report generated (UTC)    : 2026-09-02 00:19:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2062,7 +2062,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 31 August 2026
+From: 04 December 2023 - To: 01 September 2026
 
 Total Time       : 1,064 hrs 21 mins
 Mostly coding in : Other
@@ -2073,7 +2073,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          791 hrs 38 mins ●●●●●●●●●●●●●●●●●●●○○○○○○○  74.38 %
+Other          793 hrs 30 mins ●●●●●●●●●●●●●●●●●●●○○○○○○○  74.55 %
 Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.60 %
 Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.35 %
 HTML           140 hrs 6 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
@@ -2086,7 +2086,7 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,137 hrs 32 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,139 hrs 24 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  67.18 %
 
 EDITORS - APPS
@@ -2094,7 +2094,7 @@ EDITORS - APPS
 VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.98 %
 Firefox        591 hrs 53 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.61 %
 Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.75 %
-Terminal       43 hrs 58 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.13 %
+Terminal       45 hrs 50 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.31 %
 Spotify        39 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
 Termius        24 hrs 7 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.27 %
 ‎WhatsApp      20 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.95 %
@@ -2106,7 +2106,7 @@ FileZilla      10 hrs 47 mins ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,204 hrs 57 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Coding         1,206 hrs 49 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Browsing       588 hrs 16 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.27 %
 Meeting        29 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.77 %
 AI Coding      20 hrs 6 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.89 %
@@ -2115,7 +2115,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 01/09/2026 03:13:47 UTC
+Last updated     : 02/09/2026 02:31:43 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2177,16 +2177,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Blandskron">
-        <img src="https://avatars2.githubusercontent.com/u/93203724" style="width:30px; height:30px;" alt="Blandskron"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Blandskron">Bastian Landskron</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
@@ -2203,6 +2193,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/clsource">Camilo</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/NikolaiProgramist">
+        <img src="https://avatars2.githubusercontent.com/u/58512675" style="width:30px; height:30px;" alt="NikolaiProgramist"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/NikolaiProgramist">Nikolai</a>
       </sub>
     </li>
     <br>
