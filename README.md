@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-02 08:21:13Z
 Played at (local)         : 2026-09-02 04:21:13 -04
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 03:07:08
+Time since play           : 08:19:59
 Gap from previous play    : 68:45:18
 ------------------------------------------------------------
 Previous song             : Kyle Sumple — Misunderstood
@@ -1637,7 +1637,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-26 11:28:20Z → 2026-09-02 11:28:20Z
+Week window (UTC)         : 2026-08-26 16:41:11Z → 2026-09-02 16:41:11Z
 Tracks played (7d)        : 17
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
@@ -1657,10 +1657,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Kyle Sumple — Misunderstood → Tomasz Stanko Quintet — Terminal 7
-Playback timestamp Δ      : 2026-08-30 11:35:55Z → 2026-09-02 08:21:13Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:42:04
+Telemetry interval        : 05:12:52
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-02 11:28:20Z
+Report generated (UTC)    : 2026-09-02 16:41:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
