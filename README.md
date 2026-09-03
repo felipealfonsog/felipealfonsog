@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-02 08:21:13Z
 Played at (local)         : 2026-09-02 04:21:13 -04
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 32:10:53
+Time since play           : 36:46:35
 Gap from previous play    : 68:45:18
 ------------------------------------------------------------
 Previous song             : Kyle Sumple — Misunderstood
@@ -1637,7 +1637,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-27 16:32:06Z → 2026-09-03 16:32:06Z
+Week window (UTC)         : 2026-08-27 21:07:48Z → 2026-09-03 21:07:48Z
 Tracks played (7d)        : 17
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
@@ -1660,7 +1660,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:07:12
+Telemetry interval        : 04:35:42
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-03 16:32:06Z
+Report generated (UTC)    : 2026-09-03 21:07:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
