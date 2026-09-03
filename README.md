@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-02 08:21:13Z
 Played at (local)         : 2026-09-02 04:21:13 -04
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 20:24:16
+Time since play           : 27:03:42
 Gap from previous play    : 68:45:18
 ------------------------------------------------------------
 Previous song             : Kyle Sumple — Misunderstood
@@ -1605,9 +1605,9 @@ Listening intensity       : 0.13 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 04:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 10:00
-Heatmap (24h)             :     █                   
+Heatmap (24h)             : N/A
 Heatmap (7d)              :     ▁  ▁ ▂█        ▂    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1630,14 +1630,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-27 04:45:29Z → 2026-09-03 04:45:29Z
+Week window (UTC)         : 2026-08-27 11:24:54Z → 2026-09-03 11:24:54Z
 Tracks played (7d)        : 17
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
@@ -1645,13 +1645,13 @@ Cadence classification    : MEDIUM
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 5
 Avg inter-play gap        : 08:03:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : neo-psychedelic(10) | psychedelic rock(10) | space rock(10) | stoner rock(10) | acid rock(8) | garage rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1660,14 +1660,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:24:23
+Telemetry interval        : 06:39:26
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 119
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-02 04:21:13 -04
-Events (24h)              : 1
+Events (24h)              : 0
 Events (7d)               : 17
 Events (30d)              : 119
 Playlist contexts retained: 10
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-03 04:45:29Z
+Report generated (UTC)    : 2026-09-03 11:24:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
