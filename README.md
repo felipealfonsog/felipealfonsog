@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-02 08:21:13Z
 Played at (local)         : 2026-09-02 04:21:13 -04
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 15:59:54
+Time since play           : 20:24:16
 Gap from previous play    : 68:45:18
 ------------------------------------------------------------
 Previous song             : Kyle Sumple — Misunderstood
@@ -1614,7 +1614,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :   ▁▁ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :          ▃▆█▄     ▂▆ ▁   ▄    
+Activity trend (30d)      :         ▃▆█▄     ▂▆ ▁   ▄     
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1637,7 +1637,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-27 00:21:06Z → 2026-09-03 00:21:06Z
+Week window (UTC)         : 2026-08-27 04:45:29Z → 2026-09-03 04:45:29Z
 Tracks played (7d)        : 17
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
@@ -1660,7 +1660,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:13:03
+Telemetry interval        : 04:24:23
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-03 00:21:06Z
+Report generated (UTC)    : 2026-09-03 04:45:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
