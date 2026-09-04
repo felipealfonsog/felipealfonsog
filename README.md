@@ -1426,7 +1426,7 @@ _)      \.___.,|     .'
 -->
 
 <!-- SPOTIFY-WIDGET-START -->
-[![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
+<img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/blank.svg" width="0" height="0" style="display:none" alt="">
 <!-- SPOTIFY-WIDGET-END -->
 
 [![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
