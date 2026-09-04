@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-04 11:02:34Z
 Played at (local)         : 2026-09-04 07:02:34 -04
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 05:25:23
+Time since play           : 09:47:43
 Gap from previous play    : 50:39:12
 ------------------------------------------------------------
 Previous song             : Tomasz Stanko Quartet — Trista
@@ -1637,7 +1637,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-28 16:27:56Z → 2026-09-04 16:27:56Z
+Week window (UTC)         : 2026-08-28 20:50:17Z → 2026-09-04 20:50:17Z
 Tracks played (7d)        : 18
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
@@ -1657,10 +1657,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Tomasz Stanko Quartet — Trista → All Them Witches — Red Rocking Chair
-Playback timestamp Δ      : 2026-09-02 08:23:22Z → 2026-09-04 11:02:34Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:00:10
+Telemetry interval        : 04:22:21
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-04 16:27:56Z
+Report generated (UTC)    : 2026-09-04 20:50:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
