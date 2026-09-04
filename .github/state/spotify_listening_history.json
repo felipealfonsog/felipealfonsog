@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-04 11:27:47Z",
+  "updated_utc": "2026-09-04 16:27:56Z",
   "events": [
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-04 11:02:34Z",
+      "played_at_local": "2026-09-04 07:02:34 -04",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "Tomasz Stanko Quartet — Trista",
       "artist": "Tomasz Stanko Quartet",
