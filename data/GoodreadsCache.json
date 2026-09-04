@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-09-04T04:19:48+00:00",
-    "last_successful_sync": "2026-09-04T04:19:48+00:00",
+    "last_attempted_sync": "2026-09-04T11:08:15+00:00",
+    "last_successful_sync": "2026-09-04T11:08:15+00:00",
     "error_message": ""
   },
   "sections": {
@@ -30,7 +30,7 @@
           "author": "Seneca",
           "link": "https://www.goodreads.com/review/show/8873554267?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642770885l/60174464._SY75_.jpg",
-          "summary": "author: Seneca name: Felipe Alfonso average rating: 4.50 book published: 64 rating: 0 read at: date added: 2026/08/19 shelves: currently-reading review:",
+          "summary": "author: Seneca name: Felipe Alfonso average rating: 4.60 book published: 64 rating: 0 read at: date added: 2026/08/19 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8873554267?utm_medium=api&utm_source=rss",
           "pub_date": "Wed, 19 Aug 2026 08:25:37 -0700"
         },
