@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-02 08:21:13Z
 Played at (local)         : 2026-09-02 04:21:13 -04
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 36:46:35
+Time since play           : 39:48:28
 Gap from previous play    : 68:45:18
 ------------------------------------------------------------
 Previous song             : Kyle Sumple — Misunderstood
@@ -1574,33 +1574,33 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 17
-Unique tracks             : 13
-Unique artists            : 6
-Replay ratio              : ████░░░░░░░░░░░░░░  23.5%
-Artist diversity          : ██████░░░░░░░░░░░░  35.3%
+Observed events           : 16
+Unique tracks             : 12
+Unique artists            : 5
+Replay ratio              : ████░░░░░░░░░░░░░░  25.0%
+Artist diversity          : ██████░░░░░░░░░░░░  31.2%
 Dominant artist           : The Black Angels
-Dominant artist share     : ████████░░░░░░░░░░  47.1%
-Artist switch ratio       : █████████░░░░░░░░░  50.0%
+Dominant artist share     : █████████░░░░░░░░░  50.0%
+Artist switch ratio       : ████████░░░░░░░░░░  46.7%
 Longest artist streak     : The Black Angels × 7
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    5.9%
-Morning    06–12           : ███████████████░░░   82.4%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    6.2%
+Morning    06–12           : ████████████████░░   87.5%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░   11.8%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    6.2%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-27 23:30:24Z
+History first play (7d)   : 2026-08-29 13:50:42Z
 History last play (7d)    : 2026-09-02 08:21:13Z
-Observed time span        : 128:50:49
-Mean inter-play gap       : 08:03:11
-Median inter-play gap     : 00:05:02
+Observed time span        : 90:30:31
+Mean inter-play gap       : 06:02:02
+Median inter-play gap     : 00:04:50
 Longest inactivity gap    : 68:45:18
-Listening intensity       : 0.13 tracks/hour
+Listening intensity       : 0.18 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1608,11 +1608,11 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 10:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▁  ▁ ▂█        ▂    
+Heatmap (7d)              :     ▁  ▁ ▂█        ▁    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▁▁ █▁
+Activity (Mon→Sun)        :   ▁  █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :         ▃▆█▄     ▂▆ ▁   ▄     
 Trend order               : oldest → newest
@@ -1622,7 +1622,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                         
 Tue                       :                         
 Wed                       :     █                   
-Thu                       :                    █    
+Thu                       :                         
 Fri                       :                         
 Sat                       :          ▂█        ▁    
 Sun                       :        █                
@@ -1637,8 +1637,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-27 21:07:48Z → 2026-09-03 21:07:48Z
-Tracks played (7d)        : 17
+Week window (UTC)         : 2026-08-28 00:09:41Z → 2026-09-04 00:09:41Z
+Tracks played (7d)        : 16
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1646,13 +1646,13 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap        : 08:03:11
+Sessions (7d)             : 4
+Avg inter-play gap        : 06:02:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : neo-psychedelic(10) | psychedelic rock(10) | space rock(10) | stoner rock(10) | acid rock(8) | garage rock(8)
+Top genres (7d)           : neo-psychedelic(9) | psychedelic rock(9) | space rock(9) | stoner rock(9) | acid rock(8) | garage rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1660,7 +1660,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:35:42
+Telemetry interval        : 03:01:53
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1668,7 +1668,7 @@ Events retained           : 119
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-02 04:21:13 -04
 Events (24h)              : 0
-Events (7d)               : 17
+Events (7d)               : 16
 Events (30d)              : 119
 Playlist contexts retained: 10
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-03 21:07:48Z
+Report generated (UTC)    : 2026-09-04 00:09:41Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
