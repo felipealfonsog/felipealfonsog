@@ -1,8 +1,30 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-04 04:42:45Z",
+  "updated_utc": "2026-09-04 11:27:47Z",
   "events": [
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-09-02 08:23:22Z",
+      "played_at_local": "2026-09-02 04:23:22 -04",
+      "local_hour": 4,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
     {
       "track": "Tomasz Stanko Quintet — Terminal 7",
       "artist": "Tomasz Stanko Quintet",

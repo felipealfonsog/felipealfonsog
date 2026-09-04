@@ -1488,75 +1488,75 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Tomasz Stanko Quintet — Terminal 7
-Artist                    : Tomasz Stanko Quintet
-Title                     : Terminal 7
-Album                     : Dark Eyes
-Spotify URI               : spotify:track:2qPNrEIImCaJ47KCKXBFAh
-Spotify URL               : https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh
+Track                     : Tomasz Stanko Quartet — Trista
+Artist                    : Tomasz Stanko Quartet
+Title                     : Trista
+Album                     : Lontano
+Spotify URI               : spotify:track:4371532zjTS1Llm2ZBxyEn
+Spotify URL               : https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-02 08:21:13Z
-Played at (local)         : 2026-09-02 04:21:13 -04
+Played at (UTC)           : 2026-09-02 08:23:22Z
+Played at (local)         : 2026-09-02 04:23:22 -04
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 44:21:32
-Gap from previous play    : 68:45:18
+Time since play           : 51:04:25
+Gap from previous play    : 00:02:09
 ------------------------------------------------------------
-Previous song             : Kyle Sumple — Misunderstood
+Previous song             : Tomasz Stanko Quintet — Terminal 7
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 4
-Artist plays (retained)   : 4
+Track plays (retained)    : 2
+Artist plays (retained)   : 2
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Kyle Sumple — Misunderstood | 2026-08-30 07:35:55 -04
-Previous track #2         : The Black Angels — Manipulation | 2026-08-29 19:57:09 -04
-Previous track #3         : The Black Angels — You On The Run | 2026-08-29 10:55:04 -04
-Previous track #4         : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04
-Previous track #5         : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04
-Previous track #6         : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04
-Previous track #7         : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04
-Previous track #8         : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04
-Previous track #9         : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04
-Previous track #10        : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04
-Previous track #11        : The Black Angels — Currency | 2026-08-29 10:11:34 -04
-Previous track #12        : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04
-Previous track #13        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04
-Previous track #14        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04
-Previous track #15        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04
-Previous track #16        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04
-Previous track #17        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04
-Previous track #18        : Hypnos — Viaje | 2026-08-25 05:34:32 -04
-Previous track #19        : Chevelle — Still Running | 2026-08-23 11:56:54 -04
-Previous track #20        : Loathe — Babylon... | 2026-08-23 08:26:16 -04
-Previous track #21        : Grommet — Half in Red | 2026-08-23 08:20:49 -04
-Previous track #22        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
-Previous track #23        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
-Previous track #24        : Submersed — Flicker | 2026-08-23 08:09:13 -04
-Previous track #25        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
-Previous track #26        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
-Previous track #27        : Hum — Step into You | 2026-08-23 07:56:12 -04
-Previous track #28        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
-Previous track #29        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
-Previous track #30        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
-Previous track #31        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
-Previous track #32        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04
-Previous track #33        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04
-Previous track #34        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04
-Previous track #35        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04
-Previous track #36        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04
-Previous track #37        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04
-Previous track #38        : Chevelle — The Red | 2026-08-23 07:08:00 -04
-Previous track #39        : Alice In Chains — Rooster (2022 Remaster) | 2026-08-22 21:26:48 -04
-Previous track #40        : Alice In Chains — Rooster | 2026-08-22 20:23:15 -04
+Previous track #1         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-02 04:21:13 -04
+Previous track #2         : Kyle Sumple — Misunderstood | 2026-08-30 07:35:55 -04
+Previous track #3         : The Black Angels — Manipulation | 2026-08-29 19:57:09 -04
+Previous track #4         : The Black Angels — You On The Run | 2026-08-29 10:55:04 -04
+Previous track #5         : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04
+Previous track #6         : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04
+Previous track #7         : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04
+Previous track #8         : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04
+Previous track #9         : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04
+Previous track #10        : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04
+Previous track #11        : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04
+Previous track #12        : The Black Angels — Currency | 2026-08-29 10:11:34 -04
+Previous track #13        : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04
+Previous track #14        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04
+Previous track #15        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04
+Previous track #16        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04
+Previous track #17        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04
+Previous track #18        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04
+Previous track #19        : Hypnos — Viaje | 2026-08-25 05:34:32 -04
+Previous track #20        : Chevelle — Still Running | 2026-08-23 11:56:54 -04
+Previous track #21        : Loathe — Babylon... | 2026-08-23 08:26:16 -04
+Previous track #22        : Grommet — Half in Red | 2026-08-23 08:20:49 -04
+Previous track #23        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
+Previous track #24        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
+Previous track #25        : Submersed — Flicker | 2026-08-23 08:09:13 -04
+Previous track #26        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
+Previous track #27        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
+Previous track #28        : Hum — Step into You | 2026-08-23 07:56:12 -04
+Previous track #29        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
+Previous track #30        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
+Previous track #31        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
+Previous track #32        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
+Previous track #33        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04
+Previous track #34        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04
+Previous track #35        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04
+Previous track #36        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04
+Previous track #37        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04
+Previous track #38        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04
+Previous track #39        : Chevelle — The Red | 2026-08-23 07:08:00 -04
+Previous track #40        : Alice In Chains — Rooster (2022 Remaster) | 2026-08-22 21:26:48 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-09-02 04:21:13 -04
-Track observed in context : Tomasz Stanko Quintet — Terminal 7
+Context observed (local)  : 2026-09-02 04:23:22 -04
+Track observed in context : Tomasz Stanko Quartet — Trista
 Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
 Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
@@ -1574,33 +1574,33 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 16
-Unique tracks             : 12
-Unique artists            : 5
-Replay ratio              : ████░░░░░░░░░░░░░░  25.0%
-Artist diversity          : ██████░░░░░░░░░░░░  31.2%
+Observed events           : 17
+Unique tracks             : 13
+Unique artists            : 6
+Replay ratio              : ████░░░░░░░░░░░░░░  23.5%
+Artist diversity          : ██████░░░░░░░░░░░░  35.3%
 Dominant artist           : The Black Angels
-Dominant artist share     : █████████░░░░░░░░░  50.0%
-Artist switch ratio       : ████████░░░░░░░░░░  46.7%
+Dominant artist share     : ████████░░░░░░░░░░  47.1%
+Artist switch ratio       : █████████░░░░░░░░░  50.0%
 Longest artist streak     : The Black Angels × 7
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    6.2%
-Morning    06–12           : ████████████████░░   87.5%
+Night      00–06           : ██░░░░░░░░░░░░░░░░   11.8%
+Morning    06–12           : ███████████████░░░   82.4%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    6.2%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    5.9%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-08-29 13:50:42Z
-History last play (7d)    : 2026-09-02 08:21:13Z
-Observed time span        : 90:30:31
-Mean inter-play gap       : 06:02:02
+History last play (7d)    : 2026-09-02 08:23:22Z
+Observed time span        : 90:32:40
+Mean inter-play gap       : 05:39:32
 Median inter-play gap     : 00:04:50
 Longest inactivity gap    : 68:45:18
-Listening intensity       : 0.18 tracks/hour
+Listening intensity       : 0.19 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1608,13 +1608,13 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
 Peak hour (7d)            : 10:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▁  ▁ ▂█        ▁    
+Heatmap (7d)              :     ▂  ▁ ▂█        ▁    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :   ▁  █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :        ▃▆█▄     ▂▆ ▁   ▄      
+Activity trend (30d)      :        ▃▆█▄     ▂▆ ▁   ▄   ▁  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1637,8 +1637,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-28 04:42:45Z → 2026-09-04 04:42:45Z
-Tracks played (7d)        : 16
+Week window (UTC)         : 2026-08-28 11:27:47Z → 2026-09-04 11:27:47Z
+Tracks played (7d)        : 17
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1647,7 +1647,7 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
 Sessions (7d)             : 4
-Avg inter-play gap        : 06:02:02
+Avg inter-play gap        : 05:39:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1657,20 +1657,20 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Tomasz Stanko Quintet — Terminal 7 → Tomasz Stanko Quartet — Trista
+Playback timestamp Δ      : 2026-09-02 08:21:13Z → 2026-09-02 08:23:22Z
 State transition          : NO CHANGE
-Telemetry interval        : 04:33:04
+Telemetry interval        : 06:45:02
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 119
+Events retained           : 120
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-02 04:21:13 -04
+Newest retained event     : 2026-09-02 04:23:22 -04
 Events (24h)              : 0
-Events (7d)               : 16
-Events (30d)              : 119
-Playlist contexts retained: 10
+Events (7d)               : 17
+Events (30d)              : 120
+Playlist contexts retained: 11
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-04 04:42:45Z
+Report generated (UTC)    : 2026-09-04 11:27:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
