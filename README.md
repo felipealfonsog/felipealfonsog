@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-04 11:02:34Z
 Played at (local)         : 2026-09-04 07:02:34 -04
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 17:36:00
+Time since play           : 23:41:12
 Gap from previous play    : 50:39:12
 ------------------------------------------------------------
 Previous song             : Tomasz Stanko Quartet — Trista
@@ -1637,7 +1637,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-29 04:38:34Z → 2026-09-05 04:38:34Z
+Week window (UTC)         : 2026-08-29 10:43:46Z → 2026-09-05 10:43:46Z
 Tracks played (7d)        : 18
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
@@ -1660,7 +1660,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:27:24
+Telemetry interval        : 06:05:12
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-05 04:38:34Z
+Report generated (UTC)    : 2026-09-05 10:43:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
