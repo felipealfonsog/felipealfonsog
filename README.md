@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-04 11:02:34Z
 Played at (local)         : 2026-09-04 07:02:34 -04
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 23:41:12
+Time since play           : 28:17:39
 Gap from previous play    : 50:39:12
 ------------------------------------------------------------
 Previous song             : Tomasz Stanko Quartet — Trista
@@ -1574,45 +1574,45 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 18
-Unique tracks             : 14
-Unique artists            : 7
-Replay ratio              : ████░░░░░░░░░░░░░░  22.2%
-Artist diversity          : ███████░░░░░░░░░░░  38.9%
-Dominant artist           : The Black Angels
-Dominant artist share     : ████████░░░░░░░░░░  44.4%
-Artist switch ratio       : ██████████░░░░░░░░  52.9%
-Longest artist streak     : The Black Angels × 7
+Observed events           : 5
+Unique tracks             : 5
+Unique artists            : 5
+Replay ratio              : ░░░░░░░░░░░░░░░░░░  0.0%
+Artist diversity          : ██████████████████  100.0%
+Dominant artist           : All Them Witches
+Dominant artist share     : ████░░░░░░░░░░░░░░  20.0%
+Artist switch ratio       : ██████████████████  100.0%
+Longest artist streak     : The Black Angels × 1
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██░░░░░░░░░░░░░░░░   11.1%
-Morning    06–12           : ███████████████░░░   83.3%
+Night      00–06           : ███████░░░░░░░░░░░   40.0%
+Morning    06–12           : ███████░░░░░░░░░░░   40.0%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    5.6%
-Dominant period           : MORNING
+Evening    18–24           : ████░░░░░░░░░░░░░░   20.0%
+Dominant period           : NIGHT
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-29 13:50:42Z
+History first play (7d)   : 2026-08-29 23:57:09Z
 History last play (7d)    : 2026-09-04 11:02:34Z
-Observed time span        : 141:11:52
-Mean inter-play gap       : 08:18:21
-Median inter-play gap     : 00:04:50
+Observed time span        : 131:05:25
+Mean inter-play gap       : 32:46:21
+Median inter-play gap     : 31:08:59
 Longest inactivity gap    : 68:45:18
-Listening intensity       : 0.13 tracks/hour
+Listening intensity       : 0.04 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
-Peak hour (7d)            : 10:00
-Heatmap (24h)             :        █                
-Heatmap (7d)              :     ▂  ▂ ▂█        ▁    
+Peak hour (24h)           : N/A
+Peak hour (7d)            : 04:00
+Heatmap (24h)             : N/A
+Heatmap (7d)              :     █  █           ▄    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▁ ▁█▁
+Activity (Mon→Sun)        :   █ ▄▄▄
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :       ▃▆█▄     ▂▆ ▁   ▄   ▁   
 Trend order               : oldest → newest
@@ -1624,35 +1624,35 @@ Tue                       :
 Wed                       :     █                   
 Thu                       :                         
 Fri                       :        █                
-Sat                       :          ▂█        ▁    
+Sat                       :                    █    
 Sun                       :        █                
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : All Them Witches
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-29 10:43:46Z → 2026-09-05 10:43:46Z
-Tracks played (7d)        : 18
-Dominant artist           : The Black Angels
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-08-29 15:20:13Z → 2026-09-05 15:20:13Z
+Tracks played (7d)        : 5
+Dominant artist           : All Them Witches
+Cadence classification    : LOW
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 5
-Avg inter-play gap        : 08:18:21
+Sessions (24h)            : N/A
+Sessions (7d)             : 4
+Avg inter-play gap        : 32:46:21
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : blues rock(1) | neo-psychedelic(1) | psychedelic rock(1) | sludge metal(1) | space rock(1) | stoner metal(1)
-Top genres (7d)           : neo-psychedelic(10) | psychedelic rock(10) | space rock(10) | stoner rock(10) | acid rock(8) | garage rock(8)
+Top genres (24h)          : N/A
+Top genres (7d)           : ambient jazz(2) | free jazz(2) | jazz(2) | neo-psychedelic(2) | psychedelic rock(2) | space rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1660,15 +1660,15 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:05:12
+Telemetry interval        : 04:36:27
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 121
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-04 07:02:34 -04
-Events (24h)              : 1
-Events (7d)               : 18
+Events (24h)              : 0
+Events (7d)               : 5
 Events (30d)              : 121
 Playlist contexts retained: 11
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-05 10:43:46Z
+Report generated (UTC)    : 2026-09-05 15:20:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
