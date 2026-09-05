@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-04 11:02:34Z
 Played at (local)         : 2026-09-04 07:02:34 -04
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 31:20:59
+Time since play           : 35:02:55
 Gap from previous play    : 50:39:12
 ------------------------------------------------------------
 Previous song             : Tomasz Stanko Quartet — Trista
@@ -1637,7 +1637,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-29 18:23:32Z → 2026-09-05 18:23:32Z
+Week window (UTC)         : 2026-08-29 22:05:28Z → 2026-09-05 22:05:28Z
 Tracks played (7d)        : 5
 Dominant artist           : All Them Witches
 Cadence classification    : LOW
@@ -1660,7 +1660,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:03:20
+Telemetry interval        : 03:41:57
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-05 18:23:32Z
+Report generated (UTC)    : 2026-09-05 22:05:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
