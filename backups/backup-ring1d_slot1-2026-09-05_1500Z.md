@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-09-04_1612Z
+ snapshot_utc : 2026-09-05_1500Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -533,7 +533,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-09-04T11:08:15+00:00 | last_update=2026-09-04T11:08:15+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-09-05T10:28:29+00:00 | last_update=2026-09-05T10:28:29+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -703,13 +703,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. DEGRADED
 HTTP................ 403 Forbidden
-LATENCY............. 192 ms
-TTFB................ 191 ms
+LATENCY............. 92 ms
+TTFB................ 91 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 58d
+TLS_EXPIRY.......... 57d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -722,9 +722,9 @@ REFPOL.............. PASS
 PERMPOL............. PASS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PASS
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -738,7 +738,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-04T07:52:16Z
+LAST_PROBE_UTC...... 2026-09-05T07:34:06Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -778,19 +778,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446866
-longitude      : -70.661295
-altitude       : 101 m
-gps_accuracy   : ±6.4 m
-heading        : 84°
-speed          : 2.4 km/h
-status         : in_transit
+location       : residential_sector
+latitude       : -33.442221
+longitude      : -70.654308
+altitude       : 140 m
+gps_accuracy   : ±5.0 m
+heading        : 294°
+speed          : 0.6 km/h
+status         : stationary
 phase          : morning
-local_time     : 11:26
+local_time     : 10:13
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-09-04 15:26:07 UTC
+updated_utc    : 2026-09-05 14:13:28 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -909,7 +909,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-09-04 11:25:51Z
+DSN snapshot (UTC)       : 2026-09-05 10:42:30Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -920,15 +920,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.67e9 km | 171.587 AU
-Heliocentric distance    : 171.658 AU
-Relative speed           : 44.292 km/s
+Earth distance           : 25.67e9 km | 171.610 AU
+Heliocentric distance    : 171.668 AU
+Relative speed           : 44.324 km/s
 ------------------------------------------------------------
-One-way light time       : 23:47:03
-Round-trip latency       : 47:34:05
+One-way light time       : 23:47:14
+Round-trip latency       : 47:34:28
 ------------------------------------------------------------
-Δ distance (since last)  : +992,718 km
-Mission age              : 49 years, 11 days
+Δ distance (since last)  : +900,102 km
+Mission age              : 49 years, 12 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -939,19 +939,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.45e9 km | 143.360 AU
-Heliocentric distance    : 143.855 AU
-Relative speed           : 39.445 km/s
+Earth distance           : 21.45e9 km | 143.378 AU
+Heliocentric distance    : 143.863 AU
+Relative speed           : 39.538 km/s
 ------------------------------------------------------------
-One-way light time       : 19:52:17
-Round-trip latency       : 39:44:34
+One-way light time       : 19:52:26
+Round-trip latency       : 39:44:53
 ------------------------------------------------------------
-Δ distance (since last)  : +804,939 km
-Mission age              : 49 years, 27 days
+Δ distance (since last)  : +734,589 km
+Mission age              : 49 years, 28 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-09-04 11:25:56Z
+Report generated (UTC)   : 2026-09-05 10:42:33Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1495,69 +1495,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Tomasz Stanko Quartet — Trista
-Artist                    : Tomasz Stanko Quartet
-Title                     : Trista
-Album                     : Lontano
-Spotify URI               : spotify:track:4371532zjTS1Llm2ZBxyEn
-Spotify URL               : https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn
+Track                     : All Them Witches — Red Rocking Chair
+Artist                    : All Them Witches
+Title                     : Red Rocking Chair
+Album                     : House Of Mirrors
+Spotify URI               : spotify:track:0ah8xqlKZLVN69XJVVONur
+Spotify URL               : https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-02 08:23:22Z
-Played at (local)         : 2026-09-02 04:23:22 -04
-Local hour                : 04:00
-Daypart                   : NIGHT
-Time since play           : 51:04:25
-Gap from previous play    : 00:02:09
+Played at (UTC)           : 2026-09-04 11:02:34Z
+Played at (local)         : 2026-09-04 07:02:34 -04
+Local hour                : 07:00
+Daypart                   : MORNING
+Time since play           : 23:41:12
+Gap from previous play    : 50:39:12
 ------------------------------------------------------------
-Previous song             : Tomasz Stanko Quintet — Terminal 7
+Previous song             : Tomasz Stanko Quartet — Trista
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 2
-Artist plays (retained)   : 2
+Track plays (retained)    : 10
+Artist plays (retained)   : 35
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-02 04:21:13 -04
-Previous track #2         : Kyle Sumple — Misunderstood | 2026-08-30 07:35:55 -04
-Previous track #3         : The Black Angels — Manipulation | 2026-08-29 19:57:09 -04
-Previous track #4         : The Black Angels — You On The Run | 2026-08-29 10:55:04 -04
-Previous track #5         : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04
-Previous track #6         : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04
-Previous track #7         : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04
-Previous track #8         : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04
-Previous track #9         : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04
-Previous track #10        : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04
-Previous track #11        : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04
-Previous track #12        : The Black Angels — Currency | 2026-08-29 10:11:34 -04
-Previous track #13        : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04
-Previous track #14        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04
-Previous track #15        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04
-Previous track #16        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04
-Previous track #17        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04
-Previous track #18        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04
-Previous track #19        : Hypnos — Viaje | 2026-08-25 05:34:32 -04
-Previous track #20        : Chevelle — Still Running | 2026-08-23 11:56:54 -04
-Previous track #21        : Loathe — Babylon... | 2026-08-23 08:26:16 -04
-Previous track #22        : Grommet — Half in Red | 2026-08-23 08:20:49 -04
-Previous track #23        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
-Previous track #24        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
-Previous track #25        : Submersed — Flicker | 2026-08-23 08:09:13 -04
-Previous track #26        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
-Previous track #27        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
-Previous track #28        : Hum — Step into You | 2026-08-23 07:56:12 -04
-Previous track #29        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
-Previous track #30        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
-Previous track #31        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
-Previous track #32        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
-Previous track #33        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04
-Previous track #34        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04
-Previous track #35        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04
-Previous track #36        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04
-Previous track #37        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04
-Previous track #38        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04
-Previous track #39        : Chevelle — The Red | 2026-08-23 07:08:00 -04
-Previous track #40        : Alice In Chains — Rooster (2022 Remaster) | 2026-08-22 21:26:48 -04
+Previous track #1         : Tomasz Stanko Quartet — Trista | 2026-09-02 04:23:22 -04
+Previous track #2         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-02 04:21:13 -04
+Previous track #3         : Kyle Sumple — Misunderstood | 2026-08-30 07:35:55 -04
+Previous track #4         : The Black Angels — Manipulation | 2026-08-29 19:57:09 -04
+Previous track #5         : The Black Angels — You On The Run | 2026-08-29 10:55:04 -04
+Previous track #6         : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04
+Previous track #7         : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04
+Previous track #8         : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04
+Previous track #9         : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04
+Previous track #10        : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04
+Previous track #11        : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04
+Previous track #12        : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04
+Previous track #13        : The Black Angels — Currency | 2026-08-29 10:11:34 -04
+Previous track #14        : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04
+Previous track #15        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04
+Previous track #16        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04
+Previous track #17        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04
+Previous track #18        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04
+Previous track #19        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04
+Previous track #20        : Hypnos — Viaje | 2026-08-25 05:34:32 -04
+Previous track #21        : Chevelle — Still Running | 2026-08-23 11:56:54 -04
+Previous track #22        : Loathe — Babylon... | 2026-08-23 08:26:16 -04
+Previous track #23        : Grommet — Half in Red | 2026-08-23 08:20:49 -04
+Previous track #24        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
+Previous track #25        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
+Previous track #26        : Submersed — Flicker | 2026-08-23 08:09:13 -04
+Previous track #27        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
+Previous track #28        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
+Previous track #29        : Hum — Step into You | 2026-08-23 07:56:12 -04
+Previous track #30        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
+Previous track #31        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
+Previous track #32        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
+Previous track #33        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
+Previous track #34        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04
+Previous track #35        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04
+Previous track #36        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04
+Previous track #37        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04
+Previous track #38        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04
+Previous track #39        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04
+Previous track #40        : Chevelle — The Red | 2026-08-23 07:08:00 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1581,47 +1581,47 @@ Context observed (UTC)    : 2026-08-15 09:20:12Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 17
-Unique tracks             : 13
-Unique artists            : 6
-Replay ratio              : ████░░░░░░░░░░░░░░  23.5%
-Artist diversity          : ██████░░░░░░░░░░░░  35.3%
+Observed events           : 18
+Unique tracks             : 14
+Unique artists            : 7
+Replay ratio              : ████░░░░░░░░░░░░░░  22.2%
+Artist diversity          : ███████░░░░░░░░░░░  38.9%
 Dominant artist           : The Black Angels
-Dominant artist share     : ████████░░░░░░░░░░  47.1%
-Artist switch ratio       : █████████░░░░░░░░░  50.0%
+Dominant artist share     : ████████░░░░░░░░░░  44.4%
+Artist switch ratio       : ██████████░░░░░░░░  52.9%
 Longest artist streak     : The Black Angels × 7
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██░░░░░░░░░░░░░░░░   11.8%
-Morning    06–12           : ███████████████░░░   82.4%
+Night      00–06           : ██░░░░░░░░░░░░░░░░   11.1%
+Morning    06–12           : ███████████████░░░   83.3%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    5.9%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    5.6%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-08-29 13:50:42Z
-History last play (7d)    : 2026-09-02 08:23:22Z
-Observed time span        : 90:32:40
-Mean inter-play gap       : 05:39:32
+History last play (7d)    : 2026-09-04 11:02:34Z
+Observed time span        : 141:11:52
+Mean inter-play gap       : 08:18:21
 Median inter-play gap     : 00:04:50
 Longest inactivity gap    : 68:45:18
-Listening intensity       : 0.19 tracks/hour
+Listening intensity       : 0.13 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 07:00
 Peak hour (7d)            : 10:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▂  ▁ ▂█        ▁    
+Heatmap (24h)             :        █                
+Heatmap (7d)              :     ▂  ▂ ▂█        ▁    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▁  █▁
+Activity (Mon→Sun)        :   ▁ ▁█▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :        ▃▆█▄     ▂▆ ▁   ▄   ▁  
+Activity trend (30d)      :       ▃▆█▄     ▂▆ ▁   ▄   ▁   
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1630,53 +1630,53 @@ Mon                       :
 Tue                       :                         
 Wed                       :     █                   
 Thu                       :                         
-Fri                       :                         
+Fri                       :        █                
 Sat                       :          ▂█        ▁    
 Sun                       :        █                
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : All Them Witches
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-28 11:27:47Z → 2026-09-04 11:27:47Z
-Tracks played (7d)        : 17
+Week window (UTC)         : 2026-08-29 10:43:46Z → 2026-09-05 10:43:46Z
+Tracks played (7d)        : 18
 Dominant artist           : The Black Angels
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap        : 05:39:32
+Sessions (24h)            : 1
+Sessions (7d)             : 5
+Avg inter-play gap        : 08:18:21
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : neo-psychedelic(9) | psychedelic rock(9) | space rock(9) | stoner rock(9) | acid rock(8) | garage rock(8)
+Top genres (24h)          : blues rock(1) | neo-psychedelic(1) | psychedelic rock(1) | sludge metal(1) | space rock(1) | stoner metal(1)
+Top genres (7d)           : neo-psychedelic(10) | psychedelic rock(10) | space rock(10) | stoner rock(10) | acid rock(8) | garage rock(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Tomasz Stanko Quintet — Terminal 7 → Tomasz Stanko Quartet — Trista
-Playback timestamp Δ      : 2026-09-02 08:21:13Z → 2026-09-02 08:23:22Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:45:02
+Telemetry interval        : 06:05:12
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 120
+Events retained           : 121
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-02 04:23:22 -04
-Events (24h)              : 0
-Events (7d)               : 17
-Events (30d)              : 120
+Newest retained event     : 2026-09-04 07:02:34 -04
+Events (24h)              : 1
+Events (7d)               : 18
+Events (30d)              : 121
 Playlist contexts retained: 11
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1705,7 +1705,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-04 11:27:47Z
+Report generated (UTC)    : 2026-09-05 10:43:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2063,9 +2063,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 04 September 2026
+From: 04 December 2023 - To: 05 September 2026
 
-Total Time       : 1,064 hrs 22 mins
+Total Time       : 1,064 hrs 23 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 3 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -2074,7 +2074,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          805 hrs 15 mins ●●●●●●●●●●●●●●●●●●●◔○○○○○○  75.66 %
+Other          820 hrs 19 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  77.07 %
 Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.60 %
 Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.35 %
 HTML           140 hrs 6 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
@@ -2087,36 +2087,36 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,151 hrs 9 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,166 hrs 14 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  67.18 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.98 %
-Firefox        594 hrs 57 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  55.90 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.97 %
+Firefox        602 hrs 19 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.59 %
 Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.75 %
 Terminal       47 hrs 1 min   ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.42 %
 Spotify        39 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
+‎WhatsApp      29 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.73 %
 Termius        24 hrs 7 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.27 %
-‎WhatsApp      22 hrs 20 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.10 %
-Pages          21 hrs 39 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.04 %
+Pages          21 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.04 %
 Dia            20 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.94 %
 Acrobat        16 hrs 10 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.52 %
-TeXstudio      14 hrs 25 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
+TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.40 %
 FileZilla      10 hrs 47 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.01 %
 
 CATEGORIES
 ----------
-Coding         1,210 hrs 12 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       591 hrs 20 mins ●●●●●●●●●●●●●●○○○○○○○○○○○○  55.56 %
-Meeting        31 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.92 %
-AI Coding      23 hrs 47 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.24 %
-Writing Docs   13 hrs 11 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.24 %
+Coding         1,210 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       598 hrs 43 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.25 %
+Meeting        37 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.55 %
+AI Coding      24 hrs 22 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.29 %
+Writing Docs   13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.27 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 04/09/2026 15:38:40 UTC
+Last updated     : 05/09/2026 14:26:23 UTC
 
 ```
 <!--END_SECTION:wakastats-->
