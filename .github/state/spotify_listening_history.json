@@ -1,8 +1,143 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-06 04:49:03Z",
+  "updated_utc": "2026-09-06 11:05:28Z",
   "events": [
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-09-06 11:04:10Z",
+      "played_at_local": "2026-09-06 08:04:10 -03",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-09-06 10:59:34Z",
+      "played_at_local": "2026-09-06 07:59:34 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Spoon — WhisperI'lllistentohearit",
+      "artist": "Spoon",
+      "title": "WhisperI'lllistentohearit",
+      "album": "Hot Thoughts",
+      "uri": "spotify:track:1TpradQgOlbLhltTSerR51",
+      "url": "https://open.spotify.com/track/1TpradQgOlbLhltTSerR51",
+      "artist_ids": [
+        "0K1q0nXQ8is36PzOKAMbNe"
+      ],
+      "played_at_utc": "2026-09-06 10:53:26Z",
+      "played_at_local": "2026-09-06 07:53:26 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Joywave — Content",
+      "artist": "Joywave",
+      "title": "Content",
+      "album": "Content",
+      "uri": "spotify:track:6N3zpuSStSBPTKiDvlecS5",
+      "url": "https://open.spotify.com/track/6N3zpuSStSBPTKiDvlecS5",
+      "artist_ids": [
+        "1UfzhwcOR4yfX7yHTPfC9m"
+      ],
+      "played_at_utc": "2026-09-06 10:49:09Z",
+      "played_at_local": "2026-09-06 07:49:09 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Nathan Barr, Pete Townshend — It Must Be Done",
+      "artist": "Nathan Barr, Pete Townshend",
+      "title": "It Must Be Done",
+      "album": "The Americans (Music from the TV Series)",
+      "uri": "spotify:track:6GJrHOgLOcElmsxLDVA1eE",
+      "url": "https://open.spotify.com/track/6GJrHOgLOcElmsxLDVA1eE",
+      "artist_ids": [
+        "0e0qyGBSGh9YwvpQFbkRBC",
+        "24Wa5wIZIo1sPkzVGP0B5p"
+      ],
+      "played_at_utc": "2026-09-06 10:44:44Z",
+      "played_at_local": "2026-09-06 07:44:44 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "The Black Angels — Grab as Much (As You Can)",
+      "artist": "The Black Angels",
+      "title": "Grab as Much (As You Can)",
+      "album": "Death Song",
+      "uri": "spotify:track:6WCgH95wOdmNvt2X823USJ",
+      "url": "https://open.spotify.com/track/6WCgH95wOdmNvt2X823USJ",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-06 10:39:54Z",
+      "played_at_local": "2026-09-06 07:39:54 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Kyle Sumple — Misunderstood",
+      "artist": "Kyle Sumple",
+      "title": "Misunderstood",
+      "album": "Misunderstood",
+      "uri": "spotify:track:13e9uwMkuvqDlNAe8MO6MR",
+      "url": "https://open.spotify.com/track/13e9uwMkuvqDlNAe8MO6MR",
+      "artist_ids": [
+        "1SGL66Inl6fPFRtKyML9xQ"
+      ],
+      "played_at_utc": "2026-09-06 10:36:06Z",
+      "played_at_local": "2026-09-06 07:36:06 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
     {
       "track": "All Them Witches — Red Rocking Chair",
       "artist": "All Them Witches",
@@ -2218,6 +2353,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-06 11:05:28Z",
+      "is_playing": true,
+      "track": "John Coltrane — Blue World",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Computer",
+      "device_name": "Felipe’s MacBook Air Silicon",
+      "volume_percent": 100,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-08-15 10:43:33Z",
       "is_playing": false,

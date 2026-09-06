@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-09-06 04:49:03Z",
-  "status": "IDLE",
-  "last_track": "All Them Witches — Red Rocking Chair",
-  "last_played_utc": "2026-09-04 11:02:34Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-09-06 11:05:28Z",
+  "status": "PLAYING",
+  "last_track": "Tomasz Stanko Quartet — Trista",
+  "last_played_utc": "2026-09-06 11:04:10Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -1687,11 +1687,155 @@
       "neo-psychedelic",
       "psychedelic rock",
       "space rock"
+    ],
+    "0K1q0nXQ8is36PzOKAMbNe": [
+      "indie rock",
+      "indie"
+    ],
+    "1UfzhwcOR4yfX7yHTPfC9m": [],
+    "0e0qyGBSGh9YwvpQFbkRBC": [],
+    "24Wa5wIZIo1sPkzVGP0B5p": [
+      "art rock"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : All Them Witches — Red Rocking Chair\nArtist                    : All Them Witches\nTitle                     : Red Rocking Chair\nAlbum                     : House Of Mirrors\nSpotify URI               : spotify:track:0ah8xqlKZLVN69XJVVONur\nSpotify URL               : https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-04 11:02:34Z\nPlayed at (local)         : 2026-09-04 07:02:34 -04\nLocal hour                : 07:00\nDaypart                   : MORNING\nTime since play           : 41:46:29\nGap from previous play    : 50:39:12\n------------------------------------------------------------\nPrevious song             : Tomasz Stanko Quartet — Trista\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 10\nArtist plays (retained)   : 35\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Tomasz Stanko Quartet — Trista | 2026-09-02 04:23:22 -04\nPrevious track #2         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-02 04:21:13 -04\nPrevious track #3         : Kyle Sumple — Misunderstood | 2026-08-30 07:35:55 -04\nPrevious track #4         : The Black Angels — Manipulation | 2026-08-29 19:57:09 -04\nPrevious track #5         : The Black Angels — You On The Run | 2026-08-29 10:55:04 -04\nPrevious track #6         : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04\nPrevious track #7         : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04\nPrevious track #8         : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04\nPrevious track #9         : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04\nPrevious track #10        : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04\nPrevious track #11        : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04\nPrevious track #12        : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04\nPrevious track #13        : The Black Angels — Currency | 2026-08-29 10:11:34 -04\nPrevious track #14        : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04\nPrevious track #15        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04\nPrevious track #16        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04\nPrevious track #17        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04\nPrevious track #18        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04\nPrevious track #19        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04\nPrevious track #20        : Hypnos — Viaje | 2026-08-25 05:34:32 -04\nPrevious track #21        : Chevelle — Still Running | 2026-08-23 11:56:54 -04\nPrevious track #22        : Loathe — Babylon... | 2026-08-23 08:26:16 -04\nPrevious track #23        : Grommet — Half in Red | 2026-08-23 08:20:49 -04\nPrevious track #24        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04\nPrevious track #25        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04\nPrevious track #26        : Submersed — Flicker | 2026-08-23 08:09:13 -04\nPrevious track #27        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04\nPrevious track #28        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04\nPrevious track #29        : Hum — Step into You | 2026-08-23 07:56:12 -04\nPrevious track #30        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04\nPrevious track #31        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04\nPrevious track #32        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04\nPrevious track #33        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04\nPrevious track #34        : Chevelle — An Evening with El Diablo | 2026-08-23 07:36:19 -04\nPrevious track #35        : Chevelle — An Evening with El Diablo | 2026-08-23 07:29:45 -04\nPrevious track #36        : Chevelle — Grab Thy Hand | 2026-08-23 07:24:02 -04\nPrevious track #37        : Chevelle — Forfeit | 2026-08-23 07:19:48 -04\nPrevious track #38        : Chevelle — Don't Fake This | 2026-08-23 07:15:49 -04\nPrevious track #39        : Chevelle — Wonder What's Next | 2026-08-23 07:12:10 -04\nPrevious track #40        : Chevelle — The Red | 2026-08-23 07:08:00 -04\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-09-02 04:23:22 -04\nTrack observed in context : Tomasz Stanko Quartet — Trista\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-08-15 09:20:12Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 4\nUnique tracks             : 4\nUnique artists            : 4\nReplay ratio              : ░░░░░░░░░░░░░░░░░░  0.0%\nArtist diversity          : ██████████████████  100.0%\nDominant artist           : All Them Witches\nDominant artist share     : ████░░░░░░░░░░░░░░  25.0%\nArtist switch ratio       : ██████████████████  100.0%\nLongest artist streak     : Kyle Sumple × 1\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █████████░░░░░░░░░   50.0%\nMorning    06–12           : █████████░░░░░░░░░   50.0%\nAfternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%\nEvening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%\nDominant period           : NIGHT\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-08-30 11:35:55Z\nHistory last play (7d)    : 2026-09-04 11:02:34Z\nObserved time span        : 119:26:39\nMean inter-play gap       : 39:48:53\nMedian inter-play gap     : 50:39:12\nLongest inactivity gap    : 68:45:18\nListening intensity       : 0.03 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 04:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              :     █  █                \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   █ ▄ ▄\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :      ▃▆█▄     ▂▆ ▁   ▄   ▁    \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :     █                   \nThu                       :                         \nFri                       :        █                \nSat                       :                         \nSun                       :        █                \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-30 04:49:03Z → 2026-09-06 04:49:03Z\nTracks played (7d)        : 4\nDominant artist           : All Them Witches\nCadence classification    : LOW\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 3\nAvg inter-play gap        : 39:48:53\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : ambient jazz(2) | free jazz(2) | jazz(2) | blues rock(1) | neo-psychedelic(1) | psychedelic rock(1)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : NO CHANGE\nState transition          : NO CHANGE\nTelemetry interval        : 04:50:07\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 121\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-04 07:02:34 -04\nEvents (24h)              : 0\nEvents (7d)               : 4\nEvents (30d)              : 121\nPlaylist contexts retained: 11\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-06 04:49:03Z",
-  "last_successful_report_utc": "2026-09-06 04:49:03Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Tomasz Stanko Quartet — Trista\nArtist                    : Tomasz Stanko Quartet\nTitle                     : Trista\nAlbum                     : Lontano\nSpotify URI               : spotify:track:4371532zjTS1Llm2ZBxyEn\nSpotify URL               : https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-06 11:04:10Z\nPlayed at (local)         : 2026-09-06 08:04:10 -03\nLocal hour                : 08:00\nDaypart                   : MORNING\nTime since play           : 00:01:19\nGap from previous play    : 00:04:36\n------------------------------------------------------------\nPrevious song             : Tomasz Stanko Quintet — Terminal 7\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 3\nArtist plays (retained)   : 3\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-06 07:59:34 -03\nPrevious track #2         : Spoon — WhisperI'lllistentohearit | 2026-09-06 07:53:26 -03\nPrevious track #3         : Joywave — Content | 2026-09-06 07:49:09 -03\nPrevious track #4         : Nathan Barr, Pete Townshend — It Must Be Done | 2026-09-06 07:44:44 -03\nPrevious track #5         : The Black Angels — Grab as Much (As You Can) | 2026-09-06 07:39:54 -03\nPrevious track #6         : Kyle Sumple — Misunderstood | 2026-09-06 07:36:06 -03\nPrevious track #7         : All Them Witches — Red Rocking Chair | 2026-09-04 07:02:34 -04\nPrevious track #8         : Tomasz Stanko Quartet — Trista | 2026-09-02 04:23:22 -04\nPrevious track #9         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-02 04:21:13 -04\nPrevious track #10        : Kyle Sumple — Misunderstood | 2026-08-30 07:35:55 -04\nPrevious track #11        : The Black Angels — Manipulation | 2026-08-29 19:57:09 -04\nPrevious track #12        : The Black Angels — You On The Run | 2026-08-29 10:55:04 -04\nPrevious track #13        : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04\nPrevious track #14        : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04\nPrevious track #15        : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04\nPrevious track #16        : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04\nPrevious track #17        : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04\nPrevious track #18        : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04\nPrevious track #19        : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04\nPrevious track #20        : The Black Angels — Currency | 2026-08-29 10:11:34 -04\nPrevious track #21        : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04\nPrevious track #22        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04\nPrevious track #23        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04\nPrevious track #24        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04\nPrevious track #25        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04\nPrevious track #26        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04\nPrevious track #27        : Hypnos — Viaje | 2026-08-25 05:34:32 -04\nPrevious track #28        : Chevelle — Still Running | 2026-08-23 11:56:54 -04\nPrevious track #29        : Loathe — Babylon... | 2026-08-23 08:26:16 -04\nPrevious track #30        : Grommet — Half in Red | 2026-08-23 08:20:49 -04\nPrevious track #31        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04\nPrevious track #32        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04\nPrevious track #33        : Submersed — Flicker | 2026-08-23 08:09:13 -04\nPrevious track #34        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04\nPrevious track #35        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04\nPrevious track #36        : Hum — Step into You | 2026-08-23 07:56:12 -04\nPrevious track #37        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04\nPrevious track #38        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04\nPrevious track #39        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04\nPrevious track #40        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-09-06 08:04:10 -03\nTrack observed in context : Tomasz Stanko Quartet — Trista\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-06 11:05:28Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 11\nUnique tracks             : 8\nUnique artists            : 8\nReplay ratio              : █████░░░░░░░░░░░░░  27.3%\nArtist diversity          : █████████████░░░░░  72.7%\nDominant artist           : Tomasz Stanko Quartet\nDominant artist share     : ███░░░░░░░░░░░░░░░  18.2%\nArtist switch ratio       : ██████████████████  100.0%\nLongest artist streak     : Kyle Sumple × 1\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ███░░░░░░░░░░░░░░░   18.2%\nMorning    06–12           : ███████████████░░░   81.8%\nAfternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%\nEvening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%\nDominant period           : MORNING\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-08-30 11:35:55Z\nHistory last play (7d)    : 2026-09-06 11:04:10Z\nObserved time span        : 167:28:15\nMean inter-play gap       : 16:44:50\nMedian inter-play gap     : 00:04:43\nLongest inactivity gap    : 68:45:18\nListening intensity       : 0.07 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 07:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             :        █▁               \nHeatmap (7d)              :     ▂  █▁               \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   ▂ ▁ █\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :      ▃▆█▄     ▂▆ ▁   ▄   ▁   ▂\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :     █                   \nThu                       :                         \nFri                       :        █                \nSat                       :                         \nSun                       :        █▁               \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 7\nDominant artist           : Tomasz Stanko Quartet\nListening pattern         : Light activity\nDaily activity status     : LOW\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-30 11:05:28Z → 2026-09-06 11:05:28Z\nTracks played (7d)        : 11\nDominant artist           : Tomasz Stanko Quartet\nCadence classification    : LOW\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 4\nAvg inter-play gap        : 16:44:50\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : ambient jazz(2) | free jazz(2) | jazz(2) | acid rock(1) | art rock(1) | garage rock(1)\nTop genres (7d)           : ambient jazz(4) | free jazz(4) | jazz(4) | neo-psychedelic(2) | psychedelic rock(2) | space rock(2)\nArtist lookups (this run) : 4 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : All Them Witches — Red Rocking Chair → Tomasz Stanko Quartet — Trista\nPlayback timestamp Δ      : 2026-09-04 11:02:34Z → 2026-09-06 11:04:10Z\nState transition          : IDLE → PLAYING\nTelemetry interval        : 06:16:26\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 128\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-06 08:04:10 -03\nEvents (24h)              : 7\nEvents (7d)               : 11\nEvents (30d)              : 128\nPlaylist contexts retained: 13\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-06 11:05:28Z",
+  "last_successful_report_utc": "2026-09-06 11:05:28Z",
   "recent_playback_history": [
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-09-06 11:04:10Z",
+      "played_at_local": "2026-09-06 08:04:10 -03",
+      "local_hour": 8,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-09-06 10:59:34Z",
+      "played_at_local": "2026-09-06 07:59:34 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Spoon — WhisperI'lllistentohearit",
+      "artist": "Spoon",
+      "title": "WhisperI'lllistentohearit",
+      "album": "Hot Thoughts",
+      "uri": "spotify:track:1TpradQgOlbLhltTSerR51",
+      "url": "https://open.spotify.com/track/1TpradQgOlbLhltTSerR51",
+      "artist_ids": [
+        "0K1q0nXQ8is36PzOKAMbNe"
+      ],
+      "played_at_utc": "2026-09-06 10:53:26Z",
+      "played_at_local": "2026-09-06 07:53:26 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Joywave — Content",
+      "artist": "Joywave",
+      "title": "Content",
+      "album": "Content",
+      "uri": "spotify:track:6N3zpuSStSBPTKiDvlecS5",
+      "url": "https://open.spotify.com/track/6N3zpuSStSBPTKiDvlecS5",
+      "artist_ids": [
+        "1UfzhwcOR4yfX7yHTPfC9m"
+      ],
+      "played_at_utc": "2026-09-06 10:49:09Z",
+      "played_at_local": "2026-09-06 07:49:09 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Nathan Barr, Pete Townshend — It Must Be Done",
+      "artist": "Nathan Barr, Pete Townshend",
+      "title": "It Must Be Done",
+      "album": "The Americans (Music from the TV Series)",
+      "uri": "spotify:track:6GJrHOgLOcElmsxLDVA1eE",
+      "url": "https://open.spotify.com/track/6GJrHOgLOcElmsxLDVA1eE",
+      "artist_ids": [
+        "0e0qyGBSGh9YwvpQFbkRBC",
+        "24Wa5wIZIo1sPkzVGP0B5p"
+      ],
+      "played_at_utc": "2026-09-06 10:44:44Z",
+      "played_at_local": "2026-09-06 07:44:44 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "The Black Angels — Grab as Much (As You Can)",
+      "artist": "The Black Angels",
+      "title": "Grab as Much (As You Can)",
+      "album": "Death Song",
+      "uri": "spotify:track:6WCgH95wOdmNvt2X823USJ",
+      "url": "https://open.spotify.com/track/6WCgH95wOdmNvt2X823USJ",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-06 10:39:54Z",
+      "played_at_local": "2026-09-06 07:39:54 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
+    {
+      "track": "Kyle Sumple — Misunderstood",
+      "artist": "Kyle Sumple",
+      "title": "Misunderstood",
+      "album": "Misunderstood",
+      "uri": "spotify:track:13e9uwMkuvqDlNAe8MO6MR",
+      "url": "https://open.spotify.com/track/13e9uwMkuvqDlNAe8MO6MR",
+      "artist_ids": [
+        "1SGL66Inl6fPFRtKyML9xQ"
+      ],
+      "played_at_utc": "2026-09-06 10:36:06Z",
+      "played_at_local": "2026-09-06 07:36:06 -03",
+      "local_hour": 7,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:1zZBJlNURw8kfpo52LZTEz",
+      "context_url": "https://open.spotify.com/album/1zZBJlNURw8kfpo52LZTEz"
+    },
     {
       "track": "All Them Witches — Red Rocking Chair",
       "artist": "All Them Witches",
@@ -2311,158 +2455,32 @@
       "context_type": "album",
       "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
       "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Chevelle — An Evening with El Diablo",
-      "artist": "Chevelle",
-      "title": "An Evening with El Diablo",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:5912VywSVB1xQaSGosKg0t",
-      "url": "https://open.spotify.com/track/5912VywSVB1xQaSGosKg0t",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-08-23 11:36:19Z",
-      "played_at_local": "2026-08-23 07:36:19 -04",
-      "local_hour": 7,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
-      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Chevelle — An Evening with El Diablo",
-      "artist": "Chevelle",
-      "title": "An Evening with El Diablo",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:5912VywSVB1xQaSGosKg0t",
-      "url": "https://open.spotify.com/track/5912VywSVB1xQaSGosKg0t",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-08-23 11:29:45Z",
-      "played_at_local": "2026-08-23 07:29:45 -04",
-      "local_hour": 7,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
-      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Chevelle — Grab Thy Hand",
-      "artist": "Chevelle",
-      "title": "Grab Thy Hand",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:42pNX8mZefuDKb06aFFJ79",
-      "url": "https://open.spotify.com/track/42pNX8mZefuDKb06aFFJ79",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-08-23 11:24:02Z",
-      "played_at_local": "2026-08-23 07:24:02 -04",
-      "local_hour": 7,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
-      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Chevelle — Forfeit",
-      "artist": "Chevelle",
-      "title": "Forfeit",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:6ptcVVRn97eAKqUy6kUVK5",
-      "url": "https://open.spotify.com/track/6ptcVVRn97eAKqUy6kUVK5",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-08-23 11:19:48Z",
-      "played_at_local": "2026-08-23 07:19:48 -04",
-      "local_hour": 7,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
-      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Chevelle — Don't Fake This",
-      "artist": "Chevelle",
-      "title": "Don't Fake This",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:2Bcvh4zypRuH0cCTQzuV6B",
-      "url": "https://open.spotify.com/track/2Bcvh4zypRuH0cCTQzuV6B",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-08-23 11:15:49Z",
-      "played_at_local": "2026-08-23 07:15:49 -04",
-      "local_hour": 7,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
-      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Chevelle — Wonder What's Next",
-      "artist": "Chevelle",
-      "title": "Wonder What's Next",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:7hOgnx2HOJ1KBdv0U0n1T3",
-      "url": "https://open.spotify.com/track/7hOgnx2HOJ1KBdv0U0n1T3",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-08-23 11:12:10Z",
-      "played_at_local": "2026-08-23 07:12:10 -04",
-      "local_hour": 7,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
-      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Chevelle — The Red",
-      "artist": "Chevelle",
-      "title": "The Red",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
-      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-08-23 11:08:00Z",
-      "played_at_local": "2026-08-23 07:08:00 -04",
-      "local_hour": 7,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
-      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
     }
   ],
-  "last_known_device_type": "Smartphone",
-  "last_known_device_name": "iPhone",
+  "last_known_device_type": "Computer",
+  "last_known_device_name": "Felipe’s MacBook Air Silicon",
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-09-06 04:49:03Z",
-    "week_window_utc": "2026-08-30 04:49:03Z → 2026-09-06 04:49:03Z",
-    "tracks_24h": 0,
-    "tracks_7d": 4,
-    "dominant_artist_24h": "N/A",
-    "dominant_artist_7d": "All Them Witches",
-    "listening_pattern_24h": "No activity",
-    "activity_status_24h": "NONE",
+    "captured_utc": "2026-09-06 11:05:28Z",
+    "week_window_utc": "2026-08-30 11:05:28Z → 2026-09-06 11:05:28Z",
+    "tracks_24h": 7,
+    "tracks_7d": 11,
+    "dominant_artist_24h": "Tomasz Stanko Quartet",
+    "dominant_artist_7d": "Tomasz Stanko Quartet",
+    "listening_pattern_24h": "Light activity",
+    "activity_status_24h": "LOW",
     "cadence_7d": "LOW",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "N/A",
-    "peak_hour_7d": "04:00",
-    "heatmap_24h": "N/A",
-    "heatmap_7d": "    █  █                ",
-    "sessions_24h": "N/A",
-    "sessions_7d": 3,
-    "avg_inter_play_gap_7d": "39:48:53",
-    "top_genres_24h": "N/A",
-    "top_genres_7d": "ambient jazz(2) | free jazz(2) | jazz(2) | blues rock(1) | neo-psychedelic(1) | psychedelic rock(1)"
+    "peak_hour_24h": "07:00",
+    "peak_hour_7d": "07:00",
+    "heatmap_24h": "       █▁               ",
+    "heatmap_7d": "    ▂  █▁               ",
+    "sessions_24h": 1,
+    "sessions_7d": 4,
+    "avg_inter_play_gap_7d": "16:44:50",
+    "top_genres_24h": "ambient jazz(2) | free jazz(2) | jazz(2) | acid rock(1) | art rock(1) | garage rock(1)",
+    "top_genres_7d": "ambient jazz(4) | free jazz(4) | jazz(4) | neo-psychedelic(2) | psychedelic rock(2) | space rock(2)"
   },
-  "last_known_device_captured_utc": "2026-08-15 09:20:12Z"
+  "last_known_device_captured_utc": "2026-09-06 11:05:28Z"
 }
