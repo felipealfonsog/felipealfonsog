@@ -1488,75 +1488,75 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition
-Artist                    : Wayne Shorter
-Title                     : Speak No Evil - Remastered1998/Rudy Van Gelder Edition
-Album                     : Speak No Evil (The Rudy Van Gelder Edition)
-Spotify URI               : spotify:track:0qxiaagtTvTeNvzxHHc441
-Spotify URL               : https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441
+Track                     : Sonny Rollins — St. Thomas
+Artist                    : Sonny Rollins
+Title                     : St. Thomas
+Album                     : Saxophone Colossus
+Spotify URI               : spotify:track:0zQE77yszbyv61M4NboU2u
+Spotify URL               : https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-06 15:32:14Z
-Played at (local)         : 2026-09-06 12:32:14 -03
-Local hour                : 12:00
+Played at (UTC)           : 2026-09-06 18:21:05Z
+Played at (local)         : 2026-09-06 15:21:05 -03
+Local hour                : 15:00
 Daypart                   : AFTERNOON
-Time since play           : 00:00:54
-Gap from previous play    : 00:08:20
+Time since play           : 00:02:58
+Gap from previous play    : 00:06:42
 ------------------------------------------------------------
-Previous song             : Miles Davis Quintet — Just Squeeze Me
+Previous song             : Joe Henderson — Blue Bossa - Remastered
 Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 2
+Artist plays (retained)   : 3
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Miles Davis Quintet — Just Squeeze Me | 2026-09-06 12:23:54 -03
-Previous track #2         : Thelonious Monk — Criss Cross - Remastered 1998 | 2026-09-06 12:16:29 -03
-Previous track #3         : Tony Allen — Politely | 2026-09-06 12:13:35 -03
-Previous track #4         : Shabaka and the Ancestors — Joyous | 2026-09-06 12:06:59 -03
-Previous track #5         : John Coltrane — I'm Old Fashioned | 2026-09-06 12:00:24 -03
-Previous track #6         : Wayne Shorter — Infant Eyes - Remastered1998/Rudy Van Gelder Edition | 2026-09-06 11:52:29 -03
-Previous track #7         : Miles Davis Quintet — When I Fall In Love | 2026-09-06 11:45:39 -03
-Previous track #8         : Thelonious Monk, John Coltrane — Ruby, My Dear | 2026-09-06 11:41:18 -03
-Previous track #9         : Cannonball Adderley — One For Daddy-O | 2026-09-06 11:35:01 -03
-Previous track #10        : Miles Davis — Move | 2026-09-06 11:26:39 -03
-Previous track #11        : John Coltrane — Blue Train | 2026-09-06 11:24:09 -03
-Previous track #12        : John Coltrane Quartet — Lonnie's Lament | 2026-09-06 11:13:29 -03
-Previous track #13        : Sonny Rollins — You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC | 2026-09-06 11:01:45 -03
-Previous track #14        : Thelonious Monk — Epistrophy | 2026-09-06 10:55:22 -03
-Previous track #15        : Miles Davis Quintet — I Could Write A Book | 2026-09-06 10:52:18 -03
-Previous track #16        : Miles Davis — I'll Remember April | 2026-09-06 10:47:14 -03
-Previous track #17        : John Coltrane — Theme For Ernie | 2026-09-06 10:39:25 -03
-Previous track #18        : Manu Katché — Number One | 2026-09-06 10:34:36 -03
-Previous track #19        : John Coltrane Quartet — Wise One | 2026-09-06 10:28:29 -03
-Previous track #20        : Joshua Redman Quartet — Chill | 2026-09-06 10:19:30 -03
-Previous track #21        : Miles Davis Quintet — Something I Dreamed Last Night | 2026-09-06 10:11:51 -03
-Previous track #22        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Doxy - RVG Remastered 2008 | 2026-09-06 10:05:41 -03
-Previous track #23        : John Coltrane — Naima - Mono | 2026-09-06 10:00:52 -03
-Previous track #24        : Kenny Dorham — Blue Friday - Rudy Van Gelder Remaster | 2026-09-06 09:56:30 -03
-Previous track #25        : John Coltrane Quartet — Soul Eyes | 2026-09-06 09:47:50 -03
-Previous track #26        : Thelonious Monk — 'Round Midnight | 2026-09-06 09:42:31 -03
-Previous track #27        : Miles Davis Quintet — Ahmad's Blues | 2026-09-06 09:39:21 -03
-Previous track #28        : Miles Davis — Blue Haze - Remastered 2024 | 2026-09-06 09:32:00 -03
-Previous track #29        : John Coltrane — Equinox | 2026-09-06 09:25:52 -03
-Previous track #30        : Forward Jazz Series — Homeland (Closing Credits) | 2026-09-06 09:17:48 -03
-Previous track #31        : Kamasi Washington — Final Thought | 2026-09-06 09:14:47 -03
-Previous track #32        : Thelonious Monk — Straight, No Chaser | 2026-09-06 09:08:19 -03
-Previous track #33        : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-06 08:56:54 -03
-Previous track #34        : Forward Jazz Series — Homeland (Incidentals) | 2026-09-06 08:51:38 -03
-Previous track #35        : Miles Davis Quintet — Tune Up | 2026-09-06 08:47:22 -03
-Previous track #36        : Kamasi Washington — Truth | 2026-09-06 08:41:45 -03
-Previous track #37        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-06 08:28:18 -03
-Previous track #38        : Thelonious Monk — Straight No Chaser | 2026-09-06 08:22:24 -03
-Previous track #39        : Forward Jazz Series — Homeland | 2026-09-06 08:19:30 -03
-Previous track #40        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-06 08:15:10 -03
+Previous track #1         : Joe Henderson — Blue Bossa - Remastered | 2026-09-06 15:14:23 -03
+Previous track #2         : Duke Ellington — In A Sentimental Mood | 2026-09-06 15:06:24 -03
+Previous track #3         : Cannonball Adderley — Love For Sale | 2026-09-06 15:03:55 -03
+Previous track #4         : Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering | 2026-09-06 14:56:54 -03
+Previous track #5         : Joshua Redman Quartet — Sweet Sorrow | 2026-09-06 14:50:24 -03
+Previous track #6         : John Coltrane Quartet — All Or Nothing At All | 2026-09-06 14:41:44 -03
+Previous track #7         : Miles Davis Quintet — Trane's Blues | 2026-09-06 14:38:13 -03
+Previous track #8         : Miles Davis — Jeru | 2026-09-06 14:29:45 -03
+Previous track #9         : Kenny Garrett — Sing a Song of Song | 2026-09-06 14:26:35 -03
+Previous track #10        : Cannonball Adderley — Autumn Leaves | 2026-09-06 14:19:17 -03
+Previous track #11        : Yusef Lateef — Blues For The Orient - Remastered 2023 | 2026-09-06 14:08:21 -03
+Previous track #12        : John Coltrane Quartet — Nancy (With The Laughing Face) | 2026-09-06 14:02:44 -03
+Previous track #13        : John Coltrane — Violets For Your Furs - Rudy Van Gelder Remaster | 2026-09-06 13:59:36 -03
+Previous track #14        : Miles Davis — Boplicity | 2026-09-06 13:53:25 -03
+Previous track #15        : Thelonious Monk — Four In One - Remastered 1998 | 2026-09-06 13:50:27 -03
+Previous track #16        : Miles Davis Quintet — Blues By Five - Rudy Van Gelder Remaster | 2026-09-06 13:46:59 -03
+Previous track #17        : Yusef Lateef — Don't Blame Me - Remastered 2023 | 2026-09-06 13:37:10 -03
+Previous track #18        : Oliver Nelson — Stolen Moments | 2026-09-06 13:32:17 -03
+Previous track #19        : Lee Morgan — Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster | 2026-09-06 13:23:35 -03
+Previous track #20        : Sean Mason — Secrets | 2026-09-06 13:17:59 -03
+Previous track #21        : McCoy Tyner — Contemplation | 2026-09-06 13:10:23 -03
+Previous track #22        : Miles Davis Quintet — It Could Happen To You | 2026-09-06 13:01:14 -03
+Previous track #23        : Thelonious Monk — I Mean You | 2026-09-06 12:54:41 -03
+Previous track #24        : Sonny Rollins — Strode Rode - Remastered 2006 / Shared ISRC | 2026-09-06 12:52:00 -03
+Previous track #25        : Joe Henderson — Lazy Afternoon | 2026-09-06 12:46:49 -03
+Previous track #26        : John Coltrane — Moment's Notice | 2026-09-06 12:41:20 -03
+Previous track #27        : Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition | 2026-09-06 12:32:14 -03
+Previous track #28        : Miles Davis Quintet — Just Squeeze Me | 2026-09-06 12:23:54 -03
+Previous track #29        : Thelonious Monk — Criss Cross - Remastered 1998 | 2026-09-06 12:16:29 -03
+Previous track #30        : Tony Allen — Politely | 2026-09-06 12:13:35 -03
+Previous track #31        : Shabaka and the Ancestors — Joyous | 2026-09-06 12:06:59 -03
+Previous track #32        : John Coltrane — I'm Old Fashioned | 2026-09-06 12:00:24 -03
+Previous track #33        : Wayne Shorter — Infant Eyes - Remastered1998/Rudy Van Gelder Edition | 2026-09-06 11:52:29 -03
+Previous track #34        : Miles Davis Quintet — When I Fall In Love | 2026-09-06 11:45:39 -03
+Previous track #35        : Thelonious Monk, John Coltrane — Ruby, My Dear | 2026-09-06 11:41:18 -03
+Previous track #36        : Cannonball Adderley — One For Daddy-O | 2026-09-06 11:35:01 -03
+Previous track #37        : Miles Davis — Move | 2026-09-06 11:26:39 -03
+Previous track #38        : John Coltrane — Blue Train | 2026-09-06 11:24:09 -03
+Previous track #39        : John Coltrane Quartet — Lonnie's Lament | 2026-09-06 11:13:29 -03
+Previous track #40        : Sonny Rollins — You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC | 2026-09-06 11:01:45 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-09-06 12:32:14 -03
-Track observed in context : Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition
+Context observed (local)  : 2026-09-06 15:21:05 -03
+Track observed in context : Sonny Rollins — St. Thomas
 Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
 Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
@@ -1567,54 +1567,54 @@ LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
 Last known device type    : Computer
 Last known device name    : Felipe’s MacBook Air Silicon
-Last known volume         : 100%
-Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-09-06 15:33:07Z
+Last known volume         : 26%
+Volume telemetry          : IDLE (session present, no playback)
+Volume bar                : ▁▁▂
+Context observed (UTC)    : 2026-09-06 18:24:03Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 52
-Unique tracks             : 50
-Unique artists            : 26
-Replay ratio              : █░░░░░░░░░░░░░░░░░  3.8%
-Artist diversity          : █████████░░░░░░░░░  50.0%
+Observed events           : 79
+Unique tracks             : 77
+Unique artists            : 34
+Replay ratio              : ░░░░░░░░░░░░░░░░░░  2.5%
+Artist diversity          : ████████░░░░░░░░░░  43.0%
 Dominant artist           : Miles Davis Quintet
-Dominant artist share     : ██░░░░░░░░░░░░░░░░  13.5%
+Dominant artist share     : ██░░░░░░░░░░░░░░░░  12.7%
 Artist switch ratio       : ██████████████████  100.0%
 Longest artist streak     : Tomasz Stanko Quintet × 1
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    3.8%
-Morning    06–12           : ███████████████░░░   84.6%
-Afternoon  12–18           : ██░░░░░░░░░░░░░░░░   11.5%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    2.5%
+Morning    06–12           : ██████████░░░░░░░░   55.7%
+Afternoon  12–18           : ████████░░░░░░░░░░   41.8%
 Evening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-02 08:21:13Z
-History last play (7d)    : 2026-09-06 15:32:14Z
-Observed time span        : 103:11:01
-Mean inter-play gap       : 02:01:24
-Median inter-play gap     : 00:06:07
+History last play (7d)    : 2026-09-06 18:21:05Z
+Observed time span        : 105:59:52
+Mean inter-play gap       : 01:21:32
+Median inter-play gap     : 00:06:08
 Longest inactivity gap    : 50:39:12
-Listening intensity       : 0.50 tracks/hour
+Listening intensity       : 0.75 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 08:00
 Peak hour (7d)            : 08:00
-Heatmap (24h)             :        ▅█▇█▆▅           
-Heatmap (7d)              :     ▂  ▆█▇█▆▅           
+Heatmap (24h)             :        ▅█▇█▆██▇▃        
+Heatmap (7d)              :     ▂  ▆█▇█▆██▇▃        
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :       █
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :      ▂▃▅▂     ▁▃     ▂       █
+Activity trend (30d)      :      ▁▂▃▁     ▁▂     ▁       █
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1625,20 +1625,20 @@ Wed                       :     █
 Thu                       :                         
 Fri                       :        █                
 Sat                       :                         
-Sun                       :        ▅█▇█▆▅           
+Sun                       :        ▅█▇█▆██▇▃        
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 49
+Tracks played (last 24h)  : 76
 Dominant artist           : Miles Davis Quintet
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-30 15:33:07Z → 2026-09-06 15:33:07Z
-Tracks played (7d)        : 52
+Week window (UTC)         : 2026-08-30 18:24:03Z → 2026-09-06 18:24:03Z
+Tracks played (7d)        : 79
 Dominant artist           : Miles Davis Quintet
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1647,30 +1647,30 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 3
-Avg inter-play gap        : 02:01:24
+Avg inter-play gap        : 01:21:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(50) | cool jazz(43) | bebop(42) | hard bop(42) | jazz ballads(36) | free jazz(27)
-Top genres (7d)           : jazz(52) | cool jazz(43) | bebop(42) | hard bop(42) | jazz ballads(36) | free jazz(29)
-Artist lookups (this run) : 4 (cached)
+Top genres (24h)          : jazz(77) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(42)
+Top genres (7d)           : jazz(79) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(44)
+Artist lookups (this run) : 7 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Tomasz Stanko Quartet — Trista → Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition
-Playback timestamp Δ      : 2026-09-06 11:04:10Z → 2026-09-06 15:32:14Z
-State transition          : NO CHANGE
-Telemetry interval        : 04:27:40
+Track transition          : Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition → Sonny Rollins — St. Thomas
+Playback timestamp Δ      : 2026-09-06 15:32:14Z → 2026-09-06 18:21:05Z
+State transition          : PLAYING → IDLE
+Telemetry interval        : 02:50:56
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 170
+Events retained           : 197
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-06 12:32:14 -03
-Events (24h)              : 49
-Events (7d)               : 52
-Events (30d)              : 170
-Playlist contexts retained: 55
+Newest retained event     : 2026-09-06 15:21:05 -03
+Events (24h)              : 76
+Events (7d)               : 79
+Events (30d)              : 197
+Playlist contexts retained: 82
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-06 15:33:07Z
+Report generated (UTC)    : 2026-09-06 18:24:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
