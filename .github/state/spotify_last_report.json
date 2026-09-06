@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-09-06 18:24:03Z",
-  "status": "IDLE",
-  "last_track": "Sonny Rollins — St. Thomas",
-  "last_played_utc": "2026-09-06 18:21:05Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-09-06 22:09:24Z",
+  "status": "PLAYING",
+  "last_track": "damnsonic — RETROGRADE",
+  "last_played_utc": "2026-09-06 22:06:00Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -1773,9 +1773,355 @@
       "free jazz"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Sonny Rollins — St. Thomas\nArtist                    : Sonny Rollins\nTitle                     : St. Thomas\nAlbum                     : Saxophone Colossus\nSpotify URI               : spotify:track:0zQE77yszbyv61M4NboU2u\nSpotify URL               : https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-06 18:21:05Z\nPlayed at (local)         : 2026-09-06 15:21:05 -03\nLocal hour                : 15:00\nDaypart                   : AFTERNOON\nTime since play           : 00:02:58\nGap from previous play    : 00:06:42\n------------------------------------------------------------\nPrevious song             : Joe Henderson — Blue Bossa - Remastered\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 3\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Joe Henderson — Blue Bossa - Remastered | 2026-09-06 15:14:23 -03\nPrevious track #2         : Duke Ellington — In A Sentimental Mood | 2026-09-06 15:06:24 -03\nPrevious track #3         : Cannonball Adderley — Love For Sale | 2026-09-06 15:03:55 -03\nPrevious track #4         : Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering | 2026-09-06 14:56:54 -03\nPrevious track #5         : Joshua Redman Quartet — Sweet Sorrow | 2026-09-06 14:50:24 -03\nPrevious track #6         : John Coltrane Quartet — All Or Nothing At All | 2026-09-06 14:41:44 -03\nPrevious track #7         : Miles Davis Quintet — Trane's Blues | 2026-09-06 14:38:13 -03\nPrevious track #8         : Miles Davis — Jeru | 2026-09-06 14:29:45 -03\nPrevious track #9         : Kenny Garrett — Sing a Song of Song | 2026-09-06 14:26:35 -03\nPrevious track #10        : Cannonball Adderley — Autumn Leaves | 2026-09-06 14:19:17 -03\nPrevious track #11        : Yusef Lateef — Blues For The Orient - Remastered 2023 | 2026-09-06 14:08:21 -03\nPrevious track #12        : John Coltrane Quartet — Nancy (With The Laughing Face) | 2026-09-06 14:02:44 -03\nPrevious track #13        : John Coltrane — Violets For Your Furs - Rudy Van Gelder Remaster | 2026-09-06 13:59:36 -03\nPrevious track #14        : Miles Davis — Boplicity | 2026-09-06 13:53:25 -03\nPrevious track #15        : Thelonious Monk — Four In One - Remastered 1998 | 2026-09-06 13:50:27 -03\nPrevious track #16        : Miles Davis Quintet — Blues By Five - Rudy Van Gelder Remaster | 2026-09-06 13:46:59 -03\nPrevious track #17        : Yusef Lateef — Don't Blame Me - Remastered 2023 | 2026-09-06 13:37:10 -03\nPrevious track #18        : Oliver Nelson — Stolen Moments | 2026-09-06 13:32:17 -03\nPrevious track #19        : Lee Morgan — Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster | 2026-09-06 13:23:35 -03\nPrevious track #20        : Sean Mason — Secrets | 2026-09-06 13:17:59 -03\nPrevious track #21        : McCoy Tyner — Contemplation | 2026-09-06 13:10:23 -03\nPrevious track #22        : Miles Davis Quintet — It Could Happen To You | 2026-09-06 13:01:14 -03\nPrevious track #23        : Thelonious Monk — I Mean You | 2026-09-06 12:54:41 -03\nPrevious track #24        : Sonny Rollins — Strode Rode - Remastered 2006 / Shared ISRC | 2026-09-06 12:52:00 -03\nPrevious track #25        : Joe Henderson — Lazy Afternoon | 2026-09-06 12:46:49 -03\nPrevious track #26        : John Coltrane — Moment's Notice | 2026-09-06 12:41:20 -03\nPrevious track #27        : Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition | 2026-09-06 12:32:14 -03\nPrevious track #28        : Miles Davis Quintet — Just Squeeze Me | 2026-09-06 12:23:54 -03\nPrevious track #29        : Thelonious Monk — Criss Cross - Remastered 1998 | 2026-09-06 12:16:29 -03\nPrevious track #30        : Tony Allen — Politely | 2026-09-06 12:13:35 -03\nPrevious track #31        : Shabaka and the Ancestors — Joyous | 2026-09-06 12:06:59 -03\nPrevious track #32        : John Coltrane — I'm Old Fashioned | 2026-09-06 12:00:24 -03\nPrevious track #33        : Wayne Shorter — Infant Eyes - Remastered1998/Rudy Van Gelder Edition | 2026-09-06 11:52:29 -03\nPrevious track #34        : Miles Davis Quintet — When I Fall In Love | 2026-09-06 11:45:39 -03\nPrevious track #35        : Thelonious Monk, John Coltrane — Ruby, My Dear | 2026-09-06 11:41:18 -03\nPrevious track #36        : Cannonball Adderley — One For Daddy-O | 2026-09-06 11:35:01 -03\nPrevious track #37        : Miles Davis — Move | 2026-09-06 11:26:39 -03\nPrevious track #38        : John Coltrane — Blue Train | 2026-09-06 11:24:09 -03\nPrevious track #39        : John Coltrane Quartet — Lonnie's Lament | 2026-09-06 11:13:29 -03\nPrevious track #40        : Sonny Rollins — You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC | 2026-09-06 11:01:45 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-09-06 15:21:05 -03\nTrack observed in context : Sonny Rollins — St. Thomas\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 26%\nVolume telemetry          : IDLE (session present, no playback)\nVolume bar                : ▁▁▂\nContext observed (UTC)    : 2026-09-06 18:24:03Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 79\nUnique tracks             : 77\nUnique artists            : 34\nReplay ratio              : ░░░░░░░░░░░░░░░░░░  2.5%\nArtist diversity          : ████████░░░░░░░░░░  43.0%\nDominant artist           : Miles Davis Quintet\nDominant artist share     : ██░░░░░░░░░░░░░░░░  12.7%\nArtist switch ratio       : ██████████████████  100.0%\nLongest artist streak     : Tomasz Stanko Quintet × 1\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    2.5%\nMorning    06–12           : ██████████░░░░░░░░   55.7%\nAfternoon  12–18           : ████████░░░░░░░░░░   41.8%\nEvening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%\nDominant period           : MORNING\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-02 08:21:13Z\nHistory last play (7d)    : 2026-09-06 18:21:05Z\nObserved time span        : 105:59:52\nMean inter-play gap       : 01:21:32\nMedian inter-play gap     : 00:06:08\nLongest inactivity gap    : 50:39:12\nListening intensity       : 0.75 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 08:00\nPeak hour (7d)            : 08:00\nHeatmap (24h)             :        ▅█▇█▆██▇▃        \nHeatmap (7d)              :     ▂  ▆█▇█▆██▇▃        \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :       █\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :      ▁▂▃▁     ▁▂     ▁       █\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :     █                   \nThu                       :                         \nFri                       :        █                \nSat                       :                         \nSun                       :        ▅█▇█▆██▇▃        \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 76\nDominant artist           : Miles Davis Quintet\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-30 18:24:03Z → 2026-09-06 18:24:03Z\nTracks played (7d)        : 79\nDominant artist           : Miles Davis Quintet\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 3\nAvg inter-play gap        : 01:21:32\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(77) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(42)\nTop genres (7d)           : jazz(79) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(44)\nArtist lookups (this run) : 7 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition → Sonny Rollins — St. Thomas\nPlayback timestamp Δ      : 2026-09-06 15:32:14Z → 2026-09-06 18:21:05Z\nState transition          : PLAYING → IDLE\nTelemetry interval        : 02:50:56\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 197\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-06 15:21:05 -03\nEvents (24h)              : 76\nEvents (7d)               : 79\nEvents (30d)              : 197\nPlaylist contexts retained: 82\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-06 18:24:03Z",
-  "last_successful_report_utc": "2026-09-06 18:24:03Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : damnsonic — RETROGRADE\nArtist                    : damnsonic\nTitle                     : RETROGRADE\nAlbum                     : RETROGRADE\nSpotify URI               : spotify:track:7lMxCYpsWhEnazQT2mbEA0\nSpotify URL               : https://open.spotify.com/track/7lMxCYpsWhEnazQT2mbEA0\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-06 22:06:00Z\nPlayed at (local)         : 2026-09-06 19:06:00 -03\nLocal hour                : 19:00\nDaypart                   : EVENING\nTime since play           : 00:03:25\nGap from previous play    : 00:03:12\n------------------------------------------------------------\nPrevious song             : All Them Witches — Red Rocking Chair\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 1\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : All Them Witches — Red Rocking Chair | 2026-09-06 19:02:48 -03\nPrevious track #2         : All Them Witches — Red Rocking Chair | 2026-09-06 18:53:20 -03\nPrevious track #3         : All Them Witches — Red Rocking Chair | 2026-09-06 18:45:49 -03\nPrevious track #4         : Aunt Cynthia's Cabin — There's No Saving Cass | 2026-09-06 17:03:33 -03\nPrevious track #5         : Black Lung — Awaken | 2026-09-06 16:55:35 -03\nPrevious track #6         : GAUPA — Lion's Thorn | 2026-09-06 16:38:47 -03\nPrevious track #7         : All Them Witches — Saturnine & Iron Jaw | 2026-09-06 16:31:14 -03\nPrevious track #8         : All Them Witches — Saturn Song | 2026-09-06 16:24:28 -03\nPrevious track #9         : All Them Witches — The Welterweight | 2026-09-06 16:19:58 -03\nPrevious track #10        : All Them Witches — Angel On The Wayside | 2026-09-06 16:15:37 -03\nPrevious track #11        : All Them Witches — Turn On The Light | 2026-09-06 16:11:32 -03\nPrevious track #12        : All Them Witches — Starting Line | 2026-09-06 16:07:03 -03\nPrevious track #13        : All Them Witches — Culling Line | 2026-09-06 16:02:57 -03\nPrevious track #14        : All Them Witches — Red Rocking Chair | 2026-09-06 15:58:50 -03\nPrevious track #15        : All Them Witches — Hold Up, Say What? | 2026-09-06 15:51:07 -03\nPrevious track #16        : All Them Witches — Aethernet | 2026-09-06 15:46:26 -03\nPrevious track #17        : All Them Witches — Culling Line | 2026-09-06 15:41:28 -03\nPrevious track #18        : All Them Witches — Red Rocking Chair | 2026-09-06 15:37:24 -03\nPrevious track #19        : Sonny Rollins — St. Thomas | 2026-09-06 15:21:05 -03\nPrevious track #20        : Joe Henderson — Blue Bossa - Remastered | 2026-09-06 15:14:23 -03\nPrevious track #21        : Duke Ellington — In A Sentimental Mood | 2026-09-06 15:06:24 -03\nPrevious track #22        : Cannonball Adderley — Love For Sale | 2026-09-06 15:03:55 -03\nPrevious track #23        : Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering | 2026-09-06 14:56:54 -03\nPrevious track #24        : Joshua Redman Quartet — Sweet Sorrow | 2026-09-06 14:50:24 -03\nPrevious track #25        : John Coltrane Quartet — All Or Nothing At All | 2026-09-06 14:41:44 -03\nPrevious track #26        : Miles Davis Quintet — Trane's Blues | 2026-09-06 14:38:13 -03\nPrevious track #27        : Miles Davis — Jeru | 2026-09-06 14:29:45 -03\nPrevious track #28        : Kenny Garrett — Sing a Song of Song | 2026-09-06 14:26:35 -03\nPrevious track #29        : Cannonball Adderley — Autumn Leaves | 2026-09-06 14:19:17 -03\nPrevious track #30        : Yusef Lateef — Blues For The Orient - Remastered 2023 | 2026-09-06 14:08:21 -03\nPrevious track #31        : John Coltrane Quartet — Nancy (With The Laughing Face) | 2026-09-06 14:02:44 -03\nPrevious track #32        : John Coltrane — Violets For Your Furs - Rudy Van Gelder Remaster | 2026-09-06 13:59:36 -03\nPrevious track #33        : Miles Davis — Boplicity | 2026-09-06 13:53:25 -03\nPrevious track #34        : Thelonious Monk — Four In One - Remastered 1998 | 2026-09-06 13:50:27 -03\nPrevious track #35        : Miles Davis Quintet — Blues By Five - Rudy Van Gelder Remaster | 2026-09-06 13:46:59 -03\nPrevious track #36        : Yusef Lateef — Don't Blame Me - Remastered 2023 | 2026-09-06 13:37:10 -03\nPrevious track #37        : Oliver Nelson — Stolen Moments | 2026-09-06 13:32:17 -03\nPrevious track #38        : Lee Morgan — Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster | 2026-09-06 13:23:35 -03\nPrevious track #39        : Sean Mason — Secrets | 2026-09-06 13:17:59 -03\nPrevious track #40        : McCoy Tyner — Contemplation | 2026-09-06 13:10:23 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Felipe’s Heavy, Dark & Drenched in Sound\nContext observed (local)  : 2026-09-06 19:06:00 -03\nTrack observed in context : damnsonic — RETROGRADE\nSpotify playlist URI      : spotify:playlist:3K1FROtbwczl5P33i8vw8d\nSpotify playlist URL      : https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #2      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-06 22:09:24Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 98\nUnique tracks             : 90\nUnique artists            : 38\nReplay ratio              : █░░░░░░░░░░░░░░░░░  8.2%\nArtist diversity          : ███████░░░░░░░░░░░  38.8%\nDominant artist           : All Them Witches\nDominant artist share     : ███░░░░░░░░░░░░░░░  16.3%\nArtist switch ratio       : ████████████████░░  86.6%\nLongest artist streak     : All Them Witches × 12\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    2.0%\nMorning    06–12           : ████████░░░░░░░░░░   44.9%\nAfternoon  12–18           : █████████░░░░░░░░░   49.0%\nEvening    18–24           : █░░░░░░░░░░░░░░░░░    4.1%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-02 08:21:13Z\nHistory last play (7d)    : 2026-09-06 22:06:00Z\nObserved time span        : 109:44:47\nMean inter-play gap       : 01:07:53\nMedian inter-play gap     : 00:06:08\nLongest inactivity gap    : 50:39:12\nListening intensity       : 0.89 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 08:00\nPeak hour (7d)            : 08:00\nHeatmap (24h)             :        ▅█▇█▆██▇▇▇▁▂▂    \nHeatmap (7d)              :     ▂  ▆█▇█▆██▇▇▇▁▂▂    \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :       █\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :      ▁▂▂▁     ▁▂     ▁       █\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :     █                   \nThu                       :                         \nFri                       :        █                \nSat                       :                         \nSun                       :        ▅█▇█▆██▇▇▇▁▂▂    \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 95\nDominant artist           : All Them Witches\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-08-30 22:09:24Z → 2026-09-06 22:09:24Z\nTracks played (7d)        : 98\nDominant artist           : All Them Witches\nCadence classification    : VERY HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 2\nSessions (7d)             : 4\nAvg inter-play gap        : 01:07:53\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : jazz(77) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(42)\nTop genres (7d)           : jazz(79) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(44)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Sonny Rollins — St. Thomas → damnsonic — RETROGRADE\nPlayback timestamp Δ      : 2026-09-06 18:21:05Z → 2026-09-06 22:06:00Z\nState transition          : IDLE → PLAYING\nTelemetry interval        : 03:45:22\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 216\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-06 19:06:00 -03\nEvents (24h)              : 95\nEvents (7d)               : 98\nEvents (30d)              : 216\nPlaylist contexts retained: 83\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-06 22:09:24Z",
+  "last_successful_report_utc": "2026-09-06 22:09:24Z",
   "recent_playback_history": [
+    {
+      "track": "damnsonic — RETROGRADE",
+      "artist": "damnsonic",
+      "title": "RETROGRADE",
+      "album": "RETROGRADE",
+      "uri": "spotify:track:7lMxCYpsWhEnazQT2mbEA0",
+      "url": "https://open.spotify.com/track/7lMxCYpsWhEnazQT2mbEA0",
+      "artist_ids": [
+        "1fm9SUMjPmHgti3dnfYzD7"
+      ],
+      "played_at_utc": "2026-09-06 22:06:00Z",
+      "played_at_local": "2026-09-06 19:06:00 -03",
+      "local_hour": 19,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "context_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d",
+      "playlist_id": "3K1FROtbwczl5P33i8vw8d",
+      "playlist_name": "Felipe’s Heavy, Dark & Drenched in Sound",
+      "playlist_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "playlist_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 22:02:48Z",
+      "played_at_local": "2026-09-06 19:02:48 -03",
+      "local_hour": 19,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 21:53:20Z",
+      "played_at_local": "2026-09-06 18:53:20 -03",
+      "local_hour": 18,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 21:45:49Z",
+      "played_at_local": "2026-09-06 18:45:49 -03",
+      "local_hour": 18,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "Aunt Cynthia's Cabin — There's No Saving Cass",
+      "artist": "Aunt Cynthia's Cabin",
+      "title": "There's No Saving Cass",
+      "album": "Misty Woman",
+      "uri": "spotify:track:6ks9QvzmlmNoSw70sFL8SA",
+      "url": "https://open.spotify.com/track/6ks9QvzmlmNoSw70sFL8SA",
+      "artist_ids": [
+        "66kb7d5jDmTkMSs1XcOXTQ"
+      ],
+      "played_at_utc": "2026-09-06 20:03:33Z",
+      "played_at_local": "2026-09-06 17:03:33 -03",
+      "local_hour": 17,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "Black Lung — Awaken",
+      "artist": "Black Lung",
+      "title": "Awaken",
+      "album": "Dark Waves",
+      "uri": "spotify:track:6X77BkwkUMCKkBV8JVI4Iy",
+      "url": "https://open.spotify.com/track/6X77BkwkUMCKkBV8JVI4Iy",
+      "artist_ids": [
+        "6nlUvNHe3PxYDLR3FyYz2H"
+      ],
+      "played_at_utc": "2026-09-06 19:55:35Z",
+      "played_at_local": "2026-09-06 16:55:35 -03",
+      "local_hour": 16,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "GAUPA — Lion's Thorn",
+      "artist": "GAUPA",
+      "title": "Lion's Thorn",
+      "album": "FYR",
+      "uri": "spotify:track:3EdxTUlOf9Rg784UZBW6Ir",
+      "url": "https://open.spotify.com/track/3EdxTUlOf9Rg784UZBW6Ir",
+      "artist_ids": [
+        "2xODNufQxAtc0gmDIhsjkg"
+      ],
+      "played_at_utc": "2026-09-06 19:38:47Z",
+      "played_at_local": "2026-09-06 16:38:47 -03",
+      "local_hour": 16,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Saturnine & Iron Jaw",
+      "artist": "All Them Witches",
+      "title": "Saturnine & Iron Jaw",
+      "album": "Nothing as the Ideal",
+      "uri": "spotify:track:6crf5gKx2wQxjqbF12mDJw",
+      "url": "https://open.spotify.com/track/6crf5gKx2wQxjqbF12mDJw",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 19:31:14Z",
+      "played_at_local": "2026-09-06 16:31:14 -03",
+      "local_hour": 16,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Saturn Song",
+      "artist": "All Them Witches",
+      "title": "Saturn Song",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:1TOQ7bnYqQ3BO8oJVr2KM9",
+      "url": "https://open.spotify.com/track/1TOQ7bnYqQ3BO8oJVr2KM9",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 19:24:28Z",
+      "played_at_local": "2026-09-06 16:24:28 -03",
+      "local_hour": 16,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — The Welterweight",
+      "artist": "All Them Witches",
+      "title": "The Welterweight",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:1uoa1LCO8rImZN7lJUfpb0",
+      "url": "https://open.spotify.com/track/1uoa1LCO8rImZN7lJUfpb0",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 19:19:58Z",
+      "played_at_local": "2026-09-06 16:19:58 -03",
+      "local_hour": 16,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Angel On The Wayside",
+      "artist": "All Them Witches",
+      "title": "Angel On The Wayside",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:2guGrq8XtYcrmURQYPwMST",
+      "url": "https://open.spotify.com/track/2guGrq8XtYcrmURQYPwMST",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 19:15:37Z",
+      "played_at_local": "2026-09-06 16:15:37 -03",
+      "local_hour": 16,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Turn On The Light",
+      "artist": "All Them Witches",
+      "title": "Turn On The Light",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:30KvzNMHttB23DqYkbQmj4",
+      "url": "https://open.spotify.com/track/30KvzNMHttB23DqYkbQmj4",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 19:11:32Z",
+      "played_at_local": "2026-09-06 16:11:32 -03",
+      "local_hour": 16,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Starting Line",
+      "artist": "All Them Witches",
+      "title": "Starting Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:1ttPBlJzyj2eHSuLqzrs5F",
+      "url": "https://open.spotify.com/track/1ttPBlJzyj2eHSuLqzrs5F",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 19:07:03Z",
+      "played_at_local": "2026-09-06 16:07:03 -03",
+      "local_hour": 16,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Culling Line",
+      "artist": "All Them Witches",
+      "title": "Culling Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
+      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 19:02:57Z",
+      "played_at_local": "2026-09-06 16:02:57 -03",
+      "local_hour": 16,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 18:58:50Z",
+      "played_at_local": "2026-09-06 15:58:50 -03",
+      "local_hour": 15,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Hold Up, Say What?",
+      "artist": "All Them Witches",
+      "title": "Hold Up, Say What?",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:3mCRtyxGMEYV2IHywJZGdd",
+      "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 18:51:07Z",
+      "played_at_local": "2026-09-06 15:51:07 -03",
+      "local_hour": 15,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Aethernet",
+      "artist": "All Them Witches",
+      "title": "Aethernet",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:6CLkdeLmJx2BuVQsnO6vCW",
+      "url": "https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 18:46:26Z",
+      "played_at_local": "2026-09-06 15:46:26 -03",
+      "local_hour": 15,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Culling Line",
+      "artist": "All Them Witches",
+      "title": "Culling Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
+      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 18:41:28Z",
+      "played_at_local": "2026-09-06 15:41:28 -03",
+      "local_hour": 15,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 18:37:24Z",
+      "played_at_local": "2026-09-06 15:37:24 -03",
+      "local_hour": 15,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "Sonny Rollins — St. Thomas",
       "artist": "Sonny Rollins",
@@ -2259,451 +2605,32 @@
       "playlist_name": "Homeland (TV Series) Jazz Collection",
       "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
       "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Miles Davis Quintet — It Could Happen To You",
-      "artist": "Miles Davis Quintet",
-      "title": "It Could Happen To You",
-      "album": "Relaxin' With The Miles Davis Quintet",
-      "uri": "spotify:track:34xixFi5y3I5FIOH1ZWisx",
-      "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx",
-      "artist_ids": [
-        "71Ur25Abq58vksqJINpGdx"
-      ],
-      "played_at_utc": "2026-09-06 16:01:14Z",
-      "played_at_local": "2026-09-06 13:01:14 -03",
-      "local_hour": 13,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Thelonious Monk — I Mean You",
-      "artist": "Thelonious Monk",
-      "title": "I Mean You",
-      "album": "Genius Of Modern Music Volume One",
-      "uri": "spotify:track:4Fy7THSE7gO8o1kexGvCcX",
-      "url": "https://open.spotify.com/track/4Fy7THSE7gO8o1kexGvCcX",
-      "artist_ids": [
-        "4PDpGtF16XpqvXxsrFwQnN"
-      ],
-      "played_at_utc": "2026-09-06 15:54:41Z",
-      "played_at_local": "2026-09-06 12:54:41 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Sonny Rollins — Strode Rode - Remastered 2006 / Shared ISRC",
-      "artist": "Sonny Rollins",
-      "title": "Strode Rode - Remastered 2006 / Shared ISRC",
-      "album": "Saxophone Colossus",
-      "uri": "spotify:track:5xoQDcAjk0AaOU8QBZ4w4w",
-      "url": "https://open.spotify.com/track/5xoQDcAjk0AaOU8QBZ4w4w",
-      "artist_ids": [
-        "1VEzN9lxvG6KPR3QQGsebR"
-      ],
-      "played_at_utc": "2026-09-06 15:52:00Z",
-      "played_at_local": "2026-09-06 12:52:00 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Joe Henderson — Lazy Afternoon",
-      "artist": "Joe Henderson",
-      "title": "Lazy Afternoon",
-      "album": "Ballads",
-      "uri": "spotify:track:2n0nSu6H5KrAYRfI6iKtwT",
-      "url": "https://open.spotify.com/track/2n0nSu6H5KrAYRfI6iKtwT",
-      "artist_ids": [
-        "3BG0nwVh3Gc7cuT4XdsLtt"
-      ],
-      "played_at_utc": "2026-09-06 15:46:49Z",
-      "played_at_local": "2026-09-06 12:46:49 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "John Coltrane — Moment's Notice",
-      "artist": "John Coltrane",
-      "title": "Moment's Notice",
-      "album": "Blue Train",
-      "uri": "spotify:track:3GXYGbyvprPqiH9do6ewY3",
-      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3",
-      "artist_ids": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "played_at_utc": "2026-09-06 15:41:20Z",
-      "played_at_local": "2026-09-06 12:41:20 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition",
-      "artist": "Wayne Shorter",
-      "title": "Speak No Evil - Remastered1998/Rudy Van Gelder Edition",
-      "album": "Speak No Evil (The Rudy Van Gelder Edition)",
-      "uri": "spotify:track:0qxiaagtTvTeNvzxHHc441",
-      "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441",
-      "artist_ids": [
-        "0ZqhrTXYPA9DZR527ZnFdO"
-      ],
-      "played_at_utc": "2026-09-06 15:32:14Z",
-      "played_at_local": "2026-09-06 12:32:14 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Miles Davis Quintet — Just Squeeze Me",
-      "artist": "Miles Davis Quintet",
-      "title": "Just Squeeze Me",
-      "album": "Miles: The New Miles Davis Quintet",
-      "uri": "spotify:track:1htVy55OONbV2xvo9kSGVK",
-      "url": "https://open.spotify.com/track/1htVy55OONbV2xvo9kSGVK",
-      "artist_ids": [
-        "71Ur25Abq58vksqJINpGdx"
-      ],
-      "played_at_utc": "2026-09-06 15:23:54Z",
-      "played_at_local": "2026-09-06 12:23:54 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Thelonious Monk — Criss Cross - Remastered 1998",
-      "artist": "Thelonious Monk",
-      "title": "Criss Cross - Remastered 1998",
-      "album": "Genius Of Modern Music (Vol.2, Expanded Edition)",
-      "uri": "spotify:track:0gxjUtBs6eFtmZAxQe1pWF",
-      "url": "https://open.spotify.com/track/0gxjUtBs6eFtmZAxQe1pWF",
-      "artist_ids": [
-        "4PDpGtF16XpqvXxsrFwQnN"
-      ],
-      "played_at_utc": "2026-09-06 15:16:29Z",
-      "played_at_local": "2026-09-06 12:16:29 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Tony Allen — Politely",
-      "artist": "Tony Allen",
-      "title": "Politely",
-      "album": "A Tribute To Art Blakey And The Jazz Messengers",
-      "uri": "spotify:track:2wYcFlIcbj0Aw1Jsek5jjS",
-      "url": "https://open.spotify.com/track/2wYcFlIcbj0Aw1Jsek5jjS",
-      "artist_ids": [
-        "6JpZEemWmunccsrHXFUOgi"
-      ],
-      "played_at_utc": "2026-09-06 15:13:35Z",
-      "played_at_local": "2026-09-06 12:13:35 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Shabaka and the Ancestors — Joyous",
-      "artist": "Shabaka and the Ancestors",
-      "title": "Joyous",
-      "album": "Wisdom of Elders",
-      "uri": "spotify:track:1dznd0YJ26B9NIUJcQZOKh",
-      "url": "https://open.spotify.com/track/1dznd0YJ26B9NIUJcQZOKh",
-      "artist_ids": [
-        "5RSOkfm0B0WR4IBbVUtYXk"
-      ],
-      "played_at_utc": "2026-09-06 15:06:59Z",
-      "played_at_local": "2026-09-06 12:06:59 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "John Coltrane — I'm Old Fashioned",
-      "artist": "John Coltrane",
-      "title": "I'm Old Fashioned",
-      "album": "Blue Train",
-      "uri": "spotify:track:0sMR4StyIAXLE0WrfaZIDu",
-      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu",
-      "artist_ids": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "played_at_utc": "2026-09-06 15:00:24Z",
-      "played_at_local": "2026-09-06 12:00:24 -03",
-      "local_hour": 12,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Wayne Shorter — Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
-      "artist": "Wayne Shorter",
-      "title": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
-      "album": "Speak No Evil (The Rudy Van Gelder Edition)",
-      "uri": "spotify:track:0IffIW3eyCx9aZ36IqOu5o",
-      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o",
-      "artist_ids": [
-        "0ZqhrTXYPA9DZR527ZnFdO"
-      ],
-      "played_at_utc": "2026-09-06 14:52:29Z",
-      "played_at_local": "2026-09-06 11:52:29 -03",
-      "local_hour": 11,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Miles Davis Quintet — When I Fall In Love",
-      "artist": "Miles Davis Quintet",
-      "title": "When I Fall In Love",
-      "album": "Steamin' With The Miles Davis Quintet",
-      "uri": "spotify:track:1Ame30MZ6yKnqaWFAch1m7",
-      "url": "https://open.spotify.com/track/1Ame30MZ6yKnqaWFAch1m7",
-      "artist_ids": [
-        "71Ur25Abq58vksqJINpGdx"
-      ],
-      "played_at_utc": "2026-09-06 14:45:39Z",
-      "played_at_local": "2026-09-06 11:45:39 -03",
-      "local_hour": 11,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Thelonious Monk, John Coltrane — Ruby, My Dear",
-      "artist": "Thelonious Monk, John Coltrane",
-      "title": "Ruby, My Dear",
-      "album": "Thelonious Monk with John Coltrane (OJC Remaster)",
-      "uri": "spotify:track:1BMirA3vwj2NLamWkJsVYq",
-      "url": "https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq",
-      "artist_ids": [
-        "4PDpGtF16XpqvXxsrFwQnN",
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "played_at_utc": "2026-09-06 14:41:18Z",
-      "played_at_local": "2026-09-06 11:41:18 -03",
-      "local_hour": 11,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Cannonball Adderley — One For Daddy-O",
-      "artist": "Cannonball Adderley",
-      "title": "One For Daddy-O",
-      "album": "Somethin' Else (Rudy Van Gelder Edition)",
-      "uri": "spotify:track:4f0D7T8yswXUJ62AKLoMtS",
-      "url": "https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS",
-      "artist_ids": [
-        "5v74mT11KGJqadf9sLw4dA"
-      ],
-      "played_at_utc": "2026-09-06 14:35:01Z",
-      "played_at_local": "2026-09-06 11:35:01 -03",
-      "local_hour": 11,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Miles Davis — Move",
-      "artist": "Miles Davis",
-      "title": "Move",
-      "album": "Birth Of The Cool",
-      "uri": "spotify:track:7nCdeDrv9Tu4nsT3K638em",
-      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em",
-      "artist_ids": [
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "played_at_utc": "2026-09-06 14:26:39Z",
-      "played_at_local": "2026-09-06 11:26:39 -03",
-      "local_hour": 11,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "John Coltrane — Blue Train",
-      "artist": "John Coltrane",
-      "title": "Blue Train",
-      "album": "Blue Train",
-      "uri": "spotify:track:3zIuHdD8dkh1vPxQu334T7",
-      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7",
-      "artist_ids": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "played_at_utc": "2026-09-06 14:24:09Z",
-      "played_at_local": "2026-09-06 11:24:09 -03",
-      "local_hour": 11,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "John Coltrane Quartet — Lonnie's Lament",
-      "artist": "John Coltrane Quartet",
-      "title": "Lonnie's Lament",
-      "album": "Crescent",
-      "uri": "spotify:track:4m16y4HrVSk9N60oHNZBqI",
-      "url": "https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI",
-      "artist_ids": [
-        "67PZTxaHKMZBFRUh8wIzCy"
-      ],
-      "played_at_utc": "2026-09-06 14:13:29Z",
-      "played_at_local": "2026-09-06 11:13:29 -03",
-      "local_hour": 11,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Sonny Rollins — You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC",
-      "artist": "Sonny Rollins",
-      "title": "You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC",
-      "album": "Saxophone Colossus",
-      "uri": "spotify:track:4F8h9jXJBeuSRQSlo6owwL",
-      "url": "https://open.spotify.com/track/4F8h9jXJBeuSRQSlo6owwL",
-      "artist_ids": [
-        "1VEzN9lxvG6KPR3QQGsebR"
-      ],
-      "played_at_utc": "2026-09-06 14:01:45Z",
-      "played_at_local": "2026-09-06 11:01:45 -03",
-      "local_hour": 11,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
     }
   ],
-  "last_known_device_type": "Computer",
-  "last_known_device_name": "Felipe’s MacBook Air Silicon",
-  "last_known_volume_percent": 26,
-  "last_known_volume_telemetry": "IDLE (session present, no playback)",
+  "last_known_device_type": "Smartphone",
+  "last_known_device_name": "iPhone",
+  "last_known_volume_percent": 100,
+  "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-09-06 18:24:03Z",
-    "week_window_utc": "2026-08-30 18:24:03Z → 2026-09-06 18:24:03Z",
-    "tracks_24h": 76,
-    "tracks_7d": 79,
-    "dominant_artist_24h": "Miles Davis Quintet",
-    "dominant_artist_7d": "Miles Davis Quintet",
+    "captured_utc": "2026-09-06 22:09:24Z",
+    "week_window_utc": "2026-08-30 22:09:24Z → 2026-09-06 22:09:24Z",
+    "tracks_24h": 95,
+    "tracks_7d": 98,
+    "dominant_artist_24h": "All Them Witches",
+    "dominant_artist_7d": "All Them Witches",
     "listening_pattern_24h": "Sustained operational tempo",
     "activity_status_24h": "HIGH",
-    "cadence_7d": "HIGH",
+    "cadence_7d": "VERY HIGH",
     "local_timezone": "America/Santiago",
     "peak_hour_24h": "08:00",
     "peak_hour_7d": "08:00",
-    "heatmap_24h": "       ▅█▇█▆██▇▃        ",
-    "heatmap_7d": "    ▂  ▆█▇█▆██▇▃        ",
-    "sessions_24h": 1,
-    "sessions_7d": 3,
-    "avg_inter_play_gap_7d": "01:21:32",
+    "heatmap_24h": "       ▅█▇█▆██▇▇▇▁▂▂    ",
+    "heatmap_7d": "    ▂  ▆█▇█▆██▇▇▇▁▂▂    ",
+    "sessions_24h": 2,
+    "sessions_7d": 4,
+    "avg_inter_play_gap_7d": "01:07:53",
     "top_genres_24h": "jazz(77) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(42)",
     "top_genres_7d": "jazz(79) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(44)"
   },
-  "last_known_device_captured_utc": "2026-09-06 18:24:03Z"
+  "last_known_device_captured_utc": "2026-09-06 22:09:24Z"
 }
