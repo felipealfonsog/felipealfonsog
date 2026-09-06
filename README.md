@@ -1488,75 +1488,75 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Tomasz Stanko Quartet — Trista
-Artist                    : Tomasz Stanko Quartet
-Title                     : Trista
-Album                     : Lontano
-Spotify URI               : spotify:track:4371532zjTS1Llm2ZBxyEn
-Spotify URL               : https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn
+Track                     : Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition
+Artist                    : Wayne Shorter
+Title                     : Speak No Evil - Remastered1998/Rudy Van Gelder Edition
+Album                     : Speak No Evil (The Rudy Van Gelder Edition)
+Spotify URI               : spotify:track:0qxiaagtTvTeNvzxHHc441
+Spotify URL               : https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-06 11:04:10Z
-Played at (local)         : 2026-09-06 08:04:10 -03
-Local hour                : 08:00
-Daypart                   : MORNING
-Time since play           : 00:01:19
-Gap from previous play    : 00:04:36
+Played at (UTC)           : 2026-09-06 15:32:14Z
+Played at (local)         : 2026-09-06 12:32:14 -03
+Local hour                : 12:00
+Daypart                   : AFTERNOON
+Time since play           : 00:00:54
+Gap from previous play    : 00:08:20
 ------------------------------------------------------------
-Previous song             : Tomasz Stanko Quintet — Terminal 7
+Previous song             : Miles Davis Quintet — Just Squeeze Me
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 3
-Artist plays (retained)   : 3
+Track plays (retained)    : 1
+Artist plays (retained)   : 2
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-06 07:59:34 -03
-Previous track #2         : Spoon — WhisperI'lllistentohearit | 2026-09-06 07:53:26 -03
-Previous track #3         : Joywave — Content | 2026-09-06 07:49:09 -03
-Previous track #4         : Nathan Barr, Pete Townshend — It Must Be Done | 2026-09-06 07:44:44 -03
-Previous track #5         : The Black Angels — Grab as Much (As You Can) | 2026-09-06 07:39:54 -03
-Previous track #6         : Kyle Sumple — Misunderstood | 2026-09-06 07:36:06 -03
-Previous track #7         : All Them Witches — Red Rocking Chair | 2026-09-04 07:02:34 -04
-Previous track #8         : Tomasz Stanko Quartet — Trista | 2026-09-02 04:23:22 -04
-Previous track #9         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-02 04:21:13 -04
-Previous track #10        : Kyle Sumple — Misunderstood | 2026-08-30 07:35:55 -04
-Previous track #11        : The Black Angels — Manipulation | 2026-08-29 19:57:09 -04
-Previous track #12        : The Black Angels — You On The Run | 2026-08-29 10:55:04 -04
-Previous track #13        : The Black Angels — The First Vietnamese War | 2026-08-29 10:50:14 -04
-Previous track #14        : The Black Angels — Bad Vibrations | 2026-08-29 10:46:48 -04
-Previous track #15        : The Black Angels — Bloodhounds On My Trail | 2026-08-29 10:42:25 -04
-Previous track #16        : The Black Angels — Black Grease | 2026-08-29 10:38:30 -04
-Previous track #17        : The Black Angels — Entrance Song | 2026-08-29 10:34:01 -04
-Previous track #18        : My Jerusalem — Chrysalis | 2026-08-29 10:27:11 -04
-Previous track #19        : Kyle Sumple — Misunderstood | 2026-08-29 10:22:21 -04
-Previous track #20        : The Black Angels — Currency | 2026-08-29 10:11:34 -04
-Previous track #21        : Sleepy Sun — White Dove | 2026-08-29 10:06:20 -04
-Previous track #22        : Kyle Sumple — Misunderstood | 2026-08-29 09:57:01 -04
-Previous track #23        : Kyle Sumple — Misunderstood | 2026-08-29 09:53:40 -04
-Previous track #24        : Kyle Sumple — Misunderstood | 2026-08-29 09:50:42 -04
-Previous track #25        : All Them Witches — Red Rocking Chair | 2026-08-27 19:30:24 -04
-Previous track #26        : Evanescence — All That I’m Living For | 2026-08-25 10:28:20 -04
-Previous track #27        : Hypnos — Viaje | 2026-08-25 05:34:32 -04
-Previous track #28        : Chevelle — Still Running | 2026-08-23 11:56:54 -04
-Previous track #29        : Loathe — Babylon... | 2026-08-23 08:26:16 -04
-Previous track #30        : Grommet — Half in Red | 2026-08-23 08:20:49 -04
-Previous track #31        : 10 Years — Waking Up | 2026-08-23 08:16:57 -04
-Previous track #32        : Evans Blue — Eclipsed | 2026-08-23 08:13:31 -04
-Previous track #33        : Submersed — Flicker | 2026-08-23 08:09:13 -04
-Previous track #34        : ✝✝✝ (Crosses) — Option | 2026-08-23 08:03:51 -04
-Previous track #35        : Superheaven — I've Been Bored | 2026-08-23 07:59:30 -04
-Previous track #36        : Hum — Step into You | 2026-08-23 07:56:12 -04
-Previous track #37        : Chevelle — It's No Good | 2026-08-23 07:51:15 -04
-Previous track #38        : Chevelle — Black Boys On Mopeds | 2026-08-23 07:47:16 -04
-Previous track #39        : Chevelle — (High) Visibility | 2026-08-23 07:43:49 -04
-Previous track #40        : Chevelle — Until You're Reformed | 2026-08-23 07:41:12 -04
+Previous track #1         : Miles Davis Quintet — Just Squeeze Me | 2026-09-06 12:23:54 -03
+Previous track #2         : Thelonious Monk — Criss Cross - Remastered 1998 | 2026-09-06 12:16:29 -03
+Previous track #3         : Tony Allen — Politely | 2026-09-06 12:13:35 -03
+Previous track #4         : Shabaka and the Ancestors — Joyous | 2026-09-06 12:06:59 -03
+Previous track #5         : John Coltrane — I'm Old Fashioned | 2026-09-06 12:00:24 -03
+Previous track #6         : Wayne Shorter — Infant Eyes - Remastered1998/Rudy Van Gelder Edition | 2026-09-06 11:52:29 -03
+Previous track #7         : Miles Davis Quintet — When I Fall In Love | 2026-09-06 11:45:39 -03
+Previous track #8         : Thelonious Monk, John Coltrane — Ruby, My Dear | 2026-09-06 11:41:18 -03
+Previous track #9         : Cannonball Adderley — One For Daddy-O | 2026-09-06 11:35:01 -03
+Previous track #10        : Miles Davis — Move | 2026-09-06 11:26:39 -03
+Previous track #11        : John Coltrane — Blue Train | 2026-09-06 11:24:09 -03
+Previous track #12        : John Coltrane Quartet — Lonnie's Lament | 2026-09-06 11:13:29 -03
+Previous track #13        : Sonny Rollins — You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC | 2026-09-06 11:01:45 -03
+Previous track #14        : Thelonious Monk — Epistrophy | 2026-09-06 10:55:22 -03
+Previous track #15        : Miles Davis Quintet — I Could Write A Book | 2026-09-06 10:52:18 -03
+Previous track #16        : Miles Davis — I'll Remember April | 2026-09-06 10:47:14 -03
+Previous track #17        : John Coltrane — Theme For Ernie | 2026-09-06 10:39:25 -03
+Previous track #18        : Manu Katché — Number One | 2026-09-06 10:34:36 -03
+Previous track #19        : John Coltrane Quartet — Wise One | 2026-09-06 10:28:29 -03
+Previous track #20        : Joshua Redman Quartet — Chill | 2026-09-06 10:19:30 -03
+Previous track #21        : Miles Davis Quintet — Something I Dreamed Last Night | 2026-09-06 10:11:51 -03
+Previous track #22        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Doxy - RVG Remastered 2008 | 2026-09-06 10:05:41 -03
+Previous track #23        : John Coltrane — Naima - Mono | 2026-09-06 10:00:52 -03
+Previous track #24        : Kenny Dorham — Blue Friday - Rudy Van Gelder Remaster | 2026-09-06 09:56:30 -03
+Previous track #25        : John Coltrane Quartet — Soul Eyes | 2026-09-06 09:47:50 -03
+Previous track #26        : Thelonious Monk — 'Round Midnight | 2026-09-06 09:42:31 -03
+Previous track #27        : Miles Davis Quintet — Ahmad's Blues | 2026-09-06 09:39:21 -03
+Previous track #28        : Miles Davis — Blue Haze - Remastered 2024 | 2026-09-06 09:32:00 -03
+Previous track #29        : John Coltrane — Equinox | 2026-09-06 09:25:52 -03
+Previous track #30        : Forward Jazz Series — Homeland (Closing Credits) | 2026-09-06 09:17:48 -03
+Previous track #31        : Kamasi Washington — Final Thought | 2026-09-06 09:14:47 -03
+Previous track #32        : Thelonious Monk — Straight, No Chaser | 2026-09-06 09:08:19 -03
+Previous track #33        : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-06 08:56:54 -03
+Previous track #34        : Forward Jazz Series — Homeland (Incidentals) | 2026-09-06 08:51:38 -03
+Previous track #35        : Miles Davis Quintet — Tune Up | 2026-09-06 08:47:22 -03
+Previous track #36        : Kamasi Washington — Truth | 2026-09-06 08:41:45 -03
+Previous track #37        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-06 08:28:18 -03
+Previous track #38        : Thelonious Monk — Straight No Chaser | 2026-09-06 08:22:24 -03
+Previous track #39        : Forward Jazz Series — Homeland | 2026-09-06 08:19:30 -03
+Previous track #40        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-06 08:15:10 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-09-06 08:04:10 -03
-Track observed in context : Tomasz Stanko Quartet — Trista
+Context observed (local)  : 2026-09-06 12:32:14 -03
+Track observed in context : Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition
 Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
 Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
@@ -1570,51 +1570,51 @@ Last known device name    : Felipe’s MacBook Air Silicon
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-09-06 11:05:28Z
+Context observed (UTC)    : 2026-09-06 15:33:07Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 11
-Unique tracks             : 8
-Unique artists            : 8
-Replay ratio              : █████░░░░░░░░░░░░░  27.3%
-Artist diversity          : █████████████░░░░░  72.7%
-Dominant artist           : Tomasz Stanko Quartet
-Dominant artist share     : ███░░░░░░░░░░░░░░░  18.2%
+Observed events           : 52
+Unique tracks             : 50
+Unique artists            : 26
+Replay ratio              : █░░░░░░░░░░░░░░░░░  3.8%
+Artist diversity          : █████████░░░░░░░░░  50.0%
+Dominant artist           : Miles Davis Quintet
+Dominant artist share     : ██░░░░░░░░░░░░░░░░  13.5%
 Artist switch ratio       : ██████████████████  100.0%
-Longest artist streak     : Kyle Sumple × 1
+Longest artist streak     : Tomasz Stanko Quintet × 1
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███░░░░░░░░░░░░░░░   18.2%
-Morning    06–12           : ███████████████░░░   81.8%
-Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    3.8%
+Morning    06–12           : ███████████████░░░   84.6%
+Afternoon  12–18           : ██░░░░░░░░░░░░░░░░   11.5%
 Evening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-08-30 11:35:55Z
-History last play (7d)    : 2026-09-06 11:04:10Z
-Observed time span        : 167:28:15
-Mean inter-play gap       : 16:44:50
-Median inter-play gap     : 00:04:43
-Longest inactivity gap    : 68:45:18
-Listening intensity       : 0.07 tracks/hour
+History first play (7d)   : 2026-09-02 08:21:13Z
+History last play (7d)    : 2026-09-06 15:32:14Z
+Observed time span        : 103:11:01
+Mean inter-play gap       : 02:01:24
+Median inter-play gap     : 00:06:07
+Longest inactivity gap    : 50:39:12
+Listening intensity       : 0.50 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
-Peak hour (7d)            : 07:00
-Heatmap (24h)             :        █▁               
-Heatmap (7d)              :     ▂  █▁               
+Peak hour (24h)           : 08:00
+Peak hour (7d)            : 08:00
+Heatmap (24h)             :        ▅█▇█▆▅           
+Heatmap (7d)              :     ▂  ▆█▇█▆▅           
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▂ ▁ █
+Activity (Mon→Sun)        :       █
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :      ▃▆█▄     ▂▆ ▁   ▄   ▁   ▂
+Activity trend (30d)      :      ▂▃▅▂     ▁▃     ▂       █
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1625,52 +1625,52 @@ Wed                       :     █
 Thu                       :                         
 Fri                       :        █                
 Sat                       :                         
-Sun                       :        █▁               
+Sun                       :        ▅█▇█▆▅           
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 7
-Dominant artist           : Tomasz Stanko Quartet
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 49
+Dominant artist           : Miles Davis Quintet
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-30 11:05:28Z → 2026-09-06 11:05:28Z
-Tracks played (7d)        : 11
-Dominant artist           : Tomasz Stanko Quartet
-Cadence classification    : LOW
+Week window (UTC)         : 2026-08-30 15:33:07Z → 2026-09-06 15:33:07Z
+Tracks played (7d)        : 52
+Dominant artist           : Miles Davis Quintet
+Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 4
-Avg inter-play gap        : 16:44:50
+Sessions (7d)             : 3
+Avg inter-play gap        : 02:01:24
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(2) | free jazz(2) | jazz(2) | acid rock(1) | art rock(1) | garage rock(1)
-Top genres (7d)           : ambient jazz(4) | free jazz(4) | jazz(4) | neo-psychedelic(2) | psychedelic rock(2) | space rock(2)
+Top genres (24h)          : jazz(50) | cool jazz(43) | bebop(42) | hard bop(42) | jazz ballads(36) | free jazz(27)
+Top genres (7d)           : jazz(52) | cool jazz(43) | bebop(42) | hard bop(42) | jazz ballads(36) | free jazz(29)
 Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : All Them Witches — Red Rocking Chair → Tomasz Stanko Quartet — Trista
-Playback timestamp Δ      : 2026-09-04 11:02:34Z → 2026-09-06 11:04:10Z
-State transition          : IDLE → PLAYING
-Telemetry interval        : 06:16:26
+Track transition          : Tomasz Stanko Quartet — Trista → Wayne Shorter — Speak No Evil - Remastered1998/Rudy Van Gelder Edition
+Playback timestamp Δ      : 2026-09-06 11:04:10Z → 2026-09-06 15:32:14Z
+State transition          : NO CHANGE
+Telemetry interval        : 04:27:40
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 128
+Events retained           : 170
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-06 08:04:10 -03
-Events (24h)              : 7
-Events (7d)               : 11
-Events (30d)              : 128
-Playlist contexts retained: 13
+Newest retained event     : 2026-09-06 12:32:14 -03
+Events (24h)              : 49
+Events (7d)               : 52
+Events (30d)              : 170
+Playlist contexts retained: 55
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1698,7 +1698,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-06 11:05:28Z
+Report generated (UTC)    : 2026-09-06 15:33:07Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
