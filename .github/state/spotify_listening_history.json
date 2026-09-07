@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-07 04:53:49Z",
+  "updated_utc": "2026-09-07 07:28:55Z",
   "events": [
+    {
+      "track": "All Them Witches — Cowboy Kirk",
+      "artist": "All Them Witches",
+      "title": "Cowboy Kirk",
+      "album": "Sleeping Through The War",
+      "uri": "spotify:track:5EwI5bnn8fqREh8VuvR4Mw",
+      "url": "https://open.spotify.com/track/5EwI5bnn8fqREh8VuvR4Mw",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-07 07:27:36Z",
+      "played_at_local": "2026-09-07 04:27:36 -03",
+      "local_hour": 4,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "Lowrider — Into the Grey",
       "artist": "Lowrider",
@@ -184,6 +202,24 @@
       "played_at_utc": "2026-09-06 21:45:49Z",
       "played_at_local": "2026-09-06 18:45:49 -03",
       "local_hour": 18,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Cowboy Kirk",
+      "artist": "All Them Witches",
+      "title": "Cowboy Kirk",
+      "album": "Sleeping Through The War",
+      "uri": "spotify:track:5EwI5bnn8fqREh8VuvR4Mw",
+      "url": "https://open.spotify.com/track/5EwI5bnn8fqREh8VuvR4Mw",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 20:06:40Z",
+      "played_at_local": "2026-09-06 17:06:40 -03",
+      "local_hour": 17,
       "weekday": 6,
       "context_type": "album",
       "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
@@ -4337,6 +4373,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-07 07:28:55Z",
+      "is_playing": true,
+      "track": "MASSIVE HASSLE — Chorus of the Dawn",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Computer",
+      "device_name": "Felipe’s MacBook Air Silicon",
+      "volume_percent": 100,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-09-07 00:01:49Z",
       "is_playing": false,
