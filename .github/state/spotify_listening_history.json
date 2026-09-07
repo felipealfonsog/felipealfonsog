@@ -1,8 +1,96 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-06 22:09:24Z",
+  "updated_utc": "2026-09-07 00:01:49Z",
   "events": [
+    {
+      "track": "Wayside — Half Nelson",
+      "artist": "Wayside",
+      "title": "Half Nelson",
+      "album": "What Does Your Soul Look Like",
+      "uri": "spotify:track:6QZrcTbb7aiiHyRmkrEfaD",
+      "url": "https://open.spotify.com/track/6QZrcTbb7aiiHyRmkrEfaD",
+      "artist_ids": [
+        "30dxyV2Ax6tiLYdaIFmm2x"
+      ],
+      "played_at_utc": "2026-09-06 22:35:33Z",
+      "played_at_local": "2026-09-06 19:35:33 -03",
+      "local_hour": 19,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "context_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d",
+      "playlist_id": "3K1FROtbwczl5P33i8vw8d",
+      "playlist_name": "Felipe’s Heavy, Dark & Drenched in Sound",
+      "playlist_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "playlist_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d"
+    },
+    {
+      "track": "Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions",
+      "artist": "Aunt Cynthia's Cabin",
+      "title": "Magic Touch - Miramar Sessions",
+      "album": "Misty Woman (Miramar Sessions)",
+      "uri": "spotify:track:4cDhBKmhpKBsirTFi4HCGs",
+      "url": "https://open.spotify.com/track/4cDhBKmhpKBsirTFi4HCGs",
+      "artist_ids": [
+        "66kb7d5jDmTkMSs1XcOXTQ"
+      ],
+      "played_at_utc": "2026-09-06 22:21:28Z",
+      "played_at_local": "2026-09-06 19:21:28 -03",
+      "local_hour": 19,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "context_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d",
+      "playlist_id": "3K1FROtbwczl5P33i8vw8d",
+      "playlist_name": "Felipe’s Heavy, Dark & Drenched in Sound",
+      "playlist_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "playlist_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d"
+    },
+    {
+      "track": "All Them Witches — 41",
+      "artist": "All Them Witches",
+      "title": "41",
+      "album": "Nothing as the Ideal",
+      "uri": "spotify:track:32fkbMi7XlY85c9AGXyvhl",
+      "url": "https://open.spotify.com/track/32fkbMi7XlY85c9AGXyvhl",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-06 22:17:17Z",
+      "played_at_local": "2026-09-06 19:17:17 -03",
+      "local_hour": 19,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "context_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d",
+      "playlist_id": "3K1FROtbwczl5P33i8vw8d",
+      "playlist_name": "Felipe’s Heavy, Dark & Drenched in Sound",
+      "playlist_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "playlist_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d"
+    },
+    {
+      "track": "cloudyfield — in your head",
+      "artist": "cloudyfield",
+      "title": "in your head",
+      "album": "in your head",
+      "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+      "url": "https://open.spotify.com/track/0GrAc2fGqrvY7xMsAPdTKC",
+      "artist_ids": [
+        "1QXwIgp7aA3JT7WIyaAcur"
+      ],
+      "played_at_utc": "2026-09-06 22:11:37Z",
+      "played_at_local": "2026-09-06 19:11:37 -03",
+      "local_hour": 19,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "context_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d",
+      "playlist_id": "3K1FROtbwczl5P33i8vw8d",
+      "playlist_name": "Felipe’s Heavy, Dark & Drenched in Sound",
+      "playlist_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "playlist_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d"
+    },
     {
       "track": "damnsonic — RETROGRADE",
       "artist": "damnsonic",
@@ -4227,6 +4315,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-07 00:01:49Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-09-06 22:09:24Z",
       "is_playing": true,
