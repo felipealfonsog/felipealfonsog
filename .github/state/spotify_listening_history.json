@@ -1,8 +1,30 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-07 00:01:49Z",
+  "updated_utc": "2026-09-07 04:53:49Z",
   "events": [
+    {
+      "track": "Lowrider — Into the Grey",
+      "artist": "Lowrider",
+      "title": "Into the Grey",
+      "album": "The Long Forever",
+      "uri": "spotify:track:070O9VISeKWasiv99bBA2y",
+      "url": "https://open.spotify.com/track/070O9VISeKWasiv99bBA2y",
+      "artist_ids": [
+        "2ofc2suzjVzbu2EVToSKHW"
+      ],
+      "played_at_utc": "2026-09-07 02:51:38Z",
+      "played_at_local": "2026-09-06 23:51:38 -03",
+      "local_hour": 23,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "context_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d",
+      "playlist_id": "3K1FROtbwczl5P33i8vw8d",
+      "playlist_name": "Felipe’s Heavy, Dark & Drenched in Sound",
+      "playlist_uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
+      "playlist_url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d"
+    },
     {
       "track": "Wayside — Half Nelson",
       "artist": "Wayside",
