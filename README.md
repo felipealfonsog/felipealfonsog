@@ -1488,21 +1488,21 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : MASSIVE HASSLE — Chorus of the Dawn
-Artist                    : MASSIVE HASSLE
-Title                     : Chorus of the Dawn
-Album                     : UNREAL DAMAGE
-Spotify URI               : spotify:track:6T022JvmBfbIuoBv6i9qbA
-Spotify URL               : https://open.spotify.com/track/6T022JvmBfbIuoBv6i9qbA
+Track                     : Mount Hush — Fuenf
+Artist                    : Mount Hush
+Title                     : Fuenf
+Album                     : Mount Hush
+Spotify URI               : spotify:track:4rzaZliCPfeOQBtnNIcTN4
+Spotify URL               : https://open.spotify.com/track/4rzaZliCPfeOQBtnNIcTN4
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-07 07:31:41Z
-Played at (local)         : 2026-09-07 04:31:41 -03
+Played at (UTC)           : 2026-09-07 07:42:43Z
+Played at (local)         : 2026-09-07 04:42:43 -03
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 00:02:48
-Gap from previous play    : 00:04:05
+Time since play           : 05:02:43
+Gap from previous play    : 00:05:16
 ------------------------------------------------------------
-Previous song             : All Them Witches — Cowboy Kirk
+Previous song             : Black Lung — Demons
 Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
@@ -1511,46 +1511,46 @@ Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : All Them Witches — Cowboy Kirk | 2026-09-07 04:27:36 -03
-Previous track #2         : Lowrider — Into the Grey | 2026-09-06 23:51:38 -03
-Previous track #3         : Wayside — Half Nelson | 2026-09-06 19:35:33 -03
-Previous track #4         : Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions | 2026-09-06 19:21:28 -03
-Previous track #5         : All Them Witches — 41 | 2026-09-06 19:17:17 -03
-Previous track #6         : cloudyfield — in your head | 2026-09-06 19:11:37 -03
-Previous track #7         : damnsonic — RETROGRADE | 2026-09-06 19:06:00 -03
-Previous track #8         : All Them Witches — Red Rocking Chair | 2026-09-06 19:02:48 -03
-Previous track #9         : All Them Witches — Red Rocking Chair | 2026-09-06 18:53:20 -03
-Previous track #10        : All Them Witches — Red Rocking Chair | 2026-09-06 18:45:49 -03
-Previous track #11        : All Them Witches — Cowboy Kirk | 2026-09-06 17:06:40 -03
-Previous track #12        : Aunt Cynthia's Cabin — There's No Saving Cass | 2026-09-06 17:03:33 -03
-Previous track #13        : Black Lung — Awaken | 2026-09-06 16:55:35 -03
-Previous track #14        : GAUPA — Lion's Thorn | 2026-09-06 16:38:47 -03
-Previous track #15        : All Them Witches — Saturnine & Iron Jaw | 2026-09-06 16:31:14 -03
-Previous track #16        : All Them Witches — Saturn Song | 2026-09-06 16:24:28 -03
-Previous track #17        : All Them Witches — The Welterweight | 2026-09-06 16:19:58 -03
-Previous track #18        : All Them Witches — Angel On The Wayside | 2026-09-06 16:15:37 -03
-Previous track #19        : All Them Witches — Turn On The Light | 2026-09-06 16:11:32 -03
-Previous track #20        : All Them Witches — Starting Line | 2026-09-06 16:07:03 -03
-Previous track #21        : All Them Witches — Culling Line | 2026-09-06 16:02:57 -03
-Previous track #22        : All Them Witches — Red Rocking Chair | 2026-09-06 15:58:50 -03
-Previous track #23        : All Them Witches — Hold Up, Say What? | 2026-09-06 15:51:07 -03
-Previous track #24        : All Them Witches — Aethernet | 2026-09-06 15:46:26 -03
-Previous track #25        : All Them Witches — Culling Line | 2026-09-06 15:41:28 -03
-Previous track #26        : All Them Witches — Red Rocking Chair | 2026-09-06 15:37:24 -03
-Previous track #27        : Sonny Rollins — St. Thomas | 2026-09-06 15:21:05 -03
-Previous track #28        : Joe Henderson — Blue Bossa - Remastered | 2026-09-06 15:14:23 -03
-Previous track #29        : Duke Ellington — In A Sentimental Mood | 2026-09-06 15:06:24 -03
-Previous track #30        : Cannonball Adderley — Love For Sale | 2026-09-06 15:03:55 -03
-Previous track #31        : Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering | 2026-09-06 14:56:54 -03
-Previous track #32        : Joshua Redman Quartet — Sweet Sorrow | 2026-09-06 14:50:24 -03
-Previous track #33        : John Coltrane Quartet — All Or Nothing At All | 2026-09-06 14:41:44 -03
-Previous track #34        : Miles Davis Quintet — Trane's Blues | 2026-09-06 14:38:13 -03
-Previous track #35        : Miles Davis — Jeru | 2026-09-06 14:29:45 -03
-Previous track #36        : Kenny Garrett — Sing a Song of Song | 2026-09-06 14:26:35 -03
-Previous track #37        : Cannonball Adderley — Autumn Leaves | 2026-09-06 14:19:17 -03
-Previous track #38        : Yusef Lateef — Blues For The Orient - Remastered 2023 | 2026-09-06 14:08:21 -03
-Previous track #39        : John Coltrane Quartet — Nancy (With The Laughing Face) | 2026-09-06 14:02:44 -03
-Previous track #40        : John Coltrane — Violets For Your Furs - Rudy Van Gelder Remaster | 2026-09-06 13:59:36 -03
+Previous track #1         : Black Lung — Demons | 2026-09-07 04:37:27 -03
+Previous track #2         : MASSIVE HASSLE — Chorus of the Dawn | 2026-09-07 04:31:41 -03
+Previous track #3         : All Them Witches — Cowboy Kirk | 2026-09-07 04:27:36 -03
+Previous track #4         : Lowrider — Into the Grey | 2026-09-06 23:51:38 -03
+Previous track #5         : Wayside — Half Nelson | 2026-09-06 19:35:33 -03
+Previous track #6         : Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions | 2026-09-06 19:21:28 -03
+Previous track #7         : All Them Witches — 41 | 2026-09-06 19:17:17 -03
+Previous track #8         : cloudyfield — in your head | 2026-09-06 19:11:37 -03
+Previous track #9         : damnsonic — RETROGRADE | 2026-09-06 19:06:00 -03
+Previous track #10        : All Them Witches — Red Rocking Chair | 2026-09-06 19:02:48 -03
+Previous track #11        : All Them Witches — Red Rocking Chair | 2026-09-06 18:53:20 -03
+Previous track #12        : All Them Witches — Red Rocking Chair | 2026-09-06 18:45:49 -03
+Previous track #13        : All Them Witches — Cowboy Kirk | 2026-09-06 17:06:40 -03
+Previous track #14        : Aunt Cynthia's Cabin — There's No Saving Cass | 2026-09-06 17:03:33 -03
+Previous track #15        : Black Lung — Awaken | 2026-09-06 16:55:35 -03
+Previous track #16        : GAUPA — Lion's Thorn | 2026-09-06 16:38:47 -03
+Previous track #17        : All Them Witches — Saturnine & Iron Jaw | 2026-09-06 16:31:14 -03
+Previous track #18        : All Them Witches — Saturn Song | 2026-09-06 16:24:28 -03
+Previous track #19        : All Them Witches — The Welterweight | 2026-09-06 16:19:58 -03
+Previous track #20        : All Them Witches — Angel On The Wayside | 2026-09-06 16:15:37 -03
+Previous track #21        : All Them Witches — Turn On The Light | 2026-09-06 16:11:32 -03
+Previous track #22        : All Them Witches — Starting Line | 2026-09-06 16:07:03 -03
+Previous track #23        : All Them Witches — Culling Line | 2026-09-06 16:02:57 -03
+Previous track #24        : All Them Witches — Red Rocking Chair | 2026-09-06 15:58:50 -03
+Previous track #25        : All Them Witches — Hold Up, Say What? | 2026-09-06 15:51:07 -03
+Previous track #26        : All Them Witches — Aethernet | 2026-09-06 15:46:26 -03
+Previous track #27        : All Them Witches — Culling Line | 2026-09-06 15:41:28 -03
+Previous track #28        : All Them Witches — Red Rocking Chair | 2026-09-06 15:37:24 -03
+Previous track #29        : Sonny Rollins — St. Thomas | 2026-09-06 15:21:05 -03
+Previous track #30        : Joe Henderson — Blue Bossa - Remastered | 2026-09-06 15:14:23 -03
+Previous track #31        : Duke Ellington — In A Sentimental Mood | 2026-09-06 15:06:24 -03
+Previous track #32        : Cannonball Adderley — Love For Sale | 2026-09-06 15:03:55 -03
+Previous track #33        : Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering | 2026-09-06 14:56:54 -03
+Previous track #34        : Joshua Redman Quartet — Sweet Sorrow | 2026-09-06 14:50:24 -03
+Previous track #35        : John Coltrane Quartet — All Or Nothing At All | 2026-09-06 14:41:44 -03
+Previous track #36        : Miles Davis Quintet — Trane's Blues | 2026-09-06 14:38:13 -03
+Previous track #37        : Miles Davis — Jeru | 2026-09-06 14:29:45 -03
+Previous track #38        : Kenny Garrett — Sing a Song of Song | 2026-09-06 14:26:35 -03
+Previous track #39        : Cannonball Adderley — Autumn Leaves | 2026-09-06 14:19:17 -03
+Previous track #40        : Yusef Lateef — Blues For The Orient - Remastered 2023 | 2026-09-06 14:08:21 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1575,41 +1575,41 @@ Context observed (UTC)    : 2026-09-07 07:34:29Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 106
-Unique tracks             : 97
-Unique artists            : 42
-Replay ratio              : ██░░░░░░░░░░░░░░░░  8.5%
-Artist diversity          : ███████░░░░░░░░░░░  39.6%
+Observed events           : 108
+Unique tracks             : 99
+Unique artists            : 43
+Replay ratio              : █░░░░░░░░░░░░░░░░░  8.3%
+Artist diversity          : ███████░░░░░░░░░░░  39.8%
 Dominant artist           : All Them Witches
-Dominant artist share     : ███░░░░░░░░░░░░░░░  17.9%
-Artist switch ratio       : ████████████████░░  86.7%
+Dominant artist share     : ███░░░░░░░░░░░░░░░  17.6%
+Artist switch ratio       : ████████████████░░  86.9%
 Longest artist streak     : All Them Witches × 12
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    3.8%
-Morning    06–12           : ███████░░░░░░░░░░░   41.5%
-Afternoon  12–18           : ████████░░░░░░░░░░   46.2%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░    8.5%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    5.6%
+Morning    06–12           : ███████░░░░░░░░░░░   40.7%
+Afternoon  12–18           : ████████░░░░░░░░░░   45.4%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    8.3%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-02 08:21:13Z
-History last play (7d)    : 2026-09-07 07:31:41Z
-Observed time span        : 119:10:28
-Mean inter-play gap       : 01:08:06
-Median inter-play gap     : 00:06:07
+History last play (7d)    : 2026-09-07 07:42:43Z
+Observed time span        : 119:21:30
+Mean inter-play gap       : 01:06:56
+Median inter-play gap     : 00:06:04
 Longest inactivity gap    : 50:39:12
-Listening intensity       : 0.89 tracks/hour
+Listening intensity       : 0.90 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 08:00
-Heatmap (24h)             :     ▂  ▅█▇█▆██▇▇▇▂▂▅   ▁
-Heatmap (7d)              :     ▃  ▆█▇█▆██▇▇▇▂▂▅   ▁
+Heatmap (24h)             :     ▃    ▂█▆██▇▇▇▂▂▅   ▁
+Heatmap (7d)              :     ▅  ▆█▇█▆██▇▇▇▂▂▅   ▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
@@ -1631,15 +1631,15 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 103
+Tracks played (last 24h)  : 82
 Dominant artist           : All Them Witches
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-31 07:34:29Z → 2026-09-07 07:34:29Z
-Tracks played (7d)        : 106
+Week window (UTC)         : 2026-08-31 12:45:25Z → 2026-09-07 12:45:25Z
+Tracks played (7d)        : 108
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
 ------------------------------------------------------------
@@ -1648,39 +1648,39 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
 Sessions (7d)             : 6
-Avg inter-play gap        : 01:08:06
+Avg inter-play gap        : 01:06:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(77) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(42)
+Top genres (24h)          : jazz(57) | cool jazz(51) | hard bop(50) | bebop(48) | jazz ballads(44) | free jazz(32)
 Top genres (7d)           : jazz(79) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(44)
 Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : All Them Witches — Cowboy Kirk → MASSIVE HASSLE — Chorus of the Dawn
-Playback timestamp Δ      : 2026-09-07 07:27:36Z → 2026-09-07 07:31:41Z
-State transition          : NO CHANGE
-Telemetry interval        : 00:05:34
+Track transition          : MASSIVE HASSLE — Chorus of the Dawn → Mount Hush — Fuenf
+Playback timestamp Δ      : 2026-09-07 07:31:41Z → 2026-09-07 07:42:43Z
+State transition          : PLAYING → IDLE
+Telemetry interval        : 05:10:57
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 224
+Events retained           : 226
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-07 04:31:41 -03
-Events (24h)              : 103
-Events (7d)               : 106
-Events (30d)              : 224
+Newest retained event     : 2026-09-07 04:42:43 -03
+Events (24h)              : 82
+Events (7d)               : 108
+Events (30d)              : 226
 Playlist contexts retained: 88
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1699,7 +1699,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-07 07:34:29Z
+Report generated (UTC)    : 2026-09-07 12:45:25Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

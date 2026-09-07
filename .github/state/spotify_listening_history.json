@@ -1,8 +1,44 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-07 07:34:29Z",
+  "updated_utc": "2026-09-07 12:45:25Z",
   "events": [
+    {
+      "track": "Mount Hush — Fuenf",
+      "artist": "Mount Hush",
+      "title": "Fuenf",
+      "album": "Mount Hush",
+      "uri": "spotify:track:4rzaZliCPfeOQBtnNIcTN4",
+      "url": "https://open.spotify.com/track/4rzaZliCPfeOQBtnNIcTN4",
+      "artist_ids": [
+        "13clfeXxTPsDsqzSlLIBZJ"
+      ],
+      "played_at_utc": "2026-09-07 07:42:43Z",
+      "played_at_local": "2026-09-07 04:42:43 -03",
+      "local_hour": 4,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "Black Lung — Demons",
+      "artist": "Black Lung",
+      "title": "Demons",
+      "album": "Dark Waves",
+      "uri": "spotify:track:3eRzH1cjXas7M4qKN66pOf",
+      "url": "https://open.spotify.com/track/3eRzH1cjXas7M4qKN66pOf",
+      "artist_ids": [
+        "6nlUvNHe3PxYDLR3FyYz2H"
+      ],
+      "played_at_utc": "2026-09-07 07:37:27Z",
+      "played_at_local": "2026-09-07 04:37:27 -03",
+      "local_hour": 4,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "MASSIVE HASSLE — Chorus of the Dawn",
       "artist": "MASSIVE HASSLE",
@@ -4391,6 +4427,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-07 12:45:25Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-09-07 07:34:29Z",
       "is_playing": true,
