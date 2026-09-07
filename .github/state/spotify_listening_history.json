@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-07 07:28:55Z",
+  "updated_utc": "2026-09-07 07:34:29Z",
   "events": [
+    {
+      "track": "MASSIVE HASSLE — Chorus of the Dawn",
+      "artist": "MASSIVE HASSLE",
+      "title": "Chorus of the Dawn",
+      "album": "UNREAL DAMAGE",
+      "uri": "spotify:track:6T022JvmBfbIuoBv6i9qbA",
+      "url": "https://open.spotify.com/track/6T022JvmBfbIuoBv6i9qbA",
+      "artist_ids": [
+        "6O8IDyT0NjzTXB0jVoLLcJ"
+      ],
+      "played_at_utc": "2026-09-07 07:31:41Z",
+      "played_at_local": "2026-09-07 04:31:41 -03",
+      "local_hour": 4,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "All Them Witches — Cowboy Kirk",
       "artist": "All Them Witches",
@@ -4373,6 +4391,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-07 07:34:29Z",
+      "is_playing": true,
+      "track": "Black Lung — Demons",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Computer",
+      "device_name": "Felipe’s MacBook Air Silicon",
+      "volume_percent": 100,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-09-07 07:28:55Z",
       "is_playing": true,
