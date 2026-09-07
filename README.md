@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-07 07:42:43Z
 Played at (local)         : 2026-09-07 04:42:43 -03
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 11:03:14
+Time since play           : 15:09:52
 Gap from previous play    : 00:05:16
 ------------------------------------------------------------
 Previous song             : Black Lung — Demons
@@ -1606,9 +1606,9 @@ Listening intensity       : 0.90 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 16:00
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 08:00
-Heatmap (24h)             :     ▄          ▃█▂▂▅   ▁
+Heatmap (24h)             :     █                  ▂
 Heatmap (7d)              :     ▅  ▆█▇█▆██▇▇▇▂▂▅   ▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1631,14 +1631,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 27
-Dominant artist           : All Them Witches
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 5
+Dominant artist           : Mount Hush
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-31 18:45:57Z → 2026-09-07 18:45:57Z
+Week window (UTC)         : 2026-08-31 22:52:34Z → 2026-09-07 22:52:34Z
 Tracks played (7d)        : 108
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
@@ -1646,13 +1646,13 @@ Cadence classification    : VERY HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : 2
 Sessions (7d)             : 6
 Avg inter-play gap        : 01:06:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : stoner metal(24) | stoner rock(24) | space rock(23) | psychedelic rock(22) | sludge metal(20) | neo-psychedelic(19)
+Top genres (24h)          : stoner metal(5) | stoner rock(5) | psychedelic rock(4) | space rock(4) | sludge metal(3) | doom metal(2)
 Top genres (7d)           : jazz(79) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(44)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1661,14 +1661,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:00:32
+Telemetry interval        : 04:06:38
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 226
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-07 04:42:43 -03
-Events (24h)              : 27
+Events (24h)              : 5
 Events (7d)               : 108
 Events (30d)              : 226
 Playlist contexts retained: 88
@@ -1699,7 +1699,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-07 18:45:57Z
+Report generated (UTC)    : 2026-09-07 22:52:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
