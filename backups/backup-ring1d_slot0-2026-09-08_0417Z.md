@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-09-07_0416Z
+ snapshot_utc : 2026-09-08_0417Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -533,7 +533,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-09-06T20:20:09+00:00 | last_update=2026-09-06T20:20:09+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-09-07T21:27:10+00:00 | last_update=2026-09-07T21:27:10+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -703,13 +703,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. DEGRADED
 HTTP................ 403 Forbidden
-LATENCY............. 122 ms
-TTFB................ 121 ms
+LATENCY............. 59 ms
+TTFB................ 58 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 56d
+TLS_EXPIRY.......... 54d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -738,7 +738,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-06T07:47:29Z
+LAST_PROBE_UTC...... 2026-09-07T08:08:02Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -778,19 +778,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443975
-longitude      : -70.650728
-altitude       : 131 m
-gps_accuracy   : ±8.2 m
-heading        : 38°
-speed          : 0.6 km/h
-status         : resting
+location       : pedestrian_axis
+latitude       : -33.437426
+longitude      : -70.646729
+altitude       : 152 m
+gps_accuracy   : ±4.1 m
+heading        : 0°
+speed          : 0.0 km/h
+status         : low_movement
 phase          : overnight
-local_time     : 22:52
+local_time     : 23:04
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-09-07 01:52:55 UTC
+updated_utc    : 2026-09-08 02:04:04 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -909,7 +909,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-09-06 20:28:49Z
+DSN snapshot (UTC)       : 2026-09-07 21:35:01Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -920,15 +920,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.68e9 km | 171.643 AU
-Heliocentric distance    : 171.682 AU
-Relative speed           : 44.366 km/s
+Earth distance           : 25.68e9 km | 171.668 AU
+Heliocentric distance    : 171.692 AU
+Relative speed           : 44.393 km/s
 ------------------------------------------------------------
-One-way light time       : 23:47:31
-Round-trip latency       : 47:35:02
+One-way light time       : 23:47:43
+Round-trip latency       : 47:35:26
 ------------------------------------------------------------
-Δ distance (since last)  : +731,089 km
-Mission age              : 49 years, 13 days
+Δ distance (since last)  : +1.310e6 km
+Mission age              : 49 years, 14 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -939,19 +939,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.45e9 km | 143.406 AU
-Heliocentric distance    : 143.876 AU
-Relative speed           : 39.670 km/s
+Earth distance           : 21.46e9 km | 143.426 AU
+Heliocentric distance    : 143.885 AU
+Relative speed           : 39.766 km/s
 ------------------------------------------------------------
-One-way light time       : 19:52:40
-Round-trip latency       : 39:45:20
+One-way light time       : 19:52:50
+Round-trip latency       : 39:45:41
 ------------------------------------------------------------
-Δ distance (since last)  : +602,280 km
-Mission age              : 49 years, 29 days
+Δ distance (since last)  : +1.086e6 km
+Mission age              : 49 years, 30 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-09-06 20:28:52Z
+Report generated (UTC)   : 2026-09-07 21:35:07Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1433,7 +1433,7 @@ _)      \.___.,|     .'
 -->
 
 <!-- SPOTIFY-WIDGET-START -->
-<img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/master/images/blank.svg" width="0" height="0" style="display:none" alt="">
+[![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 <!-- SPOTIFY-WIDGET-END -->
 
 [![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
@@ -1495,75 +1495,75 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Wayside — Half Nelson
-Artist                    : Wayside
-Title                     : Half Nelson
-Album                     : What Does Your Soul Look Like
-Spotify URI               : spotify:track:6QZrcTbb7aiiHyRmkrEfaD
-Spotify URL               : https://open.spotify.com/track/6QZrcTbb7aiiHyRmkrEfaD
+Track                     : Mount Hush — Fuenf
+Artist                    : Mount Hush
+Title                     : Fuenf
+Album                     : Mount Hush
+Spotify URI               : spotify:track:4rzaZliCPfeOQBtnNIcTN4
+Spotify URL               : https://open.spotify.com/track/4rzaZliCPfeOQBtnNIcTN4
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-06 22:35:33Z
-Played at (local)         : 2026-09-06 19:35:33 -03
-Local hour                : 19:00
-Daypart                   : EVENING
-Time since play           : 01:26:16
-Gap from previous play    : 00:14:05
+Played at (UTC)           : 2026-09-07 07:42:43Z
+Played at (local)         : 2026-09-07 04:42:43 -03
+Local hour                : 04:00
+Daypart                   : NIGHT
+Time since play           : 15:09:52
+Gap from previous play    : 00:05:16
 ------------------------------------------------------------
-Previous song             : Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions
+Previous song             : Black Lung — Demons
 Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 2
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions | 2026-09-06 19:21:28 -03
-Previous track #2         : All Them Witches — 41 | 2026-09-06 19:17:17 -03
-Previous track #3         : cloudyfield — in your head | 2026-09-06 19:11:37 -03
-Previous track #4         : damnsonic — RETROGRADE | 2026-09-06 19:06:00 -03
-Previous track #5         : All Them Witches — Red Rocking Chair | 2026-09-06 19:02:48 -03
-Previous track #6         : All Them Witches — Red Rocking Chair | 2026-09-06 18:53:20 -03
-Previous track #7         : All Them Witches — Red Rocking Chair | 2026-09-06 18:45:49 -03
-Previous track #8         : Aunt Cynthia's Cabin — There's No Saving Cass | 2026-09-06 17:03:33 -03
-Previous track #9         : Black Lung — Awaken | 2026-09-06 16:55:35 -03
-Previous track #10        : GAUPA — Lion's Thorn | 2026-09-06 16:38:47 -03
-Previous track #11        : All Them Witches — Saturnine & Iron Jaw | 2026-09-06 16:31:14 -03
-Previous track #12        : All Them Witches — Saturn Song | 2026-09-06 16:24:28 -03
-Previous track #13        : All Them Witches — The Welterweight | 2026-09-06 16:19:58 -03
-Previous track #14        : All Them Witches — Angel On The Wayside | 2026-09-06 16:15:37 -03
-Previous track #15        : All Them Witches — Turn On The Light | 2026-09-06 16:11:32 -03
-Previous track #16        : All Them Witches — Starting Line | 2026-09-06 16:07:03 -03
-Previous track #17        : All Them Witches — Culling Line | 2026-09-06 16:02:57 -03
-Previous track #18        : All Them Witches — Red Rocking Chair | 2026-09-06 15:58:50 -03
-Previous track #19        : All Them Witches — Hold Up, Say What? | 2026-09-06 15:51:07 -03
-Previous track #20        : All Them Witches — Aethernet | 2026-09-06 15:46:26 -03
-Previous track #21        : All Them Witches — Culling Line | 2026-09-06 15:41:28 -03
-Previous track #22        : All Them Witches — Red Rocking Chair | 2026-09-06 15:37:24 -03
-Previous track #23        : Sonny Rollins — St. Thomas | 2026-09-06 15:21:05 -03
-Previous track #24        : Joe Henderson — Blue Bossa - Remastered | 2026-09-06 15:14:23 -03
-Previous track #25        : Duke Ellington — In A Sentimental Mood | 2026-09-06 15:06:24 -03
-Previous track #26        : Cannonball Adderley — Love For Sale | 2026-09-06 15:03:55 -03
-Previous track #27        : Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering | 2026-09-06 14:56:54 -03
-Previous track #28        : Joshua Redman Quartet — Sweet Sorrow | 2026-09-06 14:50:24 -03
-Previous track #29        : John Coltrane Quartet — All Or Nothing At All | 2026-09-06 14:41:44 -03
-Previous track #30        : Miles Davis Quintet — Trane's Blues | 2026-09-06 14:38:13 -03
-Previous track #31        : Miles Davis — Jeru | 2026-09-06 14:29:45 -03
-Previous track #32        : Kenny Garrett — Sing a Song of Song | 2026-09-06 14:26:35 -03
-Previous track #33        : Cannonball Adderley — Autumn Leaves | 2026-09-06 14:19:17 -03
-Previous track #34        : Yusef Lateef — Blues For The Orient - Remastered 2023 | 2026-09-06 14:08:21 -03
-Previous track #35        : John Coltrane Quartet — Nancy (With The Laughing Face) | 2026-09-06 14:02:44 -03
-Previous track #36        : John Coltrane — Violets For Your Furs - Rudy Van Gelder Remaster | 2026-09-06 13:59:36 -03
-Previous track #37        : Miles Davis — Boplicity | 2026-09-06 13:53:25 -03
-Previous track #38        : Thelonious Monk — Four In One - Remastered 1998 | 2026-09-06 13:50:27 -03
-Previous track #39        : Miles Davis Quintet — Blues By Five - Rudy Van Gelder Remaster | 2026-09-06 13:46:59 -03
-Previous track #40        : Yusef Lateef — Don't Blame Me - Remastered 2023 | 2026-09-06 13:37:10 -03
+Previous track #1         : Black Lung — Demons | 2026-09-07 04:37:27 -03
+Previous track #2         : MASSIVE HASSLE — Chorus of the Dawn | 2026-09-07 04:31:41 -03
+Previous track #3         : All Them Witches — Cowboy Kirk | 2026-09-07 04:27:36 -03
+Previous track #4         : Lowrider — Into the Grey | 2026-09-06 23:51:38 -03
+Previous track #5         : Wayside — Half Nelson | 2026-09-06 19:35:33 -03
+Previous track #6         : Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions | 2026-09-06 19:21:28 -03
+Previous track #7         : All Them Witches — 41 | 2026-09-06 19:17:17 -03
+Previous track #8         : cloudyfield — in your head | 2026-09-06 19:11:37 -03
+Previous track #9         : damnsonic — RETROGRADE | 2026-09-06 19:06:00 -03
+Previous track #10        : All Them Witches — Red Rocking Chair | 2026-09-06 19:02:48 -03
+Previous track #11        : All Them Witches — Red Rocking Chair | 2026-09-06 18:53:20 -03
+Previous track #12        : All Them Witches — Red Rocking Chair | 2026-09-06 18:45:49 -03
+Previous track #13        : All Them Witches — Cowboy Kirk | 2026-09-06 17:06:40 -03
+Previous track #14        : Aunt Cynthia's Cabin — There's No Saving Cass | 2026-09-06 17:03:33 -03
+Previous track #15        : Black Lung — Awaken | 2026-09-06 16:55:35 -03
+Previous track #16        : GAUPA — Lion's Thorn | 2026-09-06 16:38:47 -03
+Previous track #17        : All Them Witches — Saturnine & Iron Jaw | 2026-09-06 16:31:14 -03
+Previous track #18        : All Them Witches — Saturn Song | 2026-09-06 16:24:28 -03
+Previous track #19        : All Them Witches — The Welterweight | 2026-09-06 16:19:58 -03
+Previous track #20        : All Them Witches — Angel On The Wayside | 2026-09-06 16:15:37 -03
+Previous track #21        : All Them Witches — Turn On The Light | 2026-09-06 16:11:32 -03
+Previous track #22        : All Them Witches — Starting Line | 2026-09-06 16:07:03 -03
+Previous track #23        : All Them Witches — Culling Line | 2026-09-06 16:02:57 -03
+Previous track #24        : All Them Witches — Red Rocking Chair | 2026-09-06 15:58:50 -03
+Previous track #25        : All Them Witches — Hold Up, Say What? | 2026-09-06 15:51:07 -03
+Previous track #26        : All Them Witches — Aethernet | 2026-09-06 15:46:26 -03
+Previous track #27        : All Them Witches — Culling Line | 2026-09-06 15:41:28 -03
+Previous track #28        : All Them Witches — Red Rocking Chair | 2026-09-06 15:37:24 -03
+Previous track #29        : Sonny Rollins — St. Thomas | 2026-09-06 15:21:05 -03
+Previous track #30        : Joe Henderson — Blue Bossa - Remastered | 2026-09-06 15:14:23 -03
+Previous track #31        : Duke Ellington — In A Sentimental Mood | 2026-09-06 15:06:24 -03
+Previous track #32        : Cannonball Adderley — Love For Sale | 2026-09-06 15:03:55 -03
+Previous track #33        : Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering | 2026-09-06 14:56:54 -03
+Previous track #34        : Joshua Redman Quartet — Sweet Sorrow | 2026-09-06 14:50:24 -03
+Previous track #35        : John Coltrane Quartet — All Or Nothing At All | 2026-09-06 14:41:44 -03
+Previous track #36        : Miles Davis Quintet — Trane's Blues | 2026-09-06 14:38:13 -03
+Previous track #37        : Miles Davis — Jeru | 2026-09-06 14:29:45 -03
+Previous track #38        : Kenny Garrett — Sing a Song of Song | 2026-09-06 14:26:35 -03
+Previous track #39        : Cannonball Adderley — Autumn Leaves | 2026-09-06 14:19:17 -03
+Previous track #40        : Yusef Lateef — Blues For The Orient - Remastered 2023 | 2026-09-06 14:08:21 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : Felipe’s Heavy, Dark & Drenched in Sound
-Context observed (local)  : 2026-09-06 19:35:33 -03
-Track observed in context : Wayside — Half Nelson
+Context observed (local)  : 2026-09-06 23:51:38 -03
+Track observed in context : Lowrider — Into the Grey
 Spotify playlist URI      : spotify:playlist:3K1FROtbwczl5P33i8vw8d
 Spotify playlist URL      : https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d
 ------------------------------------------------------------
@@ -1573,80 +1573,80 @@ Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-08-13 12
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
-Last known device type    : Smartphone
-Last known device name    : iPhone
+Last known device type    : Computer
+Last known device name    : Felipe’s MacBook Air Silicon
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-09-06 22:09:24Z
+Context observed (UTC)    : 2026-09-07 07:34:29Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 102
-Unique tracks             : 94
-Unique artists            : 40
-Replay ratio              : █░░░░░░░░░░░░░░░░░  7.8%
-Artist diversity          : ███████░░░░░░░░░░░  39.2%
+Observed events           : 108
+Unique tracks             : 99
+Unique artists            : 43
+Replay ratio              : █░░░░░░░░░░░░░░░░░  8.3%
+Artist diversity          : ███████░░░░░░░░░░░  39.8%
 Dominant artist           : All Them Witches
-Dominant artist share     : ███░░░░░░░░░░░░░░░  16.7%
-Artist switch ratio       : ████████████████░░  87.1%
+Dominant artist share     : ███░░░░░░░░░░░░░░░  17.6%
+Artist switch ratio       : ████████████████░░  86.9%
 Longest artist streak     : All Them Witches × 12
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    2.0%
-Morning    06–12           : ████████░░░░░░░░░░   43.1%
-Afternoon  12–18           : ████████░░░░░░░░░░   47.1%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    7.8%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    5.6%
+Morning    06–12           : ███████░░░░░░░░░░░   40.7%
+Afternoon  12–18           : ████████░░░░░░░░░░   45.4%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    8.3%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-02 08:21:13Z
-History last play (7d)    : 2026-09-06 22:35:33Z
-Observed time span        : 110:14:20
-Mean inter-play gap       : 01:05:29
-Median inter-play gap     : 00:06:07
+History last play (7d)    : 2026-09-07 07:42:43Z
+Observed time span        : 119:21:30
+Mean inter-play gap       : 01:06:56
+Median inter-play gap     : 00:06:04
 Longest inactivity gap    : 50:39:12
-Listening intensity       : 0.93 tracks/hour
+Listening intensity       : 0.90 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
+Peak hour (24h)           : 04:00
 Peak hour (7d)            : 08:00
-Heatmap (24h)             :        ▅█▇█▆██▇▇▇▁▂▅    
-Heatmap (7d)              :     ▂  ▆█▇█▆██▇▇▇▁▂▅    
+Heatmap (24h)             :     █                  ▂
+Heatmap (7d)              :     ▅  ▆█▇█▆██▇▇▇▂▂▅   ▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :       █
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :      ▁▂▂▁      ▂     ▁       █
+Activity trend (30d)      :     ▁▂▂▁      ▂     ▁       █ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :                         
+Mon                       :     █                   
 Tue                       :                         
 Wed                       :     █                   
 Thu                       :                         
 Fri                       :        █                
 Sat                       :                         
-Sun                       :        ▅█▇█▆██▇▇▇▁▂▅    
+Sun                       :        ▅█▇█▆██▇▇▇▂▂▅   ▁
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 99
-Dominant artist           : All Them Witches
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 5
+Dominant artist           : Mount Hush
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-08-31 00:01:49Z → 2026-09-07 00:01:49Z
-Tracks played (7d)        : 102
+Week window (UTC)         : 2026-08-31 22:52:34Z → 2026-09-07 22:52:34Z
+Tracks played (7d)        : 108
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
 ------------------------------------------------------------
@@ -1654,31 +1654,31 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 4
-Avg inter-play gap        : 01:05:29
+Sessions (7d)             : 6
+Avg inter-play gap        : 01:06:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : jazz(77) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(42)
+Top genres (24h)          : stoner metal(5) | stoner rock(5) | psychedelic rock(4) | space rock(4) | sludge metal(3) | doom metal(2)
 Top genres (7d)           : jazz(79) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(44)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : damnsonic — RETROGRADE → Wayside — Half Nelson
-Playback timestamp Δ      : 2026-09-06 22:06:00Z → 2026-09-06 22:35:33Z
-State transition          : PLAYING → IDLE
-Telemetry interval        : 01:52:25
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
+State transition          : NO CHANGE
+Telemetry interval        : 04:06:38
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 220
+Events retained           : 226
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-06 19:35:33 -03
-Events (24h)              : 99
-Events (7d)               : 102
-Events (30d)              : 220
-Playlist contexts retained: 87
+Newest retained event     : 2026-09-07 04:42:43 -03
+Events (24h)              : 5
+Events (7d)               : 108
+Events (30d)              : 226
+Playlist contexts retained: 88
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-07 00:01:49Z
+Report generated (UTC)    : 2026-09-07 22:52:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2064,9 +2064,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 06 September 2026
+From: 04 December 2023 - To: 07 September 2026
 
-Total Time       : 1,064 hrs 23 mins
+Total Time       : 1,065 hrs 17 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 3 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -2075,49 +2075,49 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          820 hrs 26 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  77.08 %
-Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.60 %
-Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.35 %
-HTML           140 hrs 6 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.16 %
-PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.26 %
+Other          824 hrs 20 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  77.38 %
+Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.59 %
+Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.33 %
+HTML           140 hrs 6 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.15 %
+PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.25 %
 Markdown       80 hrs 48 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.59 %
 C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.18 %
-Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.80 %
-C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.76 %
+Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
+C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
 YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.58 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,166 hrs 22 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  67.18 %
+Mac            1,171 hrs 9 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  67.12 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.97 %
-Firefox        602 hrs 26 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.60 %
-Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.75 %
-Terminal       47 hrs 1 min   ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.42 %
-Spotify        39 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.92 %
+Firefox        605 hrs 17 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.82 %
+Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.72 %
+Terminal       47 hrs 1 min   ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.41 %
+Spotify        40 hrs 20 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
 ‎WhatsApp      29 hrs 5 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.73 %
 Termius        24 hrs 7 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.27 %
 Pages          21 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.04 %
 Dia            20 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.94 %
 Acrobat        16 hrs 10 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.52 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.40 %
-FileZilla      10 hrs 47 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.01 %
+FileZilla      11 hrs 8 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.05 %
 
 CATEGORIES
 ----------
-Coding         1,210 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       598 hrs 49 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.26 %
+Coding         1,211 hrs 4 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       602 hrs 14 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  56.53 %
 Meeting        37 hrs 49 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.55 %
-AI Coding      24 hrs 22 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.29 %
+AI Coding      24 hrs 58 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.34 %
 Writing Docs   13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.27 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 07/09/2026 02:31:43 UTC
+Last updated     : 08/09/2026 02:44:52 UTC
 
 ```
 <!--END_SECTION:wakastats-->
