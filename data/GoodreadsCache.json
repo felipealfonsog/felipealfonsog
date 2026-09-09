@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-09-09T16:31:27+00:00",
-    "last_successful_sync": "2026-09-09T16:31:27+00:00",
+    "last_attempted_sync": "2026-09-09T20:52:20+00:00",
+    "last_successful_sync": "2026-09-09T20:52:20+00:00",
     "error_message": ""
   },
   "sections": {
@@ -481,7 +481,7 @@
           "author": "Hua Hsu",
           "link": "https://www.goodreads.com/review/show/7273858305?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647558486l/59900070._SY75_.jpg",
-          "summary": "author: Hua Hsu name: Felipe Alfonso average rating: 3.98 book published: 2022 rating: 0 read at: date added: 2025/01/30 shelves: to-read review:",
+          "summary": "author: Hua Hsu name: Felipe Alfonso average rating: 3.97 book published: 2022 rating: 0 read at: date added: 2025/01/30 shelves: to-read review:",
           "guid": "https://www.goodreads.com/review/show/7273858305?utm_medium=api&utm_source=rss",
           "pub_date": "Thu, 30 Jan 2025 15:14:46 -0800"
         },
