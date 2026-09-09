@@ -694,22 +694,22 @@ GNLZ.CL :: SITE OPERATIONS INTELLIGENCE
 
 TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
-STATUS.............. DEGRADED
-HTTP................ 403 Forbidden
-LATENCY............. 191 ms
-TTFB................ 190 ms
+STATUS.............. ONLINE
+HTTP................ 200 OK
+LATENCY............. 188 ms
+TTFB................ 187 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 54d
+TLS_EXPIRY.......... 53d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
 ASN_HINT............ CLOUDFLARE
 HEADER_HYGIENE...... PARTIAL
-HSTS................ MISS
-CSP................. PASS
+HSTS................ PASS
+CSP................. MISS
 XFO................. PASS
 REFPOL.............. PASS
 PERMPOL............. PASS
@@ -729,9 +729,9 @@ VIEWS_7D............ 6882
 UNIQUES_24H......... 402
 BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ UNKNOWN
-CONTENT_LENGTH...... 5 KB
+CONTENT_LENGTH...... 67 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-08T07:57:50Z
+LAST_PROBE_UTC...... 2026-09-09T08:00:28Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
