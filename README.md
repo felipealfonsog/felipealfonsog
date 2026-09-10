@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-07 07:42:43Z
 Played at (local)         : 2026-09-07 04:42:43 -03
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 64:36:07
+Time since play           : 69:11:20
 Gap from previous play    : 00:05:16
 ------------------------------------------------------------
 Previous song             : Black Lung — Demons
@@ -1615,7 +1615,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :       █
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   ▁▂▂▁      ▂     ▁       █   
+Activity trend (30d)      :  ▁▂▂▁      ▂     ▁       █    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1638,7 +1638,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-03 00:18:50Z → 2026-09-10 00:18:50Z
+Week window (UTC)         : 2026-09-03 04:54:02Z → 2026-09-10 04:54:02Z
 Tracks played (7d)        : 106
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
@@ -1661,7 +1661,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:18:51
+Telemetry interval        : 04:35:13
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1699,7 +1699,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-10 00:18:50Z
+Report generated (UTC)    : 2026-09-10 04:54:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
