@@ -1488,81 +1488,82 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Mount Hush — Fuenf
-Artist                    : Mount Hush
-Title                     : Fuenf
-Album                     : Mount Hush
-Spotify URI               : spotify:track:4rzaZliCPfeOQBtnNIcTN4
-Spotify URL               : https://open.spotify.com/track/4rzaZliCPfeOQBtnNIcTN4
+Track                     : The Black Angels — Black Grease
+Artist                    : The Black Angels
+Title                     : Black Grease
+Album                     : Passover
+Spotify URI               : spotify:track:2JGnH3D1ubBikQqGdlMURP
+Spotify URL               : https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-07 07:42:43Z
-Played at (local)         : 2026-09-07 04:42:43 -03
-Local hour                : 04:00
-Daypart                   : NIGHT
-Time since play           : 104:52:38
-Gap from previous play    : 00:05:16
+Played at (UTC)           : 2026-09-11 19:15:26Z
+Played at (local)         : 2026-09-11 16:15:26 -03
+Local hour                : 16:00
+Daypart                   : AFTERNOON
+Time since play           : 01:47:37
+Gap from previous play    : 00:04:33
 ------------------------------------------------------------
-Previous song             : Black Lung — Demons
-Same artist as previous   : NO
+Previous song             : The Black Angels — The Prodigal Sun
+Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 1
-Artist plays (retained)   : 1
+Track plays (retained)    : 4
+Artist plays (retained)   : 23
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Black Lung — Demons | 2026-09-07 04:37:27 -03
-Previous track #2         : MASSIVE HASSLE — Chorus of the Dawn | 2026-09-07 04:31:41 -03
-Previous track #3         : All Them Witches — Cowboy Kirk | 2026-09-07 04:27:36 -03
-Previous track #4         : Lowrider — Into the Grey | 2026-09-06 23:51:38 -03
-Previous track #5         : Wayside — Half Nelson | 2026-09-06 19:35:33 -03
-Previous track #6         : Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions | 2026-09-06 19:21:28 -03
-Previous track #7         : All Them Witches — 41 | 2026-09-06 19:17:17 -03
-Previous track #8         : cloudyfield — in your head | 2026-09-06 19:11:37 -03
-Previous track #9         : damnsonic — RETROGRADE | 2026-09-06 19:06:00 -03
-Previous track #10        : All Them Witches — Red Rocking Chair | 2026-09-06 19:02:48 -03
-Previous track #11        : All Them Witches — Red Rocking Chair | 2026-09-06 18:53:20 -03
-Previous track #12        : All Them Witches — Red Rocking Chair | 2026-09-06 18:45:49 -03
-Previous track #13        : All Them Witches — Cowboy Kirk | 2026-09-06 17:06:40 -03
-Previous track #14        : Aunt Cynthia's Cabin — There's No Saving Cass | 2026-09-06 17:03:33 -03
-Previous track #15        : Black Lung — Awaken | 2026-09-06 16:55:35 -03
-Previous track #16        : GAUPA — Lion's Thorn | 2026-09-06 16:38:47 -03
-Previous track #17        : All Them Witches — Saturnine & Iron Jaw | 2026-09-06 16:31:14 -03
-Previous track #18        : All Them Witches — Saturn Song | 2026-09-06 16:24:28 -03
-Previous track #19        : All Them Witches — The Welterweight | 2026-09-06 16:19:58 -03
-Previous track #20        : All Them Witches — Angel On The Wayside | 2026-09-06 16:15:37 -03
-Previous track #21        : All Them Witches — Turn On The Light | 2026-09-06 16:11:32 -03
-Previous track #22        : All Them Witches — Starting Line | 2026-09-06 16:07:03 -03
-Previous track #23        : All Them Witches — Culling Line | 2026-09-06 16:02:57 -03
-Previous track #24        : All Them Witches — Red Rocking Chair | 2026-09-06 15:58:50 -03
-Previous track #25        : All Them Witches — Hold Up, Say What? | 2026-09-06 15:51:07 -03
-Previous track #26        : All Them Witches — Aethernet | 2026-09-06 15:46:26 -03
-Previous track #27        : All Them Witches — Culling Line | 2026-09-06 15:41:28 -03
-Previous track #28        : All Them Witches — Red Rocking Chair | 2026-09-06 15:37:24 -03
-Previous track #29        : Sonny Rollins — St. Thomas | 2026-09-06 15:21:05 -03
-Previous track #30        : Joe Henderson — Blue Bossa - Remastered | 2026-09-06 15:14:23 -03
-Previous track #31        : Duke Ellington — In A Sentimental Mood | 2026-09-06 15:06:24 -03
-Previous track #32        : Cannonball Adderley — Love For Sale | 2026-09-06 15:03:55 -03
-Previous track #33        : Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering | 2026-09-06 14:56:54 -03
-Previous track #34        : Joshua Redman Quartet — Sweet Sorrow | 2026-09-06 14:50:24 -03
-Previous track #35        : John Coltrane Quartet — All Or Nothing At All | 2026-09-06 14:41:44 -03
-Previous track #36        : Miles Davis Quintet — Trane's Blues | 2026-09-06 14:38:13 -03
-Previous track #37        : Miles Davis — Jeru | 2026-09-06 14:29:45 -03
-Previous track #38        : Kenny Garrett — Sing a Song of Song | 2026-09-06 14:26:35 -03
-Previous track #39        : Cannonball Adderley — Autumn Leaves | 2026-09-06 14:19:17 -03
-Previous track #40        : Yusef Lateef — Blues For The Orient - Remastered 2023 | 2026-09-06 14:08:21 -03
+Previous track #1         : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03
+Previous track #2         : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03
+Previous track #3         : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03
+Previous track #4         : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03
+Previous track #5         : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03
+Previous track #6         : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03
+Previous track #7         : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03
+Previous track #8         : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03
+Previous track #9         : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03
+Previous track #10        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03
+Previous track #11        : The Black Angels — Bloodhounds On My Trail | 2026-09-11 15:20:22 -03
+Previous track #12        : The Black Angels — Black Grease | 2026-09-11 15:16:27 -03
+Previous track #13        : The Black Angels — Entrance Song | 2026-09-11 15:11:50 -03
+Previous track #14        : All Them Witches — Hold Up, Say What? | 2026-09-11 15:04:13 -03
+Previous track #15        : All Them Witches — Aethernet | 2026-09-11 15:00:08 -03
+Previous track #16        : All Them Witches — Culling Line | 2026-09-11 14:55:10 -03
+Previous track #17        : All Them Witches — Red Rocking Chair | 2026-09-11 14:51:05 -03
+Previous track #18        : John Coltrane — Blue World | 2026-09-11 14:43:00 -03
+Previous track #19        : Tomasz Stanko Quartet — Trista | 2026-09-11 14:36:56 -03
+Previous track #20        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-11 14:32:16 -03
+Previous track #21        : King Buffalo — Locusts | 2026-09-07 04:43:50 -03
+Previous track #22        : Mount Hush — Fuenf | 2026-09-07 04:42:43 -03
+Previous track #23        : Black Lung — Demons | 2026-09-07 04:37:27 -03
+Previous track #24        : MASSIVE HASSLE — Chorus of the Dawn | 2026-09-07 04:31:41 -03
+Previous track #25        : All Them Witches — Cowboy Kirk | 2026-09-07 04:27:36 -03
+Previous track #26        : Lowrider — Into the Grey | 2026-09-06 23:51:38 -03
+Previous track #27        : Wayside — Half Nelson | 2026-09-06 19:35:33 -03
+Previous track #28        : Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions | 2026-09-06 19:21:28 -03
+Previous track #29        : All Them Witches — 41 | 2026-09-06 19:17:17 -03
+Previous track #30        : cloudyfield — in your head | 2026-09-06 19:11:37 -03
+Previous track #31        : damnsonic — RETROGRADE | 2026-09-06 19:06:00 -03
+Previous track #32        : All Them Witches — Red Rocking Chair | 2026-09-06 19:02:48 -03
+Previous track #33        : All Them Witches — Red Rocking Chair | 2026-09-06 18:53:20 -03
+Previous track #34        : All Them Witches — Red Rocking Chair | 2026-09-06 18:45:49 -03
+Previous track #35        : All Them Witches — Cowboy Kirk | 2026-09-06 17:06:40 -03
+Previous track #36        : Aunt Cynthia's Cabin — There's No Saving Cass | 2026-09-06 17:03:33 -03
+Previous track #37        : Black Lung — Awaken | 2026-09-06 16:55:35 -03
+Previous track #38        : GAUPA — Lion's Thorn | 2026-09-06 16:38:47 -03
+Previous track #39        : All Them Witches — Saturnine & Iron Jaw | 2026-09-06 16:31:14 -03
+Previous track #40        : All Them Witches — Saturn Song | 2026-09-06 16:24:28 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
-Last playlist             : Felipe’s Heavy, Dark & Drenched in Sound
-Context observed (local)  : 2026-09-06 23:51:38 -03
-Track observed in context : Lowrider — Into the Grey
-Spotify playlist URI      : spotify:playlist:3K1FROtbwczl5P33i8vw8d
-Spotify playlist URL      : https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d
+Last playlist             : Homeland (TV Series) Jazz Collection
+Context observed (local)  : 2026-09-11 14:43:00 -03
+Track observed in context : John Coltrane — Blue World
+Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
+Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
-Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
-Previous playlist #2      : N/A | 2026-08-13 14:15:12 -04
-Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
+Previous playlist #1      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
+Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
+Previous playlist #3      : N/A | 2026-08-13 14:15:12 -04
+Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1575,47 +1576,47 @@ Context observed (UTC)    : 2026-09-07 07:34:29Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 105
-Unique tracks             : 99
-Unique artists            : 43
-Replay ratio              : █░░░░░░░░░░░░░░░░░  5.7%
-Artist diversity          : ███████░░░░░░░░░░░  41.0%
+Observed events           : 127
+Unique tracks             : 110
+Unique artists            : 44
+Replay ratio              : ██░░░░░░░░░░░░░░░░  13.4%
+Artist diversity          : ██████░░░░░░░░░░░░  34.6%
 Dominant artist           : All Them Witches
-Dominant artist share     : ███░░░░░░░░░░░░░░░  17.1%
-Artist switch ratio       : ████████████████░░  86.5%
-Longest artist streak     : All Them Witches × 12
+Dominant artist share     : ███░░░░░░░░░░░░░░░  17.3%
+Artist switch ratio       : ██████████████░░░░  76.2%
+Longest artist streak     : The Black Angels × 14
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    3.8%
-Morning    06–12           : ███████░░░░░░░░░░░   41.0%
-Afternoon  12–18           : ████████░░░░░░░░░░   46.7%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░    8.6%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    3.9%
+Morning    06–12           : ██████░░░░░░░░░░░░   33.9%
+Afternoon  12–18           : ██████████░░░░░░░░   55.1%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    7.1%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-06 10:36:06Z
-History last play (7d)    : 2026-09-07 07:42:43Z
-Observed time span        : 21:06:37
-Mean inter-play gap       : 00:12:11
-Median inter-play gap     : 00:05:59
-Longest inactivity gap    : 04:35:58
-Listening intensity       : 4.97 tracks/hour
+History last play (7d)    : 2026-09-11 19:15:26Z
+Observed time span        : 128:39:20
+Mean inter-play gap       : 01:01:16
+Median inter-play gap     : 00:05:37
+Longest inactivity gap    : 105:48:26
+Listening intensity       : 0.99 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 08:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▃  ▅█▇█▆██▇▇▇▂▂▅   ▁
+Peak hour (24h)           : 15:00
+Peak hour (7d)            : 15:00
+Heatmap (24h)             :               ▃█▃       
+Heatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▂    
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :       █
+Activity (Mon→Sun)        :     ▂ █
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁▂▂▁      ▂     ▁       █     
+Activity trend (30d)      : ▁▂▂▁      ▂     ▁       █    ▂
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1624,54 +1625,54 @@ Mon                       :     █
 Tue                       :                         
 Wed                       :                         
 Thu                       :                         
-Fri                       :                         
+Fri                       :               ▃█▃       
 Sat                       :                         
 Sun                       :        ▅█▇█▆██▇▇▇▂▂▅   ▁
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 21
+Dominant artist           : The Black Angels
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-04 16:35:20Z → 2026-09-11 16:35:20Z
-Tracks played (7d)        : 105
+Week window (UTC)         : 2026-09-04 21:03:03Z → 2026-09-11 21:03:03Z
+Tracks played (7d)        : 127
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 4
-Avg inter-play gap        : 00:12:11
+Sessions (24h)            : 1
+Sessions (7d)             : 5
+Avg inter-play gap        : 01:01:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : jazz(77) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(42)
+Top genres (24h)          : neo-psychedelic(18) | psychedelic rock(18) | space rock(18) | stoner rock(18) | acid rock(14) | garage rock(14)
+Top genres (7d)           : jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(46)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Mount Hush — Fuenf → The Black Angels — Black Grease
+Playback timestamp Δ      : 2026-09-07 07:42:43Z → 2026-09-11 19:15:26Z
 State transition          : NO CHANGE
-Telemetry interval        : 05:03:23
+Telemetry interval        : 04:27:43
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 226
+Events retained           : 248
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-07 04:42:43 -03
-Events (24h)              : 0
-Events (7d)               : 105
-Events (30d)              : 226
-Playlist contexts retained: 88
+Newest retained event     : 2026-09-11 16:15:26 -03
+Events (24h)              : 21
+Events (7d)               : 127
+Events (30d)              : 248
+Playlist contexts retained: 91
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1699,7 +1700,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-11 16:35:20Z
+Report generated (UTC)    : 2026-09-11 21:03:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

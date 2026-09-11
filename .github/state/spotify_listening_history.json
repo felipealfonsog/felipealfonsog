@@ -1,8 +1,416 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-11 16:35:20Z",
+  "updated_utc": "2026-09-11 21:03:03Z",
   "events": [
+    {
+      "track": "The Black Angels — Black Grease",
+      "artist": "The Black Angels",
+      "title": "Black Grease",
+      "album": "Passover",
+      "uri": "spotify:track:2JGnH3D1ubBikQqGdlMURP",
+      "url": "https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 19:15:26Z",
+      "played_at_local": "2026-09-11 16:15:26 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — The Prodigal Sun",
+      "artist": "The Black Angels",
+      "title": "The Prodigal Sun",
+      "album": "Passover",
+      "uri": "spotify:track:4PIhPeqHOxWvZOBEcrLh1o",
+      "url": "https://open.spotify.com/track/4PIhPeqHOxWvZOBEcrLh1o",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 19:10:53Z",
+      "played_at_local": "2026-09-11 16:10:53 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — The Sniper At The Gates Of Heaven",
+      "artist": "The Black Angels",
+      "title": "The Sniper At The Gates Of Heaven",
+      "album": "Passover",
+      "uri": "spotify:track:5nBkvW38Lilarvhsqlgw9D",
+      "url": "https://open.spotify.com/track/5nBkvW38Lilarvhsqlgw9D",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 19:06:30Z",
+      "played_at_local": "2026-09-11 16:06:30 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — The First Vietnamese War",
+      "artist": "The Black Angels",
+      "title": "The First Vietnamese War",
+      "album": "Passover",
+      "uri": "spotify:track:7pKwlfZtq5kdLgWrLYUAXJ",
+      "url": "https://open.spotify.com/track/7pKwlfZtq5kdLgWrLYUAXJ",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 19:02:13Z",
+      "played_at_local": "2026-09-11 16:02:13 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — Young Men Dead",
+      "artist": "The Black Angels",
+      "title": "Young Men Dead",
+      "album": "Passover",
+      "uri": "spotify:track:2C7CRmiNGiyO8TSgAZwA2X",
+      "url": "https://open.spotify.com/track/2C7CRmiNGiyO8TSgAZwA2X",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:58:43Z",
+      "played_at_local": "2026-09-11 15:58:43 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — Black Grease",
+      "artist": "The Black Angels",
+      "title": "Black Grease",
+      "album": "Passover",
+      "uri": "spotify:track:2JGnH3D1ubBikQqGdlMURP",
+      "url": "https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:47:35Z",
+      "played_at_local": "2026-09-11 15:47:35 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Entrance Song",
+      "artist": "The Black Angels",
+      "title": "Entrance Song",
+      "album": "Phosphene Dream",
+      "uri": "spotify:track:0Bm4fjn2AeXeA1x12hoySt",
+      "url": "https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:43:07Z",
+      "played_at_local": "2026-09-11 15:43:07 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Manipulation",
+      "artist": "The Black Angels",
+      "title": "Manipulation",
+      "album": "Passover",
+      "uri": "spotify:track:1Ns4Wso4kehGOQANNEAmOq",
+      "url": "https://open.spotify.com/track/1Ns4Wso4kehGOQANNEAmOq",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:38:47Z",
+      "played_at_local": "2026-09-11 15:38:47 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — You On The Run",
+      "artist": "The Black Angels",
+      "title": "You On The Run",
+      "album": "Directions To See A Ghost",
+      "uri": "spotify:track:234S3ilGURAYBqEoXUoUua",
+      "url": "https://open.spotify.com/track/234S3ilGURAYBqEoXUoUua",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:33:01Z",
+      "played_at_local": "2026-09-11 15:33:01 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — The First Vietnamese War",
+      "artist": "The Black Angels",
+      "title": "The First Vietnamese War",
+      "album": "Passover",
+      "uri": "spotify:track:7pKwlfZtq5kdLgWrLYUAXJ",
+      "url": "https://open.spotify.com/track/7pKwlfZtq5kdLgWrLYUAXJ",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:28:12Z",
+      "played_at_local": "2026-09-11 15:28:12 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Bad Vibrations",
+      "artist": "The Black Angels",
+      "title": "Bad Vibrations",
+      "album": "Phosphene Dream",
+      "uri": "spotify:track:2JUgnLUDU6AsbOMHIFTcqB",
+      "url": "https://open.spotify.com/track/2JUgnLUDU6AsbOMHIFTcqB",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:24:45Z",
+      "played_at_local": "2026-09-11 15:24:45 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Bloodhounds On My Trail",
+      "artist": "The Black Angels",
+      "title": "Bloodhounds On My Trail",
+      "album": "Passover",
+      "uri": "spotify:track:31S5KQarwHycVouLuRisCv",
+      "url": "https://open.spotify.com/track/31S5KQarwHycVouLuRisCv",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:20:22Z",
+      "played_at_local": "2026-09-11 15:20:22 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Black Grease",
+      "artist": "The Black Angels",
+      "title": "Black Grease",
+      "album": "Passover",
+      "uri": "spotify:track:2JGnH3D1ubBikQqGdlMURP",
+      "url": "https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:16:27Z",
+      "played_at_local": "2026-09-11 15:16:27 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Entrance Song",
+      "artist": "The Black Angels",
+      "title": "Entrance Song",
+      "album": "Phosphene Dream",
+      "uri": "spotify:track:0Bm4fjn2AeXeA1x12hoySt",
+      "url": "https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:11:50Z",
+      "played_at_local": "2026-09-11 15:11:50 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "All Them Witches — Hold Up, Say What?",
+      "artist": "All Them Witches",
+      "title": "Hold Up, Say What?",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:3mCRtyxGMEYV2IHywJZGdd",
+      "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-11 18:04:13Z",
+      "played_at_local": "2026-09-11 15:04:13 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Aethernet",
+      "artist": "All Them Witches",
+      "title": "Aethernet",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:6CLkdeLmJx2BuVQsnO6vCW",
+      "url": "https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-11 18:00:08Z",
+      "played_at_local": "2026-09-11 15:00:08 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Culling Line",
+      "artist": "All Them Witches",
+      "title": "Culling Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
+      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-11 17:55:10Z",
+      "played_at_local": "2026-09-11 14:55:10 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-11 17:51:05Z",
+      "played_at_local": "2026-09-11 14:51:05 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "John Coltrane — Blue World",
+      "artist": "John Coltrane",
+      "title": "Blue World",
+      "album": "Blue World",
+      "uri": "spotify:track:0RHEzMQT9Vw9GvSdVA5TLC",
+      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC",
+      "artist_ids": [
+        "2hGh5VOeeqimQFxqXvfCUf"
+      ],
+      "played_at_utc": "2026-09-11 17:43:00Z",
+      "played_at_local": "2026-09-11 14:43:00 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-09-11 17:36:56Z",
+      "played_at_local": "2026-09-11 14:36:56 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-09-11 17:32:16Z",
+      "played_at_local": "2026-09-11 14:32:16 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "King Buffalo — Locusts",
+      "artist": "King Buffalo",
+      "title": "Locusts",
+      "album": "The Burden of Restlessness",
+      "uri": "spotify:track:105UzCP1C1laJEheyU2xp9",
+      "url": "https://open.spotify.com/track/105UzCP1C1laJEheyU2xp9",
+      "artist_ids": [
+        "06D0YfeNZgBA7XWQ79Y42R"
+      ],
+      "played_at_utc": "2026-09-07 07:43:50Z",
+      "played_at_local": "2026-09-07 04:43:50 -03",
+      "local_hour": 4,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "Mount Hush — Fuenf",
       "artist": "Mount Hush",

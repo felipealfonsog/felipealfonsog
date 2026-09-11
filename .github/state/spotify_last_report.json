@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-09-11 16:35:20Z",
+  "report_generated_utc": "2026-09-11 21:03:03Z",
   "status": "IDLE",
-  "last_track": "Mount Hush — Fuenf",
-  "last_played_utc": "2026-09-07 07:42:43Z",
+  "last_track": "The Black Angels — Black Grease",
+  "last_played_utc": "2026-09-11 19:15:26Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1792,9 +1792,417 @@
       "neo-psychedelic"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Mount Hush — Fuenf\nArtist                    : Mount Hush\nTitle                     : Fuenf\nAlbum                     : Mount Hush\nSpotify URI               : spotify:track:4rzaZliCPfeOQBtnNIcTN4\nSpotify URL               : https://open.spotify.com/track/4rzaZliCPfeOQBtnNIcTN4\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-07 07:42:43Z\nPlayed at (local)         : 2026-09-07 04:42:43 -03\nLocal hour                : 04:00\nDaypart                   : NIGHT\nTime since play           : 104:52:38\nGap from previous play    : 00:05:16\n------------------------------------------------------------\nPrevious song             : Black Lung — Demons\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 1\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Black Lung — Demons | 2026-09-07 04:37:27 -03\nPrevious track #2         : MASSIVE HASSLE — Chorus of the Dawn | 2026-09-07 04:31:41 -03\nPrevious track #3         : All Them Witches — Cowboy Kirk | 2026-09-07 04:27:36 -03\nPrevious track #4         : Lowrider — Into the Grey | 2026-09-06 23:51:38 -03\nPrevious track #5         : Wayside — Half Nelson | 2026-09-06 19:35:33 -03\nPrevious track #6         : Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions | 2026-09-06 19:21:28 -03\nPrevious track #7         : All Them Witches — 41 | 2026-09-06 19:17:17 -03\nPrevious track #8         : cloudyfield — in your head | 2026-09-06 19:11:37 -03\nPrevious track #9         : damnsonic — RETROGRADE | 2026-09-06 19:06:00 -03\nPrevious track #10        : All Them Witches — Red Rocking Chair | 2026-09-06 19:02:48 -03\nPrevious track #11        : All Them Witches — Red Rocking Chair | 2026-09-06 18:53:20 -03\nPrevious track #12        : All Them Witches — Red Rocking Chair | 2026-09-06 18:45:49 -03\nPrevious track #13        : All Them Witches — Cowboy Kirk | 2026-09-06 17:06:40 -03\nPrevious track #14        : Aunt Cynthia's Cabin — There's No Saving Cass | 2026-09-06 17:03:33 -03\nPrevious track #15        : Black Lung — Awaken | 2026-09-06 16:55:35 -03\nPrevious track #16        : GAUPA — Lion's Thorn | 2026-09-06 16:38:47 -03\nPrevious track #17        : All Them Witches — Saturnine & Iron Jaw | 2026-09-06 16:31:14 -03\nPrevious track #18        : All Them Witches — Saturn Song | 2026-09-06 16:24:28 -03\nPrevious track #19        : All Them Witches — The Welterweight | 2026-09-06 16:19:58 -03\nPrevious track #20        : All Them Witches — Angel On The Wayside | 2026-09-06 16:15:37 -03\nPrevious track #21        : All Them Witches — Turn On The Light | 2026-09-06 16:11:32 -03\nPrevious track #22        : All Them Witches — Starting Line | 2026-09-06 16:07:03 -03\nPrevious track #23        : All Them Witches — Culling Line | 2026-09-06 16:02:57 -03\nPrevious track #24        : All Them Witches — Red Rocking Chair | 2026-09-06 15:58:50 -03\nPrevious track #25        : All Them Witches — Hold Up, Say What? | 2026-09-06 15:51:07 -03\nPrevious track #26        : All Them Witches — Aethernet | 2026-09-06 15:46:26 -03\nPrevious track #27        : All Them Witches — Culling Line | 2026-09-06 15:41:28 -03\nPrevious track #28        : All Them Witches — Red Rocking Chair | 2026-09-06 15:37:24 -03\nPrevious track #29        : Sonny Rollins — St. Thomas | 2026-09-06 15:21:05 -03\nPrevious track #30        : Joe Henderson — Blue Bossa - Remastered | 2026-09-06 15:14:23 -03\nPrevious track #31        : Duke Ellington — In A Sentimental Mood | 2026-09-06 15:06:24 -03\nPrevious track #32        : Cannonball Adderley — Love For Sale | 2026-09-06 15:03:55 -03\nPrevious track #33        : Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering | 2026-09-06 14:56:54 -03\nPrevious track #34        : Joshua Redman Quartet — Sweet Sorrow | 2026-09-06 14:50:24 -03\nPrevious track #35        : John Coltrane Quartet — All Or Nothing At All | 2026-09-06 14:41:44 -03\nPrevious track #36        : Miles Davis Quintet — Trane's Blues | 2026-09-06 14:38:13 -03\nPrevious track #37        : Miles Davis — Jeru | 2026-09-06 14:29:45 -03\nPrevious track #38        : Kenny Garrett — Sing a Song of Song | 2026-09-06 14:26:35 -03\nPrevious track #39        : Cannonball Adderley — Autumn Leaves | 2026-09-06 14:19:17 -03\nPrevious track #40        : Yusef Lateef — Blues For The Orient - Remastered 2023 | 2026-09-06 14:08:21 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Felipe’s Heavy, Dark & Drenched in Sound\nContext observed (local)  : 2026-09-06 23:51:38 -03\nTrack observed in context : Lowrider — Into the Grey\nSpotify playlist URI      : spotify:playlist:3K1FROtbwczl5P33i8vw8d\nSpotify playlist URL      : https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #2      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-07 07:34:29Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 105\nUnique tracks             : 99\nUnique artists            : 43\nReplay ratio              : █░░░░░░░░░░░░░░░░░  5.7%\nArtist diversity          : ███████░░░░░░░░░░░  41.0%\nDominant artist           : All Them Witches\nDominant artist share     : ███░░░░░░░░░░░░░░░  17.1%\nArtist switch ratio       : ████████████████░░  86.5%\nLongest artist streak     : All Them Witches × 12\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    3.8%\nMorning    06–12           : ███████░░░░░░░░░░░   41.0%\nAfternoon  12–18           : ████████░░░░░░░░░░   46.7%\nEvening    18–24           : ██░░░░░░░░░░░░░░░░    8.6%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-06 10:36:06Z\nHistory last play (7d)    : 2026-09-07 07:42:43Z\nObserved time span        : 21:06:37\nMean inter-play gap       : 00:12:11\nMedian inter-play gap     : 00:05:59\nLongest inactivity gap    : 04:35:58\nListening intensity       : 4.97 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 08:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              :     ▃  ▅█▇█▆██▇▇▇▂▂▅   ▁\n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :       █\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁▂▂▁      ▂     ▁       █     \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :     █                   \nTue                       :                         \nWed                       :                         \nThu                       :                         \nFri                       :                         \nSat                       :                         \nSun                       :        ▅█▇█▆██▇▇▇▂▂▅   ▁\nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-04 16:35:20Z → 2026-09-11 16:35:20Z\nTracks played (7d)        : 105\nDominant artist           : All Them Witches\nCadence classification    : VERY HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 4\nAvg inter-play gap        : 00:12:11\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : jazz(77) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(42)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : NO CHANGE\nState transition          : NO CHANGE\nTelemetry interval        : 05:03:23\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 226\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-07 04:42:43 -03\nEvents (24h)              : 0\nEvents (7d)               : 105\nEvents (30d)              : 226\nPlaylist contexts retained: 88\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-11 16:35:20Z",
-  "last_successful_report_utc": "2026-09-11 16:35:20Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : The Black Angels — Black Grease\nArtist                    : The Black Angels\nTitle                     : Black Grease\nAlbum                     : Passover\nSpotify URI               : spotify:track:2JGnH3D1ubBikQqGdlMURP\nSpotify URL               : https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-11 19:15:26Z\nPlayed at (local)         : 2026-09-11 16:15:26 -03\nLocal hour                : 16:00\nDaypart                   : AFTERNOON\nTime since play           : 01:47:37\nGap from previous play    : 00:04:33\n------------------------------------------------------------\nPrevious song             : The Black Angels — The Prodigal Sun\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 4\nArtist plays (retained)   : 23\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03\nPrevious track #2         : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03\nPrevious track #3         : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03\nPrevious track #4         : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03\nPrevious track #5         : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03\nPrevious track #6         : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03\nPrevious track #7         : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03\nPrevious track #8         : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03\nPrevious track #9         : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03\nPrevious track #10        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03\nPrevious track #11        : The Black Angels — Bloodhounds On My Trail | 2026-09-11 15:20:22 -03\nPrevious track #12        : The Black Angels — Black Grease | 2026-09-11 15:16:27 -03\nPrevious track #13        : The Black Angels — Entrance Song | 2026-09-11 15:11:50 -03\nPrevious track #14        : All Them Witches — Hold Up, Say What? | 2026-09-11 15:04:13 -03\nPrevious track #15        : All Them Witches — Aethernet | 2026-09-11 15:00:08 -03\nPrevious track #16        : All Them Witches — Culling Line | 2026-09-11 14:55:10 -03\nPrevious track #17        : All Them Witches — Red Rocking Chair | 2026-09-11 14:51:05 -03\nPrevious track #18        : John Coltrane — Blue World | 2026-09-11 14:43:00 -03\nPrevious track #19        : Tomasz Stanko Quartet — Trista | 2026-09-11 14:36:56 -03\nPrevious track #20        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-11 14:32:16 -03\nPrevious track #21        : King Buffalo — Locusts | 2026-09-07 04:43:50 -03\nPrevious track #22        : Mount Hush — Fuenf | 2026-09-07 04:42:43 -03\nPrevious track #23        : Black Lung — Demons | 2026-09-07 04:37:27 -03\nPrevious track #24        : MASSIVE HASSLE — Chorus of the Dawn | 2026-09-07 04:31:41 -03\nPrevious track #25        : All Them Witches — Cowboy Kirk | 2026-09-07 04:27:36 -03\nPrevious track #26        : Lowrider — Into the Grey | 2026-09-06 23:51:38 -03\nPrevious track #27        : Wayside — Half Nelson | 2026-09-06 19:35:33 -03\nPrevious track #28        : Aunt Cynthia's Cabin — Magic Touch - Miramar Sessions | 2026-09-06 19:21:28 -03\nPrevious track #29        : All Them Witches — 41 | 2026-09-06 19:17:17 -03\nPrevious track #30        : cloudyfield — in your head | 2026-09-06 19:11:37 -03\nPrevious track #31        : damnsonic — RETROGRADE | 2026-09-06 19:06:00 -03\nPrevious track #32        : All Them Witches — Red Rocking Chair | 2026-09-06 19:02:48 -03\nPrevious track #33        : All Them Witches — Red Rocking Chair | 2026-09-06 18:53:20 -03\nPrevious track #34        : All Them Witches — Red Rocking Chair | 2026-09-06 18:45:49 -03\nPrevious track #35        : All Them Witches — Cowboy Kirk | 2026-09-06 17:06:40 -03\nPrevious track #36        : Aunt Cynthia's Cabin — There's No Saving Cass | 2026-09-06 17:03:33 -03\nPrevious track #37        : Black Lung — Awaken | 2026-09-06 16:55:35 -03\nPrevious track #38        : GAUPA — Lion's Thorn | 2026-09-06 16:38:47 -03\nPrevious track #39        : All Them Witches — Saturnine & Iron Jaw | 2026-09-06 16:31:14 -03\nPrevious track #40        : All Them Witches — Saturn Song | 2026-09-06 16:24:28 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-09-11 14:43:00 -03\nTrack observed in context : John Coltrane — Blue World\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #3      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-07 07:34:29Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 127\nUnique tracks             : 110\nUnique artists            : 44\nReplay ratio              : ██░░░░░░░░░░░░░░░░  13.4%\nArtist diversity          : ██████░░░░░░░░░░░░  34.6%\nDominant artist           : All Them Witches\nDominant artist share     : ███░░░░░░░░░░░░░░░  17.3%\nArtist switch ratio       : ██████████████░░░░  76.2%\nLongest artist streak     : The Black Angels × 14\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    3.9%\nMorning    06–12           : ██████░░░░░░░░░░░░   33.9%\nAfternoon  12–18           : ██████████░░░░░░░░   55.1%\nEvening    18–24           : █░░░░░░░░░░░░░░░░░    7.1%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-06 10:36:06Z\nHistory last play (7d)    : 2026-09-11 19:15:26Z\nObserved time span        : 128:39:20\nMean inter-play gap       : 01:01:16\nMedian inter-play gap     : 00:05:37\nLongest inactivity gap    : 105:48:26\nListening intensity       : 0.99 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 15:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :               ▃█▃       \nHeatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▂    \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :     ▂ █\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁▂▂▁      ▂     ▁       █    ▂\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :     █                   \nTue                       :                         \nWed                       :                         \nThu                       :                         \nFri                       :               ▃█▃       \nSat                       :                         \nSun                       :        ▅█▇█▆██▇▇▇▂▂▅   ▁\nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 21\nDominant artist           : The Black Angels\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-04 21:03:03Z → 2026-09-11 21:03:03Z\nTracks played (7d)        : 127\nDominant artist           : All Them Witches\nCadence classification    : VERY HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 5\nAvg inter-play gap        : 01:01:16\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : neo-psychedelic(18) | psychedelic rock(18) | space rock(18) | stoner rock(18) | acid rock(14) | garage rock(14)\nTop genres (7d)           : jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(46)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Mount Hush — Fuenf → The Black Angels — Black Grease\nPlayback timestamp Δ      : 2026-09-07 07:42:43Z → 2026-09-11 19:15:26Z\nState transition          : NO CHANGE\nTelemetry interval        : 04:27:43\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 248\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-11 16:15:26 -03\nEvents (24h)              : 21\nEvents (7d)               : 127\nEvents (30d)              : 248\nPlaylist contexts retained: 91\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-11 21:03:03Z",
+  "last_successful_report_utc": "2026-09-11 21:03:03Z",
   "recent_playback_history": [
+    {
+      "track": "The Black Angels — Black Grease",
+      "artist": "The Black Angels",
+      "title": "Black Grease",
+      "album": "Passover",
+      "uri": "spotify:track:2JGnH3D1ubBikQqGdlMURP",
+      "url": "https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 19:15:26Z",
+      "played_at_local": "2026-09-11 16:15:26 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — The Prodigal Sun",
+      "artist": "The Black Angels",
+      "title": "The Prodigal Sun",
+      "album": "Passover",
+      "uri": "spotify:track:4PIhPeqHOxWvZOBEcrLh1o",
+      "url": "https://open.spotify.com/track/4PIhPeqHOxWvZOBEcrLh1o",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 19:10:53Z",
+      "played_at_local": "2026-09-11 16:10:53 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — The Sniper At The Gates Of Heaven",
+      "artist": "The Black Angels",
+      "title": "The Sniper At The Gates Of Heaven",
+      "album": "Passover",
+      "uri": "spotify:track:5nBkvW38Lilarvhsqlgw9D",
+      "url": "https://open.spotify.com/track/5nBkvW38Lilarvhsqlgw9D",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 19:06:30Z",
+      "played_at_local": "2026-09-11 16:06:30 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — The First Vietnamese War",
+      "artist": "The Black Angels",
+      "title": "The First Vietnamese War",
+      "album": "Passover",
+      "uri": "spotify:track:7pKwlfZtq5kdLgWrLYUAXJ",
+      "url": "https://open.spotify.com/track/7pKwlfZtq5kdLgWrLYUAXJ",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 19:02:13Z",
+      "played_at_local": "2026-09-11 16:02:13 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — Young Men Dead",
+      "artist": "The Black Angels",
+      "title": "Young Men Dead",
+      "album": "Passover",
+      "uri": "spotify:track:2C7CRmiNGiyO8TSgAZwA2X",
+      "url": "https://open.spotify.com/track/2C7CRmiNGiyO8TSgAZwA2X",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:58:43Z",
+      "played_at_local": "2026-09-11 15:58:43 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
+    {
+      "track": "The Black Angels — Black Grease",
+      "artist": "The Black Angels",
+      "title": "Black Grease",
+      "album": "Passover",
+      "uri": "spotify:track:2JGnH3D1ubBikQqGdlMURP",
+      "url": "https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:47:35Z",
+      "played_at_local": "2026-09-11 15:47:35 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Entrance Song",
+      "artist": "The Black Angels",
+      "title": "Entrance Song",
+      "album": "Phosphene Dream",
+      "uri": "spotify:track:0Bm4fjn2AeXeA1x12hoySt",
+      "url": "https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:43:07Z",
+      "played_at_local": "2026-09-11 15:43:07 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Manipulation",
+      "artist": "The Black Angels",
+      "title": "Manipulation",
+      "album": "Passover",
+      "uri": "spotify:track:1Ns4Wso4kehGOQANNEAmOq",
+      "url": "https://open.spotify.com/track/1Ns4Wso4kehGOQANNEAmOq",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:38:47Z",
+      "played_at_local": "2026-09-11 15:38:47 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — You On The Run",
+      "artist": "The Black Angels",
+      "title": "You On The Run",
+      "album": "Directions To See A Ghost",
+      "uri": "spotify:track:234S3ilGURAYBqEoXUoUua",
+      "url": "https://open.spotify.com/track/234S3ilGURAYBqEoXUoUua",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:33:01Z",
+      "played_at_local": "2026-09-11 15:33:01 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — The First Vietnamese War",
+      "artist": "The Black Angels",
+      "title": "The First Vietnamese War",
+      "album": "Passover",
+      "uri": "spotify:track:7pKwlfZtq5kdLgWrLYUAXJ",
+      "url": "https://open.spotify.com/track/7pKwlfZtq5kdLgWrLYUAXJ",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:28:12Z",
+      "played_at_local": "2026-09-11 15:28:12 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Bad Vibrations",
+      "artist": "The Black Angels",
+      "title": "Bad Vibrations",
+      "album": "Phosphene Dream",
+      "uri": "spotify:track:2JUgnLUDU6AsbOMHIFTcqB",
+      "url": "https://open.spotify.com/track/2JUgnLUDU6AsbOMHIFTcqB",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:24:45Z",
+      "played_at_local": "2026-09-11 15:24:45 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Bloodhounds On My Trail",
+      "artist": "The Black Angels",
+      "title": "Bloodhounds On My Trail",
+      "album": "Passover",
+      "uri": "spotify:track:31S5KQarwHycVouLuRisCv",
+      "url": "https://open.spotify.com/track/31S5KQarwHycVouLuRisCv",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:20:22Z",
+      "played_at_local": "2026-09-11 15:20:22 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Black Grease",
+      "artist": "The Black Angels",
+      "title": "Black Grease",
+      "album": "Passover",
+      "uri": "spotify:track:2JGnH3D1ubBikQqGdlMURP",
+      "url": "https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:16:27Z",
+      "played_at_local": "2026-09-11 15:16:27 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "The Black Angels — Entrance Song",
+      "artist": "The Black Angels",
+      "title": "Entrance Song",
+      "album": "Phosphene Dream",
+      "uri": "spotify:track:0Bm4fjn2AeXeA1x12hoySt",
+      "url": "https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 18:11:50Z",
+      "played_at_local": "2026-09-11 15:11:50 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
+      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+    },
+    {
+      "track": "All Them Witches — Hold Up, Say What?",
+      "artist": "All Them Witches",
+      "title": "Hold Up, Say What?",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:3mCRtyxGMEYV2IHywJZGdd",
+      "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-11 18:04:13Z",
+      "played_at_local": "2026-09-11 15:04:13 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Aethernet",
+      "artist": "All Them Witches",
+      "title": "Aethernet",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:6CLkdeLmJx2BuVQsnO6vCW",
+      "url": "https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-11 18:00:08Z",
+      "played_at_local": "2026-09-11 15:00:08 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Culling Line",
+      "artist": "All Them Witches",
+      "title": "Culling Line",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
+      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-11 17:55:10Z",
+      "played_at_local": "2026-09-11 14:55:10 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-09-11 17:51:05Z",
+      "played_at_local": "2026-09-11 14:51:05 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
+    {
+      "track": "John Coltrane — Blue World",
+      "artist": "John Coltrane",
+      "title": "Blue World",
+      "album": "Blue World",
+      "uri": "spotify:track:0RHEzMQT9Vw9GvSdVA5TLC",
+      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC",
+      "artist_ids": [
+        "2hGh5VOeeqimQFxqXvfCUf"
+      ],
+      "played_at_utc": "2026-09-11 17:43:00Z",
+      "played_at_local": "2026-09-11 14:43:00 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-09-11 17:36:56Z",
+      "played_at_local": "2026-09-11 14:36:56 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-09-11 17:32:16Z",
+      "played_at_local": "2026-09-11 14:32:16 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "King Buffalo — Locusts",
+      "artist": "King Buffalo",
+      "title": "Locusts",
+      "album": "The Burden of Restlessness",
+      "uri": "spotify:track:105UzCP1C1laJEheyU2xp9",
+      "url": "https://open.spotify.com/track/105UzCP1C1laJEheyU2xp9",
+      "artist_ids": [
+        "06D0YfeNZgBA7XWQ79Y42R"
+      ],
+      "played_at_utc": "2026-09-07 07:43:50Z",
+      "played_at_local": "2026-09-07 04:43:50 -03",
+      "local_hour": 4,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "Mount Hush — Fuenf",
       "artist": "Mount Hush",
@@ -2160,450 +2568,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
       "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — The Welterweight",
-      "artist": "All Them Witches",
-      "title": "The Welterweight",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:1uoa1LCO8rImZN7lJUfpb0",
-      "url": "https://open.spotify.com/track/1uoa1LCO8rImZN7lJUfpb0",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 19:19:58Z",
-      "played_at_local": "2026-09-06 16:19:58 -03",
-      "local_hour": 16,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Angel On The Wayside",
-      "artist": "All Them Witches",
-      "title": "Angel On The Wayside",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:2guGrq8XtYcrmURQYPwMST",
-      "url": "https://open.spotify.com/track/2guGrq8XtYcrmURQYPwMST",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 19:15:37Z",
-      "played_at_local": "2026-09-06 16:15:37 -03",
-      "local_hour": 16,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Turn On The Light",
-      "artist": "All Them Witches",
-      "title": "Turn On The Light",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:30KvzNMHttB23DqYkbQmj4",
-      "url": "https://open.spotify.com/track/30KvzNMHttB23DqYkbQmj4",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 19:11:32Z",
-      "played_at_local": "2026-09-06 16:11:32 -03",
-      "local_hour": 16,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Starting Line",
-      "artist": "All Them Witches",
-      "title": "Starting Line",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:1ttPBlJzyj2eHSuLqzrs5F",
-      "url": "https://open.spotify.com/track/1ttPBlJzyj2eHSuLqzrs5F",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 19:07:03Z",
-      "played_at_local": "2026-09-06 16:07:03 -03",
-      "local_hour": 16,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Culling Line",
-      "artist": "All Them Witches",
-      "title": "Culling Line",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
-      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 19:02:57Z",
-      "played_at_local": "2026-09-06 16:02:57 -03",
-      "local_hour": 16,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Red Rocking Chair",
-      "artist": "All Them Witches",
-      "title": "Red Rocking Chair",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
-      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 18:58:50Z",
-      "played_at_local": "2026-09-06 15:58:50 -03",
-      "local_hour": 15,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Hold Up, Say What?",
-      "artist": "All Them Witches",
-      "title": "Hold Up, Say What?",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:3mCRtyxGMEYV2IHywJZGdd",
-      "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 18:51:07Z",
-      "played_at_local": "2026-09-06 15:51:07 -03",
-      "local_hour": 15,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Aethernet",
-      "artist": "All Them Witches",
-      "title": "Aethernet",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:6CLkdeLmJx2BuVQsnO6vCW",
-      "url": "https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 18:46:26Z",
-      "played_at_local": "2026-09-06 15:46:26 -03",
-      "local_hour": 15,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Culling Line",
-      "artist": "All Them Witches",
-      "title": "Culling Line",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
-      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 18:41:28Z",
-      "played_at_local": "2026-09-06 15:41:28 -03",
-      "local_hour": 15,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Red Rocking Chair",
-      "artist": "All Them Witches",
-      "title": "Red Rocking Chair",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
-      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-06 18:37:24Z",
-      "played_at_local": "2026-09-06 15:37:24 -03",
-      "local_hour": 15,
-      "weekday": 6,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "Sonny Rollins — St. Thomas",
-      "artist": "Sonny Rollins",
-      "title": "St. Thomas",
-      "album": "Saxophone Colossus",
-      "uri": "spotify:track:0zQE77yszbyv61M4NboU2u",
-      "url": "https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u",
-      "artist_ids": [
-        "1VEzN9lxvG6KPR3QQGsebR"
-      ],
-      "played_at_utc": "2026-09-06 18:21:05Z",
-      "played_at_local": "2026-09-06 15:21:05 -03",
-      "local_hour": 15,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Joe Henderson — Blue Bossa - Remastered",
-      "artist": "Joe Henderson",
-      "title": "Blue Bossa - Remastered",
-      "album": "Page One",
-      "uri": "spotify:track:6qqK0oeBRapZn8f9hJJENw",
-      "url": "https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw",
-      "artist_ids": [
-        "3BG0nwVh3Gc7cuT4XdsLtt"
-      ],
-      "played_at_utc": "2026-09-06 18:14:23Z",
-      "played_at_local": "2026-09-06 15:14:23 -03",
-      "local_hour": 15,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Duke Ellington — In A Sentimental Mood",
-      "artist": "Duke Ellington",
-      "title": "In A Sentimental Mood",
-      "album": "The Duke Plays Ellington",
-      "uri": "spotify:track:484SnsU9yGBsaHh9byM0AU",
-      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU",
-      "artist_ids": [
-        "4F7Q5NV6h5TSwCainz8S5A"
-      ],
-      "played_at_utc": "2026-09-06 18:06:24Z",
-      "played_at_local": "2026-09-06 15:06:24 -03",
-      "local_hour": 15,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Cannonball Adderley — Love For Sale",
-      "artist": "Cannonball Adderley",
-      "title": "Love For Sale",
-      "album": "Somethin' Else (Rudy Van Gelder Edition)",
-      "uri": "spotify:track:16Po3i2Kcsy74jz0lp6fdJ",
-      "url": "https://open.spotify.com/track/16Po3i2Kcsy74jz0lp6fdJ",
-      "artist_ids": [
-        "5v74mT11KGJqadf9sLw4dA"
-      ],
-      "played_at_utc": "2026-09-06 18:03:55Z",
-      "played_at_local": "2026-09-06 15:03:55 -03",
-      "local_hour": 15,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Wayne Shorter — 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering",
-      "artist": "Wayne Shorter",
-      "title": "502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering",
-      "album": "Adam's Apple (Rudy Van Gelder Edition)",
-      "uri": "spotify:track:0F8xfPspwyXxRjsiW12mya",
-      "url": "https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya",
-      "artist_ids": [
-        "0ZqhrTXYPA9DZR527ZnFdO"
-      ],
-      "played_at_utc": "2026-09-06 17:56:54Z",
-      "played_at_local": "2026-09-06 14:56:54 -03",
-      "local_hour": 14,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Joshua Redman Quartet — Sweet Sorrow",
-      "artist": "Joshua Redman Quartet",
-      "title": "Sweet Sorrow",
-      "album": "MoodSwing",
-      "uri": "spotify:track:0zkZ2DiZf6RAjDLdE0n6Os",
-      "url": "https://open.spotify.com/track/0zkZ2DiZf6RAjDLdE0n6Os",
-      "artist_ids": [
-        "53HPdlKWDIGFF4GvVrCtEV"
-      ],
-      "played_at_utc": "2026-09-06 17:50:24Z",
-      "played_at_local": "2026-09-06 14:50:24 -03",
-      "local_hour": 14,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "John Coltrane Quartet — All Or Nothing At All",
-      "artist": "John Coltrane Quartet",
-      "title": "All Or Nothing At All",
-      "album": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-      "uri": "spotify:track:34awem0NGNdHpLkTt3t1vI",
-      "url": "https://open.spotify.com/track/34awem0NGNdHpLkTt3t1vI",
-      "artist_ids": [
-        "67PZTxaHKMZBFRUh8wIzCy"
-      ],
-      "played_at_utc": "2026-09-06 17:41:44Z",
-      "played_at_local": "2026-09-06 14:41:44 -03",
-      "local_hour": 14,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Miles Davis Quintet — Trane's Blues",
-      "artist": "Miles Davis Quintet",
-      "title": "Trane's Blues",
-      "album": "Workin' With The Miles Davis Quintet",
-      "uri": "spotify:track:2jArAY0sRtdIN8r9oS0ryO",
-      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO",
-      "artist_ids": [
-        "71Ur25Abq58vksqJINpGdx"
-      ],
-      "played_at_utc": "2026-09-06 17:38:13Z",
-      "played_at_local": "2026-09-06 14:38:13 -03",
-      "local_hour": 14,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Miles Davis — Jeru",
-      "artist": "Miles Davis",
-      "title": "Jeru",
-      "album": "Birth Of The Cool",
-      "uri": "spotify:track:7o3lr6ptQ4qAP4uUl81zG1",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1",
-      "artist_ids": [
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "played_at_utc": "2026-09-06 17:29:45Z",
-      "played_at_local": "2026-09-06 14:29:45 -03",
-      "local_hour": 14,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Kenny Garrett — Sing a Song of Song",
-      "artist": "Kenny Garrett",
-      "title": "Sing a Song of Song",
-      "album": "Songbook",
-      "uri": "spotify:track:1YuCTj9wRtIPtIYZesNFjN",
-      "url": "https://open.spotify.com/track/1YuCTj9wRtIPtIYZesNFjN",
-      "artist_ids": [
-        "0Vz0vgVrclNJlHBLrgjklY"
-      ],
-      "played_at_utc": "2026-09-06 17:26:35Z",
-      "played_at_local": "2026-09-06 14:26:35 -03",
-      "local_hour": 14,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Cannonball Adderley — Autumn Leaves",
-      "artist": "Cannonball Adderley",
-      "title": "Autumn Leaves",
-      "album": "Somethin' Else (Rudy Van Gelder Edition)",
-      "uri": "spotify:track:0X5DcGkbxCXSadgj01ZXd7",
-      "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7",
-      "artist_ids": [
-        "5v74mT11KGJqadf9sLw4dA"
-      ],
-      "played_at_utc": "2026-09-06 17:19:17Z",
-      "played_at_local": "2026-09-06 14:19:17 -03",
-      "local_hour": 14,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Yusef Lateef — Blues For The Orient - Remastered 2023",
-      "artist": "Yusef Lateef",
-      "title": "Blues For The Orient - Remastered 2023",
-      "album": "Eastern Sounds (Remastered 2023)",
-      "uri": "spotify:track:52kjuCxWZaPS9cCurlr6gd",
-      "url": "https://open.spotify.com/track/52kjuCxWZaPS9cCurlr6gd",
-      "artist_ids": [
-        "33XkS6h90eeK7e6OJHw0mq"
-      ],
-      "played_at_utc": "2026-09-06 17:08:21Z",
-      "played_at_local": "2026-09-06 14:08:21 -03",
-      "local_hour": 14,
-      "weekday": 6,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
     }
   ],
   "last_known_device_type": "Computer",
@@ -2611,25 +2575,25 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-09-11 16:35:20Z",
-    "week_window_utc": "2026-09-04 16:35:20Z → 2026-09-11 16:35:20Z",
-    "tracks_24h": 0,
-    "tracks_7d": 105,
-    "dominant_artist_24h": "N/A",
+    "captured_utc": "2026-09-11 21:03:03Z",
+    "week_window_utc": "2026-09-04 21:03:03Z → 2026-09-11 21:03:03Z",
+    "tracks_24h": 21,
+    "tracks_7d": 127,
+    "dominant_artist_24h": "The Black Angels",
     "dominant_artist_7d": "All Them Witches",
-    "listening_pattern_24h": "No activity",
-    "activity_status_24h": "NONE",
+    "listening_pattern_24h": "Regular cadence",
+    "activity_status_24h": "MEDIUM",
     "cadence_7d": "VERY HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "N/A",
-    "peak_hour_7d": "08:00",
-    "heatmap_24h": "N/A",
-    "heatmap_7d": "    ▃  ▅█▇█▆██▇▇▇▂▂▅   ▁",
-    "sessions_24h": "N/A",
-    "sessions_7d": 4,
-    "avg_inter_play_gap_7d": "00:12:11",
-    "top_genres_24h": "N/A",
-    "top_genres_7d": "jazz(77) | cool jazz(67) | hard bop(65) | bebop(63) | jazz ballads(56) | free jazz(42)"
+    "peak_hour_24h": "15:00",
+    "peak_hour_7d": "15:00",
+    "heatmap_24h": "              ▃█▃       ",
+    "heatmap_7d": "    ▂  ▂▄▃▄▃▄▄▅█▅▁▁▂    ",
+    "sessions_24h": 1,
+    "sessions_7d": 5,
+    "avg_inter_play_gap_7d": "01:01:16",
+    "top_genres_24h": "neo-psychedelic(18) | psychedelic rock(18) | space rock(18) | stoner rock(18) | acid rock(14) | garage rock(14)",
+    "top_genres_7d": "jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(46)"
   },
   "last_known_device_captured_utc": "2026-09-07 07:34:29Z"
 }
