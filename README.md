@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-07 07:42:43Z
 Played at (local)         : 2026-09-07 04:42:43 -03
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 99:49:16
+Time since play           : 104:52:38
 Gap from previous play    : 00:05:16
 ------------------------------------------------------------
 Previous song             : Black Lung — Demons
@@ -1638,7 +1638,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-04 11:31:58Z → 2026-09-11 11:31:58Z
+Week window (UTC)         : 2026-09-04 16:35:20Z → 2026-09-11 16:35:20Z
 Tracks played (7d)        : 105
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
@@ -1661,7 +1661,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:42:04
+Telemetry interval        : 05:03:23
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1699,7 +1699,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-11 11:31:58Z
+Report generated (UTC)    : 2026-09-11 16:35:20Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
