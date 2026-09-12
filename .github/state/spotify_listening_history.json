@@ -1,8 +1,406 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-11 21:03:03Z",
+  "updated_utc": "2026-09-12 00:22:19Z",
   "events": [
+    {
+      "track": "Faith No More — Midlife Crisis",
+      "artist": "Faith No More",
+      "title": "Midlife Crisis",
+      "album": "Angel Dust (Deluxe Edition)",
+      "uri": "spotify:track:3Ph7fws05DvPwpn5CQHTBy",
+      "url": "https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:20:38Z",
+      "played_at_local": "2026-09-11 21:20:38 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — We Care a Lot",
+      "artist": "Faith No More",
+      "title": "We Care a Lot",
+      "album": "Introduce Yourself",
+      "uri": "spotify:track:2z1uVu3OwTmPlfqt5TWk5k",
+      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:16:17Z",
+      "played_at_local": "2026-09-11 21:16:17 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Ashes to Ashes - 2016 Remaster",
+      "artist": "Faith No More",
+      "title": "Ashes to Ashes - 2016 Remaster",
+      "album": "Album of the Year (2016 Remaster; Deluxe Edition)",
+      "uri": "spotify:track:0tZ9qh1m1NGP6rzSf57PGO",
+      "url": "https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:12:12Z",
+      "played_at_local": "2026-09-11 21:12:12 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Epic",
+      "artist": "Faith No More",
+      "title": "Epic",
+      "album": "The Real Thing",
+      "uri": "spotify:track:4ReyTz0y3TGkX48wO3Llot",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:08:35Z",
+      "played_at_local": "2026-09-11 21:08:35 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Easy",
+      "artist": "Faith No More",
+      "title": "Easy",
+      "album": "Angel Dust (Deluxe Edition)",
+      "uri": "spotify:track:4Y3WqmBWmG23thvU9xEhMv",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:03:41Z",
+      "played_at_local": "2026-09-11 21:03:41 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Linkin Park — Hit the Floor",
+      "artist": "Linkin Park",
+      "title": "Hit the Floor",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:4wHktoSf6C0C0fAO8IIWqs",
+      "url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-12 00:00:27Z",
+      "played_at_local": "2026-09-11 21:00:27 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Linkin Park — Lying from You",
+      "artist": "Linkin Park",
+      "title": "Lying from You",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:4qVR3CF8FuFvHN4L6vXlB1",
+      "url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-11 23:47:18Z",
+      "played_at_local": "2026-09-11 20:47:18 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Silverchair — Blind",
+      "artist": "Silverchair",
+      "title": "Blind",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:3OoZg5GIrewNd7kDTlgWPU",
+      "url": "https://open.spotify.com/track/3OoZg5GIrewNd7kDTlgWPU",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:43:02Z",
+      "played_at_local": "2026-09-11 20:43:02 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Tomorrow - Single Version",
+      "artist": "Silverchair",
+      "title": "Tomorrow - Single Version",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:1GiZpoUewBi4QIOixG6lk6",
+      "url": "https://open.spotify.com/track/1GiZpoUewBi4QIOixG6lk6",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:37:50Z",
+      "played_at_local": "2026-09-11 20:37:50 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Findaway",
+      "artist": "Silverchair",
+      "title": "Findaway",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:6pcyozjE7GDIbf4oN8ctLe",
+      "url": "https://open.spotify.com/track/6pcyozjE7GDIbf4oN8ctLe",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:33:28Z",
+      "played_at_local": "2026-09-11 20:33:28 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Cicada",
+      "artist": "Silverchair",
+      "title": "Cicada",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:6mJdEWVOaCayMo8eaSl3Xw",
+      "url": "https://open.spotify.com/track/6mJdEWVOaCayMo8eaSl3Xw",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:30:30Z",
+      "played_at_local": "2026-09-11 20:30:30 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Undecided",
+      "artist": "Silverchair",
+      "title": "Undecided",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:3Yhi0Tz3zAD5Q7OUekXsdz",
+      "url": "https://open.spotify.com/track/3Yhi0Tz3zAD5Q7OUekXsdz",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:25:20Z",
+      "played_at_local": "2026-09-11 20:25:20 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
+      "url": "https://open.spotify.com/track/66BwWfwHYkoGSi6iUUj98I",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:20:43Z",
+      "played_at_local": "2026-09-11 20:20:43 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
+      "url": "https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:18:00Z",
+      "played_at_local": "2026-09-11 20:18:00 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Leave Me Out",
+      "artist": "Silverchair",
+      "title": "Leave Me Out",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
+      "url": "https://open.spotify.com/track/1BDBs8P8JpqsuO9cWyfPlN",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:14:47Z",
+      "played_at_local": "2026-09-11 20:14:47 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Shade",
+      "artist": "Silverchair",
+      "title": "Shade",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
+      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:11:44Z",
+      "played_at_local": "2026-09-11 20:11:44 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Shade",
+      "artist": "Silverchair",
+      "title": "Shade",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
+      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:07:14Z",
+      "played_at_local": "2026-09-11 20:07:14 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Faultline",
+      "artist": "Silverchair",
+      "title": "Faultline",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:18ihvfYz6uiieilnfl4XCs",
+      "url": "https://open.spotify.com/track/18ihvfYz6uiieilnfl4XCs",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:05:38Z",
+      "played_at_local": "2026-09-11 20:05:38 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Tomorrow",
+      "artist": "Silverchair",
+      "title": "Tomorrow",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:24tO365YW6lcZr1hN4Ukzj",
+      "url": "https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 23:01:19Z",
+      "played_at_local": "2026-09-11 20:01:19 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
+      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-11 22:56:53Z",
+      "played_at_local": "2026-09-11 19:56:53 -03",
+      "local_hour": 19,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "The Black Angels — Manipulation",
+      "artist": "The Black Angels",
+      "title": "Manipulation",
+      "album": "Passover",
+      "uri": "spotify:track:1Ns4Wso4kehGOQANNEAmOq",
+      "url": "https://open.spotify.com/track/1Ns4Wso4kehGOQANNEAmOq",
+      "artist_ids": [
+        "0VNWuGf8SMVU2AerpdhMbP"
+      ],
+      "played_at_utc": "2026-09-11 19:19:02Z",
+      "played_at_local": "2026-09-11 16:19:02 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
+      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
+    },
     {
       "track": "The Black Angels — Black Grease",
       "artist": "The Black Angels",
@@ -4835,6 +5233,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-12 00:22:19Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "ONLINE (idle session)",
+      "device_type": "CastAudio",
+      "device_name": "GNest-MerkleTree speaker",
+      "volume_percent": 80,
+      "volume_telemetry": "IDLE (session present, no playback)"
+    },
     {
       "captured_utc": "2026-09-07 12:45:25Z",
       "is_playing": false,
