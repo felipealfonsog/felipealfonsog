@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-12 01:51:56Z
 Played at (local)         : 2026-09-11 22:51:56 -03
 Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 13:45:21
+Time since play           : 16:36:50
 Gap from previous play    : 01:03:24
 ------------------------------------------------------------
 Previous song             : Faith No More — We Care a Lot
@@ -1610,7 +1610,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :               ▃▇▃  ▁█▇▁ 
+Heatmap (24h)             :                ▃▃  ▁█▇▁ 
 Heatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1633,14 +1633,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 48
-Dominant artist           : The Black Angels
+Tracks played (last 24h)  : 36
+Dominant artist           : Silverchair
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-05 15:37:16Z → 2026-09-12 15:37:16Z
+Week window (UTC)         : 2026-09-05 18:28:46Z → 2026-09-12 18:28:46Z
 Tracks played (7d)        : 154
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
@@ -1654,7 +1654,7 @@ Avg inter-play gap        : 00:53:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(24) | neo-psychedelic(19) | psychedelic rock(19) | space rock(19) | stoner rock(19) | acid rock(15)
+Top genres (24h)          : grunge(24) | alternative metal(13) | post-grunge(13) | rap metal(13) | funk rock(11) | acid rock(10)
 Top genres (7d)           : jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(47)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1663,16 +1663,16 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:40:47
+Telemetry interval        : 02:51:30
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 275
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-11 22:51:56 -03
-Events (24h)              : 48
+Events (24h)              : 36
 Events (7d)               : 154
-Events (30d)              : 275
+Events (30d)              : 265
 Playlist contexts retained: 102
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-12 15:37:16Z
+Report generated (UTC)    : 2026-09-12 18:28:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
