@@ -1,8 +1,140 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-12 00:22:19Z",
+  "updated_utc": "2026-09-12 04:45:52Z",
   "events": [
+    {
+      "track": "Faith No More — Midlife Crisis",
+      "artist": "Faith No More",
+      "title": "Midlife Crisis",
+      "album": "Angel Dust (Deluxe Edition)",
+      "uri": "spotify:track:3Ph7fws05DvPwpn5CQHTBy",
+      "url": "https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 01:51:56Z",
+      "played_at_local": "2026-09-11 22:51:56 -03",
+      "local_hour": 22,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — We Care a Lot",
+      "artist": "Faith No More",
+      "title": "We Care a Lot",
+      "album": "Introduce Yourself",
+      "uri": "spotify:track:2z1uVu3OwTmPlfqt5TWk5k",
+      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:48:32Z",
+      "played_at_local": "2026-09-11 21:48:32 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Ashes to Ashes - 2016 Remaster",
+      "artist": "Faith No More",
+      "title": "Ashes to Ashes - 2016 Remaster",
+      "album": "Album of the Year (2016 Remaster; Deluxe Edition)",
+      "uri": "spotify:track:0tZ9qh1m1NGP6rzSf57PGO",
+      "url": "https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:44:28Z",
+      "played_at_local": "2026-09-11 21:44:28 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Epic",
+      "artist": "Faith No More",
+      "title": "Epic",
+      "album": "The Real Thing",
+      "uri": "spotify:track:4ReyTz0y3TGkX48wO3Llot",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:40:51Z",
+      "played_at_local": "2026-09-11 21:40:51 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Easy",
+      "artist": "Faith No More",
+      "title": "Easy",
+      "album": "Angel Dust (Deluxe Edition)",
+      "uri": "spotify:track:4Y3WqmBWmG23thvU9xEhMv",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:35:57Z",
+      "played_at_local": "2026-09-11 21:35:57 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Falling to Pieces",
+      "artist": "Faith No More",
+      "title": "Falling to Pieces",
+      "album": "The Real Thing",
+      "uri": "spotify:track:20nb0Wl1yqoEERbUSILuG1",
+      "url": "https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:30:12Z",
+      "played_at_local": "2026-09-11 21:30:12 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
     {
       "track": "Faith No More — Midlife Crisis",
       "artist": "Faith No More",
@@ -5233,6 +5365,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-12 04:45:52Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-09-12 00:22:19Z",
       "is_playing": false,

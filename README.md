@@ -1495,67 +1495,67 @@ Album                     : Angel Dust (Deluxe Edition)
 Spotify URI               : spotify:track:3Ph7fws05DvPwpn5CQHTBy
 Spotify URL               : https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-12 00:20:38Z
-Played at (local)         : 2026-09-11 21:20:38 -03
-Local hour                : 21:00
+Played at (UTC)           : 2026-09-12 01:51:56Z
+Played at (local)         : 2026-09-11 22:51:56 -03
+Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 00:01:41
-Gap from previous play    : 00:04:21
+Time since play           : 02:53:56
+Gap from previous play    : 01:03:24
 ------------------------------------------------------------
 Previous song             : Faith No More — We Care a Lot
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 1
-Artist plays (retained)   : 5
+Track plays (retained)    : 2
+Artist plays (retained)   : 11
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03
-Previous track #2         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03
-Previous track #3         : Faith No More — Epic | 2026-09-11 21:08:35 -03
-Previous track #4         : Faith No More — Easy | 2026-09-11 21:03:41 -03
-Previous track #5         : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03
-Previous track #6         : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03
-Previous track #7         : Silverchair — Blind | 2026-09-11 20:43:02 -03
-Previous track #8         : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03
-Previous track #9         : Silverchair — Findaway | 2026-09-11 20:33:28 -03
-Previous track #10        : Silverchair — Cicada | 2026-09-11 20:30:30 -03
-Previous track #11        : Silverchair — Undecided | 2026-09-11 20:25:20 -03
-Previous track #12        : Silverchair — Madman | 2026-09-11 20:20:43 -03
-Previous track #13        : Silverchair — Suicidal Dream | 2026-09-11 20:18:00 -03
-Previous track #14        : Silverchair — Leave Me Out | 2026-09-11 20:14:47 -03
-Previous track #15        : Silverchair — Shade | 2026-09-11 20:11:44 -03
-Previous track #16        : Silverchair — Shade | 2026-09-11 20:07:14 -03
-Previous track #17        : Silverchair — Faultline | 2026-09-11 20:05:38 -03
-Previous track #18        : Silverchair — Tomorrow | 2026-09-11 20:01:19 -03
-Previous track #19        : Silverchair — Israel's Son | 2026-09-11 19:56:53 -03
-Previous track #20        : The Black Angels — Manipulation | 2026-09-11 16:19:02 -03
-Previous track #21        : The Black Angels — Black Grease | 2026-09-11 16:15:26 -03
-Previous track #22        : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03
-Previous track #23        : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03
-Previous track #24        : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03
-Previous track #25        : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03
-Previous track #26        : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03
-Previous track #27        : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03
-Previous track #28        : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03
-Previous track #29        : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03
-Previous track #30        : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03
-Previous track #31        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03
-Previous track #32        : The Black Angels — Bloodhounds On My Trail | 2026-09-11 15:20:22 -03
-Previous track #33        : The Black Angels — Black Grease | 2026-09-11 15:16:27 -03
-Previous track #34        : The Black Angels — Entrance Song | 2026-09-11 15:11:50 -03
-Previous track #35        : All Them Witches — Hold Up, Say What? | 2026-09-11 15:04:13 -03
-Previous track #36        : All Them Witches — Aethernet | 2026-09-11 15:00:08 -03
-Previous track #37        : All Them Witches — Culling Line | 2026-09-11 14:55:10 -03
-Previous track #38        : All Them Witches — Red Rocking Chair | 2026-09-11 14:51:05 -03
-Previous track #39        : John Coltrane — Blue World | 2026-09-11 14:43:00 -03
-Previous track #40        : Tomasz Stanko Quartet — Trista | 2026-09-11 14:36:56 -03
+Previous track #1         : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03
+Previous track #2         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03
+Previous track #3         : Faith No More — Epic | 2026-09-11 21:40:51 -03
+Previous track #4         : Faith No More — Easy | 2026-09-11 21:35:57 -03
+Previous track #5         : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03
+Previous track #6         : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03
+Previous track #7         : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03
+Previous track #8         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03
+Previous track #9         : Faith No More — Epic | 2026-09-11 21:08:35 -03
+Previous track #10        : Faith No More — Easy | 2026-09-11 21:03:41 -03
+Previous track #11        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03
+Previous track #12        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03
+Previous track #13        : Silverchair — Blind | 2026-09-11 20:43:02 -03
+Previous track #14        : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03
+Previous track #15        : Silverchair — Findaway | 2026-09-11 20:33:28 -03
+Previous track #16        : Silverchair — Cicada | 2026-09-11 20:30:30 -03
+Previous track #17        : Silverchair — Undecided | 2026-09-11 20:25:20 -03
+Previous track #18        : Silverchair — Madman | 2026-09-11 20:20:43 -03
+Previous track #19        : Silverchair — Suicidal Dream | 2026-09-11 20:18:00 -03
+Previous track #20        : Silverchair — Leave Me Out | 2026-09-11 20:14:47 -03
+Previous track #21        : Silverchair — Shade | 2026-09-11 20:11:44 -03
+Previous track #22        : Silverchair — Shade | 2026-09-11 20:07:14 -03
+Previous track #23        : Silverchair — Faultline | 2026-09-11 20:05:38 -03
+Previous track #24        : Silverchair — Tomorrow | 2026-09-11 20:01:19 -03
+Previous track #25        : Silverchair — Israel's Son | 2026-09-11 19:56:53 -03
+Previous track #26        : The Black Angels — Manipulation | 2026-09-11 16:19:02 -03
+Previous track #27        : The Black Angels — Black Grease | 2026-09-11 16:15:26 -03
+Previous track #28        : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03
+Previous track #29        : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03
+Previous track #30        : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03
+Previous track #31        : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03
+Previous track #32        : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03
+Previous track #33        : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03
+Previous track #34        : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03
+Previous track #35        : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03
+Previous track #36        : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03
+Previous track #37        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03
+Previous track #38        : The Black Angels — Bloodhounds On My Trail | 2026-09-11 15:20:22 -03
+Previous track #39        : The Black Angels — Black Grease | 2026-09-11 15:16:27 -03
+Previous track #40        : The Black Angels — Entrance Song | 2026-09-11 15:11:50 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : N/A
-Context observed (local)  : 2026-09-11 21:20:38 -03
+Context observed (local)  : 2026-09-11 22:51:56 -03
 Track observed in context : Faith No More — Midlife Crisis
 Spotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm
 Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm
@@ -1577,47 +1577,47 @@ Context observed (UTC)    : 2026-09-12 00:22:19Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 148
-Unique tracks             : 129
+Observed events           : 154
+Unique tracks             : 130
 Unique artists            : 47
-Replay ratio              : ██░░░░░░░░░░░░░░░░  12.8%
-Artist diversity          : ██████░░░░░░░░░░░░  31.8%
+Replay ratio              : ███░░░░░░░░░░░░░░░  15.6%
+Artist diversity          : █████░░░░░░░░░░░░░  30.5%
 Dominant artist           : All Them Witches
-Dominant artist share     : ███░░░░░░░░░░░░░░░  14.9%
-Artist switch ratio       : ████████████░░░░░░  67.3%
+Dominant artist share     : ███░░░░░░░░░░░░░░░  14.3%
+Artist switch ratio       : ████████████░░░░░░  64.7%
 Longest artist streak     : The Black Angels × 15
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    3.4%
-Morning    06–12           : █████░░░░░░░░░░░░░   29.1%
-Afternoon  12–18           : █████████░░░░░░░░░   48.0%
-Evening    18–24           : ████░░░░░░░░░░░░░░   19.6%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    3.2%
+Morning    06–12           : █████░░░░░░░░░░░░░   27.9%
+Afternoon  12–18           : ████████░░░░░░░░░░   46.1%
+Evening    18–24           : ████░░░░░░░░░░░░░░   22.7%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-06 10:36:06Z
-History last play (7d)    : 2026-09-12 00:20:38Z
-Observed time span        : 133:44:32
-Mean inter-play gap       : 00:54:35
+History last play (7d)    : 2026-09-12 01:51:56Z
+Observed time span        : 135:15:50
+Mean inter-play gap       : 00:53:03
 Median inter-play gap     : 00:05:10
 Longest inactivity gap    : 105:48:26
-Listening intensity       : 1.11 tracks/hour
+Listening intensity       : 1.14 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :               ▃▇▃  ▁█▄  
-Heatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▂  
+Heatmap (24h)             :               ▃▇▃  ▁█▇▁ 
+Heatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :     ▃ █
+Activity (Mon→Sun)        :     ▄ █
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁▂▂▁      ▂     ▁       █    ▃
+Activity trend (30d)      : ▂▂▁      ▂     ▁       █    ▄ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1626,63 +1626,63 @@ Mon                       :     █
 Tue                       :                         
 Wed                       :                         
 Thu                       :                         
-Fri                       :               ▃▇▃  ▁█▄  
+Fri                       :               ▃▇▃  ▁█▇▁ 
 Sat                       :                         
 Sun                       :        ▅█▇█▆██▇▇▇▂▂▅   ▁
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 42
+Tracks played (last 24h)  : 48
 Dominant artist           : The Black Angels
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-05 00:22:19Z → 2026-09-12 00:22:19Z
-Tracks played (7d)        : 148
+Week window (UTC)         : 2026-09-05 04:45:52Z → 2026-09-12 04:45:52Z
+Tracks played (7d)        : 154
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 6
-Avg inter-play gap        : 00:54:35
+Sessions (24h)            : 3
+Sessions (7d)             : 7
+Avg inter-play gap        : 00:53:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : neo-psychedelic(19) | psychedelic rock(19) | space rock(19) | stoner rock(19) | grunge(18) | acid rock(15)
+Top genres (24h)          : grunge(24) | neo-psychedelic(19) | psychedelic rock(19) | space rock(19) | stoner rock(19) | acid rock(15)
 Top genres (7d)           : jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(47)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : The Black Angels — Black Grease → Faith No More — Midlife Crisis
-Playback timestamp Δ      : 2026-09-11 19:15:26Z → 2026-09-12 00:20:38Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : 2026-09-12 00:20:38Z → 2026-09-12 01:51:56Z
 State transition          : NO CHANGE
-Telemetry interval        : 03:19:16
+Telemetry interval        : 04:23:33
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 269
+Events retained           : 275
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-11 21:20:38 -03
-Events (24h)              : 42
-Events (7d)               : 148
-Events (30d)              : 269
-Playlist contexts retained: 96
+Newest retained event     : 2026-09-11 22:51:56 -03
+Events (24h)              : 48
+Events (7d)               : 154
+Events (30d)              : 275
+Playlist contexts retained: 102
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-12 00:22:19Z
+Report generated (UTC)    : 2026-09-12 04:45:52Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

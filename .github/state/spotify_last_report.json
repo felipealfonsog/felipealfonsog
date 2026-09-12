@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-09-12 00:22:19Z",
+  "report_generated_utc": "2026-09-12 04:45:52Z",
   "status": "IDLE",
   "last_track": "Faith No More — Midlife Crisis",
-  "last_played_utc": "2026-09-12 00:20:38Z",
+  "last_played_utc": "2026-09-12 01:51:56Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1792,9 +1792,141 @@
       "neo-psychedelic"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Faith No More — Midlife Crisis\nArtist                    : Faith No More\nTitle                     : Midlife Crisis\nAlbum                     : Angel Dust (Deluxe Edition)\nSpotify URI               : spotify:track:3Ph7fws05DvPwpn5CQHTBy\nSpotify URL               : https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-12 00:20:38Z\nPlayed at (local)         : 2026-09-11 21:20:38 -03\nLocal hour                : 21:00\nDaypart                   : EVENING\nTime since play           : 00:01:41\nGap from previous play    : 00:04:21\n------------------------------------------------------------\nPrevious song             : Faith No More — We Care a Lot\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 5\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03\nPrevious track #2         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03\nPrevious track #3         : Faith No More — Epic | 2026-09-11 21:08:35 -03\nPrevious track #4         : Faith No More — Easy | 2026-09-11 21:03:41 -03\nPrevious track #5         : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03\nPrevious track #6         : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03\nPrevious track #7         : Silverchair — Blind | 2026-09-11 20:43:02 -03\nPrevious track #8         : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03\nPrevious track #9         : Silverchair — Findaway | 2026-09-11 20:33:28 -03\nPrevious track #10        : Silverchair — Cicada | 2026-09-11 20:30:30 -03\nPrevious track #11        : Silverchair — Undecided | 2026-09-11 20:25:20 -03\nPrevious track #12        : Silverchair — Madman | 2026-09-11 20:20:43 -03\nPrevious track #13        : Silverchair — Suicidal Dream | 2026-09-11 20:18:00 -03\nPrevious track #14        : Silverchair — Leave Me Out | 2026-09-11 20:14:47 -03\nPrevious track #15        : Silverchair — Shade | 2026-09-11 20:11:44 -03\nPrevious track #16        : Silverchair — Shade | 2026-09-11 20:07:14 -03\nPrevious track #17        : Silverchair — Faultline | 2026-09-11 20:05:38 -03\nPrevious track #18        : Silverchair — Tomorrow | 2026-09-11 20:01:19 -03\nPrevious track #19        : Silverchair — Israel's Son | 2026-09-11 19:56:53 -03\nPrevious track #20        : The Black Angels — Manipulation | 2026-09-11 16:19:02 -03\nPrevious track #21        : The Black Angels — Black Grease | 2026-09-11 16:15:26 -03\nPrevious track #22        : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03\nPrevious track #23        : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03\nPrevious track #24        : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03\nPrevious track #25        : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03\nPrevious track #26        : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03\nPrevious track #27        : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03\nPrevious track #28        : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03\nPrevious track #29        : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03\nPrevious track #30        : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03\nPrevious track #31        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03\nPrevious track #32        : The Black Angels — Bloodhounds On My Trail | 2026-09-11 15:20:22 -03\nPrevious track #33        : The Black Angels — Black Grease | 2026-09-11 15:16:27 -03\nPrevious track #34        : The Black Angels — Entrance Song | 2026-09-11 15:11:50 -03\nPrevious track #35        : All Them Witches — Hold Up, Say What? | 2026-09-11 15:04:13 -03\nPrevious track #36        : All Them Witches — Aethernet | 2026-09-11 15:00:08 -03\nPrevious track #37        : All Them Witches — Culling Line | 2026-09-11 14:55:10 -03\nPrevious track #38        : All Them Witches — Red Rocking Chair | 2026-09-11 14:51:05 -03\nPrevious track #39        : John Coltrane — Blue World | 2026-09-11 14:43:00 -03\nPrevious track #40        : Tomasz Stanko Quartet — Trista | 2026-09-11 14:36:56 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-09-11 21:20:38 -03\nTrack observed in context : Faith No More — Midlife Crisis\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #2      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #4      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #5      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : CastAudio\nLast known device name    : GNest-MerkleTree speaker\nLast known volume         : 80%\nVolume telemetry          : IDLE (session present, no playback)\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇\nContext observed (UTC)    : 2026-09-12 00:22:19Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 148\nUnique tracks             : 129\nUnique artists            : 47\nReplay ratio              : ██░░░░░░░░░░░░░░░░  12.8%\nArtist diversity          : ██████░░░░░░░░░░░░  31.8%\nDominant artist           : All Them Witches\nDominant artist share     : ███░░░░░░░░░░░░░░░  14.9%\nArtist switch ratio       : ████████████░░░░░░  67.3%\nLongest artist streak     : The Black Angels × 15\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    3.4%\nMorning    06–12           : █████░░░░░░░░░░░░░   29.1%\nAfternoon  12–18           : █████████░░░░░░░░░   48.0%\nEvening    18–24           : ████░░░░░░░░░░░░░░   19.6%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-06 10:36:06Z\nHistory last play (7d)    : 2026-09-12 00:20:38Z\nObserved time span        : 133:44:32\nMean inter-play gap       : 00:54:35\nMedian inter-play gap     : 00:05:10\nLongest inactivity gap    : 105:48:26\nListening intensity       : 1.11 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 20:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :               ▃▇▃  ▁█▄  \nHeatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▂  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :     ▃ █\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁▂▂▁      ▂     ▁       █    ▃\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :     █                   \nTue                       :                         \nWed                       :                         \nThu                       :                         \nFri                       :               ▃▇▃  ▁█▄  \nSat                       :                         \nSun                       :        ▅█▇█▆██▇▇▇▂▂▅   ▁\nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 42\nDominant artist           : The Black Angels\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-05 00:22:19Z → 2026-09-12 00:22:19Z\nTracks played (7d)        : 148\nDominant artist           : All Them Witches\nCadence classification    : VERY HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 2\nSessions (7d)             : 6\nAvg inter-play gap        : 00:54:35\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : neo-psychedelic(19) | psychedelic rock(19) | space rock(19) | stoner rock(19) | grunge(18) | acid rock(15)\nTop genres (7d)           : jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(47)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : The Black Angels — Black Grease → Faith No More — Midlife Crisis\nPlayback timestamp Δ      : 2026-09-11 19:15:26Z → 2026-09-12 00:20:38Z\nState transition          : NO CHANGE\nTelemetry interval        : 03:19:16\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 269\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-11 21:20:38 -03\nEvents (24h)              : 42\nEvents (7d)               : 148\nEvents (30d)              : 269\nPlaylist contexts retained: 96\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-12 00:22:19Z",
-  "last_successful_report_utc": "2026-09-12 00:22:19Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Faith No More — Midlife Crisis\nArtist                    : Faith No More\nTitle                     : Midlife Crisis\nAlbum                     : Angel Dust (Deluxe Edition)\nSpotify URI               : spotify:track:3Ph7fws05DvPwpn5CQHTBy\nSpotify URL               : https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-12 01:51:56Z\nPlayed at (local)         : 2026-09-11 22:51:56 -03\nLocal hour                : 22:00\nDaypart                   : EVENING\nTime since play           : 02:53:56\nGap from previous play    : 01:03:24\n------------------------------------------------------------\nPrevious song             : Faith No More — We Care a Lot\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 2\nArtist plays (retained)   : 11\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03\nPrevious track #2         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03\nPrevious track #3         : Faith No More — Epic | 2026-09-11 21:40:51 -03\nPrevious track #4         : Faith No More — Easy | 2026-09-11 21:35:57 -03\nPrevious track #5         : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03\nPrevious track #6         : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03\nPrevious track #7         : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03\nPrevious track #8         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03\nPrevious track #9         : Faith No More — Epic | 2026-09-11 21:08:35 -03\nPrevious track #10        : Faith No More — Easy | 2026-09-11 21:03:41 -03\nPrevious track #11        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03\nPrevious track #12        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03\nPrevious track #13        : Silverchair — Blind | 2026-09-11 20:43:02 -03\nPrevious track #14        : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03\nPrevious track #15        : Silverchair — Findaway | 2026-09-11 20:33:28 -03\nPrevious track #16        : Silverchair — Cicada | 2026-09-11 20:30:30 -03\nPrevious track #17        : Silverchair — Undecided | 2026-09-11 20:25:20 -03\nPrevious track #18        : Silverchair — Madman | 2026-09-11 20:20:43 -03\nPrevious track #19        : Silverchair — Suicidal Dream | 2026-09-11 20:18:00 -03\nPrevious track #20        : Silverchair — Leave Me Out | 2026-09-11 20:14:47 -03\nPrevious track #21        : Silverchair — Shade | 2026-09-11 20:11:44 -03\nPrevious track #22        : Silverchair — Shade | 2026-09-11 20:07:14 -03\nPrevious track #23        : Silverchair — Faultline | 2026-09-11 20:05:38 -03\nPrevious track #24        : Silverchair — Tomorrow | 2026-09-11 20:01:19 -03\nPrevious track #25        : Silverchair — Israel's Son | 2026-09-11 19:56:53 -03\nPrevious track #26        : The Black Angels — Manipulation | 2026-09-11 16:19:02 -03\nPrevious track #27        : The Black Angels — Black Grease | 2026-09-11 16:15:26 -03\nPrevious track #28        : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03\nPrevious track #29        : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03\nPrevious track #30        : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03\nPrevious track #31        : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03\nPrevious track #32        : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03\nPrevious track #33        : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03\nPrevious track #34        : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03\nPrevious track #35        : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03\nPrevious track #36        : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03\nPrevious track #37        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03\nPrevious track #38        : The Black Angels — Bloodhounds On My Trail | 2026-09-11 15:20:22 -03\nPrevious track #39        : The Black Angels — Black Grease | 2026-09-11 15:16:27 -03\nPrevious track #40        : The Black Angels — Entrance Song | 2026-09-11 15:11:50 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-09-11 22:51:56 -03\nTrack observed in context : Faith No More — Midlife Crisis\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #2      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #4      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #5      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : CastAudio\nLast known device name    : GNest-MerkleTree speaker\nLast known volume         : 80%\nVolume telemetry          : IDLE (session present, no playback)\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇\nContext observed (UTC)    : 2026-09-12 00:22:19Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 154\nUnique tracks             : 130\nUnique artists            : 47\nReplay ratio              : ███░░░░░░░░░░░░░░░  15.6%\nArtist diversity          : █████░░░░░░░░░░░░░  30.5%\nDominant artist           : All Them Witches\nDominant artist share     : ███░░░░░░░░░░░░░░░  14.3%\nArtist switch ratio       : ████████████░░░░░░  64.7%\nLongest artist streak     : The Black Angels × 15\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    3.2%\nMorning    06–12           : █████░░░░░░░░░░░░░   27.9%\nAfternoon  12–18           : ████████░░░░░░░░░░   46.1%\nEvening    18–24           : ████░░░░░░░░░░░░░░   22.7%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-06 10:36:06Z\nHistory last play (7d)    : 2026-09-12 01:51:56Z\nObserved time span        : 135:15:50\nMean inter-play gap       : 00:53:03\nMedian inter-play gap     : 00:05:10\nLongest inactivity gap    : 105:48:26\nListening intensity       : 1.14 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 20:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :               ▃▇▃  ▁█▇▁ \nHeatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▄  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :     ▄ █\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▂▂▁      ▂     ▁       █    ▄ \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :     █                   \nTue                       :                         \nWed                       :                         \nThu                       :                         \nFri                       :               ▃▇▃  ▁█▇▁ \nSat                       :                         \nSun                       :        ▅█▇█▆██▇▇▇▂▂▅   ▁\nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 48\nDominant artist           : The Black Angels\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-05 04:45:52Z → 2026-09-12 04:45:52Z\nTracks played (7d)        : 154\nDominant artist           : All Them Witches\nCadence classification    : VERY HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 7\nAvg inter-play gap        : 00:53:03\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(24) | neo-psychedelic(19) | psychedelic rock(19) | space rock(19) | stoner rock(19) | acid rock(15)\nTop genres (7d)           : jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(47)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : 2026-09-12 00:20:38Z → 2026-09-12 01:51:56Z\nState transition          : NO CHANGE\nTelemetry interval        : 04:23:33\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 275\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-11 22:51:56 -03\nEvents (24h)              : 48\nEvents (7d)               : 154\nEvents (30d)              : 275\nPlaylist contexts retained: 102\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-12 04:45:52Z",
+  "last_successful_report_utc": "2026-09-12 04:45:52Z",
   "recent_playback_history": [
+    {
+      "track": "Faith No More — Midlife Crisis",
+      "artist": "Faith No More",
+      "title": "Midlife Crisis",
+      "album": "Angel Dust (Deluxe Edition)",
+      "uri": "spotify:track:3Ph7fws05DvPwpn5CQHTBy",
+      "url": "https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 01:51:56Z",
+      "played_at_local": "2026-09-11 22:51:56 -03",
+      "local_hour": 22,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — We Care a Lot",
+      "artist": "Faith No More",
+      "title": "We Care a Lot",
+      "album": "Introduce Yourself",
+      "uri": "spotify:track:2z1uVu3OwTmPlfqt5TWk5k",
+      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:48:32Z",
+      "played_at_local": "2026-09-11 21:48:32 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Ashes to Ashes - 2016 Remaster",
+      "artist": "Faith No More",
+      "title": "Ashes to Ashes - 2016 Remaster",
+      "album": "Album of the Year (2016 Remaster; Deluxe Edition)",
+      "uri": "spotify:track:0tZ9qh1m1NGP6rzSf57PGO",
+      "url": "https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:44:28Z",
+      "played_at_local": "2026-09-11 21:44:28 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Epic",
+      "artist": "Faith No More",
+      "title": "Epic",
+      "album": "The Real Thing",
+      "uri": "spotify:track:4ReyTz0y3TGkX48wO3Llot",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:40:51Z",
+      "played_at_local": "2026-09-11 21:40:51 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Easy",
+      "artist": "Faith No More",
+      "title": "Easy",
+      "album": "Angel Dust (Deluxe Edition)",
+      "uri": "spotify:track:4Y3WqmBWmG23thvU9xEhMv",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:35:57Z",
+      "played_at_local": "2026-09-11 21:35:57 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Falling to Pieces",
+      "artist": "Faith No More",
+      "title": "Falling to Pieces",
+      "album": "The Real Thing",
+      "uri": "spotify:track:20nb0Wl1yqoEERbUSILuG1",
+      "url": "https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-12 00:30:12Z",
+      "played_at_local": "2026-09-11 21:30:12 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
     {
       "track": "Faith No More — Midlife Crisis",
       "artist": "Faith No More",
@@ -2444,122 +2576,6 @@
       "context_type": "artist",
       "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
       "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
-    },
-    {
-      "track": "All Them Witches — Hold Up, Say What?",
-      "artist": "All Them Witches",
-      "title": "Hold Up, Say What?",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:3mCRtyxGMEYV2IHywJZGdd",
-      "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-11 18:04:13Z",
-      "played_at_local": "2026-09-11 15:04:13 -03",
-      "local_hour": 15,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Aethernet",
-      "artist": "All Them Witches",
-      "title": "Aethernet",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:6CLkdeLmJx2BuVQsnO6vCW",
-      "url": "https://open.spotify.com/track/6CLkdeLmJx2BuVQsnO6vCW",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-11 18:00:08Z",
-      "played_at_local": "2026-09-11 15:00:08 -03",
-      "local_hour": 15,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Culling Line",
-      "artist": "All Them Witches",
-      "title": "Culling Line",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0KXeBmgbQWEmjG46IlHRWv",
-      "url": "https://open.spotify.com/track/0KXeBmgbQWEmjG46IlHRWv",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-11 17:55:10Z",
-      "played_at_local": "2026-09-11 14:55:10 -03",
-      "local_hour": 14,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "All Them Witches — Red Rocking Chair",
-      "artist": "All Them Witches",
-      "title": "Red Rocking Chair",
-      "album": "House Of Mirrors",
-      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
-      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
-      "artist_ids": [
-        "29Wmfm1CojrjQ3aQP0FI65"
-      ],
-      "played_at_utc": "2026-09-11 17:51:05Z",
-      "played_at_local": "2026-09-11 14:51:05 -03",
-      "local_hour": 14,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
-      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
-    },
-    {
-      "track": "John Coltrane — Blue World",
-      "artist": "John Coltrane",
-      "title": "Blue World",
-      "album": "Blue World",
-      "uri": "spotify:track:0RHEzMQT9Vw9GvSdVA5TLC",
-      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC",
-      "artist_ids": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "played_at_utc": "2026-09-11 17:43:00Z",
-      "played_at_local": "2026-09-11 14:43:00 -03",
-      "local_hour": 14,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Tomasz Stanko Quartet — Trista",
-      "artist": "Tomasz Stanko Quartet",
-      "title": "Trista",
-      "album": "Lontano",
-      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
-      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
-      "artist_ids": [
-        "1sP0KjKWioXmkh9vUKb1fP"
-      ],
-      "played_at_utc": "2026-09-11 17:36:56Z",
-      "played_at_local": "2026-09-11 14:36:56 -03",
-      "local_hour": 14,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
     }
   ],
   "last_known_device_type": "CastAudio",
@@ -2567,10 +2583,10 @@
   "last_known_volume_percent": 80,
   "last_known_volume_telemetry": "IDLE (session present, no playback)",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-09-12 00:22:19Z",
-    "week_window_utc": "2026-09-05 00:22:19Z → 2026-09-12 00:22:19Z",
-    "tracks_24h": 42,
-    "tracks_7d": 148,
+    "captured_utc": "2026-09-12 04:45:52Z",
+    "week_window_utc": "2026-09-05 04:45:52Z → 2026-09-12 04:45:52Z",
+    "tracks_24h": 48,
+    "tracks_7d": 154,
     "dominant_artist_24h": "The Black Angels",
     "dominant_artist_7d": "All Them Witches",
     "listening_pattern_24h": "Sustained operational tempo",
@@ -2579,12 +2595,12 @@
     "local_timezone": "America/Santiago",
     "peak_hour_24h": "20:00",
     "peak_hour_7d": "15:00",
-    "heatmap_24h": "              ▃▇▃  ▁█▄  ",
-    "heatmap_7d": "    ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▂  ",
-    "sessions_24h": 2,
-    "sessions_7d": 6,
-    "avg_inter_play_gap_7d": "00:54:35",
-    "top_genres_24h": "neo-psychedelic(19) | psychedelic rock(19) | space rock(19) | stoner rock(19) | grunge(18) | acid rock(15)",
+    "heatmap_24h": "              ▃▇▃  ▁█▇▁ ",
+    "heatmap_7d": "    ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▄  ",
+    "sessions_24h": 3,
+    "sessions_7d": 7,
+    "avg_inter_play_gap_7d": "00:53:03",
+    "top_genres_24h": "grunge(24) | neo-psychedelic(19) | psychedelic rock(19) | space rock(19) | stoner rock(19) | acid rock(15)",
     "top_genres_7d": "jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(47)"
   },
   "last_known_device_captured_utc": "2026-09-12 00:22:19Z"
