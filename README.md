@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-12 01:51:56Z
 Played at (local)         : 2026-09-11 22:51:56 -03
 Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 02:53:56
+Time since play           : 09:04:35
 Gap from previous play    : 01:03:24
 ------------------------------------------------------------
 Previous song             : Faith No More — We Care a Lot
@@ -1640,7 +1640,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-05 04:45:52Z → 2026-09-12 04:45:52Z
+Week window (UTC)         : 2026-09-05 10:56:30Z → 2026-09-12 10:56:30Z
 Tracks played (7d)        : 154
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
@@ -1661,9 +1661,9 @@ Artist lookups (this run) : 0 (cached)
 CHANGE TELEMETRY
 ------------------------------------------------------------
 Track transition          : NO CHANGE
-Playback timestamp Δ      : 2026-09-12 00:20:38Z → 2026-09-12 01:51:56Z
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:23:33
+Telemetry interval        : 06:10:39
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-12 04:45:52Z
+Report generated (UTC)    : 2026-09-12 10:56:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
