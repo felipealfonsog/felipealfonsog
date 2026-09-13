@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-13 05:10:02Z
 Played at (local)         : 2026-09-13 02:10:02 -03
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 06:52:03
+Time since play           : 11:16:41
 Gap from previous play    : 00:05:14
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Killing In The Name
@@ -1577,33 +1577,33 @@ Context observed (UTC)    : 2026-09-12 00:22:19Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 141
-Unique tracks             : 120
-Unique artists            : 43
-Replay ratio              : ███░░░░░░░░░░░░░░░  14.9%
-Artist diversity          : █████░░░░░░░░░░░░░  30.5%
+Observed events           : 100
+Unique tracks             : 79
+Unique artists            : 32
+Replay ratio              : ████░░░░░░░░░░░░░░  21.0%
+Artist diversity          : ██████░░░░░░░░░░░░  32.0%
 Dominant artist           : All Them Witches
-Dominant artist share     : ███░░░░░░░░░░░░░░░  15.6%
-Artist switch ratio       : ███████████░░░░░░░  60.0%
+Dominant artist share     : ████░░░░░░░░░░░░░░  22.0%
+Artist switch ratio       : ████████░░░░░░░░░░  43.4%
 Longest artist streak     : The Black Angels × 15
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    5.7%
-Morning    06–12           : ███░░░░░░░░░░░░░░░   19.1%
-Afternoon  12–18           : █████████░░░░░░░░░   50.4%
-Evening    18–24           : ████░░░░░░░░░░░░░░   24.8%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    8.0%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
+Afternoon  12–18           : ██████████░░░░░░░░   57.0%
+Evening    18–24           : ██████░░░░░░░░░░░░   35.0%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-06 12:08:19Z
+History first play (7d)   : 2026-09-06 16:32:17Z
 History last play (7d)    : 2026-09-13 05:10:02Z
-Observed time span        : 161:01:43
-Mean inter-play gap       : 01:09:01
-Median inter-play gap     : 00:05:13
+Observed time span        : 156:37:45
+Mean inter-play gap       : 01:34:56
+Median inter-play gap     : 00:04:41
 Longest inactivity gap    : 105:48:26
-Listening intensity       : 0.88 tracks/hour
+Listening intensity       : 0.64 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1611,11 +1611,11 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 02:00
 Peak hour (7d)            : 15:00
 Heatmap (24h)             :  ▄█                     
-Heatmap (7d)              :   ▁ ▂    ▃▄▃▄▄▅█▅▁▁▃▅▄  
+Heatmap (7d)              :   ▁ ▂        ▂▅█▅▁▁▃▅▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :     ▄ █
+Activity (Mon→Sun)        : ▁   █ █
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      : ▂▁      ▂     ▁       █    ▄  
 Trend order               : oldest → newest
@@ -1628,7 +1628,7 @@ Wed                       :
 Thu                       :                         
 Fri                       :               ▃▇▃  ▁█▇▁ 
 Sat                       :                         
-Sun                       :  ▁▂      ▇█▆██▇▇▇▂▂▅   ▁
+Sun                       :  ▁▂          ▅███▂▂▅   ▁
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
@@ -1640,8 +1640,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-06 12:02:05Z → 2026-09-13 12:02:05Z
-Tracks played (7d)        : 141
+Week window (UTC)         : 2026-09-06 16:26:43Z → 2026-09-13 16:26:43Z
+Tracks played (7d)        : 100
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
 ------------------------------------------------------------
@@ -1650,20 +1650,20 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap        : 01:09:01
+Avg inter-play gap        : 01:34:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(3) | nu metal(3) | rap metal(3) | rap rock(3)
-Top genres (7d)           : jazz(66) | cool jazz(57) | hard bop(56) | bebop(54) | jazz ballads(48) | stoner rock(46)
+Top genres (7d)           : stoner rock(46) | space rock(45) | psychedelic rock(44) | neo-psychedelic(40) | stoner metal(31) | sludge metal(27)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Rage Against The Machine — Bombtrack → Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993
-Playback timestamp Δ      : 2026-09-13 04:49:58Z → 2026-09-13 05:10:02Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:04:59
+Telemetry interval        : 04:24:38
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1671,7 +1671,7 @@ Events retained           : 278
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-13 02:10:02 -03
 Events (24h)              : 3
-Events (7d)               : 141
+Events (7d)               : 100
 Events (30d)              : 266
 Playlist contexts retained: 102
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-13 12:02:05Z
+Report generated (UTC)    : 2026-09-13 16:26:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
