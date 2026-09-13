@@ -1488,69 +1488,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Rage Against The Machine — Bombtrack
+Track                     : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993
 Artist                    : Rage Against The Machine
-Title                     : Bombtrack
+Title                     : Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993
 Album                     : Rage Against The Machine - XX (20th Anniversary Special Edition)
-Spotify URI               : spotify:track:2rBHnIxbhkMGLpqmsNX91M
-Spotify URL               : https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M
+Spotify URI               : spotify:track:3Vec0PnlBMjRRgHLmqKY7H
+Spotify URL               : https://open.spotify.com/track/3Vec0PnlBMjRRgHLmqKY7H
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-13 04:49:58Z
-Played at (local)         : 2026-09-13 01:49:58 -03
-Local hour                : 01:00
+Played at (UTC)           : 2026-09-13 05:10:02Z
+Played at (local)         : 2026-09-13 02:10:02 -03
+Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 00:07:09
-Gap from previous play    : 26:58:02
+Time since play           : 06:52:03
+Gap from previous play    : 00:05:14
 ------------------------------------------------------------
-Previous song             : Faith No More — Midlife Crisis
-Same artist as previous   : NO
+Previous song             : Rage Against The Machine — Killing In The Name
+Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 1
+Artist plays (retained)   : 3
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03
-Previous track #2         : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03
-Previous track #3         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03
-Previous track #4         : Faith No More — Epic | 2026-09-11 21:40:51 -03
-Previous track #5         : Faith No More — Easy | 2026-09-11 21:35:57 -03
-Previous track #6         : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03
-Previous track #7         : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03
-Previous track #8         : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03
-Previous track #9         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03
-Previous track #10        : Faith No More — Epic | 2026-09-11 21:08:35 -03
-Previous track #11        : Faith No More — Easy | 2026-09-11 21:03:41 -03
-Previous track #12        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03
-Previous track #13        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03
-Previous track #14        : Silverchair — Blind | 2026-09-11 20:43:02 -03
-Previous track #15        : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03
-Previous track #16        : Silverchair — Findaway | 2026-09-11 20:33:28 -03
-Previous track #17        : Silverchair — Cicada | 2026-09-11 20:30:30 -03
-Previous track #18        : Silverchair — Undecided | 2026-09-11 20:25:20 -03
-Previous track #19        : Silverchair — Madman | 2026-09-11 20:20:43 -03
-Previous track #20        : Silverchair — Suicidal Dream | 2026-09-11 20:18:00 -03
-Previous track #21        : Silverchair — Leave Me Out | 2026-09-11 20:14:47 -03
-Previous track #22        : Silverchair — Shade | 2026-09-11 20:11:44 -03
-Previous track #23        : Silverchair — Shade | 2026-09-11 20:07:14 -03
-Previous track #24        : Silverchair — Faultline | 2026-09-11 20:05:38 -03
-Previous track #25        : Silverchair — Tomorrow | 2026-09-11 20:01:19 -03
-Previous track #26        : Silverchair — Israel's Son | 2026-09-11 19:56:53 -03
-Previous track #27        : The Black Angels — Manipulation | 2026-09-11 16:19:02 -03
-Previous track #28        : The Black Angels — Black Grease | 2026-09-11 16:15:26 -03
-Previous track #29        : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03
-Previous track #30        : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03
-Previous track #31        : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03
-Previous track #32        : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03
-Previous track #33        : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03
-Previous track #34        : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03
-Previous track #35        : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03
-Previous track #36        : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03
-Previous track #37        : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03
-Previous track #38        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03
-Previous track #39        : The Black Angels — Bloodhounds On My Trail | 2026-09-11 15:20:22 -03
-Previous track #40        : The Black Angels — Black Grease | 2026-09-11 15:16:27 -03
+Previous track #1         : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03
+Previous track #2         : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03
+Previous track #3         : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03
+Previous track #4         : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03
+Previous track #5         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03
+Previous track #6         : Faith No More — Epic | 2026-09-11 21:40:51 -03
+Previous track #7         : Faith No More — Easy | 2026-09-11 21:35:57 -03
+Previous track #8         : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03
+Previous track #9         : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03
+Previous track #10        : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03
+Previous track #11        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03
+Previous track #12        : Faith No More — Epic | 2026-09-11 21:08:35 -03
+Previous track #13        : Faith No More — Easy | 2026-09-11 21:03:41 -03
+Previous track #14        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03
+Previous track #15        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03
+Previous track #16        : Silverchair — Blind | 2026-09-11 20:43:02 -03
+Previous track #17        : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03
+Previous track #18        : Silverchair — Findaway | 2026-09-11 20:33:28 -03
+Previous track #19        : Silverchair — Cicada | 2026-09-11 20:30:30 -03
+Previous track #20        : Silverchair — Undecided | 2026-09-11 20:25:20 -03
+Previous track #21        : Silverchair — Madman | 2026-09-11 20:20:43 -03
+Previous track #22        : Silverchair — Suicidal Dream | 2026-09-11 20:18:00 -03
+Previous track #23        : Silverchair — Leave Me Out | 2026-09-11 20:14:47 -03
+Previous track #24        : Silverchair — Shade | 2026-09-11 20:11:44 -03
+Previous track #25        : Silverchair — Shade | 2026-09-11 20:07:14 -03
+Previous track #26        : Silverchair — Faultline | 2026-09-11 20:05:38 -03
+Previous track #27        : Silverchair — Tomorrow | 2026-09-11 20:01:19 -03
+Previous track #28        : Silverchair — Israel's Son | 2026-09-11 19:56:53 -03
+Previous track #29        : The Black Angels — Manipulation | 2026-09-11 16:19:02 -03
+Previous track #30        : The Black Angels — Black Grease | 2026-09-11 16:15:26 -03
+Previous track #31        : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03
+Previous track #32        : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03
+Previous track #33        : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03
+Previous track #34        : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03
+Previous track #35        : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03
+Previous track #36        : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03
+Previous track #37        : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03
+Previous track #38        : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03
+Previous track #39        : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03
+Previous track #40        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1577,41 +1577,41 @@ Context observed (UTC)    : 2026-09-12 00:22:19Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 155
-Unique tracks             : 131
-Unique artists            : 48
-Replay ratio              : ███░░░░░░░░░░░░░░░  15.5%
-Artist diversity          : ██████░░░░░░░░░░░░  31.0%
+Observed events           : 141
+Unique tracks             : 120
+Unique artists            : 43
+Replay ratio              : ███░░░░░░░░░░░░░░░  14.9%
+Artist diversity          : █████░░░░░░░░░░░░░  30.5%
 Dominant artist           : All Them Witches
-Dominant artist share     : ███░░░░░░░░░░░░░░░  14.2%
-Artist switch ratio       : ████████████░░░░░░  64.9%
+Dominant artist share     : ███░░░░░░░░░░░░░░░  15.6%
+Artist switch ratio       : ███████████░░░░░░░  60.0%
 Longest artist streak     : The Black Angels × 15
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    3.9%
-Morning    06–12           : █████░░░░░░░░░░░░░   27.7%
-Afternoon  12–18           : ████████░░░░░░░░░░   45.8%
-Evening    18–24           : ████░░░░░░░░░░░░░░   22.6%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    5.7%
+Morning    06–12           : ███░░░░░░░░░░░░░░░   19.1%
+Afternoon  12–18           : █████████░░░░░░░░░   50.4%
+Evening    18–24           : ████░░░░░░░░░░░░░░   24.8%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-06 10:36:06Z
-History last play (7d)    : 2026-09-13 04:49:58Z
-Observed time span        : 162:13:52
-Mean inter-play gap       : 01:03:12
-Median inter-play gap     : 00:05:10
+History first play (7d)   : 2026-09-06 12:08:19Z
+History last play (7d)    : 2026-09-13 05:10:02Z
+Observed time span        : 161:01:43
+Mean inter-play gap       : 01:09:01
+Median inter-play gap     : 00:05:13
 Longest inactivity gap    : 105:48:26
-Listening intensity       : 0.96 tracks/hour
+Listening intensity       : 0.88 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 01:00
+Peak hour (24h)           : 02:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :  █                      
-Heatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▄  
+Heatmap (24h)             :  ▄█                     
+Heatmap (7d)              :   ▁ ▂    ▃▄▃▄▄▅█▅▁▁▃▅▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
@@ -1628,20 +1628,20 @@ Wed                       :
 Thu                       :                         
 Fri                       :               ▃▇▃  ▁█▇▁ 
 Sat                       :                         
-Sun                       :  ▁     ▅█▇█▆██▇▇▇▂▂▅   ▁
+Sun                       :  ▁▂      ▇█▆██▇▇▇▂▂▅   ▁
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 3
 Dominant artist           : Rage Against The Machine
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-06 04:57:06Z → 2026-09-13 04:57:06Z
-Tracks played (7d)        : 155
+Week window (UTC)         : 2026-09-06 12:02:05Z → 2026-09-13 12:02:05Z
+Tracks played (7d)        : 141
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
 ------------------------------------------------------------
@@ -1650,29 +1650,29 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap        : 01:03:12
+Avg inter-play gap        : 01:09:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | nu metal(1) | rap metal(1) | rap rock(1)
-Top genres (7d)           : jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(47)
+Top genres (24h)          : alternative metal(3) | nu metal(3) | rap metal(3) | rap rock(3)
+Top genres (7d)           : jazz(66) | cool jazz(57) | hard bop(56) | bebop(54) | jazz ballads(48) | stoner rock(46)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Faith No More — Midlife Crisis → Rage Against The Machine — Bombtrack
-Playback timestamp Δ      : 2026-09-12 01:51:56Z → 2026-09-13 04:49:58Z
+Track transition          : Rage Against The Machine — Bombtrack → Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993
+Playback timestamp Δ      : 2026-09-13 04:49:58Z → 2026-09-13 05:10:02Z
 State transition          : NO CHANGE
-Telemetry interval        : 06:33:39
+Telemetry interval        : 07:04:59
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 276
+Events retained           : 278
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-13 01:49:58 -03
-Events (24h)              : 1
-Events (7d)               : 155
-Events (30d)              : 264
+Newest retained event     : 2026-09-13 02:10:02 -03
+Events (24h)              : 3
+Events (7d)               : 141
+Events (30d)              : 266
 Playlist contexts retained: 102
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-13 04:57:06Z
+Report generated (UTC)    : 2026-09-13 12:02:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

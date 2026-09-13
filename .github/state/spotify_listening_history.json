@@ -1,8 +1,44 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-13 04:57:06Z",
+  "updated_utc": "2026-09-13 12:02:05Z",
   "events": [
+    {
+      "track": "Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993",
+      "artist": "Rage Against The Machine",
+      "title": "Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:3Vec0PnlBMjRRgHLmqKY7H",
+      "url": "https://open.spotify.com/track/3Vec0PnlBMjRRgHLmqKY7H",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-13 05:10:02Z",
+      "played_at_local": "2026-09-13 02:10:02 -03",
+      "local_hour": 2,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Killing In The Name",
+      "artist": "Rage Against The Machine",
+      "title": "Killing In The Name",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:59WN2psjkt1tyaxjspN8fp",
+      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-13 05:04:48Z",
+      "played_at_local": "2026-09-13 02:04:48 -03",
+      "local_hour": 2,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
     {
       "track": "Rage Against The Machine — Bombtrack",
       "artist": "Rage Against The Machine",
