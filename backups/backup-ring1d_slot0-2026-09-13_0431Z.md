@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-09-12_0418Z
+ snapshot_utc : 2026-09-13_0431Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -533,7 +533,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-09-11T20:53:33+00:00 | last_update=2026-09-11T20:53:33+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-09-12T20:28:45+00:00 | last_update=2026-09-12T20:28:45+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -703,23 +703,23 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 237 ms
-TTFB................ 237 ms
+LATENCY............. 643 ms
+TTFB................ 642 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 51d
+TLS_EXPIRY.......... 50d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
 ASN_HINT............ CLOUDFLARE
-HEADER_HYGIENE...... PARTIAL
-HSTS................ PASS
+HEADER_HYGIENE...... WEAK
+HSTS................ MISS
 CSP................. MISS
-XFO................. PASS
-REFPOL.............. PASS
-PERMPOL............. PASS
+XFO................. MISS
+REFPOL.............. MISS
+PERMPOL............. MISS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
 TOR_BROWSER_COMPAT.. PASS
@@ -735,10 +735,10 @@ VIEWS_24H........... 1284
 VIEWS_7D............ 6882
 UNIQUES_24H......... 402
 BOT_RATIO........... 11.8%
-CACHE_SIGNAL........ UNKNOWN
-CONTENT_LENGTH...... 14 KB
+CACHE_SIGNAL........ ACTIVE
+CONTENT_LENGTH...... 4 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-11T07:56:17Z
+LAST_PROBE_UTC...... 2026-09-12T07:49:15Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -778,19 +778,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.441764
-longitude      : -70.654063
-altitude       : 136 m
-gps_accuracy   : ±4.9 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : stationary
+location       : pedestrian_axis
+latitude       : -33.437669
+longitude      : -70.646574
+altitude       : 147 m
+gps_accuracy   : ±4.5 m
+heading        : 213°
+speed          : 0.7 km/h
+status         : resting
 phase          : overnight
-local_time     : 23:08
+local_time     : 23:04
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-09-12 02:08:26 UTC
+updated_utc    : 2026-09-13 02:04:26 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -909,7 +909,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-09-11 21:01:54Z
+DSN snapshot (UTC)       : 2026-09-12 20:38:23Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -920,15 +920,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.70e9 km | 171.762 AU
-Heliocentric distance    : 171.731 AU
-Relative speed           : 44.466 km/s
+Earth distance           : 25.70e9 km | 171.786 AU
+Heliocentric distance    : 171.740 AU
+Relative speed           : 44.476 km/s
 ------------------------------------------------------------
-One-way light time       : 23:48:30
-Round-trip latency       : 47:37:01
+One-way light time       : 23:48:42
+Round-trip latency       : 47:37:24
 ------------------------------------------------------------
-Δ distance (since last)  : +659,928 km
-Mission age              : 49 years, 18 days
+Δ distance (since last)  : +743,301 km
+Mission age              : 49 years, 19 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -939,19 +939,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.47e9 km | 143.505 AU
-Heliocentric distance    : 143.919 AU
-Relative speed           : 40.106 km/s
+Earth distance           : 21.47e9 km | 143.525 AU
+Heliocentric distance    : 143.928 AU
+Relative speed           : 40.184 km/s
 ------------------------------------------------------------
-One-way light time       : 19:53:30
-Round-trip latency       : 39:47:00
+One-way light time       : 19:53:40
+Round-trip latency       : 39:47:20
 ------------------------------------------------------------
-Δ distance (since last)  : +561,633 km
-Mission age              : 49 years, 34 days
+Δ distance (since last)  : +636,517 km
+Mission age              : 49 years, 35 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-09-11 21:02:00Z
+Report generated (UTC)   : 2026-09-12 20:38:26Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1502,67 +1502,67 @@ Album                     : Angel Dust (Deluxe Edition)
 Spotify URI               : spotify:track:3Ph7fws05DvPwpn5CQHTBy
 Spotify URL               : https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-12 00:20:38Z
-Played at (local)         : 2026-09-11 21:20:38 -03
-Local hour                : 21:00
+Played at (UTC)           : 2026-09-12 01:51:56Z
+Played at (local)         : 2026-09-11 22:51:56 -03
+Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 00:01:41
-Gap from previous play    : 00:04:21
+Time since play           : 20:31:32
+Gap from previous play    : 01:03:24
 ------------------------------------------------------------
 Previous song             : Faith No More — We Care a Lot
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 1
-Artist plays (retained)   : 5
+Track plays (retained)    : 2
+Artist plays (retained)   : 11
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03
-Previous track #2         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03
-Previous track #3         : Faith No More — Epic | 2026-09-11 21:08:35 -03
-Previous track #4         : Faith No More — Easy | 2026-09-11 21:03:41 -03
-Previous track #5         : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03
-Previous track #6         : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03
-Previous track #7         : Silverchair — Blind | 2026-09-11 20:43:02 -03
-Previous track #8         : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03
-Previous track #9         : Silverchair — Findaway | 2026-09-11 20:33:28 -03
-Previous track #10        : Silverchair — Cicada | 2026-09-11 20:30:30 -03
-Previous track #11        : Silverchair — Undecided | 2026-09-11 20:25:20 -03
-Previous track #12        : Silverchair — Madman | 2026-09-11 20:20:43 -03
-Previous track #13        : Silverchair — Suicidal Dream | 2026-09-11 20:18:00 -03
-Previous track #14        : Silverchair — Leave Me Out | 2026-09-11 20:14:47 -03
-Previous track #15        : Silverchair — Shade | 2026-09-11 20:11:44 -03
-Previous track #16        : Silverchair — Shade | 2026-09-11 20:07:14 -03
-Previous track #17        : Silverchair — Faultline | 2026-09-11 20:05:38 -03
-Previous track #18        : Silverchair — Tomorrow | 2026-09-11 20:01:19 -03
-Previous track #19        : Silverchair — Israel's Son | 2026-09-11 19:56:53 -03
-Previous track #20        : The Black Angels — Manipulation | 2026-09-11 16:19:02 -03
-Previous track #21        : The Black Angels — Black Grease | 2026-09-11 16:15:26 -03
-Previous track #22        : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03
-Previous track #23        : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03
-Previous track #24        : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03
-Previous track #25        : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03
-Previous track #26        : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03
-Previous track #27        : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03
-Previous track #28        : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03
-Previous track #29        : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03
-Previous track #30        : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03
-Previous track #31        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03
-Previous track #32        : The Black Angels — Bloodhounds On My Trail | 2026-09-11 15:20:22 -03
-Previous track #33        : The Black Angels — Black Grease | 2026-09-11 15:16:27 -03
-Previous track #34        : The Black Angels — Entrance Song | 2026-09-11 15:11:50 -03
-Previous track #35        : All Them Witches — Hold Up, Say What? | 2026-09-11 15:04:13 -03
-Previous track #36        : All Them Witches — Aethernet | 2026-09-11 15:00:08 -03
-Previous track #37        : All Them Witches — Culling Line | 2026-09-11 14:55:10 -03
-Previous track #38        : All Them Witches — Red Rocking Chair | 2026-09-11 14:51:05 -03
-Previous track #39        : John Coltrane — Blue World | 2026-09-11 14:43:00 -03
-Previous track #40        : Tomasz Stanko Quartet — Trista | 2026-09-11 14:36:56 -03
+Previous track #1         : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03
+Previous track #2         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03
+Previous track #3         : Faith No More — Epic | 2026-09-11 21:40:51 -03
+Previous track #4         : Faith No More — Easy | 2026-09-11 21:35:57 -03
+Previous track #5         : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03
+Previous track #6         : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03
+Previous track #7         : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03
+Previous track #8         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03
+Previous track #9         : Faith No More — Epic | 2026-09-11 21:08:35 -03
+Previous track #10        : Faith No More — Easy | 2026-09-11 21:03:41 -03
+Previous track #11        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03
+Previous track #12        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03
+Previous track #13        : Silverchair — Blind | 2026-09-11 20:43:02 -03
+Previous track #14        : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03
+Previous track #15        : Silverchair — Findaway | 2026-09-11 20:33:28 -03
+Previous track #16        : Silverchair — Cicada | 2026-09-11 20:30:30 -03
+Previous track #17        : Silverchair — Undecided | 2026-09-11 20:25:20 -03
+Previous track #18        : Silverchair — Madman | 2026-09-11 20:20:43 -03
+Previous track #19        : Silverchair — Suicidal Dream | 2026-09-11 20:18:00 -03
+Previous track #20        : Silverchair — Leave Me Out | 2026-09-11 20:14:47 -03
+Previous track #21        : Silverchair — Shade | 2026-09-11 20:11:44 -03
+Previous track #22        : Silverchair — Shade | 2026-09-11 20:07:14 -03
+Previous track #23        : Silverchair — Faultline | 2026-09-11 20:05:38 -03
+Previous track #24        : Silverchair — Tomorrow | 2026-09-11 20:01:19 -03
+Previous track #25        : Silverchair — Israel's Son | 2026-09-11 19:56:53 -03
+Previous track #26        : The Black Angels — Manipulation | 2026-09-11 16:19:02 -03
+Previous track #27        : The Black Angels — Black Grease | 2026-09-11 16:15:26 -03
+Previous track #28        : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03
+Previous track #29        : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03
+Previous track #30        : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03
+Previous track #31        : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03
+Previous track #32        : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03
+Previous track #33        : The Black Angels — Entrance Song | 2026-09-11 15:43:07 -03
+Previous track #34        : The Black Angels — Manipulation | 2026-09-11 15:38:47 -03
+Previous track #35        : The Black Angels — You On The Run | 2026-09-11 15:33:01 -03
+Previous track #36        : The Black Angels — The First Vietnamese War | 2026-09-11 15:28:12 -03
+Previous track #37        : The Black Angels — Bad Vibrations | 2026-09-11 15:24:45 -03
+Previous track #38        : The Black Angels — Bloodhounds On My Trail | 2026-09-11 15:20:22 -03
+Previous track #39        : The Black Angels — Black Grease | 2026-09-11 15:16:27 -03
+Previous track #40        : The Black Angels — Entrance Song | 2026-09-11 15:11:50 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : N/A
-Context observed (local)  : 2026-09-11 21:20:38 -03
+Context observed (local)  : 2026-09-11 22:51:56 -03
 Track observed in context : Faith No More — Midlife Crisis
 Spotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm
 Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm
@@ -1584,47 +1584,47 @@ Context observed (UTC)    : 2026-09-12 00:22:19Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 148
-Unique tracks             : 129
+Observed events           : 154
+Unique tracks             : 130
 Unique artists            : 47
-Replay ratio              : ██░░░░░░░░░░░░░░░░  12.8%
-Artist diversity          : ██████░░░░░░░░░░░░  31.8%
+Replay ratio              : ███░░░░░░░░░░░░░░░  15.6%
+Artist diversity          : █████░░░░░░░░░░░░░  30.5%
 Dominant artist           : All Them Witches
-Dominant artist share     : ███░░░░░░░░░░░░░░░  14.9%
-Artist switch ratio       : ████████████░░░░░░  67.3%
+Dominant artist share     : ███░░░░░░░░░░░░░░░  14.3%
+Artist switch ratio       : ████████████░░░░░░  64.7%
 Longest artist streak     : The Black Angels × 15
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    3.4%
-Morning    06–12           : █████░░░░░░░░░░░░░   29.1%
-Afternoon  12–18           : █████████░░░░░░░░░   48.0%
-Evening    18–24           : ████░░░░░░░░░░░░░░   19.6%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    3.2%
+Morning    06–12           : █████░░░░░░░░░░░░░   27.9%
+Afternoon  12–18           : ████████░░░░░░░░░░   46.1%
+Evening    18–24           : ████░░░░░░░░░░░░░░   22.7%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-06 10:36:06Z
-History last play (7d)    : 2026-09-12 00:20:38Z
-Observed time span        : 133:44:32
-Mean inter-play gap       : 00:54:35
+History last play (7d)    : 2026-09-12 01:51:56Z
+Observed time span        : 135:15:50
+Mean inter-play gap       : 00:53:03
 Median inter-play gap     : 00:05:10
 Longest inactivity gap    : 105:48:26
-Listening intensity       : 1.11 tracks/hour
+Listening intensity       : 1.14 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :               ▃▇▃  ▁█▄  
-Heatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▂  
+Heatmap (24h)             :                    ▁█▇▁ 
+Heatmap (7d)              :     ▂  ▂▄▃▄▃▄▄▅█▅▁▁▃▅▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :     ▃ █
+Activity (Mon→Sun)        :     ▄ █
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁▂▂▁      ▂     ▁       █    ▃
+Activity trend (30d)      : ▂▂▁      ▂     ▁       █    ▄ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1633,22 +1633,22 @@ Mon                       :     █
 Tue                       :                         
 Wed                       :                         
 Thu                       :                         
-Fri                       :               ▃▇▃  ▁█▄  
+Fri                       :               ▃▇▃  ▁█▇▁ 
 Sat                       :                         
 Sun                       :        ▅█▇█▆██▇▇▇▂▂▅   ▁
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 42
-Dominant artist           : The Black Angels
+Tracks played (last 24h)  : 26
+Dominant artist           : Silverchair
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-05 00:22:19Z → 2026-09-12 00:22:19Z
-Tracks played (7d)        : 148
+Week window (UTC)         : 2026-09-05 22:23:28Z → 2026-09-12 22:23:28Z
+Tracks played (7d)        : 154
 Dominant artist           : All Them Witches
 Cadence classification    : VERY HIGH
 ------------------------------------------------------------
@@ -1656,40 +1656,40 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 6
-Avg inter-play gap        : 00:54:35
+Sessions (7d)             : 7
+Avg inter-play gap        : 00:53:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : neo-psychedelic(19) | psychedelic rock(19) | space rock(19) | stoner rock(19) | grunge(18) | acid rock(15)
+Top genres (24h)          : grunge(24) | alternative metal(13) | post-grunge(13) | rap metal(13) | funk rock(11) | nu metal(2)
 Top genres (7d)           : jazz(80) | cool jazz(68) | hard bop(66) | bebop(64) | jazz ballads(57) | stoner rock(47)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : The Black Angels — Black Grease → Faith No More — Midlife Crisis
-Playback timestamp Δ      : 2026-09-11 19:15:26Z → 2026-09-12 00:20:38Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:19:16
+Telemetry interval        : 03:54:42
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 269
+Events retained           : 275
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-11 21:20:38 -03
-Events (24h)              : 42
-Events (7d)               : 148
-Events (30d)              : 269
-Playlist contexts retained: 96
+Newest retained event     : 2026-09-11 22:51:56 -03
+Events (24h)              : 26
+Events (7d)               : 154
+Events (30d)              : 263
+Playlist contexts retained: 102
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-12 00:22:19Z
+Report generated (UTC)    : 2026-09-12 22:23:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2066,9 +2066,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 September 2026
+From: 04 December 2023 - To: 12 September 2026
 
-Total Time       : 1,066 hrs 38 mins
+Total Time       : 1,067 hrs 26 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 3 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -2077,49 +2077,49 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          831 hrs 54 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  77.99 %
-Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.57 %
-Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.32 %
-HTML           140 hrs 6 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.13 %
-PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.24 %
-Markdown       80 hrs 48 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.58 %
-C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.17 %
+Other          840 hrs 48 mins ●●●●●●●●●●●●●●●●●●●●○○○○○○  78.77 %
+Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.55 %
+Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.31 %
+HTML           140 hrs 6 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.12 %
+PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.23 %
+Markdown       80 hrs 48 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.57 %
+C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.16 %
 Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
 C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.75 %
-YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.58 %
+YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.57 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,180 hrs 5 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  67.04 %
+Mac            1,189 hrs 46 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.99 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.84 %
-Firefox        611 hrs 23 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.32 %
-Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.68 %
-Terminal       47 hrs 4 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.41 %
-Spotify        40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.79 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.80 %
+Firefox        615 hrs 45 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.69 %
+Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.66 %
+Terminal       47 hrs 15 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.43 %
+Spotify        44 hrs 29 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.17 %
 ‎WhatsApp      30 hrs 11 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.83 %
 Termius        24 hrs 7 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.26 %
 Pages          21 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.03 %
 Dia            20 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.94 %
 Acrobat        16 hrs 10 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.52 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.40 %
-FileZilla      12 hrs 9 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.14 %
+FileZilla      12 hrs 40 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.19 %
 
 CATEGORIES
 ----------
-Coding         1,212 hrs 9 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       608 hrs 18 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.03 %
-Meeting        38 hrs 46 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.64 %
-AI Coding      25 hrs 48 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.42 %
-Writing Docs   13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.27 %
+Coding         1,216 hrs 52 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       613 hrs 4 mins ●●●●●●●●●●●●●●◔○○○○○○○○○○○  57.43 %
+Meeting        38 hrs 46 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.63 %
+AI Coding      25 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.44 %
+Writing Docs   13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.26 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 12/09/2026 02:49:23 UTC
+Last updated     : 13/09/2026 02:47:16 UTC
 
 ```
 <!--END_SECTION:wakastats-->
