@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-13 05:10:02Z
 Played at (local)         : 2026-09-13 02:10:02 -03
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 31:50:35
+Time since play           : 38:18:19
 Gap from previous play    : 00:05:14
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Killing In The Name
@@ -1640,7 +1640,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-07 13:00:37Z → 2026-09-14 13:00:37Z
+Week window (UTC)         : 2026-09-07 19:28:21Z → 2026-09-14 19:28:21Z
 Tracks played (7d)        : 51
 Dominant artist           : The Black Angels
 Cadence classification    : HIGH
@@ -1663,7 +1663,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:54:08
+Telemetry interval        : 06:27:44
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-14 13:00:37Z
+Report generated (UTC)    : 2026-09-14 19:28:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
