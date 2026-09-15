@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-13 05:10:02Z
 Played at (local)         : 2026-09-13 02:10:02 -03
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 47:51:58
+Time since play           : 54:43:25
 Gap from previous play    : 00:05:14
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Killing In The Name
@@ -1640,7 +1640,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-08 05:01:59Z → 2026-09-15 05:01:59Z
+Week window (UTC)         : 2026-09-08 11:53:27Z → 2026-09-15 11:53:27Z
 Tracks played (7d)        : 51
 Dominant artist           : The Black Angels
 Cadence classification    : HIGH
@@ -1663,7 +1663,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:49:43
+Telemetry interval        : 06:51:28
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1672,7 +1672,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-13 02:10:02 -03
 Events (24h)              : 0
 Events (7d)               : 51
-Events (30d)              : 217
+Events (30d)              : 204
 Playlist contexts retained: 102
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-15 05:01:59Z
+Report generated (UTC)    : 2026-09-15 11:53:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
