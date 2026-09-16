@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-15 20:48:29Z
 Played at (local)         : 2026-09-15 17:48:29 -03
 Local hour                : 17:00
 Daypart                   : AFTERNOON
-Time since play           : 00:40:20
+Time since play           : 03:40:10
 Gap from previous play    : 00:13:48
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Wake Up
@@ -1640,7 +1640,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-08 21:28:49Z → 2026-09-15 21:28:49Z
+Week window (UTC)         : 2026-09-09 00:28:38Z → 2026-09-16 00:28:38Z
 Tracks played (7d)        : 56
 Dominant artist           : The Black Angels
 Cadence classification    : HIGH
@@ -1660,10 +1660,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 → Rage Against The Machine — Fistful Of Steel
-Playback timestamp Δ      : 2026-09-13 05:10:02Z → 2026-09-15 20:48:29Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:21:40
+Telemetry interval        : 02:59:50
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-15 21:28:49Z
+Report generated (UTC)    : 2026-09-16 00:28:38Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
