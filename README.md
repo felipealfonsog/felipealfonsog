@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-15 20:48:29Z
 Played at (local)         : 2026-09-15 17:48:29 -03
 Local hour                : 17:00
 Daypart                   : AFTERNOON
-Time since play           : 21:25:45
+Time since play           : 24:36:02
 Gap from previous play    : 00:13:48
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Wake Up
@@ -1608,9 +1608,9 @@ Listening intensity       : 0.56 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 17:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 20:00
-Heatmap (24h)             :                  █      
+Heatmap (24h)             : N/A
 Heatmap (7d)              :  ▁▁           ▃▇▃▃ ▁█▇▁ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1633,14 +1633,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
-Dominant artist           : Rage Against The Machine
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-09 18:14:13Z → 2026-09-16 18:14:13Z
+Week window (UTC)         : 2026-09-09 21:24:30Z → 2026-09-16 21:24:30Z
 Tracks played (7d)        : 56
 Dominant artist           : The Black Angels
 Cadence classification    : HIGH
@@ -1648,13 +1648,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 5
 Avg inter-play gap        : 01:48:18
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(5) | nu metal(5) | rap metal(5) | rap rock(5)
+Top genres (24h)          : N/A
 Top genres (7d)           : grunge(24) | alternative metal(21) | rap metal(21) | neo-psychedelic(19) | psychedelic rock(19) | space rock(19)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1663,14 +1663,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:40:03
+Telemetry interval        : 03:10:18
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 283
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-15 17:48:29 -03
-Events (24h)              : 5
+Events (24h)              : 0
 Events (7d)               : 56
 Events (30d)              : 209
 Playlist contexts retained: 102
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-16 18:14:13Z
+Report generated (UTC)    : 2026-09-16 21:24:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
