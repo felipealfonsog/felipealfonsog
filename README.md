@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-15 20:48:29Z
 Played at (local)         : 2026-09-15 17:48:29 -03
 Local hour                : 17:00
 Daypart                   : AFTERNOON
-Time since play           : 24:36:02
+Time since play           : 27:49:50
 Gap from previous play    : 00:13:48
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Wake Up
@@ -1640,7 +1640,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-09 21:24:30Z → 2026-09-16 21:24:30Z
+Week window (UTC)         : 2026-09-10 00:38:18Z → 2026-09-17 00:38:18Z
 Tracks played (7d)        : 56
 Dominant artist           : The Black Angels
 Cadence classification    : HIGH
@@ -1663,7 +1663,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:10:18
+Telemetry interval        : 03:13:49
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1701,7 +1701,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-16 21:24:30Z
+Report generated (UTC)    : 2026-09-17 00:38:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
