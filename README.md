@@ -1488,83 +1488,84 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Soundgarden — My Wave
-Artist                    : Soundgarden
-Title                     : My Wave
-Album                     : Superunknown (20th Anniversary)
-Spotify URI               : spotify:track:0rCas1F0z7t29UYlcuB81J
-Spotify URL               : https://open.spotify.com/track/0rCas1F0z7t29UYlcuB81J
+Track                     : Chris Yerinides & the Rough Edges — Yesterdays
+Artist                    : Chris Yerinides & the Rough Edges
+Title                     : Yesterdays
+Album                     : Home No More
+Spotify URI               : spotify:track:3yz6PBkVg3sFmyPpwpDdFp
+Spotify URL               : https://open.spotify.com/track/3yz6PBkVg3sFmyPpwpDdFp
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-17 09:08:37Z
-Played at (local)         : 2026-09-17 06:08:37 -03
-Local hour                : 06:00
-Daypart                   : MORNING
-Time since play           : 04:26:16
-Gap from previous play    : 00:05:13
+Played at (UTC)           : 2026-09-17 17:43:26Z
+Played at (local)         : 2026-09-17 14:43:26 -03
+Local hour                : 14:00
+Daypart                   : AFTERNOON
+Time since play           : 00:37:01
+Gap from previous play    : 00:07:11
 ------------------------------------------------------------
-Previous song             : Soundgarden — Let Me Drown
-Same artist as previous   : YES
+Previous song             : The Fierce & the Dead — Dream Sequence
+Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 2
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03
-Previous track #2         : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03
-Previous track #3         : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03
-Previous track #4         : Kyuss — Gardenia | 2026-09-17 05:42:33 -03
-Previous track #5         : Helmet — Milquetoast | 2026-09-17 05:35:43 -03
-Previous track #6         : Helmet — Role Model | 2026-09-17 05:31:53 -03
-Previous track #7         : Helmet — FBLA II | 2026-09-17 05:28:18 -03
-Previous track #8         : Helmet — You Borrowed | 2026-09-17 05:24:55 -03
-Previous track #9         : Helmet — Better | 2026-09-17 05:21:10 -03
-Previous track #10        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03
-Previous track #11        : Helmet — Turned Out | 2026-09-17 05:13:57 -03
-Previous track #12        : Helmet — Unsung | 2026-09-17 05:09:43 -03
-Previous track #13        : Helmet — Give It | 2026-09-17 05:05:47 -03
-Previous track #14        : Helmet — Iron Head | 2026-09-17 05:01:30 -03
-Previous track #15        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03
-Previous track #16        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03
-Previous track #17        : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03
-Previous track #18        : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03
-Previous track #19        : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03
-Previous track #20        : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03
-Previous track #21        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03
-Previous track #22        : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03
-Previous track #23        : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03
-Previous track #24        : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03
-Previous track #25        : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03
-Previous track #26        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03
-Previous track #27        : Faith No More — Epic | 2026-09-11 21:40:51 -03
-Previous track #28        : Faith No More — Easy | 2026-09-11 21:35:57 -03
-Previous track #29        : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03
-Previous track #30        : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03
-Previous track #31        : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03
-Previous track #32        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03
-Previous track #33        : Faith No More — Epic | 2026-09-11 21:08:35 -03
-Previous track #34        : Faith No More — Easy | 2026-09-11 21:03:41 -03
-Previous track #35        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03
-Previous track #36        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03
-Previous track #37        : Silverchair — Blind | 2026-09-11 20:43:02 -03
-Previous track #38        : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03
-Previous track #39        : Silverchair — Findaway | 2026-09-11 20:33:28 -03
-Previous track #40        : Silverchair — Cicada | 2026-09-11 20:30:30 -03
+Previous track #1         : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03
+Previous track #2         : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03
+Previous track #3         : Soundgarden — My Wave | 2026-09-17 06:08:37 -03
+Previous track #4         : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03
+Previous track #5         : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03
+Previous track #6         : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03
+Previous track #7         : Kyuss — Gardenia | 2026-09-17 05:42:33 -03
+Previous track #8         : Helmet — Milquetoast | 2026-09-17 05:35:43 -03
+Previous track #9         : Helmet — Role Model | 2026-09-17 05:31:53 -03
+Previous track #10        : Helmet — FBLA II | 2026-09-17 05:28:18 -03
+Previous track #11        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03
+Previous track #12        : Helmet — Better | 2026-09-17 05:21:10 -03
+Previous track #13        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03
+Previous track #14        : Helmet — Turned Out | 2026-09-17 05:13:57 -03
+Previous track #15        : Helmet — Unsung | 2026-09-17 05:09:43 -03
+Previous track #16        : Helmet — Give It | 2026-09-17 05:05:47 -03
+Previous track #17        : Helmet — Iron Head | 2026-09-17 05:01:30 -03
+Previous track #18        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03
+Previous track #19        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03
+Previous track #20        : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03
+Previous track #21        : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03
+Previous track #22        : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03
+Previous track #23        : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03
+Previous track #24        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03
+Previous track #25        : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03
+Previous track #26        : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03
+Previous track #27        : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03
+Previous track #28        : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03
+Previous track #29        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03
+Previous track #30        : Faith No More — Epic | 2026-09-11 21:40:51 -03
+Previous track #31        : Faith No More — Easy | 2026-09-11 21:35:57 -03
+Previous track #32        : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03
+Previous track #33        : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03
+Previous track #34        : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03
+Previous track #35        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03
+Previous track #36        : Faith No More — Epic | 2026-09-11 21:08:35 -03
+Previous track #37        : Faith No More — Easy | 2026-09-11 21:03:41 -03
+Previous track #38        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03
+Previous track #39        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03
+Previous track #40        : Silverchair — Blind | 2026-09-11 20:43:02 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
-Last playlist             : N/A
-Context observed (local)  : 2026-09-11 22:51:56 -03
-Track observed in context : Faith No More — Midlife Crisis
-Spotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm
-Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm
+Last playlist             : How To Get Into The Fierce And The Dead 
+Context observed (local)  : 2026-09-17 14:36:15 -03
+Track observed in context : The Fierce & the Dead — Dream Sequence
+Spotify playlist URI      : spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI
+Spotify playlist URL      : https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI
 ------------------------------------------------------------
-Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
-Previous playlist #2      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
-Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
-Previous playlist #4      : N/A | 2026-08-13 14:15:12 -04
-Previous playlist #5      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
+Previous playlist #1      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #3      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
+Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
+Previous playlist #5      : N/A | 2026-08-13 14:15:12 -04
+Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1577,47 +1578,47 @@ Context observed (UTC)    : 2026-09-12 00:22:19Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 72
-Unique tracks             : 59
-Unique artists            : 14
-Replay ratio              : ███░░░░░░░░░░░░░░░  18.1%
-Artist diversity          : ████░░░░░░░░░░░░░░  19.4%
+Observed events           : 75
+Unique tracks             : 61
+Unique artists            : 16
+Replay ratio              : ███░░░░░░░░░░░░░░░  18.7%
+Artist diversity          : ████░░░░░░░░░░░░░░  21.3%
 Dominant artist           : The Black Angels
-Dominant artist share     : ████░░░░░░░░░░░░░░  20.8%
-Artist switch ratio       : ███░░░░░░░░░░░░░░░  18.3%
+Dominant artist share     : ████░░░░░░░░░░░░░░  20.0%
+Artist switch ratio       : ████░░░░░░░░░░░░░░  21.6%
 Longest artist streak     : The Black Angels × 15
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ████░░░░░░░░░░░░░░   23.6%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.8%
-Afternoon  12–18           : ███████░░░░░░░░░░░   37.5%
-Evening    18–24           : ██████░░░░░░░░░░░░   36.1%
+Night      00–06           : ████░░░░░░░░░░░░░░   22.7%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.7%
+Afternoon  12–18           : ███████░░░░░░░░░░░   40.0%
+Evening    18–24           : ██████░░░░░░░░░░░░   34.7%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-11 17:32:16Z
-History last play (7d)    : 2026-09-17 09:08:37Z
-Observed time span        : 135:36:21
-Mean inter-play gap       : 01:54:36
-Median inter-play gap     : 00:04:26
+History last play (7d)    : 2026-09-17 17:43:26Z
+Observed time span        : 144:11:10
+Mean inter-play gap       : 01:56:54
+Median inter-play gap     : 00:04:27
 Longest inactivity gap    : 63:07:45
-Listening intensity       : 0.53 tracks/hour
+Listening intensity       : 0.52 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▁█▁                 
-Heatmap (7d)              :  ▁▁ ▁█▁       ▃▇▃▃ ▁█▇▁ 
+Heatmap (24h)             :     ▁█▁       ▂         
+Heatmap (7d)              :  ▁▁ ▁█▁       ▅▇▃▃ ▁█▇▁ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :  ▁ ▃█  
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :     ▂     ▁       █    ▄     ▁
+Activity trend (30d)      :     ▂     ▁       █    ▄     ▂
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1625,7 +1626,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                         
 Tue                       :                  █      
 Wed                       :                         
-Thu                       :     ▁█▁                 
+Thu                       :     ▁█▁       ▂         
 Fri                       :               ▃▇▃  ▁█▇▁ 
 Sat                       :                         
 Sun                       :  ▄█                     
@@ -1633,47 +1634,47 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 16
+Tracks played (last 24h)  : 19
 Dominant artist           : Helmet
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-10 13:34:52Z → 2026-09-17 13:34:52Z
-Tracks played (7d)        : 72
+Week window (UTC)         : 2026-09-10 18:20:26Z → 2026-09-17 18:20:26Z
+Tracks played (7d)        : 75
 Dominant artist           : The Black Angels
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 6
-Avg inter-play gap        : 01:54:36
+Sessions (24h)            : 2
+Sessions (7d)             : 7
+Avg inter-play gap        : 01:56:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(14) | post-hardcore(12) | alternative metal(11) | groove metal(11) | noise rock(11) | post-grunge(3)
-Top genres (7d)           : grunge(38) | alternative metal(32) | rap metal(21) | space rock(21) | stoner rock(20) | neo-psychedelic(19)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : grunge(15) | alternative metal(12) | post-hardcore(12) | groove metal(11) | noise rock(11) | post-grunge(4)
+Top genres (7d)           : grunge(39) | alternative metal(33) | rap metal(22) | space rock(22) | stoner rock(21) | neo-psychedelic(19)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Rage Against The Machine — Fistful Of Steel → Soundgarden — My Wave
-Playback timestamp Δ      : 2026-09-15 20:48:29Z → 2026-09-17 09:08:37Z
+Track transition          : Soundgarden — My Wave → Chris Yerinides & the Rough Edges — Yesterdays
+Playback timestamp Δ      : 2026-09-17 09:08:37Z → 2026-09-17 17:43:26Z
 State transition          : NO CHANGE
-Telemetry interval        : 05:47:06
+Telemetry interval        : 04:45:35
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 299
+Events retained           : 302
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-17 06:08:37 -03
-Events (24h)              : 16
-Events (7d)               : 72
-Events (30d)              : 225
-Playlist contexts retained: 102
+Newest retained event     : 2026-09-17 14:43:26 -03
+Events (24h)              : 19
+Events (7d)               : 75
+Events (30d)              : 228
+Playlist contexts retained: 103
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1701,7 +1702,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-17 13:34:52Z
+Report generated (UTC)    : 2026-09-17 18:20:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

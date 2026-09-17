@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-09-17 13:34:52Z",
+  "report_generated_utc": "2026-09-17 18:20:26Z",
   "status": "IDLE",
-  "last_track": "Soundgarden — My Wave",
-  "last_played_utc": "2026-09-17 09:08:37Z",
+  "last_track": "Chris Yerinides & the Rough Edges — Yesterdays",
+  "last_played_utc": "2026-09-17 17:43:26Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1797,11 +1797,81 @@
       "sludge metal",
       "doom metal",
       "space rock"
+    ],
+    "5a0K3H5u8wdlX9sw6rfpBm": [
+      "post-grunge",
+      "grunge"
+    ],
+    "3bkekNyPjQsZwwydoMsFyQ": [
+      "stoner rock",
+      "post-rock",
+      "space rock",
+      "progressive rock",
+      "stoner metal",
+      "math rock"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Soundgarden — My Wave\nArtist                    : Soundgarden\nTitle                     : My Wave\nAlbum                     : Superunknown (20th Anniversary)\nSpotify URI               : spotify:track:0rCas1F0z7t29UYlcuB81J\nSpotify URL               : https://open.spotify.com/track/0rCas1F0z7t29UYlcuB81J\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-17 09:08:37Z\nPlayed at (local)         : 2026-09-17 06:08:37 -03\nLocal hour                : 06:00\nDaypart                   : MORNING\nTime since play           : 04:26:16\nGap from previous play    : 00:05:13\n------------------------------------------------------------\nPrevious song             : Soundgarden — Let Me Drown\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 2\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03\nPrevious track #2         : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03\nPrevious track #3         : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03\nPrevious track #4         : Kyuss — Gardenia | 2026-09-17 05:42:33 -03\nPrevious track #5         : Helmet — Milquetoast | 2026-09-17 05:35:43 -03\nPrevious track #6         : Helmet — Role Model | 2026-09-17 05:31:53 -03\nPrevious track #7         : Helmet — FBLA II | 2026-09-17 05:28:18 -03\nPrevious track #8         : Helmet — You Borrowed | 2026-09-17 05:24:55 -03\nPrevious track #9         : Helmet — Better | 2026-09-17 05:21:10 -03\nPrevious track #10        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03\nPrevious track #11        : Helmet — Turned Out | 2026-09-17 05:13:57 -03\nPrevious track #12        : Helmet — Unsung | 2026-09-17 05:09:43 -03\nPrevious track #13        : Helmet — Give It | 2026-09-17 05:05:47 -03\nPrevious track #14        : Helmet — Iron Head | 2026-09-17 05:01:30 -03\nPrevious track #15        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03\nPrevious track #16        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03\nPrevious track #17        : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03\nPrevious track #18        : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03\nPrevious track #19        : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03\nPrevious track #20        : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03\nPrevious track #21        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03\nPrevious track #22        : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03\nPrevious track #23        : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03\nPrevious track #24        : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03\nPrevious track #25        : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03\nPrevious track #26        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03\nPrevious track #27        : Faith No More — Epic | 2026-09-11 21:40:51 -03\nPrevious track #28        : Faith No More — Easy | 2026-09-11 21:35:57 -03\nPrevious track #29        : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03\nPrevious track #30        : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03\nPrevious track #31        : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03\nPrevious track #32        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03\nPrevious track #33        : Faith No More — Epic | 2026-09-11 21:08:35 -03\nPrevious track #34        : Faith No More — Easy | 2026-09-11 21:03:41 -03\nPrevious track #35        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03\nPrevious track #36        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03\nPrevious track #37        : Silverchair — Blind | 2026-09-11 20:43:02 -03\nPrevious track #38        : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03\nPrevious track #39        : Silverchair — Findaway | 2026-09-11 20:33:28 -03\nPrevious track #40        : Silverchair — Cicada | 2026-09-11 20:30:30 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-09-11 22:51:56 -03\nTrack observed in context : Faith No More — Midlife Crisis\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #2      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #4      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #5      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : CastAudio\nLast known device name    : GNest-MerkleTree speaker\nLast known volume         : 80%\nVolume telemetry          : IDLE (session present, no playback)\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇\nContext observed (UTC)    : 2026-09-12 00:22:19Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 72\nUnique tracks             : 59\nUnique artists            : 14\nReplay ratio              : ███░░░░░░░░░░░░░░░  18.1%\nArtist diversity          : ████░░░░░░░░░░░░░░  19.4%\nDominant artist           : The Black Angels\nDominant artist share     : ████░░░░░░░░░░░░░░  20.8%\nArtist switch ratio       : ███░░░░░░░░░░░░░░░  18.3%\nLongest artist streak     : The Black Angels × 15\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ████░░░░░░░░░░░░░░   23.6%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    2.8%\nAfternoon  12–18           : ███████░░░░░░░░░░░   37.5%\nEvening    18–24           : ██████░░░░░░░░░░░░   36.1%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-11 17:32:16Z\nHistory last play (7d)    : 2026-09-17 09:08:37Z\nObserved time span        : 135:36:21\nMean inter-play gap       : 01:54:36\nMedian inter-play gap     : 00:04:26\nLongest inactivity gap    : 63:07:45\nListening intensity       : 0.53 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 05:00\nPeak hour (7d)            : 05:00\nHeatmap (24h)             :     ▁█▁                 \nHeatmap (7d)              :  ▁▁ ▁█▁       ▃▇▃▃ ▁█▇▁ \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :  ▁ ▃█  \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :     ▂     ▁       █    ▄     ▁\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                  █      \nWed                       :                         \nThu                       :     ▁█▁                 \nFri                       :               ▃▇▃  ▁█▇▁ \nSat                       :                         \nSun                       :  ▄█                     \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 16\nDominant artist           : Helmet\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-10 13:34:52Z → 2026-09-17 13:34:52Z\nTracks played (7d)        : 72\nDominant artist           : The Black Angels\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 6\nAvg inter-play gap        : 01:54:36\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(14) | post-hardcore(12) | alternative metal(11) | groove metal(11) | noise rock(11) | post-grunge(3)\nTop genres (7d)           : grunge(38) | alternative metal(32) | rap metal(21) | space rock(21) | stoner rock(20) | neo-psychedelic(19)\nArtist lookups (this run) : 1 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Rage Against The Machine — Fistful Of Steel → Soundgarden — My Wave\nPlayback timestamp Δ      : 2026-09-15 20:48:29Z → 2026-09-17 09:08:37Z\nState transition          : NO CHANGE\nTelemetry interval        : 05:47:06\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 299\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-17 06:08:37 -03\nEvents (24h)              : 16\nEvents (7d)               : 72\nEvents (30d)              : 225\nPlaylist contexts retained: 102\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-17 13:34:52Z",
-  "last_successful_report_utc": "2026-09-17 13:34:52Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Chris Yerinides & the Rough Edges — Yesterdays\nArtist                    : Chris Yerinides & the Rough Edges\nTitle                     : Yesterdays\nAlbum                     : Home No More\nSpotify URI               : spotify:track:3yz6PBkVg3sFmyPpwpDdFp\nSpotify URL               : https://open.spotify.com/track/3yz6PBkVg3sFmyPpwpDdFp\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-17 17:43:26Z\nPlayed at (local)         : 2026-09-17 14:43:26 -03\nLocal hour                : 14:00\nDaypart                   : AFTERNOON\nTime since play           : 00:37:01\nGap from previous play    : 00:07:11\n------------------------------------------------------------\nPrevious song             : The Fierce & the Dead — Dream Sequence\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 1\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03\nPrevious track #2         : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03\nPrevious track #3         : Soundgarden — My Wave | 2026-09-17 06:08:37 -03\nPrevious track #4         : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03\nPrevious track #5         : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03\nPrevious track #6         : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03\nPrevious track #7         : Kyuss — Gardenia | 2026-09-17 05:42:33 -03\nPrevious track #8         : Helmet — Milquetoast | 2026-09-17 05:35:43 -03\nPrevious track #9         : Helmet — Role Model | 2026-09-17 05:31:53 -03\nPrevious track #10        : Helmet — FBLA II | 2026-09-17 05:28:18 -03\nPrevious track #11        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03\nPrevious track #12        : Helmet — Better | 2026-09-17 05:21:10 -03\nPrevious track #13        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03\nPrevious track #14        : Helmet — Turned Out | 2026-09-17 05:13:57 -03\nPrevious track #15        : Helmet — Unsung | 2026-09-17 05:09:43 -03\nPrevious track #16        : Helmet — Give It | 2026-09-17 05:05:47 -03\nPrevious track #17        : Helmet — Iron Head | 2026-09-17 05:01:30 -03\nPrevious track #18        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03\nPrevious track #19        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03\nPrevious track #20        : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03\nPrevious track #21        : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03\nPrevious track #22        : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03\nPrevious track #23        : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03\nPrevious track #24        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03\nPrevious track #25        : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03\nPrevious track #26        : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03\nPrevious track #27        : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03\nPrevious track #28        : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03\nPrevious track #29        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03\nPrevious track #30        : Faith No More — Epic | 2026-09-11 21:40:51 -03\nPrevious track #31        : Faith No More — Easy | 2026-09-11 21:35:57 -03\nPrevious track #32        : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03\nPrevious track #33        : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03\nPrevious track #34        : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03\nPrevious track #35        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03\nPrevious track #36        : Faith No More — Epic | 2026-09-11 21:08:35 -03\nPrevious track #37        : Faith No More — Easy | 2026-09-11 21:03:41 -03\nPrevious track #38        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03\nPrevious track #39        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03\nPrevious track #40        : Silverchair — Blind | 2026-09-11 20:43:02 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : How To Get Into The Fierce And The Dead \nContext observed (local)  : 2026-09-17 14:36:15 -03\nTrack observed in context : The Fierce & the Dead — Dream Sequence\nSpotify playlist URI      : spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI\nSpotify playlist URL      : https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #3      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #5      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : CastAudio\nLast known device name    : GNest-MerkleTree speaker\nLast known volume         : 80%\nVolume telemetry          : IDLE (session present, no playback)\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇\nContext observed (UTC)    : 2026-09-12 00:22:19Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 75\nUnique tracks             : 61\nUnique artists            : 16\nReplay ratio              : ███░░░░░░░░░░░░░░░  18.7%\nArtist diversity          : ████░░░░░░░░░░░░░░  21.3%\nDominant artist           : The Black Angels\nDominant artist share     : ████░░░░░░░░░░░░░░  20.0%\nArtist switch ratio       : ████░░░░░░░░░░░░░░  21.6%\nLongest artist streak     : The Black Angels × 15\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ████░░░░░░░░░░░░░░   22.7%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    2.7%\nAfternoon  12–18           : ███████░░░░░░░░░░░   40.0%\nEvening    18–24           : ██████░░░░░░░░░░░░   34.7%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-11 17:32:16Z\nHistory last play (7d)    : 2026-09-17 17:43:26Z\nObserved time span        : 144:11:10\nMean inter-play gap       : 01:56:54\nMedian inter-play gap     : 00:04:27\nLongest inactivity gap    : 63:07:45\nListening intensity       : 0.52 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 05:00\nPeak hour (7d)            : 05:00\nHeatmap (24h)             :     ▁█▁       ▂         \nHeatmap (7d)              :  ▁▁ ▁█▁       ▅▇▃▃ ▁█▇▁ \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :  ▁ ▃█  \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :     ▂     ▁       █    ▄     ▂\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                  █      \nWed                       :                         \nThu                       :     ▁█▁       ▂         \nFri                       :               ▃▇▃  ▁█▇▁ \nSat                       :                         \nSun                       :  ▄█                     \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 19\nDominant artist           : Helmet\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-10 18:20:26Z → 2026-09-17 18:20:26Z\nTracks played (7d)        : 75\nDominant artist           : The Black Angels\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 2\nSessions (7d)             : 7\nAvg inter-play gap        : 01:56:54\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(15) | alternative metal(12) | post-hardcore(12) | groove metal(11) | noise rock(11) | post-grunge(4)\nTop genres (7d)           : grunge(39) | alternative metal(33) | rap metal(22) | space rock(22) | stoner rock(21) | neo-psychedelic(19)\nArtist lookups (this run) : 2 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Soundgarden — My Wave → Chris Yerinides & the Rough Edges — Yesterdays\nPlayback timestamp Δ      : 2026-09-17 09:08:37Z → 2026-09-17 17:43:26Z\nState transition          : NO CHANGE\nTelemetry interval        : 04:45:35\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 302\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-17 14:43:26 -03\nEvents (24h)              : 19\nEvents (7d)               : 75\nEvents (30d)              : 228\nPlaylist contexts retained: 103\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-17 18:20:26Z",
+  "last_successful_report_utc": "2026-09-17 18:20:26Z",
   "recent_playback_history": [
+    {
+      "track": "Chris Yerinides & the Rough Edges — Yesterdays",
+      "artist": "Chris Yerinides & the Rough Edges",
+      "title": "Yesterdays",
+      "album": "Home No More",
+      "uri": "spotify:track:3yz6PBkVg3sFmyPpwpDdFp",
+      "url": "https://open.spotify.com/track/3yz6PBkVg3sFmyPpwpDdFp",
+      "artist_ids": [
+        "5a0K3H5u8wdlX9sw6rfpBm"
+      ],
+      "played_at_utc": "2026-09-17 17:43:26Z",
+      "played_at_local": "2026-09-17 14:43:26 -03",
+      "local_hour": 14,
+      "weekday": 3,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:5a0K3H5u8wdlX9sw6rfpBm",
+      "context_url": "https://open.spotify.com/artist/5a0K3H5u8wdlX9sw6rfpBm"
+    },
+    {
+      "track": "The Fierce & the Dead — Dream Sequence",
+      "artist": "The Fierce & the Dead",
+      "title": "Dream Sequence",
+      "album": "Regional Theatre",
+      "uri": "spotify:track:5pouobLZtOTcR8beZX3EVA",
+      "url": "https://open.spotify.com/track/5pouobLZtOTcR8beZX3EVA",
+      "artist_ids": [
+        "3bkekNyPjQsZwwydoMsFyQ"
+      ],
+      "played_at_utc": "2026-09-17 17:36:15Z",
+      "played_at_local": "2026-09-17 14:36:15 -03",
+      "local_hour": 14,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI",
+      "context_url": "https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI",
+      "playlist_id": "3I3LpNuIoZF0uao5Ge6GlI",
+      "playlist_name": "How To Get Into The Fierce And The Dead ",
+      "playlist_uri": "spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI",
+      "playlist_url": "https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI"
+    },
+    {
+      "track": "Rage Against The Machine — Fistful Of Steel",
+      "artist": "Rage Against The Machine",
+      "title": "Fistful Of Steel",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:67qdozSgFFHL6VGW85KmtD",
+      "url": "https://open.spotify.com/track/67qdozSgFFHL6VGW85KmtD",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-17 17:34:43Z",
+      "played_at_local": "2026-09-17 14:34:43 -03",
+      "local_hour": 14,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
     {
       "track": "Soundgarden — My Wave",
       "artist": "Soundgarden",
@@ -2529,60 +2599,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
       "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Tomorrow - Single Version",
-      "artist": "Silverchair",
-      "title": "Tomorrow - Single Version",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:1GiZpoUewBi4QIOixG6lk6",
-      "url": "https://open.spotify.com/track/1GiZpoUewBi4QIOixG6lk6",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:37:50Z",
-      "played_at_local": "2026-09-11 20:37:50 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Findaway",
-      "artist": "Silverchair",
-      "title": "Findaway",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:6pcyozjE7GDIbf4oN8ctLe",
-      "url": "https://open.spotify.com/track/6pcyozjE7GDIbf4oN8ctLe",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:33:28Z",
-      "played_at_local": "2026-09-11 20:33:28 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Cicada",
-      "artist": "Silverchair",
-      "title": "Cicada",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:6mJdEWVOaCayMo8eaSl3Xw",
-      "url": "https://open.spotify.com/track/6mJdEWVOaCayMo8eaSl3Xw",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:30:30Z",
-      "played_at_local": "2026-09-11 20:30:30 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
     }
   ],
   "last_known_device_type": "CastAudio",
@@ -2590,10 +2606,10 @@
   "last_known_volume_percent": 80,
   "last_known_volume_telemetry": "IDLE (session present, no playback)",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-09-17 13:34:52Z",
-    "week_window_utc": "2026-09-10 13:34:52Z → 2026-09-17 13:34:52Z",
-    "tracks_24h": 16,
-    "tracks_7d": 72,
+    "captured_utc": "2026-09-17 18:20:26Z",
+    "week_window_utc": "2026-09-10 18:20:26Z → 2026-09-17 18:20:26Z",
+    "tracks_24h": 19,
+    "tracks_7d": 75,
     "dominant_artist_24h": "Helmet",
     "dominant_artist_7d": "The Black Angels",
     "listening_pattern_24h": "Regular cadence",
@@ -2602,13 +2618,13 @@
     "local_timezone": "America/Santiago",
     "peak_hour_24h": "05:00",
     "peak_hour_7d": "05:00",
-    "heatmap_24h": "    ▁█▁                 ",
-    "heatmap_7d": " ▁▁ ▁█▁       ▃▇▃▃ ▁█▇▁ ",
-    "sessions_24h": 1,
-    "sessions_7d": 6,
-    "avg_inter_play_gap_7d": "01:54:36",
-    "top_genres_24h": "grunge(14) | post-hardcore(12) | alternative metal(11) | groove metal(11) | noise rock(11) | post-grunge(3)",
-    "top_genres_7d": "grunge(38) | alternative metal(32) | rap metal(21) | space rock(21) | stoner rock(20) | neo-psychedelic(19)"
+    "heatmap_24h": "    ▁█▁       ▂         ",
+    "heatmap_7d": " ▁▁ ▁█▁       ▅▇▃▃ ▁█▇▁ ",
+    "sessions_24h": 2,
+    "sessions_7d": 7,
+    "avg_inter_play_gap_7d": "01:56:54",
+    "top_genres_24h": "grunge(15) | alternative metal(12) | post-hardcore(12) | groove metal(11) | noise rock(11) | post-grunge(4)",
+    "top_genres_7d": "grunge(39) | alternative metal(33) | rap metal(22) | space rock(22) | stoner rock(21) | neo-psychedelic(19)"
   },
   "last_known_device_captured_utc": "2026-09-12 00:22:19Z"
 }

@@ -1,8 +1,66 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-17 13:34:52Z",
+  "updated_utc": "2026-09-17 18:20:26Z",
   "events": [
+    {
+      "track": "Chris Yerinides & the Rough Edges — Yesterdays",
+      "artist": "Chris Yerinides & the Rough Edges",
+      "title": "Yesterdays",
+      "album": "Home No More",
+      "uri": "spotify:track:3yz6PBkVg3sFmyPpwpDdFp",
+      "url": "https://open.spotify.com/track/3yz6PBkVg3sFmyPpwpDdFp",
+      "artist_ids": [
+        "5a0K3H5u8wdlX9sw6rfpBm"
+      ],
+      "played_at_utc": "2026-09-17 17:43:26Z",
+      "played_at_local": "2026-09-17 14:43:26 -03",
+      "local_hour": 14,
+      "weekday": 3,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:5a0K3H5u8wdlX9sw6rfpBm",
+      "context_url": "https://open.spotify.com/artist/5a0K3H5u8wdlX9sw6rfpBm"
+    },
+    {
+      "track": "The Fierce & the Dead — Dream Sequence",
+      "artist": "The Fierce & the Dead",
+      "title": "Dream Sequence",
+      "album": "Regional Theatre",
+      "uri": "spotify:track:5pouobLZtOTcR8beZX3EVA",
+      "url": "https://open.spotify.com/track/5pouobLZtOTcR8beZX3EVA",
+      "artist_ids": [
+        "3bkekNyPjQsZwwydoMsFyQ"
+      ],
+      "played_at_utc": "2026-09-17 17:36:15Z",
+      "played_at_local": "2026-09-17 14:36:15 -03",
+      "local_hour": 14,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI",
+      "context_url": "https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI",
+      "playlist_id": "3I3LpNuIoZF0uao5Ge6GlI",
+      "playlist_name": "How To Get Into The Fierce And The Dead ",
+      "playlist_uri": "spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI",
+      "playlist_url": "https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI"
+    },
+    {
+      "track": "Rage Against The Machine — Fistful Of Steel",
+      "artist": "Rage Against The Machine",
+      "title": "Fistful Of Steel",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:67qdozSgFFHL6VGW85KmtD",
+      "url": "https://open.spotify.com/track/67qdozSgFFHL6VGW85KmtD",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-17 17:34:43Z",
+      "played_at_local": "2026-09-17 14:34:43 -03",
+      "local_hour": 14,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
     {
       "track": "Soundgarden — My Wave",
       "artist": "Soundgarden",
@@ -5950,6 +6008,12 @@
       "name": "Felipe’s Heavy, Dark & Drenched in Sound",
       "uri": "spotify:playlist:3K1FROtbwczl5P33i8vw8d",
       "url": "https://open.spotify.com/playlist/3K1FROtbwczl5P33i8vw8d"
+    },
+    "3I3LpNuIoZF0uao5Ge6GlI": {
+      "id": "3I3LpNuIoZF0uao5Ge6GlI",
+      "name": "How To Get Into The Fierce And The Dead ",
+      "uri": "spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI",
+      "url": "https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI"
     }
   }
 }
