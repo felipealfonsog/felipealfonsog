@@ -1,8 +1,296 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-17 07:47:47Z",
+  "updated_utc": "2026-09-17 13:34:52Z",
   "events": [
+    {
+      "track": "Soundgarden — My Wave",
+      "artist": "Soundgarden",
+      "title": "My Wave",
+      "album": "Superunknown (20th Anniversary)",
+      "uri": "spotify:track:0rCas1F0z7t29UYlcuB81J",
+      "url": "https://open.spotify.com/track/0rCas1F0z7t29UYlcuB81J",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-09-17 09:08:37Z",
+      "played_at_local": "2026-09-17 06:08:37 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4K8bxkPDa5HENw0TK7WxJh",
+      "context_url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+    },
+    {
+      "track": "Soundgarden — Let Me Drown",
+      "artist": "Soundgarden",
+      "title": "Let Me Drown",
+      "album": "Superunknown (20th Anniversary)",
+      "uri": "spotify:track:1Ytz6zegDXfIg9Ijg1dG0y",
+      "url": "https://open.spotify.com/track/1Ytz6zegDXfIg9Ijg1dG0y",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-09-17 09:03:24Z",
+      "played_at_local": "2026-09-17 06:03:24 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4K8bxkPDa5HENw0TK7WxJh",
+      "context_url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+    },
+    {
+      "track": "Hum — Iron Clad Lou",
+      "artist": "Hum",
+      "title": "Iron Clad Lou",
+      "album": "Electra 2000",
+      "uri": "spotify:track:5z9Z8pKeQkyigKgXmonAS8",
+      "url": "https://open.spotify.com/track/5z9Z8pKeQkyigKgXmonAS8",
+      "artist_ids": [
+        "6sM2JCBjZprP7JLMTZZSxX"
+      ],
+      "played_at_utc": "2026-09-17 08:58:24Z",
+      "played_at_local": "2026-09-17 05:58:24 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4HeZeTLIha8Buv5sWQMjIQ",
+      "context_url": "https://open.spotify.com/album/4HeZeTLIha8Buv5sWQMjIQ"
+    },
+    {
+      "track": "Local H — Manifest Density - Part 2",
+      "artist": "Local H",
+      "title": "Manifest Density - Part 2",
+      "album": "As Good As Dead",
+      "uri": "spotify:track:6U7BFxUaduzUtREisvwkAn",
+      "url": "https://open.spotify.com/track/6U7BFxUaduzUtREisvwkAn",
+      "artist_ids": [
+        "415JrPfN7ukaTu8JV8BLE8"
+      ],
+      "played_at_utc": "2026-09-17 08:46:59Z",
+      "played_at_local": "2026-09-17 05:46:59 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Kyuss — Gardenia",
+      "artist": "Kyuss",
+      "title": "Gardenia",
+      "album": "Welcome to Sky Valley",
+      "uri": "spotify:track:18EkFrYFOGyFK52iiWY8No",
+      "url": "https://open.spotify.com/track/18EkFrYFOGyFK52iiWY8No",
+      "artist_ids": [
+        "3HCpwNmFp2rvjkdjTs4uxs"
+      ],
+      "played_at_utc": "2026-09-17 08:42:33Z",
+      "played_at_local": "2026-09-17 05:42:33 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Milquetoast",
+      "artist": "Helmet",
+      "title": "Milquetoast",
+      "album": "Betty",
+      "uri": "spotify:track:6IsnrcSZvmmd5db8QpQb91",
+      "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:35:43Z",
+      "played_at_local": "2026-09-17 05:35:43 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Role Model",
+      "artist": "Helmet",
+      "title": "Role Model",
+      "album": "Meantime",
+      "uri": "spotify:track:11NEr1yeCun0YPISh4FVVF",
+      "url": "https://open.spotify.com/track/11NEr1yeCun0YPISh4FVVF",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:31:53Z",
+      "played_at_local": "2026-09-17 05:31:53 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — FBLA II",
+      "artist": "Helmet",
+      "title": "FBLA II",
+      "album": "Meantime",
+      "uri": "spotify:track:18HtfEFUEydTblkPTWTicw",
+      "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:28:18Z",
+      "played_at_local": "2026-09-17 05:28:18 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — You Borrowed",
+      "artist": "Helmet",
+      "title": "You Borrowed",
+      "album": "Meantime",
+      "uri": "spotify:track:5RzZkoMROd0iY0iFU31VZE",
+      "url": "https://open.spotify.com/track/5RzZkoMROd0iY0iFU31VZE",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:24:55Z",
+      "played_at_local": "2026-09-17 05:24:55 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Better",
+      "artist": "Helmet",
+      "title": "Better",
+      "album": "Meantime",
+      "uri": "spotify:track:4zifCcliaROnRc1r35F6KN",
+      "url": "https://open.spotify.com/track/4zifCcliaROnRc1r35F6KN",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:21:10Z",
+      "played_at_local": "2026-09-17 05:21:10 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — He Feels Bad",
+      "artist": "Helmet",
+      "title": "He Feels Bad",
+      "album": "Meantime",
+      "uri": "spotify:track:580vmwV7m3VncbxaWdc8q4",
+      "url": "https://open.spotify.com/track/580vmwV7m3VncbxaWdc8q4",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:18:00Z",
+      "played_at_local": "2026-09-17 05:18:00 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Turned Out",
+      "artist": "Helmet",
+      "title": "Turned Out",
+      "album": "Meantime",
+      "uri": "spotify:track:1hkMn2pxLovYof8uDgpiTq",
+      "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:13:57Z",
+      "played_at_local": "2026-09-17 05:13:57 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Unsung",
+      "artist": "Helmet",
+      "title": "Unsung",
+      "album": "Meantime",
+      "uri": "spotify:track:0z25tUQgEI4cIyNZ1TgWig",
+      "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:09:43Z",
+      "played_at_local": "2026-09-17 05:09:43 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Give It",
+      "artist": "Helmet",
+      "title": "Give It",
+      "album": "Meantime",
+      "uri": "spotify:track:6rVleAFgtmJ04Omk6Mmon5",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:05:47Z",
+      "played_at_local": "2026-09-17 05:05:47 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Iron Head",
+      "artist": "Helmet",
+      "title": "Iron Head",
+      "album": "Meantime",
+      "uri": "spotify:track:2FhUbI3O3YQ3N5eGSUDwbX",
+      "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:01:30Z",
+      "played_at_local": "2026-09-17 05:01:30 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — In The Meantime",
+      "artist": "Helmet",
+      "title": "In The Meantime",
+      "album": "Meantime",
+      "uri": "spotify:track:6mHgOGBDLM71YzKcwAyiXi",
+      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 07:58:07Z",
+      "played_at_local": "2026-09-17 04:58:07 -03",
+      "local_hour": 4,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
     {
       "track": "Rage Against The Machine — Fistful Of Steel",
       "artist": "Rage Against The Machine",

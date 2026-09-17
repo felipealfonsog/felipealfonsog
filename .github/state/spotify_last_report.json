@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-09-17 07:47:47Z",
+  "report_generated_utc": "2026-09-17 13:34:52Z",
   "status": "IDLE",
-  "last_track": "Rage Against The Machine — Fistful Of Steel",
-  "last_played_utc": "2026-09-15 20:48:29Z",
+  "last_track": "Soundgarden — My Wave",
+  "last_played_utc": "2026-09-17 09:08:37Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1790,11 +1790,306 @@
       "stoner metal",
       "psychedelic rock",
       "neo-psychedelic"
+    ],
+    "3HCpwNmFp2rvjkdjTs4uxs": [
+      "stoner rock",
+      "stoner metal",
+      "sludge metal",
+      "doom metal",
+      "space rock"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Rage Against The Machine — Fistful Of Steel\nArtist                    : Rage Against The Machine\nTitle                     : Fistful Of Steel\nAlbum                     : Rage Against The Machine - XX (20th Anniversary Special Edition)\nSpotify URI               : spotify:track:67qdozSgFFHL6VGW85KmtD\nSpotify URL               : https://open.spotify.com/track/67qdozSgFFHL6VGW85KmtD\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-15 20:48:29Z\nPlayed at (local)         : 2026-09-15 17:48:29 -03\nLocal hour                : 17:00\nDaypart                   : AFTERNOON\nTime since play           : 34:59:19\nGap from previous play    : 00:13:48\n------------------------------------------------------------\nPrevious song             : Rage Against The Machine — Wake Up\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 8\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03\nPrevious track #2         : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03\nPrevious track #3         : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03\nPrevious track #4         : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03\nPrevious track #5         : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03\nPrevious track #6         : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03\nPrevious track #7         : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03\nPrevious track #8         : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03\nPrevious track #9         : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03\nPrevious track #10        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03\nPrevious track #11        : Faith No More — Epic | 2026-09-11 21:40:51 -03\nPrevious track #12        : Faith No More — Easy | 2026-09-11 21:35:57 -03\nPrevious track #13        : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03\nPrevious track #14        : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03\nPrevious track #15        : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03\nPrevious track #16        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03\nPrevious track #17        : Faith No More — Epic | 2026-09-11 21:08:35 -03\nPrevious track #18        : Faith No More — Easy | 2026-09-11 21:03:41 -03\nPrevious track #19        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03\nPrevious track #20        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03\nPrevious track #21        : Silverchair — Blind | 2026-09-11 20:43:02 -03\nPrevious track #22        : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03\nPrevious track #23        : Silverchair — Findaway | 2026-09-11 20:33:28 -03\nPrevious track #24        : Silverchair — Cicada | 2026-09-11 20:30:30 -03\nPrevious track #25        : Silverchair — Undecided | 2026-09-11 20:25:20 -03\nPrevious track #26        : Silverchair — Madman | 2026-09-11 20:20:43 -03\nPrevious track #27        : Silverchair — Suicidal Dream | 2026-09-11 20:18:00 -03\nPrevious track #28        : Silverchair — Leave Me Out | 2026-09-11 20:14:47 -03\nPrevious track #29        : Silverchair — Shade | 2026-09-11 20:11:44 -03\nPrevious track #30        : Silverchair — Shade | 2026-09-11 20:07:14 -03\nPrevious track #31        : Silverchair — Faultline | 2026-09-11 20:05:38 -03\nPrevious track #32        : Silverchair — Tomorrow | 2026-09-11 20:01:19 -03\nPrevious track #33        : Silverchair — Israel's Son | 2026-09-11 19:56:53 -03\nPrevious track #34        : The Black Angels — Manipulation | 2026-09-11 16:19:02 -03\nPrevious track #35        : The Black Angels — Black Grease | 2026-09-11 16:15:26 -03\nPrevious track #36        : The Black Angels — The Prodigal Sun | 2026-09-11 16:10:53 -03\nPrevious track #37        : The Black Angels — The Sniper At The Gates Of Heaven | 2026-09-11 16:06:30 -03\nPrevious track #38        : The Black Angels — The First Vietnamese War | 2026-09-11 16:02:13 -03\nPrevious track #39        : The Black Angels — Young Men Dead | 2026-09-11 15:58:43 -03\nPrevious track #40        : The Black Angels — Black Grease | 2026-09-11 15:47:35 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-09-11 22:51:56 -03\nTrack observed in context : Faith No More — Midlife Crisis\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #2      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #4      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #5      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : CastAudio\nLast known device name    : GNest-MerkleTree speaker\nLast known volume         : 80%\nVolume telemetry          : IDLE (session present, no playback)\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇\nContext observed (UTC)    : 2026-09-12 00:22:19Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 56\nUnique tracks             : 43\nUnique artists            : 9\nReplay ratio              : ████░░░░░░░░░░░░░░  23.2%\nArtist diversity          : ███░░░░░░░░░░░░░░░  16.1%\nDominant artist           : The Black Angels\nDominant artist share     : █████░░░░░░░░░░░░░  26.8%\nArtist switch ratio       : ███░░░░░░░░░░░░░░░  14.5%\nLongest artist streak     : The Black Angels × 15\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    5.4%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%\nAfternoon  12–18           : █████████░░░░░░░░░   48.2%\nEvening    18–24           : ████████░░░░░░░░░░   46.4%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-11 17:32:16Z\nHistory last play (7d)    : 2026-09-15 20:48:29Z\nObserved time span        : 99:16:13\nMean inter-play gap       : 01:48:18\nMedian inter-play gap     : 00:04:33\nLongest inactivity gap    : 63:07:45\nListening intensity       : 0.56 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 20:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              :  ▁▁           ▃▇▃▃ ▁█▇▁ \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :  ▁  █  \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :     ▂     ▁       █    ▄      \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                  █      \nWed                       :                         \nThu                       :                         \nFri                       :               ▃▇▃  ▁█▇▁ \nSat                       :                         \nSun                       :  ▄█                     \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-10 07:47:47Z → 2026-09-17 07:47:47Z\nTracks played (7d)        : 56\nDominant artist           : The Black Angels\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 5\nAvg inter-play gap        : 01:48:18\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : grunge(24) | alternative metal(21) | rap metal(21) | neo-psychedelic(19) | psychedelic rock(19) | space rock(19)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : NO CHANGE\nState transition          : NO CHANGE\nTelemetry interval        : 07:09:30\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 283\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-15 17:48:29 -03\nEvents (24h)              : 0\nEvents (7d)               : 56\nEvents (30d)              : 209\nPlaylist contexts retained: 102\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-17 07:47:47Z",
-  "last_successful_report_utc": "2026-09-17 07:47:47Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Soundgarden — My Wave\nArtist                    : Soundgarden\nTitle                     : My Wave\nAlbum                     : Superunknown (20th Anniversary)\nSpotify URI               : spotify:track:0rCas1F0z7t29UYlcuB81J\nSpotify URL               : https://open.spotify.com/track/0rCas1F0z7t29UYlcuB81J\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-17 09:08:37Z\nPlayed at (local)         : 2026-09-17 06:08:37 -03\nLocal hour                : 06:00\nDaypart                   : MORNING\nTime since play           : 04:26:16\nGap from previous play    : 00:05:13\n------------------------------------------------------------\nPrevious song             : Soundgarden — Let Me Drown\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 2\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03\nPrevious track #2         : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03\nPrevious track #3         : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03\nPrevious track #4         : Kyuss — Gardenia | 2026-09-17 05:42:33 -03\nPrevious track #5         : Helmet — Milquetoast | 2026-09-17 05:35:43 -03\nPrevious track #6         : Helmet — Role Model | 2026-09-17 05:31:53 -03\nPrevious track #7         : Helmet — FBLA II | 2026-09-17 05:28:18 -03\nPrevious track #8         : Helmet — You Borrowed | 2026-09-17 05:24:55 -03\nPrevious track #9         : Helmet — Better | 2026-09-17 05:21:10 -03\nPrevious track #10        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03\nPrevious track #11        : Helmet — Turned Out | 2026-09-17 05:13:57 -03\nPrevious track #12        : Helmet — Unsung | 2026-09-17 05:09:43 -03\nPrevious track #13        : Helmet — Give It | 2026-09-17 05:05:47 -03\nPrevious track #14        : Helmet — Iron Head | 2026-09-17 05:01:30 -03\nPrevious track #15        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03\nPrevious track #16        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03\nPrevious track #17        : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03\nPrevious track #18        : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03\nPrevious track #19        : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03\nPrevious track #20        : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03\nPrevious track #21        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03\nPrevious track #22        : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03\nPrevious track #23        : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03\nPrevious track #24        : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03\nPrevious track #25        : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03\nPrevious track #26        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03\nPrevious track #27        : Faith No More — Epic | 2026-09-11 21:40:51 -03\nPrevious track #28        : Faith No More — Easy | 2026-09-11 21:35:57 -03\nPrevious track #29        : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03\nPrevious track #30        : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03\nPrevious track #31        : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03\nPrevious track #32        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03\nPrevious track #33        : Faith No More — Epic | 2026-09-11 21:08:35 -03\nPrevious track #34        : Faith No More — Easy | 2026-09-11 21:03:41 -03\nPrevious track #35        : Linkin Park — Hit the Floor | 2026-09-11 21:00:27 -03\nPrevious track #36        : Linkin Park — Lying from You | 2026-09-11 20:47:18 -03\nPrevious track #37        : Silverchair — Blind | 2026-09-11 20:43:02 -03\nPrevious track #38        : Silverchair — Tomorrow - Single Version | 2026-09-11 20:37:50 -03\nPrevious track #39        : Silverchair — Findaway | 2026-09-11 20:33:28 -03\nPrevious track #40        : Silverchair — Cicada | 2026-09-11 20:30:30 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-09-11 22:51:56 -03\nTrack observed in context : Faith No More — Midlife Crisis\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #2      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #4      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #5      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : CastAudio\nLast known device name    : GNest-MerkleTree speaker\nLast known volume         : 80%\nVolume telemetry          : IDLE (session present, no playback)\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇\nContext observed (UTC)    : 2026-09-12 00:22:19Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 72\nUnique tracks             : 59\nUnique artists            : 14\nReplay ratio              : ███░░░░░░░░░░░░░░░  18.1%\nArtist diversity          : ████░░░░░░░░░░░░░░  19.4%\nDominant artist           : The Black Angels\nDominant artist share     : ████░░░░░░░░░░░░░░  20.8%\nArtist switch ratio       : ███░░░░░░░░░░░░░░░  18.3%\nLongest artist streak     : The Black Angels × 15\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ████░░░░░░░░░░░░░░   23.6%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    2.8%\nAfternoon  12–18           : ███████░░░░░░░░░░░   37.5%\nEvening    18–24           : ██████░░░░░░░░░░░░   36.1%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-11 17:32:16Z\nHistory last play (7d)    : 2026-09-17 09:08:37Z\nObserved time span        : 135:36:21\nMean inter-play gap       : 01:54:36\nMedian inter-play gap     : 00:04:26\nLongest inactivity gap    : 63:07:45\nListening intensity       : 0.53 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 05:00\nPeak hour (7d)            : 05:00\nHeatmap (24h)             :     ▁█▁                 \nHeatmap (7d)              :  ▁▁ ▁█▁       ▃▇▃▃ ▁█▇▁ \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :  ▁ ▃█  \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :     ▂     ▁       █    ▄     ▁\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                  █      \nWed                       :                         \nThu                       :     ▁█▁                 \nFri                       :               ▃▇▃  ▁█▇▁ \nSat                       :                         \nSun                       :  ▄█                     \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 16\nDominant artist           : Helmet\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-10 13:34:52Z → 2026-09-17 13:34:52Z\nTracks played (7d)        : 72\nDominant artist           : The Black Angels\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 6\nAvg inter-play gap        : 01:54:36\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(14) | post-hardcore(12) | alternative metal(11) | groove metal(11) | noise rock(11) | post-grunge(3)\nTop genres (7d)           : grunge(38) | alternative metal(32) | rap metal(21) | space rock(21) | stoner rock(20) | neo-psychedelic(19)\nArtist lookups (this run) : 1 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Rage Against The Machine — Fistful Of Steel → Soundgarden — My Wave\nPlayback timestamp Δ      : 2026-09-15 20:48:29Z → 2026-09-17 09:08:37Z\nState transition          : NO CHANGE\nTelemetry interval        : 05:47:06\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 299\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-17 06:08:37 -03\nEvents (24h)              : 16\nEvents (7d)               : 72\nEvents (30d)              : 225\nPlaylist contexts retained: 102\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-17 13:34:52Z",
+  "last_successful_report_utc": "2026-09-17 13:34:52Z",
   "recent_playback_history": [
+    {
+      "track": "Soundgarden — My Wave",
+      "artist": "Soundgarden",
+      "title": "My Wave",
+      "album": "Superunknown (20th Anniversary)",
+      "uri": "spotify:track:0rCas1F0z7t29UYlcuB81J",
+      "url": "https://open.spotify.com/track/0rCas1F0z7t29UYlcuB81J",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-09-17 09:08:37Z",
+      "played_at_local": "2026-09-17 06:08:37 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4K8bxkPDa5HENw0TK7WxJh",
+      "context_url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+    },
+    {
+      "track": "Soundgarden — Let Me Drown",
+      "artist": "Soundgarden",
+      "title": "Let Me Drown",
+      "album": "Superunknown (20th Anniversary)",
+      "uri": "spotify:track:1Ytz6zegDXfIg9Ijg1dG0y",
+      "url": "https://open.spotify.com/track/1Ytz6zegDXfIg9Ijg1dG0y",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-09-17 09:03:24Z",
+      "played_at_local": "2026-09-17 06:03:24 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4K8bxkPDa5HENw0TK7WxJh",
+      "context_url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+    },
+    {
+      "track": "Hum — Iron Clad Lou",
+      "artist": "Hum",
+      "title": "Iron Clad Lou",
+      "album": "Electra 2000",
+      "uri": "spotify:track:5z9Z8pKeQkyigKgXmonAS8",
+      "url": "https://open.spotify.com/track/5z9Z8pKeQkyigKgXmonAS8",
+      "artist_ids": [
+        "6sM2JCBjZprP7JLMTZZSxX"
+      ],
+      "played_at_utc": "2026-09-17 08:58:24Z",
+      "played_at_local": "2026-09-17 05:58:24 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4HeZeTLIha8Buv5sWQMjIQ",
+      "context_url": "https://open.spotify.com/album/4HeZeTLIha8Buv5sWQMjIQ"
+    },
+    {
+      "track": "Local H — Manifest Density - Part 2",
+      "artist": "Local H",
+      "title": "Manifest Density - Part 2",
+      "album": "As Good As Dead",
+      "uri": "spotify:track:6U7BFxUaduzUtREisvwkAn",
+      "url": "https://open.spotify.com/track/6U7BFxUaduzUtREisvwkAn",
+      "artist_ids": [
+        "415JrPfN7ukaTu8JV8BLE8"
+      ],
+      "played_at_utc": "2026-09-17 08:46:59Z",
+      "played_at_local": "2026-09-17 05:46:59 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Kyuss — Gardenia",
+      "artist": "Kyuss",
+      "title": "Gardenia",
+      "album": "Welcome to Sky Valley",
+      "uri": "spotify:track:18EkFrYFOGyFK52iiWY8No",
+      "url": "https://open.spotify.com/track/18EkFrYFOGyFK52iiWY8No",
+      "artist_ids": [
+        "3HCpwNmFp2rvjkdjTs4uxs"
+      ],
+      "played_at_utc": "2026-09-17 08:42:33Z",
+      "played_at_local": "2026-09-17 05:42:33 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Milquetoast",
+      "artist": "Helmet",
+      "title": "Milquetoast",
+      "album": "Betty",
+      "uri": "spotify:track:6IsnrcSZvmmd5db8QpQb91",
+      "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:35:43Z",
+      "played_at_local": "2026-09-17 05:35:43 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Role Model",
+      "artist": "Helmet",
+      "title": "Role Model",
+      "album": "Meantime",
+      "uri": "spotify:track:11NEr1yeCun0YPISh4FVVF",
+      "url": "https://open.spotify.com/track/11NEr1yeCun0YPISh4FVVF",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:31:53Z",
+      "played_at_local": "2026-09-17 05:31:53 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — FBLA II",
+      "artist": "Helmet",
+      "title": "FBLA II",
+      "album": "Meantime",
+      "uri": "spotify:track:18HtfEFUEydTblkPTWTicw",
+      "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:28:18Z",
+      "played_at_local": "2026-09-17 05:28:18 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — You Borrowed",
+      "artist": "Helmet",
+      "title": "You Borrowed",
+      "album": "Meantime",
+      "uri": "spotify:track:5RzZkoMROd0iY0iFU31VZE",
+      "url": "https://open.spotify.com/track/5RzZkoMROd0iY0iFU31VZE",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:24:55Z",
+      "played_at_local": "2026-09-17 05:24:55 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Better",
+      "artist": "Helmet",
+      "title": "Better",
+      "album": "Meantime",
+      "uri": "spotify:track:4zifCcliaROnRc1r35F6KN",
+      "url": "https://open.spotify.com/track/4zifCcliaROnRc1r35F6KN",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:21:10Z",
+      "played_at_local": "2026-09-17 05:21:10 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — He Feels Bad",
+      "artist": "Helmet",
+      "title": "He Feels Bad",
+      "album": "Meantime",
+      "uri": "spotify:track:580vmwV7m3VncbxaWdc8q4",
+      "url": "https://open.spotify.com/track/580vmwV7m3VncbxaWdc8q4",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:18:00Z",
+      "played_at_local": "2026-09-17 05:18:00 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Turned Out",
+      "artist": "Helmet",
+      "title": "Turned Out",
+      "album": "Meantime",
+      "uri": "spotify:track:1hkMn2pxLovYof8uDgpiTq",
+      "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:13:57Z",
+      "played_at_local": "2026-09-17 05:13:57 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Unsung",
+      "artist": "Helmet",
+      "title": "Unsung",
+      "album": "Meantime",
+      "uri": "spotify:track:0z25tUQgEI4cIyNZ1TgWig",
+      "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:09:43Z",
+      "played_at_local": "2026-09-17 05:09:43 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Give It",
+      "artist": "Helmet",
+      "title": "Give It",
+      "album": "Meantime",
+      "uri": "spotify:track:6rVleAFgtmJ04Omk6Mmon5",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:05:47Z",
+      "played_at_local": "2026-09-17 05:05:47 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Iron Head",
+      "artist": "Helmet",
+      "title": "Iron Head",
+      "album": "Meantime",
+      "uri": "spotify:track:2FhUbI3O3YQ3N5eGSUDwbX",
+      "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 08:01:30Z",
+      "played_at_local": "2026-09-17 05:01:30 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — In The Meantime",
+      "artist": "Helmet",
+      "title": "In The Meantime",
+      "album": "Meantime",
+      "uri": "spotify:track:6mHgOGBDLM71YzKcwAyiXi",
+      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-09-17 07:58:07Z",
+      "played_at_local": "2026-09-17 04:58:07 -03",
+      "local_hour": 4,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
     {
       "track": "Rage Against The Machine — Fistful Of Steel",
       "artist": "Rage Against The Machine",
@@ -2288,294 +2583,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
       "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Undecided",
-      "artist": "Silverchair",
-      "title": "Undecided",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:3Yhi0Tz3zAD5Q7OUekXsdz",
-      "url": "https://open.spotify.com/track/3Yhi0Tz3zAD5Q7OUekXsdz",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:25:20Z",
-      "played_at_local": "2026-09-11 20:25:20 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Madman",
-      "artist": "Silverchair",
-      "title": "Madman",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
-      "url": "https://open.spotify.com/track/66BwWfwHYkoGSi6iUUj98I",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:20:43Z",
-      "played_at_local": "2026-09-11 20:20:43 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Suicidal Dream",
-      "artist": "Silverchair",
-      "title": "Suicidal Dream",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
-      "url": "https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:18:00Z",
-      "played_at_local": "2026-09-11 20:18:00 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Leave Me Out",
-      "artist": "Silverchair",
-      "title": "Leave Me Out",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
-      "url": "https://open.spotify.com/track/1BDBs8P8JpqsuO9cWyfPlN",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:14:47Z",
-      "played_at_local": "2026-09-11 20:14:47 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Shade",
-      "artist": "Silverchair",
-      "title": "Shade",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
-      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:11:44Z",
-      "played_at_local": "2026-09-11 20:11:44 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Shade",
-      "artist": "Silverchair",
-      "title": "Shade",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
-      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:07:14Z",
-      "played_at_local": "2026-09-11 20:07:14 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Faultline",
-      "artist": "Silverchair",
-      "title": "Faultline",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:18ihvfYz6uiieilnfl4XCs",
-      "url": "https://open.spotify.com/track/18ihvfYz6uiieilnfl4XCs",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:05:38Z",
-      "played_at_local": "2026-09-11 20:05:38 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Tomorrow",
-      "artist": "Silverchair",
-      "title": "Tomorrow",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:24tO365YW6lcZr1hN4Ukzj",
-      "url": "https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 23:01:19Z",
-      "played_at_local": "2026-09-11 20:01:19 -03",
-      "local_hour": 20,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Israel's Son",
-      "artist": "Silverchair",
-      "title": "Israel's Son",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
-      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-09-11 22:56:53Z",
-      "played_at_local": "2026-09-11 19:56:53 -03",
-      "local_hour": 19,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "The Black Angels — Manipulation",
-      "artist": "The Black Angels",
-      "title": "Manipulation",
-      "album": "Passover",
-      "uri": "spotify:track:1Ns4Wso4kehGOQANNEAmOq",
-      "url": "https://open.spotify.com/track/1Ns4Wso4kehGOQANNEAmOq",
-      "artist_ids": [
-        "0VNWuGf8SMVU2AerpdhMbP"
-      ],
-      "played_at_utc": "2026-09-11 19:19:02Z",
-      "played_at_local": "2026-09-11 16:19:02 -03",
-      "local_hour": 16,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
-      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
-    },
-    {
-      "track": "The Black Angels — Black Grease",
-      "artist": "The Black Angels",
-      "title": "Black Grease",
-      "album": "Passover",
-      "uri": "spotify:track:2JGnH3D1ubBikQqGdlMURP",
-      "url": "https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP",
-      "artist_ids": [
-        "0VNWuGf8SMVU2AerpdhMbP"
-      ],
-      "played_at_utc": "2026-09-11 19:15:26Z",
-      "played_at_local": "2026-09-11 16:15:26 -03",
-      "local_hour": 16,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
-      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
-    },
-    {
-      "track": "The Black Angels — The Prodigal Sun",
-      "artist": "The Black Angels",
-      "title": "The Prodigal Sun",
-      "album": "Passover",
-      "uri": "spotify:track:4PIhPeqHOxWvZOBEcrLh1o",
-      "url": "https://open.spotify.com/track/4PIhPeqHOxWvZOBEcrLh1o",
-      "artist_ids": [
-        "0VNWuGf8SMVU2AerpdhMbP"
-      ],
-      "played_at_utc": "2026-09-11 19:10:53Z",
-      "played_at_local": "2026-09-11 16:10:53 -03",
-      "local_hour": 16,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
-      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
-    },
-    {
-      "track": "The Black Angels — The Sniper At The Gates Of Heaven",
-      "artist": "The Black Angels",
-      "title": "The Sniper At The Gates Of Heaven",
-      "album": "Passover",
-      "uri": "spotify:track:5nBkvW38Lilarvhsqlgw9D",
-      "url": "https://open.spotify.com/track/5nBkvW38Lilarvhsqlgw9D",
-      "artist_ids": [
-        "0VNWuGf8SMVU2AerpdhMbP"
-      ],
-      "played_at_utc": "2026-09-11 19:06:30Z",
-      "played_at_local": "2026-09-11 16:06:30 -03",
-      "local_hour": 16,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
-      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
-    },
-    {
-      "track": "The Black Angels — The First Vietnamese War",
-      "artist": "The Black Angels",
-      "title": "The First Vietnamese War",
-      "album": "Passover",
-      "uri": "spotify:track:7pKwlfZtq5kdLgWrLYUAXJ",
-      "url": "https://open.spotify.com/track/7pKwlfZtq5kdLgWrLYUAXJ",
-      "artist_ids": [
-        "0VNWuGf8SMVU2AerpdhMbP"
-      ],
-      "played_at_utc": "2026-09-11 19:02:13Z",
-      "played_at_local": "2026-09-11 16:02:13 -03",
-      "local_hour": 16,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
-      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
-    },
-    {
-      "track": "The Black Angels — Young Men Dead",
-      "artist": "The Black Angels",
-      "title": "Young Men Dead",
-      "album": "Passover",
-      "uri": "spotify:track:2C7CRmiNGiyO8TSgAZwA2X",
-      "url": "https://open.spotify.com/track/2C7CRmiNGiyO8TSgAZwA2X",
-      "artist_ids": [
-        "0VNWuGf8SMVU2AerpdhMbP"
-      ],
-      "played_at_utc": "2026-09-11 18:58:43Z",
-      "played_at_local": "2026-09-11 15:58:43 -03",
-      "local_hour": 15,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:2FAy8Nv76C9mT6xIwvSVg1",
-      "context_url": "https://open.spotify.com/album/2FAy8Nv76C9mT6xIwvSVg1"
-    },
-    {
-      "track": "The Black Angels — Black Grease",
-      "artist": "The Black Angels",
-      "title": "Black Grease",
-      "album": "Passover",
-      "uri": "spotify:track:2JGnH3D1ubBikQqGdlMURP",
-      "url": "https://open.spotify.com/track/2JGnH3D1ubBikQqGdlMURP",
-      "artist_ids": [
-        "0VNWuGf8SMVU2AerpdhMbP"
-      ],
-      "played_at_utc": "2026-09-11 18:47:35Z",
-      "played_at_local": "2026-09-11 15:47:35 -03",
-      "local_hour": 15,
-      "weekday": 4,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:0VNWuGf8SMVU2AerpdhMbP",
-      "context_url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
     }
   ],
   "last_known_device_type": "CastAudio",
@@ -2583,25 +2590,25 @@
   "last_known_volume_percent": 80,
   "last_known_volume_telemetry": "IDLE (session present, no playback)",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-09-17 07:47:47Z",
-    "week_window_utc": "2026-09-10 07:47:47Z → 2026-09-17 07:47:47Z",
-    "tracks_24h": 0,
-    "tracks_7d": 56,
-    "dominant_artist_24h": "N/A",
+    "captured_utc": "2026-09-17 13:34:52Z",
+    "week_window_utc": "2026-09-10 13:34:52Z → 2026-09-17 13:34:52Z",
+    "tracks_24h": 16,
+    "tracks_7d": 72,
+    "dominant_artist_24h": "Helmet",
     "dominant_artist_7d": "The Black Angels",
-    "listening_pattern_24h": "No activity",
-    "activity_status_24h": "NONE",
+    "listening_pattern_24h": "Regular cadence",
+    "activity_status_24h": "MEDIUM",
     "cadence_7d": "HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "N/A",
-    "peak_hour_7d": "20:00",
-    "heatmap_24h": "N/A",
-    "heatmap_7d": " ▁▁           ▃▇▃▃ ▁█▇▁ ",
-    "sessions_24h": "N/A",
-    "sessions_7d": 5,
-    "avg_inter_play_gap_7d": "01:48:18",
-    "top_genres_24h": "N/A",
-    "top_genres_7d": "grunge(24) | alternative metal(21) | rap metal(21) | neo-psychedelic(19) | psychedelic rock(19) | space rock(19)"
+    "peak_hour_24h": "05:00",
+    "peak_hour_7d": "05:00",
+    "heatmap_24h": "    ▁█▁                 ",
+    "heatmap_7d": " ▁▁ ▁█▁       ▃▇▃▃ ▁█▇▁ ",
+    "sessions_24h": 1,
+    "sessions_7d": 6,
+    "avg_inter_play_gap_7d": "01:54:36",
+    "top_genres_24h": "grunge(14) | post-hardcore(12) | alternative metal(11) | groove metal(11) | noise rock(11) | post-grunge(3)",
+    "top_genres_7d": "grunge(38) | alternative metal(32) | rap metal(21) | space rock(21) | stoner rock(20) | neo-psychedelic(19)"
   },
   "last_known_device_captured_utc": "2026-09-12 00:22:19Z"
 }
