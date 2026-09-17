@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-17 17:43:26Z
 Played at (local)         : 2026-09-17 14:43:26 -03
 Local hour                : 14:00
 Daypart                   : AFTERNOON
-Time since play           : 00:37:01
+Time since play           : 03:47:17
 Gap from previous play    : 00:07:11
 ------------------------------------------------------------
 Previous song             : The Fierce & the Dead — Dream Sequence
@@ -1641,7 +1641,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-10 18:20:26Z → 2026-09-17 18:20:26Z
+Week window (UTC)         : 2026-09-10 21:30:43Z → 2026-09-17 21:30:43Z
 Tracks played (7d)        : 75
 Dominant artist           : The Black Angels
 Cadence classification    : HIGH
@@ -1657,14 +1657,14 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(15) | alternative metal(12) | post-hardcore(12) | groove metal(11) | noise rock(11) | post-grunge(4)
 Top genres (7d)           : grunge(39) | alternative metal(33) | rap metal(22) | space rock(22) | stoner rock(21) | neo-psychedelic(19)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Soundgarden — My Wave → Chris Yerinides & the Rough Edges — Yesterdays
-Playback timestamp Δ      : 2026-09-17 09:08:37Z → 2026-09-17 17:43:26Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:45:35
+Telemetry interval        : 03:10:17
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1702,7 +1702,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-17 18:20:26Z
+Report generated (UTC)    : 2026-09-17 21:30:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
