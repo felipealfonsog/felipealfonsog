@@ -1,8 +1,44 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-17 21:30:43Z",
+  "updated_utc": "2026-09-18 00:27:15Z",
   "events": [
+    {
+      "track": "Rage Against The Machine — Killing In The Name",
+      "artist": "Rage Against The Machine",
+      "title": "Killing In The Name",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:59WN2psjkt1tyaxjspN8fp",
+      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:25:21Z",
+      "played_at_local": "2026-09-17 21:25:21 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Bombtrack",
+      "artist": "Rage Against The Machine",
+      "title": "Bombtrack",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:2rBHnIxbhkMGLpqmsNX91M",
+      "url": "https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:20:08Z",
+      "played_at_local": "2026-09-17 21:20:08 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
     {
       "track": "Chris Yerinides & the Rough Edges — Yesterdays",
       "artist": "Chris Yerinides & the Rough Edges",
@@ -60,6 +96,24 @@
       "context_type": "album",
       "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
       "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Soundgarden — Fell On Black Days",
+      "artist": "Soundgarden",
+      "title": "Fell On Black Days",
+      "album": "Superunknown (20th Anniversary)",
+      "uri": "spotify:track:21HWc9gFZKNdkGzGqHLq3A",
+      "url": "https://open.spotify.com/track/21HWc9gFZKNdkGzGqHLq3A",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-09-17 09:09:13Z",
+      "played_at_local": "2026-09-17 06:09:13 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4K8bxkPDa5HENw0TK7WxJh",
+      "context_url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
     },
     {
       "track": "Soundgarden — My Wave",
@@ -5855,6 +5909,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-18 00:27:15Z",
+      "is_playing": true,
+      "track": "Rage Against The Machine — Take The Power Back",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Computer",
+      "device_name": "Felipe’s MacBook Air Silicon",
+      "volume_percent": 100,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-09-12 04:45:52Z",
       "is_playing": false,
