@@ -1,8 +1,128 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-18 20:59:09Z",
+  "updated_utc": "2026-09-18 23:13:48Z",
   "events": [
+    {
+      "track": "77 — Down and Dirty",
+      "artist": "77",
+      "title": "Down and Dirty",
+      "album": "Maximum Rock 'n Roll",
+      "uri": "spotify:track:3Nz7t7PIUzZRSfUlF0LY39",
+      "url": "https://open.spotify.com/track/3Nz7t7PIUzZRSfUlF0LY39",
+      "artist_ids": [
+        "1HC7bjD2r2Ezgs4PITQWvd"
+      ],
+      "played_at_utc": "2026-09-18 23:12:43Z",
+      "played_at_local": "2026-09-18 20:12:43 -03",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix",
+      "artist": "The Rolling Stones",
+      "title": "Can't You Hear Me Knocking - 2009 Mix",
+      "album": "Sticky Fingers (Remastered)",
+      "uri": "spotify:track:1hIQPCM3oWXrpnXmgTDaKG",
+      "url": "https://open.spotify.com/track/1hIQPCM3oWXrpnXmgTDaKG",
+      "artist_ids": [
+        "22bE4uQ6baNwSHPVcDxLCe"
+      ],
+      "played_at_utc": "2026-09-18 23:09:02Z",
+      "played_at_local": "2026-09-18 20:09:02 -03",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "AC/DC — Whole Lotta Rosie",
+      "artist": "AC/DC",
+      "title": "Whole Lotta Rosie",
+      "album": "Let There Be Rock",
+      "uri": "spotify:track:4wYq5wugZDzQiMZQYG4wVB",
+      "url": "https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB",
+      "artist_ids": [
+        "711MCceyCBcFnzjGY4Q7Un"
+      ],
+      "played_at_utc": "2026-09-18 23:01:51Z",
+      "played_at_local": "2026-09-18 20:01:51 -03",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "Black Sabbath — War Pigs - 2009 Remaster",
+      "artist": "Black Sabbath",
+      "title": "War Pigs - 2009 Remaster",
+      "album": "Paranoid",
+      "uri": "spotify:track:6TYQRlRci6AkVrN9a5C7ne",
+      "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne",
+      "artist_ids": [
+        "5M52tdBnJaKSvOpJGz8mfZ"
+      ],
+      "played_at_utc": "2026-09-18 22:56:22Z",
+      "played_at_local": "2026-09-18 19:56:22 -03",
+      "local_hour": 19,
+      "weekday": 4
+    },
+    {
+      "track": "Lynyrd Skynyrd — The Needle And The Spoon",
+      "artist": "Lynyrd Skynyrd",
+      "title": "The Needle And The Spoon",
+      "album": "Second Helping (Expanded Edition)",
+      "uri": "spotify:track:2OOcagX0sr4SQuBbHJkE5I",
+      "url": "https://open.spotify.com/track/2OOcagX0sr4SQuBbHJkE5I",
+      "artist_ids": [
+        "4MVyzYMgTwdP7Z49wAZHx0"
+      ],
+      "played_at_utc": "2026-09-18 22:48:32Z",
+      "played_at_local": "2026-09-18 19:48:32 -03",
+      "local_hour": 19,
+      "weekday": 4
+    },
+    {
+      "track": "Led Zeppelin — When the Levee Breaks - Remaster",
+      "artist": "Led Zeppelin",
+      "title": "When the Levee Breaks - Remaster",
+      "album": "Led Zeppelin IV (Deluxe Edition)",
+      "uri": "spotify:track:05f8Hg3RSfiPSCBQOtxl3i",
+      "url": "https://open.spotify.com/track/05f8Hg3RSfiPSCBQOtxl3i",
+      "artist_ids": [
+        "36QJpDe2go2KgaRleHCDTp"
+      ],
+      "played_at_utc": "2026-09-18 22:44:44Z",
+      "played_at_local": "2026-09-18 19:44:44 -03",
+      "local_hour": 19,
+      "weekday": 4
+    },
+    {
+      "track": "Creedence Clearwater Revival — Run Through The Jungle",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Run Through The Jungle",
+      "album": "Cosmo's Factory",
+      "uri": "spotify:track:5VfgDw3oOzcNoszDwkLQhH",
+      "url": "https://open.spotify.com/track/5VfgDw3oOzcNoszDwkLQhH",
+      "artist_ids": [
+        "3IYUhFvPQItj6xySrBmZkd"
+      ],
+      "played_at_utc": "2026-09-18 22:37:40Z",
+      "played_at_local": "2026-09-18 19:37:40 -03",
+      "local_hour": 19,
+      "weekday": 4
+    },
+    {
+      "track": "AC/DC — Touch Too Much",
+      "artist": "AC/DC",
+      "title": "Touch Too Much",
+      "album": "Highway to Hell",
+      "uri": "spotify:track:2j0zExWFB0PowLOeoZosjK",
+      "url": "https://open.spotify.com/track/2j0zExWFB0PowLOeoZosjK",
+      "artist_ids": [
+        "711MCceyCBcFnzjGY4Q7Un"
+      ],
+      "played_at_utc": "2026-09-18 22:34:40Z",
+      "played_at_local": "2026-09-18 19:34:40 -03",
+      "local_hour": 19,
+      "weekday": 4
+    },
     {
       "track": "Rage Against The Machine — Freedom",
       "artist": "Rage Against The Machine",
@@ -6053,6 +6173,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-18 23:13:48Z",
+      "is_playing": true,
+      "track": "The Who — The Seeker - Original Single A-Side Mix",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Smartphone",
+      "device_name": "iPhone",
+      "volume_percent": 100,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-09-18 07:28:10Z",
       "is_playing": false,
