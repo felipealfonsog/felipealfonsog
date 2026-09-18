@@ -1,8 +1,152 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-18 00:27:15Z",
+  "updated_utc": "2026-09-18 07:28:10Z",
   "events": [
+    {
+      "track": "Rage Against The Machine — Freedom",
+      "artist": "Rage Against The Machine",
+      "title": "Freedom",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:48lQegoLqGAzaRLnMwK0mO",
+      "url": "https://open.spotify.com/track/48lQegoLqGAzaRLnMwK0mO",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 01:12:05Z",
+      "played_at_local": "2026-09-17 22:12:05 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Township Rebellion",
+      "artist": "Rage Against The Machine",
+      "title": "Township Rebellion",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:4BOOsIe7Zx3SKJAEXgt1YH",
+      "url": "https://open.spotify.com/track/4BOOsIe7Zx3SKJAEXgt1YH",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 01:05:58Z",
+      "played_at_local": "2026-09-17 22:05:58 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Fistful Of Steel",
+      "artist": "Rage Against The Machine",
+      "title": "Fistful Of Steel",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:67qdozSgFFHL6VGW85KmtD",
+      "url": "https://open.spotify.com/track/67qdozSgFFHL6VGW85KmtD",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 01:00:34Z",
+      "played_at_local": "2026-09-17 22:00:34 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Wake Up",
+      "artist": "Rage Against The Machine",
+      "title": "Wake Up",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:2QiqwOVUctPRVggO9G1Zs5",
+      "url": "https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:51:49Z",
+      "played_at_local": "2026-09-17 21:51:49 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Know Your Enemy",
+      "artist": "Rage Against The Machine",
+      "title": "Know Your Enemy",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:1XTGyfJeMiZXrZ1W3NolcB",
+      "url": "https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:45:45Z",
+      "played_at_local": "2026-09-17 21:45:45 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Bullet In The Head",
+      "artist": "Rage Against The Machine",
+      "title": "Bullet In The Head",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:1WWgMk8nD79p8VeKFGYrOw",
+      "url": "https://open.spotify.com/track/1WWgMk8nD79p8VeKFGYrOw",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:40:51Z",
+      "played_at_local": "2026-09-17 21:40:51 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Settle For Nothing",
+      "artist": "Rage Against The Machine",
+      "title": "Settle For Nothing",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:1CbG6oKKrYEw3W1DnddDFv",
+      "url": "https://open.spotify.com/track/1CbG6oKKrYEw3W1DnddDFv",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:35:44Z",
+      "played_at_local": "2026-09-17 21:35:44 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Take The Power Back",
+      "artist": "Rage Against The Machine",
+      "title": "Take The Power Back",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:25CbtOzU8Pn17SAaXFjIR3",
+      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:30:58Z",
+      "played_at_local": "2026-09-17 21:30:58 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
     {
       "track": "Rage Against The Machine — Killing In The Name",
       "artist": "Rage Against The Machine",
@@ -5909,6 +6053,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-18 07:28:10Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-09-18 00:27:15Z",
       "is_playing": true,

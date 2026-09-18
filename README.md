@@ -1488,69 +1488,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Rage Against The Machine — Killing In The Name
+Track                     : Rage Against The Machine — Freedom
 Artist                    : Rage Against The Machine
-Title                     : Killing In The Name
+Title                     : Freedom
 Album                     : Rage Against The Machine - XX (20th Anniversary Special Edition)
-Spotify URI               : spotify:track:59WN2psjkt1tyaxjspN8fp
-Spotify URL               : https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp
+Spotify URI               : spotify:track:48lQegoLqGAzaRLnMwK0mO
+Spotify URL               : https://open.spotify.com/track/48lQegoLqGAzaRLnMwK0mO
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-18 00:25:21Z
-Played at (local)         : 2026-09-17 21:25:21 -03
-Local hour                : 21:00
+Played at (UTC)           : 2026-09-18 01:12:05Z
+Played at (local)         : 2026-09-17 22:12:05 -03
+Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 00:01:55
-Gap from previous play    : 00:05:13
+Time since play           : 06:16:06
+Gap from previous play    : 00:06:07
 ------------------------------------------------------------
-Previous song             : Rage Against The Machine — Bombtrack
+Previous song             : Rage Against The Machine — Township Rebellion
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 3
-Artist plays (retained)   : 11
+Track plays (retained)    : 1
+Artist plays (retained)   : 19
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Rage Against The Machine — Bombtrack | 2026-09-17 21:20:08 -03
-Previous track #2         : Chris Yerinides & the Rough Edges — Yesterdays | 2026-09-17 14:43:26 -03
-Previous track #3         : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03
-Previous track #4         : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03
-Previous track #5         : Soundgarden — Fell On Black Days | 2026-09-17 06:09:13 -03
-Previous track #6         : Soundgarden — My Wave | 2026-09-17 06:08:37 -03
-Previous track #7         : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03
-Previous track #8         : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03
-Previous track #9         : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03
-Previous track #10        : Kyuss — Gardenia | 2026-09-17 05:42:33 -03
-Previous track #11        : Helmet — Milquetoast | 2026-09-17 05:35:43 -03
-Previous track #12        : Helmet — Role Model | 2026-09-17 05:31:53 -03
-Previous track #13        : Helmet — FBLA II | 2026-09-17 05:28:18 -03
-Previous track #14        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03
-Previous track #15        : Helmet — Better | 2026-09-17 05:21:10 -03
-Previous track #16        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03
-Previous track #17        : Helmet — Turned Out | 2026-09-17 05:13:57 -03
-Previous track #18        : Helmet — Unsung | 2026-09-17 05:09:43 -03
-Previous track #19        : Helmet — Give It | 2026-09-17 05:05:47 -03
-Previous track #20        : Helmet — Iron Head | 2026-09-17 05:01:30 -03
-Previous track #21        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03
-Previous track #22        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03
-Previous track #23        : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03
-Previous track #24        : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03
-Previous track #25        : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03
-Previous track #26        : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03
-Previous track #27        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03
-Previous track #28        : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03
-Previous track #29        : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03
-Previous track #30        : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03
-Previous track #31        : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03
-Previous track #32        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03
-Previous track #33        : Faith No More — Epic | 2026-09-11 21:40:51 -03
-Previous track #34        : Faith No More — Easy | 2026-09-11 21:35:57 -03
-Previous track #35        : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03
-Previous track #36        : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03
-Previous track #37        : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03
-Previous track #38        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03
-Previous track #39        : Faith No More — Epic | 2026-09-11 21:08:35 -03
-Previous track #40        : Faith No More — Easy | 2026-09-11 21:03:41 -03
+Previous track #1         : Rage Against The Machine — Township Rebellion | 2026-09-17 22:05:58 -03
+Previous track #2         : Rage Against The Machine — Fistful Of Steel | 2026-09-17 22:00:34 -03
+Previous track #3         : Rage Against The Machine — Wake Up | 2026-09-17 21:51:49 -03
+Previous track #4         : Rage Against The Machine — Know Your Enemy | 2026-09-17 21:45:45 -03
+Previous track #5         : Rage Against The Machine — Bullet In The Head | 2026-09-17 21:40:51 -03
+Previous track #6         : Rage Against The Machine — Settle For Nothing | 2026-09-17 21:35:44 -03
+Previous track #7         : Rage Against The Machine — Take The Power Back | 2026-09-17 21:30:58 -03
+Previous track #8         : Rage Against The Machine — Killing In The Name | 2026-09-17 21:25:21 -03
+Previous track #9         : Rage Against The Machine — Bombtrack | 2026-09-17 21:20:08 -03
+Previous track #10        : Chris Yerinides & the Rough Edges — Yesterdays | 2026-09-17 14:43:26 -03
+Previous track #11        : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03
+Previous track #12        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03
+Previous track #13        : Soundgarden — Fell On Black Days | 2026-09-17 06:09:13 -03
+Previous track #14        : Soundgarden — My Wave | 2026-09-17 06:08:37 -03
+Previous track #15        : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03
+Previous track #16        : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03
+Previous track #17        : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03
+Previous track #18        : Kyuss — Gardenia | 2026-09-17 05:42:33 -03
+Previous track #19        : Helmet — Milquetoast | 2026-09-17 05:35:43 -03
+Previous track #20        : Helmet — Role Model | 2026-09-17 05:31:53 -03
+Previous track #21        : Helmet — FBLA II | 2026-09-17 05:28:18 -03
+Previous track #22        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03
+Previous track #23        : Helmet — Better | 2026-09-17 05:21:10 -03
+Previous track #24        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03
+Previous track #25        : Helmet — Turned Out | 2026-09-17 05:13:57 -03
+Previous track #26        : Helmet — Unsung | 2026-09-17 05:09:43 -03
+Previous track #27        : Helmet — Give It | 2026-09-17 05:05:47 -03
+Previous track #28        : Helmet — Iron Head | 2026-09-17 05:01:30 -03
+Previous track #29        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03
+Previous track #30        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03
+Previous track #31        : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03
+Previous track #32        : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03
+Previous track #33        : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03
+Previous track #34        : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03
+Previous track #35        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03
+Previous track #36        : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03
+Previous track #37        : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03
+Previous track #38        : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03
+Previous track #39        : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03
+Previous track #40        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1578,47 +1578,47 @@ Context observed (UTC)    : 2026-09-18 00:27:15Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 78
-Unique tracks             : 62
+Observed events           : 86
+Unique tracks             : 67
 Unique artists            : 16
-Replay ratio              : ████░░░░░░░░░░░░░░  20.5%
-Artist diversity          : ████░░░░░░░░░░░░░░  20.5%
-Dominant artist           : The Black Angels
-Dominant artist share     : ███░░░░░░░░░░░░░░░  19.2%
-Artist switch ratio       : ████░░░░░░░░░░░░░░  22.1%
+Replay ratio              : ████░░░░░░░░░░░░░░  22.1%
+Artist diversity          : ███░░░░░░░░░░░░░░░  18.6%
+Dominant artist           : Rage Against The Machine
+Dominant artist share     : ████░░░░░░░░░░░░░░  22.1%
+Artist switch ratio       : ████░░░░░░░░░░░░░░  20.0%
 Longest artist streak     : The Black Angels × 15
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ████░░░░░░░░░░░░░░   21.8%
-Morning    06–12           : █░░░░░░░░░░░░░░░░░    3.8%
-Afternoon  12–18           : ███████░░░░░░░░░░░   38.5%
-Evening    18–24           : ██████░░░░░░░░░░░░   35.9%
-Dominant period           : AFTERNOON
+Night      00–06           : ████░░░░░░░░░░░░░░   19.8%
+Morning    06–12           : █░░░░░░░░░░░░░░░░░    3.5%
+Afternoon  12–18           : ██████░░░░░░░░░░░░   34.9%
+Evening    18–24           : ████████░░░░░░░░░░   41.9%
+Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-11 17:32:16Z
-History last play (7d)    : 2026-09-18 00:25:21Z
-Observed time span        : 150:53:05
-Mean inter-play gap       : 01:57:34
-Median inter-play gap     : 00:04:28
+History last play (7d)    : 2026-09-18 01:12:05Z
+Observed time span        : 151:39:49
+Mean inter-play gap       : 01:47:03
+Median inter-play gap     : 00:04:37
 Longest inactivity gap    : 63:07:45
-Listening intensity       : 0.52 tracks/hour
+Listening intensity       : 0.57 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
-Peak hour (7d)            : 05:00
-Heatmap (24h)             :     ▁█▂       ▂      ▁  
-Heatmap (7d)              :  ▁▁ ▁█▂       ▅▇▃▃ ▁██▁ 
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :     ▁█▂       ▂      ▄▂ 
+Heatmap (7d)              :   ▁  ▆▁       ▄▅▂▂  ▆█▂ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁ ▄█  
+Activity (Mon→Sun)        :  ▁ ▅█  
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :     ▂     ▁       █    ▄     ▂
+Activity trend (30d)      :    ▂     ▁       █    ▄     ▂ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1626,7 +1626,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                         
 Tue                       :                  █      
 Wed                       :                         
-Thu                       :     ▁█▂       ▂      ▁  
+Thu                       :     ▁█▂       ▂      ▄▂ 
 Fri                       :               ▃▇▃  ▁█▇▁ 
 Sat                       :                         
 Sun                       :  ▄█                     
@@ -1634,56 +1634,56 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 22
-Dominant artist           : Helmet
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 30
+Dominant artist           : Rage Against The Machine
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-11 00:27:15Z → 2026-09-18 00:27:15Z
-Tracks played (7d)        : 78
-Dominant artist           : The Black Angels
-Cadence classification    : HIGH
+Week window (UTC)         : 2026-09-11 07:28:10Z → 2026-09-18 07:28:10Z
+Tracks played (7d)        : 86
+Dominant artist           : Rage Against The Machine
+Cadence classification    : VERY HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 8
-Avg inter-play gap        : 01:57:34
+Avg inter-play gap        : 01:47:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(16) | alternative metal(14) | post-hardcore(12) | groove metal(11) | noise rock(11) | post-grunge(5)
-Top genres (7d)           : grunge(40) | alternative metal(35) | rap metal(24) | space rock(22) | stoner rock(21) | neo-psychedelic(19)
+Top genres (24h)          : alternative metal(22) | grunge(16) | post-hardcore(12) | groove metal(11) | noise rock(11) | nu metal(11)
+Top genres (7d)           : alternative metal(43) | grunge(40) | rap metal(32) | space rock(22) | nu metal(21) | stoner rock(21)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Chris Yerinides & the Rough Edges — Yesterdays → Rage Against The Machine — Killing In The Name
-Playback timestamp Δ      : 2026-09-17 17:43:26Z → 2026-09-18 00:25:21Z
-State transition          : IDLE → PLAYING
-Telemetry interval        : 02:56:33
+Track transition          : Rage Against The Machine — Killing In The Name → Rage Against The Machine — Freedom
+Playback timestamp Δ      : 2026-09-18 00:25:21Z → 2026-09-18 01:12:05Z
+State transition          : PLAYING → IDLE
+Telemetry interval        : 07:00:56
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 305
+Events retained           : 313
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-17 21:25:21 -03
-Events (24h)              : 22
-Events (7d)               : 78
-Events (30d)              : 231
+Newest retained event     : 2026-09-17 22:12:05 -03
+Events (24h)              : 30
+Events (7d)               : 86
+Events (30d)              : 239
 Playlist contexts retained: 103
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1702,7 +1702,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-18 00:27:15Z
+Report generated (UTC)    : 2026-09-18 07:28:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

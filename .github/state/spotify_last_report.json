@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-09-18 00:27:15Z",
-  "status": "PLAYING",
-  "last_track": "Rage Against The Machine — Killing In The Name",
-  "last_played_utc": "2026-09-18 00:25:21Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-09-18 07:28:10Z",
+  "status": "IDLE",
+  "last_track": "Rage Against The Machine — Freedom",
+  "last_played_utc": "2026-09-18 01:12:05Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -1811,9 +1811,153 @@
       "math rock"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Rage Against The Machine — Killing In The Name\nArtist                    : Rage Against The Machine\nTitle                     : Killing In The Name\nAlbum                     : Rage Against The Machine - XX (20th Anniversary Special Edition)\nSpotify URI               : spotify:track:59WN2psjkt1tyaxjspN8fp\nSpotify URL               : https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-18 00:25:21Z\nPlayed at (local)         : 2026-09-17 21:25:21 -03\nLocal hour                : 21:00\nDaypart                   : EVENING\nTime since play           : 00:01:55\nGap from previous play    : 00:05:13\n------------------------------------------------------------\nPrevious song             : Rage Against The Machine — Bombtrack\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 3\nArtist plays (retained)   : 11\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Rage Against The Machine — Bombtrack | 2026-09-17 21:20:08 -03\nPrevious track #2         : Chris Yerinides & the Rough Edges — Yesterdays | 2026-09-17 14:43:26 -03\nPrevious track #3         : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03\nPrevious track #4         : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03\nPrevious track #5         : Soundgarden — Fell On Black Days | 2026-09-17 06:09:13 -03\nPrevious track #6         : Soundgarden — My Wave | 2026-09-17 06:08:37 -03\nPrevious track #7         : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03\nPrevious track #8         : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03\nPrevious track #9         : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03\nPrevious track #10        : Kyuss — Gardenia | 2026-09-17 05:42:33 -03\nPrevious track #11        : Helmet — Milquetoast | 2026-09-17 05:35:43 -03\nPrevious track #12        : Helmet — Role Model | 2026-09-17 05:31:53 -03\nPrevious track #13        : Helmet — FBLA II | 2026-09-17 05:28:18 -03\nPrevious track #14        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03\nPrevious track #15        : Helmet — Better | 2026-09-17 05:21:10 -03\nPrevious track #16        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03\nPrevious track #17        : Helmet — Turned Out | 2026-09-17 05:13:57 -03\nPrevious track #18        : Helmet — Unsung | 2026-09-17 05:09:43 -03\nPrevious track #19        : Helmet — Give It | 2026-09-17 05:05:47 -03\nPrevious track #20        : Helmet — Iron Head | 2026-09-17 05:01:30 -03\nPrevious track #21        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03\nPrevious track #22        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03\nPrevious track #23        : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03\nPrevious track #24        : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03\nPrevious track #25        : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03\nPrevious track #26        : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03\nPrevious track #27        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03\nPrevious track #28        : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03\nPrevious track #29        : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03\nPrevious track #30        : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03\nPrevious track #31        : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03\nPrevious track #32        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03\nPrevious track #33        : Faith No More — Epic | 2026-09-11 21:40:51 -03\nPrevious track #34        : Faith No More — Easy | 2026-09-11 21:35:57 -03\nPrevious track #35        : Faith No More — Falling to Pieces | 2026-09-11 21:30:12 -03\nPrevious track #36        : Faith No More — Midlife Crisis | 2026-09-11 21:20:38 -03\nPrevious track #37        : Faith No More — We Care a Lot | 2026-09-11 21:16:17 -03\nPrevious track #38        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:12:12 -03\nPrevious track #39        : Faith No More — Epic | 2026-09-11 21:08:35 -03\nPrevious track #40        : Faith No More — Easy | 2026-09-11 21:03:41 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : How To Get Into The Fierce And The Dead \nContext observed (local)  : 2026-09-17 14:36:15 -03\nTrack observed in context : The Fierce & the Dead — Dream Sequence\nSpotify playlist URI      : spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI\nSpotify playlist URL      : https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #3      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #5      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-18 00:27:15Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 78\nUnique tracks             : 62\nUnique artists            : 16\nReplay ratio              : ████░░░░░░░░░░░░░░  20.5%\nArtist diversity          : ████░░░░░░░░░░░░░░  20.5%\nDominant artist           : The Black Angels\nDominant artist share     : ███░░░░░░░░░░░░░░░  19.2%\nArtist switch ratio       : ████░░░░░░░░░░░░░░  22.1%\nLongest artist streak     : The Black Angels × 15\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ████░░░░░░░░░░░░░░   21.8%\nMorning    06–12           : █░░░░░░░░░░░░░░░░░    3.8%\nAfternoon  12–18           : ███████░░░░░░░░░░░   38.5%\nEvening    18–24           : ██████░░░░░░░░░░░░   35.9%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-11 17:32:16Z\nHistory last play (7d)    : 2026-09-18 00:25:21Z\nObserved time span        : 150:53:05\nMean inter-play gap       : 01:57:34\nMedian inter-play gap     : 00:04:28\nLongest inactivity gap    : 63:07:45\nListening intensity       : 0.52 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 05:00\nPeak hour (7d)            : 05:00\nHeatmap (24h)             :     ▁█▂       ▂      ▁  \nHeatmap (7d)              :  ▁▁ ▁█▂       ▅▇▃▃ ▁██▁ \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :  ▁ ▄█  \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :     ▂     ▁       █    ▄     ▂\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                  █      \nWed                       :                         \nThu                       :     ▁█▂       ▂      ▁  \nFri                       :               ▃▇▃  ▁█▇▁ \nSat                       :                         \nSun                       :  ▄█                     \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 22\nDominant artist           : Helmet\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-11 00:27:15Z → 2026-09-18 00:27:15Z\nTracks played (7d)        : 78\nDominant artist           : The Black Angels\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 8\nAvg inter-play gap        : 01:57:34\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(16) | alternative metal(14) | post-hardcore(12) | groove metal(11) | noise rock(11) | post-grunge(5)\nTop genres (7d)           : grunge(40) | alternative metal(35) | rap metal(24) | space rock(22) | stoner rock(21) | neo-psychedelic(19)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Chris Yerinides & the Rough Edges — Yesterdays → Rage Against The Machine — Killing In The Name\nPlayback timestamp Δ      : 2026-09-17 17:43:26Z → 2026-09-18 00:25:21Z\nState transition          : IDLE → PLAYING\nTelemetry interval        : 02:56:33\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 305\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-17 21:25:21 -03\nEvents (24h)              : 22\nEvents (7d)               : 78\nEvents (30d)              : 231\nPlaylist contexts retained: 103\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-18 00:27:15Z",
-  "last_successful_report_utc": "2026-09-18 00:27:15Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Rage Against The Machine — Freedom\nArtist                    : Rage Against The Machine\nTitle                     : Freedom\nAlbum                     : Rage Against The Machine - XX (20th Anniversary Special Edition)\nSpotify URI               : spotify:track:48lQegoLqGAzaRLnMwK0mO\nSpotify URL               : https://open.spotify.com/track/48lQegoLqGAzaRLnMwK0mO\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-18 01:12:05Z\nPlayed at (local)         : 2026-09-17 22:12:05 -03\nLocal hour                : 22:00\nDaypart                   : EVENING\nTime since play           : 06:16:06\nGap from previous play    : 00:06:07\n------------------------------------------------------------\nPrevious song             : Rage Against The Machine — Township Rebellion\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 19\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Rage Against The Machine — Township Rebellion | 2026-09-17 22:05:58 -03\nPrevious track #2         : Rage Against The Machine — Fistful Of Steel | 2026-09-17 22:00:34 -03\nPrevious track #3         : Rage Against The Machine — Wake Up | 2026-09-17 21:51:49 -03\nPrevious track #4         : Rage Against The Machine — Know Your Enemy | 2026-09-17 21:45:45 -03\nPrevious track #5         : Rage Against The Machine — Bullet In The Head | 2026-09-17 21:40:51 -03\nPrevious track #6         : Rage Against The Machine — Settle For Nothing | 2026-09-17 21:35:44 -03\nPrevious track #7         : Rage Against The Machine — Take The Power Back | 2026-09-17 21:30:58 -03\nPrevious track #8         : Rage Against The Machine — Killing In The Name | 2026-09-17 21:25:21 -03\nPrevious track #9         : Rage Against The Machine — Bombtrack | 2026-09-17 21:20:08 -03\nPrevious track #10        : Chris Yerinides & the Rough Edges — Yesterdays | 2026-09-17 14:43:26 -03\nPrevious track #11        : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03\nPrevious track #12        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03\nPrevious track #13        : Soundgarden — Fell On Black Days | 2026-09-17 06:09:13 -03\nPrevious track #14        : Soundgarden — My Wave | 2026-09-17 06:08:37 -03\nPrevious track #15        : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03\nPrevious track #16        : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03\nPrevious track #17        : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03\nPrevious track #18        : Kyuss — Gardenia | 2026-09-17 05:42:33 -03\nPrevious track #19        : Helmet — Milquetoast | 2026-09-17 05:35:43 -03\nPrevious track #20        : Helmet — Role Model | 2026-09-17 05:31:53 -03\nPrevious track #21        : Helmet — FBLA II | 2026-09-17 05:28:18 -03\nPrevious track #22        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03\nPrevious track #23        : Helmet — Better | 2026-09-17 05:21:10 -03\nPrevious track #24        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03\nPrevious track #25        : Helmet — Turned Out | 2026-09-17 05:13:57 -03\nPrevious track #26        : Helmet — Unsung | 2026-09-17 05:09:43 -03\nPrevious track #27        : Helmet — Give It | 2026-09-17 05:05:47 -03\nPrevious track #28        : Helmet — Iron Head | 2026-09-17 05:01:30 -03\nPrevious track #29        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03\nPrevious track #30        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03\nPrevious track #31        : Rage Against The Machine — Wake Up | 2026-09-15 17:34:41 -03\nPrevious track #32        : Rage Against The Machine — Know Your Enemy | 2026-09-15 17:28:37 -03\nPrevious track #33        : Rage Against The Machine — Killing In The Name | 2026-09-15 17:23:04 -03\nPrevious track #34        : Rage Against The Machine — Bombtrack | 2026-09-15 17:17:47 -03\nPrevious track #35        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-13 02:10:02 -03\nPrevious track #36        : Rage Against The Machine — Killing In The Name | 2026-09-13 02:04:48 -03\nPrevious track #37        : Rage Against The Machine — Bombtrack | 2026-09-13 01:49:58 -03\nPrevious track #38        : Faith No More — Midlife Crisis | 2026-09-11 22:51:56 -03\nPrevious track #39        : Faith No More — We Care a Lot | 2026-09-11 21:48:32 -03\nPrevious track #40        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-11 21:44:28 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : How To Get Into The Fierce And The Dead \nContext observed (local)  : 2026-09-17 14:36:15 -03\nTrack observed in context : The Fierce & the Dead — Dream Sequence\nSpotify playlist URI      : spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI\nSpotify playlist URL      : https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #3      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #5      : N/A | 2026-08-13 14:15:12 -04\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-18 00:27:15Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 86\nUnique tracks             : 67\nUnique artists            : 16\nReplay ratio              : ████░░░░░░░░░░░░░░  22.1%\nArtist diversity          : ███░░░░░░░░░░░░░░░  18.6%\nDominant artist           : Rage Against The Machine\nDominant artist share     : ████░░░░░░░░░░░░░░  22.1%\nArtist switch ratio       : ████░░░░░░░░░░░░░░  20.0%\nLongest artist streak     : The Black Angels × 15\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ████░░░░░░░░░░░░░░   19.8%\nMorning    06–12           : █░░░░░░░░░░░░░░░░░    3.5%\nAfternoon  12–18           : ██████░░░░░░░░░░░░   34.9%\nEvening    18–24           : ████████░░░░░░░░░░   41.9%\nDominant period           : EVENING\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-11 17:32:16Z\nHistory last play (7d)    : 2026-09-18 01:12:05Z\nObserved time span        : 151:39:49\nMean inter-play gap       : 01:47:03\nMedian inter-play gap     : 00:04:37\nLongest inactivity gap    : 63:07:45\nListening intensity       : 0.57 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 05:00\nPeak hour (7d)            : 21:00\nHeatmap (24h)             :     ▁█▂       ▂      ▄▂ \nHeatmap (7d)              :   ▁  ▆▁       ▄▅▂▂  ▆█▂ \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :  ▁ ▅█  \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :    ▂     ▁       █    ▄     ▂ \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                  █      \nWed                       :                         \nThu                       :     ▁█▂       ▂      ▄▂ \nFri                       :               ▃▇▃  ▁█▇▁ \nSat                       :                         \nSun                       :  ▄█                     \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 30\nDominant artist           : Rage Against The Machine\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-11 07:28:10Z → 2026-09-18 07:28:10Z\nTracks played (7d)        : 86\nDominant artist           : Rage Against The Machine\nCadence classification    : VERY HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 8\nAvg inter-play gap        : 01:47:03\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : alternative metal(22) | grunge(16) | post-hardcore(12) | groove metal(11) | noise rock(11) | nu metal(11)\nTop genres (7d)           : alternative metal(43) | grunge(40) | rap metal(32) | space rock(22) | nu metal(21) | stoner rock(21)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Rage Against The Machine — Killing In The Name → Rage Against The Machine — Freedom\nPlayback timestamp Δ      : 2026-09-18 00:25:21Z → 2026-09-18 01:12:05Z\nState transition          : PLAYING → IDLE\nTelemetry interval        : 07:00:56\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 313\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-17 22:12:05 -03\nEvents (24h)              : 30\nEvents (7d)               : 86\nEvents (30d)              : 239\nPlaylist contexts retained: 103\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-18 07:28:10Z",
+  "last_successful_report_utc": "2026-09-18 07:28:10Z",
   "recent_playback_history": [
+    {
+      "track": "Rage Against The Machine — Freedom",
+      "artist": "Rage Against The Machine",
+      "title": "Freedom",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:48lQegoLqGAzaRLnMwK0mO",
+      "url": "https://open.spotify.com/track/48lQegoLqGAzaRLnMwK0mO",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 01:12:05Z",
+      "played_at_local": "2026-09-17 22:12:05 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Township Rebellion",
+      "artist": "Rage Against The Machine",
+      "title": "Township Rebellion",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:4BOOsIe7Zx3SKJAEXgt1YH",
+      "url": "https://open.spotify.com/track/4BOOsIe7Zx3SKJAEXgt1YH",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 01:05:58Z",
+      "played_at_local": "2026-09-17 22:05:58 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Fistful Of Steel",
+      "artist": "Rage Against The Machine",
+      "title": "Fistful Of Steel",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:67qdozSgFFHL6VGW85KmtD",
+      "url": "https://open.spotify.com/track/67qdozSgFFHL6VGW85KmtD",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 01:00:34Z",
+      "played_at_local": "2026-09-17 22:00:34 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Wake Up",
+      "artist": "Rage Against The Machine",
+      "title": "Wake Up",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:2QiqwOVUctPRVggO9G1Zs5",
+      "url": "https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:51:49Z",
+      "played_at_local": "2026-09-17 21:51:49 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Know Your Enemy",
+      "artist": "Rage Against The Machine",
+      "title": "Know Your Enemy",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:1XTGyfJeMiZXrZ1W3NolcB",
+      "url": "https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:45:45Z",
+      "played_at_local": "2026-09-17 21:45:45 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Bullet In The Head",
+      "artist": "Rage Against The Machine",
+      "title": "Bullet In The Head",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:1WWgMk8nD79p8VeKFGYrOw",
+      "url": "https://open.spotify.com/track/1WWgMk8nD79p8VeKFGYrOw",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:40:51Z",
+      "played_at_local": "2026-09-17 21:40:51 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Settle For Nothing",
+      "artist": "Rage Against The Machine",
+      "title": "Settle For Nothing",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:1CbG6oKKrYEw3W1DnddDFv",
+      "url": "https://open.spotify.com/track/1CbG6oKKrYEw3W1DnddDFv",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:35:44Z",
+      "played_at_local": "2026-09-17 21:35:44 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
+    {
+      "track": "Rage Against The Machine — Take The Power Back",
+      "artist": "Rage Against The Machine",
+      "title": "Take The Power Back",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:25CbtOzU8Pn17SAaXFjIR3",
+      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-09-18 00:30:58Z",
+      "played_at_local": "2026-09-17 21:30:58 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
+      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+    },
     {
       "track": "Rage Against The Machine — Killing In The Name",
       "artist": "Rage Against The Machine",
@@ -2423,182 +2567,6 @@
       "playlist_name": "N/A",
       "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
       "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
-    },
-    {
-      "track": "Faith No More — Epic",
-      "artist": "Faith No More",
-      "title": "Epic",
-      "album": "The Real Thing",
-      "uri": "spotify:track:4ReyTz0y3TGkX48wO3Llot",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot",
-      "artist_ids": [
-        "6GbCJZrI318Ybm8mY36Of5"
-      ],
-      "played_at_utc": "2026-09-12 00:40:51Z",
-      "played_at_local": "2026-09-11 21:40:51 -03",
-      "local_hour": 21,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
-      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
-      "playlist_name": "N/A",
-      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
-    },
-    {
-      "track": "Faith No More — Easy",
-      "artist": "Faith No More",
-      "title": "Easy",
-      "album": "Angel Dust (Deluxe Edition)",
-      "uri": "spotify:track:4Y3WqmBWmG23thvU9xEhMv",
-      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv",
-      "artist_ids": [
-        "6GbCJZrI318Ybm8mY36Of5"
-      ],
-      "played_at_utc": "2026-09-12 00:35:57Z",
-      "played_at_local": "2026-09-11 21:35:57 -03",
-      "local_hour": 21,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
-      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
-      "playlist_name": "N/A",
-      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
-    },
-    {
-      "track": "Faith No More — Falling to Pieces",
-      "artist": "Faith No More",
-      "title": "Falling to Pieces",
-      "album": "The Real Thing",
-      "uri": "spotify:track:20nb0Wl1yqoEERbUSILuG1",
-      "url": "https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1",
-      "artist_ids": [
-        "6GbCJZrI318Ybm8mY36Of5"
-      ],
-      "played_at_utc": "2026-09-12 00:30:12Z",
-      "played_at_local": "2026-09-11 21:30:12 -03",
-      "local_hour": 21,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
-      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
-      "playlist_name": "N/A",
-      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
-    },
-    {
-      "track": "Faith No More — Midlife Crisis",
-      "artist": "Faith No More",
-      "title": "Midlife Crisis",
-      "album": "Angel Dust (Deluxe Edition)",
-      "uri": "spotify:track:3Ph7fws05DvPwpn5CQHTBy",
-      "url": "https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy",
-      "artist_ids": [
-        "6GbCJZrI318Ybm8mY36Of5"
-      ],
-      "played_at_utc": "2026-09-12 00:20:38Z",
-      "played_at_local": "2026-09-11 21:20:38 -03",
-      "local_hour": 21,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
-      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
-      "playlist_name": "N/A",
-      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
-    },
-    {
-      "track": "Faith No More — We Care a Lot",
-      "artist": "Faith No More",
-      "title": "We Care a Lot",
-      "album": "Introduce Yourself",
-      "uri": "spotify:track:2z1uVu3OwTmPlfqt5TWk5k",
-      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k",
-      "artist_ids": [
-        "6GbCJZrI318Ybm8mY36Of5"
-      ],
-      "played_at_utc": "2026-09-12 00:16:17Z",
-      "played_at_local": "2026-09-11 21:16:17 -03",
-      "local_hour": 21,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
-      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
-      "playlist_name": "N/A",
-      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
-    },
-    {
-      "track": "Faith No More — Ashes to Ashes - 2016 Remaster",
-      "artist": "Faith No More",
-      "title": "Ashes to Ashes - 2016 Remaster",
-      "album": "Album of the Year (2016 Remaster; Deluxe Edition)",
-      "uri": "spotify:track:0tZ9qh1m1NGP6rzSf57PGO",
-      "url": "https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO",
-      "artist_ids": [
-        "6GbCJZrI318Ybm8mY36Of5"
-      ],
-      "played_at_utc": "2026-09-12 00:12:12Z",
-      "played_at_local": "2026-09-11 21:12:12 -03",
-      "local_hour": 21,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
-      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
-      "playlist_name": "N/A",
-      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
-    },
-    {
-      "track": "Faith No More — Epic",
-      "artist": "Faith No More",
-      "title": "Epic",
-      "album": "The Real Thing",
-      "uri": "spotify:track:4ReyTz0y3TGkX48wO3Llot",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot",
-      "artist_ids": [
-        "6GbCJZrI318Ybm8mY36Of5"
-      ],
-      "played_at_utc": "2026-09-12 00:08:35Z",
-      "played_at_local": "2026-09-11 21:08:35 -03",
-      "local_hour": 21,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
-      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
-      "playlist_name": "N/A",
-      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
-    },
-    {
-      "track": "Faith No More — Easy",
-      "artist": "Faith No More",
-      "title": "Easy",
-      "album": "Angel Dust (Deluxe Edition)",
-      "uri": "spotify:track:4Y3WqmBWmG23thvU9xEhMv",
-      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv",
-      "artist_ids": [
-        "6GbCJZrI318Ybm8mY36Of5"
-      ],
-      "played_at_utc": "2026-09-12 00:03:41Z",
-      "played_at_local": "2026-09-11 21:03:41 -03",
-      "local_hour": 21,
-      "weekday": 4,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
-      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
-      "playlist_name": "N/A",
-      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
-      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
     }
   ],
   "last_known_device_type": "Computer",
@@ -2606,25 +2574,25 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-09-18 00:27:15Z",
-    "week_window_utc": "2026-09-11 00:27:15Z → 2026-09-18 00:27:15Z",
-    "tracks_24h": 22,
-    "tracks_7d": 78,
-    "dominant_artist_24h": "Helmet",
-    "dominant_artist_7d": "The Black Angels",
-    "listening_pattern_24h": "Regular cadence",
-    "activity_status_24h": "MEDIUM",
-    "cadence_7d": "HIGH",
+    "captured_utc": "2026-09-18 07:28:10Z",
+    "week_window_utc": "2026-09-11 07:28:10Z → 2026-09-18 07:28:10Z",
+    "tracks_24h": 30,
+    "tracks_7d": 86,
+    "dominant_artist_24h": "Rage Against The Machine",
+    "dominant_artist_7d": "Rage Against The Machine",
+    "listening_pattern_24h": "Sustained operational tempo",
+    "activity_status_24h": "HIGH",
+    "cadence_7d": "VERY HIGH",
     "local_timezone": "America/Santiago",
     "peak_hour_24h": "05:00",
-    "peak_hour_7d": "05:00",
-    "heatmap_24h": "    ▁█▂       ▂      ▁  ",
-    "heatmap_7d": " ▁▁ ▁█▂       ▅▇▃▃ ▁██▁ ",
+    "peak_hour_7d": "21:00",
+    "heatmap_24h": "    ▁█▂       ▂      ▄▂ ",
+    "heatmap_7d": "  ▁  ▆▁       ▄▅▂▂  ▆█▂ ",
     "sessions_24h": 3,
     "sessions_7d": 8,
-    "avg_inter_play_gap_7d": "01:57:34",
-    "top_genres_24h": "grunge(16) | alternative metal(14) | post-hardcore(12) | groove metal(11) | noise rock(11) | post-grunge(5)",
-    "top_genres_7d": "grunge(40) | alternative metal(35) | rap metal(24) | space rock(22) | stoner rock(21) | neo-psychedelic(19)"
+    "avg_inter_play_gap_7d": "01:47:03",
+    "top_genres_24h": "alternative metal(22) | grunge(16) | post-hardcore(12) | groove metal(11) | noise rock(11) | nu metal(11)",
+    "top_genres_7d": "alternative metal(43) | grunge(40) | rap metal(32) | space rock(22) | nu metal(21) | stoner rock(21)"
   },
   "last_known_device_captured_utc": "2026-09-18 00:27:15Z"
 }
