@@ -1499,7 +1499,7 @@ Played at (UTC)           : 2026-09-18 01:12:05Z
 Played at (local)         : 2026-09-17 22:12:05 -03
 Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 06:16:06
+Time since play           : 11:49:14
 Gap from previous play    : 00:06:07
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Township Rebellion
@@ -1609,9 +1609,9 @@ Listening intensity       : 0.57 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 05:00
+Peak hour (24h)           : 21:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :     ▁█▂       ▂      ▄▂ 
+Heatmap (24h)             :               ▃      █▃ 
 Heatmap (7d)              :   ▁  ▆▁       ▄▅▂▂  ▆█▂ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1634,14 +1634,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 30
+Tracks played (last 24h)  : 13
 Dominant artist           : Rage Against The Machine
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-11 07:28:10Z → 2026-09-18 07:28:10Z
+Week window (UTC)         : 2026-09-11 13:01:19Z → 2026-09-18 13:01:19Z
 Tracks played (7d)        : 86
 Dominant artist           : Rage Against The Machine
 Cadence classification    : VERY HIGH
@@ -1649,29 +1649,29 @@ Cadence classification    : VERY HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 8
 Avg inter-play gap        : 01:47:03
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(22) | grunge(16) | post-hardcore(12) | groove metal(11) | noise rock(11) | nu metal(11)
+Top genres (24h)          : alternative metal(11) | nu metal(11) | rap metal(11) | rap rock(11) | grunge(1) | math rock(1)
 Top genres (7d)           : alternative metal(43) | grunge(40) | rap metal(32) | space rock(22) | nu metal(21) | stoner rock(21)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Rage Against The Machine — Killing In The Name → Rage Against The Machine — Freedom
-Playback timestamp Δ      : 2026-09-18 00:25:21Z → 2026-09-18 01:12:05Z
-State transition          : PLAYING → IDLE
-Telemetry interval        : 07:00:56
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
+State transition          : NO CHANGE
+Telemetry interval        : 05:33:09
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 313
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-17 22:12:05 -03
-Events (24h)              : 30
+Events (24h)              : 13
 Events (7d)               : 86
 Events (30d)              : 239
 Playlist contexts retained: 103
@@ -1702,7 +1702,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-18 07:28:10Z
+Report generated (UTC)    : 2026-09-18 13:01:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
