@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-09-18T20:50:03+00:00",
-    "last_successful_sync": "2026-09-18T20:50:03+00:00",
+    "last_attempted_sync": "2026-09-19T04:28:12+00:00",
+    "last_successful_sync": "2026-09-19T04:28:12+00:00",
     "error_message": ""
   },
   "sections": {
@@ -174,7 +174,7 @@
           "author": "Lucio Séneca",
           "link": "https://www.goodreads.com/review/show/8701258399?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691675820l/196075505._SY75_.jpg",
-          "summary": "author: Lucio Séneca name: Felipe Alfonso average rating: 4.30 book published: rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
+          "summary": "author: Lucio Séneca name: Felipe Alfonso average rating: 4.36 book published: rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8701258399?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 20 Jun 2026 01:54:22 -0700"
         },
@@ -1004,7 +1004,7 @@
           "author": "Walter Isaacson",
           "link": "https://www.goodreads.com/review/show/8008499321?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697011746l/129268233._SX50_.jpg",
-          "summary": "author: Walter Isaacson name: Felipe Alfonso average rating: 4.30 book published: 2011 rating: 0 read at: date added: 2025/10/20 shelves: favorites, biography review:",
+          "summary": "author: Walter Isaacson name: Felipe Alfonso average rating: 4.24 book published: 2011 rating: 0 read at: date added: 2025/10/20 shelves: favorites, biography review:",
           "guid": "https://www.goodreads.com/review/show/8008499321?utm_medium=api&utm_source=rss",
           "pub_date": "Mon, 20 Oct 2025 19:40:51 -0700"
         },
