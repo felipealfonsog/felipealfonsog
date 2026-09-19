@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-19 03:24:11Z
 Played at (local)         : 2026-09-19 00:24:11 -03
 Local hour                : 00:00
 Daypart                   : NIGHT
-Time since play           : 04:00:10
+Time since play           : 09:10:09
 Gap from previous play    : 04:02:25
 ------------------------------------------------------------
 Previous song             : Lynyrd Skynyrd — On The Hunt
@@ -1644,7 +1644,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-12 07:24:21Z → 2026-09-19 07:24:21Z
+Week window (UTC)         : 2026-09-12 12:34:19Z → 2026-09-19 12:34:19Z
 Tracks played (7d)        : 49
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1664,10 +1664,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Lynyrd Skynyrd — On The Hunt → Rage Against The Machine — Bombtrack
-Playback timestamp Δ      : 2026-09-18 23:21:46Z → 2026-09-19 03:24:11Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:59:20
+Telemetry interval        : 05:09:59
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1705,7 +1705,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-19 07:24:21Z
+Report generated (UTC)    : 2026-09-19 12:34:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
