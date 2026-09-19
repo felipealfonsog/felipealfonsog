@@ -1,8 +1,38 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-18 23:13:48Z",
+  "updated_utc": "2026-09-19 00:25:01Z",
   "events": [
+    {
+      "track": "Lynyrd Skynyrd — On The Hunt",
+      "artist": "Lynyrd Skynyrd",
+      "title": "On The Hunt",
+      "album": "Nuthin' Fancy (Expanded Edition)",
+      "uri": "spotify:track:2e6qroe20tHfu8aTQSTglt",
+      "url": "https://open.spotify.com/track/2e6qroe20tHfu8aTQSTglt",
+      "artist_ids": [
+        "4MVyzYMgTwdP7Z49wAZHx0"
+      ],
+      "played_at_utc": "2026-09-18 23:21:46Z",
+      "played_at_local": "2026-09-18 20:21:46 -03",
+      "local_hour": 20,
+      "weekday": 4
+    },
+    {
+      "track": "The Who — The Seeker - Original Single A-Side Mix",
+      "artist": "The Who",
+      "title": "The Seeker - Original Single A-Side Mix",
+      "album": "Who’s Next : Life House (Super Deluxe)",
+      "uri": "spotify:track:788cNfvhhitTb5T8GORmqj",
+      "url": "https://open.spotify.com/track/788cNfvhhitTb5T8GORmqj",
+      "artist_ids": [
+        "67ea9eGLXYMsO2eYQRui3w"
+      ],
+      "played_at_utc": "2026-09-18 23:15:50Z",
+      "played_at_local": "2026-09-18 20:15:50 -03",
+      "local_hour": 20,
+      "weekday": 4
+    },
     {
       "track": "77 — Down and Dirty",
       "artist": "77",
@@ -6173,6 +6203,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-19 00:25:01Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-09-18 23:13:48Z",
       "is_playing": true,
