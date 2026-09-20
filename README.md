@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-19 22:03:34Z
 Played at (local)         : 2026-09-19 19:03:34 -03
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 20:49:04
+Time since play           : 24:28:29
 Gap from previous play    : 18:39:23
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Bombtrack
@@ -1613,9 +1613,9 @@ Listening intensity       : 0.48 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 19:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :                    █    
+Heatmap (24h)             : N/A
 Heatmap (7d)              : ▁   ▁█▂       ▂  ▃ ▄▃▄▂ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1638,14 +1638,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-13 18:52:37Z → 2026-09-20 18:52:37Z
+Week window (UTC)         : 2026-09-13 22:32:02Z → 2026-09-20 22:32:02Z
 Tracks played (7d)        : 47
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1653,13 +1653,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 7
 Avg inter-play gap        : 02:07:31
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : ambient jazz(1) | free jazz(1) | jazz(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(28) | nu metal(17) | rap metal(17) | rap rock(17) | grunge(16) | post-hardcore(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1668,14 +1668,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 02:37:36
+Telemetry interval        : 03:39:26
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 325
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-19 19:03:34 -03
-Events (24h)              : 1
+Events (24h)              : 0
 Events (7d)               : 47
 Events (30d)              : 251
 Playlist contexts retained: 104
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-20 18:52:37Z
+Report generated (UTC)    : 2026-09-20 22:32:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
