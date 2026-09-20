@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-09-19_0421Z
+ snapshot_utc : 2026-09-20_0439Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -35,7 +35,7 @@ If you harbor aspirations in business, entrepreneurship, consultancy, research, 
 I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.), a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [**Santiago**](https://en.wikipedia.org/wiki/Santiago), [**Chile**](https://en.wikipedia.org/wiki/Chile), working across [**OSS Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counter-Terrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), and [**R&D**](https://en.wikipedia.org/wiki/Research_and_development). I design and maintain secure, resilient, high-impact systems—driven by continuous learning, independent research, professional certifications, and long-term exploration across systems, cybersecurity, and emerging technologies. I also contribute as a maintainer in the [GitHub community](https://github.com/community), constantly exploring new ideas and advancing my knowledge across disciplines.
 -->
 
-I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.) .·. , a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [**Santiago**](https://en.wikipedia.org/wiki/Santiago), [**Chile**](https://en.wikipedia.org/wiki/Chile), with extensive experience in [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Distributed Systems**](https://en.wikipedia.org/wiki/Distributed_computing), [**Site Reliability Engineering (SRE)**](https://en.wikipedia.org/wiki/Site_reliability_engineering), [**Complex Systems Engineering**](https://en.wikipedia.org/wiki/Systems_engineering), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Strategic Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counterterrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), [**Open Source Software (OSS) Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), and [**Research & Development (R&D)**](https://en.wikipedia.org/wiki/Research_and_development). My work focuses on designing secure, resilient, scalable, and high-performance systems by combining systems architecture, distributed systems engineering, site reliability engineering, complex systems engineering, and strategic cybersecurity. I continuously expand my expertise through independent research, postgraduate education, professional certifications, and long-term exploration across computer science, cyber intelligence, and emerging technologies. I actively contribute to the [**GitHub Community**](https://github.com/community) by maintaining open-source projects and promoting open collaboration, software quality, and continuous technical improvement.
+I'm [**Felipe**](https://github.com/felipealfonsog/felipealfonsog/wiki/Felipe-Alfonso-Gonz%C3%A1lez-L.)<!-- .·. -->, a [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) [**Engineer**](https://en.wikipedia.org/wiki/Engineer) ([**Ingº**](https://es.wikipedia.org/wiki/Ingeniero) en [**Informática**](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inform%C3%A1tica)) from [**Santiago**](https://en.wikipedia.org/wiki/Santiago), [**Chile**](https://en.wikipedia.org/wiki/Chile), with extensive experience in [**Systems Architecture**](https://en.wikipedia.org/wiki/Systems_architecture), [**Distributed Systems**](https://en.wikipedia.org/wiki/Distributed_computing), [**Site Reliability Engineering (SRE)**](https://en.wikipedia.org/wiki/Site_reliability_engineering), [**Complex Systems Engineering**](https://en.wikipedia.org/wiki/Systems_engineering), [**Software Engineering**](https://en.wikipedia.org/wiki/Software_engineering), [**Cybersecurity**](https://en.wikipedia.org/wiki/Cybersecurity), [**Strategic Cyber Intelligence**](https://en.wikipedia.org/wiki/Cyber_threat_intelligence), [**OSINT**](https://en.wikipedia.org/wiki/Open-source_intelligence), [**Cyber Counterterrorism**](https://en.wikipedia.org/wiki/Cyberterrorism), [**Open Source Software (OSS) Engineering**](https://en.wikipedia.org/wiki/Open-source_software_development), and [**Research & Development (R&D)**](https://en.wikipedia.org/wiki/Research_and_development). My work focuses on designing secure, resilient, scalable, and high-performance systems by combining systems architecture, distributed systems engineering, site reliability engineering, complex systems engineering, and strategic cybersecurity. I continuously expand my expertise through independent research, postgraduate education, professional certifications, and long-term exploration across computer science, cyber intelligence, and emerging technologies. I actively contribute to the [**GitHub Community**](https://github.com/community) by maintaining open-source projects and promoting open collaboration, software quality, and continuous technical improvement.
 
 <!--
 UNIX-born engineering ethos.  
@@ -194,8 +194,11 @@ https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 [<img src="https://img.shields.io/badge/-freeshell host-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/)
 [<img src="https://img.shields.io/badge/-gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://gnlz.qzz.io/)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.qzz.io-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.qzz.io/)
+[<img src="https://img.shields.io/badge/-cyber.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://cyber.gnlz.cl)
+[<img src="https://img.shields.io/badge/-engineering.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://engineering.gnlz.cl)
 [<img src="https://img.shields.io/badge/-felipe.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://felipe.gnlz.cl)
 [<img src="https://img.shields.io/badge/-www.gnlz.cl-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://www.gnlz.cl)
+
 [<img src="https://img.shields.io/badge/WordPress-Blog-21759B?style=plastic&logo=wordpress&logoColor=white&labelColor=21759B&color=21759B&logoWidth=20" height="19"/>](https://freeshell.de/~felipe/blog/)
 [<img src="https://img.shields.io/badge/-onion_access-7D4698?style=plastic&logo=torproject&logoColor=white&labelColor=7D4698&logoWidth=20" height="19"/>](http://ookod2olxzttlvvvrtqqsjsg7mgiuhcypeyjize42y5ii4rsduxzafid.onion/)
 
@@ -533,7 +536,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-09-18T20:50:03+00:00 | last_update=2026-09-18T20:50:03+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-09-19T20:31:38+00:00 | last_update=2026-09-19T20:31:38+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -703,8 +706,8 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 228 ms
-TTFB................ 228 ms
+LATENCY............. 338 ms
+TTFB................ 338 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -738,7 +741,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 5 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-18T08:07:07Z
+LAST_PROBE_UTC...... 2026-09-19T07:56:57Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -778,19 +781,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.442167
-longitude      : -70.653648
-altitude       : 35 m
-gps_accuracy   : ±4.5 m
-heading        : 353°
-speed          : 0.3 km/h
-status         : low_movement
+location       : pedestrian_axis
+latitude       : -33.438177
+longitude      : -70.646511
+altitude       : 117 m
+gps_accuracy   : ±4.3 m
+heading        : 289°
+speed          : 0.8 km/h
+status         : stationary
 phase          : overnight
-local_time     : 23:14
+local_time     : 23:22
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-09-19 02:14:31 UTC
+signal         : nominal
+updated_utc    : 2026-09-20 02:22:45 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -909,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-09-18 20:57:58Z
+DSN snapshot (UTC)       : 2026-09-19 20:47:34Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -920,15 +923,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.72e9 km | 171.928 AU
-Heliocentric distance    : 171.799 AU
-Relative speed           : 44.475 km/s
+Earth distance           : 25.72e9 km | 171.951 AU
+Heliocentric distance    : 171.809 AU
+Relative speed           : 44.465 km/s
 ------------------------------------------------------------
-One-way light time       : 23:49:53
-Round-trip latency       : 47:39:46
+One-way light time       : 23:50:04
+Round-trip latency       : 47:40:09
 ------------------------------------------------------------
-Δ distance (since last)  : +655,217 km
-Mission age              : 49 years, 25 days
+Δ distance (since last)  : +710,241 km
+Mission age              : 49 years, 26 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -939,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.49e9 km | 143.649 AU
-Heliocentric distance    : 143.980 AU
-Relative speed           : 40.613 km/s
+Earth distance           : 21.49e9 km | 143.670 AU
+Heliocentric distance    : 143.989 AU
+Relative speed           : 40.676 km/s
 ------------------------------------------------------------
-One-way light time       : 19:54:42
-Round-trip latency       : 39:49:24
+One-way light time       : 19:54:52
+Round-trip latency       : 39:49:44
 ------------------------------------------------------------
-Δ distance (since last)  : +582,716 km
-Mission age              : 49 years, 41 days
+Δ distance (since last)  : +635,515 km
+Mission age              : 49 years, 42 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-09-18 20:58:03Z
+Report generated (UTC)   : 2026-09-19 20:47:39Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1495,84 +1498,85 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Lynyrd Skynyrd — On The Hunt
-Artist                    : Lynyrd Skynyrd
-Title                     : On The Hunt
-Album                     : Nuthin' Fancy (Expanded Edition)
-Spotify URI               : spotify:track:2e6qroe20tHfu8aTQSTglt
-Spotify URL               : https://open.spotify.com/track/2e6qroe20tHfu8aTQSTglt
+Track                     : Tomasz Stanko Quintet — Terminal 7
+Artist                    : Tomasz Stanko Quintet
+Title                     : Terminal 7
+Album                     : Dark Eyes
+Spotify URI               : spotify:track:2qPNrEIImCaJ47KCKXBFAh
+Spotify URL               : https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-18 23:21:46Z
-Played at (local)         : 2026-09-18 20:21:46 -03
-Local hour                : 20:00
+Played at (UTC)           : 2026-09-19 22:03:34Z
+Played at (local)         : 2026-09-19 19:03:34 -03
+Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 01:03:15
-Gap from previous play    : 00:05:56
+Time since play           : 02:06:48
+Gap from previous play    : 18:39:23
 ------------------------------------------------------------
-Previous song             : The Who — The Seeker - Original Single A-Side Mix
+Previous song             : Rage Against The Machine — Bombtrack
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 1
-Artist plays (retained)   : 2
+Track plays (retained)    : 7
+Artist plays (retained)   : 7
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03
-Previous track #2         : 77 — Down and Dirty | 2026-09-18 20:12:43 -03
-Previous track #3         : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03
-Previous track #4         : AC/DC — Whole Lotta Rosie | 2026-09-18 20:01:51 -03
-Previous track #5         : Black Sabbath — War Pigs - 2009 Remaster | 2026-09-18 19:56:22 -03
-Previous track #6         : Lynyrd Skynyrd — The Needle And The Spoon | 2026-09-18 19:48:32 -03
-Previous track #7         : Led Zeppelin — When the Levee Breaks - Remaster | 2026-09-18 19:44:44 -03
-Previous track #8         : Creedence Clearwater Revival — Run Through The Jungle | 2026-09-18 19:37:40 -03
-Previous track #9         : AC/DC — Touch Too Much | 2026-09-18 19:34:40 -03
-Previous track #10        : Rage Against The Machine — Freedom | 2026-09-17 22:12:05 -03
-Previous track #11        : Rage Against The Machine — Township Rebellion | 2026-09-17 22:05:58 -03
-Previous track #12        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 22:00:34 -03
-Previous track #13        : Rage Against The Machine — Wake Up | 2026-09-17 21:51:49 -03
-Previous track #14        : Rage Against The Machine — Know Your Enemy | 2026-09-17 21:45:45 -03
-Previous track #15        : Rage Against The Machine — Bullet In The Head | 2026-09-17 21:40:51 -03
-Previous track #16        : Rage Against The Machine — Settle For Nothing | 2026-09-17 21:35:44 -03
-Previous track #17        : Rage Against The Machine — Take The Power Back | 2026-09-17 21:30:58 -03
-Previous track #18        : Rage Against The Machine — Killing In The Name | 2026-09-17 21:25:21 -03
-Previous track #19        : Rage Against The Machine — Bombtrack | 2026-09-17 21:20:08 -03
-Previous track #20        : Chris Yerinides & the Rough Edges — Yesterdays | 2026-09-17 14:43:26 -03
-Previous track #21        : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03
-Previous track #22        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03
-Previous track #23        : Soundgarden — Fell On Black Days | 2026-09-17 06:09:13 -03
-Previous track #24        : Soundgarden — My Wave | 2026-09-17 06:08:37 -03
-Previous track #25        : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03
-Previous track #26        : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03
-Previous track #27        : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03
-Previous track #28        : Kyuss — Gardenia | 2026-09-17 05:42:33 -03
-Previous track #29        : Helmet — Milquetoast | 2026-09-17 05:35:43 -03
-Previous track #30        : Helmet — Role Model | 2026-09-17 05:31:53 -03
-Previous track #31        : Helmet — FBLA II | 2026-09-17 05:28:18 -03
-Previous track #32        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03
-Previous track #33        : Helmet — Better | 2026-09-17 05:21:10 -03
-Previous track #34        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03
-Previous track #35        : Helmet — Turned Out | 2026-09-17 05:13:57 -03
-Previous track #36        : Helmet — Unsung | 2026-09-17 05:09:43 -03
-Previous track #37        : Helmet — Give It | 2026-09-17 05:05:47 -03
-Previous track #38        : Helmet — Iron Head | 2026-09-17 05:01:30 -03
-Previous track #39        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03
-Previous track #40        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03
+Previous track #1         : Rage Against The Machine — Bombtrack | 2026-09-19 00:24:11 -03
+Previous track #2         : Lynyrd Skynyrd — On The Hunt | 2026-09-18 20:21:46 -03
+Previous track #3         : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03
+Previous track #4         : 77 — Down and Dirty | 2026-09-18 20:12:43 -03
+Previous track #5         : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03
+Previous track #6         : AC/DC — Whole Lotta Rosie | 2026-09-18 20:01:51 -03
+Previous track #7         : Black Sabbath — War Pigs - 2009 Remaster | 2026-09-18 19:56:22 -03
+Previous track #8         : Lynyrd Skynyrd — The Needle And The Spoon | 2026-09-18 19:48:32 -03
+Previous track #9         : Led Zeppelin — When the Levee Breaks - Remaster | 2026-09-18 19:44:44 -03
+Previous track #10        : Creedence Clearwater Revival — Run Through The Jungle | 2026-09-18 19:37:40 -03
+Previous track #11        : AC/DC — Touch Too Much | 2026-09-18 19:34:40 -03
+Previous track #12        : Rage Against The Machine — Freedom | 2026-09-17 22:12:05 -03
+Previous track #13        : Rage Against The Machine — Township Rebellion | 2026-09-17 22:05:58 -03
+Previous track #14        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 22:00:34 -03
+Previous track #15        : Rage Against The Machine — Wake Up | 2026-09-17 21:51:49 -03
+Previous track #16        : Rage Against The Machine — Know Your Enemy | 2026-09-17 21:45:45 -03
+Previous track #17        : Rage Against The Machine — Bullet In The Head | 2026-09-17 21:40:51 -03
+Previous track #18        : Rage Against The Machine — Settle For Nothing | 2026-09-17 21:35:44 -03
+Previous track #19        : Rage Against The Machine — Take The Power Back | 2026-09-17 21:30:58 -03
+Previous track #20        : Rage Against The Machine — Killing In The Name | 2026-09-17 21:25:21 -03
+Previous track #21        : Rage Against The Machine — Bombtrack | 2026-09-17 21:20:08 -03
+Previous track #22        : Chris Yerinides & the Rough Edges — Yesterdays | 2026-09-17 14:43:26 -03
+Previous track #23        : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03
+Previous track #24        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03
+Previous track #25        : Soundgarden — Fell On Black Days | 2026-09-17 06:09:13 -03
+Previous track #26        : Soundgarden — My Wave | 2026-09-17 06:08:37 -03
+Previous track #27        : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03
+Previous track #28        : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03
+Previous track #29        : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03
+Previous track #30        : Kyuss — Gardenia | 2026-09-17 05:42:33 -03
+Previous track #31        : Helmet — Milquetoast | 2026-09-17 05:35:43 -03
+Previous track #32        : Helmet — Role Model | 2026-09-17 05:31:53 -03
+Previous track #33        : Helmet — FBLA II | 2026-09-17 05:28:18 -03
+Previous track #34        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03
+Previous track #35        : Helmet — Better | 2026-09-17 05:21:10 -03
+Previous track #36        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03
+Previous track #37        : Helmet — Turned Out | 2026-09-17 05:13:57 -03
+Previous track #38        : Helmet — Unsung | 2026-09-17 05:09:43 -03
+Previous track #39        : Helmet — Give It | 2026-09-17 05:05:47 -03
+Previous track #40        : Helmet — Iron Head | 2026-09-17 05:01:30 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
-Last playlist             : How To Get Into The Fierce And The Dead 
-Context observed (local)  : 2026-09-17 14:36:15 -03
-Track observed in context : The Fierce & the Dead — Dream Sequence
-Spotify playlist URI      : spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI
-Spotify playlist URL      : https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI
+Last playlist             : Homeland (TV Series) Jazz Collection
+Context observed (local)  : 2026-09-19 19:03:34 -03
+Track observed in context : Tomasz Stanko Quintet — Terminal 7
+Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
+Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
-Previous playlist #1      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
-Previous playlist #3      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
-Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
-Previous playlist #5      : N/A | 2026-08-13 14:15:12 -04
-Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
+Previous playlist #1      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
+Previous playlist #2      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #4      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
+Previous playlist #5      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
+Previous playlist #6      : N/A | 2026-08-13 14:15:12 -04
+Previous playlist #7      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1585,47 +1589,47 @@ Context observed (UTC)    : 2026-09-18 23:13:48Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 54
-Unique tracks             : 46
+Observed events           : 50
+Unique tracks             : 41
 Unique artists            : 17
-Replay ratio              : ███░░░░░░░░░░░░░░░  14.8%
-Artist diversity          : ██████░░░░░░░░░░░░  31.5%
+Replay ratio              : ███░░░░░░░░░░░░░░░  18.0%
+Artist diversity          : ██████░░░░░░░░░░░░  34.0%
 Dominant artist           : Rage Against The Machine
-Dominant artist share     : ██████░░░░░░░░░░░░  35.2%
-Artist switch ratio       : ███████░░░░░░░░░░░  37.7%
+Dominant artist share     : ███████░░░░░░░░░░░  40.0%
+Artist switch ratio       : ████████░░░░░░░░░░  42.9%
 Longest artist streak     : Helmet × 11
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██████░░░░░░░░░░░░   31.5%
-Morning    06–12           : █░░░░░░░░░░░░░░░░░    5.6%
-Afternoon  12–18           : ███░░░░░░░░░░░░░░░   14.8%
-Evening    18–24           : █████████░░░░░░░░░   48.1%
+Night      00–06           : ██████░░░░░░░░░░░░   36.0%
+Morning    06–12           : █░░░░░░░░░░░░░░░░░    6.0%
+Afternoon  12–18           : ███░░░░░░░░░░░░░░░   16.0%
+Evening    18–24           : ████████░░░░░░░░░░   42.0%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-12 00:30:12Z
-History last play (7d)    : 2026-09-18 23:21:46Z
-Observed time span        : 166:51:34
-Mean inter-play gap       : 03:08:54
-Median inter-play gap     : 00:05:14
+History first play (7d)   : 2026-09-13 04:49:58Z
+History last play (7d)    : 2026-09-19 22:03:34Z
+Observed time span        : 161:13:36
+Mean inter-play gap       : 03:17:25
+Median inter-play gap     : 00:05:17
 Longest inactivity gap    : 63:07:45
-Listening intensity       : 0.32 tracks/hour
+Listening intensity       : 0.31 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 21:00
+Peak hour (24h)           : 00:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :                    ▇▇█▄ 
-Heatmap (7d)              :  ▁▁ ▁█▂       ▂  ▃ ▃▃▇▂ 
+Heatmap (24h)             : █                  █    
+Heatmap (7d)              : ▁▁▁ ▁█▂       ▂  ▃ ▄▃▄▂ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁ █▄ ▁
+Activity (Mon→Sun)        :  ▁ █▃▁▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :    ▂     ▁       █    ▄     ▂▁
+Activity trend (30d)      :   ▂     ▁       █    ▄     ▂▁ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1634,22 +1638,22 @@ Mon                       :
 Tue                       :                  █      
 Wed                       :                         
 Thu                       :     ▁█▂       ▂      ▄▂ 
-Fri                       :                    ███▂ 
-Sat                       :                         
+Fri                       :                    ██   
+Sat                       : █                  █    
 Sun                       :  ▄█                     
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
-Dominant artist           : Rage Against The Machine
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 2
+Dominant artist           : Tomasz Stanko Quintet
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-12 00:25:01Z → 2026-09-19 00:25:01Z
-Tracks played (7d)        : 54
+Week window (UTC)         : 2026-09-13 00:10:22Z → 2026-09-20 00:10:22Z
+Tracks played (7d)        : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1658,30 +1662,30 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 8
-Avg inter-play gap        : 03:08:54
+Avg inter-play gap        : 03:17:25
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rap rock(9) | classic rock(8) | rock(8)
-Top genres (7d)           : alternative metal(36) | rap metal(25) | grunge(22) | nu metal(19) | rap rock(19) | post-hardcore(12)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : alternative metal(1) | ambient jazz(1) | free jazz(1) | jazz(1) | nu metal(1) | rap metal(1)
+Top genres (7d)           : alternative metal(31) | nu metal(20) | rap metal(20) | rap rock(20) | grunge(16) | post-hardcore(12)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : 77 — Down and Dirty → Lynyrd Skynyrd — On The Hunt
-Playback timestamp Δ      : 2026-09-18 23:12:43Z → 2026-09-18 23:21:46Z
-State transition          : PLAYING → IDLE
-Telemetry interval        : 01:11:13
+Track transition          : Rage Against The Machine — Bombtrack → Tomasz Stanko Quintet — Terminal 7
+Playback timestamp Δ      : 2026-09-19 03:24:11Z → 2026-09-19 22:03:34Z
+State transition          : NO CHANGE
+Telemetry interval        : 03:20:58
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 323
+Events retained           : 325
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-18 20:21:46 -03
-Events (24h)              : 19
-Events (7d)               : 54
-Events (30d)              : 249
-Playlist contexts retained: 103
+Newest retained event     : 2026-09-19 19:03:34 -03
+Events (24h)              : 2
+Events (7d)               : 50
+Events (30d)              : 251
+Playlist contexts retained: 104
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1709,7 +1713,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-19 00:25:01Z
+Report generated (UTC)    : 2026-09-20 00:10:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2067,9 +2071,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 18 September 2026
+From: 04 December 2023 - To: 19 September 2026
 
-Total Time       : 1,069 hrs 55 mins
+Total Time       : 1,070 hrs 54 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 2 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -2078,30 +2082,30 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          865 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  80.88 %
-Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.52 %
-Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.28 %
-HTML           140 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.11 %
-PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.21 %
-Markdown       80 hrs 50 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.56 %
+Other          869 hrs 57 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  81.24 %
+Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.50 %
+Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.26 %
+HTML           140 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.09 %
+PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.20 %
+Markdown       80 hrs 50 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.55 %
 C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.14 %
-Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.78 %
-C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.74 %
+Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
+C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.73 %
 YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.56 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,216 hrs 49 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.83 %
+Mac            1,222 hrs 23 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.77 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.65 %
-Firefox        626 hrs 12 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.53 %
-Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.59 %
-Terminal       47 hrs 40 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.46 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.60 %
+Firefox        628 hrs 47 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.72 %
+Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.56 %
+Terminal       50 hrs 34 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.72 %
 Spotify        47 hrs 11 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.41 %
-‎WhatsApp      32 hrs 35 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.05 %
+‎WhatsApp      32 hrs 35 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.04 %
 Pages          24 hrs 39 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.30 %
 Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.26 %
 Dia            20 hrs 46 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.94 %
@@ -2111,16 +2115,16 @@ TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,230 hrs 20 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       623 hrs 56 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.32 %
-Meeting        41 hrs 9 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.85 %
+Coding         1,233 hrs 14 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       626 hrs 36 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.51 %
+Meeting        41 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
 AI Coding      26 hrs 20 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.46 %
 Writing Docs   13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.26 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 19/09/2026 02:49:53 UTC
+Last updated     : 20/09/2026 03:01:46 UTC
 
 ```
 <!--END_SECTION:wakastats-->
