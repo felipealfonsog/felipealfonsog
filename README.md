@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-19 22:03:34Z
 Played at (local)         : 2026-09-19 19:03:34 -03
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 38:56:03
+Time since play           : 45:30:12
 Gap from previous play    : 18:39:23
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Bombtrack
@@ -1645,7 +1645,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-14 12:59:36Z → 2026-09-21 12:59:36Z
+Week window (UTC)         : 2026-09-14 19:33:46Z → 2026-09-21 19:33:46Z
 Tracks played (7d)        : 47
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1668,7 +1668,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:52:31
+Telemetry interval        : 06:34:10
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-21 12:59:36Z
+Report generated (UTC)    : 2026-09-21 19:33:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
