@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-19 22:03:34Z
 Played at (local)         : 2026-09-19 19:03:34 -03
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 24:28:29
+Time since play           : 31:03:33
 Gap from previous play    : 18:39:23
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Bombtrack
@@ -1622,7 +1622,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :  ▁ █▃▁ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  ▂     ▁       █    ▄     ▂▁  
+Activity trend (30d)      : ▂     ▁       █    ▄     ▂▁   
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1645,7 +1645,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-13 22:32:02Z → 2026-09-20 22:32:02Z
+Week window (UTC)         : 2026-09-14 05:07:06Z → 2026-09-21 05:07:06Z
 Tracks played (7d)        : 47
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1668,7 +1668,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:39:26
+Telemetry interval        : 06:35:05
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-20 22:32:02Z
+Report generated (UTC)    : 2026-09-21 05:07:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
