@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-22 05:40:23Z
 Played at (local)         : 2026-09-22 02:40:23 -03
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 06:09:08
+Time since play           : 11:22:59
 Gap from previous play    : 07:59:55
 ------------------------------------------------------------
 Previous song             : Helmet — Iron Head
@@ -1645,7 +1645,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-15 11:49:30Z → 2026-09-22 11:49:30Z
+Week window (UTC)         : 2026-09-15 17:03:22Z → 2026-09-22 17:03:22Z
 Tracks played (7d)        : 50
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1665,10 +1665,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Helmet — Iron Head → Helmet — Give It
-Playback timestamp Δ      : 2026-09-21 21:40:28Z → 2026-09-22 05:40:23Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:41:18
+Telemetry interval        : 05:13:52
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1677,7 +1677,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-22 02:40:23 -03
 Events (24h)              : 3
 Events (7d)               : 50
-Events (30d)              : 238
+Events (30d)              : 228
 Playlist contexts retained: 104
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-22 11:49:30Z
+Report generated (UTC)    : 2026-09-22 17:03:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
