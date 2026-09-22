@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-21 21:40:28Z
 Played at (local)         : 2026-09-21 18:40:28 -03
 Local hour                : 18:00
 Daypart                   : EVENING
-Time since play           : 01:41:40
+Time since play           : 07:27:45
 Gap from previous play    : 00:03:23
 ------------------------------------------------------------
 Previous song             : Helmet — In The Meantime
@@ -1622,7 +1622,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▁▁ █▃▁ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▂     ▁       █    ▄     ▂▁   
+Activity trend (30d)      :      ▁       █    ▄     ▂▁    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1645,7 +1645,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-14 23:22:07Z → 2026-09-21 23:22:07Z
+Week window (UTC)         : 2026-09-15 05:08:13Z → 2026-09-22 05:08:13Z
 Tracks played (7d)        : 49
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1665,10 +1665,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Tomasz Stanko Quintet — Terminal 7 → Helmet — Iron Head
-Playback timestamp Δ      : 2026-09-19 22:03:34Z → 2026-09-21 21:40:28Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:48:22
+Telemetry interval        : 05:46:06
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1677,7 +1677,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-21 18:40:28 -03
 Events (24h)              : 2
 Events (7d)               : 49
-Events (30d)              : 249
+Events (30d)              : 247
 Playlist contexts retained: 104
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-21 23:22:07Z
+Report generated (UTC)    : 2026-09-22 05:08:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
