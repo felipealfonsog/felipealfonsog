@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-22 05:40:23Z
 Played at (local)         : 2026-09-22 02:40:23 -03
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 19:00:40
+Time since play           : 26:09:41
 Gap from previous play    : 07:59:55
 ------------------------------------------------------------
 Previous song             : Helmet — Iron Head
@@ -1613,16 +1613,16 @@ Listening intensity       : 0.38 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 02:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :   █                     
+Heatmap (24h)             : N/A
 Heatmap (7d)              : ▁ ▁ ▁█▂       ▂   ▁▄▃▄▂ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▁  █▃▁ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :      ▁       █    ▄     ▂▁    
+Activity trend (30d)      :     ▁       █    ▄     ▂▁     
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1638,14 +1638,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Helmet
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-16 00:41:03Z → 2026-09-23 00:41:03Z
+Week window (UTC)         : 2026-09-16 07:50:03Z → 2026-09-23 07:50:03Z
 Tracks played (7d)        : 45
 Dominant artist           : Helmet
 Cadence classification    : HIGH
@@ -1653,13 +1653,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 8
 Avg inter-play gap        : 02:40:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | groove metal(1) | grunge(1) | noise rock(1) | post-hardcore(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(26) | grunge(19) | post-hardcore(15) | groove metal(14) | noise rock(14) | nu metal(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1668,14 +1668,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:14:07
+Telemetry interval        : 07:09:01
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 328
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-22 02:40:23 -03
-Events (24h)              : 1
+Events (24h)              : 0
 Events (7d)               : 45
 Events (30d)              : 228
 Playlist contexts retained: 104
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-23 00:41:03Z
+Report generated (UTC)    : 2026-09-23 07:50:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
