@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-09-22_0434Z
+ snapshot_utc : 2026-09-23_0430Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -536,7 +536,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-09-21T21:55:52+00:00 | last_update=2026-09-21T21:55:52+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-09-22T21:12:41+00:00 | last_update=2026-09-22T21:12:41+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +706,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 132 ms
-TTFB................ 132 ms
+LATENCY............. 205 ms
+TTFB................ 204 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 40d
+TLS_EXPIRY.......... 39d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -741,7 +741,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-21T08:46:34Z
+LAST_PROBE_UTC...... 2026-09-22T08:24:28Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -781,19 +781,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.441695
-longitude      : -70.654031
-altitude       : 159 m
-gps_accuracy   : ±6.2 m
-heading        : 305°
+location       : pedestrian_axis
+latitude       : -33.438281
+longitude      : -70.646640
+altitude       : 70 m
+gps_accuracy   : ±4.3 m
+heading        : 80°
 speed          : 0.7 km/h
 status         : resting
 phase          : overnight
 local_time     : 23:25
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-09-22 02:25:07 UTC
+updated_utc    : 2026-09-23 02:25:11 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-09-21 22:01:48Z
+DSN snapshot (UTC)       : 2026-09-22 21:24:42Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +923,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.73e9 km | 171.999 AU
-Heliocentric distance    : 171.829 AU
-Relative speed           : 44.437 km/s
+Earth distance           : 25.73e9 km | 172.022 AU
+Heliocentric distance    : 171.838 AU
+Relative speed           : 44.420 km/s
 ------------------------------------------------------------
-One-way light time       : 23:50:28
-Round-trip latency       : 47:40:57
+One-way light time       : 23:50:40
+Round-trip latency       : 47:41:20
 ------------------------------------------------------------
-Δ distance (since last)  : +1.323e6 km
-Mission age              : 49 years, 28 days
+Δ distance (since last)  : +637,882 km
+Mission age              : 49 years, 29 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.50e9 km | 143.714 AU
-Heliocentric distance    : 144.007 AU
-Relative speed           : 40.801 km/s
+Earth distance           : 21.50e9 km | 143.734 AU
+Heliocentric distance    : 144.015 AU
+Relative speed           : 40.858 km/s
 ------------------------------------------------------------
-One-way light time       : 19:55:14
-Round-trip latency       : 39:50:28
+One-way light time       : 19:55:24
+Round-trip latency       : 39:50:48
 ------------------------------------------------------------
-Δ distance (since last)  : +1.198e6 km
-Mission age              : 49 years, 44 days
+Δ distance (since last)  : +581,544 km
+Mission age              : 49 years, 45 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-09-21 22:01:54Z
+Report generated (UTC)   : 2026-09-22 21:24:45Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Helmet — Iron Head
+Track                     : Helmet — Give It
 Artist                    : Helmet
-Title                     : Iron Head
+Title                     : Give It
 Album                     : Meantime
-Spotify URI               : spotify:track:2FhUbI3O3YQ3N5eGSUDwbX
-Spotify URL               : https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX
+Spotify URI               : spotify:track:6rVleAFgtmJ04Omk6Mmon5
+Spotify URL               : https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-21 21:40:28Z
-Played at (local)         : 2026-09-21 18:40:28 -03
-Local hour                : 18:00
-Daypart                   : EVENING
-Time since play           : 01:41:40
-Gap from previous play    : 00:03:23
+Played at (UTC)           : 2026-09-22 05:40:23Z
+Played at (local)         : 2026-09-22 02:40:23 -03
+Local hour                : 02:00
+Daypart                   : NIGHT
+Time since play           : 19:00:40
+Gap from previous play    : 07:59:55
 ------------------------------------------------------------
-Previous song             : Helmet — In The Meantime
+Previous song             : Helmet — Iron Head
 Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 2
-Artist plays (retained)   : 13
+Artist plays (retained)   : 14
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Helmet — In The Meantime | 2026-09-21 18:37:05 -03
-Previous track #2         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-19 19:03:34 -03
-Previous track #3         : Rage Against The Machine — Bombtrack | 2026-09-19 00:24:11 -03
-Previous track #4         : Lynyrd Skynyrd — On The Hunt | 2026-09-18 20:21:46 -03
-Previous track #5         : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03
-Previous track #6         : 77 — Down and Dirty | 2026-09-18 20:12:43 -03
-Previous track #7         : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03
-Previous track #8         : AC/DC — Whole Lotta Rosie | 2026-09-18 20:01:51 -03
-Previous track #9         : Black Sabbath — War Pigs - 2009 Remaster | 2026-09-18 19:56:22 -03
-Previous track #10        : Lynyrd Skynyrd — The Needle And The Spoon | 2026-09-18 19:48:32 -03
-Previous track #11        : Led Zeppelin — When the Levee Breaks - Remaster | 2026-09-18 19:44:44 -03
-Previous track #12        : Creedence Clearwater Revival — Run Through The Jungle | 2026-09-18 19:37:40 -03
-Previous track #13        : AC/DC — Touch Too Much | 2026-09-18 19:34:40 -03
-Previous track #14        : Rage Against The Machine — Freedom | 2026-09-17 22:12:05 -03
-Previous track #15        : Rage Against The Machine — Township Rebellion | 2026-09-17 22:05:58 -03
-Previous track #16        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 22:00:34 -03
-Previous track #17        : Rage Against The Machine — Wake Up | 2026-09-17 21:51:49 -03
-Previous track #18        : Rage Against The Machine — Know Your Enemy | 2026-09-17 21:45:45 -03
-Previous track #19        : Rage Against The Machine — Bullet In The Head | 2026-09-17 21:40:51 -03
-Previous track #20        : Rage Against The Machine — Settle For Nothing | 2026-09-17 21:35:44 -03
-Previous track #21        : Rage Against The Machine — Take The Power Back | 2026-09-17 21:30:58 -03
-Previous track #22        : Rage Against The Machine — Killing In The Name | 2026-09-17 21:25:21 -03
-Previous track #23        : Rage Against The Machine — Bombtrack | 2026-09-17 21:20:08 -03
-Previous track #24        : Chris Yerinides & the Rough Edges — Yesterdays | 2026-09-17 14:43:26 -03
-Previous track #25        : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03
-Previous track #26        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03
-Previous track #27        : Soundgarden — Fell On Black Days | 2026-09-17 06:09:13 -03
-Previous track #28        : Soundgarden — My Wave | 2026-09-17 06:08:37 -03
-Previous track #29        : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03
-Previous track #30        : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03
-Previous track #31        : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03
-Previous track #32        : Kyuss — Gardenia | 2026-09-17 05:42:33 -03
-Previous track #33        : Helmet — Milquetoast | 2026-09-17 05:35:43 -03
-Previous track #34        : Helmet — Role Model | 2026-09-17 05:31:53 -03
-Previous track #35        : Helmet — FBLA II | 2026-09-17 05:28:18 -03
-Previous track #36        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03
-Previous track #37        : Helmet — Better | 2026-09-17 05:21:10 -03
-Previous track #38        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03
-Previous track #39        : Helmet — Turned Out | 2026-09-17 05:13:57 -03
-Previous track #40        : Helmet — Unsung | 2026-09-17 05:09:43 -03
+Previous track #1         : Helmet — Iron Head | 2026-09-21 18:40:28 -03
+Previous track #2         : Helmet — In The Meantime | 2026-09-21 18:37:05 -03
+Previous track #3         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-19 19:03:34 -03
+Previous track #4         : Rage Against The Machine — Bombtrack | 2026-09-19 00:24:11 -03
+Previous track #5         : Lynyrd Skynyrd — On The Hunt | 2026-09-18 20:21:46 -03
+Previous track #6         : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03
+Previous track #7         : 77 — Down and Dirty | 2026-09-18 20:12:43 -03
+Previous track #8         : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03
+Previous track #9         : AC/DC — Whole Lotta Rosie | 2026-09-18 20:01:51 -03
+Previous track #10        : Black Sabbath — War Pigs - 2009 Remaster | 2026-09-18 19:56:22 -03
+Previous track #11        : Lynyrd Skynyrd — The Needle And The Spoon | 2026-09-18 19:48:32 -03
+Previous track #12        : Led Zeppelin — When the Levee Breaks - Remaster | 2026-09-18 19:44:44 -03
+Previous track #13        : Creedence Clearwater Revival — Run Through The Jungle | 2026-09-18 19:37:40 -03
+Previous track #14        : AC/DC — Touch Too Much | 2026-09-18 19:34:40 -03
+Previous track #15        : Rage Against The Machine — Freedom | 2026-09-17 22:12:05 -03
+Previous track #16        : Rage Against The Machine — Township Rebellion | 2026-09-17 22:05:58 -03
+Previous track #17        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 22:00:34 -03
+Previous track #18        : Rage Against The Machine — Wake Up | 2026-09-17 21:51:49 -03
+Previous track #19        : Rage Against The Machine — Know Your Enemy | 2026-09-17 21:45:45 -03
+Previous track #20        : Rage Against The Machine — Bullet In The Head | 2026-09-17 21:40:51 -03
+Previous track #21        : Rage Against The Machine — Settle For Nothing | 2026-09-17 21:35:44 -03
+Previous track #22        : Rage Against The Machine — Take The Power Back | 2026-09-17 21:30:58 -03
+Previous track #23        : Rage Against The Machine — Killing In The Name | 2026-09-17 21:25:21 -03
+Previous track #24        : Rage Against The Machine — Bombtrack | 2026-09-17 21:20:08 -03
+Previous track #25        : Chris Yerinides & the Rough Edges — Yesterdays | 2026-09-17 14:43:26 -03
+Previous track #26        : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03
+Previous track #27        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03
+Previous track #28        : Soundgarden — Fell On Black Days | 2026-09-17 06:09:13 -03
+Previous track #29        : Soundgarden — My Wave | 2026-09-17 06:08:37 -03
+Previous track #30        : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03
+Previous track #31        : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03
+Previous track #32        : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03
+Previous track #33        : Kyuss — Gardenia | 2026-09-17 05:42:33 -03
+Previous track #34        : Helmet — Milquetoast | 2026-09-17 05:35:43 -03
+Previous track #35        : Helmet — Role Model | 2026-09-17 05:31:53 -03
+Previous track #36        : Helmet — FBLA II | 2026-09-17 05:28:18 -03
+Previous track #37        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03
+Previous track #38        : Helmet — Better | 2026-09-17 05:21:10 -03
+Previous track #39        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03
+Previous track #40        : Helmet — Turned Out | 2026-09-17 05:13:57 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1589,53 +1589,53 @@ Context observed (UTC)    : 2026-09-18 23:13:48Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 49
+Observed events           : 45
 Unique tracks             : 40
 Unique artists            : 17
-Replay ratio              : ███░░░░░░░░░░░░░░░  18.4%
-Artist diversity          : ██████░░░░░░░░░░░░  34.7%
-Dominant artist           : Rage Against The Machine
-Dominant artist share     : ██████░░░░░░░░░░░░  34.7%
-Artist switch ratio       : ████████░░░░░░░░░░  45.8%
+Replay ratio              : ██░░░░░░░░░░░░░░░░  11.1%
+Artist diversity          : ███████░░░░░░░░░░░  37.8%
+Dominant artist           : Helmet
+Dominant artist share     : ██████░░░░░░░░░░░░  31.1%
+Artist switch ratio       : █████████░░░░░░░░░  47.7%
 Longest artist streak     : Helmet × 11
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██████░░░░░░░░░░░░   30.6%
-Morning    06–12           : █░░░░░░░░░░░░░░░░░    6.1%
-Afternoon  12–18           : ███░░░░░░░░░░░░░░░   16.3%
-Evening    18–24           : ████████░░░░░░░░░░   46.9%
+Night      00–06           : ██████░░░░░░░░░░░░   35.6%
+Morning    06–12           : █░░░░░░░░░░░░░░░░░    6.7%
+Afternoon  12–18           : █░░░░░░░░░░░░░░░░░    6.7%
+Evening    18–24           : █████████░░░░░░░░░   51.1%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-15 20:17:47Z
-History last play (7d)    : 2026-09-21 21:40:28Z
-Observed time span        : 145:22:41
-Mean inter-play gap       : 03:01:43
-Median inter-play gap     : 00:05:15
+History first play (7d)   : 2026-09-17 07:58:07Z
+History last play (7d)    : 2026-09-22 05:40:23Z
+Observed time span        : 117:42:16
+Mean inter-play gap       : 02:40:30
+Median inter-play gap     : 00:05:10
 Longest inactivity gap    : 47:33:31
-Listening intensity       : 0.34 tracks/hour
+Listening intensity       : 0.38 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
+Peak hour (24h)           : 02:00
 Peak hour (7d)            : 05:00
-Heatmap (24h)             :                   █     
-Heatmap (7d)              : ▁   ▁█▂       ▂  ▃▁▄▃▄▂ 
+Heatmap (24h)             :   █                     
+Heatmap (7d)              : ▁ ▁ ▁█▂       ▂   ▁▄▃▄▂ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁▁ █▃▁ 
+Activity (Mon→Sun)        : ▁  █▃▁ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▂     ▁       █    ▄     ▂▁   
+Activity trend (30d)      :      ▁       █    ▄     ▂▁    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :                   █     
-Tue                       :                  █      
+Tue                       :   █                     
 Wed                       :                         
 Thu                       :     ▁█▂       ▂      ▄▂ 
 Fri                       :                    ██   
@@ -1645,16 +1645,16 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 1
 Dominant artist           : Helmet
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-14 23:22:07Z → 2026-09-21 23:22:07Z
-Tracks played (7d)        : 49
-Dominant artist           : Rage Against The Machine
+Week window (UTC)         : 2026-09-16 00:41:03Z → 2026-09-23 00:41:03Z
+Tracks played (7d)        : 45
+Dominant artist           : Helmet
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
@@ -1662,29 +1662,29 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 8
-Avg inter-play gap        : 03:01:43
+Avg inter-play gap        : 02:40:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(2) | groove metal(2) | grunge(2) | noise rock(2) | post-hardcore(2)
-Top genres (7d)           : alternative metal(30) | grunge(18) | nu metal(17) | rap metal(17) | rap rock(17) | post-hardcore(14)
+Top genres (24h)          : alternative metal(1) | groove metal(1) | grunge(1) | noise rock(1) | post-hardcore(1)
+Top genres (7d)           : alternative metal(26) | grunge(19) | post-hardcore(15) | groove metal(14) | noise rock(14) | nu metal(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Tomasz Stanko Quintet — Terminal 7 → Helmet — Iron Head
-Playback timestamp Δ      : 2026-09-19 22:03:34Z → 2026-09-21 21:40:28Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:48:22
+Telemetry interval        : 03:14:07
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 327
+Events retained           : 328
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-21 18:40:28 -03
-Events (24h)              : 2
-Events (7d)               : 49
-Events (30d)              : 249
+Newest retained event     : 2026-09-22 02:40:23 -03
+Events (24h)              : 1
+Events (7d)               : 45
+Events (30d)              : 228
 Playlist contexts retained: 104
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1713,7 +1713,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-21 23:22:07Z
+Report generated (UTC)    : 2026-09-23 00:41:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2071,9 +2071,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 21 September 2026
+From: 04 December 2023 - To: 22 September 2026
 
-Total Time       : 1,071 hrs 35 mins
+Total Time       : 1,072 hrs 42 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 2 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -2082,11 +2082,11 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          884 hrs 35 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  82.55 %
-Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.49 %
-Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.26 %
-HTML           140 hrs 16 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.09 %
-PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.19 %
+Other          886 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  82.66 %
+Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
+Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.24 %
+HTML           140 hrs 20 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.08 %
+PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.18 %
 Markdown       80 hrs 50 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.54 %
 C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.13 %
 Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
@@ -2095,36 +2095,36 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,237 hrs 42 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.73 %
+Mac            1,241 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.66 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.56 %
-Firefox        639 hrs 46 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  59.70 %
-Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.54 %
-Terminal       52 hrs 53 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.94 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.49 %
+Firefox        641 hrs 13 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  59.78 %
+Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.50 %
+Terminal       53 hrs 5 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.95 %
 Spotify        47 hrs 11 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.40 %
 ‎WhatsApp      32 hrs 35 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.04 %
 Pages          24 hrs 39 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.30 %
-Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.26 %
+Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
 Dia            21 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.97 %
-FileZilla      17 hrs 57 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.68 %
+FileZilla      19 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
 Acrobat        16 hrs 20 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.52 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
 
 CATEGORIES
 ----------
-Coding         1,236 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       637 hrs 50 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.52 %
+Coding         1,238 hrs 8 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       639 hrs 17 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  59.60 %
 Meeting        41 hrs 9 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
 AI Coding      26 hrs 20 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.46 %
-Writing Docs   14 hrs 28 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
+Writing Docs   14 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 22/09/2026 02:59:10 UTC
+Last updated     : 23/09/2026 02:59:15 UTC
 
 ```
 <!--END_SECTION:wakastats-->
