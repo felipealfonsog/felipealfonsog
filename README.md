@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-22 05:40:23Z
 Played at (local)         : 2026-09-22 02:40:23 -03
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 26:09:41
+Time since play           : 32:02:07
 Gap from previous play    : 07:59:55
 ------------------------------------------------------------
 Previous song             : Helmet — Iron Head
@@ -1645,7 +1645,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-16 07:50:03Z → 2026-09-23 07:50:03Z
+Week window (UTC)         : 2026-09-16 13:42:30Z → 2026-09-23 13:42:30Z
 Tracks played (7d)        : 45
 Dominant artist           : Helmet
 Cadence classification    : HIGH
@@ -1668,7 +1668,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:09:01
+Telemetry interval        : 05:52:27
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-23 07:50:03Z
+Report generated (UTC)    : 2026-09-23 13:42:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
