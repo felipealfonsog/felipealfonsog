@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-24 07:02:45Z
 Played at (local)         : 2026-09-24 04:02:45 -03
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 10:16:27
+Time since play           : 14:33:21
 Gap from previous play    : 00:05:16
 ------------------------------------------------------------
 Previous song             : Forward Jazz Series — Homeland (Incidentals)
@@ -1582,31 +1582,31 @@ Context observed (UTC)    : 2026-09-18 23:13:48Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 40
-Unique tracks             : 37
-Unique artists            : 21
-Replay ratio              : █░░░░░░░░░░░░░░░░░  7.5%
-Artist diversity          : █████████░░░░░░░░░  52.5%
+Observed events           : 37
+Unique tracks             : 35
+Unique artists            : 19
+Replay ratio              : █░░░░░░░░░░░░░░░░░  5.4%
+Artist diversity          : █████████░░░░░░░░░  51.4%
 Dominant artist           : Rage Against The Machine
-Dominant artist share     : ██████░░░░░░░░░░░░  32.5%
-Artist switch ratio       : ████████████░░░░░░  69.2%
+Dominant artist share     : ██████░░░░░░░░░░░░  32.4%
+Artist switch ratio       : ████████████░░░░░░  66.7%
 Longest artist streak     : Rage Against The Machine × 11
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██████░░░░░░░░░░░░   32.5%
+Night      00–06           : ██████░░░░░░░░░░░░   35.1%
 Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
-Afternoon  12–18           : █░░░░░░░░░░░░░░░░░    7.5%
-Evening    18–24           : ███████████░░░░░░░   60.0%
+Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
+Evening    18–24           : ████████████░░░░░░   64.9%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-17 17:34:43Z
+History first play (7d)   : 2026-09-18 00:20:08Z
 History last play (7d)    : 2026-09-24 07:02:45Z
-Observed time span        : 157:28:02
-Mean inter-play gap       : 04:02:15
-Median inter-play gap     : 00:05:37
+Observed time span        : 150:42:37
+Mean inter-play gap       : 04:11:11
+Median inter-play gap     : 00:05:33
 Longest inactivity gap    : 48:25:02
 Listening intensity       : 0.25 tracks/hour
 ------------------------------------------------------------
@@ -1616,11 +1616,11 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
 Heatmap (24h)             :    █▁                   
-Heatmap (7d)              : ▁ ▁█▁         ▂   ▂▅▄▆▃ 
+Heatmap (7d)              : ▁ ▁█▁             ▂▅▄▆▃ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁  █▃▁ 
+Activity (Mon→Sun)        : ▁  █▄▁ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :    ▁       █    ▄     ▂▁     ▁
 Trend order               : oldest → newest
@@ -1630,7 +1630,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                   █     
 Tue                       :   █                     
 Wed                       :                         
-Thu                       :    █▁         ▂      ▆▃ 
+Thu                       :    █▁                ▆▃ 
 Fri                       :                    ██   
 Sat                       : █                  █    
 Sun                       :                         
@@ -1645,22 +1645,22 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-17 17:19:12Z → 2026-09-24 17:19:12Z
-Tracks played (7d)        : 40
+Week window (UTC)         : 2026-09-17 21:36:06Z → 2026-09-24 21:36:06Z
+Tracks played (7d)        : 37
 Dominant artist           : Rage Against The Machine
-Cadence classification    : HIGH
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap        : 04:02:15
+Sessions (7d)             : 7
+Avg inter-play gap        : 04:11:11
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(14) | cool jazz(11) | bebop(10) | hard bop(10) | jazz ballads(9) | free jazz(6)
-Top genres (7d)           : alternative metal(16) | jazz(15) | nu metal(13) | rap metal(13) | rap rock(13) | cool jazz(11)
+Top genres (7d)           : alternative metal(15) | jazz(15) | nu metal(12) | rap metal(12) | rap rock(12) | cool jazz(11)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1668,7 +1668,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:22:04
+Telemetry interval        : 04:16:54
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1676,7 +1676,7 @@ Events retained           : 340
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-24 04:02:45 -03
 Events (24h)              : 11
-Events (7d)               : 40
+Events (7d)               : 37
 Events (30d)              : 238
 Playlist contexts retained: 115
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-24 17:19:12Z
+Report generated (UTC)    : 2026-09-24 21:36:06Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
