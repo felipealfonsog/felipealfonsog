@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-22 05:40:23Z
 Played at (local)         : 2026-09-22 02:40:23 -03
 Local hour                : 02:00
 Daypart                   : NIGHT
-Time since play           : 41:19:10
+Time since play           : 47:21:39
 Gap from previous play    : 07:59:55
 ------------------------------------------------------------
 Previous song             : Helmet — Iron Head
@@ -1622,7 +1622,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▁  █▃▁ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :     ▁       █    ▄     ▂▁     
+Activity trend (30d)      :    ▁       █    ▄     ▂▁      
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1645,7 +1645,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-16 22:59:33Z → 2026-09-23 22:59:33Z
+Week window (UTC)         : 2026-09-17 05:02:01Z → 2026-09-24 05:02:01Z
 Tracks played (7d)        : 45
 Dominant artist           : Helmet
 Cadence classification    : HIGH
@@ -1668,7 +1668,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:33:18
+Telemetry interval        : 06:02:29
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-23 22:59:33Z
+Report generated (UTC)    : 2026-09-24 05:02:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
