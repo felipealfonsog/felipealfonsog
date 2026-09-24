@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-24 07:02:45Z
 Played at (local)         : 2026-09-24 04:02:45 -03
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 04:54:23
+Time since play           : 10:16:27
 Gap from previous play    : 00:05:16
 ------------------------------------------------------------
 Previous song             : Forward Jazz Series — Homeland (Incidentals)
@@ -1645,7 +1645,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-17 11:57:08Z → 2026-09-24 11:57:08Z
+Week window (UTC)         : 2026-09-17 17:19:12Z → 2026-09-24 17:19:12Z
 Tracks played (7d)        : 40
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1665,10 +1665,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Helmet — Give It → Duke Ellington, John Coltrane — My Little Brown Book
-Playback timestamp Δ      : 2026-09-22 05:40:23Z → 2026-09-24 07:02:45Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:55:07
+Telemetry interval        : 05:22:04
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1677,7 +1677,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-24 04:02:45 -03
 Events (24h)              : 11
 Events (7d)               : 40
-Events (30d)              : 239
+Events (30d)              : 238
 Playlist contexts retained: 115
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-24 11:57:08Z
+Report generated (UTC)    : 2026-09-24 17:19:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
