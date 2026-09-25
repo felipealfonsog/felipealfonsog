@@ -1,8 +1,140 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-25 00:36:02Z",
+  "updated_utc": "2026-09-25 07:57:29Z",
   "events": [
+    {
+      "track": "Faith No More — Falling to Pieces",
+      "artist": "Faith No More",
+      "title": "Falling to Pieces",
+      "album": "The Real Thing",
+      "uri": "spotify:track:20nb0Wl1yqoEERbUSILuG1",
+      "url": "https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-25 03:06:20Z",
+      "played_at_local": "2026-09-25 00:06:20 -03",
+      "local_hour": 0,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Midlife Crisis",
+      "artist": "Faith No More",
+      "title": "Midlife Crisis",
+      "album": "Angel Dust (Deluxe Edition)",
+      "uri": "spotify:track:3Ph7fws05DvPwpn5CQHTBy",
+      "url": "https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-25 02:53:24Z",
+      "played_at_local": "2026-09-24 23:53:24 -03",
+      "local_hour": 23,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — We Care a Lot",
+      "artist": "Faith No More",
+      "title": "We Care a Lot",
+      "album": "Introduce Yourself",
+      "uri": "spotify:track:2z1uVu3OwTmPlfqt5TWk5k",
+      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-25 02:49:03Z",
+      "played_at_local": "2026-09-24 23:49:03 -03",
+      "local_hour": 23,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Ashes to Ashes - 2016 Remaster",
+      "artist": "Faith No More",
+      "title": "Ashes to Ashes - 2016 Remaster",
+      "album": "Album of the Year (2016 Remaster; Deluxe Edition)",
+      "uri": "spotify:track:0tZ9qh1m1NGP6rzSf57PGO",
+      "url": "https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-25 02:44:58Z",
+      "played_at_local": "2026-09-24 23:44:58 -03",
+      "local_hour": 23,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Epic",
+      "artist": "Faith No More",
+      "title": "Epic",
+      "album": "The Real Thing",
+      "uri": "spotify:track:4ReyTz0y3TGkX48wO3Llot",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-25 02:41:21Z",
+      "played_at_local": "2026-09-24 23:41:21 -03",
+      "local_hour": 23,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Faith No More — Easy",
+      "artist": "Faith No More",
+      "title": "Easy",
+      "album": "Angel Dust (Deluxe Edition)",
+      "uri": "spotify:track:4Y3WqmBWmG23thvU9xEhMv",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv",
+      "artist_ids": [
+        "6GbCJZrI318Ybm8mY36Of5"
+      ],
+      "played_at_utc": "2026-09-25 02:36:27Z",
+      "played_at_local": "2026-09-24 23:36:27 -03",
+      "local_hour": 23,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm",
+      "playlist_id": "37i9dQZF1DZ06evO3WK7xm",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
     {
       "track": "Duke Ellington, John Coltrane — My Little Brown Book",
       "artist": "Duke Ellington, John Coltrane",
