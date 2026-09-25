@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-24 07:02:45Z
 Played at (local)         : 2026-09-24 04:02:45 -03
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 14:33:21
+Time since play           : 17:33:17
 Gap from previous play    : 00:05:16
 ------------------------------------------------------------
 Previous song             : Forward Jazz Series — Homeland (Incidentals)
@@ -1582,33 +1582,33 @@ Context observed (UTC)    : 2026-09-18 23:13:48Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 37
-Unique tracks             : 35
+Observed events           : 33
+Unique tracks             : 32
 Unique artists            : 19
-Replay ratio              : █░░░░░░░░░░░░░░░░░  5.4%
-Artist diversity          : █████████░░░░░░░░░  51.4%
+Replay ratio              : █░░░░░░░░░░░░░░░░░  3.0%
+Artist diversity          : ██████████░░░░░░░░  57.6%
 Dominant artist           : Rage Against The Machine
-Dominant artist share     : ██████░░░░░░░░░░░░  32.4%
-Artist switch ratio       : ████████████░░░░░░  66.7%
-Longest artist streak     : Rage Against The Machine × 11
+Dominant artist share     : ████░░░░░░░░░░░░░░  24.2%
+Artist switch ratio       : ██████████████░░░░  75.0%
+Longest artist streak     : Rage Against The Machine × 7
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██████░░░░░░░░░░░░   35.1%
+Night      00–06           : ███████░░░░░░░░░░░   39.4%
 Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ████████████░░░░░░   64.9%
+Evening    18–24           : ███████████░░░░░░░   60.6%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-18 00:20:08Z
+History first play (7d)   : 2026-09-18 00:40:51Z
 History last play (7d)    : 2026-09-24 07:02:45Z
-Observed time span        : 150:42:37
-Mean inter-play gap       : 04:11:11
-Median inter-play gap     : 00:05:33
+Observed time span        : 150:21:54
+Mean inter-play gap       : 04:41:56
+Median inter-play gap     : 00:05:46
 Longest inactivity gap    : 48:25:02
-Listening intensity       : 0.25 tracks/hour
+Listening intensity       : 0.22 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1616,7 +1616,7 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
 Heatmap (24h)             :    █▁                   
-Heatmap (7d)              : ▁ ▁█▁             ▂▅▄▆▃ 
+Heatmap (7d)              : ▁ ▁█▁             ▂▅▄▂▃ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
@@ -1630,7 +1630,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                   █     
 Tue                       :   █                     
 Wed                       :                         
-Thu                       :    █▁                ▆▃ 
+Thu                       :    █▁                ▂▃ 
 Fri                       :                    ██   
 Sat                       : █                  █    
 Sun                       :                         
@@ -1645,8 +1645,8 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-17 21:36:06Z → 2026-09-24 21:36:06Z
-Tracks played (7d)        : 37
+Week window (UTC)         : 2026-09-18 00:36:02Z → 2026-09-25 00:36:02Z
+Tracks played (7d)        : 33
 Dominant artist           : Rage Against The Machine
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1655,12 +1655,12 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
 Sessions (7d)             : 7
-Avg inter-play gap        : 04:11:11
+Avg inter-play gap        : 04:41:56
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : jazz(14) | cool jazz(11) | bebop(10) | hard bop(10) | jazz ballads(9) | free jazz(6)
-Top genres (7d)           : alternative metal(15) | jazz(15) | nu metal(12) | rap metal(12) | rap rock(12) | cool jazz(11)
+Top genres (7d)           : jazz(15) | alternative metal(11) | cool jazz(11) | bebop(10) | hard bop(10) | jazz ballads(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1668,7 +1668,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:16:54
+Telemetry interval        : 02:59:56
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1676,7 +1676,7 @@ Events retained           : 340
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-24 04:02:45 -03
 Events (24h)              : 11
-Events (7d)               : 37
+Events (7d)               : 33
 Events (30d)              : 238
 Playlist contexts retained: 115
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1706,7 +1706,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-24 21:36:06Z
+Report generated (UTC)    : 2026-09-25 00:36:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
