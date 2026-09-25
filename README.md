@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-25 03:06:20Z
 Played at (local)         : 2026-09-25 00:06:20 -03
 Local hour                : 00:00
 Daypart                   : NIGHT
-Time since play           : 10:49:31
+Time since play           : 15:36:52
 Gap from previous play    : 00:12:56
 ------------------------------------------------------------
 Previous song             : Faith No More — Midlife Crisis
@@ -1646,7 +1646,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-18 13:55:50Z → 2026-09-25 13:55:50Z
+Week window (UTC)         : 2026-09-18 18:43:12Z → 2026-09-25 18:43:12Z
 Tracks played (7d)        : 32
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
@@ -1669,7 +1669,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:58:22
+Telemetry interval        : 04:47:22
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1707,7 +1707,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-25 13:55:50Z
+Report generated (UTC)    : 2026-09-25 18:43:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
