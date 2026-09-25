@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-25 03:06:20Z
 Played at (local)         : 2026-09-25 00:06:20 -03
 Local hour                : 00:00
 Daypart                   : NIGHT
-Time since play           : 04:51:09
+Time since play           : 10:49:31
 Gap from previous play    : 00:12:56
 ------------------------------------------------------------
 Previous song             : Faith No More — Midlife Crisis
@@ -1646,7 +1646,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-18 07:57:29Z → 2026-09-25 07:57:29Z
+Week window (UTC)         : 2026-09-18 13:55:50Z → 2026-09-25 13:55:50Z
 Tracks played (7d)        : 32
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
@@ -1666,10 +1666,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Duke Ellington, John Coltrane — My Little Brown Book → Faith No More — Falling to Pieces
-Playback timestamp Δ      : 2026-09-24 07:02:45Z → 2026-09-25 03:06:20Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:21:27
+Telemetry interval        : 05:58:22
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1707,7 +1707,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-25 07:57:29Z
+Report generated (UTC)    : 2026-09-25 13:55:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
