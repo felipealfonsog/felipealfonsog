@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-09-25_1701Z
+ snapshot_utc : 2026-09-26_1614Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -536,7 +536,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-09-25T11:43:48+00:00 | last_update=2026-09-25T11:43:48+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-09-26T11:15:32+00:00 | last_update=2026-09-26T11:15:32+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +706,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 189 ms
-TTFB................ 188 ms
+LATENCY............. 237 ms
+TTFB................ 236 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 36d
+TLS_EXPIRY.......... 35d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -741,7 +741,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-25T08:41:21Z
+LAST_PROBE_UTC...... 2026-09-26T08:28:01Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -782,18 +782,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : pedestrian_axis
-latitude       : -33.437613
-longitude      : -70.646438
-altitude       : 134 m
-gps_accuracy   : ±8.0 m
-heading        : 2°
-speed          : 6.5 km/h
+latitude       : -33.437688
+longitude      : -70.647403
+altitude       : 9 m
+gps_accuracy   : ±6.8 m
+heading        : 339°
+speed          : 9.2 km/h
 status         : walking
 phase          : workday
-local_time     : 13:08
+local_time     : 12:21
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-09-25 16:08:30 UTC
+updated_utc    : 2026-09-26 15:21:52 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-09-25 11:57:19Z
+DSN snapshot (UTC)       : 2026-09-26 11:31:54Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +923,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.74e9 km | 172.083 AU
-Heliocentric distance    : 171.863 AU
-Relative speed           : 44.363 km/s
+Earth distance           : 25.75e9 km | 172.105 AU
+Heliocentric distance    : 171.873 AU
+Relative speed           : 44.338 km/s
 ------------------------------------------------------------
-One-way light time       : 23:51:10
-Round-trip latency       : 47:42:20
+One-way light time       : 23:51:21
+Round-trip latency       : 47:42:43
 ------------------------------------------------------------
-Δ distance (since last)  : +995,211 km
-Mission age              : 49 years, 32 days
+Δ distance (since last)  : +925,131 km
+Mission age              : 49 years, 33 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.51e9 km | 143.790 AU
-Heliocentric distance    : 144.038 AU
-Relative speed           : 41.001 km/s
+Earth distance           : 21.51e9 km | 143.811 AU
+Heliocentric distance    : 144.046 AU
+Relative speed           : 41.053 km/s
 ------------------------------------------------------------
-One-way light time       : 19:55:52
-Round-trip latency       : 39:51:44
+One-way light time       : 19:56:02
+Round-trip latency       : 39:52:05
 ------------------------------------------------------------
-Δ distance (since last)  : +921,623 km
-Mission age              : 49 years, 48 days
+Δ distance (since last)  : +861,938 km
+Mission age              : 49 years, 49 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-09-25 11:57:25Z
+Report generated (UTC)   : 2026-09-26 11:31:59Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-09-25 03:06:20Z
 Played at (local)         : 2026-09-25 00:06:20 -03
 Local hour                : 00:00
 Daypart                   : NIGHT
-Time since play           : 10:49:31
+Time since play           : 32:27:19
 Gap from previous play    : 00:12:56
 ------------------------------------------------------------
 Previous song             : Faith No More — Midlife Crisis
@@ -1590,47 +1590,47 @@ Context observed (UTC)    : 2026-09-18 23:13:48Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 32
-Unique tracks             : 31
-Unique artists            : 20
-Replay ratio              : █░░░░░░░░░░░░░░░░░  3.1%
-Artist diversity          : ███████████░░░░░░░  62.5%
+Observed events           : 21
+Unique tracks             : 20
+Unique artists            : 11
+Replay ratio              : █░░░░░░░░░░░░░░░░░  4.8%
+Artist diversity          : █████████░░░░░░░░░  52.4%
 Dominant artist           : Faith No More
-Dominant artist share     : ███░░░░░░░░░░░░░░░  18.8%
-Artist switch ratio       : ██████████████░░░░  77.4%
+Dominant artist share     : █████░░░░░░░░░░░░░  28.6%
+Artist switch ratio       : ████████████░░░░░░  65.0%
 Longest artist streak     : Faith No More × 6
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ████████░░░░░░░░░░   43.8%
+Night      00–06           : ███████████░░░░░░░   61.9%
 Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ██████████░░░░░░░░   56.2%
-Dominant period           : EVENING
+Evening    18–24           : ███████░░░░░░░░░░░   38.1%
+Dominant period           : NIGHT
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-18 22:34:40Z
+History first play (7d)   : 2026-09-19 22:03:34Z
 History last play (7d)    : 2026-09-25 03:06:20Z
-Observed time span        : 148:31:40
-Mean inter-play gap       : 04:47:28
-Median inter-play gap     : 00:05:29
+Observed time span        : 125:02:46
+Mean inter-play gap       : 06:15:08
+Median inter-play gap     : 00:05:06
 Longest inactivity gap    : 48:25:02
-Listening intensity       : 0.22 tracks/hour
+Listening intensity       : 0.17 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 23:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 03:00
-Heatmap (24h)             : ▂                      █
-Heatmap (7d)              : ▂ ▁█▁             ▂▅▄  ▄
+Heatmap (24h)             : N/A
+Heatmap (7d)              : ▁ ▁█▁             ▂▁   ▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁  █▆▁ 
+Activity (Mon→Sun)        : ▁  █   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   ▁       █    ▄     ▂▁     ▁ 
+Activity trend (30d)      :  ▁       █    ▄     ▂▁     ▁  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1639,36 +1639,36 @@ Mon                       :                   █
 Tue                       :   █                     
 Wed                       :                         
 Thu                       :    █▁                  ▄
-Fri                       : ▂                  ██   
-Sat                       : █                  █    
+Fri                       : █                       
+Sat                       :                    █    
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
-Dominant artist           : Faith No More
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-18 13:55:50Z → 2026-09-25 13:55:50Z
-Tracks played (7d)        : 32
+Week window (UTC)         : 2026-09-19 11:33:38Z → 2026-09-26 11:33:38Z
+Tracks played (7d)        : 21
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 7
-Avg inter-play gap        : 04:47:28
+Sessions (24h)            : N/A
+Sessions (7d)             : 5
+Avg inter-play gap        : 06:15:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6)
-Top genres (7d)           : jazz(15) | cool jazz(11) | alternative metal(10) | bebop(10) | hard bop(10) | grunge(9)
+Top genres (24h)          : N/A
+Top genres (7d)           : jazz(15) | cool jazz(11) | bebop(10) | hard bop(10) | alternative metal(9) | grunge(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1676,15 +1676,15 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:58:22
+Telemetry interval        : 06:24:53
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 346
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-25 00:06:20 -03
-Events (24h)              : 6
-Events (7d)               : 32
+Events (24h)              : 0
+Events (7d)               : 21
 Events (30d)              : 244
 Playlist contexts retained: 121
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1714,7 +1714,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-25 13:55:50Z
+Report generated (UTC)    : 2026-09-26 11:33:38Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2072,7 +2072,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 25 September 2026
+From: 04 December 2023 - To: 26 September 2026
 
 Total Time       : 1,073 hrs 33 mins
 Mostly coding in : Other
@@ -2083,7 +2083,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          898 hrs 48 mins ●●●●●●●●●●●●●●●●●●●●●◔○○○○  83.72 %
+Other          901 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●◔○○○○  84.00 %
 Bash           176 hrs 52 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.48 %
 Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.23 %
 HTML           141 hrs        ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.13 %
@@ -2096,36 +2096,36 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,253 hrs 53 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,256 hrs 50 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.61 %
 
 EDITORS - APPS
 --------------
 VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.45 %
-Firefox        651 hrs 57 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.73 %
+Firefox        653 hrs 11 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.84 %
 Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.48 %
 Terminal       53 hrs 11 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.95 %
 Spotify        48 hrs 11 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.49 %
-‎WhatsApp      32 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.05 %
-Pages          24 hrs 39 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.30 %
+‎WhatsApp      32 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.07 %
+Pages          24 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.30 %
 Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
-Dia            21 hrs 5 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.96 %
+Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
 FileZilla      19 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
-Acrobat        16 hrs 20 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.52 %
+Acrobat        16 hrs 22 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.53 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
 
 CATEGORIES
 ----------
-Coding         1,240 hrs 10 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       650 hrs 2 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.55 %
-Meeting        41 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
+Coding         1,241 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       651 hrs 15 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.66 %
+Meeting        41 hrs 31 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.87 %
 AI Coding      26 hrs 20 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.45 %
 Writing Docs   14 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 25/09/2026 16:22:06 UTC
+Last updated     : 26/09/2026 15:37:02 UTC
 
 ```
 <!--END_SECTION:wakastats-->
