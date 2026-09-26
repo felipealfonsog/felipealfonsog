@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-25 03:06:20Z
 Played at (local)         : 2026-09-25 00:06:20 -03
 Local hour                : 00:00
 Daypart                   : NIGHT
-Time since play           : 20:14:05
+Time since play           : 26:02:26
 Gap from previous play    : 00:12:56
 ------------------------------------------------------------
 Previous song             : Faith No More — Midlife Crisis
@@ -1583,47 +1583,47 @@ Context observed (UTC)    : 2026-09-18 23:13:48Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 23
-Unique tracks             : 22
-Unique artists            : 13
-Replay ratio              : █░░░░░░░░░░░░░░░░░  4.3%
-Artist diversity          : ██████████░░░░░░░░  56.5%
+Observed events           : 21
+Unique tracks             : 20
+Unique artists            : 11
+Replay ratio              : █░░░░░░░░░░░░░░░░░  4.8%
+Artist diversity          : █████████░░░░░░░░░  52.4%
 Dominant artist           : Faith No More
-Dominant artist share     : █████░░░░░░░░░░░░░  26.1%
-Artist switch ratio       : ████████████░░░░░░  68.2%
+Dominant artist share     : █████░░░░░░░░░░░░░  28.6%
+Artist switch ratio       : ████████████░░░░░░  65.0%
 Longest artist streak     : Faith No More × 6
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███████████░░░░░░░   60.9%
+Night      00–06           : ███████████░░░░░░░   61.9%
 Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ███████░░░░░░░░░░░   39.1%
+Evening    18–24           : ███████░░░░░░░░░░░   38.1%
 Dominant period           : NIGHT
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-18 23:21:46Z
+History first play (7d)   : 2026-09-19 22:03:34Z
 History last play (7d)    : 2026-09-25 03:06:20Z
-Observed time span        : 147:44:34
-Mean inter-play gap       : 06:42:56
-Median inter-play gap     : 00:05:27
+Observed time span        : 125:02:46
+Mean inter-play gap       : 06:15:08
+Median inter-play gap     : 00:05:06
 Longest inactivity gap    : 48:25:02
-Listening intensity       : 0.16 tracks/hour
+Listening intensity       : 0.17 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 23:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 03:00
-Heatmap (24h)             : ▂                      █
-Heatmap (7d)              : ▂ ▁█▁             ▂▁▁  ▄
+Heatmap (24h)             : N/A
+Heatmap (7d)              : ▁ ▁█▁             ▂▁   ▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁  █▁▁ 
+Activity (Mon→Sun)        : ▁  █   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   ▁       █    ▄     ▂▁     ▁ 
+Activity trend (30d)      :  ▁       █    ▄     ▂▁     ▁  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1632,36 +1632,36 @@ Mon                       :                   █
 Tue                       :   █                     
 Wed                       :                         
 Thu                       :    █▁                  ▄
-Fri                       : █                   █   
-Sat                       : █                  █    
+Fri                       : █                       
+Sat                       :                    █    
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
-Dominant artist           : Faith No More
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-18 23:20:24Z → 2026-09-25 23:20:24Z
-Tracks played (7d)        : 23
+Week window (UTC)         : 2026-09-19 05:08:46Z → 2026-09-26 05:08:46Z
+Tracks played (7d)        : 21
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 7
-Avg inter-play gap        : 06:42:56
+Sessions (24h)            : N/A
+Sessions (7d)             : 5
+Avg inter-play gap        : 06:15:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6)
-Top genres (7d)           : jazz(15) | cool jazz(11) | alternative metal(10) | bebop(10) | hard bop(10) | grunge(9)
+Top genres (24h)          : N/A
+Top genres (7d)           : jazz(15) | cool jazz(11) | bebop(10) | hard bop(10) | alternative metal(9) | grunge(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1669,15 +1669,15 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:37:13
+Telemetry interval        : 05:48:22
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 346
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-25 00:06:20 -03
-Events (24h)              : 6
-Events (7d)               : 23
+Events (24h)              : 0
+Events (7d)               : 21
 Events (30d)              : 244
 Playlist contexts retained: 121
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1707,7 +1707,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-25 23:20:24Z
+Report generated (UTC)    : 2026-09-26 05:08:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
