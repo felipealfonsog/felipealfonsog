@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-09-26_0442Z
+ snapshot_utc : 2026-09-27_0503Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -536,7 +536,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-09-25T21:28:12+00:00 | last_update=2026-09-25T21:28:12+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-09-26T21:02:00+00:00 | last_update=2026-09-26T21:02:00+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +706,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 189 ms
-TTFB................ 188 ms
+LATENCY............. 237 ms
+TTFB................ 236 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 36d
+TLS_EXPIRY.......... 35d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -741,7 +741,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-25T08:41:21Z
+LAST_PROBE_UTC...... 2026-09-26T08:28:01Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -782,18 +782,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : pedestrian_axis
-latitude       : -33.437678
-longitude      : -70.646935
-altitude       : 142 m
-gps_accuracy   : ±8.5 m
+latitude       : -33.437299
+longitude      : -70.647024
+altitude       : 80 m
+gps_accuracy   : ±6.6 m
 heading        : 0°
-speed          : 0.0 km/h
-status         : resting
+speed          : 0.1 km/h
+status         : low_movement
 phase          : overnight
-local_time     : 23:33
+local_time     : 23:31
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-09-26 02:33:12 UTC
+signal         : nominal
+updated_utc    : 2026-09-27 02:31:20 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-09-25 21:39:09Z
+DSN snapshot (UTC)       : 2026-09-26 21:15:44Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +923,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.74e9 km | 172.092 AU
-Heliocentric distance    : 171.867 AU
-Relative speed           : 44.353 km/s
+Earth distance           : 25.75e9 km | 172.115 AU
+Heliocentric distance    : 171.877 AU
+Relative speed           : 44.328 km/s
 ------------------------------------------------------------
-One-way light time       : 23:51:15
-Round-trip latency       : 47:42:29
+One-way light time       : 23:51:26
+Round-trip latency       : 47:42:52
 ------------------------------------------------------------
-Δ distance (since last)  : +630,540 km
-Mission age              : 49 years, 32 days
+Δ distance (since last)  : +686,348 km
+Mission age              : 49 years, 33 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.51e9 km | 143.799 AU
-Heliocentric distance    : 144.041 AU
-Relative speed           : 41.023 km/s
+Earth distance           : 21.52e9 km | 143.820 AU
+Heliocentric distance    : 144.050 AU
+Relative speed           : 41.074 km/s
 ------------------------------------------------------------
-One-way light time       : 19:55:56
-Round-trip latency       : 39:51:53
+One-way light time       : 19:56:07
+Round-trip latency       : 39:52:14
 ------------------------------------------------------------
-Δ distance (since last)  : +585,549 km
-Mission age              : 49 years, 48 days
+Δ distance (since last)  : +641,184 km
+Mission age              : 49 years, 49 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-09-25 21:39:12Z
+Report generated (UTC)   : 2026-09-26 21:15:48Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1498,86 +1498,87 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Faith No More — Falling to Pieces
-Artist                    : Faith No More
-Title                     : Falling to Pieces
-Album                     : The Real Thing
-Spotify URI               : spotify:track:20nb0Wl1yqoEERbUSILuG1
-Spotify URL               : https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1
+Track                     : Jerry Cantrell — My Song
+Artist                    : Jerry Cantrell
+Title                     : My Song
+Album                     : Boggy Depot
+Spotify URI               : spotify:track:23xzzmz1qmGO9HrxUGX1iO
+Spotify URL               : https://open.spotify.com/track/23xzzmz1qmGO9HrxUGX1iO
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-25 03:06:20Z
-Played at (local)         : 2026-09-25 00:06:20 -03
-Local hour                : 00:00
-Daypart                   : NIGHT
-Time since play           : 20:14:05
-Gap from previous play    : 00:12:56
+Played at (UTC)           : 2026-09-27 00:36:29Z
+Played at (local)         : 2026-09-26 21:36:29 -03
+Local hour                : 21:00
+Daypart                   : EVENING
+Time since play           : 00:05:04
+Gap from previous play    : 00:05:56
 ------------------------------------------------------------
-Previous song             : Faith No More — Midlife Crisis
-Same artist as previous   : YES
+Previous song             : Staind — Here And Now
+Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 2
-Artist plays (retained)   : 17
+Track plays (retained)    : 1
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Faith No More — Midlife Crisis | 2026-09-24 23:53:24 -03
-Previous track #2         : Faith No More — We Care a Lot | 2026-09-24 23:49:03 -03
-Previous track #3         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-24 23:44:58 -03
-Previous track #4         : Faith No More — Epic | 2026-09-24 23:41:21 -03
-Previous track #5         : Faith No More — Easy | 2026-09-24 23:36:27 -03
-Previous track #6         : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-24 04:02:45 -03
-Previous track #7         : Forward Jazz Series — Homeland (Incidentals) | 2026-09-24 03:57:29 -03
-Previous track #8         : Miles Davis Quintet — Tune Up | 2026-09-24 03:53:13 -03
-Previous track #9         : Kamasi Washington — Truth | 2026-09-24 03:47:35 -03
-Previous track #10        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-24 03:34:09 -03
-Previous track #11        : Thelonious Monk — Straight No Chaser | 2026-09-24 03:28:15 -03
-Previous track #12        : Forward Jazz Series — Homeland | 2026-09-24 03:25:21 -03
-Previous track #13        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-24 03:21:01 -03
-Previous track #14        : John Coltrane — Blue World | 2026-09-24 03:16:05 -03
-Previous track #15        : Tomasz Stanko Quartet — Trista | 2026-09-24 03:10:01 -03
-Previous track #16        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-24 03:05:25 -03
-Previous track #17        : Helmet — Give It | 2026-09-22 02:40:23 -03
-Previous track #18        : Helmet — Iron Head | 2026-09-21 18:40:28 -03
-Previous track #19        : Helmet — In The Meantime | 2026-09-21 18:37:05 -03
-Previous track #20        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-19 19:03:34 -03
-Previous track #21        : Rage Against The Machine — Bombtrack | 2026-09-19 00:24:11 -03
-Previous track #22        : Lynyrd Skynyrd — On The Hunt | 2026-09-18 20:21:46 -03
-Previous track #23        : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03
-Previous track #24        : 77 — Down and Dirty | 2026-09-18 20:12:43 -03
-Previous track #25        : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03
-Previous track #26        : AC/DC — Whole Lotta Rosie | 2026-09-18 20:01:51 -03
-Previous track #27        : Black Sabbath — War Pigs - 2009 Remaster | 2026-09-18 19:56:22 -03
-Previous track #28        : Lynyrd Skynyrd — The Needle And The Spoon | 2026-09-18 19:48:32 -03
-Previous track #29        : Led Zeppelin — When the Levee Breaks - Remaster | 2026-09-18 19:44:44 -03
-Previous track #30        : Creedence Clearwater Revival — Run Through The Jungle | 2026-09-18 19:37:40 -03
-Previous track #31        : AC/DC — Touch Too Much | 2026-09-18 19:34:40 -03
-Previous track #32        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-17 22:14:18 -03
-Previous track #33        : Rage Against The Machine — Freedom | 2026-09-17 22:12:05 -03
-Previous track #34        : Rage Against The Machine — Township Rebellion | 2026-09-17 22:05:58 -03
-Previous track #35        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 22:00:34 -03
-Previous track #36        : Rage Against The Machine — Wake Up | 2026-09-17 21:51:49 -03
-Previous track #37        : Rage Against The Machine — Know Your Enemy | 2026-09-17 21:45:45 -03
-Previous track #38        : Rage Against The Machine — Bullet In The Head | 2026-09-17 21:40:51 -03
-Previous track #39        : Rage Against The Machine — Settle For Nothing | 2026-09-17 21:35:44 -03
-Previous track #40        : Rage Against The Machine — Take The Power Back | 2026-09-17 21:30:58 -03
+Previous track #1         : Staind — Here And Now | 2026-09-26 21:30:33 -03
+Previous track #2         : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03
+Previous track #3         : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03
+Previous track #4         : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03
+Previous track #5         : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03
+Previous track #6         : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03
+Previous track #7         : Linkin Park — By Myself | 2026-09-26 19:51:35 -03
+Previous track #8         : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03
+Previous track #9         : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03
+Previous track #10        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03
+Previous track #11        : Silverchair — Tomorrow | 2026-09-26 19:01:31 -03
+Previous track #12        : Silverchair — Israel's Son | 2026-09-26 18:57:05 -03
+Previous track #13        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-26 11:18:05 -03
+Previous track #14        : Faith No More — Falling to Pieces | 2026-09-25 00:06:20 -03
+Previous track #15        : Faith No More — Midlife Crisis | 2026-09-24 23:53:24 -03
+Previous track #16        : Faith No More — We Care a Lot | 2026-09-24 23:49:03 -03
+Previous track #17        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-24 23:44:58 -03
+Previous track #18        : Faith No More — Epic | 2026-09-24 23:41:21 -03
+Previous track #19        : Faith No More — Easy | 2026-09-24 23:36:27 -03
+Previous track #20        : Thelonious Monk — Straight, No Chaser | 2026-09-24 04:03:15 -03
+Previous track #21        : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-24 04:02:45 -03
+Previous track #22        : Forward Jazz Series — Homeland (Incidentals) | 2026-09-24 03:57:29 -03
+Previous track #23        : Miles Davis Quintet — Tune Up | 2026-09-24 03:53:13 -03
+Previous track #24        : Kamasi Washington — Truth | 2026-09-24 03:47:35 -03
+Previous track #25        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-24 03:34:09 -03
+Previous track #26        : Thelonious Monk — Straight No Chaser | 2026-09-24 03:28:15 -03
+Previous track #27        : Forward Jazz Series — Homeland | 2026-09-24 03:25:21 -03
+Previous track #28        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-24 03:21:01 -03
+Previous track #29        : John Coltrane — Blue World | 2026-09-24 03:16:05 -03
+Previous track #30        : Tomasz Stanko Quartet — Trista | 2026-09-24 03:10:01 -03
+Previous track #31        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-24 03:05:25 -03
+Previous track #32        : Helmet — Give It | 2026-09-22 02:40:23 -03
+Previous track #33        : Helmet — Iron Head | 2026-09-21 18:40:28 -03
+Previous track #34        : Helmet — In The Meantime | 2026-09-21 18:37:05 -03
+Previous track #35        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-19 19:03:34 -03
+Previous track #36        : Rage Against The Machine — Bombtrack | 2026-09-19 00:24:11 -03
+Previous track #37        : Lynyrd Skynyrd — On The Hunt | 2026-09-18 20:21:46 -03
+Previous track #38        : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03
+Previous track #39        : 77 — Down and Dirty | 2026-09-18 20:12:43 -03
+Previous track #40        : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : N/A
-Context observed (local)  : 2026-09-25 00:06:20 -03
-Track observed in context : Faith No More — Falling to Pieces
-Spotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm
-Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm
+Context observed (local)  : 2026-09-26 21:36:29 -03
+Track observed in context : Jerry Cantrell — My Song
+Spotify playlist URI      : spotify:playlist:37i9dQZF1DX9E1mLvTvD1f
+Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f
 ------------------------------------------------------------
-Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:02:45 -03
-Previous playlist #2      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
-Previous playlist #3      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
-Previous playlist #5      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
-Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
-Previous playlist #7      : N/A | 2026-08-13 14:15:12 -04
-Previous playlist #8      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
+Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
+Previous playlist #2      : N/A | 2026-09-25 00:06:20 -03
+Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
+Previous playlist #4      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
+Previous playlist #5      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #7      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
+Previous playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
+Previous playlist #9      : N/A | 2026-08-13 14:15:12 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1586,51 +1587,51 @@ Last known device name    : iPhone
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-09-18 23:13:48Z
+Context observed (UTC)    : 2026-09-27 00:41:32Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 23
-Unique tracks             : 22
-Unique artists            : 13
-Replay ratio              : █░░░░░░░░░░░░░░░░░  4.3%
-Artist diversity          : ██████████░░░░░░░░  56.5%
+Observed events           : 35
+Unique tracks             : 33
+Unique artists            : 19
+Replay ratio              : █░░░░░░░░░░░░░░░░░  5.7%
+Artist diversity          : ██████████░░░░░░░░  54.3%
 Dominant artist           : Faith No More
-Dominant artist share     : █████░░░░░░░░░░░░░  26.1%
-Artist switch ratio       : ████████████░░░░░░  68.2%
+Dominant artist share     : ███░░░░░░░░░░░░░░░  17.1%
+Artist switch ratio       : ████████████░░░░░░  64.7%
 Longest artist streak     : Faith No More × 6
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███████████░░░░░░░   60.9%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
+Night      00–06           : ███████░░░░░░░░░░░   40.0%
+Morning    06–12           : █░░░░░░░░░░░░░░░░░    2.9%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ███████░░░░░░░░░░░   39.1%
-Dominant period           : NIGHT
+Evening    18–24           : ██████████░░░░░░░░   57.1%
+Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-18 23:21:46Z
-History last play (7d)    : 2026-09-25 03:06:20Z
-Observed time span        : 147:44:34
-Mean inter-play gap       : 06:42:56
-Median inter-play gap     : 00:05:27
+History first play (7d)   : 2026-09-21 21:37:05Z
+History last play (7d)    : 2026-09-27 00:36:29Z
+Observed time span        : 122:59:24
+Mean inter-play gap       : 03:37:02
+Median inter-play gap     : 00:05:55
 Longest inactivity gap    : 48:25:02
-Listening intensity       : 0.16 tracks/hour
+Listening intensity       : 0.28 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 23:00
+Peak hour (24h)           : 19:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             : ▂                      █
-Heatmap (7d)              : ▂ ▁█▁             ▂▁▁  ▄
+Heatmap (24h)             :            ▂      ▂█▃█  
+Heatmap (7d)              : ▁ ▁█▂      ▁      ▂▄▂▄ ▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁  █▁▁ 
+Activity (Mon→Sun)        : ▁  █ ▇ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   ▁       █    ▄     ▂▁     ▁ 
+Activity trend (30d)      :  ▁       █    ▄     ▂▁     ▁ ▁
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1638,64 +1639,64 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                   █     
 Tue                       :   █                     
 Wed                       :                         
-Thu                       :    █▁                  ▄
-Fri                       : █                   █   
-Sat                       : █                  █    
+Thu                       :    █▂                  ▄
+Fri                       : █                       
+Sat                       :            ▂      ▂█▃█  
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
-Dominant artist           : Faith No More
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 14
+Dominant artist           : Silverchair
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-18 23:20:24Z → 2026-09-25 23:20:24Z
-Tracks played (7d)        : 23
+Week window (UTC)         : 2026-09-20 00:41:32Z → 2026-09-27 00:41:32Z
+Tracks played (7d)        : 35
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : 3
 Sessions (7d)             : 7
-Avg inter-play gap        : 06:42:56
+Avg inter-play gap        : 03:37:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(6) | funk rock(6) | grunge(6) | rap metal(6)
-Top genres (7d)           : jazz(15) | cool jazz(11) | alternative metal(10) | bebop(10) | hard bop(10) | grunge(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(10) | grunge(8) | alternative metal(5) | nu metal(5) | rock(4) | rap metal(3)
+Top genres (7d)           : grunge(17) | jazz(16) | alternative metal(14) | cool jazz(12) | bebop(11) | hard bop(11)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
-State transition          : NO CHANGE
-Telemetry interval        : 04:37:13
+Track transition          : Faith No More — Falling to Pieces → Jerry Cantrell — My Song
+Playback timestamp Δ      : 2026-09-25 03:06:20Z → 2026-09-27 00:36:29Z
+State transition          : IDLE → PLAYING
+Telemetry interval        : 03:24:28
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 346
+Events retained           : 361
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-25 00:06:20 -03
-Events (24h)              : 6
-Events (7d)               : 23
-Events (30d)              : 244
-Playlist contexts retained: 121
+Newest retained event     : 2026-09-26 21:36:29 -03
+Events (24h)              : 14
+Events (7d)               : 35
+Events (30d)              : 258
+Playlist contexts retained: 125
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1714,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-25 23:20:24Z
+Report generated (UTC)    : 2026-09-27 00:41:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2072,7 +2073,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 25 September 2026
+From: 04 December 2023 - To: 26 September 2026
 
 Total Time       : 1,073 hrs 33 mins
 Mostly coding in : Other
@@ -2083,7 +2084,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          898 hrs 48 mins ●●●●●●●●●●●●●●●●●●●●●◔○○○○  83.72 %
+Other          901 hrs 45 mins ●●●●●●●●●●●●●●●●●●●●●◔○○○○  84.00 %
 Bash           176 hrs 52 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.48 %
 Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.23 %
 HTML           141 hrs        ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.13 %
@@ -2096,36 +2097,36 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,253 hrs 53 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,256 hrs 50 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.61 %
 
 EDITORS - APPS
 --------------
 VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.45 %
-Firefox        651 hrs 57 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.73 %
+Firefox        653 hrs 11 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.84 %
 Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.48 %
 Terminal       53 hrs 11 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.95 %
 Spotify        48 hrs 11 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.49 %
-‎WhatsApp      32 hrs 41 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.05 %
-Pages          24 hrs 39 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.30 %
+‎WhatsApp      32 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.07 %
+Pages          24 hrs 43 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.30 %
 Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
-Dia            21 hrs 5 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.96 %
+Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
 FileZilla      19 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
-Acrobat        16 hrs 20 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.52 %
+Acrobat        16 hrs 22 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.53 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
 
 CATEGORIES
 ----------
-Coding         1,240 hrs 10 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       650 hrs 2 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.55 %
-Meeting        41 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.84 %
+Coding         1,241 hrs 38 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       651 hrs 15 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  60.66 %
+Meeting        41 hrs 31 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.87 %
 AI Coding      26 hrs 20 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.45 %
 Writing Docs   14 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 26/09/2026 03:10:42 UTC
+Last updated     : 27/09/2026 03:17:44 UTC
 
 ```
 <!--END_SECTION:wakastats-->
