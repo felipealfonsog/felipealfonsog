@@ -1491,86 +1491,87 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Faith No More — Falling to Pieces
-Artist                    : Faith No More
-Title                     : Falling to Pieces
-Album                     : The Real Thing
-Spotify URI               : spotify:track:20nb0Wl1yqoEERbUSILuG1
-Spotify URL               : https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1
+Track                     : Jerry Cantrell — My Song
+Artist                    : Jerry Cantrell
+Title                     : My Song
+Album                     : Boggy Depot
+Spotify URI               : spotify:track:23xzzmz1qmGO9HrxUGX1iO
+Spotify URL               : https://open.spotify.com/track/23xzzmz1qmGO9HrxUGX1iO
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-25 03:06:20Z
-Played at (local)         : 2026-09-25 00:06:20 -03
-Local hour                : 00:00
-Daypart                   : NIGHT
-Time since play           : 42:10:45
-Gap from previous play    : 00:12:56
+Played at (UTC)           : 2026-09-27 00:36:29Z
+Played at (local)         : 2026-09-26 21:36:29 -03
+Local hour                : 21:00
+Daypart                   : EVENING
+Time since play           : 00:05:04
+Gap from previous play    : 00:05:56
 ------------------------------------------------------------
-Previous song             : Faith No More — Midlife Crisis
-Same artist as previous   : YES
+Previous song             : Staind — Here And Now
+Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 2
-Artist plays (retained)   : 17
+Track plays (retained)    : 1
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Faith No More — Midlife Crisis | 2026-09-24 23:53:24 -03
-Previous track #2         : Faith No More — We Care a Lot | 2026-09-24 23:49:03 -03
-Previous track #3         : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-24 23:44:58 -03
-Previous track #4         : Faith No More — Epic | 2026-09-24 23:41:21 -03
-Previous track #5         : Faith No More — Easy | 2026-09-24 23:36:27 -03
-Previous track #6         : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-24 04:02:45 -03
-Previous track #7         : Forward Jazz Series — Homeland (Incidentals) | 2026-09-24 03:57:29 -03
-Previous track #8         : Miles Davis Quintet — Tune Up | 2026-09-24 03:53:13 -03
-Previous track #9         : Kamasi Washington — Truth | 2026-09-24 03:47:35 -03
-Previous track #10        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-24 03:34:09 -03
-Previous track #11        : Thelonious Monk — Straight No Chaser | 2026-09-24 03:28:15 -03
-Previous track #12        : Forward Jazz Series — Homeland | 2026-09-24 03:25:21 -03
-Previous track #13        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-24 03:21:01 -03
-Previous track #14        : John Coltrane — Blue World | 2026-09-24 03:16:05 -03
-Previous track #15        : Tomasz Stanko Quartet — Trista | 2026-09-24 03:10:01 -03
-Previous track #16        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-24 03:05:25 -03
-Previous track #17        : Helmet — Give It | 2026-09-22 02:40:23 -03
-Previous track #18        : Helmet — Iron Head | 2026-09-21 18:40:28 -03
-Previous track #19        : Helmet — In The Meantime | 2026-09-21 18:37:05 -03
-Previous track #20        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-19 19:03:34 -03
-Previous track #21        : Rage Against The Machine — Bombtrack | 2026-09-19 00:24:11 -03
-Previous track #22        : Lynyrd Skynyrd — On The Hunt | 2026-09-18 20:21:46 -03
-Previous track #23        : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03
-Previous track #24        : 77 — Down and Dirty | 2026-09-18 20:12:43 -03
-Previous track #25        : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03
-Previous track #26        : AC/DC — Whole Lotta Rosie | 2026-09-18 20:01:51 -03
-Previous track #27        : Black Sabbath — War Pigs - 2009 Remaster | 2026-09-18 19:56:22 -03
-Previous track #28        : Lynyrd Skynyrd — The Needle And The Spoon | 2026-09-18 19:48:32 -03
-Previous track #29        : Led Zeppelin — When the Levee Breaks - Remaster | 2026-09-18 19:44:44 -03
-Previous track #30        : Creedence Clearwater Revival — Run Through The Jungle | 2026-09-18 19:37:40 -03
-Previous track #31        : AC/DC — Touch Too Much | 2026-09-18 19:34:40 -03
-Previous track #32        : Rage Against The Machine — Bombtrack - Live at 1st Avenue, Minneapolis, MN - April 1993 | 2026-09-17 22:14:18 -03
-Previous track #33        : Rage Against The Machine — Freedom | 2026-09-17 22:12:05 -03
-Previous track #34        : Rage Against The Machine — Township Rebellion | 2026-09-17 22:05:58 -03
-Previous track #35        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 22:00:34 -03
-Previous track #36        : Rage Against The Machine — Wake Up | 2026-09-17 21:51:49 -03
-Previous track #37        : Rage Against The Machine — Know Your Enemy | 2026-09-17 21:45:45 -03
-Previous track #38        : Rage Against The Machine — Bullet In The Head | 2026-09-17 21:40:51 -03
-Previous track #39        : Rage Against The Machine — Settle For Nothing | 2026-09-17 21:35:44 -03
-Previous track #40        : Rage Against The Machine — Take The Power Back | 2026-09-17 21:30:58 -03
+Previous track #1         : Staind — Here And Now | 2026-09-26 21:30:33 -03
+Previous track #2         : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03
+Previous track #3         : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03
+Previous track #4         : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03
+Previous track #5         : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03
+Previous track #6         : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03
+Previous track #7         : Linkin Park — By Myself | 2026-09-26 19:51:35 -03
+Previous track #8         : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03
+Previous track #9         : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03
+Previous track #10        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03
+Previous track #11        : Silverchair — Tomorrow | 2026-09-26 19:01:31 -03
+Previous track #12        : Silverchair — Israel's Son | 2026-09-26 18:57:05 -03
+Previous track #13        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-26 11:18:05 -03
+Previous track #14        : Faith No More — Falling to Pieces | 2026-09-25 00:06:20 -03
+Previous track #15        : Faith No More — Midlife Crisis | 2026-09-24 23:53:24 -03
+Previous track #16        : Faith No More — We Care a Lot | 2026-09-24 23:49:03 -03
+Previous track #17        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-24 23:44:58 -03
+Previous track #18        : Faith No More — Epic | 2026-09-24 23:41:21 -03
+Previous track #19        : Faith No More — Easy | 2026-09-24 23:36:27 -03
+Previous track #20        : Thelonious Monk — Straight, No Chaser | 2026-09-24 04:03:15 -03
+Previous track #21        : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-24 04:02:45 -03
+Previous track #22        : Forward Jazz Series — Homeland (Incidentals) | 2026-09-24 03:57:29 -03
+Previous track #23        : Miles Davis Quintet — Tune Up | 2026-09-24 03:53:13 -03
+Previous track #24        : Kamasi Washington — Truth | 2026-09-24 03:47:35 -03
+Previous track #25        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-24 03:34:09 -03
+Previous track #26        : Thelonious Monk — Straight No Chaser | 2026-09-24 03:28:15 -03
+Previous track #27        : Forward Jazz Series — Homeland | 2026-09-24 03:25:21 -03
+Previous track #28        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-24 03:21:01 -03
+Previous track #29        : John Coltrane — Blue World | 2026-09-24 03:16:05 -03
+Previous track #30        : Tomasz Stanko Quartet — Trista | 2026-09-24 03:10:01 -03
+Previous track #31        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-24 03:05:25 -03
+Previous track #32        : Helmet — Give It | 2026-09-22 02:40:23 -03
+Previous track #33        : Helmet — Iron Head | 2026-09-21 18:40:28 -03
+Previous track #34        : Helmet — In The Meantime | 2026-09-21 18:37:05 -03
+Previous track #35        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-19 19:03:34 -03
+Previous track #36        : Rage Against The Machine — Bombtrack | 2026-09-19 00:24:11 -03
+Previous track #37        : Lynyrd Skynyrd — On The Hunt | 2026-09-18 20:21:46 -03
+Previous track #38        : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03
+Previous track #39        : 77 — Down and Dirty | 2026-09-18 20:12:43 -03
+Previous track #40        : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : N/A
-Context observed (local)  : 2026-09-25 00:06:20 -03
-Track observed in context : Faith No More — Falling to Pieces
-Spotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO3WK7xm
-Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm
+Context observed (local)  : 2026-09-26 21:36:29 -03
+Track observed in context : Jerry Cantrell — My Song
+Spotify playlist URI      : spotify:playlist:37i9dQZF1DX9E1mLvTvD1f
+Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f
 ------------------------------------------------------------
-Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:02:45 -03
-Previous playlist #2      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
-Previous playlist #3      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
-Previous playlist #5      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
-Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
-Previous playlist #7      : N/A | 2026-08-13 14:15:12 -04
-Previous playlist #8      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
+Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
+Previous playlist #2      : N/A | 2026-09-25 00:06:20 -03
+Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
+Previous playlist #4      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
+Previous playlist #5      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #7      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
+Previous playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
+Previous playlist #9      : N/A | 2026-08-13 14:15:12 -04
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1579,51 +1580,51 @@ Last known device name    : iPhone
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-09-18 23:13:48Z
+Context observed (UTC)    : 2026-09-27 00:41:32Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 21
-Unique tracks             : 20
-Unique artists            : 11
-Replay ratio              : █░░░░░░░░░░░░░░░░░  4.8%
-Artist diversity          : █████████░░░░░░░░░  52.4%
+Observed events           : 35
+Unique tracks             : 33
+Unique artists            : 19
+Replay ratio              : █░░░░░░░░░░░░░░░░░  5.7%
+Artist diversity          : ██████████░░░░░░░░  54.3%
 Dominant artist           : Faith No More
-Dominant artist share     : █████░░░░░░░░░░░░░  28.6%
-Artist switch ratio       : ████████████░░░░░░  65.0%
+Dominant artist share     : ███░░░░░░░░░░░░░░░  17.1%
+Artist switch ratio       : ████████████░░░░░░  64.7%
 Longest artist streak     : Faith No More × 6
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███████████░░░░░░░   61.9%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
+Night      00–06           : ███████░░░░░░░░░░░   40.0%
+Morning    06–12           : █░░░░░░░░░░░░░░░░░    2.9%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ███████░░░░░░░░░░░   38.1%
-Dominant period           : NIGHT
+Evening    18–24           : ██████████░░░░░░░░   57.1%
+Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-19 22:03:34Z
-History last play (7d)    : 2026-09-25 03:06:20Z
-Observed time span        : 125:02:46
-Mean inter-play gap       : 06:15:08
-Median inter-play gap     : 00:05:06
+History first play (7d)   : 2026-09-21 21:37:05Z
+History last play (7d)    : 2026-09-27 00:36:29Z
+Observed time span        : 122:59:24
+Mean inter-play gap       : 03:37:02
+Median inter-play gap     : 00:05:55
 Longest inactivity gap    : 48:25:02
-Listening intensity       : 0.17 tracks/hour
+Listening intensity       : 0.28 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 19:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁ ▁█▁             ▂▁   ▄
+Heatmap (24h)             :            ▂      ▂█▃█  
+Heatmap (7d)              : ▁ ▁█▂      ▁      ▂▄▂▄ ▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁  █   
+Activity (Mon→Sun)        : ▁  █ ▇ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  ▁       █    ▄     ▂▁     ▁  
+Activity trend (30d)      :  ▁       █    ▄     ▂▁     ▁ ▁
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1631,64 +1632,64 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                   █     
 Tue                       :   █                     
 Wed                       :                         
-Thu                       :    █▁                  ▄
+Thu                       :    █▂                  ▄
 Fri                       : █                       
-Sat                       :                    █    
+Sat                       :            ▂      ▂█▃█  
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 14
+Dominant artist           : Silverchair
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-19 21:17:05Z → 2026-09-26 21:17:05Z
-Tracks played (7d)        : 21
+Week window (UTC)         : 2026-09-20 00:41:32Z → 2026-09-27 00:41:32Z
+Tracks played (7d)        : 35
 Dominant artist           : Faith No More
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 5
-Avg inter-play gap        : 06:15:08
+Sessions (24h)            : 3
+Sessions (7d)             : 7
+Avg inter-play gap        : 03:37:02
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : jazz(15) | cool jazz(11) | bebop(10) | hard bop(10) | alternative metal(9) | grunge(9)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(10) | grunge(8) | alternative metal(5) | nu metal(5) | rock(4) | rap metal(3)
+Top genres (7d)           : grunge(17) | jazz(16) | alternative metal(14) | cool jazz(12) | bebop(11) | hard bop(11)
+Artist lookups (this run) : 2 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
-State transition          : NO CHANGE
-Telemetry interval        : 04:46:28
+Track transition          : Faith No More — Falling to Pieces → Jerry Cantrell — My Song
+Playback timestamp Δ      : 2026-09-25 03:06:20Z → 2026-09-27 00:36:29Z
+State transition          : IDLE → PLAYING
+Telemetry interval        : 03:24:28
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 346
+Events retained           : 361
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-25 00:06:20 -03
-Events (24h)              : 0
-Events (7d)               : 21
-Events (30d)              : 244
-Playlist contexts retained: 121
+Newest retained event     : 2026-09-26 21:36:29 -03
+Events (24h)              : 14
+Events (7d)               : 35
+Events (30d)              : 258
+Playlist contexts retained: 125
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1707,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-26 21:17:05Z
+Report generated (UTC)    : 2026-09-27 00:41:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

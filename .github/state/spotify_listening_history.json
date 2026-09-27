@@ -1,8 +1,270 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-26 21:17:05Z",
+  "updated_utc": "2026-09-27 00:41:32Z",
   "events": [
+    {
+      "track": "Jerry Cantrell — My Song",
+      "artist": "Jerry Cantrell",
+      "title": "My Song",
+      "album": "Boggy Depot",
+      "uri": "spotify:track:23xzzmz1qmGO9HrxUGX1iO",
+      "url": "https://open.spotify.com/track/23xzzmz1qmGO9HrxUGX1iO",
+      "artist_ids": [
+        "5HUFo8AH9ZILmlyKFfEMNP"
+      ],
+      "played_at_utc": "2026-09-27 00:36:29Z",
+      "played_at_local": "2026-09-26 21:36:29 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DX9E1mLvTvD1f",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f",
+      "playlist_id": "37i9dQZF1DX9E1mLvTvD1f",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DX9E1mLvTvD1f",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f"
+    },
+    {
+      "track": "Staind — Here And Now",
+      "artist": "Staind",
+      "title": "Here And Now",
+      "album": "Confessions Of The Fallen",
+      "uri": "spotify:track:2yjbj0zHhk21ljCeMPs79g",
+      "url": "https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g",
+      "artist_ids": [
+        "5KDIH2gF0VpelTqyQS7udb"
+      ],
+      "played_at_utc": "2026-09-27 00:30:33Z",
+      "played_at_local": "2026-09-26 21:30:33 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:16zCpjk1TUXFpJaBeJkbi6",
+      "context_url": "https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6"
+    },
+    {
+      "track": "Staind — It's Been Awhile",
+      "artist": "Staind",
+      "title": "It's Been Awhile",
+      "album": "Break the Cycle",
+      "uri": "spotify:track:25CMmGsl22APKhfuj4Tp7j",
+      "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j",
+      "artist_ids": [
+        "5KDIH2gF0VpelTqyQS7udb"
+      ],
+      "played_at_utc": "2026-09-27 00:19:59Z",
+      "played_at_local": "2026-09-26 21:19:59 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:5KDIH2gF0VpelTqyQS7udb",
+      "context_url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+    },
+    {
+      "track": "Stone Temple Pilots — Interstate Love Song - 2019 Remaster",
+      "artist": "Stone Temple Pilots",
+      "title": "Interstate Love Song - 2019 Remaster",
+      "album": "Purple (2019 Remaster)",
+      "uri": "spotify:track:6qLEOZvf5gI7kWE63JE7p3",
+      "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3",
+      "artist_ids": [
+        "2UazAtjfzqBF0Nho2awK4z"
+      ],
+      "played_at_utc": "2026-09-27 00:12:19Z",
+      "played_at_local": "2026-09-26 21:12:19 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1DX9E1mLvTvD1f",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f",
+      "playlist_id": "37i9dQZF1DX9E1mLvTvD1f",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1DX9E1mLvTvD1f",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f"
+    },
+    {
+      "track": "Alice In Chains — Would? (2022 Remaster)",
+      "artist": "Alice In Chains",
+      "title": "Would? (2022 Remaster)",
+      "album": "Dirt (2022 Remaster)",
+      "uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS",
+      "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS",
+      "artist_ids": [
+        "64tNsm6TnZe2zpcMVMOoHL"
+      ],
+      "played_at_utc": "2026-09-27 00:07:15Z",
+      "played_at_local": "2026-09-26 21:07:15 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM",
+      "context_url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+    },
+    {
+      "track": "Soundgarden — Beyond the Wheel",
+      "artist": "Soundgarden",
+      "title": "Beyond the Wheel",
+      "album": "Ultramega OK (Expanded Reissue)",
+      "uri": "spotify:track:50II2KmEPc24aGQqLUZXQL",
+      "url": "https://open.spotify.com/track/50II2KmEPc24aGQqLUZXQL",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-09-26 23:44:54Z",
+      "played_at_local": "2026-09-26 20:44:54 -03",
+      "local_hour": 20,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:00LS6GJwb5ZPTKS8NMAT8x",
+      "context_url": "https://open.spotify.com/album/00LS6GJwb5ZPTKS8NMAT8x"
+    },
+    {
+      "track": "The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix)",
+      "artist": "The Glitch Mob, Linkin Park",
+      "title": "Waiting for the End (The Glitch Mob Remix)",
+      "album": "Waiting for the End (The Glitch Mob Remix)",
+      "uri": "spotify:track:2BSMzLZ8hugu9jNLm1c3fU",
+      "url": "https://open.spotify.com/track/2BSMzLZ8hugu9jNLm1c3fU",
+      "artist_ids": [
+        "3a9qv6NLHnsVxJUtKOMHvD",
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-26 23:44:38Z",
+      "played_at_local": "2026-09-26 20:44:38 -03",
+      "local_hour": 20,
+      "weekday": 5
+    },
+    {
+      "track": "Linkin Park — By Myself",
+      "artist": "Linkin Park",
+      "title": "By Myself",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "uri": "spotify:track:6UzeOH4bRPzKTo2wCXMZmC",
+      "url": "https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-26 22:51:35Z",
+      "played_at_local": "2026-09-26 19:51:35 -03",
+      "local_hour": 19,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:6hPkbAV3ZXpGZBGUvL6jVM",
+      "context_url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+    },
+    {
+      "track": "Linkin Park — Lying from You",
+      "artist": "Linkin Park",
+      "title": "Lying from You",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:4qVR3CF8FuFvHN4L6vXlB1",
+      "url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-26 22:34:46Z",
+      "played_at_local": "2026-09-26 19:34:46 -03",
+      "local_hour": 19,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
+      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-26 22:14:50Z",
+      "played_at_local": "2026-09-26 19:14:50 -03",
+      "local_hour": 19,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Pure Massacre",
+      "artist": "Silverchair",
+      "title": "Pure Massacre",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:7qCIP5KHYy9HuXbEEWzmC7",
+      "url": "https://open.spotify.com/track/7qCIP5KHYy9HuXbEEWzmC7",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-26 22:07:54Z",
+      "played_at_local": "2026-09-26 19:07:54 -03",
+      "local_hour": 19,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Tomorrow",
+      "artist": "Silverchair",
+      "title": "Tomorrow",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:24tO365YW6lcZr1hN4Ukzj",
+      "url": "https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-26 22:01:31Z",
+      "played_at_local": "2026-09-26 19:01:31 -03",
+      "local_hour": 19,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
+      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-09-26 21:57:05Z",
+      "played_at_local": "2026-09-26 18:57:05 -03",
+      "local_hour": 18,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-09-26 14:18:05Z",
+      "played_at_local": "2026-09-26 11:18:05 -03",
+      "local_hour": 11,
+      "weekday": 5,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
     {
       "track": "Faith No More — Falling to Pieces",
       "artist": "Faith No More",
@@ -134,6 +396,28 @@
       "playlist_name": "N/A",
       "playlist_uri": "spotify:playlist:37i9dQZF1DZ06evO3WK7xm",
       "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WK7xm"
+    },
+    {
+      "track": "Thelonious Monk — Straight, No Chaser",
+      "artist": "Thelonious Monk",
+      "title": "Straight, No Chaser",
+      "album": "Straight, No Chaser",
+      "uri": "spotify:track:6YYu8qFzcY1ZyzzsJIQM12",
+      "url": "https://open.spotify.com/track/6YYu8qFzcY1ZyzzsJIQM12",
+      "artist_ids": [
+        "4PDpGtF16XpqvXxsrFwQnN"
+      ],
+      "played_at_utc": "2026-09-24 07:03:15Z",
+      "played_at_local": "2026-09-24 04:03:15 -03",
+      "local_hour": 4,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
     },
     {
       "track": "Duke Ellington, John Coltrane — My Little Brown Book",
@@ -6694,6 +6978,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-27 00:41:32Z",
+      "is_playing": true,
+      "track": "Jerry Cantrell — Afterglow",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Smartphone",
+      "device_name": "iPhone",
+      "volume_percent": 100,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-09-19 00:25:01Z",
       "is_playing": false,
