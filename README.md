@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-27 06:11:51Z
 Played at (local)         : 2026-09-27 03:11:51 -03
 Local hour                : 03:00
 Daypart                   : NIGHT
-Time since play           : 07:53:58
+Time since play           : 12:17:58
 Gap from previous play    : 00:00:00
 ------------------------------------------------------------
 Previous song             : Cold — Happens All the Time - Audio
@@ -1617,7 +1617,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 22:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :    ▂       ▁      ▁▆▂▇█▁
+Heatmap (24h)             :    ▂              ▁▆▂▇█▁
 Heatmap (7d)              : ▁ ▁█▁      ▁      ▂▃▁▄▅▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1640,14 +1640,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
+Tracks played (last 24h)  : 24
 Dominant artist           : Silverchair
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-20 14:05:49Z → 2026-09-27 14:05:49Z
+Week window (UTC)         : 2026-09-20 18:29:48Z → 2026-09-27 18:29:48Z
 Tracks played (7d)        : 46
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1655,7 +1655,7 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : 3
 Sessions (7d)             : 8
 Avg inter-play gap        : 02:51:26
 ------------------------------------------------------------
@@ -1670,14 +1670,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:45:36
+Telemetry interval        : 04:24:00
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 372
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-27 03:11:51 -03
-Events (24h)              : 25
+Events (24h)              : 24
 Events (7d)               : 46
 Events (30d)              : 269
 Playlist contexts retained: 125
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-27 14:05:49Z
+Report generated (UTC)    : 2026-09-27 18:29:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
