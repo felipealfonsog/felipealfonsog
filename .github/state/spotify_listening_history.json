@@ -1,8 +1,203 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-27 00:41:32Z",
+  "updated_utc": "2026-09-27 06:21:35Z",
   "events": [
+    {
+      "track": "Godsmack — Keep Away",
+      "artist": "Godsmack",
+      "title": "Keep Away",
+      "album": "Godsmack",
+      "uri": "spotify:track:1lrwHbZhCXUhb7zI0VcIPA",
+      "url": "https://open.spotify.com/track/1lrwHbZhCXUhb7zI0VcIPA",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-09-27 06:11:51Z",
+      "played_at_local": "2026-09-27 03:11:51 -03",
+      "local_hour": 3,
+      "weekday": 6,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF",
+      "context_url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+    },
+    {
+      "track": "Cold — Happens All the Time - Audio",
+      "artist": "Cold",
+      "title": "Happens All the Time - Audio",
+      "album": "Happens All The Time",
+      "uri": "spotify:track:0Edsn9okuNmD8zryO7H5zi",
+      "url": "https://open.spotify.com/track/0Edsn9okuNmD8zryO7H5zi",
+      "artist_ids": [
+        "0Gw3a3BkWLwsMLFbOBmo6Q"
+      ],
+      "played_at_utc": "2026-09-27 06:11:51Z",
+      "played_at_local": "2026-09-27 03:11:51 -03",
+      "local_hour": 3,
+      "weekday": 6
+    },
+    {
+      "track": "Godsmack — Love-Hate-Sex-Pain",
+      "artist": "Godsmack",
+      "title": "Love-Hate-Sex-Pain",
+      "album": "The Oracle (Deluxe Edition)",
+      "uri": "spotify:track:36QG29bbGuJkxNgzY6o9Mu",
+      "url": "https://open.spotify.com/track/36QG29bbGuJkxNgzY6o9Mu",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-09-27 02:00:17Z",
+      "played_at_local": "2026-09-26 23:00:17 -03",
+      "local_hour": 23,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF",
+      "context_url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+    },
+    {
+      "track": "Godsmack — Love-Hate-Sex-Pain",
+      "artist": "Godsmack",
+      "title": "Love-Hate-Sex-Pain",
+      "album": "The Oracle (Deluxe Edition)",
+      "uri": "spotify:track:36QG29bbGuJkxNgzY6o9Mu",
+      "url": "https://open.spotify.com/track/36QG29bbGuJkxNgzY6o9Mu",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-09-27 01:53:49Z",
+      "played_at_local": "2026-09-26 22:53:49 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF",
+      "context_url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+    },
+    {
+      "track": "Audioslave — What You Are",
+      "artist": "Audioslave",
+      "title": "What You Are",
+      "album": "Audioslave",
+      "uri": "spotify:track:4zwFgTTTQkFebQSYo3SRt5",
+      "url": "https://open.spotify.com/track/4zwFgTTTQkFebQSYo3SRt5",
+      "artist_ids": [
+        "2ziB7fzrXBoh1HUPS6sVFn"
+      ],
+      "played_at_utc": "2026-09-27 01:43:03Z",
+      "played_at_local": "2026-09-26 22:43:03 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Seether — Never Leave",
+      "artist": "Seether",
+      "title": "Never Leave",
+      "album": "Karma and Effect",
+      "uri": "spotify:track:26yEDsFJKyLKrGmCO6QAgR",
+      "url": "https://open.spotify.com/track/26yEDsFJKyLKrGmCO6QAgR",
+      "artist_ids": [
+        "6B5c4sch27tWHAGdarpPaW"
+      ],
+      "played_at_utc": "2026-09-27 01:38:59Z",
+      "played_at_local": "2026-09-26 22:38:59 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Creed — Weathered",
+      "artist": "Creed",
+      "title": "Weathered",
+      "album": "Weathered",
+      "uri": "spotify:track:33P0xVFGIPfCB2ZBCTGTY9",
+      "url": "https://open.spotify.com/track/33P0xVFGIPfCB2ZBCTGTY9",
+      "artist_ids": [
+        "43sZBwHjahUvgbx1WNIkIz"
+      ],
+      "played_at_utc": "2026-09-27 01:33:50Z",
+      "played_at_local": "2026-09-26 22:33:50 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Chevelle — The Red",
+      "artist": "Chevelle",
+      "title": "The Red",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-09-27 01:23:53Z",
+      "played_at_local": "2026-09-26 22:23:53 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Staind — Rainy Day Parade",
+      "artist": "Staind",
+      "title": "Rainy Day Parade",
+      "album": "The Illusion of Progress",
+      "uri": "spotify:track:6w4yY9Ogfohn1iFcoCSgOH",
+      "url": "https://open.spotify.com/track/6w4yY9Ogfohn1iFcoCSgOH",
+      "artist_ids": [
+        "5KDIH2gF0VpelTqyQS7udb"
+      ],
+      "played_at_utc": "2026-09-27 01:14:40Z",
+      "played_at_local": "2026-09-26 22:14:40 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Jerry Cantrell — Dickeye",
+      "artist": "Jerry Cantrell",
+      "title": "Dickeye",
+      "album": "Boggy Depot",
+      "uri": "spotify:track:7LlGuNiq0LC4cXytbeTbXj",
+      "url": "https://open.spotify.com/track/7LlGuNiq0LC4cXytbeTbXj",
+      "artist_ids": [
+        "5HUFo8AH9ZILmlyKFfEMNP"
+      ],
+      "played_at_utc": "2026-09-27 01:05:12Z",
+      "played_at_local": "2026-09-26 22:05:12 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:5HUFo8AH9ZILmlyKFfEMNP",
+      "context_url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+    },
+    {
+      "track": "Jerry Cantrell — Afterglow",
+      "artist": "Jerry Cantrell",
+      "title": "Afterglow",
+      "album": "I Want Blood",
+      "uri": "spotify:track:2CpfX8QRGKcVl0kL3QoGnk",
+      "url": "https://open.spotify.com/track/2CpfX8QRGKcVl0kL3QoGnk",
+      "artist_ids": [
+        "5HUFo8AH9ZILmlyKFfEMNP"
+      ],
+      "played_at_utc": "2026-09-27 00:45:33Z",
+      "played_at_local": "2026-09-26 21:45:33 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:5HUFo8AH9ZILmlyKFfEMNP",
+      "context_url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+    },
     {
       "track": "Jerry Cantrell — My Song",
       "artist": "Jerry Cantrell",
@@ -6978,6 +7173,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-27 06:21:35Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-09-27 00:41:32Z",
       "is_playing": true,

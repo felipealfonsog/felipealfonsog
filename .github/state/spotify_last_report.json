@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-09-27 00:41:32Z",
-  "status": "PLAYING",
-  "last_track": "Jerry Cantrell — My Song",
-  "last_played_utc": "2026-09-27 00:36:29Z",
-  "sitrep": "GREEN",
+  "report_generated_utc": "2026-09-27 06:21:35Z",
+  "status": "IDLE",
+  "last_track": "Godsmack — Keep Away",
+  "last_played_utc": "2026-09-27 06:11:51Z",
+  "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -1854,11 +1854,213 @@
     "3a9qv6NLHnsVxJUtKOMHvD": [
       "glitch",
       "dubstep"
+    ],
+    "6gZq1Q6bdOxsUPUG1TaFbF": [
+      "alternative metal",
+      "nu metal",
+      "hard rock",
+      "rap metal",
+      "metal"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Jerry Cantrell — My Song\nArtist                    : Jerry Cantrell\nTitle                     : My Song\nAlbum                     : Boggy Depot\nSpotify URI               : spotify:track:23xzzmz1qmGO9HrxUGX1iO\nSpotify URL               : https://open.spotify.com/track/23xzzmz1qmGO9HrxUGX1iO\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-27 00:36:29Z\nPlayed at (local)         : 2026-09-26 21:36:29 -03\nLocal hour                : 21:00\nDaypart                   : EVENING\nTime since play           : 00:05:04\nGap from previous play    : 00:05:56\n------------------------------------------------------------\nPrevious song             : Staind — Here And Now\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 1\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Staind — Here And Now | 2026-09-26 21:30:33 -03\nPrevious track #2         : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03\nPrevious track #3         : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03\nPrevious track #4         : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03\nPrevious track #5         : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03\nPrevious track #6         : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03\nPrevious track #7         : Linkin Park — By Myself | 2026-09-26 19:51:35 -03\nPrevious track #8         : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03\nPrevious track #9         : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03\nPrevious track #10        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03\nPrevious track #11        : Silverchair — Tomorrow | 2026-09-26 19:01:31 -03\nPrevious track #12        : Silverchair — Israel's Son | 2026-09-26 18:57:05 -03\nPrevious track #13        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-26 11:18:05 -03\nPrevious track #14        : Faith No More — Falling to Pieces | 2026-09-25 00:06:20 -03\nPrevious track #15        : Faith No More — Midlife Crisis | 2026-09-24 23:53:24 -03\nPrevious track #16        : Faith No More — We Care a Lot | 2026-09-24 23:49:03 -03\nPrevious track #17        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-24 23:44:58 -03\nPrevious track #18        : Faith No More — Epic | 2026-09-24 23:41:21 -03\nPrevious track #19        : Faith No More — Easy | 2026-09-24 23:36:27 -03\nPrevious track #20        : Thelonious Monk — Straight, No Chaser | 2026-09-24 04:03:15 -03\nPrevious track #21        : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-24 04:02:45 -03\nPrevious track #22        : Forward Jazz Series — Homeland (Incidentals) | 2026-09-24 03:57:29 -03\nPrevious track #23        : Miles Davis Quintet — Tune Up | 2026-09-24 03:53:13 -03\nPrevious track #24        : Kamasi Washington — Truth | 2026-09-24 03:47:35 -03\nPrevious track #25        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-24 03:34:09 -03\nPrevious track #26        : Thelonious Monk — Straight No Chaser | 2026-09-24 03:28:15 -03\nPrevious track #27        : Forward Jazz Series — Homeland | 2026-09-24 03:25:21 -03\nPrevious track #28        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-24 03:21:01 -03\nPrevious track #29        : John Coltrane — Blue World | 2026-09-24 03:16:05 -03\nPrevious track #30        : Tomasz Stanko Quartet — Trista | 2026-09-24 03:10:01 -03\nPrevious track #31        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-24 03:05:25 -03\nPrevious track #32        : Helmet — Give It | 2026-09-22 02:40:23 -03\nPrevious track #33        : Helmet — Iron Head | 2026-09-21 18:40:28 -03\nPrevious track #34        : Helmet — In The Meantime | 2026-09-21 18:37:05 -03\nPrevious track #35        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-19 19:03:34 -03\nPrevious track #36        : Rage Against The Machine — Bombtrack | 2026-09-19 00:24:11 -03\nPrevious track #37        : Lynyrd Skynyrd — On The Hunt | 2026-09-18 20:21:46 -03\nPrevious track #38        : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03\nPrevious track #39        : 77 — Down and Dirty | 2026-09-18 20:12:43 -03\nPrevious track #40        : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-09-26 21:36:29 -03\nTrack observed in context : Jerry Cantrell — My Song\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DX9E1mLvTvD1f\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #2      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #4      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #5      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #7      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #9      : N/A | 2026-08-13 14:15:12 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-27 00:41:32Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 35\nUnique tracks             : 33\nUnique artists            : 19\nReplay ratio              : █░░░░░░░░░░░░░░░░░  5.7%\nArtist diversity          : ██████████░░░░░░░░  54.3%\nDominant artist           : Faith No More\nDominant artist share     : ███░░░░░░░░░░░░░░░  17.1%\nArtist switch ratio       : ████████████░░░░░░  64.7%\nLongest artist streak     : Faith No More × 6\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ███████░░░░░░░░░░░   40.0%\nMorning    06–12           : █░░░░░░░░░░░░░░░░░    2.9%\nAfternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%\nEvening    18–24           : ██████████░░░░░░░░   57.1%\nDominant period           : EVENING\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-21 21:37:05Z\nHistory last play (7d)    : 2026-09-27 00:36:29Z\nObserved time span        : 122:59:24\nMean inter-play gap       : 03:37:02\nMedian inter-play gap     : 00:05:55\nLongest inactivity gap    : 48:25:02\nListening intensity       : 0.28 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 19:00\nPeak hour (7d)            : 03:00\nHeatmap (24h)             :            ▂      ▂█▃█  \nHeatmap (7d)              : ▁ ▁█▂      ▁      ▂▄▂▄ ▄\n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        : ▁  █ ▇ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :  ▁       █    ▄     ▂▁     ▁ ▁\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                   █     \nTue                       :   █                     \nWed                       :                         \nThu                       :    █▂                  ▄\nFri                       : █                       \nSat                       :            ▂      ▂█▃█  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 14\nDominant artist           : Silverchair\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-20 00:41:32Z → 2026-09-27 00:41:32Z\nTracks played (7d)        : 35\nDominant artist           : Faith No More\nCadence classification    : MEDIUM\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 7\nAvg inter-play gap        : 03:37:02\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : post-grunge(10) | grunge(8) | alternative metal(5) | nu metal(5) | rock(4) | rap metal(3)\nTop genres (7d)           : grunge(17) | jazz(16) | alternative metal(14) | cool jazz(12) | bebop(11) | hard bop(11)\nArtist lookups (this run) : 2 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Faith No More — Falling to Pieces → Jerry Cantrell — My Song\nPlayback timestamp Δ      : 2026-09-25 03:06:20Z → 2026-09-27 00:36:29Z\nState transition          : IDLE → PLAYING\nTelemetry interval        : 03:24:28\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 361\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-26 21:36:29 -03\nEvents (24h)              : 14\nEvents (7d)               : 35\nEvents (30d)              : 258\nPlaylist contexts retained: 125\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-27 00:41:32Z",
-  "last_successful_report_utc": "2026-09-27 00:41:32Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Godsmack — Keep Away\nArtist                    : Godsmack\nTitle                     : Keep Away\nAlbum                     : Godsmack\nSpotify URI               : spotify:track:1lrwHbZhCXUhb7zI0VcIPA\nSpotify URL               : https://open.spotify.com/track/1lrwHbZhCXUhb7zI0VcIPA\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-09-27 06:11:51Z\nPlayed at (local)         : 2026-09-27 03:11:51 -03\nLocal hour                : 03:00\nDaypart                   : NIGHT\nTime since play           : 00:09:44\nGap from previous play    : 00:00:00\n------------------------------------------------------------\nPrevious song             : Cold — Happens All the Time - Audio\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 3\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Cold — Happens All the Time - Audio | 2026-09-27 03:11:51 -03\nPrevious track #2         : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 23:00:17 -03\nPrevious track #3         : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 22:53:49 -03\nPrevious track #4         : Audioslave — What You Are | 2026-09-26 22:43:03 -03\nPrevious track #5         : Seether — Never Leave | 2026-09-26 22:38:59 -03\nPrevious track #6         : Creed — Weathered | 2026-09-26 22:33:50 -03\nPrevious track #7         : Chevelle — The Red | 2026-09-26 22:23:53 -03\nPrevious track #8         : Staind — Rainy Day Parade | 2026-09-26 22:14:40 -03\nPrevious track #9         : Jerry Cantrell — Dickeye | 2026-09-26 22:05:12 -03\nPrevious track #10        : Jerry Cantrell — Afterglow | 2026-09-26 21:45:33 -03\nPrevious track #11        : Jerry Cantrell — My Song | 2026-09-26 21:36:29 -03\nPrevious track #12        : Staind — Here And Now | 2026-09-26 21:30:33 -03\nPrevious track #13        : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03\nPrevious track #14        : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03\nPrevious track #15        : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03\nPrevious track #16        : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03\nPrevious track #17        : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03\nPrevious track #18        : Linkin Park — By Myself | 2026-09-26 19:51:35 -03\nPrevious track #19        : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03\nPrevious track #20        : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03\nPrevious track #21        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03\nPrevious track #22        : Silverchair — Tomorrow | 2026-09-26 19:01:31 -03\nPrevious track #23        : Silverchair — Israel's Son | 2026-09-26 18:57:05 -03\nPrevious track #24        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-26 11:18:05 -03\nPrevious track #25        : Faith No More — Falling to Pieces | 2026-09-25 00:06:20 -03\nPrevious track #26        : Faith No More — Midlife Crisis | 2026-09-24 23:53:24 -03\nPrevious track #27        : Faith No More — We Care a Lot | 2026-09-24 23:49:03 -03\nPrevious track #28        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-24 23:44:58 -03\nPrevious track #29        : Faith No More — Epic | 2026-09-24 23:41:21 -03\nPrevious track #30        : Faith No More — Easy | 2026-09-24 23:36:27 -03\nPrevious track #31        : Thelonious Monk — Straight, No Chaser | 2026-09-24 04:03:15 -03\nPrevious track #32        : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-24 04:02:45 -03\nPrevious track #33        : Forward Jazz Series — Homeland (Incidentals) | 2026-09-24 03:57:29 -03\nPrevious track #34        : Miles Davis Quintet — Tune Up | 2026-09-24 03:53:13 -03\nPrevious track #35        : Kamasi Washington — Truth | 2026-09-24 03:47:35 -03\nPrevious track #36        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-24 03:34:09 -03\nPrevious track #37        : Thelonious Monk — Straight No Chaser | 2026-09-24 03:28:15 -03\nPrevious track #38        : Forward Jazz Series — Homeland | 2026-09-24 03:25:21 -03\nPrevious track #39        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-24 03:21:01 -03\nPrevious track #40        : John Coltrane — Blue World | 2026-09-24 03:16:05 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-09-26 21:36:29 -03\nTrack observed in context : Jerry Cantrell — My Song\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DX9E1mLvTvD1f\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #2      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #4      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #5      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #7      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\nPrevious playlist #9      : N/A | 2026-08-13 14:15:12 -04\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-27 00:41:32Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 46\nUnique tracks             : 43\nUnique artists            : 25\nReplay ratio              : █░░░░░░░░░░░░░░░░░  6.5%\nArtist diversity          : ██████████░░░░░░░░  54.3%\nDominant artist           : Faith No More\nDominant artist share     : ██░░░░░░░░░░░░░░░░  13.0%\nArtist switch ratio       : ████████████░░░░░░  64.4%\nLongest artist streak     : Faith No More × 6\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ██████░░░░░░░░░░░░   34.8%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    2.2%\nAfternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%\nEvening    18–24           : ███████████░░░░░░░   63.0%\nDominant period           : EVENING\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-09-21 21:37:05Z\nHistory last play (7d)    : 2026-09-27 06:11:51Z\nObserved time span        : 128:34:46\nMean inter-play gap       : 02:51:26\nMedian inter-play gap     : 00:06:23\nLongest inactivity gap    : 48:25:02\nListening intensity       : 0.36 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 22:00\nPeak hour (7d)            : 03:00\nHeatmap (24h)             :    ▂       ▁      ▁▆▂▇█▁\nHeatmap (7d)              : ▁ ▁█▁      ▁      ▂▃▁▄▅▄\n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        : ▁  ▆ █▁\nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁       █    ▄     ▂▁     ▁ ▂ \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                   █     \nTue                       :   █                     \nWed                       :                         \nThu                       :    █▂                  ▄\nFri                       : █                       \nSat                       :            ▁      ▁▆▂▇█▁\nSun                       :    █                    \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 25\nDominant artist           : Silverchair\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-09-20 06:21:35Z → 2026-09-27 06:21:35Z\nTracks played (7d)        : 46\nDominant artist           : Faith No More\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 4\nSessions (7d)             : 8\nAvg inter-play gap        : 02:51:26\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : post-grunge(18) | alternative metal(13) | grunge(11) | nu metal(11) | rap metal(6) | rock(5)\nTop genres (7d)           : alternative metal(22) | grunge(20) | post-grunge(18) | jazz(16) | cool jazz(12) | rap metal(12)\nArtist lookups (this run) : 1 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Jerry Cantrell — My Song → Godsmack — Keep Away\nPlayback timestamp Δ      : 2026-09-27 00:36:29Z → 2026-09-27 06:11:51Z\nState transition          : PLAYING → IDLE\nTelemetry interval        : 05:40:03\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 372\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-09-27 03:11:51 -03\nEvents (24h)              : 25\nEvents (7d)               : 46\nEvents (30d)              : 269\nPlaylist contexts retained: 125\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-09-27 06:21:35Z",
+  "last_successful_report_utc": "2026-09-27 06:21:35Z",
   "recent_playback_history": [
+    {
+      "track": "Godsmack — Keep Away",
+      "artist": "Godsmack",
+      "title": "Keep Away",
+      "album": "Godsmack",
+      "uri": "spotify:track:1lrwHbZhCXUhb7zI0VcIPA",
+      "url": "https://open.spotify.com/track/1lrwHbZhCXUhb7zI0VcIPA",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-09-27 06:11:51Z",
+      "played_at_local": "2026-09-27 03:11:51 -03",
+      "local_hour": 3,
+      "weekday": 6,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF",
+      "context_url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+    },
+    {
+      "track": "Cold — Happens All the Time - Audio",
+      "artist": "Cold",
+      "title": "Happens All the Time - Audio",
+      "album": "Happens All The Time",
+      "uri": "spotify:track:0Edsn9okuNmD8zryO7H5zi",
+      "url": "https://open.spotify.com/track/0Edsn9okuNmD8zryO7H5zi",
+      "artist_ids": [
+        "0Gw3a3BkWLwsMLFbOBmo6Q"
+      ],
+      "played_at_utc": "2026-09-27 06:11:51Z",
+      "played_at_local": "2026-09-27 03:11:51 -03",
+      "local_hour": 3,
+      "weekday": 6
+    },
+    {
+      "track": "Godsmack — Love-Hate-Sex-Pain",
+      "artist": "Godsmack",
+      "title": "Love-Hate-Sex-Pain",
+      "album": "The Oracle (Deluxe Edition)",
+      "uri": "spotify:track:36QG29bbGuJkxNgzY6o9Mu",
+      "url": "https://open.spotify.com/track/36QG29bbGuJkxNgzY6o9Mu",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-09-27 02:00:17Z",
+      "played_at_local": "2026-09-26 23:00:17 -03",
+      "local_hour": 23,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF",
+      "context_url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+    },
+    {
+      "track": "Godsmack — Love-Hate-Sex-Pain",
+      "artist": "Godsmack",
+      "title": "Love-Hate-Sex-Pain",
+      "album": "The Oracle (Deluxe Edition)",
+      "uri": "spotify:track:36QG29bbGuJkxNgzY6o9Mu",
+      "url": "https://open.spotify.com/track/36QG29bbGuJkxNgzY6o9Mu",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-09-27 01:53:49Z",
+      "played_at_local": "2026-09-26 22:53:49 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF",
+      "context_url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+    },
+    {
+      "track": "Audioslave — What You Are",
+      "artist": "Audioslave",
+      "title": "What You Are",
+      "album": "Audioslave",
+      "uri": "spotify:track:4zwFgTTTQkFebQSYo3SRt5",
+      "url": "https://open.spotify.com/track/4zwFgTTTQkFebQSYo3SRt5",
+      "artist_ids": [
+        "2ziB7fzrXBoh1HUPS6sVFn"
+      ],
+      "played_at_utc": "2026-09-27 01:43:03Z",
+      "played_at_local": "2026-09-26 22:43:03 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Seether — Never Leave",
+      "artist": "Seether",
+      "title": "Never Leave",
+      "album": "Karma and Effect",
+      "uri": "spotify:track:26yEDsFJKyLKrGmCO6QAgR",
+      "url": "https://open.spotify.com/track/26yEDsFJKyLKrGmCO6QAgR",
+      "artist_ids": [
+        "6B5c4sch27tWHAGdarpPaW"
+      ],
+      "played_at_utc": "2026-09-27 01:38:59Z",
+      "played_at_local": "2026-09-26 22:38:59 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Creed — Weathered",
+      "artist": "Creed",
+      "title": "Weathered",
+      "album": "Weathered",
+      "uri": "spotify:track:33P0xVFGIPfCB2ZBCTGTY9",
+      "url": "https://open.spotify.com/track/33P0xVFGIPfCB2ZBCTGTY9",
+      "artist_ids": [
+        "43sZBwHjahUvgbx1WNIkIz"
+      ],
+      "played_at_utc": "2026-09-27 01:33:50Z",
+      "played_at_local": "2026-09-26 22:33:50 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Chevelle — The Red",
+      "artist": "Chevelle",
+      "title": "The Red",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-09-27 01:23:53Z",
+      "played_at_local": "2026-09-26 22:23:53 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Staind — Rainy Day Parade",
+      "artist": "Staind",
+      "title": "Rainy Day Parade",
+      "album": "The Illusion of Progress",
+      "uri": "spotify:track:6w4yY9Ogfohn1iFcoCSgOH",
+      "url": "https://open.spotify.com/track/6w4yY9Ogfohn1iFcoCSgOH",
+      "artist_ids": [
+        "5KDIH2gF0VpelTqyQS7udb"
+      ],
+      "played_at_utc": "2026-09-27 01:14:40Z",
+      "played_at_local": "2026-09-26 22:14:40 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:22IfPSSgSIDVYR8VhcG25t",
+      "context_url": "https://open.spotify.com/album/22IfPSSgSIDVYR8VhcG25t"
+    },
+    {
+      "track": "Jerry Cantrell — Dickeye",
+      "artist": "Jerry Cantrell",
+      "title": "Dickeye",
+      "album": "Boggy Depot",
+      "uri": "spotify:track:7LlGuNiq0LC4cXytbeTbXj",
+      "url": "https://open.spotify.com/track/7LlGuNiq0LC4cXytbeTbXj",
+      "artist_ids": [
+        "5HUFo8AH9ZILmlyKFfEMNP"
+      ],
+      "played_at_utc": "2026-09-27 01:05:12Z",
+      "played_at_local": "2026-09-26 22:05:12 -03",
+      "local_hour": 22,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:5HUFo8AH9ZILmlyKFfEMNP",
+      "context_url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+    },
+    {
+      "track": "Jerry Cantrell — Afterglow",
+      "artist": "Jerry Cantrell",
+      "title": "Afterglow",
+      "album": "I Want Blood",
+      "uri": "spotify:track:2CpfX8QRGKcVl0kL3QoGnk",
+      "url": "https://open.spotify.com/track/2CpfX8QRGKcVl0kL3QoGnk",
+      "artist_ids": [
+        "5HUFo8AH9ZILmlyKFfEMNP"
+      ],
+      "played_at_utc": "2026-09-27 00:45:33Z",
+      "played_at_local": "2026-09-26 21:45:33 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:5HUFo8AH9ZILmlyKFfEMNP",
+      "context_url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+    },
     {
       "track": "Jerry Cantrell — My Song",
       "artist": "Jerry Cantrell",
@@ -2477,204 +2679,6 @@
       "playlist_name": "Homeland (TV Series) Jazz Collection",
       "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
       "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Tomasz Stanko Quartet — Trista",
-      "artist": "Tomasz Stanko Quartet",
-      "title": "Trista",
-      "album": "Lontano",
-      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
-      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
-      "artist_ids": [
-        "1sP0KjKWioXmkh9vUKb1fP"
-      ],
-      "played_at_utc": "2026-09-24 06:10:01Z",
-      "played_at_local": "2026-09-24 03:10:01 -03",
-      "local_hour": 3,
-      "weekday": 3,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "artist": "Tomasz Stanko Quintet",
-      "title": "Terminal 7",
-      "album": "Dark Eyes",
-      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
-      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
-      "artist_ids": [
-        "58Ieh2itn2s2DnnTA3mwTE"
-      ],
-      "played_at_utc": "2026-09-24 06:05:25Z",
-      "played_at_local": "2026-09-24 03:05:25 -03",
-      "local_hour": 3,
-      "weekday": 3,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Helmet — Give It",
-      "artist": "Helmet",
-      "title": "Give It",
-      "album": "Meantime",
-      "uri": "spotify:track:6rVleAFgtmJ04Omk6Mmon5",
-      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5",
-      "artist_ids": [
-        "0qB0cTENhSUc0feov5qbg0"
-      ],
-      "played_at_utc": "2026-09-22 05:40:23Z",
-      "played_at_local": "2026-09-22 02:40:23 -03",
-      "local_hour": 2,
-      "weekday": 1,
-      "context_type": "album",
-      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
-      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-    },
-    {
-      "track": "Helmet — Iron Head",
-      "artist": "Helmet",
-      "title": "Iron Head",
-      "album": "Meantime",
-      "uri": "spotify:track:2FhUbI3O3YQ3N5eGSUDwbX",
-      "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX",
-      "artist_ids": [
-        "0qB0cTENhSUc0feov5qbg0"
-      ],
-      "played_at_utc": "2026-09-21 21:40:28Z",
-      "played_at_local": "2026-09-21 18:40:28 -03",
-      "local_hour": 18,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
-      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-    },
-    {
-      "track": "Helmet — In The Meantime",
-      "artist": "Helmet",
-      "title": "In The Meantime",
-      "album": "Meantime",
-      "uri": "spotify:track:6mHgOGBDLM71YzKcwAyiXi",
-      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi",
-      "artist_ids": [
-        "0qB0cTENhSUc0feov5qbg0"
-      ],
-      "played_at_utc": "2026-09-21 21:37:05Z",
-      "played_at_local": "2026-09-21 18:37:05 -03",
-      "local_hour": 18,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
-      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "artist": "Tomasz Stanko Quintet",
-      "title": "Terminal 7",
-      "album": "Dark Eyes",
-      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
-      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
-      "artist_ids": [
-        "58Ieh2itn2s2DnnTA3mwTE"
-      ],
-      "played_at_utc": "2026-09-19 22:03:34Z",
-      "played_at_local": "2026-09-19 19:03:34 -03",
-      "local_hour": 19,
-      "weekday": 5,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Rage Against The Machine — Bombtrack",
-      "artist": "Rage Against The Machine",
-      "title": "Bombtrack",
-      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-      "uri": "spotify:track:2rBHnIxbhkMGLpqmsNX91M",
-      "url": "https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-09-19 03:24:11Z",
-      "played_at_local": "2026-09-19 00:24:11 -03",
-      "local_hour": 0,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
-      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
-    },
-    {
-      "track": "Lynyrd Skynyrd — On The Hunt",
-      "artist": "Lynyrd Skynyrd",
-      "title": "On The Hunt",
-      "album": "Nuthin' Fancy (Expanded Edition)",
-      "uri": "spotify:track:2e6qroe20tHfu8aTQSTglt",
-      "url": "https://open.spotify.com/track/2e6qroe20tHfu8aTQSTglt",
-      "artist_ids": [
-        "4MVyzYMgTwdP7Z49wAZHx0"
-      ],
-      "played_at_utc": "2026-09-18 23:21:46Z",
-      "played_at_local": "2026-09-18 20:21:46 -03",
-      "local_hour": 20,
-      "weekday": 4
-    },
-    {
-      "track": "The Who — The Seeker - Original Single A-Side Mix",
-      "artist": "The Who",
-      "title": "The Seeker - Original Single A-Side Mix",
-      "album": "Who’s Next : Life House (Super Deluxe)",
-      "uri": "spotify:track:788cNfvhhitTb5T8GORmqj",
-      "url": "https://open.spotify.com/track/788cNfvhhitTb5T8GORmqj",
-      "artist_ids": [
-        "67ea9eGLXYMsO2eYQRui3w"
-      ],
-      "played_at_utc": "2026-09-18 23:15:50Z",
-      "played_at_local": "2026-09-18 20:15:50 -03",
-      "local_hour": 20,
-      "weekday": 4
-    },
-    {
-      "track": "77 — Down and Dirty",
-      "artist": "77",
-      "title": "Down and Dirty",
-      "album": "Maximum Rock 'n Roll",
-      "uri": "spotify:track:3Nz7t7PIUzZRSfUlF0LY39",
-      "url": "https://open.spotify.com/track/3Nz7t7PIUzZRSfUlF0LY39",
-      "artist_ids": [
-        "1HC7bjD2r2Ezgs4PITQWvd"
-      ],
-      "played_at_utc": "2026-09-18 23:12:43Z",
-      "played_at_local": "2026-09-18 20:12:43 -03",
-      "local_hour": 20,
-      "weekday": 4
-    },
-    {
-      "track": "The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix",
-      "artist": "The Rolling Stones",
-      "title": "Can't You Hear Me Knocking - 2009 Mix",
-      "album": "Sticky Fingers (Remastered)",
-      "uri": "spotify:track:1hIQPCM3oWXrpnXmgTDaKG",
-      "url": "https://open.spotify.com/track/1hIQPCM3oWXrpnXmgTDaKG",
-      "artist_ids": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "played_at_utc": "2026-09-18 23:09:02Z",
-      "played_at_local": "2026-09-18 20:09:02 -03",
-      "local_hour": 20,
-      "weekday": 4
     }
   ],
   "last_known_device_type": "Smartphone",
@@ -2682,25 +2686,25 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-09-27 00:41:32Z",
-    "week_window_utc": "2026-09-20 00:41:32Z → 2026-09-27 00:41:32Z",
-    "tracks_24h": 14,
-    "tracks_7d": 35,
+    "captured_utc": "2026-09-27 06:21:35Z",
+    "week_window_utc": "2026-09-20 06:21:35Z → 2026-09-27 06:21:35Z",
+    "tracks_24h": 25,
+    "tracks_7d": 46,
     "dominant_artist_24h": "Silverchair",
     "dominant_artist_7d": "Faith No More",
-    "listening_pattern_24h": "Regular cadence",
-    "activity_status_24h": "MEDIUM",
-    "cadence_7d": "MEDIUM",
+    "listening_pattern_24h": "Sustained operational tempo",
+    "activity_status_24h": "HIGH",
+    "cadence_7d": "HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "19:00",
+    "peak_hour_24h": "22:00",
     "peak_hour_7d": "03:00",
-    "heatmap_24h": "           ▂      ▂█▃█  ",
-    "heatmap_7d": "▁ ▁█▂      ▁      ▂▄▂▄ ▄",
-    "sessions_24h": 3,
-    "sessions_7d": 7,
-    "avg_inter_play_gap_7d": "03:37:02",
-    "top_genres_24h": "post-grunge(10) | grunge(8) | alternative metal(5) | nu metal(5) | rock(4) | rap metal(3)",
-    "top_genres_7d": "grunge(17) | jazz(16) | alternative metal(14) | cool jazz(12) | bebop(11) | hard bop(11)"
+    "heatmap_24h": "   ▂       ▁      ▁▆▂▇█▁",
+    "heatmap_7d": "▁ ▁█▁      ▁      ▂▃▁▄▅▄",
+    "sessions_24h": 4,
+    "sessions_7d": 8,
+    "avg_inter_play_gap_7d": "02:51:26",
+    "top_genres_24h": "post-grunge(18) | alternative metal(13) | grunge(11) | nu metal(11) | rap metal(6) | rock(5)",
+    "top_genres_7d": "alternative metal(22) | grunge(20) | post-grunge(18) | jazz(16) | cool jazz(12) | rap metal(12)"
   },
   "last_known_device_captured_utc": "2026-09-27 00:41:32Z"
 }
