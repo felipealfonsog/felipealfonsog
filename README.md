@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-27 06:11:51Z
 Played at (local)         : 2026-09-27 03:11:51 -03
 Local hour                : 03:00
 Daypart                   : NIGHT
-Time since play           : 00:09:44
+Time since play           : 02:08:23
 Gap from previous play    : 00:00:00
 ------------------------------------------------------------
 Previous song             : Cold — Happens All the Time - Audio
@@ -1647,7 +1647,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-20 06:21:35Z → 2026-09-27 06:21:35Z
+Week window (UTC)         : 2026-09-20 08:20:13Z → 2026-09-27 08:20:13Z
 Tracks played (7d)        : 46
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1663,14 +1663,14 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(18) | alternative metal(13) | grunge(11) | nu metal(11) | rap metal(6) | rock(5)
 Top genres (7d)           : alternative metal(22) | grunge(20) | post-grunge(18) | jazz(16) | cool jazz(12) | rap metal(12)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Jerry Cantrell — My Song → Godsmack — Keep Away
-Playback timestamp Δ      : 2026-09-27 00:36:29Z → 2026-09-27 06:11:51Z
-State transition          : PLAYING → IDLE
-Telemetry interval        : 05:40:03
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
+State transition          : NO CHANGE
+Telemetry interval        : 01:58:39
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-27 06:21:35Z
+Report generated (UTC)    : 2026-09-27 08:20:13Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
