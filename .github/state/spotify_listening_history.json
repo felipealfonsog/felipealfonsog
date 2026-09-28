@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-28 05:33:55Z",
+  "updated_utc": "2026-09-28 14:09:49Z",
   "events": [
+    {
+      "track": "Linkin Park — Don't Stay",
+      "artist": "Linkin Park",
+      "title": "Don't Stay",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:2yss0n7KmvmSr4EHvjfFpn",
+      "url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-27 06:13:24Z",
+      "played_at_local": "2026-09-27 03:13:24 -03",
+      "local_hour": 3,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
     {
       "track": "Godsmack — Keep Away",
       "artist": "Godsmack",
