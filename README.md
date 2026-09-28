@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-27 06:11:51Z
 Played at (local)         : 2026-09-27 03:11:51 -03
 Local hour                : 03:00
 Daypart                   : NIGHT
-Time since play           : 16:55:50
+Time since play           : 23:22:05
 Gap from previous play    : 00:00:00
 ------------------------------------------------------------
 Previous song             : Cold — Happens All the Time - Audio
@@ -1615,16 +1615,16 @@ Listening intensity       : 0.36 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : 03:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :    ▂                ▂▇█▁
+Heatmap (24h)             :    █                    
 Heatmap (7d)              : ▁ ▁█▁      ▁      ▂▃▁▄▅▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▁  ▆ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁       █    ▄     ▂▁     ▁ ▂ 
+Activity trend (30d)      :        █    ▄     ▂▁     ▁ ▂  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1640,14 +1640,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 18
+Tracks played (last 24h)  : 2
 Dominant artist           : Godsmack
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-20 23:07:40Z → 2026-09-27 23:07:40Z
+Week window (UTC)         : 2026-09-21 05:33:55Z → 2026-09-28 05:33:55Z
 Tracks played (7d)        : 46
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
@@ -1655,13 +1655,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 8
 Avg inter-play gap        : 02:51:26
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(14) | alternative metal(11) | nu metal(9) | grunge(7) | hard rock(4) | rap metal(4)
+Top genres (24h)          : alternative metal(2) | nu metal(2) | hard rock(1) | metal(1) | post-grunge(1) | rap metal(1)
 Top genres (7d)           : alternative metal(22) | grunge(20) | post-grunge(18) | jazz(16) | cool jazz(12) | rap metal(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1670,14 +1670,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:37:53
+Telemetry interval        : 06:26:16
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 372
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-27 03:11:51 -03
-Events (24h)              : 18
+Events (24h)              : 2
 Events (7d)               : 46
 Events (30d)              : 269
 Playlist contexts retained: 125
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-27 23:07:40Z
+Report generated (UTC)    : 2026-09-28 05:33:55Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
