@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-09-27_1650Z
+ snapshot_utc : 2026-09-28_1933Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -536,7 +536,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-09-27T11:54:50+00:00 | last_update=2026-09-27T11:54:50+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-09-28T13:42:58+00:00 | last_update=2026-09-28T13:42:58+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +706,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 152 ms
-TTFB................ 151 ms
+LATENCY............. 154 ms
+TTFB................ 153 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 34d
+TLS_EXPIRY.......... 33d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -741,7 +741,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-27T09:06:55Z
+LAST_PROBE_UTC...... 2026-09-28T09:35:34Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -781,19 +781,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446172
-longitude      : -70.661753
-altitude       : 48 m
-gps_accuracy   : ±5.6 m
-heading        : 283°
-speed          : 0.3 km/h
-status         : stationary
-phase          : workday
-local_time     : 13:01
+location       : pedestrian_axis
+latitude       : -33.438031
+longitude      : -70.646575
+altitude       : 71 m
+gps_accuracy   : ±7.7 m
+heading        : 266°
+speed          : 1.3 km/h
+status         : in_transit
+phase          : morning
+local_time     : 09:21
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-09-27 16:01:09 UTC
+updated_utc    : 2026-09-28 12:21:23 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-09-27 12:10:40Z
+DSN snapshot (UTC)       : 2026-09-28 14:07:08Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +923,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.75e9 km | 172.129 AU
-Heliocentric distance    : 171.883 AU
-Relative speed           : 44.310 km/s
+Earth distance           : 25.75e9 km | 172.154 AU
+Heliocentric distance    : 171.894 AU
+Relative speed           : 44.278 km/s
 ------------------------------------------------------------
-One-way light time       : 23:51:33
-Round-trip latency       : 47:43:06
+One-way light time       : 23:51:46
+Round-trip latency       : 47:43:31
 ------------------------------------------------------------
-Δ distance (since last)  : +970,212 km
-Mission age              : 49 years, 34 days
+Δ distance (since last)  : +1.230e6 km
+Mission age              : 49 years, 35 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.52e9 km | 143.833 AU
-Heliocentric distance    : 144.055 AU
-Relative speed           : 41.105 km/s
+Earth distance           : 21.52e9 km | 143.857 AU
+Heliocentric distance    : 144.065 AU
+Relative speed           : 41.158 km/s
 ------------------------------------------------------------
-One-way light time       : 19:56:14
-Round-trip latency       : 39:52:27
+One-way light time       : 19:56:25
+Round-trip latency       : 39:52:50
 ------------------------------------------------------------
-Δ distance (since last)  : +909,588 km
-Mission age              : 49 years, 50 days
+Δ distance (since last)  : +1.160e6 km
+Mission age              : 49 years, 51 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-09-27 12:10:47Z
+Report generated (UTC)   : 2026-09-28 14:07:10Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Godsmack — Keep Away
-Artist                    : Godsmack
-Title                     : Keep Away
-Album                     : Godsmack
-Spotify URI               : spotify:track:1lrwHbZhCXUhb7zI0VcIPA
-Spotify URL               : https://open.spotify.com/track/1lrwHbZhCXUhb7zI0VcIPA
+Track                     : Linkin Park — Don't Stay
+Artist                    : Linkin Park
+Title                     : Don't Stay
+Album                     : Meteora (Bonus Edition)
+Spotify URI               : spotify:track:2yss0n7KmvmSr4EHvjfFpn
+Spotify URL               : https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-27 06:11:51Z
-Played at (local)         : 2026-09-27 03:11:51 -03
+Played at (UTC)           : 2026-09-27 06:13:24Z
+Played at (local)         : 2026-09-27 03:13:24 -03
 Local hour                : 03:00
 Daypart                   : NIGHT
-Time since play           : 07:53:58
-Gap from previous play    : 00:00:00
+Time since play           : 31:56:25
+Gap from previous play    : 00:01:33
 ------------------------------------------------------------
-Previous song             : Cold — Happens All the Time - Audio
+Previous song             : Godsmack — Keep Away
 Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 3
+Artist plays (retained)   : 5
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Cold — Happens All the Time - Audio | 2026-09-27 03:11:51 -03
-Previous track #2         : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 23:00:17 -03
-Previous track #3         : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 22:53:49 -03
-Previous track #4         : Audioslave — What You Are | 2026-09-26 22:43:03 -03
-Previous track #5         : Seether — Never Leave | 2026-09-26 22:38:59 -03
-Previous track #6         : Creed — Weathered | 2026-09-26 22:33:50 -03
-Previous track #7         : Chevelle — The Red | 2026-09-26 22:23:53 -03
-Previous track #8         : Staind — Rainy Day Parade | 2026-09-26 22:14:40 -03
-Previous track #9         : Jerry Cantrell — Dickeye | 2026-09-26 22:05:12 -03
-Previous track #10        : Jerry Cantrell — Afterglow | 2026-09-26 21:45:33 -03
-Previous track #11        : Jerry Cantrell — My Song | 2026-09-26 21:36:29 -03
-Previous track #12        : Staind — Here And Now | 2026-09-26 21:30:33 -03
-Previous track #13        : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03
-Previous track #14        : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03
-Previous track #15        : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03
-Previous track #16        : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03
-Previous track #17        : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03
-Previous track #18        : Linkin Park — By Myself | 2026-09-26 19:51:35 -03
-Previous track #19        : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03
-Previous track #20        : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03
-Previous track #21        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03
-Previous track #22        : Silverchair — Tomorrow | 2026-09-26 19:01:31 -03
-Previous track #23        : Silverchair — Israel's Son | 2026-09-26 18:57:05 -03
-Previous track #24        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-26 11:18:05 -03
-Previous track #25        : Faith No More — Falling to Pieces | 2026-09-25 00:06:20 -03
-Previous track #26        : Faith No More — Midlife Crisis | 2026-09-24 23:53:24 -03
-Previous track #27        : Faith No More — We Care a Lot | 2026-09-24 23:49:03 -03
-Previous track #28        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-24 23:44:58 -03
-Previous track #29        : Faith No More — Epic | 2026-09-24 23:41:21 -03
-Previous track #30        : Faith No More — Easy | 2026-09-24 23:36:27 -03
-Previous track #31        : Thelonious Monk — Straight, No Chaser | 2026-09-24 04:03:15 -03
-Previous track #32        : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-24 04:02:45 -03
-Previous track #33        : Forward Jazz Series — Homeland (Incidentals) | 2026-09-24 03:57:29 -03
-Previous track #34        : Miles Davis Quintet — Tune Up | 2026-09-24 03:53:13 -03
-Previous track #35        : Kamasi Washington — Truth | 2026-09-24 03:47:35 -03
-Previous track #36        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-24 03:34:09 -03
-Previous track #37        : Thelonious Monk — Straight No Chaser | 2026-09-24 03:28:15 -03
-Previous track #38        : Forward Jazz Series — Homeland | 2026-09-24 03:25:21 -03
-Previous track #39        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-24 03:21:01 -03
-Previous track #40        : John Coltrane — Blue World | 2026-09-24 03:16:05 -03
+Previous track #1         : Godsmack — Keep Away | 2026-09-27 03:11:51 -03
+Previous track #2         : Cold — Happens All the Time - Audio | 2026-09-27 03:11:51 -03
+Previous track #3         : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 23:00:17 -03
+Previous track #4         : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 22:53:49 -03
+Previous track #5         : Audioslave — What You Are | 2026-09-26 22:43:03 -03
+Previous track #6         : Seether — Never Leave | 2026-09-26 22:38:59 -03
+Previous track #7         : Creed — Weathered | 2026-09-26 22:33:50 -03
+Previous track #8         : Chevelle — The Red | 2026-09-26 22:23:53 -03
+Previous track #9         : Staind — Rainy Day Parade | 2026-09-26 22:14:40 -03
+Previous track #10        : Jerry Cantrell — Dickeye | 2026-09-26 22:05:12 -03
+Previous track #11        : Jerry Cantrell — Afterglow | 2026-09-26 21:45:33 -03
+Previous track #12        : Jerry Cantrell — My Song | 2026-09-26 21:36:29 -03
+Previous track #13        : Staind — Here And Now | 2026-09-26 21:30:33 -03
+Previous track #14        : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03
+Previous track #15        : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03
+Previous track #16        : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03
+Previous track #17        : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03
+Previous track #18        : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03
+Previous track #19        : Linkin Park — By Myself | 2026-09-26 19:51:35 -03
+Previous track #20        : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03
+Previous track #21        : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03
+Previous track #22        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03
+Previous track #23        : Silverchair — Tomorrow | 2026-09-26 19:01:31 -03
+Previous track #24        : Silverchair — Israel's Son | 2026-09-26 18:57:05 -03
+Previous track #25        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-26 11:18:05 -03
+Previous track #26        : Faith No More — Falling to Pieces | 2026-09-25 00:06:20 -03
+Previous track #27        : Faith No More — Midlife Crisis | 2026-09-24 23:53:24 -03
+Previous track #28        : Faith No More — We Care a Lot | 2026-09-24 23:49:03 -03
+Previous track #29        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-24 23:44:58 -03
+Previous track #30        : Faith No More — Epic | 2026-09-24 23:41:21 -03
+Previous track #31        : Faith No More — Easy | 2026-09-24 23:36:27 -03
+Previous track #32        : Thelonious Monk — Straight, No Chaser | 2026-09-24 04:03:15 -03
+Previous track #33        : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-24 04:02:45 -03
+Previous track #34        : Forward Jazz Series — Homeland (Incidentals) | 2026-09-24 03:57:29 -03
+Previous track #35        : Miles Davis Quintet — Tune Up | 2026-09-24 03:53:13 -03
+Previous track #36        : Kamasi Washington — Truth | 2026-09-24 03:47:35 -03
+Previous track #37        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-24 03:34:09 -03
+Previous track #38        : Thelonious Monk — Straight No Chaser | 2026-09-24 03:28:15 -03
+Previous track #39        : Forward Jazz Series — Homeland | 2026-09-24 03:25:21 -03
+Previous track #40        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-24 03:21:01 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1591,47 +1591,47 @@ Context observed (UTC)    : 2026-09-27 00:41:32Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 46
-Unique tracks             : 43
+Observed events           : 47
+Unique tracks             : 44
 Unique artists            : 25
-Replay ratio              : █░░░░░░░░░░░░░░░░░  6.5%
-Artist diversity          : ██████████░░░░░░░░  54.3%
+Replay ratio              : █░░░░░░░░░░░░░░░░░  6.4%
+Artist diversity          : ██████████░░░░░░░░  53.2%
 Dominant artist           : Faith No More
-Dominant artist share     : ██░░░░░░░░░░░░░░░░  13.0%
-Artist switch ratio       : ████████████░░░░░░  64.4%
+Dominant artist share     : ██░░░░░░░░░░░░░░░░  12.8%
+Artist switch ratio       : ████████████░░░░░░  65.2%
 Longest artist streak     : Faith No More × 6
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██████░░░░░░░░░░░░   34.8%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.2%
+Night      00–06           : ███████░░░░░░░░░░░   36.2%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.1%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ███████████░░░░░░░   63.0%
+Evening    18–24           : ███████████░░░░░░░   61.7%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-21 21:37:05Z
-History last play (7d)    : 2026-09-27 06:11:51Z
-Observed time span        : 128:34:46
-Mean inter-play gap       : 02:51:26
-Median inter-play gap     : 00:06:23
+History last play (7d)    : 2026-09-27 06:13:24Z
+Observed time span        : 128:36:19
+Mean inter-play gap       : 02:47:45
+Median inter-play gap     : 00:06:14
 Longest inactivity gap    : 48:25:02
-Listening intensity       : 0.36 tracks/hour
+Listening intensity       : 0.37 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 22:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :    ▂       ▁      ▁▆▂▇█▁
-Heatmap (7d)              : ▁ ▁█▁      ▁      ▂▃▁▄▅▄
+Heatmap (24h)             : N/A
+Heatmap (7d)              : ▁ ▁█▁      ▁      ▂▃▁▄▄▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▁  ▆ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁       █    ▄     ▂▁     ▁ ▂ 
+Activity trend (30d)      :        █    ▄     ▂▁     ▁ ▂  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,46 +1647,46 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 25
-Dominant artist           : Silverchair
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-20 14:05:49Z → 2026-09-27 14:05:49Z
-Tracks played (7d)        : 46
+Week window (UTC)         : 2026-09-21 14:09:49Z → 2026-09-28 14:09:49Z
+Tracks played (7d)        : 47
 Dominant artist           : Faith No More
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : N/A
 Sessions (7d)             : 8
-Avg inter-play gap        : 02:51:26
+Avg inter-play gap        : 02:47:45
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(18) | alternative metal(13) | grunge(11) | nu metal(11) | rap metal(6) | rock(5)
-Top genres (7d)           : alternative metal(22) | grunge(20) | post-grunge(18) | jazz(16) | cool jazz(12) | rap metal(12)
+Top genres (24h)          : N/A
+Top genres (7d)           : alternative metal(23) | grunge(20) | post-grunge(18) | jazz(16) | rap metal(13) | cool jazz(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Godsmack — Keep Away → Linkin Park — Don't Stay
+Playback timestamp Δ      : 2026-09-27 06:11:51Z → 2026-09-27 06:13:24Z
 State transition          : NO CHANGE
-Telemetry interval        : 05:45:36
+Telemetry interval        : 08:35:54
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 372
+Events retained           : 373
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-27 03:11:51 -03
-Events (24h)              : 25
-Events (7d)               : 46
-Events (30d)              : 269
+Newest retained event     : 2026-09-27 03:13:24 -03
+Events (24h)              : 0
+Events (7d)               : 47
+Events (30d)              : 266
 Playlist contexts retained: 125
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-27 14:05:49Z
+Report generated (UTC)    : 2026-09-28 14:09:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2073,7 +2073,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 27 September 2026
+From: 04 December 2023 - To: 28 September 2026
 
 Total Time       : 1,073 hrs 33 mins
 Mostly coding in : Other
@@ -2126,7 +2126,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 27/09/2026 16:16:02 UTC
+Last updated     : 28/09/2026 12:43:20 UTC
 
 ```
 <!--END_SECTION:wakastats-->
