@@ -1491,69 +1491,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Linkin Park — Don't Stay
+Track                     : Linkin Park — In the End
 Artist                    : Linkin Park
-Title                     : Don't Stay
-Album                     : Meteora (Bonus Edition)
-Spotify URI               : spotify:track:2yss0n7KmvmSr4EHvjfFpn
-Spotify URL               : https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn
+Title                     : In the End
+Album                     : Hybrid Theory (Bonus Edition)
+Spotify URI               : spotify:track:60a0Rd6pjrkxjPbaKzXjfq
+Spotify URL               : https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-27 06:13:24Z
-Played at (local)         : 2026-09-27 03:13:24 -03
-Local hour                : 03:00
-Daypart                   : NIGHT
-Time since play           : 31:56:25
-Gap from previous play    : 00:01:33
+Played at (UTC)           : 2026-09-28 19:47:31Z
+Played at (local)         : 2026-09-28 16:47:31 -03
+Local hour                : 16:00
+Daypart                   : AFTERNOON
+Time since play           : 00:48:28
+Gap from previous play    : 00:03:37
 ------------------------------------------------------------
-Previous song             : Godsmack — Keep Away
-Same artist as previous   : NO
+Previous song             : Linkin Park — By Myself
+Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 5
+Artist plays (retained)   : 19
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Godsmack — Keep Away | 2026-09-27 03:11:51 -03
-Previous track #2         : Cold — Happens All the Time - Audio | 2026-09-27 03:11:51 -03
-Previous track #3         : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 23:00:17 -03
-Previous track #4         : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 22:53:49 -03
-Previous track #5         : Audioslave — What You Are | 2026-09-26 22:43:03 -03
-Previous track #6         : Seether — Never Leave | 2026-09-26 22:38:59 -03
-Previous track #7         : Creed — Weathered | 2026-09-26 22:33:50 -03
-Previous track #8         : Chevelle — The Red | 2026-09-26 22:23:53 -03
-Previous track #9         : Staind — Rainy Day Parade | 2026-09-26 22:14:40 -03
-Previous track #10        : Jerry Cantrell — Dickeye | 2026-09-26 22:05:12 -03
-Previous track #11        : Jerry Cantrell — Afterglow | 2026-09-26 21:45:33 -03
-Previous track #12        : Jerry Cantrell — My Song | 2026-09-26 21:36:29 -03
-Previous track #13        : Staind — Here And Now | 2026-09-26 21:30:33 -03
-Previous track #14        : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03
-Previous track #15        : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03
-Previous track #16        : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03
-Previous track #17        : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03
-Previous track #18        : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03
-Previous track #19        : Linkin Park — By Myself | 2026-09-26 19:51:35 -03
-Previous track #20        : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03
-Previous track #21        : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03
-Previous track #22        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03
-Previous track #23        : Silverchair — Tomorrow | 2026-09-26 19:01:31 -03
-Previous track #24        : Silverchair — Israel's Son | 2026-09-26 18:57:05 -03
-Previous track #25        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-26 11:18:05 -03
-Previous track #26        : Faith No More — Falling to Pieces | 2026-09-25 00:06:20 -03
-Previous track #27        : Faith No More — Midlife Crisis | 2026-09-24 23:53:24 -03
-Previous track #28        : Faith No More — We Care a Lot | 2026-09-24 23:49:03 -03
-Previous track #29        : Faith No More — Ashes to Ashes - 2016 Remaster | 2026-09-24 23:44:58 -03
-Previous track #30        : Faith No More — Epic | 2026-09-24 23:41:21 -03
-Previous track #31        : Faith No More — Easy | 2026-09-24 23:36:27 -03
-Previous track #32        : Thelonious Monk — Straight, No Chaser | 2026-09-24 04:03:15 -03
-Previous track #33        : Duke Ellington, John Coltrane — My Little Brown Book | 2026-09-24 04:02:45 -03
-Previous track #34        : Forward Jazz Series — Homeland (Incidentals) | 2026-09-24 03:57:29 -03
-Previous track #35        : Miles Davis Quintet — Tune Up | 2026-09-24 03:53:13 -03
-Previous track #36        : Kamasi Washington — Truth | 2026-09-24 03:47:35 -03
-Previous track #37        : Miles Davis Quintet — My Funny Valentine - Rudy Van Gelder Remaster 2007 | 2026-09-24 03:34:09 -03
-Previous track #38        : Thelonious Monk — Straight No Chaser | 2026-09-24 03:28:15 -03
-Previous track #39        : Forward Jazz Series — Homeland | 2026-09-24 03:25:21 -03
-Previous track #40        : Miles Davis, Sonny Rollins, Horace Silver, Kenny Clarke, Percy Heath — Airegin - RVG Remastered 2008 | 2026-09-24 03:21:01 -03
+Previous track #1         : Linkin Park — By Myself | 2026-09-28 16:43:54 -03
+Previous track #2         : Linkin Park — By Myself | 2026-09-28 16:33:28 -03
+Previous track #3         : Linkin Park — Crawling | 2026-09-28 16:25:44 -03
+Previous track #4         : Linkin Park — Figure.09 | 2026-09-28 16:21:23 -03
+Previous track #5         : Linkin Park — Faint | 2026-09-28 14:22:14 -03
+Previous track #6         : Linkin Park — Easier to Run | 2026-09-28 14:19:32 -03
+Previous track #7         : Linkin Park — Hit the Floor | 2026-09-28 14:16:07 -03
+Previous track #8         : Linkin Park — Lying from You | 2026-09-28 14:13:23 -03
+Previous track #9         : Linkin Park — Somewhere I Belong | 2026-09-28 13:30:21 -03
+Previous track #10        : Linkin Park — Crawling | 2026-09-28 13:26:21 -03
+Previous track #11        : Linkin Park — Waiting For the End - Unshatter Film Soundtrack - Live in São Paulo | 2026-09-28 13:26:21 -03
+Previous track #12        : Linkin Park — Hit the Floor | 2026-09-28 12:31:23 -03
+Previous track #13        : Linkin Park — Lying from You | 2026-09-28 12:28:39 -03
+Previous track #14        : Linkin Park — Don't Stay | 2026-09-27 03:13:24 -03
+Previous track #15        : Godsmack — Keep Away | 2026-09-27 03:11:51 -03
+Previous track #16        : Cold — Happens All the Time - Audio | 2026-09-27 03:11:51 -03
+Previous track #17        : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 23:00:17 -03
+Previous track #18        : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 22:53:49 -03
+Previous track #19        : Audioslave — What You Are | 2026-09-26 22:43:03 -03
+Previous track #20        : Seether — Never Leave | 2026-09-26 22:38:59 -03
+Previous track #21        : Creed — Weathered | 2026-09-26 22:33:50 -03
+Previous track #22        : Chevelle — The Red | 2026-09-26 22:23:53 -03
+Previous track #23        : Staind — Rainy Day Parade | 2026-09-26 22:14:40 -03
+Previous track #24        : Jerry Cantrell — Dickeye | 2026-09-26 22:05:12 -03
+Previous track #25        : Jerry Cantrell — Afterglow | 2026-09-26 21:45:33 -03
+Previous track #26        : Jerry Cantrell — My Song | 2026-09-26 21:36:29 -03
+Previous track #27        : Staind — Here And Now | 2026-09-26 21:30:33 -03
+Previous track #28        : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03
+Previous track #29        : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03
+Previous track #30        : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03
+Previous track #31        : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03
+Previous track #32        : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03
+Previous track #33        : Linkin Park — By Myself | 2026-09-26 19:51:35 -03
+Previous track #34        : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03
+Previous track #35        : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03
+Previous track #36        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03
+Previous track #37        : Silverchair — Tomorrow | 2026-09-26 19:01:31 -03
+Previous track #38        : Silverchair — Israel's Son | 2026-09-26 18:57:05 -03
+Previous track #39        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-26 11:18:05 -03
+Previous track #40        : Faith No More — Falling to Pieces | 2026-09-25 00:06:20 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1584,52 +1584,52 @@ Context observed (UTC)    : 2026-09-27 00:41:32Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 47
-Unique tracks             : 44
+Observed events           : 61
+Unique tracks             : 52
 Unique artists            : 25
-Replay ratio              : █░░░░░░░░░░░░░░░░░  6.4%
-Artist diversity          : ██████████░░░░░░░░  53.2%
-Dominant artist           : Faith No More
-Dominant artist share     : ██░░░░░░░░░░░░░░░░  12.8%
-Artist switch ratio       : ████████████░░░░░░  65.2%
-Longest artist streak     : Faith No More × 6
+Replay ratio              : ███░░░░░░░░░░░░░░░  14.8%
+Artist diversity          : ███████░░░░░░░░░░░  41.0%
+Dominant artist           : Linkin Park
+Dominant artist share     : █████░░░░░░░░░░░░░  27.9%
+Artist switch ratio       : █████████░░░░░░░░░  50.0%
+Longest artist streak     : Linkin Park × 15
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███████░░░░░░░░░░░   36.2%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.1%
-Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ███████████░░░░░░░   61.7%
+Night      00–06           : █████░░░░░░░░░░░░░   27.9%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.6%
+Afternoon  12–18           : ████░░░░░░░░░░░░░░   23.0%
+Evening    18–24           : █████████░░░░░░░░░   47.5%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-21 21:37:05Z
-History last play (7d)    : 2026-09-27 06:13:24Z
-Observed time span        : 128:36:19
-Mean inter-play gap       : 02:47:45
-Median inter-play gap     : 00:06:14
+History last play (7d)    : 2026-09-28 19:47:31Z
+Observed time span        : 166:10:26
+Mean inter-play gap       : 02:46:10
+Median inter-play gap     : 00:06:00
 Longest inactivity gap    : 48:25:02
 Listening intensity       : 0.37 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 16:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁ ▁█▁      ▁      ▂▃▁▄▄▄
+Heatmap (24h)             :             ▃▅▆ █       
+Heatmap (7d)              : ▁ ▁█▁      ▁▁▂▂ ▃ ▂▃▁▄▄▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁  ▆ █▁
+Activity (Mon→Sun)        : ▆  ▆ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :        █    ▄     ▂▁     ▁ ▂  
+Activity trend (30d)      :        █    ▄     ▂▁     ▁ ▂ ▁
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :                   █     
+Mon                       :             ▃▅▆ █ ▃     
 Tue                       :   █                     
 Wed                       :                         
 Thu                       :    █▂                  ▄
@@ -1640,46 +1640,46 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 14
+Dominant artist           : Linkin Park
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-21 14:09:49Z → 2026-09-28 14:09:49Z
-Tracks played (7d)        : 47
-Dominant artist           : Faith No More
+Week window (UTC)         : 2026-09-21 20:35:58Z → 2026-09-28 20:35:58Z
+Tracks played (7d)        : 61
+Dominant artist           : Linkin Park
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 8
-Avg inter-play gap        : 02:47:45
+Sessions (24h)            : 4
+Sessions (7d)             : 12
+Avg inter-play gap        : 02:46:10
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(23) | grunge(20) | post-grunge(18) | jazz(16) | rap metal(13) | cool jazz(12)
+Top genres (24h)          : alternative metal(14) | nu metal(14) | rap metal(14) | rock(14)
+Top genres (7d)           : alternative metal(37) | rap metal(27) | nu metal(26) | grunge(20) | rock(20) | post-grunge(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Godsmack — Keep Away → Linkin Park — Don't Stay
-Playback timestamp Δ      : 2026-09-27 06:11:51Z → 2026-09-27 06:13:24Z
+Track transition          : Linkin Park — Don't Stay → Linkin Park — In the End
+Playback timestamp Δ      : 2026-09-27 06:13:24Z → 2026-09-28 19:47:31Z
 State transition          : NO CHANGE
-Telemetry interval        : 08:35:54
+Telemetry interval        : 06:26:10
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 373
+Events retained           : 387
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-27 03:13:24 -03
-Events (24h)              : 0
-Events (7d)               : 47
-Events (30d)              : 266
+Newest retained event     : 2026-09-28 16:47:31 -03
+Events (24h)              : 14
+Events (7d)               : 61
+Events (30d)              : 271
 Playlist contexts retained: 125
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-28 14:09:49Z
+Report generated (UTC)    : 2026-09-28 20:35:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

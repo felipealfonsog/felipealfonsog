@@ -1,8 +1,257 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-28 14:09:49Z",
+  "updated_utc": "2026-09-28 20:35:58Z",
   "events": [
+    {
+      "track": "Linkin Park — In the End",
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "uri": "spotify:track:60a0Rd6pjrkxjPbaKzXjfq",
+      "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 19:47:31Z",
+      "played_at_local": "2026-09-28 16:47:31 -03",
+      "local_hour": 16,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:6hPkbAV3ZXpGZBGUvL6jVM",
+      "context_url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+    },
+    {
+      "track": "Linkin Park — By Myself",
+      "artist": "Linkin Park",
+      "title": "By Myself",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "uri": "spotify:track:6UzeOH4bRPzKTo2wCXMZmC",
+      "url": "https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 19:43:54Z",
+      "played_at_local": "2026-09-28 16:43:54 -03",
+      "local_hour": 16,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:6hPkbAV3ZXpGZBGUvL6jVM",
+      "context_url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+    },
+    {
+      "track": "Linkin Park — By Myself",
+      "artist": "Linkin Park",
+      "title": "By Myself",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "uri": "spotify:track:6UzeOH4bRPzKTo2wCXMZmC",
+      "url": "https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 19:33:28Z",
+      "played_at_local": "2026-09-28 16:33:28 -03",
+      "local_hour": 16,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:6hPkbAV3ZXpGZBGUvL6jVM",
+      "context_url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+    },
+    {
+      "track": "Linkin Park — Crawling",
+      "artist": "Linkin Park",
+      "title": "Crawling",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "uri": "spotify:track:57BrRMwf9LrcmuOsyGilwr",
+      "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 19:25:44Z",
+      "played_at_local": "2026-09-28 16:25:44 -03",
+      "local_hour": 16,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:6hPkbAV3ZXpGZBGUvL6jVM",
+      "context_url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+    },
+    {
+      "track": "Linkin Park — Figure.09",
+      "artist": "Linkin Park",
+      "title": "Figure.09",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:0rPTPahzhGx9LSzI8XX5OM",
+      "url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 19:21:23Z",
+      "played_at_local": "2026-09-28 16:21:23 -03",
+      "local_hour": 16,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Linkin Park — Faint",
+      "artist": "Linkin Park",
+      "title": "Faint",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:7AB0cUXnzuSlAnyHOqmrZr",
+      "url": "https://open.spotify.com/track/7AB0cUXnzuSlAnyHOqmrZr",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 17:22:14Z",
+      "played_at_local": "2026-09-28 14:22:14 -03",
+      "local_hour": 14,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Linkin Park — Easier to Run",
+      "artist": "Linkin Park",
+      "title": "Easier to Run",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:32fEW4jygJjjnZh2iBa5IR",
+      "url": "https://open.spotify.com/track/32fEW4jygJjjnZh2iBa5IR",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 17:19:32Z",
+      "played_at_local": "2026-09-28 14:19:32 -03",
+      "local_hour": 14,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Linkin Park — Hit the Floor",
+      "artist": "Linkin Park",
+      "title": "Hit the Floor",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:4wHktoSf6C0C0fAO8IIWqs",
+      "url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 17:16:07Z",
+      "played_at_local": "2026-09-28 14:16:07 -03",
+      "local_hour": 14,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Linkin Park — Lying from You",
+      "artist": "Linkin Park",
+      "title": "Lying from You",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:4qVR3CF8FuFvHN4L6vXlB1",
+      "url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 17:13:23Z",
+      "played_at_local": "2026-09-28 14:13:23 -03",
+      "local_hour": 14,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Linkin Park — Somewhere I Belong",
+      "artist": "Linkin Park",
+      "title": "Somewhere I Belong",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:3fjmSxt0PskST13CSdBUFx",
+      "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 16:30:21Z",
+      "played_at_local": "2026-09-28 13:30:21 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Linkin Park — Crawling",
+      "artist": "Linkin Park",
+      "title": "Crawling",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "uri": "spotify:track:57BrRMwf9LrcmuOsyGilwr",
+      "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 16:26:21Z",
+      "played_at_local": "2026-09-28 13:26:21 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:6hPkbAV3ZXpGZBGUvL6jVM",
+      "context_url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+    },
+    {
+      "track": "Linkin Park — Waiting For the End - Unshatter Film Soundtrack - Live in São Paulo",
+      "artist": "Linkin Park",
+      "title": "Waiting For the End - Unshatter Film Soundtrack - Live in São Paulo",
+      "album": "Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
+      "uri": "spotify:track:23OYR3thzxRBVTlLOXVkSH",
+      "url": "https://open.spotify.com/track/23OYR3thzxRBVTlLOXVkSH",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 16:26:21Z",
+      "played_at_local": "2026-09-28 13:26:21 -03",
+      "local_hour": 13,
+      "weekday": 0
+    },
+    {
+      "track": "Linkin Park — Hit the Floor",
+      "artist": "Linkin Park",
+      "title": "Hit the Floor",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:4wHktoSf6C0C0fAO8IIWqs",
+      "url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 15:31:23Z",
+      "played_at_local": "2026-09-28 12:31:23 -03",
+      "local_hour": 12,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
+    {
+      "track": "Linkin Park — Lying from You",
+      "artist": "Linkin Park",
+      "title": "Lying from You",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:4qVR3CF8FuFvHN4L6vXlB1",
+      "url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-09-28 15:28:39Z",
+      "played_at_local": "2026-09-28 12:28:39 -03",
+      "local_hour": 12,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+      "context_url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+    },
     {
       "track": "Linkin Park — Don't Stay",
       "artist": "Linkin Park",
