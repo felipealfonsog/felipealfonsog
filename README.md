@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-28 19:47:31Z
 Played at (local)         : 2026-09-28 16:47:31 -03
 Local hour                : 16:00
 Daypart                   : AFTERNOON
-Time since play           : 12:53:48
+Time since play           : 20:45:27
 Gap from previous play    : 00:03:37
 ------------------------------------------------------------
 Previous song             : Linkin Park — By Myself
@@ -1617,7 +1617,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             :             ▃▅▆ █       
+Heatmap (24h)             :               ▆ █       
 Heatmap (7d)              : ▁  █▁      ▁▁▂▂ ▃ ▁▃▁▄▄▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1640,14 +1640,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 14
+Tracks played (last 24h)  : 9
 Dominant artist           : Linkin Park
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-22 08:41:19Z → 2026-09-29 08:41:19Z
+Week window (UTC)         : 2026-09-22 16:32:58Z → 2026-09-29 16:32:58Z
 Tracks played (7d)        : 58
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1655,13 +1655,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : 2
 Sessions (7d)             : 10
 Avg inter-play gap        : 01:55:29
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(14) | nu metal(14) | rap metal(14) | rock(14)
+Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rock(9)
 Top genres (7d)           : alternative metal(34) | rap metal(27) | nu metal(26) | rock(20) | post-grunge(18) | grunge(17)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1670,16 +1670,16 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:37:48
+Telemetry interval        : 07:51:39
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 387
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-28 16:47:31 -03
-Events (24h)              : 14
+Events (24h)              : 9
 Events (7d)               : 58
-Events (30d)              : 270
+Events (30d)              : 269
 Playlist contexts retained: 125
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-29 08:41:19Z
+Report generated (UTC)    : 2026-09-29 16:32:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
