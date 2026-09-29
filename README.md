@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-28 19:47:31Z
 Played at (local)         : 2026-09-28 16:47:31 -03
 Local hour                : 16:00
 Daypart                   : AFTERNOON
-Time since play           : 00:48:28
+Time since play           : 06:16:00
 Gap from previous play    : 00:03:37
 ------------------------------------------------------------
 Previous song             : Linkin Park — By Myself
@@ -1584,30 +1584,30 @@ Context observed (UTC)    : 2026-09-27 00:41:32Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 61
-Unique tracks             : 52
+Observed events           : 59
+Unique tracks             : 50
 Unique artists            : 25
-Replay ratio              : ███░░░░░░░░░░░░░░░  14.8%
-Artist diversity          : ███████░░░░░░░░░░░  41.0%
+Replay ratio              : ███░░░░░░░░░░░░░░░  15.3%
+Artist diversity          : ████████░░░░░░░░░░  42.4%
 Dominant artist           : Linkin Park
-Dominant artist share     : █████░░░░░░░░░░░░░  27.9%
-Artist switch ratio       : █████████░░░░░░░░░  50.0%
+Dominant artist share     : █████░░░░░░░░░░░░░  28.8%
+Artist switch ratio       : █████████░░░░░░░░░  51.7%
 Longest artist streak     : Linkin Park × 15
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █████░░░░░░░░░░░░░   27.9%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.6%
-Afternoon  12–18           : ████░░░░░░░░░░░░░░   23.0%
-Evening    18–24           : █████████░░░░░░░░░   47.5%
+Night      00–06           : █████░░░░░░░░░░░░░   28.8%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.7%
+Afternoon  12–18           : ████░░░░░░░░░░░░░░   23.7%
+Evening    18–24           : ████████░░░░░░░░░░   45.8%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-21 21:37:05Z
+History first play (7d)   : 2026-09-22 05:40:23Z
 History last play (7d)    : 2026-09-28 19:47:31Z
-Observed time span        : 166:10:26
-Mean inter-play gap       : 02:46:10
+Observed time span        : 158:07:08
+Mean inter-play gap       : 02:43:34
 Median inter-play gap     : 00:06:00
 Longest inactivity gap    : 48:25:02
 Listening intensity       : 0.37 tracks/hour
@@ -1618,18 +1618,18 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 03:00
 Heatmap (24h)             :             ▃▅▆ █       
-Heatmap (7d)              : ▁ ▁█▁      ▁▁▂▂ ▃ ▂▃▁▄▄▄
+Heatmap (7d)              : ▁ ▁█▁      ▁▁▂▂ ▃ ▁▃▁▄▄▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▆  ▆ █▁
+Activity (Mon→Sun)        : ▅  ▆ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :        █    ▄     ▂▁     ▁ ▂ ▁
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :             ▃▅▆ █ ▃     
+Mon                       :             ▃▅▆ █       
 Tue                       :   █                     
 Wed                       :                         
 Thu                       :    █▂                  ▄
@@ -1647,8 +1647,8 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-21 20:35:58Z → 2026-09-28 20:35:58Z
-Tracks played (7d)        : 61
+Week window (UTC)         : 2026-09-22 02:03:31Z → 2026-09-29 02:03:31Z
+Tracks played (7d)        : 59
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1656,21 +1656,21 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
-Sessions (7d)             : 12
-Avg inter-play gap        : 02:46:10
+Sessions (7d)             : 11
+Avg inter-play gap        : 02:43:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(14) | nu metal(14) | rap metal(14) | rock(14)
-Top genres (7d)           : alternative metal(37) | rap metal(27) | nu metal(26) | grunge(20) | rock(20) | post-grunge(18)
+Top genres (7d)           : alternative metal(35) | rap metal(27) | nu metal(26) | rock(20) | grunge(18) | post-grunge(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Linkin Park — Don't Stay → Linkin Park — In the End
-Playback timestamp Δ      : 2026-09-27 06:13:24Z → 2026-09-28 19:47:31Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:26:10
+Telemetry interval        : 05:27:33
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1678,8 +1678,8 @@ Events retained           : 387
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-09-28 16:47:31 -03
 Events (24h)              : 14
-Events (7d)               : 61
-Events (30d)              : 271
+Events (7d)               : 59
+Events (30d)              : 270
 Playlist contexts retained: 125
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-28 20:35:58Z
+Report generated (UTC)    : 2026-09-29 02:03:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
