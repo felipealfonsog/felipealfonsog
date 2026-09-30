@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-28 19:56:56Z
 Played at (local)         : 2026-09-28 16:56:56 -03
 Local hour                : 16:00
 Daypart                   : AFTERNOON
-Time since play           : 26:26:26
+Time since play           : 33:45:21
 Gap from previous play    : 00:09:25
 ------------------------------------------------------------
 Previous song             : Linkin Park — In the End
@@ -1624,7 +1624,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▅  ▆ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :       █    ▄     ▂▁     ▁ ▂ ▁ 
+Activity trend (30d)      :      █    ▄     ▂▁     ▁ ▂ ▁  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-22 22:23:22Z → 2026-09-29 22:23:22Z
+Week window (UTC)         : 2026-09-23 05:42:17Z → 2026-09-30 05:42:17Z
 Tracks played (7d)        : 59
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1667,10 +1667,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Linkin Park — In the End → Linkin Park — A Place for My Head
-Playback timestamp Δ      : 2026-09-28 19:47:31Z → 2026-09-28 19:56:56Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:50:24
+Telemetry interval        : 07:18:55
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-29 22:23:22Z
+Report generated (UTC)    : 2026-09-30 05:42:17Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
