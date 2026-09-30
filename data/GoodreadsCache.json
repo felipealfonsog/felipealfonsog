@@ -3,8 +3,8 @@
     "source": "goodreads_rss",
     "status": "ok",
     "fetch_mode": "network",
-    "last_attempted_sync": "2026-09-30T12:25:52+00:00",
-    "last_successful_sync": "2026-09-30T12:25:52+00:00",
+    "last_attempted_sync": "2026-09-30T22:09:35+00:00",
+    "last_successful_sync": "2026-09-30T22:09:35+00:00",
     "error_message": ""
   },
   "sections": {
@@ -129,7 +129,7 @@
           "author": "Jonathan Swift",
           "link": "https://www.goodreads.com/review/show/8701260007?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671443131l/70776003._SY75_.jpg",
-          "summary": "author: Jonathan Swift name: Felipe Alfonso average rating: 3.76 book published: 1726 rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
+          "summary": "author: Jonathan Swift name: Felipe Alfonso average rating: 3.77 book published: 1726 rating: 0 read at: date added: 2026/06/20 shelves: currently-reading review:",
           "guid": "https://www.goodreads.com/review/show/8701260007?utm_medium=api&utm_source=rss",
           "pub_date": "Sat, 20 Jun 2026 01:55:44 -0700"
         },
@@ -824,7 +824,7 @@
           "author": "Dalai Lama XIV",
           "link": "https://www.goodreads.com/review/show/2645667583?utm_medium=api&utm_source=rss",
           "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440826168l/1155450._SY75_.jpg",
-          "summary": "author: Dalai Lama XIV name: Felipe Alfonso average rating: 3.93 book published: 1994 rating: 5 read at: 2018/01/01 date added: 2025/10/23 shelves: review:",
+          "summary": "author: Dalai Lama XIV name: Felipe Alfonso average rating: 3.96 book published: 1994 rating: 5 read at: 2018/01/01 date added: 2025/10/23 shelves: review:",
           "guid": "https://www.goodreads.com/review/show/2645667583?utm_medium=api&utm_source=rss",
           "pub_date": "Thu, 23 Oct 2025 06:49:31 -0700"
         },
