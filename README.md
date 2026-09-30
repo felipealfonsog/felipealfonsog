@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-09-28 19:56:56Z
 Played at (local)         : 2026-09-28 16:56:56 -03
 Local hour                : 16:00
 Daypart                   : AFTERNOON
-Time since play           : 40:49:02
+Time since play           : 47:31:07
 Gap from previous play    : 00:09:25
 ------------------------------------------------------------
 Previous song             : Linkin Park — In the End
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-23 12:45:58Z → 2026-09-30 12:45:58Z
+Week window (UTC)         : 2026-09-23 19:28:03Z → 2026-09-30 19:28:03Z
 Tracks played (7d)        : 59
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:03:41
+Telemetry interval        : 06:42:05
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-30 12:45:58Z
+Report generated (UTC)    : 2026-09-30 19:28:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
