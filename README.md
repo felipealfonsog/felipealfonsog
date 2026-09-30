@@ -1491,87 +1491,87 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Linkin Park — A Place for My Head
-Artist                    : Linkin Park
-Title                     : A Place for My Head
-Album                     : Hybrid Theory (Bonus Edition)
-Spotify URI               : spotify:track:5rAxhWcgFng3s570sGO2F8
-Spotify URL               : https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8
+Track                     : John Coltrane — Blue World
+Artist                    : John Coltrane
+Title                     : Blue World
+Album                     : Blue World
+Spotify URI               : spotify:track:0RHEzMQT9Vw9GvSdVA5TLC
+Spotify URL               : https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-28 19:56:56Z
-Played at (local)         : 2026-09-28 16:56:56 -03
-Local hour                : 16:00
-Daypart                   : AFTERNOON
-Time since play           : 47:31:07
-Gap from previous play    : 00:09:25
+Played at (UTC)           : 2026-09-30 23:52:17Z
+Played at (local)         : 2026-09-30 20:52:17 -03
+Local hour                : 20:00
+Daypart                   : EVENING
+Time since play           : 00:04:38
+Gap from previous play    : 02:32:28
 ------------------------------------------------------------
-Previous song             : Linkin Park — In the End
-Same artist as previous   : YES
+Previous song             : Tomasz Stanko Quartet — Trista
+Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 1
-Artist plays (retained)   : 20
+Track plays (retained)    : 4
+Artist plays (retained)   : 11
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Linkin Park — In the End | 2026-09-28 16:47:31 -03
-Previous track #2         : Linkin Park — By Myself | 2026-09-28 16:43:54 -03
-Previous track #3         : Linkin Park — By Myself | 2026-09-28 16:33:28 -03
-Previous track #4         : Linkin Park — Crawling | 2026-09-28 16:25:44 -03
-Previous track #5         : Linkin Park — Figure.09 | 2026-09-28 16:21:23 -03
-Previous track #6         : Linkin Park — Faint | 2026-09-28 14:22:14 -03
-Previous track #7         : Linkin Park — Easier to Run | 2026-09-28 14:19:32 -03
-Previous track #8         : Linkin Park — Hit the Floor | 2026-09-28 14:16:07 -03
-Previous track #9         : Linkin Park — Lying from You | 2026-09-28 14:13:23 -03
-Previous track #10        : Linkin Park — Somewhere I Belong | 2026-09-28 13:30:21 -03
-Previous track #11        : Linkin Park — Crawling | 2026-09-28 13:26:21 -03
-Previous track #12        : Linkin Park — Waiting For the End - Unshatter Film Soundtrack - Live in São Paulo | 2026-09-28 13:26:21 -03
-Previous track #13        : Linkin Park — Hit the Floor | 2026-09-28 12:31:23 -03
-Previous track #14        : Linkin Park — Lying from You | 2026-09-28 12:28:39 -03
-Previous track #15        : Linkin Park — Don't Stay | 2026-09-27 03:13:24 -03
-Previous track #16        : Godsmack — Keep Away | 2026-09-27 03:11:51 -03
-Previous track #17        : Cold — Happens All the Time - Audio | 2026-09-27 03:11:51 -03
-Previous track #18        : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 23:00:17 -03
-Previous track #19        : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 22:53:49 -03
-Previous track #20        : Audioslave — What You Are | 2026-09-26 22:43:03 -03
-Previous track #21        : Seether — Never Leave | 2026-09-26 22:38:59 -03
-Previous track #22        : Creed — Weathered | 2026-09-26 22:33:50 -03
-Previous track #23        : Chevelle — The Red | 2026-09-26 22:23:53 -03
-Previous track #24        : Staind — Rainy Day Parade | 2026-09-26 22:14:40 -03
-Previous track #25        : Jerry Cantrell — Dickeye | 2026-09-26 22:05:12 -03
-Previous track #26        : Jerry Cantrell — Afterglow | 2026-09-26 21:45:33 -03
-Previous track #27        : Jerry Cantrell — My Song | 2026-09-26 21:36:29 -03
-Previous track #28        : Staind — Here And Now | 2026-09-26 21:30:33 -03
-Previous track #29        : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03
-Previous track #30        : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03
-Previous track #31        : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03
-Previous track #32        : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03
-Previous track #33        : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03
-Previous track #34        : Linkin Park — By Myself | 2026-09-26 19:51:35 -03
-Previous track #35        : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03
-Previous track #36        : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03
-Previous track #37        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03
-Previous track #38        : Silverchair — Tomorrow | 2026-09-26 19:01:31 -03
-Previous track #39        : Silverchair — Israel's Son | 2026-09-26 18:57:05 -03
-Previous track #40        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-26 11:18:05 -03
+Previous track #1         : Tomasz Stanko Quartet — Trista | 2026-09-30 18:19:49 -03
+Previous track #2         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-30 18:15:14 -03
+Previous track #3         : Linkin Park — A Place for My Head | 2026-09-28 16:56:56 -03
+Previous track #4         : Linkin Park — In the End | 2026-09-28 16:47:31 -03
+Previous track #5         : Linkin Park — By Myself | 2026-09-28 16:43:54 -03
+Previous track #6         : Linkin Park — By Myself | 2026-09-28 16:33:28 -03
+Previous track #7         : Linkin Park — Crawling | 2026-09-28 16:25:44 -03
+Previous track #8         : Linkin Park — Figure.09 | 2026-09-28 16:21:23 -03
+Previous track #9         : Linkin Park — Faint | 2026-09-28 14:22:14 -03
+Previous track #10        : Linkin Park — Easier to Run | 2026-09-28 14:19:32 -03
+Previous track #11        : Linkin Park — Hit the Floor | 2026-09-28 14:16:07 -03
+Previous track #12        : Linkin Park — Lying from You | 2026-09-28 14:13:23 -03
+Previous track #13        : Linkin Park — Somewhere I Belong | 2026-09-28 13:30:21 -03
+Previous track #14        : Linkin Park — Crawling | 2026-09-28 13:26:21 -03
+Previous track #15        : Linkin Park — Waiting For the End - Unshatter Film Soundtrack - Live in São Paulo | 2026-09-28 13:26:21 -03
+Previous track #16        : Linkin Park — Hit the Floor | 2026-09-28 12:31:23 -03
+Previous track #17        : Linkin Park — Lying from You | 2026-09-28 12:28:39 -03
+Previous track #18        : Linkin Park — Don't Stay | 2026-09-27 03:13:24 -03
+Previous track #19        : Godsmack — Keep Away | 2026-09-27 03:11:51 -03
+Previous track #20        : Cold — Happens All the Time - Audio | 2026-09-27 03:11:51 -03
+Previous track #21        : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 23:00:17 -03
+Previous track #22        : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 22:53:49 -03
+Previous track #23        : Audioslave — What You Are | 2026-09-26 22:43:03 -03
+Previous track #24        : Seether — Never Leave | 2026-09-26 22:38:59 -03
+Previous track #25        : Creed — Weathered | 2026-09-26 22:33:50 -03
+Previous track #26        : Chevelle — The Red | 2026-09-26 22:23:53 -03
+Previous track #27        : Staind — Rainy Day Parade | 2026-09-26 22:14:40 -03
+Previous track #28        : Jerry Cantrell — Dickeye | 2026-09-26 22:05:12 -03
+Previous track #29        : Jerry Cantrell — Afterglow | 2026-09-26 21:45:33 -03
+Previous track #30        : Jerry Cantrell — My Song | 2026-09-26 21:36:29 -03
+Previous track #31        : Staind — Here And Now | 2026-09-26 21:30:33 -03
+Previous track #32        : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03
+Previous track #33        : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03
+Previous track #34        : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03
+Previous track #35        : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03
+Previous track #36        : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03
+Previous track #37        : Linkin Park — By Myself | 2026-09-26 19:51:35 -03
+Previous track #38        : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03
+Previous track #39        : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03
+Previous track #40        : Silverchair — Pure Massacre | 2026-09-26 19:07:54 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
-Last playlist             : N/A
-Context observed (local)  : 2026-09-26 21:36:29 -03
-Track observed in context : Jerry Cantrell — My Song
-Spotify playlist URI      : spotify:playlist:37i9dQZF1DX9E1mLvTvD1f
-Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f
+Last playlist             : Homeland (TV Series) Jazz Collection
+Context observed (local)  : 2026-09-30 20:52:17 -03
+Track observed in context : John Coltrane — Blue World
+Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
+Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
-Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
-Previous playlist #2      : N/A | 2026-09-25 00:06:20 -03
-Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
-Previous playlist #4      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
-Previous playlist #5      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
-Previous playlist #7      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
-Previous playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
-Previous playlist #9      : N/A | 2026-08-13 14:15:12 -04
+Previous playlist #1      : N/A | 2026-09-26 21:36:29 -03
+Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
+Previous playlist #3      : N/A | 2026-09-25 00:06:20 -03
+Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
+Previous playlist #5      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
+Previous playlist #6      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #8      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
+Previous playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1580,49 +1580,49 @@ Last known device name    : iPhone
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-09-27 00:41:32Z
+Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 59
+Observed events           : 62
 Unique tracks             : 50
 Unique artists            : 24
-Replay ratio              : ███░░░░░░░░░░░░░░░  15.3%
-Artist diversity          : ███████░░░░░░░░░░░  40.7%
+Replay ratio              : ███░░░░░░░░░░░░░░░  19.4%
+Artist diversity          : ███████░░░░░░░░░░░  38.7%
 Dominant artist           : Linkin Park
-Dominant artist share     : █████░░░░░░░░░░░░░  30.5%
-Artist switch ratio       : █████████░░░░░░░░░  50.0%
+Dominant artist share     : █████░░░░░░░░░░░░░  29.0%
+Artist switch ratio       : █████████░░░░░░░░░  52.5%
 Longest artist streak     : Linkin Park × 16
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █████░░░░░░░░░░░░░   27.1%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.7%
-Afternoon  12–18           : █████░░░░░░░░░░░░░   25.4%
-Evening    18–24           : ████████░░░░░░░░░░   45.8%
+Night      00–06           : █████░░░░░░░░░░░░░   25.8%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.6%
+Afternoon  12–18           : ████░░░░░░░░░░░░░░   24.2%
+Evening    18–24           : █████████░░░░░░░░░   48.4%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-24 06:05:25Z
-History last play (7d)    : 2026-09-28 19:56:56Z
-Observed time span        : 109:51:31
-Mean inter-play gap       : 01:53:39
-Median inter-play gap     : 00:06:00
-Longest inactivity gap    : 35:11:45
-Listening intensity       : 0.54 tracks/hour
+History last play (7d)    : 2026-09-30 23:52:17Z
+Observed time span        : 161:46:52
+Mean inter-play gap       : 02:39:08
+Median inter-play gap     : 00:06:04
+Longest inactivity gap    : 49:18:18
+Listening intensity       : 0.38 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 18:00
 Peak hour (7d)            : 03:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              : ▁  █▁      ▁▁▂▂ ▄ ▁▃▁▄▄▄
+Heatmap (24h)             :                   █ ▄   
+Heatmap (7d)              : ▁  █▁      ▁▁▂▂ ▄ ▂▃▂▄▄▄
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▅  ▆ █▁
+Activity (Mon→Sun)        : ▅ ▁▆ █▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :      █    ▄     ▂▁     ▁ ▂ ▁  
 Trend order               : oldest → newest
@@ -1631,7 +1631,7 @@ WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :             ▃▄▅ █       
 Tue                       :                         
-Wed                       :                         
+Wed                       :                   █ ▄   
 Thu                       :    █▂                  ▄
 Fri                       : █                       
 Sat                       :            ▁      ▁▆▂▇█▁
@@ -1640,56 +1640,56 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 3
+Dominant artist           : John Coltrane
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-23 19:28:03Z → 2026-09-30 19:28:03Z
-Tracks played (7d)        : 59
+Week window (UTC)         : 2026-09-23 23:56:54Z → 2026-09-30 23:56:54Z
+Tracks played (7d)        : 62
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 10
-Avg inter-play gap        : 01:53:39
+Sessions (24h)            : 2
+Sessions (7d)             : 12
+Avg inter-play gap        : 02:39:08
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(35) | rap metal(28) | nu metal(27) | rock(21) | post-grunge(18) | grunge(17)
+Top genres (24h)          : free jazz(3) | jazz(3) | ambient jazz(2) | bebop(1) | cool jazz(1) | hard bop(1)
+Top genres (7d)           : alternative metal(35) | rap metal(28) | nu metal(27) | rock(21) | jazz(19) | post-grunge(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
-State transition          : NO CHANGE
-Telemetry interval        : 06:42:05
+Track transition          : Linkin Park — A Place for My Head → John Coltrane — Blue World
+Playback timestamp Δ      : 2026-09-28 19:56:56Z → 2026-09-30 23:52:17Z
+State transition          : IDLE → PLAYING
+Telemetry interval        : 04:28:52
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 388
+Events retained           : 391
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-28 16:56:56 -03
-Events (24h)              : 0
-Events (7d)               : 59
-Events (30d)              : 270
-Playlist contexts retained: 125
+Newest retained event     : 2026-09-30 20:52:17 -03
+Events (24h)              : 3
+Events (7d)               : 62
+Events (30d)              : 273
+Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 204 NO CONTENT
+API response class        : 200 OK
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 204 NO CONTENT
+Player endpoint           : 200 OK
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-30 19:28:03Z
+Report generated (UTC)    : 2026-09-30 23:56:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

@@ -1,8 +1,74 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-09-30 19:28:03Z",
+  "updated_utc": "2026-09-30 23:56:54Z",
   "events": [
+    {
+      "track": "John Coltrane — Blue World",
+      "artist": "John Coltrane",
+      "title": "Blue World",
+      "album": "Blue World",
+      "uri": "spotify:track:0RHEzMQT9Vw9GvSdVA5TLC",
+      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC",
+      "artist_ids": [
+        "2hGh5VOeeqimQFxqXvfCUf"
+      ],
+      "played_at_utc": "2026-09-30 23:52:17Z",
+      "played_at_local": "2026-09-30 20:52:17 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-09-30 21:19:49Z",
+      "played_at_local": "2026-09-30 18:19:49 -03",
+      "local_hour": 18,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-09-30 21:15:14Z",
+      "played_at_local": "2026-09-30 18:15:14 -03",
+      "local_hour": 18,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
     {
       "track": "Linkin Park — A Place for My Head",
       "artist": "Linkin Park",
@@ -7458,6 +7524,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-09-30 23:56:54Z",
+      "is_playing": true,
+      "track": "All Them Witches — Red Rocking Chair",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Smartphone",
+      "device_name": "iPhone",
+      "volume_percent": 100,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-09-27 06:21:35Z",
       "is_playing": false,
