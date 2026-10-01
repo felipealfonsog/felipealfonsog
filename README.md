@@ -1491,69 +1491,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : All Them Witches — Red Rocking Chair
-Artist                    : All Them Witches
-Title                     : Red Rocking Chair
-Album                     : House Of Mirrors
-Spotify URI               : spotify:track:0ah8xqlKZLVN69XJVVONur
-Spotify URL               : https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur
+Track                     : Stone Temple Pilots — Down
+Artist                    : Stone Temple Pilots
+Title                     : Down
+Album                     : No. 4
+Spotify URI               : spotify:track:0Im8piS5MwtQAnpWVla5iw
+Spotify URL               : https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-30 23:59:20Z
-Played at (local)         : 2026-09-30 20:59:20 -03
-Local hour                : 20:00
-Daypart                   : EVENING
-Time since play           : 06:08:38
-Gap from previous play    : 00:07:03
+Played at (UTC)           : 2026-10-01 11:09:01Z
+Played at (local)         : 2026-10-01 08:09:01 -03
+Local hour                : 08:00
+Daypart                   : MORNING
+Time since play           : 02:21:37
+Gap from previous play    : 00:11:59
 ------------------------------------------------------------
-Previous song             : John Coltrane — Blue World
+Previous song             : P.O.D. — Youth of the Nation
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 17
-Artist plays (retained)   : 58
+Track plays (retained)    : 1
+Artist plays (retained)   : 2
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : John Coltrane — Blue World | 2026-09-30 20:52:17 -03
-Previous track #2         : Tomasz Stanko Quartet — Trista | 2026-09-30 18:19:49 -03
-Previous track #3         : Tomasz Stanko Quintet — Terminal 7 | 2026-09-30 18:15:14 -03
-Previous track #4         : Linkin Park — A Place for My Head | 2026-09-28 16:56:56 -03
-Previous track #5         : Linkin Park — In the End | 2026-09-28 16:47:31 -03
-Previous track #6         : Linkin Park — By Myself | 2026-09-28 16:43:54 -03
-Previous track #7         : Linkin Park — By Myself | 2026-09-28 16:33:28 -03
-Previous track #8         : Linkin Park — Crawling | 2026-09-28 16:25:44 -03
-Previous track #9         : Linkin Park — Figure.09 | 2026-09-28 16:21:23 -03
-Previous track #10        : Linkin Park — Faint | 2026-09-28 14:22:14 -03
-Previous track #11        : Linkin Park — Easier to Run | 2026-09-28 14:19:32 -03
-Previous track #12        : Linkin Park — Hit the Floor | 2026-09-28 14:16:07 -03
-Previous track #13        : Linkin Park — Lying from You | 2026-09-28 14:13:23 -03
-Previous track #14        : Linkin Park — Somewhere I Belong | 2026-09-28 13:30:21 -03
-Previous track #15        : Linkin Park — Crawling | 2026-09-28 13:26:21 -03
-Previous track #16        : Linkin Park — Waiting For the End - Unshatter Film Soundtrack - Live in São Paulo | 2026-09-28 13:26:21 -03
-Previous track #17        : Linkin Park — Hit the Floor | 2026-09-28 12:31:23 -03
-Previous track #18        : Linkin Park — Lying from You | 2026-09-28 12:28:39 -03
-Previous track #19        : Linkin Park — Don't Stay | 2026-09-27 03:13:24 -03
-Previous track #20        : Godsmack — Keep Away | 2026-09-27 03:11:51 -03
-Previous track #21        : Cold — Happens All the Time - Audio | 2026-09-27 03:11:51 -03
-Previous track #22        : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 23:00:17 -03
-Previous track #23        : Godsmack — Love-Hate-Sex-Pain | 2026-09-26 22:53:49 -03
-Previous track #24        : Audioslave — What You Are | 2026-09-26 22:43:03 -03
-Previous track #25        : Seether — Never Leave | 2026-09-26 22:38:59 -03
-Previous track #26        : Creed — Weathered | 2026-09-26 22:33:50 -03
-Previous track #27        : Chevelle — The Red | 2026-09-26 22:23:53 -03
-Previous track #28        : Staind — Rainy Day Parade | 2026-09-26 22:14:40 -03
-Previous track #29        : Jerry Cantrell — Dickeye | 2026-09-26 22:05:12 -03
-Previous track #30        : Jerry Cantrell — Afterglow | 2026-09-26 21:45:33 -03
-Previous track #31        : Jerry Cantrell — My Song | 2026-09-26 21:36:29 -03
-Previous track #32        : Staind — Here And Now | 2026-09-26 21:30:33 -03
-Previous track #33        : Staind — It's Been Awhile | 2026-09-26 21:19:59 -03
-Previous track #34        : Stone Temple Pilots — Interstate Love Song - 2019 Remaster | 2026-09-26 21:12:19 -03
-Previous track #35        : Alice In Chains — Would? (2022 Remaster) | 2026-09-26 21:07:15 -03
-Previous track #36        : Soundgarden — Beyond the Wheel | 2026-09-26 20:44:54 -03
-Previous track #37        : The Glitch Mob, Linkin Park — Waiting for the End (The Glitch Mob Remix) | 2026-09-26 20:44:38 -03
-Previous track #38        : Linkin Park — By Myself | 2026-09-26 19:51:35 -03
-Previous track #39        : Linkin Park — Lying from You | 2026-09-26 19:34:46 -03
-Previous track #40        : Silverchair — Israel's Son | 2026-09-26 19:14:50 -03
+Previous track #1         : P.O.D. — Youth of the Nation | 2026-10-01 07:57:02 -03
+Previous track #2         : Incubus — Vitamin | 2026-10-01 07:52:46 -03
+Previous track #3         : Limp Bizkit — Boiler | 2026-10-01 07:49:31 -03
+Previous track #4         : White Zombie — More Human Than Human | 2026-10-01 07:42:30 -03
+Previous track #5         : Seether — Truth | 2026-10-01 07:38:01 -03
+Previous track #6         : Filter — Hey Man, Nice Shot - Remastered Version 2025 | 2026-10-01 07:34:10 -03
+Previous track #7         : Cold — End Of The World | 2026-10-01 07:28:55 -03
+Previous track #8         : TOOL — Undertow | 2026-10-01 07:25:51 -03
+Previous track #9         : Flaw — Out Of Whack | 2026-10-01 07:20:28 -03
+Previous track #10        : Godsmack — Mistakes | 2026-10-01 07:16:39 -03
+Previous track #11        : Mudvayne — Happy? | 2026-10-01 07:10:40 -03
+Previous track #12        : P.O.D. — Satellite | 2026-10-01 07:07:03 -03
+Previous track #13        : Disturbed — Voices | 2026-10-01 07:03:32 -03
+Previous track #14        : Drowning Pool — Tear Away | 2026-10-01 07:00:19 -03
+Previous track #15        : Earshot — Get Away | 2026-10-01 06:56:04 -03
+Previous track #16        : A Perfect Circle — Pet | 2026-10-01 06:51:31 -03
+Previous track #17        : Chevelle — Take Out the Gunman | 2026-10-01 06:46:56 -03
+Previous track #18        : Cold — It's All Good | 2026-10-01 06:42:36 -03
+Previous track #19        : TOOL — Bottom | 2026-10-01 06:38:52 -03
+Previous track #20        : Limp Bizkit — Re-Arranged | 2026-10-01 06:31:38 -03
+Previous track #21        : Godsmack — Greed | 2026-10-01 06:25:42 -03
+Previous track #22        : Godsmack — Serenity | 2026-10-01 06:22:13 -03
+Previous track #23        : Godsmack — The Awakening | 2026-10-01 06:17:37 -03
+Previous track #24        : Godsmack — I Am | 2026-10-01 06:16:07 -03
+Previous track #25        : Godsmack — Dead And Broken | 2026-10-01 06:12:09 -03
+Previous track #26        : Godsmack — Releasing The Demons | 2026-10-01 06:07:57 -03
+Previous track #27        : Godsmack — I Fucking Hate You | 2026-10-01 06:03:44 -03
+Previous track #28        : Godsmack — Re-Align | 2026-10-01 05:59:36 -03
+Previous track #29        : Godsmack — I Stand Alone | 2026-10-01 05:55:15 -03
+Previous track #30        : Godsmack — Make Me Believe | 2026-10-01 05:51:08 -03
+Previous track #31        : Godsmack — Changes | 2026-10-01 05:46:59 -03
+Previous track #32        : Godsmack — Faceless | 2026-10-01 05:42:39 -03
+Previous track #33        : Godsmack — Straight Out Of Line | 2026-10-01 05:39:03 -03
+Previous track #34        : All Them Witches — Red Rocking Chair | 2026-09-30 21:20:37 -03
+Previous track #35        : All Them Witches — Red Rocking Chair | 2026-09-30 20:59:20 -03
+Previous track #36        : John Coltrane — Blue World | 2026-09-30 20:52:17 -03
+Previous track #37        : Tomasz Stanko Quartet — Trista | 2026-09-30 18:19:49 -03
+Previous track #38        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-30 18:15:14 -03
+Previous track #39        : Linkin Park — A Place for My Head | 2026-09-28 16:56:56 -03
+Previous track #40        : Linkin Park — In the End | 2026-09-28 16:47:31 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1584,55 +1584,55 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 62
-Unique tracks             : 51
-Unique artists            : 25
-Replay ratio              : ███░░░░░░░░░░░░░░░  17.7%
-Artist diversity          : ███████░░░░░░░░░░░  40.3%
+Observed events           : 86
+Unique tracks             : 76
+Unique artists            : 31
+Replay ratio              : ██░░░░░░░░░░░░░░░░  11.6%
+Artist diversity          : ██████░░░░░░░░░░░░  36.0%
 Dominant artist           : Linkin Park
-Dominant artist share     : █████░░░░░░░░░░░░░  29.0%
-Artist switch ratio       : █████████░░░░░░░░░  52.5%
+Dominant artist share     : ████░░░░░░░░░░░░░░  20.9%
+Artist switch ratio       : █████████░░░░░░░░░  50.6%
 Longest artist streak     : Linkin Park × 16
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ████░░░░░░░░░░░░░░   24.2%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.6%
-Afternoon  12–18           : ████░░░░░░░░░░░░░░   24.2%
-Evening    18–24           : █████████░░░░░░░░░   50.0%
+Night      00–06           : ██░░░░░░░░░░░░░░░░   11.6%
+Morning    06–12           : ██████░░░░░░░░░░░░   33.7%
+Afternoon  12–18           : ███░░░░░░░░░░░░░░░   17.4%
+Evening    18–24           : ███████░░░░░░░░░░░   37.2%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-24 06:10:01Z
-History last play (7d)    : 2026-09-30 23:59:20Z
-Observed time span        : 161:49:19
-Mean inter-play gap       : 02:39:10
-Median inter-play gap     : 00:06:23
+History first play (7d)   : 2026-09-25 02:36:27Z
+History last play (7d)    : 2026-10-01 11:09:01Z
+Observed time span        : 152:32:34
+Mean inter-play gap       : 01:47:41
+Median inter-play gap     : 00:04:36
 Longest inactivity gap    : 49:18:18
-Listening intensity       : 0.38 tracks/hour
+Listening intensity       : 0.56 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
-Peak hour (7d)            : 03:00
-Heatmap (24h)             :                   █ █   
-Heatmap (7d)              : ▁  █▁      ▁▁▂▃ ▄ ▂▃▃▄▅▄
+Peak hour (24h)           : 07:00
+Peak hour (7d)            : 07:00
+Heatmap (24h)             :      ▃▇█▁         ▁ ▁▁  
+Heatmap (7d)              : ▁  ▂ ▃▇█▁  ▁▁▂▂ ▃ ▂▃▂▄▄▃
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▅ ▁▆ █▁
+Activity (Mon→Sun)        : ▃ ▁█ ▅▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :     █    ▄     ▂▁     ▁ ▂ ▁   
+Activity trend (30d)      :     █    ▄     ▂▁     ▁ ▂ ▁  ▃
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :             ▃▄▅ █       
 Tue                       :                         
-Wed                       :                   █ █   
-Thu                       :    █▂                  ▄
+Wed                       :                   █ █▄  
+Thu                       :      ▃▇█▁              ▃
 Fri                       : █                       
 Sat                       :            ▁      ▁▆▂▇█▁
 Sun                       :    █                    
@@ -1640,46 +1640,46 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : All Them Witches
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 39
+Dominant artist           : Godsmack
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-24 06:07:58Z → 2026-10-01 06:07:58Z
-Tracks played (7d)        : 62
+Week window (UTC)         : 2026-09-24 13:30:37Z → 2026-10-01 13:30:37Z
+Tracks played (7d)        : 86
 Dominant artist           : Linkin Park
-Cadence classification    : HIGH
+Cadence classification    : VERY HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 3
 Sessions (7d)             : 12
-Avg inter-play gap        : 02:39:10
+Avg inter-play gap        : 01:47:41
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : free jazz(3) | jazz(3) | ambient jazz(2) | bebop(1) | blues rock(1) | cool jazz(1)
-Top genres (7d)           : alternative metal(35) | rap metal(28) | nu metal(27) | rock(21) | jazz(18) | post-grunge(18)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(31) | nu metal(28) | rap metal(23) | metal(19) | hard rock(16) | post-grunge(7)
+Top genres (7d)           : alternative metal(66) | nu metal(55) | rap metal(51) | post-grunge(25) | rock(23) | metal(22)
+Artist lookups (this run) : 3 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : John Coltrane — Blue World → All Them Witches — Red Rocking Chair
-Playback timestamp Δ      : 2026-09-30 23:52:17Z → 2026-09-30 23:59:20Z
-State transition          : PLAYING → IDLE
-Telemetry interval        : 06:11:04
+Track transition          : All Them Witches — Red Rocking Chair → Stone Temple Pilots — Down
+Playback timestamp Δ      : 2026-09-30 23:59:20Z → 2026-10-01 11:09:01Z
+State transition          : NO CHANGE
+Telemetry interval        : 07:22:40
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 392
+Events retained           : 427
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-30 20:59:20 -03
-Events (24h)              : 4
-Events (7d)               : 62
-Events (30d)              : 274
+Newest retained event     : 2026-10-01 08:09:01 -03
+Events (24h)              : 39
+Events (7d)               : 86
+Events (30d)              : 309
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-01 06:07:58Z
+Report generated (UTC)    : 2026-10-01 13:30:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

@@ -1,8 +1,638 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-01 06:07:58Z",
+  "updated_utc": "2026-10-01 13:30:37Z",
   "events": [
+    {
+      "track": "Stone Temple Pilots — Down",
+      "artist": "Stone Temple Pilots",
+      "title": "Down",
+      "album": "No. 4",
+      "uri": "spotify:track:0Im8piS5MwtQAnpWVla5iw",
+      "url": "https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw",
+      "artist_ids": [
+        "2UazAtjfzqBF0Nho2awK4z"
+      ],
+      "played_at_utc": "2026-10-01 11:09:01Z",
+      "played_at_local": "2026-10-01 08:09:01 -03",
+      "local_hour": 8,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "P.O.D. — Youth of the Nation",
+      "artist": "P.O.D.",
+      "title": "Youth of the Nation",
+      "album": "Satellite (U.S. Version)",
+      "uri": "spotify:track:0UrWr7Jnu1heq1o99ZwUd0",
+      "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0",
+      "artist_ids": [
+        "6KO6G41BBLTDNYOLefWTMU"
+      ],
+      "played_at_utc": "2026-10-01 10:57:02Z",
+      "played_at_local": "2026-10-01 07:57:02 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Incubus — Vitamin",
+      "artist": "Incubus",
+      "title": "Vitamin",
+      "album": "S.C.I.E.N.C.E.",
+      "uri": "spotify:track:7fceKgGxIE3s6yGZ0vduQa",
+      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa",
+      "artist_ids": [
+        "3YcBF2ttyueytpXtEzn1Za"
+      ],
+      "played_at_utc": "2026-10-01 10:52:46Z",
+      "played_at_local": "2026-10-01 07:52:46 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Limp Bizkit — Boiler",
+      "artist": "Limp Bizkit",
+      "title": "Boiler",
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "uri": "spotify:track:1a3RarhRdrNSTEEERYEFJn",
+      "url": "https://open.spotify.com/track/1a3RarhRdrNSTEEERYEFJn",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-10-01 10:49:31Z",
+      "played_at_local": "2026-10-01 07:49:31 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "White Zombie — More Human Than Human",
+      "artist": "White Zombie",
+      "title": "More Human Than Human",
+      "album": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
+      "uri": "spotify:track:1NbJFhkVdD47YZ2IojKkJi",
+      "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi",
+      "artist_ids": [
+        "0CF71zaDOJWCynIkW9bSK8"
+      ],
+      "played_at_utc": "2026-10-01 10:42:30Z",
+      "played_at_local": "2026-10-01 07:42:30 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Seether — Truth",
+      "artist": "Seether",
+      "title": "Truth",
+      "album": "Karma and Effect",
+      "uri": "spotify:track:5KUUpftdyMnSZNOyO3qydy",
+      "url": "https://open.spotify.com/track/5KUUpftdyMnSZNOyO3qydy",
+      "artist_ids": [
+        "6B5c4sch27tWHAGdarpPaW"
+      ],
+      "played_at_utc": "2026-10-01 10:38:01Z",
+      "played_at_local": "2026-10-01 07:38:01 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Filter — Hey Man, Nice Shot - Remastered Version 2025",
+      "artist": "Filter",
+      "title": "Hey Man, Nice Shot - Remastered Version 2025",
+      "album": "Short Bus",
+      "uri": "spotify:track:1IyHPt3b6BrhdMwNyk0VM0",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0",
+      "artist_ids": [
+        "01WjpKiWVNurV5hjIadB8C"
+      ],
+      "played_at_utc": "2026-10-01 10:34:10Z",
+      "played_at_local": "2026-10-01 07:34:10 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Cold — End Of The World",
+      "artist": "Cold",
+      "title": "End Of The World",
+      "album": "13 Ways To Bleed Onstage",
+      "uri": "spotify:track:3V1A0qjTAKgLtN1LPfU2WK",
+      "url": "https://open.spotify.com/track/3V1A0qjTAKgLtN1LPfU2WK",
+      "artist_ids": [
+        "0Gw3a3BkWLwsMLFbOBmo6Q"
+      ],
+      "played_at_utc": "2026-10-01 10:28:55Z",
+      "played_at_local": "2026-10-01 07:28:55 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "TOOL — Undertow",
+      "artist": "TOOL",
+      "title": "Undertow",
+      "album": "Undertow",
+      "uri": "spotify:track:4Wvnm0J3Zz9cmMdEMMghGA",
+      "url": "https://open.spotify.com/track/4Wvnm0J3Zz9cmMdEMMghGA",
+      "artist_ids": [
+        "2yEwvVSSSUkcLeSTNyHKh8"
+      ],
+      "played_at_utc": "2026-10-01 10:25:51Z",
+      "played_at_local": "2026-10-01 07:25:51 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Flaw — Out Of Whack",
+      "artist": "Flaw",
+      "title": "Out Of Whack",
+      "album": "Through The Eyes",
+      "uri": "spotify:track:58pG0TOcIZDMMUNHKi24Gr",
+      "url": "https://open.spotify.com/track/58pG0TOcIZDMMUNHKi24Gr",
+      "artist_ids": [
+        "4hFScNSgSkApFw193xlyH7"
+      ],
+      "played_at_utc": "2026-10-01 10:20:28Z",
+      "played_at_local": "2026-10-01 07:20:28 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Mistakes",
+      "artist": "Godsmack",
+      "title": "Mistakes",
+      "album": "Awake",
+      "uri": "spotify:track:3vCPApd77OpyntH17SFh6H",
+      "url": "https://open.spotify.com/track/3vCPApd77OpyntH17SFh6H",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 10:16:39Z",
+      "played_at_local": "2026-10-01 07:16:39 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Mudvayne — Happy?",
+      "artist": "Mudvayne",
+      "title": "Happy?",
+      "album": "Lost and Found",
+      "uri": "spotify:track:0INUE1K7cEiE8VH63Rv5RJ",
+      "url": "https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ",
+      "artist_ids": [
+        "2Pfv2w8a20xzC7Dr7QXRqM"
+      ],
+      "played_at_utc": "2026-10-01 10:10:40Z",
+      "played_at_local": "2026-10-01 07:10:40 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "P.O.D. — Satellite",
+      "artist": "P.O.D.",
+      "title": "Satellite",
+      "album": "Satellite (U.S. Version)",
+      "uri": "spotify:track:3zAIrDlrGJ5cwBHMR1YaLl",
+      "url": "https://open.spotify.com/track/3zAIrDlrGJ5cwBHMR1YaLl",
+      "artist_ids": [
+        "6KO6G41BBLTDNYOLefWTMU"
+      ],
+      "played_at_utc": "2026-10-01 10:07:03Z",
+      "played_at_local": "2026-10-01 07:07:03 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Disturbed — Voices",
+      "artist": "Disturbed",
+      "title": "Voices",
+      "album": "The Sickness",
+      "uri": "spotify:track:1jPgyViNE7djYSr1xEPlPJ",
+      "url": "https://open.spotify.com/track/1jPgyViNE7djYSr1xEPlPJ",
+      "artist_ids": [
+        "3TOqt5oJwL9BE2NG9MEwDa"
+      ],
+      "played_at_utc": "2026-10-01 10:03:32Z",
+      "played_at_local": "2026-10-01 07:03:32 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Drowning Pool — Tear Away",
+      "artist": "Drowning Pool",
+      "title": "Tear Away",
+      "album": "Sinner",
+      "uri": "spotify:track:3ENHpbTuY72FukZbwGP6bc",
+      "url": "https://open.spotify.com/track/3ENHpbTuY72FukZbwGP6bc",
+      "artist_ids": [
+        "1E4r4z7ivGUcSAnCbINJ9v"
+      ],
+      "played_at_utc": "2026-10-01 10:00:19Z",
+      "played_at_local": "2026-10-01 07:00:19 -03",
+      "local_hour": 7,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Earshot — Get Away",
+      "artist": "Earshot",
+      "title": "Get Away",
+      "album": "Letting Go (U.S. Version)",
+      "uri": "spotify:track:0jPVRBr2r1q5EzHhT1313i",
+      "url": "https://open.spotify.com/track/0jPVRBr2r1q5EzHhT1313i",
+      "artist_ids": [
+        "6eeYhqOX2cpsiHY6gVuvPA"
+      ],
+      "played_at_utc": "2026-10-01 09:56:04Z",
+      "played_at_local": "2026-10-01 06:56:04 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "A Perfect Circle — Pet",
+      "artist": "A Perfect Circle",
+      "title": "Pet",
+      "album": "Thirteenth Step",
+      "uri": "spotify:track:27msmgcdSRniJHfocEf6EH",
+      "url": "https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH",
+      "artist_ids": [
+        "4DFhHyjvGYa9wxdHUjtDkc"
+      ],
+      "played_at_utc": "2026-10-01 09:51:31Z",
+      "played_at_local": "2026-10-01 06:51:31 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Chevelle — Take Out the Gunman",
+      "artist": "Chevelle",
+      "title": "Take Out the Gunman",
+      "album": "La Gárgola",
+      "uri": "spotify:track:5I1ueVGJA6VZRkgkMyiHcP",
+      "url": "https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-10-01 09:46:56Z",
+      "played_at_local": "2026-10-01 06:46:56 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Cold — It's All Good",
+      "artist": "Cold",
+      "title": "It's All Good",
+      "album": "13 Ways To Bleed Onstage",
+      "uri": "spotify:track:6nFjJxM9ivJd27juSyD6xT",
+      "url": "https://open.spotify.com/track/6nFjJxM9ivJd27juSyD6xT",
+      "artist_ids": [
+        "0Gw3a3BkWLwsMLFbOBmo6Q"
+      ],
+      "played_at_utc": "2026-10-01 09:42:36Z",
+      "played_at_local": "2026-10-01 06:42:36 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "TOOL — Bottom",
+      "artist": "TOOL",
+      "title": "Bottom",
+      "album": "Undertow",
+      "uri": "spotify:track:46XOHK5QfCC83yg5SOGjZk",
+      "url": "https://open.spotify.com/track/46XOHK5QfCC83yg5SOGjZk",
+      "artist_ids": [
+        "2yEwvVSSSUkcLeSTNyHKh8"
+      ],
+      "played_at_utc": "2026-10-01 09:38:52Z",
+      "played_at_local": "2026-10-01 06:38:52 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Limp Bizkit — Re-Arranged",
+      "artist": "Limp Bizkit",
+      "title": "Re-Arranged",
+      "album": "Significant Other",
+      "uri": "spotify:track:6IPJ7LeWIOhxPW8Sq3nIGc",
+      "url": "https://open.spotify.com/track/6IPJ7LeWIOhxPW8Sq3nIGc",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-10-01 09:31:38Z",
+      "played_at_local": "2026-10-01 06:31:38 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Greed",
+      "artist": "Godsmack",
+      "title": "Greed",
+      "album": "Awake",
+      "uri": "spotify:track:32R46DFcMtaNrSnfrmeWnD",
+      "url": "https://open.spotify.com/track/32R46DFcMtaNrSnfrmeWnD",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 09:25:42Z",
+      "played_at_local": "2026-10-01 06:25:42 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Serenity",
+      "artist": "Godsmack",
+      "title": "Serenity",
+      "album": "Faceless",
+      "uri": "spotify:track:4VfixngmGHhClfpfSr6tw9",
+      "url": "https://open.spotify.com/track/4VfixngmGHhClfpfSr6tw9",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 09:22:13Z",
+      "played_at_local": "2026-10-01 06:22:13 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — The Awakening",
+      "artist": "Godsmack",
+      "title": "The Awakening",
+      "album": "Faceless",
+      "uri": "spotify:track:2TCxneurUYp1tOnGGWbg1i",
+      "url": "https://open.spotify.com/track/2TCxneurUYp1tOnGGWbg1i",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 09:17:37Z",
+      "played_at_local": "2026-10-01 06:17:37 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — I Am",
+      "artist": "Godsmack",
+      "title": "I Am",
+      "album": "Faceless",
+      "uri": "spotify:track:72m1yQR3vB5If20JrsOHic",
+      "url": "https://open.spotify.com/track/72m1yQR3vB5If20JrsOHic",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 09:16:07Z",
+      "played_at_local": "2026-10-01 06:16:07 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Dead And Broken",
+      "artist": "Godsmack",
+      "title": "Dead And Broken",
+      "album": "Faceless",
+      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
+      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 09:12:09Z",
+      "played_at_local": "2026-10-01 06:12:09 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Releasing The Demons",
+      "artist": "Godsmack",
+      "title": "Releasing The Demons",
+      "album": "Faceless",
+      "uri": "spotify:track:5HO1XfEtiyff0mlWdK3NJR",
+      "url": "https://open.spotify.com/track/5HO1XfEtiyff0mlWdK3NJR",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 09:07:57Z",
+      "played_at_local": "2026-10-01 06:07:57 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — I Fucking Hate You",
+      "artist": "Godsmack",
+      "title": "I Fucking Hate You",
+      "album": "Faceless",
+      "uri": "spotify:track:2Uilp8alSjAxV0IXorUk9l",
+      "url": "https://open.spotify.com/track/2Uilp8alSjAxV0IXorUk9l",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 09:03:44Z",
+      "played_at_local": "2026-10-01 06:03:44 -03",
+      "local_hour": 6,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Re-Align",
+      "artist": "Godsmack",
+      "title": "Re-Align",
+      "album": "Faceless",
+      "uri": "spotify:track:5QxSNwBnEmCOUyos3iMjmd",
+      "url": "https://open.spotify.com/track/5QxSNwBnEmCOUyos3iMjmd",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 08:59:36Z",
+      "played_at_local": "2026-10-01 05:59:36 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — I Stand Alone",
+      "artist": "Godsmack",
+      "title": "I Stand Alone",
+      "album": "Faceless",
+      "uri": "spotify:track:6eYUbXmncekAKMYZcsSkyD",
+      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 08:55:15Z",
+      "played_at_local": "2026-10-01 05:55:15 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Make Me Believe",
+      "artist": "Godsmack",
+      "title": "Make Me Believe",
+      "album": "Faceless",
+      "uri": "spotify:track:5boASBhBqRFYdD7V4VqfpQ",
+      "url": "https://open.spotify.com/track/5boASBhBqRFYdD7V4VqfpQ",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 08:51:08Z",
+      "played_at_local": "2026-10-01 05:51:08 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Changes",
+      "artist": "Godsmack",
+      "title": "Changes",
+      "album": "Faceless",
+      "uri": "spotify:track:1j2lEXaRNr4mh1RqbQxueX",
+      "url": "https://open.spotify.com/track/1j2lEXaRNr4mh1RqbQxueX",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 08:46:59Z",
+      "played_at_local": "2026-10-01 05:46:59 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Faceless",
+      "artist": "Godsmack",
+      "title": "Faceless",
+      "album": "Faceless",
+      "uri": "spotify:track:2ZZq3rtDGHa6SAjIjF0a9Y",
+      "url": "https://open.spotify.com/track/2ZZq3rtDGHa6SAjIjF0a9Y",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 08:42:39Z",
+      "played_at_local": "2026-10-01 05:42:39 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Straight Out Of Line",
+      "artist": "Godsmack",
+      "title": "Straight Out Of Line",
+      "album": "Faceless",
+      "uri": "spotify:track:0bKZa2zldftYPRrSRscmG2",
+      "url": "https://open.spotify.com/track/0bKZa2zldftYPRrSRscmG2",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-01 08:39:03Z",
+      "played_at_local": "2026-10-01 05:39:03 -03",
+      "local_hour": 5,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "All Them Witches — Red Rocking Chair",
+      "artist": "All Them Witches",
+      "title": "Red Rocking Chair",
+      "album": "House Of Mirrors",
+      "uri": "spotify:track:0ah8xqlKZLVN69XJVVONur",
+      "url": "https://open.spotify.com/track/0ah8xqlKZLVN69XJVVONur",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-10-01 00:20:37Z",
+      "played_at_local": "2026-09-30 21:20:37 -03",
+      "local_hour": 21,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:7nx99MpXigxaFbx5fRpbdi",
+      "context_url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+    },
     {
       "track": "All Them Witches — Red Rocking Chair",
       "artist": "All Them Witches",
