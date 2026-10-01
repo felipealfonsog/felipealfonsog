@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-01 11:09:01Z
 Played at (local)         : 2026-10-01 08:09:01 -03
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 02:21:37
+Time since play           : 08:27:53
 Gap from previous play    : 00:11:59
 ------------------------------------------------------------
 Previous song             : P.O.D. — Youth of the Nation
@@ -1647,7 +1647,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-24 13:30:37Z → 2026-10-01 13:30:37Z
+Week window (UTC)         : 2026-09-24 19:36:54Z → 2026-10-01 19:36:54Z
 Tracks played (7d)        : 86
 Dominant artist           : Linkin Park
 Cadence classification    : VERY HIGH
@@ -1663,14 +1663,14 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(31) | nu metal(28) | rap metal(23) | metal(19) | hard rock(16) | post-grunge(7)
 Top genres (7d)           : alternative metal(66) | nu metal(55) | rap metal(51) | post-grunge(25) | rock(23) | metal(22)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : All Them Witches — Red Rocking Chair → Stone Temple Pilots — Down
-Playback timestamp Δ      : 2026-09-30 23:59:20Z → 2026-10-01 11:09:01Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:22:40
+Telemetry interval        : 06:06:17
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-01 13:30:37Z
+Report generated (UTC)    : 2026-10-01 19:36:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
