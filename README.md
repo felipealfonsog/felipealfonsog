@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-01 11:09:01Z
 Played at (local)         : 2026-10-01 08:09:01 -03
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 08:27:53
+Time since play           : 12:48:04
 Gap from previous play    : 00:11:59
 ------------------------------------------------------------
 Previous song             : P.O.D. — Youth of the Nation
@@ -1617,7 +1617,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :      ▃▇█▁         ▁ ▁▁  
+Heatmap (24h)             :      ▃▇█▁           ▁▁  
 Heatmap (7d)              : ▁  ▂ ▃▇█▁  ▁▁▂▂ ▃ ▂▃▂▄▄▃
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1640,14 +1640,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 39
+Tracks played (last 24h)  : 36
 Dominant artist           : Godsmack
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-24 19:36:54Z → 2026-10-01 19:36:54Z
+Week window (UTC)         : 2026-09-24 23:57:04Z → 2026-10-01 23:57:04Z
 Tracks played (7d)        : 86
 Dominant artist           : Linkin Park
 Cadence classification    : VERY HIGH
@@ -1655,7 +1655,7 @@ Cadence classification    : VERY HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 12
 Avg inter-play gap        : 01:47:41
 ------------------------------------------------------------
@@ -1670,14 +1670,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:06:17
+Telemetry interval        : 04:20:11
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 427
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-01 08:09:01 -03
-Events (24h)              : 39
+Events (24h)              : 36
 Events (7d)               : 86
 Events (30d)              : 309
 Playlist contexts retained: 128
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-01 19:36:54Z
+Report generated (UTC)    : 2026-10-01 23:57:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
