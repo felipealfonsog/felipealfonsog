@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-01 11:09:01Z
 Played at (local)         : 2026-10-01 08:09:01 -03
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 12:48:04
+Time since play           : 18:42:18
 Gap from previous play    : 00:11:59
 ------------------------------------------------------------
 Previous song             : P.O.D. — Youth of the Nation
@@ -1584,47 +1584,47 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 86
-Unique tracks             : 76
-Unique artists            : 31
-Replay ratio              : ██░░░░░░░░░░░░░░░░  11.6%
-Artist diversity          : ██████░░░░░░░░░░░░  36.0%
+Observed events           : 80
+Unique tracks             : 70
+Unique artists            : 30
+Replay ratio              : ██░░░░░░░░░░░░░░░░  12.5%
+Artist diversity          : ███████░░░░░░░░░░░  37.5%
 Dominant artist           : Linkin Park
-Dominant artist share     : ████░░░░░░░░░░░░░░  20.9%
-Artist switch ratio       : █████████░░░░░░░░░  50.6%
+Dominant artist share     : ████░░░░░░░░░░░░░░  22.5%
+Artist switch ratio       : ██████████░░░░░░░░  53.2%
 Longest artist streak     : Linkin Park × 16
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██░░░░░░░░░░░░░░░░   11.6%
-Morning    06–12           : ██████░░░░░░░░░░░░   33.7%
-Afternoon  12–18           : ███░░░░░░░░░░░░░░░   17.4%
-Evening    18–24           : ███████░░░░░░░░░░░   37.2%
-Dominant period           : EVENING
+Night      00–06           : ██░░░░░░░░░░░░░░░░   11.2%
+Morning    06–12           : ███████░░░░░░░░░░░   36.2%
+Afternoon  12–18           : ███░░░░░░░░░░░░░░░   18.8%
+Evening    18–24           : ██████░░░░░░░░░░░░   33.8%
+Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-25 02:36:27Z
+History first play (7d)   : 2026-09-26 14:18:05Z
 History last play (7d)    : 2026-10-01 11:09:01Z
-Observed time span        : 152:32:34
-Mean inter-play gap       : 01:47:41
+Observed time span        : 116:50:56
+Mean inter-play gap       : 01:28:45
 Median inter-play gap     : 00:04:36
 Longest inactivity gap    : 49:18:18
-Listening intensity       : 0.56 tracks/hour
+Listening intensity       : 0.68 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :      ▃▇█▁           ▁▁  
-Heatmap (7d)              : ▁  ▂ ▃▇█▁  ▁▁▂▂ ▃ ▂▃▂▄▄▃
+Heatmap (24h)             :      ▃▇█▁               
+Heatmap (7d)              :    ▂ ▃▇█▁  ▁▁▂▂ ▃ ▂▃▂▄▄▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▃ ▁█ ▅▁
+Activity (Mon→Sun)        : ▄ ▁█ ▅▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :     █    ▄     ▂▁     ▁ ▂ ▁  ▃
+Activity trend (30d)      :    █    ▄     ▂▁     ▁ ▂ ▁  ▃ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1632,37 +1632,37 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :             ▃▄▅ █       
 Tue                       :                         
 Wed                       :                   █ █▄  
-Thu                       :      ▃▇█▁              ▃
-Fri                       : █                       
+Thu                       :      ▃▇█▁               
+Fri                       :                         
 Sat                       :            ▁      ▁▆▂▇█▁
 Sun                       :    █                    
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 36
+Tracks played (last 24h)  : 34
 Dominant artist           : Godsmack
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-24 23:57:04Z → 2026-10-01 23:57:04Z
-Tracks played (7d)        : 86
+Week window (UTC)         : 2026-09-25 05:51:19Z → 2026-10-02 05:51:19Z
+Tracks played (7d)        : 80
 Dominant artist           : Linkin Park
 Cadence classification    : VERY HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 12
-Avg inter-play gap        : 01:47:41
+Sessions (24h)            : 1
+Sessions (7d)             : 11
+Avg inter-play gap        : 01:28:45
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative metal(31) | nu metal(28) | rap metal(23) | metal(19) | hard rock(16) | post-grunge(7)
-Top genres (7d)           : alternative metal(66) | nu metal(55) | rap metal(51) | post-grunge(25) | rock(23) | metal(22)
+Top genres (7d)           : alternative metal(60) | nu metal(55) | rap metal(45) | post-grunge(25) | rock(23) | metal(22)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1670,15 +1670,15 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:20:11
+Telemetry interval        : 05:54:15
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 427
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-01 08:09:01 -03
-Events (24h)              : 36
-Events (7d)               : 86
+Events (24h)              : 34
+Events (7d)               : 80
 Events (30d)              : 309
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-01 23:57:04Z
+Report generated (UTC)    : 2026-10-02 05:51:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
