@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-01 11:09:01Z
 Played at (local)         : 2026-10-01 08:09:01 -03
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 18:42:18
+Time since play           : 25:40:18
 Gap from previous play    : 00:11:59
 ------------------------------------------------------------
 Previous song             : P.O.D. — Youth of the Nation
@@ -1615,9 +1615,9 @@ Listening intensity       : 0.68 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :      ▃▇█▁               
+Heatmap (24h)             : N/A
 Heatmap (7d)              :    ▂ ▃▇█▁  ▁▁▂▂ ▃ ▂▃▂▄▄▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1640,14 +1640,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 34
-Dominant artist           : Godsmack
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-25 05:51:19Z → 2026-10-02 05:51:19Z
+Week window (UTC)         : 2026-09-25 12:49:19Z → 2026-10-02 12:49:19Z
 Tracks played (7d)        : 80
 Dominant artist           : Linkin Park
 Cadence classification    : VERY HIGH
@@ -1655,13 +1655,13 @@ Cadence classification    : VERY HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 11
 Avg inter-play gap        : 01:28:45
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(31) | nu metal(28) | rap metal(23) | metal(19) | hard rock(16) | post-grunge(7)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(60) | nu metal(55) | rap metal(45) | post-grunge(25) | rock(23) | metal(22)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1670,16 +1670,16 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:54:15
+Telemetry interval        : 06:58:00
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 427
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-01 08:09:01 -03
-Events (24h)              : 34
+Events (24h)              : 0
 Events (7d)               : 80
-Events (30d)              : 309
+Events (30d)              : 307
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-02 05:51:19Z
+Report generated (UTC)    : 2026-10-02 12:49:19Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
