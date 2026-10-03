@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-01 11:09:01Z
 Played at (local)         : 2026-10-01 08:09:01 -03
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 36:42:12
+Time since play           : 42:18:09
 Gap from previous play    : 00:11:59
 ------------------------------------------------------------
 Previous song             : P.O.D. — Youth of the Nation
@@ -1624,7 +1624,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▄ ▁█ ▅▁
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :    █    ▄     ▂▁     ▁ ▂ ▁  ▃ 
+Activity trend (30d)      :   █    ▄     ▂▁     ▁ ▂ ▁  ▃  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-25 23:51:13Z → 2026-10-02 23:51:13Z
+Week window (UTC)         : 2026-09-26 05:27:09Z → 2026-10-03 05:27:09Z
 Tracks played (7d)        : 80
 Dominant artist           : Linkin Park
 Cadence classification    : VERY HIGH
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:27:25
+Telemetry interval        : 05:35:57
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-02 23:51:13Z
+Report generated (UTC)    : 2026-10-03 05:27:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
