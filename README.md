@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-01 11:09:01Z
 Played at (local)         : 2026-10-01 08:09:01 -03
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 80:33:02
+Time since play           : 84:08:21
 Gap from previous play    : 00:11:59
 ------------------------------------------------------------
 Previous song             : P.O.D. — Youth of the Nation
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-27 19:42:03Z → 2026-10-04 19:42:03Z
+Week window (UTC)         : 2026-09-27 23:17:21Z → 2026-10-04 23:17:21Z
 Tracks played (7d)        : 54
 Dominant artist           : Linkin Park
 Cadence classification    : HIGH
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:16:45
+Telemetry interval        : 03:35:19
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-04 19:42:03Z
+Report generated (UTC)    : 2026-10-04 23:17:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
