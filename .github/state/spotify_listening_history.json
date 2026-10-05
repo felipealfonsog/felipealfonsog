@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-05 05:52:39Z",
+  "updated_utc": "2026-10-05 14:56:15Z",
   "events": [
+    {
+      "track": "Godsmack — I Stand Alone",
+      "artist": "Godsmack",
+      "title": "I Stand Alone",
+      "album": "Faceless",
+      "uri": "spotify:track:6eYUbXmncekAKMYZcsSkyD",
+      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-05 12:03:04Z",
+      "played_at_local": "2026-10-05 09:03:04 -03",
+      "local_hour": 9,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
     {
       "track": "Stone Temple Pilots — Down",
       "artist": "Stone Temple Pilots",
