@@ -3016,14 +3016,16 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 COBOL  •  ⭐ 2
 - [EventSphere](https://github.com/openvelora/EventSphere): Standard Web application for managing social events of all kind.
   🧬 JavaScript · Pug · CSS  •  ⭐ 2
+- [Petsy](https://github.com/felipealfonsog/Petsy): An iOS app to help 370,000 pets find new homes.
+  🧬 Swift · Ruby  •  ⭐ 1
 - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
   🧬 Shell · C · Makefile  •  ⭐ 1
 - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
   🧬 Shell · Python  •  ⭐ 1
-- [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
-  🧬 Python  •  ⭐ 1
 
 ### 🧠 Curated Project Collection
+- [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
+  🧬 Python  •  ⭐ 1
 - [Restockify](https://github.com/openvelora/Restockify): Restockify+ is a feature-rich ReST API for NodeJS and MongoDB. Simplify inventory management and streamline stock tracking with ease.
   🧬 JavaScript · CSS · HTML  •  ⭐ 1
 - [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
