@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-05 22:44:49Z",
+  "updated_utc": "2026-10-06 06:31:22Z",
   "events": [
+    {
+      "track": "Godsmack — I Fucking Hate You",
+      "artist": "Godsmack",
+      "title": "I Fucking Hate You",
+      "album": "Faceless",
+      "uri": "spotify:track:2Uilp8alSjAxV0IXorUk9l",
+      "url": "https://open.spotify.com/track/2Uilp8alSjAxV0IXorUk9l",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-06 01:44:38Z",
+      "played_at_local": "2026-10-05 22:44:38 -03",
+      "local_hour": 22,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
     {
       "track": "Godsmack — I Stand Alone",
       "artist": "Godsmack",

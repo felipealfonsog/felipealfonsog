@@ -1491,69 +1491,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Godsmack — I Stand Alone
+Track                     : Godsmack — I Fucking Hate You
 Artist                    : Godsmack
-Title                     : I Stand Alone
+Title                     : I Fucking Hate You
 Album                     : Faceless
-Spotify URI               : spotify:track:6eYUbXmncekAKMYZcsSkyD
-Spotify URL               : https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD
+Spotify URI               : spotify:track:2Uilp8alSjAxV0IXorUk9l
+Spotify URL               : https://open.spotify.com/track/2Uilp8alSjAxV0IXorUk9l
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-05 12:03:04Z
-Played at (local)         : 2026-10-05 09:03:04 -03
-Local hour                : 09:00
-Daypart                   : MORNING
-Time since play           : 10:41:46
-Gap from previous play    : 96:54:03
+Played at (UTC)           : 2026-10-06 01:44:38Z
+Played at (local)         : 2026-10-05 22:44:38 -03
+Local hour                : 22:00
+Daypart                   : EVENING
+Time since play           : 04:46:44
+Gap from previous play    : 13:41:34
 ------------------------------------------------------------
-Previous song             : Stone Temple Pilots — Down
-Same artist as previous   : NO
+Previous song             : Godsmack — I Stand Alone
+Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 2
-Artist plays (retained)   : 18
+Artist plays (retained)   : 19
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Stone Temple Pilots — Down | 2026-10-01 08:09:01 -03
-Previous track #2         : P.O.D. — Youth of the Nation | 2026-10-01 07:57:02 -03
-Previous track #3         : Incubus — Vitamin | 2026-10-01 07:52:46 -03
-Previous track #4         : Limp Bizkit — Boiler | 2026-10-01 07:49:31 -03
-Previous track #5         : White Zombie — More Human Than Human | 2026-10-01 07:42:30 -03
-Previous track #6         : Seether — Truth | 2026-10-01 07:38:01 -03
-Previous track #7         : Filter — Hey Man, Nice Shot - Remastered Version 2025 | 2026-10-01 07:34:10 -03
-Previous track #8         : Cold — End Of The World | 2026-10-01 07:28:55 -03
-Previous track #9         : TOOL — Undertow | 2026-10-01 07:25:51 -03
-Previous track #10        : Flaw — Out Of Whack | 2026-10-01 07:20:28 -03
-Previous track #11        : Godsmack — Mistakes | 2026-10-01 07:16:39 -03
-Previous track #12        : Mudvayne — Happy? | 2026-10-01 07:10:40 -03
-Previous track #13        : P.O.D. — Satellite | 2026-10-01 07:07:03 -03
-Previous track #14        : Disturbed — Voices | 2026-10-01 07:03:32 -03
-Previous track #15        : Drowning Pool — Tear Away | 2026-10-01 07:00:19 -03
-Previous track #16        : Earshot — Get Away | 2026-10-01 06:56:04 -03
-Previous track #17        : A Perfect Circle — Pet | 2026-10-01 06:51:31 -03
-Previous track #18        : Chevelle — Take Out the Gunman | 2026-10-01 06:46:56 -03
-Previous track #19        : Cold — It's All Good | 2026-10-01 06:42:36 -03
-Previous track #20        : TOOL — Bottom | 2026-10-01 06:38:52 -03
-Previous track #21        : Limp Bizkit — Re-Arranged | 2026-10-01 06:31:38 -03
-Previous track #22        : Godsmack — Greed | 2026-10-01 06:25:42 -03
-Previous track #23        : Godsmack — Serenity | 2026-10-01 06:22:13 -03
-Previous track #24        : Godsmack — The Awakening | 2026-10-01 06:17:37 -03
-Previous track #25        : Godsmack — I Am | 2026-10-01 06:16:07 -03
-Previous track #26        : Godsmack — Dead And Broken | 2026-10-01 06:12:09 -03
-Previous track #27        : Godsmack — Releasing The Demons | 2026-10-01 06:07:57 -03
-Previous track #28        : Godsmack — I Fucking Hate You | 2026-10-01 06:03:44 -03
-Previous track #29        : Godsmack — Re-Align | 2026-10-01 05:59:36 -03
-Previous track #30        : Godsmack — I Stand Alone | 2026-10-01 05:55:15 -03
-Previous track #31        : Godsmack — Make Me Believe | 2026-10-01 05:51:08 -03
-Previous track #32        : Godsmack — Changes | 2026-10-01 05:46:59 -03
-Previous track #33        : Godsmack — Faceless | 2026-10-01 05:42:39 -03
-Previous track #34        : Godsmack — Straight Out Of Line | 2026-10-01 05:39:03 -03
-Previous track #35        : All Them Witches — Red Rocking Chair | 2026-09-30 21:20:37 -03
-Previous track #36        : All Them Witches — Red Rocking Chair | 2026-09-30 20:59:20 -03
-Previous track #37        : John Coltrane — Blue World | 2026-09-30 20:52:17 -03
-Previous track #38        : Tomasz Stanko Quartet — Trista | 2026-09-30 18:19:49 -03
-Previous track #39        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-30 18:15:14 -03
-Previous track #40        : Linkin Park — A Place for My Head | 2026-09-28 16:56:56 -03
+Previous track #1         : Godsmack — I Stand Alone | 2026-10-05 09:03:04 -03
+Previous track #2         : Stone Temple Pilots — Down | 2026-10-01 08:09:01 -03
+Previous track #3         : P.O.D. — Youth of the Nation | 2026-10-01 07:57:02 -03
+Previous track #4         : Incubus — Vitamin | 2026-10-01 07:52:46 -03
+Previous track #5         : Limp Bizkit — Boiler | 2026-10-01 07:49:31 -03
+Previous track #6         : White Zombie — More Human Than Human | 2026-10-01 07:42:30 -03
+Previous track #7         : Seether — Truth | 2026-10-01 07:38:01 -03
+Previous track #8         : Filter — Hey Man, Nice Shot - Remastered Version 2025 | 2026-10-01 07:34:10 -03
+Previous track #9         : Cold — End Of The World | 2026-10-01 07:28:55 -03
+Previous track #10        : TOOL — Undertow | 2026-10-01 07:25:51 -03
+Previous track #11        : Flaw — Out Of Whack | 2026-10-01 07:20:28 -03
+Previous track #12        : Godsmack — Mistakes | 2026-10-01 07:16:39 -03
+Previous track #13        : Mudvayne — Happy? | 2026-10-01 07:10:40 -03
+Previous track #14        : P.O.D. — Satellite | 2026-10-01 07:07:03 -03
+Previous track #15        : Disturbed — Voices | 2026-10-01 07:03:32 -03
+Previous track #16        : Drowning Pool — Tear Away | 2026-10-01 07:00:19 -03
+Previous track #17        : Earshot — Get Away | 2026-10-01 06:56:04 -03
+Previous track #18        : A Perfect Circle — Pet | 2026-10-01 06:51:31 -03
+Previous track #19        : Chevelle — Take Out the Gunman | 2026-10-01 06:46:56 -03
+Previous track #20        : Cold — It's All Good | 2026-10-01 06:42:36 -03
+Previous track #21        : TOOL — Bottom | 2026-10-01 06:38:52 -03
+Previous track #22        : Limp Bizkit — Re-Arranged | 2026-10-01 06:31:38 -03
+Previous track #23        : Godsmack — Greed | 2026-10-01 06:25:42 -03
+Previous track #24        : Godsmack — Serenity | 2026-10-01 06:22:13 -03
+Previous track #25        : Godsmack — The Awakening | 2026-10-01 06:17:37 -03
+Previous track #26        : Godsmack — I Am | 2026-10-01 06:16:07 -03
+Previous track #27        : Godsmack — Dead And Broken | 2026-10-01 06:12:09 -03
+Previous track #28        : Godsmack — Releasing The Demons | 2026-10-01 06:07:57 -03
+Previous track #29        : Godsmack — I Fucking Hate You | 2026-10-01 06:03:44 -03
+Previous track #30        : Godsmack — Re-Align | 2026-10-01 05:59:36 -03
+Previous track #31        : Godsmack — I Stand Alone | 2026-10-01 05:55:15 -03
+Previous track #32        : Godsmack — Make Me Believe | 2026-10-01 05:51:08 -03
+Previous track #33        : Godsmack — Changes | 2026-10-01 05:46:59 -03
+Previous track #34        : Godsmack — Faceless | 2026-10-01 05:42:39 -03
+Previous track #35        : Godsmack — Straight Out Of Line | 2026-10-01 05:39:03 -03
+Previous track #36        : All Them Witches — Red Rocking Chair | 2026-09-30 21:20:37 -03
+Previous track #37        : All Them Witches — Red Rocking Chair | 2026-09-30 20:59:20 -03
+Previous track #38        : John Coltrane — Blue World | 2026-09-30 20:52:17 -03
+Previous track #39        : Tomasz Stanko Quartet — Trista | 2026-09-30 18:19:49 -03
+Previous track #40        : Tomasz Stanko Quintet — Terminal 7 | 2026-09-30 18:15:14 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1584,52 +1584,52 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 40
+Observed events           : 41
 Unique tracks             : 38
 Unique artists            : 21
-Replay ratio              : █░░░░░░░░░░░░░░░░░  5.0%
-Artist diversity          : █████████░░░░░░░░░  52.5%
+Replay ratio              : █░░░░░░░░░░░░░░░░░  7.3%
+Artist diversity          : █████████░░░░░░░░░  51.2%
 Dominant artist           : Godsmack
-Dominant artist share     : ███████░░░░░░░░░░░  37.5%
-Artist switch ratio       : ████████████░░░░░░  66.7%
+Dominant artist share     : ███████░░░░░░░░░░░  39.0%
+Artist switch ratio       : ████████████░░░░░░  65.0%
 Longest artist streak     : Godsmack × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███░░░░░░░░░░░░░░░   15.0%
-Morning    06–12           : █████████████░░░░░   72.5%
+Night      00–06           : ███░░░░░░░░░░░░░░░   14.6%
+Morning    06–12           : █████████████░░░░░   70.7%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░   12.5%
+Evening    18–24           : ███░░░░░░░░░░░░░░░   14.6%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-09-30 21:15:14Z
-History last play (7d)    : 2026-10-05 12:03:04Z
-Observed time span        : 110:47:50
-Mean inter-play gap       : 02:50:27
+History last play (7d)    : 2026-10-06 01:44:38Z
+Observed time span        : 124:29:24
+Mean inter-play gap       : 03:06:44
 Median inter-play gap     : 00:04:20
 Longest inactivity gap    : 96:54:03
-Listening intensity       : 0.36 tracks/hour
+Listening intensity       : 0.33 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :          █              
-Heatmap (7d)              :      ▃▇█▁▁        ▁ ▁▁  
+Heatmap (24h)             :          █            █ 
+Heatmap (7d)              :      ▃▇█▁▁        ▁ ▁▁▁ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :   ▁█   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : █    ▄     ▂▁     ▁ ▂ ▁  ▃    
+Activity trend (30d)      : ▁   █   ▁ ▅▂     ▃ ▄ ▂ ▁▆     
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :          █              
+Mon                       :          █            █ 
 Tue                       :                         
 Wed                       :                   █ █▄  
 Thu                       :      ▃▇█▁               
@@ -1640,46 +1640,46 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
+Tracks played (last 24h)  : 2
 Dominant artist           : Godsmack
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-28 22:44:49Z → 2026-10-05 22:44:49Z
-Tracks played (7d)        : 40
+Week window (UTC)         : 2026-09-29 06:31:22Z → 2026-10-06 06:31:22Z
+Tracks played (7d)        : 41
 Dominant artist           : Godsmack
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 4
-Avg inter-play gap        : 02:50:27
+Sessions (24h)            : 2
+Sessions (7d)             : 5
+Avg inter-play gap        : 03:06:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | hard rock(1) | metal(1) | nu metal(1) | rap metal(1)
-Top genres (7d)           : alternative metal(32) | nu metal(29) | rap metal(24) | metal(20) | hard rock(17) | post-grunge(7)
+Top genres (24h)          : alternative metal(2) | hard rock(2) | metal(2) | nu metal(2) | rap metal(2)
+Top genres (7d)           : alternative metal(33) | nu metal(30) | rap metal(25) | metal(21) | hard rock(18) | post-grunge(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Godsmack — I Stand Alone → Godsmack — I Fucking Hate You
+Playback timestamp Δ      : 2026-10-05 12:03:04Z → 2026-10-06 01:44:38Z
 State transition          : NO CHANGE
-Telemetry interval        : 07:48:35
+Telemetry interval        : 07:46:33
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 428
+Events retained           : 429
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-05 09:03:04 -03
-Events (24h)              : 1
-Events (7d)               : 40
-Events (30d)              : 307
+Newest retained event     : 2026-10-05 22:44:38 -03
+Events (24h)              : 2
+Events (7d)               : 41
+Events (30d)              : 308
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-05 22:44:49Z
+Report generated (UTC)    : 2026-10-06 06:31:22Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
