@@ -1,8 +1,44 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-06 06:31:22Z",
+  "updated_utc": "2026-10-06 15:17:21Z",
   "events": [
+    {
+      "track": "Godsmack — Dead And Broken",
+      "artist": "Godsmack",
+      "title": "Dead And Broken",
+      "album": "Faceless",
+      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
+      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-06 14:53:48Z",
+      "played_at_local": "2026-10-06 11:53:48 -03",
+      "local_hour": 11,
+      "weekday": 1,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
+    {
+      "track": "Godsmack — Dead And Broken",
+      "artist": "Godsmack",
+      "title": "Dead And Broken",
+      "album": "Faceless",
+      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
+      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-06 14:48:41Z",
+      "played_at_local": "2026-10-06 11:48:41 -03",
+      "local_hour": 11,
+      "weekday": 1,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
     {
       "track": "Godsmack — I Fucking Hate You",
       "artist": "Godsmack",
