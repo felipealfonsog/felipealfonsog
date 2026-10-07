@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-06 21:02:49Z",
+  "updated_utc": "2026-10-07 01:38:33Z",
   "events": [
+    {
+      "track": "Godsmack — Dead And Broken",
+      "artist": "Godsmack",
+      "title": "Dead And Broken",
+      "album": "Faceless",
+      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
+      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-06 18:27:02Z",
+      "played_at_local": "2026-10-06 15:27:02 -03",
+      "local_hour": 15,
+      "weekday": 1,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
     {
       "track": "Godsmack — Dead And Broken",
       "artist": "Godsmack",
