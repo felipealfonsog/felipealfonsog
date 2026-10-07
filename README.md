@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-06 18:27:02Z
 Played at (local)         : 2026-10-06 15:27:02 -03
 Local hour                : 15:00
 Daypart                   : AFTERNOON
-Time since play           : 14:23:17
+Time since play           : 23:00:42
 Gap from previous play    : 02:00:19
 ------------------------------------------------------------
 Previous song             : Godsmack — Dead And Broken
@@ -1615,9 +1615,9 @@ Listening intensity       : 0.33 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 11:00
+Peak hour (24h)           : 15:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :            █▄▄ ▄        
+Heatmap (24h)             :                █        
 Heatmap (7d)              :      ▃▇█▁▁ ▁▁▁ ▁  ▁ ▁▁▁ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1640,14 +1640,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
+Tracks played (last 24h)  : 1
 Dominant artist           : Godsmack
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-30 08:50:18Z → 2026-10-07 08:50:18Z
+Week window (UTC)         : 2026-09-30 17:27:44Z → 2026-10-07 17:27:44Z
 Tracks played (7d)        : 46
 Dominant artist           : Godsmack
 Cadence classification    : HIGH
@@ -1655,13 +1655,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 4
+Sessions (24h)            : 1
 Sessions (7d)             : 9
 Avg inter-play gap        : 03:08:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(5) | hard rock(5) | metal(5) | nu metal(5) | rap metal(5)
+Top genres (24h)          : alternative metal(1) | hard rock(1) | metal(1) | nu metal(1) | rap metal(1)
 Top genres (7d)           : alternative metal(38) | nu metal(35) | rap metal(30) | metal(26) | hard rock(23) | post-grunge(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1670,14 +1670,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:11:46
+Telemetry interval        : 08:37:26
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 434
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-06 15:27:02 -03
-Events (24h)              : 5
+Events (24h)              : 1
 Events (7d)               : 46
 Events (30d)              : 207
 Playlist contexts retained: 128
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-07 08:50:18Z
+Report generated (UTC)    : 2026-10-07 17:27:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
