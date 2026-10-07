@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-06 18:27:02Z
 Played at (local)         : 2026-10-06 15:27:02 -03
 Local hour                : 15:00
 Daypart                   : AFTERNOON
-Time since play           : 07:11:32
+Time since play           : 14:23:17
 Gap from previous play    : 02:00:19
 ------------------------------------------------------------
 Previous song             : Godsmack — Dead And Broken
@@ -1617,14 +1617,14 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 11:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :            █▄▄ ▄      ▄ 
+Heatmap (24h)             :            █▄▄ ▄        
 Heatmap (7d)              :      ▃▇█▁▁ ▁▁▁ ▁  ▁ ▁▁▁ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :  ▁▁█   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁   █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁
+Activity trend (30d)      :    █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1640,14 +1640,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 6
+Tracks played (last 24h)  : 5
 Dominant artist           : Godsmack
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-30 01:38:33Z → 2026-10-07 01:38:33Z
+Week window (UTC)         : 2026-09-30 08:50:18Z → 2026-10-07 08:50:18Z
 Tracks played (7d)        : 46
 Dominant artist           : Godsmack
 Cadence classification    : HIGH
@@ -1655,31 +1655,31 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 4
 Sessions (7d)             : 9
 Avg inter-play gap        : 03:08:16
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(6) | hard rock(6) | metal(6) | nu metal(6) | rap metal(6)
+Top genres (24h)          : alternative metal(5) | hard rock(5) | metal(5) | nu metal(5) | rap metal(5)
 Top genres (7d)           : alternative metal(38) | nu metal(35) | rap metal(30) | metal(26) | hard rock(23) | post-grunge(7)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
 Track transition          : NO CHANGE
-Playback timestamp Δ      : 2026-10-06 16:26:43Z → 2026-10-06 18:27:02Z
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:35:45
+Telemetry interval        : 07:11:46
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 434
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-06 15:27:02 -03
-Events (24h)              : 6
+Events (24h)              : 5
 Events (7d)               : 46
-Events (30d)              : 213
+Events (30d)              : 207
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-07 01:38:33Z
+Report generated (UTC)    : 2026-10-07 08:50:18Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
