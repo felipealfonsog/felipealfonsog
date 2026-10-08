@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-07 20:41:31Z
 Played at (local)         : 2026-10-07 17:41:31 -03
 Local hour                : 17:00
 Daypart                   : AFTERNOON
-Time since play           : 02:29:30
+Time since play           : 09:36:08
 Gap from previous play    : 22:03:49
 ------------------------------------------------------------
 Previous song             : Godsmack — Dead And Broken
@@ -1584,31 +1584,31 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 46
-Unique tracks             : 37
-Unique artists            : 19
-Replay ratio              : ████░░░░░░░░░░░░░░  19.6%
-Artist diversity          : ███████░░░░░░░░░░░  41.3%
+Observed events           : 43
+Unique tracks             : 35
+Unique artists            : 17
+Replay ratio              : ███░░░░░░░░░░░░░░░  18.6%
+Artist diversity          : ███████░░░░░░░░░░░  39.5%
 Dominant artist           : Godsmack
-Dominant artist share     : █████████░░░░░░░░░  47.8%
-Artist switch ratio       : ██████████░░░░░░░░  55.6%
+Dominant artist share     : █████████░░░░░░░░░  51.2%
+Artist switch ratio       : ██████████░░░░░░░░  54.8%
 Longest artist streak     : Godsmack × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██░░░░░░░░░░░░░░░░   13.0%
-Morning    06–12           : ████████████░░░░░░   67.4%
-Afternoon  12–18           : ██░░░░░░░░░░░░░░░░    8.7%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░   10.9%
+Night      00–06           : ███░░░░░░░░░░░░░░░   14.0%
+Morning    06–12           : █████████████░░░░░   72.1%
+Afternoon  12–18           : ██░░░░░░░░░░░░░░░░    9.3%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    4.7%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-30 23:52:17Z
+History first play (7d)   : 2026-10-01 08:39:03Z
 History last play (7d)    : 2026-10-07 20:41:31Z
-Observed time span        : 164:49:14
-Mean inter-play gap       : 03:39:46
-Median inter-play gap     : 00:04:29
+Observed time span        : 156:02:28
+Mean inter-play gap       : 03:42:55
+Median inter-play gap     : 00:04:20
 Longest inactivity gap    : 96:54:03
 Listening intensity       : 0.28 tracks/hour
 ------------------------------------------------------------
@@ -1618,20 +1618,20 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 17:00
 Peak hour (7d)            : 07:00
 Heatmap (24h)             :                  █      
-Heatmap (7d)              :      ▃▇█▁▁ ▁▁▁ ▁ ▁ ▁▁▁▁ 
+Heatmap (7d)              :      ▃▇█▁▁ ▁▁▁ ▁ ▁ ▁  ▁ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁▁█   
+Activity (Mon→Sun)        :  ▁ █   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :    █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁ 
+Activity trend (30d)      :   █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :          █            █ 
 Tue                       :            █▄▄ ▄   ▄    
-Wed                       :                  ▄  █▄  
+Wed                       :                  █      
 Thu                       :      ▃▇█▁               
 Fri                       :                         
 Sat                       :                         
@@ -1647,8 +1647,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-30 23:11:00Z → 2026-10-07 23:11:00Z
-Tracks played (7d)        : 46
+Week window (UTC)         : 2026-10-01 06:17:39Z → 2026-10-08 06:17:39Z
+Tracks played (7d)        : 43
 Dominant artist           : Godsmack
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1656,8 +1656,8 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 10
-Avg inter-play gap        : 03:39:46
+Sessions (7d)             : 9
+Avg inter-play gap        : 03:42:55
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1667,10 +1667,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Godsmack — Dead And Broken → Chevelle — Forfeit
-Playback timestamp Δ      : 2026-10-06 18:27:02Z → 2026-10-07 20:41:31Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:43:17
+Telemetry interval        : 07:06:39
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1678,7 +1678,7 @@ Events retained           : 436
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-07 17:41:31 -03
 Events (24h)              : 1
-Events (7d)               : 46
+Events (7d)               : 43
 Events (30d)              : 209
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-07 23:11:00Z
+Report generated (UTC)    : 2026-10-08 06:17:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
