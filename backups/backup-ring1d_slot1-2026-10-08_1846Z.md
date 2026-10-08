@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-10-07_1848Z
+ snapshot_utc : 2026-10-08_1846Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -536,7 +536,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-10-07T13:11:48+00:00 | last_update=2026-10-07T13:11:48+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-10-08T13:18:14+00:00 | last_update=2026-10-08T13:18:14+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +706,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 269 ms
-TTFB................ 268 ms
+LATENCY............. 314 ms
+TTFB................ 313 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 84d
+TLS_EXPIRY.......... 83d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -741,7 +741,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-10-07T10:04:16Z
+LAST_PROBE_UTC...... 2026-10-08T10:17:41Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -782,18 +782,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : transit_corridor
-latitude       : -33.446232
-longitude      : -70.661624
-altitude       : 38 m
-gps_accuracy   : ±5.3 m
-heading        : 242°
-speed          : 6.8 km/h
+latitude       : -33.446732
+longitude      : -70.661580
+altitude       : 19 m
+gps_accuracy   : ±7.1 m
+heading        : 138°
+speed          : 3.8 km/h
 status         : walking
 phase          : morning
-local_time     : 09:18
+local_time     : 09:27
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-10-07 12:18:10 UTC
+signal         : stable
+updated_utc    : 2026-10-08 12:27:55 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-10-07 13:33:45Z
+DSN snapshot (UTC)       : 2026-10-08 13:39:14Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +923,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.78e9 km | 172.357 AU
-Heliocentric distance    : 171.981 AU
-Relative speed           : 43.904 km/s
+Earth distance           : 25.79e9 km | 172.379 AU
+Heliocentric distance    : 171.991 AU
+Relative speed           : 43.847 km/s
 ------------------------------------------------------------
-One-way light time       : 23:53:27
-Round-trip latency       : 47:46:54
+One-way light time       : 23:53:38
+Round-trip latency       : 47:47:16
 ------------------------------------------------------------
-Δ distance (since last)  : +1.024e6 km
-Mission age              : 49 years, 44 days
+Δ distance (since last)  : +1.019e6 km
+Mission age              : 49 years, 45 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.55e9 km | 144.054 AU
-Heliocentric distance    : 144.143 AU
-Relative speed           : 41.523 km/s
+Earth distance           : 21.55e9 km | 144.076 AU
+Heliocentric distance    : 144.151 AU
+Relative speed           : 41.552 km/s
 ------------------------------------------------------------
-One-way light time       : 19:58:03
-Round-trip latency       : 39:56:07
+One-way light time       : 19:58:15
+Round-trip latency       : 39:56:29
 ------------------------------------------------------------
-Δ distance (since last)  : +1.021e6 km
-Mission age              : 49 years, 60 days
+Δ distance (since last)  : +1.022e6 km
+Mission age              : 49 years, 61 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-10-07 13:33:51Z
+Report generated (UTC)   : 2026-10-08 13:39:15Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Godsmack — Dead And Broken
-Artist                    : Godsmack
-Title                     : Dead And Broken
-Album                     : Faceless
-Spotify URI               : spotify:track:5pMGIkjvSAH4Y6riePiBZz
-Spotify URL               : https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz
+Track                     : The Mars Volta — Goliath
+Artist                    : The Mars Volta
+Title                     : Goliath
+Album                     : Goliath
+Spotify URI               : spotify:track:2meXyPtKfJ6ftVCTBdZKGh
+Spotify URL               : https://open.spotify.com/track/2meXyPtKfJ6ftVCTBdZKGh
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-06 18:27:02Z
-Played at (local)         : 2026-10-06 15:27:02 -03
-Local hour                : 15:00
-Daypart                   : AFTERNOON
-Time since play           : 23:00:42
-Gap from previous play    : 02:00:19
+Played at (UTC)           : 2026-10-08 08:25:40Z
+Played at (local)         : 2026-10-08 05:25:40 -03
+Local hour                : 05:00
+Daypart                   : NIGHT
+Time since play           : 05:16:08
+Gap from previous play    : 11:44:09
 ------------------------------------------------------------
-Previous song             : Godsmack — Dead And Broken
-Same artist as previous   : YES
-Same track as previous    : YES
-Track plays (retained)    : 6
-Artist plays (retained)   : 24
+Previous song             : Chevelle — Forfeit
+Same artist as previous   : NO
+Same track as previous    : NO
+Track plays (retained)    : 1
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Godsmack — Dead And Broken | 2026-10-06 13:26:43 -03
-Previous track #2         : Godsmack — Dead And Broken | 2026-10-06 12:53:21 -03
-Previous track #3         : Godsmack — Dead And Broken | 2026-10-06 11:53:48 -03
-Previous track #4         : Godsmack — Dead And Broken | 2026-10-06 11:48:41 -03
-Previous track #5         : Godsmack — I Fucking Hate You | 2026-10-05 22:44:38 -03
-Previous track #6         : Godsmack — I Stand Alone | 2026-10-05 09:03:04 -03
-Previous track #7         : Stone Temple Pilots — Down | 2026-10-01 08:09:01 -03
-Previous track #8         : P.O.D. — Youth of the Nation | 2026-10-01 07:57:02 -03
-Previous track #9         : Incubus — Vitamin | 2026-10-01 07:52:46 -03
-Previous track #10        : Limp Bizkit — Boiler | 2026-10-01 07:49:31 -03
-Previous track #11        : White Zombie — More Human Than Human | 2026-10-01 07:42:30 -03
-Previous track #12        : Seether — Truth | 2026-10-01 07:38:01 -03
-Previous track #13        : Filter — Hey Man, Nice Shot - Remastered Version 2025 | 2026-10-01 07:34:10 -03
-Previous track #14        : Cold — End Of The World | 2026-10-01 07:28:55 -03
-Previous track #15        : TOOL — Undertow | 2026-10-01 07:25:51 -03
-Previous track #16        : Flaw — Out Of Whack | 2026-10-01 07:20:28 -03
-Previous track #17        : Godsmack — Mistakes | 2026-10-01 07:16:39 -03
-Previous track #18        : Mudvayne — Happy? | 2026-10-01 07:10:40 -03
-Previous track #19        : P.O.D. — Satellite | 2026-10-01 07:07:03 -03
-Previous track #20        : Disturbed — Voices | 2026-10-01 07:03:32 -03
-Previous track #21        : Drowning Pool — Tear Away | 2026-10-01 07:00:19 -03
-Previous track #22        : Earshot — Get Away | 2026-10-01 06:56:04 -03
-Previous track #23        : A Perfect Circle — Pet | 2026-10-01 06:51:31 -03
-Previous track #24        : Chevelle — Take Out the Gunman | 2026-10-01 06:46:56 -03
-Previous track #25        : Cold — It's All Good | 2026-10-01 06:42:36 -03
-Previous track #26        : TOOL — Bottom | 2026-10-01 06:38:52 -03
-Previous track #27        : Limp Bizkit — Re-Arranged | 2026-10-01 06:31:38 -03
-Previous track #28        : Godsmack — Greed | 2026-10-01 06:25:42 -03
-Previous track #29        : Godsmack — Serenity | 2026-10-01 06:22:13 -03
-Previous track #30        : Godsmack — The Awakening | 2026-10-01 06:17:37 -03
-Previous track #31        : Godsmack — I Am | 2026-10-01 06:16:07 -03
-Previous track #32        : Godsmack — Dead And Broken | 2026-10-01 06:12:09 -03
-Previous track #33        : Godsmack — Releasing The Demons | 2026-10-01 06:07:57 -03
-Previous track #34        : Godsmack — I Fucking Hate You | 2026-10-01 06:03:44 -03
-Previous track #35        : Godsmack — Re-Align | 2026-10-01 05:59:36 -03
-Previous track #36        : Godsmack — I Stand Alone | 2026-10-01 05:55:15 -03
-Previous track #37        : Godsmack — Make Me Believe | 2026-10-01 05:51:08 -03
-Previous track #38        : Godsmack — Changes | 2026-10-01 05:46:59 -03
-Previous track #39        : Godsmack — Faceless | 2026-10-01 05:42:39 -03
-Previous track #40        : Godsmack — Straight Out Of Line | 2026-10-01 05:39:03 -03
+Previous track #1         : Chevelle — Forfeit | 2026-10-07 17:41:31 -03
+Previous track #2         : Godsmack — Dead And Broken | 2026-10-06 19:37:42 -03
+Previous track #3         : Godsmack — Dead And Broken | 2026-10-06 15:27:02 -03
+Previous track #4         : Godsmack — Dead And Broken | 2026-10-06 13:26:43 -03
+Previous track #5         : Godsmack — Dead And Broken | 2026-10-06 12:53:21 -03
+Previous track #6         : Godsmack — Dead And Broken | 2026-10-06 11:53:48 -03
+Previous track #7         : Godsmack — Dead And Broken | 2026-10-06 11:48:41 -03
+Previous track #8         : Godsmack — I Fucking Hate You | 2026-10-05 22:44:38 -03
+Previous track #9         : Godsmack — I Stand Alone | 2026-10-05 09:03:04 -03
+Previous track #10        : Stone Temple Pilots — Down | 2026-10-01 08:09:01 -03
+Previous track #11        : P.O.D. — Youth of the Nation | 2026-10-01 07:57:02 -03
+Previous track #12        : Incubus — Vitamin | 2026-10-01 07:52:46 -03
+Previous track #13        : Limp Bizkit — Boiler | 2026-10-01 07:49:31 -03
+Previous track #14        : White Zombie — More Human Than Human | 2026-10-01 07:42:30 -03
+Previous track #15        : Seether — Truth | 2026-10-01 07:38:01 -03
+Previous track #16        : Filter — Hey Man, Nice Shot - Remastered Version 2025 | 2026-10-01 07:34:10 -03
+Previous track #17        : Cold — End Of The World | 2026-10-01 07:28:55 -03
+Previous track #18        : TOOL — Undertow | 2026-10-01 07:25:51 -03
+Previous track #19        : Flaw — Out Of Whack | 2026-10-01 07:20:28 -03
+Previous track #20        : Godsmack — Mistakes | 2026-10-01 07:16:39 -03
+Previous track #21        : Mudvayne — Happy? | 2026-10-01 07:10:40 -03
+Previous track #22        : P.O.D. — Satellite | 2026-10-01 07:07:03 -03
+Previous track #23        : Disturbed — Voices | 2026-10-01 07:03:32 -03
+Previous track #24        : Drowning Pool — Tear Away | 2026-10-01 07:00:19 -03
+Previous track #25        : Earshot — Get Away | 2026-10-01 06:56:04 -03
+Previous track #26        : A Perfect Circle — Pet | 2026-10-01 06:51:31 -03
+Previous track #27        : Chevelle — Take Out the Gunman | 2026-10-01 06:46:56 -03
+Previous track #28        : Cold — It's All Good | 2026-10-01 06:42:36 -03
+Previous track #29        : TOOL — Bottom | 2026-10-01 06:38:52 -03
+Previous track #30        : Limp Bizkit — Re-Arranged | 2026-10-01 06:31:38 -03
+Previous track #31        : Godsmack — Greed | 2026-10-01 06:25:42 -03
+Previous track #32        : Godsmack — Serenity | 2026-10-01 06:22:13 -03
+Previous track #33        : Godsmack — The Awakening | 2026-10-01 06:17:37 -03
+Previous track #34        : Godsmack — I Am | 2026-10-01 06:16:07 -03
+Previous track #35        : Godsmack — Dead And Broken | 2026-10-01 06:12:09 -03
+Previous track #36        : Godsmack — Releasing The Demons | 2026-10-01 06:07:57 -03
+Previous track #37        : Godsmack — I Fucking Hate You | 2026-10-01 06:03:44 -03
+Previous track #38        : Godsmack — Re-Align | 2026-10-01 05:59:36 -03
+Previous track #39        : Godsmack — I Stand Alone | 2026-10-01 05:55:15 -03
+Previous track #40        : Godsmack — Make Me Believe | 2026-10-01 05:51:08 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1591,55 +1591,55 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 46
-Unique tracks             : 38
-Unique artists            : 21
-Replay ratio              : ███░░░░░░░░░░░░░░░  17.4%
-Artist diversity          : ████████░░░░░░░░░░  45.7%
+Observed events           : 10
+Unique tracks             : 5
+Unique artists            : 3
+Replay ratio              : █████████░░░░░░░░░  50.0%
+Artist diversity          : █████░░░░░░░░░░░░░  30.0%
 Dominant artist           : Godsmack
-Dominant artist share     : ████████░░░░░░░░░░  45.7%
-Artist switch ratio       : ██████████░░░░░░░░  57.8%
-Longest artist streak     : Godsmack × 13
+Dominant artist share     : ██████████████░░░░  80.0%
+Artist switch ratio       : ████░░░░░░░░░░░░░░  22.2%
+Longest artist streak     : Godsmack × 8
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██░░░░░░░░░░░░░░░░   13.0%
-Morning    06–12           : ████████████░░░░░░   67.4%
-Afternoon  12–18           : █░░░░░░░░░░░░░░░░░    6.5%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░   13.0%
-Dominant period           : MORNING
+Night      00–06           : ██░░░░░░░░░░░░░░░░   10.0%
+Morning    06–12           : █████░░░░░░░░░░░░░   30.0%
+Afternoon  12–18           : ███████░░░░░░░░░░░   40.0%
+Evening    18–24           : ████░░░░░░░░░░░░░░   20.0%
+Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-30 21:15:14Z
-History last play (7d)    : 2026-10-06 18:27:02Z
-Observed time span        : 141:11:48
-Mean inter-play gap       : 03:08:16
-Median inter-play gap     : 00:04:29
-Longest inactivity gap    : 96:54:03
-Listening intensity       : 0.33 tracks/hour
+History first play (7d)   : 2026-10-05 12:03:04Z
+History last play (7d)    : 2026-10-08 08:25:40Z
+Observed time span        : 68:22:36
+Mean inter-play gap       : 07:35:51
+Median inter-play gap     : 04:10:40
+Longest inactivity gap    : 22:03:49
+Listening intensity       : 0.15 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 15:00
-Peak hour (7d)            : 07:00
-Heatmap (24h)             :                █        
-Heatmap (7d)              :      ▃▇█▁▁ ▁▁▁ ▁  ▁ ▁▁▁ 
+Peak hour (24h)           : 05:00
+Peak hour (7d)            : 11:00
+Heatmap (24h)             :      █           █      
+Heatmap (7d)              :      ▄   ▄ █▄▄ ▄ ▄ ▄  ▄ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁▁█   
+Activity (Mon→Sun)        : ▃█▁▁   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :    █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁ 
+Activity trend (30d)      :   █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :          █            █ 
-Tue                       :            █▄▄ ▄        
-Wed                       :                   █ █▄  
-Thu                       :      ▃▇█▁               
+Tue                       :            █▄▄ ▄   ▄    
+Wed                       :                  █      
+Thu                       :      █                  
 Fri                       :                         
 Sat                       :                         
 Sun                       :                         
@@ -1647,46 +1647,46 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Godsmack
+Tracks played (last 24h)  : 2
+Dominant artist           : The Mars Volta
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-30 17:27:44Z → 2026-10-07 17:27:44Z
-Tracks played (7d)        : 46
+Week window (UTC)         : 2026-10-01 13:41:47Z → 2026-10-08 13:41:47Z
+Tracks played (7d)        : 10
 Dominant artist           : Godsmack
-Cadence classification    : HIGH
+Cadence classification    : LOW
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : 2
 Sessions (7d)             : 9
-Avg inter-play gap        : 03:08:16
+Avg inter-play gap        : 07:35:51
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | hard rock(1) | metal(1) | nu metal(1) | rap metal(1)
-Top genres (7d)           : alternative metal(38) | nu metal(35) | rap metal(30) | metal(26) | hard rock(23) | post-grunge(7)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(1) | art rock(1) | nu metal(1) | post-grunge(1) | progressive metal(1) | progressive rock(1)
+Top genres (7d)           : alternative metal(9) | nu metal(9) | hard rock(8) | metal(8) | rap metal(8) | art rock(1)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Chevelle — Forfeit → The Mars Volta — Goliath
+Playback timestamp Δ      : 2026-10-07 20:41:31Z → 2026-10-08 08:25:40Z
 State transition          : NO CHANGE
-Telemetry interval        : 08:37:26
+Telemetry interval        : 07:24:09
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 434
+Events retained           : 437
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-06 15:27:02 -03
-Events (24h)              : 1
-Events (7d)               : 46
-Events (30d)              : 207
+Newest retained event     : 2026-10-08 05:25:40 -03
+Events (24h)              : 2
+Events (7d)               : 10
+Events (30d)              : 210
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-07 17:27:44Z
+Report generated (UTC)    : 2026-10-08 13:41:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2073,18 +2073,18 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 07 October 2026
+From: 04 December 2023 - To: 08 October 2026
 
 Total Time       : 1,073 hrs 38 mins
 Mostly coding in : Other
-Daily average    : 1 hrs 2 mins
+Daily average    : 1 hrs 1 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          911 hrs 56 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  84.94 %
+Other          912 hrs 15 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  84.97 %
 Bash           176 hrs 52 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
 Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.23 %
 HTML           141 hrs        ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.13 %
@@ -2097,17 +2097,17 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,267 hrs 6 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,267 hrs 26 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.60 %
 
 EDITORS - APPS
 --------------
 VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.44 %
-Firefox        656 hrs 57 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.19 %
+Firefox        657 hrs 8 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.21 %
 Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.48 %
 Terminal       53 hrs 27 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.98 %
 Spotify        50 hrs 47 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.73 %
-‎WhatsApp      33 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.16 %
+‎WhatsApp      34 hrs 6 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.18 %
 Pages          27 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.54 %
 Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
 Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
@@ -2118,15 +2118,15 @@ TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○�
 CATEGORIES
 ----------
 Coding         1,247 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       655 hrs 2 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.01 %
-Meeting        42 hrs 31 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.96 %
+Browsing       655 hrs 12 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.03 %
+Meeting        42 hrs 40 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.97 %
 AI Coding      26 hrs 29 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
 Writing Docs   14 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 07/10/2026 12:31:30 UTC
+Last updated     : 08/10/2026 12:41:15 UTC
 
 ```
 <!--END_SECTION:wakastats-->
