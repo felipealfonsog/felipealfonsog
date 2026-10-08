@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-08 06:17:39Z",
+  "updated_utc": "2026-10-08 13:41:47Z",
   "events": [
+    {
+      "track": "The Mars Volta — Goliath",
+      "artist": "The Mars Volta",
+      "title": "Goliath",
+      "album": "Goliath",
+      "uri": "spotify:track:2meXyPtKfJ6ftVCTBdZKGh",
+      "url": "https://open.spotify.com/track/2meXyPtKfJ6ftVCTBdZKGh",
+      "artist_ids": [
+        "75U40yZLLPglFgXbDVnmVs"
+      ],
+      "played_at_utc": "2026-10-08 08:25:40Z",
+      "played_at_local": "2026-10-08 05:25:40 -03",
+      "local_hour": 5,
+      "weekday": 3
+    },
     {
       "track": "Chevelle — Forfeit",
       "artist": "Chevelle",

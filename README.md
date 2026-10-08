@@ -1491,69 +1491,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Chevelle — Forfeit
-Artist                    : Chevelle
-Title                     : Forfeit
-Album                     : Wonder What's Next (Expanded Edition)
-Spotify URI               : spotify:track:6ptcVVRn97eAKqUy6kUVK5
-Spotify URL               : https://open.spotify.com/track/6ptcVVRn97eAKqUy6kUVK5
+Track                     : The Mars Volta — Goliath
+Artist                    : The Mars Volta
+Title                     : Goliath
+Album                     : Goliath
+Spotify URI               : spotify:track:2meXyPtKfJ6ftVCTBdZKGh
+Spotify URL               : https://open.spotify.com/track/2meXyPtKfJ6ftVCTBdZKGh
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-07 20:41:31Z
-Played at (local)         : 2026-10-07 17:41:31 -03
-Local hour                : 17:00
-Daypart                   : AFTERNOON
-Time since play           : 09:36:08
-Gap from previous play    : 22:03:49
+Played at (UTC)           : 2026-10-08 08:25:40Z
+Played at (local)         : 2026-10-08 05:25:40 -03
+Local hour                : 05:00
+Daypart                   : NIGHT
+Time since play           : 05:16:08
+Gap from previous play    : 11:44:09
 ------------------------------------------------------------
-Previous song             : Godsmack — Dead And Broken
+Previous song             : Chevelle — Forfeit
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 2
-Artist plays (retained)   : 15
+Track plays (retained)    : 1
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Godsmack — Dead And Broken | 2026-10-06 19:37:42 -03
-Previous track #2         : Godsmack — Dead And Broken | 2026-10-06 15:27:02 -03
-Previous track #3         : Godsmack — Dead And Broken | 2026-10-06 13:26:43 -03
-Previous track #4         : Godsmack — Dead And Broken | 2026-10-06 12:53:21 -03
-Previous track #5         : Godsmack — Dead And Broken | 2026-10-06 11:53:48 -03
-Previous track #6         : Godsmack — Dead And Broken | 2026-10-06 11:48:41 -03
-Previous track #7         : Godsmack — I Fucking Hate You | 2026-10-05 22:44:38 -03
-Previous track #8         : Godsmack — I Stand Alone | 2026-10-05 09:03:04 -03
-Previous track #9         : Stone Temple Pilots — Down | 2026-10-01 08:09:01 -03
-Previous track #10        : P.O.D. — Youth of the Nation | 2026-10-01 07:57:02 -03
-Previous track #11        : Incubus — Vitamin | 2026-10-01 07:52:46 -03
-Previous track #12        : Limp Bizkit — Boiler | 2026-10-01 07:49:31 -03
-Previous track #13        : White Zombie — More Human Than Human | 2026-10-01 07:42:30 -03
-Previous track #14        : Seether — Truth | 2026-10-01 07:38:01 -03
-Previous track #15        : Filter — Hey Man, Nice Shot - Remastered Version 2025 | 2026-10-01 07:34:10 -03
-Previous track #16        : Cold — End Of The World | 2026-10-01 07:28:55 -03
-Previous track #17        : TOOL — Undertow | 2026-10-01 07:25:51 -03
-Previous track #18        : Flaw — Out Of Whack | 2026-10-01 07:20:28 -03
-Previous track #19        : Godsmack — Mistakes | 2026-10-01 07:16:39 -03
-Previous track #20        : Mudvayne — Happy? | 2026-10-01 07:10:40 -03
-Previous track #21        : P.O.D. — Satellite | 2026-10-01 07:07:03 -03
-Previous track #22        : Disturbed — Voices | 2026-10-01 07:03:32 -03
-Previous track #23        : Drowning Pool — Tear Away | 2026-10-01 07:00:19 -03
-Previous track #24        : Earshot — Get Away | 2026-10-01 06:56:04 -03
-Previous track #25        : A Perfect Circle — Pet | 2026-10-01 06:51:31 -03
-Previous track #26        : Chevelle — Take Out the Gunman | 2026-10-01 06:46:56 -03
-Previous track #27        : Cold — It's All Good | 2026-10-01 06:42:36 -03
-Previous track #28        : TOOL — Bottom | 2026-10-01 06:38:52 -03
-Previous track #29        : Limp Bizkit — Re-Arranged | 2026-10-01 06:31:38 -03
-Previous track #30        : Godsmack — Greed | 2026-10-01 06:25:42 -03
-Previous track #31        : Godsmack — Serenity | 2026-10-01 06:22:13 -03
-Previous track #32        : Godsmack — The Awakening | 2026-10-01 06:17:37 -03
-Previous track #33        : Godsmack — I Am | 2026-10-01 06:16:07 -03
-Previous track #34        : Godsmack — Dead And Broken | 2026-10-01 06:12:09 -03
-Previous track #35        : Godsmack — Releasing The Demons | 2026-10-01 06:07:57 -03
-Previous track #36        : Godsmack — I Fucking Hate You | 2026-10-01 06:03:44 -03
-Previous track #37        : Godsmack — Re-Align | 2026-10-01 05:59:36 -03
-Previous track #38        : Godsmack — I Stand Alone | 2026-10-01 05:55:15 -03
-Previous track #39        : Godsmack — Make Me Believe | 2026-10-01 05:51:08 -03
-Previous track #40        : Godsmack — Changes | 2026-10-01 05:46:59 -03
+Previous track #1         : Chevelle — Forfeit | 2026-10-07 17:41:31 -03
+Previous track #2         : Godsmack — Dead And Broken | 2026-10-06 19:37:42 -03
+Previous track #3         : Godsmack — Dead And Broken | 2026-10-06 15:27:02 -03
+Previous track #4         : Godsmack — Dead And Broken | 2026-10-06 13:26:43 -03
+Previous track #5         : Godsmack — Dead And Broken | 2026-10-06 12:53:21 -03
+Previous track #6         : Godsmack — Dead And Broken | 2026-10-06 11:53:48 -03
+Previous track #7         : Godsmack — Dead And Broken | 2026-10-06 11:48:41 -03
+Previous track #8         : Godsmack — I Fucking Hate You | 2026-10-05 22:44:38 -03
+Previous track #9         : Godsmack — I Stand Alone | 2026-10-05 09:03:04 -03
+Previous track #10        : Stone Temple Pilots — Down | 2026-10-01 08:09:01 -03
+Previous track #11        : P.O.D. — Youth of the Nation | 2026-10-01 07:57:02 -03
+Previous track #12        : Incubus — Vitamin | 2026-10-01 07:52:46 -03
+Previous track #13        : Limp Bizkit — Boiler | 2026-10-01 07:49:31 -03
+Previous track #14        : White Zombie — More Human Than Human | 2026-10-01 07:42:30 -03
+Previous track #15        : Seether — Truth | 2026-10-01 07:38:01 -03
+Previous track #16        : Filter — Hey Man, Nice Shot - Remastered Version 2025 | 2026-10-01 07:34:10 -03
+Previous track #17        : Cold — End Of The World | 2026-10-01 07:28:55 -03
+Previous track #18        : TOOL — Undertow | 2026-10-01 07:25:51 -03
+Previous track #19        : Flaw — Out Of Whack | 2026-10-01 07:20:28 -03
+Previous track #20        : Godsmack — Mistakes | 2026-10-01 07:16:39 -03
+Previous track #21        : Mudvayne — Happy? | 2026-10-01 07:10:40 -03
+Previous track #22        : P.O.D. — Satellite | 2026-10-01 07:07:03 -03
+Previous track #23        : Disturbed — Voices | 2026-10-01 07:03:32 -03
+Previous track #24        : Drowning Pool — Tear Away | 2026-10-01 07:00:19 -03
+Previous track #25        : Earshot — Get Away | 2026-10-01 06:56:04 -03
+Previous track #26        : A Perfect Circle — Pet | 2026-10-01 06:51:31 -03
+Previous track #27        : Chevelle — Take Out the Gunman | 2026-10-01 06:46:56 -03
+Previous track #28        : Cold — It's All Good | 2026-10-01 06:42:36 -03
+Previous track #29        : TOOL — Bottom | 2026-10-01 06:38:52 -03
+Previous track #30        : Limp Bizkit — Re-Arranged | 2026-10-01 06:31:38 -03
+Previous track #31        : Godsmack — Greed | 2026-10-01 06:25:42 -03
+Previous track #32        : Godsmack — Serenity | 2026-10-01 06:22:13 -03
+Previous track #33        : Godsmack — The Awakening | 2026-10-01 06:17:37 -03
+Previous track #34        : Godsmack — I Am | 2026-10-01 06:16:07 -03
+Previous track #35        : Godsmack — Dead And Broken | 2026-10-01 06:12:09 -03
+Previous track #36        : Godsmack — Releasing The Demons | 2026-10-01 06:07:57 -03
+Previous track #37        : Godsmack — I Fucking Hate You | 2026-10-01 06:03:44 -03
+Previous track #38        : Godsmack — Re-Align | 2026-10-01 05:59:36 -03
+Previous track #39        : Godsmack — I Stand Alone | 2026-10-01 05:55:15 -03
+Previous track #40        : Godsmack — Make Me Believe | 2026-10-01 05:51:08 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1584,45 +1584,45 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 43
-Unique tracks             : 35
-Unique artists            : 17
-Replay ratio              : ███░░░░░░░░░░░░░░░  18.6%
-Artist diversity          : ███████░░░░░░░░░░░  39.5%
+Observed events           : 10
+Unique tracks             : 5
+Unique artists            : 3
+Replay ratio              : █████████░░░░░░░░░  50.0%
+Artist diversity          : █████░░░░░░░░░░░░░  30.0%
 Dominant artist           : Godsmack
-Dominant artist share     : █████████░░░░░░░░░  51.2%
-Artist switch ratio       : ██████████░░░░░░░░  54.8%
-Longest artist streak     : Godsmack × 13
+Dominant artist share     : ██████████████░░░░  80.0%
+Artist switch ratio       : ████░░░░░░░░░░░░░░  22.2%
+Longest artist streak     : Godsmack × 8
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███░░░░░░░░░░░░░░░   14.0%
-Morning    06–12           : █████████████░░░░░   72.1%
-Afternoon  12–18           : ██░░░░░░░░░░░░░░░░    9.3%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    4.7%
-Dominant period           : MORNING
+Night      00–06           : ██░░░░░░░░░░░░░░░░   10.0%
+Morning    06–12           : █████░░░░░░░░░░░░░   30.0%
+Afternoon  12–18           : ███████░░░░░░░░░░░   40.0%
+Evening    18–24           : ████░░░░░░░░░░░░░░   20.0%
+Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-01 08:39:03Z
-History last play (7d)    : 2026-10-07 20:41:31Z
-Observed time span        : 156:02:28
-Mean inter-play gap       : 03:42:55
-Median inter-play gap     : 00:04:20
-Longest inactivity gap    : 96:54:03
-Listening intensity       : 0.28 tracks/hour
+History first play (7d)   : 2026-10-05 12:03:04Z
+History last play (7d)    : 2026-10-08 08:25:40Z
+Observed time span        : 68:22:36
+Mean inter-play gap       : 07:35:51
+Median inter-play gap     : 04:10:40
+Longest inactivity gap    : 22:03:49
+Listening intensity       : 0.15 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 17:00
-Peak hour (7d)            : 07:00
-Heatmap (24h)             :                  █      
-Heatmap (7d)              :      ▃▇█▁▁ ▁▁▁ ▁ ▁ ▁  ▁ 
+Peak hour (24h)           : 05:00
+Peak hour (7d)            : 11:00
+Heatmap (24h)             :      █           █      
+Heatmap (7d)              :      ▄   ▄ █▄▄ ▄ ▄ ▄  ▄ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁ █   
+Activity (Mon→Sun)        : ▃█▁▁   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :   █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁  
 Trend order               : oldest → newest
@@ -1632,7 +1632,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :          █            █ 
 Tue                       :            █▄▄ ▄   ▄    
 Wed                       :                  █      
-Thu                       :      ▃▇█▁               
+Thu                       :      █                  
 Fri                       :                         
 Sat                       :                         
 Sun                       :                         
@@ -1640,46 +1640,46 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Chevelle
+Tracks played (last 24h)  : 2
+Dominant artist           : The Mars Volta
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-01 06:17:39Z → 2026-10-08 06:17:39Z
-Tracks played (7d)        : 43
+Week window (UTC)         : 2026-10-01 13:41:47Z → 2026-10-08 13:41:47Z
+Tracks played (7d)        : 10
 Dominant artist           : Godsmack
-Cadence classification    : HIGH
+Cadence classification    : LOW
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : 2
 Sessions (7d)             : 9
-Avg inter-play gap        : 03:42:55
+Avg inter-play gap        : 07:35:51
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | nu metal(1) | post-grunge(1)
-Top genres (7d)           : alternative metal(40) | nu metal(37) | rap metal(31) | metal(27) | hard rock(24) | post-grunge(8)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(1) | art rock(1) | nu metal(1) | post-grunge(1) | progressive metal(1) | progressive rock(1)
+Top genres (7d)           : alternative metal(9) | nu metal(9) | hard rock(8) | metal(8) | rap metal(8) | art rock(1)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Chevelle — Forfeit → The Mars Volta — Goliath
+Playback timestamp Δ      : 2026-10-07 20:41:31Z → 2026-10-08 08:25:40Z
 State transition          : NO CHANGE
-Telemetry interval        : 07:06:39
+Telemetry interval        : 07:24:09
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 436
+Events retained           : 437
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-07 17:41:31 -03
-Events (24h)              : 1
-Events (7d)               : 43
-Events (30d)              : 209
+Newest retained event     : 2026-10-08 05:25:40 -03
+Events (24h)              : 2
+Events (7d)               : 10
+Events (30d)              : 210
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-08 06:17:39Z
+Report generated (UTC)    : 2026-10-08 13:41:47Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
