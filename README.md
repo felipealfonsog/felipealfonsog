@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-08 08:25:40Z
 Played at (local)         : 2026-10-08 05:25:40 -03
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 11:33:57
+Time since play           : 16:02:29
 Gap from previous play    : 11:44:09
 ------------------------------------------------------------
 Previous song             : Chevelle — Forfeit
@@ -1617,7 +1617,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 05:00
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :      █           █      
+Heatmap (24h)             :      █                  
 Heatmap (7d)              :      ▄   ▄ █▄▄ ▄ ▄ ▄  ▄ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1640,14 +1640,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
+Tracks played (last 24h)  : 1
 Dominant artist           : The Mars Volta
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-01 19:59:36Z → 2026-10-08 19:59:36Z
+Week window (UTC)         : 2026-10-02 00:28:08Z → 2026-10-09 00:28:08Z
 Tracks played (7d)        : 10
 Dominant artist           : Godsmack
 Cadence classification    : LOW
@@ -1655,13 +1655,13 @@ Cadence classification    : LOW
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 9
 Avg inter-play gap        : 07:35:51
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | art rock(1) | nu metal(1) | post-grunge(1) | progressive metal(1) | progressive rock(1)
+Top genres (24h)          : art rock(1) | progressive metal(1) | progressive rock(1)
 Top genres (7d)           : alternative metal(9) | nu metal(9) | hard rock(8) | metal(8) | rap metal(8) | art rock(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1670,14 +1670,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:17:50
+Telemetry interval        : 04:28:33
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 437
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-08 05:25:40 -03
-Events (24h)              : 2
+Events (24h)              : 1
 Events (7d)               : 10
 Events (30d)              : 210
 Playlist contexts retained: 128
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-08 19:59:36Z
+Report generated (UTC)    : 2026-10-09 00:28:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
