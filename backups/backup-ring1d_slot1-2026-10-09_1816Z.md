@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-10-08_1846Z
+ snapshot_utc : 2026-10-09_1816Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -536,7 +536,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-10-08T13:18:14+00:00 | last_update=2026-10-08T13:18:14+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-10-09T13:06:08+00:00 | last_update=2026-10-09T13:06:08+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +706,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 314 ms
-TTFB................ 313 ms
+LATENCY............. 280 ms
+TTFB................ 279 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 83d
+TLS_EXPIRY.......... 82d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -741,7 +741,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-10-08T10:17:41Z
+LAST_PROBE_UTC...... 2026-10-09T10:18:36Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -781,19 +781,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : transit_corridor
-latitude       : -33.446732
-longitude      : -70.661580
-altitude       : 19 m
-gps_accuracy   : ±7.1 m
-heading        : 138°
-speed          : 3.8 km/h
+location       : urban_sector
+latitude       : -33.444485
+longitude      : -70.650926
+altitude       : 158 m
+gps_accuracy   : ±4.7 m
+heading        : 324°
+speed          : 3.5 km/h
 status         : walking
 phase          : morning
-local_time     : 09:27
+local_time     : 09:16
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-10-08 12:27:55 UTC
+signal         : nominal
+updated_utc    : 2026-10-09 12:16:45 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-10-08 13:39:14Z
+DSN snapshot (UTC)       : 2026-10-09 13:25:11Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +923,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.79e9 km | 172.379 AU
-Heliocentric distance    : 171.991 AU
-Relative speed           : 43.847 km/s
+Earth distance           : 25.79e9 km | 172.401 AU
+Heliocentric distance    : 172.001 AU
+Relative speed           : 43.789 km/s
 ------------------------------------------------------------
-One-way light time       : 23:53:38
-Round-trip latency       : 47:47:16
+One-way light time       : 23:53:49
+Round-trip latency       : 47:47:37
 ------------------------------------------------------------
-Δ distance (since last)  : +1.019e6 km
-Mission age              : 49 years, 45 days
+Δ distance (since last)  : +974,799 km
+Mission age              : 49 years, 46 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.55e9 km | 144.076 AU
-Heliocentric distance    : 144.151 AU
-Relative speed           : 41.552 km/s
+Earth distance           : 21.56e9 km | 144.098 AU
+Heliocentric distance    : 144.160 AU
+Relative speed           : 41.578 km/s
 ------------------------------------------------------------
-One-way light time       : 19:58:15
-Round-trip latency       : 39:56:29
+One-way light time       : 19:58:25
+Round-trip latency       : 39:56:51
 ------------------------------------------------------------
-Δ distance (since last)  : +1.022e6 km
-Mission age              : 49 years, 61 days
+Δ distance (since last)  : +984,372 km
+Mission age              : 49 years, 62 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-10-08 13:39:15Z
+Report generated (UTC)   : 2026-10-09 13:25:15Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-08 08:25:40Z
 Played at (local)         : 2026-10-08 05:25:40 -03
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 05:16:08
+Time since play           : 32:37:03
 Gap from previous play    : 11:44:09
 ------------------------------------------------------------
 Previous song             : Chevelle — Forfeit
@@ -1622,16 +1622,16 @@ Listening intensity       : 0.15 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 05:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 11:00
-Heatmap (24h)             :      █           █      
+Heatmap (24h)             : N/A
 Heatmap (7d)              :      ▄   ▄ █▄▄ ▄ ▄ ▄  ▄ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▃█▁▁   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁  
+Activity trend (30d)      :  █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁   
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 2
-Dominant artist           : The Mars Volta
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-01 13:41:47Z → 2026-10-08 13:41:47Z
+Week window (UTC)         : 2026-10-02 17:02:42Z → 2026-10-09 17:02:42Z
 Tracks played (7d)        : 10
 Dominant artist           : Godsmack
 Cadence classification    : LOW
@@ -1662,29 +1662,29 @@ Cadence classification    : LOW
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 9
 Avg inter-play gap        : 07:35:51
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | art rock(1) | nu metal(1) | post-grunge(1) | progressive metal(1) | progressive rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(9) | nu metal(9) | hard rock(8) | metal(8) | rap metal(8) | art rock(1)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Chevelle — Forfeit → The Mars Volta — Goliath
-Playback timestamp Δ      : 2026-10-07 20:41:31Z → 2026-10-08 08:25:40Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:24:09
+Telemetry interval        : 07:47:12
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 437
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-08 05:25:40 -03
-Events (24h)              : 2
+Events (24h)              : 0
 Events (7d)               : 10
 Events (30d)              : 210
 Playlist contexts retained: 128
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-08 13:41:47Z
+Report generated (UTC)    : 2026-10-09 17:02:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2073,9 +2073,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 08 October 2026
+From: 04 December 2023 - To: 09 October 2026
 
-Total Time       : 1,073 hrs 38 mins
+Total Time       : 1,074 hrs 16 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 1 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
@@ -2084,9 +2084,9 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          912 hrs 15 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  84.97 %
-Bash           176 hrs 52 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
-Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.23 %
+Other          915 hrs 57 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  85.26 %
+Bash           176 hrs 52 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.46 %
+Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
 HTML           141 hrs        ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.13 %
 PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.17 %
 Markdown       80 hrs 50 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.53 %
@@ -2097,36 +2097,36 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,267 hrs 26 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.60 %
+Mac            1,271 hrs 46 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.56 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.44 %
-Firefox        657 hrs 8 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.21 %
-Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.48 %
-Terminal       53 hrs 27 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.98 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.40 %
+Firefox        657 hrs 28 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.20 %
+Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.46 %
+Terminal       53 hrs 42 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.00 %
 Spotify        50 hrs 47 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.73 %
-‎WhatsApp      34 hrs 6 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.18 %
-Pages          27 hrs 15 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.54 %
+‎WhatsApp      35 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.33 %
+Pages          27 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.60 %
 Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
 Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
 FileZilla      19 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
-Acrobat        16 hrs 22 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.53 %
+Acrobat        17 hrs 50 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.66 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
 
 CATEGORIES
 ----------
-Coding         1,247 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       655 hrs 12 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.03 %
-Meeting        42 hrs 40 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.97 %
+Coding         1,249 hrs 20 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       655 hrs 33 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.02 %
+Meeting        44 hrs 19 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.13 %
 AI Coding      26 hrs 29 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.47 %
-Writing Docs   14 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
+Writing Docs   14 hrs 31 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 08/10/2026 12:41:15 UTC
+Last updated     : 09/10/2026 12:28:36 UTC
 
 ```
 <!--END_SECTION:wakastats-->
