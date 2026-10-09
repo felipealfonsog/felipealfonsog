@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-08 08:25:40Z
 Played at (local)         : 2026-10-08 05:25:40 -03
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 24:49:52
+Time since play           : 32:37:03
 Gap from previous play    : 11:44:09
 ------------------------------------------------------------
 Previous song             : Chevelle — Forfeit
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-02 09:15:31Z → 2026-10-09 09:15:31Z
+Week window (UTC)         : 2026-10-02 17:02:42Z → 2026-10-09 17:02:42Z
 Tracks played (7d)        : 10
 Dominant artist           : Godsmack
 Cadence classification    : LOW
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 08:47:24
+Telemetry interval        : 07:47:12
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-09 09:15:31Z
+Report generated (UTC)    : 2026-10-09 17:02:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
