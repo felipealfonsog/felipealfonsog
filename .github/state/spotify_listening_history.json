@@ -1,8 +1,908 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-10 06:02:02Z",
+  "updated_utc": "2026-10-10 12:42:56Z",
   "events": [
+    {
+      "track": "Midrift — Twin Flames",
+      "artist": "Midrift",
+      "title": "Twin Flames",
+      "album": "Midrift",
+      "uri": "spotify:track:2xnIV4DQp2D0qVHCQYRIn9",
+      "url": "https://open.spotify.com/track/2xnIV4DQp2D0qVHCQYRIn9",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 12:01:40Z",
+      "played_at_local": "2026-10-10 09:01:40 -03",
+      "local_hour": 9,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Roving — Haven Blue",
+      "artist": "Roving",
+      "title": "Haven Blue",
+      "album": "Spindrift",
+      "uri": "spotify:track:47DYaP0x4scYXbqSzeBc5b",
+      "url": "https://open.spotify.com/track/47DYaP0x4scYXbqSzeBc5b",
+      "artist_ids": [
+        "7gaJjehz7rwF8054V9gKId"
+      ],
+      "played_at_utc": "2026-10-10 11:59:59Z",
+      "played_at_local": "2026-10-10 08:59:59 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Superheaven — Blur",
+      "artist": "Superheaven",
+      "title": "Blur",
+      "album": "Ours Is Chrome",
+      "uri": "spotify:track:4HJeWpk0egepZrDF8PJdlT",
+      "url": "https://open.spotify.com/track/4HJeWpk0egepZrDF8PJdlT",
+      "artist_ids": [
+        "1IHjrY7ygKbmLVoUV1VcXc"
+      ],
+      "played_at_utc": "2026-10-10 11:56:24Z",
+      "played_at_local": "2026-10-10 08:56:24 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Soul Blind — Stuck In A Loop",
+      "artist": "Soul Blind",
+      "title": "Stuck In A Loop",
+      "album": "Feel It All Around",
+      "uri": "spotify:track:0apa0CvhUGg1CeFwCYUVeQ",
+      "url": "https://open.spotify.com/track/0apa0CvhUGg1CeFwCYUVeQ",
+      "artist_ids": [
+        "4u8phrcaIdvRzcGq5DcQJa"
+      ],
+      "played_at_utc": "2026-10-10 11:53:05Z",
+      "played_at_local": "2026-10-10 08:53:05 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "SWEET SPINE — Darkness",
+      "artist": "SWEET SPINE",
+      "title": "Darkness",
+      "album": "Darkness",
+      "uri": "spotify:track:4WvX69qstX6F3rOHfpTymz",
+      "url": "https://open.spotify.com/track/4WvX69qstX6F3rOHfpTymz",
+      "artist_ids": [
+        "1ugmCkxd2MSyvkVA9puoff"
+      ],
+      "played_at_utc": "2026-10-10 11:50:16Z",
+      "played_at_local": "2026-10-10 08:50:16 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Grivo — C.A.",
+      "artist": "Grivo",
+      "title": "C.A.",
+      "album": "Elude",
+      "uri": "spotify:track:4QFPBLtFUbWsl7P5v589mj",
+      "url": "https://open.spotify.com/track/4QFPBLtFUbWsl7P5v589mj",
+      "artist_ids": [
+        "0NsL0iHM7x5iahPLXXGf9C"
+      ],
+      "played_at_utc": "2026-10-10 11:46:31Z",
+      "played_at_local": "2026-10-10 08:46:31 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "PlasticSkin — Leave Me Alive",
+      "artist": "PlasticSkin",
+      "title": "Leave Me Alive",
+      "album": "Leave Me Alive",
+      "uri": "spotify:track:5EAVDEYnes5b6kQWgxor5L",
+      "url": "https://open.spotify.com/track/5EAVDEYnes5b6kQWgxor5L",
+      "artist_ids": [
+        "3bxcq5dtyl81TTFQeqxD7b"
+      ],
+      "played_at_utc": "2026-10-10 11:42:45Z",
+      "played_at_local": "2026-10-10 08:42:45 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — unrequited",
+      "artist": "Midrift",
+      "title": "unrequited",
+      "album": "unrequited",
+      "uri": "spotify:track:1v4jO5ca9OVgii1glFjz3h",
+      "url": "https://open.spotify.com/track/1v4jO5ca9OVgii1glFjz3h",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:39:56Z",
+      "played_at_local": "2026-10-10 08:39:56 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Glare — Into Me",
+      "artist": "Glare",
+      "title": "Into Me",
+      "album": "Into You",
+      "uri": "spotify:track:38CbWMaYnma3byQ4CDomBu",
+      "url": "https://open.spotify.com/track/38CbWMaYnma3byQ4CDomBu",
+      "artist_ids": [
+        "2dXj6aC3DsxoTDyhk3u4gl"
+      ],
+      "played_at_utc": "2026-10-10 11:37:50Z",
+      "played_at_local": "2026-10-10 08:37:50 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Narrow Head — Nodding Off",
+      "artist": "Narrow Head",
+      "title": "Nodding Off",
+      "album": "12th House Rock",
+      "uri": "spotify:track:7jd5bSsJ3pdPVDU7PdFVJL",
+      "url": "https://open.spotify.com/track/7jd5bSsJ3pdPVDU7PdFVJL",
+      "artist_ids": [
+        "4g6ODwOQYRZLsP89kEoBIu"
+      ],
+      "played_at_utc": "2026-10-10 11:35:50Z",
+      "played_at_local": "2026-10-10 08:35:50 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Druidess — Lavender",
+      "artist": "Druidess",
+      "title": "Lavender",
+      "album": "The Product Of My Love",
+      "uri": "spotify:track:73JlnwZjafppQRnzU2jRyd",
+      "url": "https://open.spotify.com/track/73JlnwZjafppQRnzU2jRyd",
+      "artist_ids": [
+        "6N29twfYpFP41MiqaJuCDW"
+      ],
+      "played_at_utc": "2026-10-10 11:30:09Z",
+      "played_at_local": "2026-10-10 08:30:09 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "trauma ray — Relay",
+      "artist": "trauma ray",
+      "title": "Relay",
+      "album": "[trauma ray]",
+      "uri": "spotify:track:3vuG06ETVyqQlxW2wbBVjg",
+      "url": "https://open.spotify.com/track/3vuG06ETVyqQlxW2wbBVjg",
+      "artist_ids": [
+        "7mhFqGccO5U4pn90mix9S1"
+      ],
+      "played_at_utc": "2026-10-10 11:26:09Z",
+      "played_at_local": "2026-10-10 08:26:09 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Roving — Midnight Shimmer",
+      "artist": "Roving",
+      "title": "Midnight Shimmer",
+      "album": "Spindrift",
+      "uri": "spotify:track:4c7UYPDQRc5WdMctaXblWK",
+      "url": "https://open.spotify.com/track/4c7UYPDQRc5WdMctaXblWK",
+      "artist_ids": [
+        "7gaJjehz7rwF8054V9gKId"
+      ],
+      "played_at_utc": "2026-10-10 11:22:50Z",
+      "played_at_local": "2026-10-10 08:22:50 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Superheaven — From the Chest Down",
+      "artist": "Superheaven",
+      "title": "From the Chest Down",
+      "album": "Ours Is Chrome",
+      "uri": "spotify:track:36OiyE6XR2sbj5kQRYbwlF",
+      "url": "https://open.spotify.com/track/36OiyE6XR2sbj5kQRYbwlF",
+      "artist_ids": [
+        "1IHjrY7ygKbmLVoUV1VcXc"
+      ],
+      "played_at_utc": "2026-10-10 11:19:18Z",
+      "played_at_local": "2026-10-10 08:19:18 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Need",
+      "artist": "Midrift",
+      "title": "Need",
+      "album": "Need",
+      "uri": "spotify:track:1lS81tStikTOHms8wZnvSY",
+      "url": "https://open.spotify.com/track/1lS81tStikTOHms8wZnvSY",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:13:16Z",
+      "played_at_local": "2026-10-10 08:13:16 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Woods",
+      "artist": "Midrift",
+      "title": "Woods",
+      "album": "Leave",
+      "uri": "spotify:track:5TGN8DbbnXTYaxpc4vCgbc",
+      "url": "https://open.spotify.com/track/5TGN8DbbnXTYaxpc4vCgbc",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:10:24Z",
+      "played_at_local": "2026-10-10 08:10:24 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — bouquet",
+      "artist": "Midrift",
+      "title": "bouquet",
+      "album": "Silhouette",
+      "uri": "spotify:track:2Z0yk0bdd4uIQSLMB7qIkO",
+      "url": "https://open.spotify.com/track/2Z0yk0bdd4uIQSLMB7qIkO",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:08:32Z",
+      "played_at_local": "2026-10-10 08:08:32 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Grounded",
+      "artist": "Midrift",
+      "title": "Grounded",
+      "album": "Leave",
+      "uri": "spotify:track:1A4vuFHb7SJdNE5jWQzdDf",
+      "url": "https://open.spotify.com/track/1A4vuFHb7SJdNE5jWQzdDf",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:05:53Z",
+      "played_at_local": "2026-10-10 08:05:53 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — all i said",
+      "artist": "Midrift",
+      "title": "all i said",
+      "album": "Silhouette",
+      "uri": "spotify:track:5tqENJJTuvuJGyCdJNiBZm",
+      "url": "https://open.spotify.com/track/5tqENJJTuvuJGyCdJNiBZm",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:04:09Z",
+      "played_at_local": "2026-10-10 08:04:09 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Wanted",
+      "artist": "Midrift",
+      "title": "Wanted",
+      "album": "Elysian",
+      "uri": "spotify:track:74JfRQ7MyuvWdBXcGFatA7",
+      "url": "https://open.spotify.com/track/74JfRQ7MyuvWdBXcGFatA7",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:01:15Z",
+      "played_at_local": "2026-10-10 08:01:15 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Between",
+      "artist": "Midrift",
+      "title": "Between",
+      "album": "Leave",
+      "uri": "spotify:track:1y4FmnPTRJEbNqdB8jb1k3",
+      "url": "https://open.spotify.com/track/1y4FmnPTRJEbNqdB8jb1k3",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:58:46Z",
+      "played_at_local": "2026-10-10 07:58:46 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Midrift",
+      "artist": "Midrift",
+      "title": "Midrift",
+      "album": "Midrift",
+      "uri": "spotify:track:6YPSpwTfKDgNXiYdTWNcHn",
+      "url": "https://open.spotify.com/track/6YPSpwTfKDgNXiYdTWNcHn",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:56:10Z",
+      "played_at_local": "2026-10-10 07:56:10 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — difference to",
+      "artist": "Midrift",
+      "title": "difference to",
+      "album": "Silhouette",
+      "uri": "spotify:track:5z57kNJCFQgV48uXHoGGtF",
+      "url": "https://open.spotify.com/track/5z57kNJCFQgV48uXHoGGtF",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:54:36Z",
+      "played_at_local": "2026-10-10 07:54:36 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Change For",
+      "artist": "Midrift",
+      "title": "Change For",
+      "album": "Elysian",
+      "uri": "spotify:track:3eofGpnsonHZQ1NRrnLOUu",
+      "url": "https://open.spotify.com/track/3eofGpnsonHZQ1NRrnLOUu",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:51:45Z",
+      "played_at_local": "2026-10-10 07:51:45 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — i remembered to forget",
+      "artist": "Midrift",
+      "title": "i remembered to forget",
+      "album": "Dissociated",
+      "uri": "spotify:track:32IsD6Ye9JbJZc2kGm843B",
+      "url": "https://open.spotify.com/track/32IsD6Ye9JbJZc2kGm843B",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:49:25Z",
+      "played_at_local": "2026-10-10 07:49:25 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — In Pictures",
+      "artist": "Midrift",
+      "title": "In Pictures",
+      "album": "Midrift",
+      "uri": "spotify:track:39G55viGTxmEFXiL278mpU",
+      "url": "https://open.spotify.com/track/39G55viGTxmEFXiL278mpU",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:46:48Z",
+      "played_at_local": "2026-10-10 07:46:48 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — silhouette",
+      "artist": "Midrift",
+      "title": "silhouette",
+      "album": "Silhouette",
+      "uri": "spotify:track:5x6NqdQ7RYwG3xEe84BKva",
+      "url": "https://open.spotify.com/track/5x6NqdQ7RYwG3xEe84BKva",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:44:44Z",
+      "played_at_local": "2026-10-10 07:44:44 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Path",
+      "artist": "Midrift",
+      "title": "Path",
+      "album": "Elysian",
+      "uri": "spotify:track:01P7mLZd6k7XjJAx5WoCsu",
+      "url": "https://open.spotify.com/track/01P7mLZd6k7XjJAx5WoCsu",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:40:46Z",
+      "played_at_local": "2026-10-10 07:40:46 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — two-headed calf",
+      "artist": "Midrift",
+      "title": "two-headed calf",
+      "album": "Leave",
+      "uri": "spotify:track:5CQ2hQr0BBBO8w9HSnKqm0",
+      "url": "https://open.spotify.com/track/5CQ2hQr0BBBO8w9HSnKqm0",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:38:11Z",
+      "played_at_local": "2026-10-10 07:38:11 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — it still feels real to me",
+      "artist": "Midrift",
+      "title": "it still feels real to me",
+      "album": "Dissociated",
+      "uri": "spotify:track:7KJhWKW6cgS2cFmSxeXsmK",
+      "url": "https://open.spotify.com/track/7KJhWKW6cgS2cFmSxeXsmK",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:35:21Z",
+      "played_at_local": "2026-10-10 07:35:21 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — over anything",
+      "artist": "Midrift",
+      "title": "over anything",
+      "album": "Silhouette",
+      "uri": "spotify:track:0jIfMi6DdGMwt1MdYktrb4",
+      "url": "https://open.spotify.com/track/0jIfMi6DdGMwt1MdYktrb4",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:33:03Z",
+      "played_at_local": "2026-10-10 07:33:03 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Tell Me Everything",
+      "artist": "Midrift",
+      "title": "Tell Me Everything",
+      "album": "Tell Me Everything",
+      "uri": "spotify:track:0Put2yuIdLCLsKD4QF46eW",
+      "url": "https://open.spotify.com/track/0Put2yuIdLCLsKD4QF46eW",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:30:28Z",
+      "played_at_local": "2026-10-10 07:30:28 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — leaving tonight",
+      "artist": "Midrift",
+      "title": "leaving tonight",
+      "album": "leaving tonight",
+      "uri": "spotify:track:49H2wZwh69vek45Twbr8X5",
+      "url": "https://open.spotify.com/track/49H2wZwh69vek45Twbr8X5",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:27:24Z",
+      "played_at_local": "2026-10-10 07:27:24 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — not far gone",
+      "artist": "Midrift",
+      "title": "not far gone",
+      "album": "Silhouette",
+      "uri": "spotify:track:1qu9Ga5JA6ub0poPqpEcx7",
+      "url": "https://open.spotify.com/track/1qu9Ga5JA6ub0poPqpEcx7",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:25:08Z",
+      "played_at_local": "2026-10-10 07:25:08 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — dismal",
+      "artist": "Midrift",
+      "title": "dismal",
+      "album": "dismal",
+      "uri": "spotify:track:0BpVAwVSq0De3DtroDmmKh",
+      "url": "https://open.spotify.com/track/0BpVAwVSq0De3DtroDmmKh",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:22:00Z",
+      "played_at_local": "2026-10-10 07:22:00 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Safe And Sound",
+      "artist": "Midrift",
+      "title": "Safe And Sound",
+      "album": "Safe And Sound",
+      "uri": "spotify:track:1Q3YtDncLE9yCEe4XovKSx",
+      "url": "https://open.spotify.com/track/1Q3YtDncLE9yCEe4XovKSx",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:20:00Z",
+      "played_at_local": "2026-10-10 07:20:00 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Tongue",
+      "artist": "Midrift",
+      "title": "Tongue",
+      "album": "Midrift",
+      "uri": "spotify:track:1WdTUMgIWaaLniqBzO7Oxn",
+      "url": "https://open.spotify.com/track/1WdTUMgIWaaLniqBzO7Oxn",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:17:35Z",
+      "played_at_local": "2026-10-10 07:17:35 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Machina",
+      "artist": "Midrift",
+      "title": "Machina",
+      "album": "Midrift",
+      "uri": "spotify:track:7I2gQrpRqyBCMQ3LQOh4vO",
+      "url": "https://open.spotify.com/track/7I2gQrpRqyBCMQ3LQOh4vO",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:15:35Z",
+      "played_at_local": "2026-10-10 07:15:35 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — into place",
+      "artist": "Midrift",
+      "title": "into place",
+      "album": "into place",
+      "uri": "spotify:track:5I51WDo5Lf0DOysE5UVRuD",
+      "url": "https://open.spotify.com/track/5I51WDo5Lf0DOysE5UVRuD",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:13:24Z",
+      "played_at_local": "2026-10-10 07:13:24 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Burden",
+      "artist": "Midrift",
+      "title": "Burden",
+      "album": "Elysian",
+      "uri": "spotify:track:57nAMWHr1d771Oai4i3niQ",
+      "url": "https://open.spotify.com/track/57nAMWHr1d771Oai4i3niQ",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:10:45Z",
+      "played_at_local": "2026-10-10 07:10:45 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Reaching For You",
+      "artist": "Midrift",
+      "title": "Reaching For You",
+      "album": "Reaching For You",
+      "uri": "spotify:track:58fGJxUM7A0NFwhkAswql7",
+      "url": "https://open.spotify.com/track/58fGJxUM7A0NFwhkAswql7",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:08:36Z",
+      "played_at_local": "2026-10-10 07:08:36 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Need",
+      "artist": "Midrift",
+      "title": "Need",
+      "album": "Need",
+      "uri": "spotify:track:1lS81tStikTOHms8wZnvSY",
+      "url": "https://open.spotify.com/track/1lS81tStikTOHms8wZnvSY",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:05:17Z",
+      "played_at_local": "2026-10-10 07:05:17 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Twin Flames",
+      "artist": "Midrift",
+      "title": "Twin Flames",
+      "album": "Midrift",
+      "uri": "spotify:track:2xnIV4DQp2D0qVHCQYRIn9",
+      "url": "https://open.spotify.com/track/2xnIV4DQp2D0qVHCQYRIn9",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:02:25Z",
+      "played_at_local": "2026-10-10 07:02:25 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — unrequited",
+      "artist": "Midrift",
+      "title": "unrequited",
+      "album": "unrequited",
+      "uri": "spotify:track:1v4jO5ca9OVgii1glFjz3h",
+      "url": "https://open.spotify.com/track/1v4jO5ca9OVgii1glFjz3h",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:00:45Z",
+      "played_at_local": "2026-10-10 07:00:45 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Helmet — You Borrowed",
+      "artist": "Helmet",
+      "title": "You Borrowed",
+      "album": "Meantime",
+      "uri": "spotify:track:5RzZkoMROd0iY0iFU31VZE",
+      "url": "https://open.spotify.com/track/5RzZkoMROd0iY0iFU31VZE",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-10 09:56:22Z",
+      "played_at_local": "2026-10-10 06:56:22 -03",
+      "local_hour": 6,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Better",
+      "artist": "Helmet",
+      "title": "Better",
+      "album": "Meantime",
+      "uri": "spotify:track:4zifCcliaROnRc1r35F6KN",
+      "url": "https://open.spotify.com/track/4zifCcliaROnRc1r35F6KN",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-10 09:55:20Z",
+      "played_at_local": "2026-10-10 06:55:20 -03",
+      "local_hour": 6,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — He Feels Bad",
+      "artist": "Helmet",
+      "title": "He Feels Bad",
+      "album": "Meantime",
+      "uri": "spotify:track:580vmwV7m3VncbxaWdc8q4",
+      "url": "https://open.spotify.com/track/580vmwV7m3VncbxaWdc8q4",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-10 09:52:10Z",
+      "played_at_local": "2026-10-10 06:52:10 -03",
+      "local_hour": 6,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Turned Out",
+      "artist": "Helmet",
+      "title": "Turned Out",
+      "album": "Meantime",
+      "uri": "spotify:track:1hkMn2pxLovYof8uDgpiTq",
+      "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-10 09:48:06Z",
+      "played_at_local": "2026-10-10 06:48:06 -03",
+      "local_hour": 6,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Unsung",
+      "artist": "Helmet",
+      "title": "Unsung",
+      "album": "Meantime",
+      "uri": "spotify:track:0z25tUQgEI4cIyNZ1TgWig",
+      "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-10 09:43:53Z",
+      "played_at_local": "2026-10-10 06:43:53 -03",
+      "local_hour": 6,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
+    {
+      "track": "Helmet — Give It",
+      "artist": "Helmet",
+      "title": "Give It",
+      "album": "Meantime",
+      "uri": "spotify:track:6rVleAFgtmJ04Omk6Mmon5",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-10 09:39:56Z",
+      "played_at_local": "2026-10-10 06:39:56 -03",
+      "local_hour": 6,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ",
+      "context_url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+    },
     {
       "track": "The Mars Volta — Goliath",
       "artist": "The Mars Volta",

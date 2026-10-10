@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-10-10 06:02:02Z",
+  "report_generated_utc": "2026-10-10 12:42:56Z",
   "status": "IDLE",
-  "last_track": "The Mars Volta — Goliath",
-  "last_played_utc": "2026-10-08 08:25:40Z",
+  "last_track": "Midrift — Twin Flames",
+  "last_played_utc": "2026-10-10 12:01:40Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1886,745 +1886,776 @@
       "progressive rock",
       "progressive metal",
       "art rock"
+    ],
+    "6ROfszneZDogjnbgqkxA7E": [
+      "shoegaze"
+    ],
+    "7gaJjehz7rwF8054V9gKId": [
+      "shoegaze"
+    ],
+    "4u8phrcaIdvRzcGq5DcQJa": [
+      "shoegaze",
+      "post-grunge"
+    ],
+    "1ugmCkxd2MSyvkVA9puoff": [
+      "shoegaze"
+    ],
+    "0NsL0iHM7x5iahPLXXGf9C": [
+      "shoegaze",
+      "slowcore",
+      "dream pop"
+    ],
+    "3bxcq5dtyl81TTFQeqxD7b": [
+      "shoegaze"
+    ],
+    "2dXj6aC3DsxoTDyhk3u4gl": [
+      "shoegaze"
+    ],
+    "4g6ODwOQYRZLsP89kEoBIu": [
+      "shoegaze",
+      "post-grunge"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : The Mars Volta — Goliath\nArtist                    : The Mars Volta\nTitle                     : Goliath\nAlbum                     : Goliath\nSpotify URI               : spotify:track:2meXyPtKfJ6ftVCTBdZKGh\nSpotify URL               : https://open.spotify.com/track/2meXyPtKfJ6ftVCTBdZKGh\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-10-08 08:25:40Z\nPlayed at (local)         : 2026-10-08 05:25:40 -03\nLocal hour                : 05:00\nDaypart                   : NIGHT\nTime since play           : 45:36:23\nGap from previous play    : 11:44:09\n------------------------------------------------------------\nPrevious song             : Chevelle — Forfeit\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 1\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Chevelle — Forfeit | 2026-10-07 17:41:31 -03\nPrevious track #2         : Godsmack — Dead And Broken | 2026-10-06 19:37:42 -03\nPrevious track #3         : Godsmack — Dead And Broken | 2026-10-06 15:27:02 -03\nPrevious track #4         : Godsmack — Dead And Broken | 2026-10-06 13:26:43 -03\nPrevious track #5         : Godsmack — Dead And Broken | 2026-10-06 12:53:21 -03\nPrevious track #6         : Godsmack — Dead And Broken | 2026-10-06 11:53:48 -03\nPrevious track #7         : Godsmack — Dead And Broken | 2026-10-06 11:48:41 -03\nPrevious track #8         : Godsmack — I Fucking Hate You | 2026-10-05 22:44:38 -03\nPrevious track #9         : Godsmack — I Stand Alone | 2026-10-05 09:03:04 -03\nPrevious track #10        : Stone Temple Pilots — Down | 2026-10-01 08:09:01 -03\nPrevious track #11        : P.O.D. — Youth of the Nation | 2026-10-01 07:57:02 -03\nPrevious track #12        : Incubus — Vitamin | 2026-10-01 07:52:46 -03\nPrevious track #13        : Limp Bizkit — Boiler | 2026-10-01 07:49:31 -03\nPrevious track #14        : White Zombie — More Human Than Human | 2026-10-01 07:42:30 -03\nPrevious track #15        : Seether — Truth | 2026-10-01 07:38:01 -03\nPrevious track #16        : Filter — Hey Man, Nice Shot - Remastered Version 2025 | 2026-10-01 07:34:10 -03\nPrevious track #17        : Cold — End Of The World | 2026-10-01 07:28:55 -03\nPrevious track #18        : TOOL — Undertow | 2026-10-01 07:25:51 -03\nPrevious track #19        : Flaw — Out Of Whack | 2026-10-01 07:20:28 -03\nPrevious track #20        : Godsmack — Mistakes | 2026-10-01 07:16:39 -03\nPrevious track #21        : Mudvayne — Happy? | 2026-10-01 07:10:40 -03\nPrevious track #22        : P.O.D. — Satellite | 2026-10-01 07:07:03 -03\nPrevious track #23        : Disturbed — Voices | 2026-10-01 07:03:32 -03\nPrevious track #24        : Drowning Pool — Tear Away | 2026-10-01 07:00:19 -03\nPrevious track #25        : Earshot — Get Away | 2026-10-01 06:56:04 -03\nPrevious track #26        : A Perfect Circle — Pet | 2026-10-01 06:51:31 -03\nPrevious track #27        : Chevelle — Take Out the Gunman | 2026-10-01 06:46:56 -03\nPrevious track #28        : Cold — It's All Good | 2026-10-01 06:42:36 -03\nPrevious track #29        : TOOL — Bottom | 2026-10-01 06:38:52 -03\nPrevious track #30        : Limp Bizkit — Re-Arranged | 2026-10-01 06:31:38 -03\nPrevious track #31        : Godsmack — Greed | 2026-10-01 06:25:42 -03\nPrevious track #32        : Godsmack — Serenity | 2026-10-01 06:22:13 -03\nPrevious track #33        : Godsmack — The Awakening | 2026-10-01 06:17:37 -03\nPrevious track #34        : Godsmack — I Am | 2026-10-01 06:16:07 -03\nPrevious track #35        : Godsmack — Dead And Broken | 2026-10-01 06:12:09 -03\nPrevious track #36        : Godsmack — Releasing The Demons | 2026-10-01 06:07:57 -03\nPrevious track #37        : Godsmack — I Fucking Hate You | 2026-10-01 06:03:44 -03\nPrevious track #38        : Godsmack — Re-Align | 2026-10-01 05:59:36 -03\nPrevious track #39        : Godsmack — I Stand Alone | 2026-10-01 05:55:15 -03\nPrevious track #40        : Godsmack — Make Me Believe | 2026-10-01 05:51:08 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-09-30 20:52:17 -03\nTrack observed in context : John Coltrane — Blue World\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #3      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #5      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #6      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #8      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-30 23:56:54Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 10\nUnique tracks             : 5\nUnique artists            : 3\nReplay ratio              : █████████░░░░░░░░░  50.0%\nArtist diversity          : █████░░░░░░░░░░░░░  30.0%\nDominant artist           : Godsmack\nDominant artist share     : ██████████████░░░░  80.0%\nArtist switch ratio       : ████░░░░░░░░░░░░░░  22.2%\nLongest artist streak     : Godsmack × 8\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ██░░░░░░░░░░░░░░░░   10.0%\nMorning    06–12           : █████░░░░░░░░░░░░░   30.0%\nAfternoon  12–18           : ███████░░░░░░░░░░░   40.0%\nEvening    18–24           : ████░░░░░░░░░░░░░░   20.0%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-10-05 12:03:04Z\nHistory last play (7d)    : 2026-10-08 08:25:40Z\nObserved time span        : 68:22:36\nMean inter-play gap       : 07:35:51\nMedian inter-play gap     : 04:10:40\nLongest inactivity gap    : 22:03:49\nListening intensity       : 0.15 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 11:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              :      ▄   ▄ █▄▄ ▄ ▄ ▄  ▄ \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        : ▃█▁▁   \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁    \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :          █            █ \nTue                       :            █▄▄ ▄   ▄    \nWed                       :                  █      \nThu                       :      █                  \nFri                       :                         \nSat                       :                         \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-10-03 06:02:02Z → 2026-10-10 06:02:02Z\nTracks played (7d)        : 10\nDominant artist           : Godsmack\nCadence classification    : LOW\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 9\nAvg inter-play gap        : 07:35:51\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : alternative metal(9) | nu metal(9) | hard rock(8) | metal(8) | rap metal(8) | art rock(1)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : NO CHANGE\nState transition          : NO CHANGE\nTelemetry interval        : 07:17:48\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 437\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-10-08 05:25:40 -03\nEvents (24h)              : 0\nEvents (7d)               : 10\nEvents (30d)              : 210\nPlaylist contexts retained: 128\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-10-10 06:02:02Z",
-  "last_successful_report_utc": "2026-10-10 06:02:02Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Midrift — Twin Flames\nArtist                    : Midrift\nTitle                     : Twin Flames\nAlbum                     : Midrift\nSpotify URI               : spotify:track:2xnIV4DQp2D0qVHCQYRIn9\nSpotify URL               : https://open.spotify.com/track/2xnIV4DQp2D0qVHCQYRIn9\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-10-10 12:01:40Z\nPlayed at (local)         : 2026-10-10 09:01:40 -03\nLocal hour                : 09:00\nDaypart                   : MORNING\nTime since play           : 00:41:17\nGap from previous play    : 00:01:41\n------------------------------------------------------------\nPrevious song             : Roving — Haven Blue\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 2\nArtist plays (retained)   : 32\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Roving — Haven Blue | 2026-10-10 08:59:59 -03\nPrevious track #2         : Superheaven — Blur | 2026-10-10 08:56:24 -03\nPrevious track #3         : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03\nPrevious track #4         : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03\nPrevious track #5         : Grivo — C.A. | 2026-10-10 08:46:31 -03\nPrevious track #6         : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03\nPrevious track #7         : Midrift — unrequited | 2026-10-10 08:39:56 -03\nPrevious track #8         : Glare — Into Me | 2026-10-10 08:37:50 -03\nPrevious track #9         : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03\nPrevious track #10        : Druidess — Lavender | 2026-10-10 08:30:09 -03\nPrevious track #11        : trauma ray — Relay | 2026-10-10 08:26:09 -03\nPrevious track #12        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03\nPrevious track #13        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03\nPrevious track #14        : Midrift — Need | 2026-10-10 08:13:16 -03\nPrevious track #15        : Midrift — Woods | 2026-10-10 08:10:24 -03\nPrevious track #16        : Midrift — bouquet | 2026-10-10 08:08:32 -03\nPrevious track #17        : Midrift — Grounded | 2026-10-10 08:05:53 -03\nPrevious track #18        : Midrift — all i said | 2026-10-10 08:04:09 -03\nPrevious track #19        : Midrift — Wanted | 2026-10-10 08:01:15 -03\nPrevious track #20        : Midrift — Between | 2026-10-10 07:58:46 -03\nPrevious track #21        : Midrift — Midrift | 2026-10-10 07:56:10 -03\nPrevious track #22        : Midrift — difference to | 2026-10-10 07:54:36 -03\nPrevious track #23        : Midrift — Change For | 2026-10-10 07:51:45 -03\nPrevious track #24        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03\nPrevious track #25        : Midrift — In Pictures | 2026-10-10 07:46:48 -03\nPrevious track #26        : Midrift — silhouette | 2026-10-10 07:44:44 -03\nPrevious track #27        : Midrift — Path | 2026-10-10 07:40:46 -03\nPrevious track #28        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03\nPrevious track #29        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03\nPrevious track #30        : Midrift — over anything | 2026-10-10 07:33:03 -03\nPrevious track #31        : Midrift — Tell Me Everything | 2026-10-10 07:30:28 -03\nPrevious track #32        : Midrift — leaving tonight | 2026-10-10 07:27:24 -03\nPrevious track #33        : Midrift — not far gone | 2026-10-10 07:25:08 -03\nPrevious track #34        : Midrift — dismal | 2026-10-10 07:22:00 -03\nPrevious track #35        : Midrift — Safe And Sound | 2026-10-10 07:20:00 -03\nPrevious track #36        : Midrift — Tongue | 2026-10-10 07:17:35 -03\nPrevious track #37        : Midrift — Machina | 2026-10-10 07:15:35 -03\nPrevious track #38        : Midrift — into place | 2026-10-10 07:13:24 -03\nPrevious track #39        : Midrift — Burden | 2026-10-10 07:10:45 -03\nPrevious track #40        : Midrift — Reaching For You | 2026-10-10 07:08:36 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-09-30 20:52:17 -03\nTrack observed in context : John Coltrane — Blue World\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #3      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #5      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #6      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #8      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-30 23:56:54Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 60\nUnique tracks             : 52\nUnique artists            : 15\nReplay ratio              : ██░░░░░░░░░░░░░░░░  13.3%\nArtist diversity          : ████░░░░░░░░░░░░░░  25.0%\nDominant artist           : Midrift\nDominant artist share     : ██████████░░░░░░░░  53.3%\nArtist switch ratio       : █████░░░░░░░░░░░░░  30.5%\nLongest artist streak     : Midrift × 30\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    1.7%\nMorning    06–12           : ████████████████░░   88.3%\nAfternoon  12–18           : █░░░░░░░░░░░░░░░░░    6.7%\nEvening    18–24           : █░░░░░░░░░░░░░░░░░    3.3%\nDominant period           : MORNING\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-10-05 12:03:04Z\nHistory last play (7d)    : 2026-10-10 12:01:40Z\nObserved time span        : 119:58:36\nMean inter-play gap       : 02:02:01\nMedian inter-play gap     : 00:02:52\nLongest inactivity gap    : 49:14:16\nListening intensity       : 0.50 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 07:00\nPeak hour (7d)            : 07:00\nHeatmap (24h)             :       ▂█▆               \nHeatmap (7d)              :       ▂█▆▁ ▁            \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :  ▁   █ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : █   ▁ ▅▂     ▃ ▄ ▂ ▁▅    ▁   █\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :          █            █ \nTue                       :            █▄▄ ▄   ▄    \nWed                       :                  █      \nThu                       :      █                  \nFri                       :                         \nSat                       :       ▂█▆               \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 50\nDominant artist           : Midrift\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-10-03 12:42:56Z → 2026-10-10 12:42:56Z\nTracks played (7d)        : 60\nDominant artist           : Midrift\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 10\nAvg inter-play gap        : 02:02:01\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : shoegaze(44) | alternative metal(6) | groove metal(6) | grunge(6) | noise rock(6) | post-hardcore(6)\nTop genres (7d)           : shoegaze(44) | alternative metal(15) | nu metal(9) | hard rock(8) | metal(8) | rap metal(8)\nArtist lookups (this run) : 8 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : The Mars Volta — Goliath → Midrift — Twin Flames\nPlayback timestamp Δ      : 2026-10-08 08:25:40Z → 2026-10-10 12:01:40Z\nState transition          : NO CHANGE\nTelemetry interval        : 06:40:55\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 487\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-10-10 09:01:40 -03\nEvents (24h)              : 50\nEvents (7d)               : 60\nEvents (30d)              : 260\nPlaylist contexts retained: 128\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-10-10 12:42:56Z",
+  "last_successful_report_utc": "2026-10-10 12:42:56Z",
   "recent_playback_history": [
     {
-      "track": "The Mars Volta — Goliath",
-      "artist": "The Mars Volta",
-      "title": "Goliath",
-      "album": "Goliath",
-      "uri": "spotify:track:2meXyPtKfJ6ftVCTBdZKGh",
-      "url": "https://open.spotify.com/track/2meXyPtKfJ6ftVCTBdZKGh",
+      "track": "Midrift — Twin Flames",
+      "artist": "Midrift",
+      "title": "Twin Flames",
+      "album": "Midrift",
+      "uri": "spotify:track:2xnIV4DQp2D0qVHCQYRIn9",
+      "url": "https://open.spotify.com/track/2xnIV4DQp2D0qVHCQYRIn9",
       "artist_ids": [
-        "75U40yZLLPglFgXbDVnmVs"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-08 08:25:40Z",
-      "played_at_local": "2026-10-08 05:25:40 -03",
-      "local_hour": 5,
-      "weekday": 3
-    },
-    {
-      "track": "Chevelle — Forfeit",
-      "artist": "Chevelle",
-      "title": "Forfeit",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:6ptcVVRn97eAKqUy6kUVK5",
-      "url": "https://open.spotify.com/track/6ptcVVRn97eAKqUy6kUVK5",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-10-07 20:41:31Z",
-      "played_at_local": "2026-10-07 17:41:31 -03",
-      "local_hour": 17,
-      "weekday": 2,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:56dO9zeHKuU5Gvfc2kxHNw",
-      "context_url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-    },
-    {
-      "track": "Godsmack — Dead And Broken",
-      "artist": "Godsmack",
-      "title": "Dead And Broken",
-      "album": "Faceless",
-      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
-      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-06 22:37:42Z",
-      "played_at_local": "2026-10-06 19:37:42 -03",
-      "local_hour": 19,
-      "weekday": 1,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Dead And Broken",
-      "artist": "Godsmack",
-      "title": "Dead And Broken",
-      "album": "Faceless",
-      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
-      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-06 18:27:02Z",
-      "played_at_local": "2026-10-06 15:27:02 -03",
-      "local_hour": 15,
-      "weekday": 1,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Dead And Broken",
-      "artist": "Godsmack",
-      "title": "Dead And Broken",
-      "album": "Faceless",
-      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
-      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-06 16:26:43Z",
-      "played_at_local": "2026-10-06 13:26:43 -03",
-      "local_hour": 13,
-      "weekday": 1,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Dead And Broken",
-      "artist": "Godsmack",
-      "title": "Dead And Broken",
-      "album": "Faceless",
-      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
-      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-06 15:53:21Z",
-      "played_at_local": "2026-10-06 12:53:21 -03",
-      "local_hour": 12,
-      "weekday": 1,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Dead And Broken",
-      "artist": "Godsmack",
-      "title": "Dead And Broken",
-      "album": "Faceless",
-      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
-      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-06 14:53:48Z",
-      "played_at_local": "2026-10-06 11:53:48 -03",
-      "local_hour": 11,
-      "weekday": 1,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Dead And Broken",
-      "artist": "Godsmack",
-      "title": "Dead And Broken",
-      "album": "Faceless",
-      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
-      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-06 14:48:41Z",
-      "played_at_local": "2026-10-06 11:48:41 -03",
-      "local_hour": 11,
-      "weekday": 1,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — I Fucking Hate You",
-      "artist": "Godsmack",
-      "title": "I Fucking Hate You",
-      "album": "Faceless",
-      "uri": "spotify:track:2Uilp8alSjAxV0IXorUk9l",
-      "url": "https://open.spotify.com/track/2Uilp8alSjAxV0IXorUk9l",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-06 01:44:38Z",
-      "played_at_local": "2026-10-05 22:44:38 -03",
-      "local_hour": 22,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — I Stand Alone",
-      "artist": "Godsmack",
-      "title": "I Stand Alone",
-      "album": "Faceless",
-      "uri": "spotify:track:6eYUbXmncekAKMYZcsSkyD",
-      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-05 12:03:04Z",
-      "played_at_local": "2026-10-05 09:03:04 -03",
+      "played_at_utc": "2026-10-10 12:01:40Z",
+      "played_at_local": "2026-10-10 09:01:40 -03",
       "local_hour": 9,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Stone Temple Pilots — Down",
-      "artist": "Stone Temple Pilots",
-      "title": "Down",
-      "album": "No. 4",
-      "uri": "spotify:track:0Im8piS5MwtQAnpWVla5iw",
-      "url": "https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw",
+      "track": "Roving — Haven Blue",
+      "artist": "Roving",
+      "title": "Haven Blue",
+      "album": "Spindrift",
+      "uri": "spotify:track:47DYaP0x4scYXbqSzeBc5b",
+      "url": "https://open.spotify.com/track/47DYaP0x4scYXbqSzeBc5b",
       "artist_ids": [
-        "2UazAtjfzqBF0Nho2awK4z"
+        "7gaJjehz7rwF8054V9gKId"
       ],
-      "played_at_utc": "2026-10-01 11:09:01Z",
-      "played_at_local": "2026-10-01 08:09:01 -03",
+      "played_at_utc": "2026-10-10 11:59:59Z",
+      "played_at_local": "2026-10-10 08:59:59 -03",
       "local_hour": 8,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "P.O.D. — Youth of the Nation",
-      "artist": "P.O.D.",
-      "title": "Youth of the Nation",
-      "album": "Satellite (U.S. Version)",
-      "uri": "spotify:track:0UrWr7Jnu1heq1o99ZwUd0",
-      "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0",
+      "track": "Superheaven — Blur",
+      "artist": "Superheaven",
+      "title": "Blur",
+      "album": "Ours Is Chrome",
+      "uri": "spotify:track:4HJeWpk0egepZrDF8PJdlT",
+      "url": "https://open.spotify.com/track/4HJeWpk0egepZrDF8PJdlT",
       "artist_ids": [
-        "6KO6G41BBLTDNYOLefWTMU"
+        "1IHjrY7ygKbmLVoUV1VcXc"
       ],
-      "played_at_utc": "2026-10-01 10:57:02Z",
-      "played_at_local": "2026-10-01 07:57:02 -03",
+      "played_at_utc": "2026-10-10 11:56:24Z",
+      "played_at_local": "2026-10-10 08:56:24 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Soul Blind — Stuck In A Loop",
+      "artist": "Soul Blind",
+      "title": "Stuck In A Loop",
+      "album": "Feel It All Around",
+      "uri": "spotify:track:0apa0CvhUGg1CeFwCYUVeQ",
+      "url": "https://open.spotify.com/track/0apa0CvhUGg1CeFwCYUVeQ",
+      "artist_ids": [
+        "4u8phrcaIdvRzcGq5DcQJa"
+      ],
+      "played_at_utc": "2026-10-10 11:53:05Z",
+      "played_at_local": "2026-10-10 08:53:05 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "SWEET SPINE — Darkness",
+      "artist": "SWEET SPINE",
+      "title": "Darkness",
+      "album": "Darkness",
+      "uri": "spotify:track:4WvX69qstX6F3rOHfpTymz",
+      "url": "https://open.spotify.com/track/4WvX69qstX6F3rOHfpTymz",
+      "artist_ids": [
+        "1ugmCkxd2MSyvkVA9puoff"
+      ],
+      "played_at_utc": "2026-10-10 11:50:16Z",
+      "played_at_local": "2026-10-10 08:50:16 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Grivo — C.A.",
+      "artist": "Grivo",
+      "title": "C.A.",
+      "album": "Elude",
+      "uri": "spotify:track:4QFPBLtFUbWsl7P5v589mj",
+      "url": "https://open.spotify.com/track/4QFPBLtFUbWsl7P5v589mj",
+      "artist_ids": [
+        "0NsL0iHM7x5iahPLXXGf9C"
+      ],
+      "played_at_utc": "2026-10-10 11:46:31Z",
+      "played_at_local": "2026-10-10 08:46:31 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "PlasticSkin — Leave Me Alive",
+      "artist": "PlasticSkin",
+      "title": "Leave Me Alive",
+      "album": "Leave Me Alive",
+      "uri": "spotify:track:5EAVDEYnes5b6kQWgxor5L",
+      "url": "https://open.spotify.com/track/5EAVDEYnes5b6kQWgxor5L",
+      "artist_ids": [
+        "3bxcq5dtyl81TTFQeqxD7b"
+      ],
+      "played_at_utc": "2026-10-10 11:42:45Z",
+      "played_at_local": "2026-10-10 08:42:45 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — unrequited",
+      "artist": "Midrift",
+      "title": "unrequited",
+      "album": "unrequited",
+      "uri": "spotify:track:1v4jO5ca9OVgii1glFjz3h",
+      "url": "https://open.spotify.com/track/1v4jO5ca9OVgii1glFjz3h",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:39:56Z",
+      "played_at_local": "2026-10-10 08:39:56 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Glare — Into Me",
+      "artist": "Glare",
+      "title": "Into Me",
+      "album": "Into You",
+      "uri": "spotify:track:38CbWMaYnma3byQ4CDomBu",
+      "url": "https://open.spotify.com/track/38CbWMaYnma3byQ4CDomBu",
+      "artist_ids": [
+        "2dXj6aC3DsxoTDyhk3u4gl"
+      ],
+      "played_at_utc": "2026-10-10 11:37:50Z",
+      "played_at_local": "2026-10-10 08:37:50 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Narrow Head — Nodding Off",
+      "artist": "Narrow Head",
+      "title": "Nodding Off",
+      "album": "12th House Rock",
+      "uri": "spotify:track:7jd5bSsJ3pdPVDU7PdFVJL",
+      "url": "https://open.spotify.com/track/7jd5bSsJ3pdPVDU7PdFVJL",
+      "artist_ids": [
+        "4g6ODwOQYRZLsP89kEoBIu"
+      ],
+      "played_at_utc": "2026-10-10 11:35:50Z",
+      "played_at_local": "2026-10-10 08:35:50 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Druidess — Lavender",
+      "artist": "Druidess",
+      "title": "Lavender",
+      "album": "The Product Of My Love",
+      "uri": "spotify:track:73JlnwZjafppQRnzU2jRyd",
+      "url": "https://open.spotify.com/track/73JlnwZjafppQRnzU2jRyd",
+      "artist_ids": [
+        "6N29twfYpFP41MiqaJuCDW"
+      ],
+      "played_at_utc": "2026-10-10 11:30:09Z",
+      "played_at_local": "2026-10-10 08:30:09 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "trauma ray — Relay",
+      "artist": "trauma ray",
+      "title": "Relay",
+      "album": "[trauma ray]",
+      "uri": "spotify:track:3vuG06ETVyqQlxW2wbBVjg",
+      "url": "https://open.spotify.com/track/3vuG06ETVyqQlxW2wbBVjg",
+      "artist_ids": [
+        "7mhFqGccO5U4pn90mix9S1"
+      ],
+      "played_at_utc": "2026-10-10 11:26:09Z",
+      "played_at_local": "2026-10-10 08:26:09 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Roving — Midnight Shimmer",
+      "artist": "Roving",
+      "title": "Midnight Shimmer",
+      "album": "Spindrift",
+      "uri": "spotify:track:4c7UYPDQRc5WdMctaXblWK",
+      "url": "https://open.spotify.com/track/4c7UYPDQRc5WdMctaXblWK",
+      "artist_ids": [
+        "7gaJjehz7rwF8054V9gKId"
+      ],
+      "played_at_utc": "2026-10-10 11:22:50Z",
+      "played_at_local": "2026-10-10 08:22:50 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Superheaven — From the Chest Down",
+      "artist": "Superheaven",
+      "title": "From the Chest Down",
+      "album": "Ours Is Chrome",
+      "uri": "spotify:track:36OiyE6XR2sbj5kQRYbwlF",
+      "url": "https://open.spotify.com/track/36OiyE6XR2sbj5kQRYbwlF",
+      "artist_ids": [
+        "1IHjrY7ygKbmLVoUV1VcXc"
+      ],
+      "played_at_utc": "2026-10-10 11:19:18Z",
+      "played_at_local": "2026-10-10 08:19:18 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Need",
+      "artist": "Midrift",
+      "title": "Need",
+      "album": "Need",
+      "uri": "spotify:track:1lS81tStikTOHms8wZnvSY",
+      "url": "https://open.spotify.com/track/1lS81tStikTOHms8wZnvSY",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:13:16Z",
+      "played_at_local": "2026-10-10 08:13:16 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Woods",
+      "artist": "Midrift",
+      "title": "Woods",
+      "album": "Leave",
+      "uri": "spotify:track:5TGN8DbbnXTYaxpc4vCgbc",
+      "url": "https://open.spotify.com/track/5TGN8DbbnXTYaxpc4vCgbc",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:10:24Z",
+      "played_at_local": "2026-10-10 08:10:24 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — bouquet",
+      "artist": "Midrift",
+      "title": "bouquet",
+      "album": "Silhouette",
+      "uri": "spotify:track:2Z0yk0bdd4uIQSLMB7qIkO",
+      "url": "https://open.spotify.com/track/2Z0yk0bdd4uIQSLMB7qIkO",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:08:32Z",
+      "played_at_local": "2026-10-10 08:08:32 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Grounded",
+      "artist": "Midrift",
+      "title": "Grounded",
+      "album": "Leave",
+      "uri": "spotify:track:1A4vuFHb7SJdNE5jWQzdDf",
+      "url": "https://open.spotify.com/track/1A4vuFHb7SJdNE5jWQzdDf",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:05:53Z",
+      "played_at_local": "2026-10-10 08:05:53 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — all i said",
+      "artist": "Midrift",
+      "title": "all i said",
+      "album": "Silhouette",
+      "uri": "spotify:track:5tqENJJTuvuJGyCdJNiBZm",
+      "url": "https://open.spotify.com/track/5tqENJJTuvuJGyCdJNiBZm",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:04:09Z",
+      "played_at_local": "2026-10-10 08:04:09 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Wanted",
+      "artist": "Midrift",
+      "title": "Wanted",
+      "album": "Elysian",
+      "uri": "spotify:track:74JfRQ7MyuvWdBXcGFatA7",
+      "url": "https://open.spotify.com/track/74JfRQ7MyuvWdBXcGFatA7",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 11:01:15Z",
+      "played_at_local": "2026-10-10 08:01:15 -03",
+      "local_hour": 8,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+    },
+    {
+      "track": "Midrift — Between",
+      "artist": "Midrift",
+      "title": "Between",
+      "album": "Leave",
+      "uri": "spotify:track:1y4FmnPTRJEbNqdB8jb1k3",
+      "url": "https://open.spotify.com/track/1y4FmnPTRJEbNqdB8jb1k3",
+      "artist_ids": [
+        "6ROfszneZDogjnbgqkxA7E"
+      ],
+      "played_at_utc": "2026-10-10 10:58:46Z",
+      "played_at_local": "2026-10-10 07:58:46 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Incubus — Vitamin",
-      "artist": "Incubus",
-      "title": "Vitamin",
-      "album": "S.C.I.E.N.C.E.",
-      "uri": "spotify:track:7fceKgGxIE3s6yGZ0vduQa",
-      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa",
+      "track": "Midrift — Midrift",
+      "artist": "Midrift",
+      "title": "Midrift",
+      "album": "Midrift",
+      "uri": "spotify:track:6YPSpwTfKDgNXiYdTWNcHn",
+      "url": "https://open.spotify.com/track/6YPSpwTfKDgNXiYdTWNcHn",
       "artist_ids": [
-        "3YcBF2ttyueytpXtEzn1Za"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:52:46Z",
-      "played_at_local": "2026-10-01 07:52:46 -03",
+      "played_at_utc": "2026-10-10 10:56:10Z",
+      "played_at_local": "2026-10-10 07:56:10 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Limp Bizkit — Boiler",
-      "artist": "Limp Bizkit",
-      "title": "Boiler",
-      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
-      "uri": "spotify:track:1a3RarhRdrNSTEEERYEFJn",
-      "url": "https://open.spotify.com/track/1a3RarhRdrNSTEEERYEFJn",
+      "track": "Midrift — difference to",
+      "artist": "Midrift",
+      "title": "difference to",
+      "album": "Silhouette",
+      "uri": "spotify:track:5z57kNJCFQgV48uXHoGGtF",
+      "url": "https://open.spotify.com/track/5z57kNJCFQgV48uXHoGGtF",
       "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:49:31Z",
-      "played_at_local": "2026-10-01 07:49:31 -03",
+      "played_at_utc": "2026-10-10 10:54:36Z",
+      "played_at_local": "2026-10-10 07:54:36 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "White Zombie — More Human Than Human",
-      "artist": "White Zombie",
-      "title": "More Human Than Human",
-      "album": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
-      "uri": "spotify:track:1NbJFhkVdD47YZ2IojKkJi",
-      "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi",
+      "track": "Midrift — Change For",
+      "artist": "Midrift",
+      "title": "Change For",
+      "album": "Elysian",
+      "uri": "spotify:track:3eofGpnsonHZQ1NRrnLOUu",
+      "url": "https://open.spotify.com/track/3eofGpnsonHZQ1NRrnLOUu",
       "artist_ids": [
-        "0CF71zaDOJWCynIkW9bSK8"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:42:30Z",
-      "played_at_local": "2026-10-01 07:42:30 -03",
+      "played_at_utc": "2026-10-10 10:51:45Z",
+      "played_at_local": "2026-10-10 07:51:45 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Seether — Truth",
-      "artist": "Seether",
-      "title": "Truth",
-      "album": "Karma and Effect",
-      "uri": "spotify:track:5KUUpftdyMnSZNOyO3qydy",
-      "url": "https://open.spotify.com/track/5KUUpftdyMnSZNOyO3qydy",
+      "track": "Midrift — i remembered to forget",
+      "artist": "Midrift",
+      "title": "i remembered to forget",
+      "album": "Dissociated",
+      "uri": "spotify:track:32IsD6Ye9JbJZc2kGm843B",
+      "url": "https://open.spotify.com/track/32IsD6Ye9JbJZc2kGm843B",
       "artist_ids": [
-        "6B5c4sch27tWHAGdarpPaW"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:38:01Z",
-      "played_at_local": "2026-10-01 07:38:01 -03",
+      "played_at_utc": "2026-10-10 10:49:25Z",
+      "played_at_local": "2026-10-10 07:49:25 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Filter — Hey Man, Nice Shot - Remastered Version 2025",
-      "artist": "Filter",
-      "title": "Hey Man, Nice Shot - Remastered Version 2025",
-      "album": "Short Bus",
-      "uri": "spotify:track:1IyHPt3b6BrhdMwNyk0VM0",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0",
+      "track": "Midrift — In Pictures",
+      "artist": "Midrift",
+      "title": "In Pictures",
+      "album": "Midrift",
+      "uri": "spotify:track:39G55viGTxmEFXiL278mpU",
+      "url": "https://open.spotify.com/track/39G55viGTxmEFXiL278mpU",
       "artist_ids": [
-        "01WjpKiWVNurV5hjIadB8C"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:34:10Z",
-      "played_at_local": "2026-10-01 07:34:10 -03",
+      "played_at_utc": "2026-10-10 10:46:48Z",
+      "played_at_local": "2026-10-10 07:46:48 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Cold — End Of The World",
-      "artist": "Cold",
-      "title": "End Of The World",
-      "album": "13 Ways To Bleed Onstage",
-      "uri": "spotify:track:3V1A0qjTAKgLtN1LPfU2WK",
-      "url": "https://open.spotify.com/track/3V1A0qjTAKgLtN1LPfU2WK",
+      "track": "Midrift — silhouette",
+      "artist": "Midrift",
+      "title": "silhouette",
+      "album": "Silhouette",
+      "uri": "spotify:track:5x6NqdQ7RYwG3xEe84BKva",
+      "url": "https://open.spotify.com/track/5x6NqdQ7RYwG3xEe84BKva",
       "artist_ids": [
-        "0Gw3a3BkWLwsMLFbOBmo6Q"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:28:55Z",
-      "played_at_local": "2026-10-01 07:28:55 -03",
+      "played_at_utc": "2026-10-10 10:44:44Z",
+      "played_at_local": "2026-10-10 07:44:44 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "TOOL — Undertow",
-      "artist": "TOOL",
-      "title": "Undertow",
-      "album": "Undertow",
-      "uri": "spotify:track:4Wvnm0J3Zz9cmMdEMMghGA",
-      "url": "https://open.spotify.com/track/4Wvnm0J3Zz9cmMdEMMghGA",
+      "track": "Midrift — Path",
+      "artist": "Midrift",
+      "title": "Path",
+      "album": "Elysian",
+      "uri": "spotify:track:01P7mLZd6k7XjJAx5WoCsu",
+      "url": "https://open.spotify.com/track/01P7mLZd6k7XjJAx5WoCsu",
       "artist_ids": [
-        "2yEwvVSSSUkcLeSTNyHKh8"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:25:51Z",
-      "played_at_local": "2026-10-01 07:25:51 -03",
+      "played_at_utc": "2026-10-10 10:40:46Z",
+      "played_at_local": "2026-10-10 07:40:46 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Flaw — Out Of Whack",
-      "artist": "Flaw",
-      "title": "Out Of Whack",
-      "album": "Through The Eyes",
-      "uri": "spotify:track:58pG0TOcIZDMMUNHKi24Gr",
-      "url": "https://open.spotify.com/track/58pG0TOcIZDMMUNHKi24Gr",
+      "track": "Midrift — two-headed calf",
+      "artist": "Midrift",
+      "title": "two-headed calf",
+      "album": "Leave",
+      "uri": "spotify:track:5CQ2hQr0BBBO8w9HSnKqm0",
+      "url": "https://open.spotify.com/track/5CQ2hQr0BBBO8w9HSnKqm0",
       "artist_ids": [
-        "4hFScNSgSkApFw193xlyH7"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:20:28Z",
-      "played_at_local": "2026-10-01 07:20:28 -03",
+      "played_at_utc": "2026-10-10 10:38:11Z",
+      "played_at_local": "2026-10-10 07:38:11 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Godsmack — Mistakes",
-      "artist": "Godsmack",
-      "title": "Mistakes",
-      "album": "Awake",
-      "uri": "spotify:track:3vCPApd77OpyntH17SFh6H",
-      "url": "https://open.spotify.com/track/3vCPApd77OpyntH17SFh6H",
+      "track": "Midrift — it still feels real to me",
+      "artist": "Midrift",
+      "title": "it still feels real to me",
+      "album": "Dissociated",
+      "uri": "spotify:track:7KJhWKW6cgS2cFmSxeXsmK",
+      "url": "https://open.spotify.com/track/7KJhWKW6cgS2cFmSxeXsmK",
       "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:16:39Z",
-      "played_at_local": "2026-10-01 07:16:39 -03",
+      "played_at_utc": "2026-10-10 10:35:21Z",
+      "played_at_local": "2026-10-10 07:35:21 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Mudvayne — Happy?",
-      "artist": "Mudvayne",
-      "title": "Happy?",
-      "album": "Lost and Found",
-      "uri": "spotify:track:0INUE1K7cEiE8VH63Rv5RJ",
-      "url": "https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ",
+      "track": "Midrift — over anything",
+      "artist": "Midrift",
+      "title": "over anything",
+      "album": "Silhouette",
+      "uri": "spotify:track:0jIfMi6DdGMwt1MdYktrb4",
+      "url": "https://open.spotify.com/track/0jIfMi6DdGMwt1MdYktrb4",
       "artist_ids": [
-        "2Pfv2w8a20xzC7Dr7QXRqM"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:10:40Z",
-      "played_at_local": "2026-10-01 07:10:40 -03",
+      "played_at_utc": "2026-10-10 10:33:03Z",
+      "played_at_local": "2026-10-10 07:33:03 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "P.O.D. — Satellite",
-      "artist": "P.O.D.",
-      "title": "Satellite",
-      "album": "Satellite (U.S. Version)",
-      "uri": "spotify:track:3zAIrDlrGJ5cwBHMR1YaLl",
-      "url": "https://open.spotify.com/track/3zAIrDlrGJ5cwBHMR1YaLl",
+      "track": "Midrift — Tell Me Everything",
+      "artist": "Midrift",
+      "title": "Tell Me Everything",
+      "album": "Tell Me Everything",
+      "uri": "spotify:track:0Put2yuIdLCLsKD4QF46eW",
+      "url": "https://open.spotify.com/track/0Put2yuIdLCLsKD4QF46eW",
       "artist_ids": [
-        "6KO6G41BBLTDNYOLefWTMU"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:07:03Z",
-      "played_at_local": "2026-10-01 07:07:03 -03",
+      "played_at_utc": "2026-10-10 10:30:28Z",
+      "played_at_local": "2026-10-10 07:30:28 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Disturbed — Voices",
-      "artist": "Disturbed",
-      "title": "Voices",
-      "album": "The Sickness",
-      "uri": "spotify:track:1jPgyViNE7djYSr1xEPlPJ",
-      "url": "https://open.spotify.com/track/1jPgyViNE7djYSr1xEPlPJ",
+      "track": "Midrift — leaving tonight",
+      "artist": "Midrift",
+      "title": "leaving tonight",
+      "album": "leaving tonight",
+      "uri": "spotify:track:49H2wZwh69vek45Twbr8X5",
+      "url": "https://open.spotify.com/track/49H2wZwh69vek45Twbr8X5",
       "artist_ids": [
-        "3TOqt5oJwL9BE2NG9MEwDa"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:03:32Z",
-      "played_at_local": "2026-10-01 07:03:32 -03",
+      "played_at_utc": "2026-10-10 10:27:24Z",
+      "played_at_local": "2026-10-10 07:27:24 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Drowning Pool — Tear Away",
-      "artist": "Drowning Pool",
-      "title": "Tear Away",
-      "album": "Sinner",
-      "uri": "spotify:track:3ENHpbTuY72FukZbwGP6bc",
-      "url": "https://open.spotify.com/track/3ENHpbTuY72FukZbwGP6bc",
+      "track": "Midrift — not far gone",
+      "artist": "Midrift",
+      "title": "not far gone",
+      "album": "Silhouette",
+      "uri": "spotify:track:1qu9Ga5JA6ub0poPqpEcx7",
+      "url": "https://open.spotify.com/track/1qu9Ga5JA6ub0poPqpEcx7",
       "artist_ids": [
-        "1E4r4z7ivGUcSAnCbINJ9v"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 10:00:19Z",
-      "played_at_local": "2026-10-01 07:00:19 -03",
+      "played_at_utc": "2026-10-10 10:25:08Z",
+      "played_at_local": "2026-10-10 07:25:08 -03",
       "local_hour": 7,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Earshot — Get Away",
-      "artist": "Earshot",
-      "title": "Get Away",
-      "album": "Letting Go (U.S. Version)",
-      "uri": "spotify:track:0jPVRBr2r1q5EzHhT1313i",
-      "url": "https://open.spotify.com/track/0jPVRBr2r1q5EzHhT1313i",
+      "track": "Midrift — dismal",
+      "artist": "Midrift",
+      "title": "dismal",
+      "album": "dismal",
+      "uri": "spotify:track:0BpVAwVSq0De3DtroDmmKh",
+      "url": "https://open.spotify.com/track/0BpVAwVSq0De3DtroDmmKh",
       "artist_ids": [
-        "6eeYhqOX2cpsiHY6gVuvPA"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 09:56:04Z",
-      "played_at_local": "2026-10-01 06:56:04 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "played_at_utc": "2026-10-10 10:22:00Z",
+      "played_at_local": "2026-10-10 07:22:00 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "A Perfect Circle — Pet",
-      "artist": "A Perfect Circle",
-      "title": "Pet",
-      "album": "Thirteenth Step",
-      "uri": "spotify:track:27msmgcdSRniJHfocEf6EH",
-      "url": "https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH",
+      "track": "Midrift — Safe And Sound",
+      "artist": "Midrift",
+      "title": "Safe And Sound",
+      "album": "Safe And Sound",
+      "uri": "spotify:track:1Q3YtDncLE9yCEe4XovKSx",
+      "url": "https://open.spotify.com/track/1Q3YtDncLE9yCEe4XovKSx",
       "artist_ids": [
-        "4DFhHyjvGYa9wxdHUjtDkc"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 09:51:31Z",
-      "played_at_local": "2026-10-01 06:51:31 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "played_at_utc": "2026-10-10 10:20:00Z",
+      "played_at_local": "2026-10-10 07:20:00 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Chevelle — Take Out the Gunman",
-      "artist": "Chevelle",
-      "title": "Take Out the Gunman",
-      "album": "La Gárgola",
-      "uri": "spotify:track:5I1ueVGJA6VZRkgkMyiHcP",
-      "url": "https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP",
+      "track": "Midrift — Tongue",
+      "artist": "Midrift",
+      "title": "Tongue",
+      "album": "Midrift",
+      "uri": "spotify:track:1WdTUMgIWaaLniqBzO7Oxn",
+      "url": "https://open.spotify.com/track/1WdTUMgIWaaLniqBzO7Oxn",
       "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 09:46:56Z",
-      "played_at_local": "2026-10-01 06:46:56 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "played_at_utc": "2026-10-10 10:17:35Z",
+      "played_at_local": "2026-10-10 07:17:35 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Cold — It's All Good",
-      "artist": "Cold",
-      "title": "It's All Good",
-      "album": "13 Ways To Bleed Onstage",
-      "uri": "spotify:track:6nFjJxM9ivJd27juSyD6xT",
-      "url": "https://open.spotify.com/track/6nFjJxM9ivJd27juSyD6xT",
+      "track": "Midrift — Machina",
+      "artist": "Midrift",
+      "title": "Machina",
+      "album": "Midrift",
+      "uri": "spotify:track:7I2gQrpRqyBCMQ3LQOh4vO",
+      "url": "https://open.spotify.com/track/7I2gQrpRqyBCMQ3LQOh4vO",
       "artist_ids": [
-        "0Gw3a3BkWLwsMLFbOBmo6Q"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 09:42:36Z",
-      "played_at_local": "2026-10-01 06:42:36 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "played_at_utc": "2026-10-10 10:15:35Z",
+      "played_at_local": "2026-10-10 07:15:35 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "TOOL — Bottom",
-      "artist": "TOOL",
-      "title": "Bottom",
-      "album": "Undertow",
-      "uri": "spotify:track:46XOHK5QfCC83yg5SOGjZk",
-      "url": "https://open.spotify.com/track/46XOHK5QfCC83yg5SOGjZk",
+      "track": "Midrift — into place",
+      "artist": "Midrift",
+      "title": "into place",
+      "album": "into place",
+      "uri": "spotify:track:5I51WDo5Lf0DOysE5UVRuD",
+      "url": "https://open.spotify.com/track/5I51WDo5Lf0DOysE5UVRuD",
       "artist_ids": [
-        "2yEwvVSSSUkcLeSTNyHKh8"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 09:38:52Z",
-      "played_at_local": "2026-10-01 06:38:52 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "played_at_utc": "2026-10-10 10:13:24Z",
+      "played_at_local": "2026-10-10 07:13:24 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Limp Bizkit — Re-Arranged",
-      "artist": "Limp Bizkit",
-      "title": "Re-Arranged",
-      "album": "Significant Other",
-      "uri": "spotify:track:6IPJ7LeWIOhxPW8Sq3nIGc",
-      "url": "https://open.spotify.com/track/6IPJ7LeWIOhxPW8Sq3nIGc",
+      "track": "Midrift — Burden",
+      "artist": "Midrift",
+      "title": "Burden",
+      "album": "Elysian",
+      "uri": "spotify:track:57nAMWHr1d771Oai4i3niQ",
+      "url": "https://open.spotify.com/track/57nAMWHr1d771Oai4i3niQ",
       "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 09:31:38Z",
-      "played_at_local": "2026-10-01 06:31:38 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "played_at_utc": "2026-10-10 10:10:45Z",
+      "played_at_local": "2026-10-10 07:10:45 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     },
     {
-      "track": "Godsmack — Greed",
-      "artist": "Godsmack",
-      "title": "Greed",
-      "album": "Awake",
-      "uri": "spotify:track:32R46DFcMtaNrSnfrmeWnD",
-      "url": "https://open.spotify.com/track/32R46DFcMtaNrSnfrmeWnD",
+      "track": "Midrift — Reaching For You",
+      "artist": "Midrift",
+      "title": "Reaching For You",
+      "album": "Reaching For You",
+      "uri": "spotify:track:58fGJxUM7A0NFwhkAswql7",
+      "url": "https://open.spotify.com/track/58fGJxUM7A0NFwhkAswql7",
       "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
+        "6ROfszneZDogjnbgqkxA7E"
       ],
-      "played_at_utc": "2026-10-01 09:25:42Z",
-      "played_at_local": "2026-10-01 06:25:42 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Serenity",
-      "artist": "Godsmack",
-      "title": "Serenity",
-      "album": "Faceless",
-      "uri": "spotify:track:4VfixngmGHhClfpfSr6tw9",
-      "url": "https://open.spotify.com/track/4VfixngmGHhClfpfSr6tw9",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-01 09:22:13Z",
-      "played_at_local": "2026-10-01 06:22:13 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — The Awakening",
-      "artist": "Godsmack",
-      "title": "The Awakening",
-      "album": "Faceless",
-      "uri": "spotify:track:2TCxneurUYp1tOnGGWbg1i",
-      "url": "https://open.spotify.com/track/2TCxneurUYp1tOnGGWbg1i",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-01 09:17:37Z",
-      "played_at_local": "2026-10-01 06:17:37 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — I Am",
-      "artist": "Godsmack",
-      "title": "I Am",
-      "album": "Faceless",
-      "uri": "spotify:track:72m1yQR3vB5If20JrsOHic",
-      "url": "https://open.spotify.com/track/72m1yQR3vB5If20JrsOHic",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-01 09:16:07Z",
-      "played_at_local": "2026-10-01 06:16:07 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Dead And Broken",
-      "artist": "Godsmack",
-      "title": "Dead And Broken",
-      "album": "Faceless",
-      "uri": "spotify:track:5pMGIkjvSAH4Y6riePiBZz",
-      "url": "https://open.spotify.com/track/5pMGIkjvSAH4Y6riePiBZz",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-01 09:12:09Z",
-      "played_at_local": "2026-10-01 06:12:09 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Releasing The Demons",
-      "artist": "Godsmack",
-      "title": "Releasing The Demons",
-      "album": "Faceless",
-      "uri": "spotify:track:5HO1XfEtiyff0mlWdK3NJR",
-      "url": "https://open.spotify.com/track/5HO1XfEtiyff0mlWdK3NJR",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-01 09:07:57Z",
-      "played_at_local": "2026-10-01 06:07:57 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — I Fucking Hate You",
-      "artist": "Godsmack",
-      "title": "I Fucking Hate You",
-      "album": "Faceless",
-      "uri": "spotify:track:2Uilp8alSjAxV0IXorUk9l",
-      "url": "https://open.spotify.com/track/2Uilp8alSjAxV0IXorUk9l",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-01 09:03:44Z",
-      "played_at_local": "2026-10-01 06:03:44 -03",
-      "local_hour": 6,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Re-Align",
-      "artist": "Godsmack",
-      "title": "Re-Align",
-      "album": "Faceless",
-      "uri": "spotify:track:5QxSNwBnEmCOUyos3iMjmd",
-      "url": "https://open.spotify.com/track/5QxSNwBnEmCOUyos3iMjmd",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-01 08:59:36Z",
-      "played_at_local": "2026-10-01 05:59:36 -03",
-      "local_hour": 5,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — I Stand Alone",
-      "artist": "Godsmack",
-      "title": "I Stand Alone",
-      "album": "Faceless",
-      "uri": "spotify:track:6eYUbXmncekAKMYZcsSkyD",
-      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-01 08:55:15Z",
-      "played_at_local": "2026-10-01 05:55:15 -03",
-      "local_hour": 5,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-    },
-    {
-      "track": "Godsmack — Make Me Believe",
-      "artist": "Godsmack",
-      "title": "Make Me Believe",
-      "album": "Faceless",
-      "uri": "spotify:track:5boASBhBqRFYdD7V4VqfpQ",
-      "url": "https://open.spotify.com/track/5boASBhBqRFYdD7V4VqfpQ",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-01 08:51:08Z",
-      "played_at_local": "2026-10-01 05:51:08 -03",
-      "local_hour": 5,
-      "weekday": 3,
-      "context_type": "album",
-      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
-      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      "played_at_utc": "2026-10-10 10:08:36Z",
+      "played_at_local": "2026-10-10 07:08:36 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
+      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     }
   ],
   "last_known_device_type": "Smartphone",
@@ -2632,25 +2663,25 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-10-10 06:02:02Z",
-    "week_window_utc": "2026-10-03 06:02:02Z → 2026-10-10 06:02:02Z",
-    "tracks_24h": 0,
-    "tracks_7d": 10,
-    "dominant_artist_24h": "N/A",
-    "dominant_artist_7d": "Godsmack",
-    "listening_pattern_24h": "No activity",
-    "activity_status_24h": "NONE",
-    "cadence_7d": "LOW",
+    "captured_utc": "2026-10-10 12:42:56Z",
+    "week_window_utc": "2026-10-03 12:42:56Z → 2026-10-10 12:42:56Z",
+    "tracks_24h": 50,
+    "tracks_7d": 60,
+    "dominant_artist_24h": "Midrift",
+    "dominant_artist_7d": "Midrift",
+    "listening_pattern_24h": "Sustained operational tempo",
+    "activity_status_24h": "HIGH",
+    "cadence_7d": "HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "N/A",
-    "peak_hour_7d": "11:00",
-    "heatmap_24h": "N/A",
-    "heatmap_7d": "     ▄   ▄ █▄▄ ▄ ▄ ▄  ▄ ",
-    "sessions_24h": "N/A",
-    "sessions_7d": 9,
-    "avg_inter_play_gap_7d": "07:35:51",
-    "top_genres_24h": "N/A",
-    "top_genres_7d": "alternative metal(9) | nu metal(9) | hard rock(8) | metal(8) | rap metal(8) | art rock(1)"
+    "peak_hour_24h": "07:00",
+    "peak_hour_7d": "07:00",
+    "heatmap_24h": "      ▂█▆               ",
+    "heatmap_7d": "      ▂█▆▁ ▁            ",
+    "sessions_24h": 1,
+    "sessions_7d": 10,
+    "avg_inter_play_gap_7d": "02:02:01",
+    "top_genres_24h": "shoegaze(44) | alternative metal(6) | groove metal(6) | grunge(6) | noise rock(6) | post-hardcore(6)",
+    "top_genres_7d": "shoegaze(44) | alternative metal(15) | nu metal(9) | hard rock(8) | metal(8) | rap metal(8)"
   },
   "last_known_device_captured_utc": "2026-09-30 23:56:54Z"
 }
