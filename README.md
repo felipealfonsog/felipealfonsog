@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-08 08:25:40Z
 Played at (local)         : 2026-10-08 05:25:40 -03
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 38:18:35
+Time since play           : 45:36:23
 Gap from previous play    : 11:44:09
 ------------------------------------------------------------
 Previous song             : Chevelle — Forfeit
@@ -1624,7 +1624,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▃█▁▁   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁   
+Activity trend (30d)      : █   ▁ ▅▂     ▃ ▄ ▂ ▁▆    ▁    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-02 22:44:15Z → 2026-10-09 22:44:15Z
+Week window (UTC)         : 2026-10-03 06:02:02Z → 2026-10-10 06:02:02Z
 Tracks played (7d)        : 10
 Dominant artist           : Godsmack
 Cadence classification    : LOW
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:41:33
+Telemetry interval        : 07:17:48
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-09 22:44:15Z
+Report generated (UTC)    : 2026-10-10 06:02:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
