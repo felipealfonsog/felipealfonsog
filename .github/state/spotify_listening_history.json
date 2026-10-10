@@ -1,8 +1,77 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-10 12:42:56Z",
+  "updated_utc": "2026-10-10 18:41:41Z",
   "events": [
+    {
+      "track": "Cold — It's All Good",
+      "artist": "Cold",
+      "title": "It's All Good",
+      "album": "13 Ways To Bleed Onstage",
+      "uri": "spotify:track:6nFjJxM9ivJd27juSyD6xT",
+      "url": "https://open.spotify.com/track/6nFjJxM9ivJd27juSyD6xT",
+      "artist_ids": [
+        "0Gw3a3BkWLwsMLFbOBmo6Q"
+      ],
+      "played_at_utc": "2026-10-10 13:11:03Z",
+      "played_at_local": "2026-10-10 10:11:03 -03",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dOVfly8hXQAgNdiKnLiFn",
+      "context_url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
+    },
+    {
+      "track": "Cold — She Said",
+      "artist": "Cold",
+      "title": "She Said",
+      "album": "13 Ways To Bleed Onstage",
+      "uri": "spotify:track:0jeFh9PnymeemQ0yR2dOcG",
+      "url": "https://open.spotify.com/track/0jeFh9PnymeemQ0yR2dOcG",
+      "artist_ids": [
+        "0Gw3a3BkWLwsMLFbOBmo6Q"
+      ],
+      "played_at_utc": "2026-10-10 13:06:59Z",
+      "played_at_local": "2026-10-10 10:06:59 -03",
+      "local_hour": 10,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dOVfly8hXQAgNdiKnLiFn",
+      "context_url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
+    },
+    {
+      "track": "Chevelle — Get Some",
+      "artist": "Chevelle",
+      "title": "Get Some",
+      "album": "This Type Of Thinking (Could Do Us In)",
+      "uri": "spotify:track:3yvsHpMQf3C6xZGq7bu9c6",
+      "url": "https://open.spotify.com/track/3yvsHpMQf3C6xZGq7bu9c6",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-10-10 12:56:30Z",
+      "played_at_local": "2026-10-10 09:56:30 -03",
+      "local_hour": 9,
+      "weekday": 5,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:56dO9zeHKuU5Gvfc2kxHNw",
+      "context_url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+    },
+    {
+      "track": "Godsmack — I Stand Alone - Live at Mohegan Sun",
+      "artist": "Godsmack",
+      "title": "I Stand Alone - Live at Mohegan Sun",
+      "album": "I Stand Alone (Live at Mohegan Sun)",
+      "uri": "spotify:track:4HrSkw0TVuOBqRxFnOKlmx",
+      "url": "https://open.spotify.com/track/4HrSkw0TVuOBqRxFnOKlmx",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-10 12:56:30Z",
+      "played_at_local": "2026-10-10 09:56:30 -03",
+      "local_hour": 9,
+      "weekday": 5
+    },
     {
       "track": "Midrift — Twin Flames",
       "artist": "Midrift",
