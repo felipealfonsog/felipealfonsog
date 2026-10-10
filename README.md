@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-10 13:11:03Z
 Played at (local)         : 2026-10-10 10:11:03 -03
 Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 05:30:39
+Time since play           : 10:27:56
 Gap from previous play    : 00:04:04
 ------------------------------------------------------------
 Previous song             : Cold — She Said
@@ -1647,7 +1647,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-03 18:41:41Z → 2026-10-10 18:41:41Z
+Week window (UTC)         : 2026-10-03 23:38:58Z → 2026-10-10 23:38:58Z
 Tracks played (7d)        : 64
 Dominant artist           : Midrift
 Cadence classification    : HIGH
@@ -1667,10 +1667,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Midrift — Twin Flames → Cold — It's All Good
-Playback timestamp Δ      : 2026-10-10 12:01:40Z → 2026-10-10 13:11:03Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:58:46
+Telemetry interval        : 04:57:18
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-10 18:41:41Z
+Report generated (UTC)    : 2026-10-10 23:38:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
