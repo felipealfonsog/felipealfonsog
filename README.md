@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-10 13:11:03Z
 Played at (local)         : 2026-10-10 10:11:03 -03
 Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 16:48:23
+Time since play           : 23:53:47
 Gap from previous play    : 00:04:04
 ------------------------------------------------------------
 Previous song             : Cold — She Said
@@ -1615,9 +1615,9 @@ Listening intensity       : 0.53 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :       ▂█▆▁▁             
+Heatmap (24h)             :           █             
 Heatmap (7d)              :       ▂█▆▁▁▁            
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1640,14 +1640,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 54
-Dominant artist           : Midrift
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 2
+Dominant artist           : Cold
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-04 05:59:26Z → 2026-10-11 05:59:26Z
+Week window (UTC)         : 2026-10-04 13:04:49Z → 2026-10-11 13:04:49Z
 Tracks played (7d)        : 64
 Dominant artist           : Midrift
 Cadence classification    : HIGH
@@ -1655,13 +1655,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 11
 Avg inter-play gap        : 01:55:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : shoegaze(44) | alternative metal(10) | post-grunge(7) | groove metal(6) | grunge(6) | noise rock(6)
+Top genres (24h)          : alternative metal(2) | nu metal(2) | post-grunge(2)
 Top genres (7d)           : shoegaze(44) | alternative metal(19) | nu metal(13) | hard rock(9) | metal(9) | rap metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1670,14 +1670,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:20:28
+Telemetry interval        : 07:05:24
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 491
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-10 10:11:03 -03
-Events (24h)              : 54
+Events (24h)              : 2
 Events (7d)               : 64
 Events (30d)              : 264
 Playlist contexts retained: 128
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-11 05:59:26Z
+Report generated (UTC)    : 2026-10-11 13:04:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
