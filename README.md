@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-10 13:11:03Z
 Played at (local)         : 2026-10-10 10:11:03 -03
 Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 29:48:33
+Time since play           : 34:33:24
 Gap from previous play    : 00:04:04
 ------------------------------------------------------------
 Previous song             : Cold — She Said
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-04 18:59:35Z → 2026-10-11 18:59:35Z
+Week window (UTC)         : 2026-10-04 23:44:27Z → 2026-10-11 23:44:27Z
 Tracks played (7d)        : 64
 Dominant artist           : Midrift
 Cadence classification    : HIGH
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:54:47
+Telemetry interval        : 04:44:52
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1679,7 +1679,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-10 10:11:03 -03
 Events (24h)              : 0
 Events (7d)               : 64
-Events (30d)              : 247
+Events (30d)              : 229
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-11 18:59:35Z
+Report generated (UTC)    : 2026-10-11 23:44:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
