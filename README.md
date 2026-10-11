@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-10 13:11:03Z
 Played at (local)         : 2026-10-10 10:11:03 -03
 Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 10:27:56
+Time since play           : 16:48:23
 Gap from previous play    : 00:04:04
 ------------------------------------------------------------
 Previous song             : Cold — She Said
@@ -1624,7 +1624,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :  ▁   █ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▇   ▁ ▅▁     ▃ ▃ ▂ ▁▅    ▁   █
+Activity trend (30d)      :    ▁ ▅▁     ▃ ▃ ▂ ▁▅    ▁   █ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,7 +1647,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-03 23:38:58Z → 2026-10-10 23:38:58Z
+Week window (UTC)         : 2026-10-04 05:59:26Z → 2026-10-11 05:59:26Z
 Tracks played (7d)        : 64
 Dominant artist           : Midrift
 Cadence classification    : HIGH
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:57:18
+Telemetry interval        : 06:20:28
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-10 23:38:58Z
+Report generated (UTC)    : 2026-10-11 05:59:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
