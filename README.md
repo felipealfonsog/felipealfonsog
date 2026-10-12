@@ -1491,69 +1491,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Cold — It's All Good
+Track                     : Cold — Same Drug
 Artist                    : Cold
-Title                     : It's All Good
+Title                     : Same Drug
 Album                     : 13 Ways To Bleed Onstage
-Spotify URI               : spotify:track:6nFjJxM9ivJd27juSyD6xT
-Spotify URL               : https://open.spotify.com/track/6nFjJxM9ivJd27juSyD6xT
+Spotify URI               : spotify:track:4kFn1jFwrE2K1G77zuDQjd
+Spotify URL               : https://open.spotify.com/track/4kFn1jFwrE2K1G77zuDQjd
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-10 13:11:03Z
-Played at (local)         : 2026-10-10 10:11:03 -03
-Local hour                : 10:00
+Played at (UTC)           : 2026-10-10 14:56:06Z
+Played at (local)         : 2026-10-10 11:56:06 -03
+Local hour                : 11:00
 Daypart                   : MORNING
-Time since play           : 34:33:24
-Gap from previous play    : 00:04:04
+Time since play           : 39:13:39
+Gap from previous play    : 01:45:03
 ------------------------------------------------------------
-Previous song             : Cold — She Said
+Previous song             : Cold — It's All Good
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 2
-Artist plays (retained)   : 5
+Track plays (retained)    : 1
+Artist plays (retained)   : 6
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Cold — She Said | 2026-10-10 10:06:59 -03
-Previous track #2         : Chevelle — Get Some | 2026-10-10 09:56:30 -03
-Previous track #3         : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
-Previous track #4         : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
-Previous track #5         : Roving — Haven Blue | 2026-10-10 08:59:59 -03
-Previous track #6         : Superheaven — Blur | 2026-10-10 08:56:24 -03
-Previous track #7         : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
-Previous track #8         : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
-Previous track #9         : Grivo — C.A. | 2026-10-10 08:46:31 -03
-Previous track #10        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
-Previous track #11        : Midrift — unrequited | 2026-10-10 08:39:56 -03
-Previous track #12        : Glare — Into Me | 2026-10-10 08:37:50 -03
-Previous track #13        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
-Previous track #14        : Druidess — Lavender | 2026-10-10 08:30:09 -03
-Previous track #15        : trauma ray — Relay | 2026-10-10 08:26:09 -03
-Previous track #16        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
-Previous track #17        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
-Previous track #18        : Midrift — Need | 2026-10-10 08:13:16 -03
-Previous track #19        : Midrift — Woods | 2026-10-10 08:10:24 -03
-Previous track #20        : Midrift — bouquet | 2026-10-10 08:08:32 -03
-Previous track #21        : Midrift — Grounded | 2026-10-10 08:05:53 -03
-Previous track #22        : Midrift — all i said | 2026-10-10 08:04:09 -03
-Previous track #23        : Midrift — Wanted | 2026-10-10 08:01:15 -03
-Previous track #24        : Midrift — Between | 2026-10-10 07:58:46 -03
-Previous track #25        : Midrift — Midrift | 2026-10-10 07:56:10 -03
-Previous track #26        : Midrift — difference to | 2026-10-10 07:54:36 -03
-Previous track #27        : Midrift — Change For | 2026-10-10 07:51:45 -03
-Previous track #28        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
-Previous track #29        : Midrift — In Pictures | 2026-10-10 07:46:48 -03
-Previous track #30        : Midrift — silhouette | 2026-10-10 07:44:44 -03
-Previous track #31        : Midrift — Path | 2026-10-10 07:40:46 -03
-Previous track #32        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03
-Previous track #33        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03
-Previous track #34        : Midrift — over anything | 2026-10-10 07:33:03 -03
-Previous track #35        : Midrift — Tell Me Everything | 2026-10-10 07:30:28 -03
-Previous track #36        : Midrift — leaving tonight | 2026-10-10 07:27:24 -03
-Previous track #37        : Midrift — not far gone | 2026-10-10 07:25:08 -03
-Previous track #38        : Midrift — dismal | 2026-10-10 07:22:00 -03
-Previous track #39        : Midrift — Safe And Sound | 2026-10-10 07:20:00 -03
-Previous track #40        : Midrift — Tongue | 2026-10-10 07:17:35 -03
+Previous track #1         : Cold — It's All Good | 2026-10-10 10:11:03 -03
+Previous track #2         : Cold — She Said | 2026-10-10 10:06:59 -03
+Previous track #3         : Chevelle — Get Some | 2026-10-10 09:56:30 -03
+Previous track #4         : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
+Previous track #5         : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
+Previous track #6         : Roving — Haven Blue | 2026-10-10 08:59:59 -03
+Previous track #7         : Superheaven — Blur | 2026-10-10 08:56:24 -03
+Previous track #8         : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
+Previous track #9         : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
+Previous track #10        : Grivo — C.A. | 2026-10-10 08:46:31 -03
+Previous track #11        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
+Previous track #12        : Midrift — unrequited | 2026-10-10 08:39:56 -03
+Previous track #13        : Glare — Into Me | 2026-10-10 08:37:50 -03
+Previous track #14        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
+Previous track #15        : Druidess — Lavender | 2026-10-10 08:30:09 -03
+Previous track #16        : trauma ray — Relay | 2026-10-10 08:26:09 -03
+Previous track #17        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
+Previous track #18        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
+Previous track #19        : Midrift — Need | 2026-10-10 08:13:16 -03
+Previous track #20        : Midrift — Woods | 2026-10-10 08:10:24 -03
+Previous track #21        : Midrift — bouquet | 2026-10-10 08:08:32 -03
+Previous track #22        : Midrift — Grounded | 2026-10-10 08:05:53 -03
+Previous track #23        : Midrift — all i said | 2026-10-10 08:04:09 -03
+Previous track #24        : Midrift — Wanted | 2026-10-10 08:01:15 -03
+Previous track #25        : Midrift — Between | 2026-10-10 07:58:46 -03
+Previous track #26        : Midrift — Midrift | 2026-10-10 07:56:10 -03
+Previous track #27        : Midrift — difference to | 2026-10-10 07:54:36 -03
+Previous track #28        : Midrift — Change For | 2026-10-10 07:51:45 -03
+Previous track #29        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
+Previous track #30        : Midrift — In Pictures | 2026-10-10 07:46:48 -03
+Previous track #31        : Midrift — silhouette | 2026-10-10 07:44:44 -03
+Previous track #32        : Midrift — Path | 2026-10-10 07:40:46 -03
+Previous track #33        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03
+Previous track #34        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03
+Previous track #35        : Midrift — over anything | 2026-10-10 07:33:03 -03
+Previous track #36        : Midrift — Tell Me Everything | 2026-10-10 07:30:28 -03
+Previous track #37        : Midrift — leaving tonight | 2026-10-10 07:27:24 -03
+Previous track #38        : Midrift — not far gone | 2026-10-10 07:25:08 -03
+Previous track #39        : Midrift — dismal | 2026-10-10 07:22:00 -03
+Previous track #40        : Midrift — Safe And Sound | 2026-10-10 07:20:00 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1584,20 +1584,20 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 64
-Unique tracks             : 56
+Observed events           : 65
+Unique tracks             : 57
 Unique artists            : 16
-Replay ratio              : ██░░░░░░░░░░░░░░░░  12.5%
-Artist diversity          : ████░░░░░░░░░░░░░░  25.0%
+Replay ratio              : ██░░░░░░░░░░░░░░░░  12.3%
+Artist diversity          : ████░░░░░░░░░░░░░░  24.6%
 Dominant artist           : Midrift
-Dominant artist share     : █████████░░░░░░░░░  50.0%
-Artist switch ratio       : ██████░░░░░░░░░░░░  33.3%
+Dominant artist share     : █████████░░░░░░░░░  49.2%
+Artist switch ratio       : ██████░░░░░░░░░░░░  32.8%
 Longest artist streak     : Midrift × 30
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.6%
-Morning    06–12           : ████████████████░░   89.1%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.5%
+Morning    06–12           : ████████████████░░   89.2%
 Afternoon  12–18           : █░░░░░░░░░░░░░░░░░    6.2%
 Evening    18–24           : █░░░░░░░░░░░░░░░░░    3.1%
 Dominant period           : MORNING
@@ -1605,10 +1605,10 @@ Dominant period           : MORNING
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-10-05 12:03:04Z
-History last play (7d)    : 2026-10-10 13:11:03Z
-Observed time span        : 121:07:59
-Mean inter-play gap       : 01:55:22
-Median inter-play gap     : 00:02:54
+History last play (7d)    : 2026-10-10 14:56:06Z
+Observed time span        : 122:53:02
+Mean inter-play gap       : 01:55:12
+Median inter-play gap     : 00:02:59
 Longest inactivity gap    : 49:14:16
 Listening intensity       : 0.53 tracks/hour
 ------------------------------------------------------------
@@ -1624,7 +1624,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :  ▁   █ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :    ▁ ▅▁     ▃ ▃ ▂ ▁▅    ▁   █ 
+Activity trend (30d)      :   ▁ ▅▁     ▂ ▃ ▂ ▁▅    ▁   █  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,8 +1647,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-04 23:44:27Z → 2026-10-11 23:44:27Z
-Tracks played (7d)        : 64
+Week window (UTC)         : 2026-10-05 06:09:45Z → 2026-10-12 06:09:45Z
+Tracks played (7d)        : 65
 Dominant artist           : Midrift
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1656,30 +1656,30 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 11
-Avg inter-play gap        : 01:55:22
+Sessions (7d)             : 12
+Avg inter-play gap        : 01:55:12
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(44) | alternative metal(19) | nu metal(13) | hard rock(9) | metal(9) | rap metal(9)
+Top genres (7d)           : shoegaze(44) | alternative metal(20) | nu metal(14) | hard rock(9) | metal(9) | post-grunge(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Cold — It's All Good → Cold — Same Drug
+Playback timestamp Δ      : 2026-10-10 13:11:03Z → 2026-10-10 14:56:06Z
 State transition          : NO CHANGE
-Telemetry interval        : 04:44:52
+Telemetry interval        : 06:25:18
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 491
+Events retained           : 492
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-10 10:11:03 -03
+Newest retained event     : 2026-10-10 11:56:06 -03
 Events (24h)              : 0
-Events (7d)               : 64
-Events (30d)              : 229
+Events (7d)               : 65
+Events (30d)              : 217
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-11 23:44:27Z
+Report generated (UTC)    : 2026-10-12 06:09:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

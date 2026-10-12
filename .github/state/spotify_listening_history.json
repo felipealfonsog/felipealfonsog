@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-11 23:44:27Z",
+  "updated_utc": "2026-10-12 06:09:45Z",
   "events": [
+    {
+      "track": "Cold — Same Drug",
+      "artist": "Cold",
+      "title": "Same Drug",
+      "album": "13 Ways To Bleed Onstage",
+      "uri": "spotify:track:4kFn1jFwrE2K1G77zuDQjd",
+      "url": "https://open.spotify.com/track/4kFn1jFwrE2K1G77zuDQjd",
+      "artist_ids": [
+        "0Gw3a3BkWLwsMLFbOBmo6Q"
+      ],
+      "played_at_utc": "2026-10-10 14:56:06Z",
+      "played_at_local": "2026-10-10 11:56:06 -03",
+      "local_hour": 11,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dOVfly8hXQAgNdiKnLiFn",
+      "context_url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
+    },
     {
       "track": "Cold — It's All Good",
       "artist": "Cold",
