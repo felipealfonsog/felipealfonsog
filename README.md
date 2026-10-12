@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-10 14:56:06Z
 Played at (local)         : 2026-10-10 11:56:06 -03
 Local hour                : 11:00
 Daypart                   : MORNING
-Time since play           : 39:13:39
+Time since play           : 48:47:04
 Gap from previous play    : 01:45:03
 ------------------------------------------------------------
 Previous song             : Cold — It's All Good
@@ -1584,33 +1584,33 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 65
-Unique tracks             : 57
+Observed events           : 64
+Unique tracks             : 56
 Unique artists            : 16
-Replay ratio              : ██░░░░░░░░░░░░░░░░  12.3%
-Artist diversity          : ████░░░░░░░░░░░░░░  24.6%
+Replay ratio              : ██░░░░░░░░░░░░░░░░  12.5%
+Artist diversity          : ████░░░░░░░░░░░░░░  25.0%
 Dominant artist           : Midrift
-Dominant artist share     : █████████░░░░░░░░░  49.2%
-Artist switch ratio       : ██████░░░░░░░░░░░░  32.8%
+Dominant artist share     : █████████░░░░░░░░░  50.0%
+Artist switch ratio       : ██████░░░░░░░░░░░░  33.3%
 Longest artist streak     : Midrift × 30
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.5%
-Morning    06–12           : ████████████████░░   89.2%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.6%
+Morning    06–12           : ████████████████░░   89.1%
 Afternoon  12–18           : █░░░░░░░░░░░░░░░░░    6.2%
 Evening    18–24           : █░░░░░░░░░░░░░░░░░    3.1%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-05 12:03:04Z
+History first play (7d)   : 2026-10-06 01:44:38Z
 History last play (7d)    : 2026-10-10 14:56:06Z
-Observed time span        : 122:53:02
-Mean inter-play gap       : 01:55:12
-Median inter-play gap     : 00:02:59
+Observed time span        : 109:11:28
+Mean inter-play gap       : 01:43:59
+Median inter-play gap     : 00:02:54
 Longest inactivity gap    : 49:14:16
-Listening intensity       : 0.53 tracks/hour
+Listening intensity       : 0.59 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1629,7 +1629,7 @@ Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :          █            █ 
+Mon                       :                       █ 
 Tue                       :            █▄▄ ▄   ▄    
 Wed                       :                  █      
 Thu                       :      █                  
@@ -1647,8 +1647,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-05 06:09:45Z → 2026-10-12 06:09:45Z
-Tracks played (7d)        : 65
+Week window (UTC)         : 2026-10-05 15:43:10Z → 2026-10-12 15:43:10Z
+Tracks played (7d)        : 64
 Dominant artist           : Midrift
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1656,21 +1656,21 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 12
-Avg inter-play gap        : 01:55:12
+Sessions (7d)             : 11
+Avg inter-play gap        : 01:43:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(44) | alternative metal(20) | nu metal(14) | hard rock(9) | metal(9) | post-grunge(9)
+Top genres (7d)           : shoegaze(44) | alternative metal(19) | nu metal(13) | post-grunge(9) | hard rock(8) | metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Cold — It's All Good → Cold — Same Drug
-Playback timestamp Δ      : 2026-10-10 13:11:03Z → 2026-10-10 14:56:06Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:25:18
+Telemetry interval        : 09:33:25
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1678,7 +1678,7 @@ Events retained           : 492
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-10 11:56:06 -03
 Events (24h)              : 0
-Events (7d)               : 65
+Events (7d)               : 64
 Events (30d)              : 217
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-12 06:09:45Z
+Report generated (UTC)    : 2026-10-12 15:43:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
