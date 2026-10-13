@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-10-12_0539Z
+ snapshot_utc : 2026-10-13_0635Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -536,7 +536,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-10-11T21:48:41+00:00 | last_update=2026-10-11T21:48:41+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-10-13T00:32:32+00:00 | last_update=2026-10-13T00:32:32+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +706,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 184 ms
-TTFB................ 183 ms
+LATENCY............. 274 ms
+TTFB................ 274 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 80d
+TLS_EXPIRY.......... 79d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -741,7 +741,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-10-11T09:51:13Z
+LAST_PROBE_UTC...... 2026-10-12T10:33:16Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -781,19 +781,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.442401
-longitude      : -70.653868
-altitude       : 12 m
-gps_accuracy   : ±8.2 m
-heading        : 0°
-speed          : 0.1 km/h
+location       : urban_sector
+latitude       : -33.444355
+longitude      : -70.650454
+altitude       : 81 m
+gps_accuracy   : ±7.8 m
+heading        : 93°
+speed          : 0.5 km/h
 status         : resting
 phase          : overnight
-local_time     : 00:17
+local_time     : 02:04
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-10-12 03:17:34 UTC
+updated_utc    : 2026-10-13 05:04:35 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-10-11 22:05:11Z
+DSN snapshot (UTC)       : 2026-10-13 00:47:43Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +923,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.80e9 km | 172.452 AU
-Heliocentric distance    : 172.024 AU
-Relative speed           : 43.636 km/s
+Earth distance           : 25.80e9 km | 172.476 AU
+Heliocentric distance    : 172.034 AU
+Relative speed           : 43.558 km/s
 ------------------------------------------------------------
-One-way light time       : 23:54:14
-Round-trip latency       : 47:48:29
+One-way light time       : 23:54:26
+Round-trip latency       : 47:48:53
 ------------------------------------------------------------
-Δ distance (since last)  : +1.221e6 km
-Mission age              : 49 years, 48 days
+Δ distance (since last)  : +1.224e6 km
+Mission age              : 49 years, 50 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.56e9 km | 144.150 AU
-Heliocentric distance    : 144.180 AU
-Relative speed           : 41.630 km/s
+Earth distance           : 21.57e9 km | 144.175 AU
+Heliocentric distance    : 144.190 AU
+Relative speed           : 41.649 km/s
 ------------------------------------------------------------
-One-way light time       : 19:58:52
-Round-trip latency       : 39:57:43
+One-way light time       : 19:59:04
+Round-trip latency       : 39:58:08
 ------------------------------------------------------------
-Δ distance (since last)  : +1.251e6 km
-Mission age              : 49 years, 64 days
+Δ distance (since last)  : +1.263e6 km
+Mission age              : 49 years, 66 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-10-11 22:05:14Z
+Report generated (UTC)   : 2026-10-13 00:47:49Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Cold — It's All Good
+Track                     : Cold — Same Drug
 Artist                    : Cold
-Title                     : It's All Good
+Title                     : Same Drug
 Album                     : 13 Ways To Bleed Onstage
-Spotify URI               : spotify:track:6nFjJxM9ivJd27juSyD6xT
-Spotify URL               : https://open.spotify.com/track/6nFjJxM9ivJd27juSyD6xT
+Spotify URI               : spotify:track:4kFn1jFwrE2K1G77zuDQjd
+Spotify URL               : https://open.spotify.com/track/4kFn1jFwrE2K1G77zuDQjd
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-10 13:11:03Z
-Played at (local)         : 2026-10-10 10:11:03 -03
-Local hour                : 10:00
+Played at (UTC)           : 2026-10-10 14:56:06Z
+Played at (local)         : 2026-10-10 11:56:06 -03
+Local hour                : 11:00
 Daypart                   : MORNING
-Time since play           : 34:33:24
-Gap from previous play    : 00:04:04
+Time since play           : 56:07:31
+Gap from previous play    : 01:45:03
 ------------------------------------------------------------
-Previous song             : Cold — She Said
+Previous song             : Cold — It's All Good
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 2
-Artist plays (retained)   : 5
+Track plays (retained)    : 1
+Artist plays (retained)   : 6
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Cold — She Said | 2026-10-10 10:06:59 -03
-Previous track #2         : Chevelle — Get Some | 2026-10-10 09:56:30 -03
-Previous track #3         : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
-Previous track #4         : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
-Previous track #5         : Roving — Haven Blue | 2026-10-10 08:59:59 -03
-Previous track #6         : Superheaven — Blur | 2026-10-10 08:56:24 -03
-Previous track #7         : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
-Previous track #8         : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
-Previous track #9         : Grivo — C.A. | 2026-10-10 08:46:31 -03
-Previous track #10        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
-Previous track #11        : Midrift — unrequited | 2026-10-10 08:39:56 -03
-Previous track #12        : Glare — Into Me | 2026-10-10 08:37:50 -03
-Previous track #13        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
-Previous track #14        : Druidess — Lavender | 2026-10-10 08:30:09 -03
-Previous track #15        : trauma ray — Relay | 2026-10-10 08:26:09 -03
-Previous track #16        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
-Previous track #17        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
-Previous track #18        : Midrift — Need | 2026-10-10 08:13:16 -03
-Previous track #19        : Midrift — Woods | 2026-10-10 08:10:24 -03
-Previous track #20        : Midrift — bouquet | 2026-10-10 08:08:32 -03
-Previous track #21        : Midrift — Grounded | 2026-10-10 08:05:53 -03
-Previous track #22        : Midrift — all i said | 2026-10-10 08:04:09 -03
-Previous track #23        : Midrift — Wanted | 2026-10-10 08:01:15 -03
-Previous track #24        : Midrift — Between | 2026-10-10 07:58:46 -03
-Previous track #25        : Midrift — Midrift | 2026-10-10 07:56:10 -03
-Previous track #26        : Midrift — difference to | 2026-10-10 07:54:36 -03
-Previous track #27        : Midrift — Change For | 2026-10-10 07:51:45 -03
-Previous track #28        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
-Previous track #29        : Midrift — In Pictures | 2026-10-10 07:46:48 -03
-Previous track #30        : Midrift — silhouette | 2026-10-10 07:44:44 -03
-Previous track #31        : Midrift — Path | 2026-10-10 07:40:46 -03
-Previous track #32        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03
-Previous track #33        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03
-Previous track #34        : Midrift — over anything | 2026-10-10 07:33:03 -03
-Previous track #35        : Midrift — Tell Me Everything | 2026-10-10 07:30:28 -03
-Previous track #36        : Midrift — leaving tonight | 2026-10-10 07:27:24 -03
-Previous track #37        : Midrift — not far gone | 2026-10-10 07:25:08 -03
-Previous track #38        : Midrift — dismal | 2026-10-10 07:22:00 -03
-Previous track #39        : Midrift — Safe And Sound | 2026-10-10 07:20:00 -03
-Previous track #40        : Midrift — Tongue | 2026-10-10 07:17:35 -03
+Previous track #1         : Cold — It's All Good | 2026-10-10 10:11:03 -03
+Previous track #2         : Cold — She Said | 2026-10-10 10:06:59 -03
+Previous track #3         : Chevelle — Get Some | 2026-10-10 09:56:30 -03
+Previous track #4         : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
+Previous track #5         : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
+Previous track #6         : Roving — Haven Blue | 2026-10-10 08:59:59 -03
+Previous track #7         : Superheaven — Blur | 2026-10-10 08:56:24 -03
+Previous track #8         : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
+Previous track #9         : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
+Previous track #10        : Grivo — C.A. | 2026-10-10 08:46:31 -03
+Previous track #11        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
+Previous track #12        : Midrift — unrequited | 2026-10-10 08:39:56 -03
+Previous track #13        : Glare — Into Me | 2026-10-10 08:37:50 -03
+Previous track #14        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
+Previous track #15        : Druidess — Lavender | 2026-10-10 08:30:09 -03
+Previous track #16        : trauma ray — Relay | 2026-10-10 08:26:09 -03
+Previous track #17        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
+Previous track #18        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
+Previous track #19        : Midrift — Need | 2026-10-10 08:13:16 -03
+Previous track #20        : Midrift — Woods | 2026-10-10 08:10:24 -03
+Previous track #21        : Midrift — bouquet | 2026-10-10 08:08:32 -03
+Previous track #22        : Midrift — Grounded | 2026-10-10 08:05:53 -03
+Previous track #23        : Midrift — all i said | 2026-10-10 08:04:09 -03
+Previous track #24        : Midrift — Wanted | 2026-10-10 08:01:15 -03
+Previous track #25        : Midrift — Between | 2026-10-10 07:58:46 -03
+Previous track #26        : Midrift — Midrift | 2026-10-10 07:56:10 -03
+Previous track #27        : Midrift — difference to | 2026-10-10 07:54:36 -03
+Previous track #28        : Midrift — Change For | 2026-10-10 07:51:45 -03
+Previous track #29        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
+Previous track #30        : Midrift — In Pictures | 2026-10-10 07:46:48 -03
+Previous track #31        : Midrift — silhouette | 2026-10-10 07:44:44 -03
+Previous track #32        : Midrift — Path | 2026-10-10 07:40:46 -03
+Previous track #33        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03
+Previous track #34        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03
+Previous track #35        : Midrift — over anything | 2026-10-10 07:33:03 -03
+Previous track #36        : Midrift — Tell Me Everything | 2026-10-10 07:30:28 -03
+Previous track #37        : Midrift — leaving tonight | 2026-10-10 07:27:24 -03
+Previous track #38        : Midrift — not far gone | 2026-10-10 07:25:08 -03
+Previous track #39        : Midrift — dismal | 2026-10-10 07:22:00 -03
+Previous track #40        : Midrift — Safe And Sound | 2026-10-10 07:20:00 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1611,13 +1611,13 @@ Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-05 12:03:04Z
-History last play (7d)    : 2026-10-10 13:11:03Z
-Observed time span        : 121:07:59
-Mean inter-play gap       : 01:55:22
+History first play (7d)   : 2026-10-06 01:44:38Z
+History last play (7d)    : 2026-10-10 14:56:06Z
+Observed time span        : 109:11:28
+Mean inter-play gap       : 01:43:59
 Median inter-play gap     : 00:02:54
 Longest inactivity gap    : 49:14:16
-Listening intensity       : 0.53 tracks/hour
+Listening intensity       : 0.59 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1631,12 +1631,12 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :  ▁   █ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :    ▁ ▅▁     ▃ ▃ ▂ ▁▅    ▁   █ 
+Activity trend (30d)      :   ▁ ▅▁     ▂ ▃ ▂ ▁▅    ▁   █  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :          █            █ 
+Mon                       :                       █ 
 Tue                       :            █▄▄ ▄   ▄    
 Wed                       :                  █      
 Thu                       :      █                  
@@ -1654,7 +1654,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-04 23:44:27Z → 2026-10-11 23:44:27Z
+Week window (UTC)         : 2026-10-05 23:03:36Z → 2026-10-12 23:03:36Z
 Tracks played (7d)        : 64
 Dominant artist           : Midrift
 Cadence classification    : HIGH
@@ -1664,12 +1664,12 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
 Sessions (7d)             : 11
-Avg inter-play gap        : 01:55:22
+Avg inter-play gap        : 01:43:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(44) | alternative metal(19) | nu metal(13) | hard rock(9) | metal(9) | rap metal(9)
+Top genres (7d)           : shoegaze(44) | alternative metal(19) | nu metal(13) | post-grunge(9) | hard rock(8) | metal(8)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1677,16 +1677,16 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:44:52
+Telemetry interval        : 07:20:27
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 491
+Events retained           : 492
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-10 10:11:03 -03
+Newest retained event     : 2026-10-10 11:56:06 -03
 Events (24h)              : 0
 Events (7d)               : 64
-Events (30d)              : 229
+Events (30d)              : 217
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-11 23:44:27Z
+Report generated (UTC)    : 2026-10-12 23:03:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2073,7 +2073,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 11 October 2026
+From: 04 December 2023 - To: 12 October 2026
 
 Total Time       : 1,074 hrs 16 mins
 Mostly coding in : Other
@@ -2126,7 +2126,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 12/10/2026 03:59:12 UTC
+Last updated     : 13/10/2026 00:03:41 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2178,16 +2178,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Pizzaboi87">
-        <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
@@ -2214,6 +2204,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/NikolaiProgramist">Nikolai</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/nmrshll">
+        <img src="https://avatars2.githubusercontent.com/u/7091508" style="width:30px; height:30px;" alt="nmrshll"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/nmrshll">Nicolas Marshall</a>
       </sub>
     </li>
     <br>
