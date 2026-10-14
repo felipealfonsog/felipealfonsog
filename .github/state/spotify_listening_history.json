@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-14 18:43:05Z",
+  "updated_utc": "2026-10-14 23:17:57Z",
   "events": [
+    {
+      "track": "Chevelle — Wonder What's Next",
+      "artist": "Chevelle",
+      "title": "Wonder What's Next",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:7hOgnx2HOJ1KBdv0U0n1T3",
+      "url": "https://open.spotify.com/track/7hOgnx2HOJ1KBdv0U0n1T3",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-10-14 21:49:34Z",
+      "played_at_local": "2026-10-14 18:49:34 -03",
+      "local_hour": 18,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — The Red",
+      "artist": "Chevelle",
+      "title": "The Red",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-10-14 21:45:24Z",
+      "played_at_local": "2026-10-14 18:45:24 -03",
+      "local_hour": 18,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Cold — Same Drug",
+      "artist": "Cold",
+      "title": "Same Drug",
+      "album": "13 Ways To Bleed Onstage",
+      "uri": "spotify:track:4kFn1jFwrE2K1G77zuDQjd",
+      "url": "https://open.spotify.com/track/4kFn1jFwrE2K1G77zuDQjd",
+      "artist_ids": [
+        "0Gw3a3BkWLwsMLFbOBmo6Q"
+      ],
+      "played_at_utc": "2026-10-14 21:39:34Z",
+      "played_at_local": "2026-10-14 18:39:34 -03",
+      "local_hour": 18,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dOVfly8hXQAgNdiKnLiFn",
+      "context_url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
+    },
+    {
+      "track": "Nirvana — Blew",
+      "artist": "Nirvana",
+      "title": "Blew",
+      "album": "Bleach",
+      "uri": "spotify:track:7pETV41GUutaZ6KMHMAYIH",
+      "url": "https://open.spotify.com/track/7pETV41GUutaZ6KMHMAYIH",
+      "artist_ids": [
+        "6olE6TJLqED3rqDCT0FyPh"
+      ],
+      "played_at_utc": "2026-10-12 05:27:26Z",
+      "played_at_local": "2026-10-12 02:27:26 -03",
+      "local_hour": 2,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1KVGLuPtrMrLlyy4Je6df7",
+      "context_url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
+    },
     {
       "track": "Cold — Same Drug",
       "artist": "Cold",
