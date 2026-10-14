@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-10 14:56:06Z
 Played at (local)         : 2026-10-10 11:56:06 -03
 Local hour                : 11:00
 Daypart                   : MORNING
-Time since play           : 88:50:35
+Time since play           : 94:53:51
 Gap from previous play    : 01:45:03
 ------------------------------------------------------------
 Previous song             : Cold — It's All Good
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-07 07:46:40Z → 2026-10-14 07:46:40Z
+Week window (UTC)         : 2026-10-07 13:49:57Z → 2026-10-14 13:49:57Z
 Tracks played (7d)        : 57
 Dominant artist           : Midrift
 Cadence classification    : HIGH
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:29:51
+Telemetry interval        : 06:03:17
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-14 07:46:40Z
+Report generated (UTC)    : 2026-10-14 13:49:57Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
