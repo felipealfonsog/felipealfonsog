@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-10 14:56:06Z
 Played at (local)         : 2026-10-10 11:56:06 -03
 Local hour                : 11:00
 Daypart                   : MORNING
-Time since play           : 78:24:04
+Time since play           : 82:20:45
 Gap from previous play    : 01:45:03
 ------------------------------------------------------------
 Previous song             : Cold — It's All Good
@@ -1584,33 +1584,33 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 58
-Unique tracks             : 55
+Observed events           : 57
+Unique tracks             : 54
 Unique artists            : 16
-Replay ratio              : █░░░░░░░░░░░░░░░░░  5.2%
-Artist diversity          : █████░░░░░░░░░░░░░  27.6%
+Replay ratio              : █░░░░░░░░░░░░░░░░░  5.3%
+Artist diversity          : █████░░░░░░░░░░░░░  28.1%
 Dominant artist           : Midrift
-Dominant artist share     : ██████████░░░░░░░░  55.2%
-Artist switch ratio       : ███████░░░░░░░░░░░  36.8%
+Dominant artist share     : ██████████░░░░░░░░  56.1%
+Artist switch ratio       : ██████░░░░░░░░░░░░  35.7%
 Longest artist streak     : Midrift × 30
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.7%
-Morning    06–12           : █████████████████░   94.8%
-Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    1.7%
-Evening    18–24           : ░░░░░░░░░░░░░░░░░░    1.7%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.8%
+Morning    06–12           : █████████████████░   96.5%
+Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    1.8%
+Evening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-06 22:37:42Z
+History first play (7d)   : 2026-10-07 20:41:31Z
 History last play (7d)    : 2026-10-10 14:56:06Z
-Observed time span        : 88:18:24
-Mean inter-play gap       : 01:32:57
-Median inter-play gap     : 00:02:51
+Observed time span        : 66:14:35
+Mean inter-play gap       : 01:10:58
+Median inter-play gap     : 00:02:50
 Longest inactivity gap    : 49:14:16
-Listening intensity       : 0.66 tracks/hour
+Listening intensity       : 0.86 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1630,7 +1630,7 @@ Trend order               : oldest → newest
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :                         
-Tue                       :                    █    
+Tue                       :                         
 Wed                       :                  █      
 Thu                       :      █                  
 Fri                       :                         
@@ -1647,8 +1647,8 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-06 21:20:09Z → 2026-10-13 21:20:09Z
-Tracks played (7d)        : 58
+Week window (UTC)         : 2026-10-07 01:16:50Z → 2026-10-14 01:16:50Z
+Tracks played (7d)        : 57
 Dominant artist           : Midrift
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1656,13 +1656,13 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 6
-Avg inter-play gap        : 01:32:57
+Sessions (7d)             : 5
+Avg inter-play gap        : 01:10:58
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(44) | alternative metal(13) | post-grunge(9) | nu metal(7) | groove metal(6) | grunge(6)
+Top genres (7d)           : shoegaze(44) | alternative metal(12) | post-grunge(9) | groove metal(6) | grunge(6) | noise rock(6)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:13:47
+Telemetry interval        : 03:56:42
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1678,7 +1678,7 @@ Events retained           : 492
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-10 11:56:06 -03
 Events (24h)              : 0
-Events (7d)               : 58
+Events (7d)               : 57
 Events (30d)              : 214
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-13 21:20:09Z
+Report generated (UTC)    : 2026-10-14 01:16:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
