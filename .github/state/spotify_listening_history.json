@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-14 23:17:57Z",
+  "updated_utc": "2026-10-15 04:51:37Z",
   "events": [
+    {
+      "track": "Chevelle — Don't Fake This",
+      "artist": "Chevelle",
+      "title": "Don't Fake This",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:2Bcvh4zypRuH0cCTQzuV6B",
+      "url": "https://open.spotify.com/track/2Bcvh4zypRuH0cCTQzuV6B",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-10-15 01:32:25Z",
+      "played_at_local": "2026-10-14 22:32:25 -03",
+      "local_hour": 22,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
     {
       "track": "Chevelle — Wonder What's Next",
       "artist": "Chevelle",
