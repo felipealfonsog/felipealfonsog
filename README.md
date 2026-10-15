@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-15 01:32:25Z
 Played at (local)         : 2026-10-14 22:32:25 -03
 Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 03:19:12
+Time since play           : 10:09:48
 Gap from previous play    : 03:42:51
 ------------------------------------------------------------
 Previous song             : Chevelle — Wonder What's Next
@@ -1584,33 +1584,33 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 61
-Unique tracks             : 57
-Unique artists            : 17
-Replay ratio              : █░░░░░░░░░░░░░░░░░  6.6%
-Artist diversity          : █████░░░░░░░░░░░░░  27.9%
+Observed events           : 60
+Unique tracks             : 56
+Unique artists            : 16
+Replay ratio              : █░░░░░░░░░░░░░░░░░  6.7%
+Artist diversity          : █████░░░░░░░░░░░░░  26.7%
 Dominant artist           : Midrift
-Dominant artist share     : █████████░░░░░░░░░  52.5%
-Artist switch ratio       : ███████░░░░░░░░░░░  36.7%
+Dominant artist share     : ██████████░░░░░░░░  53.3%
+Artist switch ratio       : ██████░░░░░░░░░░░░  35.6%
 Longest artist streak     : Midrift × 30
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    3.3%
-Morning    06–12           : ████████████████░░   90.2%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.7%
+Morning    06–12           : ████████████████░░   91.7%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    6.6%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    6.7%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-08 08:25:40Z
+History first play (7d)   : 2026-10-10 09:39:56Z
 History last play (7d)    : 2026-10-15 01:32:25Z
-Observed time span        : 161:06:45
-Mean inter-play gap       : 02:41:07
+Observed time span        : 111:52:29
+Mean inter-play gap       : 01:53:46
 Median inter-play gap     : 00:02:52
 Longest inactivity gap    : 64:12:08
-Listening intensity       : 0.38 tracks/hour
+Listening intensity       : 0.54 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1632,7 +1632,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :   █                     
 Tue                       :                         
 Wed                       :                   █   ▃ 
-Thu                       :      █                  
+Thu                       :                         
 Fri                       :                         
 Sat                       :       ▂█▆▁▁             
 Sun                       :                         
@@ -1647,8 +1647,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-08 04:51:37Z → 2026-10-15 04:51:37Z
-Tracks played (7d)        : 61
+Week window (UTC)         : 2026-10-08 11:42:12Z → 2026-10-15 11:42:12Z
+Tracks played (7d)        : 60
 Dominant artist           : Midrift
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1656,8 +1656,8 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
-Sessions (7d)             : 7
-Avg inter-play gap        : 02:41:07
+Sessions (7d)             : 6
+Avg inter-play gap        : 01:53:46
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
@@ -1667,10 +1667,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Chevelle — Wonder What's Next → Chevelle — Don't Fake This
-Playback timestamp Δ      : 2026-10-14 21:49:34Z → 2026-10-15 01:32:25Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:33:40
+Telemetry interval        : 06:50:36
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1678,7 +1678,7 @@ Events retained           : 497
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-14 22:32:25 -03
 Events (24h)              : 4
-Events (7d)               : 61
+Events (7d)               : 60
 Events (30d)              : 219
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-15 04:51:37Z
+Report generated (UTC)    : 2026-10-15 11:42:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
