@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-15 01:32:25Z
 Played at (local)         : 2026-10-14 22:32:25 -03
 Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 40:37:31
+Time since play           : 43:49:07
 Gap from previous play    : 03:42:51
 ------------------------------------------------------------
 Previous song             : Chevelle — Wonder What's Next
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-09 18:09:55Z → 2026-10-16 18:09:55Z
+Week window (UTC)         : 2026-10-09 21:21:31Z → 2026-10-16 21:21:31Z
 Tracks played (7d)        : 60
 Dominant artist           : Midrift
 Cadence classification    : HIGH
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:49:48
+Telemetry interval        : 03:11:37
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-16 18:09:55Z
+Report generated (UTC)    : 2026-10-16 21:21:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
