@@ -1502,7 +1502,7 @@ Played at (UTC)           : 2026-10-15 01:32:25Z
 Played at (local)         : 2026-10-14 22:32:25 -03
 Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 47:02:22
+Time since play           : 53:30:10
 Gap from previous play    : 03:42:51
 ------------------------------------------------------------
 Previous song             : Chevelle — Wonder What's Next
@@ -1624,7 +1624,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :   ▁  █ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▅▁     ▂ ▃ ▂ ▁▅    ▁   █   ▁  
+Activity trend (30d)      : ▁     ▂ ▃ ▂ ▁▅    ▁   █   ▁   
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,7 +1647,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-10 00:34:47Z → 2026-10-17 00:34:47Z
+Week window (UTC)         : 2026-10-10 07:02:35Z → 2026-10-17 07:02:35Z
 Tracks played (7d)        : 60
 Dominant artist           : Midrift
 Cadence classification    : HIGH
@@ -1670,7 +1670,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:13:16
+Telemetry interval        : 06:27:48
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1708,7 +1708,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-17 00:34:47Z
+Report generated (UTC)    : 2026-10-17 07:02:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
