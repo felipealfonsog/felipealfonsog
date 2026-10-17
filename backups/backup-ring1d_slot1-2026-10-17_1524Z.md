@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-10-16_1629Z
+ snapshot_utc : 2026-10-17_1524Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -82,9 +82,13 @@ Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Ze
 
 Beyond engineering, I explore philosophy, I study constantly [**Zen**](https://en.wikipedia.org/wiki/Zen) and practice [**Zazen**](https://en.wikipedia.org/wiki/Zazen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
+
+— and a member of the [**Grand Lodge of Chile**](https://es.wikipedia.org/wiki/Gran_Logia_de_Chile)
+
+
 -->
 
-Beyond engineering, I explore philosophy and contemplative traditions through rigorous study and long-term practice. I study, practice, and follow [**Zen Buddhism**](https://en.wikipedia.org/wiki/Zen) as both a philosophical and existential discipline, integrating it with ancient philosophy, reason, naturalism, and a broader inquiry into mind, consciousness, and reality. My practice centers on [**Zazen**](https://en.wikipedia.org/wiki/Zazen), particularly **Shikantaza** (*“just sitting”*) — observing experience directly, without attachment or pursuit of a particular state. For me, Zen and mindfulness are integral to my understanding of life and the universe, cultivating presence, clarity, self-knowledge, and a direct, non-dogmatic encounter with reality. I am a [**Freemason**](https://en.wikipedia.org/wiki/Freemasonry) — [**Bro∴ (*Masonic Brother*)**](https://en.wikipedia.org/wiki/List_of_Masonic_abbreviations) — and a member of the [**Grand Lodge of Chile**](https://es.wikipedia.org/wiki/Gran_Logia_de_Chile), belonging to the broader initiatic, philosophical, symbolic, and fraternal tradition of **Freemasonry**. To be a Masonic Brother is, to me, to belong to a fraternity united by shared principles of mutual respect, ethical development, freedom of conscience, and the continuous improvement of the individual. I embrace its philosophical and symbolic heritage as a path of inner refinement and self-cultivation — fostering fraternity, self-knowledge, intellectual clarity, and the enduring pursuit of truth. I enjoy reading and writing ([**Goodreads**](https://goodreads.com/felipealfonsog)), playing [**bass guitar**](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [**BJJ**](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)), listening to music ([**Spotify**](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [**PETA**](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [**Agrupación Nacional de Boy Scouts de Chile**](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
+Beyond engineering, I explore philosophy and contemplative traditions through rigorous study and long-term practice. I study, practice, and follow [**Zen Buddhism**](https://en.wikipedia.org/wiki/Zen) as both a philosophical and existential discipline, integrating it with ancient philosophy, reason, naturalism, and a broader inquiry into mind, consciousness, and reality. My practice centers on [**Zazen**](https://en.wikipedia.org/wiki/Zazen), particularly **Shikantaza** (*“just sitting”*) — observing experience directly, without attachment or pursuit of a particular state. For me, Zen and mindfulness are integral to my understanding of life and the universe, cultivating presence, clarity, self-knowledge, and a direct, non-dogmatic encounter with reality. I am a [**Freemason**](https://en.wikipedia.org/wiki/Freemasonry) — <!--A sleeping--> [Bro∴ (*Masonic Brother*)](https://en.wikipedia.org/wiki/List_of_Masonic_abbreviations), belonging to the broader initiatic, philosophical, symbolic, and fraternal tradition of **Freemasonry**. To be a Masonic Brother is, to me, to belong to a fraternity united by shared principles of mutual respect, ethical development, freedom of conscience, and the continuous improvement of the individual. I embrace its philosophical and symbolic heritage as a path of inner refinement and self-cultivation — fostering fraternity, self-knowledge, intellectual clarity, and the enduring pursuit of truth. I enjoy reading and writing ([**Goodreads**](https://goodreads.com/felipealfonsog)), playing [**bass guitar**](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [**BJJ**](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)), listening to music ([**Spotify**](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [**PETA**](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [**Agrupación Nacional de Boy Scouts de Chile**](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
 Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
 
@@ -255,7 +259,7 @@ This integration enables precise visual control, consistent styling, and a refin
 
 
 
-#
+
 <!-- 
 ```
 
@@ -398,11 +402,14 @@ ICONOS INICIALES INLINE SVG1
 -->
 
 <!-- LIST-ICONS1:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons1inline-fullv4.png" alt="List-icons1 inline strip" /></a>
+
 <!-- LIST-ICONS1:END -->
 
-
+<!-- 
 #
+-->
+
+
 
 <!--
 [<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
@@ -481,7 +488,7 @@ ICONOS INICIALES INLINE SVG1
 
 
 <!-- LIST-ICONS2:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons2inline-full.png" alt="List-icons2 inline strip" /></a>
+
 <!-- LIST-ICONS2:END -->
 
 
@@ -536,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-10-16T11:13:25+00:00 | last_update=2026-10-16T11:13:25+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-10-17T10:32:18+00:00 | last_update=2026-10-17T10:32:18+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 254 ms
-TTFB................ 253 ms
+LATENCY............. 396 ms
+TTFB................ 395 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 75d
+TLS_EXPIRY.......... 74d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -725,9 +732,9 @@ REFPOL.............. MISS
 PERMPOL............. MISS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PASS
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -741,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-10-16T08:01:35Z
+LAST_PROBE_UTC...... 2026-10-17T07:40:04Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -782,18 +789,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.444076
-longitude      : -70.650748
-altitude       : 91 m
-gps_accuracy   : ±5.6 m
-heading        : 347°
-speed          : 2.2 km/h
-status         : in_transit
-phase          : workday
-local_time     : 12:46
+latitude       : -33.444100
+longitude      : -70.650132
+altitude       : 90 m
+gps_accuracy   : ±6.4 m
+heading        : 177°
+speed          : 3.4 km/h
+status         : walking
+phase          : morning
+local_time     : 11:38
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-10-16 15:46:10 UTC
+signal         : stable
+updated_utc    : 2026-10-17 14:38:50 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-10-16 11:33:24Z
+DSN snapshot (UTC)       : 2026-10-17 10:53:36Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.81e9 km | 172.549 AU
-Heliocentric distance    : 172.068 AU
-Relative speed           : 43.292 km/s
+Earth distance           : 25.82e9 km | 172.569 AU
+Heliocentric distance    : 172.078 AU
+Relative speed           : 43.211 km/s
 ------------------------------------------------------------
-One-way light time       : 23:55:03
-Round-trip latency       : 47:50:06
+One-way light time       : 23:55:13
+Round-trip latency       : 47:50:26
 ------------------------------------------------------------
-Δ distance (since last)  : +903,758 km
-Mission age              : 49 years, 53 days
+Δ distance (since last)  : +815,201 km
+Mission age              : 49 years, 54 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.58e9 km | 144.251 AU
-Heliocentric distance    : 144.220 AU
-Relative speed           : 41.688 km/s
+Earth distance           : 21.58e9 km | 144.273 AU
+Heliocentric distance    : 144.229 AU
+Relative speed           : 41.694 km/s
 ------------------------------------------------------------
-One-way light time       : 19:59:42
-Round-trip latency       : 39:59:24
+One-way light time       : 19:59:53
+Round-trip latency       : 39:59:46
 ------------------------------------------------------------
-Δ distance (since last)  : +953,441 km
-Mission age              : 49 years, 69 days
+Δ distance (since last)  : +865,454 km
+Mission age              : 49 years, 70 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-10-16 11:33:29Z
+Report generated (UTC)   : 2026-10-17 10:53:38Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1509,7 +1516,7 @@ Played at (UTC)           : 2026-10-15 01:32:25Z
 Played at (local)         : 2026-10-14 22:32:25 -03
 Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 35:47:43
+Time since play           : 58:43:06
 Gap from previous play    : 03:42:51
 ------------------------------------------------------------
 Previous song             : Chevelle — Wonder What's Next
@@ -1591,47 +1598,47 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 60
-Unique tracks             : 56
-Unique artists            : 16
-Replay ratio              : █░░░░░░░░░░░░░░░░░  6.7%
-Artist diversity          : █████░░░░░░░░░░░░░  26.7%
-Dominant artist           : Midrift
-Dominant artist share     : ██████████░░░░░░░░  53.3%
-Artist switch ratio       : ██████░░░░░░░░░░░░  35.6%
-Longest artist streak     : Midrift × 30
+Observed events           : 10
+Unique tracks             : 9
+Unique artists            : 4
+Replay ratio              : ██░░░░░░░░░░░░░░░░  10.0%
+Artist diversity          : ███████░░░░░░░░░░░  40.0%
+Dominant artist           : Chevelle
+Dominant artist share     : ███████░░░░░░░░░░░  40.0%
+Artist switch ratio       : ██████████░░░░░░░░  55.6%
+Longest artist streak     : Cold × 3
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.7%
-Morning    06–12           : ████████████████░░   91.7%
+Night      00–06           : ██░░░░░░░░░░░░░░░░   10.0%
+Morning    06–12           : █████████░░░░░░░░░   50.0%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    6.7%
+Evening    18–24           : ███████░░░░░░░░░░░   40.0%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-10 09:39:56Z
+History first play (7d)   : 2026-10-10 12:56:30Z
 History last play (7d)    : 2026-10-15 01:32:25Z
-Observed time span        : 111:52:29
-Mean inter-play gap       : 01:53:46
-Median inter-play gap     : 00:02:52
+Observed time span        : 108:35:55
+Mean inter-play gap       : 12:03:59
+Median inter-play gap     : 00:10:29
 Longest inactivity gap    : 64:12:08
-Listening intensity       : 0.54 tracks/hour
+Listening intensity       : 0.09 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : N/A
-Peak hour (7d)            : 07:00
+Peak hour (7d)            : 18:00
 Heatmap (24h)             : N/A
-Heatmap (7d)              :       ▂█▆▁▁       ▁     
+Heatmap (7d)              :   ▃      ▅▅▃      █   ▃ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▁  █ 
+Activity (Mon→Sun)        : ▂ ▆  █ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▅▁     ▂ ▃ ▂ ▁▅    ▁   █   ▁  
+Activity trend (30d)      : ▁     ▂ ▃ ▂ ▁▅    ▁   █   ▁   
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1641,7 +1648,7 @@ Tue                       :
 Wed                       :                   █   ▃ 
 Thu                       :                         
 Fri                       :                         
-Sat                       :       ▂█▆▁▁             
+Sat                       :          ██▄            
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
@@ -1654,22 +1661,22 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-09 13:20:08Z → 2026-10-16 13:20:08Z
-Tracks played (7d)        : 60
-Dominant artist           : Midrift
-Cadence classification    : HIGH
+Week window (UTC)         : 2026-10-10 12:15:30Z → 2026-10-17 12:15:30Z
+Tracks played (7d)        : 10
+Dominant artist           : Chevelle
+Cadence classification    : LOW
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : N/A
-Sessions (7d)             : 6
-Avg inter-play gap        : 01:53:46
+Sessions (7d)             : 5
+Avg inter-play gap        : 12:03:59
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(44) | alternative metal(15) | post-grunge(12) | nu metal(9) | grunge(7) | groove metal(6)
+Top genres (7d)           : alternative metal(9) | nu metal(9) | post-grunge(8) | grunge(1) | hard rock(1) | metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1677,7 +1684,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:01:05
+Telemetry interval        : 05:12:56
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1685,8 +1692,8 @@ Events retained           : 497
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-14 22:32:25 -03
 Events (24h)              : 0
-Events (7d)               : 60
-Events (30d)              : 214
+Events (7d)               : 10
+Events (30d)              : 197
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-16 13:20:08Z
+Report generated (UTC)    : 2026-10-17 12:15:30Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2073,7 +2080,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 16 October 2026
+From: 04 December 2023 - To: 17 October 2026
 
 Total Time       : 1,074 hrs 16 mins
 Mostly coding in : Other
@@ -2126,7 +2133,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 16/10/2026 15:57:39 UTC
+Last updated     : 17/10/2026 14:50:53 UTC
 
 ```
 <!--END_SECTION:wakastats-->
