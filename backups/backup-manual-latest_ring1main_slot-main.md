@@ -395,11 +395,14 @@ ICONOS INICIALES INLINE SVG1
 -->
 
 <!-- LIST-ICONS1:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons1inline-fullv4.png" alt="List-icons1 inline strip" /></a>
+
 <!-- LIST-ICONS1:END -->
 
-
+<!-- 
 #
+-->
+
+
 
 <!--
 [<img src="https://img.shields.io/badge/-glzengrg.com-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&logoWidth=20" height="19"/>](https://glzengrg.com/)
