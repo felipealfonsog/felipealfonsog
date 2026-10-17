@@ -252,7 +252,7 @@ This integration enables precise visual control, consistent styling, and a refin
 
 
 
-#
+
 <!-- 
 ```
 
@@ -481,7 +481,7 @@ ICONOS INICIALES INLINE SVG1
 
 
 <!-- LIST-ICONS2:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons2inline-full.png" alt="List-icons2 inline strip" /></a>
+
 <!-- LIST-ICONS2:END -->
 
 
