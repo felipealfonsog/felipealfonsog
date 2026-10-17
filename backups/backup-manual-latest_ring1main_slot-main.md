@@ -75,9 +75,13 @@ Beyond engineering, I explore philosophy, [Zen](https://en.wikipedia.org/wiki/Ze
 
 Beyond engineering, I explore philosophy, I study constantly [**Zen**](https://en.wikipedia.org/wiki/Zen) and practice [**Zazen**](https://en.wikipedia.org/wiki/Zazen), consciousness, and [**Freemasonry**](https://en.wikipedia.org/wiki/Freemasonry), seeking meaning, clarity, and truth in reflective study. I enjoy reading and writing ([Goodreads](https://goodreads.com/felipealfonsog)), playing [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), listening to music ([Spotify](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [PETA](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [Agrupación Nacional de Boy Scouts de Chile](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
+
+— and a member of the [**Grand Lodge of Chile**](https://es.wikipedia.org/wiki/Gran_Logia_de_Chile)
+
+
 -->
 
-Beyond engineering, I explore philosophy and contemplative traditions through rigorous study and long-term practice. I study, practice, and follow [**Zen Buddhism**](https://en.wikipedia.org/wiki/Zen) as both a philosophical and existential discipline, integrating it with ancient philosophy, reason, naturalism, and a broader inquiry into mind, consciousness, and reality. My practice centers on [**Zazen**](https://en.wikipedia.org/wiki/Zazen), particularly **Shikantaza** (*“just sitting”*) — observing experience directly, without attachment or pursuit of a particular state. For me, Zen and mindfulness are integral to my understanding of life and the universe, cultivating presence, clarity, self-knowledge, and a direct, non-dogmatic encounter with reality. I am a [**Freemason**](https://en.wikipedia.org/wiki/Freemasonry) — [**Bro∴ (*Masonic Brother*)**](https://en.wikipedia.org/wiki/List_of_Masonic_abbreviations) — and a member of the [**Grand Lodge of Chile**](https://es.wikipedia.org/wiki/Gran_Logia_de_Chile), belonging to the broader initiatic, philosophical, symbolic, and fraternal tradition of **Freemasonry**. To be a Masonic Brother is, to me, to belong to a fraternity united by shared principles of mutual respect, ethical development, freedom of conscience, and the continuous improvement of the individual. I embrace its philosophical and symbolic heritage as a path of inner refinement and self-cultivation — fostering fraternity, self-knowledge, intellectual clarity, and the enduring pursuit of truth. I enjoy reading and writing ([**Goodreads**](https://goodreads.com/felipealfonsog)), playing [**bass guitar**](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [**BJJ**](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)), listening to music ([**Spotify**](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [**PETA**](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [**Agrupación Nacional de Boy Scouts de Chile**](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
+Beyond engineering, I explore philosophy and contemplative traditions through rigorous study and long-term practice. I study, practice, and follow [**Zen Buddhism**](https://en.wikipedia.org/wiki/Zen) as both a philosophical and existential discipline, integrating it with ancient philosophy, reason, naturalism, and a broader inquiry into mind, consciousness, and reality. My practice centers on [**Zazen**](https://en.wikipedia.org/wiki/Zazen), particularly **Shikantaza** (*“just sitting”*) — observing experience directly, without attachment or pursuit of a particular state. For me, Zen and mindfulness are integral to my understanding of life and the universe, cultivating presence, clarity, self-knowledge, and a direct, non-dogmatic encounter with reality. I am a [**Freemason**](https://en.wikipedia.org/wiki/Freemasonry) — [**Bro∴ (*Masonic Brother*)**](https://en.wikipedia.org/wiki/List_of_Masonic_abbreviations), belonging to the broader initiatic, philosophical, symbolic, and fraternal tradition of **Freemasonry**. To be a Masonic Brother is, to me, to belong to a fraternity united by shared principles of mutual respect, ethical development, freedom of conscience, and the continuous improvement of the individual. I embrace its philosophical and symbolic heritage as a path of inner refinement and self-cultivation — fostering fraternity, self-knowledge, intellectual clarity, and the enduring pursuit of truth. I enjoy reading and writing ([**Goodreads**](https://goodreads.com/felipealfonsog)), playing [**bass guitar**](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [**BJJ**](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)), listening to music ([**Spotify**](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [**PETA**](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [**Agrupación Nacional de Boy Scouts de Chile**](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
 Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
 
@@ -529,7 +533,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-09-19T04:28:12+00:00 | last_update=2026-09-19T04:28:12+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-10-17T04:12:19+00:00 | last_update=2026-10-17T04:12:19+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -699,13 +703,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 228 ms
-TTFB................ 228 ms
+LATENCY............. 396 ms
+TTFB................ 395 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 43d
+TLS_EXPIRY.......... 74d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -718,9 +722,9 @@ REFPOL.............. MISS
 PERMPOL............. MISS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PASS
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -732,9 +736,9 @@ VIEWS_7D............ 6882
 UNIQUES_24H......... 402
 BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
-CONTENT_LENGTH...... 5 KB
+CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-09-18T08:07:07Z
+LAST_PROBE_UTC...... 2026-10-17T07:40:04Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -775,18 +779,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : residential_sector
-latitude       : -33.442167
-longitude      : -70.653648
-altitude       : 35 m
-gps_accuracy   : ±4.5 m
-heading        : 353°
-speed          : 0.3 km/h
-status         : low_movement
+latitude       : -33.441513
+longitude      : -70.653470
+altitude       : 25 m
+gps_accuracy   : ±6.4 m
+heading        : 342°
+speed          : 0.2 km/h
+status         : resting
 phase          : overnight
-local_time     : 23:14
+local_time     : 23:07
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-09-19 02:14:31 UTC
+signal         : nominal
+updated_utc    : 2026-10-17 02:07:29 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -905,7 +909,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-09-19 04:43:24Z
+DSN snapshot (UTC)       : 2026-10-17 04:37:10Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -916,15 +920,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.72e9 km | 171.935 AU
-Heliocentric distance    : 171.802 AU
-Relative speed           : 44.472 km/s
+Earth distance           : 25.82e9 km | 172.564 AU
+Heliocentric distance    : 172.075 AU
+Relative speed           : 43.233 km/s
 ------------------------------------------------------------
-One-way light time       : 23:49:57
-Round-trip latency       : 47:39:53
+One-way light time       : 23:55:10
+Round-trip latency       : 47:50:21
 ------------------------------------------------------------
-Δ distance (since last)  : +1.136e6 km
-Mission age              : 49 years, 26 days
+Δ distance (since last)  : +951,510 km
+Mission age              : 49 years, 54 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -935,19 +939,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.49e9 km | 143.656 AU
-Heliocentric distance    : 143.983 AU
-Relative speed           : 40.633 km/s
+Earth distance           : 21.58e9 km | 144.267 AU
+Heliocentric distance    : 144.226 AU
+Relative speed           : 41.693 km/s
 ------------------------------------------------------------
-One-way light time       : 19:54:45
-Round-trip latency       : 39:49:30
+One-way light time       : 19:59:50
+Round-trip latency       : 39:59:40
 ------------------------------------------------------------
-Δ distance (since last)  : +1.012e6 km
-Mission age              : 49 years, 42 days
+Δ distance (since last)  : +1.008e6 km
+Mission age              : 49 years, 70 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-09-19 04:43:29Z
+Report generated (UTC)   : 2026-10-17 04:37:13Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1491,84 +1495,87 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Lynyrd Skynyrd — On The Hunt
-Artist                    : Lynyrd Skynyrd
-Title                     : On The Hunt
-Album                     : Nuthin' Fancy (Expanded Edition)
-Spotify URI               : spotify:track:2e6qroe20tHfu8aTQSTglt
-Spotify URL               : https://open.spotify.com/track/2e6qroe20tHfu8aTQSTglt
+Track                     : Chevelle — Don't Fake This
+Artist                    : Chevelle
+Title                     : Don't Fake This
+Album                     : Wonder What's Next (Expanded Edition)
+Spotify URI               : spotify:track:2Bcvh4zypRuH0cCTQzuV6B
+Spotify URL               : https://open.spotify.com/track/2Bcvh4zypRuH0cCTQzuV6B
 ------------------------------------------------------------
-Played at (UTC)           : 2026-09-18 23:21:46Z
-Played at (local)         : 2026-09-18 20:21:46 -03
-Local hour                : 20:00
+Played at (UTC)           : 2026-10-15 01:32:25Z
+Played at (local)         : 2026-10-14 22:32:25 -03
+Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 01:03:15
-Gap from previous play    : 00:05:56
+Time since play           : 53:30:10
+Gap from previous play    : 03:42:51
 ------------------------------------------------------------
-Previous song             : The Who — The Seeker - Original Single A-Side Mix
-Same artist as previous   : NO
+Previous song             : Chevelle — Wonder What's Next
+Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 1
-Artist plays (retained)   : 2
+Track plays (retained)    : 2
+Artist plays (retained)   : 19
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : The Who — The Seeker - Original Single A-Side Mix | 2026-09-18 20:15:50 -03
-Previous track #2         : 77 — Down and Dirty | 2026-09-18 20:12:43 -03
-Previous track #3         : The Rolling Stones — Can't You Hear Me Knocking - 2009 Mix | 2026-09-18 20:09:02 -03
-Previous track #4         : AC/DC — Whole Lotta Rosie | 2026-09-18 20:01:51 -03
-Previous track #5         : Black Sabbath — War Pigs - 2009 Remaster | 2026-09-18 19:56:22 -03
-Previous track #6         : Lynyrd Skynyrd — The Needle And The Spoon | 2026-09-18 19:48:32 -03
-Previous track #7         : Led Zeppelin — When the Levee Breaks - Remaster | 2026-09-18 19:44:44 -03
-Previous track #8         : Creedence Clearwater Revival — Run Through The Jungle | 2026-09-18 19:37:40 -03
-Previous track #9         : AC/DC — Touch Too Much | 2026-09-18 19:34:40 -03
-Previous track #10        : Rage Against The Machine — Freedom | 2026-09-17 22:12:05 -03
-Previous track #11        : Rage Against The Machine — Township Rebellion | 2026-09-17 22:05:58 -03
-Previous track #12        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 22:00:34 -03
-Previous track #13        : Rage Against The Machine — Wake Up | 2026-09-17 21:51:49 -03
-Previous track #14        : Rage Against The Machine — Know Your Enemy | 2026-09-17 21:45:45 -03
-Previous track #15        : Rage Against The Machine — Bullet In The Head | 2026-09-17 21:40:51 -03
-Previous track #16        : Rage Against The Machine — Settle For Nothing | 2026-09-17 21:35:44 -03
-Previous track #17        : Rage Against The Machine — Take The Power Back | 2026-09-17 21:30:58 -03
-Previous track #18        : Rage Against The Machine — Killing In The Name | 2026-09-17 21:25:21 -03
-Previous track #19        : Rage Against The Machine — Bombtrack | 2026-09-17 21:20:08 -03
-Previous track #20        : Chris Yerinides & the Rough Edges — Yesterdays | 2026-09-17 14:43:26 -03
-Previous track #21        : The Fierce & the Dead — Dream Sequence | 2026-09-17 14:36:15 -03
-Previous track #22        : Rage Against The Machine — Fistful Of Steel | 2026-09-17 14:34:43 -03
-Previous track #23        : Soundgarden — Fell On Black Days | 2026-09-17 06:09:13 -03
-Previous track #24        : Soundgarden — My Wave | 2026-09-17 06:08:37 -03
-Previous track #25        : Soundgarden — Let Me Drown | 2026-09-17 06:03:24 -03
-Previous track #26        : Hum — Iron Clad Lou | 2026-09-17 05:58:24 -03
-Previous track #27        : Local H — Manifest Density - Part 2 | 2026-09-17 05:46:59 -03
-Previous track #28        : Kyuss — Gardenia | 2026-09-17 05:42:33 -03
-Previous track #29        : Helmet — Milquetoast | 2026-09-17 05:35:43 -03
-Previous track #30        : Helmet — Role Model | 2026-09-17 05:31:53 -03
-Previous track #31        : Helmet — FBLA II | 2026-09-17 05:28:18 -03
-Previous track #32        : Helmet — You Borrowed | 2026-09-17 05:24:55 -03
-Previous track #33        : Helmet — Better | 2026-09-17 05:21:10 -03
-Previous track #34        : Helmet — He Feels Bad | 2026-09-17 05:18:00 -03
-Previous track #35        : Helmet — Turned Out | 2026-09-17 05:13:57 -03
-Previous track #36        : Helmet — Unsung | 2026-09-17 05:09:43 -03
-Previous track #37        : Helmet — Give It | 2026-09-17 05:05:47 -03
-Previous track #38        : Helmet — Iron Head | 2026-09-17 05:01:30 -03
-Previous track #39        : Helmet — In The Meantime | 2026-09-17 04:58:07 -03
-Previous track #40        : Rage Against The Machine — Fistful Of Steel | 2026-09-15 17:48:29 -03
+Previous track #1         : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
+Previous track #2         : Chevelle — The Red | 2026-10-14 18:45:24 -03
+Previous track #3         : Cold — Same Drug | 2026-10-14 18:39:34 -03
+Previous track #4         : Nirvana — Blew | 2026-10-12 02:27:26 -03
+Previous track #5         : Cold — Same Drug | 2026-10-10 11:56:06 -03
+Previous track #6         : Cold — It's All Good | 2026-10-10 10:11:03 -03
+Previous track #7         : Cold — She Said | 2026-10-10 10:06:59 -03
+Previous track #8         : Chevelle — Get Some | 2026-10-10 09:56:30 -03
+Previous track #9         : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
+Previous track #10        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
+Previous track #11        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
+Previous track #12        : Superheaven — Blur | 2026-10-10 08:56:24 -03
+Previous track #13        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
+Previous track #14        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
+Previous track #15        : Grivo — C.A. | 2026-10-10 08:46:31 -03
+Previous track #16        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
+Previous track #17        : Midrift — unrequited | 2026-10-10 08:39:56 -03
+Previous track #18        : Glare — Into Me | 2026-10-10 08:37:50 -03
+Previous track #19        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
+Previous track #20        : Druidess — Lavender | 2026-10-10 08:30:09 -03
+Previous track #21        : trauma ray — Relay | 2026-10-10 08:26:09 -03
+Previous track #22        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
+Previous track #23        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
+Previous track #24        : Midrift — Need | 2026-10-10 08:13:16 -03
+Previous track #25        : Midrift — Woods | 2026-10-10 08:10:24 -03
+Previous track #26        : Midrift — bouquet | 2026-10-10 08:08:32 -03
+Previous track #27        : Midrift — Grounded | 2026-10-10 08:05:53 -03
+Previous track #28        : Midrift — all i said | 2026-10-10 08:04:09 -03
+Previous track #29        : Midrift — Wanted | 2026-10-10 08:01:15 -03
+Previous track #30        : Midrift — Between | 2026-10-10 07:58:46 -03
+Previous track #31        : Midrift — Midrift | 2026-10-10 07:56:10 -03
+Previous track #32        : Midrift — difference to | 2026-10-10 07:54:36 -03
+Previous track #33        : Midrift — Change For | 2026-10-10 07:51:45 -03
+Previous track #34        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
+Previous track #35        : Midrift — In Pictures | 2026-10-10 07:46:48 -03
+Previous track #36        : Midrift — silhouette | 2026-10-10 07:44:44 -03
+Previous track #37        : Midrift — Path | 2026-10-10 07:40:46 -03
+Previous track #38        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03
+Previous track #39        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03
+Previous track #40        : Midrift — over anything | 2026-10-10 07:33:03 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
-Last playlist             : How To Get Into The Fierce And The Dead 
-Context observed (local)  : 2026-09-17 14:36:15 -03
-Track observed in context : The Fierce & the Dead — Dream Sequence
-Spotify playlist URI      : spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI
-Spotify playlist URL      : https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI
+Last playlist             : Homeland (TV Series) Jazz Collection
+Context observed (local)  : 2026-09-30 20:52:17 -03
+Track observed in context : John Coltrane — Blue World
+Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
+Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
-Previous playlist #1      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
-Previous playlist #3      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
-Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
-Previous playlist #5      : N/A | 2026-08-13 14:15:12 -04
-Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-08-13 12:18:18 -04
+Previous playlist #1      : N/A | 2026-09-26 21:36:29 -03
+Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
+Previous playlist #3      : N/A | 2026-09-25 00:06:20 -03
+Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
+Previous playlist #5      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
+Previous playlist #6      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #8      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
+Previous playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1577,107 +1584,107 @@ Last known device name    : iPhone
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-09-18 23:13:48Z
+Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 54
-Unique tracks             : 46
-Unique artists            : 17
-Replay ratio              : ███░░░░░░░░░░░░░░░  14.8%
-Artist diversity          : ██████░░░░░░░░░░░░  31.5%
-Dominant artist           : Rage Against The Machine
-Dominant artist share     : ██████░░░░░░░░░░░░  35.2%
-Artist switch ratio       : ███████░░░░░░░░░░░  37.7%
-Longest artist streak     : Helmet × 11
+Observed events           : 60
+Unique tracks             : 56
+Unique artists            : 16
+Replay ratio              : █░░░░░░░░░░░░░░░░░  6.7%
+Artist diversity          : █████░░░░░░░░░░░░░  26.7%
+Dominant artist           : Midrift
+Dominant artist share     : ██████████░░░░░░░░  53.3%
+Artist switch ratio       : ██████░░░░░░░░░░░░  35.6%
+Longest artist streak     : Midrift × 30
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██████░░░░░░░░░░░░   31.5%
-Morning    06–12           : █░░░░░░░░░░░░░░░░░    5.6%
-Afternoon  12–18           : ███░░░░░░░░░░░░░░░   14.8%
-Evening    18–24           : █████████░░░░░░░░░   48.1%
-Dominant period           : EVENING
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.7%
+Morning    06–12           : ████████████████░░   91.7%
+Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    6.7%
+Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-09-12 00:30:12Z
-History last play (7d)    : 2026-09-18 23:21:46Z
-Observed time span        : 166:51:34
-Mean inter-play gap       : 03:08:54
-Median inter-play gap     : 00:05:14
-Longest inactivity gap    : 63:07:45
-Listening intensity       : 0.32 tracks/hour
+History first play (7d)   : 2026-10-10 09:39:56Z
+History last play (7d)    : 2026-10-15 01:32:25Z
+Observed time span        : 111:52:29
+Mean inter-play gap       : 01:53:46
+Median inter-play gap     : 00:02:52
+Longest inactivity gap    : 64:12:08
+Listening intensity       : 0.54 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 21:00
-Peak hour (7d)            : 05:00
-Heatmap (24h)             :                    ▇▇█▄ 
-Heatmap (7d)              :  ▁▁ ▁█▂       ▂  ▃ ▃▃▇▂ 
+Peak hour (24h)           : N/A
+Peak hour (7d)            : 07:00
+Heatmap (24h)             : N/A
+Heatmap (7d)              :       ▂█▆▁▁       ▁     
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :  ▁ █▄ ▁
+Activity (Mon→Sun)        :   ▁  █ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :    ▂     ▁       █    ▄     ▂▁
+Activity trend (30d)      : ▁     ▂ ▃ ▂ ▁▅    ▁   █   ▁   
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :                         
-Tue                       :                  █      
-Wed                       :                         
-Thu                       :     ▁█▂       ▂      ▄▂ 
-Fri                       :                    ███▂ 
-Sat                       :                         
-Sun                       :  ▄█                     
+Mon                       :   █                     
+Tue                       :                         
+Wed                       :                   █   ▃ 
+Thu                       :                         
+Fri                       :                         
+Sat                       :       ▂█▆▁▁             
+Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 19
-Dominant artist           : Rage Against The Machine
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-09-12 00:25:01Z → 2026-09-19 00:25:01Z
-Tracks played (7d)        : 54
-Dominant artist           : Rage Against The Machine
+Week window (UTC)         : 2026-10-10 07:02:35Z → 2026-10-17 07:02:35Z
+Tracks played (7d)        : 60
+Dominant artist           : Midrift
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 8
-Avg inter-play gap        : 03:08:54
+Sessions (24h)            : N/A
+Sessions (7d)             : 6
+Avg inter-play gap        : 01:53:46
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(9) | nu metal(9) | rap metal(9) | rap rock(9) | classic rock(8) | rock(8)
-Top genres (7d)           : alternative metal(36) | rap metal(25) | grunge(22) | nu metal(19) | rap rock(19) | post-hardcore(12)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : N/A
+Top genres (7d)           : shoegaze(44) | alternative metal(15) | post-grunge(12) | nu metal(9) | grunge(7) | groove metal(6)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : 77 — Down and Dirty → Lynyrd Skynyrd — On The Hunt
-Playback timestamp Δ      : 2026-09-18 23:12:43Z → 2026-09-18 23:21:46Z
-State transition          : PLAYING → IDLE
-Telemetry interval        : 01:11:13
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
+State transition          : NO CHANGE
+Telemetry interval        : 06:27:48
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 323
+Events retained           : 497
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-09-18 20:21:46 -03
-Events (24h)              : 19
-Events (7d)               : 54
-Events (30d)              : 249
-Playlist contexts retained: 103
+Newest retained event     : 2026-10-14 22:32:25 -03
+Events (24h)              : 0
+Events (7d)               : 60
+Events (30d)              : 214
+Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1705,7 +1712,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-09-19 00:25:01Z
+Report generated (UTC)    : 2026-10-17 07:02:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2063,60 +2070,60 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 18 September 2026
+From: 04 December 2023 - To: 16 October 2026
 
-Total Time       : 1,069 hrs 55 mins
+Total Time       : 1,074 hrs 16 mins
 Mostly coding in : Other
-Daily average    : 1 hrs 2 mins
+Daily average    : 1 hrs 1 mins
 Best day         : 2026-05-18 — 16 hrs 2 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          865 hrs 21 mins ●●●●●●●●●●●●●●●●●●●●●○○○○○  80.88 %
-Bash           176 hrs 42 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.52 %
-Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.28 %
-HTML           140 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.11 %
-PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.21 %
-Markdown       80 hrs 50 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.56 %
-C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.14 %
-Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.78 %
-C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.74 %
-YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.56 %
+Other          920 hrs 48 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  85.71 %
+Bash           176 hrs 52 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.46 %
+Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
+HTML           141 hrs        ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.13 %
+PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.17 %
+Markdown       80 hrs 50 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.53 %
+C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.12 %
+Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.76 %
+C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.72 %
+YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.55 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,216 hrs 49 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.83 %
+Mac            1,276 hrs 37 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.56 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.65 %
-Firefox        626 hrs 12 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.53 %
-Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.59 %
-Terminal       47 hrs 40 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.46 %
-Spotify        47 hrs 11 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.41 %
-‎WhatsApp      32 hrs 35 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.05 %
-Pages          24 hrs 39 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.30 %
-Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.26 %
-Dia            20 hrs 46 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   1.94 %
-FileZilla      17 hrs 37 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.65 %
-Acrobat        16 hrs 20 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.53 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.40 %
+Firefox        657 hrs 56 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.24 %
+Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.46 %
+Terminal       54 hrs 41 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.09 %
+Spotify        52 hrs 52 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.92 %
+‎WhatsApp      35 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.33 %
+Pages          27 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.60 %
+Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
+Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
+FileZilla      19 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
+Acrobat        17 hrs 54 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.67 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
 
 CATEGORIES
 ----------
-Coding         1,230 hrs 20 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       623 hrs 56 mins ●●●●●●●●●●●●●●●○○○○○○○○○○○  58.32 %
-Meeting        41 hrs 9 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   3.85 %
-AI Coding      26 hrs 20 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.46 %
-Writing Docs   13 hrs 29 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.26 %
+Coding         1,253 hrs 12 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       656 hrs        ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.07 %
+Meeting        44 hrs 19 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.13 %
+AI Coding      26 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.51 %
+Writing Docs   14 hrs 32 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 19/09/2026 02:49:53 UTC
+Last updated     : 17/10/2026 02:42:25 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2168,16 +2175,6 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
     </li>
     <br>
     <li>
-      <a href="https://github.com/Pizzaboi87">
-        <img src="https://avatars2.githubusercontent.com/u/112249710" style="width:30px; height:30px;" alt="Pizzaboi87"/>
-      </a>
-      <br>
-      <sub>
-      <a href="https://github.com/Pizzaboi87">Peter Weiser</a>
-      </sub>
-    </li>
-    <br>
-    <li>
       <a href="https://github.com/ClaudiaRojasSoto">
         <img src="https://avatars2.githubusercontent.com/u/97201255" style="width:30px; height:30px;" alt="ClaudiaRojasSoto"/>
       </a>
@@ -2204,6 +2201,16 @@ Feel free to explore my CodersRank profile [here](https://profile.codersrank.io/
       <br>
       <sub>
       <a href="https://github.com/NikolaiProgramist">Nikolai</a>
+      </sub>
+    </li>
+    <br>
+    <li>
+      <a href="https://github.com/nmrshll">
+        <img src="https://avatars2.githubusercontent.com/u/7091508" style="width:30px; height:30px;" alt="nmrshll"/>
+      </a>
+      <br>
+      <sub>
+      <a href="https://github.com/nmrshll">Nicolas Marshall</a>
       </sub>
     </li>
     <br>
@@ -3013,14 +3020,16 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 COBOL  •  ⭐ 2
 - [EventSphere](https://github.com/openvelora/EventSphere): Standard Web application for managing social events of all kind.
   🧬 JavaScript · Pug · CSS  •  ⭐ 2
+- [Petsy](https://github.com/felipealfonsog/Petsy): An iOS app to help 370,000 pets find new homes.
+  🧬 Swift · Ruby  •  ⭐ 1
 - [TerminaLite](https://github.com/felipealfonsog/TerminaLite): A lightweight and versatile terminal emulator for Linux and macOS built with GTK3 and VTE.
   🧬 Shell · C · Makefile  •  ⭐ 1
 - [NetScanSSH](https://github.com/felipealfonsog/NetScanSSH): NetScanSSH is a Python script for scanning local networks to detect devices with open SSH ports, providing their hostnames and corresponding IP addresses.
   🧬 Shell · Python  •  ⭐ 1
-- [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
-  🧬 Python  •  ⭐ 1
 
 ### 🧠 Curated Project Collection
+- [SpendWisePy](https://github.com/felipealfonsog/SpendWisePy): SpendWisePy is a simple expense tracker application written in Python that allows users to create and manage their expenses.
+  🧬 Python  •  ⭐ 1
 - [Restockify](https://github.com/openvelora/Restockify): Restockify+ is a feature-rich ReST API for NodeJS and MongoDB. Simplify inventory management and streamline stock tracking with ease.
   🧬 JavaScript · CSS · HTML  •  ⭐ 1
 - [SpeedyNet](https://github.com/felipealfonsog/SpeedyNet): SpeedyNet is a command-line utility for Linux and macOS that empowers users to accurately measure their Internet connection's download and upload speeds, providing real-time feedback on network performance.
