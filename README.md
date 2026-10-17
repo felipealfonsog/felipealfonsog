@@ -395,7 +395,7 @@ ICONOS INICIALES INLINE SVG1
 -->
 
 <!-- LIST-ICONS1:START -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/felipealfonsog/felipealfonsog/refs/heads/master/images/icons1inline-fullv4.png" alt="List-icons1 inline strip" /></a>
+
 <!-- LIST-ICONS1:END -->
 
 
