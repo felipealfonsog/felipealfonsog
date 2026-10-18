@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-15 01:32:25Z
 Played at (local)         : 2026-10-14 22:32:25 -03
 Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 81:49:21
+Time since play           : 86:26:02
 Gap from previous play    : 03:42:51
 ------------------------------------------------------------
 Previous song             : Chevelle — Wonder What's Next
@@ -1654,7 +1654,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-11 11:21:46Z → 2026-10-18 11:21:46Z
+Week window (UTC)         : 2026-10-11 15:58:27Z → 2026-10-18 15:58:27Z
 Tracks played (7d)        : 5
 Dominant artist           : Chevelle
 Cadence classification    : LOW
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:36:44
+Telemetry interval        : 04:36:41
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-18 11:21:46Z
+Report generated (UTC)    : 2026-10-18 15:58:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
