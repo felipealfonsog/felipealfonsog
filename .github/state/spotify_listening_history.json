@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-19 04:53:03Z",
+  "updated_utc": "2026-10-19 13:35:58Z",
   "events": [
+    {
+      "track": "Godsmack — Changes",
+      "artist": "Godsmack",
+      "title": "Changes",
+      "album": "Faceless",
+      "uri": "spotify:track:1j2lEXaRNr4mh1RqbQxueX",
+      "url": "https://open.spotify.com/track/1j2lEXaRNr4mh1RqbQxueX",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-19 10:50:10Z",
+      "played_at_local": "2026-10-19 07:50:10 -03",
+      "local_hour": 7,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
     {
       "track": "Chevelle — Don't Fake This",
       "artist": "Chevelle",

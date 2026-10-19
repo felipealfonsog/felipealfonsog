@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Chevelle — Don't Fake This
-Artist                    : Chevelle
-Title                     : Don't Fake This
-Album                     : Wonder What's Next (Expanded Edition)
-Spotify URI               : spotify:track:2Bcvh4zypRuH0cCTQzuV6B
-Spotify URL               : https://open.spotify.com/track/2Bcvh4zypRuH0cCTQzuV6B
+Track                     : Godsmack — Changes
+Artist                    : Godsmack
+Title                     : Changes
+Album                     : Faceless
+Spotify URI               : spotify:track:1j2lEXaRNr4mh1RqbQxueX
+Spotify URL               : https://open.spotify.com/track/1j2lEXaRNr4mh1RqbQxueX
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-15 01:32:25Z
-Played at (local)         : 2026-10-14 22:32:25 -03
-Local hour                : 22:00
-Daypart                   : EVENING
-Time since play           : 99:20:38
-Gap from previous play    : 03:42:51
+Played at (UTC)           : 2026-10-19 10:50:10Z
+Played at (local)         : 2026-10-19 07:50:10 -03
+Local hour                : 07:00
+Daypart                   : MORNING
+Time since play           : 02:45:48
+Gap from previous play    : 105:17:45
 ------------------------------------------------------------
-Previous song             : Chevelle — Wonder What's Next
-Same artist as previous   : YES
+Previous song             : Chevelle — Don't Fake This
+Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 2
-Artist plays (retained)   : 19
+Artist plays (retained)   : 27
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
-Previous track #2         : Chevelle — The Red | 2026-10-14 18:45:24 -03
-Previous track #3         : Cold — Same Drug | 2026-10-14 18:39:34 -03
-Previous track #4         : Nirvana — Blew | 2026-10-12 02:27:26 -03
-Previous track #5         : Cold — Same Drug | 2026-10-10 11:56:06 -03
-Previous track #6         : Cold — It's All Good | 2026-10-10 10:11:03 -03
-Previous track #7         : Cold — She Said | 2026-10-10 10:06:59 -03
-Previous track #8         : Chevelle — Get Some | 2026-10-10 09:56:30 -03
-Previous track #9         : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
-Previous track #10        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
-Previous track #11        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
-Previous track #12        : Superheaven — Blur | 2026-10-10 08:56:24 -03
-Previous track #13        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
-Previous track #14        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
-Previous track #15        : Grivo — C.A. | 2026-10-10 08:46:31 -03
-Previous track #16        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
-Previous track #17        : Midrift — unrequited | 2026-10-10 08:39:56 -03
-Previous track #18        : Glare — Into Me | 2026-10-10 08:37:50 -03
-Previous track #19        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
-Previous track #20        : Druidess — Lavender | 2026-10-10 08:30:09 -03
-Previous track #21        : trauma ray — Relay | 2026-10-10 08:26:09 -03
-Previous track #22        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
-Previous track #23        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
-Previous track #24        : Midrift — Need | 2026-10-10 08:13:16 -03
-Previous track #25        : Midrift — Woods | 2026-10-10 08:10:24 -03
-Previous track #26        : Midrift — bouquet | 2026-10-10 08:08:32 -03
-Previous track #27        : Midrift — Grounded | 2026-10-10 08:05:53 -03
-Previous track #28        : Midrift — all i said | 2026-10-10 08:04:09 -03
-Previous track #29        : Midrift — Wanted | 2026-10-10 08:01:15 -03
-Previous track #30        : Midrift — Between | 2026-10-10 07:58:46 -03
-Previous track #31        : Midrift — Midrift | 2026-10-10 07:56:10 -03
-Previous track #32        : Midrift — difference to | 2026-10-10 07:54:36 -03
-Previous track #33        : Midrift — Change For | 2026-10-10 07:51:45 -03
-Previous track #34        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
-Previous track #35        : Midrift — In Pictures | 2026-10-10 07:46:48 -03
-Previous track #36        : Midrift — silhouette | 2026-10-10 07:44:44 -03
-Previous track #37        : Midrift — Path | 2026-10-10 07:40:46 -03
-Previous track #38        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03
-Previous track #39        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03
-Previous track #40        : Midrift — over anything | 2026-10-10 07:33:03 -03
+Previous track #1         : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
+Previous track #2         : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
+Previous track #3         : Chevelle — The Red | 2026-10-14 18:45:24 -03
+Previous track #4         : Cold — Same Drug | 2026-10-14 18:39:34 -03
+Previous track #5         : Nirvana — Blew | 2026-10-12 02:27:26 -03
+Previous track #6         : Cold — Same Drug | 2026-10-10 11:56:06 -03
+Previous track #7         : Cold — It's All Good | 2026-10-10 10:11:03 -03
+Previous track #8         : Cold — She Said | 2026-10-10 10:06:59 -03
+Previous track #9         : Chevelle — Get Some | 2026-10-10 09:56:30 -03
+Previous track #10        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
+Previous track #11        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
+Previous track #12        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
+Previous track #13        : Superheaven — Blur | 2026-10-10 08:56:24 -03
+Previous track #14        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
+Previous track #15        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
+Previous track #16        : Grivo — C.A. | 2026-10-10 08:46:31 -03
+Previous track #17        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
+Previous track #18        : Midrift — unrequited | 2026-10-10 08:39:56 -03
+Previous track #19        : Glare — Into Me | 2026-10-10 08:37:50 -03
+Previous track #20        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
+Previous track #21        : Druidess — Lavender | 2026-10-10 08:30:09 -03
+Previous track #22        : trauma ray — Relay | 2026-10-10 08:26:09 -03
+Previous track #23        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
+Previous track #24        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
+Previous track #25        : Midrift — Need | 2026-10-10 08:13:16 -03
+Previous track #26        : Midrift — Woods | 2026-10-10 08:10:24 -03
+Previous track #27        : Midrift — bouquet | 2026-10-10 08:08:32 -03
+Previous track #28        : Midrift — Grounded | 2026-10-10 08:05:53 -03
+Previous track #29        : Midrift — all i said | 2026-10-10 08:04:09 -03
+Previous track #30        : Midrift — Wanted | 2026-10-10 08:01:15 -03
+Previous track #31        : Midrift — Between | 2026-10-10 07:58:46 -03
+Previous track #32        : Midrift — Midrift | 2026-10-10 07:56:10 -03
+Previous track #33        : Midrift — difference to | 2026-10-10 07:54:36 -03
+Previous track #34        : Midrift — Change For | 2026-10-10 07:51:45 -03
+Previous track #35        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
+Previous track #36        : Midrift — In Pictures | 2026-10-10 07:46:48 -03
+Previous track #37        : Midrift — silhouette | 2026-10-10 07:44:44 -03
+Previous track #38        : Midrift — Path | 2026-10-10 07:40:46 -03
+Previous track #39        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03
+Previous track #40        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1603,29 +1603,29 @@ Longest artist streak     : Chevelle × 3
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ████░░░░░░░░░░░░░░   20.0%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
+Morning    06–12           : ████░░░░░░░░░░░░░░   20.0%
 Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
 Evening    18–24           : ██████████████░░░░   80.0%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-12 05:27:26Z
-History last play (7d)    : 2026-10-15 01:32:25Z
-Observed time span        : 68:04:59
-Mean inter-play gap       : 17:01:15
+History first play (7d)   : 2026-10-14 21:39:34Z
+History last play (7d)    : 2026-10-19 10:50:10Z
+Observed time span        : 109:10:36
+Mean inter-play gap       : 27:17:39
 Median inter-play gap     : 01:54:20
-Longest inactivity gap    : 64:12:08
-Listening intensity       : 0.07 tracks/hour
+Longest inactivity gap    : 105:17:45
+Listening intensity       : 0.05 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 07:00
 Peak hour (7d)            : 18:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :   ▃               █   ▃ 
+Heatmap (24h)             :        █                
+Heatmap (7d)              :        ▃          █   ▃ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
@@ -1636,7 +1636,7 @@ Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :   █                     
+Mon                       :        █                
 Tue                       :                         
 Wed                       :                   █   ▃ 
 Thu                       :                         
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 1
+Dominant artist           : Godsmack
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-12 04:53:03Z → 2026-10-19 04:53:03Z
+Week window (UTC)         : 2026-10-12 13:35:58Z → 2026-10-19 13:35:58Z
 Tracks played (7d)        : 5
 Dominant artist           : Chevelle
 Cadence classification    : LOW
@@ -1662,31 +1662,31 @@ Cadence classification    : LOW
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
+Sessions (24h)            : 1
 Sessions (7d)             : 3
-Avg inter-play gap        : 17:01:15
+Avg inter-play gap        : 27:17:39
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(4) | nu metal(4) | post-grunge(4) | grunge(1) | rock(1)
+Top genres (24h)          : alternative metal(1) | hard rock(1) | metal(1) | nu metal(1) | rap metal(1)
+Top genres (7d)           : alternative metal(5) | nu metal(5) | post-grunge(4) | hard rock(1) | metal(1) | rap metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Chevelle — Don't Fake This → Godsmack — Changes
+Playback timestamp Δ      : 2026-10-15 01:32:25Z → 2026-10-19 10:50:10Z
 State transition          : NO CHANGE
-Telemetry interval        : 06:24:37
+Telemetry interval        : 08:42:55
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 497
+Events retained           : 498
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-14 22:32:25 -03
-Events (24h)              : 0
+Newest retained event     : 2026-10-19 07:50:10 -03
+Events (24h)              : 1
 Events (7d)               : 5
-Events (30d)              : 172
+Events (30d)              : 173
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-19 04:53:03Z
+Report generated (UTC)    : 2026-10-19 13:35:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
