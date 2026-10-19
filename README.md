@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-19 10:50:10Z
 Played at (local)         : 2026-10-19 07:50:10 -03
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 09:09:50
+Time since play           : 12:57:28
 Gap from previous play    : 105:17:45
 ------------------------------------------------------------
 Previous song             : Chevelle — Don't Fake This
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-12 19:59:59Z → 2026-10-19 19:59:59Z
+Week window (UTC)         : 2026-10-12 23:47:37Z → 2026-10-19 23:47:37Z
 Tracks played (7d)        : 5
 Dominant artist           : Chevelle
 Cadence classification    : LOW
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:24:02
+Telemetry interval        : 03:47:39
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1686,7 +1686,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-19 07:50:10 -03
 Events (24h)              : 1
 Events (7d)               : 5
-Events (30d)              : 173
+Events (30d)              : 172
 Playlist contexts retained: 128
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-19 19:59:59Z
+Report generated (UTC)    : 2026-10-19 23:47:37Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
