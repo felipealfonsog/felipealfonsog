@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-19 10:50:10Z
 Played at (local)         : 2026-10-19 07:50:10 -03
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 24:59:39
+Time since play           : 30:28:39
 Gap from previous play    : 105:17:45
 ------------------------------------------------------------
 Previous song             : Chevelle — Don't Fake This
@@ -1654,7 +1654,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-13 11:49:49Z → 2026-10-20 11:49:49Z
+Week window (UTC)         : 2026-10-13 17:18:48Z → 2026-10-20 17:18:48Z
 Tracks played (7d)        : 5
 Dominant artist           : Chevelle
 Cadence classification    : LOW
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:49:38
+Telemetry interval        : 05:29:00
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-20 11:49:49Z
+Report generated (UTC)    : 2026-10-20 17:18:48Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
