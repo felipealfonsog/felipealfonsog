@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-19 10:50:10Z
 Played at (local)         : 2026-10-19 07:50:10 -03
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 18:10:02
+Time since play           : 24:59:39
 Gap from previous play    : 105:17:45
 ------------------------------------------------------------
 Previous song             : Chevelle — Don't Fake This
@@ -1622,9 +1622,9 @@ Listening intensity       : 0.05 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 18:00
-Heatmap (24h)             :        █                
+Heatmap (24h)             : N/A
 Heatmap (7d)              :        ▃          █   ▃ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Godsmack
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-13 05:00:11Z → 2026-10-20 05:00:11Z
+Week window (UTC)         : 2026-10-13 11:49:49Z → 2026-10-20 11:49:49Z
 Tracks played (7d)        : 5
 Dominant artist           : Chevelle
 Cadence classification    : LOW
@@ -1662,13 +1662,13 @@ Cadence classification    : LOW
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 3
 Avg inter-play gap        : 27:17:39
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | hard rock(1) | metal(1) | nu metal(1) | rap metal(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : alternative metal(5) | nu metal(5) | post-grunge(4) | hard rock(1) | metal(1) | rap metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:12:35
+Telemetry interval        : 06:49:38
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 498
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-19 07:50:10 -03
-Events (24h)              : 1
+Events (24h)              : 0
 Events (7d)               : 5
 Events (30d)              : 172
 Playlist contexts retained: 128
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-20 05:00:11Z
+Report generated (UTC)    : 2026-10-20 11:49:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
