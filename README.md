@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-19 10:50:10Z
 Played at (local)         : 2026-10-19 07:50:10 -03
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 12:57:28
+Time since play           : 18:10:02
 Gap from previous play    : 105:17:45
 ------------------------------------------------------------
 Previous song             : Chevelle — Don't Fake This
@@ -1631,7 +1631,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▂ █    
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :     ▂ ▃ ▂ ▁▅    ▁   █   ▁     
+Activity trend (30d)      :    ▂ ▃ ▂ ▁▅    ▁   █   ▁      
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-12 23:47:37Z → 2026-10-19 23:47:37Z
+Week window (UTC)         : 2026-10-13 05:00:11Z → 2026-10-20 05:00:11Z
 Tracks played (7d)        : 5
 Dominant artist           : Chevelle
 Cadence classification    : LOW
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:47:39
+Telemetry interval        : 05:12:35
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-19 23:47:37Z
+Report generated (UTC)    : 2026-10-20 05:00:11Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
