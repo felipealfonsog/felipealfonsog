@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-10-21 13:55:39Z",
+  "report_generated_utc": "2026-10-21 18:44:33Z",
   "status": "IDLE",
-  "last_track": "Godsmack — Changes",
-  "last_played_utc": "2026-10-19 10:50:10Z",
+  "last_track": "John Coltrane — Blue World",
+  "last_played_utc": "2026-10-21 16:07:48Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1916,9 +1916,115 @@
       "post-grunge"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Godsmack — Changes\nArtist                    : Godsmack\nTitle                     : Changes\nAlbum                     : Faceless\nSpotify URI               : spotify:track:1j2lEXaRNr4mh1RqbQxueX\nSpotify URL               : https://open.spotify.com/track/1j2lEXaRNr4mh1RqbQxueX\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-10-19 10:50:10Z\nPlayed at (local)         : 2026-10-19 07:50:10 -03\nLocal hour                : 07:00\nDaypart                   : MORNING\nTime since play           : 51:05:29\nGap from previous play    : 105:17:45\n------------------------------------------------------------\nPrevious song             : Chevelle — Don't Fake This\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 2\nArtist plays (retained)   : 27\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03\nPrevious track #2         : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03\nPrevious track #3         : Chevelle — The Red | 2026-10-14 18:45:24 -03\nPrevious track #4         : Cold — Same Drug | 2026-10-14 18:39:34 -03\nPrevious track #5         : Nirvana — Blew | 2026-10-12 02:27:26 -03\nPrevious track #6         : Cold — Same Drug | 2026-10-10 11:56:06 -03\nPrevious track #7         : Cold — It's All Good | 2026-10-10 10:11:03 -03\nPrevious track #8         : Cold — She Said | 2026-10-10 10:06:59 -03\nPrevious track #9         : Chevelle — Get Some | 2026-10-10 09:56:30 -03\nPrevious track #10        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03\nPrevious track #11        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03\nPrevious track #12        : Roving — Haven Blue | 2026-10-10 08:59:59 -03\nPrevious track #13        : Superheaven — Blur | 2026-10-10 08:56:24 -03\nPrevious track #14        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03\nPrevious track #15        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03\nPrevious track #16        : Grivo — C.A. | 2026-10-10 08:46:31 -03\nPrevious track #17        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03\nPrevious track #18        : Midrift — unrequited | 2026-10-10 08:39:56 -03\nPrevious track #19        : Glare — Into Me | 2026-10-10 08:37:50 -03\nPrevious track #20        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03\nPrevious track #21        : Druidess — Lavender | 2026-10-10 08:30:09 -03\nPrevious track #22        : trauma ray — Relay | 2026-10-10 08:26:09 -03\nPrevious track #23        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03\nPrevious track #24        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03\nPrevious track #25        : Midrift — Need | 2026-10-10 08:13:16 -03\nPrevious track #26        : Midrift — Woods | 2026-10-10 08:10:24 -03\nPrevious track #27        : Midrift — bouquet | 2026-10-10 08:08:32 -03\nPrevious track #28        : Midrift — Grounded | 2026-10-10 08:05:53 -03\nPrevious track #29        : Midrift — all i said | 2026-10-10 08:04:09 -03\nPrevious track #30        : Midrift — Wanted | 2026-10-10 08:01:15 -03\nPrevious track #31        : Midrift — Between | 2026-10-10 07:58:46 -03\nPrevious track #32        : Midrift — Midrift | 2026-10-10 07:56:10 -03\nPrevious track #33        : Midrift — difference to | 2026-10-10 07:54:36 -03\nPrevious track #34        : Midrift — Change For | 2026-10-10 07:51:45 -03\nPrevious track #35        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03\nPrevious track #36        : Midrift — In Pictures | 2026-10-10 07:46:48 -03\nPrevious track #37        : Midrift — silhouette | 2026-10-10 07:44:44 -03\nPrevious track #38        : Midrift — Path | 2026-10-10 07:40:46 -03\nPrevious track #39        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03\nPrevious track #40        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-09-30 20:52:17 -03\nTrack observed in context : John Coltrane — Blue World\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #3      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #5      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #6      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #8      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-30 23:56:54Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 5\nUnique tracks             : 5\nUnique artists            : 3\nReplay ratio              : ░░░░░░░░░░░░░░░░░░  0.0%\nArtist diversity          : ███████████░░░░░░░  60.0%\nDominant artist           : Chevelle\nDominant artist share     : ███████████░░░░░░░  60.0%\nArtist switch ratio       : █████████░░░░░░░░░  50.0%\nLongest artist streak     : Chevelle × 3\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%\nMorning    06–12           : ████░░░░░░░░░░░░░░   20.0%\nAfternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%\nEvening    18–24           : ██████████████░░░░   80.0%\nDominant period           : EVENING\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-10-14 21:39:34Z\nHistory last play (7d)    : 2026-10-19 10:50:10Z\nObserved time span        : 109:10:36\nMean inter-play gap       : 27:17:39\nMedian inter-play gap     : 01:54:20\nLongest inactivity gap    : 105:17:45\nListening intensity       : 0.05 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 18:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              :        ▃          █   ▃ \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        : ▂ █    \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :   ▂ ▃ ▂ ▁▅    ▁   █   ▁       \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :        █                \nTue                       :                         \nWed                       :                   █   ▃ \nThu                       :                         \nFri                       :                         \nSat                       :                         \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-10-14 13:55:39Z → 2026-10-21 13:55:39Z\nTracks played (7d)        : 5\nDominant artist           : Chevelle\nCadence classification    : LOW\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 3\nAvg inter-play gap        : 27:17:39\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : alternative metal(5) | nu metal(5) | post-grunge(4) | hard rock(1) | metal(1) | rap metal(1)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : NO CHANGE\nState transition          : NO CHANGE\nTelemetry interval        : 06:07:46\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 498\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-10-19 07:50:10 -03\nEvents (24h)              : 0\nEvents (7d)               : 5\nEvents (30d)              : 172\nPlaylist contexts retained: 128\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-10-21 13:55:39Z",
-  "last_successful_report_utc": "2026-10-21 13:55:39Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : John Coltrane — Blue World\nArtist                    : John Coltrane\nTitle                     : Blue World\nAlbum                     : Blue World\nSpotify URI               : spotify:track:0RHEzMQT9Vw9GvSdVA5TLC\nSpotify URL               : https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-10-21 16:07:48Z\nPlayed at (local)         : 2026-10-21 13:07:48 -03\nLocal hour                : 13:00\nDaypart                   : AFTERNOON\nTime since play           : 02:36:46\nGap from previous play    : 00:19:52\n------------------------------------------------------------\nPrevious song             : Tomasz Stanko Quartet — Trista\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 5\nArtist plays (retained)   : 12\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03\nPrevious track #2         : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03\nPrevious track #3         : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03\nPrevious track #4         : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03\nPrevious track #5         : Godsmack — Changes | 2026-10-19 07:50:10 -03\nPrevious track #6         : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03\nPrevious track #7         : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03\nPrevious track #8         : Chevelle — The Red | 2026-10-14 18:45:24 -03\nPrevious track #9         : Cold — Same Drug | 2026-10-14 18:39:34 -03\nPrevious track #10        : Nirvana — Blew | 2026-10-12 02:27:26 -03\nPrevious track #11        : Cold — Same Drug | 2026-10-10 11:56:06 -03\nPrevious track #12        : Cold — It's All Good | 2026-10-10 10:11:03 -03\nPrevious track #13        : Cold — She Said | 2026-10-10 10:06:59 -03\nPrevious track #14        : Chevelle — Get Some | 2026-10-10 09:56:30 -03\nPrevious track #15        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03\nPrevious track #16        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03\nPrevious track #17        : Roving — Haven Blue | 2026-10-10 08:59:59 -03\nPrevious track #18        : Superheaven — Blur | 2026-10-10 08:56:24 -03\nPrevious track #19        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03\nPrevious track #20        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03\nPrevious track #21        : Grivo — C.A. | 2026-10-10 08:46:31 -03\nPrevious track #22        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03\nPrevious track #23        : Midrift — unrequited | 2026-10-10 08:39:56 -03\nPrevious track #24        : Glare — Into Me | 2026-10-10 08:37:50 -03\nPrevious track #25        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03\nPrevious track #26        : Druidess — Lavender | 2026-10-10 08:30:09 -03\nPrevious track #27        : trauma ray — Relay | 2026-10-10 08:26:09 -03\nPrevious track #28        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03\nPrevious track #29        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03\nPrevious track #30        : Midrift — Need | 2026-10-10 08:13:16 -03\nPrevious track #31        : Midrift — Woods | 2026-10-10 08:10:24 -03\nPrevious track #32        : Midrift — bouquet | 2026-10-10 08:08:32 -03\nPrevious track #33        : Midrift — Grounded | 2026-10-10 08:05:53 -03\nPrevious track #34        : Midrift — all i said | 2026-10-10 08:04:09 -03\nPrevious track #35        : Midrift — Wanted | 2026-10-10 08:01:15 -03\nPrevious track #36        : Midrift — Between | 2026-10-10 07:58:46 -03\nPrevious track #37        : Midrift — Midrift | 2026-10-10 07:56:10 -03\nPrevious track #38        : Midrift — difference to | 2026-10-10 07:54:36 -03\nPrevious track #39        : Midrift — Change For | 2026-10-10 07:51:45 -03\nPrevious track #40        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-10-21 13:07:48 -03\nTrack observed in context : John Coltrane — Blue World\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #3      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #5      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #6      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #8      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\nPrevious playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-30 23:56:54Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 10\nUnique tracks             : 9\nUnique artists            : 6\nReplay ratio              : ██░░░░░░░░░░░░░░░░  10.0%\nArtist diversity          : ███████████░░░░░░░  60.0%\nDominant artist           : Chevelle\nDominant artist share     : █████░░░░░░░░░░░░░  30.0%\nArtist switch ratio       : ██████████░░░░░░░░  55.6%\nLongest artist streak     : Chevelle × 3\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%\nMorning    06–12           : ██░░░░░░░░░░░░░░░░   10.0%\nAfternoon  12–18           : █████████░░░░░░░░░   50.0%\nEvening    18–24           : ███████░░░░░░░░░░░   40.0%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-10-14 21:39:34Z\nHistory last play (7d)    : 2026-10-21 16:07:48Z\nObserved time span        : 162:28:14\nMean inter-play gap       : 18:03:08\nMedian inter-play gap     : 00:06:41\nLongest inactivity gap    : 105:17:45\nListening intensity       : 0.06 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 12:00\nPeak hour (7d)            : 12:00\nHeatmap (24h)             :             █▂          \nHeatmap (7d)              :        ▂    █▂    ▆   ▂ \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        : ▁ █    \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :   ▂ ▃ ▂ ▁▅    ▁   █   ▁      ▁\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :        █                \nTue                       :                         \nWed                       :             █▂    ▆   ▂ \nThu                       :                         \nFri                       :                         \nSat                       :                         \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 5\nDominant artist           : Tomasz Stanko Quintet\nListening pattern         : Light activity\nDaily activity status     : LOW\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-10-14 18:44:33Z → 2026-10-21 18:44:33Z\nTracks played (7d)        : 10\nDominant artist           : Chevelle\nCadence classification    : LOW\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 4\nAvg inter-play gap        : 18:03:08\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : free jazz(4) | jazz(4) | ambient jazz(3) | alternative metal(1) | bebop(1) | cool jazz(1)\nTop genres (7d)           : alternative metal(6) | nu metal(6) | free jazz(4) | jazz(4) | post-grunge(4) | ambient jazz(3)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Godsmack — Changes → John Coltrane — Blue World\nPlayback timestamp Δ      : 2026-10-19 10:50:10Z → 2026-10-21 16:07:48Z\nState transition          : NO CHANGE\nTelemetry interval        : 04:48:55\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 503\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-10-21 13:07:48 -03\nEvents (24h)              : 5\nEvents (7d)               : 10\nEvents (30d)              : 177\nPlaylist contexts retained: 132\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-10-21 18:44:33Z",
+  "last_successful_report_utc": "2026-10-21 18:44:33Z",
   "recent_playback_history": [
+    {
+      "track": "John Coltrane — Blue World",
+      "artist": "John Coltrane",
+      "title": "Blue World",
+      "album": "Blue World",
+      "uri": "spotify:track:0RHEzMQT9Vw9GvSdVA5TLC",
+      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC",
+      "artist_ids": [
+        "2hGh5VOeeqimQFxqXvfCUf"
+      ],
+      "played_at_utc": "2026-10-21 16:07:48Z",
+      "played_at_local": "2026-10-21 13:07:48 -03",
+      "local_hour": 13,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-10-21 15:47:56Z",
+      "played_at_local": "2026-10-21 12:47:56 -03",
+      "local_hour": 12,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-10-21 15:43:21Z",
+      "played_at_local": "2026-10-21 12:43:21 -03",
+      "local_hour": 12,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-10-21 15:36:40Z",
+      "played_at_local": "2026-10-21 12:36:40 -03",
+      "local_hour": 12,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Godsmack — I Stand Alone",
+      "artist": "Godsmack",
+      "title": "I Stand Alone",
+      "album": "Faceless",
+      "uri": "spotify:track:6eYUbXmncekAKMYZcsSkyD",
+      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD",
+      "artist_ids": [
+        "6gZq1Q6bdOxsUPUG1TaFbF"
+      ],
+      "played_at_utc": "2026-10-21 15:30:53Z",
+      "played_at_local": "2026-10-21 12:30:53 -03",
+      "local_hour": 12,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:1iNAtkD0iP1wEE8ItzfjZk",
+      "context_url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+    },
     {
       "track": "Godsmack — Changes",
       "artist": "Godsmack",
@@ -2563,96 +2669,6 @@
       "context_type": "artist",
       "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
       "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-    },
-    {
-      "track": "Midrift — In Pictures",
-      "artist": "Midrift",
-      "title": "In Pictures",
-      "album": "Midrift",
-      "uri": "spotify:track:39G55viGTxmEFXiL278mpU",
-      "url": "https://open.spotify.com/track/39G55viGTxmEFXiL278mpU",
-      "artist_ids": [
-        "6ROfszneZDogjnbgqkxA7E"
-      ],
-      "played_at_utc": "2026-10-10 10:46:48Z",
-      "played_at_local": "2026-10-10 07:46:48 -03",
-      "local_hour": 7,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-    },
-    {
-      "track": "Midrift — silhouette",
-      "artist": "Midrift",
-      "title": "silhouette",
-      "album": "Silhouette",
-      "uri": "spotify:track:5x6NqdQ7RYwG3xEe84BKva",
-      "url": "https://open.spotify.com/track/5x6NqdQ7RYwG3xEe84BKva",
-      "artist_ids": [
-        "6ROfszneZDogjnbgqkxA7E"
-      ],
-      "played_at_utc": "2026-10-10 10:44:44Z",
-      "played_at_local": "2026-10-10 07:44:44 -03",
-      "local_hour": 7,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-    },
-    {
-      "track": "Midrift — Path",
-      "artist": "Midrift",
-      "title": "Path",
-      "album": "Elysian",
-      "uri": "spotify:track:01P7mLZd6k7XjJAx5WoCsu",
-      "url": "https://open.spotify.com/track/01P7mLZd6k7XjJAx5WoCsu",
-      "artist_ids": [
-        "6ROfszneZDogjnbgqkxA7E"
-      ],
-      "played_at_utc": "2026-10-10 10:40:46Z",
-      "played_at_local": "2026-10-10 07:40:46 -03",
-      "local_hour": 7,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-    },
-    {
-      "track": "Midrift — two-headed calf",
-      "artist": "Midrift",
-      "title": "two-headed calf",
-      "album": "Leave",
-      "uri": "spotify:track:5CQ2hQr0BBBO8w9HSnKqm0",
-      "url": "https://open.spotify.com/track/5CQ2hQr0BBBO8w9HSnKqm0",
-      "artist_ids": [
-        "6ROfszneZDogjnbgqkxA7E"
-      ],
-      "played_at_utc": "2026-10-10 10:38:11Z",
-      "played_at_local": "2026-10-10 07:38:11 -03",
-      "local_hour": 7,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-    },
-    {
-      "track": "Midrift — it still feels real to me",
-      "artist": "Midrift",
-      "title": "it still feels real to me",
-      "album": "Dissociated",
-      "uri": "spotify:track:7KJhWKW6cgS2cFmSxeXsmK",
-      "url": "https://open.spotify.com/track/7KJhWKW6cgS2cFmSxeXsmK",
-      "artist_ids": [
-        "6ROfszneZDogjnbgqkxA7E"
-      ],
-      "played_at_utc": "2026-10-10 10:35:21Z",
-      "played_at_local": "2026-10-10 07:35:21 -03",
-      "local_hour": 7,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     }
   ],
   "last_known_device_type": "Smartphone",
@@ -2660,25 +2676,25 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-10-21 13:55:39Z",
-    "week_window_utc": "2026-10-14 13:55:39Z → 2026-10-21 13:55:39Z",
-    "tracks_24h": 0,
-    "tracks_7d": 5,
-    "dominant_artist_24h": "N/A",
+    "captured_utc": "2026-10-21 18:44:33Z",
+    "week_window_utc": "2026-10-14 18:44:33Z → 2026-10-21 18:44:33Z",
+    "tracks_24h": 5,
+    "tracks_7d": 10,
+    "dominant_artist_24h": "Tomasz Stanko Quintet",
     "dominant_artist_7d": "Chevelle",
-    "listening_pattern_24h": "No activity",
-    "activity_status_24h": "NONE",
+    "listening_pattern_24h": "Light activity",
+    "activity_status_24h": "LOW",
     "cadence_7d": "LOW",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "N/A",
-    "peak_hour_7d": "18:00",
-    "heatmap_24h": "N/A",
-    "heatmap_7d": "       ▃          █   ▃ ",
-    "sessions_24h": "N/A",
-    "sessions_7d": 3,
-    "avg_inter_play_gap_7d": "27:17:39",
-    "top_genres_24h": "N/A",
-    "top_genres_7d": "alternative metal(5) | nu metal(5) | post-grunge(4) | hard rock(1) | metal(1) | rap metal(1)"
+    "peak_hour_24h": "12:00",
+    "peak_hour_7d": "12:00",
+    "heatmap_24h": "            █▂          ",
+    "heatmap_7d": "       ▂    █▂    ▆   ▂ ",
+    "sessions_24h": 1,
+    "sessions_7d": 4,
+    "avg_inter_play_gap_7d": "18:03:08",
+    "top_genres_24h": "free jazz(4) | jazz(4) | ambient jazz(3) | alternative metal(1) | bebop(1) | cool jazz(1)",
+    "top_genres_7d": "alternative metal(6) | nu metal(6) | free jazz(4) | jazz(4) | post-grunge(4) | ambient jazz(3)"
   },
   "last_known_device_captured_utc": "2026-09-30 23:56:54Z"
 }
