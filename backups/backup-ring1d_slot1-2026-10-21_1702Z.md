@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-10-20_1645Z
+ snapshot_utc : 2026-10-21_1702Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -543,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-10-20T11:24:01+00:00 | last_update=2026-10-20T11:24:01+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-10-21T11:38:37+00:00 | last_update=2026-10-21T11:38:37+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -713,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 170 ms
-TTFB................ 169 ms
+LATENCY............. 220 ms
+TTFB................ 219 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 71d
+TLS_EXPIRY.......... 70d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -748,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-10-20T08:21:48Z
+LAST_PROBE_UTC...... 2026-10-21T08:25:45Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -789,18 +789,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.443924
-longitude      : -70.650648
-altitude       : 116 m
-gps_accuracy   : ±3.6 m
-heading        : 100°
-speed          : 0.4 km/h
-status         : stationary
+latitude       : -33.443712
+longitude      : -70.650957
+altitude       : 156 m
+gps_accuracy   : ±6.8 m
+heading        : 51°
+speed          : 11.4 km/h
+status         : meeting
 phase          : workday
-local_time     : 13:01
+local_time     : 13:18
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-10-20 16:01:17 UTC
+signal         : strong
+updated_utc    : 2026-10-21 16:18:12 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -919,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-10-20 11:47:48Z
+DSN snapshot (UTC)       : 2026-10-21 11:59:27Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -930,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.83e9 km | 172.632 AU
-Heliocentric distance    : 172.107 AU
-Relative speed           : 42.943 km/s
+Earth distance           : 25.83e9 km | 172.653 AU
+Heliocentric distance    : 172.117 AU
+Relative speed           : 42.848 km/s
 ------------------------------------------------------------
-One-way light time       : 23:55:44
-Round-trip latency       : 47:51:28
+One-way light time       : 23:55:54
+Round-trip latency       : 47:51:49
 ------------------------------------------------------------
-Δ distance (since last)  : +867,183 km
-Mission age              : 49 years, 57 days
+Δ distance (since last)  : +885,665 km
+Mission age              : 49 years, 58 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -949,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.59e9 km | 144.340 AU
-Heliocentric distance    : 144.255 AU
-Relative speed           : 41.698 km/s
+Earth distance           : 21.60e9 km | 144.362 AU
+Heliocentric distance    : 144.264 AU
+Relative speed           : 41.695 km/s
 ------------------------------------------------------------
-One-way light time       : 20:00:26
-Round-trip latency       : 40:00:53
+One-way light time       : 20:00:37
+Round-trip latency       : 40:01:15
 ------------------------------------------------------------
-Δ distance (since last)  : +938,788 km
-Mission age              : 49 years, 73 days
+Δ distance (since last)  : +965,086 km
+Mission age              : 49 years, 74 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-10-20 11:47:54Z
+Report generated (UTC)   : 2026-10-21 11:59:32Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1443,7 +1443,7 @@ _)      \.___.,|     .'
 -->
 
 <!-- SPOTIFY-WIDGET-START -->
-[![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
+[![spotify-live](https://spotify-github-profile.kittinanx.com/api/view?uid=12133266428&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/12133266428)
 <!-- SPOTIFY-WIDGET-END -->
 
 [![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12133266428) [![Spotify Widget Watchdog](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml/badge.svg)](https://github.com/felipealfonsog/felipealfonsog/actions/workflows/spotify-watchdog.yml)
@@ -1516,7 +1516,7 @@ Played at (UTC)           : 2026-10-19 10:50:10Z
 Played at (local)         : 2026-10-19 07:50:10 -03
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 24:59:39
+Time since play           : 51:05:29
 Gap from previous play    : 105:17:45
 ------------------------------------------------------------
 Previous song             : Chevelle — Don't Fake This
@@ -1638,7 +1638,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▂ █    
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :    ▂ ▃ ▂ ▁▅    ▁   █   ▁      
+Activity trend (30d)      :   ▂ ▃ ▂ ▁▅    ▁   █   ▁       
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1661,7 +1661,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-13 11:49:49Z → 2026-10-20 11:49:49Z
+Week window (UTC)         : 2026-10-14 13:55:39Z → 2026-10-21 13:55:39Z
 Tracks played (7d)        : 5
 Dominant artist           : Chevelle
 Cadence classification    : LOW
@@ -1684,7 +1684,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:49:38
+Telemetry interval        : 06:07:46
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1722,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-20 11:49:49Z
+Report generated (UTC)    : 2026-10-21 13:55:39Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2080,7 +2080,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 20 October 2026
+From: 04 December 2023 - To: 21 October 2026
 
 Total Time       : 1,074 hrs 36 mins
 Mostly coding in : Other
@@ -2133,7 +2133,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 20/10/2026 16:14:16 UTC
+Last updated     : 21/10/2026 16:29:19 UTC
 
 ```
 <!--END_SECTION:wakastats-->
