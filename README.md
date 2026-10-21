@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-21 16:07:48Z
 Played at (local)         : 2026-10-21 13:07:48 -03
 Local hour                : 13:00
 Daypart                   : AFTERNOON
-Time since play           : 02:36:46
+Time since play           : 07:18:25
 Gap from previous play    : 00:19:52
 ------------------------------------------------------------
 Previous song             : Tomasz Stanko Quartet — Trista
@@ -1591,33 +1591,33 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 10
-Unique tracks             : 9
-Unique artists            : 6
-Replay ratio              : ██░░░░░░░░░░░░░░░░  10.0%
-Artist diversity          : ███████████░░░░░░░  60.0%
-Dominant artist           : Chevelle
-Dominant artist share     : █████░░░░░░░░░░░░░  30.0%
-Artist switch ratio       : ██████████░░░░░░░░  55.6%
-Longest artist streak     : Chevelle × 3
+Observed events           : 7
+Unique tracks             : 6
+Unique artists            : 5
+Replay ratio              : ███░░░░░░░░░░░░░░░  14.3%
+Artist diversity          : █████████████░░░░░  71.4%
+Dominant artist           : Tomasz Stanko Quintet
+Dominant artist share     : █████░░░░░░░░░░░░░  28.6%
+Artist switch ratio       : ████████████░░░░░░  66.7%
+Longest artist streak     : Godsmack × 2
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
 Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
-Morning    06–12           : ██░░░░░░░░░░░░░░░░   10.0%
-Afternoon  12–18           : █████████░░░░░░░░░   50.0%
-Evening    18–24           : ███████░░░░░░░░░░░   40.0%
+Morning    06–12           : ███░░░░░░░░░░░░░░░   14.3%
+Afternoon  12–18           : █████████████░░░░░   71.4%
+Evening    18–24           : ███░░░░░░░░░░░░░░░   14.3%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-14 21:39:34Z
+History first play (7d)   : 2026-10-15 01:32:25Z
 History last play (7d)    : 2026-10-21 16:07:48Z
-Observed time span        : 162:28:14
-Mean inter-play gap       : 18:03:08
-Median inter-play gap     : 00:06:41
+Observed time span        : 158:35:23
+Mean inter-play gap       : 26:25:54
+Median inter-play gap     : 00:13:16
 Longest inactivity gap    : 105:17:45
-Listening intensity       : 0.06 tracks/hour
+Listening intensity       : 0.04 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1625,7 +1625,7 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 12:00
 Peak hour (7d)            : 12:00
 Heatmap (24h)             :             █▂          
-Heatmap (7d)              :        ▂    █▂    ▆   ▂ 
+Heatmap (7d)              :        ▂    █▂        ▂ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
@@ -1638,7 +1638,7 @@ WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :        █                
 Tue                       :                         
-Wed                       :             █▂    ▆   ▂ 
+Wed                       :             █▂        ▂ 
 Thu                       :                         
 Fri                       :                         
 Sat                       :                         
@@ -1654,30 +1654,30 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-14 18:44:33Z → 2026-10-21 18:44:33Z
-Tracks played (7d)        : 10
-Dominant artist           : Chevelle
+Week window (UTC)         : 2026-10-14 23:26:12Z → 2026-10-21 23:26:12Z
+Tracks played (7d)        : 7
+Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : LOW
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 4
-Avg inter-play gap        : 18:03:08
+Sessions (7d)             : 3
+Avg inter-play gap        : 26:25:54
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : free jazz(4) | jazz(4) | ambient jazz(3) | alternative metal(1) | bebop(1) | cool jazz(1)
-Top genres (7d)           : alternative metal(6) | nu metal(6) | free jazz(4) | jazz(4) | post-grunge(4) | ambient jazz(3)
+Top genres (7d)           : free jazz(4) | jazz(4) | alternative metal(3) | ambient jazz(3) | nu metal(3) | hard rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Godsmack — Changes → John Coltrane — Blue World
-Playback timestamp Δ      : 2026-10-19 10:50:10Z → 2026-10-21 16:07:48Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:48:55
+Telemetry interval        : 04:41:40
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1685,8 +1685,8 @@ Events retained           : 503
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-21 13:07:48 -03
 Events (24h)              : 5
-Events (7d)               : 10
-Events (30d)              : 177
+Events (7d)               : 7
+Events (30d)              : 175
 Playlist contexts retained: 132
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-21 18:44:33Z
+Report generated (UTC)    : 2026-10-21 23:26:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
