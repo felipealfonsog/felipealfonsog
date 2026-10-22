@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : John Coltrane — Blue World
-Artist                    : John Coltrane
-Title                     : Blue World
-Album                     : Blue World
-Spotify URI               : spotify:track:0RHEzMQT9Vw9GvSdVA5TLC
-Spotify URL               : https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC
+Track                     : Nirvana — You Know You're Right
+Artist                    : Nirvana
+Title                     : You Know You're Right
+Album                     : Nirvana
+Spotify URI               : spotify:track:5O8L4I2S4izFGDjvP7xAKv
+Spotify URL               : https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-21 16:07:48Z
-Played at (local)         : 2026-10-21 13:07:48 -03
-Local hour                : 13:00
-Daypart                   : AFTERNOON
-Time since play           : 07:18:25
-Gap from previous play    : 00:19:52
+Played at (UTC)           : 2026-10-22 00:25:07Z
+Played at (local)         : 2026-10-21 21:25:07 -03
+Local hour                : 21:00
+Daypart                   : EVENING
+Time since play           : 04:36:40
+Gap from previous play    : 00:03:33
 ------------------------------------------------------------
-Previous song             : Tomasz Stanko Quartet — Trista
+Previous song             : Rage Against The Machine — Bombtrack
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 5
-Artist plays (retained)   : 12
+Track plays (retained)    : 1
+Artist plays (retained)   : 2
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
-Previous track #2         : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
-Previous track #3         : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
-Previous track #4         : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
-Previous track #5         : Godsmack — Changes | 2026-10-19 07:50:10 -03
-Previous track #6         : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
-Previous track #7         : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
-Previous track #8         : Chevelle — The Red | 2026-10-14 18:45:24 -03
-Previous track #9         : Cold — Same Drug | 2026-10-14 18:39:34 -03
-Previous track #10        : Nirvana — Blew | 2026-10-12 02:27:26 -03
-Previous track #11        : Cold — Same Drug | 2026-10-10 11:56:06 -03
-Previous track #12        : Cold — It's All Good | 2026-10-10 10:11:03 -03
-Previous track #13        : Cold — She Said | 2026-10-10 10:06:59 -03
-Previous track #14        : Chevelle — Get Some | 2026-10-10 09:56:30 -03
-Previous track #15        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
-Previous track #16        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
-Previous track #17        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
-Previous track #18        : Superheaven — Blur | 2026-10-10 08:56:24 -03
-Previous track #19        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
-Previous track #20        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
-Previous track #21        : Grivo — C.A. | 2026-10-10 08:46:31 -03
-Previous track #22        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
-Previous track #23        : Midrift — unrequited | 2026-10-10 08:39:56 -03
-Previous track #24        : Glare — Into Me | 2026-10-10 08:37:50 -03
-Previous track #25        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
-Previous track #26        : Druidess — Lavender | 2026-10-10 08:30:09 -03
-Previous track #27        : trauma ray — Relay | 2026-10-10 08:26:09 -03
-Previous track #28        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
-Previous track #29        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
-Previous track #30        : Midrift — Need | 2026-10-10 08:13:16 -03
-Previous track #31        : Midrift — Woods | 2026-10-10 08:10:24 -03
-Previous track #32        : Midrift — bouquet | 2026-10-10 08:08:32 -03
-Previous track #33        : Midrift — Grounded | 2026-10-10 08:05:53 -03
-Previous track #34        : Midrift — all i said | 2026-10-10 08:04:09 -03
-Previous track #35        : Midrift — Wanted | 2026-10-10 08:01:15 -03
-Previous track #36        : Midrift — Between | 2026-10-10 07:58:46 -03
-Previous track #37        : Midrift — Midrift | 2026-10-10 07:56:10 -03
-Previous track #38        : Midrift — difference to | 2026-10-10 07:54:36 -03
-Previous track #39        : Midrift — Change For | 2026-10-10 07:51:45 -03
-Previous track #40        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
+Previous track #1         : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03
+Previous track #2         : Audioslave — Cochise | 2026-10-21 21:17:34 -03
+Previous track #3         : Metallica — One | 2026-10-21 21:13:56 -03
+Previous track #4         : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03
+Previous track #5         : John Coltrane — Blue World | 2026-10-21 13:07:48 -03
+Previous track #6         : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
+Previous track #7         : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
+Previous track #8         : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
+Previous track #9         : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
+Previous track #10        : Godsmack — Changes | 2026-10-19 07:50:10 -03
+Previous track #11        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
+Previous track #12        : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
+Previous track #13        : Chevelle — The Red | 2026-10-14 18:45:24 -03
+Previous track #14        : Cold — Same Drug | 2026-10-14 18:39:34 -03
+Previous track #15        : Nirvana — Blew | 2026-10-12 02:27:26 -03
+Previous track #16        : Cold — Same Drug | 2026-10-10 11:56:06 -03
+Previous track #17        : Cold — It's All Good | 2026-10-10 10:11:03 -03
+Previous track #18        : Cold — She Said | 2026-10-10 10:06:59 -03
+Previous track #19        : Chevelle — Get Some | 2026-10-10 09:56:30 -03
+Previous track #20        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
+Previous track #21        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
+Previous track #22        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
+Previous track #23        : Superheaven — Blur | 2026-10-10 08:56:24 -03
+Previous track #24        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
+Previous track #25        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
+Previous track #26        : Grivo — C.A. | 2026-10-10 08:46:31 -03
+Previous track #27        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
+Previous track #28        : Midrift — unrequited | 2026-10-10 08:39:56 -03
+Previous track #29        : Glare — Into Me | 2026-10-10 08:37:50 -03
+Previous track #30        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
+Previous track #31        : Druidess — Lavender | 2026-10-10 08:30:09 -03
+Previous track #32        : trauma ray — Relay | 2026-10-10 08:26:09 -03
+Previous track #33        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
+Previous track #34        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
+Previous track #35        : Midrift — Need | 2026-10-10 08:13:16 -03
+Previous track #36        : Midrift — Woods | 2026-10-10 08:10:24 -03
+Previous track #37        : Midrift — bouquet | 2026-10-10 08:08:32 -03
+Previous track #38        : Midrift — Grounded | 2026-10-10 08:05:53 -03
+Previous track #39        : Midrift — all i said | 2026-10-10 08:04:09 -03
+Previous track #40        : Midrift — Wanted | 2026-10-10 08:01:15 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1591,54 +1591,54 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 7
-Unique tracks             : 6
-Unique artists            : 5
-Replay ratio              : ███░░░░░░░░░░░░░░░  14.3%
-Artist diversity          : █████████████░░░░░  71.4%
+Observed events           : 11
+Unique tracks             : 10
+Unique artists            : 9
+Replay ratio              : ██░░░░░░░░░░░░░░░░  9.1%
+Artist diversity          : ███████████████░░░  81.8%
 Dominant artist           : Tomasz Stanko Quintet
-Dominant artist share     : █████░░░░░░░░░░░░░  28.6%
-Artist switch ratio       : ████████████░░░░░░  66.7%
+Dominant artist share     : ███░░░░░░░░░░░░░░░  18.2%
+Artist switch ratio       : ██████████████░░░░  80.0%
 Longest artist streak     : Godsmack × 2
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
 Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
-Morning    06–12           : ███░░░░░░░░░░░░░░░   14.3%
-Afternoon  12–18           : █████████████░░░░░   71.4%
-Evening    18–24           : ███░░░░░░░░░░░░░░░   14.3%
+Morning    06–12           : ██░░░░░░░░░░░░░░░░    9.1%
+Afternoon  12–18           : ████████░░░░░░░░░░   45.5%
+Evening    18–24           : ████████░░░░░░░░░░   45.5%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-15 01:32:25Z
-History last play (7d)    : 2026-10-21 16:07:48Z
-Observed time span        : 158:35:23
-Mean inter-play gap       : 26:25:54
-Median inter-play gap     : 00:13:16
-Longest inactivity gap    : 105:17:45
-Listening intensity       : 0.04 tracks/hour
+History first play (7d)   : 2026-10-19 10:50:10Z
+History last play (7d)    : 2026-10-22 00:25:07Z
+Observed time span        : 61:34:57
+Mean inter-play gap       : 06:09:30
+Median inter-play gap     : 00:06:14
+Longest inactivity gap    : 52:40:43
+Listening intensity       : 0.18 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 12:00
 Peak hour (7d)            : 12:00
-Heatmap (24h)             :             █▂          
-Heatmap (7d)              :        ▂    █▂        ▂ 
+Heatmap (24h)             :             █▂      ▂█  
+Heatmap (7d)              :        ▂    █▂      ▂█  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▁ █    
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   ▂ ▃ ▂ ▁▅    ▁   █   ▁      ▁
+Activity trend (30d)      :  ▂ ▃ ▂ ▁▅    ▁   █   ▁      ▁ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :        █                
 Tue                       :                         
-Wed                       :             █▂        ▂ 
+Wed                       :             █▂      ▂█  
 Thu                       :                         
 Fri                       :                         
 Sat                       :                         
@@ -1647,46 +1647,46 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
+Tracks played (last 24h)  : 10
 Dominant artist           : Tomasz Stanko Quintet
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-14 23:26:12Z → 2026-10-21 23:26:12Z
-Tracks played (7d)        : 7
+Week window (UTC)         : 2026-10-15 05:01:46Z → 2026-10-22 05:01:46Z
+Tracks played (7d)        : 11
 Dominant artist           : Tomasz Stanko Quintet
 Cadence classification    : LOW
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : 2
 Sessions (7d)             : 3
-Avg inter-play gap        : 26:25:54
+Avg inter-play gap        : 06:09:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : free jazz(4) | jazz(4) | ambient jazz(3) | alternative metal(1) | bebop(1) | cool jazz(1)
-Top genres (7d)           : free jazz(4) | jazz(4) | alternative metal(3) | ambient jazz(3) | nu metal(3) | hard rock(2)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(4) | free jazz(4) | jazz(4) | ambient jazz(3) | nu metal(3) | rap metal(3)
+Top genres (7d)           : alternative metal(5) | free jazz(4) | jazz(4) | nu metal(4) | rap metal(4) | ambient jazz(3)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : John Coltrane — Blue World → Nirvana — You Know You're Right
+Playback timestamp Δ      : 2026-10-21 16:07:48Z → 2026-10-22 00:25:07Z
 State transition          : NO CHANGE
-Telemetry interval        : 04:41:40
+Telemetry interval        : 05:35:35
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 503
+Events retained           : 508
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-21 13:07:48 -03
-Events (24h)              : 5
-Events (7d)               : 7
-Events (30d)              : 175
+Newest retained event     : 2026-10-21 21:25:07 -03
+Events (24h)              : 10
+Events (7d)               : 11
+Events (30d)              : 180
 Playlist contexts retained: 132
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-21 23:26:12Z
+Report generated (UTC)    : 2026-10-22 05:01:46Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

@@ -1,8 +1,98 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-21 23:26:12Z",
+  "updated_utc": "2026-10-22 05:01:46Z",
   "events": [
+    {
+      "track": "Nirvana — You Know You're Right",
+      "artist": "Nirvana",
+      "title": "You Know You're Right",
+      "album": "Nirvana",
+      "uri": "spotify:track:5O8L4I2S4izFGDjvP7xAKv",
+      "url": "https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv",
+      "artist_ids": [
+        "6olE6TJLqED3rqDCT0FyPh"
+      ],
+      "played_at_utc": "2026-10-22 00:25:07Z",
+      "played_at_local": "2026-10-21 21:25:07 -03",
+      "local_hour": 21,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dck2tBxGfxj9m3CguDgjb",
+      "context_url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+    },
+    {
+      "track": "Rage Against The Machine — Bombtrack",
+      "artist": "Rage Against The Machine",
+      "title": "Bombtrack",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:2rBHnIxbhkMGLpqmsNX91M",
+      "url": "https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-10-22 00:21:34Z",
+      "played_at_local": "2026-10-21 21:21:34 -03",
+      "local_hour": 21,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dck2tBxGfxj9m3CguDgjb",
+      "context_url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+    },
+    {
+      "track": "Audioslave — Cochise",
+      "artist": "Audioslave",
+      "title": "Cochise",
+      "album": "Audioslave",
+      "uri": "spotify:track:4OCzAGgyWsUKpdWufYywZm",
+      "url": "https://open.spotify.com/track/4OCzAGgyWsUKpdWufYywZm",
+      "artist_ids": [
+        "2ziB7fzrXBoh1HUPS6sVFn"
+      ],
+      "played_at_utc": "2026-10-22 00:17:34Z",
+      "played_at_local": "2026-10-21 21:17:34 -03",
+      "local_hour": 21,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dck2tBxGfxj9m3CguDgjb",
+      "context_url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+    },
+    {
+      "track": "Metallica — One",
+      "artist": "Metallica",
+      "title": "One",
+      "album": "…And Justice for All (Remastered)",
+      "uri": "spotify:track:02xhLoVqpGmOqvolgrwM8w",
+      "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
+      "artist_ids": [
+        "2ye2Wgw4gimLv2eAKyk1NB"
+      ],
+      "played_at_utc": "2026-10-22 00:13:56Z",
+      "played_at_local": "2026-10-21 21:13:56 -03",
+      "local_hour": 21,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dck2tBxGfxj9m3CguDgjb",
+      "context_url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+    },
+    {
+      "track": "Linkin Park — Lying from You",
+      "artist": "Linkin Park",
+      "title": "Lying from You",
+      "album": "Meteora (Bonus Edition)",
+      "uri": "spotify:track:4qVR3CF8FuFvHN4L6vXlB1",
+      "url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-10-21 23:59:50Z",
+      "played_at_local": "2026-10-21 20:59:50 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dck2tBxGfxj9m3CguDgjb",
+      "context_url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+    },
     {
       "track": "John Coltrane — Blue World",
       "artist": "John Coltrane",
