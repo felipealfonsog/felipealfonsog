@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-22 13:40:13Z
 Played at (local)         : 2026-10-22 10:40:13 -03
 Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 03:38:45
+Time since play           : 08:04:11
 Gap from previous play    : 00:00:00
 ------------------------------------------------------------
 Previous song             : Metallica — Lords of Summer
@@ -1654,7 +1654,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-15 17:18:58Z → 2026-10-22 17:18:58Z
+Week window (UTC)         : 2026-10-15 21:44:24Z → 2026-10-22 21:44:24Z
 Tracks played (7d)        : 21
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
@@ -1674,10 +1674,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Radiohead — Just → Deftones — My Own Summer (Shove It)
-Playback timestamp Δ      : 2026-10-22 09:23:12Z → 2026-10-22 13:40:13Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:14:29
+Telemetry interval        : 04:25:26
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-22 17:18:58Z
+Report generated (UTC)    : 2026-10-22 21:44:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
