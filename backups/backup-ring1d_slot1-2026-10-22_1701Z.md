@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-10-21_1702Z
+ snapshot_utc : 2026-10-22_1701Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -543,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-10-21T11:38:37+00:00 | last_update=2026-10-21T11:38:37+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-10-22T11:39:37+00:00 | last_update=2026-10-22T11:39:37+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -713,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 220 ms
-TTFB................ 219 ms
+LATENCY............. 191 ms
+TTFB................ 190 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 70d
+TLS_EXPIRY.......... 69d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -748,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-10-21T08:25:45Z
+LAST_PROBE_UTC...... 2026-10-22T08:28:03Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -788,19 +788,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443712
-longitude      : -70.650957
-altitude       : 156 m
-gps_accuracy   : ±6.8 m
-heading        : 51°
-speed          : 11.4 km/h
+location       : pedestrian_axis
+latitude       : -33.437995
+longitude      : -70.646439
+altitude       : 98 m
+gps_accuracy   : ±7.4 m
+heading        : 269°
+speed          : 4.9 km/h
 status         : meeting
 phase          : workday
-local_time     : 13:18
+local_time     : 13:17
 timezone       : America/Santiago
-signal         : strong
-updated_utc    : 2026-10-21 16:18:12 UTC
+signal         : stable
+updated_utc    : 2026-10-22 16:17:07 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -919,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-10-21 11:59:27Z
+DSN snapshot (UTC)       : 2026-10-22 12:02:15Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -930,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.83e9 km | 172.653 AU
-Heliocentric distance    : 172.117 AU
-Relative speed           : 42.848 km/s
+Earth distance           : 25.83e9 km | 172.673 AU
+Heliocentric distance    : 172.127 AU
+Relative speed           : 42.752 km/s
 ------------------------------------------------------------
-One-way light time       : 23:55:54
-Round-trip latency       : 47:51:49
+One-way light time       : 23:56:05
+Round-trip latency       : 47:52:09
 ------------------------------------------------------------
-Δ distance (since last)  : +885,665 km
-Mission age              : 49 years, 58 days
+Δ distance (since last)  : +882,764 km
+Mission age              : 49 years, 59 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -949,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.60e9 km | 144.362 AU
-Heliocentric distance    : 144.264 AU
-Relative speed           : 41.695 km/s
+Earth distance           : 21.60e9 km | 144.384 AU
+Heliocentric distance    : 144.272 AU
+Relative speed           : 41.691 km/s
 ------------------------------------------------------------
-One-way light time       : 20:00:37
-Round-trip latency       : 40:01:15
+One-way light time       : 20:00:48
+Round-trip latency       : 40:01:37
 ------------------------------------------------------------
-Δ distance (since last)  : +965,086 km
-Mission age              : 49 years, 74 days
+Δ distance (since last)  : +968,251 km
+Mission age              : 49 years, 75 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-10-21 11:59:32Z
+Report generated (UTC)   : 2026-10-22 12:02:20Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,87 +1505,87 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Godsmack — Changes
-Artist                    : Godsmack
-Title                     : Changes
-Album                     : Faceless
-Spotify URI               : spotify:track:1j2lEXaRNr4mh1RqbQxueX
-Spotify URL               : https://open.spotify.com/track/1j2lEXaRNr4mh1RqbQxueX
+Track                     : Radiohead — Just
+Artist                    : Radiohead
+Title                     : Just
+Album                     : The Bends
+Spotify URI               : spotify:track:1dyTcli07c77mtQK3ahUZR
+Spotify URL               : https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-19 10:50:10Z
-Played at (local)         : 2026-10-19 07:50:10 -03
-Local hour                : 07:00
+Played at (UTC)           : 2026-10-22 09:23:12Z
+Played at (local)         : 2026-10-22 06:23:12 -03
+Local hour                : 06:00
 Daypart                   : MORNING
-Time since play           : 51:05:29
-Gap from previous play    : 105:17:45
+Time since play           : 02:41:17
+Gap from previous play    : 00:05:22
 ------------------------------------------------------------
-Previous song             : Chevelle — Don't Fake This
-Same artist as previous   : NO
+Previous song             : Radiohead — Exit Music (For A Film)
+Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 2
-Artist plays (retained)   : 27
+Track plays (retained)    : 1
+Artist plays (retained)   : 8
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
-Previous track #2         : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
-Previous track #3         : Chevelle — The Red | 2026-10-14 18:45:24 -03
-Previous track #4         : Cold — Same Drug | 2026-10-14 18:39:34 -03
-Previous track #5         : Nirvana — Blew | 2026-10-12 02:27:26 -03
-Previous track #6         : Cold — Same Drug | 2026-10-10 11:56:06 -03
-Previous track #7         : Cold — It's All Good | 2026-10-10 10:11:03 -03
-Previous track #8         : Cold — She Said | 2026-10-10 10:06:59 -03
-Previous track #9         : Chevelle — Get Some | 2026-10-10 09:56:30 -03
-Previous track #10        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
-Previous track #11        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
-Previous track #12        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
-Previous track #13        : Superheaven — Blur | 2026-10-10 08:56:24 -03
-Previous track #14        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
-Previous track #15        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
-Previous track #16        : Grivo — C.A. | 2026-10-10 08:46:31 -03
-Previous track #17        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
-Previous track #18        : Midrift — unrequited | 2026-10-10 08:39:56 -03
-Previous track #19        : Glare — Into Me | 2026-10-10 08:37:50 -03
-Previous track #20        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
-Previous track #21        : Druidess — Lavender | 2026-10-10 08:30:09 -03
-Previous track #22        : trauma ray — Relay | 2026-10-10 08:26:09 -03
-Previous track #23        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
-Previous track #24        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
-Previous track #25        : Midrift — Need | 2026-10-10 08:13:16 -03
-Previous track #26        : Midrift — Woods | 2026-10-10 08:10:24 -03
-Previous track #27        : Midrift — bouquet | 2026-10-10 08:08:32 -03
-Previous track #28        : Midrift — Grounded | 2026-10-10 08:05:53 -03
-Previous track #29        : Midrift — all i said | 2026-10-10 08:04:09 -03
-Previous track #30        : Midrift — Wanted | 2026-10-10 08:01:15 -03
-Previous track #31        : Midrift — Between | 2026-10-10 07:58:46 -03
-Previous track #32        : Midrift — Midrift | 2026-10-10 07:56:10 -03
-Previous track #33        : Midrift — difference to | 2026-10-10 07:54:36 -03
-Previous track #34        : Midrift — Change For | 2026-10-10 07:51:45 -03
-Previous track #35        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
-Previous track #36        : Midrift — In Pictures | 2026-10-10 07:46:48 -03
-Previous track #37        : Midrift — silhouette | 2026-10-10 07:44:44 -03
-Previous track #38        : Midrift — Path | 2026-10-10 07:40:46 -03
-Previous track #39        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03
-Previous track #40        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03
+Previous track #1         : Radiohead — Exit Music (For A Film) | 2026-10-22 06:17:50 -03
+Previous track #2         : Radiohead — How to Disappear Completely | 2026-10-22 06:13:22 -03
+Previous track #3         : Radiohead — Karma Police | 2026-10-22 06:05:03 -03
+Previous track #4         : Radiohead — Everything In Its Right Place | 2026-10-22 06:00:38 -03
+Previous track #5         : Radiohead — High and Dry | 2026-10-22 05:56:26 -03
+Previous track #6         : Radiohead — All I Need | 2026-10-22 05:52:08 -03
+Previous track #7         : Radiohead — Creep | 2026-10-22 05:47:33 -03
+Previous track #8         : Nirvana — You Know You're Right | 2026-10-21 21:25:07 -03
+Previous track #9         : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03
+Previous track #10        : Audioslave — Cochise | 2026-10-21 21:17:34 -03
+Previous track #11        : Metallica — One | 2026-10-21 21:13:56 -03
+Previous track #12        : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03
+Previous track #13        : John Coltrane — Blue World | 2026-10-21 13:07:48 -03
+Previous track #14        : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
+Previous track #15        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
+Previous track #16        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
+Previous track #17        : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
+Previous track #18        : Godsmack — Changes | 2026-10-19 07:50:10 -03
+Previous track #19        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
+Previous track #20        : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
+Previous track #21        : Chevelle — The Red | 2026-10-14 18:45:24 -03
+Previous track #22        : Cold — Same Drug | 2026-10-14 18:39:34 -03
+Previous track #23        : Nirvana — Blew | 2026-10-12 02:27:26 -03
+Previous track #24        : Cold — Same Drug | 2026-10-10 11:56:06 -03
+Previous track #25        : Cold — It's All Good | 2026-10-10 10:11:03 -03
+Previous track #26        : Cold — She Said | 2026-10-10 10:06:59 -03
+Previous track #27        : Chevelle — Get Some | 2026-10-10 09:56:30 -03
+Previous track #28        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
+Previous track #29        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
+Previous track #30        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
+Previous track #31        : Superheaven — Blur | 2026-10-10 08:56:24 -03
+Previous track #32        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
+Previous track #33        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
+Previous track #34        : Grivo — C.A. | 2026-10-10 08:46:31 -03
+Previous track #35        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
+Previous track #36        : Midrift — unrequited | 2026-10-10 08:39:56 -03
+Previous track #37        : Glare — Into Me | 2026-10-10 08:37:50 -03
+Previous track #38        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
+Previous track #39        : Druidess — Lavender | 2026-10-10 08:30:09 -03
+Previous track #40        : trauma ray — Relay | 2026-10-10 08:26:09 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
-Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-09-30 20:52:17 -03
-Track observed in context : John Coltrane — Blue World
-Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
-Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
+Last playlist             : N/A
+Context observed (local)  : 2026-10-22 06:23:12 -03
+Track observed in context : Radiohead — Just
+Spotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO2VxlyE
+Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VxlyE
 ------------------------------------------------------------
-Previous playlist #1      : N/A | 2026-09-26 21:36:29 -03
-Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
-Previous playlist #3      : N/A | 2026-09-25 00:06:20 -03
-Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
-Previous playlist #5      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
-Previous playlist #6      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
-Previous playlist #8      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
-Previous playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
+Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03
+Previous playlist #2      : N/A | 2026-09-26 21:36:29 -03
+Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
+Previous playlist #4      : N/A | 2026-09-25 00:06:20 -03
+Previous playlist #5      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
+Previous playlist #6      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
+Previous playlist #7      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #9      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1598,55 +1598,55 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 5
-Unique tracks             : 5
-Unique artists            : 3
-Replay ratio              : ░░░░░░░░░░░░░░░░░░  0.0%
-Artist diversity          : ███████████░░░░░░░  60.0%
-Dominant artist           : Chevelle
-Dominant artist share     : ███████████░░░░░░░  60.0%
+Observed events           : 19
+Unique tracks             : 18
+Unique artists            : 10
+Replay ratio              : █░░░░░░░░░░░░░░░░░  5.3%
+Artist diversity          : █████████░░░░░░░░░  52.6%
+Dominant artist           : Radiohead
+Dominant artist share     : ████████░░░░░░░░░░  42.1%
 Artist switch ratio       : █████████░░░░░░░░░  50.0%
-Longest artist streak     : Chevelle × 3
+Longest artist streak     : Radiohead × 8
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
-Morning    06–12           : ████░░░░░░░░░░░░░░   20.0%
-Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : ██████████████░░░░   80.0%
-Dominant period           : EVENING
+Night      00–06           : ███░░░░░░░░░░░░░░░   15.8%
+Morning    06–12           : ██████░░░░░░░░░░░░   31.6%
+Afternoon  12–18           : █████░░░░░░░░░░░░░   26.3%
+Evening    18–24           : █████░░░░░░░░░░░░░   26.3%
+Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-14 21:39:34Z
-History last play (7d)    : 2026-10-19 10:50:10Z
-Observed time span        : 109:10:36
-Mean inter-play gap       : 27:17:39
-Median inter-play gap     : 01:54:20
-Longest inactivity gap    : 105:17:45
-Listening intensity       : 0.05 tracks/hour
+History first play (7d)   : 2026-10-19 10:50:10Z
+History last play (7d)    : 2026-10-22 09:23:12Z
+Observed time span        : 70:33:02
+Mean inter-play gap       : 03:55:10
+Median inter-play gap     : 00:04:58
+Longest inactivity gap    : 52:40:43
+Listening intensity       : 0.27 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
-Peak hour (7d)            : 18:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :        ▃          █   ▃ 
+Peak hour (24h)           : 06:00
+Peak hour (7d)            : 06:00
+Heatmap (24h)             :      ▅█     ▆▂      ▂▆  
+Heatmap (7d)              :      ▅█▂    ▆▂      ▂▆  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▂ █    
+Activity (Mon→Sun)        : ▁ █▆   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   ▂ ▃ ▂ ▁▅    ▁   █   ▁       
+Activity trend (30d)      :  ▂ ▃ ▂ ▁▅    ▁   █   ▁      ▁▁
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :        █                
 Tue                       :                         
-Wed                       :                   █   ▃ 
-Thu                       :                         
+Wed                       :             █▂      ▂█  
+Thu                       :      ▅█                 
 Fri                       :                         
 Sat                       :                         
 Sun                       :                         
@@ -1654,47 +1654,47 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 18
+Dominant artist           : Radiohead
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-14 13:55:39Z → 2026-10-21 13:55:39Z
-Tracks played (7d)        : 5
-Dominant artist           : Chevelle
-Cadence classification    : LOW
+Week window (UTC)         : 2026-10-15 12:04:29Z → 2026-10-22 12:04:29Z
+Tracks played (7d)        : 19
+Dominant artist           : Radiohead
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 3
-Avg inter-play gap        : 27:17:39
+Sessions (24h)            : 3
+Sessions (7d)             : 4
+Avg inter-play gap        : 03:55:10
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : alternative metal(5) | nu metal(5) | post-grunge(4) | hard rock(1) | metal(1) | rap metal(1)
+Top genres (24h)          : alternative rock(8) | art rock(8) | alternative metal(4) | free jazz(4) | jazz(4) | ambient jazz(3)
+Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(5) | free jazz(4) | jazz(4) | nu metal(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Nirvana — You Know You're Right → Radiohead — Just
+Playback timestamp Δ      : 2026-10-22 00:25:07Z → 2026-10-22 09:23:12Z
 State transition          : NO CHANGE
-Telemetry interval        : 06:07:46
+Telemetry interval        : 07:02:43
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 498
+Events retained           : 516
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-19 07:50:10 -03
-Events (24h)              : 0
-Events (7d)               : 5
-Events (30d)              : 172
-Playlist contexts retained: 128
+Newest retained event     : 2026-10-22 06:23:12 -03
+Events (24h)              : 18
+Events (7d)               : 19
+Events (30d)              : 187
+Playlist contexts retained: 140
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1722,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-21 13:55:39Z
+Report generated (UTC)    : 2026-10-22 12:04:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2080,7 +2080,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 21 October 2026
+From: 04 December 2023 - To: 22 October 2026
 
 Total Time       : 1,074 hrs 36 mins
 Mostly coding in : Other
@@ -2091,7 +2091,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          927 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  86.29 %
+Other          927 hrs 35 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  86.32 %
 Bash           176 hrs 52 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.46 %
 Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
 HTML           141 hrs        ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.12 %
@@ -2104,36 +2104,36 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,283 hrs 26 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,283 hrs 44 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.54 %
 
 EDITORS - APPS
 --------------
-Firefox        661 hrs 44 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.58 %
+Firefox        661 hrs 56 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  61.60 %
 VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.38 %
 Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.45 %
 Terminal       57 hrs 23 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.34 %
 Spotify        52 hrs 52 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.92 %
-‎WhatsApp      35 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.34 %
+‎WhatsApp      35 hrs 56 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.34 %
 Pages          27 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.59 %
 Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
 Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
 FileZilla      19 hrs 35 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
-Acrobat        17 hrs 54 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.67 %
+Acrobat        17 hrs 56 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.67 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
 
 CATEGORIES
 ----------
-Coding         1,255 hrs 58 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       659 hrs 48 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.40 %
-Meeting        44 hrs 24 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.13 %
+Coding         1,256 hrs      ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       660 hrs 1 min  ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.42 %
+Meeting        44 hrs 28 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.14 %
 AI Coding      27 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.53 %
 Writing Docs   14 hrs 33 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 21/10/2026 16:29:19 UTC
+Last updated     : 22/10/2026 16:30:03 UTC
 
 ```
 <!--END_SECTION:wakastats-->
