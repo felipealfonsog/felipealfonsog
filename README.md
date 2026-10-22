@@ -1498,87 +1498,87 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Nirvana — You Know You're Right
-Artist                    : Nirvana
-Title                     : You Know You're Right
-Album                     : Nirvana
-Spotify URI               : spotify:track:5O8L4I2S4izFGDjvP7xAKv
-Spotify URL               : https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv
+Track                     : Radiohead — Just
+Artist                    : Radiohead
+Title                     : Just
+Album                     : The Bends
+Spotify URI               : spotify:track:1dyTcli07c77mtQK3ahUZR
+Spotify URL               : https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-22 00:25:07Z
-Played at (local)         : 2026-10-21 21:25:07 -03
-Local hour                : 21:00
-Daypart                   : EVENING
-Time since play           : 04:36:40
-Gap from previous play    : 00:03:33
+Played at (UTC)           : 2026-10-22 09:23:12Z
+Played at (local)         : 2026-10-22 06:23:12 -03
+Local hour                : 06:00
+Daypart                   : MORNING
+Time since play           : 02:41:17
+Gap from previous play    : 00:05:22
 ------------------------------------------------------------
-Previous song             : Rage Against The Machine — Bombtrack
-Same artist as previous   : NO
+Previous song             : Radiohead — Exit Music (For A Film)
+Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 2
+Artist plays (retained)   : 8
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03
-Previous track #2         : Audioslave — Cochise | 2026-10-21 21:17:34 -03
-Previous track #3         : Metallica — One | 2026-10-21 21:13:56 -03
-Previous track #4         : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03
-Previous track #5         : John Coltrane — Blue World | 2026-10-21 13:07:48 -03
-Previous track #6         : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
-Previous track #7         : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
-Previous track #8         : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
-Previous track #9         : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
-Previous track #10        : Godsmack — Changes | 2026-10-19 07:50:10 -03
-Previous track #11        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
-Previous track #12        : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
-Previous track #13        : Chevelle — The Red | 2026-10-14 18:45:24 -03
-Previous track #14        : Cold — Same Drug | 2026-10-14 18:39:34 -03
-Previous track #15        : Nirvana — Blew | 2026-10-12 02:27:26 -03
-Previous track #16        : Cold — Same Drug | 2026-10-10 11:56:06 -03
-Previous track #17        : Cold — It's All Good | 2026-10-10 10:11:03 -03
-Previous track #18        : Cold — She Said | 2026-10-10 10:06:59 -03
-Previous track #19        : Chevelle — Get Some | 2026-10-10 09:56:30 -03
-Previous track #20        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
-Previous track #21        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
-Previous track #22        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
-Previous track #23        : Superheaven — Blur | 2026-10-10 08:56:24 -03
-Previous track #24        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
-Previous track #25        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
-Previous track #26        : Grivo — C.A. | 2026-10-10 08:46:31 -03
-Previous track #27        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
-Previous track #28        : Midrift — unrequited | 2026-10-10 08:39:56 -03
-Previous track #29        : Glare — Into Me | 2026-10-10 08:37:50 -03
-Previous track #30        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
-Previous track #31        : Druidess — Lavender | 2026-10-10 08:30:09 -03
-Previous track #32        : trauma ray — Relay | 2026-10-10 08:26:09 -03
-Previous track #33        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
-Previous track #34        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
-Previous track #35        : Midrift — Need | 2026-10-10 08:13:16 -03
-Previous track #36        : Midrift — Woods | 2026-10-10 08:10:24 -03
-Previous track #37        : Midrift — bouquet | 2026-10-10 08:08:32 -03
-Previous track #38        : Midrift — Grounded | 2026-10-10 08:05:53 -03
-Previous track #39        : Midrift — all i said | 2026-10-10 08:04:09 -03
-Previous track #40        : Midrift — Wanted | 2026-10-10 08:01:15 -03
+Previous track #1         : Radiohead — Exit Music (For A Film) | 2026-10-22 06:17:50 -03
+Previous track #2         : Radiohead — How to Disappear Completely | 2026-10-22 06:13:22 -03
+Previous track #3         : Radiohead — Karma Police | 2026-10-22 06:05:03 -03
+Previous track #4         : Radiohead — Everything In Its Right Place | 2026-10-22 06:00:38 -03
+Previous track #5         : Radiohead — High and Dry | 2026-10-22 05:56:26 -03
+Previous track #6         : Radiohead — All I Need | 2026-10-22 05:52:08 -03
+Previous track #7         : Radiohead — Creep | 2026-10-22 05:47:33 -03
+Previous track #8         : Nirvana — You Know You're Right | 2026-10-21 21:25:07 -03
+Previous track #9         : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03
+Previous track #10        : Audioslave — Cochise | 2026-10-21 21:17:34 -03
+Previous track #11        : Metallica — One | 2026-10-21 21:13:56 -03
+Previous track #12        : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03
+Previous track #13        : John Coltrane — Blue World | 2026-10-21 13:07:48 -03
+Previous track #14        : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
+Previous track #15        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
+Previous track #16        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
+Previous track #17        : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
+Previous track #18        : Godsmack — Changes | 2026-10-19 07:50:10 -03
+Previous track #19        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
+Previous track #20        : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
+Previous track #21        : Chevelle — The Red | 2026-10-14 18:45:24 -03
+Previous track #22        : Cold — Same Drug | 2026-10-14 18:39:34 -03
+Previous track #23        : Nirvana — Blew | 2026-10-12 02:27:26 -03
+Previous track #24        : Cold — Same Drug | 2026-10-10 11:56:06 -03
+Previous track #25        : Cold — It's All Good | 2026-10-10 10:11:03 -03
+Previous track #26        : Cold — She Said | 2026-10-10 10:06:59 -03
+Previous track #27        : Chevelle — Get Some | 2026-10-10 09:56:30 -03
+Previous track #28        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
+Previous track #29        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
+Previous track #30        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
+Previous track #31        : Superheaven — Blur | 2026-10-10 08:56:24 -03
+Previous track #32        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
+Previous track #33        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
+Previous track #34        : Grivo — C.A. | 2026-10-10 08:46:31 -03
+Previous track #35        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
+Previous track #36        : Midrift — unrequited | 2026-10-10 08:39:56 -03
+Previous track #37        : Glare — Into Me | 2026-10-10 08:37:50 -03
+Previous track #38        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
+Previous track #39        : Druidess — Lavender | 2026-10-10 08:30:09 -03
+Previous track #40        : trauma ray — Relay | 2026-10-10 08:26:09 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
-Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-10-21 13:07:48 -03
-Track observed in context : John Coltrane — Blue World
-Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
-Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
+Last playlist             : N/A
+Context observed (local)  : 2026-10-22 06:23:12 -03
+Track observed in context : Radiohead — Just
+Spotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO2VxlyE
+Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VxlyE
 ------------------------------------------------------------
-Previous playlist #1      : N/A | 2026-09-26 21:36:29 -03
-Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
-Previous playlist #3      : N/A | 2026-09-25 00:06:20 -03
-Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
-Previous playlist #5      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
-Previous playlist #6      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
-Previous playlist #8      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
-Previous playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
+Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03
+Previous playlist #2      : N/A | 2026-09-26 21:36:29 -03
+Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
+Previous playlist #4      : N/A | 2026-09-25 00:06:20 -03
+Previous playlist #5      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
+Previous playlist #6      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
+Previous playlist #7      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #9      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1591,47 +1591,47 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 11
-Unique tracks             : 10
-Unique artists            : 9
-Replay ratio              : ██░░░░░░░░░░░░░░░░  9.1%
-Artist diversity          : ███████████████░░░  81.8%
-Dominant artist           : Tomasz Stanko Quintet
-Dominant artist share     : ███░░░░░░░░░░░░░░░  18.2%
-Artist switch ratio       : ██████████████░░░░  80.0%
-Longest artist streak     : Godsmack × 2
+Observed events           : 19
+Unique tracks             : 18
+Unique artists            : 10
+Replay ratio              : █░░░░░░░░░░░░░░░░░  5.3%
+Artist diversity          : █████████░░░░░░░░░  52.6%
+Dominant artist           : Radiohead
+Dominant artist share     : ████████░░░░░░░░░░  42.1%
+Artist switch ratio       : █████████░░░░░░░░░  50.0%
+Longest artist streak     : Radiohead × 8
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
-Morning    06–12           : ██░░░░░░░░░░░░░░░░    9.1%
-Afternoon  12–18           : ████████░░░░░░░░░░   45.5%
-Evening    18–24           : ████████░░░░░░░░░░   45.5%
-Dominant period           : AFTERNOON
+Night      00–06           : ███░░░░░░░░░░░░░░░   15.8%
+Morning    06–12           : ██████░░░░░░░░░░░░   31.6%
+Afternoon  12–18           : █████░░░░░░░░░░░░░   26.3%
+Evening    18–24           : █████░░░░░░░░░░░░░   26.3%
+Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-10-19 10:50:10Z
-History last play (7d)    : 2026-10-22 00:25:07Z
-Observed time span        : 61:34:57
-Mean inter-play gap       : 06:09:30
-Median inter-play gap     : 00:06:14
+History last play (7d)    : 2026-10-22 09:23:12Z
+Observed time span        : 70:33:02
+Mean inter-play gap       : 03:55:10
+Median inter-play gap     : 00:04:58
 Longest inactivity gap    : 52:40:43
-Listening intensity       : 0.18 tracks/hour
+Listening intensity       : 0.27 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
-Peak hour (7d)            : 12:00
-Heatmap (24h)             :             █▂      ▂█  
-Heatmap (7d)              :        ▂    █▂      ▂█  
+Peak hour (24h)           : 06:00
+Peak hour (7d)            : 06:00
+Heatmap (24h)             :      ▅█     ▆▂      ▂▆  
+Heatmap (7d)              :      ▅█▂    ▆▂      ▂▆  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁ █    
+Activity (Mon→Sun)        : ▁ █▆   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  ▂ ▃ ▂ ▁▅    ▁   █   ▁      ▁ 
+Activity trend (30d)      :  ▂ ▃ ▂ ▁▅    ▁   █   ▁      ▁▁
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1639,7 +1639,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :        █                
 Tue                       :                         
 Wed                       :             █▂      ▂█  
-Thu                       :                         
+Thu                       :      ▅█                 
 Fri                       :                         
 Sat                       :                         
 Sun                       :                         
@@ -1647,47 +1647,47 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
-Dominant artist           : Tomasz Stanko Quintet
+Tracks played (last 24h)  : 18
+Dominant artist           : Radiohead
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-15 05:01:46Z → 2026-10-22 05:01:46Z
-Tracks played (7d)        : 11
-Dominant artist           : Tomasz Stanko Quintet
-Cadence classification    : LOW
+Week window (UTC)         : 2026-10-15 12:04:29Z → 2026-10-22 12:04:29Z
+Tracks played (7d)        : 19
+Dominant artist           : Radiohead
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 3
-Avg inter-play gap        : 06:09:30
+Sessions (24h)            : 3
+Sessions (7d)             : 4
+Avg inter-play gap        : 03:55:10
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(4) | free jazz(4) | jazz(4) | ambient jazz(3) | nu metal(3) | rap metal(3)
-Top genres (7d)           : alternative metal(5) | free jazz(4) | jazz(4) | nu metal(4) | rap metal(4) | ambient jazz(3)
-Artist lookups (this run) : 1 (cached)
+Top genres (24h)          : alternative rock(8) | art rock(8) | alternative metal(4) | free jazz(4) | jazz(4) | ambient jazz(3)
+Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(5) | free jazz(4) | jazz(4) | nu metal(4)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : John Coltrane — Blue World → Nirvana — You Know You're Right
-Playback timestamp Δ      : 2026-10-21 16:07:48Z → 2026-10-22 00:25:07Z
+Track transition          : Nirvana — You Know You're Right → Radiohead — Just
+Playback timestamp Δ      : 2026-10-22 00:25:07Z → 2026-10-22 09:23:12Z
 State transition          : NO CHANGE
-Telemetry interval        : 05:35:35
+Telemetry interval        : 07:02:43
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 508
+Events retained           : 516
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-21 21:25:07 -03
-Events (24h)              : 10
-Events (7d)               : 11
-Events (30d)              : 180
-Playlist contexts retained: 132
+Newest retained event     : 2026-10-22 06:23:12 -03
+Events (24h)              : 18
+Events (7d)               : 19
+Events (30d)              : 187
+Playlist contexts retained: 140
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-22 05:01:46Z
+Report generated (UTC)    : 2026-10-22 12:04:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
