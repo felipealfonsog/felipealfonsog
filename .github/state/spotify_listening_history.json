@@ -1,8 +1,41 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-22 12:04:29Z",
+  "updated_utc": "2026-10-22 17:18:58Z",
   "events": [
+    {
+      "track": "Deftones — My Own Summer (Shove It)",
+      "artist": "Deftones",
+      "title": "My Own Summer (Shove It)",
+      "album": "Around the Fur",
+      "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF",
+      "artist_ids": [
+        "6Ghvu1VvMGScGpOUJBAHNH"
+      ],
+      "played_at_utc": "2026-10-22 13:40:13Z",
+      "played_at_local": "2026-10-22 10:40:13 -03",
+      "local_hour": 10,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dck2tBxGfxj9m3CguDgjb",
+      "context_url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+    },
+    {
+      "track": "Metallica — Lords of Summer",
+      "artist": "Metallica",
+      "title": "Lords of Summer",
+      "album": "Lords Of Summer",
+      "uri": "spotify:track:42L8yRYOQakYZOGsvsLh42",
+      "url": "https://open.spotify.com/track/42L8yRYOQakYZOGsvsLh42",
+      "artist_ids": [
+        "2ye2Wgw4gimLv2eAKyk1NB"
+      ],
+      "played_at_utc": "2026-10-22 13:40:13Z",
+      "played_at_local": "2026-10-22 10:40:13 -03",
+      "local_hour": 10,
+      "weekday": 3
+    },
     {
       "track": "Radiohead — Just",
       "artist": "Radiohead",

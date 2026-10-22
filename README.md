@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Radiohead — Just
-Artist                    : Radiohead
-Title                     : Just
-Album                     : The Bends
-Spotify URI               : spotify:track:1dyTcli07c77mtQK3ahUZR
-Spotify URL               : https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR
+Track                     : Deftones — My Own Summer (Shove It)
+Artist                    : Deftones
+Title                     : My Own Summer (Shove It)
+Album                     : Around the Fur
+Spotify URI               : spotify:track:1158ckiB5S4cpsdYHDB9IF
+Spotify URL               : https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-22 09:23:12Z
-Played at (local)         : 2026-10-22 06:23:12 -03
-Local hour                : 06:00
+Played at (UTC)           : 2026-10-22 13:40:13Z
+Played at (local)         : 2026-10-22 10:40:13 -03
+Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 02:41:17
-Gap from previous play    : 00:05:22
+Time since play           : 03:38:45
+Gap from previous play    : 00:00:00
 ------------------------------------------------------------
-Previous song             : Radiohead — Exit Music (For A Film)
-Same artist as previous   : YES
+Previous song             : Metallica — Lords of Summer
+Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 8
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Radiohead — Exit Music (For A Film) | 2026-10-22 06:17:50 -03
-Previous track #2         : Radiohead — How to Disappear Completely | 2026-10-22 06:13:22 -03
-Previous track #3         : Radiohead — Karma Police | 2026-10-22 06:05:03 -03
-Previous track #4         : Radiohead — Everything In Its Right Place | 2026-10-22 06:00:38 -03
-Previous track #5         : Radiohead — High and Dry | 2026-10-22 05:56:26 -03
-Previous track #6         : Radiohead — All I Need | 2026-10-22 05:52:08 -03
-Previous track #7         : Radiohead — Creep | 2026-10-22 05:47:33 -03
-Previous track #8         : Nirvana — You Know You're Right | 2026-10-21 21:25:07 -03
-Previous track #9         : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03
-Previous track #10        : Audioslave — Cochise | 2026-10-21 21:17:34 -03
-Previous track #11        : Metallica — One | 2026-10-21 21:13:56 -03
-Previous track #12        : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03
-Previous track #13        : John Coltrane — Blue World | 2026-10-21 13:07:48 -03
-Previous track #14        : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
-Previous track #15        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
-Previous track #16        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
-Previous track #17        : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
-Previous track #18        : Godsmack — Changes | 2026-10-19 07:50:10 -03
-Previous track #19        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
-Previous track #20        : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
-Previous track #21        : Chevelle — The Red | 2026-10-14 18:45:24 -03
-Previous track #22        : Cold — Same Drug | 2026-10-14 18:39:34 -03
-Previous track #23        : Nirvana — Blew | 2026-10-12 02:27:26 -03
-Previous track #24        : Cold — Same Drug | 2026-10-10 11:56:06 -03
-Previous track #25        : Cold — It's All Good | 2026-10-10 10:11:03 -03
-Previous track #26        : Cold — She Said | 2026-10-10 10:06:59 -03
-Previous track #27        : Chevelle — Get Some | 2026-10-10 09:56:30 -03
-Previous track #28        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
-Previous track #29        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
-Previous track #30        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
-Previous track #31        : Superheaven — Blur | 2026-10-10 08:56:24 -03
-Previous track #32        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
-Previous track #33        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
-Previous track #34        : Grivo — C.A. | 2026-10-10 08:46:31 -03
-Previous track #35        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
-Previous track #36        : Midrift — unrequited | 2026-10-10 08:39:56 -03
-Previous track #37        : Glare — Into Me | 2026-10-10 08:37:50 -03
-Previous track #38        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
-Previous track #39        : Druidess — Lavender | 2026-10-10 08:30:09 -03
-Previous track #40        : trauma ray — Relay | 2026-10-10 08:26:09 -03
+Previous track #1         : Metallica — Lords of Summer | 2026-10-22 10:40:13 -03
+Previous track #2         : Radiohead — Just | 2026-10-22 06:23:12 -03
+Previous track #3         : Radiohead — Exit Music (For A Film) | 2026-10-22 06:17:50 -03
+Previous track #4         : Radiohead — How to Disappear Completely | 2026-10-22 06:13:22 -03
+Previous track #5         : Radiohead — Karma Police | 2026-10-22 06:05:03 -03
+Previous track #6         : Radiohead — Everything In Its Right Place | 2026-10-22 06:00:38 -03
+Previous track #7         : Radiohead — High and Dry | 2026-10-22 05:56:26 -03
+Previous track #8         : Radiohead — All I Need | 2026-10-22 05:52:08 -03
+Previous track #9         : Radiohead — Creep | 2026-10-22 05:47:33 -03
+Previous track #10        : Nirvana — You Know You're Right | 2026-10-21 21:25:07 -03
+Previous track #11        : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03
+Previous track #12        : Audioslave — Cochise | 2026-10-21 21:17:34 -03
+Previous track #13        : Metallica — One | 2026-10-21 21:13:56 -03
+Previous track #14        : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03
+Previous track #15        : John Coltrane — Blue World | 2026-10-21 13:07:48 -03
+Previous track #16        : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
+Previous track #17        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
+Previous track #18        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
+Previous track #19        : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
+Previous track #20        : Godsmack — Changes | 2026-10-19 07:50:10 -03
+Previous track #21        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
+Previous track #22        : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
+Previous track #23        : Chevelle — The Red | 2026-10-14 18:45:24 -03
+Previous track #24        : Cold — Same Drug | 2026-10-14 18:39:34 -03
+Previous track #25        : Nirvana — Blew | 2026-10-12 02:27:26 -03
+Previous track #26        : Cold — Same Drug | 2026-10-10 11:56:06 -03
+Previous track #27        : Cold — It's All Good | 2026-10-10 10:11:03 -03
+Previous track #28        : Cold — She Said | 2026-10-10 10:06:59 -03
+Previous track #29        : Chevelle — Get Some | 2026-10-10 09:56:30 -03
+Previous track #30        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
+Previous track #31        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
+Previous track #32        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
+Previous track #33        : Superheaven — Blur | 2026-10-10 08:56:24 -03
+Previous track #34        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
+Previous track #35        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
+Previous track #36        : Grivo — C.A. | 2026-10-10 08:46:31 -03
+Previous track #37        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
+Previous track #38        : Midrift — unrequited | 2026-10-10 08:39:56 -03
+Previous track #39        : Glare — Into Me | 2026-10-10 08:37:50 -03
+Previous track #40        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1591,45 +1591,45 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 19
-Unique tracks             : 18
-Unique artists            : 10
-Replay ratio              : █░░░░░░░░░░░░░░░░░  5.3%
-Artist diversity          : █████████░░░░░░░░░  52.6%
+Observed events           : 21
+Unique tracks             : 20
+Unique artists            : 11
+Replay ratio              : █░░░░░░░░░░░░░░░░░  4.8%
+Artist diversity          : █████████░░░░░░░░░  52.4%
 Dominant artist           : Radiohead
-Dominant artist share     : ████████░░░░░░░░░░  42.1%
-Artist switch ratio       : █████████░░░░░░░░░  50.0%
+Dominant artist share     : ███████░░░░░░░░░░░  38.1%
+Artist switch ratio       : ██████████░░░░░░░░  55.0%
 Longest artist streak     : Radiohead × 8
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███░░░░░░░░░░░░░░░   15.8%
-Morning    06–12           : ██████░░░░░░░░░░░░   31.6%
-Afternoon  12–18           : █████░░░░░░░░░░░░░   26.3%
-Evening    18–24           : █████░░░░░░░░░░░░░   26.3%
+Night      00–06           : ███░░░░░░░░░░░░░░░   14.3%
+Morning    06–12           : ███████░░░░░░░░░░░   38.1%
+Afternoon  12–18           : ████░░░░░░░░░░░░░░   23.8%
+Evening    18–24           : ████░░░░░░░░░░░░░░   23.8%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-10-19 10:50:10Z
-History last play (7d)    : 2026-10-22 09:23:12Z
-Observed time span        : 70:33:02
-Mean inter-play gap       : 03:55:10
+History last play (7d)    : 2026-10-22 13:40:13Z
+Observed time span        : 74:50:03
+Mean inter-play gap       : 03:44:30
 Median inter-play gap     : 00:04:58
 Longest inactivity gap    : 52:40:43
-Listening intensity       : 0.27 tracks/hour
+Listening intensity       : 0.28 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 06:00
 Peak hour (7d)            : 06:00
-Heatmap (24h)             :      ▅█     ▆▂      ▂▆  
-Heatmap (7d)              :      ▅█▂    ▆▂      ▂▆  
+Heatmap (24h)             :      ▅█   ▃         ▂▆  
+Heatmap (7d)              :      ▅█▂  ▃ ▆▂      ▂▆  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁ █▆   
+Activity (Mon→Sun)        : ▁ ██   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :  ▂ ▃ ▂ ▁▅    ▁   █   ▁      ▁▁
 Trend order               : oldest → newest
@@ -1639,7 +1639,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :        █                
 Tue                       :                         
 Wed                       :             █▂      ▂█  
-Thu                       :      ▅█                 
+Thu                       :      ▅█   ▃             
 Fri                       :                         
 Sat                       :                         
 Sun                       :                         
@@ -1647,15 +1647,15 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 18
+Tracks played (last 24h)  : 15
 Dominant artist           : Radiohead
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-15 12:04:29Z → 2026-10-22 12:04:29Z
-Tracks played (7d)        : 19
+Week window (UTC)         : 2026-10-15 17:18:58Z → 2026-10-22 17:18:58Z
+Tracks played (7d)        : 21
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1663,30 +1663,30 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
-Sessions (7d)             : 4
-Avg inter-play gap        : 03:55:10
+Sessions (7d)             : 5
+Avg inter-play gap        : 03:44:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative rock(8) | art rock(8) | alternative metal(4) | free jazz(4) | jazz(4) | ambient jazz(3)
-Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(5) | free jazz(4) | jazz(4) | nu metal(4)
+Top genres (24h)          : alternative rock(8) | art rock(8) | rock(5) | alternative metal(4) | nu metal(3) | rap metal(3)
+Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(6) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Nirvana — You Know You're Right → Radiohead — Just
-Playback timestamp Δ      : 2026-10-22 00:25:07Z → 2026-10-22 09:23:12Z
+Track transition          : Radiohead — Just → Deftones — My Own Summer (Shove It)
+Playback timestamp Δ      : 2026-10-22 09:23:12Z → 2026-10-22 13:40:13Z
 State transition          : NO CHANGE
-Telemetry interval        : 07:02:43
+Telemetry interval        : 05:14:29
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 516
+Events retained           : 518
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-22 06:23:12 -03
-Events (24h)              : 18
-Events (7d)               : 19
-Events (30d)              : 187
+Newest retained event     : 2026-10-22 10:40:13 -03
+Events (24h)              : 15
+Events (7d)               : 21
+Events (30d)              : 189
 Playlist contexts retained: 140
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-22 12:04:29Z
+Report generated (UTC)    : 2026-10-22 17:18:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
