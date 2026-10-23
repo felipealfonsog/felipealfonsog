@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-22 13:40:13Z
 Played at (local)         : 2026-10-22 10:40:13 -03
 Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 11:03:17
+Time since play           : 18:01:11
 Gap from previous play    : 00:00:00
 ------------------------------------------------------------
 Previous song             : Metallica — Lords of Summer
@@ -1631,7 +1631,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▁ ██   
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  ▂ ▃ ▂ ▁▅    ▁   █   ▁      ▁▁
+Activity trend (30d)      : ▂ ▃ ▂ ▁▅    ▁   █   ▁      ▁▁ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1654,7 +1654,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-16 00:43:29Z → 2026-10-23 00:43:29Z
+Week window (UTC)         : 2026-10-16 07:41:23Z → 2026-10-23 07:41:23Z
 Tracks played (7d)        : 21
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 02:59:06
+Telemetry interval        : 06:57:55
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-23 00:43:29Z
+Report generated (UTC)    : 2026-10-23 07:41:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
