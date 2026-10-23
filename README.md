@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-23 15:44:29Z
 Played at (local)         : 2026-10-23 12:44:29 -03
 Local hour                : 12:00
 Daypart                   : AFTERNOON
-Time since play           : 02:43:56
+Time since play           : 07:29:07
 Gap from previous play    : 00:07:17
 ------------------------------------------------------------
 Previous song             : Oasis — Supersonic - Remastered
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-16 18:28:24Z → 2026-10-23 18:28:24Z
+Week window (UTC)         : 2026-10-16 23:13:36Z → 2026-10-23 23:13:36Z
 Tracks played (7d)        : 24
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
@@ -1670,14 +1670,14 @@ GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : britpop(3)
 Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(6) | nu metal(5) | rap metal(5) | rock(5)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Deftones — My Own Summer (Shove It) → Oasis — Slide Away - Remastered
-Playback timestamp Δ      : 2026-10-22 13:40:13Z → 2026-10-23 15:44:29Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:53:40
+Telemetry interval        : 04:45:12
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-23 18:28:24Z
+Report generated (UTC)    : 2026-10-23 23:13:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
