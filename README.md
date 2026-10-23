@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-22 13:40:13Z
 Played at (local)         : 2026-10-22 10:40:13 -03
 Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 08:04:11
+Time since play           : 11:03:17
 Gap from previous play    : 00:00:00
 ------------------------------------------------------------
 Previous song             : Metallica — Lords of Summer
@@ -1624,7 +1624,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 06:00
 Peak hour (7d)            : 06:00
-Heatmap (24h)             :      ▅█   ▃         ▂▆  
+Heatmap (24h)             :      ▅█   ▃             
 Heatmap (7d)              :      ▅█▂  ▃ ▆▂      ▂▆  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 15
+Tracks played (last 24h)  : 10
 Dominant artist           : Radiohead
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-15 21:44:24Z → 2026-10-22 21:44:24Z
+Week window (UTC)         : 2026-10-16 00:43:29Z → 2026-10-23 00:43:29Z
 Tracks played (7d)        : 21
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
@@ -1662,13 +1662,13 @@ Cadence classification    : MEDIUM
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 5
 Avg inter-play gap        : 03:44:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative rock(8) | art rock(8) | rock(5) | alternative metal(4) | nu metal(3) | rap metal(3)
+Top genres (24h)          : alternative rock(8) | art rock(8) | rock(2) | alternative metal(1) | hard rock(1) | heavy metal(1)
 Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(6) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:25:26
+Telemetry interval        : 02:59:06
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 518
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-22 10:40:13 -03
-Events (24h)              : 15
+Events (24h)              : 10
 Events (7d)               : 21
 Events (30d)              : 189
 Playlist contexts retained: 140
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-22 21:44:24Z
+Report generated (UTC)    : 2026-10-23 00:43:29Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
