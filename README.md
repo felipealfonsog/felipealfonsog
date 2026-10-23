@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-22 13:40:13Z
 Played at (local)         : 2026-10-22 10:40:13 -03
 Local hour                : 10:00
 Daypart                   : MORNING
-Time since play           : 18:01:11
+Time since play           : 23:54:33
 Gap from previous play    : 00:00:00
 ------------------------------------------------------------
 Previous song             : Metallica — Lords of Summer
@@ -1622,9 +1622,9 @@ Listening intensity       : 0.28 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 06:00
+Peak hour (24h)           : 10:00
 Peak hour (7d)            : 06:00
-Heatmap (24h)             :      ▅█   ▃             
+Heatmap (24h)             :           █             
 Heatmap (7d)              :      ▅█▂  ▃ ▆▂      ▂▆  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
-Dominant artist           : Radiohead
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 2
+Dominant artist           : Deftones
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-16 07:41:23Z → 2026-10-23 07:41:23Z
+Week window (UTC)         : 2026-10-16 13:34:45Z → 2026-10-23 13:34:45Z
 Tracks played (7d)        : 21
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
@@ -1662,13 +1662,13 @@ Cadence classification    : MEDIUM
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : 1
 Sessions (7d)             : 5
 Avg inter-play gap        : 03:44:30
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative rock(8) | art rock(8) | rock(2) | alternative metal(1) | hard rock(1) | heavy metal(1)
+Top genres (24h)          : rock(2) | alternative metal(1) | hard rock(1) | heavy metal(1) | metal(1) | nu metal(1)
 Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(6) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:57:55
+Telemetry interval        : 05:53:23
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 518
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-22 10:40:13 -03
-Events (24h)              : 10
+Events (24h)              : 2
 Events (7d)               : 21
 Events (30d)              : 189
 Playlist contexts retained: 140
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-23 07:41:23Z
+Report generated (UTC)    : 2026-10-23 13:34:45Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
