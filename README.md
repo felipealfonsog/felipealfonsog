@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-23 15:44:29Z
 Played at (local)         : 2026-10-23 12:44:29 -03
 Local hour                : 12:00
 Daypart                   : AFTERNOON
-Time since play           : 13:02:43
+Time since play           : 19:30:54
 Gap from previous play    : 00:07:17
 ------------------------------------------------------------
 Previous song             : Oasis — Supersonic - Remastered
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-17 04:47:12Z → 2026-10-24 04:47:12Z
+Week window (UTC)         : 2026-10-17 11:15:23Z → 2026-10-24 11:15:23Z
 Tracks played (7d)        : 24
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:33:36
+Telemetry interval        : 06:28:11
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1686,7 +1686,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-23 12:44:29 -03
 Events (24h)              : 3
 Events (7d)               : 24
-Events (30d)              : 192
+Events (30d)              : 180
 Playlist contexts retained: 140
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-24 04:47:12Z
+Report generated (UTC)    : 2026-10-24 11:15:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
