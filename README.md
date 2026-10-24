@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Oasis — Slide Away - Remastered
+Track                     : Oasis — Headshrinker - Remastered
 Artist                    : Oasis
-Title                     : Slide Away - Remastered
-Album                     : Definitely Maybe (Remastered)
-Spotify URI               : spotify:track:62L8HlrCQLvBHKfpu8iqLa
-Spotify URL               : https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa
+Title                     : Headshrinker - Remastered
+Album                     : (What's The Story) Morning Glory? [Remastered]
+Spotify URI               : spotify:track:6BXJWKcfPtSxUJ4FOvCxjp
+Spotify URL               : https://open.spotify.com/track/6BXJWKcfPtSxUJ4FOvCxjp
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-23 15:44:29Z
-Played at (local)         : 2026-10-23 12:44:29 -03
+Played at (UTC)           : 2026-10-24 15:01:06Z
+Played at (local)         : 2026-10-24 12:01:06 -03
 Local hour                : 12:00
 Daypart                   : AFTERNOON
-Time since play           : 19:30:54
-Gap from previous play    : 00:07:17
+Time since play           : 01:02:39
+Gap from previous play    : 23:16:37
 ------------------------------------------------------------
-Previous song             : Oasis — Supersonic - Remastered
+Previous song             : Oasis — Slide Away - Remastered
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 2
-Artist plays (retained)   : 3
+Track plays (retained)    : 1
+Artist plays (retained)   : 4
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Oasis — Supersonic - Remastered | 2026-10-23 12:37:12 -03
-Previous track #2         : Oasis — Slide Away - Remastered | 2026-10-23 12:31:52 -03
-Previous track #3         : Deftones — My Own Summer (Shove It) | 2026-10-22 10:40:13 -03
-Previous track #4         : Metallica — Lords of Summer | 2026-10-22 10:40:13 -03
-Previous track #5         : Radiohead — Just | 2026-10-22 06:23:12 -03
-Previous track #6         : Radiohead — Exit Music (For A Film) | 2026-10-22 06:17:50 -03
-Previous track #7         : Radiohead — How to Disappear Completely | 2026-10-22 06:13:22 -03
-Previous track #8         : Radiohead — Karma Police | 2026-10-22 06:05:03 -03
-Previous track #9         : Radiohead — Everything In Its Right Place | 2026-10-22 06:00:38 -03
-Previous track #10        : Radiohead — High and Dry | 2026-10-22 05:56:26 -03
-Previous track #11        : Radiohead — All I Need | 2026-10-22 05:52:08 -03
-Previous track #12        : Radiohead — Creep | 2026-10-22 05:47:33 -03
-Previous track #13        : Nirvana — You Know You're Right | 2026-10-21 21:25:07 -03
-Previous track #14        : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03
-Previous track #15        : Audioslave — Cochise | 2026-10-21 21:17:34 -03
-Previous track #16        : Metallica — One | 2026-10-21 21:13:56 -03
-Previous track #17        : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03
-Previous track #18        : John Coltrane — Blue World | 2026-10-21 13:07:48 -03
-Previous track #19        : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
-Previous track #20        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
-Previous track #21        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
-Previous track #22        : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
-Previous track #23        : Godsmack — Changes | 2026-10-19 07:50:10 -03
-Previous track #24        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
-Previous track #25        : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
-Previous track #26        : Chevelle — The Red | 2026-10-14 18:45:24 -03
-Previous track #27        : Cold — Same Drug | 2026-10-14 18:39:34 -03
-Previous track #28        : Nirvana — Blew | 2026-10-12 02:27:26 -03
-Previous track #29        : Cold — Same Drug | 2026-10-10 11:56:06 -03
-Previous track #30        : Cold — It's All Good | 2026-10-10 10:11:03 -03
-Previous track #31        : Cold — She Said | 2026-10-10 10:06:59 -03
-Previous track #32        : Chevelle — Get Some | 2026-10-10 09:56:30 -03
-Previous track #33        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
-Previous track #34        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
-Previous track #35        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
-Previous track #36        : Superheaven — Blur | 2026-10-10 08:56:24 -03
-Previous track #37        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
-Previous track #38        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
-Previous track #39        : Grivo — C.A. | 2026-10-10 08:46:31 -03
-Previous track #40        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
+Previous track #1         : Oasis — Slide Away - Remastered | 2026-10-23 12:44:29 -03
+Previous track #2         : Oasis — Supersonic - Remastered | 2026-10-23 12:37:12 -03
+Previous track #3         : Oasis — Slide Away - Remastered | 2026-10-23 12:31:52 -03
+Previous track #4         : Deftones — My Own Summer (Shove It) | 2026-10-22 10:40:13 -03
+Previous track #5         : Metallica — Lords of Summer | 2026-10-22 10:40:13 -03
+Previous track #6         : Radiohead — Just | 2026-10-22 06:23:12 -03
+Previous track #7         : Radiohead — Exit Music (For A Film) | 2026-10-22 06:17:50 -03
+Previous track #8         : Radiohead — How to Disappear Completely | 2026-10-22 06:13:22 -03
+Previous track #9         : Radiohead — Karma Police | 2026-10-22 06:05:03 -03
+Previous track #10        : Radiohead — Everything In Its Right Place | 2026-10-22 06:00:38 -03
+Previous track #11        : Radiohead — High and Dry | 2026-10-22 05:56:26 -03
+Previous track #12        : Radiohead — All I Need | 2026-10-22 05:52:08 -03
+Previous track #13        : Radiohead — Creep | 2026-10-22 05:47:33 -03
+Previous track #14        : Nirvana — You Know You're Right | 2026-10-21 21:25:07 -03
+Previous track #15        : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03
+Previous track #16        : Audioslave — Cochise | 2026-10-21 21:17:34 -03
+Previous track #17        : Metallica — One | 2026-10-21 21:13:56 -03
+Previous track #18        : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03
+Previous track #19        : John Coltrane — Blue World | 2026-10-21 13:07:48 -03
+Previous track #20        : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
+Previous track #21        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
+Previous track #22        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
+Previous track #23        : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
+Previous track #24        : Godsmack — Changes | 2026-10-19 07:50:10 -03
+Previous track #25        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
+Previous track #26        : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
+Previous track #27        : Chevelle — The Red | 2026-10-14 18:45:24 -03
+Previous track #28        : Cold — Same Drug | 2026-10-14 18:39:34 -03
+Previous track #29        : Nirvana — Blew | 2026-10-12 02:27:26 -03
+Previous track #30        : Cold — Same Drug | 2026-10-10 11:56:06 -03
+Previous track #31        : Cold — It's All Good | 2026-10-10 10:11:03 -03
+Previous track #32        : Cold — She Said | 2026-10-10 10:06:59 -03
+Previous track #33        : Chevelle — Get Some | 2026-10-10 09:56:30 -03
+Previous track #34        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
+Previous track #35        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
+Previous track #36        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
+Previous track #37        : Superheaven — Blur | 2026-10-10 08:56:24 -03
+Previous track #38        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
+Previous track #39        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
+Previous track #40        : Grivo — C.A. | 2026-10-10 08:46:31 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1591,33 +1591,33 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 24
-Unique tracks             : 22
+Observed events           : 25
+Unique tracks             : 23
 Unique artists            : 12
-Replay ratio              : █░░░░░░░░░░░░░░░░░  8.3%
-Artist diversity          : █████████░░░░░░░░░  50.0%
+Replay ratio              : █░░░░░░░░░░░░░░░░░  8.0%
+Artist diversity          : █████████░░░░░░░░░  48.0%
 Dominant artist           : Radiohead
-Dominant artist share     : ██████░░░░░░░░░░░░  33.3%
-Artist switch ratio       : █████████░░░░░░░░░  52.2%
+Dominant artist share     : ██████░░░░░░░░░░░░  32.0%
+Artist switch ratio       : █████████░░░░░░░░░  50.0%
 Longest artist streak     : Radiohead × 8
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██░░░░░░░░░░░░░░░░   12.5%
-Morning    06–12           : ██████░░░░░░░░░░░░   33.3%
-Afternoon  12–18           : ██████░░░░░░░░░░░░   33.3%
-Evening    18–24           : ████░░░░░░░░░░░░░░   20.8%
-Dominant period           : MORNING
+Night      00–06           : ██░░░░░░░░░░░░░░░░   12.0%
+Morning    06–12           : ██████░░░░░░░░░░░░   32.0%
+Afternoon  12–18           : ██████░░░░░░░░░░░░   36.0%
+Evening    18–24           : ████░░░░░░░░░░░░░░   20.0%
+Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-10-19 10:50:10Z
-History last play (7d)    : 2026-10-23 15:44:29Z
-Observed time span        : 100:54:19
-Mean inter-play gap       : 04:23:14
-Median inter-play gap     : 00:05:22
+History last play (7d)    : 2026-10-24 15:01:06Z
+Observed time span        : 124:10:56
+Mean inter-play gap       : 05:10:27
+Median inter-play gap     : 00:05:34
 Longest inactivity gap    : 52:40:43
-Listening intensity       : 0.24 tracks/hour
+Listening intensity       : 0.20 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1625,11 +1625,11 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 12:00
 Peak hour (7d)            : 12:00
 Heatmap (24h)             :             █           
-Heatmap (7d)              :      ▃▆▁  ▂ █▁      ▁▅  
+Heatmap (7d)              :      ▃▅▁  ▂ █▁      ▁▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁ ██▂  
+Activity (Mon→Sun)        : ▁ ██▂▁ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :  ▃ ▂ ▁▅    ▁   █   ▁      ▁▁  
 Trend order               : oldest → newest
@@ -1641,21 +1641,21 @@ Tue                       :
 Wed                       :             █▂      ▂█  
 Thu                       :      ▅█   ▃             
 Fri                       :             █           
-Sat                       :                         
+Sat                       :             █           
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 3
+Tracks played (last 24h)  : 1
 Dominant artist           : Oasis
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-17 11:15:23Z → 2026-10-24 11:15:23Z
-Tracks played (7d)        : 24
+Week window (UTC)         : 2026-10-17 16:03:44Z → 2026-10-24 16:03:44Z
+Tracks played (7d)        : 25
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
@@ -1663,30 +1663,30 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 6
-Avg inter-play gap        : 04:23:14
+Sessions (7d)             : 7
+Avg inter-play gap        : 05:10:27
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : britpop(3)
+Top genres (24h)          : britpop(1)
 Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(6) | nu metal(5) | rap metal(5) | rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Oasis — Slide Away - Remastered → Oasis — Headshrinker - Remastered
+Playback timestamp Δ      : 2026-10-23 15:44:29Z → 2026-10-24 15:01:06Z
 State transition          : NO CHANGE
-Telemetry interval        : 06:28:11
+Telemetry interval        : 04:48:22
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 521
+Events retained           : 522
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-23 12:44:29 -03
-Events (24h)              : 3
-Events (7d)               : 24
-Events (30d)              : 180
+Newest retained event     : 2026-10-24 12:01:06 -03
+Events (24h)              : 1
+Events (7d)               : 25
+Events (30d)              : 181
 Playlist contexts retained: 140
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-24 11:15:23Z
+Report generated (UTC)    : 2026-10-24 16:03:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

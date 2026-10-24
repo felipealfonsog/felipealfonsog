@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-24 11:15:23Z",
+  "updated_utc": "2026-10-24 16:03:44Z",
   "events": [
+    {
+      "track": "Oasis — Headshrinker - Remastered",
+      "artist": "Oasis",
+      "title": "Headshrinker - Remastered",
+      "album": "(What's The Story) Morning Glory? [Remastered]",
+      "uri": "spotify:track:6BXJWKcfPtSxUJ4FOvCxjp",
+      "url": "https://open.spotify.com/track/6BXJWKcfPtSxUJ4FOvCxjp",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-24 15:01:06Z",
+      "played_at_local": "2026-10-24 12:01:06 -03",
+      "local_hour": 12,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:1VW1MFNstaJuygaoTPkdCk",
+      "context_url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+    },
     {
       "track": "Oasis — Slide Away - Remastered",
       "artist": "Oasis",
