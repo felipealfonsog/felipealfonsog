@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-24 15:01:06Z
 Played at (local)         : 2026-10-24 12:01:06 -03
 Local hour                : 12:00
 Daypart                   : AFTERNOON
-Time since play           : 01:02:39
+Time since play           : 03:49:39
 Gap from previous play    : 23:16:37
 ------------------------------------------------------------
 Previous song             : Oasis — Slide Away - Remastered
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-17 16:03:44Z → 2026-10-24 16:03:44Z
+Week window (UTC)         : 2026-10-17 18:50:44Z → 2026-10-24 18:50:44Z
 Tracks played (7d)        : 25
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
@@ -1674,10 +1674,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Oasis — Slide Away - Remastered → Oasis — Headshrinker - Remastered
-Playback timestamp Δ      : 2026-10-23 15:44:29Z → 2026-10-24 15:01:06Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 04:48:22
+Telemetry interval        : 02:47:01
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-24 16:03:44Z
+Report generated (UTC)    : 2026-10-24 18:50:44Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
