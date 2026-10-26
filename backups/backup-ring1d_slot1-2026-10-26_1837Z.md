@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-10-25_1557Z
+ snapshot_utc : 2026-10-26_1837Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -543,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-10-25T11:13:50+00:00 | last_update=2026-10-25T11:13:50+00:00 | source=goodreads_rss
+# status=ok | mode=network | sync=2026-10-26T12:47:50+00:00 | last_update=2026-10-26T12:47:50+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -713,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 220 ms
-TTFB................ 219 ms
+LATENCY............. 346 ms
+TTFB................ 345 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 66d
+TLS_EXPIRY.......... 65d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -748,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 9 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-10-25T08:16:04Z
+LAST_PROBE_UTC...... 2026-10-26T08:43:10Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -788,19 +788,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437259
-longitude      : -70.647033
-altitude       : 28 m
-gps_accuracy   : ±6.7 m
-heading        : 348°
-speed          : 5.9 km/h
-status         : meeting
+location       : transit_corridor
+latitude       : -33.446070
+longitude      : -70.661371
+altitude       : 145 m
+gps_accuracy   : ±4.6 m
+heading        : 114°
+speed          : 1.5 km/h
+status         : in_transit
 phase          : workday
-local_time     : 12:15
+local_time     : 14:53
 timezone       : America/Santiago
-signal         : strong
-updated_utc    : 2026-10-25 15:15:34 UTC
+signal         : stable
+updated_utc    : 2026-10-26 17:53:57 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -919,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-10-25 11:42:41Z
+DSN snapshot (UTC)       : 2026-10-26 04:56:25Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -930,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.84e9 km | 172.732 AU
-Heliocentric distance    : 172.156 AU
-Relative speed           : 42.454 km/s
+Earth distance           : 25.84e9 km | 172.746 AU
+Heliocentric distance    : 172.163 AU
+Relative speed           : 42.379 km/s
 ------------------------------------------------------------
-One-way light time       : 23:56:34
-Round-trip latency       : 47:53:08
+One-way light time       : 23:56:41
+Round-trip latency       : 47:53:22
 ------------------------------------------------------------
-Δ distance (since last)  : +834,323 km
-Mission age              : 49 years, 62 days
+Δ distance (since last)  : +970,801 km
+Mission age              : 49 years, 63 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -949,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.61e9 km | 144.450 AU
-Heliocentric distance    : 144.298 AU
-Relative speed           : 41.665 km/s
+Earth distance           : 21.61e9 km | 144.466 AU
+Heliocentric distance    : 144.305 AU
+Relative speed           : 41.657 km/s
 ------------------------------------------------------------
-One-way light time       : 20:01:21
-Round-trip latency       : 40:02:42
+One-way light time       : 20:01:29
+Round-trip latency       : 40:02:58
 ------------------------------------------------------------
-Δ distance (since last)  : +933,428 km
-Mission age              : 49 years, 78 days
+Δ distance (since last)  : +1.091e6 km
+Mission age              : 49 years, 79 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-10-25 11:42:42Z
+Report generated (UTC)   : 2026-10-26 04:56:30Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1516,7 +1516,7 @@ Played at (UTC)           : 2026-10-24 15:01:06Z
 Played at (local)         : 2026-10-24 12:01:06 -03
 Local hour                : 12:00
 Daypart                   : AFTERNOON
-Time since play           : 20:44:01
+Time since play           : 48:15:45
 Gap from previous play    : 23:16:37
 ------------------------------------------------------------
 Previous song             : Oasis — Slide Away - Remastered
@@ -1598,52 +1598,52 @@ Context observed (UTC)    : 2026-09-30 23:56:54Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 25
-Unique tracks             : 23
+Observed events           : 24
+Unique tracks             : 22
 Unique artists            : 12
-Replay ratio              : █░░░░░░░░░░░░░░░░░  8.0%
-Artist diversity          : █████████░░░░░░░░░  48.0%
+Replay ratio              : █░░░░░░░░░░░░░░░░░  8.3%
+Artist diversity          : █████████░░░░░░░░░  50.0%
 Dominant artist           : Radiohead
-Dominant artist share     : ██████░░░░░░░░░░░░  32.0%
-Artist switch ratio       : █████████░░░░░░░░░  50.0%
+Dominant artist share     : ██████░░░░░░░░░░░░  33.3%
+Artist switch ratio       : █████████░░░░░░░░░  52.2%
 Longest artist streak     : Radiohead × 8
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ██░░░░░░░░░░░░░░░░   12.0%
-Morning    06–12           : ██████░░░░░░░░░░░░   32.0%
-Afternoon  12–18           : ██████░░░░░░░░░░░░   36.0%
-Evening    18–24           : ████░░░░░░░░░░░░░░   20.0%
+Night      00–06           : ██░░░░░░░░░░░░░░░░   12.5%
+Morning    06–12           : █████░░░░░░░░░░░░░   29.2%
+Afternoon  12–18           : ███████░░░░░░░░░░░   37.5%
+Evening    18–24           : ████░░░░░░░░░░░░░░   20.8%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-19 10:50:10Z
+History first play (7d)   : 2026-10-21 15:30:53Z
 History last play (7d)    : 2026-10-24 15:01:06Z
-Observed time span        : 124:10:56
-Mean inter-play gap       : 05:10:27
-Median inter-play gap     : 00:05:34
-Longest inactivity gap    : 52:40:43
-Listening intensity       : 0.20 tracks/hour
+Observed time span        : 71:30:13
+Mean inter-play gap       : 03:06:32
+Median inter-play gap     : 00:05:22
+Longest inactivity gap    : 25:51:39
+Listening intensity       : 0.34 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 12:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 12:00
-Heatmap (24h)             :             █           
-Heatmap (7d)              :      ▃▅▁  ▂ █▁      ▁▄  
+Heatmap (24h)             : N/A
+Heatmap (7d)              :      ▃▅   ▂ █▁      ▁▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▁ ██▂▁ 
+Activity (Mon→Sun)        :   ██▂▁ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▃ ▂ ▁▅    ▁   █   ▁      ▁▁   
+Activity trend (30d)      :  ▂ ▁▅    ▁   █   ▁      ▁▁    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :        █                
+Mon                       :                         
 Tue                       :                         
 Wed                       :             █▂      ▂█  
 Thu                       :      ▅█   ▃             
@@ -1654,29 +1654,29 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Oasis
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-18 11:45:06Z → 2026-10-25 11:45:06Z
-Tracks played (7d)        : 25
+Week window (UTC)         : 2026-10-19 15:16:51Z → 2026-10-26 15:16:51Z
+Tracks played (7d)        : 24
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 7
-Avg inter-play gap        : 05:10:27
+Sessions (24h)            : N/A
+Sessions (7d)             : 6
+Avg inter-play gap        : 03:06:32
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : britpop(1)
-Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(6) | nu metal(5) | rap metal(5) | rock(5)
+Top genres (24h)          : N/A
+Top genres (7d)           : alternative rock(8) | art rock(8) | alternative metal(5) | rock(5) | britpop(4) | free jazz(4)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1684,16 +1684,16 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:50:03
+Telemetry interval        : 07:22:24
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 522
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-24 12:01:06 -03
-Events (24h)              : 1
-Events (7d)               : 25
-Events (30d)              : 175
+Events (24h)              : 0
+Events (7d)               : 24
+Events (30d)              : 174
 Playlist contexts retained: 140
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1722,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-25 11:45:06Z
+Report generated (UTC)    : 2026-10-26 15:16:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2133,7 +2133,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 25/10/2026 15:26:38 UTC
+Last updated     : 26/10/2026 12:07:50 UTC
 
 ```
 <!--END_SECTION:wakastats-->
