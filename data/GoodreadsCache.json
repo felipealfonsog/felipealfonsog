@@ -3,7 +3,7 @@
     "source": "goodreads_rss",
     "status": "source_unavailable_using_cache",
     "fetch_mode": "cache",
-    "last_attempted_sync": "2026-10-28T12:40:15+00:00",
+    "last_attempted_sync": "2026-10-28T22:29:20+00:00",
     "last_successful_sync": "2026-10-27T17:55:20+00:00",
     "error_message": "HTTP Error 404: Not Found"
   },
