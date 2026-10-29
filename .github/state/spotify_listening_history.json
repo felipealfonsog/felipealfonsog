@@ -1,8 +1,260 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-29 19:43:00Z",
+  "updated_utc": "2026-10-29 23:59:16Z",
   "events": [
+    {
+      "track": "Oasis — Slide Away - Remastered",
+      "artist": "Oasis",
+      "title": "Slide Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:62L8HlrCQLvBHKfpu8iqLa",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:57:08Z",
+      "played_at_local": "2026-10-29 20:57:08 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Digsy's Dinner - Remastered",
+      "artist": "Oasis",
+      "title": "Digsy's Dinner - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1JHCEDui9bf3hDxJcCwemy",
+      "url": "https://open.spotify.com/track/1JHCEDui9bf3hDxJcCwemy",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:50:35Z",
+      "played_at_local": "2026-10-29 20:50:35 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2wKeVnM8OBoGjGm8Qvqhi5",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:48:03Z",
+      "played_at_local": "2026-10-29 20:48:03 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:40:13Z",
+      "played_at_local": "2026-10-29 20:40:13 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Slide Away - Remastered",
+      "artist": "Oasis",
+      "title": "Slide Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:62L8HlrCQLvBHKfpu8iqLa",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:02:31Z",
+      "played_at_local": "2026-10-29 20:02:31 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Digsy's Dinner - Remastered",
+      "artist": "Oasis",
+      "title": "Digsy's Dinner - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1JHCEDui9bf3hDxJcCwemy",
+      "url": "https://open.spotify.com/track/1JHCEDui9bf3hDxJcCwemy",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:02:09Z",
+      "played_at_local": "2026-10-29 20:02:09 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2wKeVnM8OBoGjGm8Qvqhi5",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:59:37Z",
+      "played_at_local": "2026-10-29 19:59:37 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Bring It on Down - Remastered",
+      "artist": "Oasis",
+      "title": "Bring It on Down - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4H9muKIJpzTODxUxkPTgnH",
+      "url": "https://open.spotify.com/track/4H9muKIJpzTODxUxkPTgnH",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:54:48Z",
+      "played_at_local": "2026-10-29 19:54:48 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:50:30Z",
+      "played_at_local": "2026-10-29 19:50:30 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:48:17Z",
+      "played_at_local": "2026-10-29 19:48:17 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2wKeVnM8OBoGjGm8Qvqhi5",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:30:02Z",
+      "played_at_local": "2026-10-29 19:30:02 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Bring It on Down - Remastered",
+      "artist": "Oasis",
+      "title": "Bring It on Down - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4H9muKIJpzTODxUxkPTgnH",
+      "url": "https://open.spotify.com/track/4H9muKIJpzTODxUxkPTgnH",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:26:25Z",
+      "played_at_local": "2026-10-29 19:26:25 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:22:07Z",
+      "played_at_local": "2026-10-29 19:22:07 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Metallica — Don't Tread on Me - Remastered 2021",
+      "artist": "Metallica",
+      "title": "Don't Tread on Me - Remastered 2021",
+      "album": "Metallica (Remastered 2021)",
+      "uri": "spotify:track:3zbLtkeCoU5LutGs8728c6",
+      "url": "https://open.spotify.com/track/3zbLtkeCoU5LutGs8728c6",
+      "artist_ids": [
+        "2ye2Wgw4gimLv2eAKyk1NB"
+      ],
+      "played_at_utc": "2026-10-28 18:28:26Z",
+      "played_at_local": "2026-10-28 15:28:26 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dck2tBxGfxj9m3CguDgjb",
+      "context_url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+    },
     {
       "track": "Oasis — Headshrinker - Remastered",
       "artist": "Oasis",
@@ -9939,6 +10191,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-10-29 23:59:16Z",
+      "is_playing": true,
+      "track": "Oasis — Married with Children - Remastered",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Computer",
+      "device_name": "Felipe’s MacBook Air Silicon",
+      "volume_percent": 100,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-10-01 06:07:58Z",
       "is_playing": false,

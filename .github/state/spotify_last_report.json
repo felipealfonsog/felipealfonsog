@@ -1,9 +1,9 @@
 {
-  "report_generated_utc": "2026-10-29 19:43:00Z",
-  "status": "IDLE",
-  "last_track": "Oasis — Headshrinker - Remastered",
-  "last_played_utc": "2026-10-24 15:01:06Z",
-  "sitrep": "AMBER",
+  "report_generated_utc": "2026-10-29 23:59:16Z",
+  "status": "PLAYING",
+  "last_track": "Oasis — Slide Away - Remastered",
+  "last_played_utc": "2026-10-29 23:57:08Z",
+  "sitrep": "GREEN",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
       "jazz"
@@ -1926,9 +1926,261 @@
       "britpop"
     ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Oasis — Headshrinker - Remastered\nArtist                    : Oasis\nTitle                     : Headshrinker - Remastered\nAlbum                     : (What's The Story) Morning Glory? [Remastered]\nSpotify URI               : spotify:track:6BXJWKcfPtSxUJ4FOvCxjp\nSpotify URL               : https://open.spotify.com/track/6BXJWKcfPtSxUJ4FOvCxjp\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-10-24 15:01:06Z\nPlayed at (local)         : 2026-10-24 12:01:06 -03\nLocal hour                : 12:00\nDaypart                   : AFTERNOON\nTime since play           : 124:41:55\nGap from previous play    : 22:54:20\n------------------------------------------------------------\nPrevious song             : Oasis — Married with Children - Remastered\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 5\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Oasis — Married with Children - Remastered | 2026-10-23 13:06:46 -03\nPrevious track #2         : Oasis — Slide Away - Remastered | 2026-10-23 12:44:29 -03\nPrevious track #3         : Oasis — Supersonic - Remastered | 2026-10-23 12:37:12 -03\nPrevious track #4         : Oasis — Slide Away - Remastered | 2026-10-23 12:31:52 -03\nPrevious track #5         : Deftones — My Own Summer (Shove It) | 2026-10-22 10:40:13 -03\nPrevious track #6         : Metallica — Lords of Summer | 2026-10-22 10:40:13 -03\nPrevious track #7         : Radiohead — Just | 2026-10-22 06:23:12 -03\nPrevious track #8         : Radiohead — Exit Music (For A Film) | 2026-10-22 06:17:50 -03\nPrevious track #9         : Radiohead — How to Disappear Completely | 2026-10-22 06:13:22 -03\nPrevious track #10        : Radiohead — Karma Police | 2026-10-22 06:05:03 -03\nPrevious track #11        : Radiohead — Everything In Its Right Place | 2026-10-22 06:00:38 -03\nPrevious track #12        : Radiohead — High and Dry | 2026-10-22 05:56:26 -03\nPrevious track #13        : Radiohead — All I Need | 2026-10-22 05:52:08 -03\nPrevious track #14        : Radiohead — Creep | 2026-10-22 05:47:33 -03\nPrevious track #15        : Nirvana — You Know You're Right | 2026-10-21 21:25:07 -03\nPrevious track #16        : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03\nPrevious track #17        : Audioslave — Cochise | 2026-10-21 21:17:34 -03\nPrevious track #18        : Metallica — One | 2026-10-21 21:13:56 -03\nPrevious track #19        : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03\nPrevious track #20        : John Coltrane — Blue World | 2026-10-21 13:07:48 -03\nPrevious track #21        : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03\nPrevious track #22        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03\nPrevious track #23        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03\nPrevious track #24        : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03\nPrevious track #25        : Godsmack — Changes | 2026-10-19 07:50:10 -03\nPrevious track #26        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03\nPrevious track #27        : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03\nPrevious track #28        : Chevelle — The Red | 2026-10-14 18:45:24 -03\nPrevious track #29        : Cold — Same Drug | 2026-10-14 18:39:34 -03\nPrevious track #30        : Nirvana — Blew | 2026-10-12 02:27:26 -03\nPrevious track #31        : Cold — Same Drug | 2026-10-10 11:56:06 -03\nPrevious track #32        : Cold — It's All Good | 2026-10-10 10:11:03 -03\nPrevious track #33        : Cold — She Said | 2026-10-10 10:06:59 -03\nPrevious track #34        : Chevelle — Get Some | 2026-10-10 09:56:30 -03\nPrevious track #35        : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03\nPrevious track #36        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03\nPrevious track #37        : Roving — Haven Blue | 2026-10-10 08:59:59 -03\nPrevious track #38        : Superheaven — Blur | 2026-10-10 08:56:24 -03\nPrevious track #39        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03\nPrevious track #40        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-10-22 06:23:12 -03\nTrack observed in context : Radiohead — Just\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO2VxlyE\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VxlyE\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #2      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #4      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #5      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #6      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #7      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #9      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Smartphone\nLast known device name    : iPhone\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-09-30 23:56:54Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 5\nUnique tracks             : 4\nUnique artists            : 1\nReplay ratio              : ████░░░░░░░░░░░░░░  20.0%\nArtist diversity          : ████░░░░░░░░░░░░░░  20.0%\nDominant artist           : Oasis\nDominant artist share     : ██████████████████  100.0%\nArtist switch ratio       : ░░░░░░░░░░░░░░░░░░  0.0%\nLongest artist streak     : Oasis × 5\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%\nAfternoon  12–18           : ██████████████████  100.0%\nEvening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-10-23 15:31:52Z\nHistory last play (7d)    : 2026-10-24 15:01:06Z\nObserved time span        : 23:29:14\nMean inter-play gap       : 05:52:18\nMedian inter-play gap     : 00:14:47\nLongest inactivity gap    : 22:54:20\nListening intensity       : 0.21 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 12:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              :             █▂          \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :     █▂ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁▅    ▁   █   ▁      ▁▁▁      \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :                         \nThu                       :                         \nFri                       :             █▃          \nSat                       :             █           \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-10-22 19:43:00Z → 2026-10-29 19:43:00Z\nTracks played (7d)        : 5\nDominant artist           : Oasis\nCadence classification    : LOW\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 2\nAvg inter-play gap        : 05:52:18\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : britpop(5)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : NO CHANGE\nState transition          : NO CHANGE\nTelemetry interval        : 06:24:29\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 523\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-10-24 12:01:06 -03\nEvents (24h)              : 0\nEvents (7d)               : 5\nEvents (30d)              : 135\nPlaylist contexts retained: 140\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-10-29 19:43:00Z",
-  "last_successful_report_utc": "2026-10-29 19:43:00Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Oasis — Slide Away - Remastered\nArtist                    : Oasis\nTitle                     : Slide Away - Remastered\nAlbum                     : Definitely Maybe (Remastered)\nSpotify URI               : spotify:track:62L8HlrCQLvBHKfpu8iqLa\nSpotify URL               : https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-10-29 23:57:08Z\nPlayed at (local)         : 2026-10-29 20:57:08 -03\nLocal hour                : 20:00\nDaypart                   : EVENING\nTime since play           : 00:02:08\nGap from previous play    : 00:06:33\n------------------------------------------------------------\nPrevious song             : Oasis — Digsy's Dinner - Remastered\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 4\nArtist plays (retained)   : 18\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Oasis — Digsy's Dinner - Remastered | 2026-10-29 20:50:35 -03\nPrevious track #2         : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 20:48:03 -03\nPrevious track #3         : Oasis — Supersonic - Remastered | 2026-10-29 20:40:13 -03\nPrevious track #4         : Oasis — Slide Away - Remastered | 2026-10-29 20:02:31 -03\nPrevious track #5         : Oasis — Digsy's Dinner - Remastered | 2026-10-29 20:02:09 -03\nPrevious track #6         : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 19:59:37 -03\nPrevious track #7         : Oasis — Bring It on Down - Remastered | 2026-10-29 19:54:48 -03\nPrevious track #8         : Oasis — Supersonic - Remastered | 2026-10-29 19:50:30 -03\nPrevious track #9         : Oasis — Supersonic - Remastered | 2026-10-29 19:48:17 -03\nPrevious track #10        : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 19:30:02 -03\nPrevious track #11        : Oasis — Bring It on Down - Remastered | 2026-10-29 19:26:25 -03\nPrevious track #12        : Oasis — Supersonic - Remastered | 2026-10-29 19:22:07 -03\nPrevious track #13        : Metallica — Don't Tread on Me - Remastered 2021 | 2026-10-28 15:28:26 -03\nPrevious track #14        : Oasis — Headshrinker - Remastered | 2026-10-24 12:01:06 -03\nPrevious track #15        : Oasis — Married with Children - Remastered | 2026-10-23 13:06:46 -03\nPrevious track #16        : Oasis — Slide Away - Remastered | 2026-10-23 12:44:29 -03\nPrevious track #17        : Oasis — Supersonic - Remastered | 2026-10-23 12:37:12 -03\nPrevious track #18        : Oasis — Slide Away - Remastered | 2026-10-23 12:31:52 -03\nPrevious track #19        : Deftones — My Own Summer (Shove It) | 2026-10-22 10:40:13 -03\nPrevious track #20        : Metallica — Lords of Summer | 2026-10-22 10:40:13 -03\nPrevious track #21        : Radiohead — Just | 2026-10-22 06:23:12 -03\nPrevious track #22        : Radiohead — Exit Music (For A Film) | 2026-10-22 06:17:50 -03\nPrevious track #23        : Radiohead — How to Disappear Completely | 2026-10-22 06:13:22 -03\nPrevious track #24        : Radiohead — Karma Police | 2026-10-22 06:05:03 -03\nPrevious track #25        : Radiohead — Everything In Its Right Place | 2026-10-22 06:00:38 -03\nPrevious track #26        : Radiohead — High and Dry | 2026-10-22 05:56:26 -03\nPrevious track #27        : Radiohead — All I Need | 2026-10-22 05:52:08 -03\nPrevious track #28        : Radiohead — Creep | 2026-10-22 05:47:33 -03\nPrevious track #29        : Nirvana — You Know You're Right | 2026-10-21 21:25:07 -03\nPrevious track #30        : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03\nPrevious track #31        : Audioslave — Cochise | 2026-10-21 21:17:34 -03\nPrevious track #32        : Metallica — One | 2026-10-21 21:13:56 -03\nPrevious track #33        : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03\nPrevious track #34        : John Coltrane — Blue World | 2026-10-21 13:07:48 -03\nPrevious track #35        : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03\nPrevious track #36        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03\nPrevious track #37        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03\nPrevious track #38        : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03\nPrevious track #39        : Godsmack — Changes | 2026-10-19 07:50:10 -03\nPrevious track #40        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-10-22 06:23:12 -03\nTrack observed in context : Radiohead — Just\nSpotify playlist URI      : spotify:playlist:37i9dQZF1DZ06evO2VxlyE\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1DZ06evO2VxlyE\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #2      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #4      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #5      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #6      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #7      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\nPrevious playlist #9      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-10-29 23:59:16Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 19\nUnique tracks             : 8\nUnique artists            : 2\nReplay ratio              : ██████████░░░░░░░░  57.9%\nArtist diversity          : ██░░░░░░░░░░░░░░░░  10.5%\nDominant artist           : Oasis\nDominant artist share     : █████████████████░  94.7%\nArtist switch ratio       : ██░░░░░░░░░░░░░░░░  11.1%\nLongest artist streak     : Oasis × 13\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%\nAfternoon  12–18           : ██████░░░░░░░░░░░░   31.6%\nEvening    18–24           : ████████████░░░░░░   68.4%\nDominant period           : EVENING\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-10-23 15:31:52Z\nHistory last play (7d)    : 2026-10-29 23:57:08Z\nObserved time span        : 152:25:16\nMean inter-play gap       : 08:28:04\nMedian inter-play gap     : 00:05:56\nLongest inactivity gap    : 99:27:20\nListening intensity       : 0.12 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 19:00\nPeak hour (7d)            : 19:00\nHeatmap (24h)             :                    █▇   \nHeatmap (7d)              :             ▅▁ ▁   █▇   \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   ▁█▂▁ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁▅    ▁   █   ▁      ▁▁▁     ▂\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                         \nTue                       :                         \nWed                       :                █        \nThu                       :                    █▇   \nFri                       :             █▃          \nSat                       :             █           \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 13\nDominant artist           : Oasis\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-10-22 23:59:16Z → 2026-10-29 23:59:16Z\nTracks played (7d)        : 19\nDominant artist           : Oasis\nCadence classification    : MEDIUM\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 2\nSessions (7d)             : 5\nAvg inter-play gap        : 08:28:04\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : britpop(13)\nTop genres (7d)           : britpop(18) | hard rock(1) | heavy metal(1) | metal(1) | rock(1) | thrash metal(1)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Oasis — Headshrinker - Remastered → Oasis — Slide Away - Remastered\nPlayback timestamp Δ      : 2026-10-24 15:01:06Z → 2026-10-29 23:57:08Z\nState transition          : IDLE → PLAYING\nTelemetry interval        : 04:16:16\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 537\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-10-29 20:57:08 -03\nEvents (24h)              : 13\nEvents (7d)               : 19\nEvents (30d)              : 149\nPlaylist contexts retained: 140\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 200 OK\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 200 OK\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-10-29 23:59:16Z",
+  "last_successful_report_utc": "2026-10-29 23:59:16Z",
   "recent_playback_history": [
+    {
+      "track": "Oasis — Slide Away - Remastered",
+      "artist": "Oasis",
+      "title": "Slide Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:62L8HlrCQLvBHKfpu8iqLa",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:57:08Z",
+      "played_at_local": "2026-10-29 20:57:08 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Digsy's Dinner - Remastered",
+      "artist": "Oasis",
+      "title": "Digsy's Dinner - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1JHCEDui9bf3hDxJcCwemy",
+      "url": "https://open.spotify.com/track/1JHCEDui9bf3hDxJcCwemy",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:50:35Z",
+      "played_at_local": "2026-10-29 20:50:35 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2wKeVnM8OBoGjGm8Qvqhi5",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:48:03Z",
+      "played_at_local": "2026-10-29 20:48:03 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:40:13Z",
+      "played_at_local": "2026-10-29 20:40:13 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Slide Away - Remastered",
+      "artist": "Oasis",
+      "title": "Slide Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:62L8HlrCQLvBHKfpu8iqLa",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:02:31Z",
+      "played_at_local": "2026-10-29 20:02:31 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Digsy's Dinner - Remastered",
+      "artist": "Oasis",
+      "title": "Digsy's Dinner - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1JHCEDui9bf3hDxJcCwemy",
+      "url": "https://open.spotify.com/track/1JHCEDui9bf3hDxJcCwemy",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 23:02:09Z",
+      "played_at_local": "2026-10-29 20:02:09 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2wKeVnM8OBoGjGm8Qvqhi5",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:59:37Z",
+      "played_at_local": "2026-10-29 19:59:37 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Bring It on Down - Remastered",
+      "artist": "Oasis",
+      "title": "Bring It on Down - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4H9muKIJpzTODxUxkPTgnH",
+      "url": "https://open.spotify.com/track/4H9muKIJpzTODxUxkPTgnH",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:54:48Z",
+      "played_at_local": "2026-10-29 19:54:48 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:50:30Z",
+      "played_at_local": "2026-10-29 19:50:30 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:48:17Z",
+      "played_at_local": "2026-10-29 19:48:17 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2wKeVnM8OBoGjGm8Qvqhi5",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:30:02Z",
+      "played_at_local": "2026-10-29 19:30:02 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Bring It on Down - Remastered",
+      "artist": "Oasis",
+      "title": "Bring It on Down - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4H9muKIJpzTODxUxkPTgnH",
+      "url": "https://open.spotify.com/track/4H9muKIJpzTODxUxkPTgnH",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:26:25Z",
+      "played_at_local": "2026-10-29 19:26:25 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-29 22:22:07Z",
+      "played_at_local": "2026-10-29 19:22:07 -03",
+      "local_hour": 19,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Metallica — Don't Tread on Me - Remastered 2021",
+      "artist": "Metallica",
+      "title": "Don't Tread on Me - Remastered 2021",
+      "album": "Metallica (Remastered 2021)",
+      "uri": "spotify:track:3zbLtkeCoU5LutGs8728c6",
+      "url": "https://open.spotify.com/track/3zbLtkeCoU5LutGs8728c6",
+      "artist_ids": [
+        "2ye2Wgw4gimLv2eAKyk1NB"
+      ],
+      "played_at_utc": "2026-10-28 18:28:26Z",
+      "played_at_local": "2026-10-28 15:28:26 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3dck2tBxGfxj9m3CguDgjb",
+      "context_url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+    },
     {
       "track": "Oasis — Headshrinker - Remastered",
       "artist": "Oasis",
@@ -2459,281 +2711,32 @@
       "context_type": "album",
       "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
       "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Chevelle — Wonder What's Next",
-      "artist": "Chevelle",
-      "title": "Wonder What's Next",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:7hOgnx2HOJ1KBdv0U0n1T3",
-      "url": "https://open.spotify.com/track/7hOgnx2HOJ1KBdv0U0n1T3",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-10-14 21:49:34Z",
-      "played_at_local": "2026-10-14 18:49:34 -03",
-      "local_hour": 18,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
-      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Chevelle — The Red",
-      "artist": "Chevelle",
-      "title": "The Red",
-      "album": "Wonder What's Next (Expanded Edition)",
-      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
-      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-10-14 21:45:24Z",
-      "played_at_local": "2026-10-14 18:45:24 -03",
-      "local_hour": 18,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
-      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-    },
-    {
-      "track": "Cold — Same Drug",
-      "artist": "Cold",
-      "title": "Same Drug",
-      "album": "13 Ways To Bleed Onstage",
-      "uri": "spotify:track:4kFn1jFwrE2K1G77zuDQjd",
-      "url": "https://open.spotify.com/track/4kFn1jFwrE2K1G77zuDQjd",
-      "artist_ids": [
-        "0Gw3a3BkWLwsMLFbOBmo6Q"
-      ],
-      "played_at_utc": "2026-10-14 21:39:34Z",
-      "played_at_local": "2026-10-14 18:39:34 -03",
-      "local_hour": 18,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:3dOVfly8hXQAgNdiKnLiFn",
-      "context_url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
-    },
-    {
-      "track": "Nirvana — Blew",
-      "artist": "Nirvana",
-      "title": "Blew",
-      "album": "Bleach",
-      "uri": "spotify:track:7pETV41GUutaZ6KMHMAYIH",
-      "url": "https://open.spotify.com/track/7pETV41GUutaZ6KMHMAYIH",
-      "artist_ids": [
-        "6olE6TJLqED3rqDCT0FyPh"
-      ],
-      "played_at_utc": "2026-10-12 05:27:26Z",
-      "played_at_local": "2026-10-12 02:27:26 -03",
-      "local_hour": 2,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:1KVGLuPtrMrLlyy4Je6df7",
-      "context_url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
-    },
-    {
-      "track": "Cold — Same Drug",
-      "artist": "Cold",
-      "title": "Same Drug",
-      "album": "13 Ways To Bleed Onstage",
-      "uri": "spotify:track:4kFn1jFwrE2K1G77zuDQjd",
-      "url": "https://open.spotify.com/track/4kFn1jFwrE2K1G77zuDQjd",
-      "artist_ids": [
-        "0Gw3a3BkWLwsMLFbOBmo6Q"
-      ],
-      "played_at_utc": "2026-10-10 14:56:06Z",
-      "played_at_local": "2026-10-10 11:56:06 -03",
-      "local_hour": 11,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3dOVfly8hXQAgNdiKnLiFn",
-      "context_url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
-    },
-    {
-      "track": "Cold — It's All Good",
-      "artist": "Cold",
-      "title": "It's All Good",
-      "album": "13 Ways To Bleed Onstage",
-      "uri": "spotify:track:6nFjJxM9ivJd27juSyD6xT",
-      "url": "https://open.spotify.com/track/6nFjJxM9ivJd27juSyD6xT",
-      "artist_ids": [
-        "0Gw3a3BkWLwsMLFbOBmo6Q"
-      ],
-      "played_at_utc": "2026-10-10 13:11:03Z",
-      "played_at_local": "2026-10-10 10:11:03 -03",
-      "local_hour": 10,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3dOVfly8hXQAgNdiKnLiFn",
-      "context_url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
-    },
-    {
-      "track": "Cold — She Said",
-      "artist": "Cold",
-      "title": "She Said",
-      "album": "13 Ways To Bleed Onstage",
-      "uri": "spotify:track:0jeFh9PnymeemQ0yR2dOcG",
-      "url": "https://open.spotify.com/track/0jeFh9PnymeemQ0yR2dOcG",
-      "artist_ids": [
-        "0Gw3a3BkWLwsMLFbOBmo6Q"
-      ],
-      "played_at_utc": "2026-10-10 13:06:59Z",
-      "played_at_local": "2026-10-10 10:06:59 -03",
-      "local_hour": 10,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3dOVfly8hXQAgNdiKnLiFn",
-      "context_url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
-    },
-    {
-      "track": "Chevelle — Get Some",
-      "artist": "Chevelle",
-      "title": "Get Some",
-      "album": "This Type Of Thinking (Could Do Us In)",
-      "uri": "spotify:track:3yvsHpMQf3C6xZGq7bu9c6",
-      "url": "https://open.spotify.com/track/3yvsHpMQf3C6xZGq7bu9c6",
-      "artist_ids": [
-        "56dO9zeHKuU5Gvfc2kxHNw"
-      ],
-      "played_at_utc": "2026-10-10 12:56:30Z",
-      "played_at_local": "2026-10-10 09:56:30 -03",
-      "local_hour": 9,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:56dO9zeHKuU5Gvfc2kxHNw",
-      "context_url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-    },
-    {
-      "track": "Godsmack — I Stand Alone - Live at Mohegan Sun",
-      "artist": "Godsmack",
-      "title": "I Stand Alone - Live at Mohegan Sun",
-      "album": "I Stand Alone (Live at Mohegan Sun)",
-      "uri": "spotify:track:4HrSkw0TVuOBqRxFnOKlmx",
-      "url": "https://open.spotify.com/track/4HrSkw0TVuOBqRxFnOKlmx",
-      "artist_ids": [
-        "6gZq1Q6bdOxsUPUG1TaFbF"
-      ],
-      "played_at_utc": "2026-10-10 12:56:30Z",
-      "played_at_local": "2026-10-10 09:56:30 -03",
-      "local_hour": 9,
-      "weekday": 5
-    },
-    {
-      "track": "Midrift — Twin Flames",
-      "artist": "Midrift",
-      "title": "Twin Flames",
-      "album": "Midrift",
-      "uri": "spotify:track:2xnIV4DQp2D0qVHCQYRIn9",
-      "url": "https://open.spotify.com/track/2xnIV4DQp2D0qVHCQYRIn9",
-      "artist_ids": [
-        "6ROfszneZDogjnbgqkxA7E"
-      ],
-      "played_at_utc": "2026-10-10 12:01:40Z",
-      "played_at_local": "2026-10-10 09:01:40 -03",
-      "local_hour": 9,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-    },
-    {
-      "track": "Roving — Haven Blue",
-      "artist": "Roving",
-      "title": "Haven Blue",
-      "album": "Spindrift",
-      "uri": "spotify:track:47DYaP0x4scYXbqSzeBc5b",
-      "url": "https://open.spotify.com/track/47DYaP0x4scYXbqSzeBc5b",
-      "artist_ids": [
-        "7gaJjehz7rwF8054V9gKId"
-      ],
-      "played_at_utc": "2026-10-10 11:59:59Z",
-      "played_at_local": "2026-10-10 08:59:59 -03",
-      "local_hour": 8,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-    },
-    {
-      "track": "Superheaven — Blur",
-      "artist": "Superheaven",
-      "title": "Blur",
-      "album": "Ours Is Chrome",
-      "uri": "spotify:track:4HJeWpk0egepZrDF8PJdlT",
-      "url": "https://open.spotify.com/track/4HJeWpk0egepZrDF8PJdlT",
-      "artist_ids": [
-        "1IHjrY7ygKbmLVoUV1VcXc"
-      ],
-      "played_at_utc": "2026-10-10 11:56:24Z",
-      "played_at_local": "2026-10-10 08:56:24 -03",
-      "local_hour": 8,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-    },
-    {
-      "track": "Soul Blind — Stuck In A Loop",
-      "artist": "Soul Blind",
-      "title": "Stuck In A Loop",
-      "album": "Feel It All Around",
-      "uri": "spotify:track:0apa0CvhUGg1CeFwCYUVeQ",
-      "url": "https://open.spotify.com/track/0apa0CvhUGg1CeFwCYUVeQ",
-      "artist_ids": [
-        "4u8phrcaIdvRzcGq5DcQJa"
-      ],
-      "played_at_utc": "2026-10-10 11:53:05Z",
-      "played_at_local": "2026-10-10 08:53:05 -03",
-      "local_hour": 8,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-    },
-    {
-      "track": "SWEET SPINE — Darkness",
-      "artist": "SWEET SPINE",
-      "title": "Darkness",
-      "album": "Darkness",
-      "uri": "spotify:track:4WvX69qstX6F3rOHfpTymz",
-      "url": "https://open.spotify.com/track/4WvX69qstX6F3rOHfpTymz",
-      "artist_ids": [
-        "1ugmCkxd2MSyvkVA9puoff"
-      ],
-      "played_at_utc": "2026-10-10 11:50:16Z",
-      "played_at_local": "2026-10-10 08:50:16 -03",
-      "local_hour": 8,
-      "weekday": 5,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
-      "context_url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
     }
   ],
-  "last_known_device_type": "Smartphone",
-  "last_known_device_name": "iPhone",
+  "last_known_device_type": "Computer",
+  "last_known_device_name": "Felipe’s MacBook Air Silicon",
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-10-29 19:43:00Z",
-    "week_window_utc": "2026-10-22 19:43:00Z → 2026-10-29 19:43:00Z",
-    "tracks_24h": 0,
-    "tracks_7d": 5,
-    "dominant_artist_24h": "N/A",
+    "captured_utc": "2026-10-29 23:59:16Z",
+    "week_window_utc": "2026-10-22 23:59:16Z → 2026-10-29 23:59:16Z",
+    "tracks_24h": 13,
+    "tracks_7d": 19,
+    "dominant_artist_24h": "Oasis",
     "dominant_artist_7d": "Oasis",
-    "listening_pattern_24h": "No activity",
-    "activity_status_24h": "NONE",
-    "cadence_7d": "LOW",
+    "listening_pattern_24h": "Regular cadence",
+    "activity_status_24h": "MEDIUM",
+    "cadence_7d": "MEDIUM",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "N/A",
-    "peak_hour_7d": "12:00",
-    "heatmap_24h": "N/A",
-    "heatmap_7d": "            █▂          ",
-    "sessions_24h": "N/A",
-    "sessions_7d": 2,
-    "avg_inter_play_gap_7d": "05:52:18",
-    "top_genres_24h": "N/A",
-    "top_genres_7d": "britpop(5)"
+    "peak_hour_24h": "19:00",
+    "peak_hour_7d": "19:00",
+    "heatmap_24h": "                   █▇   ",
+    "heatmap_7d": "            ▅▁ ▁   █▇   ",
+    "sessions_24h": 2,
+    "sessions_7d": 5,
+    "avg_inter_play_gap_7d": "08:28:04",
+    "top_genres_24h": "britpop(13)",
+    "top_genres_7d": "britpop(18) | hard rock(1) | heavy metal(1) | metal(1) | rock(1) | thrash metal(1)"
   },
-  "last_known_device_captured_utc": "2026-09-30 23:56:54Z"
+  "last_known_device_captured_utc": "2026-10-29 23:59:16Z"
 }
