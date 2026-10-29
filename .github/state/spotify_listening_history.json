@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-28 22:41:32Z",
+  "updated_utc": "2026-10-29 05:59:16Z",
   "events": [
     {
       "track": "Oasis — Headshrinker - Remastered",
@@ -20,6 +20,24 @@
       "context_type": "album",
       "context_uri": "spotify:album:1VW1MFNstaJuygaoTPkdCk",
       "context_url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+    },
+    {
+      "track": "Oasis — Married with Children - Remastered",
+      "artist": "Oasis",
+      "title": "Married with Children - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4bvi8n8Xa2kX0UG02cvuE9",
+      "url": "https://open.spotify.com/track/4bvi8n8Xa2kX0UG02cvuE9",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-23 16:06:46Z",
+      "played_at_local": "2026-10-23 13:06:46 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
     },
     {
       "track": "Oasis — Slide Away - Remastered",
