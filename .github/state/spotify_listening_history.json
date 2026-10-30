@@ -1,8 +1,332 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-30 13:10:39Z",
+  "updated_utc": "2026-10-30 19:28:45Z",
   "events": [
+    {
+      "track": "Oasis — Columbia - Remastered White Label Demo",
+      "artist": "Oasis",
+      "title": "Columbia - Remastered White Label Demo",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1fBhZXPxQAqlX31Egl33J3",
+      "url": "https://open.spotify.com/track/1fBhZXPxQAqlX31Egl33J3",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 17:07:37Z",
+      "played_at_local": "2026-10-30 14:07:37 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Married with Children - Remastered",
+      "artist": "Oasis",
+      "title": "Married with Children - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4bvi8n8Xa2kX0UG02cvuE9",
+      "url": "https://open.spotify.com/track/4bvi8n8Xa2kX0UG02cvuE9",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 17:02:12Z",
+      "played_at_local": "2026-10-30 14:02:12 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Slide Away - Remastered",
+      "artist": "Oasis",
+      "title": "Slide Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:62L8HlrCQLvBHKfpu8iqLa",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 16:58:57Z",
+      "played_at_local": "2026-10-30 13:58:57 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Digsy's Dinner - Remastered",
+      "artist": "Oasis",
+      "title": "Digsy's Dinner - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1JHCEDui9bf3hDxJcCwemy",
+      "url": "https://open.spotify.com/track/1JHCEDui9bf3hDxJcCwemy",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 16:52:24Z",
+      "played_at_local": "2026-10-30 13:52:24 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2wKeVnM8OBoGjGm8Qvqhi5",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 16:49:52Z",
+      "played_at_local": "2026-10-30 13:49:52 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Bring It on Down - Remastered",
+      "artist": "Oasis",
+      "title": "Bring It on Down - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4H9muKIJpzTODxUxkPTgnH",
+      "url": "https://open.spotify.com/track/4H9muKIJpzTODxUxkPTgnH",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 16:45:03Z",
+      "played_at_local": "2026-10-30 13:45:03 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 16:40:45Z",
+      "played_at_local": "2026-10-30 13:40:45 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2wKeVnM8OBoGjGm8Qvqhi5",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 16:33:35Z",
+      "played_at_local": "2026-10-30 13:33:35 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Bring It on Down - Remastered",
+      "artist": "Oasis",
+      "title": "Bring It on Down - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4H9muKIJpzTODxUxkPTgnH",
+      "url": "https://open.spotify.com/track/4H9muKIJpzTODxUxkPTgnH",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 16:28:46Z",
+      "played_at_local": "2026-10-30 13:28:46 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 16:24:28Z",
+      "played_at_local": "2026-10-30 13:24:28 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered Live",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered Live",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1ztEDPhRaoxQyZfYVrapM3",
+      "url": "https://open.spotify.com/track/1ztEDPhRaoxQyZfYVrapM3",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 16:19:28Z",
+      "played_at_local": "2026-10-30 13:19:28 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Downface — Alone - Acoustic",
+      "artist": "Downface",
+      "title": "Alone - Acoustic",
+      "album": "Confidence",
+      "uri": "spotify:track:5R88SksnEC5GVUmzKTiCbh",
+      "url": "https://open.spotify.com/track/5R88SksnEC5GVUmzKTiCbh",
+      "artist_ids": [
+        "5mhzOmngdC4RpOGjerls6D"
+      ],
+      "played_at_utc": "2026-10-30 13:34:37Z",
+      "played_at_local": "2026-10-30 10:34:37 -03",
+      "local_hour": 10,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Seven Mary Three — Honey of Generation",
+      "artist": "Seven Mary Three",
+      "title": "Honey of Generation",
+      "album": "Rock Crown",
+      "uri": "spotify:track:2rXU59UWM1QJ5N6qqQLJCC",
+      "url": "https://open.spotify.com/track/2rXU59UWM1QJ5N6qqQLJCC",
+      "artist_ids": [
+        "2zsLaQhHFdQPdFXqG1nRmM"
+      ],
+      "played_at_utc": "2026-10-30 13:30:48Z",
+      "played_at_local": "2026-10-30 10:30:48 -03",
+      "local_hour": 10,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Alice In Chains — Would? - Live at the Majestic Theatre, Brooklyn, NY - April 1996",
+      "artist": "Alice In Chains",
+      "title": "Would? - Live at the Majestic Theatre, Brooklyn, NY - April 1996",
+      "album": "Unplugged",
+      "uri": "spotify:track:7etojJg0JsetC3fSVpU3tX",
+      "url": "https://open.spotify.com/track/7etojJg0JsetC3fSVpU3tX",
+      "artist_ids": [
+        "64tNsm6TnZe2zpcMVMOoHL"
+      ],
+      "played_at_utc": "2026-10-30 13:26:56Z",
+      "played_at_local": "2026-10-30 10:26:56 -03",
+      "local_hour": 10,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Helmet — Biscuits For Smut",
+      "artist": "Helmet",
+      "title": "Biscuits For Smut",
+      "album": "Betty",
+      "uri": "spotify:track:18hQBshq6PncOwt4LRCA05",
+      "url": "https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-30 13:23:17Z",
+      "played_at_local": "2026-10-30 10:23:17 -03",
+      "local_hour": 10,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Bush — Insect Kin - Remastered",
+      "artist": "Bush",
+      "title": "Insect Kin - Remastered",
+      "album": "Razorblade Suitcase (Remastered)",
+      "uri": "spotify:track:5EI2I9hQo5KAK4e8VdSam8",
+      "url": "https://open.spotify.com/track/5EI2I9hQo5KAK4e8VdSam8",
+      "artist_ids": [
+        "78SHxLdtysAXgywQ4vE0Oa"
+      ],
+      "played_at_utc": "2026-10-30 13:19:28Z",
+      "played_at_local": "2026-10-30 10:19:28 -03",
+      "local_hour": 10,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Incubus — 11 am",
+      "artist": "Incubus",
+      "title": "11 am",
+      "album": "Morning View",
+      "uri": "spotify:track:23Cr3klTV6cX5zuv8AySyI",
+      "url": "https://open.spotify.com/track/23Cr3klTV6cX5zuv8AySyI",
+      "artist_ids": [
+        "3YcBF2ttyueytpXtEzn1Za"
+      ],
+      "played_at_utc": "2026-10-30 13:15:05Z",
+      "played_at_local": "2026-10-30 10:15:05 -03",
+      "local_hour": 10,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Second Coming — The Song",
+      "artist": "Second Coming",
+      "title": "The Song",
+      "album": "Second Coming",
+      "uri": "spotify:track:3AnNzdAVZswAwmdJxWXRkh",
+      "url": "https://open.spotify.com/track/3AnNzdAVZswAwmdJxWXRkh",
+      "artist_ids": [
+        "5psDPxNx45I4JKzZ1ARbu2"
+      ],
+      "played_at_utc": "2026-10-30 13:10:56Z",
+      "played_at_local": "2026-10-30 10:10:56 -03",
+      "local_hour": 10,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
     {
       "track": "Days Of The New — Where I Stand",
       "artist": "Days Of The New",
@@ -11487,6 +11811,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-10-30 19:28:45Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-10-30 13:10:39Z",
       "is_playing": true,
