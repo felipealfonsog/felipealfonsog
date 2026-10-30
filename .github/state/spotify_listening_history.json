@@ -1,8 +1,908 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-30 06:00:15Z",
+  "updated_utc": "2026-10-30 13:10:39Z",
   "events": [
+    {
+      "track": "Days Of The New — Where I Stand",
+      "artist": "Days Of The New",
+      "title": "Where I Stand",
+      "album": "Days Of The New",
+      "uri": "spotify:track:5rrb7jvZ3AIknpVLOfRxpx",
+      "url": "https://open.spotify.com/track/5rrb7jvZ3AIknpVLOfRxpx",
+      "artist_ids": [
+        "07jc1IMGtecDZzOL9cP50t"
+      ],
+      "played_at_utc": "2026-10-30 13:05:26Z",
+      "played_at_local": "2026-10-30 10:05:26 -03",
+      "local_hour": 10,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Tad — Paregoric",
+      "artist": "Tad",
+      "title": "Paregoric",
+      "album": "Inhaler",
+      "uri": "spotify:track:40zzA4IftYNFyRencc7FGm",
+      "url": "https://open.spotify.com/track/40zzA4IftYNFyRencc7FGm",
+      "artist_ids": [
+        "2mncWLPUUFpNvBLkHzTsDO"
+      ],
+      "played_at_utc": "2026-10-30 12:59:51Z",
+      "played_at_local": "2026-10-30 09:59:51 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Rollins Band — All I Want",
+      "artist": "Rollins Band",
+      "title": "All I Want",
+      "album": "Come In And Burn",
+      "uri": "spotify:track:1ZMjSokdFHWW8UbZzwSegw",
+      "url": "https://open.spotify.com/track/1ZMjSokdFHWW8UbZzwSegw",
+      "artist_ids": [
+        "5tdgsNGbOvPQZjcco3yOMt"
+      ],
+      "played_at_utc": "2026-10-30 12:55:42Z",
+      "played_at_local": "2026-10-30 09:55:42 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "DOWN — Learn from This Mistake",
+      "artist": "DOWN",
+      "title": "Learn from This Mistake",
+      "album": "Down II",
+      "uri": "spotify:track:1brOyNEAHADwy1PGk3X7Vh",
+      "url": "https://open.spotify.com/track/1brOyNEAHADwy1PGk3X7Vh",
+      "artist_ids": [
+        "1m0B9ak05G0jqDY4ACLhQu"
+      ],
+      "played_at_utc": "2026-10-30 12:51:04Z",
+      "played_at_local": "2026-10-30 09:51:04 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Helmet — Wilma's Rainbow",
+      "artist": "Helmet",
+      "title": "Wilma's Rainbow",
+      "album": "Betty",
+      "uri": "spotify:track:3QKloANAAhqsgRXAuBioYv",
+      "url": "https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-30 12:43:53Z",
+      "played_at_local": "2026-10-30 09:43:53 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Jerry Cantrell — Anger Rising",
+      "artist": "Jerry Cantrell",
+      "title": "Anger Rising",
+      "album": "Degradation Trip",
+      "uri": "spotify:track:0Q66odIBzoE4HR5xyEvqmr",
+      "url": "https://open.spotify.com/track/0Q66odIBzoE4HR5xyEvqmr",
+      "artist_ids": [
+        "5HUFo8AH9ZILmlyKFfEMNP"
+      ],
+      "played_at_utc": "2026-10-30 12:40:03Z",
+      "played_at_local": "2026-10-30 09:40:03 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Temple Of The Dog — Wooden Jesus - 25th Anniversary Mix",
+      "artist": "Temple Of The Dog",
+      "title": "Wooden Jesus - 25th Anniversary Mix",
+      "album": "Temple Of The Dog (Deluxe Edition)",
+      "uri": "spotify:track:494jwBpK3edGHnITczyXi8",
+      "url": "https://open.spotify.com/track/494jwBpK3edGHnITczyXi8",
+      "artist_ids": [
+        "0iHb0mCbqZTYeb4y9Pirrd"
+      ],
+      "played_at_utc": "2026-10-30 12:33:53Z",
+      "played_at_local": "2026-10-30 09:33:53 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mother Love Bone — Gentle Groove",
+      "artist": "Mother Love Bone",
+      "title": "Gentle Groove",
+      "album": "Mother Love Bone",
+      "uri": "spotify:track:7vsNHHtXBRvioT7v6a89uX",
+      "url": "https://open.spotify.com/track/7vsNHHtXBRvioT7v6a89uX",
+      "artist_ids": [
+        "3XR64HmFo4OvexUUNW7TP0"
+      ],
+      "played_at_utc": "2026-10-30 12:29:46Z",
+      "played_at_local": "2026-10-30 09:29:46 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Bush — Body - Remastered",
+      "artist": "Bush",
+      "title": "Body - Remastered",
+      "album": "Sixteen Stone (Remastered)",
+      "uri": "spotify:track:6z2fszQthqyBmxPhOOqBsi",
+      "url": "https://open.spotify.com/track/6z2fszQthqyBmxPhOOqBsi",
+      "artist_ids": [
+        "78SHxLdtysAXgywQ4vE0Oa"
+      ],
+      "played_at_utc": "2026-10-30 12:25:46Z",
+      "played_at_local": "2026-10-30 09:25:46 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Alice In Chains — Got Me Wrong - Live at the Majestic Theatre, Brooklyn, NY - April 1996",
+      "artist": "Alice In Chains",
+      "title": "Got Me Wrong - Live at the Majestic Theatre, Brooklyn, NY - April 1996",
+      "album": "Unplugged",
+      "uri": "spotify:track:4uc4dKehCiytR5NLTSGJXu",
+      "url": "https://open.spotify.com/track/4uc4dKehCiytR5NLTSGJXu",
+      "artist_ids": [
+        "64tNsm6TnZe2zpcMVMOoHL"
+      ],
+      "played_at_utc": "2026-10-30 12:20:07Z",
+      "played_at_local": "2026-10-30 09:20:07 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Kyuss — Whitewater / Lick Doo - Hidden Track",
+      "artist": "Kyuss",
+      "title": "Whitewater / Lick Doo - Hidden Track",
+      "album": "Welcome to Sky Valley",
+      "uri": "spotify:track:3kGVN3EG3B0gtIuZjPnG0H",
+      "url": "https://open.spotify.com/track/3kGVN3EG3B0gtIuZjPnG0H",
+      "artist_ids": [
+        "3HCpwNmFp2rvjkdjTs4uxs"
+      ],
+      "played_at_utc": "2026-10-30 12:15:11Z",
+      "played_at_local": "2026-10-30 09:15:11 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Days Of The New — Weapon & The Wound",
+      "artist": "Days Of The New",
+      "title": "Weapon & The Wound",
+      "album": "Days Of The New II",
+      "uri": "spotify:track:3aK2kWz8YJZKzfNr4VJnE5",
+      "url": "https://open.spotify.com/track/3aK2kWz8YJZKzfNr4VJnE5",
+      "artist_ids": [
+        "07jc1IMGtecDZzOL9cP50t"
+      ],
+      "played_at_utc": "2026-10-30 12:06:18Z",
+      "played_at_local": "2026-10-30 09:06:18 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Gruntruck — Crazy Love",
+      "artist": "Gruntruck",
+      "title": "Crazy Love",
+      "album": "Push",
+      "uri": "spotify:track:50f5BoytJN3FrlUtDgltO5",
+      "url": "https://open.spotify.com/track/50f5BoytJN3FrlUtDgltO5",
+      "artist_ids": [
+        "40akJv6gxzx8uyRg3vBRuX"
+      ],
+      "played_at_utc": "2026-10-30 12:00:36Z",
+      "played_at_local": "2026-10-30 09:00:36 -03",
+      "local_hour": 9,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Brad — Raise Love",
+      "artist": "Brad",
+      "title": "Raise Love",
+      "album": "Shame",
+      "uri": "spotify:track:2muh5cZU42QlgwLhoN9k0Y",
+      "url": "https://open.spotify.com/track/2muh5cZU42QlgwLhoN9k0Y",
+      "artist_ids": [
+        "0aYY5NNI8EKnvLckbACC8x"
+      ],
+      "played_at_utc": "2026-10-30 11:55:46Z",
+      "played_at_local": "2026-10-30 08:55:46 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Chris Cornell — Seasons",
+      "artist": "Chris Cornell",
+      "title": "Seasons",
+      "album": "Chris Cornell (Deluxe Edition)",
+      "uri": "spotify:track:1xRUR651GIJoKbu0dqm0uW",
+      "url": "https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW",
+      "artist_ids": [
+        "0XHiH53dHrvbwfjYM7en7I"
+      ],
+      "played_at_utc": "2026-10-30 11:51:35Z",
+      "played_at_local": "2026-10-30 08:51:35 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Helmet — Like I Care",
+      "artist": "Helmet",
+      "title": "Like I Care",
+      "album": "Aftertaste",
+      "uri": "spotify:track:1UOkTycAtWGz5rgQxo1E9M",
+      "url": "https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-30 11:45:54Z",
+      "played_at_local": "2026-10-30 08:45:54 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Jerry Cantrell — Angel Eyes",
+      "artist": "Jerry Cantrell",
+      "title": "Angel Eyes",
+      "album": "Degradation Trip",
+      "uri": "spotify:track:6zaeABSzNXAhBx5ht3Benw",
+      "url": "https://open.spotify.com/track/6zaeABSzNXAhBx5ht3Benw",
+      "artist_ids": [
+        "5HUFo8AH9ZILmlyKFfEMNP"
+      ],
+      "played_at_utc": "2026-10-30 11:42:38Z",
+      "played_at_local": "2026-10-30 08:42:38 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Temple Of The Dog — Call Me A Dog - 25th Anniversary Mix",
+      "artist": "Temple Of The Dog",
+      "title": "Call Me A Dog - 25th Anniversary Mix",
+      "album": "Temple Of The Dog (Deluxe Edition)",
+      "uri": "spotify:track:4aNQuqbaVMd06PgHXKwngD",
+      "url": "https://open.spotify.com/track/4aNQuqbaVMd06PgHXKwngD",
+      "artist_ids": [
+        "0iHb0mCbqZTYeb4y9Pirrd"
+      ],
+      "played_at_utc": "2026-10-30 11:37:58Z",
+      "played_at_local": "2026-10-30 08:37:58 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mother Love Bone — Bone China",
+      "artist": "Mother Love Bone",
+      "title": "Bone China",
+      "album": "Mother Love Bone",
+      "uri": "spotify:track:6ajN5KSFABWad7y62UKyaR",
+      "url": "https://open.spotify.com/track/6ajN5KSFABWad7y62UKyaR",
+      "artist_ids": [
+        "3XR64HmFo4OvexUUNW7TP0"
+      ],
+      "played_at_utc": "2026-10-30 11:32:57Z",
+      "played_at_local": "2026-10-30 08:32:57 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Bush — Swim - Remastered",
+      "artist": "Bush",
+      "title": "Swim - Remastered",
+      "album": "Sixteen Stone (Remastered)",
+      "uri": "spotify:track:5tIT2izJigIsAjlGcNvFvN",
+      "url": "https://open.spotify.com/track/5tIT2izJigIsAjlGcNvFvN",
+      "artist_ids": [
+        "78SHxLdtysAXgywQ4vE0Oa"
+      ],
+      "played_at_utc": "2026-10-30 11:29:15Z",
+      "played_at_local": "2026-10-30 08:29:15 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Soundgarden — Boot Camp",
+      "artist": "Soundgarden",
+      "title": "Boot Camp",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:7xO4eCCMOLgrrAOXuja9MZ",
+      "url": "https://open.spotify.com/track/7xO4eCCMOLgrrAOXuja9MZ",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-10-30 11:24:23Z",
+      "played_at_local": "2026-10-30 08:24:23 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Kyuss — Space Cadet",
+      "artist": "Kyuss",
+      "title": "Space Cadet",
+      "album": "Welcome to Sky Valley",
+      "uri": "spotify:track:3iYermCTDOt4YfeCqf3sIn",
+      "url": "https://open.spotify.com/track/3iYermCTDOt4YfeCqf3sIn",
+      "artist_ids": [
+        "3HCpwNmFp2rvjkdjTs4uxs"
+      ],
+      "played_at_utc": "2026-10-30 11:21:28Z",
+      "played_at_local": "2026-10-30 08:21:28 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Days Of The New — The Down Town",
+      "artist": "Days Of The New",
+      "title": "The Down Town",
+      "album": "Days Of The New",
+      "uri": "spotify:track:64u34NNXDlc3y61FIveY2w",
+      "url": "https://open.spotify.com/track/64u34NNXDlc3y61FIveY2w",
+      "artist_ids": [
+        "07jc1IMGtecDZzOL9cP50t"
+      ],
+      "played_at_utc": "2026-10-30 11:14:29Z",
+      "played_at_local": "2026-10-30 08:14:29 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Stone Temple Pilots — Atlanta",
+      "artist": "Stone Temple Pilots",
+      "title": "Atlanta",
+      "album": "No. 4",
+      "uri": "spotify:track:73WEZ2qitNdBiUEhtckC6G",
+      "url": "https://open.spotify.com/track/73WEZ2qitNdBiUEhtckC6G",
+      "artist_ids": [
+        "2UazAtjfzqBF0Nho2awK4z"
+      ],
+      "played_at_utc": "2026-10-30 11:10:18Z",
+      "played_at_local": "2026-10-30 08:10:18 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Grey Daze — In Time",
+      "artist": "Grey Daze",
+      "title": "In Time",
+      "album": "No Sun Today",
+      "uri": "spotify:track:09Gxf0vmUCUPB1LixAc2b9",
+      "url": "https://open.spotify.com/track/09Gxf0vmUCUPB1LixAc2b9",
+      "artist_ids": [
+        "1OPyWvWWkx18pqGjugyxrl"
+      ],
+      "played_at_utc": "2026-10-30 11:05:03Z",
+      "played_at_local": "2026-10-30 08:05:03 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Alice In Chains — Brother",
+      "artist": "Alice In Chains",
+      "title": "Brother",
+      "album": "Discover Further",
+      "uri": "spotify:track:6mnp3MhJ3jC2dCFF0SZgp4",
+      "url": "https://open.spotify.com/track/6mnp3MhJ3jC2dCFF0SZgp4",
+      "artist_ids": [
+        "64tNsm6TnZe2zpcMVMOoHL"
+      ],
+      "played_at_utc": "2026-10-30 11:00:43Z",
+      "played_at_local": "2026-10-30 08:00:43 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Helmet — Street Crab",
+      "artist": "Helmet",
+      "title": "Street Crab",
+      "album": "Betty",
+      "uri": "spotify:track:6omZs4zDxKddAWlIfDwyLa",
+      "url": "https://open.spotify.com/track/6omZs4zDxKddAWlIfDwyLa",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-10-30 10:56:19Z",
+      "played_at_local": "2026-10-30 07:56:19 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Jerry Cantrell — Cut You In",
+      "artist": "Jerry Cantrell",
+      "title": "Cut You In",
+      "album": "Boggy Depot",
+      "uri": "spotify:track:0ecuZefr04QYl0cGpT53Nz",
+      "url": "https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz",
+      "artist_ids": [
+        "5HUFo8AH9ZILmlyKFfEMNP"
+      ],
+      "played_at_utc": "2026-10-30 10:52:51Z",
+      "played_at_local": "2026-10-30 07:52:51 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Temple Of The Dog — Times Of Trouble - 25th Anniversary Mix",
+      "artist": "Temple Of The Dog",
+      "title": "Times Of Trouble - 25th Anniversary Mix",
+      "album": "Temple Of The Dog (Deluxe Edition)",
+      "uri": "spotify:track:0Qr4W4P7i87vYUtmeylcVj",
+      "url": "https://open.spotify.com/track/0Qr4W4P7i87vYUtmeylcVj",
+      "artist_ids": [
+        "0iHb0mCbqZTYeb4y9Pirrd"
+      ],
+      "played_at_utc": "2026-10-30 10:49:32Z",
+      "played_at_local": "2026-10-30 07:49:32 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mother Love Bone — Crown Of Thorns",
+      "artist": "Mother Love Bone",
+      "title": "Crown Of Thorns",
+      "album": "Mother Love Bone",
+      "uri": "spotify:track:2dLBo6rg8B2OuhuCETN9Dd",
+      "url": "https://open.spotify.com/track/2dLBo6rg8B2OuhuCETN9Dd",
+      "artist_ids": [
+        "3XR64HmFo4OvexUUNW7TP0"
+      ],
+      "played_at_utc": "2026-10-30 10:43:53Z",
+      "played_at_local": "2026-10-30 07:43:53 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Bush — Solutions",
+      "artist": "Bush",
+      "title": "Solutions",
+      "album": "Golden State",
+      "uri": "spotify:track:180NykE0fmwwihiyLOaImQ",
+      "url": "https://open.spotify.com/track/180NykE0fmwwihiyLOaImQ",
+      "artist_ids": [
+        "78SHxLdtysAXgywQ4vE0Oa"
+      ],
+      "played_at_utc": "2026-10-30 10:37:36Z",
+      "played_at_local": "2026-10-30 07:37:36 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — November Hotel - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "November Hotel - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:541kMmeBD7YoLhUnZJGyLo",
+      "url": "https://open.spotify.com/track/541kMmeBD7YoLhUnZJGyLo",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 10:33:11Z",
+      "played_at_local": "2026-10-30 07:33:11 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — All Alone - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "All Alone - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:1lcqmos4pXKQMR0LNjZaFi",
+      "url": "https://open.spotify.com/track/1lcqmos4pXKQMR0LNjZaFi",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 10:19:21Z",
+      "played_at_local": "2026-10-30 07:19:21 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — X-Ray Mind - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "X-Ray Mind - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:3xUpQzpTjYICDR5b7q9meZ",
+      "url": "https://open.spotify.com/track/3xUpQzpTjYICDR5b7q9meZ",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 10:15:04Z",
+      "played_at_local": "2026-10-30 07:15:04 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — I Don't Know Anything - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "I Don't Know Anything - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:3OqsoFhTajak4i787nIuV6",
+      "url": "https://open.spotify.com/track/3OqsoFhTajak4i787nIuV6",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 10:09:32Z",
+      "played_at_local": "2026-10-30 07:09:32 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — I'm Above - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "I'm Above - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:2oTLApCgZv4kWgcYEcz4W7",
+      "url": "https://open.spotify.com/track/2oTLApCgZv4kWgcYEcz4W7",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 10:03:08Z",
+      "played_at_local": "2026-10-30 07:03:08 -03",
+      "local_hour": 7,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — Long Gone Day - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "Long Gone Day - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:2Pqvxabb71qqRb8rWf1FeZ",
+      "url": "https://open.spotify.com/track/2Pqvxabb71qqRb8rWf1FeZ",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:57:32Z",
+      "played_at_local": "2026-10-30 06:57:32 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — I Don't Wanna Be A Soldier - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "I Don't Wanna Be A Soldier - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:5NbP4k9m8Ovlnz1C1X0itP",
+      "url": "https://open.spotify.com/track/5NbP4k9m8Ovlnz1C1X0itP",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:52:11Z",
+      "played_at_local": "2026-10-30 06:52:11 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — River Of Deceit - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "River Of Deceit - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:0EuSnlrpdWZzzueqy1Fo0d",
+      "url": "https://open.spotify.com/track/0EuSnlrpdWZzzueqy1Fo0d",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:42:53Z",
+      "played_at_local": "2026-10-30 06:42:53 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — Artificial Red - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "Artificial Red - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:2OKHAXypZjnFarJ44qyqDw",
+      "url": "https://open.spotify.com/track/2OKHAXypZjnFarJ44qyqDw",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:37:43Z",
+      "played_at_local": "2026-10-30 06:37:43 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — Lifeless Dead - Live at The Moore",
+      "artist": "Mad Season",
+      "title": "Lifeless Dead - Live at The Moore",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:3neK6FEb5kCIlcrOnBxDEc",
+      "url": "https://open.spotify.com/track/3neK6FEb5kCIlcrOnBxDEc",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:31:22Z",
+      "played_at_local": "2026-10-30 06:31:22 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — Black Book Of Fear",
+      "artist": "Mad Season",
+      "title": "Black Book Of Fear",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:5g3T1QxcTSNEHUjy4rDY5y",
+      "url": "https://open.spotify.com/track/5g3T1QxcTSNEHUjy4rDY5y",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:19:38Z",
+      "played_at_local": "2026-10-30 06:19:38 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — Locomotive",
+      "artist": "Mad Season",
+      "title": "Locomotive",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:3XHCh9F789Jl3gzv3C7VI3",
+      "url": "https://open.spotify.com/track/3XHCh9F789Jl3gzv3C7VI3",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:13:33Z",
+      "played_at_local": "2026-10-30 06:13:33 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — Interlude",
+      "artist": "Mad Season",
+      "title": "Interlude",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:7kUejX90KfyhUdvbBepecB",
+      "url": "https://open.spotify.com/track/7kUejX90KfyhUdvbBepecB",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:09:01Z",
+      "played_at_local": "2026-10-30 06:09:01 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — All Alone",
+      "artist": "Mad Season",
+      "title": "All Alone",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:0vyjLJsSqmkHsB833mqtYJ",
+      "url": "https://open.spotify.com/track/0vyjLJsSqmkHsB833mqtYJ",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:08:19Z",
+      "played_at_local": "2026-10-30 06:08:19 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — November Hotel",
+      "artist": "Mad Season",
+      "title": "November Hotel",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:4bGYEp7rt8dggf5J0CT0zh",
+      "url": "https://open.spotify.com/track/4bGYEp7rt8dggf5J0CT0zh",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 09:04:08Z",
+      "played_at_local": "2026-10-30 06:04:08 -03",
+      "local_hour": 6,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — Long Gone Day",
+      "artist": "Mad Season",
+      "title": "Long Gone Day",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:653gE0Wo2LG2Hc60P2gP5s",
+      "url": "https://open.spotify.com/track/653gE0Wo2LG2Hc60P2gP5s",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 08:57:03Z",
+      "played_at_local": "2026-10-30 05:57:03 -03",
+      "local_hour": 5,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — I Don't Know Anything",
+      "artist": "Mad Season",
+      "title": "I Don't Know Anything",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:5DRUgJmwLvCHQjiFzb4LSQ",
+      "url": "https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 08:52:14Z",
+      "played_at_local": "2026-10-30 05:52:14 -03",
+      "local_hour": 5,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — Lifeless Dead",
+      "artist": "Mad Season",
+      "title": "Lifeless Dead",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:1VRgs7pDXFcWARLa17HE9n",
+      "url": "https://open.spotify.com/track/1VRgs7pDXFcWARLa17HE9n",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 08:47:14Z",
+      "played_at_local": "2026-10-30 05:47:14 -03",
+      "local_hour": 5,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Mad Season — Artificial Red",
+      "artist": "Mad Season",
+      "title": "Artificial Red",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:7e5oI26aeiQQlOnqFaRGCx",
+      "url": "https://open.spotify.com/track/7e5oI26aeiQQlOnqFaRGCx",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-10-30 08:42:47Z",
+      "played_at_local": "2026-10-30 05:42:47 -03",
+      "local_hour": 5,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
     {
       "track": "Oasis — I Am the Walrus - Remastered Live Glasgow Cathouse June '94",
       "artist": "Oasis",
@@ -10587,6 +11487,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-10-30 13:10:39Z",
+      "is_playing": true,
+      "track": "Second Coming — The Song",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Computer",
+      "device_name": "Felipe’s MacBook Air Silicon",
+      "volume_percent": 100,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-10-30 06:00:15Z",
       "is_playing": false,
