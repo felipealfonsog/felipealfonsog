@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Oasis — Columbia - Remastered White Label Demo
+Track                     : Oasis — Slide Away - Remastered
 Artist                    : Oasis
-Title                     : Columbia - Remastered White Label Demo
+Title                     : Slide Away - Remastered
 Album                     : Definitely Maybe (Remastered)
-Spotify URI               : spotify:track:1fBhZXPxQAqlX31Egl33J3
-Spotify URL               : https://open.spotify.com/track/1fBhZXPxQAqlX31Egl33J3
+Spotify URI               : spotify:track:62L8HlrCQLvBHKfpu8iqLa
+Spotify URL               : https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-30 17:07:37Z
-Played at (local)         : 2026-10-30 14:07:37 -03
-Local hour                : 14:00
-Daypart                   : AFTERNOON
-Time since play           : 02:21:08
-Gap from previous play    : 00:05:25
+Played at (UTC)           : 2026-10-30 23:34:58Z
+Played at (local)         : 2026-10-30 20:34:58 -03
+Local hour                : 20:00
+Daypart                   : EVENING
+Time since play           : 00:18:37
+Gap from previous play    : 00:06:22
 ------------------------------------------------------------
-Previous song             : Oasis — Married with Children - Remastered
+Previous song             : Oasis — The Swamp Song - Version 2 - Remastered
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 3
-Artist plays (retained)   : 51
+Track plays (retained)    : 7
+Artist plays (retained)   : 53
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Oasis — Married with Children - Remastered | 2026-10-30 14:02:12 -03
-Previous track #2         : Oasis — Slide Away - Remastered | 2026-10-30 13:58:57 -03
-Previous track #3         : Oasis — Digsy's Dinner - Remastered | 2026-10-30 13:52:24 -03
-Previous track #4         : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-30 13:49:52 -03
-Previous track #5         : Oasis — Bring It on Down - Remastered | 2026-10-30 13:45:03 -03
-Previous track #6         : Oasis — Supersonic - Remastered | 2026-10-30 13:40:45 -03
-Previous track #7         : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-30 13:33:35 -03
-Previous track #8         : Oasis — Bring It on Down - Remastered | 2026-10-30 13:28:46 -03
-Previous track #9         : Oasis — Supersonic - Remastered | 2026-10-30 13:24:28 -03
-Previous track #10        : Oasis — Supersonic - Remastered Live | 2026-10-30 13:19:28 -03
-Previous track #11        : Downface — Alone - Acoustic | 2026-10-30 10:34:37 -03
-Previous track #12        : Seven Mary Three — Honey of Generation | 2026-10-30 10:30:48 -03
-Previous track #13        : Alice In Chains — Would? - Live at the Majestic Theatre, Brooklyn, NY - April 1996 | 2026-10-30 10:26:56 -03
-Previous track #14        : Helmet — Biscuits For Smut | 2026-10-30 10:23:17 -03
-Previous track #15        : Bush — Insect Kin - Remastered | 2026-10-30 10:19:28 -03
-Previous track #16        : Incubus — 11 am | 2026-10-30 10:15:05 -03
-Previous track #17        : Second Coming — The Song | 2026-10-30 10:10:56 -03
-Previous track #18        : Days Of The New — Where I Stand | 2026-10-30 10:05:26 -03
-Previous track #19        : Tad — Paregoric | 2026-10-30 09:59:51 -03
-Previous track #20        : Rollins Band — All I Want | 2026-10-30 09:55:42 -03
-Previous track #21        : DOWN — Learn from This Mistake | 2026-10-30 09:51:04 -03
-Previous track #22        : Helmet — Wilma's Rainbow | 2026-10-30 09:43:53 -03
-Previous track #23        : Jerry Cantrell — Anger Rising | 2026-10-30 09:40:03 -03
-Previous track #24        : Temple Of The Dog — Wooden Jesus - 25th Anniversary Mix | 2026-10-30 09:33:53 -03
-Previous track #25        : Mother Love Bone — Gentle Groove | 2026-10-30 09:29:46 -03
-Previous track #26        : Bush — Body - Remastered | 2026-10-30 09:25:46 -03
-Previous track #27        : Alice In Chains — Got Me Wrong - Live at the Majestic Theatre, Brooklyn, NY - April 1996 | 2026-10-30 09:20:07 -03
-Previous track #28        : Kyuss — Whitewater / Lick Doo - Hidden Track | 2026-10-30 09:15:11 -03
-Previous track #29        : Days Of The New — Weapon & The Wound | 2026-10-30 09:06:18 -03
-Previous track #30        : Gruntruck — Crazy Love | 2026-10-30 09:00:36 -03
-Previous track #31        : Brad — Raise Love | 2026-10-30 08:55:46 -03
-Previous track #32        : Chris Cornell — Seasons | 2026-10-30 08:51:35 -03
-Previous track #33        : Helmet — Like I Care | 2026-10-30 08:45:54 -03
-Previous track #34        : Jerry Cantrell — Angel Eyes | 2026-10-30 08:42:38 -03
-Previous track #35        : Temple Of The Dog — Call Me A Dog - 25th Anniversary Mix | 2026-10-30 08:37:58 -03
-Previous track #36        : Mother Love Bone — Bone China | 2026-10-30 08:32:57 -03
-Previous track #37        : Bush — Swim - Remastered | 2026-10-30 08:29:15 -03
-Previous track #38        : Soundgarden — Boot Camp | 2026-10-30 08:24:23 -03
-Previous track #39        : Kyuss — Space Cadet | 2026-10-30 08:21:28 -03
-Previous track #40        : Days Of The New — The Down Town | 2026-10-30 08:14:29 -03
+Previous track #1         : Oasis — The Swamp Song - Version 2 - Remastered | 2026-10-30 20:28:36 -03
+Previous track #2         : Oasis — Columbia - Remastered White Label Demo | 2026-10-30 14:07:37 -03
+Previous track #3         : Oasis — Married with Children - Remastered | 2026-10-30 14:02:12 -03
+Previous track #4         : Oasis — Slide Away - Remastered | 2026-10-30 13:58:57 -03
+Previous track #5         : Oasis — Digsy's Dinner - Remastered | 2026-10-30 13:52:24 -03
+Previous track #6         : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-30 13:49:52 -03
+Previous track #7         : Oasis — Bring It on Down - Remastered | 2026-10-30 13:45:03 -03
+Previous track #8         : Oasis — Supersonic - Remastered | 2026-10-30 13:40:45 -03
+Previous track #9         : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-30 13:33:35 -03
+Previous track #10        : Oasis — Bring It on Down - Remastered | 2026-10-30 13:28:46 -03
+Previous track #11        : Oasis — Supersonic - Remastered | 2026-10-30 13:24:28 -03
+Previous track #12        : Oasis — Supersonic - Remastered Live | 2026-10-30 13:19:28 -03
+Previous track #13        : Downface — Alone - Acoustic | 2026-10-30 10:34:37 -03
+Previous track #14        : Seven Mary Three — Honey of Generation | 2026-10-30 10:30:48 -03
+Previous track #15        : Alice In Chains — Would? - Live at the Majestic Theatre, Brooklyn, NY - April 1996 | 2026-10-30 10:26:56 -03
+Previous track #16        : Helmet — Biscuits For Smut | 2026-10-30 10:23:17 -03
+Previous track #17        : Bush — Insect Kin - Remastered | 2026-10-30 10:19:28 -03
+Previous track #18        : Incubus — 11 am | 2026-10-30 10:15:05 -03
+Previous track #19        : Second Coming — The Song | 2026-10-30 10:10:56 -03
+Previous track #20        : Days Of The New — Where I Stand | 2026-10-30 10:05:26 -03
+Previous track #21        : Tad — Paregoric | 2026-10-30 09:59:51 -03
+Previous track #22        : Rollins Band — All I Want | 2026-10-30 09:55:42 -03
+Previous track #23        : DOWN — Learn from This Mistake | 2026-10-30 09:51:04 -03
+Previous track #24        : Helmet — Wilma's Rainbow | 2026-10-30 09:43:53 -03
+Previous track #25        : Jerry Cantrell — Anger Rising | 2026-10-30 09:40:03 -03
+Previous track #26        : Temple Of The Dog — Wooden Jesus - 25th Anniversary Mix | 2026-10-30 09:33:53 -03
+Previous track #27        : Mother Love Bone — Gentle Groove | 2026-10-30 09:29:46 -03
+Previous track #28        : Bush — Body - Remastered | 2026-10-30 09:25:46 -03
+Previous track #29        : Alice In Chains — Got Me Wrong - Live at the Majestic Theatre, Brooklyn, NY - April 1996 | 2026-10-30 09:20:07 -03
+Previous track #30        : Kyuss — Whitewater / Lick Doo - Hidden Track | 2026-10-30 09:15:11 -03
+Previous track #31        : Days Of The New — Weapon & The Wound | 2026-10-30 09:06:18 -03
+Previous track #32        : Gruntruck — Crazy Love | 2026-10-30 09:00:36 -03
+Previous track #33        : Brad — Raise Love | 2026-10-30 08:55:46 -03
+Previous track #34        : Chris Cornell — Seasons | 2026-10-30 08:51:35 -03
+Previous track #35        : Helmet — Like I Care | 2026-10-30 08:45:54 -03
+Previous track #36        : Jerry Cantrell — Angel Eyes | 2026-10-30 08:42:38 -03
+Previous track #37        : Temple Of The Dog — Call Me A Dog - 25th Anniversary Mix | 2026-10-30 08:37:58 -03
+Previous track #38        : Mother Love Bone — Bone China | 2026-10-30 08:32:57 -03
+Previous track #39        : Bush — Swim - Remastered | 2026-10-30 08:29:15 -03
+Previous track #40        : Soundgarden — Boot Camp | 2026-10-30 08:24:23 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1591,41 +1591,41 @@ Context observed (UTC)    : 2026-10-30 13:10:39Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 105
-Unique tracks             : 78
+Observed events           : 107
+Unique tracks             : 79
 Unique artists            : 24
-Replay ratio              : █████░░░░░░░░░░░░░  25.7%
-Artist diversity          : ████░░░░░░░░░░░░░░  22.9%
+Replay ratio              : █████░░░░░░░░░░░░░  26.2%
+Artist diversity          : ████░░░░░░░░░░░░░░  22.4%
 Dominant artist           : Oasis
-Dominant artist share     : ████████░░░░░░░░░░  44.8%
-Artist switch ratio       : ███████░░░░░░░░░░░  40.4%
+Dominant artist share     : ████████░░░░░░░░░░  45.8%
+Artist switch ratio       : ███████░░░░░░░░░░░  39.6%
 Longest artist streak     : Oasis × 35
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    3.8%
-Morning    06–12           : █████████░░░░░░░░░   50.5%
-Afternoon  12–18           : ██░░░░░░░░░░░░░░░░   12.4%
-Evening    18–24           : ██████░░░░░░░░░░░░   33.3%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    3.7%
+Morning    06–12           : █████████░░░░░░░░░   49.5%
+Afternoon  12–18           : ██░░░░░░░░░░░░░░░░   12.1%
+Evening    18–24           : ██████░░░░░░░░░░░░   34.6%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-10-24 15:01:06Z
-History last play (7d)    : 2026-10-30 17:07:37Z
-Observed time span        : 146:06:31
-Mean inter-play gap       : 01:24:18
+History last play (7d)    : 2026-10-30 23:34:58Z
+Observed time span        : 152:33:52
+Mean inter-play gap       : 01:26:21
 Median inter-play gap     : 00:04:49
 Longest inactivity gap    : 99:27:20
-Listening intensity       : 0.72 tracks/hour
+Listening intensity       : 0.70 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 21:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :      ▂▆▆▇▇▅  ▅▁    ▄▃█▅ 
-Heatmap (7d)              :      ▂▆▆▇▇▅ ▁▅▁▁   ▄▃█▅ 
+Heatmap (24h)             :      ▂▆▆▇▇▅  ▅▁     ▂█▅ 
+Heatmap (7d)              :      ▂▆▆▇▇▅ ▁▅▁▁   ▄▅█▅ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
@@ -1640,22 +1640,22 @@ Mon                       :
 Tue                       :                         
 Wed                       :                █        
 Thu                       :                    ▄▃█▅ 
-Fri                       :      ▂▆▆█▇▅  ▆▁         
+Fri                       :      ▂▆▆█▇▅  ▆▁     ▁   
 Sat                       :             █           
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 103
+Tracks played (last 24h)  : 93
 Dominant artist           : Oasis
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-23 19:28:45Z → 2026-10-30 19:28:45Z
-Tracks played (7d)        : 105
+Week window (UTC)         : 2026-10-23 23:53:34Z → 2026-10-30 23:53:34Z
+Tracks played (7d)        : 107
 Dominant artist           : Oasis
 Cadence classification    : VERY HIGH
 ------------------------------------------------------------
@@ -1663,30 +1663,30 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 4
-Sessions (7d)             : 6
-Avg inter-play gap        : 01:24:18
+Sessions (7d)             : 7
+Avg inter-play gap        : 01:26:21
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(51) | britpop(46) | post-grunge(46) | alternative metal(6) | funk rock(5) | groove metal(5)
-Top genres (7d)           : grunge(51) | britpop(47) | post-grunge(46) | alternative metal(6) | funk rock(5) | groove metal(5)
-Artist lookups (this run) : 2 (cached)
+Top genres (24h)          : grunge(51) | post-grunge(46) | britpop(36) | alternative metal(6) | funk rock(5) | groove metal(5)
+Top genres (7d)           : grunge(51) | britpop(49) | post-grunge(46) | alternative metal(6) | funk rock(5) | groove metal(5)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Days Of The New — Where I Stand → Oasis — Columbia - Remastered White Label Demo
-Playback timestamp Δ      : 2026-10-30 13:05:26Z → 2026-10-30 17:07:37Z
-State transition          : PLAYING → IDLE
-Telemetry interval        : 06:18:06
+Track transition          : Oasis — Columbia - Remastered White Label Demo → Oasis — Slide Away - Remastered
+Playback timestamp Δ      : 2026-10-30 17:07:37Z → 2026-10-30 23:34:58Z
+State transition          : NO CHANGE
+Telemetry interval        : 04:24:50
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 627
+Events retained           : 629
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-30 14:07:37 -03
-Events (24h)              : 103
-Events (7d)               : 105
-Events (30d)              : 239
+Newest retained event     : 2026-10-30 20:34:58 -03
+Events (24h)              : 93
+Events (7d)               : 107
+Events (30d)              : 238
 Playlist contexts retained: 140
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-30 19:28:45Z
+Report generated (UTC)    : 2026-10-30 23:53:34Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

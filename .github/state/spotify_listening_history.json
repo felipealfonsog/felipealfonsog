@@ -1,8 +1,44 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-30 19:28:45Z",
+  "updated_utc": "2026-10-30 23:53:34Z",
   "events": [
+    {
+      "track": "Oasis — Slide Away - Remastered",
+      "artist": "Oasis",
+      "title": "Slide Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:62L8HlrCQLvBHKfpu8iqLa",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 23:34:58Z",
+      "played_at_local": "2026-10-30 20:34:58 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — The Swamp Song - Version 2 - Remastered",
+      "artist": "Oasis",
+      "title": "The Swamp Song - Version 2 - Remastered",
+      "album": "(What's The Story) Morning Glory? [Remastered]",
+      "uri": "spotify:track:3UUTUsYZAAAkcWgkoxHvcu",
+      "url": "https://open.spotify.com/track/3UUTUsYZAAAkcWgkoxHvcu",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 23:28:36Z",
+      "played_at_local": "2026-10-30 20:28:36 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1VW1MFNstaJuygaoTPkdCk",
+      "context_url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+    },
     {
       "track": "Oasis — Columbia - Remastered White Label Demo",
       "artist": "Oasis",
