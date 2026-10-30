@@ -1,8 +1,404 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-29 23:59:16Z",
+  "updated_utc": "2026-10-30 06:00:15Z",
   "events": [
+    {
+      "track": "Oasis — I Am the Walrus - Remastered Live Glasgow Cathouse June '94",
+      "artist": "Oasis",
+      "title": "I Am the Walrus - Remastered Live Glasgow Cathouse June '94",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4xUxbG1o6P6EYnCDdznN2q",
+      "url": "https://open.spotify.com/track/4xUxbG1o6P6EYnCDdznN2q",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 01:40:08Z",
+      "played_at_local": "2026-10-29 22:40:08 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Listen Up - Remastered",
+      "artist": "Oasis",
+      "title": "Listen Up - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2EBZb61ZIqhygr2tXfLpo5",
+      "url": "https://open.spotify.com/track/2EBZb61ZIqhygr2tXfLpo5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 01:31:50Z",
+      "played_at_local": "2026-10-29 22:31:50 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Fade Away - Remastered",
+      "artist": "Oasis",
+      "title": "Fade Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4Jr2kaZY9EKvaP04OzbpUk",
+      "url": "https://open.spotify.com/track/4Jr2kaZY9EKvaP04OzbpUk",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 01:25:07Z",
+      "played_at_local": "2026-10-29 22:25:07 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cloudburst - Remastered",
+      "artist": "Oasis",
+      "title": "Cloudburst - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:5xHHZXaJf6x9cvvTHYci25",
+      "url": "https://open.spotify.com/track/5xHHZXaJf6x9cvvTHYci25",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 01:20:50Z",
+      "played_at_local": "2026-10-29 22:20:50 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Up in the Sky - Remastered Acoustic",
+      "artist": "Oasis",
+      "title": "Up in the Sky - Remastered Acoustic",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2WJnKksFHuARLcyCzKVp6I",
+      "url": "https://open.spotify.com/track/2WJnKksFHuARLcyCzKVp6I",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 01:15:27Z",
+      "played_at_local": "2026-10-29 22:15:27 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered Live",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered Live",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1ztEDPhRaoxQyZfYVrapM3",
+      "url": "https://open.spotify.com/track/1ztEDPhRaoxQyZfYVrapM3",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 01:11:53Z",
+      "played_at_local": "2026-10-29 22:11:53 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — D'Yer Wanna Be a Spaceman? - Remastered",
+      "artist": "Oasis",
+      "title": "D'Yer Wanna Be a Spaceman? - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1Zu0ICfU2FK9QCyhYYQp3s",
+      "url": "https://open.spotify.com/track/1Zu0ICfU2FK9QCyhYYQp3s",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 01:06:38Z",
+      "played_at_local": "2026-10-29 22:06:38 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Alive - Remastered Demo",
+      "artist": "Oasis",
+      "title": "Alive - Remastered Demo",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:78mZtXDfQhdIlEvwboywHv",
+      "url": "https://open.spotify.com/track/78mZtXDfQhdIlEvwboywHv",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 01:03:57Z",
+      "played_at_local": "2026-10-29 22:03:57 -03",
+      "local_hour": 22,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Take Me Away - Remastered",
+      "artist": "Oasis",
+      "title": "Take Me Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:0qkTP1X9QxYPHV75zutmxi",
+      "url": "https://open.spotify.com/track/0qkTP1X9QxYPHV75zutmxi",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:59:59Z",
+      "played_at_local": "2026-10-29 21:59:59 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — I Will Believe - Remastered Live",
+      "artist": "Oasis",
+      "title": "I Will Believe - Remastered Live",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1CTD83CnEUt0QvQbGXu4qC",
+      "url": "https://open.spotify.com/track/1CTD83CnEUt0QvQbGXu4qC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:55:26Z",
+      "played_at_local": "2026-10-29 21:55:26 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Sad Song - Remastered",
+      "artist": "Oasis",
+      "title": "Sad Song - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:7aISpvvTIuvm9N5TNDKCeP",
+      "url": "https://open.spotify.com/track/7aISpvvTIuvm9N5TNDKCeP",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:51:37Z",
+      "played_at_local": "2026-10-29 21:51:37 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered Demo",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered Demo",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:3a3SQe9ozaL5MFdFKvbqxw",
+      "url": "https://open.spotify.com/track/3a3SQe9ozaL5MFdFKvbqxw",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:47:08Z",
+      "played_at_local": "2026-10-29 21:47:08 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Columbia - Remastered White Label Demo",
+      "artist": "Oasis",
+      "title": "Columbia - Remastered White Label Demo",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1fBhZXPxQAqlX31Egl33J3",
+      "url": "https://open.spotify.com/track/1fBhZXPxQAqlX31Egl33J3",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:42:30Z",
+      "played_at_local": "2026-10-29 21:42:30 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Married with Children - Remastered",
+      "artist": "Oasis",
+      "title": "Married with Children - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4bvi8n8Xa2kX0UG02cvuE9",
+      "url": "https://open.spotify.com/track/4bvi8n8Xa2kX0UG02cvuE9",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:37:05Z",
+      "played_at_local": "2026-10-29 21:37:05 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Slide Away - Remastered",
+      "artist": "Oasis",
+      "title": "Slide Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:62L8HlrCQLvBHKfpu8iqLa",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:33:50Z",
+      "played_at_local": "2026-10-29 21:33:50 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Digsy's Dinner - Remastered",
+      "artist": "Oasis",
+      "title": "Digsy's Dinner - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1JHCEDui9bf3hDxJcCwemy",
+      "url": "https://open.spotify.com/track/1JHCEDui9bf3hDxJcCwemy",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:27:18Z",
+      "played_at_local": "2026-10-29 21:27:18 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:2wKeVnM8OBoGjGm8Qvqhi5",
+      "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:24:45Z",
+      "played_at_local": "2026-10-29 21:24:45 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Bring It on Down - Remastered",
+      "artist": "Oasis",
+      "title": "Bring It on Down - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4H9muKIJpzTODxUxkPTgnH",
+      "url": "https://open.spotify.com/track/4H9muKIJpzTODxUxkPTgnH",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:19:56Z",
+      "played_at_local": "2026-10-29 21:19:56 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:15:39Z",
+      "played_at_local": "2026-10-29 21:15:39 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Cigarettes & Alcohol - Remastered Demo",
+      "artist": "Oasis",
+      "title": "Cigarettes & Alcohol - Remastered Demo",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:3a3SQe9ozaL5MFdFKvbqxw",
+      "url": "https://open.spotify.com/track/3a3SQe9ozaL5MFdFKvbqxw",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:10:26Z",
+      "played_at_local": "2026-10-29 21:10:26 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Columbia - Remastered White Label Demo",
+      "artist": "Oasis",
+      "title": "Columbia - Remastered White Label Demo",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1fBhZXPxQAqlX31Egl33J3",
+      "url": "https://open.spotify.com/track/1fBhZXPxQAqlX31Egl33J3",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:05:47Z",
+      "played_at_local": "2026-10-29 21:05:47 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Married with Children - Remastered",
+      "artist": "Oasis",
+      "title": "Married with Children - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:4bvi8n8Xa2kX0UG02cvuE9",
+      "url": "https://open.spotify.com/track/4bvi8n8Xa2kX0UG02cvuE9",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-30 00:00:23Z",
+      "played_at_local": "2026-10-29 21:00:23 -03",
+      "local_hour": 21,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
     {
       "track": "Oasis — Slide Away - Remastered",
       "artist": "Oasis",
@@ -10191,6 +10587,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-10-30 06:00:15Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-10-29 23:59:16Z",
       "is_playing": true,

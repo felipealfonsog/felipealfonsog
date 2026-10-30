@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Oasis — Slide Away - Remastered
+Track                     : Oasis — I Am the Walrus - Remastered Live Glasgow Cathouse June '94
 Artist                    : Oasis
-Title                     : Slide Away - Remastered
+Title                     : I Am the Walrus - Remastered Live Glasgow Cathouse June '94
 Album                     : Definitely Maybe (Remastered)
-Spotify URI               : spotify:track:62L8HlrCQLvBHKfpu8iqLa
-Spotify URL               : https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa
+Spotify URI               : spotify:track:4xUxbG1o6P6EYnCDdznN2q
+Spotify URL               : https://open.spotify.com/track/4xUxbG1o6P6EYnCDdznN2q
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-29 23:57:08Z
-Played at (local)         : 2026-10-29 20:57:08 -03
-Local hour                : 20:00
+Played at (UTC)           : 2026-10-30 01:40:08Z
+Played at (local)         : 2026-10-29 22:40:08 -03
+Local hour                : 22:00
 Daypart                   : EVENING
-Time since play           : 00:02:08
-Gap from previous play    : 00:06:33
+Time since play           : 04:20:07
+Gap from previous play    : 00:08:18
 ------------------------------------------------------------
-Previous song             : Oasis — Digsy's Dinner - Remastered
+Previous song             : Oasis — Listen Up - Remastered
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 4
-Artist plays (retained)   : 18
+Track plays (retained)    : 1
+Artist plays (retained)   : 40
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Oasis — Digsy's Dinner - Remastered | 2026-10-29 20:50:35 -03
-Previous track #2         : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 20:48:03 -03
-Previous track #3         : Oasis — Supersonic - Remastered | 2026-10-29 20:40:13 -03
-Previous track #4         : Oasis — Slide Away - Remastered | 2026-10-29 20:02:31 -03
-Previous track #5         : Oasis — Digsy's Dinner - Remastered | 2026-10-29 20:02:09 -03
-Previous track #6         : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 19:59:37 -03
-Previous track #7         : Oasis — Bring It on Down - Remastered | 2026-10-29 19:54:48 -03
-Previous track #8         : Oasis — Supersonic - Remastered | 2026-10-29 19:50:30 -03
-Previous track #9         : Oasis — Supersonic - Remastered | 2026-10-29 19:48:17 -03
-Previous track #10        : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 19:30:02 -03
-Previous track #11        : Oasis — Bring It on Down - Remastered | 2026-10-29 19:26:25 -03
-Previous track #12        : Oasis — Supersonic - Remastered | 2026-10-29 19:22:07 -03
-Previous track #13        : Metallica — Don't Tread on Me - Remastered 2021 | 2026-10-28 15:28:26 -03
-Previous track #14        : Oasis — Headshrinker - Remastered | 2026-10-24 12:01:06 -03
-Previous track #15        : Oasis — Married with Children - Remastered | 2026-10-23 13:06:46 -03
-Previous track #16        : Oasis — Slide Away - Remastered | 2026-10-23 12:44:29 -03
-Previous track #17        : Oasis — Supersonic - Remastered | 2026-10-23 12:37:12 -03
-Previous track #18        : Oasis — Slide Away - Remastered | 2026-10-23 12:31:52 -03
-Previous track #19        : Deftones — My Own Summer (Shove It) | 2026-10-22 10:40:13 -03
-Previous track #20        : Metallica — Lords of Summer | 2026-10-22 10:40:13 -03
-Previous track #21        : Radiohead — Just | 2026-10-22 06:23:12 -03
-Previous track #22        : Radiohead — Exit Music (For A Film) | 2026-10-22 06:17:50 -03
-Previous track #23        : Radiohead — How to Disappear Completely | 2026-10-22 06:13:22 -03
-Previous track #24        : Radiohead — Karma Police | 2026-10-22 06:05:03 -03
-Previous track #25        : Radiohead — Everything In Its Right Place | 2026-10-22 06:00:38 -03
-Previous track #26        : Radiohead — High and Dry | 2026-10-22 05:56:26 -03
-Previous track #27        : Radiohead — All I Need | 2026-10-22 05:52:08 -03
-Previous track #28        : Radiohead — Creep | 2026-10-22 05:47:33 -03
-Previous track #29        : Nirvana — You Know You're Right | 2026-10-21 21:25:07 -03
-Previous track #30        : Rage Against The Machine — Bombtrack | 2026-10-21 21:21:34 -03
-Previous track #31        : Audioslave — Cochise | 2026-10-21 21:17:34 -03
-Previous track #32        : Metallica — One | 2026-10-21 21:13:56 -03
-Previous track #33        : Linkin Park — Lying from You | 2026-10-21 20:59:50 -03
-Previous track #34        : John Coltrane — Blue World | 2026-10-21 13:07:48 -03
-Previous track #35        : Tomasz Stanko Quartet — Trista | 2026-10-21 12:47:56 -03
-Previous track #36        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:43:21 -03
-Previous track #37        : Tomasz Stanko Quintet — Terminal 7 | 2026-10-21 12:36:40 -03
-Previous track #38        : Godsmack — I Stand Alone | 2026-10-21 12:30:53 -03
-Previous track #39        : Godsmack — Changes | 2026-10-19 07:50:10 -03
-Previous track #40        : Chevelle — Don't Fake This | 2026-10-14 22:32:25 -03
+Previous track #1         : Oasis — Listen Up - Remastered | 2026-10-29 22:31:50 -03
+Previous track #2         : Oasis — Fade Away - Remastered | 2026-10-29 22:25:07 -03
+Previous track #3         : Oasis — Cloudburst - Remastered | 2026-10-29 22:20:50 -03
+Previous track #4         : Oasis — Up in the Sky - Remastered Acoustic | 2026-10-29 22:15:27 -03
+Previous track #5         : Oasis — Supersonic - Remastered Live | 2026-10-29 22:11:53 -03
+Previous track #6         : Oasis — D'Yer Wanna Be a Spaceman? - Remastered | 2026-10-29 22:06:38 -03
+Previous track #7         : Oasis — Alive - Remastered Demo | 2026-10-29 22:03:57 -03
+Previous track #8         : Oasis — Take Me Away - Remastered | 2026-10-29 21:59:59 -03
+Previous track #9         : Oasis — I Will Believe - Remastered Live | 2026-10-29 21:55:26 -03
+Previous track #10        : Oasis — Sad Song - Remastered | 2026-10-29 21:51:37 -03
+Previous track #11        : Oasis — Cigarettes & Alcohol - Remastered Demo | 2026-10-29 21:47:08 -03
+Previous track #12        : Oasis — Columbia - Remastered White Label Demo | 2026-10-29 21:42:30 -03
+Previous track #13        : Oasis — Married with Children - Remastered | 2026-10-29 21:37:05 -03
+Previous track #14        : Oasis — Slide Away - Remastered | 2026-10-29 21:33:50 -03
+Previous track #15        : Oasis — Digsy's Dinner - Remastered | 2026-10-29 21:27:18 -03
+Previous track #16        : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 21:24:45 -03
+Previous track #17        : Oasis — Bring It on Down - Remastered | 2026-10-29 21:19:56 -03
+Previous track #18        : Oasis — Supersonic - Remastered | 2026-10-29 21:15:39 -03
+Previous track #19        : Oasis — Cigarettes & Alcohol - Remastered Demo | 2026-10-29 21:10:26 -03
+Previous track #20        : Oasis — Columbia - Remastered White Label Demo | 2026-10-29 21:05:47 -03
+Previous track #21        : Oasis — Married with Children - Remastered | 2026-10-29 21:00:23 -03
+Previous track #22        : Oasis — Slide Away - Remastered | 2026-10-29 20:57:08 -03
+Previous track #23        : Oasis — Digsy's Dinner - Remastered | 2026-10-29 20:50:35 -03
+Previous track #24        : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 20:48:03 -03
+Previous track #25        : Oasis — Supersonic - Remastered | 2026-10-29 20:40:13 -03
+Previous track #26        : Oasis — Slide Away - Remastered | 2026-10-29 20:02:31 -03
+Previous track #27        : Oasis — Digsy's Dinner - Remastered | 2026-10-29 20:02:09 -03
+Previous track #28        : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 19:59:37 -03
+Previous track #29        : Oasis — Bring It on Down - Remastered | 2026-10-29 19:54:48 -03
+Previous track #30        : Oasis — Supersonic - Remastered | 2026-10-29 19:50:30 -03
+Previous track #31        : Oasis — Supersonic - Remastered | 2026-10-29 19:48:17 -03
+Previous track #32        : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-29 19:30:02 -03
+Previous track #33        : Oasis — Bring It on Down - Remastered | 2026-10-29 19:26:25 -03
+Previous track #34        : Oasis — Supersonic - Remastered | 2026-10-29 19:22:07 -03
+Previous track #35        : Metallica — Don't Tread on Me - Remastered 2021 | 2026-10-28 15:28:26 -03
+Previous track #36        : Oasis — Headshrinker - Remastered | 2026-10-24 12:01:06 -03
+Previous track #37        : Oasis — Married with Children - Remastered | 2026-10-23 13:06:46 -03
+Previous track #38        : Oasis — Slide Away - Remastered | 2026-10-23 12:44:29 -03
+Previous track #39        : Oasis — Supersonic - Remastered | 2026-10-23 12:37:12 -03
+Previous track #40        : Oasis — Slide Away - Remastered | 2026-10-23 12:31:52 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1591,47 +1591,47 @@ Context observed (UTC)    : 2026-10-29 23:59:16Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 19
-Unique tracks             : 8
+Observed events           : 41
+Unique tracks             : 21
 Unique artists            : 2
-Replay ratio              : ██████████░░░░░░░░  57.9%
-Artist diversity          : ██░░░░░░░░░░░░░░░░  10.5%
+Replay ratio              : █████████░░░░░░░░░  48.8%
+Artist diversity          : █░░░░░░░░░░░░░░░░░  4.9%
 Dominant artist           : Oasis
-Dominant artist share     : █████████████████░  94.7%
-Artist switch ratio       : ██░░░░░░░░░░░░░░░░  11.1%
-Longest artist streak     : Oasis × 13
+Dominant artist share     : ██████████████████  97.6%
+Artist switch ratio       : █░░░░░░░░░░░░░░░░░  5.0%
+Longest artist streak     : Oasis × 35
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
 Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
 Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
-Afternoon  12–18           : ██████░░░░░░░░░░░░   31.6%
-Evening    18–24           : ████████████░░░░░░   68.4%
+Afternoon  12–18           : ███░░░░░░░░░░░░░░░   14.6%
+Evening    18–24           : ███████████████░░░   85.4%
 Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-10-23 15:31:52Z
-History last play (7d)    : 2026-10-29 23:57:08Z
-Observed time span        : 152:25:16
-Mean inter-play gap       : 08:28:04
-Median inter-play gap     : 00:05:56
+History last play (7d)    : 2026-10-30 01:40:08Z
+Observed time span        : 154:08:16
+Mean inter-play gap       : 03:51:12
+Median inter-play gap     : 00:04:44
 Longest inactivity gap    : 99:27:20
-Listening intensity       : 0.12 tracks/hour
+Listening intensity       : 0.27 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 19:00
-Peak hour (7d)            : 19:00
-Heatmap (24h)             :                    █▇   
-Heatmap (7d)              :             ▅▁ ▁   █▇   
+Peak hour (24h)           : 21:00
+Peak hour (7d)            : 21:00
+Heatmap (24h)             :                    ▄▃█▅ 
+Heatmap (7d)              :             ▂▁ ▁   ▄▃█▅ 
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▁█▂▁ 
+Activity (Mon→Sun)        :    █▁  
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁▅    ▁   █   ▁      ▁▁▁     ▂
+Activity trend (30d)      : ▅    ▁   █   ▁      ▁▁▁     ▅ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1639,7 +1639,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                         
 Tue                       :                         
 Wed                       :                █        
-Thu                       :                    █▇   
+Thu                       :                    ▄▃█▅ 
 Fri                       :             █▃          
 Sat                       :             █           
 Sun                       :                         
@@ -1647,56 +1647,56 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 13
+Tracks played (last 24h)  : 35
 Dominant artist           : Oasis
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-22 23:59:16Z → 2026-10-29 23:59:16Z
-Tracks played (7d)        : 19
+Week window (UTC)         : 2026-10-23 06:00:15Z → 2026-10-30 06:00:15Z
+Tracks played (7d)        : 41
 Dominant artist           : Oasis
-Cadence classification    : MEDIUM
+Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 2
 Sessions (7d)             : 5
-Avg inter-play gap        : 08:28:04
+Avg inter-play gap        : 03:51:12
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : britpop(13)
-Top genres (7d)           : britpop(18) | hard rock(1) | heavy metal(1) | metal(1) | rock(1) | thrash metal(1)
+Top genres (24h)          : britpop(35)
+Top genres (7d)           : britpop(40) | hard rock(1) | heavy metal(1) | metal(1) | rock(1) | thrash metal(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Oasis — Headshrinker - Remastered → Oasis — Slide Away - Remastered
-Playback timestamp Δ      : 2026-10-24 15:01:06Z → 2026-10-29 23:57:08Z
-State transition          : IDLE → PLAYING
-Telemetry interval        : 04:16:16
+Track transition          : Oasis — Slide Away - Remastered → Oasis — I Am the Walrus - Remastered Live Glasgow Cathouse June '94
+Playback timestamp Δ      : 2026-10-29 23:57:08Z → 2026-10-30 01:40:08Z
+State transition          : PLAYING → IDLE
+Telemetry interval        : 06:00:59
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 537
+Events retained           : 559
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-29 20:57:08 -03
-Events (24h)              : 13
-Events (7d)               : 19
-Events (30d)              : 149
+Newest retained event     : 2026-10-29 22:40:08 -03
+Events (24h)              : 35
+Events (7d)               : 41
+Events (30d)              : 171
 Playlist contexts retained: 140
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-29 23:59:16Z
+Report generated (UTC)    : 2026-10-30 06:00:15Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
