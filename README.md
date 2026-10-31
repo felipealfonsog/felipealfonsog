@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-31 02:23:08Z
 Played at (local)         : 2026-10-30 23:23:08 -03
 Local hour                : 23:00
 Daypart                   : EVENING
-Time since play           : 03:32:29
+Time since play           : 10:23:04
 Gap from previous play    : 02:48:10
 ------------------------------------------------------------
 Previous song             : Oasis — Slide Away - Remastered
@@ -1622,9 +1622,9 @@ Listening intensity       : 0.70 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
+Peak hour (24h)           : 13:00
 Peak hour (7d)            : 21:00
-Heatmap (24h)             :      ▂▆▆█▇▅  ▆▁     ▁  ▁
+Heatmap (24h)             :          ▃▇  █▂     ▂  ▁
 Heatmap (7d)              :      ▂▆▆▇▇▅ ▁▅▁▁   ▄▅█▅▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 71
-Dominant artist           : Mad Season
+Tracks played (last 24h)  : 25
+Dominant artist           : Oasis
 Listening pattern         : Sustained operational tempo
 Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-24 05:55:36Z → 2026-10-31 05:55:36Z
+Week window (UTC)         : 2026-10-24 12:46:12Z → 2026-10-31 12:46:12Z
 Tracks played (7d)        : 108
 Dominant artist           : Oasis
 Cadence classification    : VERY HIGH
@@ -1668,25 +1668,25 @@ Avg inter-play gap        : 01:27:07
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(51) | post-grunge(46) | britpop(14) | alternative metal(6) | funk rock(5) | groove metal(5)
+Top genres (24h)          : britpop(14) | grunge(8) | post-grunge(7) | alternative metal(3) | funk rock(2) | groove metal(2)
 Top genres (7d)           : grunge(51) | britpop(50) | post-grunge(46) | alternative metal(6) | funk rock(5) | groove metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Oasis — Slide Away - Remastered → Oasis — Champagne Supernova - Remastered
-Playback timestamp Δ      : 2026-10-30 23:34:58Z → 2026-10-31 02:23:08Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:02:03
+Telemetry interval        : 06:50:36
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 630
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-30 23:23:08 -03
-Events (24h)              : 71
+Events (24h)              : 25
 Events (7d)               : 108
-Events (30d)              : 237
+Events (30d)              : 203
 Playlist contexts retained: 140
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-31 05:55:36Z
+Report generated (UTC)    : 2026-10-31 12:46:12Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
