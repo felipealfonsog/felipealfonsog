@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-10-30 23:53:34Z",
+  "updated_utc": "2026-10-31 05:55:36Z",
   "events": [
+    {
+      "track": "Oasis — Champagne Supernova - Remastered",
+      "artist": "Oasis",
+      "title": "Champagne Supernova - Remastered",
+      "album": "(What's The Story) Morning Glory? [Remastered]",
+      "uri": "spotify:track:1wo3UYTeizJHkwYIuLuBPF",
+      "url": "https://open.spotify.com/track/1wo3UYTeizJHkwYIuLuBPF",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-31 02:23:08Z",
+      "played_at_local": "2026-10-30 23:23:08 -03",
+      "local_hour": 23,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:1VW1MFNstaJuygaoTPkdCk",
+      "context_url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+    },
     {
       "track": "Oasis — Slide Away - Remastered",
       "artist": "Oasis",
