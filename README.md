@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-31 22:54:19Z
 Played at (local)         : 2026-10-31 19:54:19 -03
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 07:29:37
+Time since play           : 16:22:17
 Gap from previous play    : 00:28:32
 ------------------------------------------------------------
 Previous song             : Oasis — Supersonic - Remastered
@@ -1654,7 +1654,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-25 06:23:56Z → 2026-11-01 06:23:56Z
+Week window (UTC)         : 2026-10-25 15:16:36Z → 2026-11-01 15:16:36Z
 Tracks played (7d)        : 151
 Dominant artist           : Oasis
 Cadence classification    : VERY HIGH
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:55:51
+Telemetry interval        : 08:52:40
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-01 06:23:56Z
+Report generated (UTC)    : 2026-11-01 15:16:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
