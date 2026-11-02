@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-11-01_0544Z
+ snapshot_utc : 2026-11-02_0542Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -543,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-10-31T21:24:29+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-01T21:56:39+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -713,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 293 ms
-TTFB................ 292 ms
+LATENCY............. 252 ms
+TTFB................ 251 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 60d
+TLS_EXPIRY.......... 59d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -748,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-10-31T09:28:23Z
+LAST_PROBE_UTC...... 2026-11-01T10:16:50Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -788,19 +788,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.444086
-longitude      : -70.650977
-altitude       : 18 m
-gps_accuracy   : ±7.6 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : resting
+location       : pedestrian_axis
+latitude       : -33.438107
+longitude      : -70.646830
+altitude       : 54 m
+gps_accuracy   : ±8.2 m
+heading        : 133°
+speed          : 0.2 km/h
+status         : low_movement
 phase          : overnight
-local_time     : 00:14
+local_time     : 00:24
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-11-01 03:14:41 UTC
+updated_utc    : 2026-11-02 03:24:17 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -919,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-10-31 21:41:41Z
+DSN snapshot (UTC)       : 2026-11-01 22:08:49Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -930,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.86e9 km | 172.854 AU
-Heliocentric distance    : 172.218 AU
-Relative speed           : 41.752 km/s
+Earth distance           : 25.86e9 km | 172.872 AU
+Heliocentric distance    : 172.228 AU
+Relative speed           : 41.632 km/s
 ------------------------------------------------------------
-One-way light time       : 23:57:35
-Round-trip latency       : 47:55:10
+One-way light time       : 23:57:44
+Round-trip latency       : 47:55:28
 ------------------------------------------------------------
-Δ distance (since last)  : +1.029e6 km
-Mission age              : 49 years, 68 days
+Δ distance (since last)  : +970,275 km
+Mission age              : 49 years, 69 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -949,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.63e9 km | 144.589 AU
-Heliocentric distance    : 144.354 AU
-Relative speed           : 41.560 km/s
+Earth distance           : 21.63e9 km | 144.611 AU
+Heliocentric distance    : 144.363 AU
+Relative speed           : 41.536 km/s
 ------------------------------------------------------------
-One-way light time       : 20:02:31
-Round-trip latency       : 40:05:02
+One-way light time       : 20:02:42
+Round-trip latency       : 40:05:23
 ------------------------------------------------------------
-Δ distance (since last)  : +1.202e6 km
-Mission age              : 49 years, 84 days
+Δ distance (since last)  : +1.142e6 km
+Mission age              : 49 years, 85 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-10-31 21:41:47Z
+Report generated (UTC)   : 2026-11-01 22:08:53Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1516,7 +1516,7 @@ Played at (UTC)           : 2026-10-31 22:54:19Z
 Played at (local)         : 2026-10-31 19:54:19 -03
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 00:33:47
+Time since play           : 26:40:35
 Gap from previous play    : 00:28:32
 ------------------------------------------------------------
 Previous song             : Oasis — Supersonic - Remastered
@@ -1629,16 +1629,16 @@ Listening intensity       : 1.98 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 15:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :               ▂█▇▄▄▁▁  ▁
+Heatmap (24h)             : N/A
 Heatmap (7d)              :      ▂▆▆▇▇▅  ▅▃█▇▃▃▅▅█▅▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :    ▄█▅ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :     ▁   ▆          ▁▁      ▄█▅
+Activity trend (30d)      :    ▁   ▆          ▁▁      ▄█▅ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1654,14 +1654,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 47
-Dominant artist           : Oasis
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-24 23:28:05Z → 2026-10-31 23:28:05Z
+Week window (UTC)         : 2026-10-26 01:34:54Z → 2026-11-02 01:34:54Z
 Tracks played (7d)        : 151
 Dominant artist           : Oasis
 Cadence classification    : VERY HIGH
@@ -1669,29 +1669,29 @@ Cadence classification    : VERY HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 6
+Sessions (24h)            : N/A
 Sessions (7d)             : 11
 Avg inter-play gap        : 00:30:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : britpop(46) | progressive rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : britpop(92) | grunge(51) | post-grunge(46) | alternative metal(6) | funk rock(5) | groove metal(5)
-Artist lookups (this run) : 3 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Oasis — Digsy's Dinner - Remastered → Oasis — Supersonic - Remastered
-Playback timestamp Δ      : 2026-10-31 18:36:32Z → 2026-10-31 22:54:19Z
-State transition          : PLAYING → IDLE
-Telemetry interval        : 04:50:09
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
+State transition          : NO CHANGE
+Telemetry interval        : 04:58:45
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 674
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-31 19:54:19 -03
-Events (24h)              : 47
+Events (24h)              : 0
 Events (7d)               : 151
 Events (30d)              : 247
 Playlist contexts retained: 140
@@ -1722,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-31 23:28:05Z
+Report generated (UTC)    : 2026-11-02 01:34:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2133,7 +2133,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 01/11/2026 05:31:01 UTC
+Last updated     : 02/11/2026 03:59:57 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -3002,10 +3002,10 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
   🧬 Python · Shell  •  ⭐ 4
 
 ### 🕒 Recently Active Projects
+- [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
+  🧬 Python · Shell  •  ⭐ 7
 - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
   🧬 Python · Shell · Nix  •  ⭐ 1
-- [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
-  🧬 Python · Shell  •  ⭐ 6
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML  •  ⭐ 2
 - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
