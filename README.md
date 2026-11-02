@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-10-31 22:54:19Z
 Played at (local)         : 2026-10-31 19:54:19 -03
 Local hour                : 19:00
 Daypart                   : EVENING
-Time since play           : 21:41:50
+Time since play           : 26:40:35
 Gap from previous play    : 00:28:32
 ------------------------------------------------------------
 Previous song             : Oasis — Supersonic - Remastered
@@ -1622,9 +1622,9 @@ Listening intensity       : 1.98 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 18:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :                  ▅█▃    
+Heatmap (24h)             : N/A
 Heatmap (7d)              :      ▂▆▆▇▇▅  ▅▃█▇▃▃▅▅█▅▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
-Dominant artist           : Oasis
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-25 20:36:09Z → 2026-11-01 20:36:09Z
+Week window (UTC)         : 2026-10-26 01:34:54Z → 2026-11-02 01:34:54Z
 Tracks played (7d)        : 151
 Dominant artist           : Oasis
 Cadence classification    : VERY HIGH
@@ -1662,13 +1662,13 @@ Cadence classification    : VERY HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : N/A
 Sessions (7d)             : 11
 Avg inter-play gap        : 00:30:34
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : britpop(12)
+Top genres (24h)          : N/A
 Top genres (7d)           : britpop(92) | grunge(51) | post-grunge(46) | alternative metal(6) | funk rock(5) | groove metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:19:33
+Telemetry interval        : 04:58:45
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 674
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-10-31 19:54:19 -03
-Events (24h)              : 12
+Events (24h)              : 0
 Events (7d)               : 151
 Events (30d)              : 247
 Playlist contexts retained: 140
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-01 20:36:09Z
+Report generated (UTC)    : 2026-11-02 01:34:54Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
