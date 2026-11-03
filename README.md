@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-02 12:51:56Z
 Played at (local)         : 2026-11-02 09:51:56 -03
 Local hour                : 09:00
 Daypart                   : MORNING
-Time since play           : 14:37:54
+Time since play           : 23:11:39
 Gap from previous play    : 00:03:15
 ------------------------------------------------------------
 Previous song             : Oasis — Slide Away - Remastered
@@ -1624,7 +1624,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 09:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :        ▅▁█              
+Heatmap (24h)             :          █              
 Heatmap (7d)              :      ▂▄▆▆█▃  ▄▃▆▅▃▃▄▄▆▃▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 12
+Tracks played (last 24h)  : 7
 Dominant artist           : Oasis
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-27 03:29:50Z → 2026-11-03 03:29:50Z
+Week window (UTC)         : 2026-10-27 12:03:35Z → 2026-11-03 12:03:35Z
 Tracks played (7d)        : 164
 Dominant artist           : Oasis
 Cadence classification    : VERY HIGH
@@ -1662,13 +1662,13 @@ Cadence classification    : VERY HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 1
 Sessions (7d)             : 15
 Avg inter-play gap        : 00:42:06
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : britpop(12)
+Top genres (24h)          : britpop(7)
 Top genres (7d)           : britpop(105) | grunge(51) | post-grunge(46) | alternative metal(6) | funk rock(5) | groove metal(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:05:18
+Telemetry interval        : 08:33:45
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 687
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-02 09:51:56 -03
-Events (24h)              : 12
+Events (24h)              : 7
 Events (7d)               : 164
 Events (30d)              : 260
 Playlist contexts retained: 140
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-03 03:29:50Z
+Report generated (UTC)    : 2026-11-03 12:03:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
