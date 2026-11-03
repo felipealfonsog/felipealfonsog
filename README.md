@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-02 12:51:56Z
 Played at (local)         : 2026-11-02 09:51:56 -03
 Local hour                : 09:00
 Daypart                   : MORNING
-Time since play           : 07:32:36
+Time since play           : 14:37:54
 Gap from previous play    : 00:03:15
 ------------------------------------------------------------
 Previous song             : Oasis — Slide Away - Remastered
@@ -1631,7 +1631,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▁  ▄█▅ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   ▁   ▆          ▁▁      ▄█▅ ▁
+Activity trend (30d)      :  ▁   ▆          ▁▁      ▄█▅ ▁ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1654,7 +1654,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-26 20:24:32Z → 2026-11-02 20:24:32Z
+Week window (UTC)         : 2026-10-27 03:29:50Z → 2026-11-03 03:29:50Z
 Tracks played (7d)        : 164
 Dominant artist           : Oasis
 Cadence classification    : VERY HIGH
@@ -1674,10 +1674,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Oasis — Supersonic - Remastered → Oasis — Married with Children - Remastered
-Playback timestamp Δ      : 2026-10-31 22:54:19Z → 2026-11-02 12:51:56Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 10:45:50
+Telemetry interval        : 07:05:18
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-02 20:24:32Z
+Report generated (UTC)    : 2026-11-03 03:29:50Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
