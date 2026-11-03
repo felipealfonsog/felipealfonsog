@@ -912,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-11-03 14:26:13Z
+DSN snapshot (UTC)       : 2026-11-03 23:28:41Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,14 +923,14 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.87e9 km | 172.903 AU
-Heliocentric distance    : 172.245 AU
-Relative speed           : 41.428 km/s
+Earth distance           : 25.87e9 km | 172.909 AU
+Heliocentric distance    : 172.248 AU
+Relative speed           : 41.382 km/s
 ------------------------------------------------------------
-One-way light time       : 23:57:59
-Round-trip latency       : 47:55:59
+One-way light time       : 23:58:03
+Round-trip latency       : 47:56:05
 ------------------------------------------------------------
-Δ distance (since last)  : +1.496e6 km
+Δ distance (since last)  : +1.005e6 km
 Mission age              : 49 years, 71 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
@@ -942,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.64e9 km | 144.647 AU
-Heliocentric distance    : 144.378 AU
-Relative speed           : 41.492 km/s
+Earth distance           : 21.64e9 km | 144.655 AU
+Heliocentric distance    : 144.381 AU
+Relative speed           : 41.481 km/s
 ------------------------------------------------------------
-One-way light time       : 20:03:00
-Round-trip latency       : 40:05:59
+One-way light time       : 20:03:04
+Round-trip latency       : 40:06:07
 ------------------------------------------------------------
-Δ distance (since last)  : +1.782e6 km
+Δ distance (since last)  : +1.200e6 km
 Mission age              : 49 years, 87 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-11-03 14:26:19Z
+Report generated (UTC)   : 2026-11-03 23:28:47Z
 ```
 
 <!-- VOYAGER:END -->
