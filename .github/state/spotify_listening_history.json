@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-04 18:03:59Z",
+  "updated_utc": "2026-11-04 23:45:38Z",
   "events": [
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-11-04 20:56:29Z",
+      "played_at_local": "2026-11-04 17:56:29 -03",
+      "local_hour": 17,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Supersonic - Remastered",
+      "artist": "Oasis",
+      "title": "Supersonic - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:6dUfUi14QkuIpGA0GFFPyC",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-11-04 20:48:44Z",
+      "played_at_local": "2026-11-04 17:48:44 -03",
+      "local_hour": 17,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Soundgarden — Dusty",
+      "artist": "Soundgarden",
+      "title": "Dusty",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:2l2vEgLnyAoARHlYok1bK1",
+      "url": "https://open.spotify.com/track/2l2vEgLnyAoARHlYok1bK1",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-04 20:38:34Z",
+      "played_at_local": "2026-11-04 17:38:34 -03",
+      "local_hour": 17,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Dusty",
+      "artist": "Soundgarden",
+      "title": "Dusty",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:2l2vEgLnyAoARHlYok1bK1",
+      "url": "https://open.spotify.com/track/2l2vEgLnyAoARHlYok1bK1",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-04 08:45:01Z",
+      "played_at_local": "2026-11-04 05:45:01 -03",
+      "local_hour": 5,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
     {
       "track": "Soundgarden — Zero Chance",
       "artist": "Soundgarden",
@@ -395,6 +467,24 @@
       "played_at_utc": "2026-10-31 22:25:47Z",
       "played_at_local": "2026-10-31 19:25:47 -03",
       "local_hour": 19,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
+    {
+      "track": "Oasis — Take Me Away - Remastered",
+      "artist": "Oasis",
+      "title": "Take Me Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:0qkTP1X9QxYPHV75zutmxi",
+      "url": "https://open.spotify.com/track/0qkTP1X9QxYPHV75zutmxi",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-10-31 21:26:40Z",
+      "played_at_local": "2026-10-31 18:26:40 -03",
+      "local_hour": 18,
       "weekday": 5,
       "context_type": "album",
       "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
