@@ -1,8 +1,135 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-04 00:40:48Z",
+  "updated_utc": "2026-11-04 09:28:13Z",
   "events": [
+    {
+      "track": "Soundgarden — Zero Chance",
+      "artist": "Soundgarden",
+      "title": "Zero Chance",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:2E7EVzgwxA6PtmBIXeaiV7",
+      "url": "https://open.spotify.com/track/2E7EVzgwxA6PtmBIXeaiV7",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-04 08:36:46Z",
+      "played_at_local": "2026-11-04 05:36:46 -03",
+      "local_hour": 5,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Rhinosaur",
+      "artist": "Soundgarden",
+      "title": "Rhinosaur",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:4XJq0ehSP5HXTUun2m4njP",
+      "url": "https://open.spotify.com/track/4XJq0ehSP5HXTUun2m4njP",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-04 08:32:27Z",
+      "played_at_local": "2026-11-04 05:32:27 -03",
+      "local_hour": 5,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Pretty Noose",
+      "artist": "Soundgarden",
+      "title": "Pretty Noose",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:6ZzeXWwDvMzrgCWt9RwBj1",
+      "url": "https://open.spotify.com/track/6ZzeXWwDvMzrgCWt9RwBj1",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-04 08:29:13Z",
+      "played_at_local": "2026-11-04 05:29:13 -03",
+      "local_hour": 5,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Days Of The New — Shelf In The Room",
+      "artist": "Days Of The New",
+      "title": "Shelf In The Room",
+      "album": "Shelf In The Room",
+      "uri": "spotify:track:3bAY87M0mP4lHihKRZVCNs",
+      "url": "https://open.spotify.com/track/3bAY87M0mP4lHihKRZVCNs",
+      "artist_ids": [
+        "07jc1IMGtecDZzOL9cP50t"
+      ],
+      "played_at_utc": "2026-11-04 08:24:17Z",
+      "played_at_local": "2026-11-04 05:24:17 -03",
+      "local_hour": 5,
+      "weekday": 2
+    },
+    {
+      "track": "Mad Season — Locomotive",
+      "artist": "Mad Season",
+      "title": "Locomotive",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:3XHCh9F789Jl3gzv3C7VI3",
+      "url": "https://open.spotify.com/track/3XHCh9F789Jl3gzv3C7VI3",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-11-04 08:10:28Z",
+      "played_at_local": "2026-11-04 05:10:28 -03",
+      "local_hour": 5,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:1cqta2uSKVYdom7CRMGDwn",
+      "context_url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-11-04 05:51:32Z",
+      "played_at_local": "2026-11-04 02:51:32 -03",
+      "local_hour": 2,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Oasis — Columbia - Remastered White Label Demo",
+      "artist": "Oasis",
+      "title": "Columbia - Remastered White Label Demo",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:1fBhZXPxQAqlX31Egl33J3",
+      "url": "https://open.spotify.com/track/1fBhZXPxQAqlX31Egl33J3",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-11-02 13:07:12Z",
+      "played_at_local": "2026-11-02 10:07:12 -03",
+      "local_hour": 10,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
     {
       "track": "Oasis — Married with Children - Remastered",
       "artist": "Oasis",
