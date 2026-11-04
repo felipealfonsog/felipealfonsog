@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-04 08:36:46Z
 Played at (local)         : 2026-11-04 05:36:46 -03
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 00:51:28
+Time since play           : 09:27:13
 Gap from previous play    : 00:04:19
 ------------------------------------------------------------
 Previous song             : Soundgarden — Rhinosaur
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-28 09:28:13Z → 2026-11-04 09:28:13Z
+Week window (UTC)         : 2026-10-28 18:03:59Z → 2026-11-04 18:03:59Z
 Tracks played (7d)        : 171
 Dominant artist           : Oasis
 Cadence classification    : VERY HIGH
@@ -1674,10 +1674,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Oasis — Married with Children - Remastered → Soundgarden — Zero Chance
-Playback timestamp Δ      : 2026-11-02 12:51:56Z → 2026-11-04 08:36:46Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 08:47:26
+Telemetry interval        : 08:35:46
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1686,7 +1686,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-04 05:36:46 -03
 Events (24h)              : 6
 Events (7d)               : 171
-Events (30d)              : 267
+Events (30d)              : 266
 Playlist contexts retained: 141
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-04 09:28:13Z
+Report generated (UTC)    : 2026-11-04 18:03:59Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
