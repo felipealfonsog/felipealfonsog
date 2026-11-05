@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-04 21:58:54Z
 Played at (local)         : 2026-11-04 18:58:54 -03
 Local hour                : 18:00
 Daypart                   : EVENING
-Time since play           : 09:00:29
+Time since play           : 18:34:09
 Gap from previous play    : 01:02:25
 ------------------------------------------------------------
 Previous song             : Oasis — Supersonic - Remastered
@@ -1622,9 +1622,9 @@ Listening intensity       : 1.23 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 05:00
+Peak hour (24h)           : 17:00
 Peak hour (7d)            : 09:00
-Heatmap (24h)             :      █           ▄▁     
+Heatmap (24h)             :                  █▃     
 Heatmap (7d)              :      ▄▄▆▆█▄  ▄▃▅▅▄▃▄▄▆▃▁
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 10
-Dominant artist           : Soundgarden
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 4
+Dominant artist           : Oasis
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-29 06:59:22Z → 2026-11-05 06:59:22Z
+Week window (UTC)         : 2026-10-29 16:33:03Z → 2026-11-05 16:33:03Z
 Tracks played (7d)        : 176
 Dominant artist           : Oasis
 Cadence classification    : VERY HIGH
@@ -1662,31 +1662,31 @@ Cadence classification    : VERY HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 2
 Sessions (7d)             : 18
 Avg inter-play gap        : 00:49:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(7) | post-grunge(7) | hard rock(5) | britpop(3)
+Top genres (24h)          : britpop(3) | grunge(1) | hard rock(1) | post-grunge(1)
 Top genres (7d)           : britpop(110) | grunge(58) | post-grunge(53) | alternative metal(6) | hard rock(6) | funk rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Oasis — Supersonic - Remastered → Oasis — Slide Away - Remastered
-Playback timestamp Δ      : 2026-11-04 20:56:29Z → 2026-11-04 21:58:54Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:13:45
+Telemetry interval        : 09:33:41
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 700
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-04 18:58:54 -03
-Events (24h)              : 10
+Events (24h)              : 4
 Events (7d)               : 176
-Events (30d)              : 271
+Events (30d)              : 267
 Playlist contexts retained: 141
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-05 06:59:22Z
+Report generated (UTC)    : 2026-11-05 16:33:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
