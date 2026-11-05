@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-04 23:45:38Z",
+  "updated_utc": "2026-11-05 06:59:22Z",
   "events": [
+    {
+      "track": "Oasis — Slide Away - Remastered",
+      "artist": "Oasis",
+      "title": "Slide Away - Remastered",
+      "album": "Definitely Maybe (Remastered)",
+      "uri": "spotify:track:62L8HlrCQLvBHKfpu8iqLa",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ],
+      "played_at_utc": "2026-11-04 21:58:54Z",
+      "played_at_local": "2026-11-04 18:58:54 -03",
+      "local_hour": 18,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:50xG9YujTzMGaLHfJTskBy",
+      "context_url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+    },
     {
       "track": "Oasis — Supersonic - Remastered",
       "artist": "Oasis",
