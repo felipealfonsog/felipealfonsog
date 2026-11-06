@@ -2073,9 +2073,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 05 November 2026
+From: 04 December 2023 - To: 06 November 2026
 
-Total Time       : 1,074 hrs 59 mins
+Total Time       : 1,075 hrs 3 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 0 mins
 Best day         : 2026-10-30 — 20 hrs 25 mins
@@ -2084,41 +2084,82 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          980 hrs 40 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  91.23 %
-Bash           177 hrs        ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
-Python         142 hrs 3 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.21 %
+Other          983 hrs 58 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  91.53 %
+Bash           177 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
+Python         142 hrs 5 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
 HTML           141 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.12 %
 PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.16 %
-Markdown       80 hrs 50 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.52 %
+Markdown       80 hrs 51 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.52 %
 C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.11 %
 Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.76 %
 C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.72 %
 YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.55 %
+INI            36 hrs 23 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.38 %
+JavaScript     35 hrs 50 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.33 %
+CSS            22 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.05 %
+Common Lisp    21 hrs 37 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.01 %
+TeX            13 hrs 34 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.26 %
+Apache Config  12 hrs 7 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.13 %
+Vim Script     12 hrs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.12 %
+XML            8 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.81 %
+JSON           7 hrs 8 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.66 %
+Crontab        7 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.65 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,337 hrs 11 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.52 %
+Mac            1,340 hrs 34 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.51 %
 
 EDITORS - APPS
 --------------
-Firefox        681 hrs 39 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.41 %
+Firefox        682 hrs 43 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.51 %
 VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.36 %
-Vim            337 hrs 59 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.44 %
-Terminal       62 hrs 59 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   5.86 %
+Vim            338 hrs 2 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.44 %
+Terminal       64 hrs 39 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.02 %
 Spotify        60 hrs 41 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.65 %
-‎WhatsApp      40 hrs 34 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.78 %
-Pages          27 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.59 %
+‎WhatsApp      40 hrs 34 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
+Pages          28 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.64 %
 Acrobat        26 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.50 %
 Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
 Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
 FileZilla      19 hrs 47 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.84 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
+Notes          12 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
+Codex Vscode   11 hrs 41 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.09 %
+TextMate       10 hrs 18 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
+Chrome         9 hrs 37 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.89 %
+Antigravity    6 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
+Preview        6 hrs 1 min    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.56 %
+Zoom           4 hrs 34 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.43 %
+Skim           4 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
+TorBrowser     2 hrs 25 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.23 %
+Cyberduck      1 hr 19 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.12 %
+
+PROJECTS
+--------
+felipealfonsog 446 hrs 26 mins ●●●●●●●●●●◔○○○○○○○○○○○○○○○  41.53 %
+gnlz.cl        219 hrs 36 mins ●●●●●○○○○○○○○○○○○○○○○○○○○○  20.43 %
+NovaNav        94 hrs 52 mins ●●○○○○○○○○○○○○○○○○○○○○○○○○   8.83 %
+Upd8All        70 hrs 41 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.58 %
+TermPDFViewer  70 hrs 24 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.55 %
+trash-trunk    63 hrs 46 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   5.93 %
+OptiCPU        55 hrs 33 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.17 %
+GitSyncMaster  41 hrs 2 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.82 %
+yay            34 hrs 14 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.19 %
+nymex-data.com 31 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.93 %
+SpeedyNet      30 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.80 %
+Development    27 hrs 6 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.52 %
+texstudio      25 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.41 %
+neo            25 hrs 34 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.38 %
+GLCH           25 hrs 5 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.33 %
+ConnWifiMaster 24 hrs 17 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.26 %
+todaslasmanos  22 hrs 29 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
+homebrew       21 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.05 %
 
 CATEGORIES
 ----------
-Coding         1,281 hrs 23 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       679 hrs 44 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.23 %
+Coding         1,283 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       680 hrs 49 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.33 %
 Meeting        49 hrs 9 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.57 %
 AI Coding      28 hrs 7 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.62 %
 Writing Docs   17 hrs 13 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.60 %
@@ -2126,7 +2167,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 06/11/2026 04:49:12 UTC
+Last updated     : 06/11/2026 09:58:05 UTC
 
 ```
 <!--END_SECTION:wakastats-->
