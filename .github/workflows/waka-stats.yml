@@ -67,17 +67,17 @@ jobs:
           SHOW_LANGUAGES          = True
           SHOW_OPERATING_SYSTEMS  = True
           SHOW_EDITORS            = True
-          SHOW_PROJECTS           = False
+          SHOW_PROJECTS           = True
           SHOW_CATEGORIES         = True
           SHOW_MACHINES           = False
           SHOW_LAST_UPDATED       = True
 
           # ===== LIMITS =====
-          MAX_LANGUAGES  = 10
+          MAX_LANGUAGES  = 20
           MAX_OS         = 6
-          MAX_EDITORS    = 12
-          MAX_PROJECTS   = 8
-          MAX_CATEGORIES = 8
+          MAX_EDITORS    = 22
+          MAX_PROJECTS   = 18
+          MAX_CATEGORIES = 18
           MAX_MACHINES   = 12
 
           # ===== CLEANUP =====
