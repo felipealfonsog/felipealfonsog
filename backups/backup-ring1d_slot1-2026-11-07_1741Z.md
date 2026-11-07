@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-11-06_1914Z
+ snapshot_utc : 2026-11-07_1741Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -543,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-06T06:24:01+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-07T12:51:17+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -713,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 107 ms
-TTFB................ 106 ms
+LATENCY............. 189 ms
+TTFB................ 188 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 54d
+TLS_EXPIRY.......... 53d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -748,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-11-06T10:38:50Z
+LAST_PROBE_UTC...... 2026-11-07T09:50:09Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -789,18 +789,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : transit_corridor
-latitude       : -33.446813
-longitude      : -70.661641
-altitude       : 92 m
-gps_accuracy   : ±6.3 m
-heading        : 0°
-speed          : 0.0 km/h
-status         : stationary
+latitude       : -33.446570
+longitude      : -70.661805
+altitude       : 42 m
+gps_accuracy   : ±4.0 m
+heading        : 97°
+speed          : 3.3 km/h
+status         : walking
 phase          : morning
-local_time     : 10:26
+local_time     : 09:05
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-11-06 13:26:47 UTC
+signal         : stable
+updated_utc    : 2026-11-07 12:05:48 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -919,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-11-06 06:57:17Z
+DSN snapshot (UTC)       : 2026-11-07 13:14:08Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -930,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.87e9 km | 172.950 AU
-Heliocentric distance    : 172.271 AU
-Relative speed           : 41.085 km/s
+Earth distance           : 25.88e9 km | 172.972 AU
+Heliocentric distance    : 172.283 AU
+Relative speed           : 40.917 km/s
 ------------------------------------------------------------
-One-way light time       : 23:58:23
-Round-trip latency       : 47:56:46
+One-way light time       : 23:58:34
+Round-trip latency       : 47:57:07
 ------------------------------------------------------------
-Δ distance (since last)  : +1.181e6 km
-Mission age              : 49 years, 74 days
+Δ distance (since last)  : +755,225 km
+Mission age              : 49 years, 75 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -949,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.65e9 km | 144.704 AU
-Heliocentric distance    : 144.401 AU
-Relative speed           : 41.405 km/s
+Earth distance           : 21.65e9 km | 144.731 AU
+Heliocentric distance    : 144.412 AU
+Relative speed           : 41.357 km/s
 ------------------------------------------------------------
-One-way light time       : 20:03:28
-Round-trip latency       : 40:06:56
+One-way light time       : 20:03:41
+Round-trip latency       : 40:07:23
 ------------------------------------------------------------
-Δ distance (since last)  : +1.435e6 km
-Mission age              : 49 years, 90 days
+Δ distance (since last)  : +927,084 km
+Mission age              : 49 years, 91 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-11-06 06:57:22Z
+Report generated (UTC)   : 2026-11-07 13:14:10Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,69 +1505,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Oasis — Slide Away - Remastered
-Artist                    : Oasis
-Title                     : Slide Away - Remastered
-Album                     : Definitely Maybe (Remastered)
-Spotify URI               : spotify:track:62L8HlrCQLvBHKfpu8iqLa
-Spotify URL               : https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa
+Track                     : Soundgarden — Overfloater
+Artist                    : Soundgarden
+Title                     : Overfloater
+Album                     : Down On The Upside
+Spotify URI               : spotify:track:1U8v17QBWhtJqLmJxk4Sr6
+Spotify URL               : https://open.spotify.com/track/1U8v17QBWhtJqLmJxk4Sr6
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-04 21:58:54Z
-Played at (local)         : 2026-11-04 18:58:54 -03
-Local hour                : 18:00
-Daypart                   : EVENING
-Time since play           : 42:00:48
-Gap from previous play    : 01:02:25
+Played at (UTC)           : 2026-11-07 10:27:24Z
+Played at (local)         : 2026-11-07 07:27:24 -03
+Local hour                : 07:00
+Daypart                   : MORNING
+Time since play           : 06:03:40
+Gap from previous play    : 00:05:08
 ------------------------------------------------------------
-Previous song             : Oasis — Supersonic - Remastered
+Previous song             : Soundgarden — Switch Opens
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 13
-Artist plays (retained)   : 115
+Track plays (retained)    : 1
+Artist plays (retained)   : 19
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Oasis — Supersonic - Remastered | 2026-11-04 17:56:29 -03
-Previous track #2         : Oasis — Supersonic - Remastered | 2026-11-04 17:48:44 -03
-Previous track #3         : Soundgarden — Dusty | 2026-11-04 17:38:34 -03
-Previous track #4         : Soundgarden — Dusty | 2026-11-04 05:45:01 -03
-Previous track #5         : Soundgarden — Zero Chance | 2026-11-04 05:36:46 -03
-Previous track #6         : Soundgarden — Rhinosaur | 2026-11-04 05:32:27 -03
-Previous track #7         : Soundgarden — Pretty Noose | 2026-11-04 05:29:13 -03
-Previous track #8         : Days Of The New — Shelf In The Room | 2026-11-04 05:24:17 -03
-Previous track #9         : Mad Season — Locomotive | 2026-11-04 05:10:28 -03
-Previous track #10        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-04 02:51:32 -03
-Previous track #11        : Oasis — Columbia - Remastered White Label Demo | 2026-11-02 10:07:12 -03
-Previous track #12        : Oasis — Married with Children - Remastered | 2026-11-02 09:51:56 -03
-Previous track #13        : Oasis — Slide Away - Remastered | 2026-11-02 09:48:41 -03
-Previous track #14        : Oasis — Digsy's Dinner - Remastered | 2026-11-02 09:42:08 -03
-Previous track #15        : Oasis — Cigarettes & Alcohol - Remastered | 2026-11-02 09:39:36 -03
-Previous track #16        : Oasis — Bring It on Down - Remastered | 2026-11-02 09:34:47 -03
-Previous track #17        : Oasis — Supersonic - Remastered | 2026-11-02 09:30:29 -03
-Previous track #18        : Oasis — Supersonic - Remastered | 2026-11-02 09:25:37 -03
-Previous track #19        : Oasis — Supersonic - Remastered | 2026-11-02 08:05:56 -03
-Previous track #20        : Oasis — Cigarettes & Alcohol - Remastered | 2026-11-02 07:33:00 -03
-Previous track #21        : Oasis — Bring It on Down - Remastered | 2026-11-02 07:25:40 -03
-Previous track #22        : Oasis — Supersonic - Remastered | 2026-11-02 07:21:17 -03
-Previous track #23        : Oasis — Supersonic - Remastered | 2026-11-02 07:09:42 -03
-Previous track #24        : Oasis — Supersonic - Remastered | 2026-10-31 20:27:38 -03
-Previous track #25        : Oasis — Supersonic - Remastered | 2026-10-31 19:54:19 -03
-Previous track #26        : Oasis — Supersonic - Remastered | 2026-10-31 19:25:47 -03
-Previous track #27        : Oasis — Take Me Away - Remastered | 2026-10-31 18:26:40 -03
-Previous track #28        : Oasis — I Will Believe - Remastered Live | 2026-10-31 18:26:09 -03
-Previous track #29        : Oasis — Sad Song - Remastered | 2026-10-31 18:22:20 -03
-Previous track #30        : Oasis — Cigarettes & Alcohol - Remastered Demo | 2026-10-31 18:17:51 -03
-Previous track #31        : Oasis — Columbia - Remastered White Label Demo | 2026-10-31 18:13:13 -03
-Previous track #32        : Oasis — Married with Children - Remastered | 2026-10-31 18:07:48 -03
-Previous track #33        : Oasis — Slide Away - Remastered | 2026-10-31 18:04:33 -03
-Previous track #34        : Oasis — Digsy's Dinner - Remastered | 2026-10-31 17:58:01 -03
-Previous track #35        : Oasis — Cigarettes & Alcohol - Remastered | 2026-10-31 17:55:28 -03
-Previous track #36        : Oasis — Bring It on Down - Remastered | 2026-10-31 17:50:39 -03
-Previous track #37        : Oasis — Supersonic - Remastered | 2026-10-31 17:46:22 -03
-Previous track #38        : Oasis — Slide Away - Remastered | 2026-10-31 17:10:34 -03
-Previous track #39        : Oasis — Live Forever | 2026-10-31 17:04:06 -03
-Previous track #40        : Oasis — Stand by Me | 2026-10-31 16:59:33 -03
+Previous track #1         : Soundgarden — Switch Opens | 2026-11-07 07:22:16 -03
+Previous track #2         : Soundgarden — No Attention | 2026-11-07 07:18:23 -03
+Previous track #3         : Soundgarden — Tighter & Tighter | 2026-11-07 07:13:56 -03
+Previous track #4         : Soundgarden — Never The Machine Forever | 2026-11-07 07:07:50 -03
+Previous track #5         : Soundgarden — Applebite | 2026-11-07 07:04:13 -03
+Previous track #6         : Soundgarden — Never Named | 2026-11-07 06:59:04 -03
+Previous track #7         : Soundgarden — Burden In My Hand | 2026-11-07 06:56:36 -03
+Previous track #8         : Soundgarden — Blow Up The Outside World | 2026-11-07 06:51:46 -03
+Previous track #9         : Oasis — Slide Away - Remastered | 2026-11-04 18:58:54 -03
+Previous track #10        : Oasis — Supersonic - Remastered | 2026-11-04 17:56:29 -03
+Previous track #11        : Oasis — Supersonic - Remastered | 2026-11-04 17:48:44 -03
+Previous track #12        : Soundgarden — Dusty | 2026-11-04 17:38:34 -03
+Previous track #13        : Soundgarden — Dusty | 2026-11-04 05:45:01 -03
+Previous track #14        : Soundgarden — Zero Chance | 2026-11-04 05:36:46 -03
+Previous track #15        : Soundgarden — Rhinosaur | 2026-11-04 05:32:27 -03
+Previous track #16        : Soundgarden — Pretty Noose | 2026-11-04 05:29:13 -03
+Previous track #17        : Days Of The New — Shelf In The Room | 2026-11-04 05:24:17 -03
+Previous track #18        : Mad Season — Locomotive | 2026-11-04 05:10:28 -03
+Previous track #19        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-04 02:51:32 -03
+Previous track #20        : Oasis — Columbia - Remastered White Label Demo | 2026-11-02 10:07:12 -03
+Previous track #21        : Oasis — Married with Children - Remastered | 2026-11-02 09:51:56 -03
+Previous track #22        : Oasis — Slide Away - Remastered | 2026-11-02 09:48:41 -03
+Previous track #23        : Oasis — Digsy's Dinner - Remastered | 2026-11-02 09:42:08 -03
+Previous track #24        : Oasis — Cigarettes & Alcohol - Remastered | 2026-11-02 09:39:36 -03
+Previous track #25        : Oasis — Bring It on Down - Remastered | 2026-11-02 09:34:47 -03
+Previous track #26        : Oasis — Supersonic - Remastered | 2026-11-02 09:30:29 -03
+Previous track #27        : Oasis — Supersonic - Remastered | 2026-11-02 09:25:37 -03
+Previous track #28        : Oasis — Supersonic - Remastered | 2026-11-02 08:05:56 -03
+Previous track #29        : Oasis — Cigarettes & Alcohol - Remastered | 2026-11-02 07:33:00 -03
+Previous track #30        : Oasis — Bring It on Down - Remastered | 2026-11-02 07:25:40 -03
+Previous track #31        : Oasis — Supersonic - Remastered | 2026-11-02 07:21:17 -03
+Previous track #32        : Oasis — Supersonic - Remastered | 2026-11-02 07:09:42 -03
+Previous track #33        : Oasis — Supersonic - Remastered | 2026-10-31 20:27:38 -03
+Previous track #34        : Oasis — Supersonic - Remastered | 2026-10-31 19:54:19 -03
+Previous track #35        : Oasis — Supersonic - Remastered | 2026-10-31 19:25:47 -03
+Previous track #36        : Oasis — Take Me Away - Remastered | 2026-10-31 18:26:40 -03
+Previous track #37        : Oasis — I Will Believe - Remastered Live | 2026-10-31 18:26:09 -03
+Previous track #38        : Oasis — Sad Song - Remastered | 2026-10-31 18:22:20 -03
+Previous track #39        : Oasis — Cigarettes & Alcohol - Remastered Demo | 2026-10-31 18:17:51 -03
+Previous track #40        : Oasis — Columbia - Remastered White Label Demo | 2026-10-31 18:13:13 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1598,47 +1598,47 @@ Context observed (UTC)    : 2026-10-31 18:37:57Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 84
-Unique tracks             : 30
-Unique artists            : 6
-Replay ratio              : ████████████░░░░░░  64.3%
-Artist diversity          : █░░░░░░░░░░░░░░░░░  7.1%
+Observed events           : 78
+Unique tracks             : 37
+Unique artists            : 5
+Replay ratio              : █████████░░░░░░░░░  52.6%
+Artist diversity          : █░░░░░░░░░░░░░░░░░  6.4%
 Dominant artist           : Oasis
-Dominant artist share     : ████████████████░░  89.3%
-Artist switch ratio       : ██░░░░░░░░░░░░░░░░  8.4%
+Dominant artist share     : ██████████████░░░░  78.2%
+Artist switch ratio       : █░░░░░░░░░░░░░░░░░  7.8%
 Longest artist streak     : Oasis × 58
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    8.3%
-Morning    06–12           : ███░░░░░░░░░░░░░░░   15.5%
-Afternoon  12–18           : ██████████░░░░░░░░   58.3%
-Evening    18–24           : ███░░░░░░░░░░░░░░░   17.9%
+Night      00–06           : ██░░░░░░░░░░░░░░░░    9.0%
+Morning    06–12           : █████░░░░░░░░░░░░░   28.2%
+Afternoon  12–18           : █████████░░░░░░░░░   48.7%
+Evening    18–24           : ███░░░░░░░░░░░░░░░   14.1%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-30 16:19:28Z
-History last play (7d)    : 2026-11-04 21:58:54Z
-Observed time span        : 125:39:26
-Mean inter-play gap       : 01:30:50
+History first play (7d)   : 2026-10-31 17:44:04Z
+History last play (7d)    : 2026-11-07 10:27:24Z
+Observed time span        : 160:43:20
+Mean inter-play gap       : 02:05:14
 Median inter-play gap     : 00:04:50
-Longest inactivity gap    : 40:44:20
-Listening intensity       : 0.67 tracks/hour
+Longest inactivity gap    : 59:52:52
+Listening intensity       : 0.49 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 07:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :   ▁  ▄ ▂▁▄▁  ▆▄█▇▆▅▁▂  ▁
+Heatmap (24h)             :       ▄█                
+Heatmap (7d)              :   ▁  ▄▂▆▁▄▁   ▂█▇▆▅▁▁   
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : ▂ ▂ ▃█ 
+Activity (Mon→Sun)        : ▂ ▂  █ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   ▆          ▁▁      ▄█▅ ▁ ▁  
+Activity trend (30d)      :  ▆          ▁▁      ▄█▅ ▁ ▁  ▁
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,53 +1647,53 @@ Mon                       :        ▅▁█▁
 Tue                       :                         
 Wed                       :   ▁  █           ▄▁     
 Thu                       :                         
-Fri                       :              █▂     ▂  ▂
-Sat                       :               ▂█▇▄▄▁▁   
+Fri                       :                         
+Sat                       :       ▂▄      ▂█▇▄▄▁▁   
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 9
+Dominant artist           : Soundgarden
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-30 15:59:41Z → 2026-11-06 15:59:41Z
-Tracks played (7d)        : 84
+Week window (UTC)         : 2026-10-31 16:31:04Z → 2026-11-07 16:31:04Z
+Tracks played (7d)        : 78
 Dominant artist           : Oasis
-Cadence classification    : VERY HIGH
+Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 15
-Avg inter-play gap        : 01:30:50
+Sessions (24h)            : 1
+Sessions (7d)             : 13
+Avg inter-play gap        : 02:05:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : britpop(75) | grunge(7) | post-grunge(7) | hard rock(5) | ambient jazz(1) | free jazz(1)
+Top genres (24h)          : grunge(9) | hard rock(9) | post-grunge(9)
+Top genres (7d)           : britpop(61) | grunge(16) | post-grunge(16) | hard rock(14) | ambient jazz(1) | free jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Oasis — Slide Away - Remastered → Soundgarden — Overfloater
+Playback timestamp Δ      : 2026-11-04 21:58:54Z → 2026-11-07 10:27:24Z
 State transition          : NO CHANGE
-Telemetry interval        : 09:00:43
+Telemetry interval        : 07:35:24
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 700
+Events retained           : 709
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-04 18:58:54 -03
-Events (24h)              : 0
-Events (7d)               : 84
-Events (30d)              : 265
+Newest retained event     : 2026-11-07 07:27:24 -03
+Events (24h)              : 9
+Events (7d)               : 78
+Events (30d)              : 272
 Playlist contexts retained: 141
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1722,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-06 15:59:41Z
+Report generated (UTC)    : 2026-11-07 16:31:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2080,9 +2080,9 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 06 November 2026
+From: 04 December 2023 - To: 07 November 2026
 
-Total Time       : 1,075 hrs 3 mins
+Total Time       : 1,075 hrs 41 mins
 Mostly coding in : Other
 Daily average    : 1 hrs 0 mins
 Best day         : 2026-10-30 — 20 hrs 25 mins
@@ -2091,12 +2091,12 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          983 hrs 58 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  91.53 %
-Bash           177 hrs 2 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
-Python         142 hrs 5 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
-HTML           141 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.12 %
-PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.16 %
-Markdown       80 hrs 51 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.52 %
+Other          990 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  92.06 %
+Bash           177 hrs 11 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
+Python         142 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
+HTML           141 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.11 %
+PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.15 %
+Markdown       80 hrs 52 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.52 %
 C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.11 %
 Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.76 %
 C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.72 %
@@ -2104,7 +2104,7 @@ YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○�
 INI            36 hrs 23 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.38 %
 JavaScript     35 hrs 50 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.33 %
 CSS            22 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.05 %
-Common Lisp    21 hrs 37 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.01 %
+Common Lisp    21 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.04 %
 TeX            13 hrs 34 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.26 %
 Apache Config  12 hrs 7 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.13 %
 Vim Script     12 hrs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.12 %
@@ -2119,25 +2119,25 @@ apache         4 hrs          ○○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,340 hrs 34 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.51 %
+Mac            1,347 hrs 30 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.47 %
 
 EDITORS - APPS
 --------------
-Firefox        682 hrs 43 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.51 %
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.36 %
-Vim            338 hrs 2 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.44 %
-Terminal       64 hrs 39 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.02 %
-Spotify        60 hrs 41 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.65 %
+Firefox        688 hrs 50 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.04 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.32 %
+Vim            338 hrs 19 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.45 %
+Terminal       64 hrs 39 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.01 %
+Spotify        60 hrs 41 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.64 %
 ‎WhatsApp      40 hrs 34 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
 Pages          28 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.64 %
 Acrobat        26 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.50 %
-Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
+Termius        24 hrs 13 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
 Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
-FileZilla      19 hrs 47 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.84 %
+FileZilla      20 hrs 1 min   ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.86 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
 Notes          12 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Codex Vscode   11 hrs 41 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.09 %
+Codex Vscode   11 hrs 56 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.11 %
 TextMate       10 hrs 18 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
 Chrome         9 hrs 37 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.89 %
 Antigravity    6 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
@@ -2152,16 +2152,16 @@ Telegram       21 mins        ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,283 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       680 hrs 49 mins ●●●●●●●●●●●●●●●●○○○○○○○○○○  63.33 %
+Coding         1,284 hrs 10 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       686 hrs 56 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.86 %
 Meeting        49 hrs 9 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.57 %
-AI Coding      28 hrs 7 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.62 %
-Writing Docs   17 hrs 13 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.60 %
+AI Coding      28 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.65 %
+Writing Docs   17 hrs 14 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.60 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 06/11/2026 13:38:48 UTC
+Last updated     : 07/11/2026 12:19:28 UTC
 
 ```
 <!--END_SECTION:wakastats-->
