@@ -81,7 +81,7 @@ Beyond engineering, I explore philosophy, I study constantly [**Zen**](https://e
 
 -->
 
-Beyond engineering, I explore philosophy and contemplative traditions through rigorous study and long-term practice. I study, practice, and follow [**Zen Buddhism**](https://en.wikipedia.org/wiki/Zen) as both a philosophical and existential discipline, integrating it with ancient philosophy, reason, naturalism, and a broader inquiry into mind, consciousness, and reality. My practice centers on [**Zazen**](https://en.wikipedia.org/wiki/Zazen), particularly **Shikantaza** (*“just sitting”*) — observing experience directly, without attachment or pursuit of a particular state. For me, Zen and mindfulness are integral to my understanding of life and the universe, cultivating presence, clarity, self-knowledge, and a direct, non-dogmatic encounter with reality. I am a [**Freemason**](https://en.wikipedia.org/wiki/Freemasonry) — <!--A sleeping--> [Bro∴ (*Masonic Brother*)](https://en.wikipedia.org/wiki/List_of_Masonic_abbreviations), belonging to the broader initiatic, philosophical, symbolic, and fraternal tradition of **Freemasonry**. To be a Masonic Brother is, to me, to belong to a fraternity united by shared principles of mutual respect, ethical development, freedom of conscience, and the continuous improvement of the individual. I embrace its philosophical and symbolic heritage as a path of inner refinement and self-cultivation — fostering fraternity, self-knowledge, intellectual clarity, and the enduring pursuit of truth. I enjoy reading and writing ([**Goodreads**](https://goodreads.com/felipealfonsog)), playing [**bass guitar**](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [**BJJ**](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)), listening to music ([**Spotify**](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [**PETA**](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [**Agrupación Nacional de Boy Scouts de Chile**](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
+Beyond engineering, I explore philosophy and contemplative traditions through rigorous study and long-term practice. I study, practice, and follow [**Zen Buddhism**](https://en.wikipedia.org/wiki/Zen) as both a philosophical and existential discipline, integrating it with ancient philosophy, reason, naturalism, and a broader inquiry into mind, consciousness, and reality. My practice centers on [**Zazen**](https://en.wikipedia.org/wiki/Zazen), particularly **Shikantaza** (*“just sitting”*) — observing experience directly, without attachment or pursuit of a particular state. For me, Zen and mindfulness are integral to my understanding of life and the universe, cultivating presence, clarity, self-knowledge, and a direct, non-dogmatic encounter with reality. I am a [**Freemason**](https://en.wikipedia.org/wiki/Freemasonry) — <!--A sleeping--> [Bro ∴ (*Masonic Brother*)](https://en.wikipedia.org/wiki/List_of_Masonic_abbreviations), belonging to the broader initiatic, philosophical, symbolic, and fraternal tradition of **Freemasonry**. To be a Masonic Brother is, to me, to belong to a fraternity united by shared principles of mutual respect, ethical development, freedom of conscience, and the continuous improvement of the individual. I embrace its philosophical and symbolic heritage as a path of inner refinement and self-cultivation — fostering fraternity, self-knowledge, intellectual clarity, and the enduring pursuit of truth. I enjoy reading and writing ([**Goodreads**](https://goodreads.com/felipealfonsog)), playing [**bass guitar**](https://en.wikipedia.org/wiki/Bass_guitar) (jazz/blues), practicing [**BJJ**](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)), listening to music ([**Spotify**](https://open.spotify.com/user/12133266428)), and supporting animals and nature through ethical advocacy, including [**PETA**](https://www.peta.org/). As a former [**Ranger / Rover Scout Leader**](https://en.wikipedia.org/wiki/Rover_Scout) of the [**Agrupación Nacional de Boy Scouts de Chile**](https://es.wikipedia.org/wiki/Agrupaci%C3%B3n_Nacional_de_Boy_Scouts_de_Chile), I uphold their mission and values as part of my own principles.
 
 Throughout my life, I have lived, worked, and studied internationally — including [New Delhi](https://en.wikipedia.org/wiki/New_Delhi); an extended multi-year period in [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) ([Auckland](https://en.wikipedia.org/wiki/Auckland) and [Christchurch](https://en.wikipedia.org/wiki/Christchurch)); [California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States); a brief period in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich); and another extended multi-year period in [Cape Town](https://en.wikipedia.org/wiki/Cape_Town), [South Africa](https://en.wikipedia.org/wiki/South_Africa). These experiences strengthened my adaptability across cultures and professional environments, and gave me fluency in [English](https://en.wikipedia.org/wiki/English_language), [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), and [French](https://en.wikipedia.org/wiki/French_language), in addition to my native [Spanish](https://en.wikipedia.org/wiki/Spanish_language). Feel free to reach out in any of these languages.
 
@@ -536,7 +536,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=ok | mode=network | sync=2026-10-17T04:12:19+00:00 | last_update=2026-10-17T04:12:19+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-08T05:50:21+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +706,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 396 ms
-TTFB................ 395 ms
+LATENCY............. 189 ms
+TTFB................ 188 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 74d
+TLS_EXPIRY.......... 53d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -725,9 +725,9 @@ REFPOL.............. MISS
 PERMPOL............. MISS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. FAIL
+TOR_BROWSER_COMPAT.. PASS
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
+TOR_EXIT_RESULT..... SUCCESS
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -739,9 +739,9 @@ VIEWS_7D............ 6882
 UNIQUES_24H......... 402
 BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
-CONTENT_LENGTH...... 9 KB
+CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-10-17T07:40:04Z
+LAST_PROBE_UTC...... 2026-11-07T09:50:09Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -781,19 +781,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : residential_sector
-latitude       : -33.441513
-longitude      : -70.653470
-altitude       : 25 m
-gps_accuracy   : ±6.4 m
-heading        : 342°
-speed          : 0.2 km/h
-status         : resting
+location       : urban_sector
+latitude       : -33.443865
+longitude      : -70.650691
+altitude       : 81 m
+gps_accuracy   : ±5.8 m
+heading        : 0°
+speed          : 0.1 km/h
+status         : low_movement
 phase          : overnight
-local_time     : 23:07
+local_time     : 00:21
 timezone       : America/Santiago
-signal         : nominal
-updated_utc    : 2026-10-17 02:07:29 UTC
+signal         : stable
+updated_utc    : 2026-11-08 03:21:57 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +912,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-10-17 04:37:10Z
+DSN snapshot (UTC)       : 2026-11-08 06:14:22Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +923,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.82e9 km | 172.564 AU
-Heliocentric distance    : 172.075 AU
-Relative speed           : 43.233 km/s
+Earth distance           : 25.88e9 km | 172.984 AU
+Heliocentric distance    : 172.290 AU
+Relative speed           : 40.820 km/s
 ------------------------------------------------------------
-One-way light time       : 23:55:10
-Round-trip latency       : 47:50:21
+One-way light time       : 23:58:40
+Round-trip latency       : 47:57:19
 ------------------------------------------------------------
-Δ distance (since last)  : +951,510 km
-Mission age              : 49 years, 54 days
+Δ distance (since last)  : +875,779 km
+Mission age              : 49 years, 76 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +942,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.58e9 km | 144.267 AU
-Heliocentric distance    : 144.226 AU
-Relative speed           : 41.693 km/s
+Earth distance           : 21.65e9 km | 144.746 AU
+Heliocentric distance    : 144.418 AU
+Relative speed           : 41.329 km/s
 ------------------------------------------------------------
-One-way light time       : 19:59:50
-Round-trip latency       : 39:59:40
+One-way light time       : 20:03:49
+Round-trip latency       : 40:07:38
 ------------------------------------------------------------
-Δ distance (since last)  : +1.008e6 km
-Mission age              : 49 years, 70 days
+Δ distance (since last)  : +1.081e6 km
+Mission age              : 49 years, 92 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-10-17 04:37:13Z
+Report generated (UTC)   : 2026-11-08 06:14:26Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1498,178 +1498,178 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Chevelle — Don't Fake This
-Artist                    : Chevelle
-Title                     : Don't Fake This
-Album                     : Wonder What's Next (Expanded Edition)
-Spotify URI               : spotify:track:2Bcvh4zypRuH0cCTQzuV6B
-Spotify URL               : https://open.spotify.com/track/2Bcvh4zypRuH0cCTQzuV6B
+Track                     : Soundgarden — Overfloater
+Artist                    : Soundgarden
+Title                     : Overfloater
+Album                     : Down On The Upside
+Spotify URI               : spotify:track:1U8v17QBWhtJqLmJxk4Sr6
+Spotify URL               : https://open.spotify.com/track/1U8v17QBWhtJqLmJxk4Sr6
 ------------------------------------------------------------
-Played at (UTC)           : 2026-10-15 01:32:25Z
-Played at (local)         : 2026-10-14 22:32:25 -03
-Local hour                : 22:00
-Daypart                   : EVENING
-Time since play           : 53:30:10
-Gap from previous play    : 03:42:51
+Played at (UTC)           : 2026-11-07 10:27:24Z
+Played at (local)         : 2026-11-07 07:27:24 -03
+Local hour                : 07:00
+Daypart                   : MORNING
+Time since play           : 15:03:01
+Gap from previous play    : 00:05:08
 ------------------------------------------------------------
-Previous song             : Chevelle — Wonder What's Next
+Previous song             : Soundgarden — Switch Opens
 Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 2
+Track plays (retained)    : 1
 Artist plays (retained)   : 19
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Chevelle — Wonder What's Next | 2026-10-14 18:49:34 -03
-Previous track #2         : Chevelle — The Red | 2026-10-14 18:45:24 -03
-Previous track #3         : Cold — Same Drug | 2026-10-14 18:39:34 -03
-Previous track #4         : Nirvana — Blew | 2026-10-12 02:27:26 -03
-Previous track #5         : Cold — Same Drug | 2026-10-10 11:56:06 -03
-Previous track #6         : Cold — It's All Good | 2026-10-10 10:11:03 -03
-Previous track #7         : Cold — She Said | 2026-10-10 10:06:59 -03
-Previous track #8         : Chevelle — Get Some | 2026-10-10 09:56:30 -03
-Previous track #9         : Godsmack — I Stand Alone - Live at Mohegan Sun | 2026-10-10 09:56:30 -03
-Previous track #10        : Midrift — Twin Flames | 2026-10-10 09:01:40 -03
-Previous track #11        : Roving — Haven Blue | 2026-10-10 08:59:59 -03
-Previous track #12        : Superheaven — Blur | 2026-10-10 08:56:24 -03
-Previous track #13        : Soul Blind — Stuck In A Loop | 2026-10-10 08:53:05 -03
-Previous track #14        : SWEET SPINE — Darkness | 2026-10-10 08:50:16 -03
-Previous track #15        : Grivo — C.A. | 2026-10-10 08:46:31 -03
-Previous track #16        : PlasticSkin — Leave Me Alive | 2026-10-10 08:42:45 -03
-Previous track #17        : Midrift — unrequited | 2026-10-10 08:39:56 -03
-Previous track #18        : Glare — Into Me | 2026-10-10 08:37:50 -03
-Previous track #19        : Narrow Head — Nodding Off | 2026-10-10 08:35:50 -03
-Previous track #20        : Druidess — Lavender | 2026-10-10 08:30:09 -03
-Previous track #21        : trauma ray — Relay | 2026-10-10 08:26:09 -03
-Previous track #22        : Roving — Midnight Shimmer | 2026-10-10 08:22:50 -03
-Previous track #23        : Superheaven — From the Chest Down | 2026-10-10 08:19:18 -03
-Previous track #24        : Midrift — Need | 2026-10-10 08:13:16 -03
-Previous track #25        : Midrift — Woods | 2026-10-10 08:10:24 -03
-Previous track #26        : Midrift — bouquet | 2026-10-10 08:08:32 -03
-Previous track #27        : Midrift — Grounded | 2026-10-10 08:05:53 -03
-Previous track #28        : Midrift — all i said | 2026-10-10 08:04:09 -03
-Previous track #29        : Midrift — Wanted | 2026-10-10 08:01:15 -03
-Previous track #30        : Midrift — Between | 2026-10-10 07:58:46 -03
-Previous track #31        : Midrift — Midrift | 2026-10-10 07:56:10 -03
-Previous track #32        : Midrift — difference to | 2026-10-10 07:54:36 -03
-Previous track #33        : Midrift — Change For | 2026-10-10 07:51:45 -03
-Previous track #34        : Midrift — i remembered to forget | 2026-10-10 07:49:25 -03
-Previous track #35        : Midrift — In Pictures | 2026-10-10 07:46:48 -03
-Previous track #36        : Midrift — silhouette | 2026-10-10 07:44:44 -03
-Previous track #37        : Midrift — Path | 2026-10-10 07:40:46 -03
-Previous track #38        : Midrift — two-headed calf | 2026-10-10 07:38:11 -03
-Previous track #39        : Midrift — it still feels real to me | 2026-10-10 07:35:21 -03
-Previous track #40        : Midrift — over anything | 2026-10-10 07:33:03 -03
+Previous track #1         : Soundgarden — Switch Opens | 2026-11-07 07:22:16 -03
+Previous track #2         : Soundgarden — No Attention | 2026-11-07 07:18:23 -03
+Previous track #3         : Soundgarden — Tighter & Tighter | 2026-11-07 07:13:56 -03
+Previous track #4         : Soundgarden — Never The Machine Forever | 2026-11-07 07:07:50 -03
+Previous track #5         : Soundgarden — Applebite | 2026-11-07 07:04:13 -03
+Previous track #6         : Soundgarden — Never Named | 2026-11-07 06:59:04 -03
+Previous track #7         : Soundgarden — Burden In My Hand | 2026-11-07 06:56:36 -03
+Previous track #8         : Soundgarden — Blow Up The Outside World | 2026-11-07 06:51:46 -03
+Previous track #9         : Oasis — Slide Away - Remastered | 2026-11-04 18:58:54 -03
+Previous track #10        : Oasis — Supersonic - Remastered | 2026-11-04 17:56:29 -03
+Previous track #11        : Oasis — Supersonic - Remastered | 2026-11-04 17:48:44 -03
+Previous track #12        : Soundgarden — Dusty | 2026-11-04 17:38:34 -03
+Previous track #13        : Soundgarden — Dusty | 2026-11-04 05:45:01 -03
+Previous track #14        : Soundgarden — Zero Chance | 2026-11-04 05:36:46 -03
+Previous track #15        : Soundgarden — Rhinosaur | 2026-11-04 05:32:27 -03
+Previous track #16        : Soundgarden — Pretty Noose | 2026-11-04 05:29:13 -03
+Previous track #17        : Days Of The New — Shelf In The Room | 2026-11-04 05:24:17 -03
+Previous track #18        : Mad Season — Locomotive | 2026-11-04 05:10:28 -03
+Previous track #19        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-04 02:51:32 -03
+Previous track #20        : Oasis — Columbia - Remastered White Label Demo | 2026-11-02 10:07:12 -03
+Previous track #21        : Oasis — Married with Children - Remastered | 2026-11-02 09:51:56 -03
+Previous track #22        : Oasis — Slide Away - Remastered | 2026-11-02 09:48:41 -03
+Previous track #23        : Oasis — Digsy's Dinner - Remastered | 2026-11-02 09:42:08 -03
+Previous track #24        : Oasis — Cigarettes & Alcohol - Remastered | 2026-11-02 09:39:36 -03
+Previous track #25        : Oasis — Bring It on Down - Remastered | 2026-11-02 09:34:47 -03
+Previous track #26        : Oasis — Supersonic - Remastered | 2026-11-02 09:30:29 -03
+Previous track #27        : Oasis — Supersonic - Remastered | 2026-11-02 09:25:37 -03
+Previous track #28        : Oasis — Supersonic - Remastered | 2026-11-02 08:05:56 -03
+Previous track #29        : Oasis — Cigarettes & Alcohol - Remastered | 2026-11-02 07:33:00 -03
+Previous track #30        : Oasis — Bring It on Down - Remastered | 2026-11-02 07:25:40 -03
+Previous track #31        : Oasis — Supersonic - Remastered | 2026-11-02 07:21:17 -03
+Previous track #32        : Oasis — Supersonic - Remastered | 2026-11-02 07:09:42 -03
+Previous track #33        : Oasis — Supersonic - Remastered | 2026-10-31 20:27:38 -03
+Previous track #34        : Oasis — Supersonic - Remastered | 2026-10-31 19:54:19 -03
+Previous track #35        : Oasis — Supersonic - Remastered | 2026-10-31 19:25:47 -03
+Previous track #36        : Oasis — Take Me Away - Remastered | 2026-10-31 18:26:40 -03
+Previous track #37        : Oasis — I Will Believe - Remastered Live | 2026-10-31 18:26:09 -03
+Previous track #38        : Oasis — Sad Song - Remastered | 2026-10-31 18:22:20 -03
+Previous track #39        : Oasis — Cigarettes & Alcohol - Remastered Demo | 2026-10-31 18:17:51 -03
+Previous track #40        : Oasis — Columbia - Remastered White Label Demo | 2026-10-31 18:13:13 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-09-30 20:52:17 -03
-Track observed in context : John Coltrane — Blue World
+Context observed (local)  : 2026-11-04 02:51:32 -03
+Track observed in context : Tomasz Stanko Quintet — Terminal 7
 Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
 Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
-Previous playlist #1      : N/A | 2026-09-26 21:36:29 -03
-Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
-Previous playlist #3      : N/A | 2026-09-25 00:06:20 -03
-Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
-Previous playlist #5      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
-Previous playlist #6      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
-Previous playlist #8      : Felipe’s Heavy, Dark & Drenched in Sound | 2026-09-06 23:51:38 -03
-Previous playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-06 15:21:05 -03
+Previous playlist #1      : N/A | 2026-10-22 06:23:12 -03
+Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03
+Previous playlist #3      : N/A | 2026-09-26 21:36:29 -03
+Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
+Previous playlist #5      : N/A | 2026-09-25 00:06:20 -03
+Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
+Previous playlist #7      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
+Previous playlist #8      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
-Last known device type    : Smartphone
-Last known device name    : iPhone
+Last known device type    : Computer
+Last known device name    : Felipe’s MacBook Air Silicon
 Last known volume         : 100%
 Volume telemetry          : OK
 Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-09-30 23:56:54Z
+Context observed (UTC)    : 2026-10-31 18:37:57Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 60
-Unique tracks             : 56
-Unique artists            : 16
-Replay ratio              : █░░░░░░░░░░░░░░░░░  6.7%
-Artist diversity          : █████░░░░░░░░░░░░░  26.7%
-Dominant artist           : Midrift
-Dominant artist share     : ██████████░░░░░░░░  53.3%
-Artist switch ratio       : ██████░░░░░░░░░░░░  35.6%
-Longest artist streak     : Midrift × 30
+Observed events           : 33
+Unique tracks             : 23
+Unique artists            : 5
+Replay ratio              : █████░░░░░░░░░░░░░  30.3%
+Artist diversity          : ███░░░░░░░░░░░░░░░  15.2%
+Dominant artist           : Oasis
+Dominant artist share     : █████████░░░░░░░░░  48.5%
+Artist switch ratio       : ███░░░░░░░░░░░░░░░  18.8%
+Longest artist streak     : Oasis × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    1.7%
-Morning    06–12           : ████████████████░░   91.7%
-Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    6.7%
+Night      00–06           : ████░░░░░░░░░░░░░░   21.2%
+Morning    06–12           : ████████████░░░░░░   66.7%
+Afternoon  12–18           : ██░░░░░░░░░░░░░░░░    9.1%
+Evening    18–24           : █░░░░░░░░░░░░░░░░░    3.0%
 Dominant period           : MORNING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-10-10 09:39:56Z
-History last play (7d)    : 2026-10-15 01:32:25Z
-Observed time span        : 111:52:29
-Mean inter-play gap       : 01:53:46
-Median inter-play gap     : 00:02:52
-Longest inactivity gap    : 64:12:08
-Listening intensity       : 0.54 tracks/hour
+History first play (7d)   : 2026-11-02 10:09:42Z
+History last play (7d)    : 2026-11-07 10:27:24Z
+Observed time span        : 120:17:42
+Mean inter-play gap       : 03:45:33
+Median inter-play gap     : 00:05:38
+Longest inactivity gap    : 59:52:52
+Listening intensity       : 0.27 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 07:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :       ▂█▆▁▁       ▁     
+Heatmap (24h)             :       ▄█                
+Heatmap (7d)              :   ▁  ▅▂█▁▆▁      ▂▁     
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▁  █ 
+Activity (Mon→Sun)        : █ ▇  ▆ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁     ▂ ▃ ▂ ▁▅    ▁   █   ▁   
+Activity trend (30d)      :  ▆          ▁▁      ▄█▅ ▁ ▁  ▁
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :   █                     
+Mon                       :        ▅▁█▁             
 Tue                       :                         
-Wed                       :                   █   ▃ 
+Wed                       :   ▁  █           ▄▁     
 Thu                       :                         
 Fri                       :                         
-Sat                       :       ▂█▆▁▁             
+Sat                       :       ▄█                
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 9
+Dominant artist           : Soundgarden
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-10-10 07:02:35Z → 2026-10-17 07:02:35Z
-Tracks played (7d)        : 60
-Dominant artist           : Midrift
-Cadence classification    : HIGH
+Week window (UTC)         : 2026-11-01 01:30:24Z → 2026-11-08 01:30:24Z
+Tracks played (7d)        : 33
+Dominant artist           : Oasis
+Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 6
-Avg inter-play gap        : 01:53:46
+Sessions (24h)            : 1
+Sessions (7d)             : 8
+Avg inter-play gap        : 03:45:33
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : shoegaze(44) | alternative metal(15) | post-grunge(12) | nu metal(9) | grunge(7) | groove metal(6)
+Top genres (24h)          : grunge(9) | hard rock(9) | post-grunge(9)
+Top genres (7d)           : britpop(16) | grunge(16) | post-grunge(16) | hard rock(14) | ambient jazz(1) | free jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1677,17 +1677,17 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:27:48
+Telemetry interval        : 03:31:15
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 497
+Events retained           : 709
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-10-14 22:32:25 -03
-Events (24h)              : 0
-Events (7d)               : 60
-Events (30d)              : 214
-Playlist contexts retained: 128
+Newest retained event     : 2026-11-07 07:27:24 -03
+Events (24h)              : 9
+Events (7d)               : 33
+Events (30d)              : 272
+Playlist contexts retained: 141
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-10-17 07:02:35Z
+Report generated (UTC)    : 2026-11-08 01:30:24Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2073,60 +2073,88 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 16 October 2026
+From: 04 December 2023 - To: 07 November 2026
 
-Total Time       : 1,074 hrs 16 mins
+Total Time       : 1,075 hrs 41 mins
 Mostly coding in : Other
-Daily average    : 1 hrs 1 mins
-Best day         : 2026-05-18 — 16 hrs 2 mins
+Daily average    : 1 hrs 0 mins
+Best day         : 2026-10-30 — 20 hrs 25 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          920 hrs 48 mins ●●●●●●●●●●●●●●●●●●●●●●○○○○  85.71 %
-Bash           176 hrs 52 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.46 %
-Python         142 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
-HTML           141 hrs        ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.13 %
-PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.17 %
-Markdown       80 hrs 50 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.53 %
-C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.12 %
+Other          990 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  92.06 %
+Bash           177 hrs 11 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
+Python         142 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
+HTML           141 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.11 %
+PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.15 %
+Markdown       80 hrs 52 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.52 %
+C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.11 %
 Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.76 %
 C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.72 %
 YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.55 %
+INI            36 hrs 23 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.38 %
+JavaScript     35 hrs 50 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.33 %
+CSS            22 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.05 %
+Common Lisp    21 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.04 %
+TeX            13 hrs 34 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.26 %
+Apache Config  12 hrs 7 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.13 %
+Vim Script     12 hrs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.12 %
+XML            8 hrs 42 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.81 %
+JSON           7 hrs 8 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.66 %
+Crontab        7 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.65 %
+samba          6 hrs 24 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.60 %
+conf           5 hrs 44 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.53 %
+Prolog         5 hrs 35 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.52 %
+Groff          5 hrs 2 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.47 %
+apache         4 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,276 hrs 37 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.56 %
+Mac            1,347 hrs 30 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.47 %
 
 EDITORS - APPS
 --------------
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.40 %
-Firefox        657 hrs 56 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.24 %
-Vim            337 hrs 56 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.46 %
-Terminal       54 hrs 41 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.09 %
-Spotify        52 hrs 52 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.92 %
-‎WhatsApp      35 hrs 45 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.33 %
-Pages          27 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.60 %
-Termius        24 hrs 10 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
+Firefox        688 hrs 50 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.04 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.32 %
+Vim            338 hrs 19 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.45 %
+Terminal       64 hrs 39 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.01 %
+Spotify        60 hrs 41 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.64 %
+‎WhatsApp      40 hrs 34 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
+Pages          28 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.64 %
+Acrobat        26 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.50 %
+Termius        24 hrs 13 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
 Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
-FileZilla      19 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.82 %
-Acrobat        17 hrs 54 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.67 %
+FileZilla      20 hrs 1 min   ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.86 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
+Notes          12 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
+Codex Vscode   11 hrs 56 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.11 %
+TextMate       10 hrs 18 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
+Chrome         9 hrs 37 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.89 %
+Antigravity    6 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
+Preview        6 hrs 1 min    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.56 %
+Zoom           4 hrs 34 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.43 %
+Skim           4 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
+TorBrowser     2 hrs 25 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.23 %
+Cyberduck      1 hr 19 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.12 %
+TeXShop        51 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
+Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
+Telegram       21 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
 
 CATEGORIES
 ----------
-Coding         1,253 hrs 12 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       656 hrs        ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.07 %
-Meeting        44 hrs 19 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.13 %
-AI Coding      26 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.51 %
-Writing Docs   14 hrs 32 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.35 %
+Coding         1,284 hrs 10 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       686 hrs 56 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.86 %
+Meeting        49 hrs 9 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.57 %
+AI Coding      28 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.65 %
+Writing Docs   17 hrs 14 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.60 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 17/10/2026 02:42:25 UTC
+Last updated     : 08/11/2026 04:00:24 UTC
 
 ```
 <!--END_SECTION:wakastats-->
@@ -2988,17 +3016,17 @@ xBUna8GGMn+3tz12so2TE8OaUWiiVLBZcrc=
 - [camviewer](https://github.com/felipealfonsog/camviewer): CamViewer is a simple web-based CCTV dashboard that allows you to stream multiple RTSP camera feeds through a clean HLS interface.
   🧬 Shell · JavaScript · HTML  •  ⭐ 2
 - [ShadowScan](https://github.com/felipealfonsog/ShadowScan): ShadowScan is a security tool designed to scan files and system configurations for hidden backdoors, malicious scripts, and reverse shells on Linux and macOS.
-  🧬 Python  •  ⭐ 2
+  🧬 Python  •  ⭐ 1
 - [NoIP-Manager](https://github.com/felipealfonsog/NoIP-Manager): A versatile tool for managing No-IP dynamic DNS updates and client operations.
   🧬 Shell · Python · C  •  ⭐ 1
 - [OpenVPN-GUI-Connect](https://github.com/felipealfonsog/OpenVPN-GUI-Connect): Streamlined graphical interface for connecting to VPNs using OpenVPN, with file selection and credential entry features.
   🧬 Python · Shell  •  ⭐ 4
 
 ### 🕒 Recently Active Projects
+- [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
+  🧬 Python · Shell  •  ⭐ 7
 - [GitSyncMaster](https://github.com/felipealfonsog/GitSyncMaster): GitSyncMaster: Automate updating multiple Git repositories within a directory structure effortlessly.
   🧬 Python · Shell · Nix  •  ⭐ 1
-- [FeatherPDF](https://github.com/felipealfonsog/FeatherPDF): FeatherPDF is an ultra-lightweight PDF viewer designed for Linux and macOS. It provides a simple and intuitive user interface for reading PDF documents.
-  🧬 Python · Shell  •  ⭐ 6
 - [PicoWebPy](https://github.com/felipealfonsog/PicoWebPy): Web Server, which enables the storage of a simple website in HTML, images, or CSS, in a creative manner using a Raspberry Pi Pico. This is written in MicroPython for a Raspberry Pi Pico W 2 - WiFi - Bluetooth.
   🧬 Python · HTML  •  ⭐ 2
 - [ConnWifiMaster](https://github.com/felipealfonsog/ConnWifiMaster): ConnWifiMaster is a GUI & CLI application for managing WiFi connections on Arch Linux using ConnMan. It allows users to view saved networks, configure auto-connect settings, and manage network connections.
