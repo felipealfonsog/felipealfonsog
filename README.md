@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-07 10:27:24Z
 Played at (local)         : 2026-11-07 07:27:24 -03
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 30:16:00
+Time since play           : 35:48:07
 Gap from previous play    : 00:05:08
 ------------------------------------------------------------
 Previous song             : Soundgarden — Switch Opens
@@ -1654,7 +1654,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-01 16:43:23Z → 2026-11-08 16:43:23Z
+Week window (UTC)         : 2026-11-01 22:15:31Z → 2026-11-08 22:15:31Z
 Tracks played (7d)        : 33
 Dominant artist           : Oasis
 Cadence classification    : MEDIUM
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:33:35
+Telemetry interval        : 05:32:08
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-08 16:43:23Z
+Report generated (UTC)    : 2026-11-08 22:15:31Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
