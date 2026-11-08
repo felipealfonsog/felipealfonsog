@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-07 10:27:24Z
 Played at (local)         : 2026-11-07 07:27:24 -03
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 22:42:25
+Time since play           : 30:16:00
 Gap from previous play    : 00:05:08
 ------------------------------------------------------------
 Previous song             : Soundgarden — Switch Opens
@@ -1622,9 +1622,9 @@ Listening intensity       : 0.27 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :       ▄█                
+Heatmap (24h)             : N/A
 Heatmap (7d)              :   ▁  ▅▂█▁▆▁      ▂▁     
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
-Dominant artist           : Soundgarden
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-01 09:09:49Z → 2026-11-08 09:09:49Z
+Week window (UTC)         : 2026-11-01 16:43:23Z → 2026-11-08 16:43:23Z
 Tracks played (7d)        : 33
 Dominant artist           : Oasis
 Cadence classification    : MEDIUM
@@ -1662,13 +1662,13 @@ Cadence classification    : MEDIUM
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 8
 Avg inter-play gap        : 03:45:33
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(9) | hard rock(9) | post-grunge(9)
+Top genres (24h)          : N/A
 Top genres (7d)           : britpop(16) | grunge(16) | post-grunge(16) | hard rock(14) | ambient jazz(1) | free jazz(1)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:39:25
+Telemetry interval        : 07:33:35
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 709
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-07 07:27:24 -03
-Events (24h)              : 9
+Events (24h)              : 0
 Events (7d)               : 33
 Events (30d)              : 272
 Playlist contexts retained: 141
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-08 09:09:49Z
+Report generated (UTC)    : 2026-11-08 16:43:23Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
