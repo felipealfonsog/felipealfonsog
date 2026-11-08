@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-07 10:27:24Z
 Played at (local)         : 2026-11-07 07:27:24 -03
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 15:03:01
+Time since play           : 22:42:25
 Gap from previous play    : 00:05:08
 ------------------------------------------------------------
 Previous song             : Soundgarden — Switch Opens
@@ -1631,7 +1631,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : █ ▇  ▆ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  ▆          ▁▁      ▄█▅ ▁ ▁  ▁
+Activity trend (30d)      : ▆          ▁▁      ▄█▅ ▁ ▁  ▁ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-01 01:30:24Z → 2026-11-08 01:30:24Z
+Week window (UTC)         : 2026-11-01 09:09:49Z → 2026-11-08 09:09:49Z
 Tracks played (7d)        : 33
 Dominant artist           : Oasis
 Cadence classification    : MEDIUM
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:31:15
+Telemetry interval        : 07:39:25
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-08 01:30:24Z
+Report generated (UTC)    : 2026-11-08 09:09:49Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
