@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-07 10:27:24Z
 Played at (local)         : 2026-11-07 07:27:24 -03
 Local hour                : 07:00
 Daypart                   : MORNING
-Time since play           : 39:18:58
+Time since play           : 47:28:18
 Gap from previous play    : 00:05:08
 ------------------------------------------------------------
 Previous song             : Soundgarden — Switch Opens
@@ -1631,7 +1631,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : █ ▇  ▆ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▆          ▁▁      ▄█▅ ▁ ▁  ▁ 
+Activity trend (30d)      :           ▁▁      ▄█▅ ▁ ▁  ▁  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1654,7 +1654,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-02 01:46:21Z → 2026-11-09 01:46:21Z
+Week window (UTC)         : 2026-11-02 09:55:42Z → 2026-11-09 09:55:42Z
 Tracks played (7d)        : 33
 Dominant artist           : Oasis
 Cadence classification    : MEDIUM
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:30:51
+Telemetry interval        : 08:09:21
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1686,7 +1686,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-07 07:27:24 -03
 Events (24h)              : 0
 Events (7d)               : 33
-Events (30d)              : 272
+Events (30d)              : 267
 Playlist contexts retained: 141
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-09 01:46:21Z
+Report generated (UTC)    : 2026-11-09 09:55:42Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
