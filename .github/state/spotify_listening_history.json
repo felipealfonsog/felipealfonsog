@@ -1,8 +1,462 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-09 09:55:42Z",
+  "updated_utc": "2026-11-09 20:50:36Z",
   "events": [
+    {
+      "track": "Helmet — Give It",
+      "artist": "Helmet",
+      "title": "Give It",
+      "album": "Meantime",
+      "uri": "spotify:track:6rVleAFgtmJ04Omk6Mmon5",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-11-09 20:28:10Z",
+      "played_at_local": "2026-11-09 17:28:10 -03",
+      "local_hour": 17,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Days Of The New — Hang On To This",
+      "artist": "Days Of The New",
+      "title": "Hang On To This",
+      "album": "Days Of The New (Red Album)",
+      "uri": "spotify:track:3MIHSKer8ICz1i1bPvbZvP",
+      "url": "https://open.spotify.com/track/3MIHSKer8ICz1i1bPvbZvP",
+      "artist_ids": [
+        "07jc1IMGtecDZzOL9cP50t"
+      ],
+      "played_at_utc": "2026-11-09 20:23:52Z",
+      "played_at_local": "2026-11-09 17:23:52 -03",
+      "local_hour": 17,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Beyond the Wheel",
+      "artist": "Soundgarden",
+      "title": "Beyond the Wheel",
+      "album": "Ultramega OK (Expanded Reissue)",
+      "uri": "spotify:track:50II2KmEPc24aGQqLUZXQL",
+      "url": "https://open.spotify.com/track/50II2KmEPc24aGQqLUZXQL",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 20:13:42Z",
+      "played_at_local": "2026-11-09 17:13:42 -03",
+      "local_hour": 17,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Overfloater",
+      "artist": "Soundgarden",
+      "title": "Overfloater",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:1U8v17QBWhtJqLmJxk4Sr6",
+      "url": "https://open.spotify.com/track/1U8v17QBWhtJqLmJxk4Sr6",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 20:08:19Z",
+      "played_at_local": "2026-11-09 17:08:19 -03",
+      "local_hour": 17,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Overfloater",
+      "artist": "Soundgarden",
+      "title": "Overfloater",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:1U8v17QBWhtJqLmJxk4Sr6",
+      "url": "https://open.spotify.com/track/1U8v17QBWhtJqLmJxk4Sr6",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 19:59:21Z",
+      "played_at_local": "2026-11-09 16:59:21 -03",
+      "local_hour": 16,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Switch Opens",
+      "artist": "Soundgarden",
+      "title": "Switch Opens",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:27Ol0Mb3vPswTd6j1S0gau",
+      "url": "https://open.spotify.com/track/27Ol0Mb3vPswTd6j1S0gau",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 19:54:12Z",
+      "played_at_local": "2026-11-09 16:54:12 -03",
+      "local_hour": 16,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — No Attention",
+      "artist": "Soundgarden",
+      "title": "No Attention",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:1nC1MkZfa8sDKoxnuxVvPS",
+      "url": "https://open.spotify.com/track/1nC1MkZfa8sDKoxnuxVvPS",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:46:01Z",
+      "played_at_local": "2026-11-09 13:46:01 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Tighter & Tighter",
+      "artist": "Soundgarden",
+      "title": "Tighter & Tighter",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:1msYmBW3Qmk4sfcrqGc3tu",
+      "url": "https://open.spotify.com/track/1msYmBW3Qmk4sfcrqGc3tu",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:41:34Z",
+      "played_at_local": "2026-11-09 13:41:34 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Never The Machine Forever",
+      "artist": "Soundgarden",
+      "title": "Never The Machine Forever",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:0KauTIoHJfHKMGQpEh9H9z",
+      "url": "https://open.spotify.com/track/0KauTIoHJfHKMGQpEh9H9z",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:35:28Z",
+      "played_at_local": "2026-11-09 13:35:28 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Applebite",
+      "artist": "Soundgarden",
+      "title": "Applebite",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:6zt4QCo05MmCne8zoI3Grd",
+      "url": "https://open.spotify.com/track/6zt4QCo05MmCne8zoI3Grd",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:31:52Z",
+      "played_at_local": "2026-11-09 13:31:52 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Never Named",
+      "artist": "Soundgarden",
+      "title": "Never Named",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:1h4RHBtpFBmHoqeWlvFKRQ",
+      "url": "https://open.spotify.com/track/1h4RHBtpFBmHoqeWlvFKRQ",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:26:42Z",
+      "played_at_local": "2026-11-09 13:26:42 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Burden In My Hand",
+      "artist": "Soundgarden",
+      "title": "Burden In My Hand",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:1iArQTuOzxvrtniGmkyy92",
+      "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:24:14Z",
+      "played_at_local": "2026-11-09 13:24:14 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Blow Up The Outside World",
+      "artist": "Soundgarden",
+      "title": "Blow Up The Outside World",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:5TLA7O0ogTqwZHbS3ERabw",
+      "url": "https://open.spotify.com/track/5TLA7O0ogTqwZHbS3ERabw",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:19:24Z",
+      "played_at_local": "2026-11-09 13:19:24 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Ty Cobb",
+      "artist": "Soundgarden",
+      "title": "Ty Cobb",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:63ISkYCGkR4jZyMaG0ZXQ0",
+      "url": "https://open.spotify.com/track/63ISkYCGkR4jZyMaG0ZXQ0",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:13:38Z",
+      "played_at_local": "2026-11-09 13:13:38 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Dusty",
+      "artist": "Soundgarden",
+      "title": "Dusty",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:2l2vEgLnyAoARHlYok1bK1",
+      "url": "https://open.spotify.com/track/2l2vEgLnyAoARHlYok1bK1",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:10:33Z",
+      "played_at_local": "2026-11-09 13:10:33 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Zero Chance",
+      "artist": "Soundgarden",
+      "title": "Zero Chance",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:2E7EVzgwxA6PtmBIXeaiV7",
+      "url": "https://open.spotify.com/track/2E7EVzgwxA6PtmBIXeaiV7",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:05:59Z",
+      "played_at_local": "2026-11-09 13:05:59 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Rhinosaur",
+      "artist": "Soundgarden",
+      "title": "Rhinosaur",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:4XJq0ehSP5HXTUun2m4njP",
+      "url": "https://open.spotify.com/track/4XJq0ehSP5HXTUun2m4njP",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 16:01:40Z",
+      "played_at_local": "2026-11-09 13:01:40 -03",
+      "local_hour": 13,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Pretty Noose",
+      "artist": "Soundgarden",
+      "title": "Pretty Noose",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:6ZzeXWwDvMzrgCWt9RwBj1",
+      "url": "https://open.spotify.com/track/6ZzeXWwDvMzrgCWt9RwBj1",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 15:58:26Z",
+      "played_at_local": "2026-11-09 12:58:26 -03",
+      "local_hour": 12,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Heroes Del Silencio — Entre dos tierras",
+      "artist": "Heroes Del Silencio",
+      "title": "Entre dos tierras",
+      "album": "Senderos De Traición",
+      "uri": "spotify:track:4rJdaSwOCHLBhxdMsymeMw",
+      "url": "https://open.spotify.com/track/4rJdaSwOCHLBhxdMsymeMw",
+      "artist_ids": [
+        "3qAPxVwIQRBuz5ImPUxpZT"
+      ],
+      "played_at_utc": "2026-11-09 10:56:00Z",
+      "played_at_local": "2026-11-09 07:56:00 -03",
+      "local_hour": 7,
+      "weekday": 0,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:3qAPxVwIQRBuz5ImPUxpZT",
+      "context_url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+    },
+    {
+      "track": "Matchbox Twenty — 3AM",
+      "artist": "Matchbox Twenty",
+      "title": "3AM",
+      "album": "Yourself or Someone Like You",
+      "uri": "spotify:track:5vYA1mW9g2Coh1HUFUSmlb",
+      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb",
+      "artist_ids": [
+        "3Ngh2zDBRPEriyxQDAMKd1"
+      ],
+      "played_at_utc": "2026-11-09 10:48:31Z",
+      "played_at_local": "2026-11-09 07:48:31 -03",
+      "local_hour": 7,
+      "weekday": 0,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:3Ngh2zDBRPEriyxQDAMKd1",
+      "context_url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+    },
+    {
+      "track": "Matchbox Twenty — Push",
+      "artist": "Matchbox Twenty",
+      "title": "Push",
+      "album": "Yourself or Someone Like You",
+      "uri": "spotify:track:2KVwlelhxKUy8LVV6JypH3",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3",
+      "artist_ids": [
+        "3Ngh2zDBRPEriyxQDAMKd1"
+      ],
+      "played_at_utc": "2026-11-09 10:44:49Z",
+      "played_at_local": "2026-11-09 07:44:49 -03",
+      "local_hour": 7,
+      "weekday": 0,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:3Ngh2zDBRPEriyxQDAMKd1",
+      "context_url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+    },
+    {
+      "track": "Soundgarden — Overfloater",
+      "artist": "Soundgarden",
+      "title": "Overfloater",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:1U8v17QBWhtJqLmJxk4Sr6",
+      "url": "https://open.spotify.com/track/1U8v17QBWhtJqLmJxk4Sr6",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 10:29:16Z",
+      "played_at_local": "2026-11-09 07:29:16 -03",
+      "local_hour": 7,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Soundgarden — Switch Opens",
+      "artist": "Soundgarden",
+      "title": "Switch Opens",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:27Ol0Mb3vPswTd6j1S0gau",
+      "url": "https://open.spotify.com/track/27Ol0Mb3vPswTd6j1S0gau",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-09 10:24:07Z",
+      "played_at_local": "2026-11-09 07:24:07 -03",
+      "local_hour": 7,
+      "weekday": 0,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-11-08 06:46:16Z",
+      "played_at_local": "2026-11-08 03:46:16 -03",
+      "local_hour": 3,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Soundgarden — An Unkind",
+      "artist": "Soundgarden",
+      "title": "An Unkind",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:16x4O6YrVAieeW0MbMmytH",
+      "url": "https://open.spotify.com/track/16x4O6YrVAieeW0MbMmytH",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-07 10:53:16Z",
+      "played_at_local": "2026-11-07 07:53:16 -03",
+      "local_hour": 7,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
     {
       "track": "Soundgarden — Overfloater",
       "artist": "Soundgarden",
