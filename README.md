@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-10 11:32:35Z
 Played at (local)         : 2026-11-10 08:32:35 -03
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 01:13:45
+Time since play           : 09:21:01
 Gap from previous play    : 00:03:42
 ------------------------------------------------------------
 Previous song             : Matchbox Twenty — Push
@@ -1622,9 +1622,9 @@ Listening intensity       : 0.34 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 13:00
+Peak hour (24h)           : 08:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : ▁      ▁▂   ▁█  ▁▄      
+Heatmap (24h)             : ▃      ▃█               
 Heatmap (7d)              : ▁ ▁▁ ▄▂█▂   ▁▇  ▁▅▁     
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 24
-Dominant artist           : Soundgarden
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 5
+Dominant artist           : Matchbox Twenty
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-03 12:46:20Z → 2026-11-10 12:46:20Z
+Week window (UTC)         : 2026-11-03 20:53:36Z → 2026-11-10 20:53:36Z
 Tracks played (7d)        : 51
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -1662,29 +1662,29 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 3
 Sessions (7d)             : 13
 Avg inter-play gap        : 02:59:37
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(21) | grunge(18) | hard rock(16) | alternative metal(3) | nu metal(2) | groove metal(1)
+Top genres (24h)          : post-grunge(4) | alternative metal(2) | nu metal(2)
 Top genres (7d)           : post-grunge(42) | grunge(37) | hard rock(33) | alternative metal(3) | britpop(3) | ambient jazz(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Morphine — Buena → Matchbox Twenty — 3AM
-Playback timestamp Δ      : 2026-11-09 20:42:55Z → 2026-11-10 11:32:35Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 08:35:52
+Telemetry interval        : 08:07:16
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 740
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-10 08:32:35 -03
-Events (24h)              : 24
+Events (24h)              : 5
 Events (7d)               : 51
 Events (30d)              : 248
 Playlist contexts retained: 142
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-10 12:46:20Z
+Report generated (UTC)    : 2026-11-10 20:53:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
