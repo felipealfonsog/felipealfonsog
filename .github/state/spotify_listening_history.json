@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-09 20:50:36Z",
+  "updated_utc": "2026-11-10 04:10:28Z",
   "events": [
+    {
+      "track": "Morphine — Buena",
+      "artist": "Morphine",
+      "title": "Buena",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:2SSBJhvMsujY94GK5JAtKs",
+      "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-09 20:42:55Z",
+      "played_at_local": "2026-11-09 17:42:55 -03",
+      "local_hour": 17,
+      "weekday": 0,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:3QgSmABpItIdj908ek80n5",
+      "context_url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+    },
     {
       "track": "Helmet — Give It",
       "artist": "Helmet",

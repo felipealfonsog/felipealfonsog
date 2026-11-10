@@ -1498,69 +1498,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Helmet — Give It
-Artist                    : Helmet
-Title                     : Give It
-Album                     : Meantime
-Spotify URI               : spotify:track:6rVleAFgtmJ04Omk6Mmon5
-Spotify URL               : https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5
+Track                     : Morphine — Buena
+Artist                    : Morphine
+Title                     : Buena
+Album                     : Cure for Pain
+Spotify URI               : spotify:track:2SSBJhvMsujY94GK5JAtKs
+Spotify URL               : https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-09 20:28:10Z
-Played at (local)         : 2026-11-09 17:28:10 -03
+Played at (UTC)           : 2026-11-09 20:42:55Z
+Played at (local)         : 2026-11-09 17:42:55 -03
 Local hour                : 17:00
 Daypart                   : AFTERNOON
-Time since play           : 00:22:26
-Gap from previous play    : 00:04:18
+Time since play           : 07:27:33
+Gap from previous play    : 00:14:45
 ------------------------------------------------------------
-Previous song             : Days Of The New — Hang On To This
+Previous song             : Helmet — Give It
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 4
-Artist plays (retained)   : 25
+Track plays (retained)    : 1
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Days Of The New — Hang On To This | 2026-11-09 17:23:52 -03
-Previous track #2         : Soundgarden — Beyond the Wheel | 2026-11-09 17:13:42 -03
-Previous track #3         : Soundgarden — Overfloater | 2026-11-09 17:08:19 -03
-Previous track #4         : Soundgarden — Overfloater | 2026-11-09 16:59:21 -03
-Previous track #5         : Soundgarden — Switch Opens | 2026-11-09 16:54:12 -03
-Previous track #6         : Soundgarden — No Attention | 2026-11-09 13:46:01 -03
-Previous track #7         : Soundgarden — Tighter & Tighter | 2026-11-09 13:41:34 -03
-Previous track #8         : Soundgarden — Never The Machine Forever | 2026-11-09 13:35:28 -03
-Previous track #9         : Soundgarden — Applebite | 2026-11-09 13:31:52 -03
-Previous track #10        : Soundgarden — Never Named | 2026-11-09 13:26:42 -03
-Previous track #11        : Soundgarden — Burden In My Hand | 2026-11-09 13:24:14 -03
-Previous track #12        : Soundgarden — Blow Up The Outside World | 2026-11-09 13:19:24 -03
-Previous track #13        : Soundgarden — Ty Cobb | 2026-11-09 13:13:38 -03
-Previous track #14        : Soundgarden — Dusty | 2026-11-09 13:10:33 -03
-Previous track #15        : Soundgarden — Zero Chance | 2026-11-09 13:05:59 -03
-Previous track #16        : Soundgarden — Rhinosaur | 2026-11-09 13:01:40 -03
-Previous track #17        : Soundgarden — Pretty Noose | 2026-11-09 12:58:26 -03
-Previous track #18        : Heroes Del Silencio — Entre dos tierras | 2026-11-09 07:56:00 -03
-Previous track #19        : Matchbox Twenty — 3AM | 2026-11-09 07:48:31 -03
-Previous track #20        : Matchbox Twenty — Push | 2026-11-09 07:44:49 -03
-Previous track #21        : Soundgarden — Overfloater | 2026-11-09 07:29:16 -03
-Previous track #22        : Soundgarden — Switch Opens | 2026-11-09 07:24:07 -03
-Previous track #23        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-08 03:46:16 -03
-Previous track #24        : Soundgarden — An Unkind | 2026-11-07 07:53:16 -03
-Previous track #25        : Soundgarden — Overfloater | 2026-11-07 07:27:24 -03
-Previous track #26        : Soundgarden — Switch Opens | 2026-11-07 07:22:16 -03
-Previous track #27        : Soundgarden — No Attention | 2026-11-07 07:18:23 -03
-Previous track #28        : Soundgarden — Tighter & Tighter | 2026-11-07 07:13:56 -03
-Previous track #29        : Soundgarden — Never The Machine Forever | 2026-11-07 07:07:50 -03
-Previous track #30        : Soundgarden — Applebite | 2026-11-07 07:04:13 -03
-Previous track #31        : Soundgarden — Never Named | 2026-11-07 06:59:04 -03
-Previous track #32        : Soundgarden — Burden In My Hand | 2026-11-07 06:56:36 -03
-Previous track #33        : Soundgarden — Blow Up The Outside World | 2026-11-07 06:51:46 -03
-Previous track #34        : Oasis — Slide Away - Remastered | 2026-11-04 18:58:54 -03
-Previous track #35        : Oasis — Supersonic - Remastered | 2026-11-04 17:56:29 -03
-Previous track #36        : Oasis — Supersonic - Remastered | 2026-11-04 17:48:44 -03
-Previous track #37        : Soundgarden — Dusty | 2026-11-04 17:38:34 -03
-Previous track #38        : Soundgarden — Dusty | 2026-11-04 05:45:01 -03
-Previous track #39        : Soundgarden — Zero Chance | 2026-11-04 05:36:46 -03
-Previous track #40        : Soundgarden — Rhinosaur | 2026-11-04 05:32:27 -03
+Previous track #1         : Helmet — Give It | 2026-11-09 17:28:10 -03
+Previous track #2         : Days Of The New — Hang On To This | 2026-11-09 17:23:52 -03
+Previous track #3         : Soundgarden — Beyond the Wheel | 2026-11-09 17:13:42 -03
+Previous track #4         : Soundgarden — Overfloater | 2026-11-09 17:08:19 -03
+Previous track #5         : Soundgarden — Overfloater | 2026-11-09 16:59:21 -03
+Previous track #6         : Soundgarden — Switch Opens | 2026-11-09 16:54:12 -03
+Previous track #7         : Soundgarden — No Attention | 2026-11-09 13:46:01 -03
+Previous track #8         : Soundgarden — Tighter & Tighter | 2026-11-09 13:41:34 -03
+Previous track #9         : Soundgarden — Never The Machine Forever | 2026-11-09 13:35:28 -03
+Previous track #10        : Soundgarden — Applebite | 2026-11-09 13:31:52 -03
+Previous track #11        : Soundgarden — Never Named | 2026-11-09 13:26:42 -03
+Previous track #12        : Soundgarden — Burden In My Hand | 2026-11-09 13:24:14 -03
+Previous track #13        : Soundgarden — Blow Up The Outside World | 2026-11-09 13:19:24 -03
+Previous track #14        : Soundgarden — Ty Cobb | 2026-11-09 13:13:38 -03
+Previous track #15        : Soundgarden — Dusty | 2026-11-09 13:10:33 -03
+Previous track #16        : Soundgarden — Zero Chance | 2026-11-09 13:05:59 -03
+Previous track #17        : Soundgarden — Rhinosaur | 2026-11-09 13:01:40 -03
+Previous track #18        : Soundgarden — Pretty Noose | 2026-11-09 12:58:26 -03
+Previous track #19        : Heroes Del Silencio — Entre dos tierras | 2026-11-09 07:56:00 -03
+Previous track #20        : Matchbox Twenty — 3AM | 2026-11-09 07:48:31 -03
+Previous track #21        : Matchbox Twenty — Push | 2026-11-09 07:44:49 -03
+Previous track #22        : Soundgarden — Overfloater | 2026-11-09 07:29:16 -03
+Previous track #23        : Soundgarden — Switch Opens | 2026-11-09 07:24:07 -03
+Previous track #24        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-08 03:46:16 -03
+Previous track #25        : Soundgarden — An Unkind | 2026-11-07 07:53:16 -03
+Previous track #26        : Soundgarden — Overfloater | 2026-11-07 07:27:24 -03
+Previous track #27        : Soundgarden — Switch Opens | 2026-11-07 07:22:16 -03
+Previous track #28        : Soundgarden — No Attention | 2026-11-07 07:18:23 -03
+Previous track #29        : Soundgarden — Tighter & Tighter | 2026-11-07 07:13:56 -03
+Previous track #30        : Soundgarden — Never The Machine Forever | 2026-11-07 07:07:50 -03
+Previous track #31        : Soundgarden — Applebite | 2026-11-07 07:04:13 -03
+Previous track #32        : Soundgarden — Never Named | 2026-11-07 06:59:04 -03
+Previous track #33        : Soundgarden — Burden In My Hand | 2026-11-07 06:56:36 -03
+Previous track #34        : Soundgarden — Blow Up The Outside World | 2026-11-07 06:51:46 -03
+Previous track #35        : Oasis — Slide Away - Remastered | 2026-11-04 18:58:54 -03
+Previous track #36        : Oasis — Supersonic - Remastered | 2026-11-04 17:56:29 -03
+Previous track #37        : Oasis — Supersonic - Remastered | 2026-11-04 17:48:44 -03
+Previous track #38        : Soundgarden — Dusty | 2026-11-04 17:38:34 -03
+Previous track #39        : Soundgarden — Dusty | 2026-11-04 05:45:01 -03
+Previous track #40        : Soundgarden — Zero Chance | 2026-11-04 05:36:46 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1591,52 +1591,52 @@ Context observed (UTC)    : 2026-10-31 18:37:57Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 45
-Unique tracks             : 26
-Unique artists            : 8
-Replay ratio              : ████████░░░░░░░░░░  42.2%
-Artist diversity          : ███░░░░░░░░░░░░░░░  17.8%
+Observed events           : 46
+Unique tracks             : 27
+Unique artists            : 9
+Replay ratio              : ███████░░░░░░░░░░░  41.3%
+Artist diversity          : ████░░░░░░░░░░░░░░  19.6%
 Dominant artist           : Soundgarden
-Dominant artist share     : █████████████░░░░░  73.3%
-Artist switch ratio       : █████░░░░░░░░░░░░░  27.3%
+Dominant artist share     : █████████████░░░░░  71.7%
+Artist switch ratio       : █████░░░░░░░░░░░░░  28.9%
 Longest artist streak     : Soundgarden × 16
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███░░░░░░░░░░░░░░░   17.8%
-Morning    06–12           : ██████░░░░░░░░░░░░   33.3%
-Afternoon  12–18           : ████████░░░░░░░░░░   46.7%
+Night      00–06           : ███░░░░░░░░░░░░░░░   17.4%
+Morning    06–12           : ██████░░░░░░░░░░░░   32.6%
+Afternoon  12–18           : █████████░░░░░░░░░   47.8%
 Evening    18–24           : ░░░░░░░░░░░░░░░░░░    2.2%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-11-04 05:51:32Z
-History last play (7d)    : 2026-11-09 20:28:10Z
-Observed time span        : 134:36:38
-Mean inter-play gap       : 03:03:34
+History last play (7d)    : 2026-11-09 20:42:55Z
+Observed time span        : 134:51:23
+Mean inter-play gap       : 02:59:49
 Median inter-play gap     : 00:05:10
 Longest inactivity gap    : 59:52:52
-Listening intensity       : 0.33 tracks/hour
+Listening intensity       : 0.34 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :        ▄    ▁█  ▁▃      
+Heatmap (24h)             :        ▄    ▁█  ▁▄      
 Heatmap (7d)              :   ▁▁ ▄▂█    ▁▇  ▁▅▁     
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : █ ▄  ▃ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :           ▁▁      ▄█▅ ▁ ▁  ▁ ▃
+Activity trend (30d)      :          ▁▁      ▄█▅ ▁ ▁  ▁ ▃ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :        ▄    ▁█  ▁▃      
+Mon                       :        ▄    ▁█  ▁▄      
 Tue                       :                         
 Wed                       :   ▁  █           ▄▁     
 Thu                       :                         
@@ -1647,15 +1647,15 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 23
+Tracks played (last 24h)  : 24
 Dominant artist           : Soundgarden
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-02 20:50:36Z → 2026-11-09 20:50:36Z
-Tracks played (7d)        : 45
+Week window (UTC)         : 2026-11-03 04:10:28Z → 2026-11-10 04:10:28Z
+Tracks played (7d)        : 46
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1664,29 +1664,29 @@ SESSION ESTIMATES (inferred)
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 3
 Sessions (7d)             : 10
-Avg inter-play gap        : 03:03:34
+Avg inter-play gap        : 02:59:49
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(21) | grunge(20) | hard rock(18) | alternative metal(1) | groove metal(1) | latin alternative(1)
 Top genres (7d)           : post-grunge(38) | grunge(37) | hard rock(33) | britpop(3) | ambient jazz(2) | free jazz(2)
-Artist lookups (this run) : 2 (cached)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Soundgarden — Overfloater → Helmet — Give It
-Playback timestamp Δ      : 2026-11-07 10:27:24Z → 2026-11-09 20:28:10Z
+Track transition          : Helmet — Give It → Morphine — Buena
+Playback timestamp Δ      : 2026-11-09 20:28:10Z → 2026-11-09 20:42:55Z
 State transition          : NO CHANGE
-Telemetry interval        : 10:54:54
+Telemetry interval        : 07:19:52
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 734
+Events retained           : 735
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-09 17:28:10 -03
-Events (24h)              : 23
-Events (7d)               : 45
-Events (30d)              : 242
+Newest retained event     : 2026-11-09 17:42:55 -03
+Events (24h)              : 24
+Events (7d)               : 46
+Events (30d)              : 243
 Playlist contexts retained: 142
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-09 20:50:36Z
+Report generated (UTC)    : 2026-11-10 04:10:28Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
