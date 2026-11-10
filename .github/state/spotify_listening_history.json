@@ -1,8 +1,98 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-10 04:10:28Z",
+  "updated_utc": "2026-11-10 12:46:20Z",
   "events": [
+    {
+      "track": "Matchbox Twenty — 3AM",
+      "artist": "Matchbox Twenty",
+      "title": "3AM",
+      "album": "Yourself or Someone Like You",
+      "uri": "spotify:track:5vYA1mW9g2Coh1HUFUSmlb",
+      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb",
+      "artist_ids": [
+        "3Ngh2zDBRPEriyxQDAMKd1"
+      ],
+      "played_at_utc": "2026-11-10 11:32:35Z",
+      "played_at_local": "2026-11-10 08:32:35 -03",
+      "local_hour": 8,
+      "weekday": 1,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:3Ngh2zDBRPEriyxQDAMKd1",
+      "context_url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+    },
+    {
+      "track": "Matchbox Twenty — Push",
+      "artist": "Matchbox Twenty",
+      "title": "Push",
+      "album": "Yourself or Someone Like You",
+      "uri": "spotify:track:2KVwlelhxKUy8LVV6JypH3",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3",
+      "artist_ids": [
+        "3Ngh2zDBRPEriyxQDAMKd1"
+      ],
+      "played_at_utc": "2026-11-10 11:28:53Z",
+      "played_at_local": "2026-11-10 08:28:53 -03",
+      "local_hour": 8,
+      "weekday": 1,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:3Ngh2zDBRPEriyxQDAMKd1",
+      "context_url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+    },
+    {
+      "track": "Chevelle — Wonder What's Next",
+      "artist": "Chevelle",
+      "title": "Wonder What's Next",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:7hOgnx2HOJ1KBdv0U0n1T3",
+      "url": "https://open.spotify.com/track/7hOgnx2HOJ1KBdv0U0n1T3",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-11-10 11:24:23Z",
+      "played_at_local": "2026-11-10 08:24:23 -03",
+      "local_hour": 8,
+      "weekday": 1,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Chevelle — The Red",
+      "artist": "Chevelle",
+      "title": "The Red",
+      "album": "Wonder What's Next (Expanded Edition)",
+      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "artist_ids": [
+        "56dO9zeHKuU5Gvfc2kxHNw"
+      ],
+      "played_at_utc": "2026-11-10 10:44:36Z",
+      "played_at_local": "2026-11-10 07:44:36 -03",
+      "local_hour": 7,
+      "weekday": 1,
+      "context_type": "album",
+      "context_uri": "spotify:album:481JiVXZYUlTtqlv9ewJXV",
+      "context_url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+    },
+    {
+      "track": "Morphine — Buena",
+      "artist": "Morphine",
+      "title": "Buena",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:2SSBJhvMsujY94GK5JAtKs",
+      "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-10 03:36:33Z",
+      "played_at_local": "2026-11-10 00:36:33 -03",
+      "local_hour": 0,
+      "weekday": 1,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:3QgSmABpItIdj908ek80n5",
+      "context_url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+    },
     {
       "track": "Morphine — Buena",
       "artist": "Morphine",
