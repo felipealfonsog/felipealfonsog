@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-10 11:32:35Z
 Played at (local)         : 2026-11-10 08:32:35 -03
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 22:02:30
+Time since play           : 30:23:29
 Gap from previous play    : 00:03:42
 ------------------------------------------------------------
 Previous song             : Matchbox Twenty — Push
@@ -1622,9 +1622,9 @@ Listening intensity       : 0.33 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :        ▃█               
+Heatmap (24h)             : N/A
 Heatmap (7d)              : ▁  ▁  ▂█▂   ▁▇  ▁▅▁     
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : Matchbox Twenty
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-04 09:35:05Z → 2026-11-11 09:35:05Z
+Week window (UTC)         : 2026-11-04 17:56:03Z → 2026-11-11 17:56:03Z
 Tracks played (7d)        : 44
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -1662,13 +1662,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
+Sessions (24h)            : N/A
 Sessions (7d)             : 11
 Avg inter-play gap        : 03:08:14
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(4) | alternative metal(2) | nu metal(2)
+Top genres (24h)          : N/A
 Top genres (7d)           : post-grunge(36) | grunge(31) | hard rock(29) | alternative metal(3) | britpop(3) | nu metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:36:14
+Telemetry interval        : 08:20:59
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 740
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-10 08:32:35 -03
-Events (24h)              : 4
+Events (24h)              : 0
 Events (7d)               : 44
 Events (30d)              : 247
 Playlist contexts retained: 142
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-11 09:35:05Z
+Report generated (UTC)    : 2026-11-11 17:56:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
