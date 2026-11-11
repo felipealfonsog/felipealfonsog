@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-10 11:32:35Z
 Played at (local)         : 2026-11-10 08:32:35 -03
 Local hour                : 08:00
 Daypart                   : MORNING
-Time since play           : 09:21:01
+Time since play           : 14:26:16
 Gap from previous play    : 00:03:42
 ------------------------------------------------------------
 Previous song             : Matchbox Twenty — Push
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-03 20:53:36Z → 2026-11-10 20:53:36Z
+Week window (UTC)         : 2026-11-04 01:58:51Z → 2026-11-11 01:58:51Z
 Tracks played (7d)        : 51
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 08:07:16
+Telemetry interval        : 05:05:15
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-10 20:53:36Z
+Report generated (UTC)    : 2026-11-11 01:58:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
